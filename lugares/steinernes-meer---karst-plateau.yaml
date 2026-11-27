@@ -1,0 +1,752 @@
+id: steinernes-meer---karst-plateau
+estado_editorial: valoracion-revisada
+nombre:
+  es: Steinernes Meer - Mar de Piedra
+  en: Steinernes Meer - Sea of Stone
+  fr: Steinernes Meer - Mer de Pierre
+  de: Steinernes Meer - Karsthochfläche
+  it: Steinernes Meer - Mare di Pietra
+  pt: Steinernes Meer - Mar de Pedra
+nombre_original: Steinernes Meer - Karst Plateau
+alias:
+  - Steinernes Meer Karst Plateau (Steinernes Meer)
+paises:
+  - DE
+  - AT
+region:
+  es: Baviera (DE) / Salzburgo (Saalfelden / Maria Alm) (AT)
+  en: Bavaria (DE) / Salzburg (Saalfelden / Maria Alm) (AT)
+  fr: Bavière (DE) / Salzbourg (Saalfelden / Maria Alm) (AT)
+  de: Bayern (DE) / Salzburg (Saalfelden / Maria Alm) (AT)
+  it: Baviera (DE) / Salisburgo (Saalfelden / Maria Alm) (AT)
+  pt: Baviera (DE) / Salzburgo (Saalfelden / Maria Alm) (AT)
+ubicacion:
+  tipo: punto
+  lat: 47.48
+  lon: 12.92
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: relation/2110418
+  nombre_en_la_fuente: Steinernes Meer
+  capa: capas/osm/steinernes-meer---karst-plateau.geojson
+habitats:
+  - karst
+  - high_mountain
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - rupicapra_rupicapra
+  - lagopus_muta
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la travesía hacia el refugio Riemannhaus
+  en: Moderate along the crossing toward Riemannhaus hut
+  fr: Moyenne sur la traversée vers le refuge Riemannhaus
+  de: Mäßig auf dem Übergang zum Riemannhaus
+  it: Media lungo la traversata verso il rifugio Riemannhaus
+  pt: Média na travessia em direção ao refúgio Riemannhaus
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Nationalpark Berchtesgaden Steinernes Meer
+    url: https://www.nationalpark-berchtesgaden.bayern.de/
+  - titulo: Normas — Visita de Berchtesgaden
+    url: https://www.nationalpark-berchtesgaden.bayern.de/erlebnis/regeln_hinweise/verhaltensregeln/index.htm
+  - titulo: Avisos — Estado de los senderos
+    url: https://www.nationalpark-berchtesgaden.bayern.de/erlebnis/regeln_hinweise/begehbarkeit/index.htm
+  - titulo: Rutas — Senderismo en el parque
+    url: https://www.nationalpark-berchtesgaden.bayern.de/erlebnis/unterwegs/wandern/index.htm
+  - titulo: Accesos — Llegar a Berchtesgaden
+    url: https://www.nationalpark-berchtesgaden.bayern.de/service/anreise/index.htm
+resumen:
+  es: >-
+    El 'Mar de Piedra', una meseta caliza ondulada desértica a 2.000 m de altitud colgada entre Alemania y
+    Austria.
+  en: >-
+    The 'Sea of Stone', a vast undulating desert-like limestone plateau suspended at 2,000 m altitude
+    straddling Germany and Austria.
+  fr: >-
+    La 'Mer de Pierre', vaste haut-plateau karstique ondulé désertique perché à 2 000 m d'altitude à cheval
+    sur l'Allemagne et l'Autriche.
+  de: >-
+    Das 'Steinerne Meer', ein weitläufiges, wüstenhaft gewelltes Kalksteinplateau auf 2.000 m Höhe an der
+    Grenze zwischen Deutschland und Österreich.
+  it: >-
+    Il 'Mare di Pietra', un altopiano carsico ondulato e desertico sospeso a 2.000 m di quota a cavallo tra
+    Germania e Austria.
+  pt: >-
+    O 'Mar de Pedra', um vasto planalto cársico ondulado e desértico a 2.000 m de altitude suspenso entre a
+    Alemanha e a Áustria.
+unico:
+  es: >-
+    Una meseta de caliza agujereada por unas 800 cuevas, con el lugar más frío de Alemania en una de sus
+    cubetas.
+  en: >-
+    A high-altitude karst plateau riddled with some 800 known caves, featuring the coldest recorded depression
+    in Germany within one of its hollows.
+  fr: >-
+    Un plateau calcaire truffé de quelque 800 grottes répertoriées, abritant dans l'une de ses dépressions le
+    pôle du froid d'Allemagne.
+  de: >-
+    Ein von rund 800 Höhlen durchzogenes Karstplateau, das in einer seiner Dolinen den kältesten Punkt
+    Deutschlands beherbergt.
+  it: >-
+    Un altopiano calcareo traforato da circa 800 grotte, che racchiude in una conca il punto più freddo di
+    tutta la Germania.
+  pt: >-
+    Um planalto de calcário perfurado por cerca de 800 grutas, que alberga numa das suas bacias o ponto mais
+    frio da Alemanha.
+observaciones:
+  es: >-
+    En el sector del parque nacional está prohibido encender fuego y hacer ruido. Los perros deben ir con
+    correa, hay que seguir los senderos sin atajos ni campo a través y no se debe molestar a los animales.
+    Planifica según tu capacidad, el tiempo y las horas de luz: las salidas largas o difíciles requieren buena
+    condición física, ausencia de vértigo y pie firme.
+texto:
+  es:
+    intro: >-
+      Cincuenta cumbres, casi todas entre 2.000 y 2.600 metros, y casi ninguna que destaque sobre las demás:
+      eso es el Steinernes Meer, el Mar de Piedra. Es un macizo kárstico de unos 160 km², el mayor de los
+      Alpes de Berchtesgaden, y 55 de esos kilómetros cuadrados quedan por encima de los 2.000 metros. Se
+      reparte entre Baviera y Salzburgo: la parte bávara pertenece al Parque Nacional de Berchtesgaden y la
+      austriaca a la reserva Kalkhochalpen. Por eso lo que ves desde arriba no es una cresta, sino una meseta
+      ondulada de roca clara, con las cumbres más altas, el Selbhorn (2.655 m) y la Schönfeldspitze (2.653 m),
+      en su borde sur.
+    landscape: >-
+      El Dachsteinkalk y las formas kársticas mandan en el paisaje. La meseta de más de 2.000 metros desciende
+      de sur a norte; al sur, el macizo cae en picado sobre la cuenca de Saalfelden, y al pie de sus paredes
+      norte se abre el lago Königssee. De ahí que el Mar de Piedra se vea de maneras tan distintas según el
+      lado por el que llegues.
+
+
+      Bajo esa superficie hay otra montaña. Se han registrado unas 800 cuevas, y una de ellas, la
+      Kolkbläser-Monsterhöhle, es un sistema gigante de 44,5 km de longitud y 723 m de profundidad conocidas.
+      La Schindlkopfhöhle queda al este del Schindlkopf, en el sector de la Ingolstädter Haus. En su sala de
+      hielo entra la luz del día, porque es el fondo de una gran dolina cuyo techo se derrumbó. La mayor cueva
+      del lado alemán, la Salzgrabenhöhle, no se visita: la administración del parque nacional la mantiene
+      cerrada.
+
+
+      En una cubeta en medio del macizo está el Funtensee, conocido como el polo del frío de Alemania. Y más
+      abajo, en la parte del parque nacional, el paisaje cambia con la altura: sobre el bosque subalpino
+      vienen el pino mugo, los matorrales de aliso verde y sauce, los brezales enanos, los pastos alpinos y
+      los neveros. En las paredes del Königssee crecen tejos, restos de un antiguo bosque de tejo y haya.
+    wildlife: >-
+      En la parte bávara, los hábitats del Parque Nacional de Berchtesgaden dan contexto a la fauna de estas
+      montañas. El [rebeco](/especie/rupicapra_rupicapra/), el corzo y el ciervo son los grandes herbívoros
+      del parque, y el [íbice](/especie/capra_ibex/) es otra especie característica: se reintrodujo en 1936,
+      tras extinguirse en Alemania a principios del siglo XVIII. En los pastos y las alturas, la [marmota
+      alpina](/especie/marmota_marmota/) se ve con regularidad. Y en las zonas rocosas viven la [perdiz
+      nival](/especie/lagopus_muta/), el gorrión alpino y el [treparriscos](/especie/tichodroma_muraria/).
+
+
+      Las rapaces también forman parte de la fauna del parque nacional. El [águila
+      real](/especie/aquila_chrysaetos/) es un ave característica del conjunto del parque. En otro sector, el
+      valle de Klausbach, los guardas montan en invierno un punto de alimentación de águilas reales: sirve
+      para mostrárselas a los visitantes sin molestarlas, y con suerte y paciencia se las puede ver comer en
+      directo. Desde 2021 se sueltan allí cada año [quebrantahuesos](/especie/gypaetus_barbatus/) jóvenes, en
+      un proyecto internacional para reintroducirlos en los Alpes.
+
+
+      En los bosques del conjunto del parque, el [urogallo](/especie/tetrao_urogallus/) y el grévol se
+      benefician de la riqueza de estructura; en el límite del arbolado se ve con regularidad el [gallo
+      lira](/especie/tetrao_tetrix/). Entre los anfibios y reptiles hay salamandra alpina y común, tritón
+      alpino, lagartija y víbora. El oso, el lobo y el lince desaparecieron en el siglo XIX de los Alpes de
+      Berchtesgaden y aún no han vuelto de forma permanente, aunque pueden aparecer ejemplares de paso.
+
+
+      La mejor época va de junio a octubre. En invierno, la historia cambia: gran parte de la red de senderos
+      es terreno alpino y no se puede recorrer sin equipo especial y experiencia alpina.
+    visit: >-
+      La travesía clásica cruza el macizo de sur a norte por el Riemannhaus y el Kärlingerhaus, siguiendo el
+      camino de peregrinación. Cuatro refugios del Club Alpino dan servicio al oeste del macizo, y en el lado
+      alemán está el Kärlingerhaus (1630 m), junto al Funtensee.
+
+
+      Al Kärlingerhaus se sube desde la parada de barco de Salet, en el Königssee, por el Sagerecksteig, o
+      desde St. Bartholomä por la Saugasse. Esta última subida recorre 10,0 km, con 1111 m de ascenso y unas
+      cinco horas de marcha; está clasificada como difícil. Por el lado austriaco, al Riemannhaus se llega
+      desde Saalfelden por el Ramseider Steig o desde Maria Alm por la Sandten.
+
+
+      Solo unas veinte cumbres tienen sendero marcado, así que el uso turístico se concentra en pocos destinos
+      y otras cumbres apenas se pisan. La Schönfeldspitze, en el borde sur del lado de Pinzgau, es la más
+      reconocible.
+
+
+      Para entender el parque antes de subir, el Haus der Berge, en Berchtesgaden, es su centro principal:
+      tiene un centro de información, uno de educación y una zona exterior, con un sendero panorámico que
+      enseña la flora y la fauna de cuatro hábitats: agua, bosque, pasto alpino y roca. Además hay otros seis
+      puntos de información dentro del parque, de entrada gratuita.
+    history: >-
+      La peregrinación de Almer, con historia desde el siglo XVII, atraviesa el macizo de sur a norte para ir
+      de Maria Alm a St. Bartholomä el sábado posterior al 24 de agosto. El camino se construyó con esmero con
+      piedra local, aunque su estado de conservación hoy es muy desigual.
+
+
+      Desde 1991 el parque nacional, de 20.808 hectáreas, forma junto a su entorno una reserva de la biosfera
+      de la UNESCO, y el Parque Nacional de Berchtesgaden, de 1978, fue el segundo de Alemania. En invierno,
+      el parque señala zonas de refugio de fauna en el bosque y recomienda rutas de esquí y raquetas que las
+      evitan, para no molestar a los animales.
+    before: >-
+      En el sector del parque nacional está prohibido encender fuego y hacer ruido. Los perros deben ir con
+      correa, hay que seguir los senderos sin atajos ni campo a través y no se debe molestar a los animales.
+      Planifica según tu capacidad, el tiempo y las horas de luz: las salidas largas o difíciles requieren
+      buena condición física, ausencia de vértigo y pie firme.
+    around: >-
+      El [Parque Nacional Berchtesgaden - Macizo de
+      Hagengebirge](/lugar/nationalpark-berchtesgaden---hagengebirge/) está a unos 2 km y completa el mismo
+      parque nacional. A 20 km queda el [Tennengebirge](/lugar/tennengebirge---karst-plateau/), otra meseta
+      kárstica. Más lejos, el [Totes Gebirge](/lugar/totes-gebirge---karst-desert/) comparte con el Mar de
+      Piedra el karst, la alta montaña, el rebeco y la perdiz nival.
+  en:
+    intro: >-
+      Fifty summits, almost all rising between 2,000 and 2,600 meters with barely any towering markedly above
+      the others: that is the Steinernes Meer, the Sea of Stone. It is a vast limestone massif of some 160
+      km², the largest plateau in the Berchtesgaden Alps, with 55 of those square kilometers lying above 2,000
+      meters elevation. It spans the frontier between Bavaria and Salzburg: the Bavarian sector lies within
+      Berchtesgaden National Park, while the Austrian sector forms the Kalkhochalpen nature reserve. Seen from
+      above, you behold not a jagged crest, but an undulating lunar plateau of pale karst bedrock, anchored by
+      its highest ramparts, the Selbhorn (2,655 m) and Schönfeldspitze (2,653 m), along its southern
+      precipice.
+    landscape: >-
+      Dachsteinkalk limestone and alpine karst landforms sculpt the scenery. The plateau above 2,000 meters
+      tilts from south to north; to the south it drops precipitously into the Saalfelden basin, while beneath
+      its sheer northern walls lies the fjord-like lake Königssee. Consequently, the Steinernes Meer presents
+      contrasting faces depending on your approach.
+
+
+      Beneath this barren pavement lies a subterranean realm. Naturalists have documented some 800 caves,
+      among which the Kolkbläser-Monsterhöhle system forms a colossal labyrinth with 44.5 km of explored
+      passages and a depth of 723 m. The Schindlkopfhöhle lies east of Schindlkopf near the Ingolstädter Haus;
+      daylight penetrates its ice chamber because the ceiling of a massive sinkhole collapsed. The largest
+      cave system on the German side, the Salzgrabenhöhle, remains strictly closed to visitors by park
+      authorities.
+
+
+      In a frost hollow in the heart of the plateau sits the Funtensee, renowned as Germany's pole of cold.
+      Lower down within the national park, vegetation zones shift with elevation: above the subalpine spruce
+      woods come dwarf mountain pines, green alder and willow thickets, dwarf shrub heaths, alpine meadows,
+      and perennial snowfields. Along the cliffs of the Königssee grow relic yew stands, survivors of ancient
+      yew-beech woodlands.
+    wildlife: >-
+      In the Bavarian sector, Berchtesgaden National Park provides a protected haven for high-alpine fauna.
+      [Chamois](/especie/rupicapra_rupicapra/), roe deer, and red deer represent the primary herbivores, while
+      the [Alpine ibex](/especie/capra_ibex/) is another signature species: re-established here in 1936
+      following regional extirpation in Germany during the early XVIII century. Across alpine pastures and
+      boulder fields, the [Alpine marmot](/especie/marmota_marmota/) is commonly spotted. Rocky crevices and
+      limestone walls shelter [rock ptarmigan](/especie/lagopus_muta/), white-winged snowfinch, and the
+      acrobatic [wallcreeper](/especie/tichodroma_muraria/).
+
+
+      Raptors are well represented across the massif. The [golden eagle](/especie/aquila_chrysaetos/) serves
+      as an iconic resident throughout the national park. In the neighboring Klausbachtal, park rangers
+      operate a winter feeding station where visitors can observe golden eagles without disturbance. Since
+      2021, young [bearded vultures](/especie/gypaetus_barbatus/) have been released annually as part of an
+      international Alps reintroduction program.
+
+
+      Throughout the lower forests, [western capercaillie](/especie/tetrao_urogallus/) and hazel grouse
+      benefit from rich forest structure, while [black grouse](/especie/tetrao_tetrix/) display along the
+      subalpine timberline. Amphibians and reptiles include alpine and fire salamanders, alpine newts, common
+      lizards, and adders. Brown bear, wolf, and Eurasian lynx disappeared during the XIX century from the
+      Berchtesgaden Alps, though transient individuals occasionally wander through.
+
+
+      The premier trekking season extends from June to October. In winter the plateau becomes an extreme
+      alpine environment inaccessible without specialized mountaineering equipment and avalanche safety
+      expertise.
+    visit: >-
+      The classic traverse crosses the plateau from south to north past the Riemannhaus and Kärlingerhaus,
+      following historic pilgrimage ways. Four Alpine Club huts provide shelter across the western massif,
+      with the Kärlingerhaus (1630 m) situated on the German side beside the Funtensee.
+
+
+      You can reach the Kärlingerhaus from the boat landing at Salet on the Königssee via the steep
+      Sagerecksteig, or from St. Bartholomä up the infamous Saugasse. This latter route spans 10.0 km with
+      1111 m of ascent, taking roughly five hours of sustained hiking, rated as difficult. On the Austrian
+      side, the Riemannhaus is reached from Saalfelden via the Ramseider Steig or from Maria Alm through the
+      Sandten gorge.
+
+
+      Only about twenty peaks have marked trails, concentrating foot traffic on designated routes while vast
+      limestone stretches remain completely solitary. The pyramid of the Schönfeldspitze on the southern rim
+      is the most iconic landmark.
+
+
+      To understand the ecology before ascending, visit the Haus der Berge in Berchtesgaden: it features an
+      interactive exhibition, environmental education center, and an outdoor panorama trail displaying flora
+      and fauna of four alpine habitats: water, forest, alpine meadow, and rock. Six additional visitor
+      information points operate free of charge within the park.
+    history: >-
+      The historic Almer Wallfahrt pilgrimage, dating back to the XVII century, crosses the limestone plateau
+      from south to north from Maria Alm to St. Bartholomä on the Saturday following 24 August. The trail was
+      carefully constructed with local limestone, though preservation varies across the exposed karst.
+
+
+      Since 1991 the national park, encompassing 20,808 hectares, forms together with its surroundings a
+      UNESCO Biosphere Reserve; Berchtesgaden National Park itself, designated in 1978, was Germany's second
+      national park. In winter, park authorities delineate designated wildlife quiet zones in the forests and
+      recommend ski touring and snowshoe corridors that circumvent these sanctuaries.
+    before: >-
+      Within the national park, open fires and unnecessary noise are strictly prohibited. Dogs must be kept on
+      a leash, hikers must keep to established paths without taking shortcuts, and wildlife must not be
+      disturbed. Plan according to weather, fitness, and daylight: long or demanding tours require alpine
+      experience, sure-footedness, and freedom from vertigo.
+    around: >-
+      [Berchtesgaden National Park - Hagengebirge Massif](/lugar/nationalpark-berchtesgaden---hagengebirge/)
+      lies about 2 km away, forming the adjoining eastern plateau of the park. At 20 km stands the
+      [Tennengebirge](/lugar/tennengebirge---karst-plateau/), another monumental karst plateau. Farther east,
+      the [Totes Gebirge](/lugar/totes-gebirge---karst-desert/) shares extensive karst barrens, chamois, and
+      rock ptarmigan.
+  fr:
+    intro: >-
+      Cinquante sommets, presque tous compris entre 2 000 et 2 600 mètres d'altitude sans qu'aucun ne domine
+      nettement les autres : voilà le Steinernes Meer, la Mer de Pierre. Ce massif karstique d'environ 160 km²
+      est le plus étendu des Alpes de Berchtesgaden, et 55 de ces kilomètres carrés s'élèvent au-dessus de 2
+      000 mètres. Il se partage entre Bavière et Salzbourg : le versant bavarois appartient au parc national
+      de Berchtesgaden et le versant autrichien à la réserve naturelle des Kalkhochalpen. Ce qui s'offre au
+      regard depuis les hauteurs n'est pas une arête, mais un plateau ondulé de calcaire clair, bordé au sud
+      par ses plus hauts bastions, le Selbhorn (2 655 m) et la Schönfeldspitze (2 653 m).
+    landscape: >-
+      Le calcaire du Dachstein et l'érosion karstique règnent en maîtres. Le haut plateau perché à plus de 2
+      000 mètres s'incline du sud vers le nord ; au sud, le massif plonge à pic sur le bassin de Saalfelden,
+      tandis qu'au pied de ses murailles septentrionales s'étire le Königssee. Le paysage varie ainsi du tout
+      au tout selon le versant d'accès.
+
+
+      Sous ce pavage minéral s'ouvre un autre monde. On y dénombre quelque 800 cavités, dont le réseau
+      Kolkbläser-Monsterhöhle, un gouffre géant de 44,5 km de galeries explorées pour 723 m de profondeur. La
+      Schindlkopfhöhle s'ouvre à l'est du Schindlkopf près de l'Ingolstädter Haus : la lumière du jour éclaire
+      sa salle de glace en raison de l'effondrement de la voûte d'une doline. La plus vaste grotte du côté
+      allemand, la Salzgrabenhöhle, demeure fermée au public par décision du parc.
+
+
+      Dans une cuvette au cœur du massif se loge le Funtensee, célèbre pôle du froid hivernal d'Allemagne.
+      Plus bas, dans l'enceinte du parc national, la végétation s'étage avec l'altitude : au-dessus des
+      pessières subalpines viennent pins mugos, aulnes verts et saulaies naines, landes alpines et névés. Sur
+      les falaises du Königssee subsistent des ifs séculaires, reliques d'anciennes forêts mixtes.
+    wildlife: >-
+      Côté bavarois, les milieux préservés du parc national de Berchtesgaden abritent une riche faune alpine.
+      Le [chamois](/especie/rupicapra_rupicapra/), le chevreuil et le cerf élaphe constituent les grands
+      herbivores réguliers, tandis que le [bouquetin des Alpes](/especie/capra_ibex/) forme une population
+      emblématique : réintroduit en 1936 après son extinction en Allemagne au début du XVIIIe siècle. Dans les
+      alpages et pierriers, la [marmotte des Alpes](/especie/marmota_marmota/) s'observe fréquemment. Les
+      falaises et crêtes abritent le [lagopède alpin](/especie/lagopus_muta/), la niverolle alpine et le
+      [tichodrome échelette](/especie/tichodroma_muraria/).
+
+
+      Les rapaces peuplent également le massif. L'[aigle royal](/especie/aquila_chrysaetos/) est un résident
+      régulier du parc. Dans la vallée voisine de Klausbach, les gardes installent en hiver un point
+      d'affouragement pour les aigles royaux, permettant de les contempler sans les perturber. Depuis 2021,
+      des jeunes [gypaètes barbus](/especie/gypaetus_barbatus/) y sont relâchés chaque année dans le cadre
+      d'un programme international de réintroduction dans les Alpes.
+
+
+      Dans les forêts périphériques, le [grand tétras](/especie/tetrao_urogallus/) et la gélinotte tirent
+      profit du bois mort, tandis que le [tétras lyre](/especie/tetrao_tetrix/) fréquente la limite des
+      arbres. Parmi les reptiles et amphibiens figurent salamandre noire, salamandre tachetée, triton
+      alpestre, lézard vivipare et vipère péliade. Ours, loup et lynx ont disparu au XIXe siècle des Alpes de
+      Berchtesgaden, même si des individus isolés peuvent traverser le secteur.
+
+
+      La saison optimale va de juin à octobre. En hiver, les itinéraires deviennent de haute montagne et
+      exigent expérience alpine et équipement spécifique.
+    visit: >-
+      La traversée classique franchit le massif du sud au nord par la Riemannhaus et la Kärlingerhaus, sur les
+      traces d'un chemin de pèlerinage historique. Quatre refuges de club alpin desservent l'ouest du massif,
+      dont la Kärlingerhaus (1630 m) côté allemand au bord du Funtensee.
+
+
+      On accède à la Kärlingerhaus depuis l'embarcadère de Salet sur le Königssee par le Sagerecksteig, ou
+      depuis St. Bartholomä par la rude gorge de la Saugasse. Ce dernier itinéraire parcourt 10,0 km avec 1111
+      m de dénivelé pour environ cinq heures de marche, classé difficile. Côté autrichien, on monte à la
+      Riemannhaus depuis Saalfelden par le Ramseider Steig ou depuis Maria Alm par la combe du Sandten.
+
+
+      Seule une vingtaine de sommets disposent de sentiers balisés, canalisant les marcheurs vers quelques
+      grands axes et laissant les autres cimes dans un isolement complet. La Schönfeldspitze, sur la bordure
+      sud, est le sommet le plus reconnaissable.
+
+
+      Pour préparer la visite, la Maison des montagnes (Haus der Berge) à Berchtesgaden propose un centre
+      d'interprétation, un pôle éducatif et un parcours extérieur présentant la faune et la flore de quatre
+      milieux alpins : eau, forêt, alpage et roche. Six autres points d'information gratuits jalonnent le
+      parc.
+    history: >-
+      Le pèlerinage historique d'Almer, attesté depuis le XVIIe siècle, traverse le massif du sud au nord de
+      Maria Alm à St. Bartholomä le samedi suivant le 24 août. Le chemin muletier fut pavé de blocs de
+      calcaire local, bien que son état de conservation soit aujourd'hui inégal.
+
+
+      Depuis 1991, le parc national de 20 808 hectares forme avec sa zone périphérique une réserve de
+      biosphère de l'UNESCO ; le parc national de Berchtesgaden, institué en 1978, fut le second d'Allemagne.
+      En hiver, le parc délimite des zones de quiétude pour la faune et balise des itinéraires de ski de
+      randonnée pour éviter tout dérangement.
+    before: >-
+      Dans le parc national, les feux et le bruit excessif sont interdits. Les chiens doivent être tenus en
+      laisse, il convient de rester sur les sentiers sans couper et de respecter la faune. Évaluez vos sorties
+      selon votre condition, la météo et la luminosité : les parcours longs exigent pied sûr et absence de
+      vertige.
+    around: >-
+      Le [parc national de Berchtesgaden - Massif du
+      Hagengebirge](/lugar/nationalpark-berchtesgaden---hagengebirge/) se trouve à environ 2 km et prolonge le
+      même ensemble montagnard. À 20 km s'élève le [Tennengebirge](/lugar/tennengebirge---karst-plateau/),
+      autre plateau karstique remarquable. Plus loin, le [Totes Gebirge](/lugar/totes-gebirge---karst-desert/)
+      partage hauts plateaux de calcaire, chamois et lagopède alpin.
+  de:
+    intro: >-
+      Fünfzig Gipfel, fast alle zwischen 2.000 und 2.600 Metern Höhe, von denen kaum einer die Nachbarn
+      markant überragt: Das ist das Steinerne Meer. Es ist ein verkarstetes Gebirgsmassiv von rund 160 km²
+      Fläche, das größte der Berchtesgadener Alpen, und 55 dieser Quadratkilometer liegen oberhalb von 2.000
+      Metern. Das Massiv teilt sich auf Bayern und Salzburg auf: Der bayerische Teil gehört zum Nationalpark
+      Berchtesgaden, der österreichische zum Naturschutzgebiet Kalkhochalpen. Von oben blickt man nicht auf
+      einen Grat, sondern auf eine gewellte Hochfläche aus hellem Kalkfels, gesäumt von den höchsten Gipfeln
+      Selbhorn (2.655 m) und Schönfeldspitze (2.653 m) am Südrand.
+    landscape: >-
+      Dachsteinkalk und alpine Karstformen bestimmen die Szenerie. Das über 2.000 Meter hohe Plateau dacht
+      sich von Süden nach Norden ab; nach Süden bricht das Massiv steil zum Saalfeldener Becken ab, während
+      sich am Fuß seiner Nordwände der Königssee erstreckt. Daher zeigt sich das Steinerne Meer je nach
+      Anstiegsseite von völlig unterschiedlichem Charakter.
+
+
+      Unter der Felsoberfläche verbirgt sich eine unterirdische Welt. Rund 800 Höhlen sind erfasst; das
+      Kolkbläser-Monsterhöhle-System bildet ein gigantisches Labyrinth mit 44,5 km vermessener Ganglänge und
+      723 m Tiefe. Die Schindlkopfhöhle liegt östlich des Schindlkopfs nahe dem Ingolstädter Haus; in ihre
+      Eishalle dringt Tageslicht, weil die Decke einer großen Doline einbrach. Das größte Höhlensystem der
+      deutschen Seite, die Salzgrabenhöhle, bleibt für die Öffentlichkeit verschlossen.
+
+
+      In einer Mulde inmitten des Massivs liegt der Funtensee, berühmt als Kältepol Deutschlands. Weiter unten
+      im Nationalpark staffeln sich die Vegetationsstufen: Über dem Bergmischwald folgen Bergkiefern,
+      Grünerlengebüsche, Zwergstrauchheiden, alpine Rasen und Schneetälchen. An den Felswänden des Königssees
+      wachsen alte Eibenbestände als Relikte historischer Eiben-Buchenwälder.
+    wildlife: >-
+      Im bayerischen Sektor bietet der Nationalpark Berchtesgaden intakte Lebensräume.
+      [Gämse](/especie/rupicapra_rupicapra/), Reh und Rothirsch bilden die großen Pflanzenfresser, während der
+      [Alpensteinbock](/especie/capra_ibex/) eine Leitart darstellt: Er wurde 1936 wiederangesiedelt, nachdem
+      er Anfang des XVIII. Jahrhunderts in Deutschland ausgerottet worden war. Auf den Matten ist das
+      [Alpenmurmeltier](/especie/marmota_marmota/) regelmäßig zu sehen. Felswände und Kare beherbergen
+      [Alpenschneehuhn](/especie/lagopus_muta/), Schneesperling und den akrobatischen
+      [Mauerläufer](/especie/tichodroma_muraria/).
+
+
+      Auch Greifvögel sind fester Bestandteil des Gebirges. Der [Steinadler](/especie/aquila_chrysaetos/) ist
+      im gesamten Nationalpark heimisch. Im benachbarten Klausbachtal unterhalten Ranger im Winter einen
+      Fütterungsplatz, an dem Besucher Steinadler beobachten können. Seit 2021 werden dort alljährlich junge
+      [Bartgeier](/especie/gypaetus_barbatus/) im Rahmen des internationalen Alpen-Wiederansiedlungsprojekts
+      ausgewildert.
+
+
+      In den Wäldern profitieren [Auerhuhn](/especie/tetrao_urogallus/) und Haselhuhn von reich strukturierter
+      Vegetation; an der Baumgrenze balzt das [Birkhuhn](/especie/tetrao_tetrix/). Alpensalamander,
+      Feuersalamander, Alpentriton, Bergeidechse und Kreuzotter sind vertreten. Braunbär, Wolf und Luchs
+      verschwanden im XIX. Jahrhundert aus den Berchtesgadener Alpen, wenngleich einzelne Wandertiere
+      durchziehen können.
+
+
+      Beste Wanderzeit ist von Juni bis Oktober. Im Winter wandelt sich das Plateau in hochalpines Gelände,
+      das fundierte Lawinenkunde und Winterausrüstung erfordert.
+    visit: >-
+      Die klassische Durchquerung führt von Süden nach Norden über das Riemannhaus und das Kärlingerhaus
+      entlang des Pilgerwegs. Vier Alpenvereinshütten liegen im westlichen Massiv, darunter das Kärlingerhaus
+      (1630 m) auf bayerischer Seite am Funtensee.
+
+
+      Zum Kärlingerhaus steigt man von der Bootsanlegestelle Salet am Königssee über den Sagerecksteig oder
+      von St. Bartholomä durch die steile Saugasse auf. Letztere Route misst 10,0 km mit 1111 m
+      Höhenunterschied und erfordert rund fünf Stunden Gehzeit; sie ist als schwer eingestuft. Auf
+      österreichischer Seite erreicht man das Riemannhaus von Saalfelden über den Ramseider Steig oder von
+      Maria Alm durch die Sandten.
+
+
+      Nur etwa zwanzig Gipfel besitzen markierte Steige, sodass sich der Tourismus auf wenige Routen
+      konzentriert und viele Kare einsam bleiben. Die markante Schönfeldspitze am Südrand ist der bekannteste
+      Gipfel.
+
+
+      Zur Vorbereitung bietet das Haus der Berge in Berchtesgaden ein Bildungszentrum und einen Panoramaweg,
+      der Flora und Fauna von vier Lebensräumen zeigt: Wasser, Wald, Almen und Fels. Sechs weitere
+      Informationsstellen im Park stehen kostenlos offen.
+    history: >-
+      Die historische Almer Wallfahrt, urkundlich belegt seit dem XVII. Jahrhundert, quert das Steinerne Meer
+      von Süden nach Norden von Maria Alm nach St. Bartholomä am Samstag nach dem 24. August. Der Steig wurde
+      aus lokalem Kalkstein gebaut, weist heute jedoch wechselnde Erhaltungszustände auf.
+
+
+      Seit 1991 bildet der Nationalpark mit 20.808 Hektar Fläche zusammen mit seinem Vorfeld ein
+      UNESCO-Biosphärenreservat; der Nationalpark Berchtesgaden selbst wurde 1978 als zweiter Nationalpark
+      Deutschlands eingerichtet. Im Winter weist der Park Wildruhezonen aus und empfiehlt naturverträgliche
+      Skitourenrouten.
+    before: >-
+      Im Nationalpark sind offenes Feuer und Lärm verboten. Hunde müssen an die Leine, markierte Wege dürfen
+      nicht verlassen werden und Tiere dürfen nicht beunruhigt werden. Plane Touren nach Kondition und Wetter:
+      Lange alpine Touren erfordern Trittsicherheit und Schwindelfreiheit.
+    around: >-
+      Der [Nationalpark Berchtesgaden - Hagengebirge](/lugar/nationalpark-berchtesgaden---hagengebirge/) liegt
+      rund 2 km entfernt und schließt direkt an. In 20 km Entfernung ragt das
+      [Tennengebirge](/lugar/tennengebirge---karst-plateau/) als weiteres Karstmassiv auf. Weiter östlich
+      teilt das [Tote Gebirge](/lugar/totes-gebirge---karst-desert/) Karstplateaus, Gams und Alpenschneehuhn.
+  it:
+    intro: >-
+      Cinquanta vette, quasi tutte comprese tra 2.000 e 2.600 metri di quota senza che nessuna spicchi in modo
+      netto sulle altre: questo è lo Steinernes Meer, il Mare di Pietra. È un massiccio carsico di circa 160
+      km², il più esteso delle Alpi di Berchtesgaden, e 55 di questi chilometri quadrati si estendono sopra i
+      2.000 metri. Si divide tra Baviera e Salisburghese: il settore bavarese appartiene al Parco Nazionale di
+      Berchtesgaden, quello austriaco alla riserva naturale Kalkhochalpen. Dall'alto non si scorge una cresta
+      aguzza, ma un altopiano ondulato di calcare chiaro, coronato a sud dai suoi baluardi maggiori, il
+      Selbhorn (2.655 m) e la Schönfeldspitze (2.653 m).
+    landscape: >-
+      Il calcare di Dachstein e le forme carsiche d'alta quota dominano la scena. L'altopiano posto a oltre
+      2.000 metri digrada da sud a nord; a meridione precipita sulla conca di Saalfelden, mentre ai piedi
+      delle pareti settentrionali si stende il lago Königssee. Lo Steinernes Meer mostra così fisionomie
+      opposte a seconda del versante d'accesso.
+
+
+      Sotto la superficie si apre un intricato universo ipogeo. Sono state censite circa 800 grotte, tra cui
+      il sistema Kolkbläser-Monsterhöhle, un complesso titanico con 44,5 km di gallerie esplorate e 723 m di
+      profondità. La Schindlkopfhöhle sorge a est dello Schindlkopf presso l'Ingolstädter Haus: la luce
+      naturale penetra nella sua sala di ghiaccio a seguito del crollo della volta di una dolina. La caverna
+      più vasta del lato tedesco, la Salzgrabenhöhle, è tenuta chiusa al pubblico dalle autorità del parco.
+
+
+      In una depressione al centro del massiccio giace il Funtensee, noto come il polo del freddo della
+      Germania. Più in basso, nell'area protetta del parco nazionale, la vegetazione si scagliona con la
+      quota: sopra i boschi subalpini compaiono pino mugo, ontano verde e saliceti nani, brughiere d'alta
+      quota, pascoli alpini e nevai. Sulle rupi a picco sul Königssee allignano tassi secolari, relitti di
+      antiche foreste montane.
+    wildlife: >-
+      Sul versante bavarese, gli habitat del Parco Nazionale di Berchtesgaden tutelano una ricca fauna alpina.
+      Il [camoscio alpino](/especie/rupicapra_rupicapra/), il capriolo e il cervo nobile formano il nucleo dei
+      grandi erbivori, mentre lo [stambecco alpino](/especie/capra_ibex/) rappresenta una specie simbolo:
+      reintrodotto nel 1936 dopo la sua estinzione in Germania all'inizio del XVIII secolo. Nelle praterie e
+      pietraie la [marmotta alpina](/especie/marmota_marmota/) è osservata costantemente. Le pareti rocciose
+      ospitano la [pernice bianca](/especie/lagopus_muta/), il fringuello alpino e il [picchio
+      muraiolo](/especie/tichodroma_muraria/).
+
+
+      I rapaci sono ben attestati nel comprensorio. L'[aquila reale](/especie/aquila_chrysaetos/) è una
+      presenza stabile nell'intero parco. Nella contigua Klausbachtal i guardaparco allestiscono d'inverno un
+      punto di alimentazione per le aquile, consentendo di osservarle senza arrecare disturbo. Dal 2021 vi
+      vengono rilasciati ogni anno giovani esemplari di [gipeto](/especie/gypaetus_barbatus/) nell'ambito del
+      progetto internazionale di reintroduzione sulle Alpi.
+
+
+      Nelle foreste basali l'[urogallo](/especie/tetrao_urogallus/) e il francolino di monte traggono
+      vantaggio dalla varietà strutturale, mentre al limite degli alberi si esibisce il [gallo
+      forcello](/especie/tetrao_tetrix/). Tra anfibi e rettili figurano salamandra alpina, salamandra pezzata,
+      tritone alpestre, lucertola vivipara e marasso. Orso, lupo e lince sono scomparsi nel XIX secolo dalle
+      Alpi di Berchtesgaden, sebbene singoli individui in dispersione possano transitare.
+
+
+      Il periodo migliore va da giugno a ottobre. In inverno l'ambiente diviene severamente alpinistico,
+      richiedendo equipaggiamento invernale e padronanza delle tecniche antivalanga.
+    visit: >-
+      La traversata classica varca il massiccio da sud a nord toccando il Riemannhaus e il Kärlingerhaus lungo
+      una storica via di pellegrinaggio. Quattro rifugi alpini offrono accoglienza nel settore occidentale,
+      tra cui il Kärlingerhaus (1630 m) sul lato tedesco accanto al Funtensee.
+
+
+      Al Kärlingerhaus si sale dall'imbarcadero di Salet sul Königssee tramite il Sagerecksteig, oppure da St.
+      Bartholomä risalendo la ripida Saugasse. Quest'ultimo itinerario copre 10,0 km con 1111 m di dislivello
+      positivo in circa cinque ore di marcia continua, classificato difficile. Dal versante austriaco il
+      Riemannhaus si raggiunge da Saalfelden per il Ramseider Steig o da Maria Alm per il vallone del Sandten.
+
+
+      Solo una ventina di cime dispone di sentieri tracciati, concentrando le presenze lungo gli itinerari
+      principali e lasciando gli altri valloni deserti. La Schönfeldspitze sul margine meridionale è la
+      silhouette più celebre.
+
+
+      Per orientarsi prima dell'ascesa, la Haus der Berge a Berchtesgaden accoglie un centro visite e un
+      percorso panoramico esterno che illustra flora e fauna di quattro ambienti alpini: acqua, foresta,
+      pascolo e roccia. Altri sei punti informativi gratuiti sono dislocati nel parco.
+    history: >-
+      Il pellegrinaggio storico di Almer, documentato fin dal XVII secolo, traversa il massiccio da sud a nord
+      da Maria Alm a St. Bartholomä il sabato successivo al 24 agosto. Il sentiero fu costruito con cura
+      usando pietra calcarea locale, benché il suo stato di conservazione risulti oggi eterogeneo.
+
+
+      Dal 1991 il parco nazionale, esteso su 20.808 ettari, costituisce assieme alla sua fascia periferica una
+      riserva della biosfera UNESCO; il Parco Nazionale di Berchtesgaden, istituito nel 1978, fu il secondo
+      parco nazionale della Germania. In inverno le autorità istituiscono zone di quiete per la fauna
+      indicando itinerari scialpinistici compatibili.
+    before: >-
+      Nel parco nazionale vige il divieto di accendere fuochi e produrre rumori molesti. I cani vanno tenuti
+      al guinzaglio, è obbligatorio restare sui sentieri senza scorciatoie e non disturbare gli animali.
+      Pianifica le uscite in base a forma fisica e meteo: i percorsi lunghi richiedono assenza di vertigini e
+      passo sicuro.
+    around: >-
+      Il [Parco Nazionale Berchtesgaden - Massiccio
+      dell'Hagengebirge](/lugar/nationalpark-berchtesgaden---hagengebirge/) sorge a circa 2 km completando il
+      medesimo comprensorio protetto. A 20 km si eleva il
+      [Tennengebirge](/lugar/tennengebirge---karst-plateau/), altro monumentale altopiano carsico. Più a est,
+      il [Totes Gebirge](/lugar/totes-gebirge---karst-desert/) condivide altopiani carsici, camoscio e pernice
+      bianca.
+  pt:
+    intro: >-
+      Cinquenta cumes, quase todos situados entre 2.000 e 2.600 metros de altitude e quase nenhum
+      destacando-se nitidamente dos restantes: assim é o Steinernes Meer, o Mar de Pedra. Trata-se de um
+      maciço cársico com cerca de 160 km², o maior dos Alpes de Berchtesgaden, situando-se 55 desses
+      quilómetros quadrados acima dos 2.000 metros. Reparte-se entre a Baviera e Salzburgo: a vertente bávara
+      integra o Parque Nacional de Berchtesgaden e a austríaca a reserva Kalkhochalpen. Do alto avista-se não
+      uma crista recortada, mas um planalto ondulado de rocha calcária clara, ladeado a sul pelos seus
+      bastiões mais altos, o Selbhorn (2.655 m) e a Schönfeldspitze (2.653 m).
+    landscape: >-
+      O calcário de Dachstein e os relevos cársicos comandam a paisagem. O planalto situado a mais de 2.000
+      metros inclina-se de sul para norte; a sul, o maciço cai a pique sobre a bacia de Saalfelden, enquanto
+      na base das suas vertentes setentrionais se estende o lago Königssee. O Mar de Pedra apresenta assim
+      perspetivas muito contrastadas consoante a vertente de acesso.
+
+
+      Sob este chão rochoso esconde-se um relevo subterrâneo. Foram catalogadas cerca de 800 grutas,
+      destacando-se o sistema Kolkbläser-Monsterhöhle, uma rede monumental com 44,5 km de galerias conhecidas
+      e 723 m de profundidade. A gruta Schindlkopfhöhle localiza-se a leste de Schindlkopf, no setor do
+      refúgio Ingolstädter Haus: a luz diurna penetra na sua câmara de gelo devido ao abatimento da abóbada de
+      uma dolina. A maior cavidade do lado alemão, a Salzgrabenhöhle, permanece encerrada ao público por
+      decisão da administração do parque.
+
+
+      Numa depressão no coração do maciço repousa o Funtensee, consagrado como o polo de frio extremo da
+      Alemanha. Mais abaixo, na área do parque nacional, a vegetação escalona-se com a altitude: acima das
+      florestas subalpinas surgem o pinheiro-das-rochas, matos de amieiro-verde e salgueiros-anões, urzais
+      alpinos, pastagens de altitude e campos de neve perenes. Nas escarpas do Königssee sobrevivem teixos
+      centenários, relíquias de antigas florestas mistas.
+    wildlife: >-
+      No lado bávaro, os ecossistemas do Parque Nacional de Berchtesgaden abrigam uma fauna alpina
+      representativa. A [camurça](/especie/rupicapra_rupicapra/), o corço e o veado-vermelho formam os grandes
+      herbívoros, enquanto o [íbex](/especie/capra_ibex/) (íbice) é uma espécie marcante: reintroduzido em
+      1936 após a extinção na Alemanha no início do século XVIII. Nos prados e pedregais a
+      [marmota-dos-alpes](/especie/marmota_marmota/) é observada com frequência. Nos paredões rochosos ocorrem
+      o [lagópode-branco](/especie/lagopus_muta/), o pardal-alpino e a acrobática
+      [trepadeira-dos-muros](/especie/tichodroma_muraria/).
+
+
+      As rapinas integram também a fauna do maciço. A [águia-real](/especie/aquila_chrysaetos/) constitui uma
+      presença constante em todo o parque. No vale vizinho de Klausbachtal os guardas mantêm no inverno um
+      comedouro para águias-reais, permitindo a observação sem perturbação. Desde 2021 são libertados ali
+      anualmente jovens exemplares de [abutre-barbudo](/especie/gypaetus_barbatus/) no âmbito de um projeto de
+      reintrodução nos Alpes.
+
+
+      Nas florestas envolventes o [tetraz-grande](/especie/tetrao_urogallus/) e a galinha-do-mato beneficiam
+      da densa estrutura arbórea, enquanto no limite da vegetação arbórea nidifica o
+      [galo-lira](/especie/tetrao_tetrix/). Entre os anfíbios e répteis contam-se salamandra-alpina,
+      salamandra-de-pintas, tritão-alpino, lagartixa-da-montanha e víbora-comum. Urso, lobo e lince
+      desapareceram no século XIX dos Alpes de Berchtesgaden, embora animais em dispersão possam ocorrer
+      esporadicamente.
+
+
+      A época recomendada estende-se de junho a outubro. No inverno o planalto converte-se num meio alpino
+      rigoroso que requer equipamento técnico e treino de segurança em montanha.
+    visit: >-
+      A travessia clássica corta o maciço de sul para norte passando pelo Riemannhaus e pelo Kärlingerhaus,
+      acompanhando o caminho tradicional de peregrinação. Quatro refúgios de clube alpino prestam apoio no
+      maciço ocidental, situando-se o Kärlingerhaus (1630 m) na vertente alemã junto ao Funtensee.
+
+
+      Ao Kärlingerhaus sobe-se a partir do cais de Salet no Königssee pelo Sagerecksteig, ou desde St.
+      Bartholomä subindo a íngreme Saugasse. Este último trilho percorre 10,0 km com 1111 m de subida contínua
+      em cerca de cinco horas de marcha, classificado como difícil. Na vertente austríaca atinge-se o
+      Riemannhaus a partir de Saalfelden pelo Ramseider Steig ou desde Maria Alm através de Sandten.
+
+
+      Apenas cerca de vinte cumes dispõem de trilhos sinalizados, concentrando-se a visitação em poucos eixos
+      enquanto as restantes cimas permanecem solitárias. A Schönfeldspitze, na bordadura sul, é o cume mais
+      emblemático.
+
+
+      Para preparar a subida, a Haus der Berge em Berchtesgaden disponibiliza um centro de exposições e um
+      percurso panorâmico exterior sobre quatro habitats alpinos: água, floresta, pastagens e rocha. Outros
+      seis postos de informação gratuitos funcionam no interior do parque.
+    history: >-
+      A peregrinação histórica de Almer, documentada desde o século XVII, cruza o maciço de sul para norte de
+      Maria Alm até St. Bartholomä no sábado seguinte a 24 de agosto. O trilho foi calçado em pedra calcária
+      local, embora o seu estado de conservação seja hoje desigual.
+
+
+      Desde 1991 o parque nacional, abrangendo 20.808 hectares, integra juntamente com a sua envolvente uma
+      reserva da biosfera da UNESCO; o Parque Nacional de Berchtesgaden, criado em 1978, foi o segundo parque
+      nacional da Alemanha. No inverno as autoridades delimitam áreas de tranquilidade para a fauna e
+      recomendam trajetos de esqui que as evitam.
+    before: >-
+      No setor do parque nacional é interdito fazer fogo ou ruídos incómodos. Os cães devem circular com
+      trela, é obrigatório manter-se nos trilhos sem atalhos e não perturbar os animais. Planeia a saída
+      consoante a forma física e a meteorologia: percursos exigentes requerem passo firme e ausência de
+      vertigens.
+    around: >-
+      O [Parque Nacional Berchtesgaden - Maciço de
+      Hagengebirge](/lugar/nationalpark-berchtesgaden---hagengebirge/) dista cerca de 2 km, completando a
+      mesma área protegida. A 20 km situa-se o [Tennengebirge](/lugar/tennengebirge---karst-plateau/), outro
+      planalto cársico imponente. Mais a leste, o [Totes Gebirge](/lugar/totes-gebirge---karst-desert/)
+      partilha desertos cársicos, camurça e lagópode-branco.
+fuentes:
+  - url: https://de.wikipedia.org/wiki/Steinernes_Meer
+    titulo: Steinernes Meer
+    fecha_consulta: '2026-10-23'
+  - url: https://www.berchtesgaden.de/touren/almer-wallfahrt
+    titulo: Bergerlebnis Berchtesgaden — Almer Wallfahrt
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/adventure/tips/hike/index.htm
+    titulo: Hikes in the Berchtesgaden National Park
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/adventure/tips/tours/index.htm
+    titulo: Tours
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/adventure/rules_notes/behavior_rules/index.htm
+    titulo: Behavior Rules
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/nature/facts/fauna/index.htm
+    titulo: Fauna
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/research/monitoring/golden_eagle/index.htm
+    titulo: Golden eagle
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/nature/facts/habitats/index.htm
+    titulo: Habitats
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/nature/facts/flora/index.htm
+    titulo: Flora
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/nature/national_park/history/index.htm
+    titulo: History
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/infopoints/hdb/about_us/index.htm
+    titulo: About Us
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-berchtesgaden.bayern.de/english/infopoints/index.htm
+    titulo: National Park Information Points
+    fecha_consulta: '2026-10-23'
+  - url: https://en.wikipedia.org/wiki/Berchtesgaden_National_Park
+    titulo: Berchtesgaden National Park
+    fecha_consulta: '2026-10-23'
+  - url: https://www.berchtesgaden.de/touren/durch-die-saugasse-zum-funtensee
+    titulo: Bergerlebnis Berchtesgaden — Bergtour zum Kärlingerhaus
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Schottmalhorn_(Steinernes_Meer)_NW.JPG
+    autor: Jörg Braukmann Milseburg
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

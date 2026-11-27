@@ -1,0 +1,700 @@
+id: parco-dei-nebrodi
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque de los Nebrodes (Sicilia)
+  en: Nebrodi Park (Sicily)
+  fr: Parc des Nébrodes (Sicile)
+  de: Nebrodi-Naturpark (Sizilien)
+  it: Parco dei Nebrodi (Sicilia)
+  pt: Parque dos Nébrodes (Sicília)
+nombre_original: Parco dei Nebrodi
+alias:
+  - Parco dei Nebrodi (Sicilia)
+paises:
+  - IT
+region:
+  es: Sicilia (Messina / Enna / Catania / Cesarò / Caronia)
+  en: Sicily (Messina / Enna / Catania / Cesarò / Caronia)
+  fr: Sicile (Messine / Enna / Catane / Cesarò / Caronia)
+  de: Sizilien (Messina / Enna / Catania / Cesarò / Caronia)
+  it: Sicilia (Messina / Enna / Catania / Cesarò / Caronia)
+  pt: Sicília (Messina / Enna / Catania / Cesarò / Caronia)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 37.9
+  lon: 14.6
+  radio_km: 40
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 6010
+  nombre_en_la_fuente: Parco dei Nebrodi
+  categoria_uicn: IV
+  capa: capas/cdda/parco-dei-nebrodi.geojson
+habitats:
+  - mature_forest
+  - lake
+  - high_mountain
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - gyps_fulvus
+  - aquila_chrysaetos
+  - sus_scrofa
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y otoño
+  en: spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 1
+masificacion_nota:
+  es: Media alrededor del lago Maulazzo y lago Biviere
+  en: Moderate around Lake Maulazzo and Lake Biviere
+  fr: Moyenne autour du lac Maulazzo et du lac Biviere
+  de: Mäßig um den Maulazzo-See und den Biviere-See
+  it: Media attorno al lago Maulazzo e al lago Biviere
+  pt: Média em redor do lago Maulazzo e do lago Biviere
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parco dei Nebrodi
+    url: https://www.parcodeinebrodi.it/
+  - titulo: Accesos — Cómo llegar a los Nebrodi
+    url: https://www.parcodeinebrodi.it/pagina.php?id=40
+  - titulo: Rutas — Itinerarios del parque
+    url: https://www.parcodeinebrodi.it/itinerari.php
+  - titulo: Mapa — Cartografía de los Nebrodi
+    url: https://www.parcodeinebrodi.it/mappa.php
+  - titulo: Centros de visitantes — Puntos de información
+    url: https://www.parcodeinebrodi.it/centri-visita.php
+  - titulo: Normas — Estatuto y reglamentos
+    url: https://www.parcodeinebrodi.it/pagina.php?id=21
+resumen:
+  es: >-
+    La mayor masa forestal continua de Sicilia (86.000 ha), con los picos más arbolados de la isla y los
+    espectaculares roquedos de las Rocche del Crasto.
+  en: >-
+    The largest continuous forest tract in Sicily (86,000 ha), featuring the island's most densely wooded
+    peaks and the spectacular limestone crags of the Rocche del Crasto.
+  fr: >-
+    Le plus grand massif forestier continu de Sicile (86 000 ha), avec les sommets les plus boisés de l'île et
+    les spectaculaires falaises des Rocche del Crasto.
+  de: >-
+    Das größte zusammenhängende Waldgebiet Siziliens (86.000 ha) mit den waldreichsten Höhenzügen der Insel
+    und den Steilabbrüchen der Rocche del Crasto.
+  it: >-
+    La più vasta massa forestale continua della Sicilia (86.000 ha), con le vette più boscose dell'isola e le
+    spettacolari pareti rocciose delle Rocche del Crasto.
+  pt: >-
+    A maior mancha florestal contínua da Sicília (86.000 ha), com os cumes mais arborizados da ilha e as
+    imponentes escarpas das Rocche del Crasto.
+unico:
+  es: >-
+    En Mangalaviti, los hayedos de altura se mezclan con arces, fresnos, acebos, tejos y manzanos silvestres,
+    y el haya llega aquí a su límite más meridional.
+  en: >-
+    At Mangalaviti, high-altitude beechwoods mingle with maples, ashes, hollies, yews, and crab apples, with
+    the European beech reaching its southernmost limit here.
+  fr: >-
+    À Mangalaviti, les hêtraies d'altitude se mêlent aux érables, frênes, houx, ifs et pommiers sauvages, le
+    hêtre atteignant ici sa limite méridionale absolue.
+  de: >-
+    In Mangalaviti mischen sich montane Buchenwälder mit Ahornen, Eschen, Stechpalmen, Eiben und Holzäpfeln,
+    wobei die Rotbuche hier ihre weltweite Südgrenze erreicht.
+  it: >-
+    A Mangalaviti le faggete d'alta quota si fondono con aceri, frassini, agrifogli, tassi e meli selvatici,
+    con il faggio che tocca qui il suo limite meridionale assoluto.
+  pt: >-
+    Em Mangalaviti, os faiais de altitude misturam-se com áceres, freixos, azevinhos, teixos e
+    macieiras-bravas, atingindo a faia aqui o seu limite meridional absoluto.
+observaciones:
+  es: >-
+    El parque es accesible todo el año, con las precauciones habituales en los periodos de nieve. La nieve y
+    la niebla son muy frecuentes en la montaña, así que comprueba el tiempo antes de salir.
+texto:
+  es:
+    intro: >-
+      Sicilia no es solo sol y volcán. En el norte de la isla, entre el mar Tirreno y las faldas del Etna, hay
+      montañas redondeadas cubiertas de hayas, robles y alcornoques donde en invierno cae nieve y en verano
+      sopla aire fresco. Son los Nebrodes, y el Parque de los Nebrodes, con casi 86.000 hectáreas, es el mayor
+      espacio natural protegido de Sicilia. Su nombre viene del griego nebros, «cervatillo», y todavía hoy
+      esta es la parte de la isla más rica en fauna.
+    landscape: >-
+      Los Nebrodes, junto con las Madonias y los Peloritanos, forman el Apenino siciliano. Desde pocas decenas
+      de metros sobre el mar suben hasta los 1.847 metros de Monte Soro, y esa subida es el hilo del paisaje.
+      El primer escalón es el litoral: hasta unos 700-800 metros hay alcornocales y matorral mediterráneo con
+      brezo arbóreo, madroño, mirto, lentisco y encina. Más arriba, entre 600 y 800 metros, el alcornoque
+      forma en Caronia asociaciones de gran valor ecológico. Y por encima, el haya, que en estas montañas
+      encuentra el límite sur de su área de distribución.
+
+
+      La roca también cambia de carácter. Las cumbres suelen ser blandas y redondeadas porque predominan
+      arcillas y areniscas, pero donde manda la caliza el paisaje se vuelve dolomítico, de perfiles
+      irregulares y formas ásperas y fisuradas: Monte San Fratello y, sobre todo, las Rocche del Crasto, un
+      raro ejemplo de rocas dolomíticas en el sur de Italia.
+
+
+      El clima lo completa. Los bosques influyen en un clima de inviernos relativamente largos y fríos, con
+      temperaturas que rara vez bajan de -10 °C, y veranos cálidos pero no sofocantes. La nieve y la niebla
+      son muy frecuentes y dan la humedad que necesitan algunos bosques; la lluvia varía entre 600 y 1.400 mm
+      según la altitud y la exposición.
+
+
+      En la vegetación hay casos concretos. Un arce de monte de 22 m de altura y 6 m de circunferencia figura
+      entre los árboles monumentales de Italia. El bosque de la Tassita, de unas 50 ha en Caronia, tiene tejos
+      viejísimos de gran tamaño. Y entre los endemismos están Genista aristata, Vicia elegans, la rarísima
+      umbelífera Petagnaea gussonei y el abeto de los Nebrodes.
+    wildlife: >-
+      La fauna es variada. Entre los mamíferos destacan el cerdo negro de los Nebrodes, el
+      [jabalí](/especie/sus_scrofa/) reintroducido, el zorro, el [puercoespín](/especie/hystrix_cristata/), el
+      erizo, el [gato montés](/especie/felis_silvestris/) y la [marta](/especie/martes_martes/). Entre los
+      reptiles hay [tortuga mediterránea](/especie/testudo_hermanni/) y galápago siciliano.
+
+
+      Se han clasificado unas ciento cincuenta especies de aves, con endemismos como el carbonero palustre de
+      Sicilia y el mito de Sicilia. En los claros del bosque hay gavilán, [ratonero](/especie/buteo_buteo/),
+      cernícalo, [halcón peregrino](/especie/falco_peregrinus/) y cárabo; las rocas ásperas de las Rocche del
+      Crasto son el reino del [águila real](/especie/aquila_chrysaetos/). En los humedales viven zampullín,
+      focha, lavandera boyera, mirlo acuático y [martín pescador](/especie/alcedo_atthis/); en los pastos se
+      ve la rara perdiz de Sicilia, la chocha, la abubilla y el cuervo. Hay un lago de unos 18 ha rodeado de
+      hayedo, en Cesarò, que es el humedal de montaña de mayor valor natural de Sicilia y parada de colonias
+      de aves acuáticas en las migraciones.
+
+
+      Los invertebrados son muy ricos: más de setenta especies de mariposas y más de ciento veinte de
+      carábidos, y de seiscientas especies censadas, cien eran nuevas para Sicilia y veintidós nuevas para la
+      ciencia.
+
+
+      La historia reciente de la fauna es de pérdidas y regresos. En el siglo XIX se empobreció por la caza y
+      el furtivismo, y se extinguieron el ciervo, el gamo, el corzo, el búho real y el lobo. Los últimos
+      [buitres leonados](/especie/gyps_fulvus/) desaparecieron hacia los años sesenta por los cebos
+      envenenados; hay un proyecto de reintroducción con ejemplares traídos de España, y en 2005 nacieron
+      pollos.
+    visit: >-
+      La gran columna es la Dorsale dei Nebrodi, que recorre el área protegida de oeste a este en unos 70 km.
+      Su tercera etapa une Portella Femmina Morta y Portella Dagara en una jornada de siete horas, y una
+      desviación llega a Monte Soro, la cima más alta, con vistas a la costa tirrénica, las islas Eolias, el
+      Etna y las Madonias.
+
+
+      El Sentiero delle Sorgenti parte de Maniace, recorre unos 18 kilómetros y salva 750 metros de desnivel
+      positivo. Es de dificultad media, apto para jóvenes y adultos con experiencia de trekking y un mínimo de
+      entrenamiento. Sigue la vieja Trazzera Regia que usaban los ganaderos para la trashumancia y llega a
+      Serra Spina, a 1.558 metros. Allí un obelisco levantado por el duque de Nelson en 1905 marca el punto
+      medio y da una vista de los Nebrodes, del lago Tre Arie a Serra del Re y Monte Soro, con el Etna a lo
+      lejos. Luego pasa por el hayedo de Foresta Vecchia, junto a la fuente Arcarolo y la fuente del Medico, y
+      en la subida a la fuente Sperone hay acebo en abundancia.
+
+
+      El bosque de Mangalaviti se alcanza desde Longi y Galati Mamertino por Portella Gazzana, tiene miradores
+      y un recorrido didáctico en anillo fácil con las especies de flora y fauna más representativas. El
+      recorrido conecta los bosques con las cumbres de 1.518 y 1.754 metros.
+
+
+      Los centros del parque pueden ser Centros Parque, con exposiciones, aulas y actividades; Puntos
+      Informativos, solo de atención; y Puntos Excursionistas, con visitas guiadas y excursiones. Hay también
+      una cascada de unos 30 m sobre el torrente San Basilio que forma una marmita natural, la Marmitta dei
+      Giganti, donde se puede bañar en la buena estación.
+    history: El parque se creó el 4 de agosto de 1993 y abarca 856,87 km².
+    before: >-
+      El parque es accesible todo el año, con las precauciones habituales en los periodos de nieve. La nieve y
+      la niebla son muy frecuentes en la montaña, así que comprueba el tiempo antes de salir.
+    around: >-
+      El [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) está a unos 20 km y forma con los
+      Nebrodes y los Peloritanos el Apenino siciliano.
+  en:
+    intro: >-
+      Sicily is far more than blazing sun and smoking volcanoes. In the north of the island between the
+      Tyrrhenian Sea and the northern slopes of Mount Etna rise rolling mountain ridges blanketed in beech,
+      oak, and cork oak, where winter brings snowfall and summer brings cool mountain air. These are the
+      Nebrodi, and the Nebrodi Park, spanning nearly 86,000 hectares, is Sicily's largest protected natural
+      area. Its name derives from the Greek nebros, «fawn», and to this day this remains the island's richest
+      haven for wildlife.
+    landscape: >-
+      The Nebrodi, alongside the Madonie and Peloritani ranges, form the Sicilian Apennines. Rising from just
+      tens of metres above sea level up to 1,847 metres on Monte Soro, this elevation gradient structures the
+      whole landscape. The lowest tier is coastal: up to 700-800 metres thrive cork oak groves and
+      Mediterranean scrub of tree heath, strawberry tree, myrtle, mastic, and holm oak. Higher up between 600
+      and 800 metres, cork oak forms ecologically exceptional associations in Caronia. Above that elevation
+      reigns the European beech, which reaches the southernmost boundary of its global range on these peaks.
+
+
+      The underlying geology also shifts character. Summits are generally soft and rounded owing to prevailing
+      clays and sandstones, but where limestone dominates, the relief turns dolomitic, jagged, and deeply
+      fractured: Monte San Fratello and, most dramatically, the Rocche del Crasto, a rare occurrence of
+      dolomitic crags in southern Italy.
+
+
+      The climate rounds out the picture. Dense woodlands foster relatively prolonged, cold winters where
+      temperatures rarely plunge below -10 °C, and warm yet rarely stifling summers. Snowfall and mountain
+      fogs are frequent, delivering essential moisture to the forest canopy; annual precipitation ranges
+      between 600 and 1,400 mm depending on altitude and exposure.
+
+
+      The flora boasts exceptional specimens: a sycamore maple 22 m tall and 6 m in girth ranks among Italy's
+      monumental trees. The Tassita woodland, spanning some 50 ha in Caronia, preserves ancient yews of
+      remarkable proportions. Botanical endemics include Genista aristata, Vicia elegans, the extremely rare
+      umbellifer Petagnaea gussonei, and the Nebrodi fir.
+    wildlife: >-
+      The fauna is diverse. Mammals feature the indigenous Nebrodi black pig, reintroduced [wild
+      boar](/especie/sus_scrofa/), red fox, [crested porcupine](/especie/hystrix_cristata/), European
+      hedgehog, [wildcat](/especie/felis_silvestris/), and European [pine marten](/especie/martes_martes/).
+      Reptiles include [Hermann's tortoise](/especie/testudo_hermanni/) and the Sicilian pond turtle.
+
+
+      Around one hundred and fifty bird species have been catalogued, including Sicilian endemics such as the
+      Sicilian marsh tit and Sicilian long-tailed tit. Forest glades host Eurasian sparrowhawk, [common
+      buzzard](/especie/buteo_buteo/), common kestrel, [peregrine falcon](/especie/falco_peregrinus/), and
+      tawny owl, while the rugged battlements of the Rocche del Crasto serve as the realm of the [golden
+      eagle](/especie/aquila_chrysaetos/). In wetland spots live little grebe, Eurasian coot, western yellow
+      wagtail, white-throated dipper, and [common kingfisher](/especie/alcedo_atthis/); mountain pastures
+      shelter rock partridge, Eurasian woodcock, hoopoe, and raven. A scenic lake covering roughly 18 ha
+      surrounded by beech forest in Cesarò represents Sicily's most valuable mountain wetland, functioning as
+      a vital stopover for migratory waterbirds.
+
+
+      Invertebrate diversity is extraordinarily high: over seventy butterfly species and more than one hundred
+      and twenty ground beetle species; among six hundred surveyed taxa, one hundred were new to Sicily and
+      twenty-two new to science.
+
+
+      Faunal history has seen extinctions and revivals. In the nineteenth century poaching depleted wildlife,
+      causing the extirpation of red deer, fallow deer, roe deer, eagle-owl, and wolf. The last [griffon
+      vultures](/especie/gyps_fulvus/) vanished around the nineteen-sixties due to poison baits; a dedicated
+      reintroduction project using Spanish stock was launched, and in 2005 the first chicks hatched
+      successfully in the wild.
+    visit: >-
+      The geographic backbone of the park is the Dorsale dei Nebrodi, traversing the protected area from west
+      to east over roughly 70 km. Its third stage connects Portella Femmina Morta and Portella Dagara in a
+      seven-hour trek, with a spur reaching Monte Soro—the highest summit—offering panoramas encompassing the
+      Tyrrhenian coast, the Aeolian Islands, Mount Etna, and the Madonie.
+
+
+      The Sentiero delle Sorgenti begins in Maniace, spanning roughly 18 kilometres and overcoming 750 metres
+      of cumulative ascent. Rated moderate, it suits hikers with some mountain experience and baseline
+      fitness. Following the historic Trazzera Regia once used for transhumance, it reaches Serra Spina at
+      1,558 metres. There, an obelisk erected by the Duke of Nelson in 1905 marks the midpoint, presenting
+      views over the Nebrodi from Lake Tre Arie across Serra del Re to Monte Soro, with Etna smoking in the
+      distance. The route then enters the ancient beechwood of Foresta Vecchia, passing the Arcarolo and
+      Medico springs, ascending towards the Sperone spring amid dense holly.
+
+
+      The Mangalaviti forest is reached from Longi and Galati Mamertino via Portella Gazzana, featuring scenic
+      overlooks and an easy interpretive loop highlighting key flora and fauna. The network connects woodlands
+      with panoramic ridges at 1,518 and 1,754 metres.
+
+
+      Park facilities comprise Visitor Centres offering exhibitions and workshops, Information Points for
+      general enquiries, and Excursion Points hosting guided tours. Along the San Basilio torrent, a waterfall
+      of some 30 m carved a natural plunge pool, the Marmitta dei Giganti, where visitors bathe in season.
+    history: The regional park was established on 4 August 1993, encompassing 856.87 km².
+    before: >-
+      The park remains accessible throughout the year, with standard precautions required during winter snow.
+      Snow and thick fog occur frequently across the high ridges, so check weather forecasts prior to
+      departures.
+    around: >-
+      The [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) lies roughly 20 km away, forming
+      with the Nebrodi and Peloritani ranges the Sicilian Apennine chain.
+  fr:
+    intro: >-
+      La Sicile ne se résume pas au soleil et aux volcans. Au nord de l'île, entre la mer Tyrrhénienne et les
+      contreforts de l'Etna, s'étirent des massifs arrondis vêtus de hêtres, de chênes et de chênes-lièges où
+      la neige s'installe en hiver et où souffle un air vivifiant en été. Ce sont les Nébrodes, et le parc des
+      Nébrodes, avec près de 86 000 hectares, constitue le plus vaste espace naturel protégé de Sicile. Son
+      nom découle du grec nebros, « faon », et cette contrée demeure la plus giboyeuse de toute l'île.
+    landscape: >-
+      Les Nébrodes forment, avec les Madonies et les Péloritains, l'Apennin sicilien. S'élevant depuis
+      quelques dizaines de mètres au-dessus de la mer jusqu'aux 1 847 mètres du Monte Soro, cette ascension
+      rythme la géographie locale. Le premier étage est littoral : jusqu'à environ 700-800 mètres
+      s'épanouissent subéraies et maquis composés de bruyère arborescente, arbousier, myrte, lentisque et
+      chêne vert. Plus haut, entre 600 et 800 mètres, le chêne-liège forme à Caronia des associations
+      végétales de grand intérêt. Au-dessus trône le hêtre, qui trouve dans ces monts la limite méridionale de
+      son aire de répartition mondiale.
+
+
+      La roche varie elle aussi de nature. Les crêtes sont douces et arrondies en raison de la dominance
+      d'argiles et de grès, mais là où le calcaire affleure, le relief devient dolomitique, accidenté et
+      sillonné de failles : le Monte San Fratello et surtout les Rocche del Crasto, rare exemple de roches
+      dolomitiques dans le sud de l'Italie.
+
+
+      Le climat modèle l'ensemble. Les forêts entretiennent des hivers longs et rigoureux, avec des
+      températures descendant rarement sous -10 °C, et des étés chauds mais tempérés. La neige et les
+      brouillards fréquents procurent l'humidité nécessaire aux sous-bois ; les précipitations oscillent entre
+      600 et 1 400 mm selon l'altitude et l'orientation.
+
+
+      La flore recèle des spécimens remarquables : un érable sycomore de 22 m de hauteur et 6 m de
+      circonférence compte parmi les arbres monumentaux d'Italie. Le bois de la Tassita, sur quelque 50 ha à
+      Caronia, abrite des ifs millénaires de belle taille. Parmi les endémiques figurent Genista aristata,
+      Vicia elegans, la rarissime ombellifère Petagnaea gussonei et le sapin des Nébrodes.
+    wildlife: >-
+      La faune est variée. Parmi les mammifères figurent le porc noir des Nébrodes, le
+      [sanglier](/especie/sus_scrofa/) réintroduit, le renard roux, le [porc-épic à
+      crête](/especie/hystrix_cristata/), le hérisson, le [chat sauvage](/especie/felis_silvestris/) et la
+      [martre des pins](/especie/martes_martes/). Côté reptiles cohabitent la [tortue
+      d'Hermann](/especie/testudo_hermanni/) et la cistude de Sicile.
+
+
+      Quelque cent cinquante espèces d'oiseaux y ont été recensées, avec des sous-espèces endémiques comme la
+      mésange nonnette de Sicile et l'orite de Sicile. Dans les clairières chassent épervier d'Europe, [buse
+      variable](/especie/buteo_buteo/), faucon crécerelle, [faucon pèlerin](/especie/falco_peregrinus/) et
+      chouette hulotte, tandis que les escarpements des Rocche del Crasto constituent le domaine de l'[aigle
+      royal](/especie/aquila_chrysaetos/). Dans les zones humides vivent grèbe castagneux, foulque macroule,
+      bergeronnette printanière, cincle plongeur et [martin-pêcheur d'Europe](/especie/alcedo_atthis/) ; les
+      landes accueillent la perdrix bartavelle de Sicile, la bécasse des bois, la huppe et le grand corbeau.
+      Un lac d'environ 18 ha ceint de hêtraies, à Cesarò, constitue la zone humide d'altitude la plus
+      remarquable de Sicile et une escale clé pour les migrateurs.
+
+
+      Les invertébrés affichent une profusion remarquable : plus de soixante-dix espèces de papillons et plus
+      de cent vingt espèces de carabidés ; sur six cents taxons répertoriés, cent étaient nouveaux pour la
+      Sicile et vingt-deux nouveaux pour la science.
+
+
+      L'histoire faunique témoigne de disparitions et de retours. Au XIXe siècle le braconnage entraîna
+      l'extinction du cerf, du daim, du chevreuil, du grand-duc et du loup. Les derniers [vautours
+      fauves](/especie/gyps_fulvus/) disparurent vers les années soixante du fait des appâts empoisonnés ; un
+      programme de réintroduction fondé sur des oiseaux espagnols a permis dès 2005 les premières naissances
+      en liberté.
+    visit: >-
+      La grande traversée s'opère par la Dorsale dei Nebrodi, qui franchit le parc d'ouest en est sur environ
+      70 km. Sa troisième étape relie Portella Femmina Morta à Portella Dagara en sept heures de marche, avec
+      une variante menant au Monte Soro, offrant un panorama grandiose sur le littoral tyrrhénien, les îles
+      Éoliennes, l'Etna et les Madonies.
+
+
+      Le Sentiero delle Sorgenti part de Maniace, parcourt environ 18 kilomètres et rachète 750 mètres de
+      dénivelé positif. D'exigence moyenne, il convient aux randonneurs réguliers. Empruntant l'antique
+      Trazzera Regia de transhumance, il atteint Serra Spina à 1 558 mètres. Un obélisque érigé par le duc de
+      Nelson en 1905 y marque le point médian, dévoilant un panorama sur le lac Tre Arie, la Serra del Re et
+      l'Etna au loin. Il traverse ensuite la hêtraie de Foresta Vecchia, côtoyant les sources Arcarolo et
+      Medico avant de grimper vers la source Sperone parmi les houx.
+
+
+      La forêt de Mangalaviti s'aborde depuis Longi et Galati Mamertino par Portella Gazzana, proposant
+      belvédères et boucle pédagogique sur la biodiversité. Le réseau relie les massifs boisés aux crêtes
+      culminant à 1 518 et 1 754 mètres.
+
+
+      Les infrastructures du parc regroupent centres d'accueil avec expositions, points d'information et
+      points de randonnée guidée. Sur le torrent San Basilio, une cascade d'environ 30 m a creusé une marmite
+      naturelle géante, propice à la baignade estivale.
+    history: Le parc naturel fut institué le 4 août 1993 et couvre 856,87 km².
+    before: >-
+      Le parc est accessible toute l'année, sous réserve de la prudence d'usage par temps de neige. Neige et
+      brumes denses sont fréquentes en montagne : consultez les prévisions météorologiques avant de partir.
+    around: >-
+      Le [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) se situe à environ 20 km et forme
+      avec les Nébrodes et les Péloritains l'Apennin sicilien.
+  de:
+    intro: >-
+      Sizilien bedeutet nicht nur Sonne und Vulkanlandschaften. Im Norden der Insel zwischen dem Tyrrhenischen
+      Meer und den Flanken des Ätna erheben sich sanft gerundete Gebirgszüge voller Buchen, Eichen und
+      Korkeichen, auf denen im Winter Schnee liegt und im Sommer erfrischende Höhenluft weht. Dies sind die
+      Nebrodi, und der Nebrodi-Naturpark ist mit beinahe 86.000 Hektar das weitläufigste Schutzgebiet
+      Siziliens. Sein Name leitet sich vom griechischen nebros («Rehkitz») ab, und bis heute bildet dieses
+      Bergland die wildreichste Region der Insel.
+    landscape: >-
+      Die Nebrodi bilden zusammen mit den Madonien und den Peloritanern den Sizilianischen Apennin. Von
+      wenigen Dutzend Metern Meereshöhe steigen die Höhenzüge bis auf 1.847 Meter am Monte Soro an — dieser
+      Höhengradient gliedert die gesamte Landschaft. Die unterste Stufe ist küstennah: Bis auf etwa 700-800
+      Meter stocken Korkeichenhaine und Macchie aus Baumheide, Erdbeerbaum, Myrte, Mastixstrauch und
+      Steineiche. Weiter oben zwischen 600 und 800 Metern bildet die Korkeiche bei Caronia ökologisch
+      wertvolle Pflanzengesellschaften. Darüber dominiert die Rotbuche, die in diesen Bergen das südliche Ende
+      ihres weltweiten Verbreitungsareals erreicht.
+
+
+      Auch der geologische Bau verändert das Landschaftsbild: Sanfte Rücken prägen die durch Tone und
+      Sandsteine gebildeten Kuppen, doch wo Kalkgestein dominiert, wird das Relief schroff, rissig und
+      dolomitisch — so am Monte San Fratello und vor allem an den Rocche del Crasto, einem seltenen Beispiel
+      dolomitischen Gesteins in Süditalien.
+
+
+      Das Lokalklima vollendet die Waldlandschaft: Lange, kalte Winter mit Temperaturen, die selten unter -10
+      °C sinken, wechseln mit warmen, aber nicht drückenden Sommern. Schnee und dichter Nebel spenden
+      reichlich Feuchtigkeit; die Niederschläge schwanken je nach Höhenlage und Exposition zwischen 600 und
+      1.400 mm.
+
+
+      Besondere Baumgestalten setzen Akzente: Ein Bergahorn von 22 m Höhe und 6 m Stammumfang zählt zu den
+      Naturdenkmälern Italiens. Der Tassita-Wald umfasst rund 50 ha bei Caronia mit uralten Eiben. Zu den
+      Endemiten gehören Genista aristata, Vicia elegans, der seltene Doldenblütler Petagnaea gussonei und die
+      Nebrodi-Tanne.
+    wildlife: >-
+      Die Tierwelt ist artenreich: Zu den Säugern zählen das schwarze Nebrodi-Schwein, das wiederangesiedelte
+      [Wildschwein](/especie/sus_scrofa/), Rotfuchs, [Gewöhnliches
+      Stachelschwein](/especie/hystrix_cristata/), Igel, [Europäische Wildkatze](/especie/felis_silvestris/)
+      und [Baummarder](/especie/martes_martes/). Unter den Reptilien finden sich die [Griechische
+      Landschildkröte](/especie/testudo_hermanni/) und die Sizilianische Sumpfschildkröte.
+
+
+      Rund einhundertfünfzig Vogelarten wurden nachgewiesen, darunter endemische Unterarten wie die
+      Sizilianische Sumpfmeise und die Sizilianische Schwanzmeise. Waldlichtungen beherbergen Sperber,
+      [Mäusebussard](/especie/buteo_buteo/), Turmfalke, [Wanderfalke](/especie/falco_peregrinus/) und
+      Waldkauz, während die Felsabstürze der Rocche del Crasto das Revier des
+      [Steinadlers](/especie/aquila_chrysaetos/) sind. An Feuchtgebieten leben Zwergtaucher, Blässhuhn,
+      Schafstelze, Wasseramsel und [Eisvogel](/especie/alcedo_atthis/); Weiden beherbergen Steinhuhn,
+      Waldschnepfe, Wiedehopf und Kolkrabe. Ein rund 18 ha großer See bei Cesarò, umgeben von Buchenurwald,
+      bildet das wertvollste Feuchtgebiet Siziliens und dient Zugvögeln als Raststation.
+
+
+      Die Wirbellosenfauna besticht durch Artenreichtum: über siebzig Tagfalterarten und mehr als
+      einhundertzwanzig Laufkäferarten; von sechshundert erfassten Spezies waren einhundert neu für Sizilien
+      und zweiundzwanzig neu für die Wissenschaft.
+
+
+      Die Jagd im neunzehnten Jahrhundert führte zur Ausrottung von Rothirsch, Damhirsch, Reh, Uhu und Wolf.
+      Die letzten [Gänsegeier](/especie/gyps_fulvus/) verschwanden um die sechziger Jahre durch Giftköder; ein
+      Wiederansiedlungsprojekt mit Vögeln aus Spanien brachte 2005 erste Wildbruten hervor.
+    visit: >-
+      Die wichtigste Wanderroute ist die Dorsale dei Nebrodi, die das Schutzgebiet von West nach Ost über rund
+      70 km durchzieht. Ihre dritte Etappe verbindet Portella Femmina Morta und Portella Dagara in sieben
+      Wanderstunden mit einem Abstecher zum Monte Soro, von dem man auf das Tyrrhenische Meer, die Äolischen
+      Inseln, den Ätna und die Madonien blickt.
+
+
+      Der Sentiero delle Sorgenti beginnt in Maniace, misst rund 18 Kilometer und überwindet 750 Höhenmeter im
+      Aufstieg. Die mittelschwere Tour folgt der historischen Trazzera Regia der Wanderschafhaltung bis zur
+      Serra Spina auf 1.558 Metern. Dort markiert ein vom Herzog von Nelson 1905 errichteter Obelisk die
+      Wegmitte mit Blick auf die Nebrodi vom Tre-Arie-See bis zum Monte Soro. Anschließend führt der Weg durch
+      den Buchenwald Foresta Vecchia vorbei an den Quellen Arcarolo und Medico zur Quelle Sperone.
+
+
+      Der Wald von Mangalaviti wird von Longi und Galati Mamertino über die Portella Gazzana erreicht; er
+      bietet Aussichtspunkte und einen Rundweg zu Flora und Fauna. Das Wegenetz bindet Wälder an die
+      Aussichtsgipfel auf 1.518 und 1.754 Metern an.
+
+
+      Die Parkinfrastruktur umfasst Besucherzentren, Informationsstellen und geführte Exkursionen. Am
+      Gebirgsbach San Basilio stürzt ein Wasserfall von rund 30 m in ein natürliches Becken, die Marmitta dei
+      Giganti, die im Sommer zum Baden einlädt.
+    history: Der Regionalpark wurde am 4. August 1993 gegründet und umfasst 856,87 km².
+    before: >-
+      Der Park ist ganzjährig zugänglich, wobei im Winter winterliche Ausrüstung ratsam ist. Schnee und
+      dichter Nebel treten im Gebirge häufig auf; prüfe vor Tourenbeginn stets die Wetterberichte.
+    around: >-
+      Der [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) liegt etwa 20 km entfernt und bildet
+      gemeinsam mit den Nebrodi und Peloritanern den Sizilianischen Apennin.
+  it:
+    intro: >-
+      La Sicilia non è solo sole e vulcano. Nel nord dell'isola, tra il mar Tirreno e i versanti dell'Etna, si
+      allungano montagne tondeggianti ammantate di faggi, querce e sughere dove d'inverno scende la neve e
+      d'estate soffia aria fresca. Sono i Nebrodi, e il Parco dei Nebrodi, con quasi 86.000 ettari,
+      rappresenta la più vasta area naturale protetta della Sicilia. Il suo nome discende dal greco nebros,
+      «cerbiatto», e ancora oggi questo territorio costituisce il cuore faunistico più ricco dell'isola.
+    landscape: >-
+      I Nebrodi, insieme alle Madonie e ai Peloritani, compongono l'Appennino siculo. Dalle poche decine di
+      metri sul livello del mare salgono fino ai 1.847 metri del Monte Soro, ascesa che costituisce la
+      direttrice del paesaggio. La prima fascia è litoranea: fino a circa 700-800 metri prosperano sugherete e
+      macchia mediterranea con erica arborea, corbezzolo, mirto, lentisco e leccio. Più in alto, tra 600 e 800
+      metri, la sughera forma a Caronia cenosi di grandissimo rilievo ecologico. Al di sopra domina il faggio,
+      che in questi massicci tocca l'estremo limite meridionale del suo areale di distribuzione.
+
+
+      Anche la matrice rocciosa muta sembianze: le dorsali appaiono morbide e ondulate dove prevalgono argille
+      e arenarie, ma dove emerge il calcare il rilievo assume fisionomie dolomitiche, aspre e profondamente
+      fessurate, come a Monte San Fratello e soprattutto alle Rocche del Crasto, raro esempio di paesaggio
+      dolomitico nell'Italia meridionale.
+
+
+      Il clima corona il quadro ambientale. Le foreste favoriscono inverni relativamente lunghi e rigidi, con
+      minime che di rado scendono al di sotto di -10 °C, ed estati calde ma non soffocanti. Neve e nebbie sono
+      frequenti e recano l'umidità indispensabile ai boschi; le precipitazioni variano tra 600 e 1.400 mm in
+      base a quota ed esposizione.
+
+
+      La flora annovera testimonianze monumentali: un acero montano di 22 m d'altezza e 6 m di circonferenza
+      figura tra gli alberi monumentali d'Italia. Il bosco della Tassita racchiude circa 50 ha a Caronia con
+      tassi millenari di notevoli dimensioni. Tra gli endemismi spiccano Genista aristata, Vicia elegans, la
+      rarissima ombrellifera Petagnaea gussonei e l'abete dei Nebrodi.
+    wildlife: >-
+      La compagine faunistica è varia. Tra i mammiferi spiccano il maiale nero dei Nebrodi, il
+      [cinghiale](/especie/sus_scrofa/) reintrodotto, la volpe, l'[istrice](/especie/hystrix_cristata/), il
+      riccio, il [gatto selvatico](/especie/felis_silvestris/) e la [martora](/especie/martes_martes/). Tra i
+      rettili compaiono la [testuggine di Hermann](/especie/testudo_hermanni/) e la testuggine palustre
+      siciliana.
+
+
+      Sono state censite circa centocinquanta specie ornitiche, con endemismi come la cincia bigia di Sicilia
+      e il codibugnolo di Sicilia. Nelle radure forestali cacciano sparviere, [poiana](/especie/buteo_buteo/),
+      gheppio, [falco pellegrino](/especie/falco_peregrinus/) e allocco, mentre le rupi delle Rocche del
+      Crasto sono il feudo dell'[aquila reale](/especie/aquila_chrysaetos/). Negli specchi d'acqua vivono
+      tuffetto, folaga, cutrettola, merlo acquaiolo e [martin pescatore](/especie/alcedo_atthis/); nei pascoli
+      montani si avvistano la coturnice di Sicilia, la beccaccia, l'upupa e il corvo imperiale. Uno specchio
+      lacustre di circa 18 ha circondato da faggeta a Cesarò costituisce la zona umida montana più pregiata
+      dell'isola, fungendo da snodo migratorio primario.
+
+
+      Gli invertebrati esibiscono una biodiversità cospicua: oltre settanta specie di farfalle e più di
+      centoventi specie di carabidi; su seicento specie censite, cento sono risultate nuove per la Sicilia e
+      ventidue nuove per la scienza.
+
+
+      Nel corso dell'Ottocento il bracconaggio decimò cervo, daino, capriolo, gufo reale e lupo. Gli ultimi
+      [grifoni](/especie/gyps_fulvus/) scomparvero verso gli anni sessanta a causa dei bocconi avvelenati; un
+      programma di rilascio con esemplari spagnoli ha portato nel 2005 alle prime nascite in natura.
+    visit: >-
+      L'itinerario dorsale cardine è la Dorsale dei Nebrodi, che attraversa il parco da ovest a est per circa
+      70 km. La terza tappa congiunge Portella Femmina Morta a Portella Dagara in sette ore di cammino, con
+      una deviazione verso Monte Soro che apre visuali spettacolari sulla costa tirrenica, le Eolie, l'Etna e
+      le Madonie.
+
+
+      Il Sentiero delle Sorgenti muove da Maniace per circa 18 chilometri colmando 750 metri di dislivello
+      positivo. Di media difficoltà, segue l'antica Trazzera Regia della transumanza fino a Serra Spina a
+      1.558 metri. Lì un obelisco fatto erigere dal duca di Nelson nel 1905 segna la metà del tragitto
+      regalando ampi scorci dal lago Tre Arie a Serra del Re e Monte Soro. Si addentra poi nella faggeta di
+      Foresta Vecchia toccando le sorgenti Arcarolo e del Medico per salire alla sorgente Sperone tra folti
+      agrifogli.
+
+
+      Il bosco di Mangalaviti è accessibile da Longi e Galati Mamertino tramite Portella Gazzana, con
+      belvedere e un anello didattico sulle specie simbolo. I percorsi raccordano la foresta con vette
+      panoramiche a 1.518 e 1.754 metri.
+
+
+      Le strutture del parco si articolano in Centri Parco espositivi, Punti Informativi e Punti
+      Escursionistici. Sul torrente San Basilio una cascata di circa 30 m alimenta una vasca naturale, la
+      Marmitta dei Giganti, meta di refrigerio nella bella stagione.
+    history: Il parco naturale è stato istituito il 4 agosto 1993 e si estende per 856,87 km².
+    before: >-
+      Il parco è accessibile durante l'intero arco dell'anno, adottando le cautele consuete nei mesi innevati.
+      Neve e nebbie fitte sono frequenti in quota: consulta i bollettini meteo prima delle escursioni.
+    around: >-
+      Il [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) dista circa 20 km e costituisce con i
+      Nebrodi e i Peloritani l'Appennino siculo.
+  pt:
+    intro: >-
+      A Sicília não se esgota no sol e nos vulcões. No norte da ilha, entre o mar Tirreno e as encostas do
+      Etna, estendem-se montanhas suaves cobertas de faiais, carvalhais e sobreirais onde no inverno cai neve
+      e no verão sopra uma brisa fresca. São os Nébrodes, e o Parque dos Nébrodes, com quase 86.000 hectares,
+      constitui o maior espaço natural protegido da Sicília. O seu nome provém do grego nebros, «gamo jovem»,
+      permanecendo até hoje a fração insular com maior abundância de fauna.
+    landscape: >-
+      Os Nébrodes compõem, com as Madónias e os Peloritanos, o Apenino siciliano. Das poucas dezenas de metros
+      acima do mar elevam-se até aos 1.847 metros do Monte Soro, marcando esta subida altitudinal a estrutura
+      da paisagem. O primeiro patamar é costeiro: até cerca de 700-800 metros prosperam sobreirais e matos
+      mediterrânicos com urze-molar, medronheiro, murta, aroeira e azinheira. Mais acima, entre 600 e 800
+      metros, o sobreiro estabelece em Caronia comunidades de notável interesse ecológico. Acima reina a faia,
+      que nestas serras encontra a fronteira sul da sua distribuição planetária.
+
+
+      A geologia altera também a fisionomia: as cumeadas apresentam contornos suaves onde predominam argilas e
+      arenitos, mas onde o calcário aflora o relevo torna-se dolomítico, abrupto e fissurado — como no Monte
+      San Fratello e sobretudo nas Rocche del Crasto, raro testemunho de dolomitos no sul de Itália.
+
+
+      O clima consolida este ecossistema: invernos relativamente longos e rigorosos, com temperaturas que
+      raramente baixam de -10 °C, e verões cálidos mas não sufocantes. A neve e os nevoeiros frequentes
+      asseguram a humidade dos bosques; a precipitação oscila entre 600 e 1.400 mm consoante altitude e
+      exposição.
+
+
+      A flora exibe exemplares notáveis: um bordo de 22 m de altura e 6 m de perímetro figura nos registos
+      monumentais de Itália. A mata da Tassita ocupa cerca de 50 ha em Caronia com teixos milenares de grande
+      porte. Entre os endemismos figuram Genista aristata, Vicia elegans, a raríssima umbelífera Petagnaea
+      gussonei e o abeto-dos-nébrodes.
+    wildlife: >-
+      A fauna é diversificada. Nos mamíferos salientam-se o porco-preto dos Nébrodes, o
+      [javali](/especie/sus_scrofa/) reintroduzido, a raposa, o
+      [porco-espinho-de-crista](/especie/hystrix_cristata/), o ouriço-cacheiro, o
+      [gato-bravo](/especie/felis_silvestris/) e a [marta](/especie/martes_martes/). Entre os répteis ocorrem
+      a [tartaruga-de-hermann](/especie/testudo_hermanni/) e o cágado-siciliano.
+
+
+      Estão catalogadas cerca de cento e cinquenta espécies de aves, incluindo endemismos como o
+      chapim-palustre-da-sicília e o chapim-rabilongo-da-sicília. Nas clareiras florestais caçam
+      gavião-da-europa, [bútio-comum](/especie/buteo_buteo/), peneireiro-vulgar,
+      [falcão-peregrino](/especie/falco_peregrinus/) e coruja-do-mato, ao passo que as escarpas das Rocche del
+      Crasto constituem o santuário da [águia-real](/especie/aquila_chrysaetos/). Nas lagoas ocorrem
+      mergulhão-pequeno, galeirão, alvéola-amarela, melro-d'água e
+      [guarda-rios-comum](/especie/alcedo_atthis/); nos pastos avistam-se a perdiz-da-sicília, a galinhola, a
+      poupa e o corvo. Um lago com cerca de 18 ha cercado por faial em Cesarò representa a zona húmida de
+      montanha de maior relevância biológica da Sicília, servindo de poiso a aves migradoras.
+
+
+      Os invertebrados apresentam grande riqueza: mais de setenta espécies de borboletas e mais de cento e
+      vinte de carabídeos; de seiscentas espécies inventariadas, cem revelaram-se novas para a Sicília e vinte
+      e duas novas para a ciência.
+
+
+      No século XIX a caça dizimou o veado, o gamo, o corço, o bufo-real e o lobo. Os últimos
+      [grifos](/especie/gyps_fulvus/) desapareceram nos anos sessenta vitimados por venenos; um programa de
+      reintrodução com aves de Espanha permitiu em 2005 o nascimento das primeiras crias em meio selvagem.
+    visit: >-
+      A espinha dorsal das caminhadas é a Dorsale dei Nebrodi, que percorre a área protegida de oeste a este
+      ao longo de cerca de 70 km. A sua terceira etapa une Portella Femmina Morta a Portella Dagara em sete
+      horas de marcha, com uma derivação até ao Monte Soro descortinando vistas panorâmicas sobre a costa
+      tirrénica, as ilhas Eólias, o Etna e as Madónias.
+
+
+      O Sentiero delle Sorgenti arranca em Maniace, estende-se por cerca de 18 quilómetros e vence 750 metros
+      de subida acumulada. De dificuldade moderada, segue a secular Trazzera Regia de transumância até Serra
+      Spina a 1.558 metros. A meio do caminho ergue-se um obelisco mandado erguer pelo duque de Nelson em
+      1905, proporcionando vistas desde o lago Tre Arie até Serra del Re e Monte Soro. Entra depois no faial
+      de Foresta Vecchia junto às fontes Arcarolo e do Medico para subir até à fonte Sperone por entre densos
+      azevinhos.
+
+
+      A floresta de Mangalaviti acede-se a partir de Longi e Galati Mamertino por Portella Gazzana, com
+      miradouros e um circuito didático circular sobre biodiversidade. As rotas interligam as matas com cumes
+      panorâmicos a 1.518 e 1.754 metros.
+
+
+      A rede de acolhimento engloba Centros do Parque com núcleos expositivos, Postos de Informação e Postos
+      de Excursões. No ribeiro de San Basilio uma queda de água de cerca de 30 m escavou uma marmita de
+      gigante natural, apetecível para banhos estivais.
+    history: O parque regional foi criado a 4 de agosto de 1993 e ocupa 856,87 km².
+    before: >-
+      O parque é acessível durante todo o ano, com as cautelas exigíveis nos meses invernais com neve. Quedas
+      de neve e nevoeiros densos são frequentes na montanha: consulta a meteorologia antes de iniciares
+      qualquer percurso.
+    around: >-
+      O [Parque de las Madonias (Sicilia)](/lugar/parco-delle-madonie/) situa-se a cerca de 20 km e constitui
+      com os Nébrodes e os Peloritanos o Apenino siciliano.
+fuentes:
+  - url: https://www.parcodeinebrodi.it/itinerari-dettaglio.php?id_iti=662
+    titulo: Sentiero delle Sorgenti
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcodeinebrodi.it/itinerari-dettaglio.php?id_iti=2470
+    titulo: Portella Femmina Morta - Portella Dagara
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcodeinebrodi.it/itinerari-dettaglio.php?id_iti=659
+    titulo: Bosco Mangalaviti e Serra del Re
+    fecha_consulta: '2026-10-24'
+  - url: https://it.wikipedia.org/wiki/Parco_dei_Nebrodi
+    titulo: Parco dei Nebrodi — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Nebrodi_Mountains
+    titulo: Nebrodi Mountains — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcodeinebrodi.it/itinerari-dorsale-nebrodi.php
+    titulo: La Dorsale dei Nebrodi — Parco dei Nebrodi
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcodeinebrodi.it/centri-visita.php
+    titulo: I Centri informativi del Parco — Parco dei Nebrodi
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parco_dei_Nebrodi_presso_il_lago_ancipa.jpg
+    autor: Cavalloselvatico
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

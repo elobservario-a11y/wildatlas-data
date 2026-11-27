@@ -1,0 +1,812 @@
+id: cerknisko-jezero
+estado_editorial: valoracion-revisada
+nombre:
+  es: Lago Intermitente de Cerknica
+  en: Lake Cerknica
+  fr: Lac intermittent de Cerknica
+  de: Sickersee von Cerknica
+  it: Lago intermittente di Cerknica
+  pt: Lago Intermitente de Cerknica
+nombre_original: Cerkniško Jezero
+alias:
+  - Cerkniško Jezero
+paises:
+  - SI
+region:
+  es: Carniola Interior (Cerknica)
+  en: Inner Carniola (Cerknica)
+  fr: Carniole-Intérieure (Cerknica)
+  de: Innerkrain (Cerknica)
+  it: Carniola interna (Cerknica)
+  pt: Carniola Interior (Cerknica)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.75
+  lon: 14.38
+  radio_km: 10
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 395237
+  nombre_en_la_fuente: Cerkniško jezero
+  capa: capas/cdda/cerknisko-jezero.geojson
+habitats:
+  - lake
+  - karst
+  - wetland
+designaciones:
+  - ramsar
+  - natura2000
+especies:
+  - crex_crex
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño cuando el lago está lleno de agua
+  en: spring and autumn when the lake is full of water
+  fr: printemps et automne lorsque le lac est plein d'eau
+  de: Frühling und Herbst, wenn der See voller Wasser ist
+  it: primavera e autunno quando il lago è pieno d'acqua
+  pt: primavera e outono quando o lago está cheio de água
+masificacion: 2
+masificacion_nota:
+  es: Media en miradores y paseos en embarcación en primavera
+  en: Moderate at viewpoints and for boat trips in spring
+  fr: Modérée aux belvédères et pour les sorties en barque au printemps
+  de: Mäßig an Aussichtspunkten und bei Bootsfahrten im Frühling
+  it: Media presso i punti panoramici e per le uscite in barca in primavera
+  pt: Média nos miradouros e passeios de barco na primavera
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Notranjski park
+    url: https://www.notranjski-park.si/
+  - titulo: Visita — Lago de Cerknica
+    url: https://notranjski-park.si/odkrijte/naravne-znamenitosti/cerknisko-jezero
+  - titulo: Centro de visitantes — Cerkniško jezero
+    url: https://notranjski-park.si/nacrtujte/center-za-obiskovalce-cerknisko-jezero
+  - titulo: Rutas — Sendero Drvošec
+    url: https://notranjski-park.si/aktivnosti/pohodnistvo/pot-drvosec
+  - titulo: Normas — Visita del parque
+    url: https://notranjski-park.si/nacrtujte/pravila-vedenja
+  - titulo: Mapa — Notranjski park y lago de Cerknica
+    url: https://notranjski-park.si/nacrtujte/zemljevid
+resumen:
+  es: >-
+    El mayor lago intermitente de Europa, que se llena y vacía totalmente a través de simas subterráneas
+    kársticas.
+  en: >-
+    Europe's largest intermittent lake, which fills and empties completely through underground karst
+    sinkholes.
+  fr: >-
+    Le plus grand lac intermittent d'Europe, qui se remplit et se vide totalement à travers des gouffres
+    karstiques souterrains.
+  de: Der größte periodische See Europas, der sich über unterirdische Karstschlunde vollständig füllt und leert.
+  it: >-
+    Il maggiore lago intermittente d'Europa, che si riempie e si svuota del tutto attraverso inghiottitoi
+    carsici sotterranei.
+  pt: >-
+    O maior lago intermitente da Europa, que se enche e esvazia por completo através de sumidouros cársticos
+    subterrâneos.
+unico:
+  es: Es un lago que se llena y se vacía como respira, y cada visita muestra un paisaje distinto.
+  en: It is a lake that fills and empties like breathing, and each visit reveals a different landscape.
+  fr: >-
+    C'est un lac qui se remplit et se vide au rythme d'une respiration, et chaque visite révèle un paysage
+    différent.
+  de: >-
+    Es ist ein See, der sich füllt und leert wie ein Atemzug, und jeder Besuch enthüllt eine andere
+    Landschaft.
+  it: È un lago che si riempie e si svuota come un respiro, e ogni visita mostra un paesaggio diverso.
+  pt: É um lago que se enche e se esvazia como uma respiração, e cada visita revela uma paisagem diferente.
+observaciones:
+  es: >-
+    El nivel del agua manda: comprueba en el Centro de Visitantes el estado del lago antes de ir, porque de él
+    depende lo que verás y si se puede navegar. Las normas del parque piden no encender fuego, no coger flores
+    y no salirse de los senderos marcados. Por eso, si buscas el lago lleno, ve en primavera u otoño; si
+    prefieres prados y charcos, en la estación seca.
+texto:
+  es:
+    intro: >-
+      Un lago que desaparece. En Cerknica, en la Carniola Interior, la llanura se llena de agua tras las
+      lluvias y, cuando llega la sequía, el lago se vacía por completo, se oculta bajo tierra y deja en su
+      lugar prados, sumideros y charcos con peces atrapados. Es uno de los mayores lagos intermitentes de
+      Europa, y cuando está lleno es el mayor de Eslovenia. Por eso, en un mismo año y en el mismo sitio, se
+      puede remar, caminar o segar hierba.
+    landscape: >-
+      El lago aparece cada año en un polje, una llanura kárstica encajada entre las colinas Javorniki y la
+      meseta de Bloke por un lado, y el monte Slivnica por el otro. Todo funciona con una sola regla: el lago
+      se extiende cuando entra más agua de la que sale. Una fuerte lluvia de otoño lo llena en dos o tres
+      días; en primavera, el deshielo ayuda. El agua llega por debajo, desde las mesetas de Bloke y Vid, el
+      valle de Lož y el pie de las Javorniki, y el único afluente que corre por la superficie es el arroyo
+      Cerkniščica.
+
+
+      La salida es más lenta y toda kárstica. Sin lluvia, el lago se seca en tres o cuatro semanas, porque el
+      agua se hunde por ponores, sumideros y estavelas. Parte sale por el Jamski zaliv y reaparece en el valle
+      de Rakov Škocjan como río Rak; el resto va directamente a las fuentes del Ljubljanica, en el borde del
+      Barje de Liubliana. Así que el lago se reparte a dos vertientes. Suele secarse en mayo o junio, a veces
+      también en invierno, y se llena sobre todo tras las lluvias de otoño y con el deshielo.
+
+
+      No siempre manda el calendario. A veces el lago no desaparece durante varios años, y una vez estuvo seco
+      más de un año, en 1834–35.
+
+
+      La llanura tiene un archivo de historia científica. Valvasor fue el primero en investigar su hidrología,
+      lo que le valió ingresar en la Royal Society; de aquí sale la karstología, con términos como polje o
+      lago intermitente. Y los mapas de Europa recogen el lago desde el siglo XV.
+    wildlife: >-
+      El lago cambia de fauna a medida que cambia de agua. Aquí se han observado 303 especies de aves, la
+      mitad de las europeas, y también 45 de mamíferos, la mitad de las eslovenas, y 125 de mariposas diurnas.
+      Entre las aves, el [pigargo europeo](/especie/haliaeetus_albicilla/) y la [cigüeña
+      negra](/especie/ciconia_nigra/) anidan junto al [avetoro](/especie/botaurus_stellaris/) y el [guión de
+      codornices](/especie/crex_crex/), entre otras.
+
+
+      Cada estación tiene su espectáculo. En primavera, andarríos bastardos, combatientes y agachadizas
+      recorren la orilla, y los aguiluchos vuelan bajo sobre la llanura. En verano, los zampullines
+      cuellirrojos bucean al amanecer, la cigüeña negra llega a la marisma al anochecer y en noches despejadas
+      los guiones de codornices cantan sin parar. En otoño, el lago da comida y calma a bandadas de
+      [grullas](/especie/grus_grus/) en migración y a miles de aves acuáticas, mientras los pigargos
+      sobrevuelan el lago. Para verlas, lo mejor es ir poco antes del amanecer y hasta dos o tres horas
+      después, y poco antes del atardecer.
+
+
+      Cuando el lago se vacía, el bosque baja a la llanura. Osos, gatos monteses y turones salen a comer los
+      peces atrapados en los charcos, y las [nutrias](/especie/lutra_lutra/) recorren los meandros. Los peces
+      mismos saben esperar: la lota sale de la sombra al anochecer y, cuando el lago se seca, aguarda bajo
+      tierra hasta la siguiente inundación. En invierno, hasta 20.000 ranas comunes pueden reunirse en una
+      cueva, la mayor concentración de este tipo en Europa, y en primavera miles de anfibios salen al lago a
+      reproducirse.
+
+
+      Entre las plantas, los prados húmedos rebosan de gladiolos silvestres y orquídeas. Las plantas anfibias,
+      como el junco florido, se han adaptado al vaciado del lago y viven tanto en agua como en tierra. Hay 56
+      plantas de la Lista Roja eslovena y 2 especies que no crecen en ningún otro lugar de Eslovenia. Y tres
+      plantas carnívoras: la utricularia intermedia, la utricularia común y el rocío de sol de hoja oblonga.
+    visit: >-
+      El Centro de Visitantes del Lago de Cerknica es la mejor primera parada: una película de unos 15 minutos
+      y un cuestionario explican cómo se formó el lago, su geología y su hidrología. En Dolenje Jezero, el
+      Museo del Lago tiene una maqueta viva del relieve de la llanura y del sistema de aguas subterráneas, el
+      drevak (la barca típica del lago) y un parque etnográfico con más de 100 piezas, desde aparejos de pesca
+      tradicionales hasta patines antiguos y sierras de hielo.
+
+
+      Para recorrerlo a pie, el sendero Drvošec mide 3,7 km en un sentido, atraviesa el bosque y empieza en
+      los ponores de Rešeto. Lo marca el icono de un avetoro, y desde las plataformas de Kuharca y Klejni vrh
+      y la torre de Otočec, de 10 metros, se ve el fenómeno kárstico entero. El primer tramo, llano, es
+      accesible para sillas de ruedas. Más exigente es el monte Slivnica, de cumbre pelada, al que se llega
+      desde cada pueblo de su base; bajo la cima está la cueva Coprniška, de la que en invierno sale aire
+      cálido y húmedo que se condensa en niebla, y de ahí viene la leyenda de que allí vivían brujas.
+
+
+      Con agua suficiente se puede navegar en canoa, de abril a septiembre. Para ver aves hay salidas guiadas
+      con ornitólogo que empiezan en el aula de ornitología del museo.
+    history: >-
+      El lago atrae a las personas desde la Edad de Piedra por su abundancia de peces y caza. Quienes siegan
+      sus prados inundables mantienen, hoy, el hábitat de flora y fauna amenazadas.
+
+
+      El lago es zona Natura 2000 y Zona Importante para las Aves de BirdLife, y junto con el valle de Rakov
+      Škocjan y la cueva de Križna es humedal Ramsar. El Parque Regional de Notranjska lo creó el municipio de
+      Cerknica en 2002.
+    before: >-
+      El nivel del agua manda: comprueba en el Centro de Visitantes el estado del lago antes de ir, porque de
+      él depende lo que verás y si se puede navegar. Las normas del parque piden no encender fuego, no coger
+      flores y no salirse de los senderos marcados. Por eso, si buscas el lago lleno, ve en primavera u otoño;
+      si prefieres prados y charcos, en la estación seca.
+    around: >-
+      A solo 1 km, los [Bosques y Meseta Kárstica de
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) bordean la llanura, y el [Macizo
+      Forestal de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) está pegado al lago, a 0 km. A unos
+      10 km queda la [Meseta Kárstica de Nanos](/lugar/kraska-planota-nanos/); a 15, el [Complejo Forestal de
+      Kočevsko](/lugar/kocevski-gozdni-kompleks/); a dieciséis, el [Parque Paisajístico del Marjal de
+      Liubliana](/lugar/krajinski-park-ljubljansko-barje/), donde asoman las fuentes del Ljubljanica a las que
+      llega parte del agua del lago; y a veintisiete, las [Cuevas de Škocjan](/lugar/park-skocjanske-jame/).
+      El [Karst Clásico y Sistema Subterráneo Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) se
+      solapa con él.
+
+
+      Más lejos, el [Parque Nacional Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) comparte con
+      Cerknica el guión de codornices y los hábitats de lago y humedal.
+  en:
+    intro: >-
+      A lake that disappears. In Cerknica, in Inner Carniola, the plain fills with water after the rains and,
+      when drought sets in, the lake empties completely, slips underground, and leaves behind meadows,
+      sinkholes, and pools with trapped fish. It is one of Europe's largest intermittent lakes, and when full
+      it is the largest in Slovenia. That is why, in the same year and in the very same spot, you can row,
+      walk, or scythe grass.
+    landscape: >-
+      The lake appears each year in a polje, a karst plain tucked between the Javorniki hills and the Bloke
+      plateau on one side, and Mount Slivnica on the other. Everything works by a single rule: the lake
+      expands when more water comes in than goes out. A heavy autumn rain fills it in two or three days; in
+      spring, snowmelt helps. Water arrives from below, from the Bloke and Vid plateaus, the Lož Valley, and
+      the foot of the Javorniki hills, while the only surface tributary is the Cerkniščica stream.
+
+
+      The outflow is slower and entirely karstic. Without rain, the lake dries up in three or four weeks as
+      water sinks through ponors, swallow holes, and estavelles. Part flows out through Jamski zaliv and
+      re-emerges in the Rakov Škocjan valley as the Rak River; the rest runs straight to the springs of the
+      Ljubljanica at the edge of the Ljubljana Marshes. Thus the lake drains into two separate catchments. It
+      usually dries up in May or June, sometimes also in winter, and fills primarily after autumn rains and
+      spring melt.
+
+
+      The calendar does not always dictate things. At times the lake does not vanish for several years, and
+      once it stayed dry for over a year, in 1834–35.
+
+
+      The plain holds an archive of scientific history. Valvasor was the first to investigate its hydrology,
+      which earned him fellowship in the Royal Society; from here karstology emerged, with terms like polje
+      and intermittent lake. And European maps have recorded the lake since the fifteenth century.
+    wildlife: >-
+      The lake shifts its wildlife as its waters shift. Here 303 species of birds have been recorded, half of
+      all European species, along with 45 mammals, half of Slovenia's total, and 125 butterflies. Among the
+      birds, the [white-tailed eagle](/especie/haliaeetus_albicilla/) and the [black
+      stork](/especie/ciconia_nigra/) nest alongside the [Eurasian bittern](/especie/botaurus_stellaris/) and
+      the [corncrake](/especie/crex_crex/), among others.
+
+
+      Each season has its spectacle. In spring, wood sandpipers, ruffs, and snipes forage along the shore, and
+      harriers hunt low over the plain. In summer, red-necked grebes dive at dawn, black storks arrive at the
+      marsh by dusk, and on clear nights corncrakes call relentlessly. In autumn, the lake provides feeding
+      grounds and refuge to migrating flocks of [common cranes](/especie/grus_grus/) and thousands of
+      waterfowl, while white-tailed eagles patrol above. To see them, the best time is shortly before sunrise
+      and for two or three hours after, and shortly before sunset.
+
+
+      When the lake empties, the forest steps down into the plain. Bears, wildcats, and polecats forage on
+      trapped fish in shallow pools, and [Eurasian otters](/especie/lutra_lutra/) patrol the meanders. The
+      fish themselves know how to wait: the burbot emerges from shade at dusk and, when the lake dries up,
+      waits underground until the next flood. In winter, up to 20,000 common frogs can gather in a single
+      cave—the largest such gathering in Europe—and in spring thousands of amphibians head to the lake to
+      spawn.
+
+
+      Among plants, the damp meadows overflow with wild gladioli and orchids. Amphibious plants, such as
+      flowering rush, have adapted to the drying cycles and thrive both in water and on land. There are 56
+      plant species on the Slovenian Red List and 2 species found nowhere else in Slovenia. There are also
+      three carnivorous plants: intermediate bladderwort, common bladderwort, and oblong-leaved sundew.
+    visit: >-
+      The Lake Cerknica Visitor Centre is the best first stop: a 15-minute film and an interactive quiz
+      explain how the lake formed, its geology, and its hydrology. In Dolenje Jezero, the Lake Museum features
+      a working relief model of the plain and the subterranean water network, the drevak (the traditional lake
+      boat), and an ethnographic park with over 100 exhibits, from historic fishing gear to antique skates and
+      ice saws.
+
+
+      To explore on foot, the Drvošec trail covers 3.7 km one way, winding through the woods from the Rešeto
+      ponors. It is marked by a bittern icon, and viewing platforms at Kuharca and Klejni vrh plus the
+      10-metre Otočec tower offer views of the entire karst phenomenon. The first, flat section is wheelchair
+      accessible. Mount Slivnica is more demanding, with its bare summit accessible from the surrounding
+      villages; below the peak lies Coprniška cave, where warm, humid air vents in winter and condenses into
+      mist—sparking the local legend that witches dwelt within.
+
+
+      When water levels allow, canoeing is possible from April to September. For birdwatching, guided outings
+      with an ornithologist depart from the museum's ornithology classroom.
+    history: >-
+      People have been drawn to the lake since the Stone Age for its wealth of fish and game. Those who scythe
+      its floodplain meadows sustain, to this day, vital habitats for threatened flora and fauna.
+
+
+      The lake is a Natura 2000 site and a BirdLife Important Bird Area, and together with Rakov Škocjan
+      valley and Križna Cave forms a Ramsar wetland. Notranjska Regional Park was established by the
+      municipality of Cerknica in 2002.
+    before: >-
+      Water levels dictate everything: check the lake's condition at the Visitor Centre before visiting, as it
+      determines what you can see and whether boating is permitted. Park regulations prohibit lighting fires,
+      picking plants, and leaving marked trails. If you want to see a full lake, go in spring or autumn; if
+      you prefer meadows and sinkholes, visit in the dry season.
+    around: >-
+      Just 1 km away, the [Javorniki Forest and Karst
+      Plateau](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) border the plain, and the [Snežnik Forest
+      Massif](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) adjoins the lake directly at 0 km. About 10 km
+      away lies the [Nanos Karst Plateau](/lugar/kraska-planota-nanos/); at 15 km, the [Kočevsko Forest
+      Complex](/lugar/kocevski-gozdni-kompleks/); sixteen kilometres away, the [Ljubljana Marsh Landscape
+      Park](/lugar/krajinski-park-ljubljansko-barje/), where the springs of the Ljubljanica emerge, fed in
+      part by water from the lake; and twenty-seven kilometres away, the [Škocjan
+      Caves](/lugar/park-skocjanske-jame/). The [Classical Karst and Postojna-Planina Cave
+      System](/lugar/postonjska-jama---planinsko-polje/) overlaps directly.
+
+
+      Further away, [Fertő-Hanság National Park](/lugar/ferto-hansag-nemzeti-park---hansag/) shares with
+      Cerknica the corncrake and lake and wetland habitats.
+  fr:
+    intro: >-
+      Un lac qui disparaît. À Cerknica, en Carniole-Intérieure, la plaine se remplit d'eau après les pluies
+      et, lorsque survient la sécheresse, le lac se vide complètement, s'engouffre sous terre et laisse à sa
+      place des prairies, des gouffres et des mares où restent piégés des poissons. C'est l'un des plus grands
+      lacs intermittents d'Europe, et lorsqu'il est plein, le plus étendu de Slovénie. C'est pourquoi, au
+      cours d'une même année et au même endroit, vous pouvez ramer, marcher ou faucher l'herbe.
+    landscape: >-
+      Le lac apparaît chaque année dans un poljé, une plaine karstique encaissée entre les collines de
+      Javorniki et le plateau de Bloke d'un côté, et le mont Slivnica de l'autre. Tout fonctionne selon une
+      seule règle : le lac s'étend lorsqu'il entre plus d'eau qu'il n'en sort. Une forte pluie d'automne le
+      remplit en deux ou trois jours ; au printemps, la fonte des neiges y contribue. L'eau arrive du
+      sous-sol, depuis les plateaux de Bloke et de Vid, la vallée de Lož et le pied des Javorniki, et le seul
+      affluent qui coule en surface est le ruisseau Cerkniščica.
+
+
+      L'évacuation est plus lente et entièrement karstique. Sans pluie, le lac s'assèche en trois ou quatre
+      semaines, car l'eau s'enfonce par des ponors, des gouffres et des estavelles. Une partie s'échappe par
+      Jamski zaliv et réapparaît dans la vallée de Rakov Škocjan sous le nom de rivière Rak ; le reste rejoint
+      directement les sources de la Ljubljanica, en bordure du marais de Ljubljana. Le lac se partage ainsi
+      entre deux bassins versants. Il s'assèche d'ordinaire en mai ou juin, parfois aussi en hiver, et se
+      remplit surtout après les pluies d'automne et à la fonte des neiges.
+
+
+      Le calendrier n'est pas toujours maître du jeu. Il arrive que le lac ne disparaisse pas pendant
+      plusieurs années, et il est déjà resté à sec pendant plus d'un an, en 1834–35.
+
+
+      La plaine conserve une mémoire scientifique précieuse. Valvasor fut le premier à étudier son hydrologie,
+      ce qui lui valut d'entrer à la Royal Society ; c'est ici qu'est née la karstologie, avec des termes
+      comme poljé ou lac intermittent. Et les cartes d'Europe mentionnent le lac dès le XVe siècle.
+    wildlife: >-
+      Le lac renouvelle sa faune au fil des variations de son niveau d'eau. On y a observé 303 espèces
+      d'oiseaux, soit la moitié des espèces européennes, ainsi que 45 de mammifères, la moitié des espèces
+      slovènes, et 125 papillons diurnes. Parmi les oiseaux, le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/) et la [cigogne noire](/especie/ciconia_nigra/) nichent aux
+      côtés du [butor étoilé](/especie/botaurus_stellaris/) et du [râle des genêts](/especie/crex_crex/),
+      entre autres.
+
+
+      Chaque saison offre son spectacle. Au printemps, chevaliers sylvains, combattants variés et bécassines
+      arpentent les berges, et les busards chassent au ras de la plaine. En été, les grèbes jougris plongent à
+      l'aube, la cigogne noire gagne le marais au crépuscule et par nuit claire les râles des genêts chantent
+      sans répit. En automne, le lac offre nourriture et quiétude aux vols de [grues
+      cendrées](/especie/grus_grus/) en migration et à des milliers d'oiseaux d'eau, tandis que les pygargues
+      planent au-dessus des eaux. Pour les observer, le meilleur moment se situe peu avant le lever du soleil
+      et pendant deux ou trois heures après, ainsi que peu avant le coucher du soleil.
+
+
+      Quand le lac se vide, la forêt descend dans la plaine. Ours, chats sauvages et putois viennent consommer
+      les poissons piégés dans les mares, et les [loutres d'Europe](/especie/lutra_lutra/) parcourent les
+      méandres. Les poissons savent eux aussi attendre : la lotte de rivière quitte l'ombre au crépuscule et,
+      lorsque le lac s'assèche, patiente sous terre jusqu'à la prochaine crue. En hiver, jusqu'à 20 000
+      grenouilles rousses peuvent se rassembler dans une grotte, la plus grande concentration de ce type en
+      Europe, et au printemps des milliers d'amphibiens gagnent le lac pour se reproduire.
+
+
+      Côté flore, les prairies humides regorgent de glaïeuls sauvages et d'orchidées. Des plantes amphibies,
+      comme le butome à ombelle, se sont adaptées à l'assèchement du lac et vivent aussi bien dans l'eau que
+      sur terre. On compte 56 plantes inscrites sur la Liste rouge slovène et 2 espèces qui ne poussent nulle
+      part ailleurs en Slovénie. On y trouve aussi trois plantes carnivores : l'utriculaire intermédiaire,
+      l'utriculaire commune et le droséra à feuilles oblongues.
+    visit: >-
+      Le centre d'accueil du lac de Cerknica constitue la première halte recommandée : un film d'environ 15
+      minutes et un questionnaire interactif expliquent la formation du lac, sa géologie et son hydrologie. À
+      Dolenje Jezero, le musée du Lac présente une maquette animée en relief de la plaine et du réseau
+      hydrologique souterrain, le drevak (la barque traditionnelle du lac) et un parc ethnographique
+      rassemblant plus de 100 pièces, des engins de pêche traditionnels aux patins anciens et scies à glace.
+
+
+      Pour l'explorer à pied, le sentier Drvošec s'étend sur 3,7 km à l'aller, traversant la forêt depuis les
+      ponors de Rešeto. Il est balisé par l'icône d'un butor, et les plates-formes de Kuharca et Klejni vrh
+      ainsi que la tour d'Otočec, haute de 10 mètres, permettent d'observer l'ensemble du phénomène karstique.
+      Le premier tronçon, plat, est accessible en fauteuil roulant. Plus exigeant, le mont Slivnica et son
+      sommet dégarni sont accessibles depuis chacun des villages situés à sa base ; sous le sommet s'ouvre la
+      grotte Coprniška, d'où s'échappe en hiver un air tiède et humide qui se condense en brouillard, à
+      l'origine de la légende voulant que des sorcières y habitaient.
+
+
+      Lorsque le niveau d'eau est suffisant, on peut naviguer en canoë, d'avril à septembre. Pour observer les
+      oiseaux, des sorties accompagnées par un ornithologue partent de la salle d'ornithologie du musée.
+    history: >-
+      Le lac attire les populations humaines depuis l'âge de la pierre pour l'abondance de ses poissons et de
+      son gibier. Ceux qui fauchent ses prairies inondables maintiennent, aujourd'hui encore, l'habitat d'une
+      flore et d'une faune menacées.
+
+
+      Le lac est classé zone Natura 2000 et Zone importante pour la conservation des oiseaux (ZICO) par
+      BirdLife, et forme avec la vallée de Rakov Škocjan et la grotte de Križna une zone humide Ramsar. Le
+      parc régional de Notranjska a été créé par la municipalité de Cerknica en 2002.
+    before: >-
+      Le niveau d'eau impose ses règles : renseignez-vous au centre d'accueil sur l'état du lac avant de
+      partir, car il détermine ce que vous verrez et la possibilité de naviguer. Le règlement du parc interdit
+      d'allumer du feu, de cueillir des fleurs et de quitter les sentiers balisés. Si vous recherchez un lac
+      plein, venez au printemps ou en automne ; si vous préférez les prairies et les gouffres, privilégiez la
+      saison sèche.
+    around: >-
+      À seulement 1 km, les [forêts et plateau karstique de
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) bordent la plaine, et le [massif
+      forestier de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) touche directement le lac, à 0 km.
+      À environ 10 km se trouve le [plateau karstique de Nanos](/lugar/kraska-planota-nanos/) ; à 15 km, le
+      [complexe forestier de Kočevsko](/lugar/kocevski-gozdni-kompleks/) ; à seize kilomètres, le [parc
+      paysager du marais de Ljubljana](/lugar/krajinski-park-ljubljansko-barje/), où émergent les sources de
+      la Ljubljanica alimentées en partie par les eaux du lac ; et à vingt-sept kilomètres, les [grottes de
+      Škocjan](/lugar/park-skocjanske-jame/). Le [karst classique et réseau souterrain de
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) chevauche directement le site.
+
+
+      Plus loin, le [parc national de Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) partage avec
+      Cerknica le râle des genêts ainsi que des milieux de lac et de zone humide.
+  de:
+    intro: >-
+      Ein See, der verschwindet. In Cerknica, in der Innerkrain, füllt sich die Ebene nach den Regenfällen mit
+      Wasser, und wenn die Trockenheit einsetzt, leert sich der See vollständig, taucht in den Untergrund ab
+      und hinterlässt Wiesen, Schlucklöcher und Tümpel mit gefangenen Fischen. Er ist einer der größten
+      periodischen Seen Europas, und wenn er gefüllt ist, der größte See Sloweniens. Deshalb kannst du im
+      selben Jahr und am selben Ort rudern, spazieren gehen oder Gras mähen.
+    landscape: >-
+      Der See erscheint jedes Jahr in einem Polje, einer Karstebene, die zwischen den Javorniki-Hügeln und der
+      Bloke-Hochebene auf der einen Seite und dem Berg Slivnica auf der anderen Seite eingebettet ist. Alles
+      funktioniert nach einer einzigen Regel: Der See dehnt sich aus, wenn mehr Wasser hineinfließt als
+      abfließt. Ein kräftiger Herbstregen füllt ihn in zwei oder drei Tagen; im Frühling hilft die
+      Schneeschmelze. Das Wasser kommt von unten, von den Hochebenen Bloke und Vid, dem Lož-Tal und dem Fuß
+      der Javorniki-Hügel, und der einzige oberirdische Zufluss ist der Bach Cerkniščica.
+
+
+      Der Abfluss ist langsamer und rein karstisch. Ohne Regen trocknet der See in drei oder vier Wochen aus,
+      da das Wasser in Ponoren, Schlucklöchern und Estavellen versickert. Ein Teil fließt durch die Jamski
+      zaliv ab und taucht im Tal von Rakov Škocjan als Fluss Rak wieder auf; der Rest fließt direkt zu den
+      Quellen der Ljubljanica am Rande des Laibacher Moores. Der See entwässert somit in zwei Einzugsgebiete.
+      Meist trocknet er im Mai oder Juni aus, manchmal auch im Winter, und füllt sich vor allem nach den
+      Herbstregen und bei der Schneeschmelze.
+
+
+      Der Kalender hat nicht immer das Sagen. Manchmal verschwindet der See über mehrere Jahre nicht, und
+      einmal blieb er mehr als ein Jahr lang trocken, 1834–35.
+
+
+      Die Ebene birgt ein Archiv der Wissenschaftsgeschichte. Valvasor untersuchte als Erster ihre Hydrologie,
+      was ihm die Aufnahme in die Royal Society einbrachte; von hier ging die Karstologie aus, mit Begriffen
+      wie Polje oder Sickersee. Und europäische Karten verzeichnen den See seit dem fünfzehnten Jahrhundert.
+    wildlife: >-
+      Der See wandelt seine Tierwelt im gleichen Maße wie sein Wasser. Hier wurden 303 Vogelarten beobachtet,
+      die Hälfte aller europäischen Arten, sowie 45 Säugetierarten, die Hälfte der slowenischen, und 125
+      Tagfalter. Unter den Vögeln nisten der [Seeadler](/especie/haliaeetus_albicilla/) und der
+      [Schwarzstorch](/especie/ciconia_nigra/) neben der [Rohrdommel](/especie/botaurus_stellaris/) und dem
+      [Wachtelkönig](/especie/crex_crex/), unter vielen anderen.
+
+
+      Jede Jahreszeit hat ihr Schauspiel. Im Frühling streifen Bruchwasserläufer, Kampfläufer und Bekassinen
+      am Ufer entlang, und Weihen jagen tief über der Ebene. Im Sommer tauchen Rothalstaucher in der
+      Morgendämmerung, der Schwarzstorch erreicht das Moor bei Einbruch der Dunkelheit und in klaren Nächten
+      rufen die Wachtelkönige ununterbrochen. Im Herbst bietet der See ziehenden Trupps von
+      [Kranichen](/especie/grus_grus/) und Tausenden von Wasservögeln Nahrung und Ruhe, während Seeadler über
+      dem See kreisen. Um sie zu beobachten, kommst du am besten kurz vor Sonnenaufgang und bis zu zwei oder
+      drei Stunden danach sowie kurz vor Sonnenuntergang.
+
+
+      Wenn sich der See leert, zieht der Wald in die Ebene hinab. Bären, Wildkatzen und Iltisse fressen die in
+      den Tümpeln gefangenen Fische, und [Fischotter](/especie/lutra_lutra/) durchstreifen die Mäander. Die
+      Fische selbst verstehen zu warten: Die Quappe kommt in der Abenddämmerung aus dem Schatten hervor, und
+      wenn der See austrocknet, verharrt sie unter der Erde bis zur nächsten Überflutung. Im Winter können
+      sich bis zu 20.000 Grasfrösche in einer einzigen Höhle versammeln—die größte derartige Konzentration in
+      Europa—, und im Frühling wandern Tausende Amphibien zum See, um sich fortzupflanzen.
+
+
+      Unter den Pflanzen quellen die Feuchtwiesen von wilden Gladiolen und Orchideen über. Amphibische
+      Pflanzen wie die Schwanenblume haben sich an das Trockenfallen angepasst und gedeihen sowohl im Wasser
+      als auch an Land. Es gibt 56 Pflanzenarten der Roten Liste Sloweniens und 2 Arten, die nirgendwo sonst
+      in Slowenien wachsen. Hinzu kommen drei fleischfressende Pflanzen: Mittlerer Wasserschlauch,
+      Gewöhnlicher Wasserschlauch und Mittlerer Sonnentau.
+    visit: >-
+      Das Besucherzentrum des Cerknica-Sees ist die beste erste Anlaufstelle: Ein Film von etwa 15 Minuten und
+      ein Quiz erklären die Entstehung des Sees, seine Geologie und Hydrologie. In Dolenje Jezero zeigt das
+      Seemuseum ein bewegliches Reliefmodell der Ebene und des unterirdischen Wassersystems, das Drevak (das
+      traditionelle Holzboot des Sees) und einen ethnografischen Park mit mehr als 100 Exponaten, von
+      historischem Fischereigerät bis zu antiken Schlittschuhen und Eissägen.
+
+
+      Zu Fuß führt der Drvošec-Weg über 3,7 km in eine Richtung durch den Wald und beginnt an den
+      Rešeto-Ponoren. Er ist mit dem Symbol einer Rohrdommel markiert, und von den Plattformen Kuharca und
+      Klejni vrh sowie dem 10 Meter hohen Aussichtsturm Otočec überblickst du das gesamte Karstphänomen. Der
+      erste, flache Abschnitt ist rollstuhlgerecht. Anspruchsvoller ist der karge Berg Slivnica, der von jedem
+      Dorf an seinem Fuß aus erreichbar ist; unterhalb des Gipfels liegt die Coprniška-Höhle, aus der im
+      Winter feuchtwarme Luft strömt und zu Nebel kondensiert—Ursprung der Legende, dass dort Hexen hausten.
+
+
+      Bei ausreichendem Wasserstand kann von April bis September Kanu gefahren werden. Für Vogelbeobachtungen
+      gibt es geführte Touren mit einem Ornithologen, die im Vogelkunde-Raum des Museums beginnen.
+    history: >-
+      Der See zog wegen seines Fisch- und Wildreichtums schon seit der Steinzeit Menschen an. Diejenigen, die
+      seine Überschwemmungswiesen mähen, erhalten bis heute den Lebensraum bedrohter Pflanzen und Tiere.
+
+
+      Der See ist ein Natura-2000-Gebiet und ein Important Bird Area von BirdLife; zusammen mit dem
+      Rakov-Škocjan-Tal und der Križna-Höhle bildet er ein Ramsar-Feuchtgebiet. Der Regionalpark Notranjska
+      wurde 2002 von der Gemeinde Cerknica gegründet.
+    before: >-
+      Der Wasserstand bestimmt alles: Erkundige dich vor dem Aufbruch im Besucherzentrum über den Zustand des
+      Sees, da davon abhängt, was du sehen kannst und ob Bootfahren möglich ist. Die Parkregeln untersagen
+      offenes Feuer, das Pflücken von Blumen und das Verlassen markierter Wege. Wenn du einen vollen See
+      erleben möchtest, komm im Frühling oder Herbst; wenn du Wiesen und Schlucklöcher bevorzugst, in der
+      Trockenzeit.
+    around: >-
+      Nur 1 km entfernt säumen die [Wälder und Karsthochfläche von
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) die Ebene, und das
+      [Snežnik-Waldmassiv](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) grenzt bei 0 km direkt an den See
+      an. Etwa 10 km entfernt liegt die [Nanos-Karsthochfläche](/lugar/kraska-planota-nanos/); in 15 km
+      Entfernung der [Kočevsko-Waldkomplex](/lugar/kocevski-gozdni-kompleks/); sechzehn Kilometer entfernt der
+      [Landschaftspark Laibacher Moor](/lugar/krajinski-park-ljubljansko-barje/), wo die Quellen der
+      Ljubljanica austreten, gespeist von einem Teil des Seewassers; und siebenundzwanzig Kilometer entfernt
+      die [Höhlen von Škocjan](/lugar/park-skocjanske-jame/). Der [Klassische Karst und das
+      Postojna-Planina-Höhlensystem](/lugar/postonjska-jama---planinsko-polje/) überschneidet sich direkt.
+
+
+      Weiter entfernt teilt der [Nationalpark Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) mit
+      Cerknica den Wachtelkönig sowie See- und Feuchtgebietslebensräume.
+  it:
+    intro: >-
+      Un lago che scompare. A Cerknica, nella Carniola interna, la pianura si riempie d'acqua dopo le piogge
+      e, all'arrivo della siccità, il lago si svuota del tutto, si nasconde nel sottosuolo e lascia al suo
+      posto prati, inghiottitoi e pozze con pesci intrappolati. È uno dei maggiori laghi intermittenti
+      d'Europa, e quando è colmo è il più esteso della Slovenia. Per questo, nello stesso anno e nello stesso
+      punto, puoi remare, camminare o falciare l'erba.
+    landscape: >-
+      Il lago compare ogni anno in un polje, una pianura carsica incassata tra le colline Javorniki e
+      l'altopiano di Bloke da un lato, e il monte Slivnica dall'altro. Tutto funziona secondo un'unica regola:
+      il lago si estende quando entra più acqua di quanta ne esca. Una forte pioggia autunnale lo colma in due
+      o tre giorni; in primavera, il disgelo dà man forte. L'acqua arriva dal sottosuolo, dagli altopiani di
+      Bloke e Vid, dalla valle di Lož e dai piedi delle Javorniki, e l'unico affluente che scorre in
+      superficie è il torrente Cerkniščica.
+
+
+      Il deflusso è più lento e interamente carsico. Senza pioggia, il lago si asciuga in tre o quattro
+      settimane, poiché l'acqua sprofonda attraverso ponor, inghiottitoi ed estavelle. Parte defluisce dallo
+      Jamski zaliv e riaffiora nella valle di Rakov Škocjan come fiume Rak; il resto va direttamente alle
+      risorgive del Ljubljanica, ai margini della palude di Lubiana. Il lago si ripartisce così su due bacini.
+      Di solito si prosciuga a maggio o giugno, a volte anche in inverno, e si riempie soprattutto dopo le
+      piogge autunnali e con il disgelo.
+
+
+      Non è sempre il calendario a dettare legge. Talvolta il lago non scompare per diversi anni, e una volta
+      rimase asciutto per oltre un anno, nel 1834–35.
+
+
+      La pianura conserva un prezioso archivio di storia scientifica. Valvasor fu il primo a indagarne
+      l'idrologia, guadagnandosi l'ammissione alla Royal Society; da qui ha origine la carsologia, con termini
+      come polje o lago intermittente. E le carte geografiche europee riportano il lago fin dal XV secolo.
+    wildlife: >-
+      Il lago muta la propria fauna man mano che cambia l'acqua. Qui sono state osservate 303 specie di
+      uccelli, la metà di quelle europee, oltre a 45 di mammiferi, la metà di quelle slovene, e 125 di
+      farfalle diurne. Tra i volatili, l'[aquila di mare](/especie/haliaeetus_albicilla/) e la [cicogna
+      nera](/especie/ciconia_nigra/) nidificano accanto al [tarabuso](/especie/botaurus_stellaris/) e al [re
+      di quaglie](/especie/crex_crex/), fra gli altri.
+
+
+      Ogni stagione offre il proprio spettacolo. In primavera, piro piro boscherecci, combattenti e beccaccini
+      perlustrano le rive, mentre le albanelle volano basse sulla pianura. In estate, gli svassi collorosso si
+      tuffano all'alba, la cicogna nera raggiunge la palude all'imbrunire e nelle notti limpide i re di
+      quaglie cantano senza sosta. In autunno, il lago dona cibo e quiete agli stormi di
+      [gru](/especie/grus_grus/) in migrazione e a migliaia di uccelli acquatici, mentre le aquile di mare
+      volteggiano sulle acque. Per osservarli, il momento migliore è poco prima dell'alba e per due o tre ore
+      successive, e poco prima del tramonto.
+
+
+      Quando il lago si svuota, il bosco scende nella pianura. Orsi, gatti selvatici e puzzole escono per
+      nutrirsi dei pesci intrappolati nelle pozze, e le [lontre europee](/especie/lutra_lutra/) risalgono i
+      meandri. Gli stessi pesci sanno attendere: la bottatrice esce dall'ombra all'imbrunire e, quando il lago
+      si prosciuga, aspetta nel sottosuolo fino alla piena successiva. In inverno, fino a 20.000 rane alpine
+      possono radunarsi in una grotta, la massima concentrazione del genere in Europa, e in primavera migliaia
+      di anfibi raggiungono il lago per riprodursi.
+
+
+      Tra le piante, i prati umidi traboccano di gladioli selvatici e orchidee. Le specie anfibie, come il
+      giunco fiorito, si sono adattate allo svuotamento del lago e vivono sia in acqua che a terra. Si contano
+      56 piante della Lista Rossa slovena e 2 specie che non crescono in nessun altro luogo della Slovenia. Vi
+      sono inoltre tre piante carnivore: l'utricularia intermedia, l'utricularia comune e la drosera a foglie
+      lunghe.
+    visit: >-
+      Il Centro visite del lago di Cerknica è la migliore prima tappa: un filmato di circa 15 minuti e un quiz
+      interattivo spiegano la formazione del lago, la sua geologia e la sua idrologia. A Dolenje Jezero, il
+      Museo del lago ospita un modello dinamico in rilievo della pianura e della rete idrografica sotterranea,
+      il drevak (la tipica imbarcazione locale) e un parco etnografico con oltre 100 pezzi, dalle attrezzature
+      da pesca tradizionali fino a pattini d'epoca e seghe da ghiaccio.
+
+
+      Per muoverti a piedi, il sentiero Drvošec misura 3,7 km a tratta, si snoda nel bosco e inizia presso gli
+      inghiottitoi di Rešeto. È contrassegnato dall'icona di un tarabuso, e dalle piattaforme di Kuharca e
+      Klejni vrh nonché dalla torre di Otočec, alta 10 metri, si domina l'intero fenomeno carsico. Il primo
+      tratto, pianeggiante, è accessibile in sedia a rotelle. Più impegnativo è il monte Slivnica, dalla cima
+      spoglia, raggiungibile da ciascun paese alle sue pendici; sotto la vetta si trova la grotta Coprniška,
+      dalla quale in inverno fuoriesce aria calda e umida che condensa in nebbia, dando origine alla leggenda
+      che vi dimorassero le streghe.
+
+
+      Con un livello d'acqua sufficiente si può navigare in canoa, da aprile a settembre. Per il birdwatching
+      sono organizzate uscite guidate con un ornitologo che partono dall'aula ornitologica del museo.
+    history: >-
+      Il lago attira le comunità umane fin dall'età della pietra per l'abbondanza di pesce e selvaggina. Chi
+      falcia i suoi prati alluvionali preserva, ancora oggi, l'habitat di una flora e di una fauna minacciate.
+
+
+      Il lago è zona Natura 2000 e Important Bird Area di BirdLife, e assieme alla valle di Rakov Škocjan e
+      alla grotta di Križna costituisce una zona umida Ramsar. Il Parco regionale della Notranjska è stato
+      istituito dal comune di Cerknica nel 2002.
+    before: >-
+      Il livello dell'acqua comanda: informati presso il Centro visite sullo stato del lago prima di metterti
+      in cammino, poiché da esso dipende ciò che potrai vedere e la possibilità di navigare. Il regolamento
+      del parco vieta di accendere fuochi, raccogliere fiori e uscire dai sentieri tracciati. Se cerchi il
+      lago colmo, visitalo in primavera o autunno; se preferisci prati e inghiottitoi, durante la stagione
+      secca.
+    around: >-
+      A solo 1 km, i [boschi e altopiano carsico di
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) delimitano la pianura, e il [massiccio
+      forestale di Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) è a contatto diretto con il lago, a
+      0 km. A circa 10 km si trova l'[altopiano carsico di Nanos](/lugar/kraska-planota-nanos/); a 15, il
+      [complesso forestale di Kočevsko](/lugar/kocevski-gozdni-kompleks/); a sedici, il [parco paesaggistico
+      della palude di Lubiana](/lugar/krajinski-park-ljubljansko-barje/), dove affiorano le risorgive del
+      Ljubljanica alimentate in parte dalle acque del lago; e a ventisette, le [grotte di San Canziano
+      (Škocjan)](/lugar/park-skocjanske-jame/). Il [carso classico e sistema sotterraneo
+      Postumia-Planina](/lugar/postonjska-jama---planinsko-polje/) si sovrappone direttamente.
+
+
+      Più lontano, il [Parco nazionale Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) condivide con
+      Cerknica il re di quaglie e gli habitat lacustri e palustri.
+  pt:
+    intro: >-
+      Um lago que desaparece. Em Cerknica, na Carniola Interior, a planície enche-se de água após as chuvas e,
+      quando chega a seca, o lago esvazia-se por completo, oculta-se no subsolo e deixa no seu lugar prados,
+      sumidouros e poças com peixes encurralados. É um dos maiores lagos intermitentes da Europa e, quando
+      cheio, o maior da Eslovénia. Por isso, no mesmo ano e no mesmo sítio, podes remar, caminhar ou ceifar
+      erva.
+    landscape: >-
+      O lago surge todos os anos num polje, uma planície cárstica encaixada entre as colinas de Javorniki e o
+      planalto de Bloke de um lado, e o monte Slivnica do outro. Tudo funciona segundo uma única regra: o lago
+      expande-se quando entra mais água do que a que sai. Uma chuva forte de outono enche-o em dois ou três
+      dias; na primavera, o degelo ajuda. A água chega por baixo, a partir dos planaltos de Bloke e Vid, do
+      vale de Lož e do sopé das Javorniki, e o único afluente que corre à superfície é o ribeiro Cerkniščica.
+
+
+      A saída é mais lenta e inteiramente cárstica. Sem chuva, o lago seca em três ou quatro semanas, à medida
+      que a água se afunda por ponores, sumidouros e estavelles. Parte sai por Jamski zaliv e reaparece no
+      vale de Rakov Škocjan como rio Rak; o resto corre diretamente para as nascentes do Ljubljanica, no bordo
+      do pântano de Liubliana. Assim, o lago divide-se por duas bacias. Seca habitualmente em maio ou junho,
+      por vezes também no inverno, e enche-se sobretudo após as chuvas de outono e com o degelo.
+
+
+      Nem sempre é o calendário que manda. Por vezes o lago não desaparece durante vários anos, e uma vez
+      esteve seco mais de um ano, em 1834–35.
+
+
+      A planície guarda um arquivo de história científica. Valvasor foi o primeiro a investigar a sua
+      hidrologia, feito que lhe valeu a admissão na Royal Society; daqui nasceu a carstologia, com termos como
+      polje ou lago intermitente. E os mapas da Europa registam o lago desde o século XV.
+    wildlife: >-
+      O lago renova a sua fauna à medida que o nível da água varia. Foram aqui observadas 303 espécies de
+      aves, metade das espécies europeias, e também 45 de mamíferos, metade das eslovenas, bem como 125
+      borboletas diurnas. Entre as aves, a [águia-rabalva](/especie/haliaeetus_albicilla/) e a
+      [cegonha-preta](/especie/ciconia_nigra/) nidificam ao lado do [abcaravão](/especie/botaurus_stellaris/)
+      e do [codornizão](/especie/crex_crex/), entre outras.
+
+
+      Cada estação tem o seu espetáculo. Na primavera, maçaricos-bastardos, combatentes e narcejas percorrem a
+      margem, e os tartaranhões voam rente à planície. No verão, os mergulhões-de-pescoço-castanho mergulham
+      ao amanhecer, a cegonha-preta chega ao sapal ao entardecer e nas noites límpidas os codornizões cantam
+      sem cessar. No outono, o lago dá alimento e tranquilidade a bandos de [grou-comum](/especie/grus_grus/)
+      em migração e a milhares de aves aquáticas, enquanto as águias-rabalvas sobrevoam as águas. Para as
+      avistar, o melhor é ir pouco antes do nascer do sol e até duas ou três horas depois, ou pouco antes do
+      pôr do sol.
+
+
+      Quando o lago se esvazia, a floresta desce até à planície. Ursos, gatos-bravos e toirões saem para comer
+      os peixes encurralados nas poças, e as [lontras-europeias](/especie/lutra_lutra/) percorrem os meandros.
+      Os próprios peixes sabem esperar: a lota sai da sombra ao entardecer e, quando o lago seca, aguarda
+      debaixo de terra até à inundação seguinte. No inverno, até 20.000 rãs-castanhas podem reunir-se numa
+      caverna, a maior concentração deste tipo na Europa, e na primavera milhares de anfíbios saem para o lago
+      para se reproduzirem.
+
+
+      Entre as plantas, os prados húmidos transbordam de gladíolos silvestres e orquídeas. As plantas
+      anfíbias, como o junco-florido, adaptaram-se ao esvaziamento do lago e vivem tanto na água como em
+      terra. Há 56 plantas da Lista Vermelha eslovena e 2 espécies que não crescem em nenhum outro lugar da
+      Eslovénia. E três plantas carnívoras: a utriculária-intermédia, a utriculária-comum e a
+      drósera-de-folhas-oblongas.
+    visit: >-
+      O Centro de Visitantes do Lago de Cerknica é a melhor primeira paragem: um filme de cerca de 15 minutos
+      e um questionário explicam como se formou o lago, a sua geologia e hidrologia. Em Dolenje Jezero, o
+      Museu do Lago apresenta uma maquete viva do relevo da planície e do sistema de águas subterrâneas, o
+      drevak (o barco tradicional do lago) e um parque etnográfico com mais de 100 peças, desde apetrechos de
+      pesca tradicionais até patins antigos e serras de gelo.
+
+
+      Para o percorrer a pé, o trilho Drvošec mede 3,7 km num sentido, atravessando a floresta a partir dos
+      ponores de Rešeto. Está marcado pelo ícone de um abcaravão, e das plataformas de Kuharca e Klejni vrh e
+      da torre de Otočec, de 10 metros, avista-se todo o fenómeno cárstico. O primeiro troço, plano, é
+      acessível a cadeiras de rodas. Mais exigente é o monte Slivnica, de cume despido, ao qual se chega a
+      partir de cada aldeia da sua base; sob o topo fica a gruta Coprniška, de onde no inverno sai ar quente e
+      húmido que condensa em nevoeiro, origem da lenda de que ali viviam bruxas.
+
+
+      Com água suficiente é possível navegar de canoa, de abril a setembro. Para observação de aves existem
+      saídas guiadas com um ornitólogo que partem da sala de ornitologia do museu.
+    history: >-
+      O lago atrai os seres humanos desde a Idade da Pedra pela abundância de peixe e caça. Quem ceifa os seus
+      prados inundáveis mantém, hoje em dia, o habitat de flora e fauna ameaçadas.
+
+
+      O lago é zona Natura 2000 e Zona Importante para as Aves da BirdLife, e juntamente com o vale de Rakov
+      Škocjan e a gruta de Križna é uma zona húmida Ramsar. O Parque Regional de Notranjska foi criado pelo
+      município de Cerknica em 2002.
+    before: >-
+      O nível da água manda: confirma no Centro de Visitantes o estado do lago antes de ires, pois dele
+      depende o que verás e se é possível navegar. As normas do parque proíbem acender fogueiras, colher
+      flores e sair dos trilhos marcados. Se procuras o lago cheio, vai na primavera ou no outono; se preferes
+      prados e sumidouros, na estação seca.
+    around: >-
+      A apenas 1 km, as [Florestas e Planalto Cárstico de
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/) confinam com a planície, e o [Maciço
+      Florestal de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) está colado ao lago, a 0 km. A
+      cerca de 10 km fica o [Planalto Cárstico de Nanos](/lugar/kraska-planota-nanos/); a 15, o [Complexo
+      Florestal de Kočevsko](/lugar/kocevski-gozdni-kompleks/); a dezasseis, o [Parque Paisagístico do Pântano
+      de Liubliana](/lugar/krajinski-park-ljubljansko-barje/), onde surgem as nascentes do Ljubljanica
+      alimentadas em parte pelas águas do lago; e a vinte e sete, as [Grutas de
+      Škocjan](/lugar/park-skocjanske-jame/). O [Carso Clássico e Sistema Subterrâneo
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) sobrepõe-se diretamente.
+
+
+      Mais longe, o [Parque Nacional Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) partilha com
+      Cerknica o codornizão e os habitats de lago e zona húmida.
+fuentes:
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica
+    titulo: Lake Cerknica | Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/activities/bird-watching
+    titulo: Bird watching | Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/activities/hiking/drvosec-trail
+    titulo: Drvošec Trail | Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica/draining-of-the-lake
+    titulo: Draining of the lake – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://sl.wikipedia.org/wiki/Cerkni%C5%A1ko_jezero
+    titulo: Cerkniško jezero – Wikipedija
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Lake_Cerknica
+    titulo: Lake Cerknica – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://sl.wikipedia.org/wiki/Notranjski_regijski_park
+    titulo: Notranjski regijski park – Wikipedija
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica/other-animals
+    titulo: Other animals – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica/fish
+    titulo: Fish – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica/birds
+    titulo: Birds – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/experiences/the-mysterious-bird-life-of-lake-cerknica
+    titulo: The Mysterious Bird Life of Lake Cerknica – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/lake-cerknica/flora
+    titulo: Flora – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/slivnica
+    titulo: Slivnica – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/visitor-center-lake-cerknica
+    titulo: Visitor Center Lake Cerknica – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/experiences/museum-of-lake-cerknica
+    titulo: Museum of Lake Cerknica – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/experiences/canoe-safari
+    titulo: Canoe safari – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/rules-of-conduct
+    titulo: Rules of conduct – Notranjski park
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lake_Cerknica,_view_of_Vodonos_04.jpg
+    autor: Ajznponar
+    licencia: CC0
+    url_licencia: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-03'

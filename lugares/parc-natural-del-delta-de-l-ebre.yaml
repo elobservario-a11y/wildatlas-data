@@ -1,0 +1,733 @@
+id: parc-natural-del-delta-de-l-ebre
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Delta del Ebro
+  en: Ebro Delta Natural Park
+  fr: Parc naturel du delta de l'Èbre
+  de: Naturpark Ebrodelta
+  it: Parco Naturale del Delta dell'Ebro
+  pt: Parque Natural do Delta do Ebro
+nombre_original: Parc Natural del Delta de l'Ebre
+alias:
+  - Parc Natural del Delta de l'Ebre
+paises:
+  - ES
+region:
+  es: Cataluña (Tarragona / Deltebre / Sant Jaume d'Enveitja / Amposta)
+  en: Catalonia (Tarragona / Deltebre / Sant Jaume d'Enveitja / Amposta)
+  fr: Catalogne (Tarragone / Deltebre / Sant Jaume d'Enveitja / Amposta)
+  de: Katalonien (Tarragona / Deltebre / Sant Jaume d'Enveitja / Amposta)
+  it: Catalogna (Tarragona / Deltebre / Sant Jaume d'Enveitja / Amposta)
+  pt: Catalunha (Tarragona / Deltebre / Sant Jaume d'Enveitja / Amposta)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.72
+  lon: 0.73
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 196213
+  nombre_en_la_fuente: Delta de l`Ebre
+  categoria_uicn: V
+  capa: capas/cdda/parc-natural-del-delta-de-l-ebre.geojson
+habitats:
+  - wetland
+  - coast
+  - river_corridor
+designaciones:
+  - natural_park
+  - ramsar
+  - biosphere_reserve
+  - natura2000
+  - iucn_v
+especies:
+  - phoenicopterus_roseus
+  - larus_audouinii
+  - plegadis_falcinellus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y migración/invernada otoñal
+  en: spring and autumn migration/wintering
+  fr: printemps et migration/hivernage automnal
+  de: Frühling sowie herbstlicher Vogelzug und Überwinterung
+  it: primavera e migrazione/svernamento autunnale
+  pt: primavera e migração/invernada outonal
+masificacion: 2
+masificacion_nota:
+  es: Media en la playa del Trabucador y miradores del Ebro
+  en: Moderate at Trabucador beach and Ebro viewpoints
+  fr: Moyenne sur la plage du Trabucador et aux belvédères de l'Èbre
+  de: Mäßig am Strand des Trabucador und an den Aussichtspunkten des Ebro
+  it: Media sulla spiaggia del Trabucador e ai belvedere dell'Ebro
+  pt: Média na praia do Trabucador e miradouros do Ebro
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Información oficial del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/inici/
+  - titulo: Mapa — Cartografía del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/el-parc/mapa-del-parc/
+  - titulo: Guía de visita — Preparar la estancia
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/guia-de-visita/
+  - titulo: Rutas — Itinerarios del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+  - titulo: Centros de visitantes — Equipamientos del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/equipaments-i-itineraris/equipaments/
+  - titulo: Normas — Consejos para la visita
+    url: https://parcsnaturals.gencat.cat/ca/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/consells/
+resumen:
+  es: >-
+    El humedal más importante del Mediterráneo ibérico tras Doñana (320 km²), con lagunas de carrizo, barra de
+    arena del Trabucador y miles de flamencos.
+  en: >-
+    The most important wetland in the Iberian Mediterranean after Doñana (320 km²), featuring reed-fringed
+    lagoons, the Trabucador sandbar, and thousands of flamingos.
+  fr: >-
+    La zone humide la plus importante de la Méditerranée ibérique après Doñana (320 km²), avec ses lagunes
+    ceinturées de roseaux, le cordon sableux du Trabucador et des milliers de flamants.
+  de: >-
+    Das bedeutendste Feuchtgebiet im iberischen Mittelmeerraum nach Doñana (320 km²), mit schilfgesäumten
+    Lagunen, der Sandbank Trabucador und Tausenden Flamingos.
+  it: >-
+    La zona umida più rilevante del Mediterraneo iberico dopo Doñana (320 km²), con lagune orlate di canneti,
+    il cordone sabbioso del Trabucador e migliaia di fenicotteri.
+  pt: >-
+    A zona húmida mais relevante do Mediterrâneo ibérico a seguir a Doñana (320 km²), com lagoas orladas de
+    caniçais, o cordão arenoso do Trabucador e milhares de flamingos.
+unico:
+  es: >-
+    Una flecha de sedimentos de unos 22 km metida en el mar, con arrozales que hacen de humedal y lagunas más
+    saladas en invierno que en verano.
+  en: >-
+    A spit of sediment extending some 22 km into the sea, where rice paddies function as seasonal wetlands and
+    lagoons are saltier in winter than in summer.
+  fr: >-
+    Une flèche sédimentaire s'avançant d'environ 22 km dans la mer, où les rizières jouent le rôle de zones
+    humides et où les lagunes sont plus salées en hiver qu'en été.
+  de: >-
+    Eine rund 22 km weit ins Meer ragende Schwemmsandspitze, deren Reisfelder als Feuchtgebiet dienen und
+    deren Lagunen im Winter salziger sind als im Sommer.
+  it: >-
+    Una freccia alluvionale che si protende per circa 22 km nel mare, con risaie che fungono da zona umida e
+    lagune più salate in inverno che in estate.
+  pt: >-
+    Uma restinga sedimentar de cerca de 22 km lançada ao mar, onde os arrozais funcionam como zona húmida e as
+    lagoas são mais salgadas no inverno do que no verão.
+observaciones:
+  es: >-
+    Se llega por los pueblos de L'Ampolla y Deltebre, en el Baix Ebre, y Amposta, la Ràpita y Sant Jaume
+    d'Enveja, en el Montsià. Para ver aves, el parque recomienda la primavera y el otoño. La Punta del Fangar
+    se visita a pie y el parque mantiene balizada la zona por la nidificación.
+texto:
+  es:
+    intro: >-
+      En otoño, cuando ya se ha recogido el arroz, el Delta del Ebro se llena de pájaros. Entre octubre y
+      noviembre los campos siguen anegados, y miles de aves acuáticas los invaden, de paso o para quedarse el
+      invierno. Es la manera más rápida de entender este lugar: un paisaje hecho por un río, trabajado por el
+      ser humano y convertido, por pura abundancia de agua, en uno de los humedales más ricos de Cataluña. El
+      parque natural ocupa 7.805 hectáreas, y todas las poblaciones quedan fuera de él.
+    landscape: >-
+      El Ebro, el río más caudaloso de España, depositó aquí los materiales arrancados de su cabecera, hasta
+      formar una superficie de más de 320 km². La forma actual es una flecha perfectamente dibujada que
+      penetra unos 22 km en el mar. Desde la segunda mitad del siglo XX los embalses frenan los sedimentos que
+      hacían crecer el delta, y la erosión marina lo hace retroceder.
+
+
+      Dentro de la flecha conviven muchos ambientes: dunas con plantas como Zygophyllum album y Kostelezkya
+      pentacarpos, lagunas, salobrales, playas y arrozales. Hay 764 taxones de flora vascular y 23 hábitats de
+      la Directiva europea, dos de ellos prioritarios. Los arrozales cubren unas 20 000 ha, y su ciclo
+      gobierna el agua: en diciembre se cierran las compuertas y el agua se queda estancada; en marzo los
+      campos se preparan para sembrar; en abril vuelven a inundarse. Por eso la salinidad de las lagunas es
+      más alta en invierno que en verano, al revés de lo esperable: en verano llega agua dulce de los
+      arrozales.
+
+
+      Entre Amposta y la Ràpita están los ojales de Baltasar, surgencias de aguas subterráneas de la lluvia de
+      las montañas del Montsià y Els Ports. Solo son visitables los de la zona pública recreativa. Y la balsa
+      de L'Encanyissada, con 1.192 ha, es la mayor laguna del Delta.
+    wildlife: >-
+      El inventario recoge 343 especies de aves, 101 de peces y veintiuna de mamíferos. Las aves lo dominan
+      todo.
+
+
+      En primavera y verano, los carrizales de L'Encanyissada acogen las mayores colonias de cría de ardeidos:
+      garceta común, garcilla bueyera, avetorillo, [garza imperial](/especie/ardea_purpurea/) y garcilla
+      cangrejera. En la laguna de La Tancada, la más salina, es frecuente ver
+      [flamencos](/especie/phoenicopterus_roseus/), patos, fochas y somormujos. Desde la torre del puente de
+      El Través, sobre L'Encanyissada, se pueden ver el avetorillo, el calamón, el pato colorado, la
+      cigüeñuela, el [aguilucho lagunero](/especie/circus_aeruginosus/) y el carricero tordal. En el Canal
+      Vell, desde su torre, aparecen el [martinete](/especie/nycticorax_nycticorax/), el flamenco y, en
+      migración, el [avetoro](/especie/botaurus_stellaris/).
+
+
+      En la costa, las salinas de Sant Antoni son un buen lugar para gaviotas, charranes y limícolas; en la
+      época de cría hay numerosos charranes patinegros, comunes y charrancitos. Más allá de las dunas del
+      Fangar, una zona llana y arenosa es de reproducción muy importante para el charrán y el chorlitejo
+      patinegro. La playa de la isla de Buda es el mejor lugar del Delta para ver alcatraz atlántico, págalos,
+      el [alca](/especie/alca_torda/) y las pardelas mediterránea y balear.
+
+
+      El invierno tiene su cifra: los patos del Delta son más del 90 % de los invernantes de Cataluña y el 10
+      % de los de la Península Ibérica.
+    visit: >-
+      Empieza por el Ecomuseo, en Deltebre, inaugurado en octubre de 1988: introduce a los recién llegados en
+      el mundo del Delta y su recorrido exterior pasa por río, balsa, bosque de ribera y ojal, y por riego,
+      huerta y arrozales, con una barraca observatorio para ver aves. La Casa de Fusta, junto a
+      L'Encanyissada, es centro de información del parque y museo de las lagunas. Y en la reserva de Riet
+      Vell, una finca de arroz ecológico, una barraca hace de centro de visitantes y hay dos observatorios
+      junto a la laguna.
+
+
+      A pie hay itinerarios para todos. Tres circuitos muy fáciles y llanos: la Bassa de les Olles (3,3 km,
+      una hora), los Ullals de Baltasar (0,9 km, 30 minutos) y el Bosc de Ribera (1,2 km, 30 minutos). El de
+      Desembocadura-Garxal-Riumar mide 6,9 km y 1 h 45 min. El paseo fluvial de Deltebre es de ida y vuelta,
+      12,6 km y unas 3 h, y la Punta del Fangar se recorre en ida y vuelta de 8,4 km y 2 h 15 min. En bici, el
+      circuito del Ecomuseu a la desembocadura mide 31,4 km y unas 5 h, con dificultad baja.
+
+
+      Para quienes van a ver aves, hay dos jornadas de un día: una por el sur y otra por el norte, esta última
+      desde Deltebre. En El Fangar evita la subida de la marea, porque obliga a las aves, sobre todo a las
+      limícolas, a trasladarse.
+    history: >-
+      Antes del arroz, que llegó a finales del siglo XIX, el delta vivía de las salinas (desde el siglo X), la
+      ganadería (desde el siglo XIV) y la pesca. En 1926 se levantó la Casa de Fusta, con madera traída de
+      Canadá, para una sociedad de caza de Barcelona; el parque la gestiona desde 1986.
+
+
+      El parque nació de una movilización popular en Deltebre, el 26 de junio de 1983, contra la desecación de
+      las lagunas del Canal Vell para hacer arrozales. Se amplió en 1986, entró en el convenio Ramsar en 1993,
+      en la Red Natura 2000 en 2006, recibió la Carta Europea de Turismo Sostenible en 2007 y fue declarado
+      Reserva de la Biosfera en 2013. Los esturiones, las lampreas y las alosas han disminuido mucho, mientras
+      llegaron especies nuevas como la perca negra, el lucio, el pez gato y el siluro.
+    before: >-
+      Se llega por los pueblos de L'Ampolla y Deltebre, en el Baix Ebre, y Amposta, la Ràpita y Sant Jaume
+      d'Enveja, en el Montsià. Para ver aves, el parque recomienda la primavera y el otoño. La Punta del
+      Fangar se visita a pie y el parque mantiene balizada la zona por la nidificación.
+    around: >-
+      A unos veinticuatro kilómetros está el [Parc Natural dels Ports](/lugar/parc-natural-dels-ports/). Más
+      lejos, otros humedales comparten especies con el Delta: el [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), el [Parque Natural de Ses
+      Salines](/lugar/parque-natural-de-ses-salines/) y el flamenco de la [Reserva Natural do Estuário do
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+  en:
+    intro: >-
+      In autumn, once the rice harvest is complete, the Ebro Delta teems with birds. Between October and
+      November the paddies remain flooded, and thousands of waterbirds arrive, either resting on migration or
+      settling for the winter. This is the fastest way to grasp this environment: a landscape sculpted by a
+      river, shaped by human labour, and transformed by abundant water into one of Catalonia's richest
+      wetlands. The natural park spans 7,805 hectares, with all towns and settlements remaining outside its
+      boundaries.
+    landscape: >-
+      The Ebro, Spain's mightiest river by discharge, deposited here sediments washed down from its upper
+      catchment, gradually building a delta of more than 320 km². Its present shape forms a clearly delineated
+      arrow projecting about 22 km into the sea. Since the second half of the twentieth century, upstream
+      reservoirs have trapped the river sediments that once fed the delta, causing marine erosion to push the
+      coastline backwards.
+
+
+      Within this spit diverse habitats coexist: coastal dunes harbouring plants like Zygophyllum album and
+      Kostelezkya pentacarpos, coastal lagoons, salt marshes, open beaches, and rice fields. The area shelters
+      764 vascular plant taxa and 23 habitats listed under the European Habitats Directive, two of them
+      priority habitats. Rice cultivation covers roughly 20,000 ha, and its agricultural rhythm dictates the
+      hydrology: in December sluice gates close, leaving water stagnant; in March fields are tilled for
+      seeding; in April they are reflooded. Consequently, lagoon salinity is higher in winter than in summer,
+      contrary to typical expectations, because summer brings a steady inflow of fresh water from the paddy
+      drainage canals.
+
+
+      Between Amposta and La Ràpita lie the Ullals de Baltasar, natural freshwater upwellings fed by rain
+      falling on the Montsià and Els Ports massifs. Only those within the public recreational area can be
+      visited. Meanwhile, the Bassa de l'Encanyissada, spanning 1,192 ha, is the largest lagoon in the delta.
+    wildlife: >-
+      The inventory lists 343 bird species, 101 fish species, and twenty-one mammal species. Birds dominate
+      the landscape entirely.
+
+
+      In spring and summer, the reedbeds of L'Encanyissada host major breeding colonies of herons: little
+      egret, cattle egret, little bittern, [purple heron](/especie/ardea_purpurea/), and squacco heron. At La
+      Tancada, the most saline lagoon, [greater flamingos](/especie/phoenicopterus_roseus/), ducks, coots, and
+      grebes gather in numbers. From the observation tower at El Través bridge overlooking L'Encanyissada, you
+      can watch little bittern, purple swamphen, red-crested pochard, black-winged stilt, the [western marsh
+      harrier](/especie/circus_aeruginosus/), and great reed warbler. At Canal Vell, the tower offers
+      sightings of the [black-crowned night heron](/especie/nycticorax_nycticorax/), flamingos, and during
+      migration, the elusive [Eurasian bittern](/especie/botaurus_stellaris/).
+
+
+      Along the coast, the Sant Antoni saltpans are prime terrain for gulls, terns, and waders; during
+      breeding season, sandwich terns, common terns, and little terns nest in abundance. Beyond the dunes of
+      El Fangar, flat sandy expanses provide critical nesting grounds for terns and Kentish plovers. The beach
+      of Buda Island offers the finest vantage point in the delta for northern gannets, skuas, the
+      [razorbill](/especie/alca_torda/), and both Mediterranean and Balearic shearwaters.
+
+
+      Winter brings impressive numbers: the delta's wintering ducks account for more than 90 % of Catalonia's
+      wintering total and 10 % of the entire Iberian Peninsula's.
+    visit: >-
+      Begin at the Ecomuseu in Deltebre, inaugurated in October 1988: it introduces newcomers to the delta's
+      heritage through an outdoor circuit showcasing the river, lagoon, riparian woodland, freshwater
+      upwelling, irrigation canals, vegetable gardens, and rice fields, complete with a traditional hut hide
+      for birdwatching. The Casa de Fusta beside L'Encanyissada serves as an information centre and lagoon
+      museum. At the Riet Vell reserve, an organic rice estate, a traditional barraca functions as a visitor
+      centre with two bird hides beside the lagoon.
+
+
+      For walkers, routes suit every pace. Three easy and flat circuits include: Bassa de les Olles (3.3 km,
+      one hour), Ullals de Baltasar (0.9 km, 30 minutes), and Bosc de Ribera (1.2 km, 30 minutes). The
+      Desembocadura-Garxal-Riumar route covers 6.9 km, taking 1 h 45 min. The Deltebre riverside trail is an
+      out-and-back of 12.6 km taking about 3 h, while Punta del Fangar is walked out-and-back over 8.4 km in 2
+      h 15 min. By bicycle, the route from Ecomuseu to the river mouth measures 31.4 km taking around 5 h at
+      an easy grade.
+
+
+      For birdwatchers, two full-day circuits are recommended: one covering the south and one the north,
+      starting from Deltebre. At El Fangar, be mindful of rising tides, which displace birds—especially
+      feeding waders.
+    history: >-
+      Before rice farming arrived in the late nineteenth century, the delta economy depended on salt
+      harvesting (since the tenth century), livestock grazing (since the fourteenth century), and fishing. In
+      1926 the Casa de Fusta was erected using Canadian timber for a Barcelona hunting club; the park has
+      managed it since 1986.
+
+
+      The natural park emerged from a grassroots protest in Deltebre on 26 June 1983 against the planned
+      drainage of the Canal Vell lagoons for rice cultivation. The park expanded in 1986, joined the Ramsar
+      convention in 1993, became part of the Natura 2000 Network in 2006, received the European Charter for
+      Sustainable Tourism in 2007, and was designated a UNESCO Biosphere Reserve in 2013. Historic fish like
+      sturgeon, lamprey, and allis shad have dwindled dramatically, while introduced species such as
+      largemouth bass, northern pike, black bullhead, and wels catfish have proliferated.
+    before: >-
+      The delta is accessed through the towns of L'Ampolla and Deltebre in Baix Ebre, and Amposta, La Ràpita,
+      and Sant Jaume d'Enveja in Montsià. For birdwatching, the park especially recommends spring and autumn.
+      Punta del Fangar must be explored on foot, with areas roped off during bird nesting seasons.
+    around: >-
+      About twenty-four kilometres away lies the [Parc Natural dels Ports](/lugar/parc-natural-dels-ports/).
+      Farther afield, other Mediterranean wetlands share species with the delta: [Parc Natural dels Aiguamolls
+      de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), [Parque Natural de Ses
+      Salines](/lugar/parque-natural-de-ses-salines/), and the flamingo colonies of [Reserva Natural do
+      Estuário do Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+  fr:
+    intro: >-
+      À l'automne, une fois le riz récolté, le delta de l'Èbre se remplit d'oiseaux. Entre octobre et
+      novembre, les parcelles demeurent submergées et des milliers d'oiseaux d'eau y affluent, en halte
+      migratoire ou pour y passer l'hiver. C'est la clé pour appréhender ce milieu : un paysage façonné par un
+      fleuve, apprivoisé par l'homme et mu, par la seule abondance de l'eau, en l'une des zones humides les
+      plus fécondes de Catalogne. Le parc naturel couvre 7 805 hectares, toutes les agglomérations restant
+      établies hors de ses limites.
+    landscape: >-
+      L'Èbre, le fleuve le plus abondant d'Espagne, a déposé ici les alluvions arrachées à son bassin versant
+      jusqu'à former une avancée de plus de 320 km². Sa silhouette actuelle dessine une flèche régulière qui
+      s'enfonce de quelque 22 km dans les flots. Depuis la seconde moitié du XXe siècle, les retenues de
+      barrage retiennent les sédiments nourriciers du delta, laissant l'érosion marine grignoter le rivage.
+
+
+      Au sein de cette avancée coexistent de multiples milieux : dunes côtières abritant Zygophyllum album et
+      Kostelezkya pentacarpos, lagunes, sansouïres, plages et rizières. Le territoire compte 764 taxons de
+      flore vasculaire et 23 habitats d'intérêt communautaire, dont deux prioritaires. Les rizières occupent
+      près de 20 000 ha et leur cycle régit l'hydrologie : en décembre les vannes se ferment, maintenant l'eau
+      stagnante ; en mars les terres sont labourées en vue des semis ; en avril elles sont remises en eau. De
+      ce fait, la salinité des lagunes est plus forte en hiver qu'en été, à rebours du sens commun, car l'été
+      amène l'eau douce drainée des rizières.
+
+
+      Entre Amposta et La Ràpita émergent les Ullals de Baltasar, résurgences d'eaux souterraines issues des
+      pluies tombées sur le Montsià et Els Ports. Seules celles situées dans l'aire récréative publique sont
+      accessibles. Quant à la Bassa de l'Encanyissada, avec ses 1 192 ha, elle constitue la plus vaste lagune
+      du delta.
+    wildlife: >-
+      L'inventaire recense 343 espèces aviennes, 101 espèces piscicoles et vingt-et-une de mammifères.
+      L'avifaune domine souverainement le paysage.
+
+
+      Au printemps et en été, les roselières de L'Encanyissada accueillent d'immenses colonies reproductrices
+      d'ardéidés : aigrette garzette, héron garde-bœufs, blongios nain, [héron
+      pourpré](/especie/ardea_purpurea/) et crabier chevelu. Dans la lagune de La Tancada, la plus saumâtre,
+      foisonnent les [flamants roses](/especie/phoenicopterus_roseus/), canards, foulques et grèbes. Depuis la
+      tour d'observation du pont d'El Través, sur L'Encanyissada, vous pouvez observer le blongios nain, la
+      talève sultane, la nette rousse, l'échasse blanche, le [busard des
+      roseaux](/especie/circus_aeruginosus/) et la rousserolle turdoïde. À Canal Vell, sa tour permet
+      d'apercevoir le [bihoreau gris](/especie/nycticorax_nycticorax/), les flamants et, lors des passages
+      migratoires, le discret [butor étoilé](/especie/botaurus_stellaris/).
+
+
+      Sur la côte, les salins de Sant Antoni constituent un refuge de choix pour mouettes, sternes et
+      limicoles ; en période de nidification s'y rassemblent sternes caugeks, pierregarins et naines. Par-delà
+      les dunes d'El Fangar, une vaste étendue sableuse accueille la reproduction des sternes et du gravelot à
+      collier interrompu. La plage de l'île de Buda offre le meilleur observatoire du delta pour admirer le
+      fou de Bassan, les labbes, le [petit pingouin](/especie/alca_torda/) ainsi que les puffins yelkouan et
+      des Baléares.
+
+
+      L'hivernage livre un chiffre parlant : les canards du delta représentent plus de 90 % des hivernants de
+      Catalogne et 10 % de ceux de la péninsule Ibérique.
+    visit: >-
+      Commencez par l'Écomusée à Deltebre, inauguré en octobre 1988 : il initie les nouveaux venus à
+      l'écosystème du delta au fil d'un parcours extérieur jalonné par le fleuve, la lagune, la ripisylve, les
+      résurgences, les canaux, les potagers et les rizières, avec une cabane observatoire pour les oiseaux. La
+      Casa de Fusta, au bord de L'Encanyissada, sert de centre d'accueil du parc et de musée des lagunes. Dans
+      la réserve de Riet Vell, une exploitation rizicole biologique, une cabane traditionnelle accueille les
+      visiteurs et propose deux observatoires au bord de l'eau.
+
+
+      À pied, des circuits conviennent à tous. Trois boucles très faciles et planes : la Bassa de les Olles
+      (3,3 km, une heure), les Ullals de Baltasar (0,9 km, 30 minutes) et le Bosc de Ribera (1,2 km, 30
+      minutes). Le parcours Desembocadura-Garxal-Riumar fait 6,9 km et 1 h 45 min. La promenade fluviale de
+      Deltebre s'effectue en aller-retour sur 12,6 km en environ 3 h, et la Punta del Fangar en aller-retour
+      de 8,4 km en 2 h 15 min. À vélo, l'itinéraire de l'Écomusée à l'embouchure s'étend sur 31,4 km pour
+      environ 5 h de pédalage aisé.
+
+
+      Pour les passionnés d'ornithologie, deux journées complètes sont conseillées : l'une au sud et l'autre
+      au nord au départ de Deltebre. À El Fangar, prêtez attention à la marée montante qui contraint les
+      oiseaux, notamment les limicoles, à se déplacer.
+    history: >-
+      Avant l'avènement de la riziculture à la fin du XIXe siècle, l'économie deltaïque reposait sur
+      l'exploitation du sel (dès le Xe siècle), l'élevage (dès le XIVe siècle) et la pêche. En 1926 fut
+      édifiée la Casa de Fusta, en bois importé du Canada, pour une société de chasse barcelonaise ; le parc
+      en assure la gestion depuis 1986.
+
+
+      Le parc naturel est né d'une mobilisation citoyenne à Deltebre, le 26 juin 1983, pour contrer
+      l'assèchement programmé des lagunes de Canal Vell au profit de nouvelles rizières. Le périmètre fut
+      agrandi en 1986, inscrit à la convention de Ramsar en 1993, intégré au réseau Natura 2000 en 2006,
+      distingué par la Charte européenne du tourisme durable en 2007 et déclaré Réserve de biosphère en 2013.
+      Les esturgeons, lamproies et aloses ont dramatiquement régressé, tandis qu'ont proliféré des espèces
+      allochtones comme l'achigan, le grand brochet, le poisson-chat et le silure glane.
+    before: >-
+      L'accès s'opère par les localités de L'Ampolla et Deltebre dans le Baix Ebre, et Amposta, La Ràpita et
+      Sant Jaume d'Enveja dans le Montsià. Pour l'ornithologie, le parc préconise le printemps et l'automne.
+      La Punta del Fangar se parcourt exclusivement à pied, des périmètres de nidification restant balisés.
+    around: >-
+      À environ vingt-quatre kilomètres s'élève le [Parc Natural dels Ports](/lugar/parc-natural-dels-ports/).
+      Plus loin, d'autres zones humides partagent des espèces avec le delta : le [Parc Natural dels Aiguamolls
+      de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), le [Parque Natural de Ses
+      Salines](/lugar/parque-natural-de-ses-salines/) et les flamants de la [Reserva Natural do Estuário do
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+  de:
+    intro: >-
+      Im Herbst, wenn der Reis geerntet ist, füllt sich das Ebrodelta mit Vögeln. Zwischen Oktober und
+      November bleiben die Felder geflutet, und Tausende Wasservögel rasten hier auf dem Durchzug oder
+      überwintern. So lässt sich dieser Raum am unmittelbarsten verstehen: eine Flusslandschaft, vom Menschen
+      urbar gemacht und dank schierem Wasserreichtum zu einem der artenreichsten Feuchtgebiete Kataloniens
+      geworden. Der Naturpark umfasst 7.805 Hektar, wobei sämtliche Ortschaften außerhalb seiner Grenzen
+      liegen.
+    landscape: >-
+      Der Ebro, Spaniens wasserreichster Strom, schwemmte die Sedimente seines Einzugsgebiets hier an, bis ein
+      Mündungsdelta von über 320 km² Fläche entstand. Seine heutige Form bildet einen markanten Pfeil, der
+      rund 22 km ins Meer ragt. Seit der zweiten Hälfte des zwanzigsten Jahrhunderts halten Stauseen
+      flussaufwärts jene Geschiebefracht zurück, die das Delta einst nährte, sodass Meeresströmungen die
+      Küstenlinie abtragen.
+
+
+      Innerhalb der Sandspitze existieren verschiedenste Lebensräume nebeneinander: Dünen mit Pflanzen wie
+      Zygophyllum album und Kostelezkya pentacarpos, Lagunen, Salzwiesen, Sandstrände und Reisfelder. Das
+      Areal beherbergt 764 Gefäßpflanzensippen und 23 FFH-Lebensraumtypen, darunter zwei prioritäre. Die
+      Reisfelder bedecken etwa 20 000 ha, und ihr Bewirtschaftungszyklus steuert das Wasser: Im Dezember
+      schließen die Schleusen und das Wasser stagniert; im März bereitet man die Äcker zur Aussaat vor; im
+      April werden sie erneut geflutet. Deshalb ist der Salzgehalt der Lagunen im Winter höher als im Sommer —
+      entgegen aller Erwartung, da im Sommer stetig Süßwasser aus den Feldern nachfließt.
+
+
+      Zwischen Amposta und La Ràpita liegen die Ullals de Baltasar, artesische Grundwasserquellen aus den
+      Niederschlägen der Gebirgszüge Montsià und Els Ports. Nur die Becken im öffentlichen Erholungsbereich
+      sind zugänglich. Die Bassa de l'Encanyissada wiederum ist mit 1.192 ha die größte Lagune des Deltas.
+    wildlife: >-
+      Das Arteninventar umfasst 343 Vogelarten, 101 Fischarten und einundzwanzig Säugetierarten. Vögel prägen
+      die gesamte Szenerie.
+
+
+      Im Frühjahr und Sommer beherbergen die Röhrichte der Encanyissada bedeutende Reiherbrutkolonien:
+      Seidenreiher, Kuhreiher, Zwergdommel, [Purpurreiher](/especie/ardea_purpurea/) und Rallenreiher. In der
+      La Tancada, der salzigsten Lagune, versammeln sich [Rosaflamingos](/especie/phoenicopterus_roseus/),
+      Enten, Blässhühner und Haubentaucher. Vom Beobachtungsturm der Brücke El Través über der Encanyissada
+      erspähst du Zwergdommel, Purpurhuhn, Kolbenente, Stelzenläufer, die
+      [Rohrweihe](/especie/circus_aeruginosus/) und den Drosselrohrsänger. Am Canal Vell ermöglicht der
+      dortige Turm Blicke auf den [Nachtreiher](/especie/nycticorax_nycticorax/), Flamingos und auf dem Zug
+      die scheue [Rohrdommel](/especie/botaurus_stellaris/).
+
+
+      Entlang der Küste bieten die Salinen von Sant Antoni ein Rückzugsgebiet für Möwen, Seeschwalben und
+      Limikolen; zur Brutzeit nisten Brandseeschwalbe, Flussseeschwalbe und Zwergseeschwalbe zahlreich.
+      Jenseits der Fangar-Dünen bildet eine flache Sandebene einen unverzichtbaren Brutplatz für Seeschwalben
+      und Seeregenpfeifer. Der Strand der Insel Buda ist der beste Ort des Deltas zur Sichtung von
+      Basstölpeln, Raubmöwen, dem [Tordalk](/especie/alca_torda/) sowie Mittelmeer- und Balearensturmtauchern.
+
+
+      Der Winter besticht mit bemerkenswerten Zahlen: Die Enten des Deltas stellen über 90 % aller
+      Überwinterer Kataloniens und 10 % der gesamten Iberischen Halbinsel.
+    visit: >-
+      Beginne im Ecomuseu in Deltebre, das im Oktober 1988 eröffnet wurde: Es führt Besucher in das
+      Deltalebenssystem ein, mit einem Freigelände entlang von Flusslauf, Lagune, Auwald, Quellen,
+      Bewässerungsgräben, Gemüsegärten und Reisfeldern samt einer traditionellen Beobachtungshütte. Die Casa
+      de Fusta an der Encanyissada dient als Informationszentrum und Lagunenmuseum. Im Schutzgebiet Riet Vell,
+      einem ökologischen Reishof, fungiert eine traditionelle Barraca als Besucherzentrum mit zwei
+      Beobachtungshütten an der Lagune.
+
+
+      Zu Fuß bieten sich Wege für jeden Geschmack an. Drei sehr leichte und ebene Rundgänge: Bassa de les
+      Olles (3,3 km, eine Stunde), Ullals de Baltasar (0,9 km, 30 Minuten) und Bosc de Ribera (1,2 km, 30
+      Minuten). Die Tour Desembocadura-Garxal-Riumar misst 6,9 km bei 1 h 45 min Gehzeit. Der Uferweg in
+      Deltebre führt über 12,6 km in etwa 3 h hin und zurück, und die Punta del Fangar lässt sich in 8,4 km
+      und 2 h 15 min erwandern. Mit dem Fahrrad bewältigt man die Strecke vom Ecomuseu bis zur Mündung auf
+      31,4 km in rund 5 h bei geringem Anspruch.
+
+
+      Vogelbeobachtern empfehlen sich zwei Ganztagestouren: eine im Süden und eine im Norden mit Start in
+      Deltebre. Am El Fangar empfiehlt es sich, die Flut zu meiden, da auflaufendes Wasser die Watvögel
+      vertreibt.
+    history: >-
+      Vor dem Reisanbau, der Ende des neunzehnten Jahrhunderts begann, lebte das Delta von Salzgewinnung (seit
+      dem zehnten Jahrhundert), Weidewirtschaft (seit dem vierzehnten Jahrhundert) und Fischerei. 1926 wurde
+      die Casa de Fusta aus kanadischem Holz für eine Jagdgesellschaft aus Barcelona erbaut; der Park
+      verwaltet sie seit 1986.
+
+
+      Der Naturpark entstand aus einer Bürgerbewegung in Deltebre am 26. Juni 1983 gegen die Trockenlegung der
+      Canal-Vell-Lagunen für Reisfelder. Er wurde 1986 erweitert, 1993 in die Ramsar-Konvention aufgenommen,
+      trat 2006 dem Netz Natura 2000 bei, erhielt 2007 die Europäische Charta für nachhaltigen Tourismus und
+      wurde 2013 zum Biosphärenreservat erklärt. Störe, Neunaugen und Maifische gingen stark zurück, während
+      Neobiota wie Forellenbarsch, Hecht, Zwergwels und Wels einwanderten.
+    before: >-
+      Die Anreise erfolgt über die Orte L'Ampolla und Deltebre im Baix Ebre sowie Amposta, La Ràpita und Sant
+      Jaume d'Enveja im Montsià. Zur Vogelbeobachtung empfiehlt die Parkverwaltung Frühjahr und Herbst. Die
+      Halbinsel Punta del Fangar ist ausschließlich zu Fuß zugänglich, wobei Schutzzonen während der Brutzeit
+      markiert sind.
+    around: >-
+      Rund vierundzwanzig Kilometer entfernt erhebt sich der [Parc Natural dels
+      Ports](/lugar/parc-natural-dels-ports/). In weiterer Ferne teilen andere Feuchtgebiete Lebensräume mit
+      dem Delta: der [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), der [Parque Natural de Ses
+      Salines](/lugar/parque-natural-de-ses-salines/) und die Flamingovorkommen im Schutzgebiet [Reserva
+      Natural do Estuário do Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+  it:
+    intro: >-
+      In autunno, terminata la mietitura del riso, il Delta dell'Ebro si popola di uccelli. Tra ottobre e
+      novembre i campi rimangono allagati e migliaia di uccelli acquatici li invadono, di passo o per
+      trascorrervi la stagione fredda. È la via più immediata per comprendere questo spazio: un territorio
+      generato da un fiume, plasmato dal lavoro umano e divenuto, per pura sovrabbondanza idrica, una delle
+      zone umide più ricche della Catalogna. Il parco naturale si estende per 7.805 ettari, lasciando tutti i
+      centri abitati all'esterno dei suoi confini.
+    landscape: >-
+      L'Ebro, il fiume con la maggior portata della Spagna, ha depositato qui i detriti erosi dal proprio
+      bacino idrografico fino a costituire una superficie di oltre 320 km². La conformazione attuale disegna
+      una cuspide perfetta che penetra per circa 22 km nel mare. Dalla seconda metà del Novecento gli
+      sbarramenti a monte trattengono i sedimenti che alimentavano il delta, provocando l'arretramento
+      costiero per via dell'erosione marina.
+
+
+      All'interno del delta coesistono svariati habitat: dune con piante quali Zygophyllum album e Kostelezkya
+      pentacarpos, lagune costiere, saline, spiagge e risaie. L'area ospita 764 entità di flora vascolare e 23
+      habitat comunitari, di cui due prioritari. Le risaie occupano circa 20 000 ha e il loro calendario
+      agricolo governa le acque: a dicembre si serrano le chiuse e l'acqua ristagna; a marzo si preparano i
+      suoli per la semina; ad aprile si procede a una nuova sommersione. Ne consegue che la salinità delle
+      lagune risulta più elevata in inverno rispetto all'estate, contrariamente al consueto, poiché in estate
+      affluisce acqua dolce dai canali di scolo delle risaie.
+
+
+      Tra Amposta e La Ràpita si trovano gli Ullals de Baltasar, risorgenze sotterranee alimentate dalle
+      precipitazioni dei monti del Montsià e di Els Ports. Solo le conche situate nell'area ricreativa
+      pubblica sono accessibili. La Bassa de l'Encanyissada, con i suoi 1.192 ha, è la laguna maggiore del
+      delta.
+    wildlife: >-
+      Il censimento annovera 343 specie di uccelli, 101 di pesci e ventuno di mammiferi. L'avifauna regna
+      sovrana sull'intero comprensorio.
+
+
+      In primavera e in estate i canneti di L'Encanyissada accolgono cospicue colonie nidificanti di aironi:
+      garzetta, airone guardabuoi, tarabusino, [airone rosso](/especie/ardea_purpurea/) e sgarza ciuffetto.
+      Nella laguna di La Tancada, a più elevata salinità, stazionano regolarmente
+      [fenicotteri](/especie/phoenicopterus_roseus/), anatre, folaghe e svassi. Dalla torre del ponte di El
+      Través, sopra L'Encanyissada, si possono scorgere il tarabusino, il pollo sultano, il fistione turco, il
+      cavaliere d'Italia, il [falco di palude](/especie/circus_aeruginosus/) e il cannareccione. Presso Canal
+      Vell, dall'apposita torretta, si avvistano la [nitticora](/especie/nycticorax_nycticorax/), i
+      fenicotteri e, durante il passo, il [tarabuso](/especie/botaurus_stellaris/).
+
+
+      Lungo il litorale, le saline di Sant Antoni attraggono gabbiani, sterne e limicoli; nel periodo
+      riproduttivo nidificano beccapesci, sterne comuni e fraticelli. Oltre le dune del Fangar, una piana
+      sabbiosa costituisce un sito di nidificazione cruciale per sterne e fratini. La spiaggia dell'isola di
+      Buda rappresenta il punto migliore del delta per osservare la sula bassana, gli stercorari, la [gazza
+      marina](/especie/alca_torda/) e le berte minori e baleari.
+
+
+      Lo svernamento evidenzia un dato significativo: le anatre del delta compongono oltre il 90 % di quelle
+      svernanti in Catalogna e il 10 % di quelle dell'intera penisola iberica.
+    visit: >-
+      Conviene iniziare dall'Ecomuseo di Deltebre, inaugurato nell'ottobre 1988: introduce i visitatori alle
+      peculiarità del delta con un circuito all'aperto tra fiume, laguna, bosco ripariale, risorgiva, canali
+      irrigui, orti e risaie, provvisto di capanno di osservazione avifaunistica. La Casa de Fusta, attigua a
+      L'Encanyissada, funge da centro visite del parco e museo lagunare. Nella riserva di Riet Vell, tenuta
+      agricola a riso biologico, una barraca tipica funge da accoglienza con due osservatori prospicienti la
+      laguna.
+
+
+      A piedi si contano vari itinerari. Tre anelli facili e pianeggianti: Bassa de les Olles (3,3 km,
+      un'ora), Ullals de Baltasar (0,9 km, 30 minuti) e Bosc de Ribera (1,2 km, 30 minuti). Il percorso
+      Desembocadura-Garxal-Riumar si snoda per 6,9 km e richiede 1 h 45 min. La passeggiata fluviale di
+      Deltebre si percorre in andata e ritorno su 12,6 km in circa 3 h, mentre Punta del Fangar comporta
+      un'andata e ritorno di 8,4 km in 2 h 15 min. In bicicletta, la pedalata dall'Ecomuseo alla foce misura
+      31,4 km per circa 5 h di andatura distesa.
+
+
+      Per il birdwatching si consigliano due programmi giornalieri: uno nell'area meridionale e uno in quella
+      settentrionale muovendo da Deltebre. A El Fangar è opportuno evitare l'alta marea, che costringe gli
+      uccelli, specie i limicoli, a involarsi altrove.
+    history: >-
+      Prima dell'introduzione della risicoltura sul finire dell'Ottocento, l'economia dipendeva dalle saline
+      (dal X secolo), dalla pastorizia (dal XIV secolo) e dalla pesca. Nel 1926 fu costruita la Casa de Fusta,
+      con legname canadese, per conto di un'associazione venatoria di Barcellona; l'ente parco la gestisce dal
+      1986.
+
+
+      Il parco nacque da una mobilitazione popolare a Deltebre il 26 giugno 1983 contro la bonifica delle
+      lagune di Canal Vell a vantaggio di nuove risaie. Venne ampliato nel 1986, incluso nella convenzione di
+      Ramsar nel 1993, integrato nella rete Natura 2000 nel 2006, insignito della Carta Europea del Turismo
+      Sostenibile nel 2007 e dichiarato Riserva della Biosfera nel 2013. Storioni, lamprede e cheppie sono
+      drasticamente regrediti, a fronte dell'introduzione di specie quali persico trota, luccio, pesce gatto e
+      siluro.
+    before: >-
+      Si accede passando dalle località di L'Ampolla e Deltebre nel Baix Ebre, e da Amposta, La Ràpita e Sant
+      Jaume d'Enveja nel Montsià. Per l'avvistamento dell'avifauna il parco suggerisce la primavera e
+      l'autunno. La Punta del Fangar si visita a piedi e l'ente delimita le zone dunali durante la stagione
+      riproduttiva.
+    around: >-
+      A circa ventiquattro chilometri si incontra il [Parc Natural dels
+      Ports](/lugar/parc-natural-dels-ports/). Più distanti, altre zone umide dividono specie ornitiche con il
+      delta: il [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), il [Parque Natural de Ses
+      Salines](/lugar/parque-natural-de-ses-salines/) e i fenicotteri della [Reserva Natural do Estuário do
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+  pt:
+    intro: >-
+      No outono, recolhido o arroz, o Delta do Ebro enche-se de aves. Entre outubro e novembro os campos
+      continuam alagados e milhares de aves aquáticas invadem-nos, em escala migratória ou para passar o
+      inverno. É a via mais rápida para compreender este ecossistema: uma paisagem modelada por um rio,
+      trabalhada pelo homem e transformada, por mera abundância hídrica, numa das zonas húmidas mais ricas da
+      Catalunha. O parque natural ocupa 7.805 hectares, ficando todas as povoações fora dos seus limites.
+    landscape: >-
+      O Ebro, o rio mais caudaloso de Espanha, depositou aqui as aluviões arrancadas da sua bacia até
+      configurar uma área superior a 320 km². A forma atual desenha uma flecha nítida que penetra cerca de 22
+      km pelo mar dentro. A partir da segunda metade do século XX as barragens começaram a reter os sedimentos
+      que faziam o delta avançar, levando a erosão marinha a recuar a linha de costa.
+
+
+      No interior da restinga convivem variados biótopos: dunas com flora como Zygophyllum album e Kostelezkya
+      pentacarpos, lagoas, sapais, praias e arrozais. Abriga 764 táxones de flora vascular e 23 habitats da
+      Diretiva Comunitária, dois dos quais prioritários. Os arrozais cobrem cerca de 20 000 ha e o seu ciclo
+      produtivo governa a água: em dezembro encerram-se as comportas e a água estagna; em março preparam-se os
+      solos para a sementeira; em abril voltam a inundar-se. Por essa razão, a salinidade das lagoas atinge
+      valores mais altos no inverno do que no verão, em sentido inverso ao expectável, graças ao fluxo estival
+      de água doce drenada dos arrozais.
+
+
+      Entre Amposta e La Ràpita surgem os Ullals de Baltasar, nascentes de águas subterrâneas alimentadas
+      pelas chuvas das serras de Montsià e Els Ports. Apenas as da zona pública de recreio são visitáveis. E a
+      Bassa de l'Encanyissada, com 1.192 ha, constitui a maior lagoa do delta.
+    wildlife: >-
+      O inventário assinala 343 espécies de aves, 101 de peixes e vinte e uma de mamíferos. As aves reinam em
+      todo o território.
+
+
+      Na primavera e no verão, os caniçais de L'Encanyissada abrigam extensas colónias nidificantes de garças:
+      garça-branca-pequena, garça-vaqueira, garçote, [garça-vermelha](/especie/ardea_purpurea/) e
+      garça-caranguejeira. Na lagoa de La Tancada, a mais salobra, é comum observar
+      [flamingos-comuns](/especie/phoenicopterus_roseus/), patos, galeirões e mergulhões. Do cimo da torre da
+      ponte de El Través, sobre L'Encanyissada, avistam-se o garçote, o caimão-comum, o pato-de-bico-vermelho,
+      o pernilongo, o [tartaranhão-ruivo-dos-pauis](/especie/circus_aeruginosus/) e o
+      rouxinol-grande-dos-caniços. No Canal Vell, a partir da sua torre, surgem o
+      [savacu](/especie/nycticorax_nycticorax/), flamingos e, durante a migração, o esquivo
+      [abetouro-comum](/especie/botaurus_stellaris/).
+
+
+      No litoral, as salinas de Sant Antoni são um poiso privilegiado para gaivotas, andorinhas-do-mar e
+      limícolas; na época reprodutiva nidificam garajaus-comuns, andorinhas-do-mar-comuns e chilretas. Para
+      além das dunas de El Fangar, uma planura arenosa é vital para a reprodução de andorinhas-do-mar e
+      borrelhos-de-coleira-interrompida. A praia da ilha de Buda proporciona o melhor posto de observação do
+      delta para o ganso-patola, moleiros, a [torda-mergulheira](/especie/alca_torda/) e as
+      pardelas-do-mediterrâneo e balear.
+
+
+      O inverno apresenta números expressivos: os patos do delta representam mais de 90 % das aves invernantes
+      na Catalunha e 10 % do contingente total da Península Ibérica.
+    visit: >-
+      Começa pelo Ecomuseu em Deltebre, inaugurado em outubro de 1988: introduz o visitante ao universo do
+      delta através de um circuito ao ar livre com rio, lagoa, mata ripícola, nascente, rega, horta e
+      arrozais, com uma cabana-abrigo para observação de aves. A Casa de Fusta, contígua a L'Encanyissada,
+      serve de centro de acolhimento do parque e museu das lagoas. Na reserva de Riet Vell, exploração de
+      arroz biológico, uma barraca típica acolhe visitantes com dois observatórios sobre a lagoa.
+
+
+      A pé existem itinerários adaptados a qualquer caminhante. Três percursos fáceis e planos: Bassa de les
+      Olles (3,3 km, uma hora), Ullals de Baltasar (0,9 km, 30 minutos) e Bosc de Ribera (1,2 km, 30 minutos).
+      O troço Desembocadura-Garxal-Riumar tem 6,9 km e duração de 1 h 45 min. O passeio ribeirinho de Deltebre
+      perfaz 12,6 km em ida e volta em cerca de 3 h, e a Punta del Fangar percorre-se em ida e volta de 8,4 km
+      em 2 h 15 min. De bicicleta, a rota do Ecomuseu à foz soma 31,4 km em aproximadamente 5 h de pedalada
+      suave.
+
+
+      Para a observação ornitológica propõem-se dois roteiros de dia inteiro: um no setor sul e outro no norte
+      a partir de Deltebre. Em El Fangar convém evitar a preia-mar, que compele as aves, em particular as
+      limícolas, a dispersar-se.
+    history: >-
+      Antes do arroz, que surgiu em finais do século XIX, a economia assentava nas salinas (desde o século X),
+      no pastoreio (desde o século XIV) e na pesca. Em 1926 foi erguida a Casa de Fusta, com madeira trazida
+      do Canadá, para um clube de caça barcelonês; o parque administra-a desde 1986.
+
+
+      O parque brotou de um movimento cívico em Deltebre, a 26 de junho de 1983, em oposição à dessecação das
+      lagoas de Canal Vell para implantação de arrozais. A área foi ampliada em 1986, aderiu à Convenção de
+      Ramsar em 1993, à Rede Natura 2000 em 2006, obteve a Carta Europeia de Turismo Sustentável em 2007 e foi
+      homologada Reserva da Biosfera em 2013. Esturjões, lampreias e sáveis regrediram drasticamente, ao passo
+      que se fixaram espécies exóticas como o achigã, o lúcio, o peixe-gato e o siluro.
+    before: >-
+      O acesso faz-se pelas vilas de L'Ampolla e Deltebre no Baix Ebre, e Amposta, La Ràpita e Sant Jaume
+      d'Enveja no Montsià. Para avistar avifauna, a administração aconselha a primavera e o outono. A Punta
+      del Fangar é percorrida apenas a pé, ficando as áreas de nidificação devidamente delimitadas.
+    around: >-
+      A cerca de vinte e quatro quilómetros estende-se o [Parc Natural dels
+      Ports](/lugar/parc-natural-dels-ports/). Mais afastadas, outras zonas húmidas partilham espécies com o
+      delta: o [Parc Natural dels Aiguamolls de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/),
+      o [Parque Natural de Ses Salines](/lugar/parque-natural-de-ses-salines/) e os flamingos da [Reserva
+      Natural do Estuário do Sado](/lugar/reserva-natural-do-estuario-do-sado/).
+fuentes:
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/el-parc/dades-dinteres/
+    titulo: Datos de interés — Parque Natural del Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+    titulo: Itineraris — Parc Natural del Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/ca/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+    titulo: Itineraris — Parc Natural del Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/guia-de-visita/propostes-ditineraris-per-dies/
+    titulo: Propuestas de itinerarios por días — Parque Natural del Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/com-accedir-hi/
+    titulo: Cómo acceder — Parque Natural del Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/gaudeix-del-parc/equipaments-i-itineraris/equipaments/
+    titulo: Equipamientos - Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/delta-ebre/el-parc/patrimoni-natural-i-cultural/fauna/
+    titulo: Fauna - Delta de l'Ebre
+    fecha_consulta: '2026-10-23'
+  - url: https://es.wikipedia.org/wiki/Delta_del_Ebro
+    titulo: Delta del Ebro - Wikipedia
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:20240731_DELTA_DEL_EBRO_-_SANT_CARLES_DE_LA_RAPITA.jpg
+    autor: L. Vadillo - MaLéPhotoSpain
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

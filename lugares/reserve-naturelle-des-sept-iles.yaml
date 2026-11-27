@@ -1,0 +1,581 @@
+id: reserve-naturelle-des-sept-iles
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de las Sept-Îles
+  en: Sept-Îles Nature Reserve
+  fr: Réserve naturelle des Sept-Îles
+  de: Naturschutzgebiet Sept-Îles
+  it: Riserva naturale delle Sept-Îles
+  pt: Reserva Natural das Sept-Îles
+nombre_original: Réserve naturelle nationale des Sept-Îles
+alias:
+  - Réserve naturelle nationale des Sept-Îles
+paises:
+  - FR
+region:
+  es: Bretaña (Côtes-d'Armor — Perros-Guirec)
+  en: Brittany (Côtes-d'Armor — Perros-Guirec)
+  fr: Bretagne (Côtes-d'Armor — Perros-Guirec)
+  de: Bretagne (Côtes-d'Armor — Perros-Guirec)
+  it: Bretagna (Côtes-d'Armor — Perros-Guirec)
+  pt: Bretanha (Côtes-d'Armor — Perros-Guirec)
+ubicacion:
+  tipo: punto
+  lat: 48.891
+  lon: -3.465
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 83114
+  nombre_en_la_fuente: Archipel des sept iles
+  capa: capas/cdda/reserve-naturelle-des-sept-iles.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - morus_bassanus
+  - fratercula_arctica
+  - alca_torda
+  - uria_aalge
+  - halichoerus_grypus
+proyectos:
+  - lpo_france
+  - conservatoire_du_littoral
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+temporada_nota:
+  es: temporada de cría de aves marinas
+  en: seabird breeding season
+  fr: saison de reproduction des oiseaux marins
+  de: Brutzeit der Seevögel
+  it: stagione riproduttiva degli uccelli marini
+  pt: época de reprodução das aves marinhas
+masificacion: 2
+masificacion_nota:
+  es: Las islas no se pisan salvo Île-aux-Moines; se ven en barco
+  en: No landing on the islands except Île-aux-Moines; visited by boat
+  fr: On ne débarque pas sur les îles sauf à l'Île-aux-Moines ; découverte en bateau
+  de: Die Inseln werden außer der Île-aux-Moines nicht betreten; Besichtigung per Boot
+  it: Sulle isole non si sbarca tranne che a Île-aux-Moines; si visitano in barca
+  pt: Não se desembarca nas ilhas exceto na Île-aux-Moines; visitam-se de barco
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: 'LPO: Réserve naturelle des Sept-Îles'
+    url: https://sept-iles.lpo.fr
+  - titulo: Centro de visitantes — Casa de la reserva de Sept-Îles
+    url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/la-maison-de-la-reserve
+  - titulo: Visitas — Excursiones educativas de la reserva
+    url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/animations-pour-groupes
+enlaces_referencia:
+  - titulo: Wikipedia — Archipiélago de Sept-Îles (Jentilez)
+    url: https://en.wikipedia.org/wiki/Jentilez
+resumen:
+  es: La mayor colonia de alcatraces de Francia y el último refugio del frailecillo en la costa francesa.
+  en: France's largest colony of northern gannets and the puffin's last refuge on the French coast.
+  fr: >-
+    La plus grande colonie de fous de Bassan de France et le dernier refuge du macareux sur le littoral
+    français.
+  de: >-
+    Frankreichs größte Basstölpelkolonie und die letzte Zuflucht des Papageitauchers an der französischen
+    Küste.
+  it: >-
+    La maggiore colonia di sule della Francia e l'ultimo rifugio della pulcinella di mare sulla costa
+    francese.
+  pt: A maior colónia de gansos-patola de França e o último refúgio do fradinho no litoral francês.
+unico:
+  es: Rouzic es el único lugar de Francia donde cría el alcatraz atlántico, con 21 880 parejas.
+  en: Rouzic is the only place in France where the northern gannet breeds, with 21,880 pairs.
+  fr: Rouzic est le seul site de France où niche le fou de Bassan, avec 21 880 couples.
+  de: Rouzic ist der einzige Ort in Frankreich, an dem der Basstölpel brütet, mit 21 880 Paaren.
+  it: Rouzic è l'unico luogo della Francia in cui nidifica la sula bassana, con 21 880 coppie.
+  pt: Rouzic é o único local de França onde nidifica o ganso-patola, com 21 880 casais.
+observaciones:
+  es: >-
+    Del 1 de abril al 31 de agosto no se puede entrar en la zona de quietud de los alcatraces. Las excursiones
+    tienen fechas concretas: tres salidas semanales solo en julio y agosto, con salida desde Trestraou.
+texto:
+  es:
+    intro: >-
+      En 1910 llegaron los tiradores: una compañía ferroviaria organizaba excursiones para disparar a los
+      frailecillos. En dos años pasaron de 20 000 a 2 000 aves. Un puñado de defensores logró que se
+      prohibiera la caza, y en 1912 nació la primera reserva ornitológica privada de Francia. Es la reserva de
+      las Sept-Îles, frente a Perros-Guirec, en Bretaña: un archipiélago de granito donde hoy anidan unas
+      23.000 parejas de 27 especies y donde la caza ha dado paso a la observación.
+    landscape: >-
+      Piensa en rocas, mar abierto y poco más. La reserva se asienta sobre una plataforma rocosa granítica y
+      tiene solo 71 ha de tierra frente a unos 19 629 ha de mar. Desde la ampliación de 2023 incluye también
+      la isla Tomé y el archipiélago de los Triagoz.
+
+
+      La île aux Moines es la única con agua dulce permanente, así que estuvo habitada de forma irregular, y
+      conserva un faro y un fuerte del siglo XVIII. El Conservatoire du littoral es dueño de esta isla desde
+      1993, y ahí está el principal lugar de implantación de las colonias de aves.
+
+
+      Bajo el agua hay un segundo mundo. La ampliación protege hábitats marinos sensibles como el maërl, las
+      praderas de zostera y las laminarias, además de las focas grises.
+    wildlife: >-
+      Esto es una ciudad de aves, y el calendario manda. El [alcatraz atlántico](/especie/morus_bassanus/)
+      está desde enero hasta septiembre; su colonia de Rouzic es la única de cría en Francia. El
+      [frailecillo](/especie/fratercula_arctica/) y la [alca común](/especie/alca_torda/) anidan de marzo a
+      julio y de febrero a julio, respectivamente, y por eso, hasta mediados de julio, las salidas en barco
+      aún los encuentran en los islotes. La [pardela pichoneta](/especie/puffinus_puffinus/) completa el
+      cuarteto: en época de cría, Rouzic acoge casi todos los frailecillos de Francia y la casi totalidad de
+      pardelas pichonetas y alcas comunes.
+
+
+      Otros vecinos de los acantilados son las gaviotas argéntea y sombría, el cormorán moñudo, el arao común,
+      el fulmar boreal, el charrán común, el ostrero y la gaviota tridáctila. Y en el agua vive una colonia de
+      unas treinta [focas grises](/especie/halichoerus_grypus/), sedentarias.
+
+
+      La zona más protegida es la de quietud: 130 ha para los alcatraces, donde toda actividad humana está
+      prohibida del 1 de abril al 31 de agosto.
+    visit: >-
+      Casi todo se ve desde el agua. El archipiélago es accesible todo el año desde Perros-Guirec. En julio y
+      agosto, la LPO sale tres veces por semana: con un guía de la LPO, la lancha lleva a ver el alcatraz de
+      Rouzic, las focas grises y, hasta mediados de julio, frailecillos, alcas y araos. Dura unas dos horas y
+      no hace escala en las islas. Las excursiones en barco salen de la estación marítima de Trestraou, en
+      Perros-Guirec, no de la estación de Île Grande.
+
+
+      En tierra, la estación de la LPO en Île-Grande, la Maison de la Réserve, tiene una museografía
+      interactiva sobre el ecosistema de las Sept-Îles y la protección del medio marino. En julio y agosto
+      organiza cuatro salidas semanales de ornitología; fuera de temporada se queda en puntos de observación
+      de la Côte de granit rose. También hay salidas con marea baja para descubrir la biodiversidad del
+      estran: son imprescindibles las botas. Los grupos escolares pueden hacer excursiones en barco de abril a
+      junio y en septiembre.
+
+
+      Si quieres caminar, el sendero de los aduaneros, en las landas protegidas de Ploumanac'h, bordea la Côte
+      de granit rose.
+    history: >-
+      La reserva está protegida desde 1912 y es reserva natural nacional desde 1976. En 1939 se instaló el
+      primer grupo de alcatraces, y hoy un estudio reciente sitúa aquí al 99,9 % de los del país, junto al 98
+      % de los frailecillos. Es también zona de protección especial para las aves de la red europea Natura
+      desde septiembre de 1996.
+
+
+      El peligro no ha desaparecido. En 2022, una epidemia de gripe aviar mató al 80 % de los pollos de
+      alcatraz. La ampliación de 2023 busca precisamente proteger hábitats sensibles y especies amenazadas, y
+      la LPO la gestiona. Y en Perros-Guirec el frailecillo es uno de los dos emblemas de la ciudad.
+    before: >-
+      Del 1 de abril al 31 de agosto no se puede entrar en la zona de quietud de los alcatraces. Las
+      excursiones tienen fechas concretas: tres salidas semanales solo en julio y agosto, con salida desde
+      Trestraou.
+    around: >-
+      Más lejos hay colonias de aves marinas que comparten protagonistas con las Sept-Îles. La [Noss National
+      Nature Reserve](/lugar/noss-national-nature-reserve/) comparte alcatraz, arao y frailecillo. [Vestmanna
+      Bird Cliffs](/lugar/vestmanna-bird-cliffs/) tiene alca, arao y frailecillo, y [Lunga (Treshnish
+      Isles)](/lugar/lunga-treshnish-isles/) añade la foca gris a alca y frailecillo.
+  en:
+    intro: >-
+      In 1910 the shooters arrived: a railway company organized excursions to shoot puffins. In two years they
+      plummeted from 20,000 to 2,000 birds. A handful of defenders managed to get hunting banned, and in 1912
+      France's first private ornithological reserve was born. This is the Sept-Îles reserve, off Perros-Guirec
+      in Brittany: a granite archipelago where today around 23,000 pairs of 27 species nest and where hunting
+      has given way to observation.
+    landscape: >-
+      Picture rocks, open sea, and little else. The reserve sits on a granitic rocky platform and has only 71
+      ha of land compared to around 19,629 ha of sea. Since the 2023 expansion, it also includes Tomé Island
+      and the Triagoz archipelago.
+
+
+      Île aux Moines is the only island with permanent fresh water, so it was inhabited intermittently and
+      preserves an eighteenth-century lighthouse and fort. The Conservatoire du littoral has owned this island
+      since 1993, and that is where the main settlement of bird colonies is located.
+
+
+      Beneath the water lies a second world. The expansion protects sensitive marine habitats such as maërl
+      beds, eelgrass meadows, and kelp forests, as well as grey seals.
+    wildlife: >-
+      This is a city of birds, and the calendar dictates everything. The [northern
+      gannet](/especie/morus_bassanus/) is present from January to September; its colony on Rouzic is the only
+      breeding site in France. The [Atlantic puffin](/especie/fratercula_arctica/) and the
+      [razorbill](/especie/alca_torda/) nest from March to July and February to July, respectively, which is
+      why boat excursions still encounter them on the islets until mid-July. The [Manx
+      shearwater](/especie/puffinus_puffinus/) completes the quartet: during the breeding season, Rouzic hosts
+      nearly all of France's puffins and almost all of its Manx shearwaters and razorbills.
+
+
+      Other cliff dwellers include herring and lesser black-backed gulls, European shags, common murres,
+      northern fulmars, common terns, Eurasian oystercatchers, and black-legged kittiwakes. And in the water
+      lives a sedentary colony of around thirty [grey seals](/especie/halichoerus_grypus/).
+
+
+      The most strictly protected area is the tranquility zone: 130 ha for the gannets, where all human
+      activity is prohibited from 1 April to 31 August.
+    visit: >-
+      Almost everything is seen from the water. The archipelago is accessible year-round from Perros-Guirec.
+      In July and August, the LPO departs three times a week: accompanied by an LPO guide, the boat takes you
+      to see the gannets of Rouzic, grey seals, and, until mid-July, puffins, razorbills, and guillemots. It
+      lasts about two hours and does not land on the islands. Boat trips depart from the Trestraou ferry
+      terminal in Perros-Guirec, not from Île Grande station.
+
+
+      On land, the LPO station on Île-Grande, the Maison de la Réserve, features interactive exhibits on the
+      Sept-Îles ecosystem and marine conservation. In July and August it organizes four weekly birdwatching
+      outings; off-season it focuses on viewpoints along the Côte de Granit Rose. There are also low-tide
+      outings to discover foreshore biodiversity: boots are essential. School groups can take boat excursions
+      from April to June and in September.
+
+
+      If you want to walk, the customs trail through the protected moorlands of Ploumanac'h borders the Côte
+      de Granit Rose.
+    history: >-
+      The reserve has been protected since 1912 and has been a national nature reserve since 1976. In 1939 the
+      first group of gannets settled here, and a recent study places 99.9 % of the country's population here,
+      along with 98 % of the puffins. It has also been a special protection area for birds under the European
+      Natura network since September 1996.
+
+
+      The danger has not disappeared. In 2022, an outbreak of avian flu killed 80 % of gannet chicks. The 2023
+      expansion specifically aims to protect sensitive habitats and threatened species, managed by the LPO.
+      And in Perros-Guirec, the puffin is one of the city's two emblems.
+    before: >-
+      From 1 April to 31 August you cannot enter the gannet tranquility zone. Excursions have fixed schedules:
+      three weekly departures only in July and August, setting out from Trestraou.
+    around: >-
+      Further away, other seabird colonies share the main species found on Sept-Îles. [Noss National Nature
+      Reserve](/lugar/noss-national-nature-reserve/) shares gannet, common murre, and puffin. [Vestmanna Bird
+      Cliffs](/lugar/vestmanna-bird-cliffs/) has razorbill, common murre, and puffin, and [Lunga (Treshnish
+      Isles)](/lugar/lunga-treshnish-isles/) adds the grey seal to razorbill and puffin.
+  fr:
+    intro: >-
+      En 1910 arrivèrent les tireurs : une compagnie de chemin de fer organisait des excursions pour tirer sur
+      les macareux. En deux ans, ils passèrent de 20 000 à 2 000 oiseaux. Une poignée de défenseurs obtint
+      l'interdiction de la chasse, et en 1912 vit le jour la première réserve ornithologique privée de France.
+      C'est la réserve des Sept-Îles, au large de Perros-Guirec en Bretagne : un archipel de granit où nichent
+      aujourd'hui environ 23 000 couples de 27 espèces et où la chasse a cédé la place à l'observation.
+    landscape: >-
+      Pensez à des rochers, au grand large et à peu près rien d'autre. La réserve repose sur un plateau
+      rocheux granitique et compte seulement 71 ha de terre pour environ 19 629 ha de mer. Depuis l'extension
+      de 2023, elle inclut également l'île Tomé et l'archipel des Triagoz.
+
+
+      L'île aux Moines est la seule pourvue d'eau douce permanente, de sorte qu'elle fut habitée de manière
+      intermittente et conserve un phare et un fort du XVIIIe siècle. Le Conservatoire du littoral possède
+      cette île depuis 1993, et c'est là que se situe le principal site d'implantation des colonies d'oiseaux.
+
+
+      Sous l'eau s'ouvre un second monde. L'extension protège des habitats marins sensibles tels que le maërl,
+      les herbiers de zostères et les forêts de laminaires, ainsi que les phoques gris.
+    wildlife: >-
+      C'est une véritable cité d'oiseaux, et le calendrier fait la loi. Le [fou de
+      Bassan](/especie/morus_bassanus/) est présent de janvier à septembre ; sa colonie de Rouzic est l'unique
+      site de reproduction en France. Le [macareux moine](/especie/fratercula_arctica/) et le [petit
+      pingouin](/especie/alca_torda/) nichent respectivement de mars à juillet et de février à juillet, raison
+      pour laquelle, jusqu'à la mi-juillet, les sorties en mer les rencontrent encore sur les îlots. Le
+      [puffin des Anglais](/especie/puffinus_puffinus/) complète le quatuor : en période de reproduction,
+      Rouzic abrite presque tous les macareux de France et la quasi-totalité des puffins des Anglais et des
+      petits pingouins.
+
+
+      Parmi les autres résidents des falaises figurent les goélands argenté et brun, le cormoran huppé, le
+      guillemot de Troïl, le fulmar boréal, la sterne pierregarin, l'huîtrier pie et la mouette tridactyle. Et
+      dans l'eau vit une colonie sédentaire d'une trentaine de [phoques gris](/especie/halichoerus_grypus/).
+
+
+      La zone la plus protégée est la zone de quiétude : 130 ha pour les fous de Bassan, où toute activité
+      humaine est interdite du 1er avril au 31 août.
+    visit: >-
+      Presque tout se découvre depuis l'eau. L'archipel est accessible toute l'année au départ de
+      Perros-Guirec. En juillet et août, la LPO propose trois sorties par semaine : avec un guide de la LPO,
+      la vedette vous emmène observer les fous de Rouzic, les phoques gris et, jusqu'à la mi-juillet,
+      macareux, pingouins et guillemots. Elle dure environ deux heures et ne fait pas escale sur les îles. Les
+      excursions en mer partent de la gare maritime de Trestraou à Perros-Guirec, et non de la station de
+      l'Île-Grande.
+
+
+      À terre, la station LPO de l'Île-Grande, la Maison de la Réserve, propose une muséographie interactive
+      sur l'écosystème des Sept-Îles et la préservation du milieu marin. En juillet et août, elle organise
+      quatre sorties ornithologiques hebdomadaires ; hors saison, elle privilégie des points d'observation sur
+      la côte de Granit rose. Des sorties à marée basse permettent également de découvrir la biodiversité de
+      l'estran : bottes indispensables. Les groupes scolaires peuvent effectuer des excursions en bateau
+      d'avril à juin et en septembre.
+
+
+      Si vous souhaitez marcher, le sentier des douaniers, à travers les landes protégées de Ploumanac'h,
+      longe la côte de Granit rose.
+    history: >-
+      La réserve bénéficie d'une protection depuis 1912 et constitue une réserve naturelle nationale depuis
+      1976. En 1939 s'établit le premier groupe de fous de Bassan, et une étude récente y recense aujourd'hui
+      99,9 % de l'effectif national, aux côtés de 98 % des macareux. Elle est aussi classée en zone de
+      protection spéciale pour les oiseaux du réseau européen Natura depuis septembre 1996.
+
+
+      La menace n'a pas disparu. En 2022, une épidémie de grippe aviaire a tué 80 % des poussins de fous de
+      Bassan. L'agrandissement de 2023 vise précisément à protéger les habitats sensibles et les espèces
+      menacées, sous la gestion de la LPO. Et à Perros-Guirec, le macareux est l'un des deux emblèmes de la
+      commune.
+    before: >-
+      Du 1er avril au 31 août, il est interdit de pénétrer dans la zone de quiétude des fous de Bassan. Les
+      excursions ont des dates précises : trois départs par semaine uniquement en juillet et août, au départ
+      de Trestraou.
+    around: >-
+      Plus loin, d'autres colonies d'oiseaux marins partagent les espèces vedettes des Sept-Îles. La [Noss
+      National Nature Reserve](/lugar/noss-national-nature-reserve/) partage fou de Bassan, guillemot et
+      macareux. Les [Vestmanna Bird Cliffs](/lugar/vestmanna-bird-cliffs/) accueillent petit pingouin,
+      guillemot et macareux, et [Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) associe le phoque
+      gris au pingouin et au macareux.
+  de:
+    intro: >-
+      Im Jahr 1910 kamen die Schützen: Eine Eisenbahngesellschaft organisierte Ausflüge, um auf Papageitaucher
+      zu schießen. In zwei Jahren schrumpfte der Bestand von 20 000 auf 2 000 Vögel. Einer Handvoll Schützer
+      gelang es, ein Jagdverbot durchzusetzen, und 1912 entstand das erste private Vogelschutzgebiet
+      Frankreichs. Es ist das Reservat der Sept-Îles vor Perros-Guirec in der Bretagne: ein Granitarchipel,
+      auf dem heute rund 23.000 Paare aus 27 Arten nisten und wo die Jagd der Beobachtung gewichen ist.
+    landscape: >-
+      Stell dir Felsen, offenes Meer und sonst fast nichts vor. Das Schutzgebiet liegt auf einem felsigen
+      Granitsockel und umfasst nur 71 ha Land gegenüber etwa 19 629 ha Meeresfläche. Seit der Erweiterung von
+      2023 gehören auch die Insel Tomé und der Triagoz-Archipel dazu.
+
+
+      Die Île aux Moines ist die einzige Insel mit ständigem Süßwasser, weshalb sie unregelmäßig bewohnt war
+      und einen Leuchtturm sowie ein Fort aus dem achtzehnten Jahrhundert bewahrt. Das Conservatoire du
+      littoral besitzt diese Insel seit 1993, und hier befindet sich der wichtigste Ansiedlungsort der
+      Vogelkolonien.
+
+
+      Unter Wasser liegt eine zweite Welt. Die Erweiterung schützt empfindliche Meereslebensräume wie
+      Maërl-Bänke, Seegraswiesen und Tangwälder sowie Kegelrobben.
+    wildlife: >-
+      Dies ist eine Stadt der Vögel, und der Kalender bestimmt alles. Der
+      [Basstölpel](/especie/morus_bassanus/) ist von Januar bis September anwesend; seine Kolonie auf Rouzic
+      ist der einzige Brutplatz in Frankreich. Der [Papageitaucher](/especie/fratercula_arctica/) und der
+      [Tordalk](/especie/alca_torda/) nisten von März bis Juli beziehungsweise von Februar bis Juli, weshalb
+      Bootsausflüge sie bis Mitte Juli noch auf den Felseilanden antreffen. Der
+      [Schwarzschnabel-Sturmtaucher](/especie/puffinus_puffinus/) vervollständigt das Quartett: Während der
+      Brutzeit beherbergt Rouzic fast alle Papageitaucher Frankreichs und nahezu die Gesamtheit der
+      Schwarzschnabel-Sturmtaucher und Tordalke.
+
+
+      Weitere Klippenbewohner sind Silber- und Heringsmöwen, Krähenscharben, Trottellummen, Eissturmvögel,
+      Flussseeschwalben, Austernfischer und Dreizehenmöwen. Und im Wasser lebt eine standorttreue Kolonie von
+      etwa dreißig [Kegelrobben](/especie/halichoerus_grypus/).
+
+
+      Der am strengsten geschützte Bereich ist die Ruhezone: 130 ha für die Basstölpel, in denen vom 1. April
+      bis zum 31. August jede menschliche Aktivität untersagt ist.
+    visit: >-
+      Fast alles ist vom Wasser aus zu sehen. Der Archipel ist das ganze Jahr über von Perros-Guirec aus
+      erreichbar. Im Juli und August fährt die LPO dreimal wöchentlich hinaus: In Begleitung eines
+      LPO-Naturführers bringt dich das Boot zu den Basstölpeln von Rouzic, den Kegelrobben und bis Mitte Juli
+      zu Papageitauchern, Tordalken und Lummen. Die Fahrt dauert etwa zwei Stunden und legt an den Inseln
+      nicht an. Die Bootstouren starten an der Seestation Trestraou in Perros-Guirec, nicht an der Station Île
+      Grande.
+
+
+      An Land bietet die LPO-Station auf der Île-Grande, das Maison de la Réserve, eine interaktive
+      Ausstellung über das Ökosystem der Sept-Îles und den Meeresschutz. Im Juli und August veranstaltet sie
+      vier wöchentliche vogelkundliche Exkursionen; außerhalb der Saison konzentriert sie sich auf
+      Aussichtspunkte an der Côte de Granit Rose. Zudem gibt es Wattwanderungen bei Ebbe, um die Artenvielfalt
+      der Gezeitenzone zu erkunden: Gummistiefel sind unerlässlich. Schulklassen können von April bis Juni
+      sowie im September Bootstouren buchen.
+
+
+      Wenn du wandern möchtest, verläuft der Zöllnerpfad durch die geschützten Heidelandschaften von
+      Ploumanac'h entlang der Côte de Granit Rose.
+    history: >-
+      Das Reservat steht seit 1912 unter Schutz und ist seit 1976 nationales Naturschutzgebiet. Im Jahr 1939
+      ließ sich die erste Gruppe Basstölpel nieder, und heute beziffert eine neuere Erhebung 99,9 % des
+      französischen Bestands hier, zusammen mit 98 % der Papageitaucher. Seit September 1996 ist es zudem
+      Europäisches Vogelschutzgebiet im Natura-Netz.
+
+
+      Die Gefahr ist nicht gebannt. Im Jahr 2022 raffte eine Vogelgrippe-Epidemie 80 % der Basstölpelküken
+      dahin. Die Erweiterung von 2023 zielt gezielt darauf ab, empfindliche Lebensräume und bedrohte Arten zu
+      schützen, verwaltet durch die LPO. Und in Perros-Guirec gehört der Papageitaucher zu den zwei
+      Wahrzeichen der Stadt.
+    before: >-
+      Vom 1. April bis zum 31. August darf die Ruhezone der Basstölpel nicht befahren werden. Die Ausflüge
+      haben feste Termine: drei wöchentliche Fahrten ausschließlich im Juli und August mit Abfahrt in
+      Trestraou.
+    around: >-
+      Weiter entfernt liegen Seevogelkolonien mit ähnlichen Hauptarten wie auf den Sept-Îles. Das [Noss
+      National Nature Reserve](/lugar/noss-national-nature-reserve/) teilt Basstölpel, Lumme und
+      Papageitaucher. Die [Vestmanna Bird Cliffs](/lugar/vestmanna-bird-cliffs/) beherbergen Tordalk, Lumme
+      und Papageitaucher, und [Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) ergänzt Tordalk und
+      Papageitaucher um die Kegelrobbe.
+  it:
+    intro: >-
+      Nel 1910 arrivarono i cacciatori: una compagnia ferroviaria organizzava gite per sparare alle pulcinelle
+      di mare. In due anni passarono da 20 000 a 2 000 esemplari. Una manciata di difensori ottenne il divieto
+      di caccia e nel 1912 nacque la prima riserva ornitologica privata della Francia. È la riserva delle
+      Sept-Îles, al largo di Perros-Guirec in Bretagna: un arcipelago di granito dove oggi nidificano circa
+      23.000 coppie di 27 specie e dove la caccia ha ceduto il passo all'osservazione.
+    landscape: >-
+      Pensa a rocce, mare aperto e poco altro. La riserva poggia su una piattaforma rocciosa granitica e conta
+      appena 71 ha di terra a fronte di circa 19 629 ha di mare. Dall'ampliamento del 2023 include anche
+      l'isola di Tomé e l'arcipelago dei Triagoz.
+
+
+      Île aux Moines è l'unica dotata di acqua dolce perenne, motivo per cui fu abitata saltuariamente e
+      conserva un faro e un forte del XVIII secolo. Il Conservatoire du littoral possiede quest'isola dal
+      1993, ed è lì che si concentra l'insediamento primario delle colonie aviarie.
+
+
+      Sott'acqua esiste un secondo mondo. L'ampliamento tutela habitat marini vulnerabili come il maërl, le
+      praterie di zostera e le foreste di laminarie, oltre alle foche grigie.
+    wildlife: >-
+      Questa è una vera città di uccelli, dove il calendario fa legge. La [sula](/especie/morus_bassanus/) è
+      presente da gennaio a settembre; la sua colonia di Rouzic è l'unico sito riproduttivo in Francia. La
+      [pulcinella di mare](/especie/fratercula_arctica/) e la [gazza marina](/especie/alca_torda/) nidificano
+      rispettivamente da marzo a luglio e da febbraio a luglio; per questo, fino a metà luglio, le uscite in
+      barca le avvistano ancora sugli isolotti. La [berta minore atlantica](/especie/puffinus_puffinus/)
+      completa il quartetto: nel periodo della cova, Rouzic accoglie quasi tutte le pulcinelle della Francia e
+      la quasi totalità delle berte minori atlantiche e delle gazze marine.
+
+
+      Tra gli altri frequentatori delle falesie vi sono gabbiani reali nordici e zafferani, marangoni dal
+      ciuffo, urie comuni, fulmari boreali, sterne comuni, beccacce di mare e gabbiani tridattili. E
+      nell'acqua vive una colonia stanziale di una trentina di [foche grigie](/especie/halichoerus_grypus/).
+
+
+      L'area a tutela più rigorosa è la zona di quiete: 130 ha destinati alle sule, dove ogni attività umana è
+      vietata dal 1 aprile al 31 agosto.
+    visit: >-
+      Quasi tutto si contempla dall'acqua. L'arcipelago è accessibile tutto l'anno da Perros-Guirec. A luglio
+      e agosto la LPO organizza uscite tre volte alla settimana: insieme a una guida della LPO, il battello
+      conduce a scoprire le sule di Rouzic, le foche grigie e, fino a metà luglio, pulcinelle, gazze marine e
+      urie. L'escursione dura circa due ore e non sbarca sulle isole. Le uscite in mare partono dalla stazione
+      marittima di Trestraou a Perros-Guirec, non dalla stazione di Île Grande.
+
+
+      A terra, la sede della LPO a Île-Grande, la Maison de la Réserve, offre un percorso museale interattivo
+      sull'ecosistema delle Sept-Îles e sulla salvaguardia dell'ambiente marino. A luglio e agosto programma
+      quattro uscite ornitologiche settimanali; fuori stagione fa base nei punti di osservazione della Côte de
+      granit rose. Si svolgono anche escursioni con la bassa marea per scoprire la biodiversità dell'arenile:
+      gli stivali sono indispensabili. Le scolaresche possono effettuare gite in barca da aprile a giugno e a
+      settembre.
+
+
+      Se preferisci camminare, il sentiero dei doganieri, attraverso le brughiere protette di Ploumanac'h,
+      costeggia la Côte de granit rose.
+    history: >-
+      La riserva è protetta dal 1912 ed è riserva naturale nazionale dal 1976. Nel 1939 vi si insediò il primo
+      nucleo di sule, e oggi una recente indagine vi individua il 99,9 % del totale nazionale, assieme al 98 %
+      delle pulcinelle di mare. Da settembre 1996 è inoltre zona di protezione speciale per l'avifauna della
+      rete europea Natura.
+
+
+      Il pericolo non è scomparso. Nel 2022 un'epidemia di aviaria ha ucciso l'80 % dei pulcini di sula.
+      L'ampliamento del 2023 punta proprio a salvaguardare habitat sensibili e specie a rischio, sotto la
+      gestione della LPO. E a Perros-Guirec la pulcinella di mare rappresenta uno dei due simboli civici.
+    before: >-
+      Dal 1 aprile al 31 agosto è vietato entrare nella zona di quiete delle sule. Le escursioni hanno un
+      calendario preciso: tre uscite settimanali solo a luglio e agosto, con partenza da Trestraou.
+    around: >-
+      Più lontano sorgono colonie di uccelli marini che condividono le stesse specie guida delle Sept-Îles. La
+      [Noss National Nature Reserve](/lugar/noss-national-nature-reserve/) ospita sula, uria e pulcinella. Le
+      [Vestmanna Bird Cliffs](/lugar/vestmanna-bird-cliffs/) contano gazza marina, uria e pulcinella, mentre
+      [Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) affianca la foca grigia a gazza e pulcinella.
+  pt:
+    intro: >-
+      Em 1910 chegaram os atiradores: uma companhia ferroviária organizava passeios para alvejar fradinhos. Em
+      dois anos desceram de 20 000 para 2 000 aves. Um punhado de defensores conseguiu a proibição da caça e
+      em 1912 nasceu a primeira reserva ornitológica privada de França. É a reserva das Sept-Îles, ao largo de
+      Perros-Guirec na Bretanha: um arquipélago granítico onde hoje nidificam cerca de 23.000 casais de 27
+      espécies e onde a caça deu lugar à contemplação.
+    landscape: >-
+      Imagina rochedos, mar aberto e pouco mais. A reserva assenta sobre uma plataforma rochosa de granito e
+      conta apenas 71 ha de terra face a cerca de 19 629 ha de mar. Desde o alargamento de 2023 abrange também
+      a ilha Tomé e o arquipélago dos Triagoz.
+
+
+      A Île aux Moines é a única com água doce permanente, pelo que foi habitada de forma intermitente e
+      conserva um farol e um forte do século XVIII. O Conservatoire du littoral é proprietário desta ilha
+      desde 1993, e aí situa-se o principal local de implantação das colónias de aves.
+
+
+      Debaixo de água esconde-se um segundo mundo. O alargamento protege habitats marinhos sensíveis como os
+      fundos de maërl, os bancos de zósteras e as florestas de laminárias, bem como as focas-cinzentas.
+    wildlife: >-
+      Isto é uma cidade de aves, e o calendário dita as regras. O [ganso-patola](/especie/morus_bassanus/)
+      marca presença de janeiro a setembro; a sua colónia em Rouzic é o único local de reprodução em França. O
+      [fradinho](/especie/fratercula_arctica/) e a [torda-mergulheira](/especie/alca_torda/) nidificam de
+      março a julho e de fevereiro a julho, respetivamente, motivo pelo qual, até meados de julho, os passeios
+      de barco ainda os encontram nos ilhéus. O [bobo-pequeno](/especie/puffinus_puffinus/) completa o
+      quarteto: na época reprodutiva, Rouzic acolhe quase todos os fradinhos de França e a quase totalidade
+      dos bobos-pequenos e tordas-mergulheiras.
+
+
+      Outros habitantes das escarpas incluem as gaivotas-argênteas e de asa-escura, o corvo-marinho-de-crista,
+      a airote-comum, o fulmar-boreal, a andorinha-do-mar-comum, o ostreiro e a gaivota-tridáctila. E na água
+      reside uma colónia de cerca de trinta [focas-cinzentas](/especie/halichoerus_grypus/) sedentárias.
+
+
+      A área mais protegida é a zona de tranquilidade: 130 ha dedicados aos gansos-patola, onde qualquer
+      atividade humana é interdita de 1 de abril a 31 de agosto.
+    visit: >-
+      Quase tudo se observa a partir da água. O arquipélago é acessível durante todo o ano a partir de
+      Perros-Guirec. Em julho e agosto, a LPO sai três vezes por semana: com um guia da LPO, a embarcação
+      leva-te a ver os gansos-patola de Rouzic, as focas-cinzentas e, até meados de julho, fradinhos, tordas e
+      airotes. Dura cerca de duas horas e não atraca nas ilhas. Os passeios de barco partem da gare marítima
+      de Trestraou, em Perros-Guirec, e não da estação da Île Grande.
+
+
+      Em terra, a estação da LPO na Île-Grande, a Maison de la Réserve, dispõe de uma museografia interativa
+      sobre o ecossistema das Sept-Îles e a proteção do meio marinho. Em julho e agosto organiza quatro saídas
+      semanais de ornitologia; fora de época mantém postos de observação na Côte de Granit Rose. Há igualmente
+      saídas na maré baixa para descobrir a biodiversidade da zona entremarés: o uso de galochas é
+      indispensável. Grupos escolares podem realizar passeios de barco de abril a junho e em setembro.
+
+
+      Se quiseres caminhar, o trilho dos aduaneiros, nas charnecas protegidas de Ploumanac'h, acompanha a Côte
+      de Granit Rose.
+    history: >-
+      A reserva está protegida desde 1912 e constitui reserva natural nacional desde 1976. Em 1939 fixou-se o
+      primeiro grupo de gansos-patola e atualmente um estudo recente situa aqui 99,9 % dos exemplares do país,
+      a par de 98 % dos fradinhos. É também zona de proteção especial para as aves da rede europeia Natura
+      desde setembro de 1996.
+
+
+      O perigo não se desvaneceu. Em 2022, uma vaga de gripe aviária vitimou 80 % das crias de ganso-patola. A
+      ampliação de 2023 visa precisamente salvaguardar habitats sensíveis e espécies ameaçadas, sob a gestão
+      da LPO. E em Perros-Guirec o fradinho constitui um dos dois emblemas do município.
+    before: >-
+      De 1 de abril a 31 de agosto não é permitido entrar na zona de tranquilidade dos gansos-patola. Os
+      passeios têm datas específicas: três partidas semanais apenas em julho e agosto, com saída de Trestraou.
+    around: >-
+      Mais longe existem colónias de aves marinhas que partilham protagonistas com as Sept-Îles. A [Noss
+      National Nature Reserve](/lugar/noss-national-nature-reserve/) partilha ganso-patola, airote e fradinho.
+      As [Vestmanna Bird Cliffs](/lugar/vestmanna-bird-cliffs/) têm torda-mergulheira, airote e fradinho, e
+      [Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) junta a foca-cinzenta à torda e ao fradinho.
+fuentes:
+  - url: https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_des_Sept-%C3%8Eles
+    titulo: Réserve naturelle nationale des Sept-Îles — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/animations-pour-groupes
+    titulo: Animations pour groupes - LPO (Ligue pour la Protection des Oiseaux) - Agir pour la biodiversité
+    fecha_consulta: '2026-10-24'
+  - url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/la-maison-de-la-reserve
+    titulo: La maison de la réserve — LPO, Réserve naturelle des Sept-Iles
+    fecha_consulta: '2026-10-24'
+  - url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/sorties-nature-pour-le-grand-public
+    titulo: Sorties nature pour le grand public — LPO, Réserve naturelle des Sept-Iles
+    fecha_consulta: '2026-10-24'
+  - url: https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/reserve-naturelle
+    titulo: Réserve Naturelle — LPO, Réserve naturelle des Sept-Iles
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Perros-Guirec
+    titulo: Perros-Guirec — Wikipédia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:7_%C3%AEles.JPG
+    autor: Mario Modesto Mata
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

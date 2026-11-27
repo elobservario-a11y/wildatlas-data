@@ -1,0 +1,582 @@
+id: troodos-national-forest-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Forestal de Troodos
+  en: Troodos National Forest Park
+  fr: Parc national forestier de Troodos
+  de: Troodos-Nationalwaldpark
+  it: Parco Forestale Nazionale di Troodos
+  pt: Parque Florestal Nacional de Troodos
+nombre_original: Εθνικό Δασικό Πάρκο Τροόδους
+alias:
+  - Troodos National Forest Park
+paises:
+  - CY
+region:
+  es: Chipre (Troodos / Platres)
+  en: Cyprus (Troodos / Platres)
+  fr: Chypre (Troodos / Platres)
+  de: Zypern (Troodos / Platres)
+  it: Cipro (Troodos / Platres)
+  pt: Chipre (Troodos / Platres)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 34.929
+  lon: 32.884
+  radio_km: 5
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 14847
+  nombre_en_la_fuente: Troodos
+  capa: capas/cdda/troodos-national-forest-park.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+designaciones:
+  - national_park
+  - geopark
+  - natura2000
+especies:
+  - ovis_gmelini
+  - aquila_fasciata
+  - pinus_nigra
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+masificacion: 2
+masificacion_nota:
+  es: Alta en la plaza de Troodos en fines de semana de verano
+  en: High on Troodos Square on summer weekends
+  fr: Forte sur la place de Troodos lors des week-ends d'été
+  de: Hoch auf dem Troodos-Platz an Sommerwochenenden
+  it: Alta nella piazza di Troodos nei fine settimana estivi
+  pt: Elevada na praça de Troodos aos fins de semana de verão
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Departamento Forestal de Chipre
+    url: https://www.moa.gov.cy/moa/fd/fd.nsf
+  - titulo: Mapa — senderos y servicios del Parque Forestal Troodos
+    url: https://www.moa.gov.cy/moa/fd/fd.nsf/DD2D11009E8649F8C225812900200683/%24file/The%20Troodos%20National%20Forest%20Park%20-%20Four%20fold%20flyer.pdf
+  - titulo: Centro de visitantes — información ambiental de Troodos
+    url: https://www.visitcyprus.com/discover-cyprus/nature/excursions/troodos-environmental-centre/
+enlaces_referencia:
+  - titulo: 'Wikipedia: Troodos Mountains'
+    url: https://en.wikipedia.org/wiki/Troodos_Mountains
+resumen:
+  es: Las cumbres de Chipre, cubiertas de pinares, sobre una corteza oceánica levantada del fondo del mar.
+  en: >-
+    The pine-cloaked peaks of Cyprus, towering above a complete section of ancient oceanic crust lifted from
+    the Tethys seabed.
+  fr: >-
+    Les cimes de Chypre couronnées de pinèdes, reposant sur une section complète de croûte océanique soulevée
+    du fond de la Téthys.
+  de: >-
+    Die von Kiefernwäldern gekrönten Gipfel Zyperns auf einem unversehrten Stück ozeanischer Erdkruste,
+    gehoben aus den Tiefen der Tethys.
+  it: >-
+    Le vette di Cipro ricoperte di pinete, poggiate su una sequenza intatta di crosta oceanica sollevatasi
+    dagli abissi della Tetide.
+  pt: >-
+    Os cumes de Chipre coroados de pinhais, assentes sobre uma secção intacta de crosta oceânica soerguida das
+    profundezas da Tétis.
+unico:
+  es: Caminas sobre un fondo oceánico intacto, levantado hasta casi dos mil metros.
+  en: >-
+    You walk across an intact section of oceanic floor uplifted almost two thousand meters above the
+    Mediterranean.
+  fr: >-
+    Vous arpentez un plancher océanique intact, soulevé à près de deux mille mètres au-dessus de la
+    Méditerranée.
+  de: >-
+    Du wanderst auf intaktem ozeanischem Meeresboden, der fast zweitausend Meter über das Mittelmeer
+    emporgehoben wurde.
+  it: Cammini su un fondale oceanico incontaminato, innalzato fino a quasi duemila metri sul Mediterraneo.
+  pt: >-
+    Caminhas sobre um fundo oceânico intacto, guindado até quase dois mil metros de altitude acima do
+    Mediterrâneo.
+observaciones:
+  es: >-
+    Los horarios del Centro Ambiental cambian según la temporada, así que comprueba antes de subir. El portal
+    oficial de turismo clasifica el sendero Artemisa en el primer grado de dificultad.
+texto:
+  es:
+    intro: >-
+      Hace millones de años, esto era el fondo del mar. Las montañas de Troodos, la mayor cordillera de
+      Chipre, subieron despacio desde el agua cuando chocaron las placas africana y europea, y con ese empujón
+      nació la isla entera. Las montañas ocupan hoy un tercio de Chipre y se extienden por buena parte del
+      oeste, y el Parque Nacional Forestal de Troodos guarda la zona más alta: pinares, enebros centenarios,
+      senderos que rodean el Olimpo y una roca que dio pruebas para entender cómo se abre el fondo del océano.
+    landscape: >-
+      La clave está en lo que la erosión ha hecho con el tiempo. La corteza oceánica subió casi sin deformarse
+      y, al desgastarse, dejó a la vista la antigua cámara magmática que había debajo, con rocas intactas y
+      lavas almohadilladas petrificadas. Por eso la ofiolita de Troodos es un ejemplo de manual: un antiguo
+      eje de expansión oceánica del Cretácico superior, elevado poco a poco por la subducción al sur de la
+      isla. Sus observaciones aportaron pruebas a la teoría de la expansión del fondo oceánico.
+
+
+      La cima lo demuestra. El monte Olimpo, o Chionistra, es el punto más alto de Chipre, con 1.952 m, y está
+      hecho de roca ultramáfica, sobre todo harzburgita serpentinizada, parte de esa misma ofiolita.
+
+
+      Arriba reinan los árboles. Los más extendidos son el pino de Calabria y el roble dorado, y entre ellos
+      crece el [pino laricio](/especie/pinus_nigra/). Las montañas funcionan además como una barrera de
+      lluvia: forman una notable sombra pluviométrica sobre la isla. En Prodromos, la temperatura media diaria
+      ronda los 4 °C en enero y los 23 °C en julio.
+    wildlife: >-
+      La cordillera tiene muchas plantas y animales endémicos, entre ellos el cedro de Chipre, que solo se
+      conoce en cinco rodales naturales, entre ellos Tripylos. En los senderos puedes estudiar de cerca la
+      flora propia: el roble dorado, la salvia de Troodos o la menta de gato de Troodos.
+
+
+      Mira también hacia arriba. En los recorridos se citan el [águila perdicera](/especie/aquila_fasciata/),
+      el arrendajo, la paloma torcaz y la perdiz, junto a dos aves endémicas: la curruca chipriota y la
+      collalba chipriota. Entre los mamíferos hay [muflón](/especie/ovis_gmelini/), zorro, liebre y erizo, y
+      entre los reptiles, la víbora de Chipre y la culebra de Chipre, esta última endémica.
+    visit: >-
+      El centro del parque es la plaza de Troodos, y allí está el Centro Ambiental. Su sala de exposición y su
+      cine explican la geología, la flora y la fauna de la cordillera, y de él sale un pequeño sendero
+      botánico y geológico donde se ven plantas y rocas. De noviembre a marzo abre de lunes a viernes de 09:00
+      a 14:30 y cierra el fin de semana; de junio a agosto, de lunes a viernes de 09:00 a 14:30 y el fin de
+      semana de 10:00 a 16:00.
+
+
+      Desde allí, cuatro caminos cuentan cuatro cosas distintas:
+
+
+      - **Persefone**: 3 km en una hora, desde 150 m al sur de la plaza. Atraviesa pinar denso durante los dos
+      primeros kilómetros y termina en Makria Kontarka, con vistas.
+
+      - **Caledonia**: 3 km en hora y media. Baja junto al río Frío, que lleva agua todo el año, pasa por la
+      cascada de Kalidonia y acaba en Psilodentro, en Pano Platres.
+
+      - **Artemisa**: circular, 7 km en unas dos horas y media o tres. Rodea la cima del Olimpo a 1.850 m, con
+      vistas en todas direcciones, y pasa junto a dos pinos negros de unos 500 años.
+
+      - **Atalanti**: circular, 14 km en cuatro o cinco horas desde la plaza de Troodos. Da la vuelta a
+      Chionistra a 1.700-1.750 m, entre pinos negros y un enebro fétido de 800 años, el árbol más grande del
+      recorrido, y pasa junto a la boca de una mina de cromo cerrada desde 1982.
+    history: >-
+      Troodos lleva siglos en la historia. Desde la antigüedad es conocido por sus minas, que durante siglos
+      abastecieron de cobre a todo el Mediterráneo. El geógrafo Estrabón contó que en uno de los promontorios
+      del Olimpo había un templo de Afrodita Acrea al que las mujeres tenían prohibido entrar. Y en época
+      bizantina, la montaña, lejos de la costa amenazada, se llenó de iglesias y monasterios y se convirtió en
+      un centro de arte bizantino.
+    before: >-
+      Los horarios del Centro Ambiental cambian según la temporada, así que comprueba antes de subir. El
+      portal oficial de turismo clasifica el sendero Artemisa en el primer grado de dificultad.
+    around: >-
+      Troodos no tiene vecinos cercanos en el atlas, pero comparte hábitats de bosque maduro y alta montaña
+      con otros macizos del Mediterráneo. Con el [Macizo y Agujas de Bavella](/lugar/bavella-massif/) y el
+      [Parque Natural Regional de Córcega](/lugar/parc-naturel-regional-de-corse/) comparte el muflón; con el
+      [Parque Nacional de la Sila](/lugar/parco-nazionale-della-sila/), el pino laricio.
+  en:
+    intro: >-
+      Millions of years ago, this mountain realm formed the deep ocean floor. The Troodos range, the dominant
+      mountain backbone of Cyprus, emerged gradually from the Tethys Sea when the African and Eurasian
+      tectonic plates collided, and that titanic collision created the island itself. Today the mountains
+      occupy one-third of Cyprus, dominating the southwest, and the Troodos National Forest Park safeguards
+      the highest altitudes: black pine woodlands, ancient junipers, trails circumscribing Mount Olympus, and
+      exposed rock that provided foundational evidence for modern seafloor spreading theory.
+    landscape: >-
+      The scientific revelation lies in what geological erosion has exposed. The oceanic crust was thrust
+      upward without severe deformation, progressively stripping away upper layers to reveal the ancient magma
+      chamber beneath, displaying intact sheeted dyke complexes and petrified pillow lavas. The Troodos
+      Ophiolite is consequently a textbook specimen: an ancient seafloor spreading center from the Late
+      Cretaceous, gradually hoisted aloft by tectonic subduction south of Cyprus. Field observations here
+      provided definitive empirical proof for the seafloor spreading paradigm.
+
+
+      The mountain summit is the living proof. Mount Olympus, locally known as Chionistra, forms the apex of
+      Cyprus at 1,952 m and is composed of ultramafic plutonic rocks, predominantly serpentinized harzburgite
+      belonging to that same ophiolitic mantle.
+
+
+      Conifers rule the heights. Calabrian pine and endemic golden oak dominate lower elevations, while high
+      slopes are clothed in [European black pine](/especie/pinus_nigra/). The mountain range acts as a major
+      moisture barrier, creating a pronounced rain shadow across the island. At Prodromos, daily average
+      temperatures hover around 4 °C in January and 23 °C in July.
+    wildlife: >-
+      The range supports numerous endemic plants and animals, most notably the Cyprus cedar, which survives
+      naturally in only five forest stands, primarily at Tripylos. Along hiking trails you can examine
+      distinctive regional flora: golden oak, Troodos sage, and Troodos catmint.
+
+
+      Keep your eyes on the skies above. Avian species recorded across the ridges include [Bonelli's
+      eagle](/especie/aquila_fasciata/), Eurasian jay, common wood pigeon, and chukar partridge, alongside two
+      island endemics: the Cyprus warbler and Cyprus wheatear. Native mammals include the endemic Cyprus
+      [mouflon](/especie/ovis_gmelini/), red fox, European hare, and long-eared hedgehog. Reptiles include the
+      blunt-nosed viper and the rare endemic Cyprus whip snake.
+    visit: >-
+      The park's focal hub is Troodos Square, home to the Environmental Information Centre. Its exhibition
+      hall and cinema explain the geology, flora, and fauna of the range, and an educational botanical and
+      geological trail begins right outside. From November to March it opens Monday to Friday from 09:00 to
+      14:30 and closes on weekends; from June to August it opens Monday to Friday from 09:00 to 14:30 and on
+      weekends from 10:00 to 16:00.
+
+
+      Four distinct walking trails explore the mountain landscape:
+
+
+      - **Persephone**: 3 km taking one hour, starting 150 m south of Troodos Square. It winds through dense
+      pine forest for the first two kilometers before reaching Makria Kontarka with panoramic viewpoints.
+
+      - **Kalidonia**: 3 km in an hour and a half. Descending along the perennial Kryos Potamos river, it
+      visits the Kalidonia waterfall and finishes at Psilodentro in Pano Platres.
+
+      - **Artemis**: a circular 7 km loop taking about two and a half or three hours. It encircles the peak of
+      Olympus at 1,850 m, offering panoramic vistas in all directions and passing two black pines around 500
+      years old.
+
+      - **Atalante**: a circular 14 km circuit taking four or five hours from Troodos Square. It circles
+      Chionistra at 1,700-1,750 m amidst black pines and a venerable 800-year-old foetid juniper, the largest
+      tree on the route, passing an abandoned chromium mine entrance closed since 1982.
+    history: >-
+      Troodos has been intertwined with Mediterranean history for millennia. Since antiquity its slopes were
+      renowned for copper mining, supplying ores to Bronze Age civilizations across the eastern Mediterranean.
+      The geographer Strabo recorded that one of Olympus's promontories hosted a sanctuary dedicated to
+      Aphrodite Akraia where women were strictly forbidden to enter. During Byzantine times, the mountain
+      interior, safe from coastal pirate raids, filled with frescoed churches and monasteries, evolving into a
+      celebrated center of Byzantine art.
+    before: >-
+      Opening hours at the Environmental Information Centre vary seasonally, so confirm schedules before
+      ascending. The Cyprus Tourism Organisation rates the Artemis Trail at the easiest difficulty tier.
+    around: >-
+      Troodos has no adjacent neighbors in the atlas, but shares high-elevation Mediterranean forest habitats
+      with distant massifs. The [Bavella Massif](/lugar/bavella-massif/) and [Corsica Regional Nature
+      Park](/lugar/parc-naturel-regional-de-corse/) share the mouflon; [Sila National
+      Park](/lugar/parco-nazionale-della-sila/) in Italy shares black pine woodlands.
+  fr:
+    intro: >-
+      Il y a des millions d'années, ce massif formait le fond des abysses marins. Les monts Troodos, la plus
+      haute chaîne de Chypre, ont émergé lentement de l'océan lors de la collision des plaques africaine et
+      eurasienne, donnant naissance à l'île tout entière. Les montagnes couvrent aujourd'hui un tiers du
+      territoire chypriote vers l'ouest, et le parc national forestier de Troodos en protège les plus hauts
+      sommets : pinèdes d'altitude, genévriers séculaires, sentiers ceinturant l'Olympe et roches témoins de
+      l'expansion océanique.
+    landscape: >-
+      L'érosion a accompli un travail géologique prodigieux. La croûte océanique s'est soulevée presque
+      intacte, dénudant progressivement la chambre magmatique sous-jacente avec ses filons basaltiques et ses
+      laves en coussins pétrifiées. L'ophiolite du Troodos est un exemple mondial d'école : une ancienne
+      dorsale médio-océanique du Crétacé supérieur, surélevée par la subduction au sud de l'île. Les études
+      menées ici ont fourni des preuves capitales à la théorie de la tectonique des plaques.
+
+
+      Le point culminant en atteste. Le mont Olympe, ou Chionistra, coiffe Chypre à 1 952 m d'altitude et se
+      compose de roches ultramafiques, principalement de la harzburgite serpentinisée issue du manteau
+      océanique.
+
+
+      Les conifères dominent les hauteurs. Le pin de Calabre et le chêne doré habillent les pentes moyennes,
+      relayés sur les crêtes par le [pin noir](/especie/pinus_nigra/). Le massif fait office de barrière
+      orographique provoquant une ombre pluviométrique marquée sur l'île. À Prodromos, la température moyenne
+      quotidienne oscille autour de 4 °C en janvier et 23 °C en juillet.
+    wildlife: >-
+      Le massif concentre de nombreux endémismes végétaux et animaux, dont le cèdre de Chypre, cantonné à
+      seulement cinq peuplements naturels dont Tripylos. Les sentiers permettent d'observer la flore locale :
+      chêne doré, sauge du Troodos ou cataire du Troodos.
+
+
+      Le ciel offre aussi de beaux spectacles. On y observe l'[aigle de Bonelli](/especie/aquila_fasciata/),
+      le geai des chênes, le pigeon ramier et la perdrix choukar, aux côtés de deux oiseaux endémiques : la
+      fauvette de Chypre et le traquet de Chypre. Parmi les mammifères figurent le
+      [mouflon](/especie/ovis_gmelini/) de Chypre, le renard roux, le lièvre et le hérisson, et chez les
+      reptiles, la vipère lébétine et la couleuvre de Chypre, cette dernière endémique.
+    visit: >-
+      Le cœur du parc s'articule autour de la place de Troodos où s'élève le centre environnemental. Sa salle
+      d'exposition et son cinéma retracent la géologie, la flore et la faune insulaires, avec un sentier
+      d'interprétation botanique et géologique. De novembre à mars, il ouvre du lundi au vendredi de 09:00 à
+      14:30 et ferme le week-end ; de juin à août, du lundi au vendredi de 09:00 à 14:30 et le week-end de
+      10:00 à 16:00.
+
+
+      De là rayonnent quatre itinéraires de randonnée :
+
+
+      - **Perséphone** : 3 km en une heure, démarrant à 150 m au sud de la place. Il serpente en pinède dense
+      sur les deux premiers kilomètres pour atteindre le belvédère de Makria Kontarka.
+
+      - **Calédonia** : 3 km en une heure et demie. Il descend le long de la rivière Kryos Potamos, franchit
+      la cascade de Calédonia et s'achève à Psilodentro à Pano Platres.
+
+      - **Artémis** : boucle de 7 km en deux heures et demie ou trois heures. Il contourne l'Olympe à 1 850 m
+      d'altitude, offrant des vues panoramiques et croisant deux pins noirs âgés de 500 ans.
+
+      - **Atalante** : boucle de 14 km en quatre ou cinq heures depuis la place. Il fait le tour de la
+      Chionistra entre 1 700-1 750 m au milieu des pins noirs et d'un genévrier fétide de 800 ans, longeant
+      une ancienne mine de chrome fermée en 1982.
+    history: >-
+      Le Troodos occupe une place séculaire dans l'histoire méditerranéenne. Dès l'Antiquité, ses filons ont
+      fourni du cuivre à l'ensemble du bassin oriental. Le géographe antique Strabon rapportait qu'un des
+      promontoires de l'Olympe abritait un temple d'Aphrodite Acraia interdit aux femmes. À l'époque
+      byzantine, le massif montagneux, refuge éloigné des côtes exposées aux pillages, s'est couvert d'églises
+      et de monastères renommés pour leurs fresques.
+    before: >-
+      Les horaires du centre environnemental varient selon la saison, pensez à vérifier avant de monter.
+      L'office du tourisme classe le sentier Artémis au niveau de difficulté le plus accessible.
+    around: >-
+      Troodos n'a aucun voisin direct dans l'atlas, mais partage des biotopes montagnards avec d'autres
+      massifs méditerranéens. Le [massif de Bavella](/lugar/bavella-massif/) et le [parc naturel régional de
+      Corse](/lugar/parc-naturel-regional-de-corse/) partagent le mouflon ; le [parc national de la
+      Sila](/lugar/parco-nazionale-della-sila/) en Italie partage les forêts de pin laricio.
+  de:
+    intro: >-
+      Vor Jahrmillionen bildete dieses Gebirge den Grund der Tiefsee. Das Troodos-Gebirge, Zyperns mächtigster
+      Gebirgszug, stieg langsam empor, als die afrikanische und die eurasische Kontinentalplatte kollidierten
+      – aus diesem Druck entstand die gesamte Insel. Heute bedecken die Berge ein Drittel Zyperns im
+      Südwesten, und der Troodos-Nationalwaldpark schützt die höchsten Lagen: Schwarzkiefernwälder, uralte
+      Wacholder, Wanderpfade rund um den Olymp und Gesteine, die der Wissenschaft halfen, die
+      Ozeanbodenspreizung zu verstehen.
+    landscape: >-
+      Der Schlüssel liegt in der Erosionsgeschichte. Die ozeanische Kruste wurde kaum deformiert gehoben und
+      gab im Laufe der Zeit die darunterliegende ehemalige Magmakammer frei, mit intakten Gangschwärmen und
+      versteinerten Kissenlaven. Der Troodos-Ophiolith gilt als Lehrbuchbeispiel eines mittelozeanischen
+      Spreizungsrückens der Oberen Kreide, gehoben durch Subduktion südlich der Insel. Beobachtungen hier
+      lieferten entscheidende Beweise für die Plattentektonik.
+
+
+      Der Gipfel belegt diesen Ursprung: Der Berg Olymp (Chionistra) ist mit 1.952 m der höchste Punkt Zyperns
+      und besteht aus ultramafischem Mantelgestein, vor allem serpentinisiertem Harzburgit als Teil jenes
+      Ophioliths.
+
+
+      In der Höhe dominieren Nadelbäume: Kalabrische Kiefer und Goldeiche prägen mittlere Höhen, während in
+      den Hochlagen die [Schwarzkiefer](/especie/pinus_nigra/) wächst. Das Gebirge wirkt als Wetterscheide mit
+      ausgeprägtem Regenschatten. In Prodromos liegt die mittlere Tagestemperatur bei rund 4 °C im Januar und
+      23 °C im Juli.
+    wildlife: >-
+      Das Gebirge beherbergt viele endemische Tier- und Pflanzenarten, darunter die Zypern-Zeder, die
+      natürlicherweise nur in fünf Beständen vorkommt, vor allem bei Tripylos. Entlang der Pfade begegnen
+      Wanderern Goldeiche, Troodos-Salbei und Troodos-Katzenminze.
+
+
+      Auch der Blick zum Himmel lohnt sich: Auf den Kämmen kreisen [Habichtsadler](/especie/aquila_fasciata/),
+      Eichelhäher, Ringeltaube und Chukarhuhn neben zwei Inselendemiten: Zyperngrasmücke und
+      Zypernsteinschmätzer. Zu den Säugetieren zählen das Zypern-[Mufflon](/especie/ovis_gmelini/), Rotfuchs,
+      Schneehase und Langohrigel; unter den Reptilien sind Levanteotter und die endemische
+      Zypern-Schlanknatter vertreten.
+    visit: >-
+      Herzstück des Parks ist der Troodos-Platz mit dem Umweltzentrum. Ausstellungsraum und Filmvorführung
+      veranschaulichen Geologie, Flora und Fauna, ergänzt durch einen botanisch-geologischen Lehrpfad. Von
+      November bis März öffnet das Zentrum montags bis freitags von 09:00 bis 14:30 und schließt am
+      Wochenende; von Juni bis August montags bis freitags von 09:00 bis 14:30 und am Wochenende von 10:00 bis
+      16:00.
+
+
+      Vier markierte Routen erschließen das Gebirge:
+
+
+      - **Persephone**: 3 km in einer Stunde, beginnend 150 m südlich des Platzes. Der Weg führt die ersten
+      zwei Kilometer durch dichten Kiefernwald nach Makria Kontarka.
+
+      - **Kaledonia**: 3 km in anderthalb Stunden. Er folgt dem Bach Kryos Potamos bergab zum
+      Kaledonia-Wasserfall nach Psilodentro bei Pano Platres.
+
+      - **Artemis**: Rundweg, 7 km in rund zweieinhalb oder drei Stunden. Er umrundet den Olymp auf 1.850 m
+      Höhe mit Rundumpanorama und passiert zwei rund 500 Jahre alte Schwarzkiefern.
+
+      - **Atalanti**: Rundweg, 14 km in vier oder fünf Stunden ab Troodos-Platz. Er umkreist die Chionistra
+      auf 1.700-1.750 m zwischen Schwarzkiefern und einem 800 Jahre alten Stink-Wacholder, vorbei an einer
+      1982 stillgelegten Chrommine.
+    history: >-
+      Das Troodos-Gebirge prägte die Geschichte des östlichen Mittelmeers. Seit der Antike war es berühmt für
+      seine Kupfervorkommen, die antike Reiche mit Metall versorgten. Der Geograph Strabon erwähnte auf einer
+      Klippe des Olymps einen Tempel der Aphrodite Akraia, der Frauen verschlossen war. In byzantinischer Zeit
+      entstanden im abgelegenen Gebirgsinneren Klöster und Scheunendachkirchen mit berühmten Fresken.
+    before: >-
+      Die Öffnungszeiten des Umweltzentrums wechseln saisonal, informiere dich vor der Anfahrt. Das
+      Fremdenverkehrsamt stuft den Artemis-Weg als technisch leicht ein.
+    around: >-
+      Troodos hat keine Nachbarn im Atlas, teilt aber mediterrane Hochgebirgswälder mit anderen Gebirgen. Das
+      [Bavella-Massiv](/lugar/bavella-massif/) und der [Regionale Naturpark
+      Korsika](/lugar/parc-naturel-regional-de-corse/) teilen das Mufflon; der [Nationalpark
+      Sila](/lugar/parco-nazionale-della-sila/) in Italien teilt Schwarzkiefernwälder.
+  it:
+    intro: >-
+      Milioni di anni fa questa catena montuosa formava il fondale oceanico profondo. I monti Troodos, la
+      maggiore dorsale di Cipro, emersero lentamente dalle acque quando la placca africana e quella
+      eurasiatica entrarono in collisione, originando l'intera isola. I rilievi occupano oggi un terzo del
+      territorio cipriota a occidente, e il Parco Forestale Nazionale di Troodos ne preserva il cuore
+      culminante: pinete montane, ginepri secolari, sentieri attorno all'Olimpo e formazioni rocciose che
+      hanno svelato l'espansione dei fondali oceanici.
+    landscape: >-
+      La chiave scientifica risiede nell'opera dell'erosione. La crosta oceanica si è sollevata quasi senza
+      deformazioni, lasciando affiorare l'antica camera magmatica sottostante con filoni basaltici e lave a
+      cuscino fossilizzate. L'ofiolite del Troodos è un modello geologico esemplare a livello mondiale: una
+      dorsale oceanica del Cretacico superiore sollevata dalla subduzione a sud dell'isola. Gli studi compiuti
+      qui hanno fornito conferme essenziali alla tettonica delle placche.
+
+
+      La vetta ne è testimonianza diretta. Il monte Olimpo, o Chionistra, tocca la massima quota di Cipro a
+      1.952 m ed è formato da rocce ultramafiche, principalmente harzburgite serpentinizzata appartenente a
+      quella stessa sequenza mantellica.
+
+
+      Sulle alture dominano le conifere. Pino calabro e quercia dorata colonizzano le quote inferiori,
+      lasciando spazio sul crinale al [pino nero](/especie/pinus_nigra/). Il massiccio funge da barriera
+      meteorologica determinando un'evidente ombra pluviometrica. A Prodromos la temperatura media giornaliera
+      si attesta sui 4 °C a gennaio e 23 °C a luglio.
+    wildlife: >-
+      Il massiccio vanta numerose entità endemiche botaniche e zoologiche, tra cui il cedro di Cipro, limitato
+      a soli cinque popolamenti relitti tra cui Tripylos. Lungo i sentieri si osservano quercia dorata, salvia
+      di Troodos ed erba gatta di Troodos.
+
+
+      Osserva anche verso l'alto. Lungo le creste si avvistano l'[aquila di
+      Bonelli](/especie/aquila_fasciata/), la ghiandaia, il colombaccio e la pernice chukar, assieme a due
+      uccelli endemici dell'isola: la magnanina di Cipro e la monachella di Cipro. Tra i mammiferi risaltano
+      il [muflone](/especie/ovis_gmelini/) di Cipro, la volpe, la lepre e il riccio; tra i rettili, la vipera
+      di Cipro e il colubro di Cipro, quest'ultimo endemico.
+    visit: >-
+      Il punto focale del parco è la piazza di Troodos con il Centro Ambientale. Il settore espositivo e la
+      sala proiezioni illustrano geologia, flora e fauna montana, affiancati da un percorso didattico botanico
+      e geologico. Da novembre a marzo apre dal lunedì al venerdì dalle 09:00 alle 14:30 e chiude nei fine
+      settimana; da giugno ad agosto, dal lunedì al venerdì dalle 09:00 alle 14:30 e nei fine settimana dalle
+      10:00 alle 16:00.
+
+
+      Dalla piazza prendono avvio quattro itinerari escursionistici:
+
+
+      - **Persefone**: 3 km in un'ora, partendo 150 m a sud della piazza. Attraversa fitte pinete nei primi
+      due chilometri terminando al belvedere di Makria Kontarka.
+
+      - **Caledonia**: 3 km in un'ora e mezza. Discende lungo il torrente perenne Kryos Potamos sfiorando la
+      cascata di Caledonia per concludersi a Psilodentro a Pano Platres.
+
+      - **Artemide**: anello di 7 km in circa due ore e mezza o tre. Gira attorno all'Olimpo a 1.850 m di
+      quota offrendo viste panoramiche e toccando due pini neri di 500 anni.
+
+      - **Atalanta**: anello di 14 km in quattro o cinque ore dalla piazza di Troodos. Circonda la Chionistra
+      a 1.700-1.750 m tra pini neri e un monumentale ginepro fetido di 800 anni, rasentando una miniera di
+      cromo chiusa dal 1982.
+    history: >-
+      I monti Troodos attraversano la storia mediterranea da millenni. Fin dall'antichità furono celebri per i
+      giacimenti minerari che rifornirono di rame l'intero bacino levantino. Il geografo Strabone tramandò che
+      su un promontorio dell'Olimpo sorgeva un tempio di Afrodite Acrea precluso alle donne. In epoca
+      bizantina la dorsale montuosa, protetta dalle incursioni costiere, si arricchì di monasteri e chiese
+      affrescate.
+    before: >-
+      Gli orari del Centro Ambientale variano con la stagione, verificali prima di salire. L'ente turistico
+      ufficiale classifica il sentiero Artemide al livello di difficoltà elementare.
+    around: >-
+      Troodos non ha vicini diretti nell'atlas, ma condivide formazioni boschive e ambienti culminali con
+      altri massicci mediterranei. Il [Massiccio di Bavella](/lugar/bavella-massif/) e il [Parco Naturale
+      Regionale della Corsica](/lugar/parc-naturel-regional-de-corse/) ospitano il muflone; il [Parco
+      Nazionale della Sila](/lugar/parco-nazionale-della-sila/) in Italia condivide pinete di pino nero
+      laricio.
+  pt:
+    intro: >-
+      Há milhões de anos, este relevo formava o leito das profundezas marinhas. A cordilheira de Troodos, a
+      espinha dorsal de Chipre, ergueu-se lentamente das águas na colisão entre as placas africana e
+      euroasiática, dando origem à totalidade da ilha. As montanhas ocupam hoje um terço de Chipre a ocidente,
+      e o Parque Florestal Nacional de Troodos salvaguarda o setor culminante: pinhais de altitude, zimbros
+      seculares, trilhos em torno do Olimpo e rochas essenciais para compreender a expansão oceânica.
+    landscape: >-
+      O segredo reside na erosão ao longo dos milénios. A crosta oceânica emergiu quase sem deformações,
+      expondo a antiga câmara magmática com lavas em almofada e filões basálticos petrificados. O ofiolito de
+      Troodos constitui um modelo clássico de referência mundial: uma antiga dorsal meso-oceânica do Cretácico
+      Superior erguida pela subducção a sul da ilha. Os estudos aqui conduzidos facultaram dados capitais para
+      a teoria da tectónica de placas.
+
+
+      O cume máximo atesta-o. O monte Olimpo, ou Chionistra, é o ponto mais alto de Chipre com 1.952 m e é
+      composto por rocha ultramáfica mantélica, sobretudo harzburgito serpentinizado pertencente àquele
+      ofiolito.
+
+
+      Nas alturas dominam as coníferas. O pinheiro-de-calábria e o carvalho-dourado cobrem as encostas médias,
+      dando lugar nos cumes ao [pinheiro-larício](/especie/pinus_nigra/). A cordilheira atua como barreira
+      orográfica criando uma sombra pluviométrica pronunciada na ilha. Em Prodromos a temperatura média diária
+      ronda os 4 °C em janeiro e 23 °C em julho.
+    wildlife: >-
+      A serra alberga numerosos endemismos animais e vegetais, destacando-se o cedro-de-chipre, confinado a
+      apenas cinco povoamentos naturais como Tripylos. Ao longo dos trilhos observam-se carvalho-dourado,
+      salva-de-troodos e erva-gateira-de-troodos.
+
+
+      Olha também para o céu. Nas cristas ocorrem a [águia-de-bonelli](/especie/aquila_fasciata/), o gaio, o
+      pombo-torcaz e a perdiz-chucar, a par de duas aves endémicas da ilha: a felosa-de-chipre e o
+      chasco-de-chipre. Entre os mamíferos contam-se o [muflão](/especie/ovis_gmelini/) de Chipre, a raposa, a
+      lebre e o ouriço; entre os répteis, a víbora-do-levante e a cobra-chicote-de-chipre, esta última
+      endémica.
+    visit: >-
+      O centro nevrálgico é a praça de Troodos, onde funciona o Centro Ambiental. A exposição permanente e a
+      sala de projeção revelam a geologia, flora e fauna da montanha, iniciando-se ali um percurso didático
+      botânico e geológico. De novembro a março abre de segunda a sexta das 09:00 às 14:30 encerrando ao fim
+      de semana; de junho a agosto abre de segunda a sexta das 09:00 às 14:30 e aos fins de semana das 10:00
+      às 16:00.
+
+
+      A partir da praça ramificam-se quatro trilhos pedestres:
+
+
+      - **Perséfone**: 3 km em uma hora, partindo 150 m a sul da praça. Percorre pinhal denso durante os dois
+      primeiros quilómetros terminando no miradouro de Makria Kontarka.
+
+      - **Caledónia**: 3 km em hora e meia. Desce ao longo do rio perene Kryos Potamos passando pela cascata
+      de Caledónia até Psilodentro em Pano Platres.
+
+      - **Ártemis**: circular, 7 km em cerca de duas horas e meia ou três. Contorna o Olimpo a 1.850 m de
+      altitude com amplas vistas, cruzando dois pinheiros-larícios com cerca de 500 anos.
+
+      - **Atalanta**: circular, 14 km em quatro ou cinco horas desde a praça de Troodos. Circunda a Chionistra
+      a 1.700-1.750 m entre pinhais e um zimbro fétido com 800 anos, passando pela entrada de uma mina de
+      crómio desativada desde 1982.
+    history: >-
+      Troodos marca presença milenar na história mediterrânica. Desde a Antiguidade as suas encostas foram
+      exploradas por minas que abasteceram de cobre civilizações do Levante. O geógrafo Estrabão referiu que
+      num dos promontórios do Olimpo se erguia um santuário de Afrodite Acreia onde as mulheres eram proibidas
+      de entrar. Na época bizantina, o interior montanhoso, resguardado de ataques piratas costeiros,
+      cobriu-se de mosteiros e igrejas com frescos renascentistas.
+    before: >-
+      Os horários do Centro Ambiental variam com as estações, pelo que deves confirmar antes de subir. O
+      organismo oficial de turismo cataloga o trilho Ártemis no escalão elementar de dificuldade.
+    around: >-
+      Troodos não tem vizinhos imediatos no atlas, mas partilha ecossistemas florestais de montanha com outros
+      maciços mediterrânicos. O [Maciço de Bavella](/lugar/bavella-massif/) e o [Parque Natural Regional da
+      Córsega](/lugar/parc-naturel-regional-de-corse/) partilham o muflão; o [Parque Nacional da
+      Sila](/lugar/parco-nazionale-della-sila/) em Itália partilha bosques de pinheiro-larício.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Troodos_Mountains
+    titulo: Troodos Mountains - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/artemis-circular-lemesos-limassol-district-troodos-forest-nature-trail/
+    titulo: www.visitcyprus.com
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Troodos_Ophiolite
+    titulo: Troodos Ophiolite - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Mount_Olympus_(Cyprus)
+    titulo: Mount Olympus (Cyprus) - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Cedrus_libani_var._brevifolia
+    titulo: Cedrus libani var. brevifolia - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.visitcyprus.com/discover-cyprus/nature/excursions/troodos-environmental-centre/
+    titulo: Troodos Environmental Centre - Visit Cyprus
+    fecha_consulta: '2026-10-22'
+  - url: https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/persephone-linear-lemesos-limassol-district-troodos-forest-nature-trail/
+    titulo: Persephone (Linear) - Troodos Forest Nature Trail - Visit Cyprus
+    fecha_consulta: '2026-10-22'
+  - url: https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/kalidonia-linear-lemesos-limassol-district-troodos-forest-nature-trail/
+    titulo: Kalidonia (Linear) - Troodos Forest Nature Trail - Visit Cyprus
+    fecha_consulta: '2026-10-22'
+  - url: https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/atalanti-circular-lemesos-limassol-lefkosia-nicosia-districts-troodos-forest-nature-trail/
+    titulo: Atalanti (Circular) - Troodos Forest Nature Trail - Visit Cyprus
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Artemis_Nature_Trail_-_panoramio_(2).jpg
+    autor: Dmitry Panov
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-21'

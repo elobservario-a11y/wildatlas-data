@@ -1,0 +1,772 @@
+id: massif-du-devoluy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Macizo del Dévoluy
+  en: Dévoluy Massif
+  fr: Massif du Dévoluy
+  de: Dévoluy-Massiv
+  it: Massiccio del Dévoluy
+  pt: Maciço do Dévoluy
+nombre_original: Massif du Dévoluy
+alias:
+  - Dévoluy Massif (Massif du Dévoluy)
+paises:
+  - FR
+region:
+  es: Altos Alpes (Saint-Étienne-en-Dévoluy)
+  en: Hautes-Alpes (Saint-Étienne-en-Dévoluy)
+  fr: Hautes-Alpes (Saint-Étienne-en-Dévoluy)
+  de: Hautes-Alpes (Saint-Étienne-en-Dévoluy)
+  it: Alte Alpi (Saint-Étienne-en-Dévoluy)
+  pt: Altos Alpes (Saint-Étienne-en-Dévoluy)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/18257140
+  nombre_en_la_fuente: Massif du Dévoluy
+  capa: capas/osm/massif-du-devoluy.geojson
+habitats:
+  - high_mountain
+  - karst
+designaciones:
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - aquila_chrysaetos
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Office de Tourisme du Dévoluy
+    url: https://www.ledevoluy.com/
+  - titulo: Rutas — Senderos del Dévoluy
+    url: https://www.ledevoluy.com/ete/envies-2/sur-nos-sentiers/
+  - titulo: Normas — Espacios compartidos y protegidos
+    url: https://www.ledevoluy.com/ete/espaces-partages-et-proteges/
+resumen:
+  es: Fortaleza mineral kárstica rodeada de acantilados calcáreos y profundos pozos subterráneos (*chourums*).
+  en: Mineral karst fortress rimmed by limestone cliffs and riddled with deep subterranean chasms (*chourums*).
+  fr: >-
+    Forteresse minérale karstique ceinturée de falaises calcaires et percée de profonds gouffres souterrains
+    (*chourums*).
+  de: >-
+    Mineralische Karstfestung, umgürtet von Kalkfelsen und durchlöchert von tiefen unterirdischen Schächten
+    (*Chourums*).
+  it: >-
+    Fortezza minerale carsica cinta da pareti calcaree e traforata da profondi abissi sotterranei
+    (*chourums*).
+  pt: >-
+    Fortaleza mineral cárstica cercada por escarpas calcárias e perfurada por profundos algares subterrâneos
+    (*chourums*).
+unico:
+  es: >-
+    Casi seiscientas cavidades surcan el macizo, con salas gigantescas, formaciones de caliza y hasta
+    glaciares subterráneos: la montaña más viva del Dévoluy está bajo tus botas.
+  en: >-
+    Nearly six hundred caves riddle the massif, harboring colossal chambers, limestone formations, and even
+    subterranean ice: the most dynamic world of the Dévoluy lies right beneath your boots.
+  fr: >-
+    Près de six cents cavités perforent le massif, abritant salles monumentales, concrétions et même glaciers
+    souterrains : la montagne la plus vivante du Dévoluy est sous vos pas.
+  de: >-
+    Fast sechshundert Höhlen durchziehen das Massiv mit riesigen Sälen, Tropfsteingebilden und sogar
+    unterirdischen Gletschern: Die lebendigste Bergwelt des Dévoluy liegt unter deinen Sohlen.
+  it: >-
+    Quasi seicento cavità solcano il massiccio, con sale colossali, concrezioni calcaree e persino ghiacciai
+    sotterranei: la montagna più viva del Dévoluy è sotto i tuoi scarponi.
+  pt: >-
+    Quase seiscentas cavidades perfuram o maciço, albergando salas colossais, formações calcárias e até
+    glaciares subterrâneos: a montanha mais viva do Dévoluy corre debaixo das tuas botas.
+observaciones:
+  es: >-
+    En el plateau de Bure está prohibido salirse de los senderos señalizados fuera del invierno. Tampoco se
+    permiten los vehículos a motor, los fuegos, acampar o vivaquear, la bicicleta de montaña, los perros sin
+    correa ni despegar o aterrizar drones o parapentes. Está prohibido recoger o arrancar plantas silvestres y
+    recolectar fósiles, insectos u otros animales.
+
+
+    En los alpages respeta las cabañas de los pastores, no asustes a los rebaños y lleva a los perros atados.
+    En el sendero de aproximación a la vía subterránea de la Tune hay cavidades junto al camino: no te
+    apartes, por el riesgo de caída. Y el Tour de l'Obiou es para quien sabe moverse en montaña: si no estás
+    acostumbrado a las travesías a pie, sal acompañado de un guía.
+texto:
+  es:
+    intro: >-
+      Parece una montaña maciza y por dentro está hueca. El Dévoluy es un macizo calizo subalpino, a caballo
+      entre los Alpes del Sur y los Alpes del Norte, que ocupa unos 185 km² repartidos entre los departamentos
+      de Altos Alpes, Isère y Drôme. Arriba hay crestas grises, pastos de verano y rebaños; debajo, casi
+      seiscientas cavidades por donde el agua corre sin que nadie la vea. Es un sitio para caminar entre
+      pedreras y alpages, y para entender un paisaje que se ha trabajado sobre todo hacia dentro.
+    landscape: >-
+      El Dévoluy es un macizo de caliza, típico de los Prealpes y muy modelado por la erosión glaciar. Los
+      glaciares ya no existen: por su posición meridional, y a pesar de la altitud, han desaparecido por
+      completo. Han dejado numerosos vallones y grandes pedreras que dan a la roca su color gris
+      característico.
+
+
+      La cumbre más alta es el Obiou, con 2.789 metros, y se reconoce desde otras cimas de los Alpes porque
+      está aislado al frente del macizo. Es un cerro testigo: lo que queda de una meseta que el hundimiento de
+      los suelos kársticos y los glaciares fueron desmontando alrededor. Dos capas lo componen, el jurásico
+      superior abajo y el cretácico superior arriba, y la roca caliza es su rasgo más reconocible.
+
+
+      Al sur se extiende una vasta meseta caliza, el plateau de Bure, a 2.500 metros de altitud y más de tres
+      kilómetros de largo, que culmina en el pico de Bure (2.709 metros). En esa meseta hay un observatorio
+      astronómico, y desde el collado de los Baumes se ve el pico de Bure como emblema del macizo, con NOEMA,
+      el observatorio más potente del hemisferio norte, en su altiplano. El fondo del vallon des Aiguilles
+      tiene otra cara: un lago glaciar dejó paso a un arroyo de meandros que recuerda a una estepa.
+
+
+      Y luego está lo que no se ve. Los espeleólogos llaman chourums a las cavidades del macizo. El sistema
+      Rama-Aiguilles, con 980 metros de desnivel, es la mayor, y la Tune des Renards llega a 890 metros de
+      profundidad. Y en el desfiladero de la Souloise están las Gillardes, la segunda surgencia de Francia
+      después de la Fontaine de Vaucluse, donde el agua sale a la luz.
+    wildlife: >-
+      Alrededor del Obiou, entre rebaños de ovejas y vacas, se pueden ver
+      [rebecos](/especie/rupicapra_rupicapra/), [marmotas](/especie/marmota_marmota/) y [águilas
+      reales](/especie/aquila_chrysaetos/). En las zonas altas, la liebre variable y el lagópodo alpino
+      figuran entre las especies a proteger, y el plateau de Bure, un gran pedregal de alta montaña, abriga
+      especies animales y vegetales protegidas que solo viven en ese tipo de medio. Algunos guías de montaña
+      locales organizan salidas para observar la fauna salvaje.
+
+
+      El calendario del caminante va de junio a octubre. En verano los pastos son lugar de vida y de trabajo:
+      la ganadería ovina es la principal actividad agraria, y llegan rebaños de toda la región PACA para pasar
+      el verano en la altura. Con ellos viven pastores y perros de protección. Si uno se acerca ladrando, no
+      es una agresión: es su reflejo para disuadir a quien ve cerca del rebaño.
+    visit: >-
+      La gran travesía es el Tour de l'Obiou: cuatro etapas señalizadas, 64 kilómetros y 3.490 metros de
+      desnivel positivo, pensada para senderistas experimentados. La primera etapa, entre Pellafol y
+      Bachilianne, mide 11,7 kilómetros con 870 metros de subida; la segunda, de Bachilianne a Tréminis, tiene
+      15,5 kilómetros y va entera por pastos alpinos. El macizo tiene en total 200 kilómetros de senderos
+      señalizados.
+
+
+      Si buscas algo más corto, hay buenas entradas. Desde el col du Festre, en menos de tres kilómetros
+      llegas al pie de la cascada de Saute-Aure. Desde La Joue du Loup o Superdévoluy, un sendero de balizas
+      amarillas sube con algo más de cien metros de desnivel al collet du Tat, y otros cien más te llevan a la
+      crête des Baumes, con vista de 360° sobre el macizo. Hay un paseo suave desde Saint-Disdier por la
+      Souloise hasta el Puits des Bans, el abismo más accesible del macizo y la primera cavidad que se
+      exploró. Y a las Gillardes se llega por un sendero llano de unos cientos de metros entre árboles, desde
+      un aparcamiento.
+
+
+      Para los que quieren pisar el pico de Bure, hay que subir a pie más de mil metros de desnivel. Si no
+      tienes experiencia en montaña, ve con guía. El col de l'Aup, en el extremo norte, ofrece vistas del
+      Obiou y de la barrera este del macizo; su cabaña sirve a los pastores en verano y el resto del año es un
+      refugio no guardado.
+
+
+      Para bajar a la montaña por dentro, la vía subterránea de la Tune, junto a Superdévoluy, se recorre con
+      un guía de espeleología: el circuito mide entre 300 y 500 metros a una temperatura de unos 10 grados. La
+      oficina de turismo del Dévoluy tiene tres espacios de atención, en el valle y en las estaciones.
+    history: >-
+      El nombre del macizo ya aparece como Devologium en el siglo XI, con el sentido de «lugar apartado».
+      Sigue siendo, en buena medida, un país de pastos y de rebaños.
+
+
+      Gran parte del recorrido del Obiou está dentro de una zona Natura 2000, y se pide respetar la
+      señalización y la naturaleza. El plateau de Bure tiene además una normativa propia para reducir las
+      molestias a la fauna y la destrucción de su biotopo.
+    before: >-
+      En el plateau de Bure está prohibido salirse de los senderos señalizados fuera del invierno. Tampoco se
+      permiten los vehículos a motor, los fuegos, acampar o vivaquear, la bicicleta de montaña, los perros sin
+      correa ni despegar o aterrizar drones o parapentes. Está prohibido recoger o arrancar plantas silvestres
+      y recolectar fósiles, insectos u otros animales.
+
+
+      En los alpages respeta las cabañas de los pastores, no asustes a los rebaños y lleva a los perros
+      atados. En el sendero de aproximación a la vía subterránea de la Tune hay cavidades junto al camino: no
+      te apartes, por el riesgo de caída. Y el Tour de l'Obiou es para quien sabe moverse en montaña: si no
+      estás acostumbrado a las travesías a pie, sal acompañado de un guía.
+    around: >-
+      El [Parque Nacional de los Écrins - Macizo Alpino](/lugar/parc-national-des-ecrins---massif/) está a
+      unos 10 km. Desde las cumbres del Dévoluy se abre, de hecho, un panorama de 360° sobre ese parque
+      nacional, la Drôme y el Isère.
+
+
+      Algo más lejos, a algo más de veinte kilómetros, queda la [Cadena Montañosa de
+      Belledonne](/lugar/chaine-de-belledonne/).
+  en:
+    intro: >-
+      It looks like an impenetrable stone fortress, yet inside it is entirely hollow. The Dévoluy is a
+      subalpine limestone massif straddling the Southern and Northern French Alps, covering some 185 km²
+      across the departments of Hautes-Alpes, Isère, and Drôme. Above rise grey ridges, summer pastures, and
+      grazing flocks; below lie nearly six hundred cavities through which subterranean streams flow unseen. It
+      is a land for walking across scree slopes and high pastures, discovering a landscape sculpted
+      predominantly from the inside out.
+    landscape: >-
+      The Dévoluy is a limestone massif typical of the Prealps, intensely shaped by past glacial erosion. The
+      glaciers have vanished entirely today: owing to its southern latitude, despite the high elevation, ice
+      cover has melted away. They left behind sweeping valleys and immense scree slopes that give the rock its
+      distinctive pale grey hue.
+
+
+      The highest peak is the Grande Couronne of the Obiou at 2,789 metres, unmistakable from neighbouring
+      Alpine summits because it stands detached at the northern forefront of the massif. It is an outlier: the
+      dramatic remnant of an ancient plateau dismantled around it by karst collapses and glacial action. It
+      comprises two geological stages—Upper Jurassic below and Upper Cretaceous above—with limestone being its
+      defining hallmark.
+
+
+      To the south stretches a vast limestone tableland, the Plateau de Bure, perched at 2,500 metres altitude
+      and spanning over three kilometres in length, crowned by the Pic de Bure (2,709 metres). On that high
+      plateau sits an astronomical observatory; from the Col des Baumes, the Pic de Bure stands as the
+      massif’s emblem, hosting NOEMA, the most powerful radio observatory in the Northern Hemisphere, across
+      its tundra-like plain. The floor of the Vallon des Aiguilles reveals another facet: an ancient glacial
+      lake gave way to a meandering stream reminiscent of an alpine steppe.
+
+
+      And then lies the unseen realm. Cavers refer to the massif’s vertical chasms as chourums. The
+      Rama-Aiguilles cave system, with a depth of 980 metres, is the most extensive, while the Tune des
+      Renards drops to 890 metres below ground. In the Souloise gorge gush the Gillardes springs, the second
+      largest karst resurgence in France after the Fontaine de Vaucluse, where subterranean waters burst back
+      into the open air.
+    wildlife: >-
+      Around the Obiou, amid flocks of sheep and cattle, you can spot
+      [chamois](/especie/rupicapra_rupicapra/), [alpine marmots](/especie/marmota_marmota/), and [golden
+      eagles](/especie/aquila_chrysaetos/). In the higher reaches, mountain hare and rock ptarmigan rank among
+      priority protected species, while the Plateau de Bure, a high-altitude stony plateau, shelters
+      specialized animals and plants adapted solely to harsh alpine fellfields. Local mountain guides organize
+      wildlife-watching outings.
+
+
+      The hiking season spans June to October. In summer the alpine meadows are working pastures: sheep
+      farming represents the primary agricultural pursuit, with flocks arriving from across the PACA region to
+      graze high altitudes for the summer. With them live shepherds and livestock guardian dogs (patous). If a
+      guardian dog approaches barking, it is not an attack: it is performing its duty to deter anyone coming
+      near the flock.
+    visit: >-
+      The definitive multi-day trek is the Tour de l’Obiou: four waymarked stages over 64 kilometres and 3,490
+      metres of cumulative elevation gain, designed for seasoned mountain hikers. The first stage, between
+      Pellafol and Bachilianne, covers 11.7 kilometres with 870 metres of ascent; the second, from Bachilianne
+      to Tréminis, spans 15.5 kilometres traversing high alpine pastures. In total, the massif boasts 200
+      kilometres of marked trails.
+
+
+      For shorter excursions, there are excellent options. From the Col du Festre, less than three kilometres
+      bring you to the foot of the Saute-Aure waterfall. From La Joue du Loup or Superdévoluy, a yellow-marked
+      trail climbs just over one hundred metres of ascent to the Collet du Tat, and another hundred metres
+      lead to the Crête des Baumes, offering a 360° panorama across the massif. A gentle riverside walk from
+      Saint-Disdier along the Souloise reaches the Puits des Bans, the most accessible abyss in the massif and
+      the earliest cave explored here. The Gillardes springs are reached via an easy flat stroll of several
+      hundred metres through woodlands from a car park.
+
+
+      Those wishing to summit the Pic de Bure must tackle over one thousand metres of elevation gain on foot.
+      If you lack mountain experience, hire a certified guide. The Col de l’Aup, on the northern edge, offers
+      superb vistas of the Obiou and the eastern escarpment; its pastoral hut serves shepherds in summer and
+      acts as an unstaffed mountain hut during the rest of the year.
+
+
+      To venture deep underground, the show cave of the Tune, near Superdévoluy, is explored alongside a
+      caving instructor: the underground circuit extends between 300 and 500 metres in length at a constant
+      temperature of around 10 degrees. The Dévoluy tourist office operates three visitor centres across the
+      valley and ski resorts.
+    history: >-
+      The name of the massif appears as Devologium in the eleventh century, carrying the connotation of an
+      "isolated place". It remains, to a great extent, a country of pastures and grazing herds.
+
+
+      Much of the Tour de l’Obiou route lies within a Natura 2000 zone, where visitors are asked to respect
+      waymarking and fragile alpine nature. The Plateau de Bure is subject to specific municipal regulations
+      to minimize disturbance to wildlife and protect its rare high-mountain biotopes.
+    before: >-
+      On the Plateau de Bure, leaving waymarked footpaths is strictly prohibited outside the winter snow
+      season. Motor vehicles, campfires, wild camping or bivouacking, mountain biking, off-leash dogs, and
+      launching or landing drones or paragliders are forbidden. Picking or uprooting wild plants and
+      collecting fossils, insects, or other animals is outlawed.
+
+
+      Across the alpine pastures, respect shepherds’ huts, avoid startling livestock, and keep dogs on a
+      leash. On the approach trail to the Tune underground cave, deep shafts lie near the path: do not wander
+      off due to fall hazards. The Tour de l’Obiou is intended for experienced mountain trekkers: if
+      unfamiliar with alpine hiking, set out with a guide.
+    around: >-
+      The [Écrins National Park - Alpine Massif](/lugar/parc-national-des-ecrins---massif/) lies around 10 km
+      away. From the high peaks of the Dévoluy, an expansive 360° panoramic vista unfolds across that national
+      park, the Drôme, and Isère.
+
+
+      Further away, just over twenty kilometres distant, rises the [Belledonne Mountain
+      Range](/lugar/chaine-de-belledonne/).
+  fr:
+    intro: >-
+      On dirait une montagne imprenable et pourtant l’intérieur est creux. Le Dévoluy est un massif calcaire
+      subalpin, à cheval entre les Alpes du Sud et les Alpes du Nord, qui s’étend sur environ 185 km² répartis
+      entre les départements des Hautes-Alpes, de l’Isère et de la Drôme. En haut règnent les crêtes grises,
+      les alpages d’été et les troupeaux ; en dessous, près de six cents cavités où l’eau chemine sans que nul
+      ne l’aperçoive. C’est un territoire fait pour marcher entre pierriers et pâturages, et pour appréhender
+      un relief forgé avant tout depuis ses profondeurs.
+    landscape: >-
+      Le Dévoluy est un massif calcaire typique des Préalpes, façonné par l’érosion glaciaire. Les glaciers
+      ont désormais disparu : du fait de sa position méridionale et en dépit de l’altitude, ils ont
+      entièrement fondu. Ils ont laissé d’amples vallons et d’immenses pierriers qui confèrent à la roche sa
+      teinte grisâtre emblématique.
+
+
+      Le point culminant est le sommet de l’Obiou, à 2 789 mètres, reconnaissable entre tous les sommets
+      alpins parce qu’il se dresse en vigie isolée à l’avant du massif. C’est une butte-témoin : le vestige
+      d’un vaste plateau que les effondrements karstiques et les glaciers ont démantelé tout autour. Deux
+      étages géologiques le composent, le jurassique supérieur à la base et le crétacé supérieur au sommet, le
+      calcaire constituant son trait le plus marquant.
+
+
+      Au sud s’étend un vaste plateau calcaire, le plateau de Bure, perché à 2 500 mètres d’altitude et long
+      de plus de trois kilomètres, qui culmine au pic de Bure (2 709 mètres). Ce haut plateau abrite un
+      observatoire astronomique, et depuis le col des Baumes, le pic de Bure apparaît comme l’emblème du
+      massif, portant NOEMA, l’observatoire millimétrique le plus puissant de l’hémisphère nord, sur son
+      altiplano. Le fond du vallon des Aiguilles offre un tout autre visage : un ancien lac glaciaire y a cédé
+      la place à un torrent méandreux évoquant une steppe alpine.
+
+
+      Et puis il y a ce qui échappe au regard. Les spéléologues désignent sous le nom de chourums les cavités
+      verticales du massif. Le réseau Rama-Aiguilles, avec ses 980 mètres de dénivelé, est le plus vaste,
+      tandis que la Tune des Renards plonge à 890 mètres de profondeur. Enfin, dans les gorges de la Souloise
+      surgissent les Gillardes, deuxième résurgence vauclusienne de France après la Fontaine de Vaucluse, où
+      les eaux souterraines jaillissent à l’air libre.
+    wildlife: >-
+      Autour de l’Obiou, au milieu des troupeaux de moutons et de bovins, on peut apercevoir des
+      [chamois](/especie/rupicapra_rupicapra/), des [marmottes des Alpes](/especie/marmota_marmota/) et des
+      [aigles royaux](/especie/aquila_chrysaetos/). Dans les zones sommitales, le lièvre variable et le
+      lagopède alpin comptent parmi les espèces patrimoniales à préserver, tandis que le plateau de Bure,
+      vaste chaos rocheux d’altitude, abrite des espèces animales et végétales protégées inféodées à ces
+      milieux extrêmes. Des accompagnateurs en montagne locaux organisent des sorties d’observation de la
+      faune sauvage.
+
+
+      La saison des randonneurs court de juin à octobre. En été, les alpages s’animent : l’élevage ovin
+      constitue la principale activité agricole, et des troupeaux venus de toute la région PACA montent
+      estiver en altitude. À leurs côtés vivent bergers et chiens de protection. Si un patou s’approche en
+      aboyant, ce n’est pas une attaque : c’est son réflexe naturel pour dissuader quiconque s’approche du
+      troupeau.
+    visit: >-
+      La grande traversée pédestre est le Tour de l’Obiou : quatre étapes balisées, 64 kilomètres et 3 490
+      mètres de dénivelé positif, conçues pour les randonneurs chevronnés. La première étape, entre Pellafol
+      et Bachilianne, compte 11,7 kilomètres pour 870 mètres de montée ; la deuxième, de Bachilianne à
+      Tréminis, s’étire sur 15,5 kilomètres intégralement en alpage. Le massif totalise 200 kilomètres de
+      sentiers balisés.
+
+
+      Pour des sorties plus courtes, de beaux itinéraires existent. Depuis le col du Festre, moins de trois
+      kilomètres mènent au pied de la cascade de Saute-Aure. Depuis La Joue du Loup ou Superdévoluy, un chemin
+      balisé en jaune s’élève d’un peu plus de cent mètres jusqu’au collet du Tat, puis cent mètres
+      supplémentaires vous hissent sur la crête des Baumes, avec un panorama à 360° sur le massif. Une
+      promenade facile relie Saint-Disdier au Puits des Bans le long de la Souloise, permettant d’approcher le
+      gouffre le plus accessible du massif et la toute première cavité explorée. Enfin, on rejoint les
+      Gillardes par une agréable allée plate de quelques centaines de mètres sous les arbres depuis un parking
+      aménagé.
+
+
+      Pour gravir le pic de Bure, il faut franchir à pied plus de mille mètres de dénivelé. Sans expérience
+      alpine, faites appel à un guide. Le col de l’Aup, à l’extrémité nord, dévoile une vue magnifique sur
+      l’Obiou et la barrière orientale ; sa cabane abrite les bergers l’été et sert de refuge non gardé le
+      reste de l’année.
+
+
+      Pour explorer la montagne de l’intérieur, la traversée souterraine de la Tune, près de Superdévoluy, se
+      découvre accompagné d’un guide spéléologue : le parcours s’étend sur 300 à 500 mètres à une température
+      d’environ 10 degrés. L’office de tourisme du Dévoluy dispose de trois points d’accueil, répartis entre
+      la vallée et les stations.
+    history: >-
+      Le nom du massif est attesté sous la forme Devologium dès le onzième siècle, évoquant un « lieu écarté
+      ». Il demeure, pour une large part, une terre de pâturages et de transhumance.
+
+
+      Une grande partie de l’itinéraire de l’Obiou se trouve au sein d’une zone Natura 2000, invitant à
+      respecter le balisage et la quiétude des lieux. Le plateau de Bure bénéficie en outre d’une
+      réglementation spécifique destinée à limiter le dérangement de la faune et la dégradation de ses
+      biotopes fragiles.
+    before: >-
+      Sur le plateau de Bure, il est strictement interdit de s’écarter des sentiers balisés en dehors de la
+      période hivernale enneigée. Y sont également prohibés les véhicules à moteur, les feux, le camping et le
+      bivouac, le VTT, les chiens en liberté ainsi que le décollage ou l’atterrissage de drones et de
+      parapentes. Il est interdit de cueillir ou d’arracher des plantes sauvages et de ramasser fossiles,
+      insectes ou animaux.
+
+
+      Dans les alpages, respectez les cabanes pastorales, ne perturbez pas les bêtes et tenez vos chiens en
+      laisse. Sur le sentier d’accès à la cavité souterraine de la Tune, des gouffres bordent le chemin : ne
+      vous en écartez pas en raison du risque de chute. Le Tour de l’Obiou s’adresse aux montagnards avertis :
+      si vous n’êtes pas familier des longues randonnées alpines, partez encadré par un professionnel.
+    around: >-
+      Le [Parc National des Écrins - Massif Alpin](/lugar/parc-national-des-ecrins---massif/) se situe à
+      environ 10 km. Depuis les cimes du Dévoluy se déploie d’ailleurs un splendide panorama à 360° embrassant
+      ce parc national, la Drôme et l’Isère.
+
+
+      Un peu plus loin, à un peu plus de vingt kilomètres, se dresse la [Chaîne de
+      Belledonne](/lugar/chaine-de-belledonne/).
+  de:
+    intro: >-
+      Von außen wirkt es wie ein massiver Steinwall, doch im Inneren ist es hohl. Das Dévoluy ist ein
+      subalpines Kalkmassiv an der Schnittstelle zwischen den Süd- und Nordalpen, das rund 185 km² über die
+      Departements Hautes-Alpes, Isère und Drôme umfasst. Oben erstrecken sich graue Kämme, Sommerweiden und
+      Viehherden; darunter liegen fast sechshundert Hohlräume, durch die das Wasser im Verborgenen fließt. Es
+      ist ein Terrain für Wanderungen über Geröllfelder und Almen, geschaffen, um eine Landschaft zu
+      verstehen, die sich vor allem nach innen geformt hat.
+    landscape: >-
+      Das Dévoluy ist ein typisches Voralpen-Kalkmassiv, das intensiv durch eiszeitliche Gletscher geprägt
+      wurde. Heute sind die Gletscher verschwunden: Aufgrund der südlichen Lage und trotz der Höhe sind sie
+      vollkommen abgetaut. Zurück blieben weite Hochtäler und riesige Schutthalden, die dem Gestein seine
+      charakteristische hellgraue Färbung verleihen.
+
+
+      Der höchste Gipfel ist der Obiou mit 2.789 Metern Höhe, der aus der Ferne sofort ins Auge sticht, weil
+      er frei vor der Nordfront des Massivs aufragt. Er ist ein Zeugenberg: der Rest eines einstigen Plateaus,
+      das Karsteinstürze und Gletscher ringsum abgetragen haben. Zwei Schichten bauen ihn auf—oberer Jura
+      unten und obere Kreide oben—, wobei dichter Kalkstein sein prägendes Merkmal darstellt.
+
+
+      Im Süden breitet sich ein weites Kalkplateau aus, das Plateau de Bure auf 2.500 Metern Höhe und über
+      drei Kilometern Länge, das im Pic de Bure (2.709 Meter) gipfelt. Auf diesem Hochplateau befindet sich
+      ein astronomisches Observatorium, und vom Col des Baumes aus erscheint der Pic de Bure als Wahrzeichen
+      des Massivs, gekrönt von NOEMA, dem leistungsstärksten Radioobservatorium der Nordhalbkugel. Der
+      Talboden des Vallon des Aiguilles zeigt ein anderes Gesicht: Ein einstiger Gletschersee wich einem
+      mäandrierenden Gebirgsbach, der an eine Hochsteppe erinnert.
+
+
+      Und dann ist da die verborgene Welt. Höhlenforscher nennen die senkrechten Schlucklöcher des Massivs
+      Chourums. Das System Rama-Aiguilles ist mit 980 Metern Höhenunterschied das größte, während die Tune des
+      Renards bis auf 890 Meter Tiefe hinabreicht. In der Souloise-Schlucht liegen die Gillardes, nach der
+      Fontaine de Vaucluse die zweitgrößte Karstquelle Frankreichs, wo unterirdische Flüsse wieder ans
+      Tageslicht treten.
+    wildlife: >-
+      Rund um den Obiou lassen sich inmitten von Schaf- und Rinderherden
+      [Gämsen](/especie/rupicapra_rupicapra/), [Alpenmurmeltiere](/especie/marmota_marmota/) und
+      [Steinadler](/especie/aquila_chrysaetos/) beobachten. In den Hochlagen gehören Schneehase und
+      Alpenschneehuhn zu den schutzbedürftigen Arten, während das Plateau de Bure, ein gewaltiges
+      Felsgeröllfeld, geschützte Tier- und Pflanzenarten beherbergt, die an diesen extremen Lebensraum
+      angepasst sind. Lokale Bergführer bieten geführte Touren zur Wildtierbeobachtung an.
+
+
+      Die Wandersaison dauert von Juni bis Oktober. Im Sommer herrscht auf den Almen reges Leben: Die
+      Schafzucht ist der wichtigste Wirtschaftszweig, und Herden aus der gesamten Region PACA ziehen zur
+      Sömmerung in die Berge. Begleitet werden sie von Hirten und Herdenschutzhunden. Nähert sich ein
+      Schutzhund bellend, handelt es sich nicht um einen Angriff, sondern um sein natürliches Abwehrverhalten
+      zum Schutz der Herde.
+    visit: >-
+      Die große Rundtour ist die Tour de l’Obiou: vier markierte Etappen, 64 Kilometer und 3.490 Höhenmeter im
+      Aufstieg, ausgelegt für erfahrene Bergwanderer. Die erste Etappe zwischen Pellafol und Bachilianne
+      umfasst 11,7 Kilometer bei 870 Höhenmetern Aufstieg; die zweite von Bachilianne nach Tréminis führt über
+      15,5 Kilometer gänzlich über Almweiden. Insgesamt verfügt das Massiv über 200 Kilometer markierte
+      Wanderwege.
+
+
+      Für kürzere Touren gibt es reizvolle Zugänge. Vom Col du Festre erreicht man in weniger als drei
+      Kilometern den Fuß des Wasserfalls Saute-Aure. Von La Joue du Loup oder Superdévoluy führt ein gelb
+      markierter Weg mit etwas mehr als hundert Höhenmetern zum Collet du Tat, und weitere hundert Höhenmeter
+      bringen dich zum Crête des Baumes mit einem 360°-Rundumblick über das Massiv. Ein bequemer Spaziergang
+      führt von Saint-Disdier entlang der Souloise zum Puits des Bans, dem am leichtesten zugänglichen Abgrund
+      des Massivs und der ersten historisch erforschten Höhle. Zu den Gillardes gelangt man über einen flachen
+      Pfad von wenigen hundert Metern unter Bäumen ab dem Parkplatz.
+
+
+      Wer den Gipfel des Pic de Bure besteigen möchte, muss zu Fuß über eintausend Höhenmeter überwinden. Ohne
+      alpine Erfahrung empfiehlt sich ein Bergführer. Der Col de l’Aup im äußersten Norden gewährt einen
+      prächtigen Blick auf den Obiou und die Ostwand des Massivs; seine Hirtenhütte dient im Sommer den
+      Schäfern und im restlichen Jahr als unbewirtschaftete Schutzhütte.
+
+
+      Für einen Abstieg ins Innere des Berges wird die unterirdische Route der Tune bei Superdévoluy mit einem
+      Höhlenführer begangen: Der Rundgang erstreckt sich über 300 bis 500 Meter bei einer Temperatur von etwa
+      10 Grad. Das Tourismusbüro Dévoluy unterhält drei Anlaufstellen im Tal und in den Skistationen.
+    history: >-
+      Der Name des Massivs ist bereits im elften Jahrhundert als Devologium belegt, was einen „abgelegenen
+      Ort“ bezeichnet. Es ist bis heute weitgehend ein Land der Almen und Weidetiere geblieben.
+
+
+      Ein Großteil der Obiou-Route verläuft innerhalb eines Natura-2000-Gebiets, in dem Markierungen und Natur
+      geschont werden sollen. Für das Plateau de Bure gelten zudem eigene Vorschriften zur Minderung von
+      Wildbeunruhigungen und Biotopzerstörungen.
+    before: >-
+      Auf dem Plateau de Bure ist das Verlassen der markierten Pfade außerhalb der winterlichen Schneeperiode
+      untersagt. Verboten sind auch Motorfahrzeuge, offenes Feuer, Campen oder Biwakieren, Mountainbiken, frei
+      laufende Hunde sowie das Starten oder Landen von Drohnen und Gleitschirmen. Das Pflücken oder Ausreißen
+      wilder Pflanzen sowie das Sammeln von Fossilien, Insekten oder Tieren ist verboten.
+
+
+      Respektiere auf den Almen die Hirtenhütten, erschrecke kein Weidevieh und führe Hunde an der Leine. Auf
+      dem Zustieg zur Tune-Höhle liegen tiefe Schächte direkt am Wegrand: Verlasse den Pfad wegen
+      Absturzgefahr keinesfalls. Die Tour de l’Obiou verlangt alpine Erfahrung: Wer lange Bergtouren nicht
+      gewohnt ist, sollte sich einem Bergführer anschließen.
+    around: >-
+      Der [Nationalpark Écrins - Alpenmassiv](/lugar/parc-national-des-ecrins---massif/) liegt etwa 10 km
+      entfernt. Von den Gipfeln des Dévoluy eröffnet sich ein weiter 360°-Panoramablick über diesen
+      Nationalpark, die Drôme und das Isère-Tal.
+
+
+      Etwas weiter entfernt, in gut zwanzig Kilometern Entfernung, ragt die
+      [Belledonne-Gebirgskette](/lugar/chaine-de-belledonne/) auf.
+  it:
+    intro: >-
+      All’esterno sembra una fortezza di pietra impenetrabile, ma all’interno è cava. Il Dévoluy è un
+      massiccio calcareo subalpino, a cavallo tra le Alpi del Sud e le Alpi del Nord, che si estende per circa
+      185 km² distribuiti tra i dipartimenti delle Alte Alpi, dell’Isère e della Drôme. In alto dominano
+      creste grigie, pascoli estivi e mandrie; sotto, quasi seicento cavità in cui l’acqua scorre invisibile.
+      È un territorio ideale per camminare tra pietraie e alpeggi, e per comprendere un paesaggio forgiato
+      soprattutto dall’interno.
+    landscape: >-
+      Il Dévoluy è un tipico massiccio calcareo delle Prealpi, profondamente modellato dall’erosione glaciale.
+      Oggi i ghiacciai sono scomparsi: per la posizione meridionale e malgrado la quota, si sono sciolti del
+      tutto. Hanno lasciato ampi valloni e immense pietraie che conferiscono alla roccia il suo caratteristico
+      colore grigio.
+
+
+      La vetta più elevata è l’Obiou, con i suoi 2.789 metri, riconoscibile tra tutte le cime alpine perché si
+      erge isolato all’estremità settentrionale del massiccio. È un colle testimone: ciò che rimane di un
+      antico altopiano che gli sprofondamenti carsici e i ghiacciai hanno smantellato all’intorno. È formato
+      da due strati geologici, il giurassico superiore alla base e il cretaceo superiore in alto, con la
+      roccia calcarea come elemento distintivo.
+
+
+      A sud si sviluppa un vasto altopiano calcareo, il plateau de Bure, situato a 2.500 metri di quota e
+      lungo oltre tre chilometri, culminante nel pic de Bure (2.709 metri). Su quell’altopiano sorge un
+      osservatorio astronomico, e dal col des Baumes il pic de Bure appare come l’emblema del massiccio,
+      ospitando NOEMA, l’osservatorio millimetrico più potente dell’emisfero boreale. Il fondo del vallon des
+      Aiguilles mostra tutt’altro volto: un antico bacino glaciale ha lasciato il posto a un torrente
+      meandriforme che richiama una steppa alpina.
+
+
+      E poi vi è il mondo sotterraneo. Gli speleologi chiamano chourums i profondi pozzi verticali del
+      massiccio. Il sistema Rama-Aiguilles, con 980 metri di dislivello, è la cavità maggiore, mentre la Tune
+      des Renards tocca gli 890 metri di profondità. Nelle gole della Souloise si aprono le Gillardes, la
+      seconda risorgiva di Francia dopo la Fontaine de Vaucluse, dove le acque sotterranee tornano impetuose
+      alla luce.
+    wildlife: >-
+      Attorno all’Obiou, tra greggi di pecore e mandrie bovine, si possono avvistare
+      [camosci](/especie/rupicapra_rupicapra/), [marmotte delle Alpi](/especie/marmota_marmota/) e [aquile
+      reali](/especie/aquila_chrysaetos/). Nelle fasce sommitali, la lepre variabile e la pernice bianca
+      figurano tra le specie di alto valore conservazionistico, mentre il plateau de Bure, una grande distesa
+      di pietraia d’alta quota, protegge specie animali e vegetali che vivono solo in ambienti alpini così
+      rigorosi. Alcune guide alpine locali organizzano escursioni dedicate all’osservazione della fauna
+      selvatica.
+
+
+      Il calendario dell’escursionista va da giugno a ottobre. In estate gli alpeggi tornano ad animarsi: la
+      pastorizia ovina rappresenta la principale attività rurale, e le greggi giungono dall’intera regione
+      PACA per trascorrere l’estate in quota. Con esse vivono pastori e cani da guardiania. Se un cane da
+      difesa si avvicina abbaiando, non è un’aggressione: è la sua reazione istintiva per allontanare chi si
+      avvicina al gregge.
+    visit: >-
+      La grande traversata è il Tour de l’Obiou: quattro tappe segnalate, 64 chilometri e 3.490 metri di
+      dislivello positivo, concepita per escursionisti esperti. La prima tappa, tra Pellafol e Bachilianne,
+      misura 11,7 chilometri con 870 metri di salita; la seconda, da Bachilianne a Tréminis, si sviluppa per
+      15,5 chilometri interamente su pascoli alpini. Il massiccio conta in totale 200 chilometri di sentieri
+      segnalati.
+
+
+      Per itinerari più brevi non mancano ottimi accessi. Dal col du Festre, in meno di tre chilometri si
+      raggiunge la cascata di Saute-Aure. Da La Joue du Loup o Superdévoluy, un tracciato a bolli gialli sale
+      con poco più di cento metri di dislivello al collet du Tat, e altri cento metri conducono alla crête des
+      Baumes, con panorama a 360° sull’intero massiccio. Una passeggiata agevole parte da Saint-Disdier lungo
+      la Souloise fino al Puits des Bans, l’abisso più accessibile del Dévoluy e la prima cavità esplorata
+      storicamente. Alle Gillardes si accede invece mediante un comodo sentiero pianeggiante di alcune
+      centinaia di metri nel bosco a partire dal parcheggio.
+
+
+      Chi intende salire al pic de Bure deve superare a piedi oltre mille metri di dislivello. Se non hai
+      dimestichezza con l’alta quota, affidati a una guida. Il col de l’Aup, all’estremità nord, regala
+      splendidi scorci sull’Obiou e sulla barriera orientale; la sua baita accoglie i pastori in estate e
+      funge da rifugio non custodito nel resto dell’anno.
+
+
+      Per addentrarsi nella montagna, la via sotterranea della Tune, nei pressi di Superdévoluy, si visita con
+      una guida speleologica: il circuito misura tra i 300 e i 500 metri a una temperatura di circa 10 gradi.
+      L’ufficio turistico del Dévoluy dispone di tre punti informativi tra valle e stazioni montane.
+    history: >-
+      Il nome del massiccio compare già come Devologium nell’undicesimo secolo, con il significato di «luogo
+      appartato». Rimane tuttora, in buona misura, una terra di pascoli e transumanza.
+
+
+      Gran parte dell’itinerario dell’Obiou ricade in una zona Natura 2000, dove si richiede di rispettare la
+      segnaletica e la fragilità dell’ambiente. Il plateau de Bure è inoltre disciplinato da norme specifiche
+      volte a contenere il disturbo alla fauna e la compromissione degli habitat.
+    before: >-
+      Sul plateau de Bure è severamente vietato allontanarsi dai sentieri tracciati al di fuori della stagione
+      invernale innevata. Sono vietati i veicoli a motore, accendere fuochi, campeggiare o bivaccare, la
+      mountain bike, i cani liberi senza guinzaglio e il decollo o atterraggio di droni e parapendii. È
+      proibito raccogliere o estirpare piante selvatiche, fossili, insetti o altri animali.
+
+
+      Negli alpeggi rispetta le baite pastorali, non spaventare le mandrie e tieni i cani al guinzaglio. Lungo
+      il sentiero di accesso alla via sotterranea della Tune si trovano pozzi a ridosso del cammino: non
+      deviare a causa del pericolo di caduta. Il Tour de l’Obiou è pensato per camminatori esperti: se non sei
+      abituato ai trekking alpini, fatti accompagnare da una guida.
+    around: >-
+      Il [Parco Nazionale degli Écrins - Massiccio Alpino](/lugar/parc-national-des-ecrins---massif/) dista
+      circa 10 km. Dalle vette del Dévoluy si apre un superbo panorama a 360° che abbraccia questo parco
+      nazionale, la Drôme e l’Isère.
+
+
+      Poco più lontano, a poco più di venti chilometri, si erge la [Catena di
+      Belledonne](/lugar/chaine-de-belledonne/).
+  pt:
+    intro: >-
+      Parece uma muralha impenetrável de pedra e, no entanto, é oca por dentro. O Dévoluy é um maciço calcário
+      subalpino situado entre os Alpes do Sul e os Alpes do Norte, estendendo-se por cerca de 185 km²
+      repartidos pelos departamentos de Altos Alpes, Isère e Drôme. No topo dominam cristas cinzentas,
+      pastagens de verão e rebanhos; por baixo, quase seiscentas cavidades por onde a água corre sem que
+      ninguém a veja. É um território para caminhar entre pedreiras e pastos alpinos, e para compreender uma
+      paisagem talhada essencialmente a partir do interior.
+    landscape: >-
+      O Dévoluy é um maciço calcário característico dos Pré-Alpes, profundamente esculpido pela erosão
+      glaciar. Os glaciares desapareceram por completo: devido à sua posição meridional e apesar da altitude,
+      derreteram totalmente. Deixaram vales suspensos e imensas escombreiras que conferem à rocha a sua
+      tonalidade cinzenta distintiva.
+
+
+      O cume culminante é o Obiou, com 2.789 metros de altitude, facilmente reconhecível a partir de outras
+      montanhas alpinas por se erguer isolado na vanguarda setentrional do maciço. Trata-se de um
+      monte-testemunha: o que resta de um antigo planalto que os abatimentos cársticos e os glaciares
+      desmantelaram em redor. É composto por duas camadas estratigráficas—o jurássico superior na base e o
+      cretácico superior no topo—, sendo a rocha calcária a sua feição dominante.
+
+
+      A sul estende-se um vasto planalto calcário, o plateau de Bure, situado a 2.500 metros de altitude e com
+      mais de três quilómetros de comprimento, culminando no pic de Bure (2.709 metros). Nesse planalto
+      funciona um observatório astronómico, e a partir do col des Baumes avista-se o pic de Bure como
+      verdadeiro emblema do maciço, acolhendo o NOEMA, o mais potente observatório milimétrico do hemisfério
+      norte. O fundo do vallon des Aiguilles revela outra faceta: um antigo lago glaciar deu lugar a uma
+      ribeira meandrizante que evoca uma estepe alpina.
+
+
+      E depois existe o mundo invisível. Os espeleólogos denominam chourums as cavidades verticais do maciço.
+      O sistema Rama-Aiguilles, com 980 metros de desnível, é o mais extenso, enquanto a Tune des Renards
+      atinge 890 metros de profundidade. No desfiladeiro da Souloise situam-se as Gillardes, a segunda maior
+      exsurgência cárstica de França após a Fontaine de Vaucluse, onde os caudais subterrâneos irrompem à
+      superfície.
+    wildlife: >-
+      Em redor do Obiou, por entre rebanhos de ovelhas e vacas, avistam-se
+      [camurças](/especie/rupicapra_rupicapra/), [marmotas](/especie/marmota_marmota/) e
+      [águias-reais](/especie/aquila_chrysaetos/). Nas cotas mais elevadas, a lebre-variável e a perdiz-nival
+      figuram entre as espécies a preservar, enquanto o plateau de Bure, um vasto caos pedregoso de alta
+      montanha, abriga fauna e flora protegidas que apenas sobrevivem em biótopos tão agrestes. Vários guias
+      de montanha locais organizam saídas de campo dedicadas à observação faunística.
+
+
+      A temporada de caminhadas estende-se de junho a outubro. No verão, as pastagens ganham vida: a
+      pastorícia ovina constitui a principal atividade rural, subindo rebanhos de toda a região PACA para
+      pastar em altitude. Com eles vivem pastores e cães de proteção de gado. Se um cão pastor se aproximar a
+      ladrar, não se trata de um ataque: é o seu reflexo instintivo para afastar quem se aproxime do rebanho.
+    visit: >-
+      A grande travessia a pé é o Tour de l’Obiou: quatro etapas sinalizadas, 64 quilómetros e 3.490 metros de
+      desnível positivo acumulado, concebida para montanhistas experientes. A primeira etapa, entre Pellafol e
+      Bachilianne, conta com 11,7 quilómetros e 870 metros de subida; a segunda, de Bachilianne a Tréminis,
+      estende-se por 15,5 quilómetros integralmente em pastagens alpinas. O maciço reúne um total de 200
+      quilómetros de trilhos pedestres marcados.
+
+
+      Para caminhadas mais curtas, há excelentes alternativas. A partir do col du Festre, em menos de três
+      quilómetros chega-se à base da cascata de Saute-Aure. A partir de La Joue du Loup ou Superdévoluy, uma
+      rota assinalada a amarelo sobe com pouco mais de cem metros de desnível até ao collet du Tat, e mais cem
+      metros conduzem à crête des Baumes, com vista panorâmica de 360° sobre o maciço. Um passeio suave parte
+      de Saint-Disdier ao longo da Souloise até ao Puits des Bans, o algar mais acessível do maciço e a
+      primeira cavidade explorada historicamente. Às Gillardes acede-se através de um trilho plano de poucas
+      centenas de metros por entre o arvoredo a partir de um parque de estacionamento.
+
+
+      Quem pretender atingir o cume do pic de Bure tem de vencer mais de mil metros de desnível a pé. Se não
+      possuis experiência de montanha, faz-te acompanhar por um guia. O col de l’Aup, no extremo norte,
+      oferece amplas vistas sobre o Obiou e a barreira oriental; a sua cabana acolhe pastores no verão e serve
+      de refúgio não vigiado no resto do ano.
+
+
+      Para penetrar nas entranhas da montanha, a via subterrânea da Tune, junto a Superdévoluy, explora-se com
+      um monitor de espeleologia: o circuito mede entre 300 e 500 metros a uma temperatura constante de cerca
+      de 10 graus. O posto de turismo do Dévoluy dispõe de três pontos de atendimento entre o vale e as
+      estâncias.
+    history: >-
+      O topónimo do maciço surge documentado como Devologium no século XI, com a aceção de «lugar ermo».
+      Permanece ainda hoje, em larga medida, uma terra de pastagens e de transumância.
+
+
+      Grande parte do percurso do Obiou insere-se numa zona Natura 2000, apelando-se ao respeito pela
+      sinalização e pela tranquilidade do meio natural. O plateau de Bure dispõe ainda de regulamentação
+      própria para atenuar as perturbações à fauna e a degradação dos seus habitats.
+    before: >-
+      No plateau de Bure é expressamente proibido sair dos trilhos assinalados fora da época de neve no
+      inverno. São igualmente interditos veículos motorizados, fogueiras, acampamento ou bivaque, BTT, cães
+      soltos e a descolagem ou aterragem de drones ou parapentes. É proibido colher ou arrancar flora
+      silvestre e recolher fósseis, insetos ou animais.
+
+
+      Nos pastos alpinos respeita os abrigos de pastores, não assustes o gado e conduz os cães pela trela. No
+      caminho de aproximação à cavidade subterrânea da Tune existem algares junto ao trilho: não te desvies
+      devido ao risco de queda. O Tour de l’Obiou destina-se a montanhistas experientes: se não estás
+      acostumado a travessias alpinas, faz-te acompanhar por um guia.
+    around: >-
+      O [Parque Nacional dos Écrins - Maciço Alpino](/lugar/parc-national-des-ecrins---massif/) fica a cerca
+      de 10 km. Dos cumes do Dévoluy descortina-se, aliás, um soberbo panorama de 360° que abarca esse parque
+      nacional, a Drôme e o Isère.
+
+
+      Mais além, a pouco mais de vinte quilómetros, ergue-se a [Cordilheira de
+      Belledonne](/lugar/chaine-de-belledonne/).
+fuentes:
+  - url: https://www.ledevoluy.com/ete/je-suis-sur-place-2/bouger-2/a-pied-2/le-tour-de-lobiou-a-pied/
+    titulo: Le Tour de l’Obiou à pied - Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/envies-2/sur-nos-sentiers/
+    titulo: Sur nos sentiers - Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/app/uploads/ledevoluy-tourisme/2026/03/Le-Devoluy_Dossier-de-presse-ete-2026.pdf
+    titulo: Le Dévoluy en chiffres - dossier de presse été 2026
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Massif_du_D%C3%A9voluy
+    titulo: Massif du Dévoluy — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Obiou
+    titulo: Grande Tête de l'Obiou — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Plateau_de_Bure
+    titulo: Montagne d'Aurouze — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/envies-2/experiences-a-vivre-2/pique-nique-gillardes-2/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/envies-2/experiences-a-vivre-2/top-5-des-balades-faciles/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/envies-2/experiences-a-vivre-2/rando-crete-des-baumes-pour-la-vue-360-2/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/envies-2/experiences-a-vivre-2/top-5-des-spots-photos/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/je-suis-sur-place-2/bouger-2/voyager-sous-terre-2/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/espaces-partages-et-proteges/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+  - url: https://www.ledevoluy.com/ete/je-suis-sur-place-2/loffice-de-tourisme/
+    titulo: Le Dévoluy, site officiel
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Massif_du_D%C3%A9voluy_@_Piquet_de_Nantes.jpg
+    autor: Rémih
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,661 @@
+id: parco-nazionale-della-majella
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de la Majella
+  en: Majella National Park
+  fr: Parc national de la Majella
+  de: Nationalpark Majella
+  it: Parco Nazionale della Majella
+  pt: Parque Nacional da Majella
+nombre_original: Parco Nazionale della Majella
+alias:
+  - Parco Nazionale della Majella
+paises:
+  - IT
+region:
+  es: Abruzzo (Sulmona / Chieti / Pescara)
+  en: Abruzzo (Sulmona / Chieti / Pescara)
+  fr: Abruzzes (Sulmona / Chieti / Pescara)
+  de: Abruzzen (Sulmona / Chieti / Pescara)
+  it: Abruzzo (Sulmona / Chieti / Pescara)
+  pt: Abruzos (Sulmona / Chieti / Pescara)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 42.08
+  lon: 14.08
+  radio_km: 35
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 64513
+  nombre_en_la_fuente: P N DELLA MAIELLA
+  categoria_uicn: II
+  capa: capas/cdda/parco-nazionale-della-majella.geojson
+habitats:
+  - high_mountain
+  - karst
+  - gorge_canyon
+  - mature_forest
+designaciones:
+  - national_park
+  - geopark
+  - natura2000
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - canis_lupus
+  - rupicapra_pyrenaica
+proyectos:
+  - rewilding_apennines
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la garganta de San Martino y Campo di Giove
+  en: Moderate in San Martino Gorge and Campo di Giove
+  fr: Moyenne dans les gorges de San Martino et à Campo di Giove
+  de: Mäßig in der San-Martino-Schlucht und bei Campo di Giove
+  it: Media nelle gole di San Martino e a Campo di Giove
+  pt: Média na garganta de San Martino e em Campo di Giove
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parco Nazionale della Majella
+    url: https://www.parcomajella.it/
+  - titulo: Visita — Propuestas del parque
+    url: https://www.parcomajella.it/proposte-di-visita.htm
+  - titulo: Rutas — Senderos de la Majella
+    url: https://www.parcomajella.it/Sentieri-nel-Parco.htm
+  - titulo: Centros de visitantes — Puntos de información
+    url: https://www.parcomajella.it/I-Centri-Informazioni-del-Parco.htm
+  - titulo: Mapas — Recursos cartográficos
+    url: https://www.parcomajella.it/Mappe-e-risorse-cartografiche.htm
+resumen:
+  es: >-
+    La 'Montaña Madre' de los Abruzos (Monte Amaro 2.793 m), Geoparque UNESCO de inmensos cañones kársticos,
+    altiplanos selváticos y ermitas rupestres colgadas.
+  en: >-
+    The 'Mother Mountain' of Abruzzo (Monte Amaro 2,793 m), a UNESCO Global Geopark of colossal karst canyons,
+    wild plateaus, and hanging rock hermitages.
+  fr: >-
+    La « Montagne Mère » des Abruzzes (Monte Amaro 2 793 m), géoparc UNESCO d'immenses canyons karstiques, de
+    hauts plateaux sauvages et d'ermitages rupestres suspendus.
+  de: >-
+    Der 'Mutterberg' der Abruzzen (Monte Amaro 2.793 m), UNESCO-Geopark mit gewaltigen Karstschluchten,
+    einsamen Hochflächen und kühn in den Fels gebauten Einsiedeleien.
+  it: >-
+    La 'Montagna Madre' d'Abruzzo (Monte Amaro 2.793 m), Geoparco UNESCO di orridi calcarei, pianori d'alta
+    quota ed eremi rupestri aggrappati alla roccia.
+  pt: >-
+    A 'Montanha-Mãe' dos Abruzos (Monte Amaro 2.793 m), Geoparque da UNESCO de desfiladeiros cársicos
+    monumentais, planaltos selvagens e ermidas rupestres suspensas.
+unico:
+  es: >-
+    Es una montaña donde caminas por el hábitat del oso marsicano y, a la vez, por 95 geositios que cuentan
+    cómo se hizo el Apenino.
+  en: >-
+    A mountain massif where you walk through prime Marsican brown bear habitat while discovering 95 geosites
+    telling the story of the Apennines' geological birth.
+  fr: >-
+    Un massif de haute montagne où vous cheminez sur les traces de l'ours marsicain au cœur de 95 géosites
+    racontant la naissance des Apennins.
+  de: >-
+    Ein Gebirgsstock, in dem du durch den Lebensraum des Marsischen Braunbären wanderst und zugleich 95
+    Geotope entdeckst, die von der Entstehung des Apennins zeugen.
+  it: >-
+    Una montagna in cui cammini nell'habitat dell'orso marsicano e, al contempo, attraverso 95 geositi che
+    raccontano l'origine geologica dell'Appennino.
+  pt: >-
+    Uma cordilheira alpina onde caminhas pelo habitat do urso-marsicano e percorres 95 geossítios que revelam
+    a génese dos Apeninos.
+observaciones:
+  es: >-
+    Informa de la transitabilidad del sendero que quieras hacer y de las ordenanzas municipales de cierre
+    antes de salir. El recinto del lobo de Pretoro solo se visita con guía.
+texto:
+  es:
+    intro: >-
+      Los abruzos la llaman la Montaña Madre, y basta mirarla desde Campo di Giove para entender por qué: una
+      mole de caliza que se alza hasta los 2.793 metros del Monte Amaro. El Parque Nacional de la Majella se
+      cierra en torno a ese macizo y al vecino Morrone, y reúne en un solo bloque hayedos, cañones, mesetas
+      kársticas, ermitas colgadas de la roca y una fauna que cuesta imaginar tan juntas.
+    landscape: >-
+      La Majella y el Morrone son macizos de caliza y dolomía de edad mesozoica y cenozoica. Durante las eras
+      glaciales los hielos redondearon sus cumbres, y de ahí que arriba haya vastos pianori suaves, casi
+      ondulados, entre los que se abre el vallone di Femmina Morta, por encima de los 2.500 metros. Los
+      flancos, sobre todo el oriental y el noroccidental, están cortados por valles largos y ásperos.
+
+
+      El río Orta separa la Majella del Morrone y, entre Bolognano y San Valentino, ha tallado un auténtico
+      cañón. Al sur, a unos 1.250 metros, se extienden los llanos kársticos conocidos como «altipiani maggiori
+      d'Abruzzo» o «quarti»: Barone, Grande, Molino y Santa Chiara. Y esa geología tiene fama entre los
+      científicos, porque la Majella es uno de los pocos lugares donde puede verse completo el margen de una
+      plataforma carbonatada. Por eso el parque forma parte, desde 2021, de la red de Geoparques de la UNESCO,
+      con 95 geositios registrados.
+    wildlife: >-
+      El hayedo manda: el haya (Fagus sylvatica), sola o con abeto blanco, cubre buena parte del parque, junto
+      a robledales de roble pubescente y de roble cerris. En total se han censado más de 2.100 especies
+      vegetales, cerca de un tercio de la flora italiana, y entre ellas hay endemismos como el aciano de la
+      Maiella, que crece en prados áridos y pedregosos hasta los 1.800 metros de altitud.
+
+
+      Entre los animales, el lobo es el símbolo del parque y figura en su logotipo: hay unas once manadas
+      repartidas por las cordilleras. Más escasos son los [osos](/especie/ursus_arctos/) marsicanos: el
+      monitoreo de 2019 confirmó al menos 15, seis de ellos estables. Los rebecos apeninos, reintroducidos en
+      la zona, tienen aquí la mayor población, con más de 1.500 ejemplares en 2021. Ciervo y corzo volvieron
+      en los años ochenta. En el aire crían el azor, la perdiz griega, el halcón peregrino y las chovas, y
+      entre los reptiles destaca la [víbora de Orsini](/especie/vipera_ursinii/).
+
+
+      Para verlos de cerca hay áreas de fauna. En Lama dei Peligni se observa, incluso con cámara, un grupo de
+      rebecos en condiciones seminaturales. En Caramanico Terme hay nutrias que se dejan ver a última hora de
+      la tarde. El lobo de Pretoro vive en un amplio recinto y no siempre se asoma, porque los animales son
+      esquivos.
+    visit: >-
+      La red de senderos supera los 1.200 kilómetros e incluye caminos de montaña, familiares y accesibles.
+      Cuatro rutas temáticas dan un hilo conductor:
+
+
+      - El Sentiero del Parco cruza el área de Popoli a la estación de Palena y toca las cimas más altas, del
+      Monte Amaro al Porrara.
+
+      - El Sentiero dello Spirito va de Sulmona a Serramonacesca y visita eremitorios, abadías e iglesias
+      rupestres, entre ellos los de Celestino V.
+
+      - El Sentiero della Libertà, de Sulmona a Palena, repite la ruta de fuga de miles de prisioneros aliados
+      tras el armisticio.
+
+      - El Sentiero delle Capanne in pietra enlaza Lettomanoppello, Abbateggio, Roccamorice, Caramanico y
+      Serramonacesca, donde se concentran las construcciones pastoriles de piedra seca.
+
+
+      Los accesos más cómodos son Sulmona por el oeste, Pescocostanzo por el sur, Guardiagrele por el este y
+      Lettomanoppello por el norte. Los centros de información del parque organizan itinerarios y actividades;
+      el de Fara San Martino reconstruye una cueva pastoril, el de Lama dei Peligni tiene dioramas de
+      geomorfología y del rebeco, el de Caramanico Terme reúne una sección naturalista y otra arqueológica, y
+      el museo del oso marsicano de Palena ocupa un antiguo convento. El más reciente está en Badia di
+      Sulmona. Los jardines botánicos de Sant'Eufemia a Maiella y de Lama dei Peligni ayudan a reconocer la
+      flora, y el parque organiza visitas guiadas al primero.
+    history: >-
+      En el Morrone los monjes benedictinos sembraron abetos hace unos 400 años en la Fossa di Pentima, la
+      repoblación más antigua del área. En el Bosco di Sant'Antonio, los pastores desmochaban las hayas para
+      dar ramón al ganado y esa práctica creó las hayas en candelabro, característicos de ese bosque. La
+      huella espiritual es igual de fuerte: la abadía de San Liberatore a Maiella es del siglo XI, y la de San
+      Martino in Valle quedó abandonada en 1818 por una riada.
+
+
+      El parque se instituyó con el decreto presidencial del 5 de junio de 1995, tiene su sede en Guardiagrele
+      y alberga siete reservas naturales estatales.
+    before: >-
+      Informa de la transitabilidad del sendero que quieras hacer y de las ordenanzas municipales de cierre
+      antes de salir. El recinto del lobo de Pretoro solo se visita con guía.
+    around: >-
+      A solo 3 km está el [Parque Nacional del Gran Sasso y Monti della
+      Laga](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/), y a 12 km el [Parque Nacional de
+      Abruzzo, Lazio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/). A 15 km queda la [Reserva Natural
+      Gole del Sagittario](/lugar/gole-del-sagittario/). Lejos, comparte rebeco, lobo y oso con los [Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) y [Somiedo](/lugar/parque-natural-de-somiedo/).
+  en:
+    intro: >-
+      Abruzzese people call it the Mother Mountain, and gazing upon it from Campo di Giove immediately reveals
+      why: an imposing mass of limestone soaring to 2,793 metres at Monte Amaro. Majella National Park
+      embraces this immense massif and the neighbouring Morrone range, blending vast old-growth beechwoods,
+      limestone canyons, karst highlands, cliff-hanging hermitages, and extraordinary wildlife into a single
+      sanctuary.
+    landscape: >-
+      The Majella and Morrone are massive Mesozoic and Cenozoic limestone and dolomite massifs. During ice
+      ages, glaciers smoothed their summits, leaving gentle undulating plateaus, among which opens the wild
+      Vallone di Femmina Morta above 2,500 metres. The outer flanks, especially to the east and northwest,
+      drop through long, rugged, and canyon-like valleys.
+
+
+      The Orta River carves a deep chasm between the Majella and Morrone, slicing a true canyon between
+      Bolognano and San Valentino. To the south, at roughly 1,250 metres, spread the extensive karst basins
+      known as the «altipiani maggiori d'Abruzzo» or «quarti»: Barone, Grande, Molino, and Santa Chiara. This
+      geology is renowned among Earth scientists because the Majella offers a rare, complete cross-section of
+      a fossil carbonate platform margin. For this reason, the park joined the UNESCO Global Geoparks Network
+      in 2021, featuring 95 registered geosites.
+    wildlife: >-
+      Beechwoods dominate: European beech (Fagus sylvatica), growing pure or mixed with silver fir, blankets
+      much of the park alongside downy oak and Turkey oak groves. Over 2,100 plant species have been
+      documented—nearly a third of the entire Italian flora—including localized endemics such as the Majella
+      cornflower, blooming in rocky pastures up to 1,800 metres.
+
+
+      Among wildlife, the wolf serves as the park's emblem and appears on its official crest: around eleven
+      packs range across the massif. Marsican [brown bear](/especie/ursus_arctos/) numbers are smaller: the
+      2019 monitoring confirmed at least 15 individuals, six of them permanent residents. The Apennine
+      chamois, reintroduced to these slopes, now forms its largest population here, exceeding 1,500 animals in
+      2021. Red deer and roe deer returned in the nineteen-eighties. The skies shelter northern goshawk, rock
+      partridge, peregrine falcon, and choughs, while high alpine screes harbour the rare [Orsinis
+      viper](/especie/vipera_ursinii/).
+
+
+      For closer wildlife encounters, visitor areas operate dedicated facilities: at Lama dei Peligni a
+      semi-wild enclosure shelters Apennine chamois; Caramanico Terme maintains an otter centre where otters
+      are often observed in the late afternoon; while the wolf enclosure at Pretoro houses shy wolves in
+      extensive woodland.
+    visit: >-
+      The trail network spans more than 1,200 kilometres, offering family nature trails, historical walks, and
+      high-altitude treks. Four themed long-distance routes structure the park:
+
+
+      - The Sentiero del Parco traverses from Popoli to Palena station, summiting the highest peaks from Monte
+      Amaro to Monte Porrara.
+
+      - The Sentiero dello Spirito links Sulmona to Serramonacesca, visiting cliff-hanging hermitages, abbeys,
+      and rupestrian shrines, notably those founded by Pope Celestine V.
+
+      - The Sentiero della Libertà from Sulmona to Palena traces the historic escape route used by thousands
+      of Allied prisoners of war after the armistice.
+
+      - The Sentiero delle Capanne in pietra connects Lettomanoppello, Abbateggio, Roccamorice, Caramanico,
+      and Serramonacesca, highlighting traditional dry-stone pastoral huts (tholos).
+
+
+      Main road gateways are Sulmona to the west, Pescocostanzo to the south, Guardiagrele to the east, and
+      Lettomanoppello to the north. Information centres offer guided activities: Fara San Martino reconstructs
+      a pastoral cave, Lama dei Peligni features chamois and geomorphology dioramas, Caramanico Terme combines
+      natural history with archaeology, and the Palena bear museum occupies an ancient convent. The newest
+      visitor centre is at Badia di Sulmona. Botanical gardens at Sant'Eufemia a Maiella and Lama dei Peligni
+      help identify local alpine flora.
+    history: >-
+      On Monte Morrone, Benedictine monks planted silver firs around 400 years ago in Fossa di Pentima, the
+      oldest recorded reforestation in the region. In the Bosco di Sant'Antonio, shepherds historically
+      pollarded beeches to fodder cattle, sculpting the remarkable candelabra beeches characteristic of this
+      ancient wood. Spiritual roots run equally deep: the Abbey of San Liberatore a Maiella dates from the
+      eleventh century, while San Martino in Valle was abandoned in 1818 following a catastrophic flood.
+
+
+      The national park was instituted by presidential decree on 5 June 1995, with headquarters in
+      Guardiagrele, encompassing seven state nature reserves.
+    before: >-
+      Check trail conditions and municipal closure ordinances before your excursion. The Pretoro wolf
+      enclosure is accessible only on guided tours.
+    around: >-
+      Just 3 km away lies the [Gran Sasso and Monti della Laga National
+      Park](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/), and 12 km away the [Abruzzo, Lazio and
+      Molise National Park](/lugar/parco-nazionale-d-abruzzo-lazio-e/). At 15 km is the [Gole del Sagittario
+      Nature Reserve](/lugar/gole-del-sagittario/). Further afield, it shares chamois, wolf, and bear
+      populations with the [Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) and
+      [Somiedo](/lugar/parque-natural-de-somiedo/).
+  fr:
+    intro: >-
+      Les Abruzzais la nomment la Montagne Mère, et il suffit de la contempler depuis Campo di Giove pour
+      comprendre : un formidable dôme calcaire s'élevant jusqu'aux 2 793 mètres du Monte Amaro. Le parc
+      national de la Majella enveloppe ce massif ainsi que la chaîne voisine du Morrone, unissant dans un même
+      écrin hêtraies, canyons, plateaux karstiques, ermitages agrippés à la roche et une faune d'une
+      exceptionnelle concentration.
+    landscape: >-
+      La Majella et le Morrone sont des massifs de calcaire et de dolomie d'âges mésozoïque et cénozoïque.
+      Durant les périodes glaciaires, les névés ont arrondi les crêtes, créant de vastes plateaux doux et
+      ondulés, entaillés par le sauvage vallone di Femmina Morta au-dessus de 2 500 mètres. Les versants
+      externes, en particulier vers l'est et le nord-ouest, plongent en vallées abruptes et resserrées.
+
+
+      La rivière Orta sépare la Majella du Morrone et a sculpté entre Bolognano et San Valentino un profond
+      canyon. Au sud, à environ 1 250 mètres d'altitude, s'étendent de hauts bassins karstiques appelés « alti
+      piani maggiori d'Abruzzo » ou « quarti » : Barone, Grande, Molino et Santa Chiara. Cette morphologie est
+      célèbre auprès des géologues, car la Majella offre une coupe complète de bordure de plate-forme
+      carbonatée fossile. Pour cette raison, le parc a intégré en 2021 le réseau mondial des géoparcs de
+      l'UNESCO, comptant 95 géosites répertoriés.
+    wildlife: >-
+      La hêtraie domine largement : le hêtre (Fagus sylvatica), pur ou mêlé de sapin blanc, tapisse une grande
+      partie du territoire, côtoyant des chênaies de chêne pubescent et de chêne chevelu. On dénombre plus de
+      2 100 espèces végétales, soit près d'un tiers de la flore italienne, dont des endémiques comme le bleuet
+      de la Majella, florissant sur les éboulis jusqu'à 1 800 mètres d'altitude.
+
+
+      Côté faune, le loup est l'emblème du parc et orne son insigne officiel : environ onze meutes parcourent
+      les massifs. Plus discrets sont les [ours bruns](/especie/ursus_arctos/) marsicains : le suivi de 2019 a
+      confirmé au moins 15 individus, dont six résidents sédentaires. L'isard des Apennins, réintroduit avec
+      éclat, y possède son plus grand sanctuaire avec plus de 1 500 animaux en 2021. Cerfs et chevreuils ont
+      fait leur retour dans les années quatre-vingt. Dans les airs nichent autour des palombes, perdrix
+      bartavelle, faucon pèlerin et chocards, tandis que les pierriers d'altitude abritent la [vipère
+      d'Orsini](/especie/vipera_ursinii/).
+
+
+      Des structures dédiées facilitent l'observation : à Lama dei Peligni, un enclos naturel abrite un
+      troupeau d'isards ; à Caramanico Terme, des loutres peuvent être observées en fin d'après-midi ; tandis
+      que l'enclos de Pretoro accueille des loups dans un cadre forestier paisible.
+    visit: >-
+      Le réseau de sentiers dépasse 1 200 kilomètres et comprend chemins montagnards, balades familiales et
+      tracés accessibles. Quatre grands itinéraires thématiques structurent la visite :
+
+
+      - Le Sentiero del Parco traverse le massif de Popoli à la gare de Palena et gravit les plus hauts
+      sommets, du Monte Amaro au Monte Porrara.
+
+      - Le Sentiero dello Spirito relie Sulmona à Serramonacesca en reliant ermitages, abbayes et sanctuaires
+      rupestres, notamment ceux fondés par Célestin V.
+
+      - Le Sentiero della Libertà, de Sulmona à Palena, suit la voie d'évasion empruntée par des milliers de
+      prisonniers alliés après l'armistice.
+
+      - Le Sentiero delle Capanne in pietra unit Lettomanoppello, Abbateggio, Roccamorice, Caramanico et
+      Serramonacesca, réputés pour leurs cabanes pastorales en pierre sèche (tholos).
+
+
+      Les accès routiers principaux sont Sulmona à l'ouest, Pescocostanzo au sud, Guardiagrele à l'est et
+      Lettomanoppello au nord. Les centres d'accueil organisent visites et sorties : Fara San Martino
+      reconstitue un abri sous roche pastoral, Lama dei Peligni présente des dioramas de l'isard, Caramanico
+      Terme réunit musées naturaliste et archéologique, et le musée de l'ours à Palena occupe un ancien
+      couvent. Le plus récent siège à la Badia di Sulmona. Les jardins botaniques de Sant'Eufemia a Maiella et
+      de Lama dei Peligni présentent la flore alpine.
+    history: >-
+      Sur le Morrone, les moines bénédictins ont planté des sapins voici 400 ans environ dans la Fossa di
+      Pentima, constituant le plus ancien reboisement de la région. Dans le Bosco di Sant'Antonio, l'écimage
+      traditionnel des hêtres a donné naissance aux célèbres hêtres en candélabre. La ferveur spirituelle a
+      laissé des joyaux : l'abbaye de San Liberatore a Maiella remonte au XIe siècle, tandis que San Martino
+      in Valle fut ruinée en 1818 par une crue torrentielle.
+
+
+      Le parc national a été créé par décret présidentiel le 5 juin 1995, avec siège à Guardiagrele, abritant
+      sept réserves naturelles nationales.
+    before: >-
+      Renseignez-vous sur la praticabilité des sentiers et les arrêtés municipaux avant votre départ. L'enclos
+      aux loups de Pretoro ne se visite qu'avec guide.
+    around: >-
+      À seulement 3 km se situe le [Parque Nacional del Gran Sasso y Monti della
+      Laga](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/), et à 12 km le [Parque Nacional de
+      Abruzzo, Lazio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/). À 15 km s'étend la [Reserva Natural
+      Gole del Sagittario](/lugar/gole-del-sagittario/). Plus loin, le massif partage isards, loups et ours
+      avec les [Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) et
+      [Somiedo](/lugar/parque-natural-de-somiedo/).
+  de:
+    intro: >-
+      Die Bewohner der Abruzzen nennen sie den Mutterberg, und beim Blick von Campo di Giove versteht man
+      sogleich, warum: Ein gewaltiger Kalkklotz reckt sich bis auf 2.793 Meter Höhe am Monte Amaro empor. Der
+      Nationalpark Majella umschließt diesen Hauptkamm sowie das benachbarte Morrone-Massiv und vereint
+      Buchenwälder, Schluchten, Karsthochflächen, Felsklöster und eine faszinierende Tierwelt.
+    landscape: >-
+      Die Majella und der Morrone sind aus mesozoischen und känozoischen Kalken und Dolomiten aufgebaut.
+      Während der Eiszeiten schliffen Gletscher die Bergkämme ab, sodass ausgedehnte sanft gewellte Hochebenen
+      entstanden, darunter das karge Vallone di Femmina Morta oberhalb von 2.500 Metern. Die Außenflanken
+      brechen steil und unwegsam in tief eingeschnittene Täler ab.
+
+
+      Der Fluss Orta trennt die Majella vom Morrone und hat zwischen Bolognano und San Valentino einen tiefen
+      Canyon gegraben. Im Süden breiten sich auf rund 1.250 Metern Höhe die Karstbecken der «altipiani
+      maggiori d'Abruzzo» aus: Barone, Grande, Molino und Santa Chiara. Diese Geologie genießt unter Forschern
+      Weltruf, da die Majella einen vollständigen Querschnitt einer fossilen Karbonatplattform zeigt. Seit
+      2021 gehört der Park mit 95 ausgewiesenen Geotopen zum UNESCO Global Geoparks Network.
+    wildlife: >-
+      Buchenwälder herrschen vor: Die Rotbuche (Fagus sylvatica), rein oder gemischt mit Weißtanne, bedeckt
+      große Teile des Parks, ergänzt durch Flaum- und Zerreichen. Über 2.100 Pflanzenarten sind erfasst — fast
+      ein Drittel der gesamten Flora Italiens —, darunter Endemiten wie die Majella-Flockenblume, die auf
+      Felsrasen bis auf 1.800 Meter Höhe gedeiht.
+
+
+      Unter den Tieren ist der Wolf das Wappentier des Parks und ziert sein Logo: Rund elf Rudel streifen
+      durch die Massive. Seltener ist der Marsische [Braunbär](/especie/ursus_arctos/): Das Monitoring von
+      2019 bestätigte mindestens 15 Exemplare, sechs davon standorttreu. Die erfolgreich wiederangesiedelte
+      Apennin-Gämse bildet hier ihren größten Gesamtbestand mit über 1.500 Tieren im Jahr 2021. Hirsch und Reh
+      kehrten in den achtziger Jahren zurück. Am Himmel kreisen Habicht, Steinhuhn, Wanderfalke und
+      Alpendohlen, während in Hochlagen die [Wiesenotter](/especie/vipera_ursinii/) heimisch ist.
+
+
+      Für Tierbeobachtungen gibt es Informationsgehege: In Lama dei Peligni lässt sich eine Gämsengruppe im
+      naturnahen Gehege beobachten; in Caramanico Terme leben Fischotter, die sich am späten Nachmittag
+      zeigen; und das Wolfszentrum von Pretoro beherbergt Wölfe in einem Waldareal.
+    visit: >-
+      Das Wegenetz umfasst über 1.200 Kilometer und reicht von leichten Spazierwegen bis zu alpinen
+      Hochtouren. Vier Themenwege erschließen den Naturpark:
+
+
+      - Der Sentiero del Parco quert das Schutzgebiet von Popoli nach Palena und berührt die höchsten Gipfel
+      von Monte Amaro bis Monte Porrara.
+
+      - Der Sentiero dello Spirito führt von Sulmona nach Serramonacesca zu Felsklöstern, Abteien und
+      Einsiedeleien, unter anderem von Papst Coelestin V.
+
+      - Der Sentiero della Libertà von Sulmona nach Palena folgt dem historischen Fluchtweg Tausender
+      alliierter Kriegsgefangener nach dem Waffenstillstand.
+
+      - Der Sentiero delle Capanne in pietra verbindet Lettomanoppello, Abbateggio, Roccamorice, Caramanico
+      und Serramonacesca mit ihren traditionellen Kraggewölbebauten aus Trockenmauerwerk (Tholos).
+
+
+      Beste Zugänge sind Sulmona im Westen, Pescocostanzo im Süden, Guardiagrele im Osten und Lettomanoppello
+      im Norden. Die Besucherzentren organisieren Touren: Fara San Martino zeigt eine Hirtenhöhle, Lama dei
+      Peligni bietet Gämsendioramen, Caramanico Terme Natur- und Archäologiemuseen und Palena ein Bärenmuseum.
+      Das neueste Zentrum liegt bei der Badia di Sulmona. Botanische Gärten in Sant'Eufemia a Maiella und Lama
+      dei Peligni vertiefen die Pflanzenwelt.
+    history: >-
+      Am Morrone pflanzten Benediktinermönche vor rund 400 Jahren Weißtannen in der Fossa di Pentima — die
+      älteste dokumentierte Aufforstung der Region. Im Bosco di Sant'Antonio schufen jahrhundertelang
+      schneitelnde Hirten die berühmten Kandelaberbuchen. Die Abtei San Liberatore a Maiella stammt aus dem
+      elften Jahrhundert, während San Martino in Valle 1818 nach einer Sturzflut verlassen wurde.
+
+
+      Der Nationalpark wurde per Präsidialdekret am 5. Juni 1995 gegründet, hat seinen Sitz in Guardiagrele
+      und umfasst sieben staatliche Naturreservate.
+    before: >-
+      Erkundige dich vor dem Aufbruch nach der Wegbeschaffenheit und behördlichen Sperrungen. Das Wolfsgehege
+      in Pretoro ist nur im Rahmen von Führungen zugänglich.
+    around: >-
+      Nur 3 km entfernt liegt der [Parque Nacional del Gran Sasso y Monti della
+      Laga](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/) und 12 km entfernt der [Parque Nacional
+      de Abruzzo, Lazio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/). In 15 km Entfernung liegt das
+      Schutzgebiet [Reserva Natural Gole del Sagittario](/lugar/gole-del-sagittario/). Weit entfernt teilt das
+      Massiv Gämse, Wolf und Bär mit den [Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) und
+      [Somiedo](/lugar/parque-natural-de-somiedo/).
+  it:
+    intro: >-
+      Gli abruzzesi la chiamano la Montagna Madre, e basta contemplarla da Campo di Giove per afferrarne la
+      ragione: una mole calcarea che si innalza fino ai 2.793 metri del Monte Amaro. Il Parco Nazionale della
+      Majella abbraccia questo massiccio assieme alla dorsale del Morrone, componendo in un unico scrigno
+      faggete vetuste, forre profonde, altopiani carsici, eremi rupestri e una fauna di straordinaria
+      ricchezza.
+    landscape: >-
+      La Majella e il Morrone sono possenti massicci calcareo-dolomitici di età mesozoica e cenozoica. Nelle
+      ere glaciali i ghiacci ne hanno smussato i crinali, modellando vasti pianori sommitali ondulati tra i
+      quali si apre il desolato Vallone di Femmina Morta, oltre i 2.500 metri. I versanti esterni, soprattutto
+      a oriente e nord-ovest, precipitano incisi da valli lunghe e selvagge.
+
+
+      Il fiume Orta divide la Majella dal Morrone scavando un impressionante canyon tra Bolognano e San
+      Valentino. A meridione, a circa 1.250 metri di quota, si allargano i piani carsici noti come «altipiani
+      maggiori d'Abruzzo» o «quarti»: Barone, Grande, Molino e Santa Chiara. Questa geologia è celebre a
+      livello internazionale poiché la Majella rappresenta un esempio intatto di margine di piattaforma
+      carbonatica fossile. Per questo dal 2021 il parco è inserito nella rete mondiale dei Geoparchi UNESCO
+      con 95 geositi registrati.
+    wildlife: >-
+      La faggeta regna sovrana: il faggio (Fagus sylvatica), in purezza o associato all'abete bianco, copre
+      gran parte dell'area protetta assieme a boschi di roverella e cerro. Sono censite oltre 2.100 specie
+      vegetali — circa un terzo dell'intera flora italiana —, tra cui endemismi rari come il fiordaliso della
+      Majella, che fiorisce sulle ghiaie fino a 1.800 metri di quota.
+
+
+      Il lupo appenninico è il simbolo del parco ed è raffigurato nel logo ufficiale: circa undici branchi
+      popolano il massiccio. Più rari sono gli [orsi bruni](/especie/ursus_arctos/) marsicani: il monitoraggio
+      del 2019 ne ha accertati almeno 15, di cui sei stanziali. Il camoscio appenninico vanta qui la colonia
+      più numerosa dell'Appennino, con oltre 1.500 esemplari nel 2021. Cervo e capriolo sono tornati negli
+      anni ottanta. Tra le rupi nidificano astore, coturnice, falco pellegrino e gracchi, mentre sui pascoli
+      sassosi vegeta la [vipera dell'Orsini](/especie/vipera_ursinii/).
+
+
+      Per osservare la fauna da vicino sono attive aree faunistiche: a Lama dei Peligni un'area recintata
+      accoglie camosci in condizioni seminaturali; a Caramanico Terme le lontre si lasciano scorgere sul
+      finire del pomeriggio; mentre l'area del lupo a Pretoro consente l'osservazione in un vasto bosco
+      recintato.
+    visit: >-
+      La rete escursionistica supera i 1.200 chilometri tra sentieri tematici, percorsi escursionistici e
+      itinerari storici. Quattro grandi cammini attraversano il massiccio:
+
+
+      - Il Sentiero del Parco valica l'area protetta da Popoli alla stazione di Palena toccando le cime
+      maestre, dal Monte Amaro al Monte Porrara.
+
+      - Il Sentiero dello Spirito unisce Sulmona a Serramonacesca alla scoperta di eremi, abbazie e cellette
+      rupestri legate alla memoria di papa Celestino V.
+
+      - Il Sentiero della Libertà da Sulmona a Palena ripercorre la via di fuga percorsa da migliaia di
+      prigionieri alleati dopo l'armistizio.
+
+      - Il Sentiero delle Capanne in pietra collega Lettomanoppello, Abbateggio, Roccamorice, Caramanico e
+      Serramonacesca tra le caratteristiche capanne a tholos in pietra a secco.
+
+
+      I varchi d'accesso principali sono Sulmona a occidente, Pescocostanzo a mezzogiorno, Guardiagrele a
+      levante e Lettomanoppello a settentrione. I centri visite offrono attività e percorsi didattici: Fara
+      San Martino ricostruisce una grotta pastorale, Lama dei Peligni espone diorami geomorfologici e del
+      camoscio, Caramanico Terme ospita sezioni naturalistiche e archeologiche, e il museo dell'orso a Palena
+      occupa un ex convento. L'allestimento più recente sorge presso la Badia di Sulmona. Gli orti botanici di
+      Sant'Eufemia a Maiella e Lama dei Peligni illustrano la flora montana.
+    history: >-
+      Sul Morrone i monaci benedettini piantarono abeti circa 400 anni fa nella Fossa di Pentima, la più
+      remota opera di rimboschimento locale. Nel Bosco di Sant'Antonio la storica capitozzatura praticata dai
+      pastori per alimentare il bestiame ha forgiato i caratteristici faggi a candelabro. Radicata è la
+      sacralità dei luoghi: l'abbazia di San Liberatore a Maiella risale all'XI secolo, mentre San Martino in
+      Valle fu abbandonata nel 1818 a causa di una rovinosa alluvione.
+
+
+      Il parco nazionale è stato istituito con decreto presidenziale il 5 giugno 1995, con sede a
+      Guardiagrele, e custodisce sette riserve naturali statali.
+    before: >-
+      Verifica la percorribilità dei sentieri e le ordinanze comunali prima di partire. L'area faunistica del
+      lupo a Pretoro è visitabile esclusivamente con accompagnamento guidato.
+    around: >-
+      A soli 3 km si trova il [Parque Nacional del Gran Sasso y Monti della
+      Laga](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/), e a 12 km il [Parque Nacional de
+      Abruzzo, Lazio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/). A 15 km sorge la [Reserva Natural
+      Gole del Sagittario](/lugar/gole-del-sagittario/). Più lontano, condivide camoscio, lupo e orso con i
+      [Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) e
+      [Somiedo](/lugar/parque-natural-de-somiedo/).
+  pt:
+    intro: >-
+      O povo dos Abruzos chama-lhe a Montanha-Mãe, e contemplá-la desde Campo di Giove basta para o
+      compreender: uma imensa abóbada calcária que ascende até aos 2.793 metros do Monte Amaro. O Parque
+      Nacional da Majella circunda este maciço e o vizinho maciço do Morrone, reunindo num só espaço faiais
+      primitivos, desfiladeiros, planaltos cársicos, ermidas debruçadas no abismo e uma fauna de excecional
+      riqueza.
+    landscape: >-
+      A Majella e o Morrone são imponentes maciços de calcário e dolomia de idade mesozoica e cenozoica.
+      Durante as eras glaciares os gelos afeiçoaram os topos, gerando vastos planaltos ondulados, entre os
+      quais rasga o ermo Vallone di Femmina Morta acima dos 2.500 metros. As vertentes exteriores, sobretudo a
+      oriental e a noroeste, abrem-se em vales profundos e alcantilados.
+
+
+      O rio Orta separa a Majella do Morrone, esculpindo entre Bolognano e San Valentino um verdadeiro
+      desfiladeiro. A sul, a cerca de 1.250 metros de altitude, desdobram-se os planaltos cársicos conhecidos
+      como «altipiani maggiori d'Abruzzo» ou «quarti»: Barone, Grande, Molino e Santa Chiara. Esta geologia é
+      consagrada internacionalmente por constituir um corte integral de uma margem de plataforma carbonatada
+      fóssil. Por esse motivo, o parque aderiu em 2021 à rede de Geoparques da UNESCO, com 95 geossítios
+      classificados.
+    wildlife: >-
+      O faial comanda a paisagem: a faia (Fagus sylvatica), em bosque puro ou em consociação com abeto-branco,
+      forra grande parte do parque, associada a carvalhais de carvalho-cerquinho e carvalho-negral. Estão
+      catalogadas mais de 2.100 espécies vegetais — quase um terço de toda a flora italiana —, pontuando
+      endemismos como a centáurea-da-majella nas pastagens rochosas até aos 1.800 metros de altitude.
+
+
+      Entre a fauna, o lobo simboliza o parque e figura no emblema oficial: cerca de onze alcateias percorrem
+      os maciços. Mais escassos são os [ursos-pardos](/especie/ursus_arctos/) marsicanos: a monitorização de
+      2019 registou pelo menos 15 espécimes, seis deles sedentários. A camurça-dos-apeninos, reintroduzida
+      nestas escarpas, concentra aqui a sua maior população com mais de 1.500 animais em 2021. O veado e o
+      corço regressaram nos anos oitenta. Nos céus nidificam açor, perdiz-grega, falcão-peregrino e gralhas,
+      enquanto nos pedregais de altitude habita a [víbora-de-orsini](/especie/vipera_ursinii/).
+
+
+      Para observação direta existem áreas faunísticas: em Lama dei Peligni um cercado acolhe camurças em
+      ambiente seminatural; em Caramanico Terme avistam-se lontras ao entardecer; e o centro do lobo em
+      Pretoro alberga animais numa extensa parcela florestal.
+    visit: >-
+      A rede pedonal excede os 1.200 quilómetros, combinando caminhadas familiares e desafiantes travessias de
+      montanha. Quatro grandes rotas temáticas orientam a visita:
+
+
+      - O Sentiero del Parco atravessa o parque de Popoli à estação de Palena, galgando os picos mais elevados
+      do Monte Amaro ao Monte Porrara.
+
+      - O Sentiero dello Spirito liga Sulmona a Serramonacesca, passando por mosteiros, abadias e ermidas
+      rupestres fundadas por Celestino V.
+
+      - O Sentiero della Libertà, entre Sulmona e Palena, refaz o percurso de fuga trilhado por milhares de
+      prisioneiros aliados após o armistício.
+
+      - O Sentiero delle Capanne in pietra une Lettomanoppello, Abbateggio, Roccamorice, Caramanico e
+      Serramonacesca, célebres pelos abrigos pastoris em falsa cúpula de pedra seca (tholos).
+
+
+      Os acessos rodoviários mais práticos são Sulmona a oeste, Pescocostanzo a sul, Guardiagrele a leste e
+      Lettomanoppello a norte. Os centros de acolhimento dinamizam percursos interpretativos: Fara San Martino
+      recria uma gruta pastoril, Lama dei Peligni apresenta dioramas da camurça, Caramanico Terme acolhe
+      núcleos de história natural e arqueologia, e o museu do urso em Palena ocupa um antigo convento. O polo
+      mais recente localiza-se na Badia di Sulmona. Os jardins botânicos de Sant'Eufemia a Maiella e Lama dei
+      Peligni exibem a flora regional.
+    history: >-
+      No Morrone, frades beneditinos plantaram abetos-brancos há cerca de 400 anos na Fossa di Pentima,
+      consubstanciando a mais antiga reflorestação local. No Bosco di Sant'Antonio a poda secular praticada
+      pelos pastores talhou as imponentes faias em candelabro. O misticismo moldou a paisagem: a abadia de San
+      Liberatore a Maiella data do século XI, enquanto San Martino in Valle foi abandonada em 1818 devido a
+      cheias torrenciais.
+
+
+      O parque nacional foi criado por decreto presidencial a 5 de junho de 1995, sedeado em Guardiagrele,
+      acolhendo sete reservas naturais estatais.
+    before: >-
+      Informa-te previamente sobre a transitabilidade dos trilhos e os regulamentos municipais em vigor. O
+      cercado dos lobos de Pretoro só pode ser visitado com guia.
+    around: >-
+      A apenas 3 km encontra-se o [Parque Nacional del Gran Sasso y Monti della
+      Laga](/lugar/parco-nazionale-del-gran-sasso-e-monti-della-laga/), e a 12 km o [Parque Nacional de
+      Abruzzo, Lazio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/). A 15 km fica a [Reserva Natural
+      Gole del Sagittario](/lugar/gole-del-sagittario/). Mais longe, partilha camurças, lobos e ursos com os
+      [Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) e
+      [Somiedo](/lugar/parque-natural-de-somiedo/).
+fuentes:
+  - url: https://www.parcomajella.it/Sentieri-nel-Parco.htm
+    titulo: Sentieri nel Parco — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/12-Area-faunistica-del-lupo.htm
+    titulo: 12 - Area faunistica del lupo — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/i-geositi.htm
+    titulo: I Geositi — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/SCHEGGE-DI-GEODIVERSITA.htm
+    titulo: Schegge di geodiversità — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/Palena-Area-Faunistica-dell-Orso.htm
+    titulo: 'Palena: Area Faunistica dell''Orso — Parco Nazionale della Maiella'
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/Lama-dei-Peligni-Giardino-M-Tenore.htm
+    titulo: Giardino Botanico Michele Tenore — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/visita-guidata-alla-scoperta-del-giardino-botanico-del-parco-nazionale-della-maiell.htm
+    titulo: Visita guidata alla scoperta del Giardino Botanico — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+  - url: https://it.wikipedia.org/wiki/Parco_nazionale_della_Majella
+    titulo: Parco nazionale della Maiella — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Majella_National_Park
+    titulo: Maiella National Park — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcomajella.it/I-Centri-Informazioni-del-Parco.htm
+    titulo: I Centri Informazioni del Parco — Parco Nazionale della Maiella
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:20190422_103148_HDR.jpg
+    autor: Diego.vala
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

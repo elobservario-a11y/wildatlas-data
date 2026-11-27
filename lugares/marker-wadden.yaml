@@ -1,0 +1,619 @@
+id: marker-wadden
+estado_editorial: valoracion-revisada
+nombre:
+  es: Archipiélago de Marker Wadden
+  en: Marker Wadden
+  fr: Marker Wadden
+  de: Marker Wadden
+  it: Marker Wadden
+  pt: Marker Wadden
+nombre_original: Marker Wadden
+alias:
+  - Marker Wadden
+paises:
+  - NL
+region:
+  es: Flevoland (Lelystad / Markermeer)
+  en: Flevoland (Markermeer / Lelystad)
+  fr: Flevoland (Markermeer / Lelystad)
+  de: Flevoland (Markermeer / Lelystad)
+  it: Flevoland (Markermeer / Lelystad)
+  pt: Flevoland (Markermeer / Lelystad)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: way/405273371
+  nombre_en_la_fuente: Marker Wadden
+  capa: capas/osm/marker-wadden.geojson
+habitats:
+  - wetland
+  - lake
+  - coast
+designaciones:
+  - national_park
+  - natura2000
+especies:
+  - recurvirostra_avosetta
+  - sternula_albifrons
+proyectos:
+  - natuurmonumenten
+  - marker_wadden
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: mid-March to October
+  fr: mi-mars à octobre
+  de: Mitte März bis Oktober
+  it: da metà marzo a ottobre
+  pt: meados de março a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en paseos en barco desde Lelystad
+  en: Regulated ferry capacity
+  fr: Capacité de ferry régulée
+  de: Regulierte Fährkapazität
+  it: Capienza del traghetto regolamentata
+  pt: Lotação do ferry regulada
+valoracion: 2
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Marker Wadden
+    url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden
+  - titulo: Accesos y entradas — Barco a Marker Wadden
+    url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden/varen/boot-naar-marker-wadden
+  - titulo: Rutas y mapa — Kustroute de Marker Wadden
+    url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden/route/kustroute-op-marker-wadden
+  - titulo: Ruta y observatorios — Vogelvluchtroute
+    url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden/route/vogelvluchtroute-op-marker-wadden
+  - titulo: Visita y normas — Información del gestor en Marker Wadden
+    url: https://www.natuurmonumenten.nl/projecten/marker-wadden/welkom-op-marker-wadden
+resumen:
+  es: >-
+    Archipiélago artificial de 5 islas de limo y arena construido en el Markermeer para regenerar la vida
+    acuática.
+  en: >-
+    An artificial archipelago of 5 islands created with silt dredged from Markermeer that has become one of
+    the most vibrant bird sanctuaries in the Netherlands.
+  fr: >-
+    Archipel artificiel de 5 îles né des boues draguées du Markermeer, devenu l’un des sanctuaires d’oiseaux
+    les plus vivants des Pays-Bas.
+  de: >-
+    Künstlicher Archipel aus 5 Inseln, geschaffen aus Markermeer-Schlick, der sich zu einem der lebendigsten
+    Vogelschutzgebiete der Niederlande entwickelt hat.
+  it: >-
+    Un arcipelago artificiale di 5 isole creato con i sedimenti dragati dal Markermeer, divenuto uno dei
+    santuari ornitologici più ricchi dei Paesi Bassi.
+  pt: >-
+    Arquipélago artificial de 5 ilhas criado com sedimentos dragados do Markermeer, transformado num dos
+    santuários de aves mais dinâmicos dos Países Baixos.
+unico:
+  es: Un archipiélago levantado con el limo que asfixiaba el lago, y que en pocos años se ha llenado de aves.
+  en: >-
+    An archipelago built by dredging silt from a murky lake that turned in just a few years into the country’s
+    largest colony of black-headed gulls.
+  fr: >-
+    Un archipel bâti en draguant le limon d’un lac trouble, devenu en quelques années la plus grande colonie
+    de mouettes rieuses du pays.
+  de: >-
+    Ein Archipel aus ausgebaggertem Schlick eines trüben Sees, der sich binnen weniger Jahre zur größten
+    Lachmöwenkolonie des Landes wandelte.
+  it: >-
+    Un arcipelago nato dragando il limo di un lago torbido che in pochi anni è diventato la maggiore colonia
+    di gabbiani comuni del paese.
+  pt: >-
+    Um arquipélago erguido ao dragar os lodos de um lago turvo que se tornou em poucos anos na maior colónia
+    de guinchos-comuns do país.
+observaciones:
+  es: >-
+    Solo la isla del puerto está abierta; las demás son zona de reposo para aves y peces. Es un lugar para ir
+    a pie: no se permiten bicicletas, y solo se puede caminar por caminos, sendas y la playa. Los perros no
+    viajan en el transbordador, y en la isla solo se admiten con correa alrededor de la dársena. Quedan
+    prohibidos el kitesurf, el windsurf y los drones. El transbordador funciona de finales de marzo a
+    comienzos de noviembre. La Vogelvluchtroute se puede recorrer con acompañamiento para personas con
+    discapacidad, y el observatorio Visdief también es accesible.
+texto:
+  es:
+    intro: >-
+      Estas islas no existían hace unos años. Marker Wadden es un grupo de siete islas deshabitadas que se
+      construyeron entre 2016 y 2023 en el Markermeer, con arena, arcilla y limo sacados del propio fondo del
+      lago. Con el agua somera que las rodea suman unas 1.300 hectáreas de espacio natural, a unos nueve
+      kilómetros de navegación de Lelystad y a unos cuatro kilómetros del dique Houtribdijk.
+
+
+      La idea fue tan simple como arriesgada: devolver la vida a un lago ahogado por el limo creando orillas y
+      bajíos donde crezcan plantas, moluscos, peces y aves. Construir con limo fue una primicia mundial, y el
+      resultado ha sido rápido. Solo una isla, la del puerto, está abierta a quien llega en el transbordador,
+      y por eso el archipiélago funciona a la vez como lugar de paseo y como santuario.
+    landscape: >-
+      La causa del lago enfermo tiene fecha: 1976, cuando el dique Houtribdijk cerró el Markermeer. Durante
+      décadas se acumuló limo que enturbió el agua y asfixió la vida del fondo; peces, plantas acuáticas y
+      moluscos lo pasaban mal, y a las aves migratorias les amenazaba la falta de alimento.
+
+
+      La respuesta fue construir. Natuurmonumenten propuso la idea en 2012, y el nombre alude a los
+      «windwadden», bancos que el viento crea en el Markermeer, aunque geológicamente no es una zona de
+      wadden: se usa en sentido figurado por el archipiélago y su valor ecológico. Las obras de la isla
+      principal empezaron en marzo de 2016, y el proyecto está abierto al público desde 2018.
+
+
+      El paisaje de hoy es de carrizales, bajíos y orillas naturales. El nivel del agua se mantiene algo alto
+      en las islas para que crezcan sobre todo carrizales, y se espera que se formen marismas saladas. Bajo el
+      agua hay un canal de limo de 30 metros de profundidad que atrapa el exceso de limo del lago. Con tiempo
+      claro, desde la torre Steltloper se domina todo el archipiélago y se ve hasta Enkhuizen y Almere.
+    wildlife: >-
+      El seguimiento científico cuenta unas 47 especies nuevas de aves reproductoras y 170 de plantas. La
+      colonia de unas 15.000 parejas de gaviota reidora es la mayor de Países Bajos, y el havelda crió aquí
+      por primera vez en el país. También han llegado especies raras: gaviota enana, pagaza piconegra,
+      correlimos común, bigotudo, [avetoro común](/especie/botaurus_stellaris/) y charrancito común. Las
+      avocetas sacan adelante más pollos que la media, y la espátula común es una nueva especie reproductora.
+      En el agua se han hallado diecinueve especies de peces, entre ellas el amarguillo desde 2024.
+
+
+      En primavera las gaviotas forman colonias de cientos de nidos y llegan cantores de carrizal como el
+      carricero común, el carricerín común y el bigotudo. En verano ves miles de gaviotas reidoras con sus
+      pollos y los charranes comunes cebándolos con pececillos; a fin de verano se juntan miles de aviones
+      zapadores, fumareles comunes o charranes en dormideros, antes de partir hacia el sur en septiembre. El
+      halcón peregrino que cría en la torre de telecomunicaciones de Lelystad visita a veces las islas a
+      cazar.
+
+
+      El otoño es el momento de mayor tránsito: llegan zorzales alirrojos, comunes y reales desde
+      Escandinavia, y el paso migratorio está en su punto álgido. En invierno hay muchos patos porque es el
+      único rincón resguardado del Markermeer; llegan porrones osculados y serretas de los fiordos noruegos, y
+      en la isla se ven el escribano lapón y la alondra cornuda, que no están el resto del año.
+    visit: >-
+      Se llega en el transbordador de Natuurmonumenten desde Lelystad, que tarda unos tres cuartos de hora, y
+      se pasan más de tres horas en la isla. Allí hay dos rutas a pie. La Kustroute, de unos siete kilómetros,
+      recorre el borde exterior entre vistas del lago y colonias de aves y se puede completar subiendo a la
+      torre Steltloper. La Vogelvluchtroute, de más de tres kilómetros, atraviesa lodazales donde las aves
+      buscan alimento. La ruta de las mariposas mide unos 4,5 km y sus observaciones se registran en la
+      aplicación Butterfly Count.
+
+
+      Los puestos de observación son tres: la cabaña Duikeend, desde la que ves a ras de agua las aves
+      buceadoras, como el porrón moñudo y el pato colorado; la cabaña Lepelaar, a 3,5 metros de altura, con
+      vistas a las aves de paso en primavera y otoño, y el observatorio Aalscholver. Cada estación trae
+      especies distintas. En el pabellón de la isla, la exposición explica cómo se formó el archipiélago, y
+      los guardas a veces ofrecen visitas guiadas. Cinco postes con fotografías registran los cambios, y
+      puedes colaborar escaneando un código QR.
+    history: >-
+      Natuurmonumenten creó 1300 ha de naturaleza nueva con Rijkswaterstaat y la provincia de Flevoland. Las
+      nuevas orillas y aguas someras están devolviendo vida por encima y por debajo del agua. Los primeros
+      resultados llegan en forma de aves, plantas y peces que antes no estaban.
+    before: >-
+      Solo la isla del puerto está abierta; las demás son zona de reposo para aves y peces. Es un lugar para
+      ir a pie: no se permiten bicicletas, y solo se puede caminar por caminos, sendas y la playa. Los perros
+      no viajan en el transbordador, y en la isla solo se admiten con correa alrededor de la dársena. Quedan
+      prohibidos el kitesurf, el windsurf y los drones. El transbordador funciona de finales de marzo a
+      comienzos de noviembre. La Vogelvluchtroute se puede recorrer con acompañamiento para personas con
+      discapacidad, y el observatorio Visdief también es accesible.
+    around: >-
+      A ocho kilómetros queda la [Reserva Natural de Oostvaardersplassen](/lugar/oostvaardersplassen/). Más
+      lejos, el [Parque Natural de la Ria Formosa](/lugar/parque-natural-da-ria-formosa/) comparte con Marker
+      Wadden el charrancito común, y el [Parque Natural del Zwin](/lugar/het-zwin---zwin-nature-park/) la
+      avoceta común.
+  en:
+    intro: >-
+      In 2016 this place did not exist: it was open water, a murky lake where silt choked life. By 2023,
+      Marker Wadden had already attracted thousands of breeding birds and visitors arriving by boat to walk
+      its sands. It is an artificial archipelago of 1,300 hectares created with silt extracted from the lake
+      floor, an ambitious ecological restoration project led by the NGO Natuurmonumenten to bring life back to
+      Markermeer. The result is a wild bird reserve that proves human intervention can also restore nature.
+    landscape: >-
+      Markermeer was created in 1976 when the Houtribdijk dike divided the IJsselmeer. For decades silt
+      accumulated, clouding the water and suffocating benthic life; fish, aquatic vegetation, and molluscs
+      suffered, while migratory birds faced a food crisis.
+
+
+      The solution was to build. Natuurmonumenten proposed the concept in 2012, with the name evoking the
+      «windwadden», mudflats shaped by wind across Markermeer, although geologically it is not a tidal Wadden
+      area: the term is figurative, celebrating the archipelago and its ecological role. Work on the main
+      island began in March 2016, and the site opened to visitors in 2018.
+
+
+      Today’s landscape consists of reedbeds, shallows, and natural sandy shores. Water levels on the islands
+      are kept slightly elevated to foster dense reedbeds, with expectations of developing salt marshes.
+      Beneath the surface, a 30-metre-deep silt trench traps excess lake sediment. On clear days, the
+      Steltloper observation tower commands panoramic views over the archipelago, reaching as far as Enkhuizen
+      and Almere.
+    wildlife: >-
+      Scientific monitoring has recorded some 47 newly breeding bird species and 170 plant species. The colony
+      of around 15,000 pairs of black-headed gulls is the largest in the Netherlands, and the long-tailed duck
+      bred here for the first time in the country. Rare species have also settled: little gull, gull-billed
+      tern, dunlin, bearded reedling, [Eurasian bittern](/especie/botaurus_stellaris/), and little tern. Pied
+      avocets fledge more chicks than average, and Eurasian spoonbills represent a new breeding addition. In
+      the waters, nineteen fish species have been detected, including European bitterling since 2024.
+
+
+      In spring, gulls form breeding colonies with hundreds of nests, and reedbed songsters like reed
+      warblers, sedge warblers, and bearded reedlings arrive. Summer brings thousands of black-headed gulls
+      with chicks and common terns feeding their young with small fish; by late summer, thousands of sand
+      martins, black terns, and common terns gather in roosts before departing southward in September. A
+      peregrine falcon nesting on the Lelystad telecom tower regularly hunts across the islands.
+
+
+      Autumn marks peak passage: redwings, song thrushes, and fieldfares arrive from Scandinavia, bringing
+      migration to its height. Winter attracts numerous wildfowl seeking the only sheltered cove on
+      Markermeer; common goldeneyes and smews arrive from Norwegian fjords, while Lapland longspurs and horned
+      larks visit the island, absent during the rest of the year.
+    visit: >-
+      Access is via the Natuurmonumenten ferry from Lelystad, taking roughly three quarters of an hour,
+      allowing over three hours on the island. Two walking trails await visitors. The Kustroute, around seven
+      kilometres long, traces the perimeter amidst lake vistas and bird colonies, easily combined with
+      climbing the Steltloper tower. The Vogelvluchtroute, over three kilometres, winds through mudflats where
+      waders forage. The butterfly trail spans roughly 4.5 km, with sightings logged in the Butterfly Count
+      app.
+
+
+      Three observation hides provide excellent vantage points: the Duikeend hide, viewing diving ducks like
+      tufted ducks and red-crested pochards at water level; the Lepelaar hide, elevated at 3.5 metres,
+      overlooking passage birds in spring and autumn; and the Aalscholver hide. Every season brings distinct
+      species. In the island pavilion, exhibitions explain how the archipelago was formed, and rangers
+      occasionally lead guided walks. Five photo posts monitor habitat shifts, inviting you to contribute by
+      scanning a QR code.
+    history: >-
+      Natuurmonumenten created 1300 ha of new nature in collaboration with Rijkswaterstaat and the Province of
+      Flevoland. The newly established shores and shallow waters are revitalising life above and below the
+      surface. Early outcomes show flourishing populations of birds, plants, and fish that were previously
+      absent.
+    before: >-
+      Only the harbour island is open to the public; the remaining islands serve as undisturbed sanctuaries
+      for birds and fish. This is a pedestrian-only destination: bicycles are forbidden, and visitors must
+      keep strictly to paths, boardwalks, and designated beaches. Dogs are not allowed on the ferry, and on
+      the island they are permitted solely on a leash within the harbour basin. Kitesurfing, windsurfing, and
+      drones are prohibited. The ferry operates from late March to early November. The Vogelvluchtroute is
+      accessible with assistance for disabled visitors, as is the Visdief hide.
+    around: >-
+      Eight kilometres away lies [Oostvaardersplassen Nature Reserve](/lugar/oostvaardersplassen/). Further
+      afield, [Ria Formosa Natural Park](/lugar/parque-natural-da-ria-formosa/) shares the little tern with
+      Marker Wadden, and [Het Zwin Nature Park](/lugar/het-zwin---zwin-nature-park/) shares the pied avocet.
+  fr:
+    intro: >-
+      En 2016, ce lieu n’existait pas : ce n’était qu’une étendue d’eau libre, un lac trouble asphyxié par le
+      limon. En 2023, Marker Wadden accueillait déjà des milliers d’oiseaux nicheurs et des visiteurs
+      débarquant en bateau pour fouler son sable. C’est un archipel artificiel de 1 300 hectares conçu à
+      partir de sédiments extraits du fond du lac, un projet ambitieux de restauration écologique mené par
+      l’ONG Natuurmonumenten pour redonner vie au Markermeer. Le résultat est une réserve aviaire sauvage
+      prouvant que l’action humaine peut aussi restaurer la nature.
+    landscape: >-
+      Le Markermeer est né en 1976 lorsque la digue Houtribdijk a scindé l’IJsselmeer. Pendant des décennies,
+      le limon s’y est accumulé, troublant l’eau et étouffant la vie benthique ; poissons, plantes aquatiques
+      et mollusques périclitaient, et les oiseaux migrateurs manquaient de nourriture.
+
+
+      La solution fut de bâtir. Natuurmonumenten a lancé l’idée en 2012, le nom faisant écho aux « windwadden
+      », ces hauts-fonds façonnés par le vent sur le Markermeer, même si géologiquement ce n’est pas un milieu
+      de Wadden à marées : le terme s’emploie au sens figuré pour l’archipel et sa valeur écologique. Les
+      travaux de l’île principale ont débuté en mars 2016, et le site accueille le public depuis 2018.
+
+
+      Le paysage actuel se compose de roselières, de hauts-fonds et de rives naturelles. Le niveau de l’eau
+      est maintenu assez haut sur les îles pour favoriser les roselières, avec l’espoir de développer des prés
+      salés. Sous l’eau, un chenal de décantation de 30 mètres de profondeur piège l’excès de vase du lac. Par
+      temps clair, la tour d’observation Steltloper embrasse tout l’archipel et permet d’apercevoir Enkhuizen
+      et Almere.
+    wildlife: >-
+      Le suivi scientifique dénombre quelque 47 nouvelles espèces d’oiseaux nicheurs et 170 espèces végétales.
+      La colonie d’environ 15 000 couples de mouettes rieuses est la plus importante des Pays-Bas, et la
+      harelde boréale y a niché pour la première fois dans le pays. D’autres espèces rares sont arrivées :
+      mouette pygmée, sterne hansel, bécasseau variable, panure à moustaches, [butor
+      étoilé](/especie/botaurus_stellaris/) et sterne naine. Les avocettes élégantes mènent à terme plus de
+      poussins que la moyenne, et la spatule blanche y niche désormais. Dans l’eau, dix-neuf espèces de
+      poissons ont été recensées, dont la bouvière depuis 2024.
+
+
+      Au printemps, les mouettes forment des colonies de centaines de nids, rejoints par les passereaux
+      paludicoles tels la rousserolle effarvatte, le phragmite des joncs et la panure à moustaches. En été,
+      des milliers de mouettes rieuses élèvent leurs poussins et les sternes pierregarins les nourrissent
+      d’alevins ; en fin d’été, des milliers d’hirondelles de rivage, guifettes noires ou sternes se
+      rassemblent en dortoirs avant de partir vers le sud en septembre. Le faucon pèlerin nichant sur la tour
+      de télécommunications de Lelystad visite parfois les îles pour chasser.
+
+
+      L’automne marque le pic de passage : grives mauvis, musiciennes et litornes affluent de Scandinavie,
+      hissant la migration à son apogée. En hiver, les canards affluent en nombre car c’est le seul abri calme
+      du Markermeer ; garrots à œil d’or et harles piettes arrivent des fjords norvégiens, tandis que sur
+      l’île apparaissent le plectrophane lapon et l’alouette hausse-col, absents le reste de l’année.
+    visit: >-
+      On y accède par le ferry de Natuurmonumenten depuis Lelystad, avec une traversée d’environ trois quarts
+      d’heure pour plus de trois heures sur place. Deux sentiers pédestres parcourent l’île. La Kustroute,
+      longue d’environ sept kilomètres, longe le rivage extérieur entre panoramas lacustres et colonies
+      d’oiseaux, avec montée possible à la tour Steltloper. La Vogelvluchtroute, de plus de trois kilomètres,
+      serpente au milieu des vasières où s’alimentent les échassiers. Le sentier des papillons mesure environ
+      4,5 km et ses observations sont consignées via l’application Butterfly Count.
+
+
+      Trois postes d’observation jalonnent le parcours : l’affût Duikeend, au ras de l’eau pour observer les
+      canards plongeurs comme le fuligule morillon et la nette rousse ; l’affût Lepelaar, perché à 3,5 mètres
+      de hauteur, idéal pour les migrateurs de passage ; et l’observatoire Aalscholver. Chaque saison apporte
+      son cortège d’espèces. Au pavillon de l’île, une exposition explique la création de l’archipel, et les
+      gardes proposent parfois des visites guidées. Cinq bornes photographiques documentent l’évolution du
+      milieu grâce à un QR code.
+    history: >-
+      Natuurmonumenten a créé 1300 ha de nouvelle nature avec le Rijkswaterstaat et la province de Flevoland.
+      Ces nouvelles rives et eaux peu profondes redonnent vie au milieu au-dessus et en dessous de l’eau. Les
+      premiers résultats se traduisent par le retour massif d’oiseaux, de plantes et de poissons jusque-là
+      absents.
+    before: >-
+      Seule l’île du port est accessible au public ; les autres sont des zones de quiétude pour la faune.
+      L’exploration se fait exclusivement à pied : les vélos sont interdits, et la marche est restreinte aux
+      chemins, passerelles et plages autorisées. Les chiens ne sont pas admis sur le ferry et ne sont tolérés
+      sur l’île qu’en laisse autour du bassin portuaire. Kitesurf, windsurf et drones sont proscrits. Le ferry
+      circule de fin mars à début novembre. La Vogelvluchtroute est accessible aux personnes à mobilité
+      réduite accompagnées, tout comme l’affût Visdief.
+    around: >-
+      À huit kilomètres se trouve la [Réserve naturelle d’Oostvaardersplassen](/lugar/oostvaardersplassen/).
+      Plus loin, le [Parc naturel de la Ria Formosa](/lugar/parque-natural-da-ria-formosa/) partage avec
+      Marker Wadden la sterne naine, et le [Parc naturel du Zwin](/lugar/het-zwin---zwin-nature-park/)
+      l’avocette élégante.
+  de:
+    intro: >-
+      Im Jahr 2016 gab es diesen Ort noch nicht: es war offenes Wasser, ein trüber See, in dem Schlick jedes
+      Leben erstickte. Bis 2023 hatte Marker Wadden bereits Tausende Brutvögel angezogen und Besucher
+      empfangen, die per Boot anlanden, um die Sandstrände zu erkunden. Es ist ein künstlicher Archipel von
+      1.300 Hektar, aufgeschüttet mit Baggergut vom Grund des Sees – ein ambitioniertes Renaturierungsprojekt
+      der Organisation Natuurmonumenten, um dem Markermeer neues Leben einzuhauchen. Das Ergebnis ist ein
+      wildes Vogelparadies, das beweist, dass menschliches Handeln Natur auch heilen kann.
+    landscape: >-
+      Das Markermeer entstand 1976, als der Houtribdijk-Deich das IJsselmeer teilte. Über Jahrzehnte lagerte
+      sich Feinsediment ab, trübte das Wasser und erstickte das Bodenleben; Fische, Wasserpflanzen und
+      Muscheln litten, und Zugvögeln fehlte die Nahrungsgrundlage.
+
+
+      Die Rettung lag im Neubau. Natuurmonumenten schlug das Konzept 2012 vor; der Name knüpft an die
+      «windwadden» an, vom Wind aufgewehte Sandbänke im Markermeer, auch wenn es sich geologisch nicht um
+      Gezeitenwatten handelt: der Begriff wird im übertragenen Sinne für den Archipel und seinen ökologischen
+      Wert genutzt. Die Arbeiten an der Hauptinsel begannen im März 2016, seit 2018 ist das Gebiet für die
+      Öffentlichkeit zugänglich.
+
+
+      Die heutige Landschaft wird von Schilfgürteln, Flachwasserzonen und Naturstränden geprägt. Der
+      Wasserstand auf den Inseln wird gezielt hoch gehalten, um ausgedehnte Röhrichte und Salzwiesen zu
+      fördern. Unter Wasser fängt eine 30 Meter tiefe Schlickrinne überschüssige Seesedimente auf. Bei klarem
+      Wetter bietet der Aussichtsturm Steltloper einen Panoramablick über das gesamte Inselreich bis nach
+      Enkhuizen und Almere.
+    wildlife: >-
+      Wissenschaftliche Erhebungen zählen rund 47 neu brütende Vogelarten und 170 Pflanzenarten. Die Kolonie
+      von etwa 15.000 Lachmöwenpaaren ist die größte der Niederlande, und die Eisente brütete hier erstmals im
+      Land. Auch seltene Arten fanden sich ein: Zwergmöwe, Lachseeschwalbe, Alpenstrandläufer, Bartmeise,
+      [Rohrdommel](/especie/botaurus_stellaris/) und Zwergseeschwalbe. Säbelschnäbler ziehen hier
+      überdurchschnittlich viele Jungvögel groß, und der Löffler brütet neu auf der Insel. Im Wasser wurden
+      neunzehn Fischarten nachgewiesen, darunter der Bitterling seit 2024.
+
+
+      Im Frühling bilden Möwen Kolonien mit Hunderten Nestern, während Schilfsänger wie Teichrohrsänger,
+      Schilfrohrsänger und Bartmeisen eintreffen. Im Sommer begleiten Tausende Lachmöwen ihren Nachwuchs und
+      Flussseeschwalben füttern ihre Küken mit kleinen Fischen; im Spätsommer versammeln sich Tausende
+      Uferschwalben, Trauerseeschwalben und Flussseeschwalben an Schlafgewässern, bevor sie im September nach
+      Süden ziehen. Ein Wanderfalke, der am Fernmeldeturm von Lelystad brütet, jagt regelmäßig auf den Inseln.
+
+
+      Der Herbst bringt die Hauptzugzeit: Rotdrosseln, Singdrosseln und Wacholderdrosseln treffen aus
+      Skandinavien ein, und der Vogelzug erreicht seinen Höhepunkt. Im Winter rasten unzählige Entenvögel im
+      einzigen geschützten Flachwasserbereich des Markermeers; Schellenten und Zwergsäger kommen aus
+      norwegischen Fjorden, während Spornammer und Ohrenlerche auf den Inseln überwintern, die den Rest des
+      Jahres fehlen.
+    visit: >-
+      Die Anreise erfolgt mit der Natuurmonumenten-Fähre von Lelystad (Fahrzeit rund eine Dreiviertelstunde,
+      Aufenthalt auf der Insel über drei Stunden). Auf der Insel stehen zwei Hauptrouten zur Wahl. Die
+      Kustroute (rund sieben Kilometer) folgt dem Außenrand mit Seeblicken und Vogelkolonien und lässt sich
+      mit der Besteigung des Steltloper-Turms verbinden. Die Vogelvluchtroute (über drei Kilometer) führt
+      durch die Schlickwattflächen, auf denen Limikolen nach Nahrung suchen. Der Schmetterlingspfad ist etwa
+      4,5 km lang; Beobachtungen fließen in die Butterfly-Count-App ein.
+
+
+      Drei Beobachtungshütten bieten exzellente Einblicke: die Hütte Duikeend auf Wasserniveau zur Beobachtung
+      von Tauchenten wie Reiherente und Kolbenente; die Hütte Lepelaar auf 3,5 Metern Höhe mit Überblick über
+      Zugvögel; und die Hütte Aalscholver. Jede Jahreszeit bringt neue Arten. Im Inselpavillon veranschaulicht
+      eine Ausstellung die Entstehung des Archipels, und Ranger bieten mitunter Führungen an. Fünf Fotopunkte
+      dokumentieren die Landschaftsentwicklung per QR-Code.
+    history: >-
+      Natuurmonumenten schuf 1300 ha neue Naturflächen gemeinsam mit Rijkswaterstaat und der Provinz
+      Flevoland. Die neuen Uferlinien und Flachwasserbereiche bringen neues Leben über und unter Wasser. Erste
+      Erfolge zeigen sich in der Rückkehr von Vogel-, Pflanzen- und Fischarten, die zuvor verschwunden waren.
+    before: >-
+      Nur die Hafeninsel ist für Besucher geöffnet; die übrigen Inseln dienen als ungestörte Ruhezonen für
+      Vögel und Fische. Die Insel ist ausschließlich zu Fuß zu erkunden: Fahrräder sind nicht gestattet, das
+      Gehen ist auf befestigte Wege, Stege und Strände beschränkt. Hunde dürfen nicht auf die Fähre und sind
+      auf der Insel nur an der Leine im Hafenbereich erlaubt. Kitesurfen, Windsurfen und Drohnen sind
+      verboten. Die Fähre verkehrt von Ende März bis Anfang November. Die Vogelvluchtroute ist mit
+      Begleitperson barrierearm zugänglich, ebenso die Hütte Visdief.
+    around: >-
+      In acht Kilometern Entfernung liegt das [Naturreservat
+      Oostvaardersplassen](/lugar/oostvaardersplassen/). Weiter entfernt teilt der [Naturpark Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) die Zwergseeschwalbe mit Marker Wadden und der
+      [Naturpark Zwin](/lugar/het-zwin---zwin-nature-park/) den Säbelschnäbler.
+  it:
+    intro: >-
+      Nel 2016 questo luogo non esisteva: c’era solo acqua aperta, un lago opaco in cui il limo soffocava la
+      vita. Nel 2023 le Marker Wadden avevano già accolto migliaia di uccelli nidificanti e visitatori
+      arrivati in barca per camminare sui suoi lidi sabbiosi. Si tratta di un arcipelago artificiale di 1.300
+      ettari plasmato con i sedimenti estratti dal fondo del bacino, un progetto pionieristico di
+      rinaturazione condotto dall’ong Natuurmonumenten per ridare vita al Markermeer. Il risultato è una
+      riserva ornitologica selvaggia che testimonia come l’ingegno umano possa anche risanare la natura.
+    landscape: >-
+      Il Markermeer nacque nel 1976 quando la diga dell’Houtribdijk separò l’IJsselmeer. Per decenni il limo
+      vi si è depositato, intorbidendo le acque e soffocando la vita bentonica; pesci, piante acquatiche e
+      molluschi soffrivano, e per gli uccelli migratori il cibo scarseggiava.
+
+
+      La risposta fu costruire. Natuurmonumenten propose l’idea nel 2012, ispirandosi ai «windwadden», i
+      banchi di fango modellati dal vento nel Markermeer, sebbene dal punto di vista geologico non sia una
+      zona di barene di marea: il nome è usato in senso figurato per celebrare l’arcipelago e il suo valore
+      biologico. I lavori dell’isola principale iniziarono nel marzo 2016 e il sito è aperto al pubblico dal
+      2018.
+
+
+      Il paesaggio attuale offre canneti, bassifondi e sponde sabbiose naturali. Il livello dell’acqua è
+      mantenuto alto nelle isole per stimolare la crescita dei canneti, favorendo la formazione di velme
+      salmastre. Sott’acqua, un canale di decantazione profondo 30 metri intrappola il limo in eccesso del
+      lago. Nelle giornate limpide, dalla torre d’avvistamento Steltloper lo sguardo domina l’intero
+      arcipelago fino a Enkhuizen e Almere.
+    wildlife: >-
+      Il monitoraggio scientifico ha censito circa 47 nuove specie di uccelli nidificanti e 170 specie
+      botaniche. La colonia di circa 15.000 coppie di gabbiano comune è la più grande dei Paesi Bassi, e la
+      moretta codona ha nidificato qui per la prima volta nella nazione. Si sono insediate anche specie rare:
+      gabbianello, pernice di mare, piovanello pancianera, basettino, [tarabuso](/especie/botaurus_stellaris/)
+      e fraticello. Le avosette portano all’involo più pulcini rispetto alla media, e la spatola bianca
+      rappresenta una nuova specie nidificante. Nelle acque sono state identificate diciannove specie ittiche,
+      tra cui il rodeo amaro dal 2024.
+
+
+      In primavera i gabbiani formano colonie di centinaia di nidi e arrivano gli uccelli di canneto come
+      cannaiola, forapaglie e basettino. In estate migliaia di gabbiani comuni allevano i piccoli mentre i
+      fraticelli e i rondini di mare li nutrono con pesciolini; a fine estate migliaia di topini, mignattini e
+      sterne si riuniscono nei dormitori prima di migrare a sud a settembre. Il falco pellegrino che nidifica
+      sulla torre di Lelystad frequenta regolarmente le isole per cacciare.
+
+
+      L’autunno registra il picco dei passaggi: tordi sasselli, bottacci e cesene arrivano dalla Scandinavia,
+      portando la migrazione al culmine. In inverno arrivano molte anatre attirate dall’unica ansa riparata
+      del Markermeer; quattrocchi e smerghi minori giungono dai fiordi norvegesi, mentre sull’isola si
+      avvistano lo zigolo lappone e l’allodola golagialla, assenti nel resto dell’anno.
+    visit: >-
+      Si arriva con il traghetto di Natuurmonumenten da Lelystad, con una navigazione di circa tre quarti
+      d’ora e oltre tre ore di sosta sull’isola. Ci sono due sentieri principali a piedi. La Kustroute, lunga
+      circa sette chilometri, costeggia il perimetro esterno tra vedute del lago e colonie aviarie, con salita
+      alla torre Steltloper. La Vogelvluchtroute, di oltre tre chilometri, attraversa le distese di fango dove
+      si alimentano i limicoli. Il sentiero delle farfalle misura circa 4,5 km e le osservazioni vengono
+      registrate tramite l’app Butterfly Count.
+
+
+      I capanni d’osservazione sono tre: il capanno Duikeend, a pelo d’acqua per osservare anatre tuffatrici
+      come la moretta e il fistione turco; il capanno Lepelaar, a 3,5 metri di altezza, affacciato sugli
+      uccelli di passo; e l’osservatorio Aalscholver. Ogni stagione offre specie differenti. Nel padiglione
+      dell’isola un percorso espositivo illustra la genesi dell’arcipelago e i ranger offrono visite guidate.
+      Cinque postazioni fotografiche monitorano i mutamenti scansionando un codice QR.
+    history: >-
+      Natuurmonumenten ha creato 1300 ha di natura nuova in collaborazione con Rijkswaterstaat e la Provincia
+      del Flevoland. Le nuove rive e i bassifondi stanno ridando linfa vitale all’ecosistema sopra e sotto la
+      superficie dell’acqua. I primi frutti si toccano con mano con il ritorno di una ricchezza di uccelli,
+      piante e pesci prima assenti.
+    before: >-
+      Solo l’isola del porto è accessibile; le altre sono riserve integrali di quiete per uccelli e pesci. È
+      una meta da esplorare solo a piedi: le biciclette sono vietate e si cammina unicamente su sentieri,
+      passerelle e spiagge dedicate. I cani non possono salire sul traghetto e sull’isola sono ammessi solo al
+      guinzaglio attorno al bacino portuale. Vietati kitesurf, windsurf e droni. Il traghetto è attivo da fine
+      marzo a inizio novembre. La Vogelvluchtroute e il capanno Visdief sono fruibili con accompagnatore per
+      persone a mobilità ridotta.
+    around: >-
+      A otto chilometri si trova la [Riserva Naturale di Oostvaardersplassen](/lugar/oostvaardersplassen/).
+      Più a sud, il [Parco Naturale di Ria Formosa](/lugar/parque-natural-da-ria-formosa/) ospita il
+      fraticello presente anche a Marker Wadden, e la [Riserva Naturale dello
+      Zwin](/lugar/het-zwin---zwin-nature-park/) l’avosetta.
+  pt:
+    intro: >-
+      Em 2016 este local não existia: eram apenas águas abertas num lago turvo onde os lodos sufocavam a vida.
+      Em 2023, Marker Wadden já acolhia milhares de aves nidificantes e visitantes que chegavam de barco para
+      caminhar nos seus areais. É um arquipélago artificial de 1.300 hectares moldado com lodos dragados do
+      fundo do lago, um audacioso projeto de restauro ecológico promovido pela ONG Natuurmonumenten para
+      devolver a vida ao Markermeer. O resultado é uma reserva selvagem que demonstra como a ação humana
+      também pode revitalizar a natureza.
+    landscape: >-
+      O Markermeer nasceu em 1976 quando o dique Houtribdijk dividiu o IJsselmeer. Durante décadas acumulou-se
+      lodo fino que turvou a água e asfixiou a vida bentónica; peixes, plantas aquáticas e moluscos
+      definharam, e as aves migradoras sofreram com a escassez de alimento.
+
+
+      A solução foi construir de raiz. A Natuurmonumenten lançou o conceito em 2012, aludindo aos
+      «windwadden», bancos de areia e vasa formados pelo vento no Markermeer, embora do ponto de vista
+      geológico não seja uma zona de vasa de maré: o termo usa-se em sentido figurado pelo arquipélago e pelo
+      seu valor ecológico. As obras na ilha principal arrancaram em março de 2016 e o projeto abriu ao público
+      em 2018.
+
+
+      A paisagem atual compõe-se de caniçais, baixios e margens naturais de areia. O nível da água mantém-se
+      alto nas ilhas para encorajar a expansão dos caniçais e o desenvolvimento de sapais. Sob as águas, uma
+      vala de lodo com 30 metros de profundidade retém os sedimentos excessivos do lago. Em dias límpidos, a
+      torre Steltloper oferece uma panorâmica ampla sobre todo o arquipélago até Enkhuizen e Almere.
+    wildlife: >-
+      O acompanhamento científico registou cerca de 47 novas espécies de aves reprodutoras e 170 espécies
+      botânicas. A colónia de cerca de 15.000 casais de guincho-comum é a maior dos Países Baixos, e o
+      pato-rabilho nidificou aqui pela primeira vez no país. Fixaram-se também espécies raras:
+      gaivota-pequena, gaivina-de-bico-preto, pilrito-comum, chapim-de-bigodes,
+      [abetouro-comum](/especie/botaurus_stellaris/) e chilreta. Os alfaiates criam com sucesso mais crias do
+      que a média nacional, e o colhereiro-comum tornou-se um novo reprodutor. Na água foram assinaladas
+      dezanove espécies de peixes, incluindo o peixe-amargo desde 2024.
+
+
+      Na primavera as gaivotas formam colónias de centenas de ninhos e chegam aves dos caniçais como o
+      rouxinol-pequeno-dos-caniços, a felosa-dos-juncos e o chapim-de-bigodes. No verão milhares de
+      guinchos-comuns criam os seus juvenis e as andorinhas-do-mar alimentam a prole com pequenos peixes; no
+      final do verão juntam-se milhares de andorinhas-das-barreiras e gaivinas em dormitórios antes da partida
+      para sul em setembro. O falcão-peregrino que nidifica na torre de telecomunicações de Lelystad caça
+      regularmente no arquipélago.
+
+
+      O outono constitui a época de passagem mais movimentada: tordos-ruivos, tordos-comuns e zombornals
+      chegam da Escandinávia, elevando a migração ao rubro. No inverno reúnem-se muitos patos por ser a única
+      zona abrigada do Markermeer; chegam olho-d’ouro e mergansos-pequenos dos fiordes noruegueses, enquanto
+      na ilha se avistam a escrevedeira-lapónica e a calhandra-cornuda, ausentes no restante ano.
+    visit: >-
+      A viagem faz-se no ferry da Natuurmonumenten a partir de Lelystad, demorando cerca de três quartos de
+      hora de travessia e com mais de três horas de permanência na ilha. Existem dois percursos pedestres
+      principais. A Kustroute, com cerca de sete quilómetros, contorna o perímetro exterior entre panorâmicas
+      do lago e colónias de aves, podendo incluir a subida à torre Steltloper. A Vogelvluchtroute, com mais de
+      três quilómetros, atravessa lodaçais onde os limícolas procuram alimento. O trilho das borboletas
+      estende-se por cerca de 4,5 km e os dados são recolhidos através da aplicação Butterfly Count.
+
+
+      Existem três postos de observação: a cabana Duikeend, construída rente à água para observar
+      patos-mergulhadores como o zarro-negrinha e o pato-de-bico-vermelho; a cabana Lepelaar, a 3,5 metros de
+      altitude, ideal para avistar aves de passagem; e o observatório Aalscholver. Cada estação atrai espécies
+      diferentes. No pavilhão da ilha, uma exposição explica a génese do arquipélago, organizando os
+      vigilantes da natureza visitas guiadas. Cinco marcos fotográficos registam a evolução do espaço através
+      de código QR.
+    history: >-
+      A Natuurmonumenten criou 1300 ha de novos espaços naturais em cooperação com o Rijkswaterstaat e a
+      província de Flevoland. As novas margens e águas pouco profundas estão a devolver o dinamismo à vida à
+      superfície e sob as águas. Os primeiros resultados são bem visíveis no regresso expressivo de aves,
+      plantas e peixes antes inexistentes.
+    before: >-
+      Apenas a ilha do porto está aberta ao público; as restantes ilhas funcionam como zonas de reserva e
+      refúgio estrito para aves e peixes. É um espaço exclusivamente pedestre: são proibidas bicicletas, e a
+      circulação faz-se estritamente por caminhos, passadiços e praias assinaladas. Os cães não podem viajar
+      no ferry e na ilha só circulam com trela em torno da marina. São proibidos o kitesurf, o windsurf e o
+      voo de drones. O ferry opera do final de março ao início de novembro. A Vogelvluchtroute e o abrigo
+      Visdief dispõem de condições de acessibilidade para visitantes com mobilidade reduzida com
+      acompanhamento.
+    around: >-
+      A oito quilómetros estende-se a [Reserva Natural de Oostvaardersplassen](/lugar/oostvaardersplassen/).
+      Mais distante, o [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/) partilha com
+      Marker Wadden a chilreta, e o [Parque Natural do Zwin](/lugar/het-zwin---zwin-nature-park/) o alfaiate.
+fuentes:
+  - url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden
+    titulo: Marker Wadden in het Markermeer — Natuurmonumenten
+    fecha_consulta: '2026-10-05'
+  - url: https://nl.wikipedia.org/wiki/Marker_Wadden
+    titulo: Marker Wadden — Wikipedia
+    fecha_consulta: '2026-10-05'
+  - url: https://www.natuurmonumenten.nl/projecten/marker-wadden/welkom-op-marker-wadden
+    titulo: Welkom op Marker Wadden — Natuurmonumenten
+    fecha_consulta: '2026-10-05'
+  - url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden/route/kustroute-op-marker-wadden
+    titulo: Kustroute op Marker Wadden — Natuurmonumenten
+    fecha_consulta: '2026-10-05'
+  - url: https://www.natuurmonumenten.nl/natuurgebieden/marker-wadden/tips/vogels-kijken-op-marker-wadden
+    titulo: Vogels kijken op Marker Wadden — Natuurmonumenten
+    fecha_consulta: '2026-10-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Boardwalk_through_Marker_Wadden,_2022.jpg
+    autor: DimiTalen
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-17'

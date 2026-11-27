@@ -1,0 +1,333 @@
+id: foret-de-soignes---zonienwoud---zones
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Soignes / Zoniënwoud - Zonas Núcleo
+  en: Sonian Forest / Zoniënwoud - Core Zones
+  fr: Forêt de Soignes / Zoniënwoud - Zones centrales
+  de: Zoniënwald / Sonienwald - Kernzonen
+  it: Foresta di Soignes / Zoniënwoud - Zone nucleo
+  pt: Floresta de Soignes / Zoniënwoud - Zonas Nucleares
+nombre_original: Forêt de Soignes / Zoniënwoud - Zones d'une réserve naturelle
+alias:
+  - Sonian Forest (Zoniënwoud) – Zonas núcleo
+paises:
+  - BE
+region:
+  es: Bruselas / Flandes / Valonia
+  en: Brussels / Flanders / Wallonia
+  fr: Bruxelles / Flandre / Wallonie
+  de: Brüssel / Flandern / Wallonie
+  it: Bruxelles / Fiandre / Vallonia
+  pt: Bruxelas / Flandres / Valónia
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 50.77
+  lon: 4.42
+  radio_km: 10
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 333266
+  nombre_en_la_fuente: Het Zoniënwoud
+  capa: capas/cdda/foret-de-soignes---zonienwoud---zones.geojson
+habitats:
+  - mature_forest
+  - primary_forest
+designaciones:
+  - unesco_whs
+  - natura2000
+especies:
+  - myotis_bechsteinii
+  - felis_silvestris
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: primavera a otoño
+  en: spring to autumn
+  fr: du printemps à l'automne
+  de: Frühling bis Herbst
+  it: da primavera ad autunno
+  pt: da primavera ao outono
+masificacion: 3
+masificacion_nota:
+  es: Alta en accesos periurbanos de Bruselas; restringida en reservas estrictas
+  en: High at peri-urban access points from Brussels; restricted in strict reserves
+  fr: Forte aux accès périurbains de Bruxelles ; restreinte dans les réserves intégrales
+  de: Hoch an den stadtnahen Zugängen von Brüssel; in den strengen Schutzgebieten eingeschränkt
+  it: Alta negli accessi periurbani di Bruxelles; limitata nelle riserve integrali
+  pt: Elevada nos acessos periurbanos de Bruxelas; restrita nas reservas integrais
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Zoniënwoud Official Site
+    url: https://www.zonienwoud.be/
+  - titulo: Normas — buenas prácticas y respeto de las reservas
+    url: https://www.zonienwoud.be/ontdek-beleef/de-goede-gewoontes-van-het-zonienwoud/
+  - titulo: Mapa — senderos y zonas protegidas de Soignes
+    url: https://www.zonienwoud.be/wp-content/uploads/2021/04/Zonienwoud_Foret-de-Soignes_Kaart_Carte.pdf
+  - titulo: Accesos — puertas de entrada al bosque
+    url: https://www.zonienwoud.be/praktisch/toegangspoorten/
+  - titulo: Visita — acceso limitado a las reservas UNESCO
+    url: https://www.zonienwoud.be/het-unesco-werelderfgoed-van-het-zonienwoud-in-de-kijker-gezet/
+enlaces_referencia:
+  - titulo: UNESCO World Heritage Belgium Component
+    url: https://whc.unesco.org/en/list/1133/
+resumen:
+  es: >-
+    El 'Catedral de los Hayedos', bosque antiguo periurbano a las puertas de Bruselas inscrito en la lista
+    UNESCO.
+  en: The 'Beech Cathedral', an ancient peri-urban forest at the gates of Brussels inscribed on the UNESCO list.
+  fr: >-
+    La « cathédrale de hêtres », ancienne forêt périurbaine aux portes de Bruxelles inscrite sur la liste de
+    l'UNESCO.
+  de: Die „Buchenkathedrale“, ein alter stadtnaher Wald vor den Toren Brüssels, der auf der UNESCO-Liste steht.
+  it: >-
+    La «Cattedrale dei faggi», antica foresta periurbana alle porte di Bruxelles iscritta nella lista
+    dell'UNESCO.
+  pt: A «Catedral das Faias», antiga floresta periurbana às portas de Bruxelas inscrita na lista da UNESCO.
+unico:
+  es: Es el único bosque de Bélgica con siete especies de pájaro carpintero, y crece pegado a la capital.
+  en: It is the only forest in Belgium with seven species of woodpecker, and it grows right next to the capital.
+  fr: >-
+    C'est la seule forêt de Belgique comptant sept espèces de pics, et elle pousse aux portes mêmes de la
+    capitale.
+  de: Es ist der einzige Wald in Belgien mit sieben Spechtarten, und er wächst direkt neben der Hauptstadt.
+  it: È l'unica foresta del Belgio con sette specie di picchio, e cresce attaccata alla capitale.
+  pt: É a única floresta da Bélgica com sete espécies de pica-pau, e cresce encostada à capital.
+observaciones:
+  es: >-
+    La caza se suspendió en 1974 y se prohibió pocos años después. Recoger plantas y setas está prohibido en
+    las partes flamenca y bruselense, y se han registrado más de 1 000 especies de hongos que el pisoteo y la
+    recolección ponen en riesgo. Algunas zonas están cerradas al público para que el bosque se regenere,
+    algunos caminos se reservan a peatones, jinetes o ciclistas y en otras zonas no puedes salirte de los
+    senderos. Los accesos periurbanos de Bruselas se llenan; las reservas estrictas están restringidas.
+texto:
+  es:
+    intro: >-
+      Un hayedo con fama de catedral a las puertas de una capital europea. El bosque de Soignes, Zoniënwoud en
+      neerlandés, es un bosque periurbano de unas 5 000 ha al sureste de Bruselas. El bosque de la Cambre lo
+      enlaza con la ciudad y se adentra hasta a 4 km del centro, de modo que se puede pasar del asfalto a las
+      hayas sin salir de la capital. Cerca del 80 % del arbolado es de haya, y sus altas arboledas dieron a
+      una parte del bosque el apodo de «hayedo catedral».
+
+
+      Tres regiones se reparten su gestión: Flandes gestiona el 56 %, Bruselas el 38 % y Valonia el 6 %.
+    landscape: >-
+      Para entender este bosque hay que empezar por el suelo. Durante las grandes glaciaciones, cada deshielo
+      soltó agua que no podía filtrarse en la tierra helada; corrió por la superficie y la erosionó hasta
+      dejar el relieve ravinado que ves hoy. Bajo la capa de limo y humus se esconde otra muy compacta, el
+      fragipán. Esa capa impide que las hayas echen raíces hondas, y por eso estos gigantes son tan
+      inestables: en cada tormenta caen decenas de árboles, como fichas de dominó, y dejan al aire unas raíces
+      muy superficiales.
+
+
+      Las hayas no son un regalo de la naturaleza, sino una decisión humana. En el periodo austríaco se
+      plantaron de forma sistemática y cambiaron por completo el aspecto de un bosque que antes mezclaba
+      muchas frondosas; de esa época datan las arboledas más viejas. Hoy se talan hacia los 200 años, cuando
+      la madera pierde calidad y el árbol es más vulnerable a enfermedades e insectos.
+
+
+      Dentro de un hayedo viejo el ambiente cambia. La bóveda cerrada deja pasar poca luz y la hojarasca
+      acidifica el suelo, así que casi nada crece en el sotobosque. Allí donde el bosque mezcla roble, fresno,
+      arce, cerezo silvestre, carpe y abedul, en cambio, la flora es más rica. Y en el valle del Vuylbeek,
+      ahora reserva natural, han vuelto bajo los alisos muchas plantas que atraen insectos, entre ellos
+      libélulas.
+    wildlife: >-
+      La mejor fecha para ver la flora es entre marzo y mayo. En esos meses el suelo se llena de alfombras de
+      anémonas de bosque y campanillas, con violetas de bosque, estrellada mayor, aro y hierba de San
+      Cristóbal para completar la paleta.
+
+
+      En invierno cambia el protagonista. Por las mañanas, muy temprano, es cuando más probable resulta ver a
+      los [corzos](/especie/capreolus_capreolus/), que entonces se agrupan en manadas. Son los únicos grandes
+      mamíferos que quedan, reintroducidos tras desaparecer del todo, y se estiman en unos 150 en todo el
+      bosque, aunque su densidad baja desde hace años: había 0,6 por kilómetro cuadrado en 2021 frente a 1
+      entre 2008 y 2013. Un contraste: hacia 2007 aparecieron unos jabalíes que se creían extinguidos desde
+      1957.
+
+
+      Entre los troncos viejos y huecos viven murciélagos y pájaros forestales como el trepador azul y el
+      agateador. En la parte bruselense quedan unas cuarenta especies de mamíferos, 18 de ellas murciélagos.
+      Cinco están amenazadas, entre ellas el [murciélago de Bechstein](/especie/myotis_bechsteinii/), y fueron
+      la razón de proteger el bosque como espacio Natura 2000.
+
+
+      Los pájaros carpinteros son la seña de la casa: pito real, pico picapinos, [pito
+      negro](/especie/dryocopus_martius/), [pico mediano](/especie/picoides_medius/) y pico menor, este último
+      en descenso. Con ellos conviven rapaces como el cárabo común, el búho chico, el [busardo
+      ratonero](/especie/buteo_buteo/) y el [halcón abejero](/especie/pernis_apivorus/). Junto a estanques y
+      arroyos busca patos, fochas, [garzas reales](/especie/ardea_cinerea/) y el [martín
+      pescador](/especie/alcedo_atthis/). El bosque tiene también [ardilla roja](/especie/sciurus_vulgaris/),
+      salamandra común, tritón crestado y lución.
+
+
+      También hay ausencias. El chotacabras europeo criaba con regularidad en los claros y brezales hasta
+      mediados del siglo XX, y la chocha perdiz ha perdido población nidificante en los últimos años.
+    visit: >-
+      Este bosque se recorre con calma y de muchas maneras. Ofrece más de 350 km de caminos para pasear, ir en
+      bicicleta y montar a caballo, y una red peatonal virtual de 170 km de rutas y puntos de enlace.
+
+
+      Para no desperdigar a los visitantes por todas partes, desde 2012 el bosque cuenta con «puertas» que
+      canalizan la entrada hacia unos pocos puntos. Las cinco grandes son el parque de Tervuren, Rood Klooster
+      en Auderghem, Ter Kamerenbos en Bosvoorde, Groenendaal y el dominio regional Solvay en La Hulpe. Llegar
+      a ellas en transporte público es lo más cómodo, y se puede usar un aparcamiento disuasorio en los días
+      de más afluencia.
+
+
+      Si quieres entender el bosque antes de caminarlo, el Museo del Bosque (Bosmuseum Jan van Ruusbroec)
+      ocupa la antigua granja del priorato de Groenendael y muestra la flora, la fauna, la historia y la
+      gestión forestal.
+    history: >-
+      Hacia el año mil el bosque pasó a ser coto de caza de los condes de Lovaina, futuros duques de Brabante,
+      lo que lo libró en parte de las talas. Con Carlos V todavía cubría 20 000 hectáreas, pero las talas a
+      hecho lo fueron reduciendo. Entre 1822 y 1836 se subastó gran parte y perdió tres quintos de su
+      superficie; después el Estado belga compró lo que quedaba. En la batalla de Waterloo, el bosque quedó a
+      espaldas del ejército aliado de Wellington.
+
+
+      El siglo XX lo cortó con carreteras y una vía de tren, y hoy lo fragmentan. Para paliarlo se construyó
+      el ecoducto de Groenendaal sobre la ronda de Bruselas, abierto en junio de 2018 para reconectar las
+      partes separadas. En 2016 el bosque se unió a la Red Europea de Rewilding, que busca aumentar la fauna
+      natural como el corzo y el jabalí. Algunas partes son Patrimonio Mundial de la UNESCO por su carácter
+      inalterado, y desde 2023 la parte flamenca forma parte del Parque Nacional de los Bosques de Brabante.
+
+
+      La gestión también ha girado: hoy se prefiere el monte irregular, con árboles de distintas especies y
+      edades, que da más nichos a animales y plantas.
+    before: >-
+      La caza se suspendió en 1974 y se prohibió pocos años después. Recoger plantas y setas está prohibido en
+      las partes flamenca y bruselense, y se han registrado más de 1 000 especies de hongos que el pisoteo y
+      la recolección ponen en riesgo. Algunas zonas están cerradas al público para que el bosque se regenere,
+      algunos caminos se reservan a peatones, jinetes o ciclistas y en otras zonas no puedes salirte de los
+      senderos. Los accesos periurbanos de Bruselas se llenan; las reservas estrictas están restringidas.
+    around: >-
+      No hay otros lugares del atlas cerca. A mucha distancia, el [Badínsky Prales Primeval
+      Forest](/lugar/badinsky-prales-primeval-forest/) comparte con este bosque el murciélago de Bechstein y
+      el mismo tipo de bosque maduro y primario.
+  en:
+    intro: "A beech forest with the stature of a cathedral at the gates of a European capital. The Sonian Forest, Zoniënwoud in Dutch, is a peri-urban forest of some 5,000 ha southeast of Brussels. The Bois de la Cambre links it directly to the city and reaches within 4 km of the centre, allowing you to pass from asphalt to beech canopies without ever leaving the capital. Nearly 80 % of the tree cover is beech, and its towering stands earned part of the woodland the moniker of «cathedral beechwood».\r\n\r\nThree regions share its administration: Flanders manages 56 %, Brussels 38 %, and Wallonia 6 %."
+    landscape: "To understand this forest, you have to begin with the soil. During the great ice ages, each thaw released torrents of water that could not soak into the frozen ground; it swept over the surface and carved it out into the deeply ravined relief you see today. Beneath the silt and humus lies a dense, compacted layer: the fragipan. This barrier prevents the beeches from sinking deep taproots, making these giants remarkably vulnerable: during major storms, dozens of trees tumble like dominoes, laying bare their shallow root plates.\r\n\r\nThese beeches are not an accidental gift of nature, but the legacy of deliberate human design. During the Austrian period they were planted systematically, completely transforming a forest that had previously blended a diverse mix of broadleaves; the oldest stands date from that era. Today, timber is harvested around 200 years of age, when the wood quality begins to decline and trees become susceptible to fungal disease and insect attack.\r\n\r\nInside an old-growth beech stand, the atmosphere shifts completely. The closed canopy admits very little light and the dense leaf litter acidifies the ground, leaving the understorey almost bare. Where the woodland mingles oak, ash, maple, wild cherry, hornbeam, and birch, however, the flora flourishes. And in the valley of the Vuylbeek, now a nature reserve, beneath the alders an array of moisture-loving plants has returned, drawing in abundant insects, including dragonflies."
+    wildlife: "The ideal window to observe the flora is between March and May. During these months the forest floor is blanketed with wood anemones and bluebells, accompanied by woodland violets, greater stitchwort, lords-and-ladies, and baneberry to complete the palette.\r\n\r\nIn winter the woodland takes on a different rhythm. Early in the morning is the best time to catch sight of [roe deer](/especie/capreolus_capreolus/), which gather into small herds at this season. They are the only large native mammals that remain, successfully reintroduced after complete extirpation, and their population is estimated at around 150 across the entire forest, though their density has fallen: there were 0.6 per square kilometre in 2021 compared to 1 between 2008 and 2013. In striking contrast, around 2007 wild boar suddenly reappeared, having been considered extinct here since 1957.\r\n\r\nAmong the aged hollow trunks roost bats and forest birds such as the Eurasian nuthatch and treecreeper. In the Brussels section alone survive about forty species of mammals, 18 of them bats. Five are threatened, including [Bechstein's bat](/especie/myotis_bechsteinii/), whose presence was decisive in designating the forest as a Natura 2000 site.\r\n\r\nWoodpeckers are the forest's signature inhabitants: European green woodpecker, great spotted woodpecker, [black woodpecker](/especie/dryocopus_martius/), [middle spotted woodpecker](/especie/picoides_medius/), and lesser spotted woodpecker, the latter currently in decline. Alongside them dwell raptors such as the tawny owl, long-eared owl, [common buzzard](/especie/buteo_buteo/), and [European honey buzzard](/especie/pernis_apivorus/). Along ponds and streams look for ducks, coots, [grey herons](/especie/ardea_cinerea/), and the [common kingfisher](/especie/alcedo_atthis/). The forest also supports [red squirrel](/especie/sciurus_vulgaris/), fire salamander, northern crested newt, and slow worm.\r\n\r\nThere are also notable absences. The European nightjar bred regularly in clearings and heaths until the mid-twentieth century, and the Eurasian woodcock has seen its breeding numbers dwindle in recent years."
+    visit: "This forest is meant to be explored unhurriedly and in many ways. It offers more than 350 km of paths for walking, cycling, and horse riding, along with a virtual pedestrian network of 170 km of waymarked routes and numbered junctions.\r\n\r\nTo prevent visitors from dispersing indiscriminately, since 2012 the forest has established designated «entry gates» that channel arrivals toward specific hubs. The five primary gateways are Tervuren Park, Rood Klooster in Auderghem, Ter Kamerenbos in Bosvoorde, Groenendaal, and the Solvay Regional Domain in La Hulpe. Reaching them by public transport is remarkably convenient, and park-and-ride facilities operate during peak periods.\r\n\r\nIf you want to understand the forest before setting out on foot, the Forest Museum (Bosmuseum Jan van Ruusbroec) occupies the former farm of Groenendael Priory and showcases local flora, fauna, historical heritage, and woodland ecology."
+    history: "Around the year one thousand the forest became a hunting preserve of the counts of Leuven, later dukes of Brabant, which largely shielded it from widespread clearance. Under Charles V it still spanned 20,000 hectares, but subsequent clear-cutting steadily eroded its perimeter. Between 1822 and 1836 large tracts were auctioned off, stripping away three-fifths of its surface before the Belgian state acquired the surviving core. During the Battle of Waterloo, the allied army of Wellington was deployed with this very forest immediately to its rear.\r\n\r\nThe twentieth century sliced through it with motorways and a railway line, fragmenting its habitats. To mitigate this disruption, the Groenendaal ecoduct was constructed across the Brussels ring road and opened in June 2018 to reconnect severed sectors. In 2016 the woodland joined the European Rewilding Network, seeking to bolster natural wildlife populations including roe deer and wild boar. Selected pristine sectors are recognised as UNESCO World Heritage for their primeval character, and since 2023 the Flemish portion forms part of the Brabantse Wouden National Park.\r\n\r\nForest management has also changed course: continuous cover forestry is now preferred, mixing tree species and age classes to supply diverse ecological niches for wildlife and plant communities."
+    before: >-
+      Hunting was suspended in 1974 and fully prohibited a few years later. Gathering plants and mushrooms is
+      strictly forbidden in both the Flemish and Brussels sections, protecting over 1,000 recorded fungal
+      species that trampling and foraging place in jeopardy. Several sectors are closed to the public to allow
+      natural forest regeneration, certain paths are reserved exclusively for walkers, riders, or cyclists,
+      and elsewhere you cannot step off the paths. Access points near Brussels become congested on sunny
+      weekends; strict nature reserves have strictly restricted access.
+    around: >-
+      There are no other atlas sites nearby. At a considerable distance, [Badínsky Prales Primeval
+      Forest](/lugar/badinsky-prales-primeval-forest/) shares with this forest the presence of Bechstein's bat
+      and the same character of mature, primeval woodland.
+  fr:
+    intro: "Une hêtraie aux allures de cathédrale aux portes d'une capitale européenne. La forêt de Soignes, Zoniënwoud en néerlandais, est un massif périurbain d'environ 5 000 ha au sud-est de Bruxelles. Le bois de la Cambre la relie directement à la cité et s'avance jusqu'à 4 km du centre, permettant de passer de l'asphalte aux frondaisons des hêtres sans jamais quitter la capitale. Près de 80 % du peuplement est composé de hêtres, et ses hautes futaies ont valu à une partie du massif le surnom de « hêtraie cathédrale ».\r\n\r\nTrois régions se partagent sa gestion : la Flandre administre 56 %, Bruxelles 38 % et la Wallonie 6 %."
+    landscape: "Pour comprendre cette forêt, il faut commencer par son sol. Durant les grandes glaciations, chaque dégel libérait des masses d'eau qui ne pouvaient s'infiltrer dans la terre gelée ; elles ont ruisselé en surface, sculptant le relief raviné que vous observez aujourd'hui. Sous la couche de limon et d'humus se dissimule un horizon très compact, le fragipan. Cette couche empêche les hêtres d'enraciner profondément, rendant ces géants singulièrement vulnérables : lors des tempêtes, des dizaines d'arbres s'effondrent comme des dominos, dévoilant des systèmes racinaires très superficiels.\r\n\r\nCes hêtres ne sont pas un simple don de la nature, mais le résultat d'une volonté humaine. Sous le régime autrichien, ils furent plantés de manière systématique, bouleversant l'aspect d'une forêt qui mariait autrefois de nombreux feuillus ; c'est de cette époque que datent les peuplements les plus anciens. On les exploite aujourd'hui vers l'âge de 200 ans, lorsque le bois perd de sa qualité et que l'arbre devient sensible aux maladies et aux attaques d'insectes.\r\n\r\nAu cœur d'une vieille hêtraie, l'atmosphère change du tout au tout. La voûte continue laisse filtrer peu de lumière et la litière acidifie la terre, de sorte que presque rien ne pousse en sous-bois. En revanche, là où le boisement mêle chênes, frênes, érables, merisiers, charmes et bouleaux, la flore est bien plus variée. Et dans la vallée du Vuylbeek, aujourd'hui classée en réserve naturelle, de nombreuses plantes ont recolonisé les sous-bois d'aulnes, attirant une myriade d'insectes, notamment des libellules."
+    wildlife: "La période idéale pour contempler la flore s'étend de mars à mai. Durant ces mois printaniers, le tapis forestier se couvre d'anémones sylvies et de jacinthes des bois, rehaussées de violettes des bois, de stellaire holostée, de gouet tacheté et d'actée en épi.\r\n\r\nEn hiver, le tableau se transforme. C'est au petit matin que vous aurez le plus de chances d'observer les [chevreuils](/especie/capreolus_capreolus/), qui se rassemblent alors en hardes. Ce sont les seuls grands mammifères subsistants, réintroduits après leur disparition totale ; leur effectif est estimé à environ 150 individus dans l'ensemble du massif, bien que leur densité régresse depuis des années : on comptait 0,6 animal par kilomètre carré en 2021 contre 1 entre 2008 et 2013. Fait marquant : vers 2007 sont réapparus des sangliers que l'on croyait éteints ici depuis 1957.\r\n\r\nDans les vieux troncs sénescents et creux nichent chauves-souris et oiseaux forestiers comme la sittelle torchepot et le grimpereau des bois. Dans la partie bruxelloise subsistent environ quarante espèces de mammifères, dont 18 espèces de chauves-souris. Cinq d'entre elles sont menacées, parmi lesquelles le [murin de Bechstein](/especie/myotis_bechsteinii/), qui a motivé le classement de la forêt en zone Natura 2000.\r\n\r\nLes pics sont les véritables emblèmes des lieux : pic vert, pic épeiche, [pic noir](/especie/dryocopus_martius/), [pic mar](/especie/picoides_medius/) et pic épeichette, ce dernier en recul. Ils côtoient des rapaces tels que la chouette hulotte, le hibou moyen-duc, la [buse variable](/especie/buteo_buteo/) et la [bondrée apivore](/especie/pernis_apivorus/). Autour des étangs et ruisseaux, guettez canards, foulques, [hérons cendrés](/especie/ardea_cinerea/) et le [martin-pêcheur](/especie/alcedo_atthis/). La forêt abrite aussi l'[écureuil roux](/especie/sciurus_vulgaris/), la salamandre tachetée, le triton crêté et l'orvet fragile.\r\n\r\nOn relève aussi des disparitions. L'engoulevent d'Europe nichait régulièrement dans les clairières et landes jusqu'au milieu du XXe siècle, et la bécasse des bois a vu ses effectifs nicheurs s'effondrer ces dernières décennies."
+    visit: "Ce massif se découvre paisiblement et de multiples manières. Il offre plus de 350 km d'itinéraires pour la promenade, le vélo et l'équitation, complétés par un réseau virtuel de 170 km de balades pédestres et de carrefours numérotés.\r\n\r\nAfin d'éviter la dispersion anarchique des promeneurs, la forêt dispose depuis 2012 de « portes d'accueil » canalisant les flux vers des points stratégiques. Les cinq entrées majeures sont le parc de Tervuren, le Rouge-Cloître à Auderghem, le bois de la Cambre à Boitsfort, Groenendaal et le domaine régional Solvay à La Hulpe. S'y rendre en transports en commun s'avère très aisé, et des parcs relais sont à disposition lors des périodes de grande affluence.\r\n\r\nSi vous souhaitez appréhender la forêt avant de la parcourir, le musée de la Forêt (Bosmuseum Jan van Ruusbroec) occupe l'ancienne ferme du prieuré de Groenendael et présente la flore, la faune, le passé historique et les méthodes de gestion sylvicole."
+    history: "Vers l'an mil, la forêt devint le domaine de chasse exclusif des comtes de Louvain, futurs ducs de Brabant, ce qui lui évita en partie les défrichements massifs. Sous Charles Quint, elle s'étendait encore sur 20 000 hectares, mais les coupes à blanc successives l'ont peu à peu réduite. Entre 1822 et 1836, de vastes parcelles furent vendues aux enchères, lui faisant perdre les trois cinquièmes de sa superficie avant que l'État belge ne rachète le reliquat. Lors de la bataille de Waterloo, l'armée alliée de Wellington manœuvrait avec cette forêt juste derrière ses lignes.\r\n\r\nLe XXe siècle l'a fragmentée par des axes routiers majeurs et une ligne de chemin de fer. Pour remédier à cette coupure, l'écoduc de Groenendaal a été aménagé au-dessus du ring de Bruxelles et inauguré en juin 2018 pour reconnecter les massifs isolés. En 2016, la forêt a rejoint le réseau European Rewilding Network, qui vise à fortifier les populations sauvages de chevreuils et de sangliers. Certaines réserves sont inscrites au patrimoine mondial de l'UNESCO pour leur valeur naturelle préservée, et depuis 2023, la portion flamande est intégrée au parc national des Forêts brabançonnes.\r\n\r\nLa gestion forestière a elle aussi évolué : on privilégie désormais la futaie irrégulière, associant essences et classes d'âge variées, offrant de multiples niches écologiques à la faune et à la flore."
+    before: >-
+      La chasse y a été suspendue en 1974 puis totalement interdite quelques années plus tard. La cueillette
+      des plantes et des champignons est rigoureusement prohibée dans les portions flamande et bruxelloise,
+      protégeant plus de 1 000 espèces fongiques inventoriées que le piétinement et le ramassage mettent en
+      péril. Plusieurs zones sont fermées au public pour permettre la régénération des sols, certains chemins
+      sont dédiés aux piétons, cavaliers ou cyclistes, et ailleurs vous ne pouvez pas quitter les sentiers.
+      Les accès proches de Bruxelles sont très fréquentés ; l'entrée dans les réserves intégrales est
+      strictement réglementée.
+    around: >-
+      Aucun autre site de l'atlas ne se trouve à proximité immédiate. À grande distance, la [Badínsky Prales
+      Primeval Forest](/lugar/badinsky-prales-primeval-forest/) partage avec cette forêt la présence du murin
+      de Bechstein ainsi que le caractère de vieille forêt mature et préservée.
+  de:
+    intro: "Ein Buchenwald mit dem Ruf einer Kathedrale direkt vor den Toren einer europäischen Hauptstadt. Der Zoniënwald, auf Französisch forêt de Soignes, ist ein stadtnaher Wald von rund 5 000 ha südöstlich von Brüssel. Der Bois de la Cambre verbindet ihn mit der Innenstadt und reicht bis auf 4 km an das Zentrum heran, sodass du ohne die Stadt zu verlassen vom Asphalt unter Buchenkronen treten kannst. Nahezu 80 % des Baumbestands besteht aus Buche, und die hoch aufragenden Bestände brachten Teilen des Gebiets den Beinamen «Kathedralenbuchenwald» ein.\r\n\r\nDrei Regionen teilen sich die Verwaltung: Flandern betreut 56 %, Brüssel 38 % und Wallonien 6 %."
+    landscape: "Um diesen Wald zu verstehen, musst du beim Boden ansetzen. Während der großen Eiszeiten brachte jedes Auftauen gewaltige Schmelzwassermengen hervor, die nicht im gefrorenen Boden versickern konnten; das Wasser floss oberflächlich ab und erodierte das Gelände zu jenem tief zertalten Relief, das du heute siehst. Unter der Löss- und Humusschicht liegt ein extrem dichter Horizont: der Fragipan. Diese Schicht hindert die Buchen daran, tiefe Pfahlwurzeln zu bilden, weshalb diese Riesen überraschend instabil sind: Bei starken Stürmen stürzen Dutzende Bäume wie Dominosteine um und legen flache Wurzelteller frei.\r\n\r\nDie Buchen sind kein reines Naturgeschenk, sondern das Ergebnis menschlicher Forstpolitik. In der österreichischen Periode wurden sie systematisch angepflanzt und veränderten das Bild eines Waldes, der zuvor vielfältige Laubholzarten mischte; aus jener Zeit stammen die ältesten Bestände. Heute werden sie um das Alter von 200 Jahren geschlagen, wenn das Holz an Qualität verliert und der Baum anfälliger für Pilzbefall und Insekten wird.\r\n\r\nIn einem alten Buchenbestand wandelt sich die Stimmung spürbar. Das dichte Kronendach lässt kaum Licht durch und das herabfallende Laub säuert den Boden an, sodass im Unterholz fast nichts gedeiht. Wo sich der Wald hingegen mit Eiche, Esche, Ahorn, Vogelkirsche, Hainbuche und Birke mischt, ist die Pflanzenwelt deutlich artenreicher. Und im Tal des Vuylbeek, das heute als Naturschutzgebiet ausgewiesen ist, sind unter den Erlen feuchtigkeitsliebende Pflanzen zurückgekehrt, die Insekten wie Libellen anlocken."
+    wildlife: "Die beste Zeit für die Bodenflora liegt zwischen März und Mai. In diesen Monaten überziehen Teppiche aus Buschwindröschen und Hasenglöckchen den Waldboden, ergänzt durch Waldveilchen, Große Sternmiere, Gefleckten Aronstab und Christophskraut.\r\n\r\nIm Winter ändert sich das Bild. Am frühen Morgen stehen die Chancen am besten, [Rehe](/especie/capreolus_capreolus/) zu beobachten, die sich dann zu kleinen Sprüngen zusammenschließen. Sie sind die einzigen verbliebenen großen Säugetiere, die nach ihrer völligen Ausrottung wieder angesiedelt wurden; ihr Bestand wird im gesamten Wald auf etwa 150 Tiere geschätzt, wenngleich die Dichte seit Jahren sinkt: Im Jahr 2021 lag sie bei 0,6 Tieren pro Quadratkilometer, verglichen mit 1 im Zeitraum zwischen 2008 und 2013. Ein bemerkenswerter Gegensatz: Gegen 2007 tauchten plötzlich Wildschweine wieder auf, die hier seit 1957 als ausgestorben galten.\r\n\r\nIn alten, hohlen Stämmen leben Fledermäuse und Waldvögel wie Kleiber und Waldbaumläufer. Im Brüsseler Teil kommen rund vierzig Säugetierarten vor, darunter 18 Fledermausarten. Fünf davon sind gefährdet, darunter die [Bechsteinfledermaus](/especie/myotis_bechsteinii/), deren Vorkommen ausschlaggebend für die Ausweisung als Natura-2000-Gebiet war.\r\n\r\nDie Spechte sind das Aushängeschild des Waldes: Grünspecht, Buntspecht, [Schwarzspecht](/especie/dryocopus_martius/), [Mittelspecht](/especie/picoides_medius/) und Kleinspecht, wobei letzterer rückläufig ist. Mit ihnen leben Greifvögel wie Waldkauz, Waldohreule, [Mäusebussard](/especie/buteo_buteo/) und [Wespenbussard](/especie/pernis_apivorus/). An Teichen und Bächen lassen sich Enten, Blässhühner, [Graureiher](/especie/ardea_cinerea/) und der [Eisvogel](/especie/alcedo_atthis/) beobachten. Im Wald leben zudem [Eichhörnchen](/especie/sciurus_vulgaris/), Feuersalamander, Nördlicher Kammmolch und Blindschleiche.\r\n\r\nEs gibt auch schmerzliche Verluste. Der Ziegenmelker brütete bis zur Mitte des zwanzigsten Jahrhunderts regelmäßig auf Waldlichtungen und Heiden, und die Waldschnepfe verzeichnete in den letzten Jahren schrumpfende Brutpaarzahlen."
+    visit: "Dieser Wald lässt sich in aller Ruhe und auf vielfältige Weise entdecken. Er bietet über 350 km Wege zum Spazierengehen, Radfahren und Reiten sowie ein virtuelles Wandernetz von 170 km ausgeschilderten Routen und nummerierten Knotenpunkten.\r\n\r\nUm die Besucherströme zu bündeln, wurden seit 2012 strukturierte «Eingangstore» geschaffen, die den Zugang auf ausgewählte Knotenpunkte konzentrieren. Die fünf großen Portale sind der Park von Tervuren, Rood Klooster in Auderghem, Ter Kamerenbos in Bosvoorde, Groenendaal und die Domäne Solvay in La Hulpe. Die Anreise mit öffentlichen Verkehrsmitteln ist sehr bequem, und an besucherstarken Tagen stehen Park-and-Ride-Plätze bereit.\r\n\r\nWenn du den Wald vor dem Losgehen verstehen möchtest, beherbergt das Waldmuseum (Bosmuseum Jan van Ruusbroec) im ehemaligen Wirtschaftshof des Priorats Groenendael Ausstellungen zu Flora, Fauna, Historie und Waldökologie."
+    history: "Um das Jahr eintausend wurde der Wald zum Jagdrevier der Grafen von Löwen, den späteren Herzögen von Brabant, was ihn vor Rodungen schützte. Unter Karl V. umfasste er noch 20 000 Hektar, doch anschließende Kahlschläge verkleinerten ihn schrittweise. Zwischen 1822 und 1836 wurden große Teile versteigert, wodurch der Wald drei Fünftel seiner Fläche einbüßte, ehe der belgische Staat den Rest ankaufte. In der Schlacht bei Waterloo lag das Waldgebiet unmittelbar im Rücken von Wellingtons alliierten Truppen.\r\n\r\nDas zwanzigste Jahrhundert zerschnitt den Wald mit breiten Straßen und einer Eisenbahnlinie. Um diese Barrieren zu mildern, wurde die Grünbrücke von Groenendaal über den Brüsseler Autobahnring errichtet und im Juni 2018 eröffnet. Im Jahr 2016 trat der Wald dem European Rewilding Network bei, um Tierarten wie Reh und Wildschwein zu fördern. Einige unberührte Kernbereiche gehören zum UNESCO-Weltnaturerbe, und seit 2023 ist der flämische Teil im Nationalpark Brabantse Wouden verankert.\r\n\r\nAuch die Waldbewirtschaftung hat sich gewandelt: Heute setzt man auf den Dauerwald mit unterschiedlichen Baumarten und Altersstufen, was Tieren und Pflanzen vielfältige ökologische Nischen bietet."
+    before: >-
+      Die Jagd wurde 1974 ausgesetzt und wenige Jahre später vollständig untersagt. Das Sammeln von Pflanzen
+      und Pilzen ist im flämischen und im Brüsseler Teil streng verboten; über 1 000 nachgewiesene Pilzarten
+      werden so vor Trittschäden und Entnahme geschützt. Mehrere Ruhezonen sind für die Erholung des Waldes
+      gesperrt, bestimmte Wege sind ausschließlich Fußgängern, Reitern oder Radfahrern vorbehalten, und
+      andernorts darfst du die Pfade nicht verlassen. Die stadtnahen Zugänge sind an Wochenenden stark
+      frequentiert; in den strengen Totalreservaten ist der Zutritt reglementiert.
+    around: >-
+      In direkter Nachbarschaft befinden sich keine weiteren Atlas-Orte. In weiter Entfernung teilt der
+      [Badínsky Prales Primeval Forest](/lugar/badinsky-prales-primeval-forest/) mit diesem Wald das Vorkommen
+      der Bechsteinfledermaus und den Charakter eines alten, naturnahen Waldes.
+  it:
+    intro: "Una faggeta con la maestosità di una cattedrale alle porte di una capitale europea. La foresta di Soignes, Zoniënwoud in olandese, è un bosco periurbano di circa 5 000 ha a sud-est di Bruxelles. Il Bois de la Cambre la raccorda direttamente alla città e si spinge fino a 4 km dal centro, consentendo di passare dall'asfalto alle chiome dei faggi senza mai uscire dalla capitale. Quasi l'80 % della copertura arborea è costituito da faggio, e le sue imponenti alberature hanno valso a una porzione del bosco l'appellativo di «faggeta cattedrale».\r\n\r\nTre regioni ne condividono l'amministrazione: le Fiandre gestiscono il 56 %, Bruxelles il 38 % e la Vallonia il 6 %."
+    landscape: "Per capire questa foresta occorre partire dal suolo. Durante le grandi glaciazioni, ogni disgelo liberava ingenti masse d'acqua che non potevano penetrare nel terreno perennemente ghiacciato; l'acqua scorse in superficie modellando il rilievo profondamente inciso che vedi oggi. Sotto lo strato di limo e humus si annida un livello compatto e impermeabile: il fragipan. Questo orizzonte impedisce ai faggi di sviluppare radici profonde, rendendo questi colossi insolitamente instabili: a ogni forte burrasca cadono decine di alberi come tessere del domino, scoprendo apparati radicali assai superficiali.\r\n\r\nI faggi non sono un puro lascito spontaneo della natura, ma una precisa scelta umana. Nel periodo austriaco vennero piantati in modo sistematico, rivoluzionando l'aspetto di una selva che in precedenza accoglieva molte specie latifoglie; a quell'epoca risalgono le formazioni più antiche. Oggi il legname viene tagliato verso i 200 anni d'età, quando comincia a perdere pregio e l'albero diviene vulnerabile a patologie fungine e insetti.\r\n\r\nNel cuore di una vecchia faggeta l'ambiente cambia radicalmente. La volta serrata lascia filtrare pochissima luce e la lettiera acidifica il terreno, cosicché nel sottobosco non cresce quasi nulla. Al contrario, dove il bosco associa farnia, frassino, acero, ciliegio selvatico, carpino e betulla, la flora è ben più varia. E nella valle del Vuylbeek, oggi tutelata come riserva naturale, sotto gli ontani sono rinate piante igrofile che attirano numerosi insetti, tra cui le libellule."
+    wildlife: "Il momento migliore per osservare la flora va da marzo a maggio. In questi mesi il terreno si copre di tappeti di anemoni dei boschi e campanule selvatiche, arricchiti da viole di bosco, centonchio maggiore, gigaro scuro ed erba di San Cristoforo.\r\n\r\nIn inverno cambia la scena. È al mattino presto che è più facile scorgere i [caprioli](/especie/capreolus_capreolus/), che in questa stagione tendono a riunirsi in piccoli branchi. Sono gli unici grandi mammiferi superstiti, reintrodotti dopo la totale estinzione locale, con una consistenza valutata in circa 150 esemplari nell'intera foresta, benché la densità sia in calo: si registravano 0,6 individui per chilometro quadrato nel 2021 a fronte di 1 nel periodo tra il 2008 e il 2013. Un contrasto netto: verso il 2007 sono ricomparsi cinghiali che si consideravano scomparsi dal 1957.\r\n\r\nTra i tronchi annosi e cavi nidificano pipistrelli e uccelli forestali come il picchio muratore e il rampichino. Nella sola porzione bruxellese sopravvivono circa quaranta specie di mammiferi, 18 delle quali pipistrelli. Cinque risultano minacciate, tra cui il [vespertilio di Bechstein](/especie/myotis_bechsteinii/), la cui tutela ha motivato l'inclusione della foresta nella rete Natura 2000.\r\n\r\nI picchi rappresentano il segno distintivo del territorio: picchio verde, picchio rosso maggiore, [picchio nero](/especie/dryocopus_martius/), [picchio rosso mezzano](/especie/picoides_medius/) e picchio rosso minore, quest'ultimo in declino. Con essi convivono rapaci quali l'allocco, il gufo comune, la [poiana](/especie/buteo_buteo/) e il [falco pecchiaiolo](/especie/pernis_apivorus/). Vicino a stagni e ruscelli si avvistano anatre, folaghe, [aironi cenerini](/especie/ardea_cinerea/) e il [martin pescatore](/especie/alcedo_atthis/). La foresta ospita anche lo [scoiattolo comune](/especie/sciurus_vulgaris/), la salamandra pezzata, il tritone crestato e l'orbettino.\r\n\r\nNon mancano le assenze. Il succiacapre europeo nidificava regolarmente nelle radure e nelle brughiere fino alla metà del secolo XX, e la beccaccia ha visto ridursi la propria presenza nidificante negli ultimi decenni."
+    visit: "Questa foresta va esplorata con calma e attraverso molteplici modalità. Dispone di oltre 350 km di percorsi per passeggiate a piedi, uscite in bicicletta e a cavallo, oltre a una rete pedonale virtuale di 170 km di itinerari e snodi segnalati.\r\n\r\nPer evitare una fruizione caotica e dispersiva, dal 2012 la foresta conta su «porte d'accesso» che convogliano i visitatori verso nodi attrezzati. I cinque varchi principali sono il parco di Tervuren, Rood Klooster ad Auderghem, Ter Kamerenbos a Bosvoorde, Groenendaal e il dominio regionale Solvay a La Hulpe. Raggiungerli con i mezzi pubblici è comodissimo, e nei giorni di massimo afflusso sono disponibili parcheggi di interscambio.\r\n\r\nSe vuoi capire il funzionamento del bosco prima di incamminarti, il Museo della Foresta (Bosmuseum Jan van Ruusbroec) occupa l'antica cascina del priorato di Groenendael e illustra flora, fauna, vicende storiche e gestione selvicolturale."
+    history: "Verso l'anno mille la foresta divenne riserva di caccia dei conti di Lovanio, futuri duchi di Brabante, circostanza che la salvò parzialmente dai disboscamenti incontrollati. Sotto Carlo V copriva ancora 20 000 ettari, ma i successivi tagli rasi la ridussero sensibilmente. Tra il 1822 e il 1836 ampie porzioni vennero vendute all'asta, facendole perdere tre quinti della superficie prima che lo Stato belga ne acquisisse la parte residua. Durante la battaglia di Waterloo, l'esercito alleato di Wellington era schierato con questa selva alle proprie spalle.\r\n\r\nIl secolo XX l'ha spezzata con arterie stradali e una ferrovia. Per attenuare tale frammentazione è stato realizzato l'ecodotto di Groenendaal sopra il raccordo di Bruxelles, inaugurato nel giugno 2018 per riconnettere le sezioni separate. Nel 2016 la foresta è entrata nella European Rewilding Network, che mira a rafforzare le popolazioni selvatiche di capriolo e cinghiale. Alcuni nuclei sono Patrimonio Mondiale UNESCO per la loro integrità primigenia, e dal 2023 la porzione fiamminga fa parte del Parco Nazionale delle Foreste Brabantine.\r\n\r\nAnche i criteri selvicolturali sono cambiati: oggi si predilige la fustaia disetanea irregolare, con specie e classi d'età eterogenee, fornendo nicchie ecologiche preziose per piante e animali."
+    before: >-
+      La caccia è stata sospesa nel 1974 e bandita definitivamente pochi anni dopo. La raccolta di funghi e
+      piante è severamente vietata nelle aree fiamminga e bruxellese, tutelando le oltre 1 000 specie di
+      funghi censite che calpestio e raccolta mettono a repentaglio. Diverse zone sono interdette al pubblico
+      per agevolare la rigenerazione naturale, alcuni tracciati sono riservati solo a pedoni, cavalieri o
+      ciclisti, e altrove non puoi uscire dai sentieri. Gli accessi periurbani di Bruxelles registrano
+      affollamento nei fine settimana; l'accesso alle riserve integrali è strettamente contingentato.
+    around: >-
+      Non vi sono altri luoghi dell'atlante nelle vicinanze. A notevole distanza, la [Badínsky Prales Primeval
+      Forest](/lugar/badinsky-prales-primeval-forest/) condivide con questa foresta il vespertilio di
+      Bechstein e l'impronta di un bosco maturo e primigenio.
+  pt:
+    intro: "Um faial com porte de catedral às portas de uma capital europeia. A floresta de Soignes, Zoniënwoud em neerlandês, é uma floresta periurbana de cerca de 5 000 ha a sudeste de Bruxelas. O bosque de la Cambre liga-a diretamente à cidade e avança até 4 km do centro, de modo que podes passar do asfalto para a copa das faias sem sair da capital. Quase 80 % do coberto arbóreo é composto por faias, e os seus altos povoamentos valeram a uma parte do bosque a alcunha de «faial catedral».\r\n\r\nTrês regiões partilham a sua gestão: a Flandres administra 56 %, Bruxelas 38 % e a Valónia 6 %."
+    landscape: "Para compreender esta floresta é preciso começar pelo solo. Durante as grandes glaciações, cada degelo libertava torrentes de água incapazes de se infiltrar na terra gelada; a água corria à superfície e erodia o terreno até esculpir o relevo ravina que vês hoje. Sob a camada de limo e húmus esconde-se um estrato extremamente compacto: o fragipã. Esse horizonte impede as faias de aprofundar as raízes, tornando estes gigantes muito instáveis: a cada temporal tombam dezenas de árvores em efeito dominó, expondo sistemas radiculares bastante superficiais.\r\n\r\nAs faias não são uma dádiva espontânea da natureza, mas o resultado de decisões humanas. No período austríaco foram plantadas de forma sistemática, transformando por completo um bosque que antes combinava inúmeras folhosas; dessa época datam os talhões mais antigos. Hoje em dia são cortadas por volta dos 200 anos, momento em que a madeira perde qualidade e a árvore se torna vulnerável a pragas e doenças.\r\n\r\nNo interior de um faial antigo o ambiente transforma-se. A copa densa e contínua deixa filtrar pouca luz e a manta morta acidifica o solo, pelo que quase nada medra no sub-bosque. Pelo contrário, onde o arvoredo mistura carvalho, freixo, bordo, cerejeira-brava, cárpino e bétula, a flora é muito mais diversa. E no vale do Vuylbeek, hoje classificado como reserva natural, renasceram sob os amieiros muitas plantas higrófilas que atraem insetos, nomeadamente libélulas."
+    wildlife: "A melhor época para apreciar a flora estende-se de março a maio. Nesses meses o solo cobre-se com mantos de anémonas-dos-bosques e jacintos-dos-bosques, pontuados por violetas-silvestres, estelária-maior, jarro-dos-campos e erva-de-são-cristóvão.\r\n\r\nNo inverno o cenário ganha outro ritmo. É de manhã muito cedo que se torna mais fácil avistar os [corços](/especie/capreolus_capreolus/), que nesta estação se agrupam em pequenos bandos. São os únicos grandes mamíferos sobreviventes, reintroduzidos após a sua extinção total; estima-se que sobrevivam cerca de 150 em toda a floresta, embora a densidade venha a diminuir: registava-se 0,6 por quilómetro quadrado em 2021 face a 1 entre 2008 e 2013. Em nítido contraste, por volta de 2007 reapareceram javalis dados como extintos nesta mata desde 1957.\r\n\r\nEntre os troncos velhos e ocos abrigam-se morcegos e aves florestais como a trepadeira-azul e a trepadeira-do-bosque. Só na parte de Bruxelas subsistem cerca de quarenta espécies de mamíferos, 18 das quais são morcegos. Cinco encontram-se ameaçadas, entre as quais o [morcego-de-Bechstein](/especie/myotis_bechsteinii/), cuja proteção justificou a integração da floresta na rede Natura 2000.\r\n\r\nOs pica-paus são a imagem de marca do bosque: pica-pau-verde, pica-pau-malhado-grande, [pica-pau-preto](/especie/dryocopus_martius/), [pica-pau-médio](/especie/picoides_medius/) e pica-pau-malhado-pequeno, este último em regressão. Convivem com rapinas como a coruja-do-mato, o bufo-pequeno, a [águia-de-asa-redonda](/especie/buteo_buteo/) e o [tartaranhão-apívoro](/especie/pernis_apivorus/). Junto a lagoas e ribeiros procura patos, galeirões, [garças-reais](/especie/ardea_cinerea/) e o [guarda-rios-comum](/especie/alcedo_atthis/). A floresta alberga igualmente o [esquilo-vermelho](/especie/sciurus_vulgaris/), a salamandra-de-pintas-amarelas, o tritão-de-crista e o licranço.\r\n\r\nHá também ausências assinaláveis. O noitibó-da-europa nidificava com regularidade em clareiras e urzais até meados do século XX, e a galinhola viu a sua população nidificante definhar nos últimos anos."
+    visit: "Esta floresta percorre-se com tranquilidade e de muitas formas. Disponibiliza mais de 350 km de caminhos para caminhar, andar de bicicleta e passear a cavalo, além de uma rede pedonal virtual de 170 km de percursos e nós de ligação numerados.\r\n\r\nPara evitar a dispersão desordenada de visitantes, desde 2012 o bosque conta com «portas de entrada» que canalizam os fluxos para pontos estratégicos. As cinco portas principais são o parque de Tervuren, Rood Klooster em Auderghem, Ter Kamerenbos em Bosvoorde, Groenendaal e o domínio regional Solvay em La Hulpe. O acesso através de transportes públicos é extremamente prático, existindo parques de estacionamento dissuasores nos dias de maior procura.\r\n\r\nSe quiseres compreender a dinâmica florestal antes de caminhar, o Museu da Floresta (Bosmuseum Jan van Ruusbroec) ocupa a antiga quinta do priorado de Groenendael e apresenta a flora, a fauna, a história e a gestão silvícola."
+    history: "Por volta do ano mil a floresta passou a coutada de caça dos condes de Lovaina, futuros duques de Brabante, facto que a preservou parcialmente de cortes indiscriminados. No tempo de Carlos V abrangia ainda 20 000 hectares, mas as desmatações sucessivas foram-na encolhendo. Entre 1822 e 1836 grande parte foi leiloada, perdendo três quintos da sua área antes de o Estado belga adquirir o remanescente. Durante a Batalha de Waterloo, o exército aliado de Wellington posicionou-se com esta mesma floresta imediatamente na sua retaguarda.\r\n\r\nO século XX fragmentou-a com autoestradas e uma linha férrea. Para mitigar o isolamento ecológico, foi construído o ecoduto de Groenendaal sobre a circular de Bruxelas, inaugurado em junho de 2018 para voltar a unir os setores isolados. Em 2016 a floresta aderiu à European Rewilding Network, procurando fomentar espécies selvagens como o corço e o javali. Alguns núcleos constituem Património Mundial da UNESCO pela sua pristinidade, e desde 2023 a parcela flamenga integra o Parque Nacional das Florestas de Brabante.\r\n\r\nA gestão silvícola também mudou: hoje privilegia-se a floresta irregular, com espécies e classes de idade distintas, gerando múltiplos nichos para plantas e animais."
+    before: >-
+      A caça foi suspensa em 1974 e proibida em definitivo poucos anos mais tarde. A colheita de plantas e
+      cogumelos é estritamente proibida nas partes flamenga e de Bruxelas, salvaguardando mais de 1 000
+      espécies de fungos inventariadas que o pisoteio e a recoleção colocam em risco. Várias zonas
+      encontram-se vedadas ao público para facilitar a regeneração florestal, alguns trilhos reservam-se
+      exclusivamente a peões, cavaleiros ou ciclistas e, noutras áreas, não podes sair dos trilhos. Os acessos
+      periurbanos de Bruxelas enchem-se ao fim de semana; as reservas integrais têm entrada rigidamente
+      condicionada.
+    around: >-
+      Não existem outros locais do atlas nas imediações. A grande distância, o [Badínsky Prales Primeval
+      Forest](/lugar/badinsky-prales-primeval-forest/) partilha com esta floresta o morcego-de-Bechstein e o
+      mesmo caráter de floresta madura e primária.
+fuentes:
+  - url: https://www.sonianforest.be/the-sonianforest/fauna-flora/
+    titulo: Fauna & Flora – Sonianforest
+    fecha_consulta: '2026-10-03'
+  - url: https://www.zonienwoud.be/over-het-zonienwoud/beheer/
+    titulo: Beheer – Zoniënwoud
+    fecha_consulta: '2026-10-03'
+  - url: https://www.zonienwoud.be/ontdek-beleef/wandelen/
+    titulo: Wandelen – Zoniënwoud
+    fecha_consulta: '2026-10-03'
+  - url: https://www.zonienwoud.be/praktisch/toegangspoorten/
+    titulo: Toegangspoorten – Zoniënwoud
+    fecha_consulta: '2026-10-03'
+  - url: https://fr.wikipedia.org/wiki/For%C3%AAt_de_Soignes
+    titulo: Forêt de Soignes – Wikipédia
+    fecha_consulta: '2026-10-03'
+  - url: https://en.wikipedia.org/wiki/Sonian_Forest
+    titulo: Sonian Forest – Wikipedia
+    fecha_consulta: '2026-10-03'
+  - url: https://nl.wikipedia.org/wiki/Zoni%C3%ABnwoud
+    titulo: Zoniënwoud – Wikipedia
+    fecha_consulta: '2026-10-03'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Brussels_Zonienwoud.jpg
+    autor: Donarreiskoffer
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-03'

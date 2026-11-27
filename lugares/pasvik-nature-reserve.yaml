@@ -1,0 +1,633 @@
+id: pasvik-nature-reserve
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de Pasvik
+  en: Pasvik Nature Reserve
+  fr: Réserve naturelle de Pasvik
+  de: Naturreservat Pasvik
+  it: Riserva naturale di Pasvik
+  pt: Reserva Natural de Pasvik
+nombre_original: Pasvik Nature Reserve
+alias:
+  - Pasvik Nature Reserve (Pasvik naturreservat)
+paises:
+  - 'NO'
+region:
+  es: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+  en: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+  fr: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+  de: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+  it: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+  pt: Finnmark (Sør-Varanger / Kirkenes / Svanvik)
+ubicacion:
+  tipo: punto
+  lat: 69.15
+  lon: 29.2
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 64472
+  nombre_en_la_fuente: Pasvik
+  categoria_uicn: Ia
+  capa: capas/cdda/pasvik-nature-reserve.geojson
+habitats:
+  - primary_forest
+  - mature_forest
+  - wetland
+  - river_corridor
+designaciones:
+  - natural_reserve
+  - ramsar
+especies:
+  - ursus_arctos
+  - alces_alces
+  - strix_nebulosa
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: junio a septiembre
+  en: June to September
+  fr: juin à septembre
+  de: Juni bis September
+  it: da giugno a settembre
+  pt: junho a setembro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Pasvik, cooperación transfronteriza vigente
+    url: https://prosjekt.statsforvalteren.no/en/pasvik-inari/
+  - titulo: Centro de visitantes y observatorios — Pasvik en Svanhovd
+    url: https://pasvik.no/om-besokssenter/
+enlaces_referencia:
+  - titulo: Wikipedia — Reserva natural de Pasvik
+    url: https://es.wikipedia.org/wiki/Reserva_natural_de_Pasvik
+resumen:
+  es: >-
+    El extremo occidental del bosque primario de taiga siberiana de pino silvestre (*Pinus sylvestris*),
+    albergando la mayor densidad de oso pardo de Noruega en la frontera con Rusia.
+  en: >-
+    The westernmost edge of the primeval Siberian Scots pine taiga (*Pinus sylvestris*), harbouring Norway's
+    highest brown bear density along the Russian border.
+  fr: >-
+    La lisière occidentale de la taïga sibérienne primaire de pin sylvestre (*Pinus sylvestris*), abritant la
+    plus forte densité d'ours brun de Norvège le long de la frontière russe.
+  de: >-
+    Der westlichste Ausläufer der sibirischen Ur-Taiga aus Wald-Kiefern (*Pinus sylvestris*) mit Norwegens
+    größter Braunbärendichte an der Grenze zu Russland.
+  it: >-
+    L'estremo lembo occidentale della taiga siberiana primaria di pino silvestre (*Pinus sylvestris*), con la
+    massima concentrazione di orsi bruni della Norvegia al confine con la Russia.
+  pt: >-
+    O limite ocidental da taiga siberiana virgem de pinheiro-silvestre (*Pinus sylvestris*), albergando a
+    maior concentração de ursos-pardos da Noruega na fronteira russa.
+unico:
+  es: >-
+    Pasvik es el límite occidental de varias especies siberianas de plantas y animales, raras en Noruega y
+    comunes en Rusia.
+  en: >-
+    Pasvik marks the western range limit for several Siberian plant and animal species that are rare in Norway
+    yet common across Russia.
+  fr: >-
+    Pasvik constitue la limite occidentale de plusieurs espèces végétales et animales sibériennes, rares en
+    Norvège et communes en Russie.
+  de: >-
+    Pasvik markiert die westliche Verbreitungsgrenze mehrerer sibirischer Pflanzen- und Tierarten, die in
+    Norwegen selten, in Russland jedoch weit verbreitet sind.
+  it: >-
+    Pasvik segna il confine occidentale di numerose specie siberiane di flora e fauna, rare in Norvegia ma
+    diffuse in Russia.
+  pt: >-
+    Pasvik marca o limite ocidental de várias espécies siberianas de flora e fauna, raras na Noruega mas
+    comuns na Rússia.
+observaciones:
+  es: >-
+    El centro de visitantes tiene horarios distintos en verano y en invierno. Comprueba los horarios y las
+    condiciones de acceso antes de ir.
+texto:
+  es:
+    intro: >-
+      En el extremo nororiental de Noruega hay un río que no obedece del todo a la frontera. El Pasvikelva
+      baja del lago Inari hasta el mar de Barents y, en su tramo noruego, la Reserva Natural de Pasvik protege
+      uno de los pocos rincones donde todavía fluye casi como antes de que lo encadenaran siete centrales
+      hidroeléctricas. Al otro lado de la raya está la parte rusa: la reserva es bilateral, creada en 1992 en
+      Rusia y en 1993 en Noruega, y suma 166,4 km² entre las dos. Lo que se ve desde aquí, con el agua lenta,
+      las turberas y los pinos, es un fragmento de taiga que se parece más a Siberia.
+    landscape: >-
+      El corazón de la reserva noruega es Fjærvann, un lago somero con vegetación densa de cola de caballo y
+      carex, carrizo y matorrales de sauce y abedul. Es una de las pocas partes del río que sigue casi tal
+      como era antes de las presas, y no es casualidad que sea también la más importante para las aves: se
+      queda libre de hielo pronto en primavera, mientras los embalses del resto del río siguen helados. Los
+      embalses, en cambio, permanecen helados de octubre a mayo.
+
+
+      La parte noruega mide 12 km desde Jordanfoss, al norte, hasta la presa de Hestefoss, y llega a 5 km de
+      ancho. El valle es plano y ancho; el paisaje lo moldearon dos periodos de capas de hielo durante la
+      glaciación cuaternaria, que dejaron colinas, morrenas y depósitos de agua de deshielo. Donde el suelo
+      drena mal mandan las turberas, la parte más dominante del paisaje, con mucha turba.
+
+
+      La vegetación es la de una frontera entre mundos. El pino silvestre es el árbol más común, con abeto
+      europeo más escaso, y entre ellos asoman chopo temblón, serbal, aliso y sauce cabruno; en el norte,
+      abedul. A esta mezcla se suman especies de montaña que no suelen vivir en humedales de tierras bajas,
+      como la saxífraga de nieve y el té de Labrador de pantano, y especies siberianas que normalmente solo
+      llegan hasta la península de Kola.
+    wildlife: >-
+      Pasvik está en el cruce entre especies occidentales y orientales, y entre la tundra de bosque y la
+      tundra ártica. De ahí que aquí convivan animales de dos mundos. Entre los grandes están el [oso
+      pardo](/especie/ursus_arctos/), el [alce](/especie/alces_alces/), un número creciente de
+      [lobos](/especie/canis_lupus/) y el [glotón](/especie/gulo_gulo/), que va a menos. El valle de Pasvik
+      tiene la población de oso pardo más densa de Noruega. El lemming noruego es la única especie
+      verdaderamente ártica.
+
+
+      Pero lo que de verdad llena la reserva son las aves. Se han registrado 212 especies desde 1987; 68 crían
+      con regularidad. Entre las comunes están el colimbo ártico, el ánsar campestre y varios patos; las
+      limícolas abundan a lo largo del río, sobre todo el chorlitejo grande, el combatiente y el archibebe
+      oscuro. El [cisne cantor](/especie/cygnus_cygnus/) es el ave más característica, y durante la migración
+      puede aparecer en grandes bandadas. Entre las rapaces, el busardo calzado y el esmerejón son comunes; el
+      [pigargo](/especie/haliaeetus_albicilla/) y el [águila real](/especie/aquila_chrysaetos/), menos. La
+      reserva es el límite occidental de aves orientales como lappfiskand, sotsnipe, lappspove y kvartbekkasin
+      (nombres noruegos).
+
+
+      Las estaciones lo cambian todo. El sol de medianoche dura del 23 de mayo al 20 de julio y la noche polar
+      del 20 de noviembre al 23 de enero.
+    visit: >-
+      La puerta de entrada es el centro de visitantes de Øvre Pasvik, en Svanvik. Se llega desde Kirkenes
+      siguiendo la carretera 8850 hacia el sur por Pasvikdalen, unos 35 km. Creado en 2001, expone la
+      naturaleza, la cultura y la historia del valle; explica el bosque primario del parque nacional y la
+      reserva de Pasvik con su diversidad de aves acuáticas, y dedica al oso pardo un lugar central. También
+      cuenta la historia de los skolt, el pueblo indígena de Pasvik, y cómo aprovechaban la piel y los cuernos
+      del reno, las raíces y los tendones. A su alrededor hay un jardín botánico, el único de Finnmark,
+      abierto en 1998; el mejor momento para verlo son julio y agosto.
+
+
+      Para ver aves, en Skrøytnes hay una torre de observación abierta a todos, con vistas a Lille Skogøy y a
+      la parte sur de Svanevatn, y un refugio en Gjøkbukta, en Øvre Pasvik. Desde la torre de la colina 96 se
+      ve el paisaje de Pasvik y Rusia, y es un buen sitio para buscar oso pardo en las grandes turberas
+      abiertas.
+    history: >-
+      Los hallazgos más antiguos del valle son de la Edad de Piedra, de la cultura Komsa: nómadas que llegaban
+      en verano y vivían sobre todo de la pesca en el río. Los registros históricos más antiguos son del siglo
+      XVI, cuando los skolt ya habitaban la zona. La frontera se fijó en 1826, y desde la década de 1850 llegó
+      inmigración de Finlandia. Hans Schaanning y Johan Koren se instalaron en el valle en 1900 y realizaron
+      el trabajo científico más importante; Schaanning permaneció doce años.
+
+
+      Noruega consideró proteger el área desde 1978 por la importancia de sus humedales para las aves
+      acuáticas, sobre todo Fjærvann. La parte noruega es sitio Ramsar desde 1996. La reserva forma parte del
+      Parque Trilateral Pasvik-Inari, junto con el parque nacional Øvre Pasvik, el área de paisaje protegido
+      Øvre Pasvik y el área silvestre finlandesa de Vätsäri.
+    before: >-
+      El centro de visitantes tiene horarios distintos en verano y en invierno. Comprueba los horarios y las
+      condiciones de acceso antes de ir.
+    around: >-
+      Pasvik no tiene vecinos cercanos en el atlas, pero sí lugares lejanos que comparten con él el oso pardo
+      y el alce y bosques y humedales. El [Parque Nacional de Gutulia](/lugar/gutulia-national-park/) y el
+      [Parque Nacional de Hamra](/lugar/hamra-national-park/) tienen bosque primario, bosque maduro y
+      humedales como Pasvik. También el [Parque Nacional de Muddus](/lugar/muddus-national-park/) y el [Parque
+      Nacional de Soomaa](/lugar/soomaa-rahvuspark/), este último con humedales y corredor fluvial.
+  en:
+    intro: >-
+      In the far north-eastern corner of Norway runs a river that does not strictly heed national boundaries.
+      The Pasvikelva flows from Lake Inari down to the Barents Sea, and along its Norwegian stretch, the
+      Pasvik Nature Reserve safeguards one of the few places where it still moves almost as it did before
+      being harnessed by seven hydroelectric power stations. Across the borderline lies the Russian reserve:
+      this is a bilateral protected area, established in 1992 in Russia and in 1993 in Norway, totalling 166.4
+      km² combined. Seen from here, with sluggish waters, peat bogs and pines, this is a fragment of taiga
+      that feels closer to Siberia.
+    landscape: >-
+      The heart of the Norwegian reserve is Fjærvann, a shallow lake choked with dense horsetail, sedges,
+      reeds, and willow and birch scrub. It is one of the few sections of the river remaining nearly unaltered
+      by dams, which explains why it is so critical for waterbirds: it becomes ice-free early in spring while
+      the river's man-made reservoirs remain frozen solid. Those reservoirs stay ice-covered from October to
+      May.
+
+
+      The Norwegian territory spans 12 km from Jordanfoss in the north to the Hestefoss dam, reaching up to 5
+      km in width. The valley is broad and flat, its terrain sculpted by two ice-sheet advances during
+      Quaternary glaciation that left low hills, moraines and fluvioglacial drift. Wherever drainage is poor,
+      peatlands reign as the dominant landscape feature, with deep peat deposits.
+
+
+      The flora reflects a boundary between worlds. Scots pine is the dominant tree, with scattered Norway
+      spruce, interspersed with aspen, rowan, alder and goat willow; in the northern sector, birch prevails.
+      Adding to this blend are montane plants uncharacteristic of lowland wetlands, such as snow saxifrage and
+      marsh Labrador tea, alongside Siberian elements that normally stop at the Kola Peninsula.
+    wildlife: >-
+      Pasvik lies at the crossroads between eastern and western wildlife realms, bridging northern taiga and
+      Arctic tundra. Large mammals include the [brown bear](/especie/ursus_arctos/),
+      [moose](/especie/alces_alces/), an increasing presence of [wolves](/especie/canis_lupus/) and the
+      declining [wolverine](/especie/gulo_gulo/). The Pasvik valley sustains the highest density of brown
+      bears in Norway. The Norwegian lemming is the sole truly Arctic mammal resident here.
+
+
+      Yet the reserve's true glory belongs to its birds. Observers have recorded 212 species since 1987, with
+      68 breeding regularly. Common nesting birds include black-throated loon, bean goose and various wild
+      ducks; waders thrive along the river corridor, notably common ringed plover, ruff and spotted redshank.
+      The [whooper swan](/especie/cygnus_cygnus/) is the signature bird, congregating in impressive flocks on
+      migration. Raptors include common rough-legged buzzards and merlins, with the [white-tailed
+      eagle](/especie/haliaeetus_albicilla/) and [golden eagle](/especie/aquila_chrysaetos/) less frequent.
+      The reserve is the western distribution limit for eastern species such as lappfiskand, sotsnipe,
+      lappspove and kvartbekkasin (Norwegian names).
+
+
+      The seasons transform everything. The midnight sun shines from 23 May to 20 July, while polar night
+      holds sway from 20 November to 23 January.
+    visit: >-
+      The gateway to the area is the Øvre Pasvik visitor centre in Svanvik. From Kirkenes, follow highway 8850
+      south through the Pasvikdalen valley for about 35 km. Opened in 2001, the centre interprets the nature,
+      culture and history of the valley, highlighting the old-growth forests of the national park, the rich
+      wetlands of the reserve, and placing the brown bear at center stage. It also recounts the history of the
+      Skolt Sámi, Pasvik's indigenous people, detailing their traditional use of reindeer hides, antlers,
+      roots and sinews. Surrounding the centre is Finnmark's only botanical garden, founded in 1998, best
+      visited in July and August.
+
+
+      For birdwatching, Skrøytnes offers a public observation tower overlooking Lille Skogøy and the southern
+      reaches of Svanevatn, alongside a bird hide at Gjøkbukta in Øvre Pasvik. From the observation tower on
+      Hill 96 you can take in the expanse of Pasvik and Russia, making it an excellent vantage point to scan
+      the open bogs for brown bears.
+    history: >-
+      The earliest archaeological traces in the valley belong to the Stone Age Komsa culture: nomadic
+      hunter-fishers who arrived in summer to fish the river. The earliest written records date from the
+      sixteenth century, when Skolt Sámi communities inhabited the territory. The frontier was demarcated in
+      1826, followed by Finnish immigration from the 1850s onward. Naturalists Hans Schaanning and Johan Koren
+      settled in the valley in 1900 and conducted seminal ornithological research, with Schaanning remaining
+      twelve years.
+
+
+      Norway began considering protective measures in 1978 due to the international significance of these
+      wetlands for waterbirds, especially Fjærvann. The Norwegian reserve was designated a Ramsar site in
+      1996. Today the reserve forms part of the Pasvik-Inari Trilateral Park alongside Øvre Pasvik National
+      Park, Øvre Pasvik Landscape Protection Area and Finland's Vätsäri Wilderness Area.
+    before: >-
+      The visitor centre operates seasonal opening hours between summer and winter. Check schedules and access
+      regulations before traveling.
+    around: >-
+      Pasvik has no close neighbours in the atlas, but shares brown bears, moose, boreal forests and peatlands
+      with distant wildernesses. [Gutulia National Park](/lugar/gutulia-national-park/) and [Hamra National
+      Park](/lugar/hamra-national-park/) protect virgin taiga and old-growth wetlands like Pasvik. [Muddus
+      National Park](/lugar/muddus-national-park/) and [Soomaa National Park](/lugar/soomaa-rahvuspark/) also
+      feature extensive bogs and river corridors.
+  fr:
+    intro: >-
+      À l'extrémité nord-orientale de la Norvège coule une rivière qui s'affranchit des frontières politiques.
+      La Pasvikelva descend du lac Inari jusqu'à la mer de Barents et, sur son tronçon norvégien, la réserve
+      naturelle de Pasvik protège l'un des rares secteurs où elle s'écoule encore presque comme autrefois,
+      avant d'être harnachée par sept centrales hydroélectriques. De l'autre côté de la frontière s'étend la
+      réserve russe : cette aire binationale a été créée en 1992 en Russie et en 1993 en Norvège, cumulant
+      166,4 km² à elles deux. Vue d'ici, entre eaux calmes, tourbières et pins sylvestres, c'est un fragment
+      de taïga évoquant la Sibérie.
+    landscape: >-
+      Le cœur de la réserve norvégienne est le lac Fjærvann, plan d'eau peu profond ceinturé d'une végétation
+      fournie de prêles, laîches, roseaux et saules arbustifs. C'est l'un des rares secteurs fluviaux demeurés
+      quasiment intacts depuis la construction des barrages, ce qui explique son rôle capital pour les oiseaux
+      d'eau : il dégèle très tôt au printemps, alors que les retenues artificielles du reste du cours d'eau
+      restent prises par les glaces. Celles-ci demeurent gelées d'octobre à mai.
+
+
+      La section norvégienne s'étire sur 12 km depuis Jordanfoss au nord jusqu'au barrage de Hestefoss,
+      atteignant 5 km de largeur. La vallée est plate et spacieuse ; le relief a été modelé par deux avancées
+      glaciaires quaternaires ayant laissé collines morainiques et dépôts alluviaux fluvioglaciaires. Là où
+      les sols drainent mal s'étendent d'immenses tourbières, élément dominant du paysage.
+
+
+      La végétation témoigne de cette frontière biogéographique. Le pin sylvestre domine largement, accompagné
+      d'épicéas épars, de trembles, sorbiers, aulnes et saules marsaults, le bouleau prenant le relais au
+      nord. À cet assemblage boréal s'ajoutent des espèces d'altitude insolites en basse plaine marécageuse,
+      telles la saxifrage des neiges et le lédon des marais, ainsi que des plantes sibériennes qui s'arrêtent
+      d'ordinaire à la péninsule de Kola.
+    wildlife: >-
+      Pasvik se situe au carrefour d'influences orientales et occidentales, reliant la taïga boréale à la
+      toundra arctique. Parmi les grands mammifères figurent l'[ours brun](/especie/ursus_arctos/),
+      l'[élan](/especie/alces_alces/), une présence croissante de [loups](/especie/canis_lupus/) et le
+      [glouton](/especie/gulo_gulo/), plus rare. La vallée de Pasvik possède la population d'ours brun la plus
+      dense de Norvège. Le lemming des toundras est l'unique mammifère strictement arctique.
+
+
+      Mais la réserve vaut avant tout pour son avifaune. On a recensé 212 espèces depuis 1987, dont 68 y
+      nichent régulièrement. Parmi les nicheurs communs figurent le plongeon arctique, l'oie des moissons et
+      de nombreux canards ; les limicoles foisonnent le long des berges, notamment le grand gravelot, le
+      combattant varié et le chevalier arlequin. Le [cygne chanteur](/especie/cygnus_cygnus/) est l'oiseau le
+      plus emblématique, rassemblé en bandes spectaculaires lors des passages migratoires. Parmi les rapaces,
+      la buse pattue et le faucon émerillon sont réguliers, tandis que le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/) et l'[aigle royal](/especie/aquila_chrysaetos/) s'observent
+      plus rarement. La réserve constitue la limite occidentale d'oiseaux orientaux tels que le lappfiskand,
+      le sotsnipe, le lappspove et le kvartbekkasin (noms norvégiens).
+
+
+      Le rythme des saisons est spectaculaire. Le soleil de minuit brille du 23 mai au 20 juillet, tandis que
+      la nuit polaire règne du 20 novembre au 23 janvier.
+    visit: >-
+      Le point d'accueil principal est le centre de visiteurs d'Øvre Pasvik, situé à Svanvik. Depuis Kirkenes,
+      suivez la route 8850 vers le sud à travers la vallée de Pasvikdalen sur 35 km environ. Inauguré en 2001,
+      il présente le patrimoine naturel, culturel et historique de la région, décrivant la forêt primaire du
+      parc national, les zones humides de la réserve et accordant une place d'honneur à l'ours brun. Il
+      raconte également l'histoire des Samis skolt, peuple autochtone de Pasvik, et leurs traditions liées aux
+      rennes, racines et tendons. Le site comprend le seul jardin botanique du Finnmark, créé en 1998, dont la
+      floraison culmine en juillet et août.
+
+
+      Pour l'observation ornithologique, Skrøytnes abrite une tour panoramique ouverte à tous, dominant Lille
+      Skogøy et le sud de Svanevatn, complétée par un affût à Gjøkbukta dans l'Øvre Pasvik. Du haut de la
+      colline 96, une tour d'observation embrasse tout le panorama frontalier avec la Russie, constituant un
+      belvédère privilégié pour guetter l'ours brun dans les grandes tourbières.
+    history: >-
+      Les traces archéologiques les plus anciennes remontent à la culture Komsa de l'âge de la pierre : des
+      chasseurs-pêcheurs nomades fréquentant la vallée en été. Les premiers écrits historiques datent du XVIe
+      siècle, attestant la présence séculaire des Samis skolt. La frontière fut officiellement bornée en 1826,
+      suivie d'une vague d'immigration finlandaise à partir des années 1850. Les naturalistes Hans Schaanning
+      et Johan Koren s'y établirent en 1900 pour mener de remarquables études scientifiques, Schaanning y
+      séjournant douze ans.
+
+
+      La Norvège a engagé la protection du secteur dès 1978 en raison de l'importance vitale de ces zones
+      humides pour les oiseaux migrateurs, en particulier Fjærvann. La section norvégienne a été reconnue site
+      Ramsar en 1996. La réserve s'intègre au parc trilatéral Pasvik-Inari, aux côtés du parc national d'Øvre
+      Pasvik, de la zone de paysage protégé d'Øvre Pasvik et de la réserve finlandaise de Vätsäri.
+    before: >-
+      Le centre de visiteurs applique des horaires distincts en été et en hiver. Vérifiez les horaires
+      d'ouverture et les conditions d'accès avant votre déplacement.
+    around: >-
+      Pasvik ne compte pas de voisins immédiats dans l'atlas, mais partage l'ours brun, l'élan, les forêts
+      boréales et les tourbières avec d'autres espaces nordiques. Le [Parc national de
+      Gutulia](/lugar/gutulia-national-park/) et le [Parc national de Hamra](/lugar/hamra-national-park/)
+      préservent des forêts primaires et des tourbières similaires. Le [Parc national de
+      Muddus](/lugar/muddus-national-park/) et le [Parc national de Soomaa](/lugar/soomaa-rahvuspark/)
+      partagent également vastes tourbières et corridors fluviaux.
+  de:
+    intro: >-
+      Im äußersten Nordosten Norwegens fließt ein Fluss, der sich Staatsgrenzen nicht gänzlich beugt. Der
+      Pasvikelva strömt vom Inari-See zur Barentssee, und entlang seines norwegischen Laufs bewahrt das
+      Naturreservat Pasvik einen der wenigen Abschnitte, wo er noch fast wie vor dem Bau der sieben
+      Wasserkraftwerke fließt. Jenseits der Grenze liegt der russische Reservatsteil: Das Schutzgebiet ist
+      bilateral, gegründet 1992 in Russland und 1993 in Norwegen, und umfasst zusammen 166,4 km². Was sich von
+      hier aus mit trägem Wasser, Mooren und Kiefern darbietet, ist ein Stück Taiga, das unverkennbar an
+      Sibirien erinnert.
+    landscape: >-
+      Das Herzstück des norwegischen Reservats ist der Fjærvann, ein flacher See mit dichter Ufervegetation
+      aus Schachtelhalm, Seggen, Röhricht sowie Weiden- und Birkendickichten. Er ist einer der wenigen
+      Flussabschnitte, die dem historischen Urzustand nahebleiben, und daher von herausragender Bedeutung für
+      Wasservögel: Er taut im Frühjahr frühzeitig auf, während die Stauseen entlang des Flusses noch
+      wochenlang gefroren bleiben. Jene Stauhaltungen tragen von Oktober bis Mai eine feste Eisdecke.
+
+
+      Der norwegische Teil misst 12 km von Jordanfoss im Norden bis zur Talsperre Hestefoss und erreicht 5 km
+      Breite. Das Tal ist weit und eben; das Relief wurde von zwei quartären Inlandeisvorstößen geformt, die
+      Moränenhügel und Schmelzwassersedimente hinterließen. Auf schlecht entwässerten Böden herrschen Moore
+      vor, die das Landschaftsbild dominieren.
+
+
+      Die Pflanzenwelt spiegelt eine Übergangszone zwischen Biomen wider. Die Wald-Kiefer ist der
+      beherrschende Baum, durchsetzt mit einzelnen Gemeinen Fichten, Zitter-Pappeln, Ebereschen, Erlen und
+      Sal-Weiden; im Norden übernimmt die Birke. Ergänzt wird diese Mischung durch Gebirgspflanzen, die sonst
+      selten in Tieflandmooren vorkommen, wie Schnee-Steinbrech und Sumpfporst, sowie durch sibirische
+      Florenelemente, die gewöhnlich an der Kola-Halbinsel ihre Grenze finden.
+    wildlife: >-
+      Pasvik liegt am Schnittpunkt westlicher und östlicher Tierwelten zwischen Taiga und arktischer Tundra.
+      Unter den Großsäugern leben [Braunbär](/especie/ursus_arctos/), [Elch](/especie/alces_alces/), eine
+      wachsende Zahl von [Wölfen](/especie/canis_lupus/) und der seltenere [Vielfraß](/especie/gulo_gulo/).
+      Das Pasvik-Tal beherbergt die dichteste Braunbärenpopulation Norwegens. Der Berglemming ist die einzige
+      echt arktische Säugetierart.
+
+
+      Die herausragende Attraktion des Gebiets ist jedoch die Vogelwelt. 212 Arten wurden seit 1987
+      festgestellt, von denen 68 regelmäßig brüten. Häufige Brutvögel sind Prachttaucher, Saatgans und
+      zahlreiche Entenarten; Watvögel wie Sandregenpfeifer, Kampfläufer und Dunkler Wasserläufer bevölkern die
+      Ufer. Der [Singschwan](/especie/cygnus_cygnus/) ist der Charaktervogel und rastet auf dem Zug in großen
+      Scharen. Unter den Greifvögeln sind Raufußbussard und Merlin regelmäßig anzutreffen, während
+      [Seeadler](/especie/haliaeetus_albicilla/) und [Steinadler](/especie/aquila_chrysaetos/) seltener
+      erscheinen. Für östliche Brutvögel wie lappfiskand, sotsnipe, lappspove und kvartbekkasin (norwegische
+      Namen) liegt hier die Westgrenze.
+
+
+      Der Wechsel der Jahreszeiten ist prägend: Die Mitternachtssonne währt vom 23. Mai bis zum 20. Juli, die
+      Polarnacht vom 20. November bis zum 23. Januar.
+    visit: >-
+      Zentraler Anlaufpunkt ist das Besucherzentrum Øvre Pasvik in Svanvik. Von Kirkenes aus folgt man der
+      Straße 8850 durch das Pasvikdalen rund 35 km nach Süden. Das 2001 eröffnete Zentrum vermittelt Natur,
+      Kultur und Siedlungsgeschichte des Tals, zeigt die Urwälder des Nationalparks und die Vogelvielfalt des
+      Reservats und stellt den Braunbären in den Mittelpunkt. Es beleuchtet auch die Kultur der Skoltsamen,
+      der indigenen Bevölkerung, und deren traditionelle Nutzung von Rentierfellen, Geweihen, Wurzeln und
+      Sehnen. Nebenan liegt der einzige Botanische Garten der Finnmark aus dem Jahr 1998, am schönsten im Juli
+      und August.
+
+
+      Zur Vogelbeobachtung steht in Skrøytnes ein Aussichtsturm mit Blick auf Lille Skogøy und den südlichen
+      Svanevatn bereit, ergänzt durch eine Beobachtungshütte bei Gjøkbukta im Øvre Pasvik. Vom Turm auf Hügel
+      96 überblickt man das Pasvik-Tal und Russland – ein hervorragender Ort, um auf den offenen Mooren nach
+      Braunbären Ausschau zu halten.
+    history: >-
+      Die ältesten Funde im Tal stammen von der steinzeitlichen Komsa-Kultur: Nomaden, die im Sommer zum
+      Fischfang an den Fluss zogen. Schriftliche Zeugnisse reichen bis ins sechzehnte Jahrhundert zurück, als
+      die Skoltsamen das Gebiet besiedelten. Die Staatsgrenze wurde 1826 festgelegt, gefolgt von finnischer
+      Einwanderung ab den 1850er Jahren. Die Naturforscher Hans Schaanning und Johan Koren ließen sich 1900 im
+      Tal nieder und leisteten grundlegende wissenschaftliche Pionierarbeit; Schaanning blieb zwölf Jahre.
+
+
+      Norwegen plante die Unterschutzstellung ab 1978 wegen der herausragenden Bedeutung der Feuchtgebiete für
+      Wasservögel, insbesondere des Fjærvann. Der norwegische Teil ist seit 1996 Ramsar-Gebiet. Das Reservat
+      gehört zum Trilateralen Park Pasvik-Inari zusammen mit dem Nationalpark Øvre Pasvik, dem
+      Landschaftsschutzgebiet Øvre Pasvik und dem finnischen Wildnisgebiet Vätsäri.
+    before: >-
+      Das Besucherzentrum hat unterschiedliche Öffnungszeiten im Sommer und Winter. Informiere dich vorab über
+      Öffnungszeiten und Zugangsbestimmungen.
+    around: >-
+      Pasvik hat im Atlas keine direkten Nachbarn, teilt aber Braunbär, Elch und Moorwälder mit anderen
+      nordischen Schutzgebieten. Der [Nationalpark Gutulia](/lugar/gutulia-national-park/) und der
+      [Nationalpark Hamra](/lugar/hamra-national-park/) bewahren boreale Urwälder und Moore. Auch der
+      [Nationalpark Muddus](/lugar/muddus-national-park/) und der [Nationalpark
+      Soomaa](/lugar/soomaa-rahvuspark/) schützen weite Moorlandschaften und Flussauen.
+  it:
+    intro: >-
+      Nel lembo nord-orientale della Norvegia scorre un fiume che non segue fedelmente i confini di Stato. Il
+      Pasvikelva scende dal lago Inari fino al mare di Barents e, nel suo tratto norvegese, la Riserva
+      naturale di Pasvik tutela uno dei rari settori dove le acque scorrono ancora quasi come prima di essere
+      imbrigliate da sette centrali idroelettriche. Oltrefrontiera si estende la porzione russa: si tratta di
+      un'area protetta bilaterale istituita nel 1992 in Russia e nel 1993 in Norvegia, per complessivi 166,4
+      km². Il paesaggio che si ammira da qui, tra acque lente, torbiere e pini silvestri, è una porzione di
+      taiga dalle atmosfere tipicamente siberiane.
+    landscape: >-
+      Il cuore della riserva norvegese è il lago Fjærvann, un bacino poco profondo bordato da una fitta
+      vegetazione di equiseti, carici, canneti e cespugli di salice e betulla. È uno dei pochissimi tratti
+      fluviali rimasti sostanzialmente immutati rispetto alle dighe, il che ne spiega l'eccezionale valore per
+      l'avifauna acquatica: si libera dai ghiacci presto in primavera, mentre i bacini artificiali del resto
+      del fiume restano ancora serrati dal gelo. Gli invasi rimangono ghiacciati da ottobre a maggio.
+
+
+      Il settore norvegese si estende per 12 km da Jordanfoss a nord fino alla diga di Hestefoss, raggiungendo
+      una larghezza di 5 km. La vallata è piatta e ampia; la morfologia è stata scolpita da due avanzate
+      glaciali durante il Quaternario, lasciando rilievi morenici e depositi fluvioglaciali. Dove il drenaggio
+      è scarso dominano le torbiere, elemento visivo preponderante dell'area.
+
+
+      La flora testimonia la confluenza di regni biogeografici. Il pino silvestre è l'albero nettamente
+      dominante, con abeti rossi isolati, pioppi tremuli, sorbi, ontani e salici delle capre; a nord subentra
+      la betulla. A questo mosaico si sommano essenze d'alta quota insolite nelle zone umide di pianura, come
+      la sassifraga delle nevi e il ledum palustre, oltre a piante siberiane che solitamente non superano la
+      penisola di Kola.
+    wildlife: >-
+      Pasvik è collocata all'incrocio tra faune orientali e occidentali, fungendo da cerniera tra taiga e
+      tundra artica. Tra i grandi mammiferi spiccano l'[orso bruno](/especie/ursus_arctos/),
+      l'[alce](/especie/alces_alces/), una popolazione crescente di [lupi](/especie/canis_lupus/) e il
+      [ghiottone](/especie/gulo_gulo/), più schivo. La valle di Pasvik vanta la più alta densità di orsi bruni
+      dell'intera Norvegia. Il lemming norvegese è l'unica specie rigorosamente artica.
+
+
+      La vera ricchezza della riserva risiede negli uccelli: 212 specie censite dal 1987, di cui 68
+      nidificanti stabili. Tra i nidificanti comuni si contano strolaga mezzana, oca granaiola e numerose
+      anatre; i trampolieri abbondano lungo le sponde, in particolare corriere grosso, combattente e totano
+      moro. Il [cigno selvatico](/especie/cygnus_cygnus/) è la specie bandiera e in migrazione forma stormi
+      imponenti. Tra i rapaci sono frequenti la poiana calzata e lo smeriglio, mentre l'[aquila di
+      mare](/especie/haliaeetus_albicilla/) e l'[aquila reale](/especie/aquila_chrysaetos/) sono più rade. La
+      riserva segna il limite occidentale per volatili orientali quali lappfiskand, sotsnipe, lappspove e
+      kvartbekkasin (nomi norvegesi).
+
+
+      Le stagioni scandiscono la vita: il sole di mezzanotte splende dal 23 maggio al 20 luglio, mentre la
+      notte polare cala dal 20 novembre al 23 gennaio.
+    visit: >-
+      Il punto di riferimento per i visitatori è il centro di Øvre Pasvik a Svanvik. Da Kirkenes si segue la
+      strada 8850 verso sud lungo la valle Pasvikdalen per circa 35 km. Inaugurato nel 2001, documenta natura,
+      cultura e tradizioni della valle, illustrando la foresta primaria del parco nazionale e la ricchezza
+      ornitica della riserva, dedicando ampio spazio all'orso bruno. Narra inoltre la storia dei sami skolt,
+      la popolazione indigena di Pasvik, e il loro sapiente impiego di pelli di renna, palchi, radici e
+      tendini. Attorno sorge l'unico orto botanico del Finnmark, fondato nel 1998, ideale da ammirare tra
+      luglio e agosto.
+
+
+      Per il birdwatching, a Skrøytnes sorge una torre d'avvistamento accessibile affacciata su Lille Skogøy e
+      sulla porzione sud dello Svanevatn, oltre a un capanno a Gjøkbukta nell'Øvre Pasvik. Dalla torre sulla
+      collina 96 si domina l'intera piana fino alla Russia, postazione ideale per scorgere l'orso bruno nelle
+      torbiere aperte.
+    history: >-
+      Le attestazioni archeologiche più antiche risalgono alla cultura Komsa dell'Età della Pietra:
+      cacciatori-raccoglitori nomadi che raggiungevano la valle d'estate per pescare nel fiume. Le prime
+      memorie scritte risalgono al XVI secolo, quando i sami skolt popolavano stabilmente l'area. Il confine
+      fu delimitato nel 1826, seguito da una corrente migratoria finlandese a partire dagli anni 1850. I
+      naturalisti Hans Schaanning e Johan Koren si stabilirono nella valle nel 1900 conducendo pionieristiche
+      ricerche ornitologiche; Schaanning vi rimase per dodici anni.
+
+
+      La Norvegia avviò l'iter di tutela nel 1978 per salvaguardare le zone umide indispensabili agli uccelli
+      acquatici, a cominciare dal Fjærvann. Il comparto norvegese è sito Ramsar dal 1996. La riserva è parte
+      del Parco Trilaterale Pasvik-Inari, insieme al parco nazionale Øvre Pasvik, all'area paesaggistica
+      protetta Øvre Pasvik e alla riserva finlandese di Vätsäri.
+    before: >-
+      Il centro visitatori osserva orari differenti tra stagione estiva e invernale. Verifica aperture e
+      condizioni d'accesso prima di metterti in viaggio.
+    around: >-
+      Pasvik non ha vicini prossimi nell'atlante, ma condivide orso bruno, alce, taiga e torbiere con altri
+      territori boreali. Il [Parco Nazionale di Gutulia](/lugar/gutulia-national-park/) e il [Parco Nazionale
+      di Hamra](/lugar/hamra-national-park/) racchiudono foreste primarie e acquitrini analoghi. Anche il
+      [Parco Nazionale di Muddus](/lugar/muddus-national-park/) e il [Parco Nazionale di
+      Soomaa](/lugar/soomaa-rahvuspark/) tutelano vaste torbiere e corridoi fluviali.
+  pt:
+    intro: >-
+      No extremo nordeste da Noruega corre um rio que não obedece estritamente a demarcações fronteiriças. O
+      Pasvikelva desce do lago Inari até ao mar de Barents e, no seu troço norueguês, a Reserva Natural de
+      Pasvik protege um dos poucos recantos onde ainda corre quase como outrora, antes de ser represado por
+      sete centrais hidroelétricas. Do outro lado da linha fica a parcela russa: a reserva é bilateral, criada
+      em 1992 na Rússia e em 1993 na Noruega, somando 166,4 km² no seu conjunto. O cenário que se avista
+      daqui, entre águas lentas, turfeiras e pinhais, é um fragmento de taiga tipicamente siberiano.
+    landscape: >-
+      O coração da reserva norueguesa é o lago Fjærvann, um espelho de água pouco profundo com vegetação densa
+      de cavalinhas, ciperáceas, caniçais e matagais de salgueiro e bétula. É um dos raros setores fluviais
+      que perduram quase intocados pelas barragens, daí a sua importância decisiva para as aves aquáticas:
+      liberta-se do gelo cedo na primavera, enquanto as albufeiras do restante rio continuam completamente
+      congeladas. Essas represas mantêm-se cobertas de gelo de outubro a maio.
+
+
+      A secção norueguesa estende-se por 12 km desde Jordanfoss a norte até à barragem de Hestefoss, atingindo
+      5 km de largura. O vale é plano e largo; a paisagem foi moldada por duas vagas glaciares no Quaternário,
+      deixando moreias e depósitos de água de degelo. Onde o solo drena mal dominam as turfeiras, elemento
+      preponderante na paisagem.
+
+
+      A flora marca a transição entre domínios geográficos. O pinheiro-silvestre é a árvore predominante, com
+      abetos-falsos dispersos, choupos-tremedores, tramazeiras, amieiros e salgueiros-das-cabras; no norte
+      prevalece a bétula. A este mosaico juntam-se plantas alpinas invulgares em terras baixas húmidas, como a
+      saxífraga-das-neves e o chá-do-labrador-dos-pântanos, bem como espécies siberianas que normalmente não
+      ultrapassam a península de Kola.
+    wildlife: >-
+      Pasvik fica na encruzilhada entre faunas ocidentais e orientais, unindo a taiga boreal à tundra ártica.
+      Nos grandes mamíferos avultam o [urso-pardo](/especie/ursus_arctos/), o [alce](/especie/alces_alces/),
+      um contingente crescente de [lobos-cinzentos](/especie/canis_lupus/) e o esquivo
+      [glutão](/especie/gulo_gulo/). O vale de Pasvik regista a maior densidade de ursos-pardos da Noruega. O
+      lemingue-da-noruega é o único mamífero genuinamente ártico.
+
+
+      Contudo, a verdadeira glória da reserva pertence às aves. Registaram-se 212 espécies desde 1987,
+      nidificando 68 com regularidade. Entre as nidificantes vulgares contam-se a mobelha-ártica, o
+      ganso-campestre e vários patos; as limícolas fervilham ao longo das margens, destacando-se o
+      borrelho-grande-de-coleira, o combatente e o perna-vermelha-escuro. O
+      [cisne-bravo](/especie/cygnus_cygnus/) é a ave emblemática, reunindo bandos vistosos na migração. Nas
+      rapinas são frequentes a águia-calçada-ártica e o esmerilhão, sendo a
+      [águia-rabalva](/especie/haliaeetus_albicilla/) e a [águia-real](/especie/aquila_chrysaetos/) mais
+      esporádicas. A reserva fixa o limite ocidental de aves orientais como lappfiskand, sotsnipe, lappspove e
+      kvartbekkasin (nomes noruegueses).
+
+
+      O ciclo solar dita o ritmo natural: o sol da meia-noite brilha de 23 de maio a 20 de julho, ao passo que
+      a noite polar vigora de 20 de novembro a 23 de janeiro.
+    visit: >-
+      A porta de acolhimento é o centro de visitantes de Øvre Pasvik, em Svanvik. Desde Kirkenes, toma-se a
+      estrada 8850 para sul através de Pasvikdalen durante cerca de 35 km. Fundado em 2001, divulga a
+      natureza, cultura e história do vale, descrevendo os bosques virgens do parque nacional e as aves da
+      reserva, dedicando ao urso-pardo um papel fulcral. Retrata também o legado dos samis skolt, a comunidade
+      autóctone de Pasvik, e a forma como utilizavam peles, hastes, raízes e tendões de renas. Em redor
+      estende-se o único jardim botânico de Finnmark, criado em 1998, no auge em julho e agosto.
+
+
+      Para a observação de aves, em Skrøytnes existe uma torre panorâmica comunitária virada para Lille Skogøy
+      e para a zona sul de Svanevatn, existindo ainda um abrigo em Gjøkbukta no Øvre Pasvik. Do alto da torre
+      na colina 96 avista-se a bacia de Pasvik e o território russo, constituindo um posto privilegiado para
+      procurar o urso-pardo nas turfeiras abertas.
+    history: >-
+      Os vestígios humanos mais recuados reportam à cultura Komsa da Idade da Pedra: pescadores-coletores
+      nómadas que acorriam no verão para pescar no rio. Os registos escritos mais antigos remontam ao século
+      XVI, quando os samis skolt já habitavam o vale. A fronteira foi demarcada em 1826, seguindo-se a
+      imigração finlandesa a partir da década de 1850. Os naturalistas Hans Schaanning e Johan Koren
+      fixaram-se no vale em 1900 desenvolvendo estudos ornitológicos capitais; Schaanning permaneceu doze
+      anos.
+
+
+      A Noruega equacionou a proteção em 1978 dada a relevância das zonas húmidas para aves aquáticas,
+      mormente Fjærvann. A parcela norueguesa é sítio Ramsar desde 1996. A reserva integra o Parque Trilateral
+      Pasvik-Inari, em conjunto com o parque nacional Øvre Pasvik, a área de paisagem protegida Øvre Pasvik e
+      a reserva finlandesa de Vätsäri.
+    before: >-
+      O centro de visitantes pratica horários diferenciados no verão e no inverno. Confirma previamente os
+      horários e normas de acesso.
+    around: >-
+      Pasvik não tem vizinhos imediatos no atlas, mas partilha urso-pardo, alce, florestas boreais e turfeiras
+      com paragens remotas. O [Parque Nacional de Gutulia](/lugar/gutulia-national-park/) e o [Parque Nacional
+      de Hamra](/lugar/hamra-national-park/) conservam florestas primárias e turfeiras semelhantes. O [Parque
+      Nacional de Muddus](/lugar/muddus-national-park/) e o [Parque Nacional de
+      Soomaa](/lugar/soomaa-rahvuspark/) albergam igualmente vastas turfeiras e corredores fluviais.
+fuentes:
+  - url: https://www.statsforvalteren.no/troms-finnmark/miljo-klima/verneomrader/pasvik-naturreservat-er-30-ar/
+    titulo: Pasvik naturreservat er 30 år
+    fecha_consulta: '2026-10-04'
+  - url: https://pasvik.no/om-besokssenter/
+    titulo: Besøkssenter Øvre Pasvik
+    fecha_consulta: '2026-10-04'
+  - url: https://pasvik.no/elementor-1408/
+    titulo: Visitor Centre Øvre Pasvik National Park
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Pasvik_Nature_Reserve
+    titulo: Pasvik Nature Reserve - Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://no.wikipedia.org/wiki/Pasvik_naturreservat
+    titulo: Pasvik naturreservat – Wikipedia
+    fecha_consulta: '2026-10-04'

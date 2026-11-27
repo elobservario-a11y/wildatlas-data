@@ -1,0 +1,557 @@
+id: knoydart
+estado_editorial: valoracion-revisada
+nombre:
+  es: Península de Knoydart - La Última Gran Naturaleza Salvaje de Escocia
+  en: Knoydart Peninsula - Scotland's Last Great Wilderness
+  fr: Péninsule de Knoydart - La dernière grande nature sauvage d'Écosse
+  de: Knoydart-Halbinsel – Schottlands letzte große Wildnis
+  it: Penisola di Knoydart - L'ultima grande natura selvaggia di Scozia
+  pt: Península de Knoydart - A Última Grande Natureza Selvagem da Escócia
+nombre_original: Knoydart
+alias:
+  - Knoydart
+paises:
+  - GB
+region:
+  es: Escocia (Highlands / Mallaig / Inverie)
+  en: Scotland (Highlands / Mallaig / Inverie)
+  fr: Écosse (Highlands / Mallaig / Inverie)
+  de: Schottland (Highlands / Mallaig / Inverie)
+  it: Scozia (Highlands / Mallaig / Inverie)
+  pt: Escócia (Highlands / Mallaig / Inverie)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/9357852
+  nombre_en_la_fuente: Knoydart
+  capa: capas/osm/knoydart.geojson
+habitats:
+  - high_mountain
+  - coast
+  - mature_forest
+especies:
+  - cervus_elaphus
+  - aquila_chrysaetos
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Inverie es la única aldea británica sin conexión por carretera con el resto de la isla
+  en: Inverie is the only settlement in Great Britain without road connection to the rest of the island
+  fr: Inverie est l'unique village britannique dépourvu de raccordement routier avec le reste de l'île
+  de: >-
+    Inverie ist die einzige Siedlung Großbritanniens ohne Straßenverbindung zum restlichen Straßennetz der
+    Insel
+  it: Inverie è l'unico villaggio britannico privo di collegamento stradale con il resto dell'isola
+  pt: >-
+    Inverie é a única povoação da Grã-Bretanha sem qualquer ligação rodoviária com o restante território da
+    ilha
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Knoydart Foundation Official Portal
+    url: https://www.knoydart.org/
+  - titulo: Accesos y normas — Preparar la visita de Knoydart
+    url: https://knoydart.org/plan-your-visit/
+  - titulo: Rutas — Paseos guiados por la fundación
+    url: https://knoydart.org/activities-and-events/guided-walks-and-tours/
+resumen:
+  es: >-
+    Conocida como 'la última wilderness de Gran Bretaña', una península sin carreteras asfaltadas de acceso
+    exterior dominada por cumbres *Munros* y el pub más remoto del Reino Unido (The Old Forge).
+  en: >-
+    Known as "Britain's last wilderness", a roadless peninsula dominated by Munro peaks and home to the UK's
+    most remote pub, The Old Forge.
+  fr: >-
+    Considérée comme la dernière contrée sauvage de Grande-Bretagne, une péninsule sans route extérieure
+    dominée par des Munros et le pub le plus isolé du Royaume-Uni.
+  de: >-
+    Gilt als letzte echte Wildnis Großbritanniens: Eine straßenlose Halbinsel, überragt von Munro-Gipfeln und
+    Heimat des entlegensten Pubs Großbritanniens.
+  it: >-
+    Ritenuta l'ultima vera wilderness della Gran Bretagna, una penisola priva di strade rotabili esterne
+    dominata da vette Munro e dal pub più isolato del Regno Unito.
+  pt: >-
+    Considerada a última grande wilderness da Grã-Bretanha, uma península sem ligação rodoviária exterior
+    dominada por picos Munro e pelo pub mais isolado do Reino Unido.
+unico:
+  es: >-
+    En Knoydart quedan fragmentos de un bosque templado lluvioso poco común, bajo cumbres que superan los mil
+    metros.
+  en: >-
+    Rare fragments of temperate rainforest survive in Knoydart beneath soaring peaks that rise well over a
+    thousand metres.
+  fr: >-
+    À Knoydart subsistent de rares fragments de forêt pluviale tempérée sous des cimes s'élevant à plus de
+    mille mètres.
+  de: >-
+    Auf Knoydart überleben seltene Reste eines gemäßigten Regenwalds unter Berggipfeln, die weit über tausend
+    Meter aufragen.
+  it: >-
+    A Knoydart sopravvivono rari frammenti di foresta pluviale temperata ai piedi di vette che superano
+    abbondantemente i mille metri.
+  pt: >-
+    Em Knoydart sobrevivem fragmentos raros de floresta temperada húmida sob cumes montanhosos que superam bem
+    os mil metros.
+observaciones:
+  es: >-
+    Revisa el horario y el estado del ferry con el operador antes de salir: el tiempo puede cambiarlo. Si
+    entras a pie, hazlo solo con experiencia, equipo y preparación para el tiempo. Pregunta a los guardas por
+    las salidas disponibles.
+texto:
+  es:
+    intro: >-
+      A Knoydart no se llega por carretera, y eso lo cambia todo. No hay vías públicas que entren en la
+      península: todos llegan en ferry o a pie, y las siete millas de carretera asfaltada que hay dentro no se
+      conectan con la red del Reino Unido. Está encajada entre los lagos Nevis y Hourn, en Lochaber, en la
+      costa oeste de Escocia. Se la conoce como la última naturaleza salvaje de Gran Bretaña.
+    landscape: >-
+      Knoydart se ha descrito como «las Highlands de las Highlands», con valles amplios, torrentes bramando y
+      lagos tranquilos. Es una de las cuarenta Áreas Escénicas Nacionales de Escocia, con 50.696 hectáreas, de
+      ellas 40.201 de tierra y 10.495 de mar.
+
+
+      Las montañas mandan. Los Munros de la península son Ladhar Bheinn (1020 m), Luinne Bheinn (939 m), Meall
+      Buidhe (946 m) y Sgurr na Cìche (1040 m), y atraen a los amantes de la montaña de todo el país. Pero
+      igual de llamativos son los fragmentos de bosque lluvioso templado, escaso y asombroso, que se pueden
+      apreciar sin escalar nada.
+
+
+      Alrededor del pueblo de Inverie, donde empieza el viaje casi todo el mundo, la gente de Knoydart ha
+      plantado bosque nativo. El más notable está en Garsley, en las laderas norte del Corbett Sgurr Coire
+      Choinnichean: se plantó a principios de los noventa y hoy es un hábitat diverso, donde antes solo
+      quedaban unos pocos árboles viejos dominados por los ciervos. Con la Knoydart Forest Trust se han
+      plantado ya 800.000 árboles en tierras comunitarias y vecinas.
+    wildlife: >-
+      La naturaleza de Knoydart se mira despacio. Los guardas organizan salidas para ver
+      [nutrias](/especie/lutra_lutra/) en Slisneach y focas en la playa de Samadalan, y adaptan las salidas a
+      lo que le interese al grupo, desde la recolección de plantas hasta buscar nutrias.
+
+
+      El [ciervo rojo](/especie/cervus_elaphus/) es parte de esta historia: su población dominaba las laderas
+      de Garsley cuando solo había unos pocos árboles viejos. La fundación cuida 7.000 hectáreas con el
+      objetivo de regenerar la naturaleza y la comunidad, fijar más carbono y mejorar la biodiversidad.
+    visit: >-
+      Hay tres maneras de entrar. La más fácil y popular es el ferry de Mallaig a Inverie, que cruza en unos
+      treinta a cuarenta y cinco minutos; los horarios dependen de la temporada y del tiempo. Las otras dos
+      son a pie, y solo para caminantes con experiencia, bien equipados y preparados para el tiempo. Desde
+      Kinloch Hourn, unos 16 km que suelen llevar entre cinco y siete horas, es la ruta más popular. Desde
+      Glenfinnan, unos 24 km, de siete a nueve horas. Y la ruta desde Loch Arkaig o Barrisdale es más remota y
+      exigente.
+
+
+      En Inverie, el puesto de los guardas está entre el Old Forge y el embarcadero. Los paseos públicos con
+      ellos duran dos horas y media por los bosques del pueblo, y las salidas privadas incluyen paseos por
+      Inverie y un viaje en Land Rover al corazón de Knoydart hasta las cascadas de Folach. La fundación
+      alquila bicicletas de montaña, con las que se llega a Sandaig, Folach e Inverguseran. Hasta un paseo de
+      media hora por los bosques comunitarios del pueblo merece la pena.
+    history: >-
+      Antes del levantamiento jacobita de 1745 la población rondaba el millar. Hubo mucha emigración a Canadá,
+      y en 1853 trescientas treinta personas de la costa oeste embarcaron en el Sillery. En 1948 los Siete
+      Hombres de Knoydart intentaron ocupar tierras de la finca para tener sus propias granjas; perdieron en
+      los tribunales, y en 1981 se inauguró en Inverie un túmulo en su memoria.
+
+
+      La Knoydart Foundation se creó en 1997 para hacerse con la finca de unas 7.100 hectáreas; es una alianza
+      de vecinos, el consejo de Highland, el Chris Brasher Trust y el John Muir Trust.
+    before: >-
+      Revisa el horario y el estado del ferry con el operador antes de salir: el tiempo puede cambiarlo. Si
+      entras a pie, hazlo solo con experiencia, equipo y preparación para el tiempo. Pregunta a los guardas
+      por las salidas disponibles.
+    around: >-
+      A unos veintiocho kilómetros queda la [Reserva Natural Nacional de la Isla de
+      Rum](/lugar/isle-of-rum-national-nature-reserve/).
+  en:
+    intro: >-
+      You cannot drive to Knoydart, and that changes everything. No public roads enter the peninsula: everyone
+      arrives by ferry or on foot, and the seven miles of single-track tarmac within its bounds do not connect
+      to the UK road network. Wedged between Loch Nevis and Loch Hourn in Lochaber on the west coast of
+      Scotland, it is celebrated as the last great wilderness in Britain.
+    landscape: >-
+      Knoydart has often been described as "the Highlands of the Highlands", defined by wide glens, roaring
+      torrents, and serene sea lochs. It is one of forty National Scenic Areas in Scotland, covering 50,696
+      hectares, comprising 40,201 hectares of land and 10,495 of marine waters.
+
+
+      The mountains rule here. The peninsula's Munros are Ladhar Bheinn (1020 m), Luinne Bheinn (939 m), Meall
+      Buidhe (946 m), and Sgurr na Cìche (1040 m), drawing hillwalkers from across the world. Equally
+      striking, however, are the remnants of ancient temperate rainforest—rare, moss-draped, and
+      spectacular—which you can explore without scaling a single summit.
+
+
+      Around the coastal village of Inverie, where almost every visitor begins, the local community has
+      undertaken extensive native woodland restoration. The most remarkable regeneration stands at Garsley on
+      the northern slopes of the Corbett Sgurr Coire Choinnichean: planted in the early nineties, it has
+      transformed into a rich, biodiverse habitat where previously only a few aged trees survived heavy deer
+      pressure. Through the Knoydart Forest Trust, over 800,000 trees have now been planted across community
+      and neighbouring lands.
+    wildlife: >-
+      Knoydart's wildlife is best appreciated at an unhurried pace. Community rangers guide wildlife walks to
+      observe [otters](/especie/lutra_lutra/) along Slisneach and harbour seals hauled out at Samadalan beach,
+      tailoring itineraries to group interests ranging from coastal foraging to otter tracking.
+
+
+      [Red deer](/especie/cervus_elaphus/) are an integral part of this landscape's history: their high
+      numbers once held back regeneration across the Garsley slopes when only isolated ancient trees remained.
+      Today the foundation manages 7,000 hectares with the threefold goal of ecological restoration, community
+      resilience, and carbon sequestration while enhancing biodiversity.
+    visit: >-
+      There are three ways into Knoydart. The easiest and most popular is the passenger ferry from Mallaig to
+      Inverie, taking about thirty to forty-five minutes; sailing timetables depend on the season and
+      prevailing weather. The other two routes are on foot, recommended exclusively for experienced,
+      well-equipped hillwalkers prepared for unpredictable Scottish weather. From Kinloch Hourn, a demanding
+      16 km walk takes between five and seven hours, representing the most frequented walking entry. From
+      Glenfinnan, a 24 km traverse requires seven to nine hours of strenuous trekking. A third route from Loch
+      Arkaig or Barrisdale is even more remote and arduous.
+
+
+      In Inverie, the ranger station stands between The Old Forge and the pier. Regular ranger-led walks
+      explore community woodlands over two hours and a half, while private outings include historical village
+      tours and Land Rover expeditions into the heart of Knoydart up to the Folach waterfalls. The foundation
+      rents mountain bikes to reach Sandaig, Folach, and Inverguseran. Even a gentle half an hour stroll
+      through village woods is deeply rewarding.
+    history: >-
+      Before the Jacobite rising of 1745, Knoydart supported a thriving population of around a thousand
+      people. Successive waves of emigration to Canada followed, culminating in 1853 when three hundred and
+      thirty people from the west coast were cleared aboard the vessel Sillery. In 1948, the Seven Men of
+      Knoydart attempted a land raid to secure family crofts on the estate; though defeated in court, a
+      commemorative cairn was unveiled at Inverie in 1981 honouring their stand for land reform.
+
+
+      The community-led Knoydart Foundation was established in 1997 to purchase the 7,100 hectare estate,
+      forged through a groundbreaking partnership between local residents, the Highland Council, the Chris
+      Brasher Trust, and the John Muir Trust.
+    before: >-
+      Always verify ferry schedules and sailing conditions with the boat operator before setting out, as rough
+      seas frequently cause cancellations. If walking in, embark only with proven wilderness experience, full
+      mountain gear, and thorough preparation for severe Atlantic weather. Inquire with local rangers about
+      available guided wildlife walks.
+    around: >-
+      Around twenty-eight kilometres across the water lies the wild expanse of the [Isle of Rum National
+      Nature Reserve](/lugar/isle-of-rum-national-nature-reserve/).
+  fr:
+    intro: >-
+      On ne vient pas à Knoydart en voiture, et cela bouleverse absolument tout. Aucune route publique ne
+      pénètre dans la péninsule : tout le monde y accède par ferry ou à pied, et les sept milles de route
+      goudronnée intérieure ne communiquent aucunement avec le réseau routier britannique. Enclavée entre le
+      loch Nevis et le loch Hourn, dans le Lochaber sur le littoral ouest de l'Écosse, elle est reconnue comme
+      la dernière grande contrée sauvage de Grande-Bretagne.
+    landscape: >-
+      Knoydart a souvent été dépeinte comme « les Highlands des Highlands », caractérisée par de vastes glens,
+      des torrents tumultueux et des lochs marins paisibles. Elle forme l'une des quarante aires paysagères
+      nationales d'Écosse, s'étendant sur 50 696 hectares, dont 40 201 hectares de terres et 10 495 de domaine
+      marin.
+
+
+      Ici, la montagne règne sans partage. Les Munros de la péninsule comprennent le Ladhar Bheinn (1020 m),
+      le Luinne Bheinn (939 m), le Meall Buidhe (946 m) et le Sgurr na Cìche (1040 m), qui attirent les
+      randonneurs chevronnés du pays tout entier. Tout aussi saisissants sont les lambeaux de forêt pluviale
+      tempérée, rares et moussus, que vous pouvez apprécier sans escalader le moindre sommet.
+
+
+      Autour du village côtier d'Inverie, où commence le voyage de la quasi-totalité des visiteurs, les
+      habitants ont replanté de vastes boisements indigènes. L'exemple le plus remarquable s'étend à Garsley,
+      sur le versant nord du Corbett Sgurr Coire Choinnichean : planté au début des années quatre-vingt-dix,
+      il forme aujourd'hui un écosystème diversifié là où ne subsistaient que quelques vieux arbres rongés par
+      les hardes de cerfs. Grâce au Knoydart Forest Trust, plus de 800 000 arbres ont désormais été plantés
+      sur les terres communautaires et voisines.
+    wildlife: >-
+      La faune de Knoydart s'observe avec lenteur et patience. Les gardes du domaine organisent des sorties
+      d'observation de la [loutre d'Europe](/especie/lutra_lutra/) le long de Slisneach et des phoques sur
+      l'estran de Samadalan, adaptant leurs parcours aux souhaits du groupe, de la cueillette de plantes
+      côtières au pistage de la loutre.
+
+
+      Le [cerf élaphe](/especie/cervus_elaphus/) est indissociable de cette épopée : ses effectifs dominaient
+      les pentes de Garsley à l'époque où ne subsistaient que de rares arbres séculaires. La fondation
+      communautaire veille sur 7 000 hectares avec pour mission de régénérer le couvert végétal, d'ancrer la
+      communauté, de stocker davantage de carbone et de fortifier la biodiversité.
+    visit: >-
+      Trois voies permettent d'atteindre Knoydart. La plus simple et la plus prisée est le ferry pour piétons
+      reliant Mallaig à Inverie, effectuant la traversée en trente à quarante-cinq minutes ; les rotations
+      dépendent de la saison et de la météo maritime. Les deux autres s'effectuent à pied et s'adressent
+      exclusivement à des marcheurs expérimentés, parfaitement équipés et préparés aux caprices du climat.
+      Depuis Kinloch Hourn, une randonnée de 16 km requiert généralement entre cinq et sept heures de marche,
+      constituant l'accès pédestre le plus fréquenté. Depuis Glenfinnan, un itinéraire de 24 km demande sept à
+      neuf heures d'effort soutenu. L'itinéraire depuis le loch Arkaig ou Barrisdale est encore plus sauvage
+      et exigeant.
+
+
+      À Inverie, le bureau des rangers se situe entre The Old Forge et la jetée. Les balades guidées publiques
+      durent deux heures et demie à travers les forêts communautaires, tandis que des sorties privées incluent
+      des visites du village et une excursion en Land Rover jusqu'aux cascades de Folach. La fondation propose
+      des vélos tout-terrain à la location pour rejoindre Sandaig, Folach ou Inverguseran. Même une simple
+      flânerie d'une demi-heure dans les bois du village vaut amplement le détour.
+    history: >-
+      Avant le soulèvement jacobite de 1745, la population péninsulaire avoisinait le millier d'âmes. De
+      lourdes vagues d'émigration vers le Canada s'ensuivirent, culminant en 1853 lors de l'embarquement forcé
+      de trois cent trente personnes de la côte ouest sur le navire Sillery. En 1948, les Sept Hommes de
+      Knoydart tentèrent d'occuper des parcelles du domaine pour y fonder leurs propres tenures agricoles ;
+      déboutés par la justice, un cairn mémoriel fut inauguré en leur honneur à Inverie en 1981.
+
+
+      La fondation Knoydart vit le jour en 1997 pour acquérir le grand domaine d'environ 7 100 hectares, grâce
+      à une union inédite réunissant riverains, conseil des Highlands, Chris Brasher Trust et John Muir Trust.
+    before: >-
+      Vérifiez l'horaire et l'état du ferry auprès de l'opérateur avant de partir : la météo peut le modifier.
+      Si vous entrez à pied, ne le faites qu'avec expérience, bon équipement et préparation face au temps.
+      Renseignez-vous auprès des gardes sur les sorties disponibles.
+    around: >-
+      À environ vingt-huit kilomètres au large se profile la [réserve naturelle nationale de l'île de
+      Rum](/lugar/isle-of-rum-national-nature-reserve/).
+  de:
+    intro: >-
+      Knoydart lässt sich nicht auf Straßen erreichen, und das verändert von Grund auf alles. Keine
+      öffentliche Straße führt auf die Halbinsel: Alle Besucher reisen per Schiff oder zu Fuß an, und die
+      sieben Meilen einspuriger Teerstraße im Inneren besitzen keinerlei Anschluss an das britische
+      Fernstraßennetz. Eingebettet zwischen Loch Nevis und Loch Hourn in Lochaber an der Westküste
+      Schottlands, gilt sie weithin als die letzte große Wildnis Großbritanniens.
+    landscape: >-
+      Knoydart wurde oft als „die Highlands der Highlands“ beschrieben, geprägt von weiten Glens, brausenden
+      Bergbächen und stillen Meeresarmen. Sie bildet eines von vierzig Nationalen Landschaftsschutzgebieten
+      Schottlands mit 50.696 Hektar Gesamtfläche, davon 40.201 Hektar Land und 10.495 Hektar marine Gewässer.
+
+
+      Hier bestimmt das Hochgebirge den Takt. Die Munros der Halbinsel heißen Ladhar Bheinn (1020 m), Luinne
+      Bheinn (939 m), Meall Buidhe (946 m) und Sgurr na Cìche (1040 m) und ziehen Bergsteiger aus ganz
+      Großbritannien in ihren Bann. Nicht minder eindrucksvoll sind jedoch die moosbehangenen Fragmente des
+      gemäßigten Regenwalds – selten und urtümlich –, die du auch ohne jede Kletterpartie durchstreifen
+      kannst.
+
+
+      Rund um das Küstendorf Inverie, an dem fast jede Entdeckungsreise ihren Anfang nimmt, forstet die
+      Dorfgemeinschaft einheimische Laubwälder auf. Der bemerkenswerteste Bestand wächst bei Garsley an den
+      Nordhängen des Corbetts Sgurr Coire Choinnichean: Anfang der neunziger Jahre gepflanzt, gedeiht dort
+      heute ein artenreicher Lebensraum, wo einst unter hohem Wildverbiss nur ein paar überalterte
+      Baumveteranen überdauerten. Über den Knoydart Forest Trust wurden inzwischen 800.000 Bäume auf
+      Gemeinschaftsland und Nachbargütern gepflanzt.
+    wildlife: >-
+      Die Tierwelt Knoydarts erschließt sich mit Bedacht und Zeit. Die Ranger veranstalten geführte
+      Wanderungen zur Beobachtung von [Fischottern](/especie/lutra_lutra/) bei Slisneach und Seehunden an der
+      Küste von Samadalan, wobei die Routen flexibel an die Wünsche der Gruppe angepasst werden, von
+      botanischen Streifzügen bis zur Ottersuche.
+
+
+      Der [Rothirsch](/especie/cervus_elaphus/) ist untrennbar mit diesem Landstrich verknüpft: Hohe
+      Hirschbestände dominierten einst die Hänge von Garsley, als dort kaum noch Gehölzverjüngung aufkam. Die
+      örtliche Stiftung betreut 7.000 Hektar mit dem Ziel, die Naturlandschaft zu verjüngen, die Gemeinde zu
+      stärken, Kohlenstoff zu binden und die Biodiversität spürbar anzuheben.
+    visit: >-
+      Es gibt drei Zugangswege nach Knoydart. Der bequemste und beliebteste Weg ist die Passagierfähre von
+      Mallaig nach Inverie, die die Meeresenge in etwa dreißig bis fünfundvierzig Minuten überquert; der
+      Fahrplan variiert je nach Saison und Seegang. Die beiden anderen Routen verlaufen zu Fuß und setzen
+      alpine Erfahrung, vollwertige Bergausrüstung und Wetterfestigkeit voraus. Von Kinloch Hourn aus führt
+      ein anspruchsvoller Pfad über 16 km, für den Wanderer fünf bis sieben Stunden benötigen; es ist der
+      meistbegangene Fußweg. Von Glenfinnan aus erstreckt sich eine 24 km lange Trekkingroute, die sieben bis
+      neun Stunden harter Wanderung abverlangt. Ein noch abgeschiedenerer Pfad führt von Loch Arkaig oder
+      Barrisdale über wilde Pässe.
+
+
+      In Inverie liegt die Ranger-Station zwischen The Old Forge und der Anlegestelle. Die geführten
+      Ranger-Touren dauern zweieinhalb Stunden durch die Wälder des Ortes, während private Exkursionen
+      Dorfrundgänge und Land-Rover-Fahrten ins Herz Knoydarts bis zu den Wasserfällen von Folach umfassen. Die
+      Stiftung verleiht Mountainbikes für Ausflüge nach Sandaig, Folach und Inverguseran. Selbst ein
+      halbstündiger Spaziergang durch die Gemeindewälder lohnt sich allemal.
+    history: >-
+      Vor dem Jakobitenaufstand von 1745 zählte die Halbinsel rund tausend Einwohner. Wiederholte
+      Emigrationswellen nach Kanada veränderten das Siedlungsbild dramatisch, bis 1853 dreihundertdreißig
+      Bewohner der Westküste auf dem Schiff Sillery zwangsweise nach Übersee eingeschifft wurden. Im Jahr 1948
+      versuchten die Sieben Männer von Knoydart eine Landbesetzung auf dem herrschaftlichen Anwesen, um kleine
+      Bauernstellen zu erstreiten; sie unterlagen vor Gericht, doch 1981 wurde in Inverie ein Gedenk-Cairn zu
+      ihren Ehren errichtet.
+
+
+      Die Knoydart Foundation gründete sich 1997, um das rund 7.100 Hektar große Anwesen gemeinschaftlich zu
+      erwerben – ein Meilenstein partnerschaftlicher Zusammenarbeit zwischen Einwohnern, Highland Council,
+      Chris Brasher Trust und John Muir Trust.
+    before: >-
+      Prüfe Fahrplan und Fährverbindungen vor Reiseantritt direkt bei der Reederei, da raue Atlantikstürme
+      Fährfahrten kurzfristig lahmlegen können. Reist du zu Fuß an, gehe nur mit alpiner Erfahrung, kompletter
+      Outdoor-Ausrüstung und ständiger Vorbereitung auf wechselhaftes Wetter los. Erkundige dich bei den
+      Rangern nach geführten Naturtouren.
+    around: >-
+      Etwa achtundzwanzig Kilometer seewärts liegt das wilde Inselrefugium [Isle of Rum National Nature
+      Reserve](/lugar/isle-of-rum-national-nature-reserve/).
+  it:
+    intro: >-
+      A Knoydart non si arriva in automobile, e questo cambia completamente ogni prospettiva. Nessuna strada
+      pubblica conduce alla penisola: tutti vi giungono in traghetto o a piedi, e le sette miglia di asfalto a
+      corsia singola presenti all'interno non sono collegate alla rete viaria del Regno Unito. Serrata tra il
+      Loch Nevis e il Loch Hourn, nel Lochaber sulla costa occidentale scozzese, è considerata l'ultima vera
+      wilderness di Gran Bretagna.
+    landscape: >-
+      Knoydart è stata spesso definita «le Highlands delle Highlands», scandita da ampi glen, torrenti
+      scroscianti e placidi fiordi marini. È una delle quaranta aree paesaggistiche nazionali della Scozia e
+      copre 50.696 ettari, suddivisi tra 40.201 ettari terrestri e 10.495 ettari marini.
+
+
+      Le montagne dominano la scena. I Munro della penisola sono Ladhar Bheinn (1020 m), Luinne Bheinn (939
+      m), Meall Buidhe (946 m) e Sgurr na Cìche (1040 m), richiamo irresistibile per gli escursionisti esperti
+      di tutta la nazione. Altrettanto sorprendenti sono i lembi superstiti di foresta pluviale temperata,
+      rari e ammantati di muschi, che puoi esplorare agevolmente senza dover scalare alcuna vetta.
+
+
+      Attorno al villaggio costiero di Inverie, dove comincia il viaggio di quasi ogni visitatore, la comunità
+      locale ha intrapreso un esteso rimboschimento con specie autoctone. Il nucleo più ragguardevole sorge a
+      Garsley, sui versanti settentrionali del Corbett Sgurr Coire Choinnichean: piantato nei primi anni
+      novanta, è oggi un habitat florido e diversificato là dove in passato resistevano solo pochi alberi
+      decrepiti sottoposti alla pressione dei cervi. Tramite il Knoydart Forest Trust sono già stati messi a
+      dimora oltre 800.000 alberi su terreni comunitari e limitrofi.
+    wildlife: >-
+      La natura di Knoydart va assaporata con calma. I ranger locali organizzano escursioni per avvistare la
+      [lontra europea](/especie/lutra_lutra/) lungo Slisneach e le foche spiaggiate sulla riva di Samadalan,
+      calibrando gli itinerari sugli interessi dei visitatori, dal foraggiamento costiero al tracciamento
+      della fauna selvatica.
+
+
+      Il [cervo nobile](/especie/cervus_elaphus/) è parte integrante di queste terre: la sua abbondanza
+      dominava i versanti di Garsley quando sopravvivevano a stento pochi alberi vetusti. La fondazione
+      gestisce 7.000 ettari con l'intento di favorire la rigenerazione ecologica, sostenere la comunità
+      residente, stoccare carbonio e accrescere la biodiversità.
+    visit: >-
+      Esistono tre vie d'accesso a Knoydart. La più agevole e comune è il traghetto passeggeri da Mallaig a
+      Inverie, che compie la traversata in circa trenta o quarantacinque minuti; gli orari variano in base
+      alla stagione e alle condizioni marittime. Le altre due si compiono a piedi e sono destinate unicamente
+      a camminatori esperti, dotati di attrezzatura idonea e preparati al mutevole meteo scozzese. Da Kinloch
+      Hourn, un tragitto di 16 km richiede tra cinque e sette ore di cammino costante, rappresentando
+      l'accesso a piedi più battuto. Da Glenfinnan, un trekking di 24 km impegna per sette a nove ore di
+      marcia sostenuta. Un ulteriore itinerario da Loch Arkaig o Barrisdale risulta ancora più solitario e
+      faticoso.
+
+
+      A Inverie la stazione dei ranger sorge tra The Old Forge e il molo d'attracco. Le escursioni guidate
+      aperte al pubblico durano due ore e mezza tra i boschi del borgo, mentre le uscite private comprendono
+      tour storici e viaggi in Land Rover nel cuore di Knoydart fino alle cascate di Folach. La fondazione
+      noleggia mountain bike per raggiungere Sandaig, Folach e Inverguseran. Persino una rilassante camminata
+      di mezz'ora nei boschi comunitari regala grandi suggestioni.
+    history: >-
+      Prima dell'insurrezione giacobita del 1745 la penisola contava circa un migliaio di abitanti. Seguirono
+      imponenti ondate migratorie verso il Canada, sfociate nel 1853 nell'imbarco coatto di trecentotrenta
+      persone della costa occidentale sul veliero Sillery. Nel 1948 i Sette Uomini di Knoydart tentarono
+      un'occupazione simbolica delle terre feudali per ottenere poderi coltivabili; persero la causa
+      giudiziaria, ma nel 1981 fu inaugurato a Inverie un cairn di pietra in memoria della loro battaglia
+      sociale.
+
+
+      La Knoydart Foundation nacque nel 1997 per rilevare la tenuta di circa 7.100 ettari, grazie a una
+      storica intesa comunitaria tra residenti, Highland Council, Chris Brasher Trust e John Muir Trust.
+    before: >-
+      Controlla con attenzione gli orari e lo stato del traghetto prima della partenza, poiché le
+      perturbazioni atlantiche possono sospendere le corse navali. Se decidi di entrare a piedi, affronta il
+      cammino solo con solida esperienza alpina, equipaggiamento completo e preparazione alle intemperie.
+      Rivolgiti ai ranger per prenotare le uscite naturalistiche.
+    around: >-
+      A circa ventotto chilometri al largo si staglia la [Riserva naturale nazionale dell'Isola di
+      Rum](/lugar/isle-of-rum-national-nature-reserve/).
+  pt:
+    intro: >-
+      Não se chega a Knoydart por estrada, e isso muda por completo todas as regras. Não há rodovias públicas
+      que penetrem na península: todos os viajantes chegam de barco ou a pé, e as sete milhas de estrada
+      alcatroada no seu interior não têm qualquer ligação à rede viária do Reino Unido. Entalada entre o Loch
+      Nevis e o Loch Hourn, em Lochaber, na costa ocidental da Escócia, é aclamada como o último grande reduto
+      selvagem da Grã-Bretanha.
+    landscape: >-
+      Knoydart tem sido frequentemente descrita como «as Terras Altas das Terras Altas», desenhada por vales
+      glaciares amplos, torrentes impetuosas e lochs marinhos serenos. Integra uma das quarenta áreas cénicas
+      nacionais da Escócia, estendendo-se por 50.696 hectares, dos quais 40.201 hectares são terrestres e
+      10.495 pertencem ao domínio marinho.
+
+
+      O relevo dita a lei do território. Os Munros da península são o Ladhar Bheinn (1020 m), o Luinne Bheinn
+      (939 m), o Meall Buidhe (946 m) e o Sgurr na Cìche (1040 m), atraindo montanhistas de todo o país.
+      Igualmente memoráveis são os núcleos de floresta temperada húmida, raros e vestidos de musgos, que podes
+      contemplar sem necessidade de subir qualquer cume.
+
+
+      Em redor da aldeia costeira de Inverie, onde a maioria dos forasteiros inicia a visita, a comunidade
+      local empreendeu um vasto reflorestamento autóctone. O caso mais emblemático localiza-se em Garsley, nas
+      encostas norte do Corbett Sgurr Coire Choinnichean: plantado no início dos anos noventa, transformou-se
+      num ecossistema biodiverso onde antes apenas resistiam poucas árvores velhas acossadas pelo pastoreio
+      dos veados. Por intermédio da Knoydart Forest Trust foram já plantadas mais de 800.000 árvores em
+      terrenos comunitários e vizinhos.
+    wildlife: >-
+      A vida selvagem de Knoydart aprecia-se sem pressas. Os guardas florestais da fundação promovem passeios
+      guiados para observar [lontras-europeias](/especie/lutra_lutra/) em Slisneach e focas repousando na
+      praia de Samadalan, adaptando os itinerários às preferências do grupo, desde a identificação botânica
+      até à busca de lontras.
+
+
+      O [veado-vermelho](/especie/cervus_elaphus/) faz parte indissociável desta memória: os seus bandos
+      dominavam as encostas de Garsley quando apenas sobreviviam raras árvores decrépitas. A fundação
+      comunitária zela por 7.000 hectares com a missão de regenerar a natureza, fixar a comunidade, reter
+      carbono e enriquecer a biodiversidade.
+    visit: >-
+      Existem três modos de aceder a Knoydart. O mais simples e concorrido é o barco de passageiros que liga
+      Mallaig a Inverie, cruzando o loch em cerca de trinta a quarenta e cinco minutos; as travessias dependem
+      da estação e do estado do mar. As outras duas formas fazem-se a pé, reservadas a pedestrianistas
+      experientes, bem apetrechados e acostumados ao clima instável escocês. A partir de Kinloch Hourn, uma
+      caminhada exigente de 16 km leva entre cinco e sete horas, constituindo a via pedonal mais percorrida.
+      Desde Glenfinnan, um percurso de 24 km requer sete a nove horas de marcha árdua. A travessia vinda de
+      Loch Arkaig ou Barrisdale é ainda mais remota e física.
+
+
+      Em Inverie, o posto dos guardas fica situado entre The Old Forge e o cais. Os passeios guiados regulares
+      duram duas horas e meia pelas matas da aldeia, enquanto as saídas privadas incluem visitas históricas e
+      uma viagem em Land Rover até às quedas de água de Folach. A fundação aluga bicicletas de montanha para
+      pedalar até Sandaig, Folach e Inverguseran. Mesmo uma caminhada tranquila de meia hora pelas matas
+      comunitárias recompensa amplamente a viagem.
+    history: >-
+      Antes da insurreição jacobita de 1745, a população da península rondava um milhar de habitantes.
+      Seguiram-se fortes vagas de emigração rumo ao Canadá, culminando em 1853 com o embarque forçado de
+      trezentas e trinta pessoas da costa ocidental no navio Sillery. Em 1948, os Sete Homens de Knoydart
+      tentaram ocupar terras da herdade senhorial para cultivar as suas próprias courelas; perderam a contenda
+      nos tribunais, mas em 1981 foi inaugurado em Inverie um memorial em pedra em honra da sua coragem
+      cívica.
+
+
+      A Knoydart Foundation foi constituída em 1997 para adquirir a herdade comunitária de cerca de 7.100
+      hectares, através de uma frutuosa aliança entre os moradores, o Conselho de Highland, o Chris Brasher
+      Trust e o John Muir Trust.
+    before: >-
+      Confirma sempre os horários e o estado do serviço de barco com a transportadora marítima antes de
+      partir, pois o mau tempo pode cancelar travessias. Se optares pela aproximação a pé, fá-lo apenas com
+      experiência comprovada de montanha, equipamento técnico completo e preparação para tempestades súbitas.
+      Consulta os guardas para marcar as saídas de natureza guiadas.
+    around: >-
+      A cerca de vinte e oito quilómetros por via marítima ergue-se a [Reserva Natural Nacional da Ilha de
+      Rum](/lugar/isle-of-rum-national-nature-reserve/).
+fuentes:
+  - url: https://knoydart.org/plan-your-visit/
+    titulo: Plan Your Visit - Knoydart Foundation
+    fecha_consulta: '2026-10-30'
+  - url: https://knoydart.org/activities-and-events/guided-walks-and-tours/
+    titulo: Guided Walks and Tours - Knoydart Foundation
+    fecha_consulta: '2026-10-30'
+  - url: https://knoydart.org/about-knoydart/
+    titulo: About Knoydart - Knoydart Foundation
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Knoydart
+    titulo: Knoydart — Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Knoydart.jpg
+    autor: paddy patterson from glasgow, scotland
+    licencia: CC BY 2.0
+    url_licencia: https://creativecommons.org/licenses/by/2.0
+    fecha_descarga: '2026-10-21'

@@ -1,0 +1,658 @@
+id: parc-natural-dels-ports
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Els Ports
+  en: Els Ports Natural Park
+  fr: Parc naturel dels Ports
+  de: Naturpark Els Ports
+  it: Parco Naturale di Els Ports
+  pt: Parque Natural de Els Ports
+nombre_original: Parc Natural dels Ports
+alias:
+  - Parc Natural dels Ports
+paises:
+  - ES
+region:
+  es: Cataluña / Aragón / Comunidad Valenciana (Tarragona / Teruel / Castellón / Roquetes / Tortosa)
+  en: Catalonia / Aragon / Valencian Community (Tarragona / Teruel / Castellón / Roquetes / Tortosa)
+  fr: Catalogne / Aragon / Communauté valencienne (Tarragone / Teruel / Castellón / Roquetes / Tortosa)
+  de: Katalonien / Aragonien / Valencianische Gemeinschaft (Tarragona / Teruel / Castellón / Roquetes / Tortosa)
+  it: Catalogna / Aragona / Comunità Valenciana (Tarragona / Teruel / Castellón / Roquetes / Tortosa)
+  pt: Catalunha / Aragão / Comunidade Valenciana (Tarragona / Teruel / Castellón / Roquetes / Tortosa)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.78
+  lon: 0.35
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389153
+  nombre_en_la_fuente: Ports, els
+  categoria_uicn: V
+  capa: capas/cdda/parc-natural-dels-ports.geojson
+habitats:
+  - high_mountain
+  - karst
+  - gorge_canyon
+  - mature_forest
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - capra_pyrenaica
+  - gyps_fulvus
+  - aquila_chrysaetos
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y otoño
+  en: spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 2
+masificacion_nota:
+  es: Media en el Mont Caro (1.441 m) y las Roques de Benet
+  en: Moderate at Mont Caro (1,441 m) and Roques de Benet
+  fr: Moyenne au Mont Caro (1 441 m) et aux Roques de Benet
+  de: Mäßig am Mont Caro (1.441 m) und den Roques de Benet
+  it: Media sul Mont Caro (1.441 m) e sulle Roques de Benet
+  pt: Média no Mont Caro (1.441 m) e nas Roques de Benet
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Información oficial del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/inici/
+  - titulo: Mapa — Cartografía del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/el-parc/mapa-del-parc/
+  - titulo: Rutas — Senderos e itinerarios
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/equipaments-i-itineraris/itineraris-arees-lleure/
+  - titulo: Centros y equipamientos — Información para la visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/equipaments-i-itineraris/equipaments/centres-de-visitants/
+  - titulo: Normas — Consejos y restricciones de visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/consells/
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/com-accedir-hi/
+resumen:
+  es: >-
+    Macizo kárstico salvaje entre Cataluña, Aragón y la Comunidad Valenciana con precipicios calizos, hayas
+    meridionales y la cabra montés.
+  en: >-
+    A rugged karst massif between Catalonia, Aragon, and the Valencian Community featuring limestone cliffs,
+    southern beech groves, and the Iberian ibex.
+  fr: >-
+    Massif karstique sauvage entre Catalogne, Aragon et Communauté valencienne, hérissé d'abîmes calcaires, de
+    hêt развиaies méridionales et du bouquetin ibérique.
+  de: >-
+    Wildes Karstmassiv zwischen Katalonien, Aragonien und Valencia mit schroffen Kalkabstürzen, südlichen
+    Buchenwäldern und dem Iberiensteinbock.
+  it: >-
+    Selvaggio massiccio carsico tra Catalogna, Aragona e Comunità Valenciana con pareti calcaree, faggete
+    meridionali e lo stambecco iberico.
+  pt: >-
+    Maciço cársico agreste entre Catalunha, Aragão e Comunidade Valenciana com escarpas calcárias, faias
+    meridionais e a cabra-montês.
+unico:
+  es: >-
+    Hay plantas que en todo el mundo solo viven aquí, como la Aquilegia paui, conocida en solo dos localidades
+    del planeta.
+  en: >-
+    Certain plants exist nowhere else on Earth, such as Aquilegia paui, known from only two localities
+    worldwide.
+  fr: >-
+    Certaines plantes ne subsistent nulle part ailleurs sur Terre, à l'image d'Aquilegia paui, connue de
+    seulement deux stations sur toute la planète.
+  de: >-
+    Einige Pflanzenarten gedeihen weltweit ausschließlich hier, darunter Aquilegia paui, die nur von zwei
+    Fundorten des Planeten bekannt ist.
+  it: >-
+    Alcune specie botaniche sopravvivono unicamente qui in tutto il mondo, come Aquilegia paui, documentata in
+    due sole stazioni sull'intero pianeta.
+  pt: >-
+    Existem plantas que em todo o mundo só sobrevivem aqui, como a Aquilegia paui, documentada em apenas duas
+    estações no planeta.
+observaciones:
+  es: >-
+    En el parque no se permite la acampada. Sigue los senderos y caminos señalizados: es fácil desorientarse
+    en un terreno abrupto como Els Ports. Antes de entrar, pasa por alguno de los centros de visitantes de los
+    pueblos.
+texto:
+  es:
+    intro: >-
+      Els Ports se levanta imponente entre las llanuras agrícolas que lo rodean, y desde su cima, con día
+      claro, se ve el delta del Ebro e incluso la isla de Mallorca. Es un macizo de calizas del Mesozoico,
+      partido por fallas, entre la cordillera Prelitoral catalana y el Sistema Ibérico, y su relieve abrupto
+      lo hace salvaje, indómito y a ratos inaccesible. El Parque Natural dels Ports ocupa 35.050 hectáreas,
+      una de las áreas protegidas más extensas de Cataluña, y en ellas caben más de 1.300 tipos de plantas,
+      cabras monteses fáciles de ver y un cielo de rapaces.
+    landscape: >-
+      Las calizas y dolomías son fáciles de erosionar, y el agua las convierte en un relieve kárstico de
+      barrancos, cuevas, simas, ojales, fuentes y sopladeros. El 28 % de la superficie supera los 1.000 m, y
+      el Mont Caro, con 1.441 m, es la cima más alta. Alrededor, riscales, canchales y lapiaces se combinan
+      con bosques extensos, matorral mediterráneo y pastos de montaña.
+
+
+      El agua, escasa en superficie, marca los lugares. En el río de Els Estrets, que corre sin interrupción
+      en un macizo donde el agua suele ser efímera, se concentra la diversidad de flora y fauna; la zona de la
+      Franqueta es de las de mayor interés del parque, y es también un ecosistema muy frágil. Els Estrets de
+      Arnes, la Gronsa y las Roques de Benet son zonas de interés geológico de Cataluña y refugio de fauna
+      salvaje.
+
+
+      Los bosques ocupan gran parte del parque y tienen algunos de los rodales maduros más significativos del
+      país, con pinares de pino negral de interés prioritario a escala europea. Los Hayedos de Els Ports, los
+      más meridionales de la Península Ibérica, son Reserva Natural por su interés botánico.
+    wildlife: >-
+      Mira hacia arriba. Entre las grandes rapaces sedentarias están el [buitre
+      leonado](/especie/gyps_fulvus/), el [águila real](/especie/aquila_chrysaetos/), el [águila
+      perdicera](/especie/aquila_fasciata/), el azor, el [halcón peregrino](/especie/falco_peregrinus/) y el
+      [búho real](/especie/bubo_bubo/). En verano anidan el águila culebrera, el águila calzada y el
+      [alimoche](/especie/neophron_percnopterus/). También se ven quebrantahuesos de un proyecto de
+      reintroducción de la Generalitat Valenciana y hay observaciones esporádicas pero regulares de [buitre
+      negro](/especie/aegypius_monachus/).
+
+
+      Entre los mamíferos manda la [cabra montés](/especie/capra_pyrenaica/), fácil de observar en todos los
+      ambientes, junto a la [nutria](/especie/lutra_lutra/), el [gato montés](/especie/felis_silvestris/) y
+      unos murciélagos que, con unas 20 especies, forman una de las comunidades más ricas de la península
+      ibérica.
+
+
+      Más del 50 % de los reptiles y de los anfibios de Cataluña se pueden encontrar aquí; entre los anfibios,
+      gallipato, tritón jaspeado y sapillo moteado. La libélula Macromia splendens está en grave peligro de
+      extinción en Cataluña.
+
+
+      La flora sorprende. El sauce Salix tarraconensis, que descubrió Font i Quer en 1915, no vive fuera de
+      las cordilleras tarraconenses y las provincias vecinas de Castellón y Teruel. El tabaco gordo tiene
+      trece colonias, las únicas de Cataluña, que el parque vigila cada año. La mejor época para la visita es
+      la primavera y el otoño.
+    visit: >-
+      Los nueve municipios del parque tienen sus núcleos fuera de sus límites, y cada uno es una vía de
+      entrada con centros de visitantes y puntos de información. El Centro de Visitantes de Roquetes, en el
+      Baix Ebre, tiene la exposición GeoPorts sobre la historia geológica del macizo, con maquetas del
+      recorrido del agua y fósiles. El de La Sénia, en el Montsià, presenta La Vida als Ports, un recorrido
+      audiovisual por plantas, animales y ambientes. Y el de Prat de Comte, en la Terra Alta, muestra los
+      paisajes naturales del macizo, con paneles sobre espacios abiertos, paisajes del fuego y bosques
+      maduros.
+
+
+      Hay 35 itinerarios señalizados, entre senderos de Gran Recorrido y la Vía Verde, que suman más de 200
+      km. En El Molí, en Prat de Comte, empieza el itinerario de la Mola, que sube desde antiguos campos de
+      cultivo hasta el bosque. El Caro se alcanza en coche o a pie desde el aparcamiento de El Esquirol, y su
+      mirador da al delta del Ebro. Si buscas cabras, buitres y halcones, el barranco de la Vall es un buen
+      sitio, y la Vía Verde, un antiguo ferrocarril sin vehículos a motor, va de Tortosa a Alcañiz, en Aragón,
+      con 110 km.
+    history: >-
+      Hornos de cal, carboneras, hornos de pez, parideras, corrales y cisternas son el legado de quienes
+      vivieron en las masías de Els Ports.
+
+
+      El parque es ZEPA y ZEC de la red europea Natura, con más de 30 hábitats de interés comunitario. Los
+      bosques del parque participan en proyectos europeos de adaptación al cambio climático, como Life Pinassa
+      y Life RedBosques.
+    before: >-
+      En el parque no se permite la acampada. Sigue los senderos y caminos señalizados: es fácil desorientarse
+      en un terreno abrupto como Els Ports. Antes de entrar, pasa por alguno de los centros de visitantes de
+      los pueblos.
+    around: >-
+      A unos veinticuatro kilómetros está el [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). Lejos, comparten con Els Ports la cabra montés y
+      rapaces como el buitre leonado y el águila real el [Parque Natural Sierras de Cazorla, Segura y Las
+      Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) y el [Parque Nacional Sierra de
+      las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+  en:
+    intro: >-
+      Els Ports rises dramatically above the surrounding agricultural plains; on clear days, you can gaze out
+      over the Ebro Delta and even glimpse the island of Mallorca. It is a Mesozoic limestone massif fractured
+      by fault lines between the Catalan Pre-Coastal Range and the Iberian System, with rugged relief that
+      makes it wild, untamed, and occasionally inaccessible. Els Ports Natural Park spans 35,050 hectares—one
+      of the largest protected areas in Catalonia—harbouring over 1,300 plant species, readily spotted Iberian
+      ibex, and skies dominated by birds of prey.
+    landscape: >-
+      Limestones and dolomites erode easily, and flowing water dissolves them into a karst landscape of
+      canyons, caves, chasms, resurgence pools, natural springs, and sinkholes. About 28 % of the surface
+      rises above 1,000 m, with Mont Caro at 1,441 m standing as the highest peak. Across the terrain,
+      towering cliffs, scree slopes, and limestone pavements alternate with extensive woodlands, Mediterranean
+      scrub, and montane pastures.
+
+
+      Water, though scarce at the surface, defines the geography. In the Els Estrets river, which flows
+      perpetually through a massif where surface water is typically ephemeral, biodiversity concentrates; the
+      La Franqueta area ranks among the park's most valuable yet fragile ecosystems. Els Estrets d'Arnes, La
+      Gronsa, and the Roques de Benet are designated Sites of Geological Interest in Catalonia and vital
+      refuges for wildlife.
+
+
+      Forests blanket much of the park and preserve some of the most significant mature woodland stands in the
+      country, featuring black pine forests prioritised at European scale. The beech forests of Els Ports, the
+      southernmost in the Iberian Peninsula, are protected as a Nature Reserve for their exceptional botanical
+      value.
+    wildlife: >-
+      Look upward to the crags. Sedentary raptors include the [griffon vulture](/especie/gyps_fulvus/),
+      [golden eagle](/especie/aquila_chrysaetos/), [Bonelli's eagle](/especie/aquila_fasciata/), northern
+      goshawk, [peregrine falcon](/especie/falco_peregrinus/), and [Eurasian eagle-owl](/especie/bubo_bubo/).
+      In summer, short-toed snake eagles, booted eagles, and the [Egyptian
+      vulture](/especie/neophron_percnopterus/) arrive to breed. Bearded vultures from a Valencian
+      reintroduction initiative are also observed, alongside sporadic yet regular sightings of the [cinereous
+      vulture](/especie/aegypius_monachus/).
+
+
+      Among mammals, the [Iberian ibex](/especie/capra_pyrenaica/) thrives throughout every habitat,
+      coexisting with the [Eurasian otter](/especie/lutra_lutra/), [wildcat](/especie/felis_silvestris/), and
+      a bat fauna that, with some 20 species, forms one of the richest assemblages on the Iberian Peninsula.
+
+
+      More than 50 % of Catalonia's reptile and amphibian species occur here, including sharp-ribbed newt,
+      marbled newt, and parsley frog. The dragonfly Macromia splendens faces critical endangerment in
+      Catalonia.
+
+
+      The flora yields remarkable surprises. The willow Salix tarraconensis, discovered by Font i Quer in
+      1915, is strictly confined to the Tarragona ranges and neighbouring Castellón and Teruel provinces. The
+      rare mullein Verbascum boerhavii maintains thirteen colonies—the only ones in Catalonia—monitored
+      annually by park staff. Spring and autumn are the optimal times to visit.
+    visit: >-
+      The park's nine municipalities have their town centres outside its borders, each providing an access
+      gateway equipped with visitor centres and information desks. The Roquetes Visitor Centre in Baix Ebre
+      presents the GeoPorts exhibition on the geological evolution of the massif, featuring water-cycle models
+      and fossils. The La Sénia centre in Montsià displays La Vida als Ports, an audiovisual journey through
+      local flora, fauna, and ecosystems. In Prat de Comte (Terra Alta), the centre explores the natural
+      landscapes of Els Ports, with interpretive panels detailing open habitats, fire ecology, and ancient
+      woodlands.
+
+
+      There are 35 waymarked walking itineraries, including long-distance paths and the Vía Verde, totalling
+      over 200 km. From El Molí in Prat de Comte begins the La Mola trail, ascending from historical terraced
+      farmland into deep woodland. Mont Caro can be reached by road or on foot from the El Esquirol car park,
+      where its panoramic mirador looks over the Ebro Delta. To spot ibex, vultures, and falcons, the Vall
+      ravine is prime ground, while the Vía Verde—a converted disused railway closed to motor
+      vehicles—stretches 110 km from Tortosa to Alcañiz in Aragon.
+    history: >-
+      Lime kilns, charcoal hearths, pitch furnaces, stone sheepfolds, animal pens, and cisterns bear witness
+      to traditional livelihoods around the historical masías of Els Ports.
+
+
+      The park is designated as a Special Protection Area (SPA) and Special Area of Conservation (SAC) within
+      the European Natura network, safeguarding over 30 habitats of community interest. Its forests actively
+      contribute to European climate change adaptation initiatives, including the Life Pinassa and Life
+      RedBosques programmes.
+    before: >-
+      Wild camping is strictly prohibited across the park. Always stay on waymarked paths and trails, as
+      navigation can prove difficult across the rugged karst topography of Els Ports. Before setting out, stop
+      by one of the visitor centres in the gateway villages.
+    around: >-
+      About twenty-four kilometres away lies the [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). Farther afield, the Iberian ibex and soaring raptors
+      like the griffon vulture and golden eagle are shared with [Parque Natural Sierras de Cazorla, Segura y
+      Las Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) and [Parque Nacional Sierra
+      de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+  fr:
+    intro: >-
+      Els Ports se dresse avec majesté au milieu des plaines agricoles environnantes ; par temps limpide, le
+      regard embrasse le delta de l'Èbre et devine même l'île de Majorque. Il s'agit d'un massif de calcaires
+      mésozoïques fracturé de failles, charnière entre la cordillère prélittorale catalane et le système
+      ibérique, dont le relief tourmenté forge un caractère sauvage, indompté et parfois inaccessible. Le parc
+      naturel dels Ports s'étend sur 35 050 hectares — l'un des plus vastes espaces protégés de Catalogne —,
+      hébergeant plus de 1 300 espèces végétales, des bouquetins ibériques faciles à observer et un ciel
+      habité de rapaces.
+    landscape: >-
+      Calcaires et dolomies s'érodent aisément : les infiltrations d'eau ont sculpté un relief karstique
+      composé de ravins, grottes, gouffres, résurgences, sources et évents. Environ 28 % de la superficie
+      dépasse les 1 000 m d'altitude, couronnée par le Mont Caro à 1 441 m. Tout autour, falaises escarpées,
+      éboulis et lapiés alternent avec de vastes massifs boisés, des garrigues méditerranéennes et des
+      pâturages montagnards.
+
+
+      L'eau, rare en surface, guide la vie. Le cours de l'Estrets, qui coule en continu dans un massif où les
+      eaux de surface sont d'ordinaire éphémères, concentre une haute valeur biologique ; le secteur de La
+      Franqueta figure parmi les zones les plus précieuses et fragiles du parc. Els Estrets d'Arnes, La Gronsa
+      et les Roques de Benet sont classés sites d'intérêt géologique de Catalogne et refuges majeurs pour la
+      faune sauvage.
+
+
+      Les forêts couvrent une grande part du territoire et abritent des peuplements anciens remarquables,
+      dominés par des pinèdes de pin laricio d'intérêt prioritaire à l'échelle européenne. Les hêtraies d'Els
+      Ports, les plus méridionales de la péninsule Ibérique, sont classées réserve naturelle pour leur
+      exceptionnelle valeur botanique.
+    wildlife: >-
+      Levez les yeux vers les escarpements. Parmi les grands rapaces sédentaires nichent le [vautour
+      fauve](/especie/gyps_fulvus/), l'[aigle royal](/especie/aquila_chrysaetos/), l'[aigle de
+      Bonelli](/especie/aquila_fasciata/), l'autour des palombes, le [faucon
+      pèlerin](/especie/falco_peregrinus/) et le [hibou grand-duc](/especie/bubo_bubo/). En été s'y ajoutent
+      le circaète Jean-le-Blanc, l'aigle botté et le [percnoptère d'Égypte](/especie/neophron_percnopterus/).
+      Des gypaètes barbus issus d'un projet de réintroduction valencien y sont également observés, ainsi que
+      des passages sporadiques réguliers du [vautour moine](/especie/aegypius_monachus/).
+
+
+      Chez les mammifères, le [bouquetin ibérique](/especie/capra_pyrenaica/) domine tous les milieux,
+      côtoyant la [loutre d'Europe](/especie/lutra_lutra/), le [chat sauvage](/especie/felis_silvestris/) et
+      une communauté de chiroptères qui, avec une vingtaine d'espèces, soit environ 20 espèces, compte parmi
+      les plus riches de la péninsule Ibérique.
+
+
+      Plus de 50 % des espèces d'amphibiens et de reptiles de Catalogne vivent ici, dont le pleurodèle de
+      Waltl, le triton marbré et le pélodyte ponctué. La libellule Macromia splendens est en danger critique
+      d'extinction en Catalogne.
+
+
+      La flore réserve d'étonnantes raretés. Le saule Salix tarraconensis, découvert par Font i Quer en 1915,
+      n'existe nulle part hors des sierras de Tarragone et des provinces limitrophes de Castellón et Teruel.
+      La grande molène compte treize stations, les seules de Catalogne, inspectées annuellement par les agents
+      du parc. Le printemps et l'automne restent les saisons privilégiées pour visiter ces lieux.
+    visit: >-
+      Les neuf communes associées au parc ont établi leurs centres urbains hors de son périmètre, chacune
+      offrant une porte d'accès dotée de centres d'interprétation. Le centre des visiteurs de Roquetes, dans
+      le Baix Ebre, propose l'exposition GeoPorts consacrée à la géogenèse du massif, avec maquettes
+      hydrogéologiques et fossiles. Celui de La Sénia, dans le Montsià, présente La Vida als Ports, un
+      parcours audiovisuel à travers la faune et la flore. À Prat de Comte (Terra Alta), un autre espace met
+      en valeur les paysages naturels du massif, de l'écologie du feu aux forêts matures.
+
+
+      Le parc compte 35 itinéraires balisés, combinant sentiers de Grande Randonnée et voie verte, cumulant
+      plus de 200 km. Depuis El Molí à Prat de Comte débute le circuit de La Mola, grimpant des terrasses
+      agricoles séculaires jusqu'au couvert forestier. Le Mont Caro est accessible par route ou à pied depuis
+      le parking d'El Esquirol, son belvédère plongeant vers le delta de l'Èbre. Pour observer bouquetins et
+      vautours, le ravin de La Vall est tout indiqué, tandis que la Vía Verde — ancienne voie ferrée réservée
+      aux mobilités douces — relie Tortosa à Alcañiz en Aragon sur 110 km.
+    history: >-
+      Fours à chaux, charbonnières, fours à poix, bergeries en pierre sèche, enclos et citernes racontent
+      l'histoire pastorale des masías traditionnelles d'Els Ports.
+
+
+      Le territoire est classé en zone ZPS et ZSC du réseau européen Natura, abritant plus de 30 habitats
+      d'intérêt communautaire. Ses massifs forestiers participent aux programmes européens d'adaptation au
+      changement climatique, tels Life Pinassa et Life RedBosques.
+    before: >-
+      Le camping sauvage est formellement interdit dans le parc. Suivez scrupuleusement les sentiers balisés :
+      les reliefs karstiques accidentés d'Els Ports favorisent les désorientations. Avant de partir en
+      randonnée, arrêtez-vous dans l'un des centres d'accueil des villages alentour.
+    around: >-
+      À environ vingt-quatre kilomètres s'étend le [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). Plus loin, le bouquetin ibérique et de grands rapaces
+      comme le vautour fauve et l'aigle royal se retrouvent au [Parque Natural Sierras de Cazorla, Segura y
+      Las Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) et au [Parque Nacional Sierra
+      de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+  de:
+    intro: >-
+      Els Ports erhebt sich imposant über den umliegenden Agrarsteppen; an klaren Tagen reicht der Blick über
+      das Ebrodelta bis zur Insel Mallorca. Es handelt sich um ein von Verwerfungen durchzogenes Kalkmassiv
+      des Mesozoikums an der Nahtstelle zwischen Katalanischem Vorküstengebirge und Iberischem Scheidegebirge,
+      dessen zerklüftetes Relief es wild, unbezähmbar und streckenweise unzugänglich macht. Der Naturpark Els
+      Ports erstreckt sich über 35.050 Hektar — eines der weitläufigsten Schutzgebiete Kataloniens —, die mehr
+      als 1.300 Pflanzenarten, leicht beobachtbare Steinböcke und einen Himmel voller Greifvögel bergen.
+    landscape: >-
+      Kalke und Dolomite verwittern leicht: Wasser formte daraus eine Karstlandschaft aus Schluchten, Höhlen,
+      Dolinen, artesischen Quellen und Felsspalten. Etwa 28 % der Parkfläche liegen über 1.000 m Meereshöhe,
+      gekrönt vom Mont Caro mit 1.441 m. Ringsum wechseln Felswände, Blockhalden und Karrenfelder mit dichten
+      Bergwäldern, mediterranem Buschland und Hochweiden ab.
+
+
+      Das oberflächlich spärliche Wasser bestimmt die Lebensräume. Im Fluss Els Estrets, der ganzjährig
+      fließt, wo Trockenheit die Regel ist, ballt sich die Artenvielfalt; der Bereich La Franqueta zählt zu
+      den wertvollsten und zugleich empfindlichsten Arealen. Els Estrets d'Arnes, La Gronsa und die Roques de
+      Benet gelten als geologische Höhepunkte Kataloniens und Rückzugsräume für Wildtiere.
+
+
+      Wälder bedecken weite Teile des Parks und beherbergen urwüchsige Altbestände, insbesondere
+      Schwarzkiefernwälder von prioritärem europäischem Rang. Die Buchenwälder von Els Ports bilden das
+      südlichste Vorkommen der Rotbuche auf der Iberischen Halbinsel und stehen als botanisches Naturreservat
+      unter Schutz.
+    wildlife: >-
+      Richte den Blick nach oben: Zu den standorttreuen Großgreifvögeln zählen
+      [Gänsegeier](/especie/gyps_fulvus/), [Steinadler](/especie/aquila_chrysaetos/),
+      [Habichtsadler](/especie/aquila_fasciata/), Habicht, [Wanderfalke](/especie/falco_peregrinus/) und
+      [Uhu](/especie/bubo_bubo/). Im Sommer brüten Schlangenadler, Zwergadler und der
+      [Schmutzgeier](/especie/neophron_percnopterus/). Hinzu kommen Bartgeier aus einem
+      Wiederansiedlungsprojekt der Region Valencia sowie regelmäßige Sichtungen des
+      [Mönchsgeiers](/especie/aegypius_monachus/).
+
+
+      Unter den Säugetieren dominiert der [Iberiensteinbock](/especie/capra_pyrenaica/), der in allen
+      Höhenstufen vorkommt, neben [Fischotter](/especie/lutra_lutra/), [Europäischer
+      Wildkatze](/especie/felis_silvestris/) und Fledermäusen, die mit rund 20 Arten eine der artenreichsten
+      Gemeinschaften der Iberischen Halbinsel bilden.
+
+
+      Über 50 % der Reptilien- und Amphibienarten Kataloniens kommen hier vor, darunter Spanischer
+      Rippenmolch, Marmormolch und Westlicher Schlammtaucher. Die Libelle Macromia splendens ist in Katalonien
+      vom Aussterben bedroht.
+
+
+      Die Flora überrascht mit Endemiten: Die Weide Salix tarraconensis, 1915 von Font i Quer entdeckt, wächst
+      nirgends außerhalb der Berge Tarragonas und angrenzender Bezirke. Die Königskerzenart Verbascum
+      boerhavii zählt dreizehn Kolonien — die einzigen Kataloniens. Die beste Besuchszeit liegt im Frühjahr
+      und Herbst.
+    visit: >-
+      Die neun Gemeinden des Parks liegen außerhalb der Außengrenzen und bieten Zugänge mit Besucherzentren.
+      Das Besucherzentrum Roquetes im Baix Ebre beherbergt die Ausstellung GeoPorts zur Erdgeschichte mit
+      Modellen und Fossilien. Jenes in La Sénia im Montsià zeigt La Vida als Ports über Lebensräume und
+      Tierwelt. In Prat de Comte (Terra Alta) informieren Ausstellungen über Waldstrukturen und Brandökologie.
+
+
+      Es gibt 35 markierte Wanderrouten, darunter Fernwanderwege und die Vía Verde, mit insgesamt über 200 km
+      Länge. Bei El Molí in Prat de Comte startet der Mola-Weg, der von alten Kulturterrassen in den Bergwald
+      aufsteigt. Der Mont Caro lässt sich mit dem Auto oder zu Fuß vom Parkplatz El Esquirol erreichen; sein
+      Aussichtspunkt blickt über das Ebrodelta. Der Vall-Canyon eignet sich hervorragend zur Beobachtung von
+      Steinböcken und Geiern, während die Vía Verde auf 110 km autofrei von Tortosa nach Alcañiz in Aragonien
+      verläuft.
+    history: >-
+      Kalköfen, Kohlenmeiler, Pechöfen, Schafunterstände und Zisternen zeugen vom früheren Leben in den
+      einsamen Höfen (Masías) von Els Ports.
+
+
+      Der Park ist als Vogelschutz- und FFH-Gebiet im europäischen Natura-Netz ausgewiesen und schützt über 30
+      Lebensraumtypen von gemeinschaftlichem Interesse. Seine Wälder sind in europäische
+      Klimaanpassungsprojekte wie Life Pinassa und Life RedBosques eingebunden.
+    before: >-
+      Wildes Zelten ist im Naturpark untersagt. Bleibe stets auf den markierten Wegen, da man im
+      unübersichtlichen Karstgelände von Els Ports leicht die Orientierung verliert. Erkundige dich vorab in
+      einem der Besucherzentren der Talorte.
+    around: >-
+      Rund vierundzwanzig Kilometer entfernt liegt der [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). In weiterer Ferne teilen Steinböcke sowie Greifvögel
+      wie Gänsegeier und Steinadler ihre Lebensräume mit dem [Parque Natural Sierras de Cazorla, Segura y Las
+      Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) und dem [Parque Nacional Sierra
+      de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+  it:
+    intro: >-
+      Els Ports si innalza con imponenza sopra le pianure agricole circostanti; nelle giornate terse lo
+      sguardo spazia fino al delta dell'Ebro e scorge persino l'isola di Maiorca. È un massiccio calcareo del
+      Mesozoico percorso da faglie, cerniera tra la Catena Costiera Catalana e il Sistema Iberico, con un
+      rilievo aspro che lo rende selvaggio, fiero e a tratti inaccessibile. Il Parco Naturale di Els Ports
+      tutela 35.050 ettari — una delle aree protette più vaste della Catalogna —, accogliendo oltre 1.300
+      specie vegetali, stambecchi iberici facilmente osservabili e un cielo popolato da rapaci.
+    landscape: >-
+      Calcari e dolomie si lasciano erodere facilmente dall'acqua, che ha scolpito un paesaggio carsico di
+      forre, caverne, inghiottitoi, risorgenze, sorgenti e soffiatori. Circa il 28 % dell'estensione
+      oltrepassa i 1.000 m di quota, culminando nei 1.441 m del Mont Caro. Attorno alla vetta, falesie,
+      ghiaioni e campi carreggiati si alternano a grandi foreste, macchia mediterranea e pascoli montani.
+
+
+      L'acqua, scarsa in superficie, modella il territorio. Il fiume Els Estrets, che scorre perennemente dove
+      le acque superficiali sono effimere, concentra un'elevata biodiversità; l'area della Franqueta è tra le
+      più rilevanti e fragili del parco. Els Estrets d'Arnes, La Gronsa e le Roques de Benet sono siti di
+      interesse geologico della Catalogna e rifugio per la fauna selvatica.
+
+
+      I boschi ricoprono gran parte dell'area protetta e custodiscono popolamenti maturi tra i più preziosi
+      del paese, con pinete di pino laricio d'interesse prioritario europeo. Le faggete di Els Ports, le più
+      meridionali della penisola iberica, sono Riserva Naturale per l'alto pregio botanico.
+    wildlife: >-
+      Guarda verso l'alto. Tra i grandi rapaci stanziali nidificano il [grifone](/especie/gyps_fulvus/),
+      l'[aquila reale](/especie/aquila_chrysaetos/), l'[aquila di Bonelli](/especie/aquila_fasciata/),
+      l'astore, il [falco pellegrino](/especie/falco_peregrinus/) e il [gufo reale](/especie/bubo_bubo/). In
+      estate giungono il biancone, l'aquila minore e il [capovaccaio](/especie/neophron_percnopterus/). Si
+      osservano inoltre gypeti provenienti da un programma valenciano di reintroduzione e comparsate regolari
+      dell'[avvoltoio monaco](/especie/aegypius_monachus/).
+
+
+      Tra i mammiferi primeggia lo [stambecco iberico](/especie/capra_pyrenaica/), presente in ogni habitat,
+      insieme alla [lontra europea](/especie/lutra_lutra/), al [gatto selvatico](/especie/felis_silvestris/) e
+      a una chirotterofauna che, con circa 20 specie, rappresenta una delle comunità più variegate della
+      penisola iberica.
+
+
+      Oltre il 50 % degli anfibi e dei rettili della Catalogna vive in quest'area, tra cui il pleurodele di
+      Waltl, il tritone marezzato e il pelodite punteggiato. La libellula Macromia splendens versa in pericolo
+      critico di estinzione in Catalogna.
+
+
+      La flora riserva sorprese: il salice Salix tarraconensis, scoperto da Font i Quer nel 1915, cresce
+      esclusivamente nelle montagne tarragonesi e nelle vicine province di Castellón e Teruel. La pianta
+      Verbascum boerhavii conta tredici stazioni, uniche in Catalogna, sorvegliate ogni anno dai guardaparco.
+      Primavera e autunno offrono il momento migliore per l'esplorazione.
+    visit: >-
+      I nove comuni del parco mantengono i propri centri abitati all'esterno dei confini, offrendo punti
+      d'accesso attrezzati con centri visita. La struttura di Roquetes, nel Baix Ebre, ospita l'allestimento
+      GeoPorts sulla storia geologica con plastici idrologici e fossili. A La Sénia, nel Montsià, si trova La
+      Vida als Ports, percorso multimediale su flora e fauna. A Prat de Comte (Terra Alta), il centro illustra
+      i paesaggi naturali, l'ecologia del fuoco e i boschi vetusti.
+
+
+      Si contano 35 percorsi segnalati, tra sentieri di lunga percorrenza e la Vía Verde, per un totale di
+      oltre 200 km. Da El Molí a Prat de Comte si imbocca il sentiero della Mola, salendo dagli antichi
+      terrazzamenti verso il bosco fitto. Il Mont Caro si raggiunge in auto o a piedi dal parcheggio di El
+      Esquirol, affacciandosi dal belvedere sul delta dell'Ebro. Per scorgere stambecchi e avvoltoi, la forra
+      della Vall è ideale, mentre la Vía Verde — ex linea ferroviaria priva di traffico a motore — copre 110
+      km collegando Tortosa ad Alcañiz in Aragona.
+    history: >-
+      Fornaci da calce, carbonaie, fornaci da pece, stazzi in pietra, recinti e cisterne formano l'eredità
+      rurale delle storiche masías di Els Ports.
+
+
+      Il territorio è classificato come ZPS e ZSC della rete europea Natura, accogliendo oltre 30 habitat
+      d'interesse comunitario. I suoi boschi prendono parte a progetti europei per l'adattamento climatico
+      come Life Pinassa e Life RedBosques.
+    before: >-
+      Nel parco il campeggio libero non è consentito. Cammina sempre lungo i sentieri segnati: è facile
+      disorientarsi nella morfologia scoscesa di Els Ports. Prima di addentrarti, fai sosta in uno dei centri
+      visite dei paesi a valle.
+    around: >-
+      A circa ventiquattro chilometri si estende il [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). A maggior distanza, condividono lo stambecco iberico
+      e grandi rapaci quali grifone e aquila reale il [Parque Natural Sierras de Cazorla, Segura y Las
+      Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) e il [Parque Nacional Sierra de
+      las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+  pt:
+    intro: >-
+      Els Ports ergue-se com imponência sobre as planícies agrícolas circundantes; em dias limpos, a vista
+      alcança o delta do Ebro e descortina até a ilha de Maiorca. É um maciço calcário do Mesozoico cortado
+      por falhas, articulação entre a Cordilheira Pré-Litoral catalã e o Sistema Ibérico, cujo relevo
+      acidentado lhe confere um traço selvagem, indómito e por vezes inacessível. O Parque Natural de Els
+      Ports protege 35.050 hectares — uma das maiores áreas protegidas da Catalunha —, onde se abrigam mais de
+      1.300 espécies vegetais, cabras-monteses fáceis de observar e um céu dominado por aves de rapina.
+    landscape: >-
+      Os calcários e dolomitos erodem-se facilmente com a água, que talhou um relevo cársico repleto de
+      desfiladeiros, cavernas, algares, ressurgências, fontes e respiradouros. Cerca de 28 % da superfície
+      ergue-se acima dos 1.000 m de altitude, tendo no Mont Caro, a 1.441 m, o ponto culminante. Em redor,
+      escarpas alcantiladas, cascalheiras e lapiás entrelaçam-se com vastos bosques, matos mediterrânicos e
+      pastagens montanas.
+
+
+      A água, escassa à superfície, marca a paisagem. No rio Els Estrets, que corre ininterruptamente num
+      maciço onde as correntes de água costumam ser efémeras, concentra-se a biodiversidade; o setor da
+      Franqueta figura entre os mais valiosos e frágeis do parque. Els Estrets d'Arnes, La Gronsa e as Roques
+      de Benet são zonas de interesse geológico da Catalunha e refúgios vitais de fauna bravia.
+
+
+      As florestas cobrem boa parte do território e albergam parcelas maduras de grande valor, com pinhais de
+      pinheiro-larício de interesse prioritário à escala europeia. Os faiais de Els Ports, os mais meridionais
+      da Península Ibérica, são Reserva Natural pelo seu elevado valor botânico.
+    wildlife: >-
+      Olha para os rochedos cimeiros. Entre as grandes rapinas sedentárias figuram o
+      [grifo](/especie/gyps_fulvus/), a [águia-real](/especie/aquila_chrysaetos/), a
+      [águia-de-bonelli](/especie/aquila_fasciata/), o açor, o [falcão-peregrino](/especie/falco_peregrinus/)
+      e o [bufo-real](/especie/bubo_bubo/). No verão nidificam a águia-cobreira, a águia-calçada e o
+      [abutre-do-egito](/especie/neophron_percnopterus/). Observam-se ainda quebra-ossos provenientes de um
+      projeto valenciano de reintrodução e registos esporádicos regulares do
+      [abutre-preto](/especie/aegypius_monachus/).
+
+
+      Nos mamíferos reina a [cabra-montês](/especie/capra_pyrenaica/), presente em todos os recantos, ao lado
+      da [lontra-europeia](/especie/lutra_lutra/), do [gato-bravo](/especie/felis_silvestris/) e de uma
+      comunidade de morcegos que, com cerca de 20 espécies, constitui uma das mais ricas da Península Ibérica.
+
+
+      Mais de 50 % dos répteis e anfíbios da Catalunha ocorrem neste território, destacando-se o briba, o
+      tritão-marmoreado e o sapinho-de-verrugas-verdes. A libélula Macromia splendens encontra-se em perigo
+      crítico de extinção na Catalunha.
+
+
+      A flora guarda espécies notáveis: o salgueiro Salix tarraconensis, descoberto por Font i Quer em 1915,
+      não medra fora das serras de Tarragona e das províncias vizinhas de Castellón e Teruel. A planta
+      Verbascum boerhavii tem treze colónias, únicas na Catalunha, vigiadas anualmente pelo parque. A
+      primavera e o outono proporcionam a melhor época de visita.
+    visit: >-
+      Os nove municípios do parque situam os seus aglomerados fora dos limites protegidos, constituindo portas
+      de entrada dotadas de centros de acolhimento. O centro de Roquetes, no Baix Ebre, expõe o acervo
+      GeoPorts sobre a evolução geológica, com maquetas do ciclo da água e fósseis. O de La Sénia, no Montsià,
+      exibe La Vida als Ports, itinerário multimédia sobre fauna e habitats. Em Prat de Comte (Terra Alta),
+      destacam-se painéis sobre ecologia do fogo e florestas vetustas.
+
+
+      Estão traçados 35 itinerários sinalizados entre percursos pedestres e a Vía Verde, somando mais de 200
+      km. Em El Molí, em Prat de Comte, inicia-se o percurso da Mola, galgando antigos socalcos agrícolas rumo
+      ao bosque. O Mont Caro pode ser acedido por estrada ou a pé a partir do parque de estacionamento de El
+      Esquirol, de cujo miradouro se avista o delta do Ebro. Para avistar cabras e abutres, o desfiladeiro da
+      Vall é muito favorável, enquanto a Vía Verde — antigo leito ferroviário vedado a trânsito motorizado —
+      percorre 110 km de Tortosa a Alcañiz em Aragão.
+    history: >-
+      Fornos de cal, carvoarias, fornos de pez, currais em pedra solta e cisternas compõem a herança pastoril
+      das históricas masías de Els Ports.
+
+
+      O parque é classificado como ZEPA e ZEC da rede europeia Natura, albergando mais de 30 habitats de
+      interesse comunitário. Os seus maciços florestais integram projetos comunitários de adaptação às
+      alterações climáticas como o Life Pinassa e o Life RedBosques.
+    before: >-
+      O acampamento livre não é permitido no parque. Caminha estritamente pelos trilhos marcados: o relevo
+      cársico agreste de Els Ports propicia a desorientação. Antes de encetares a marcha, passa por um dos
+      centros de visitantes das povoações.
+    around: >-
+      A cerca de vinte e quatro quilómetros estende-se o [Parc Natural del Delta de
+      l'Ebre](/lugar/parc-natural-del-delta-de-l-ebre/). Em latitudes mais afastadas, partilham a cabra-montês
+      e rapinas como o grifo e a águia-real o [Parque Natural Sierras de Cazorla, Segura y Las
+      Villas](/lugar/parque-natural-sierras-de-cazorla-segura-y-las-villas/) e o [Parque Nacional Sierra de
+      las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/).
+fuentes:
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/el-parc/patrimoni-natural-i-cultural/flora/
+    titulo: Flora — Parque Natural dels Ports
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/el-parc/patrimoni-natural-i-cultural/fauna/
+    titulo: Fauna — Parque Natural dels Ports
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/guia-de-visita/arees-interes/
+    titulo: Áreas de visita — Parque Natural dels Ports
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/el-parc/top-10-del-parc/
+    titulo: Top 10 del parque — Parque Natural dels Ports
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/consells/pautes-i-consells/
+    titulo: Pautas y consejos — Parque Natural dels Ports
+    fecha_consulta: '2026-10-23'
+  - url: https://ca.wikipedia.org/wiki/Parc_Natural_dels_Ports
+    titulo: Parc Natural dels Ports - Viquipèdia
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/ports/gaudeix-del-parc/equipaments-i-itineraris/equipaments/centres-de-visitants/
+    titulo: Centros de visitantes - Els Ports
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Els_Ports.jpg
+    autor: Espencat
+    licencia: Public domain
+    url_licencia: https://creativecommons.org/publicdomain/mark/1.0/
+    fecha_descarga: '2026-10-03'

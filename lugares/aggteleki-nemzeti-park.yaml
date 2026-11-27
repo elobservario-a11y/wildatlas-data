@@ -1,0 +1,649 @@
+id: aggteleki-nemzeti-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Aggtelek
+  en: Aggtelek National Park
+  fr: Parc national d'Aggtelek
+  de: Aggtelek-Nationalpark
+  it: Parco nazionale di Aggtelek
+  pt: Parque Nacional de Aggtelek
+nombre_original: Aggteleki Nemzeti Park
+alias:
+  - Aggteleki Nemzeti Park
+paises:
+  - HU
+region:
+  es: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+  en: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+  fr: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+  de: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+  it: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+  pt: Borsod-Abaúj-Zemplén (Aggtelek / Jósvafő)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.498
+  lon: 20.675
+  radio_km: 8
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 13652
+  nombre_en_la_fuente: Aggteleki Nemzeti Park
+  capa: capas/cdda/aggteleki-nemzeti-park.geojson
+habitats:
+  - karst
+  - mature_forest
+  - steppe
+designaciones:
+  - national_park
+  - iucn_ii
+  - unesco_whs
+  - biosphere_reserve
+  - ramsar
+  - natura2000
+especies:
+  - rhinolophus_ferrumequinum
+  - myotis_myotis
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+masificacion: 2
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Aggteleki Nemzeti Park
+    url: https://www.anp.hu
+  - titulo: Rutas — Senderos de superficie de Aggtelek
+    url: https://anp.hu/gyalog-turak
+  - titulo: Visitas y permisos — Recorridos de las cuevas
+    url: https://anp.hu/barlangi-turak
+  - titulo: Visita y condiciones — Recorrido corto de Baradla desde Aggtelek
+    url: https://anp.hu/tura/2
+  - titulo: Visita y condiciones — Recorrido de Baradla desde Jósvafő
+    url: https://anp.hu/tura/4
+enlaces_referencia:
+  - titulo: 'UNESCO: Caves of Aggtelek Karst and Slovak Karst'
+    url: https://whc.unesco.org/en/list/725
+resumen:
+  es: >-
+    El karst del norte de Hungría y sus cuevas, compartidas con Eslovaquia, entre ellas el sistema
+    Baradla-Domica.
+  en: >-
+    Northern Hungary's karst plateau and cave systems, shared with Slovakia, including the Baradla-Domica
+    network.
+  fr: >-
+    Le karst du nord de la Hongrie et ses réseaux souterrains partagés avec la Slovaquie, dont le système
+    Baradla-Domica.
+  de: >-
+    Die Karstlandschaften und Höhlensysteme Nordungarns, grenzüberschreitend mit der Slowakei, einschließlich
+    des Baradla-Domica-Netzes.
+  it: >-
+    Il carso dell'Ungheria settentrionale e i suoi complessi ipogei, condivisi con la Slovacchia, compreso il
+    sistema Baradla-Domica.
+  pt: >-
+    O carso do norte da Hungria e as suas galerias subterrâneas, partilhadas com a Eslováquia, incluindo a
+    rede Baradla-Domica.
+unico:
+  es: >-
+    La cueva Baradla, de 26 km (8 de ellos en Eslovaquia, donde se llama Domica), es la mayor cueva de
+    estalactitas de Europa.
+  en: >-
+    Baradla Cave, stretching 26 km (8 km of which lie in Slovakia as Domica), is Europe's largest dripstone
+    cave.
+  fr: >-
+    La grotte Baradla, longue de 26 km (dont 8 km en Slovaquie sous le nom de Domica), est la plus vaste
+    grotte à concrétions d'Europe.
+  de: >-
+    Die Baradla-Höhle ist mit 26 km Gesamtlänge (davon 8 km in der Slowakei als Domica-Höhle) die größte
+    Tropfsteinhöhle Europas.
+  it: >-
+    La grotta Baradla, lunga 26 km (di cui 8 km in Slovacchia con il nome di Domica), è la più vasta cavità a
+    stalattiti d'Europa.
+  pt: >-
+    A gruta Baradla, com 26 km (8 dos quais na Eslováquia sob o nome de Domica), constitui a maior gruta de
+    estalactites da Europa.
+observaciones:
+  es: >-
+    Consulta al gestor antes de ir las condiciones de visita y los sectores abiertos al público. Los
+    visitantes individuales no pueden reservar en línea: la entrada se compra en la taquilla de la cueva.
+    Abrígate: la temperatura bajo tierra es de unos 10 °C.
+texto:
+  es:
+    intro: >-
+      Entras por un agujero al pie de un acantilado blanco y, a los pocos pasos, la temperatura baja a unos 10
+      °C y el mundo cambia de escala. El Parque Nacional de Aggtelek, en el norte de Hungría, se creó para
+      proteger lo que hay bajo la piedra: 280 cuevas, formas de superficie que solo la caliza produce y una de
+      las mayores cuevas de estalactitas de Europa. Pero arriba también hay vida: bosques de roble y carpe,
+      lobos que han vuelto y una yeguada de caballos hucul.
+    landscape: "El Parque Nacional de Aggtelek fue el primero de Hungría creado expresamente para proteger valores geológicos: las formas kársticas de superficie y las famosas cuevas de estalactitas. Ocupa 198,92 km², de los que 39,22 km² tienen protección reforzada, y su relieve es de baja montaña.\r\n\r\nLa historia de esta piedra empezó en un mar. La mayor parte de las rocas del área se formaron en el Triásico, hace entre 210 y 240 millones de años, y el barro calcáreo se depositó en la plataforma del mar Tetis. En el Vörös-tó todavía se reconocen los esqueletos de organismos que construían arrecifes. Después vino la disolución: la caliza se hizo karst, y en la meseta se ven casi todas las formas que produce el karst de la zona templada.\r\n\r\nBajo esa meseta el agua trabaja sin descanso. En el karst brotan unas noventa fuentes, grandes y pequeñas, y las cuevas guardan una variedad poco común: en algunas se observa cerca de dos tercios de los tipos básicos de precipitación de carbonatos que se reconocen en el mundo. En la cueva Meteor está la Sala de los Titanes, una de las mayores salas subterráneas del país, con unas estalagmitas enormes en el centro. Y en el sistema Baradla–Domica se encuentra la estalagmita más grande conocida del mundo, de 37,2 m de altura.\r\n\r\nArriba, el bosque más común es el robledal de roble albar con carpe; en los barrancos hondos hay hayedos de media montaña y en las mesetas, bosques de tilo y fresno. La vegetación es muy variada porque en un mismo lugar se juntan mesetas kársticas, laderas del sur, cuevas, barrancos y dolinas con microclimas extremos."
+    wildlife: "En el parque viven 413 especies animales protegidas o estrictamente protegidas. Los bosques tienen abundante fauna grande, sobre todo ciervos, corzos y jabalíes, y el [lobo](/especie/canis_lupus/) y el [lince](/especie/lynx_lynx/) han vuelto a las montañas del norte de Hungría. En las cuevas viven más de quinientas especies de animales cavernícolas y 21 especies de murciélagos, y de las 28 especies que hay en Europa, 21 aparecen aquí.\r\n\r\nMira hacia arriba: el suslik, una ardilla de tierra, sirve de presa a rapaces como el ratonero común y la rara [águila imperial oriental](/especie/aquila_heliaca/). En los bosques anida el grévol, la única gallinácea de Hungría que cría en el país, y cerca del agua verás [martín pescador](/especie/alcedo_atthis/). La [salamandra común](/especie/salamandra_salamandra/), un anfibio, aparece en el escudo del parque. Y las mariposas superan las dos mil especies: la mayor población húngara de la pequeña mariposa Apolo vive aquí.\r\n\r\nEntre las plantas hay un tesoro: el tornai vértő, endémico y estrictamente protegido. En el parque también está la única yeguada estatal de caballos hucul de Hungría, con más de 120 ejemplares."
+    visit: "Casi todo empieza con una cueva, y hay tres opciones claras. El recorrido corto de Aggtelek dura unos 60 minutos, es fácil, mide 1 km y tiene 166 escalones. Pasa entre salas enormes con estalactitas, estalagmitas, columnas y banderas, y los muros ennegrecidos y los depósitos de hollín guardan la memoria de quienes descubrieron la cueva hace unos miles de años. La sala de conciertos de la cueva destaca por su excelente acústica.\r\n\r\nEl recorrido corto de Jósvafő mide 1.400 m ida y vuelta, lleva unos 60 minutos y se considera de dificultad media por el gran desnivel. En su primera mitad apenas hay espeleotemas, pero se observan pliegues, fallas y estratos; en la segunda, las salas se hacen más ornamentadas. El recorrido medio del Vörös-tó mide 2,3 km y lleva unos 100 minutos.\r\n\r\nLos visitantes individuales no pueden reservar en línea: la entrada se compra en la taquilla de la cueva para la siguiente salida. En todos los recorridos hace frío bajo tierra y hace falta ropa de abrigo.\r\n\r\nLa Baradla lleva siglos de visitas: su primera mención escrita data de 1549, los primeros senderos turísticos se instalaron en 1806 y se usa como atracción turística desde 1920. Su entrada natural en Aggtelek está al pie de un alto acantilado blanco que domina el borde del pueblo. Otra cueva, la de la Paz, alberga un sanatorio para tratar el asma."
+    history: "El parque nacional se fundó en 1985, y desde 1995 forma parte del Patrimonio Mundial de la UNESCO junto con las cuevas del Karst Eslovaco.\r\n\r\nLa historia humana llega muy atrás. En Rudabánya se hallaron restos de Rudapithecus hungaricus, un simio que vivió hace entre 11,5 y 10 millones de años. Y más cerca en el tiempo, el pueblo polaco de Derenk fue desmantelado en 1943 para crear un coto de caza: aún se ven restos de casas, el cementerio y las ruinas de la escuela.\r\n\r\nEl centro educativo de Jósvafő, abierto en 2004, organiza charlas, prácticas de campo, excursiones y escuela en el bosque."
+    before: >-
+      Consulta al gestor antes de ir las condiciones de visita y los sectores abiertos al público. Los
+      visitantes individuales no pueden reservar en línea: la entrada se compra en la taquilla de la cueva.
+      Abrígate: la temperatura bajo tierra es de unos 10 °C.
+    around: >-
+      El [Desfiladero del Río Muráň](/lugar/prielom-murana/) está a unos 10 km. Más lejos, el [Parque Nacional
+      Buila-Vânturarița - Garganta del Bistrița](/lugar/parcul-national-buila-vanturarita---cheile/) y el
+      [Parque Nacional Desfiladero del Jiu - Bosque
+      Primario](/lugar/parcul-national-defileul-jiului-codrii-seculari/) comparten con Aggtelek el karst y los
+      murciélagos.
+  en:
+    intro: >-
+      You enter through a cavern opening at the foot of a sheer white cliff, and within a few paces the
+      subterranean air drops to around 10 °C as the world transforms in scale. Aggtelek National Park in
+      northern Hungary was founded specifically to protect what lies beneath the limestone: 280 mapped caves,
+      surface karst formations unique to soluble limestone, and one of Europe's largest dripstone caves. Above
+      ground, rich life flourishes as well: oak and hornbeam woodlands, returning wolves, and a conservation
+      stud of Hucul horses.
+    landscape: >-
+      Aggtelek National Park was the first in Hungary created specifically to safeguard geological treasures:
+      dramatic surface karst landforms and renowned stalactite caves. It spans 198.92 km², of which 39.22 km²
+      enjoy heightened nature reserve protection across low-mountain terrain.
+
+
+      The genesis of this stone began in an ancient ocean. Most regional rocks formed during the Triassic
+      period between 210 and 240 million years ago, when calcareous mud settled along the margins of the
+      Tethys Ocean. At Vörös-tó, petrified remains of reef-building marine organisms remain plainly visible.
+      Subsequent dissolution transformed limestone into karst, displaying nearly every surface feature typical
+      of temperate karst plateaus.
+
+
+      Beneath this plateau, groundwater works ceaselessly. Around ninety karst springs issue from the
+      subterranean labyrinth, feeding cave systems of remarkable mineralogical variety: local caverns exhibit
+      roughly two-thirds of all known carbonate speleothem types recognized worldwide. Inside Meteor Cave lies
+      the Hall of the Titans, among Hungary's largest subterranean chambers, housing massive stalagmites. In
+      the Baradla–Domica system stands the world's tallest known stalagmite, measuring 37.2 m in height.
+
+
+      On the surface, sessile oak and European hornbeam forests predominate, yielding to montane beechwoods in
+      deep humid ravines and lime-ash stands across plateau tops. Extreme microclimatic contrasts across karst
+      plateaus, southern slopes, cave entrances, and dolines foster exceptional floral richness.
+    wildlife: >-
+      The park harbors 413 protected or strictly protected animal species. Its woodlands shelter abundant
+      large mammals, notably red deer, roe deer, and wild boar, while the [grey wolf](/especie/canis_lupus/)
+      and [Eurasian lynx](/especie/lynx_lynx/) have re-established breeding packs across northern Hungary's
+      mountains. Underground caverns host more than five hundred troglobitic and cave-dwelling species
+      alongside 21 bat species—out of 28 bat species native to Europe, 21 occur right here.
+
+
+      Look skyward: the European ground squirrel provides key prey for raptors such as the common buzzard and
+      the rare [eastern imperial eagle](/especie/aquila_heliaca/). In the secluded forests nests the hazel
+      grouse, Hungary's only resident native galliform bird, while the [common
+      kingfisher](/especie/alcedo_atthis/) flashes along clear watercourses. The [fire
+      salamander](/especie/salamandra_salamandra/) serves as the park's official heraldic emblem. Lepidopteran
+      diversity exceeds two thousand species, including Hungary's largest population of the scarce Apollo
+      butterfly.
+
+
+      Among vascular plants, the endemic and strictly protected Onosma tornensis represents a botanical
+      treasure. The park also maintains Hungary's sole state breeding herd of primitive Hucul horses, counting
+      more than 120 animals.
+    visit: >-
+      Most explorations begin underground, with three distinct tour itineraries available. The short tour of
+      Aggtelek lasts about 60 minutes, graded easy over 1 km and 166 steps. It winds through grand halls
+      adorned with stalactites, stalagmites, columns, and curtains; blackened cave walls and soot deposits
+      preserve the memory of early human explorers from thousands of years ago. The cavern's Concert Hall is
+      acclaimed for world-class acoustics.
+
+
+      The short tour of Jósvafő covers 1,400 m round-trip, taking about 60 minutes with moderate difficulty
+      due to elevation changes. The first half showcases tectonic folds and faults, while the second half
+      opens into lavishly decorated speleothem galleries. The medium tour departing from Vörös-tó spans 2.3
+      km, taking roughly 100 minutes.
+
+
+      Individual visitors cannot book online tickets in advance: admission must be purchased at the cave
+      ticket office for the next scheduled departure. Subterranean temperatures remain consistently chilly on
+      all routes, requiring warm layers.
+
+
+      Baradla Cave has welcomed visitors for centuries: its earliest written mention dates to 1549, developed
+      tourist paths were installed in 1806, and organized tourism has operated since 1920. Its natural portal
+      at Aggtelek sits dramatically below an imposing white cliff overlooking the village edge. Another cave,
+      the Cave of Peace (Béke-barlang), houses a subterranean sanatorium for respiratory therapy.
+    history: >-
+      The national park was founded in 1985 and was inscribed on the UNESCO World Heritage list in 1995
+      jointly with the Caves of Slovak Karst.
+
+
+      Human presence extends deep into antiquity. At Rudabánya, fossil remains of Rudapithecus hungaricus were
+      discovered, a hominoid primate living between 11.5 and 10 million years ago. More recently, the Polish
+      settler village of Derenk was depopulated in 1943 to establish an aristocratic hunting estate; ruins of
+      homesteads, the chapel graveyard, and the village school remain visible today.
+
+
+      The Jósvafő Environmental Education Centre, opened in 2004, hosts seminars, field courses, and nature
+      school camps.
+    before: >-
+      Check with park administration for updated tour schedules and open cave sectors before travelling.
+      Individual visitors cannot reserve online: purchase tour tickets at the cave ticket office. Dress
+      warmly: subterranean temperatures remain around 10 °C year-round.
+    around: >-
+      The [Muráň River Gorge](/lugar/prielom-murana/) lies about 10 km away. Further afield,
+      [Buila-Vânturarița National Park - Bistrița Gorge](/lugar/parcul-national-buila-vanturarita---cheile/)
+      and [Jiu Gorge National Park - Primeval Forest](/lugar/parcul-national-defileul-jiului-codrii-seculari/)
+      share karst geology and subterranean bat communities with Aggtelek.
+  fr:
+    intro: >-
+      Vous pénétrez sous terre au pied d'une haute falaise blanche et, en quelques pas, l'air fraîchit à
+      environ 10 °C tandis que l'univers change d'échelle. Le parc national d'Aggtelek, dans le nord de la
+      Hongrie, fut institué pour protéger ce qui sommeille sous la roche : 280 grottes répertoriées, des
+      modelés superficiels karstiques remarquables et l'une des plus grandioses cavités à concrétions
+      d'Europe. Mais le plateau supérieur fourmille également de vie : chênaies-charmaies, retour du loup et
+      élevage conservatoire de chevaux huculs.
+    landscape: >-
+      Le parc national d'Aggtelek fut le premier de Hongrie spécialement créé pour sauvegarder des richesses
+      géologiques : des formes karstiques de surface et de spectaculaires grottes à concrétions. Il couvre
+      198,92 km², dont 39,22 km² sous protection intégrale renforcée, sur un relief de moyenne montagne
+      calcaire.
+
+
+      La genèse de cette pierre s'enracine dans la mer. L'essentiel des roches régionales s'est déposé au
+      Trias, il y a entre 210 et 240 millions d'années, par sédimentation carbonatée sur les hauts-fonds de la
+      Téthys. Au lac Vörös-tó s'observent encore les fossiles d'organismes constructeurs de récifs. La
+      dissolution a ensuite sculpté la roche : le calcaire est devenu karst, exposant sur les plateaux la
+      quasi-totalité des modelés de dissolution tempérés.
+
+
+      Sous ces hauteurs, l'eau poursuit son travail d'érosion. Environ quatre-vingt-dix résurgences sourdent
+      du massif, et les cavités renferment une exceptionnelle variété minérale : certaines grottes rassemblent
+      près des deux tiers des types de concrétions carbonatées identifiés sur le globe. La grotte Météor
+      abrite la salle des Titans, l'une des plus vastes salles souterraines du pays, parée de volumineuses
+      stalagmites. Dans le réseau Baradla–Domica s'élève la plus haute stalagmite connue au monde, dressée sur
+      37,2 m de hauteur.
+
+
+      En surface domine la chênaie sessiliflore à charme, relayée dans les combes humides par des hêtraies de
+      montagne et sur les crêtes par des boisements d'éboulis à tilleul et frêne. La flore est d'une grande
+      variété sous l'effet des contrastes entre plateaux karstiques arides, adrets ensoleillés, gouffres et
+      dolines aux microclimats contrastés.
+    wildlife: >-
+      Le parc compte 413 espèces animales protégées ou de protection stricte. Les massifs forestiers abritent
+      une riche faune d'ongulés, notamment le cerf élaphe, le chevreuil et le sanglier, tandis que le [loup
+      gris](/especie/canis_lupus/) et le [lynx boréal](/especie/lynx_lynx/) ont réinvesti les reliefs
+      septentrionaux de Hongrie. Dans les profondeurs vivent plus de cinq cents espèces cavernicoles
+      troglobies et 21 espèces de chauves-souris — sur les 28 espèces de chiroptères présentes en Europe, 21
+      sont recensées ici.
+
+
+      Levez les yeux : le souslik d'Europe constitue une proie de choix pour la buse variable et la rare
+      [aigle impériale](/especie/aquila_heliaca/). Dans les sous-bois niche la gélinotte des bois, seul
+      galliforme sauvage autochtone de Hongrie, tandis que le [martin-pêcheur
+      d'Europe](/especie/alcedo_atthis/) flèche les eaux vives. La [salamandre
+      tachetée](/especie/salamandra_salamandra/) figure sur les armoiries officielles du parc. Les papillons
+      dépassent deux mille espèces recensées, le site hébergeant la plus importante population hongroise de
+      petit apollon.
+
+
+      Parmi les végétaux, l'orpin d'Aggtelek (Onosma tornensis) constitue un joyau endémique de protection
+      stricte. Le parc accueille également l'unique haras national de chevaux huculs de Hongrie, fort de plus
+      de 120 têtes.
+    visit: >-
+      Presque tout commence par une exploration souterraine, avec trois circuits principaux. Le parcours court
+      d'Aggtelek dure environ 60 minutes, d'accès aisé sur 1 km et 166 marches. Il traverse d'immenses salles
+      ornées de draperies, colonnes et stalagmites, où les parois noircies rappellent les torches des premiers
+      explorateurs préhistoriques. La salle de concert de la grotte offre une acoustique réputée.
+
+
+      Le parcours court de Jósvafő s'étend sur 1 400 m aller-retour, dure environ 60 minutes et relève d'une
+      difficulté moyenne en raison des dénivellations. La première moitié met en valeur failles et plissements
+      géologiques, la seconde dévoilant des galeries ouvragées. Le parcours moyen de Vörös-tó mesure 2,3 km
+      pour environ 100 minutes de marche.
+
+
+      Les visiteurs individuels ne peuvent réserver leurs billets sur internet : les entrées s'achètent sur
+      place à la billetterie pour le départ suivant. Dans toutes les galeries la température reste fraîche,
+      nécessitant des vêtements chauds.
+
+
+      La grotte Baradla accueille des curieux depuis des siècles : sa première mention écrite remonte à 1549,
+      les premiers cheminements touristiques furent aménagés en 1806 et son exploitation touristique régulière
+      débuta en 1920. Son porche naturel à Aggtelek s'ouvre sous une falaise blanche dominant la commune. Une
+      autre caverne, la grotte de la Paix, abrite un sanatorium spéléothérapique pour les affections
+      respiratoires.
+    history: >-
+      Le parc national a été créé en 1985 et inscrit au Patrimoine mondial de l'UNESCO en 1995 conjointement
+      avec les grottes du Karst slovaque.
+
+
+      L'occupation humaine est très ancienne. À Rudabánya ont été découverts les fossiles de Rudapithecus
+      hungaricus, un hominoïde vieux de 11,5 à 10 millions d'années. Plus près de nous, le village polonais de
+      Derenk fut évacué et détruit en 1943 pour constituer un domaine de chasse seigneurial : subsistent les
+      ruines des fermes, le cimetière et les murs de l'école.
+
+
+      Le centre pédagogique de Jósvafő, ouvert en 2004, organise des classes de nature, des ateliers
+      scientifiques et des excursions d'initiation.
+    before: >-
+      Renseignez-vous auprès du parc avant votre venue pour connaître les horaires de visite et les tronçons
+      ouverts. Les particuliers ne peuvent pas réserver en ligne : l'achat se fait directement au guichet de
+      la grotte. Prévoyez des vêtements chauds : la température sous terre avoisine 10 °C toute l'année.
+    around: >-
+      Le [défilé de la rivière Muráň](/lugar/prielom-murana/) se trouve à environ 10 km. Plus au loin, le
+      [parc national Buila-Vânturarița - gorges de la
+      Bistrița](/lugar/parcul-national-buila-vanturarita---cheile/) et le [parc national du défilé du Jiu -
+      forêt primaire](/lugar/parcul-national-defileul-jiului-codrii-seculari/) partagent avec Aggtelek le
+      relief karstique et les colonies de chauves-souris.
+  de:
+    intro: >-
+      Du trittst durch ein Höhlentor am Fuß einer weißen Felswand ein, und schon nach wenigen Schritten kühlt
+      die Luft auf rund 10 °C ab, während die Dimensionen der Umgebung ins Monumentale wachsen. Der
+      Aggtelek-Nationalpark im Norden Ungarns wurde geschaffen, um die Schätze im Kalkstein zu bewahren: 280
+      Höhlen, spektakuläre Oberflächenkarstformen und eine der mächtigsten Tropfsteinhöhlen Europas. Doch auch
+      über Tage entfaltet sich das Leben: Eichen-Hainbuchen-Wälder, zurückgekehrte Wölfe und ein
+      Erhaltungsgestüt für Huzulenpferde.
+    landscape: >-
+      Der Aggtelek-Nationalpark war der erste Nationalpark Ungarns, der vorrangig zum Schutz geologischer
+      Naturwunder gegründet wurde: Karstphänomene an der Oberfläche und weltberühmte Tropfsteinhöhlen im
+      Untergrund. Er umfasst 198,92 km², wovon 39,22 km² unter strengem Prozessschutz stehen, eingebettet in
+      ein bewaldetes Mittelgebirge.
+
+
+      Die Geschichte des Karstes begann in einem tropischen Flachmeer. Der Großteil der Gesteine entstand in
+      der Trias vor 210 bis 240 Millionen Jahren, als sich Kalkschlämme auf dem Schelf des Tethys-Ozeans
+      ablagerten. Am Vörös-tó sind bis heute fossile Riffbildner mit bloßem Auge zu erkennen. Später setzte
+      die Verkarstung ein: Wasser löste den Kalkstein auf, und auf dem Hochplateau entstanden nahezu sämtliche
+      Formenschätze des gemäßigten Karstes.
+
+
+      Unter der Hochebene fließt das Wasser unaufhörlich. Rund neunzig Karstquellen entspringen im
+      Schutzgebiet, und die Höhlengänge bergen eine weltweit außergewöhnliche Vielfalt: In manchen Abschnitten
+      sind rund zwei Drittel aller global bekannten Tropfstein- und Sintertypen versammelt. In der
+      Meteor-Höhle liegt die Halle der Titanen, einer der gewaltigsten Höhlenräume des Landes, geschmückt mit
+      riesigen Stalagmiten. Im Baradla–Domica-System erhebt sich zudem der höchste bekannte Tropfsteinriese
+      der Welt mit 37,2 m Höhe.
+
+
+      Auf der Hochfläche dominiert Traubeneichen-Hainbuchenwald; in schattigen Schluchten wachsen submontane
+      Buchenwälder und an Steilhängen Linden-Eschen-Schuttwälder. Dolinen, Höhleneingänge und sonnenexponierte
+      Südhänge erzeugen kleinräumige mikroklimatische Extreme.
+    wildlife: >-
+      Im Nationalpark leben 413 geschützte oder streng geschützte Tierarten. Die dichten Wälder beherbergen
+      reiche Schalenwildbestände an Rothirschen, Rehen und Wildschweinen, während
+      [Wolf](/especie/canis_lupus/) und [Eurasischer Luchs](/especie/lynx_lynx/) in die nordungarischen
+      Grenzgebirge zurückgekehrt sind. Die Unterwelt bewohnen über fünfhundert höhlenangepasste Tierarten
+      sowie 21 Fledermausarten — von 28 in ganz Europa heimischen Fledermausarten kommen 21 in diesem Karst
+      vor.
+
+
+      Blick nach oben: Der Europäische Ziesel dient Greifvögeln wie dem Mäusebussard und dem seltenen
+      [Kaiseradler](/especie/aquila_heliaca/) als Beute. In ruhigen Bergwäldern brütet das Haselhuhn, Ungarns
+      einziges heimisches Raufußhuhn, während an klaren Bächen der [Eisvogel](/especie/alcedo_atthis/) jagt.
+      Der [Feuersalamander](/especie/salamandra_salamandra/) ziert das Wappen des Nationalparks. Die
+      Schmetterlingsfauna zählt über zweitausend Arten, darunter Ungarns stärkste Population des Roten Apollo.
+
+
+      Unter den Blütenpflanzen bildet die endemische Tornauer Lotwurz (Onosma tornensis) eine botanische
+      Kostbarkeit. Der Park beherbergt zudem das einzige staatliche Erhaltungsgestüt für urtümliche
+      Huzulenpferde in Ungarn mit über 120 Tieren.
+    visit: >-
+      Die meisten Besucher zieht es unter Tage; dafür stehen drei Hauptrouten zur Wahl. Die kurze Tour ab
+      Aggtelek dauert etwa 60 Minuten, ist leicht begehbar, umfasst 1 km Wegstrecke und 166 Stufen. Sie führt
+      durch gewaltige Hallen voller Tropfsteinsäulen und Sinterfahnen, an deren rußgeschwärzten Wänden noch
+      Fackelspuren urzeitlicher Höhlenbesucher sichtbar sind. Der Konzertsaal der Höhle zeichnet sich durch
+      vollendete Akustik aus.
+
+
+      Die kurze Tour ab Jósvafő erstreckt sich über 1.400 m hin und zurück, dauert rund 60 Minuten und gilt
+      wegen der Treppen als mittelschwer. Im ersten Abschnitt dominieren tektonische Verwerfungen, im zweiten
+      reich geschmückte Tropfsteinsäle. Die mittlere Tour ab Vörös-tó misst 2,3 km bei etwa 100 Minuten
+      Gehzeit.
+
+
+      Einzelbesucher können vorab keine Online-Tickets erwerben: Eintrittskarten werden direkt an der
+      Höhlenkasse für die jeweils nächste Führung ausgegeben. In allen Höhlengängen herrscht kühles
+      Höhlenklima; warme Kleidung ist unerlässlich.
+
+
+      Die Baradla-Höhle blickt auf eine lange Erschließungsgeschichte zurück: Ihre erste schriftliche
+      Erwähnung datiert auf 1549, erste befestigte Schauwege entstanden 1806, und seit 1920 wird sie dauerhaft
+      touristisch betrieben. Ihr natürliches Mundloch in Aggtelek liegt am Fuß einer markanten weißen Felswand
+      am Ortsrand. In der Friedenshöhle (Béke-barlang) befindet sich zudem ein Höhlensanatorium zur Behandlung
+      von Atemwegserkrankungen.
+    history: >-
+      Der Nationalpark wurde 1985 gegründet und 1995 gemeinsam mit den Höhlen des Slowakischen Karstes in das
+      UNESCO-Welterbe aufgenommen.
+
+
+      Die menschliche Besiedlung reicht weit zurück: In Rudabánya wurden Fossilien von Rudapithecus hungaricus
+      geborgen, einer Primatenart, die vor 11,5 bis 10 Millionen Jahren lebte. In jüngerer Zeit wurde das
+      polnische Goralendorf Derenk 1943 zwangsumgesiedelt, um ein herrschaftliches Jagdrevier einzurichten;
+      Fundamente, der Dorffriedhof und die Schulruine sind bis heute erhalten.
+
+
+      Das Bildungszentrum in Jósvafő, eröffnet 2004, veranstaltet Seminare, Exkursionen und
+      Waldschulprogramme.
+    before: >-
+      Informiere dich vorab bei der Parkverwaltung über Touren und geöffnete Abschnitte. Einzelreisende können
+      nicht online reservieren; Tickets gibt es an der Höhlenkasse. Zieh dich warm an: Im Höhleninneren
+      herrschen ganzjährig konstant rund 10 °C.
+    around: >-
+      Der [Durchbruch des Flusses Muráň](/lugar/prielom-murana/) liegt rund 10 km entfernt. Weiter entfernt
+      teilen der [Nationalpark Buila-Vânturarița -
+      Bistrița-Schlucht](/lugar/parcul-national-buila-vanturarita---cheile/) und der [Nationalpark
+      Jiu-Schlucht - Urwald](/lugar/parcul-national-defileul-jiului-codrii-seculari/) mit Aggtelek
+      Karstphänomene und Fledermauskolonien.
+  it:
+    intro: >-
+      Varchi un imbocco alla base di una parete calcarea bianca e, dopo pochi passi, l'aria scende a circa 10
+      °C mentre lo spazio muta radicalmente scala. Il Parco nazionale di Aggtelek, nell'Ungheria
+      settentrionale, nacque per tutelare ciò che si nasconde nella roccia: 280 cavità esplorate, morfologie
+      carsiche superficiali e una delle maggiori grotte a stalattiti d'Europa. Sopra la volta di pietra pulsa
+      una ricca vita silvestre: boschi di farnia e carpino, lupi reinsediatisi nel territorio e un allevamento
+      di conservazione del cavallo hucul.
+    landscape: >-
+      Il Parco nazionale di Aggtelek è stato il primo in Ungheria istituito con l'obiettivo prioritario di
+      tutelare il patrimonio geologico: formazioni carsiche all'aperto e celeberrime cavità a stalattiti. Si
+      sviluppa su 198,92 km², di cui 39,22 km² sottoposti a protezione integrale rinforzata, entro una fascia
+      di media montagna.
+
+
+      La vicenda geologica ha inizio in un bacino marino. La quasi totalità delle rocce si formò nel
+      Triassico, tra 210 e 240 milioni di anni fa, depositando fanghiglie calcaree sui fondali dell'oceano
+      Tetide. Presso il lago Vörös-tó si distinguono ancora i fossili di organismi costruttori di scogliere
+      coralline. In seguito l'azione dissolutoria delle acque creò il carso, modellando sull'altopiano quasi
+      tutte le forme tipiche del carsismo temperato.
+
+
+      Nel sottosuolo l'idrografia lavora senza sosta. Dal massiccio scaturiscono circa novanta sorgenti
+      carsiche e gli ambienti ipogei racchiudono una straordinaria varietà: in certe sale si riscontrano circa
+      due terzi delle tipologie note di concrezioni calcaree mondiali. Nella grotta Meteor si apre la Sala dei
+      Titani, fra i maggiori ambienti sotterranei del paese, ricca di stalagmiti giganti. Nel sistema
+      Baradla–Domica si erge la colonna stalagmitica più alta del mondo, con 37,2 m di altezza.
+
+
+      In superficie prevale il querceto di rovere e carpino bianco; nei valloni ombrosi allignano faggete
+      montane e sui versanti acclivi boscaglie di tiglio e frassino. La flora è composita per via
+      dell'alternanza tra altopiani aridi, pendii meridionali, doline e forre dai microclimi opposti.
+    wildlife: >-
+      Nell'area protetta vivono 413 specie animali protette o particolarmente protette. I boschi ospitano una
+      ricca fauna ungulata, soprattutto cervi, caprioli e cinghiali, mentre il [lupo](/especie/canis_lupus/) e
+      la [lince eurasiatica](/especie/lynx_lynx/) sono ritornati stabilmente sui rilievi dell'Ungheria
+      settentrionale. Le cavità ospitano oltre cinquecento specie di invertebrati cavernicoli e 21 specie di
+      pipistrelli: su 28 specie presenti nell'intera Europa, 21 risiedono in queste grotte.
+
+
+      Osserva il cielo: il citello europeo costituisce una preda ambita per la poiana e la rara [aquila
+      imperiale orientale](/especie/aquila_heliaca/). Nelle selve nidifica il francolino di monte, unico
+      galliforme autoctono stanziale in Ungheria, mentre lungo le acque scorre il [martin
+      pescatore](/especie/alcedo_atthis/). La [salamandra pezzata](/especie/salamandra_salamandra/) campeggia
+      nello stemma ufficiale del parco. Le farfalle superano le duemila specie censite, ospitando la maggiore
+      colonia ungherese di apollo minore.
+
+
+      Fra i vegetali brilla un tesoro: l'Onosma tornensis, endemica e strettamente tutelata. Nel parco si
+      conserva inoltre l'unico allevamento statale ungherese di cavalli hucul, con oltre 120 capi.
+    visit: >-
+      Quasi ogni visita muove dall'esplorazione sotterranea, con tre percorsi codificati. L'itinerario breve
+      di Aggtelek dura circa 60 minuti, è facile, misura 1 km ed esige 166 gradini. Si snoda tra sale
+      magnifiche ornate di stalattiti, stalagmiti e colate, dove le pareti annerite serbano le tracce delle
+      torce dei primi scopritori di millenni or sono. La Sala concerti gode di un'acustica eccellente.
+
+
+      Il percorso breve di Jósvafő copre 1.400 m fra andata e ritorno, richiede circa 60 minuti ed è
+      considerato di media difficoltà per i dislivelli. Nella prima metà risaltano pieghe e faglie, nella
+      seconda si aprono ambienti riccamente concrezionati. Il percorso intermedio con partenza da Vörös-tó
+      misura 2,3 km e impegna per circa 100 minuti.
+
+
+      I visitatori individuali non possono acquistare biglietti online: i tagliandi si acquistano in
+      biglietteria per la partenza immediatamente successiva. In tutti i percorsi sotterranei l'ambiente è
+      freddo e richiede indumenti adeguati.
+
+
+      La grotta Baradla vanta una lunga tradizione turistica: la prima menzione manoscritta risale al 1549, le
+      prime passerelle furono collocate nel 1806 e l'esercizio turistico regolare prosegue dal 1920.
+      L'ingresso naturale ad Aggtelek si apre sotto un'alta falesia calcarea a ridosso del borgo. Un'altra
+      cavità, la grotta della Pace, ospita un sanatorio per la cura dell'asma.
+    history: >-
+      Il parco nazionale è stato costituito nel 1985 e iscritto nel 1995 nel Patrimonio Mondiale dell'UNESCO
+      congiuntamente alle grotte del Carso slovacco.
+
+
+      L'archeologia umana affonda le radici in epoche remote. A Rudabánya vennero alla luce i resti fossili di
+      Rudapithecus hungaricus, primate vissuto tra 11,5 e 10 milioni di anni fa. Più di recente, l'abitato
+      polacco di Derenk fu evacuato forzatamente nel 1943 per istituire una riserva di caccia nobiliare: se ne
+      scorgono ancora i ruderi, il cimitero e la scuola dismessa.
+
+
+      Il centro didattico di Jósvafő, aperto nel 2004, ospita laboratori naturalistici, soggiorni studio e
+      percorsi educativi.
+    before: >-
+      Rivolgiti all'ente parco prima della visita per verificare orari e tratti accessibili. I singoli
+      viaggiatori non possono prenotare online: il titolo d'accesso si acquista direttamente alla cassa.
+      Copriti con cura: la temperatura all'interno delle grotte si mantiene costantemente sui 10 °C.
+    around: >-
+      La [Gola del Fiume Muráň](/lugar/prielom-murana/) dista circa 10 km. Più distante, il [Parco nazionale
+      Buila-Vânturarița - Gole della Bistrița](/lugar/parcul-national-buila-vanturarita---cheile/) e il [Parco
+      nazionale Gola del Jiu - Foresta Primaria](/lugar/parcul-national-defileul-jiului-codrii-seculari/)
+      condividono con Aggtelek l'ambiente carsico e i popolamenti di chirotteri.
+  pt:
+    intro: >-
+      Entras por uma fenda na base de uma alta escarpa branca e, em poucos passos, o termómetro desce para
+      cerca de 10 °C enquanto o mundo ganha outra dimensão. O Parque Nacional de Aggtelek, no norte da
+      Hungria, nasceu para salvaguardar o que jaz sob o calcário: 280 grutas catalogadas, relevos cársticos
+      superficiais notáveis e uma das maiores cavernas de estalactites da Europa. Mas à superfície desdobra-se
+      igualmente a vida silvestre: carvalhais com carpinos, alcateias de lobos restabelecidas e uma coudelaria
+      de preservação de cavalos hucul.
+    landscape: >-
+      O Parque Nacional de Aggtelek foi o primeiro da Hungria criado com a missão expressa de tutelar valores
+      geológicos: geoformas cársticas de superfície e famosas grutas de estalactites. Estende-se por 198,92
+      km², dos quais 39,22 km² possuem regime de proteção reforçada, num relevo de média montanha.
+
+
+      A génese desta rocha teve berço num mar pretérito. A esmagadora maioria das rochas da região
+      depositou-se no Triásico, há entre 210 e 240 milhões de anos, a partir de lamas calcárias acumuladas na
+      plataforma do oceano Tétis. No lago Vörös-tó ainda se descortinam fósseis de recifes biogénicos.
+      Seguiu-se a dissolução química: o calcário converteu-se em carso, desenhando no planalto quase todas as
+      formas cársticas de clima temperado.
+
+
+      Sob este planalto a água circula sem interrupção. Do maciço brotam cerca de noventa nascentes cársticas
+      e as grutas revelam uma variedade invulgar: em certos troços observa-se perto de dois terços dos tipos
+      de espeleotemas de carbonato registados no mundo. Na gruta Meteor abre-se a Sala dos Titãs, um dos
+      maiores salões subterrâneos do país, com estalagmites volumosas. Na rede Baradla–Domica ergue-se a maior
+      estalagmite conhecida em todo o globo, com 37,2 m de altura.
+
+
+      À superfície predominam os carvalhais de carvalho-séssil com carpino; nas gargantas sombrias prosperam
+      faiais de montanha e nos planaltos matas mistas de tílias e freixos. A vegetação é rica devido ao
+      mosaico de relevos áridos, encostas soalheiras, abismos e dolinas com microclimas rigorosos.
+    wildlife: >-
+      O parque acolhe 413 espécies de animais protegidas ou estritamente protegidas. Os mantos florestais
+      albergam abundantes populações de veados, corços e javalis, ao passo que o [lobo](/especie/canis_lupus/)
+      e o [lince-euroasiático](/especie/lynx_lynx/) regressaram às montanhas setentrionais da Hungria. No
+      mundo subterrâneo habitam mais de quinhentas espécies cavernícolas e 21 espécies de morcegos: das 28
+      espécies existentes na Europa, 21 ocorrem aqui.
+
+
+      Olha para as copas: o esquilo-terrestre serve de alimento a rapinas como a águia-d'asa-redonda e a rara
+      [águia-imperial-oriental](/especie/aquila_heliaca/). Nos bosques tranquilos nidifica a galinha-do-mato,
+      única ave galiforme autóctone da Hungria, enquanto junto à água caça o
+      [guarda-rios-comum](/especie/alcedo_atthis/). A
+      [salamandra-de-pintas-amarelas](/especie/salamandra_salamandra/) ilustra o emblema do parque. Os
+      lepidópteros ultrapassam duas mil espécies, com a maior população húngara da borboleta-apolo-pequena.
+
+
+      Entre as espécies vegetais sobressai a rara Onosma tornensis, endémica e estritamente salvaguardada. O
+      território acolhe ainda a única coudelaria estatal de cavalos hucul da Hungria, com mais de 120
+      exemplares.
+    visit: >-
+      A esmagadora maioria dos visitantes ruma às grutas, dispondo de três percursos principais. O trajeto
+      curto de Aggtelek demora cerca de 60 minutos, é fácil, cobre 1 km e conta 166 degraus. Serpenteia por
+      salões grandiosos ornamentados com estalactites, estalagmites, colunas e cortinas, onde as paredes
+      tisnadas guardam a memória dos pioneiros que descobriram a gruta há milénios. A Sala de Concertos
+      destaca-se pela sua acústica.
+
+
+      O trajeto curto de Jósvafő mede 1.400 m ida e volta, leva cerca de 60 minutos e apresenta exigência
+      moderada pelos desníveis. Na primeira metade sobressaem dobras e falhas, na segunda revelam-se galerias
+      muito ornamentadas. O circuito médio de Vörös-tó perfaz 2,3 km e exige cerca de 100 minutos de marcha.
+
+
+      Os visitantes a título individual não podem efetuar reservas na internet: o bilhete adquire-se na
+      bilheteira da gruta para a saída imediatamente seguinte. Em todos os itinerários o ar subterrâneo é
+      frio, impondo agasalhos.
+
+
+      A gruta Baradla soma séculos de afluência: a primeira menção escrita data de 1549, as primeiras
+      passadeiras turísticas foram fixadas em 1806 e o aproveitamento turístico funciona desde 1920. A sua
+      entrada natural em Aggtelek abre-se sob uma imponente arriba branca na periferia da aldeia. Noutra
+      gruta, a da Paz, funciona um sanatório espeleoterapêutico para alívio de patologias respiratórias.
+    history: >-
+      O parque nacional foi criado em 1985 e integrado no Património Mundial da UNESCO em 1995 conjuntamente
+      com as grutas do Carso Eslovaco.
+
+
+      A presença humana é milenar. Em Rudabánya foram identificados restos fósseis de Rudapithecus hungaricus,
+      um primata com 11,5 a 10 milhões de anos. Em tempos mais próximos, a aldeia polaca de Derenk foi
+      desmantelada em 1943 para dar lugar a uma coutada de caça: ainda hoje se avistam alicerces, o cemitério
+      e a escola em ruínas.
+
+
+      O centro de educação ambiental de Jósvafő, criado em 2004, dinamiza palestras, trabalho de campo e
+      cursos de natureza.
+    before: >-
+      Consulta os serviços do parque antes de viajar para confirmar horários e percursos visitáveis. Os
+      visitantes particulares não conseguem reservar bilhetes online: a aquisição faz-se na bilheteira da
+      gruta. Leva roupa quente: a temperatura sob terra ronda os 10 °C durante todo o ano.
+    around: >-
+      O [Desfiladeiro do Rio Muráň](/lugar/prielom-murana/) fica a cerca de 10 km. Mais longe, o [Parque
+      Nacional Buila-Vânturarița - Garganta do Bistrița](/lugar/parcul-national-buila-vanturarita---cheile/) e
+      o [Parque Nacional Desfiladeiro do Jiu - Floresta
+      Primária](/lugar/parcul-national-defileul-jiului-codrii-seculari/) partilham com Aggtelek o substrato
+      cárstico e as colónias de morcegos.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Aggtelek_National_Park
+    titulo: Aggtelek National Park - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://anp.hu/tura/4
+    titulo: Aggteleki Nemzeti Park
+    fecha_consulta: '2026-10-24'
+  - url: https://hu.wikipedia.org/wiki/Aggteleki_Nemzeti_Park
+    titulo: Aggteleki Nemzeti Park — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Baradla_Cave
+    titulo: Baradla Cave — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://anp.hu/tura/2
+    titulo: Aggteleki rövidtúra — Aggteleki Nemzeti Park
+    fecha_consulta: '2026-10-24'
+  - url: https://www.anp.hu
+    titulo: Aggteleki Nemzeti Park
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:BAZ2.jpg
+    autor: Kalyob
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

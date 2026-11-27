@@ -1,0 +1,585 @@
+id: val-d-allier---allier-sauvage
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural del Valle del Allier
+  en: Val d’Allier Nature Reserve
+  fr: Réserve naturelle nationale du Val d’Allier
+  de: Naturschutzgebiet Allier-Tal
+  it: Riserva Naturale della Valle dell’Allier
+  pt: Reserva Natural do Vale do Allier
+nombre_original: Val d'Allier - Allier Sauvage
+alias:
+  - Allier Floodplain & Allier Sauvage
+paises:
+  - FR
+region:
+  es: Auvernia-Ródano-Alpes (Allier / Moulins)
+  en: Auvergne-Rhône-Alpes (Allier / Moulins)
+  fr: Auvergne-Rhône-Alpes (Allier / Moulins)
+  de: Auvergne-Rhône-Alpes (Allier / Moulins)
+  it: Alvernia-Rodano-Alpi (Allier / Moulins)
+  pt: Auvérnia-Ródano-Alpes (Allier / Moulins)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.4
+  lon: 3.35
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 106724
+  nombre_en_la_fuente: Val D\'Allier
+  categoria_uicn: IV
+  capa: capas/cdda/val-d-allier---allier-sauvage.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - burhinus_oedicnemus
+  - sternula_albifrons
+  - castor_fiber
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: maggio a settembre
+  pt: maio a setembro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Réserve Naturelle du Val d'Allier
+    url: https://www.reserves-naturelles.org/val-d-allier
+  - titulo: Gestores y normas — Reserva del Val d’Allier, LPO
+    url: https://auvergne-rhone-alpes.lpo.fr/espaces-naturels/rnn-val-d-allier/
+  - titulo: Mapa — Accesos y recorridos de la reserva
+    url: https://auvergne-rhone-alpes.lpo.fr/wp-content/uploads/CARTE-rnvadepliant-verso.pdf
+resumen:
+  es: >-
+    Uno de los últimos ríos de llanura verdaderamente salvajes y dinámicos de Europa sin encauzamiento
+    artificial.
+  en: One of Western Europe’s last truly wild, free-flowing lowland rivers without artificial embankments.
+  fr: >-
+    L’une des dernières rivières de plaine véritablement sauvages et dynamiques d’Europe occidentale, sans
+    digues artificielles.
+  de: >-
+    Einer der letzten wahrhaft wilden, dynamischen Tieflandflüsse Westeuropas ohne künstliche
+    Uferbefestigungen.
+  it: >-
+    Uno degli ultimi fiumi di pianura autenticamente selvaggi e dinamici d’Europa, privo di arginature
+    artificiali.
+  pt: >-
+    Um dos últimos rios de planície verdadeiramente selvagens e dinâmicos da Europa ocidental, sem
+    regularização artificial.
+unico:
+  es: >-
+    Un río que cambia de cauce cada vez que quiere y que, al hacerlo, fabrica bancos de grava, brazos muertos,
+    praderas y bosques de ribera donde anidan más de cien especies de aves.
+  en: >-
+    A river that shifts course whenever it pleases, endlessly reshaping gravel bars, oxbows, wet meadows, and
+    riparian woods where over a hundred bird species nest.
+  fr: >-
+    Une rivière qui change de lit au gré de ses crues, façonnant bancs de graviers, bras morts, prairies et
+    forêts alluviales où nichent plus de cent espèces d’oiseaux.
+  de: >-
+    Ein Fluss, der sein Bett nach Belieben verlegt und dabei Kiesbänke, Altarme, Feuchtwiesen und Auwälder
+    formt, in denen über hundert Vogelarten brüten.
+  it: >-
+    Un fiume che muta alveo a ogni piena, modellando banchi di ghiaia, lanche, prati umidi e boschi golenali
+    dove nidificano oltre cento specie di uccelli.
+  pt: >-
+    Um rio que muda de leito sempre que deseja, remodelando bancos de cascalho, braços mortos, prados e
+    bosques ripícolas onde nidificam mais de cem espécies de aves.
+observaciones:
+  es: >-
+    En Les Perrons (Chemilly), el acceso puede cerrarse durante las obras de retirada del vertedero. Los
+    senderos no son accesibles a personas con movilidad reducida ni a cochecitos, y según las crecidas algunos
+    puntos de acceso cierran temporalmente.
+texto:
+  es:
+    intro: >-
+      La mayoría de los ríos de llanura de Europa occidental llevan siglos encauzados. El Allier, no del todo.
+      Durante unos veinte kilómetros, al sur de Moulins, esta reserva acompaña las dos orillas de uno de los
+      pocos ríos casi totalmente libres de sus movimientos: erosiona, abre cauces nuevos, abandona otros y
+      deposita sedimentos. La Reserva Natural Nacional del Val d'Allier tiene 1.450 hectáreas y se creó en
+      1994 para que siga haciéndolo.
+    landscape: >-
+      El Allier nace en la Moure de la Gardille, en la Margeride, mide 420,7 km y desemboca en el Loira en el
+      bec d'Allier. Lo que lo hace especial es su pendiente: en llanura es cinco veces mayor que la del Loira,
+      y eso aumenta la erosión de las orillas.
+
+
+      El trabajo es siempre el mismo. En la llanura aluvial, que empieza en Vieille-Brioude, el río forma
+      meandros erosionando la orilla externa; el meandro acaba cortándose y deja un brazo muerto. Esa dinámica
+      produce un rompecabezas de ambientes: bancos de grava y arena, taludes de erosión, brazos muertos,
+      praderas, landas y bosques de ribera. El mosaico se alinea con el cauce y funciona como corredor
+      ecológico. Y de ese movimiento depende también la protección de los hábitats y del agua potable.
+
+
+      La flora lo refleja: más de 600 especies de plantas, algunas traídas por el río desde Auvernia o las
+      Cévennes, y cerca de 200 de hongos.
+    wildlife: >-
+      Entre los bancos de grava se instalan las aves más ligadas al río. Hay más de 100 especies de aves
+      nidificantes, entre ellas el [alcaraván](/especie/burhinus_oedicnemus/), el [charrán
+      enano](/especie/sternula_albifrons/) y el común, el chorlitejo chico, la [cigüeña
+      blanca](/especie/ciconia_ciconia/), el milano negro, el avión zapador y la oropéndola; el [martín
+      pescador](/especie/alcedo_atthis/) y el abejaruco europeo completan la lista. De las 277 especies
+      observadas, 112 nidifican en la reserva. El [águila pescadora](/especie/pandion_haliaetus/) figura entre
+      las de alto valor patrimonial.
+
+
+      En el agua y en la orilla viven 45 especies de mamíferos, 9 de ellos murciélagos, con
+      [castor](/especie/castor_fiber/), [nutria](/especie/lutra_lutra/) y [gato
+      montés](/especie/felis_silvestris/). En el Allier se pueden ver coipos y castores. La fauna de peces es
+      de las más variadas de Francia, con unas cuarenta especies, entre ellas el
+      [salmón](/especie/salmo_salar/), el sábalo y la lamprea marina, y hay además 49 especies de libélulas y
+      más de 1000 de coleópteros.
+
+
+      El salmón del Allier tiene la migración más larga de Europa occidental, pero las muchas presas del Loira
+      casi lo hicieron desaparecer; su pesca está prohibida en el río desde 1994.
+    visit: >-
+      Ocho puntos de entrada permiten recorrer la reserva a pie, y en canoa. Entre ellos están Le Verdelet
+      (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), la isla
+      Saint-Loup y Le Méplan (Contigny). L'Épine se puede visitar con la aplicación Handivisites. Se permite
+      caminar por la reserva salvo en algunas islas protegidas por órdenes de biotopo, y la LPO recoge el
+      piragüismo entre las formas de descubrir el valle.
+
+
+      La LPO prepara un programa de animaciones de verano, con paseos y actividades guiadas por sus animadores
+      de naturaleza, del 15 de julio al 13 de agosto. El Espace Nature del Val d'Allier, en Moulins, está
+      cerrado definitivamente al público desde el 14 de diciembre de 2023.
+    history: >-
+      La alarma vino de la propia explotación del río: las extracciones masivas de áridos del lecho y el
+      esquema de ordenación de las aguas del Allier despertaron la conciencia que llevó, desde 1990, a
+      declarar la reserva. La LPO Auvergne-Rhône-Alpes y la Oficina Nacional de Bosques la gestionan juntas
+      desde 1994, con el objetivo de conservar la diversidad y la naturalidad de los hábitats y preservar la
+      unidad paisajística.
+
+
+      El daño de aquella explotación sigue ahí: la sobreexplotación de aluviones y el encofrado de las orillas
+      hunden el lecho del río y desconectan de la capa freática los humedales, que se secan; por eso hay
+      asociaciones que compran terrenos amenazados por la erosión. Hoy la reserva también limpia su pasado: en
+      Les Perrons se retira un antiguo vertedero que el río estaba erosionando.
+    before: >-
+      En Les Perrons (Chemilly), el acceso puede cerrarse durante las obras de retirada del vertedero. Los
+      senderos no son accesibles a personas con movilidad reducida ni a cochecitos, y según las crecidas
+      algunos puntos de acceso cierran temporalmente.
+    around: >-
+      Los [Loire Sauvage & Loire Alluvial Islands](/lugar/loire-sauvage---loire-alluvial-islands/), más lejos,
+      comparten con el Allier el castor y el charrán enano y el mismo mundo de ríos y humedales. También el
+      [Parque Natural de Mondragó](/lugar/parque-natural-de-mondrago/) comparte con él el alcaraván.
+  en:
+    intro: >-
+      Most lowland rivers across Western Europe have been channelled for centuries. The Allier, however, has
+      largely escaped that fate. For some twenty kilometres south of Moulins, this reserve flanks both banks
+      of one of the few rivers almost entirely free in its movements: eroding, carving new channels,
+      abandoning old ones, and depositing sediments. The Val d'Allier National Nature Reserve spans 1,450
+      hectares and was created in 1994 so the river may keep doing just that.
+    landscape: >-
+      The Allier rises at Moure de la Gardille in the Margeride, measures 420.7 km, and empties into the Loire
+      at the Bec d'Allier. What makes it exceptional is its gradient: across the plains it is five times
+      steeper than the Loire, sharply intensifying bank erosion.
+
+
+      The dynamic follows a constant rhythm. In the alluvial plain beginning at Vieille-Brioude, the river
+      meanders by scouring its outer bank; the loop eventually cuts through, leaving an oxbow behind. This
+      ongoing process creates a complex mosaic of habitats: gravel and sand banks, eroding cliffs, oxbow
+      cut-offs, wet meadows, heathlands, and riparian woodlands. The mosaic aligns along the channel,
+      functioning as a vital ecological corridor. Upon this dynamic movement rests the protection of natural
+      habitats and local drinking water aquifers.
+
+
+      The flora reflects this richness: more than 600 plant species, some washed down by floods from Auvergne
+      or the Cévennes, and nearly 200 species of fungi.
+    wildlife: >-
+      Birdlife tied to dynamic river beds gathers across the gravel islands. There are more than 100 breeding
+      bird species, including the [Eurasian stone-curlew](/especie/burhinus_oedicnemus/), the [little
+      tern](/especie/sternula_albifrons/) and common tern, little ringed plover, [white
+      stork](/especie/ciconia_ciconia/), black kite, sand martin, and golden oriole; the [common
+      kingfisher](/especie/alcedo_atthis/) and European bee-eater round out the community. Out of 277 recorded
+      species, 112 nest within the reserve. The [osprey](/especie/pandion_haliaetus/) stands out among those
+      of high conservation priority.
+
+
+      In the water and along the banks live 45 mammal species, 9 of them bats, alongside [Eurasian
+      beaver](/especie/castor_fiber/), [Eurasian otter](/especie/lutra_lutra/), and [European
+      wildcat](/especie/felis_silvestris/). You can spot coypu and beavers along the river. The fish fauna
+      ranks among the most diverse in France, counting some forty species including [Atlantic
+      salmon](/especie/salmo_salar/), allis shad, and sea lamprey, supplemented by 49 dragonfly species and
+      over 1000 beetle species.
+
+
+      The Allier salmon undertakes the longest migration in Western Europe, though numerous dams on the Loire
+      brought it to near extinction; salmon fishing has been banned on the river since 1994.
+    visit: >-
+      Eight entry points allow you to explore the reserve on foot or by canoe. These include Le Verdelet
+      (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), Saint-Loup
+      island, and Le Méplan (Contigny). L'Épine is visitable using the Handivisites app. Walking is permitted
+      throughout the reserve except on certain islands protected by biotope orders, and the LPO promotes
+      canoeing as an ideal way to discover the valley.
+
+
+      The LPO runs a summer activity programme featuring nature outings and guided walks led by environmental
+      educators from 15 July to 13 August. The Espace Nature du Val d'Allier in Moulins has been permanently
+      closed to the public since 14 December 2023.
+    history: >-
+      The conservation alarm arose from the commercial exploitation of the river itself: massive gravel
+      quarrying from the riverbed and planned water engineering schemes on the Allier spurred an environmental
+      awakening that led, from 1990 onwards, to the creation of the reserve. LPO Auvergne-Rhône-Alpes and the
+      National Forests Office have co-managed the site since 1994, aiming to safeguard ecological diversity,
+      habitat naturalness, and landscape cohesion.
+
+
+      The scars of that past exploitation endure: excessive alluvial dredging and artificial riprap sunk the
+      riverbed and severed floodplain wetlands from the water table, causing them to dry out; local
+      conservation trusts now purchase plots threatened by erosion. Today the reserve also remediates past
+      abuses: at Les Perrons, an old landfill once scoured by floodwaters is being systematically dismantled.
+    before: >-
+      At Les Perrons (Chemilly), trail access may be closed temporarily during landfill rehabilitation works.
+      Paths are not adapted for visitors with reduced mobility or pushchairs, and seasonal floods can cause
+      temporary closures of low-lying entry points.
+    around: >-
+      Further downstream, the [Loire Sauvage & Loire Alluvial
+      Islands](/lugar/loire-sauvage---loire-alluvial-islands/) share with the Allier the beaver, the little
+      tern, and the same vibrant realm of braided rivers and riparian wetlands. The [Mondragó Natural
+      Park](/lugar/parque-natural-de-mondrago/) also shares the Eurasian stone-curlew.
+  fr:
+    intro: >-
+      La plupart des rivières de plaine d'Europe occidentale sont canalisées depuis des siècles. L'Allier, pas
+      tout à fait. Sur une vingtaine de kilomètres au sud de Moulins, cette réserve borde les deux rives de
+      l'un des rares cours d'eau presque totalement libres de leurs mouvements : il érode, ouvre de nouveaux
+      bras, en délaisse d'anciens et dépose ses sédiments. La réserve naturelle nationale du Val d'Allier
+      s'étend sur 1 450 hectares et a été créée en 1994 pour lui permettre de poursuivre cette dynamique.
+    landscape: >-
+      L'Allier prend sa source au Moure de la Gardille, en Margeride, s'étire sur 420,7 km et rejoint la Loire
+      au bec d'Allier. Ce qui fait sa singularité est sa pente : en plaine, elle est cinq fois plus forte que
+      celle de la Loire, ce qui décuple l'érosion des berges.
+
+
+      Le mécanisme demeure immuable. Dans la plaine alluviale qui débute à Vieille-Brioude, la rivière méandre
+      en sapant sa rive concave ; le méandre finit par se recouper en abandonnant un bras mort (boire). Cette
+      dynamique génère un puzzle d'habitats : bancs de graviers et de sable, falaises d'érosion, bras morts,
+      prairies, landes et forêts alluviales. Ce chapelet d'écosystèmes s'aligne le long du cours d'eau et sert
+      de corridor écologique. De ce mouvement dépendent également la préservation des milieux et la ressource
+      en eau potable.
+
+
+      La flore en témoigne : plus de 600 espèces végétales, dont certaines transportées depuis l'Auvergne ou
+      les Cévennes par les crues, et près de 200 espèces de champignons.
+    wildlife: >-
+      Sur les bancs de graviers s'installent les oiseaux les plus inféodés au fleuve. On compte plus de 100
+      espèces d'oiseaux nicheurs, dont l'[œdicnème criard](/especie/burhinus_oedicnemus/), la [sterne
+      naine](/especie/sternula_albifrons/) et la sterne pierregarin, le petit gravelot, la [cigogne
+      blanche](/especie/ciconia_ciconia/), le milan noir, l'hirondelle de rivage et le loriot d'Europe ; le
+      [martin-pêcheur d'Europe](/especie/alcedo_atthis/) et le guêpier complètent ce cortège. Sur 277 espèces
+      observées, 112 nichent dans la réserve. Le [balbuzard pêcheur](/especie/pandion_haliaetus/) figure parmi
+      les hôtes d'une haute valeur patrimoniale.
+
+
+      Dans l'eau et sur les berges vivent 45 espèces de mammifères, dont 9 chauves-souris, accompagnées du
+      [castor d'Europe](/especie/castor_fiber/), de la [loutre d'Europe](/especie/lutra_lutra/) et du [chat
+      sauvage](/especie/felis_silvestris/). L'Allier permet d'observer ragondins et castors. Le peuplement
+      piscicole est l'un des plus riches de France avec une quarantaine d'espèces, parmi lesquelles le [saumon
+      atlantique](/especie/salmo_salar/), la grande alose et la lamproie marine, auxquelles s'ajoutent 49
+      espèces de libellules et plus de 1000 coléoptères.
+
+
+      Le saumon de l'Allier accomplit la plus longue migration fluviale d'Europe occidentale, mais les
+      multiples barrages de la Loire l'ont conduit au bord de l'extinction ; sa pêche est interdite dans la
+      rivière depuis 1994.
+    visit: >-
+      Huit points d'entrée permettent de découvrir la réserve à pied et en canoë. Parmi eux figurent Le
+      Verdelet (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), l'île Saint-Loup
+      et Le Méplan (Contigny). Le site de L'Épine peut être exploré via l'application Handivisites. La
+      promenade à pied est autorisée dans la réserve, hors îles protégées par arrêté de biotope, et la LPO
+      compte le canoë parmi les meilleures manières d'appréhender la vallée.
+
+
+      La LPO élabore un programme d'animations estivales proposant balades et sorties accompagnées par des
+      animateurs nature du 15 juillet au 13 août. L'Espace Nature du Val d'Allier à Moulins est définitivement
+      fermé au public depuis le 14 décembre 2023.
+    history: >-
+      Le signal d'alarme est venu de l'exploitation économique du cours d'eau : les extractions massives de
+      granulats dans le lit mineur et les projets d'aménagement hydraulique ont suscité la mobilisation qui a
+      conduit, à partir de 1990, au classement en réserve naturelle. La LPO Auvergne-Rhône-Alpes et l'Office
+      national des forêts en assurent la cogestion depuis 1994, avec pour mission de sauvegarder la diversité,
+      la naturalité des habitats et l'unité paysagère.
+
+
+      Les stigmates des extractions passées demeurent : le surcreusement alluvionnaire et l'enrochement des
+      rives affaissent le lit et déconnectent les zones humides de la nappe phréatique, entraînant leur
+      assèchement ; des associations foncières achètent ainsi des parcelles menacées d'érosion. La réserve
+      répare également les atteintes anciennes : aux Perrons, une ancienne décharge que la rivière érodait
+      fait l'objet d'un chantier d'évacuation.
+    before: >-
+      Aux Perrons (Chemilly), l'accès peut être temporairement fermé en raison des travaux de réhabilitation
+      de la décharge. Les sentiers ne sont pas praticables pour les personnes à mobilité réduite ni les
+      poussettes, et les montées des eaux peuvent fermer ponctuellement certains points d'accès.
+    around: >-
+      Plus en aval, la [Loire Sauvage & îles alluviales de la
+      Loire](/lugar/loire-sauvage---loire-alluvial-islands/) partagent avec l'Allier le castor, la sterne
+      naine et le même univers de cours d'eau tressés et de milieux alluviaux. Le [Parc naturel de
+      Mondragó](/lugar/parque-natural-de-mondrago/) partage également avec lui l'œdicnème criard.
+  de:
+    intro: >-
+      Die allermeisten Tieflandflüsse Westeuropas sind seit Jahrhunderten kanalisiert. Der Allier nicht ganz.
+      Über etwa zwanzig Kilometer südlich von Moulins begleitet dieses Naturschutzgebiet beide Ufer eines der
+      wenigen Gewässer, die sich ihre uneingeschränkte Dynamik bewahrt haben: Es erodiert, gräbt neue Rinnen,
+      verlässt alte Flussarme und lagert Geröll ab. Das Nationale Naturschutzgebiet Val d'Allier umfasst 1.450
+      Hektar und wurde 1994 eingerichtet, damit der Fluss genau dies fortsetzen kann.
+    landscape: >-
+      Der Allier entspringt am Moure de la Gardille in der Margeride, misst 420,7 km und mündet am Bec
+      d'Allier in die Loire. Seine Besonderheit liegt im Gefälle: Im Flachland ist es fünfmal steiler als das
+      der Loire, was die Ufererosion stark verstärkt.
+
+
+      Das Kräftespiel bleibt stets dasselbe. In der Schwemmlandebene, die bei Vieille-Brioude beginnt, bildet
+      der Fluss Mäander durch Abtragung des Prallhangs; die Schleife wird schließlich durchbrochen und
+      hinterlässt einen Altarm. Dieser ständige Wandel erzeugt ein Mosaik unterschiedlichster Biotope: Kies-
+      und Sandbänke, Steilufer, Altarme, Wiesen, Heiden und Auwälder. Das Mosaik erstreckt sich entlang des
+      Flussbetts und dient als überregionaler Biotopverbund. An dieser freien Dynamik hängt auch der Schutz
+      wertvoller Lebensräume und der Trinkwasservorräte.
+
+
+      Die Pflanzenwelt spiegelt dies wider: mehr als 600 Pflanzenarten, teils bei Hochwasser aus der Auvergne
+      oder den Cevennen verdriftet, und fast 200 Pilzarten.
+    wildlife: >-
+      Auf den Kiesbänken brüten jene Vogelarten, die eng an naturnahe Flüsse gebunden sind. Es gibt mehr als
+      100 Brutvogelarten, darunter der [Triel](/especie/burhinus_oedicnemus/), die
+      [Zwergseeschwalbe](/especie/sternula_albifrons/) und die Flussseeschwalbe, der Flussregenpfeifer, der
+      [Weißstorch](/especie/ciconia_ciconia/), der Schwarzmilan, die Uferschwalbe und der Pirol; der
+      [Eisvogel](/especie/alcedo_atthis/) und der Bienenfresser vervollständigen das Spektrum. Von 277
+      nachgewiesenen Vogelarten nisten 112 im Reservat. Der [Fischadler](/especie/pandion_haliaetus/) zählt zu
+      den wertvollsten regelmäßigen Gastvögeln.
+
+
+      Im Wasser und an den Ufern leben 45 Säugetierarten, darunter 9 Fledermäuse, gemeinsam mit dem
+      [Europäischen Biber](/especie/castor_fiber/), dem [Fischotter](/especie/lutra_lutra/) und der
+      [Wildkatze](/especie/felis_silvestris/). Am Allier lassen sich Nutrias und Biber beobachten. Die
+      Fischfauna gehört mit rund vierzig Arten zu den artenreichsten Frankreichs, darunter der [Atlantische
+      Lachs](/especie/salmo_salar/), die Maifisch-Arten und das Meerneunauge; hinzu kommen 49 Libellenarten
+      und über 1000 Käferarten.
+
+
+      Der Allier-Lachs vollzieht die weiteste Flusswanderung Westeuropas, doch die Staustufen der Loire
+      brachten ihn an den Rand des Aussterbens; seine Fischerei im Fluss ist seit 1994 streng verboten.
+    visit: >-
+      Acht Zugangspunkte erschließen das Schutzgebiet für Wanderer und Kanufahrer. Dazu zählen Le Verdelet
+      (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), die Île
+      Saint-Loup und Le Méplan (Contigny). Der Standort L'Épine lässt sich mit der App Handivisites erkunden.
+      Zu Fuß darfst du das Reservat mit Ausnahme geschützter Inselbiotope frei betreten, und die LPO empfiehlt
+      das Paddeln als eindrucksvolle Möglichkeit, das Flusstal zu erleben.
+
+
+      Die LPO bietet vom 15. Juli bis 13. August ein Sommerprogramm mit geführten Naturwanderungen und
+      Exkursionen an. Der Espace Nature du Val d'Allier in Moulins ist seit dem 14. Dezember 2023 dauerhaft
+      für Besucher geschlossen.
+    history: >-
+      Die Schutzinitiative entstand als Reaktion auf die Ausbeutung des Flusses: Massive Kiesbaggerungen im
+      Flussbett und wasserbauliche Großprojekte führten ab 1990 zum Umdenken und zur Ausweisung des
+      Schutzgebiets. Die LPO Auvergne-Rhône-Alpes und das staatliche Forstamt ONF verwalten das Areal seit
+      1994 gemeinsam, um biologische Vielfalt, Naturnähe und Landschaftsbild zu bewahren.
+
+
+      Die Folgen historischer Eingriffe sind spürbar: Die Kiesausbeutung und Uferverbauungen vertieften das
+      Flussbett, sodass Feuchtgebiete vom Grundwasser abgeschnitten wurden und trockenfielen;
+      Naturschutzvereine kaufen daher erosionsbedrohte Grundstücke auf. Heute saniert das Schutzgebiet auch
+      Altlasten: Bei Les Perrons wird eine ehemalige Mülldeponie abgetragen, die vom Fluss freigelegt worden
+      war.
+    before: >-
+      Bei Les Perrons (Chemilly) kann der Zugang während der Sanierungsarbeiten an der Altdeponie gesperrt
+      sein. Die Pfade sind weder rollstuhl- noch kinderwagengerecht, und bei Hochwasser werden einzelne
+      Einstiegsstellen vorübergehend unpassierbar.
+    around: >-
+      Weiter flussabwärts teilen die [Loire Sauvage &
+      Loire-Alluvialinseln](/lugar/loire-sauvage---loire-alluvial-islands/) mit dem Allier den Biber, die
+      Zwergseeschwalbe und die urwüchsige Flussauenlandschaft. Auch der [Naturpark
+      Mondragó](/lugar/parque-natural-de-mondrago/) teilt mit ihm das Vorkommen des Triels.
+  it:
+    intro: >-
+      La quasi totalità dei fiumi di pianura dell'Europa occidentale è arginata da secoli. L'Allier, non del
+      tutto. Per una ventina di chilometri a sud di Moulins, questa riserva fiancheggia entrambe le sponde di
+      uno dei rari fiumi quasi totalmente liberi nei propri movimenti: erode, scava nuovi rami, abbandona anse
+      e deposita sedimenti. La Riserva Naturale Nazionale della Val d'Allier copre 1.450 ettari ed è stata
+      istituita nel 1994 proprio per permettergli di continuare a farlo.
+    landscape: >-
+      L'Allier nasce al Moure de la Gardille, nella Margeride, si snoda per 420,7 km e confluisce nella Loira
+      al Bec d'Allier. Ciò che lo rende singolare è la sua pendenza: in pianura è cinque volte superiore a
+      quella della Loira, accentuando notevolmente l'erosione delle rive.
+
+
+      Il dinamismo segue una cadenza continua. Nella piana alluvionale che ha inizio a Vieille-Brioude, il
+      fiume meandrizzando erode la sponda esterna; l'ansa finisce per tagliarsi lasciando una lanca morta.
+      Questa dinamica compone un mosaico di ambienti: barre di ghiaia e sabbia, pareti d'erosione, lanche,
+      prati, brughiere e boschi ripariali. Il mosaico segue l'alveo fungendo da corridoio ecologico. Da questa
+      mobilità dipendono la salvaguardia degli habitat e delle falde d'acqua potabile.
+
+
+      La flora ne è testimone: più di 600 specie vegetali, alcune trascinate dalle piene dall'Alvernia o dalle
+      Cevenne, e quasi 200 specie di funghi.
+    wildlife: >-
+      Sulle barre di ghiaia nidificano i volatili più legati alle dinamiche fluviali. Si contano più di 100
+      specie di uccelli nidificanti, tra cui l'[occhione](/especie/burhinus_oedicnemus/), il
+      [fraticello](/especie/sternula_albifrons/) e la sterna comune, il corriere piccolo, la [cicogna
+      bianca](/especie/ciconia_ciconia/), il nibbio bruno, il topino e il rigogolo; il [martin
+      pescatore](/especie/alcedo_atthis/) e il gruccione arricchiscono il popolamento. Delle 277 specie
+      censite, 112 nidificano nella riserva. Il [falco pescatore](/especie/pandion_haliaetus/) spicca tra le
+      presenze di maggiore valore conservazionistico.
+
+
+      Nelle acque e sulle sponde vivono 45 specie di mammiferi, 9 delle quali chirotteri, assieme a [castoro
+      europeo](/especie/castor_fiber/), [lontra europea](/especie/lutra_lutra/) e [gatto
+      selvatico](/especie/felis_silvestris/). Lungo l'Allier si possono scorgere nutrie e castori.
+      L'ittiofauna è tra le più diversificate di Francia con una quarantina di specie, tra cui il [salmone
+      atlantico](/especie/salmo_salar/), la cheppia e la lampreda di mare, cui si aggiungono 49 specie di
+      libellule e oltre 1000 specie di coleotteri.
+
+
+      Il salmone dell'Allier compie la migrazione più lunga d'Europa occidentale, ma gli sbarramenti della
+      Loira lo hanno quasi estinto; la sua pesca nel fiume è vietata dal 1994.
+    visit: >-
+      Otto varchi d'accesso consentono di esplorare la riserva a piedi e in canoa. Tra questi figurano Le
+      Verdelet (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), l'isola
+      Saint-Loup e Le Méplan (Contigny). Il sito di L'Épine è visitabile con l'applicazione Handivisites.
+      Camminare è consentito in tutta la riserva eccetto su alcune isole protette da ordinanze di biotopo, e
+      la LPO segnala la canoa tra i modi privilegiati per scoprire la valle.
+
+
+      La LPO propone un cartellone estivo di animazione con passeggiate ed escursioni guidate da divulgatori
+      naturalisti dal 15 luglio al 13 agosto. L'Espace Nature del Val d'Allier a Moulins è definitivamente
+      chiuso al pubblico dal 14 dicembre 2023.
+    history: >-
+      L'allarme conservazionistico scaturì dallo sfruttamento economico del fiume: le massicce estrazioni di
+      ghiaia dall'alveo e i progetti di regimazione suscitarono la mobilitazione che portò, a partire dal
+      1990, all'istituzione della riserva. La LPO Auvergne-Rhône-Alpes e l'Ufficio Nazionale delle Foreste la
+      gestiscono insieme dal 1994, con l'obiettivo di preservare biodiversità, naturalità degli habitat e
+      continuità del paesaggio.
+
+
+      I danni di quelle estrazioni persistono: l'escavazione e la massicciata delle sponde hanno abbassato il
+      letto fluviale isolando le zone umide dalla falda freatica, facendole essiccare; associazioni locali
+      acquistano per questo terreni minacciati dall'erosione. Oggi la riserva sana anche ferite storiche: a
+      Les Perrons si sta smantellando una vecchia discarica che le piene stavano erodendo.
+    before: >-
+      A Les Perrons (Chemilly) l'accesso può essere temporaneamente interdetto per i cantieri di bonifica
+      della discarica. I sentieri non sono accessibili a persone a mobilità ridotta né a passeggini, e durante
+      le piene alcuni varchi d'accesso vengono temporaneamente chiusi.
+    around: >-
+      Più a valle, le [Loire Sauvage & isole alluvionali della
+      Loira](/lugar/loire-sauvage---loire-alluvial-islands/) condividono con l'Allier il castoro, il
+      fraticello e lo stesso mosaico fluviale di barre e zone umide. Anche il [Parco naturale di
+      Mondragó](/lugar/parque-natural-de-mondrago/) condivide la presenza dell'occhione.
+  pt:
+    intro: >-
+      A maior parte dos rios de planície da Europa ocidental está artificializada há séculos. O Allier, nem
+      por isso. Ao longo de cerca de vinte quilómetros a sul de Moulins, esta reserva acompanha ambas as
+      margens de um dos raros cursos de água quase totalmente livres nos seus movimentos: desgasta, rasga
+      novos canais, abandona leitos antigos e deposita sedimentos. A Reserva Natural Nacional do Val d'Allier
+      tem 1.450 hectares e foi criada em 1994 para que continue a fazê-lo.
+    landscape: >-
+      O Allier nasce no Moure de la Gardille, na Margeride, estende-se por 420,7 km e desagua no Loire no Bec
+      d'Allier. O que o torna invulgar é o seu declive: na planície é cinco vezes superior ao do Loire, o que
+      intensifica fortemente a erosão das margens.
+
+
+      A dinâmica obedece a um ritmo constante. Na planície aluvial que se inicia em Vieille-Brioude, o rio
+      forma meandros escavando a margem externa; o meandro acaba por se cortar e deixa para trás um braço
+      morto. Essa dinâmica cria um mosaico de ambientes: bancos de cascalho e areia, taludes de erosão, braços
+      mortos, prados, charnecas e matas ripícolas. Este mosaico alinha-se com a calha fluvial e opera como
+      corredor ecológico. Desse movimento depende igualmente a proteção dos habitats e dos lençóis de água
+      potável.
+
+
+      A flora espelha essa variedade: mais de 600 espécies de plantas, algumas trazidas pelas cheias desde a
+      Auvérnia ou das Cevenas, e cerca de 200 espécies de fungos.
+    wildlife: >-
+      Nos bancos de cascalho instalam-se as aves mais dependentes da dinâmica fluvial. Existem mais de 100
+      espécies de aves nidificantes, entre as quais o [alcaravão](/especie/burhinus_oedicnemus/), a
+      [chilreta](/especie/sternula_albifrons/) e a andorinha-do-mar-comum, o borrelho-pequeno-de-coleira, a
+      [cegonha-branca](/especie/ciconia_ciconia/), o milhafre-preto, a andorinha-das-barreiras e o papa-figos;
+      o [guarda-rios-comum](/especie/alcedo_atthis/) e o abelharuco completam este elenco. Das 277 espécies
+      observadas, 112 nidificam na reserva. A [águia pescadora](/especie/pandion_haliaetus/) destaca-se entre
+      as de elevado valor de conservação.
+
+
+      Na água e nas margens vivem 45 espécies de mamíferos, 9 das quais morcegos, a par do
+      [castor-europeu](/especie/castor_fiber/), da [lontra-europeia](/especie/lutra_lutra/) e do
+      [gato-bravo](/especie/felis_silvestris/). No Allier podem observar-se nút阐as e castores. A ictiofauna é
+      das mais diversas de França, contando cerca de quarenta espécies, incluindo o [salmão
+      atlântico](/especie/salmo_salar/), o sável e a lampreia-marinha, a que se somam 49 espécies de libélulas
+      e mais de 1000 de coleópteros.
+
+
+      O salmão do Allier cumpre a migração fluvial mais longa da Europa ocidental, mas as muitas barragens do
+      Loire quase ditaram a sua extinção; a sua pesca no rio está proibida desde 1994.
+    visit: >-
+      Oito pontos de entrada permitem percorrer a reserva a pé e em canoa. Entre eles contam-se Le Verdelet
+      (Toulon-sur-Allier), Les Perrons (Chemilly), Les Rigaudets (Bessay-sur-Allier), Pont-de-Châtel
+      (Châtel-de-Neuvre), L'Épine (Monétay-sur-Allier), Les Échérolles (La Ferté-Hauterive), a ilha Saint-Loup
+      e Le Méplan (Contigny). O sítio de L'Épine pode ser visitado com a aplicação Handivisites. É permitido
+      caminhar pela reserva, salvo em certas ilhas com proteção de biótopo, e a LPO inclui a canoagem entre as
+      formas privilegiadas de conhecer o vale.
+
+
+      A LPO dinamiza um programa estival com passeios e atividades conduzidas por monitores de natureza de 15
+      de julho a 13 de agosto. O Espace Nature do Val d'Allier em Moulins encontra-se encerrado em definitivo
+      ao público desde 14 de dezembro de 2023.
+    history: >-
+      O alerta nasceu da própria exploração económica do rio: as extrações maciças de inertes no leito e os
+      projetos de engenharia hidráulica despertaram uma vaga de mobilização que culminou, a partir de 1990, na
+      criação da reserva. A LPO Auvergne-Rhône-Alpes e o Instituto Nacional das Florestas gerem-na
+      conjuntamente desde 1994, visando preservar a diversidade, a naturalidade dos habitats e a coerência
+      paisagística.
+
+
+      As marcas dessa exploração perduram: o desassoreamento e a fixação de margens rebaixaram o leito fluvial
+      e isolaram as zonas húmidas do lençol freático, secando-as; várias associações compram parcelas
+      ameaçadas pela erosão. Hoje a reserva recupera igualmente passivos ambientais: em Les Perrons remove-se
+      uma antiga lixeira que o rio vinha escavando.
+    before: >-
+      Em Les Perrons (Chemilly), o acesso pode estar temporariamente encerrado devido aos trabalhos de remoção
+      da lixeira. Os caminhos não são acessíveis a pessoas com mobilidade reduzida nem a carrinhos de bebé, e
+      as cheias podem interditar temporariamente alguns pontos de acesso.
+    around: >-
+      Mais a jusante, a [Loire Sauvage & Ilhas Aluviais do
+      Loire](/lugar/loire-sauvage---loire-alluvial-islands/) partilham com o Allier o castor, a chilreta e o
+      mesmo mosaico de leitos entrelaçados e zonas húmidas. O [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) partilha igualmente o alcaravão.
+fuentes:
+  - url: https://auvergne-rhone-alpes.lpo.fr/espaces-naturels/rnn-val-d-allier/
+    titulo: Réserve Naturelle Nationale du Val d’Allier – LPO Auvergne-Rhône-Alpes
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_du_val_d%27Allier
+    titulo: Réserve naturelle nationale du val d'Allier — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Allier_(rivi%C3%A8re)
+    titulo: Allier (rivière) — Wikipédia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Bord_de_l%27Allier_au_coucher_du_soleil_(R%C3%A9serve_naturelle_nationale_du_val_d%27Allier).jpg
+    autor: Amaya13
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

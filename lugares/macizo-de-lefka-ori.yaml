@@ -1,0 +1,584 @@
+id: macizo-de-lefka-ori
+estado_editorial: valoracion-revisada
+nombre:
+  es: Macizo de Lefka Ori - Montañas Blancas de Creta
+  en: Lefka Ori Massif – White Mountains of Crete
+  fr: Massif des Lefka Ori – Montagnes Blanches de Crète
+  de: Lefka-Ori-Massiv – Weiße Berge Kretas
+  it: Massiccio dei Lefka Ori – Monti Bianchi di Creta
+  pt: Maciço de Lefka Ori – Montanhas Brancas de Creta
+nombre_original: Macizo de Lefka Ori
+alias:
+  - Macizo de Lefka Ori (Montañas Blancas de Creta)
+paises:
+  - GR
+region:
+  es: Isla de Creta (La Canea / Samariá)
+  en: Crete Island (Chania / Samaria)
+  fr: Île de Crète (La Canée / Samaria)
+  de: Insel Kreta (Chania / Samaria)
+  it: Isola di Creta (Chania / Samaria)
+  pt: Ilha de Creta (Chania / Samariá)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 35.28
+  lon: 24.03
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: LEFKA ORI KAI PARAKTIA ZONI
+  capa: capas/natura2000/macizo-de-lefka-ori.geojson
+habitats:
+  - high_mountain
+  - karst
+  - gorge_canyon
+designaciones:
+  - national_park
+  - biosphere_reserve
+  - natura2000
+especies:
+  - capra_aegagrus
+  - aquila_chrysaetos
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la Garganta de Samariá; baja en el altiplano desértico kárstico de Pachnes
+  en: Moderate in Samaria Gorge; low across the arid karst high plateau of Pachnes
+  fr: Modérée dans les gorges de Samaria ; faible sur le haut plateau karstique désertique de Pachnes
+  de: Mäßig in der Samaria-Schlucht; gering auf der einsamen Karst-Hochebene des Pachnes
+  it: Moderata nelle gole di Samaria; bassa sull'altopiano carsico desertico del Pachnes
+  pt: Moderada no desfiladeiro de Samariá; baixa no planalto cársico desértico de Pachnes
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Natural Park of Samaria & Lefka Ori Management
+    url: https://samaria.gr/
+  - titulo: Gestor, visita y normas — NECCA Samaria y Lefka Ori
+    url: https://necca.gov.gr/en/mdpp/management-unit-of-samaria-national-park-and-the-protected-areas-of-western-crete/
+  - titulo: Permisos y avisos de apertura — Samaria, NECCA
+    url: https://samaria-tickets.necca.gov.gr/checkout
+resumen:
+  es: >-
+    Las Montañas Blancas de Creta (Pachnes 2.453 m), un desierto kárstico de alta montaña con más de 50
+    cañones encajados incluyendo Samariá.
+  en: >-
+    The White Mountains of Crete (Pachnes 2,453 m), a high-altitude karst desert incised by more than 50
+    gorges including Samariá.
+  fr: >-
+    Les Montagnes Blanches de Crète (Pachnes 2 453 m), un désert karstique de haute montagne entaillé de plus
+    de 50 gorges dont Samariá.
+  de: >-
+    Die Weißen Berge Kretas (Pachnes 2.453 m), eine hochalpine Karstwüste mit über 50 eingeschnittenen
+    Schluchten einschließlich Samariá.
+  it: >-
+    I Monti Bianchi di Creta (Pachnes 2.453 m), un deserto carsico d'alta montagna solcato da oltre 50 gole
+    tra cui Samariá.
+  pt: >-
+    As Montanhas Brancas de Creta (Pachnes 2.453 m), um deserto cársico de alta montanha recortado por mais de
+    50 desfiladeiros incluindo Samariá.
+unico:
+  es: >-
+    Un macizo de caliza con más de treinta cumbres de más de dos mil metros, unas cincuenta gargantas y la
+    mitad de las plantas endémicas de Creta.
+  en: >-
+    A limestone massif with more than thirty summits exceeding two thousand metres, some fifty gorges, and
+    half of all endemic Cretan flora.
+  fr: >-
+    Un massif calcaire comptant plus de trente sommets de plus de deux mille mètres, une cinquantaine de
+    gorges et la moitié des plantes endémiques de Crète.
+  de: >-
+    Ein Kalksteinmassiv mit über dreißig Gipfeln jenseits der Zweitausend-Meter-Marke, rund fünfzig Schluchten
+    und der Hälfte aller endemischen Pflanzen Kretas.
+  it: >-
+    Un massiccio calcareo con più di trenta vette sopra i duemila metri, una cinquantina di forre e la metà
+    delle piante endemiche di Creta.
+  pt: >-
+    Um maciço calcário com mais de trinta cumes acima dos dois mil metros, cerca de cinquenta desfiladeiros e
+    metade das plantas endémicas de Creta.
+observaciones:
+  es: >-
+    Dentro del parque de Samaria está estrictamente prohibido acampar, pernoctar, encender fuego o bañarse en
+    los arroyos de la garganta. En Xyloskalo, en Omalos, hay un centro de información que recibe visitas de
+    escolares dentro del programa de educación ambiental del gestor.
+texto:
+  es:
+    intro: >-
+      Por encima de los 1.800 metros, el paisaje deja de parecer de este planeta: roca blanca, un desierto de
+      alta montaña que recuerda a un paisaje lunar. Eso son las Lefka Ori, «Montañas Blancas», la cordillera
+      que ocupa buena parte del centro del oeste de Creta, en la prefectura de La Canea. Su cumbre más alta es
+      Pachnes, con 2.453 metros, y hay más de treinta cumbres por encima de los dos mil. El nombre viene de
+      sus picos, que son blancos todo el año: caliza blanquecina en verano y otoño, y nieve hasta bien entrada
+      la primavera.
+    landscape: >-
+      Las Montañas Blancas están formadas sobre todo por caliza, de gris claro a azulada o negra. El macizo
+      guarda unas cincuenta gargantas, y la más famosa es la de Samaria. Hay también mesetas rodeadas de
+      montañas, a entre quinientos y mil cien metros: Askifou, Impros, Kallikratis, Anopolis y Omalos. Y bajo
+      tierra, las dos únicas cuevas de Grecia de más de un kilómetro de profundidad: Gourgouthakas y la Cueva
+      del León.
+
+
+      Para llegar a la sierra hay pocas carreteras principales. Desde el norte, la que lleva a Omalos y a la
+      entrada de la garganta de Samaria, y la que cruza la meseta de Askifou hacia Chora Sfakion.
+    wildlife: >-
+      Aquí se han identificado 32 mamíferos, tres anfibios, once reptiles y unas doscientas aves. El gran
+      símbolo es el agrimi, la [cabra salvaje](/especie/capra_aegagrus/) cretense (Capra aegagrus cretica), el
+      mamífero más grande de la isla y el emblema de Samaria y de las Montañas Blancas. Vive en montañas,
+      desde las áridas y alpinas hasta los roquedos con matorral cerca de bosques de coníferas, y prefiere las
+      pendientes de más del treinta por ciento. La musaraña cretense (Crocidura zimmermani), poco conocida,
+      vive por encima de los 1.150 metros y es el único mamífero endémico de Creta. El gato montés cretense se
+      creyó extinto hasta 1996, cuando científicos de la Universidad de Perugia capturaron uno vivo.
+
+
+      En el aire, el [quebrantahuesos](/especie/gypaetus_barbatus/), una de las aves más raras de Europa, con
+      hasta 2,80 metros de envergadura, que se alimenta casi solo de huesos que deja caer desde lo alto. Las
+      Montañas Blancas albergan dos de las tres parejas reproductoras griegas. Con él comparte cielo el
+      [buitre leonado](/especie/gyps_fulvus/), que vuela en círculos lentos aprovechando las corrientes
+      térmicas. Entre los invertebrados, la araña Macrothele cretica es endémica de la zona.
+
+
+      Las plantas son aún más sorprendentes: se han registrado unas 650, con 25 especies estenoendémicas y 97
+      endémicas de Creta. Entre ellas, la Nepeta sphaciotica solo crece en la vertiente norte del Svourichti,
+      entre 2.200 y 2.300 metros, y en ningún otro lugar del mundo. La Bupleurum kakiskalae vive hasta doce
+      años, florece y da fruto una sola vez, y luego muere. Hay una orquídea, la Cephalanthera cucullata,
+      entre los 700 y los 1.500 metros, y plantas aromáticas, medicinales y comestibles: el té de montaña
+      (Sideritis syriaca), la mejorana y el díctamo (Origanum dictamnus), considerado remedio de muchas
+      enfermedades desde la Antigüedad.
+    visit: >-
+      El camino más conocido es el [Parque Nacional de la Garganta de Samaria](/lugar/samaria-national-park/):
+      el tramo dentro del parque mide 13 km, y aún queda un trecho hasta Agia Roumeli. En conjunto, la
+      garganta mide 16 kilómetros, empieza a 1.250 metros en la entrada norte, junto a Omalos, y acaba en la
+      costa del mar de Libia. La bajada completa lleva entre cinco y siete horas y puede ser dura en pleno
+      verano.
+
+
+      El macizo tiene además cuatro refugios. El de Kallergi, de 1970, está a 1.650 metros y a cinco
+      kilómetros de Omalos; el de Svourichti, de 1994, a 1.980 metros y a siete horas de Anopolis.
+    history: >-
+      Samaria se declaró parque nacional en 1962 para proteger, entre otras razones, a la rara cabra kri-kri.
+      Ese año los últimos vecinos abandonaron el pueblo de Samaria, que está dentro de la garganta, para dar
+      paso al parque. Garganta y pueblo toman el nombre de su antigua iglesia, Óssia María.
+
+
+      Las Montañas Blancas fueron además refugio de rebeldes en los levantamientos cretenses contra venecianos
+      y otomanos, y durante la ocupación alemana.
+    before: >-
+      Dentro del parque de Samaria está estrictamente prohibido acampar, pernoctar, encender fuego o bañarse
+      en los arroyos de la garganta. En Xyloskalo, en Omalos, hay un centro de información que recibe visitas
+      de escolares dentro del programa de educación ambiental del gestor.
+    around: >-
+      El parque nacional de Samaria está dentro del macizo, y otros lugares lejanos comparten con él el
+      quebrantahuesos: el [Parque Natural de Els Ports](/lugar/parc-natural-dels-ports/), el [Parque Nacional
+      de Ordesa y Monte Perdido](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) y el [Parque Natural
+      Regional del Verdon](/lugar/parc-naturel-regional-du-verdon---gorges/); el [Parque Nacional del Valle de
+      Munzur](/lugar/parque-nacional-del-valle-de-munzur/), la cabra salvaje.
+  en:
+    intro: >-
+      Above 1,800 metres, the terrain stops feeling like part of this planet: bleached white stone, a
+      high-mountain limestone desert reminiscent of a desolate lunar landscape. These are the Lefka Ori, or
+      White Mountains, the massive range sprawling across much of west-central Crete in Chania prefecture. Its
+      culminating apex is Mount Pachnes at 2,453 metres, ringed by over thirty jagged crests rising past two
+      thousand metres. The range derives its name from peaks that remain strikingly white year-round: pale,
+      sun-bleached limestone through summer and autumn, and deep snowpack well into late spring.
+    landscape: >-
+      The White Mountains consist primarily of limestone ranging from pale grey to bluish or stark charcoal
+      black. Over fifty chasms slice through the massif, with Samaria Gorge being by far the most celebrated.
+      Several lofty plateaus lie cradled among the mountain crests between five hundred and eleven hundred
+      metres: Askifou, Impros, Kallikratis, Anopolis, and Omalos. Deep underground plunge Greece's only two
+      chasms exceeding one kilometre in vertical depth: Gourgouthakas and the Lion Cave.
+
+
+      Only a handful of main roads penetrate the mountains. From the north, one route climbs to the Omalos
+      plateau and the northern mouth of Samaria Gorge, while another crosses the Askifou plateau heading
+      southward toward Chora Sfakion.
+    wildlife: >-
+      Naturalists have documented 32 mammal species here, along with three amphibians, eleven reptiles, and
+      around two hundred birds. The undisputed emblem is the agrimi, the Cretan [wild
+      goat](/especie/capra_aegagrus/) (Capra aegagrus cretica), the island's largest native mammal and the
+      totem of Samaria and the Lefka Ori. It roams steep crags from barren alpine summits down to
+      garrigue-strewn screes skirting conifer groves, consistently favoring inclines exceeding thirty percent.
+      The secretive Cretan shrew (Crocidura zimmermani), living strictly above 1,150 metres, represents
+      Crete's only endemic mammal. The Cretan wildcat was widely deemed extinct until 1996, when researchers
+      from the University of Perugia managed to trap a living specimen.
+
+
+      Overhead circles the [bearded vulture](/especie/gypaetus_barbatus/), one of Europe's rarest raptors with
+      a wingspan of up to 2.80 metres, subsisting almost exclusively on bone marrow dropped from high above
+      onto stone slabs. The White Mountains harbor two of Greece's three surviving breeding pairs. Sharing
+      these skies is the [griffon vulture](/especie/gyps_fulvus/), soaring in wide thermals. Among
+      invertebrates, the funnel-web spider Macrothele cretica is strictly endemic to the massif.
+
+
+      The flora is more exceptional still: botanists have recorded roughly 650 plant taxa, including 25
+      stenoendemics and 97 species found nowhere else on Crete. Among them, Nepeta sphaciotica clings solely
+      to the northern slope of Svourichti between 2,200 and 2,300 metres, absent anywhere else on Earth.
+      Bupleurum kakiskalae lives up to twelve years, flowers and fruits just once, and dies. The orchid
+      Cephalanthera cucullata blooms between 700 and 1,500 metres, alongside aromatic herbs like Cretan
+      mountain tea (Sideritis syriaca), marjoram, and dittany (Origanum dictamnus), prized as a cure-all since
+      Antiquity.
+    visit: >-
+      The most renowned hiking trail follows the [Samaria Gorge National Park](/lugar/samaria-national-park/):
+      the protected sector within the park spans 13 km, followed by a remaining coastal stretch to Agia
+      Roumeli. In its entirety, the gorge stretches 16 kilometres, beginning at 1,250 metres at the northern
+      trailhead near Omalos and terminating at the shores of the Libyan Sea. The complete descent requires
+      five to seven hours and proves demanding in peak summer heat.
+
+
+      The high range also maintains four alpine huts. The Kallergi Refuge, established in 1970, perches at
+      1,650 metres five kilometres from Omalos; the Svourichti Refuge, built in 1994, sits at 1,980 metres, a
+      seven-hour hike from Anopolis.
+    history: >-
+      Samaria was designated a national park in 1962 primarily to protect the threatened kri-kri wild goat.
+      That same year, the last permanent inhabitants vacated the hamlet of Samaria within the canyon depths to
+      accommodate the reserve. The gorge and deserted village borrow their name from the historic Byzantine
+      chapel of Ossia Maria.
+
+
+      The White Mountains historically served as an unassailable bastion for Cretan insurgencies against
+      Venetian and Ottoman rulers, as well as during the German occupation.
+    before: >-
+      Inside Samaria Gorge National Park, camping, bivouacking, lighting fires, and bathing in mountain
+      streams are strictly prohibited. At Xyloskalo near Omalos, a park visitor centre provides information
+      and collects admission fees. During severe rain or strong gales, the canyon closes immediately due to
+      rockfall hazards.
+    around: >-
+      To compare with similar rugged limestone landscapes, explore [Ordesa y Monte Perdido National
+      Park](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) and the [Verdon
+      Gorges](/lugar/parc-naturel-regional-du-verdon---gorges/). The bearded vulture also patrols [Els Ports
+      Natural Park](/lugar/parc-natural-dels-ports/), while wild caprids find counterparts in [Munzur Valley
+      National Park](/lugar/parque-nacional-del-valle-de-munzur/).
+  fr:
+    intro: >-
+      Au-dessus de 1 800 mètres, le paysage semble appartenir à un autre monde : roche blanche éblouissante,
+      désert minéral de haute altitude rappelant une surface lunaire. Ce sont les Lefka Ori, ou « Montagnes
+      Blanches », le puissant massif dominant l'ouest de la Crète dans le district de La Canée. Son point
+      culminant est le Pachnes, s'élevant à 2 453 mètres, entouré de plus de trente sommets dépassant les deux
+      mille mètres. Son nom provient de ses cimes qui demeurent blanches toute l'année : calcaire éclatant en
+      été et automne, et névés persistants jusqu'au cœur du printemps.
+    landscape: >-
+      Les Montagnes Blanches sont composées essentiellement de calcaires aux nuances variant du gris clair au
+      bleuâtre ou noir profond. Le massif abrite une cinquantaine de gorges, dont la plus emblématique est
+      celle de Samaria. De hauts plateaux suspendus s'étendent entre cinq cents et onze cents mètres
+      d'altitude : Askifou, Impros, Kallikratis, Anopolis et Omalos. Dans ses profondeurs s'ouvrent les deux
+      seuls gouffres de Grèce dépassant un kilomètre de profondeur : Gourgouthakas et la grotte du Lion.
+
+
+      Seules de rares routes permettent d'aborder le massif. Depuis le nord, l'une monte vers Omalos et
+      l'entrée haute des gorges de Samaria, tandis qu'une autre franchit le plateau d'Askifou vers Chora
+      Sfakion.
+    wildlife: >-
+      On y recense 32 espèces de mammifères, trois amphibiens, onze reptiles et environ deux cents oiseaux. Le
+      grand symbole demeure l'agrimi, la [chèvre sauvage](/especie/capra_aegagrus/) crétoise (Capra aegagrus
+      cretica), le plus grand mammifère insulaire et l'emblème vivant de Samaria et des Montagnes Blanches.
+      Elle parcourt les escarpements arides et alpins jusqu'aux éboulis boisés de conifères, privilégiant les
+      pentes de plus de trente pour cent. La musaraigne crétoise (Crocidura zimmermani), discrète, vit
+      exclusivement au-dessus de 1 150 mètres et constitue le seul mammifère endémique de Crète. Le chat
+      sauvage crétois fut considéré éteint jusqu'en 1996, date à laquelle des chercheurs de l'université de
+      Pérouse en capturèrent un spécimen vivant.
+
+
+      Dans les airs plane le [gypaète barbu](/especie/gypaetus_barbatus/), l'un des rapaces les plus rares
+      d'Europe avec jusqu'à 2,80 mètres d'envergure, se nourrissant presque exclusivement d'os brisés sur les
+      pierriers. Les Montagnes Blanches hébergent deux des trois couples reproducteurs de Grèce. Il partage le
+      ciel avec le [vautour fauve](/especie/gyps_fulvus/), qui tournoie dans les ascendances thermiques. Parmi
+      les invertébrés, l'araignée Macrothele cretica est strictement endémique du massif.
+
+
+      La flore est plus remarquable encore : environ 650 espèces végétales ont été répertoriées, dont 25
+      sténo-endémiques et 97 endémiques crétoises. Nepeta sphaciotica ne pousse que sur le versant nord du
+      Svourichti, entre 2 200 et 2 300 mètres, et nulle part ailleurs sur Terre. Bupleurum kakiskalae vit
+      jusqu'à douze ans, fleurit et fructifie une unique fois avant de mourir. L'orchidée Cephalanthera
+      cucullata s'épanouit entre 700 et 1 500 mètres, côtoyant des aromatiques renommées comme la crapaudine
+      de montagne (Sideritis syriaca), la marjolaine et le dictame (Origanum dictamnus), remède universel
+      depuis l'Antiquité.
+    visit: >-
+      L'itinéraire le plus fréquenté traverse le [parc national des gorges de
+      Samaria](/lugar/samaria-national-park/) : la section aménagée au cœur du parc mesure 13 km, avant de
+      poursuivre jusqu'à Agia Roumeli. Au total, le défilé s'étire sur 16 kilomètres, débutant à 1 250 mètres
+      au col d'Omalos pour s'achever au bord de la mer de Libye. La descente intégrale requiert cinq à sept
+      heures de marche et devient éprouvante sous les fortes chaleurs estivales.
+
+
+      Le massif compte également quatre refuges d'altitude. Le refuge de Kallergi, bâti en 1970, se dresse à 1
+      650 mètres à cinq kilomètres d'Omalos ; celui de Svourichti, aménagé en 1994, se situe à 1 980 mètres, à
+      sept heures de marche d'Anopolis.
+    history: >-
+      Samaria a été classé parc national en 1962 pour sauvegarder en priorité la chèvre sauvage kri-kri. Cette
+      même année, les derniers résidents ont abandonné le village de Samaria au fond du défilé pour permettre
+      l'établissement de la réserve. Gorges et village tirent leur appellation de la vénérable chapelle
+      byzantine d'Ossia Maria.
+
+
+      Les Montagnes Blanches servirent en outre de forteresse inviolable aux insurgés crétois face aux
+      dominations vénitienne et ottomane, puis pendant la résistance sous l'occupation allemande.
+    before: >-
+      À l'intérieur du parc de Samaria, le bivouac, le feu, le camping et la baignade dans les torrents sont
+      rigoureusement interdits. À Xyloskalo, près d'Omalos, un pavillon d'information délivre les billets
+      d'accès. En cas d'orage ou de fort coup de vent, les gorges ferment immédiatement en raison des risques
+      de chutes de pierres.
+    around: >-
+      Pour apprécier d'autres morphologies calcaires spectaculaires, visitez le [parc national d'Ordesa et du
+      Mont-Perdu](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) et les [gorges du
+      Verdon](/lugar/parc-naturel-regional-du-verdon---gorges/). Le gypaète barbu sillonne aussi le [parc
+      naturel des Ports](/lugar/parc-natural-dels-ports/), tandis que les caprins sauvages trouvent des échos
+      dans le [parc national de la vallée de Munzur](/lugar/parque-nacional-del-valle-de-munzur/).
+  de:
+    intro: >-
+      Oberhalb von 1.800 Metern wirkt die Gebirgslandschaft fast außerirdisch: nackter weißer Fels, eine
+      hochalpine Karstwüste, die an eine bizarre Mondlandschaft erinnert. Das sind die Lefka Ori, die «Weißen
+      Berge», die einen großen Teil Westkretas im Regionalbezirk Chania einnehmen. Ihr höchster Punkt ist der
+      Pachnes mit 2.453 Metern, umgeben von über dreißig Gipfeln jenseits der zweitausend Meter. Der Name
+      rührt von den Bergen her, die das ganze Jahr über weiß leuchten: heller, sonnengebleichter Kalk im
+      Sommer und Herbst sowie Altschneefelder bis weit ins Frühjahr hinein.
+    landscape: >-
+      Die Weißen Berge bestehen vorwiegend aus Kalkstein, dessen Tönung von Hellgrau über Bläulich bis hin zu
+      Tiefschwarz reicht. Rund fünfzig Schluchten zerschneiden das Massiv; die Samaria-Schlucht ist die mit
+      Abstand berühmteste. Zwischen den Kämmen breiten sich Hochplateaus auf fünfhundert bis elfhundert Metern
+      aus: Askifou, Impros, Kallikratis, Anopolis und Omalos. Im Untergrund verbergen sich die beiden einzigen
+      Höhlensysteme Griechenlands mit über einem Kilometer vertikaler Tiefe: Gourgouthakas und die Löwenhöhle.
+
+
+      Nur wenige Hauptstraßen führen in das Gebirge. Von Norden führt eine Route zur Omalos-Hochebene und zum
+      oberen Einstieg der Samaria-Schlucht, eine andere quert das Askifou-Becken südwärts nach Chora Sfakion.
+    wildlife: >-
+      Hier wurden 32 Säugetierarten, drei Amphibien, elf Reptilien und rund zweihundert Vogelarten
+      nachgewiesen. Das unverkennbare Wappentier ist die Kretische [Wildziege](/especie/capra_aegagrus/) oder
+      Agrimi (Capra aegagrus cretica), das größte Wildsäugetier der Insel und Wahrzeichen von Samaria und den
+      Lefka Ori. Sie bewohnt karge alpine Grate bis hin zu steilen Macchia-Hängen nahe Bergkiefernwäldern und
+      meidet Neigungen unter dreißig Prozent. Die seltene Kretische Spitzmaus (Crocidura zimmermani) lebt
+      ausschließlich oberhalb von 1.150 Metern und ist Kretas einziges endemisches Säugetier. Die Kretische
+      Wildkatze galt bis 1996 als ausgestorben, als Biologen der Universität Perugia ein lebendes Exemplar
+      fingen.
+
+
+      Am Himmel kreist der [Bartgeier](/especie/gypaetus_barbatus/), einer der seltensten Greifvögel Europas
+      mit bis zu 2,80 Metern Spannweite, der sich fast ausschließlich von Knochen ernährt, die er über
+      Felsplatten zerschellen lässt. Die Weißen Berge beherbergen zwei der drei griechischen Brutpaare. Ihm
+      leistet der [Gänsegeier](/especie/gyps_fulvus/) Gesellschaft, der weite Kreise in der Thermik zieht.
+      Unter den Wirbellosen ist die Trichternetzspinne Macrothele cretica hier streng endemisch.
+
+
+      Die Pflanzenwelt ist noch bemerkenswerter: Rund 650 Pflanzenarten wurden kartiert, darunter 25
+      Stenoendemiten und 97 auf Kreta beschränkte Sippen. Die Katzenminze Nepeta sphaciotica gedeiht nur an
+      der Nordflanke des Svourichti zwischen 2.200 und 2.300 Metern und nirgends sonst auf der Welt. Das
+      Hasenohr Bupleurum kakiskalae lebt bis zu zwölf Jahre, blüht und fruchtet nur ein einziges Mal und
+      stirbt dann ab. Die Orchidee Cephalanthera cucullata blüht zwischen 700 und 1.500 Metern neben
+      Heilkräutern wie Kretischem Bergtee (Sideritis syriaca), Majoran und Kretischem Diptam (Origanum
+      dictamnus).
+    visit: >-
+      Der bekannteste Wanderweg führt durch den [Nationalpark
+      Samaria-Schlucht](/lugar/samaria-national-park/): Der Kernabschnitt im Park umfasst 13 km, an den sich
+      der Weg zum Küstenort Agia Roumeli anschließt. Insgesamt misst die Schlucht 16 Kilometer, beginnt auf
+      1.250 Metern an der Einstiegsstelle Xyloskalo bei Omalos und endet am Libyschen Meer. Der Abstieg
+      verlangt fünf bis sieben Gehzeiten und ist in der Sommerhitze anstrengend.
+
+
+      Das Massiv besitzt vier Berghütten. Die Kallergi-Hütte aus dem Jahr 1970 liegt auf 1.650 Metern fünf
+      Kilometer von Omalos entfernt; die Schutzhütte Svourichti von 1994 thront auf 1.980 Metern, sieben
+      Gehstunden von Anopolis.
+    history: >-
+      Samaria wurde 1962 zum Nationalpark erklärt, um vor allem die seltene Kri-Kri-Wildziege zu bewahren. Im
+      selben Jahr verließen die letzten Einwohner das verlassene Dorf Samaria im Schluchtgrund, um Platz für
+      das Schutzgebiet zu machen. Schlucht und Ortschaft verdanken ihren Namen der alten byzantinischen Kirche
+      Óssia María.
+
+
+      Die Weißen Berge dienten kretischen Freiheitskämpfern jahrhundertelang als uneinnehmbare Rückzugsbastion
+      gegen Venezianer und Osmanen sowie im Widerstand während der deutschen Besatzung.
+    before: >-
+      Im Nationalpark Samaria sind Zelten, Biwakieren, offenes Feuer und das Baden in den Schluchtbächen
+      strikt untersagt. In Xyloskalo bei Omalos informiert ein Besucherzentrum und erhebt den Eintritt. Bei
+      Starkregen oder Sturm bleibt die Schlucht wegen Steinschlaggefahr geschlossen.
+    around: >-
+      Vergleichbare monumentale Karstschluchten findest du im [Nationalpark Ordesa y Monte
+      Perdido](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) und den
+      [Verdon-Schluchten](/lugar/parc-naturel-regional-du-verdon---gorges/). Der Bartgeier kreist auch im
+      [Naturpark Els Ports](/lugar/parc-natural-dels-ports/), und wilde Verwandte der Bergziegen leben im
+      [Nationalpark Munzur-Tal](/lugar/parque-nacional-del-valle-de-munzur/).
+  it:
+    intro: >-
+      Oltre i 1.800 metri di quota, il paesaggio cessa di sembrare terrestre: roccia calcarea candida, un
+      deserto d'alta quota che ricorda una distesa lunare. Sono le Lefka Ori, o «Monti Bianchi», la catena che
+      occupa gran parte della Creta centro-occidentale nella prefettura di Chania. La cima più elevata è il
+      Pachnes, con 2.453 metri, affiancato da più di trenta vette che superano i duemila metri. Il nome deriva
+      dai picchi che restano bianchi tutto l'anno: calcare chiarissimo d'estate e d'autunno, e nevai
+      persistenti fino a primavera inoltrata.
+    landscape: >-
+      I Monti Bianchi sono costituiti principalmente da calcari che variano dal grigio chiaro al bluastro o al
+      nero profondo. Il massiccio cela una cinquantina di gole, tra cui la più celebre è quella di Samaria. Vi
+      si trovano anche altipiani circondati da crinali, situati tra i cinquecento e i millecento metri:
+      Askifou, Impros, Kallikratis, Anopolis e Omalos. Nelle viscere della montagna si aprono i due soli
+      abissi della Grecia profondi oltre un chilometro: Gourgouthakas e la Grotta del Leone.
+
+
+      Poche strade principali consentono l'accesso ai monti. Da nord, una sale verso Omalos e l'imbocco
+      superiore delle gole di Samaria, mentre un'altra attraversa l'altopiano di Askifou verso Chora Sfakion.
+    wildlife: >-
+      Nel massiccio sono stati censiti 32 mammiferi, tre anfibi, undici rettili e circa duecento uccelli. Il
+      simbolo assoluto è l'agrimi, la [capra selvatica](/especie/capra_aegagrus/) cretese (Capra aegagrus
+      cretica), il mammifero più grande dell'isola ed emblema di Samaria e dei Monti Bianchi. Frequenta
+      crinali aridi e rupi scoscese vicino a boschi di conifere, preferendo pendenze superiori al trenta per
+      cento. Il toporagno cretese (Crocidura zimmermani), elusivo, vive unicamente oltre i 1.150 metri ed è
+      l'unico mammifero endemico di Creta. Il gatto selvatico cretese fu creduto estinto fino al 1996, anno in
+      cui studiosi dell'Università di Perugia ne catturarono un esemplare vivente.
+
+
+      Nei cieli volteggia il [gipeto](/especie/gypaetus_barbatus/), tra i rapaci più rari d'Europa con
+      un'apertura alare fino a 2,80 metri, che si nutre quasi solo di ossa spezzate lasciate cadere dall'alto.
+      I Monti Bianchi ospitano due delle sole tre coppie nidificanti greche. Con esso condivide le correnti il
+      [grifone](/especie/gyps_fulvus/), che sale a spirale nella termica. Tra gli invertebrati spicca il ragno
+      Macrothele cretica, endemico del comprensorio.
+
+
+      La flora è ancora più straordinaria: vi sono censite circa 650 specie, con 25 stenoendemismi e 97
+      endemismi cretesi. Tra esse, la Nepeta sphaciotica cresce soltanto sul versante nord dello Svourichti,
+      fra 2.200 e 2.300 metri, e in nessun altro luogo della terra. Il Bupleurum kakiskalae vive fino a dodici
+      anni, fiorisce e fruttifica una sola volta prima di morire. L'orchidea Cephalanthera cucullata fiorisce
+      tra 700 e 1.500 metri, accanto a erbe aromatiche celebri come il tè di montagna (Sideritis syriaca), la
+      maggiorana e il dittamo (Origanum dictamnus).
+    visit: >-
+      Il sentiero più celebre attraversa il [Parco nazionale delle gole di
+      Samaria](/lugar/samaria-national-park/): la tratta all'interno del parco misura 13 km, cui segue il
+      tratto finale fino al villaggio costiero di Agia Roumeli. Complessivamente la forra è lunga 16
+      chilometri, inizia a 1.250 metri all'ingresso settentrionale presso Omalos e termina sulle sponde del
+      mar Libico. La discesa completa richiede da cinque a sette ore e può risultare faticosa nella calura
+      estiva.
+
+
+      Il gruppo montuoso dispone di quattro rifugi alpini. Il rifugio Kallergi, del 1970, sorge a 1.650 metri
+      a cinque chilometri da Omalos; il rifugio Svourichti, del 1994, sorge a 1.980 metri, a sette ore di
+      cammino da Anopolis.
+    history: >-
+      Samaria è stata dichiarata parco nazionale nel 1962 per proteggere la rara capra kri-kri. Nello stesso
+      anno gli ultimi abitanti abbandonarono il villaggio di Samaria nel fondo della forra per istituire la
+      riserva. Gola e borgo traggono il nome dalla chiesa bizantina di Óssia María.
+
+
+      I Monti Bianchi furono inoltre baluardo inespugnabile per i ribelli cretesi durante le insurrezioni
+      contro veneziani e ottomani, e durante la resistenza all'occupazione tedesca.
+    before: >-
+      Nel parco di Samaria è severamente vietato campeggiare, bivaccare, accendere fuochi e bagnarsi nei
+      torrenti. A Xyloskalo, vicino a Omalos, è presente un centro visite dove si acquista il biglietto. In
+      caso di forti piogge o vento la forra viene chiusa per pericolo di frane.
+    around: >-
+      Per ammirare altri spettacolari rilievi calcarei, visita il [Parco nazionale di Ordesa e Monte
+      Perdido](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) e le [Gole del
+      Verdon](/lugar/parc-naturel-regional-du-verdon---gorges/). Il gipeto vola anche nel [Parco naturale di
+      Els Ports](/lugar/parc-natural-dels-ports/), mentre caprini affini vivono nel [Parco nazionale della
+      valle di Munzur](/lugar/parque-nacional-del-valle-de-munzur/).
+  pt:
+    intro: >-
+      Acima dos 1.800 metros de altitude, a paisagem deixa de parecer deste planeta: rocha branca imaculada,
+      um deserto cársico de alta montanha que evoca uma paisagem lunar desolada. São as Lefka Ori, as
+      «Montanhas Brancas», cordilheira que preenche grande parte do centro-oeste de Creta, na prefeitura de
+      Chania. O seu ponto mais alto é o Pachnes, com 2.453 metros, cercado por mais de trinta cumes acima dos
+      dois mil metros. O nome provém dos seus picos invariavelmente alvos: calcário claro no verão e outono, e
+      neve espessa até meados da primavera.
+    landscape: >-
+      As Montanhas Brancas são formadas predominantemente por calcários de tons cinzento-claros, azulados ou
+      negros. O maciço alberga cerca de cinquenta desfiladeiros, dos quais o mais célebre é o de Samaria.
+      Entre as montanhas abrem-se planaltos elevados situados entre os quinhentos e os mil e cem metros:
+      Askifou, Impros, Kallikratis, Anopolis e Omalos. No subsolo ocultam-se as duas únicas grutas da Grécia
+      com mais de um quilómetro de profundidade vertical: Gourgouthakas e a Gruta do Leão.
+
+
+      Poucas estradas principais dão acesso à serra. A partir do norte, uma via sobe até ao planalto de Omalos
+      e ao topo das gargantas de Samaria, e outra atravessa o planalto de Askifou rumo a Chora Sfakion.
+    wildlife: >-
+      Neste relevo registam-se 32 espécies de mamíferos, três anfíbios, onze répteis e perto de duzentas aves.
+      O grande emblema é o agrimi, a [cabra-selvagem](/especie/capra_aegagrus/) cretense (Capra aegagrus
+      cretica), o maior mamífero autóctone da ilha e símbolo maior de Samaria e das Montanhas Brancas. Habita
+      escarpas áridas alpinas até aos rochedos entremeados de matagais perto de coníferas, preferindo declives
+      superiores a trinta por cento. O musaranho-cretense (Crocidura zimmermani) vive estritamente acima dos
+      1.150 metros e constitui o único mamífero endémico de Creta. O gato-bravo-cretense foi considerado
+      extinto até 1996, ano em que cientistas da Universidade de Perúgia capturaram um espécime vivo.
+
+
+      Nos céus patrulha o [abutre-barbudo](/especie/gypaetus_barbatus/), uma das aves mais raras da Europa com
+      até 2,80 metros de envergadura, alimentando-se quase apenas de medula óssea fraturada em lajes rochosas.
+      As Montanhas Brancas acolhem dois dos três casais reprodutores da Grécia. Partilha o ar com o
+      [abutre-fouveiro](/especie/gyps_fulvus/), que descreve círculos lentos nas térmicas. Entre os
+      invertebrados, a aranha Macrothele cretica é estritamente endémica da serra.
+
+
+      A flora é ainda mais notável: estão recenseadas cerca de 650 plantas, incluindo 25 estenoendémicas e 97
+      endémicas de Creta. A Nepeta sphaciotica sobrevive unicamente na vertente norte do Svourichti, entre os
+      2.200 e os 2.300 metros, ausente de qualquer outro ponto do globo. A Bupleurum kakiskalae vive até doze
+      anos, floresce e frutifica uma única vez antes de perecer. A orquídea Cephalanthera cucullata surge
+      entre os 700 e os 1.500 metros, a par de aromáticas como o chá-da-serra (Sideritis syriaca), manjerona e
+      o díctamo (Origanum dictamnus).
+    visit: >-
+      O percurso mais renomado atravessa o [Parque Nacional do Desfiladeiro de
+      Samaria](/lugar/samaria-national-park/): a secção no interior do parque estende-se por 13 km, restando
+      depois um troço costeiro até Agia Roumeli. Ao todo, a garganta tem 16 quilómetros, principia a 1.250
+      metros na entrada norte perto de Omalos e desemboca na praia do mar da Líbia. A descida completa consome
+      entre cinco e sete horas de marcha e exige bastante esforço no calor do verão.
+
+
+      O maciço conta ainda com quatro refúgios alpinos. O de Kallergi, de 1970, situa-se a 1.650 metros a
+      cinco quilómetros de Omalos; o de Svourichti, datado de 1994, fica a 1.980 metros, a sete horas a pé de
+      Anopolis.
+    history: >-
+      Samaria foi classificada como parque nacional em 1962 com o desígnio fulcral de resguardar a rara cabra
+      kri-kri. Nesse mesmo ano, os derradeiros habitantes deixaram a aldeia de Samaria no interior da ravina
+      para ceder espaço ao parque. Garganta e aldeia devem o nome à antiga igreja de Óssia María.
+
+
+      As Montanhas Brancas foram outrossim refúgio inexpugnável para os rebeldes cretenses nas insurreições
+      contra venezianos e otomanos, e na resistência durante a ocupação alemã.
+    before: >-
+      No interior do parque de Samaria é estritamente proibido acampar, pernoitar, foguear ou tomar banho nas
+      ribeiras. Em Xyloskalo, junto a Omalos, funciona um centro de acolhimento onde se adquire a entrada. Com
+      chuva intensa ou vendavais, a garganta encerra prontamente devido ao perigo de derrocadas.
+    around: >-
+      Para contrastar este modelado calcário, visita o [Parque Nacional de Ordesa e Monte
+      Perdido](/lugar/parque-nacional-de-ordesa-y-monte-perdido/) e as [Gargantas do
+      Verdon](/lugar/parc-naturel-regional-du-verdon---gorges/). O abutre-barbudo plana também no [Parque
+      Natural de Els Ports](/lugar/parc-natural-dels-ports/), e caprinos afins ocorrem no [Parque Nacional do
+      Vale de Munzur](/lugar/parque-nacional-del-valle-de-munzur/).
+fuentes:
+  - url: https://www.samaria.gr/fauna/
+    titulo: Fauna – National Park of Samaria
+    fecha_consulta: '2026-11-06'
+  - url: https://www.samaria.gr/flora/
+    titulo: Flora – National Park of Samaria
+    fecha_consulta: '2026-11-06'
+  - url: https://ypen.gov.gr/perivallon/dasi/epithewrhseis/epitheorisi-efarmogis-politikis-kritis/dioikitiki-domi/diefthynsi-dason-n-chanion/ethnikos-drymos-samarias/
+    titulo: Samaria National Park – Greek Ministry of Environment and Energy
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Lefka_Ori
+    titulo: Lefka Ori - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Samaria_Gorge
+    titulo: Samaria Gorge - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.samaria.gr/landscape/
+    titulo: Landscape - Samaria National Park
+    fecha_consulta: '2026-11-06'
+  - url: https://www.samaria.gr/environmental-interpretation/
+    titulo: Environmental interpretation - Samaria National Park
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:View_from_Pachnes.JPG
+    autor: Rockhopper2
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

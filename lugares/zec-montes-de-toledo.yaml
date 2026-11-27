@@ -1,0 +1,654 @@
+id: zec-montes-de-toledo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Zona Especial de Conservación Montes de Toledo
+  en: Montes de Toledo Special Area of Conservation
+  fr: Zone spéciale de conservation Montes de Toledo
+  de: Besonderes Erhaltungsgebiet Montes de Toledo
+  it: Zona Speciale di Conservazione Montes de Toledo
+  pt: Zona Especial de Conservação Montes de Toledo
+nombre_original: ZEC Montes de Toledo
+alias:
+  - ZEC Montes de Toledo
+paises:
+  - ES
+region:
+  es: Castilla-La Mancha (Toledo / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+  en: Castilla-La Mancha (Toledo / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+  fr: Castille-La Manche (Tolède / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+  de: Kastilien-La Mancha (Toledo / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+  it: Castiglia-La Mancia (Toledo / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+  pt: Castela-Mancha (Toledo / Ciudad Real / Los Yébenes / San Pablo de los Montes)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 39.5
+  lon: -4.25
+  radio_km: 40
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Montes de Toledo
+  capa: capas/natura2000/zec-montes-de-toledo.geojson
+habitats:
+  - mature_forest
+  - river_corridor
+designaciones:
+  - natura2000
+especies:
+  - lynx_pardinus
+  - aquila_adalberti
+  - aegypius_monachus
+  - cervus_elaphus
+temporada_ideal:
+  - 10
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+temporada_nota:
+  es: otoño a primavera
+  en: autumn to spring
+  fr: automne au printemps
+  de: Herbst bis Frühjahr
+  it: dall’autunno alla primavera
+  pt: outono a primavera
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Castilla-La Mancha Red Natura 2000 Montes de Toledo
+    url: https://www.castillalamancha.es/
+  - titulo: Gestor — Red Natura 2000 Montes de Toledo
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/lic/lic-montes-de-toledo
+  - titulo: Normas — Regulación de actividades en Montes de Toledo
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/lic/lic-montes-de-toledo/normativa
+resumen:
+  es: >-
+    Cordillera herciniana suave cubierta de pedrizas (*canchales*) y monte mediterráneo que sirve de corredor
+    biológico indispensable entre Cabañeros y Sierra Morena.
+  en: >-
+    A gentle Hercynian mountain range blanketed in scree slopes (*canchales*) and Mediterranean scrub that
+    forms an indispensable biological corridor between Cabañeros and Sierra Morena.
+  fr: >-
+    Douce chaîne hercynienne couverte d’éboulis de quartzite (*canchales*) et de maquis méditerranéen servant
+    de corridor biologique vital entre Cabañeros et la Sierra Morena.
+  de: >-
+    Sanfter variszischer Höhenzug mit ausgedehnten Blockhalden (*canchales*) und mediterranem Buschwald als
+    unersetzlicher Biokorridor zwischen Cabañeros und der Sierra Morena.
+  it: >-
+    Rilievo ercinico dolce ammantato di pietraie di quarzite (*canchales*) e macchia mediterranea che funge da
+    corridoio ecologico fondamentale tra Cabañeros e la Sierra Morena.
+  pt: >-
+    Cordilheira hercínica suave coberta de canchais de quartzito (*pedrizas*) e matagal mediterrânico que atua
+    como corredor biológico indispensável entre Cabañeros e a Serra Morena.
+unico:
+  es: >-
+    Un monte mediterráneo de cuarcitas y pedrizas donde cada otoño y cada primavera sigue siendo posible
+    cruzarse con ciervos, corzos y buitres sobrevolando la cima.
+  en: >-
+    A Mediterranean upland of quartzites and scree where every autumn and spring you can still cross paths
+    with red deer, roe deer, and vultures soaring over the summits.
+  fr: >-
+    Un massif méditerranéen de quartzites et d’éboulis où chaque automne et chaque printemps il est encore
+    courant de croiser cerfs, chevreuils et vautours planant au sommet.
+  de: >-
+    Ein mediterranes Quarzitgebirge voller Blockhalden, wo du im Herbst und Frühjahr noch Hirschen, Rehen und
+    kreisenden Geiern über den Gipfeln begegnen kannst.
+  it: >-
+    Un massiccio mediterraneo di quarziti e pietraie dove in autunno e in primavera è ancora facile incontrare
+    cervi, caprioli e grifoni che volteggiano sulla cima.
+  pt: >-
+    Um monte mediterrânico de quartzitos e canchais onde a cada outono e primavera ainda é comum cruzar com
+    veados, corças e grifos a sobrevoar os cumes.
+observaciones:
+  es: >-
+    La ruta del Peñafiel es de dificultad baja y sin grandes exigencias técnicas, pero el último tramo sigue
+    una senda poco marcada. En verano el arroyo del Trampal de la Hiruela suele estar seco. La mejor época son
+    el otoño y la primavera.
+texto:
+  es:
+    intro: >-
+      Los Montes de Toledo no tienen glaciares ni picos que corten el aliento, pero tienen algo que escasea:
+      un monte mediterráneo grande y poco domado donde todavía puede sobrevivir un felino casi imposible de
+      ver. La zona especial de conservación recoge un sector de esa cordillera de sierras bajas que separa la
+      cuenca del Tajo de la del Guadiana, y su gran protagonista es el lince ibérico, aunque el plan de
+      gestión también cuenta hoces y cantiles, estepas, cuevas, turberas y saladares entre sus enclaves
+      singulares.
+    landscape: >-
+      La cordillera completa se estira unos trescientos cincuenta kilómetros de este a oeste, pero lo que ves
+      aquí no son grandes cumbres sino crestones de cuarcita de altura casi uniforme, en torno a mil
+      cuatrocientos metros. Es un relieve de tipo apalachense: las montañas son los restos duros que dejó la
+      erosión cuando se llevó lo demás, y los glaciares nunca llegaron a modelarlas. Cumbres como el
+      Rocigalgo, el Corral de Cantos o el Peñafiel se reparten por las sierras de Yébenes y San Pablo de los
+      Montes.
+
+
+      En las laderas aparecen unas manchas blancas con forma de abanico: son las pedrizas, o canchales,
+      enormes acumulaciones de cantos angulosos de cuarcita que se fueron soltando en ciclos repetidos de
+      hielo y deshielo. Parecen desnudas, pero de cerca resultan estar salpicadas de líquenes y musgos de mil
+      colores y de plantas de roquedo como el ombligo de Venus.
+
+
+      Alrededor domina el bosque mediterráneo, con encinas, alcornoques y melojos, además de extensos pinares
+      de pino rodeno. Entre los arbustos aromáticos destacan la jara, la lavanda, el tomillo y el romero. En
+      las laderas del Peñafiel hay chaparros, encinas y jara pringosa. Y la zona especial de conservación
+      incluye once especies de flora de interés comunitario, entre ellas el tejo, *Prunus lusitanica* y un
+      abedul de la variedad *parvibracteata*.
+    wildlife: >-
+      El protagonista es el [lince ibérico](/especie/lynx_pardinus/). Entre 2002 y 2006 un proyecto europeo
+      LIFE trabajó en fincas privadas de los Montes de Toledo y el Guadalmena para proteger al felino y
+      mejorar su hábitat: se crearon más de cien puntos de agua y doce charcas, y se instalaron unas ciento
+      cincuenta majadas artificiales de conejo, la presa del lince. Las cámaras trampa no captaron ninguno,
+      pero los excrementos confirmaron entonces que vivían linces en la zona. Hoy el plan de gestión sigue
+      señalando el espacio como hábitat del lince, de la nutria y del topillo de Cabrera.
+
+
+      Lo que sí puedes ver es más fácil. En el Peñafiel se ven con frecuencia buitres leonados y, con algo de
+      suerte, águilas reales; en la cordillera también hay [águila imperial](/especie/aquila_adalberti/), búho
+      real, halcón peregrino y [cigüeña negra](/especie/ciconia_nigra/). Entre los mamíferos destacan el
+      [ciervo](/especie/cervus_elaphus/), el [corzo](/especie/capreolus_capreolus/), el gato montés, el tejón
+      y el jabalí. Los reptiles incluyen el lagarto ocelado y la culebra de escalera, y entre los anfibios y
+      reptiles de interés el plan cita el galápago europeo, el tritón pigmeo, el sapo partero ibérico y la
+      lagartija de Valverde. En los ríos viven la trucha y el reo, y en el Pusa sobrevive el cangrejo de río
+      europeo.
+
+
+      La estación importa. El clima de la parte castellano-manchega es mediterráneo continental, con grandes
+      oscilaciones entre estaciones, y por eso la ruta del Peñafiel se recomienda en otoño y primavera, cuando
+      las temperaturas son suaves. En verano el arroyo del Trampal de la Hiruela, que cruza el camino, suele
+      estar seco.
+    visit: >-
+      La excursión de referencia es el ascenso al Pico Peñafiel, una ruta de dificultad baja y unos once
+      kilómetros entre ida y vuelta, con unos cuatrocientos cincuenta metros de desnivel. Sale del puerto del
+      Lanchar, a seis kilómetros por carretera de San Pablo de los Montes, y sube en suave ascenso por pistas
+      forestales y senderos entre robledales, pinares, jaras y dehesas, cruzando el arroyo del Trampal de la
+      Hiruela. Por el camino se ven el palacio de El Sotillo y los farallones rocosos del propio Peñafiel.
+
+
+      El último tramo deja la pista y sigue una senda poco marcada por la cuerda, donde la vegetación puede
+      tapar parcialmente el camino, hasta el vértice geodésico de la cima. El premio es una de las mejores
+      panorámicas de los Montes de Toledo, con el Parque Nacional de Cabañeros, Gredos y Guadarrama en el
+      horizonte.
+    history: >-
+      El Peñafiel guarda capas de historia: restos de minas de hierro de época romana, del siglo II a. C., una
+      torre defensiva del siglo XIII levantada contra bandoleros y grupos musulmanes, cuyos vestigios se ven
+      cerca del camino principal, y una larga tradición de pasto de verano y de atalaya natural para vigilar
+      el territorio.
+
+
+      El plan de gestión organiza el espacio Natura 2000 según el valor de sus recursos naturales y la
+      capacidad de cada zona para acoger usos compatibles. Las aves pesan mucho en la cordillera: el parque
+      nacional de Cabañeros, la sierra de San Pedro y la sierra de las Villuercas fueron declarados zonas de
+      especial protección para las aves.
+    before: >-
+      La ruta del Peñafiel es de dificultad baja y sin grandes exigencias técnicas, pero el último tramo sigue
+      una senda poco marcada. En verano el arroyo del Trampal de la Hiruela suele estar seco. La mejor época
+      son el otoño y la primavera.
+    around: >-
+      Esta zona no tiene vecinos cercanos registrados, pero sí parientes. El [Parque Nacional de
+      Cabañeros](/lugar/parque-nacional-de-cabaneros/) queda dentro de la misma cordillera de los Montes de
+      Toledo. Más lejos, el [Parque Natural Sierra de Andújar](/lugar/parque-natural-sierra-de-andujar/) y el
+      [Parque Natural del Valle de Alcudia y Sierra
+      Madrona](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/) comparten con este lugar el lince
+      ibérico, el águila imperial y el buitre negro, y la [Reserva Natural de la Sierra de
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/) comparte el lince y el buitre negro. El [Parque
+      Nacional de los Abruzos, Lacio y Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) coincide en el
+      abedul y el tejo.
+  en:
+    intro: >-
+      The Montes de Toledo boast no glaciers or breathless precipitous peaks, yet they possess something
+      increasingly rare: a vast, semi-wild Mediterranean upland where an elusive feline can still survive. The
+      Special Area of Conservation covers a sector of this low mountain range separating the Tagus basin from
+      the Guadiana, and its flagship inhabitant is the Iberian lynx, although its management plan also
+      protects gorges and cliffs, steppes, caves, peat bogs, and salt marshes.
+    landscape: >-
+      The full mountain chain stretches roughly three hundred and fifty kilometres from east to west, though
+      what you see here are not towering summits but quartzite ridges of almost uniform elevation, hovering
+      around one thousand four hundred metres. It is an Appalachian-style relief: the ridges are the hardest
+      remnants spared by erosion as softer layers washed away, untouched by glaciers. Summits such as
+      Rocigalgo, Corral de Cantos, and Peñafiel rise across the sierras of Yébenes and San Pablo de los
+      Montes.
+
+
+      Down the slopes fan out stark white patches: scree slopes, or *canchales*, vast accumulations of angular
+      quartzite blocks loosened by repeated freeze-thaw cycles. They appear barren from afar, but up close
+      reveal a mosaic of multi-coloured lichens, mosses, and rock-dwelling plants like navelwort.
+
+
+      All around stretches Mediterranean woodland of holm oaks, cork oaks, and Pyrenean oaks, alongside
+      extensive maritime pine plantations. Aromatic shrubs feature rockrose, lavender, thyme, and rosemary.
+      The flanks of Peñafiel are dotted with Kermes oaks, holm oaks, and gum rockrose. Furthermore, the
+      Special Area of Conservation harbours eleven plant species of Community interest, including yew, *Prunus
+      lusitanica*, and a rare birch variety, *parvibracteata*.
+    wildlife: >-
+      The star species is the [Iberian lynx](/especie/lynx_pardinus/). Between 2002 and 2006 a European LIFE
+      project partnered with private estates in the Montes de Toledo and Guadalmena to protect the feline and
+      restore its habitat: more than one hundred water points and twelve ponds were created, alongside roughly
+      one hundred and fifty artificial rabbit breeding warrens, the lynx’s staple prey. Trap cameras failed to
+      capture sightings, but scat analysis confirmed lynx persistence. Today the conservation management plan
+      continues to designate the territory as vital habitat for lynx, otter, and Cabrera’s vole.
+
+
+      What you can readily spot is far more accessible. Griffon vultures frequently soar above Peñafiel,
+      joined occasionally by golden eagles; the range also shelters the [Spanish imperial
+      eagle](/especie/aquila_adalberti/), Eurasian eagle-owl, peregrine falcon, and [black
+      stork](/especie/ciconia_nigra/). Notable mammals include [red deer](/especie/cervus_elaphus/), [roe
+      deer](/especie/capreolus_capreolus/), wildcat, European badger, and wild boar. Reptiles include the
+      ocellated lizard and ladder snake, while species of conservation concern include the European pond
+      turtle, pygmy newt, Iberian midwife toad, and Spanish algyroides lizard. Brown trout and sea trout
+      navigate clear streams, and native white-clawed crayfish survive in the Pusa River.
+
+
+      Seasonality matters. The Castilian-Manchego climate is continental Mediterranean, with sharp seasonal
+      contrasts; hence hiking to Peñafiel is best enjoyed in autumn and spring when temperatures remain
+      pleasant. In high summer, the Trampal de la Hiruela stream crossing the path typically runs dry.
+    visit: >-
+      The classic excursion is the hike up to Pico Peñafiel, an easy out-and-back trail of around eleven
+      kilometres with some four hundred and fifty metres of elevation gain. Starting at Puerto del Lanchar,
+      six kilometres by road from San Pablo de los Montes, it climbs gently along forestry tracks and paths
+      through oak groves, pine woods, rockrose scrub, and open dehesas, crossing the Trampal de la Hiruela
+      stream. Along the way you spot the El Sotillo manor and the craggy ramparts of Peñafiel itself.
+
+
+      The final stretch leaves the track to follow a faint footpath over the *canchales* up to the crest,
+      crowned with a geological benchmark. From the summit the panoramic view takes in the Toledo plains, the
+      Gredos peaks on the distant horizon, and the endless rolling hills of the Montes de Toledo. Allow around
+      three hours. You can return along the same trail or complete a circular route descending towards the
+      Baños del Sagrario recreational area.
+    history: >-
+      Peñafiel holds layers of history: traces of Roman iron workings from the second century BCE, a
+      thirteenth-century watchtower built to guard against bandits and Muslim incursions whose ruins sit near
+      the main trail, and an enduring tradition of summer grazing and natural lookout posts overseeing the
+      valleys.
+
+
+      The management plan structures the Natura 2000 site according to its natural assets and carrying
+      capacity for compatible uses. Birds play a major role throughout the range: Cabañeros National Park,
+      Sierra de San Pedro, and Sierra de las Villuercas have all been declared Special Protection Areas for
+      birds.
+    before: >-
+      The route to Peñafiel is easy and technically undemanding, though the final section follows a faint,
+      poorly marked path. In summer the Trampal de la Hiruela stream usually runs dry. The best seasons to
+      visit are autumn and spring.
+    around: >-
+      To the west stretches [Cabañeros National Park](/lugar/parque-nacional-de-cabaneros/), while further
+      south lie [Sierra de Andújar Natural Park](/lugar/parque-natural-sierra-de-andujar/) and [Sierra Madrona
+      and Alcudia Valley Natural Park](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/), key
+      refuges for the Iberian lynx. In Portugal, [Serra da Malcata Nature
+      Reserve](/lugar/reserva-natural-da-serra-da-malcata/) shares conservation efforts for the lynx, and in
+      Italy [Abruzzo, Lazio and Molise National Park](/lugar/parco-nazionale-d-abruzzo-lazio-e/) showcases
+      comparable large carnivore conservation.
+  fr:
+    intro: >-
+      Les Montes de Toledo n’ont ni glaciers ni sommets vertigineux, mais ils possèdent un bien devenu rare :
+      un grand massif méditerranéen farouche où peut encore survivre un félin presque impossible à apercevoir.
+      La zone spéciale de conservation englobe un secteur de cette chaîne de moyennes montagnes séparant le
+      bassin du Tage de celui du Guadiana, et son emblème est le lynx ibérique, bien que son plan de gestion
+      protège aussi des gorges, des falaises, des steppes, des grottes, des tourbières et des marais salants.
+    landscape: >-
+      La cordillère complète s’étire sur environ trois cent cinquante kilomètres d’est en ouest, mais ce que
+      l’on observe ici n’est pas un ensemble de hauts pics, mais plutôt des crêtes de quartzite d’altitude
+      très régulière, autour de mille quatre cents mètres. C’est un relief de type appalachien : les crêtes
+      sont les témoins durs épargnés par l’érosion, jamais modelés par les glaces. Des sommets comme le
+      Rocigalgo, le Corral de Cantos ou le Peñafiel ponctuent les sierras d’Yébenes et de San Pablo de los
+      Montes.
+
+
+      Sur les versants s’étalent de vastes traînées blanches en éventail : ce sont les éboulis, ou
+      *canchales*, gigantesques accumulations de blocs anguleux de quartzite détachés au cours d’incessants
+      cycles de gel et dégel. Dénudés de loin, ils se révèlent de près parsemés de lichens et mousses bariolés
+      et de plantes rupicoles comme le nombril de Vénus.
+
+
+      Tout autour domine la forêt méditerranéenne de chênes verts, chênes-lièges et chênes tauzins, ainsi que
+      de vastes pinèdes de pin maritime. Côté arbrisseaux aromatiques s’épanouissent cistes, lavandes, thyms
+      et romarins. Les pentes du Peñafiel portent des chênes kermès, des chênes verts et du ciste gommeux.
+      Enfin, la zone spéciale de conservation abrite onze espèces végétales d’intérêt communautaire, dont
+      l’if, le laurier du Portugal (*Prunus lusitanica*) et un bouleau rare, la variété *parvibracteata*.
+    wildlife: >-
+      La vedette incontestée est le [lynx pardelle](/especie/lynx_pardinus/). Entre 2002 et 2006, un projet
+      européen LIFE a travaillé dans des domaines privés des Montes de Toledo et du Guadalmena pour protéger
+      le félin et réhabiliter son habitat : plus de cent points d’eau et douze mares ont été aménagés, ainsi
+      qu’environ cent cinquante garennes artificielles pour le lapin de garenne, proie exclusive du lynx. Les
+      pièges photographiques ne l’ont pas surpris, mais les crottes ont confirmé sa présence continue.
+      Aujourd’hui, le plan de gestion maintient le secteur comme habitat clé du lynx, de la loutre et du
+      campagnol de Cabrera.
+
+
+      Ce que vous pouvez voir facilement est bien plus accessible. Au Peñafiel, les vautours fauves tournoient
+      fréquemment, parfois accompagnés de l’aigle royal ; le massif abrite également l’[aigle
+      ibérique](/especie/aquila_adalberti/), le grand-duc d’Europe, le faucon pèlerin et la [cigogne
+      noire](/especie/ciconia_nigra/). Parmi les mammifères figurent le [cerf
+      élaphe](/especie/cervus_elaphus/), le [chevreuil](/especie/capreolus_capreolus/), le chat sauvage, le
+      blaireau et le sanglier. Côté reptiles, on trouve le lézard ocellé et la couleuvre à échelons, tandis
+      que les espèces patrimoniales comptent la cistude d’Europe, le triton pygmée, l’alyte ibérique et
+      l’algyroïde de Valverde. Dans les rivières vivent la truite fario et la truite de mer, et l’écrevisse à
+      pattes blanches survit dans le Pusa.
+
+
+      La saison compte beaucoup. Le climat local est méditerranéen continental, avec de grands contrastes
+      saisonniers : la randonnée du Peñafiel est donc particulièrement conseillée en automne et au printemps,
+      quand la météo est douce. En été, le ruisseau du Trampal de la Hiruela est le plus souvent à sec.
+    visit: >-
+      L’excursion emblématique est l’ascension du Pico Peñafiel, un itinéraire sans difficulté majeure
+      d’environ onze kilomètres aller-retour pour quelque quatre cent cinquante mètres de dénivelé. Il part du
+      col du Lanchar, à six kilomètres de route de San Pablo de los Montes, et monte en pente douce par des
+      pistes forestières et des sentiers entre chênaies, pinèdes, cistaies et dehesas, franchissant le
+      ruisseau du Trampal de la Hiruela. En chemin se dévoilent le domaine d’El Sotillo et les murailles
+      rocheuses du Peñafiel.
+
+
+      Le dernier tronçon quitte la piste pour suivre une sente discrète à travers les éboulis jusqu’à la crête
+      sommital, coiffée d’une borne géodésique. Du sommet, le regard embrasse les plaines toledanes, les
+      crêtes lointaines de Gredos et l’ondulation infinie des Montes de Toledo. Comptez environ trois heures
+      de marche. On peut redescendre par le même chemin ou boucler par l’aire récréative des Baños del
+      Sagrario.
+    history: >-
+      Le Peñafiel conserve plusieurs strates d’histoire : vestiges d’anciennes mines de fer d’époque romaine,
+      du IIe siècle avant notre ère, une tour de guet du XIIIe siècle érigée contre les bandits et les
+      incursions musulmanes dont les ruines subsistent près du sentier principal, et une longue tradition
+      d’estive et de poste d’observation stratégique sur la région.
+
+
+      Le plan de gestion structure le site Natura 2000 en fonction de la valeur de ses ressources naturelles
+      et des usages compatibles. Les oiseaux constituent un enjeu majeur : le parc national de Cabañeros, la
+      sierra de San Pedro et la sierra de las Villuercas sont ainsi classés en zones de protection spéciale
+      pour les oiseaux.
+    before: >-
+      L’itinéraire du Peñafiel est facile et sans grande exigence technique, mais le dernier tronçon emprunte
+      une sente peu marquée. En été, le ruisseau du Trampal de la Hiruela est généralement à sec. La meilleure
+      saison s’étend de l’automne au printemps.
+    around: >-
+      À l’ouest s’étend le [Parc national de Cabañeros](/lugar/parque-nacional-de-cabaneros/), tandis que plus
+      au sud se trouvent le [Parc naturel de la Sierra de Andújar](/lugar/parque-natural-sierra-de-andujar/)
+      et le [Parc naturel de Sierra Madrona et vallée
+      d’Alcudia](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/), refuges capitaux pour le lynx
+      pardelle. Au Portugal, la [Réserve naturelle de la Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/) partage les efforts en faveur du félin, et en
+      Italie le [Parc national des Abruzzes, Latium et Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/)
+      offre un parallèle dans la protection des grands carnivores.
+  de:
+    intro: >-
+      Die Montes de Toledo besitzen weder Gletscher noch schwindelerregende Steilwände, dafür aber etwas
+      Seltenes: ein weitläufiges, naturnahes Mittelmeergebirge, in dem eine fast unsichtbare Raubkatze noch
+      Lebensraum findet. Das Schutzgebiet umfasst einen Teil dieses Höhenzuges, der das Tajo- vom
+      Guadiana-Becken trennt. Sein heimlicher König ist der Pardelluchs, wenngleich der Bewirtschaftungsplan
+      auch Schluchten, Steilwände, Steppenflächen, Höhlen, Hochmoore und Salzstellen schützt.
+    landscape: >-
+      Das gesamte Gebirge erstreckt sich über rund dreihundertfünfzig Kilometer von Ost nach West, doch was
+      man hier sieht, sind keine spitzen Hochgebirgsgipfel, sondern gleichförmige Quarzithärtlinge um
+      eintausendvierhundert Meter Höhe. Es handelt sich um ein Relief appalachischen Typs: die Kämme sind
+      harte Gesteinsreste, die die Erosion übrigließ und die nie von Gletschern überprägt wurden. Gipfel wie
+      Rocigalgo, Corral de Cantos oder Peñafiel prägen die Höhenzüge von Yébenes und San Pablo de los Montes.
+
+
+      An den Hängen stechen fächerförmige, helle Schuttströme ins Auge: die Blockhalden oder *canchales*,
+      gewaltige Ansammlungen kantiger Quarzitblöcke, die durch Frostverwitterung entstanden sind. Aus der
+      Ferne wirken sie kahl, aus der Nähe offenbaren sie bunte Flechten, Moose und Felsspaltenpflanzen wie das
+      Venusnabelkraut.
+
+
+      Ringsum dominiert mediterraner Wald aus Stein-, Kork- und Pyrenäen-Eichen sowie ausgedehnte Bestände der
+      See-Kiefer. Unter den aromatischen Zwergsträuchern gedeihen Zistrosen, Lavendel, Thymian und Rosmarin.
+      An den Hängen des Peñafiel wachsen Kermeseichen, Steineichen und Lack-Zistrosen. Zudem birgt das
+      Erhaltungsgebiet elf Pflanzenarten von gemeinschaftlichem Interesse, darunter die Eibe, *Prunus
+      lusitanica* und eine seltene Birkenvarietät (*parvibracteata*).
+    wildlife: >-
+      Die Leitart ist der [Pardelluchs](/especie/lynx_pardinus/). Zwischen 2002 und 2006 widmete sich ein
+      europäisches LIFE-Projekt auf privaten Ländereien der Montes de Toledo und des Guadalmena dem Schutz der
+      Raubkatze und ihres Lebensraums: mehr als einhundert Wasserstellen und zwölf Teiche wurden angelegt
+      sowie rund einhundertfünfzig künstliche Kaninchenbauten errichtet, um die Beutebasis zu sichern.
+      Fotofallen blieben damals zwar ohne Luchsaufnahme, Losungsfunde bestätigten jedoch seine Anwesenheit.
+      Bis heute weist der Managementplan das Gebiet als essenziellen Lebensraum für Luchs, Fischotter und
+      Cabrera-Wühlmaus aus.
+
+
+      Was du verlässlich beobachten kannst, ist ungleich leichter zu finden. Am Peñafiel kreisen regelmäßig
+      Gänsegeier, gelegentlich auch Steinadler; die Berge beherbergen zudem [Spanischen
+      Kaiseradler](/especie/aquila_adalberti/), Uhu, Wanderfalke und [Schwarzstorch](/especie/ciconia_nigra/).
+      Unter den Säugetieren fallen [Rothirsch](/especie/cervus_elaphus/),
+      [Reh](/especie/capreolus_capreolus/), Wildkatze, Dachs und Wildschwein auf. Zu den Kriechtieren zählen
+      Perleidechse und Treppennatter; als bemerkenswerte Arten listet der Plan Europäische Sumpfschildkröte,
+      Zwerg-Marmormolch, Iberische Geburtshelferkröte und Spanischen Fransenfinger. In den Bächen leben Bach-
+      und Meerforelle, und im Río Pusa überlebt der Europäische Flusskrebs.
+
+
+      Die Jahreszeit spielt eine entscheidende Rolle. Das kontinental-mediterrane Klima bringt starke
+      Temperaturschwankungen mit sich; daher empfiehlt sich die Peñafiel-Wanderung im Herbst und Frühling bei
+      milden Temperaturen. Im Hochsommer fällt der Bach Trampal de la Hiruela meist trocken.
+    visit: >-
+      Die klassische Wanderung führt auf den Pico Peñafiel: eine einfache Tour von etwa elf Kilometern hin und
+      zurück mit rund vierhundertfünfzig Höhenmetern. Sie beginnt am Puerto del Lanchar, sechs
+      Straßenkilometer von San Pablo de los Montes entfernt, und steigt auf Forstwegen und Bergpfaden durch
+      Eichenhaine, Kiefernwälder, Zistrosenbüsche und Dehesas sanft an, wobei der Bach Trampal de la Hiruela
+      gequert wird. Unterwegs zeigen sich der Landsitz El Sotillo und die markanten Felsbastionen des
+      Peñafiel.
+
+
+      Das letzte Wegstück verlässt den Hauptweg und folgt einem Pfad über die Blockhalden hinauf zum Grat mit
+      geodätischem Pfeiler. Vom Gipfel reicht der Rundblick über die Ebenen von Toledo, zu den fernen Graten
+      der Sierra de Gredos und über das unendliche Wellenmeer der Montes de Toledo. Rechne mit etwa drei
+      Stunden Gehzeit. Der Rückweg erfolgt auf gleicher Route oder als Rundtour über das Erholungsgebiet Baños
+      del Sagrario.
+    history: >-
+      Der Peñafiel birgt Zeugnisse vergangener Epochen: Reste römischer Eisengruben aus dem zweiten
+      Jahrhundert vor Christus, einen Wehrturm aus dem dreizehnten Jahrhundert zum Schutz vor Banditen und
+      maurischen Vorstößen, dessen Grundmauern am Wegrand liegen, sowie eine lange Tradition als Sommerweide
+      und natürlicher Ausguck.
+
+
+      Der Bewirtschaftungsplan gliedert das Natura 2000-Gebiet nach Schutzwürdigkeit und naturverträglichen
+      Nutzungsmöglichkeiten. Die Vogelwelt besitzt überragende Bedeutung: der Nationalpark Cabañeros, die
+      Sierra de San Pedro und die Sierra de las Villuercas sind als Europäische Vogelschutzgebiete
+      ausgewiesen.
+    before: >-
+      Die Route auf den Peñafiel ist leicht und technisch unschwierig, das letzte Wegstück folgt jedoch einem
+      kaum ausgeprägten Pfad. Im Sommer ist der Bach Trampal de la Hiruela meist trocken. Die beste Reisezeit
+      sind Herbst und Frühjahr.
+    around: >-
+      Im Westen erstreckt sich der [Nationalpark Cabañeros](/lugar/parque-nacional-de-cabaneros/), während
+      weiter südlich der [Naturpark Sierra de Andújar](/lugar/parque-natural-sierra-de-andujar/) und der
+      [Naturpark Sierra Madrona und Alcudia-Tal](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/)
+      als Kerngebiete des Pardelluchses liegen. In Portugal engagiert sich das [Naturreservat Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/) für den Luchs, und in Italien schützt der
+      [Nationalpark Abruzzen, Latium und Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) vergleichbare
+      Großraubtiere.
+  it:
+    intro: >-
+      I Montes de Toledo non hanno ghiacciai né creste vertiginose, ma vantano qualcosa di raro: una montagna
+      mediterranea estesa e poco addomesticata dove può ancora sopravvivere un felino quasi invisibile. La
+      Zona Speciale di Conservazione protegge una porzione di questa dorsale montuosa che divide il bacino del
+      Tago da quello del Guadiana, e la sua specie simbolo è la lince pardina, pur comprendendo nel suo piano
+      di tutela anche forre, rupi, pianure steppiche, grotte, torbiere e paludi salmastre.
+    landscape: >-
+      L’intera catena montuosa si distende per circa trecentocinquanta chilometri da est a ovest, ma qui il
+      paesaggio non mostra guglie alpine, bensì dorsali di quarzite dalla quota uniforme attorno a
+      millequattrocento metri. È un rilievo di tipo appalachiano: le creste sono i rilievi più duri
+      risparmiati dall’erosione millenaria, mai toccati da ghiacciai. Vette come il Rocigalgo, il Corral de
+      Cantos o il Peñafiel si distribuiscono lungo le sierre di Yébenes e San Pablo de los Montes.
+
+
+      Lungo i versanti scendono ampie chiazze biancastre a ventaglio: sono le pietraie, o *canchales*,
+      colossali accumuli di frammenti spigolosi di quarzite disgregati da infiniti cicli di gelo e disgelo. Da
+      lontano sembrano brulle, ma da vicino appaiono punteggiate da licheni variopinti, muschi e piante
+      rupicole come l’ombelico di Venere.
+
+
+      Attorno domina la foresta mediterranea di lecci, sughere e querce dei Pirenei, affiancata da fitte
+      pinete di pino marittimo. Tra gli arbusti aromatici fioriscono cisti, lavanda, timo e rosmarino. Sui
+      pendii del Peñafiel compaiono querce spinose, lecci e cisto ladanifero. Inoltre, la Zona Speciale di
+      Conservazione tutela undici specie vegetali d’interesse comunitario, tra cui il tasso, il lauro del
+      Portogallo (*Prunus lusitanica*) e una rara betulla (*parvibracteata*).
+    wildlife: >-
+      La protagonista assoluta è la [lince pardina](/especie/lynx_pardinus/). Tra il 2002 e il 2006 un
+      progetto europeo LIFE ha operato nelle tenute private dei Montes de Toledo e del Guadalmena per
+      salvaguardare il felino e migliorare il suo habitat: sono stati realizzati oltre cento punti d’acqua e
+      dodici stagni, installando circa centocinquanta conigliere artificiali per favorire il coniglio
+      selvatico, preda d’elezione della lince. Le fototrappole non la immortalarono, ma le analisi delle fatte
+      confermarono allora la presenza della lince. Tuttora il piano di gestione riconosce l’area come habitat
+      chiave per lince, lontra e arvicola di Cabrera.
+
+
+      Ciò che puoi avvistare facilmente è assai più a portata di mano. Sul Peñafiel volteggiano di frequente i
+      grifoni e, con un po’ di fortuna, l’aquila reale; la catena accoglie anche l’[aquila imperiale
+      iberica](/especie/aquila_adalberti/), il gufo reale, il falco pellegrino e la [cicogna
+      nera](/especie/ciconia_nigra/). Tra i mammiferi spiccano il [*Cervus elaphus*](/especie/cervus_elaphus/)
+      (cervo nobile), il [capriolo](/especie/capreolus_capreolus/), il gatto selvatico, il tasso e il
+      cinghiale. Tra i rettili figurano la lucertola ocellata e il colubro a ferro di cavallo; il piano cita
+      inoltre la testuggine palustre europea, il tritone pigmeo, l’alite iberico e la lucertola di Valverde.
+      Nei corsi d’acqua vivono la trota e la trota di mare, e nel fiume Pusa resiste il gambero d’acqua dolce
+      europeo.
+
+
+      La stagione è decisiva. Il clima continentale mediterraneo comporta forti escursioni termiche; per
+      questo l’escursione al Peñafiel è raccomandata in autunno e in primavera con temperature miti. In piena
+      estate il torrente del Trampal de la Hiruela è solitamente in secca.
+    visit: >-
+      L’itinerario classico è la salita al Pico Peñafiel, un percorso di bassa difficoltà di circa undici
+      chilometri tra andata e ritorno con circa quattrocentocinquanta metri di dislivello. Si parte dal Puerto
+      del Lanchar, a sei chilometri di strada da San Pablo de los Montes, salendo dolcemente su piste
+      forestali e mulattiere tra boschi di querce, pinete, cisti e dehesas, attraversando il torrente del
+      Trampal de la Hiruela. Lungo la salita si ammirano il palazzo di El Sotillo e le bastionate rocciose del
+      Peñafiel.
+
+
+      L’ultimo tratto abbandona la carrareccia per seguire un sentierino che risale la pietraia fino alla
+      cresta panoramica con pilastro geodetico. Dalla vetta lo sguardo spazia sui piani di Toledo, sui crinali
+      del Gredos e sulle onde boscose dei Montes de Toledo. Calcola circa tre ore di cammino. Si può tornare
+      per la stessa via o chiudere un anello scendendo verso l’area attrezzata dei Baños del Sagrario.
+    history: >-
+      Il Peñafiel racchiude memorie antiche: resti di miniere di ferro romane del secondo secolo a.C., una
+      torre difensiva del tredicesimo secolo eretta a presidio contro briganti e incursioni musulmane di cui
+      si scorgono i ruderi accanto al tracciato principale, e una lunga vocazione all’alpeggio estivo e alla
+      vedetta militare.
+
+
+      Il piano di gestione organizza il sito Natura 2000 armonizzando tutela e fruizione sostenibile.
+      L’avifauna riveste un ruolo di primaria grandezza: il parco nazionale di Cabañeros, la sierra de San
+      Pedro e la sierra de las Villuercas sono designate zone di protezione speciale per gli uccelli.
+    before: >-
+      L’itinerario del Peñafiel è di bassa difficoltà e senza particolari esigenze tecniche, ma l’ultimo
+      tratto segue una traccia poco evidente. In estate il torrente del Trampal de la Hiruela è solitamente in
+      secca. Le stagioni migliori sono l’autunno e la primavera.
+    around: >-
+      A ovest si estende il [Parco Nazionale di Cabañeros](/lugar/parque-nacional-de-cabaneros/), mentre più a
+      sud si trovano il [Parco Naturale Sierra de Andújar](/lugar/parque-natural-sierra-de-andujar/) e il
+      [Parco Naturale di Sierra Madrona e Valle di
+      Alcudia](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/), territori cardine per la lince
+      iberica. In Portogallo, la [Riserva Naturale della Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/) condivide le azioni a tutela del felino, e in
+      Italia il [Parco Nazionale d’Abruzzo, Lazio e Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/)
+      protegge i grandi predatori appenninici.
+  pt:
+    intro: >-
+      Os Montes de Toledo não têm glaciares nem picos vertiginosos, mas guardam algo raro: um monte
+      mediterrânico extenso e pouco domesticado onde ainda consegue sobreviver um felino esquivo. A Zona
+      Especial de Conservação abrange um setor desta cordilheira de relevo suave que divide a bacia do Tejo da
+      do Guadiana, tendo como grande protagonista o lince-ibérico, embora o seu plano de gestão proteja também
+      desfiladeiros, escarpas, estepes, grutas, turfeiras e pauis salgados.
+    landscape: >-
+      A cordilheira estende-se por cerca de trezentos e cinquenta quilómetros de este a oeste, mas o relevo
+      local caracteriza-se por cristas de quartzito de altitude uniforme, a rondar os mil e quatrocentos
+      metros. Trata-se de um relevo do tipo apalachiano: as serras são os blocos resistentes poupados pela
+      erosão, imunes à ação dos glaciares. Vértices como o Rocigalgo, o Corral de Cantos ou o Peñafiel
+      erguem-se nas serras de Yébenes e San Pablo de los Montes.
+
+
+      Nas encostas abrem-se vastas manchas brancas em leque: são os canchais, ou *pedrizas*, enormes depósitos
+      de blocos angulosos de quartzito desagregados por sucessivos ciclos de gelo e degelo. Parecem despidos
+      de longe, mas de perto revelam líquenes multicores, musgos e plantas rupícolas como o umbigo-de-vénus.
+
+
+      Em redor reina a floresta mediterrânica de azinheiras, sobreiros e carvalhos-negrales, além de extensos
+      pinhais de pinheiro-bravo. Nos matos aromáticos florescem estevas, alfazema, tomilho e alecrim. Nas
+      faldas do Peñafiel surgem carrascos, azinheiras e esteva-pegajosa. A Zona Especial de Conservação inclui
+      onze espécies de flora de interesse comunitário, entre elas o teixo, o azereiro (*Prunus lusitanica*) e
+      uma bétula rara (*parvibracteata*).
+    wildlife: >-
+      O grande destaque da fauna é o [lince-ibérico](/especie/lynx_pardinus/). Entre 2002 e 2006 um projeto
+      europeu LIFE atuou em herdades privadas dos Montes de Toledo e do Guadalmena para salvaguardar o felino
+      e melhorar o seu habitat: foram criados mais de cem pontos de água e doze charcas, além de instalados
+      cerca de cento e cinquenta maroiços artificiais para o coelho-bravo, a sua presa primordial. As câmaras
+      de armadilhagem não captaram imagens, mas as fezes confirmaram na altura a permanência de linces. Hoje o
+      plano de gestão continua a destacar a área como habitat vital para o lince, a lontra e o
+      rato-de-cabrera.
+
+
+      O que podes observar no terreno é muito mais acessível. No Peñafiel avistam-se com frequência grifos e,
+      com alguma sorte, águias-reais; as serras acolhem também a
+      [águia-imperial-ibérica](/especie/aquila_adalberti/), o bufo-real, o falcão-peregrino e a
+      [cegonha-preta](/especie/ciconia_nigra/). Entre os mamíferos sobressaem o
+      [veado-vermelho](/especie/cervus_elaphus/), a [corça](/especie/capreolus_capreolus/), o gato-bravo, o
+      texugo e o javali. Os répteis incluem o sardão e a cobra-de-escada, enquanto as espécies protegidas
+      abrangem o cágado-de-carapaça-estriada, o tritão-pigmeu, o sapo-parteiro-ibérico e a
+      lagartixa-de-valverde. Nos rios nadam a truta e a truta-marisca, sobrevivendo no rio Pusa o
+      lagostim-de-patas-brancas.
+
+
+      A estação do ano é determinante. O clima continental mediterrânico regista amplitudes térmicas vincadas,
+      recomendando-se a caminhada ao Peñafiel no outono e na primavera com tempo ameno. No verão, o ribeiro do
+      Trampal de la Hiruela corre habitualmente seco.
+    visit: >-
+      A rota clássica é a subida ao Pico Peñafiel, um trilho de baixa dificuldade com cerca de onze
+      quilómetros de ida e volta e cerca de quatrocentos e cinquenta metros de desnível. Tem início no Puerto
+      del Lanchar, a seis quilómetros de estrada de San Pablo de los Montes, subindo em suave declive por
+      pistas florestais e caminhos entre carvalhais, pinhais, estevais e montados, cruzando a linha de água do
+      Trampal de la Hiruela. Pelo caminho avistam-se o palácio de El Sotillo e as escarpas do próprio
+      Peñafiel.
+
+
+      O troço final deixa a pista e segue um trilho pouco batido pelos canchais até à crista encimada por
+      marco geodésico. Do cume descortina-se uma vista ampla sobre as planícies toledanas, os picos distantes
+      da Serra de Gredos e o mar de colinas dos Montes de Toledo. O percurso dura cerca de três horas. Pode
+      regressar-se pelo mesmo caminho ou descer em circuito rumo ao parque de merendas de Baños del Sagrario.
+    history: >-
+      O Peñafiel conserva marcas do passado: vestígios de explorações de ferro da época romana, do século II
+      a.C., uma torre defensiva do século XIII erguida contra salteadores e incursões muçulmanas cujas ruínas
+      ladeiam o caminho principal, e uma longa tradição de pastoreio de verão e vigia militar.
+
+
+      O plano de gestão organiza o espaço Natura 2000 conciliando a conservação dos recursos com usos
+      compatíveis. As aves têm um peso primordial na cordilheira: o Parque Nacional de Cabañeros, a Serra de
+      San Pedro e a Serra de las Villuercas foram classificados como Zonas de Proteção Especial para as Aves.
+    before: >-
+      A rota do Peñafiel é de dificuldade baixa e sem grandes exigências técnicas, mas o último troço segue um
+      trilho pouco marcado. No verão o ribeiro do Trampal de la Hiruela costuma estar seco. As melhores épocas
+      são o outono e a primavera.
+    around: >-
+      A oeste estende-se o [Parque Nacional de Cabañeros](/lugar/parque-nacional-de-cabaneros/), enquanto mais
+      a sul ficam o [Parque Natural da Serra de Andújar](/lugar/parque-natural-sierra-de-andujar/) e o [Parque
+      Natural de Sierra Madrona e Vale de
+      Alcudia](/lugar/parque-natural-de-sierra-madrona-y-valle-de-alcudia/), santuários do lince-ibérico. Em
+      Portugal, a [Reserva Natural da Serra da Malcata](/lugar/reserva-natural-da-serra-da-malcata/) partilha
+      ações de conservação da espécie, e em Itália o [Parque Nacional de Abruzzo, Lazio e
+      Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) protege grandes carnívoros europeus.
+fuentes:
+  - url: https://www.castillalamancha.es/sites/default/files/documentos/paginas/archivos/doc_2_es4250005_es0000093_firmado.pdf
+    titulo: 'Plan de Gestión Montes de Toledo - Documento 2: Objetivos y medidas de conservación'
+    fecha_consulta: '2026-11-06'
+  - url: https://www.castillalamancha.es/sites/default/files/documentos/paginas/archivos/doc_3_es4250005_es0000093_anexo_firmado.pdf
+    titulo: Documento divulgativo del Plan de Gestión ZEC/ZEPA Montes de Toledo
+    fecha_consulta: '2026-11-06'
+  - url: https://www.castillalamancha.es/sites/default/files/documentos/paginas/archivos/doc_1_es4250005_es0000093_firmado.pdf
+    titulo: 'Plan de Gestión Montes de Toledo - Documento 1: Diagnóstico del espacio Natura 2000'
+    fecha_consulta: '2026-11-06'
+  - url: https://www.turismocastillalamancha.es/es/naturaleza/rutas/senderismo/ruta-de-ascenso-al-pico-pe-afiel
+    titulo: Ruta de ascenso al Pico Peñafiel - Turismo de Castilla-La Mancha
+    fecha_consulta: '2026-11-06'
+  - url: https://es.wikipedia.org/wiki/Montes_de_Toledo
+    titulo: Montes de Toledo - Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-11-06'
+  - url: https://es.wikipedia.org/wiki/Pico_Pe%C3%B1afiel
+    titulo: Pico Peñafiel - Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-11-06'
+  - url: https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE02-NAT-E-008617/conservation-of-the-iberian-lynx-in-montes-de-toledo-guadalmena
+    titulo: Conservation of the Iberian lynx in Montes de Toledo-Guadalmena | LIFE Public Database
+    fecha_consulta: '2026-11-06'

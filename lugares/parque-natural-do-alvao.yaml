@@ -1,0 +1,603 @@
+id: parque-natural-do-alvao
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Alvão
+  en: Alvão Nature Park
+  fr: Parc Naturel de l'Alvão
+  de: Naturpark Alvão
+  it: Parco Naturale dell'Alvão
+  pt: Parque Natural do Alvão
+nombre_original: Parque Natural do Alvão
+alias:
+  - Parque Natural do Alvão
+paises:
+  - PT
+region:
+  es: Norte de Portugal (Vila Real / Mondim de Basto)
+  en: Northern Portugal (Vila Real / Mondim de Basto)
+  fr: Nord du Portugal (Vila Real / Mondim de Basto)
+  de: Nordportugal (Vila Real / Mondim de Basto)
+  it: Portogallo settentrionale (Vila Real / Mondim de Basto)
+  pt: Norte de Portugal (Vila Real / Mondim de Basto)
+ubicacion:
+  tipo: punto
+  lat: 41.35
+  lon: -7.82
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 13989
+  nombre_en_la_fuente: Alvao
+  categoria_uicn: V
+  capa: capas/cdda/parque-natural-do-alvao.geojson
+habitats:
+  - high_mountain
+  - karst
+  - river_corridor
+  - mature_forest
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - canis_lupus
+  - salmo_trutta
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Media en la cascada de Fisgas do Ermelo
+  en: Moderate at the Fisgas do Ermelo waterfall
+  fr: Modérée à la cascade des Fisgas do Ermelo
+  de: Mäßig am Wasserfall Fisgas do Ermelo
+  it: Moderata alla cascata delle Fisgas do Ermelo
+  pt: Moderada na cascata das Fisgas do Ermelo
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — ICNF
+    url: https://www.icnf.pt/
+  - titulo: Visita y accesos — Parque Natural do Alvão (ICNF Natural.PT)
+    url: https://natural.pt/protected-areas/parque-natural-alvao
+  - titulo: Normas — Código de visita de las áreas protegidas del ICNF
+    url: https://resources.natural.pt/uploads/additional-information/2026/10/13/11/MVFWRS8SS5xDBMC4.pdf
+  - titulo: Rutas — Senderos del Parque Natural do Alvão (ICNF)
+    url: https://natural.pt/protected-areas/parque-natural-alvao/pathways
+resumen:
+  es: >-
+    Cascada monumental de Fisgas do Ermelo (caída de 200 m sobre esquistos de cuarcita) y aldeas serranas de
+    granito conservadas.
+  en: >-
+    The monumental Fisgas do Ermelo waterfall (a 200 m drop over quartzite schists) and well-preserved granite
+    mountain villages.
+  fr: >-
+    La cascade monumentale des Fisgas do Ermelo (chute de 200 m sur des schistes quartzitiques) et des
+    villages de montagne en granit bien conservés.
+  de: >-
+    Der monumentale Wasserfall Fisgas do Ermelo (200 m Fallhöhe über Quarzitschiefer) und gut erhaltene
+    Granitbergdörfer.
+  it: >-
+    La monumentale cascata delle Fisgas do Ermelo (caduta di 200 m su scisti quarzitico) e villaggi montani in
+    granito ben conservati.
+  pt: >-
+    A monumental cascata das Fisgas do Ermelo (queda de 200 m sobre xistos quartzíticos) e aldeias serranas de
+    granito bem conservadas.
+unico:
+  es: >-
+    Un río que se despeña 250 metros en 1500 por una cuarcita ordovícica y deja a su paso un parque entero
+    tallado por el agua.
+  en: >-
+    A river that plunges 250 metres over 1,500 metres of Ordovician quartzite and leaves in its wake an entire
+    park carved by water.
+  fr: >-
+    Une rivière qui se précipite 250 mètres sur 1 500 mètres de quartzite ordovicien et laisse dans son
+    sillage tout un parc taillé par l'eau.
+  de: >-
+    Ein Fluss, der 250 Meter über 1.500 Meter ordovizischen Quarzit stürzt und einen ganzen, vom Wasser
+    geformten Park hinterlässt.
+  it: >-
+    Un fiume che precipita 250 metri su 1.500 metri di quarzite ordoviciana e lascia nel suo scia un intero
+    parco scolpito dall'acqua.
+  pt: >-
+    Um rio que se precipita 250 metros em 1.500 metros de quartzito ordovícico e deixa no seu rasto um parque
+    inteiro talhado pela água.
+observaciones:
+  es: >-
+    Prepárate para tiempo cambiante: en las tierras altas hay nieve frecuente en invierno, y llueve mucho en
+    invierno. Las normas de visita de los espacios protegidos portugueses las recoge el código de visita del
+    ICNF, el organismo que lo gestiona.
+texto:
+  es:
+    intro: >-
+      Un río que baja de una meseta de granito, se topa con una barrera de cuarcita y decide caer. Así nacen
+      las Fisgas de Ermelo, y así se explica buena parte del parque. El Parque Natural del Alvão se reparte
+      entre las sierras de Alvão y Marão, en el norte de Portugal, y es el más pequeño de los parques
+      naturales del país: unos 72 km² con plataformas de montaña de entre 700 y 1300 metros, aldeas de piedra,
+      bancales y un agua que se oye en cualquier rincón.
+    landscape: >-
+      El parque es dos paisajes en uno. En el este, una meseta granítica alta, de pendientes suaves, donde el
+      Olo nace a 1280 metros y el granito se redondea en bolos que forman un paisaje agreste y caótico
+      alrededor de Lamas de Olo, Agarez y Arnal. En el oeste, la zona baja de esquisto, abrupta, con
+      desniveles de hasta ochocientos metros. Entre una y otra, el escalón: las Fisgas de Ermelo, donde el Olo
+      cruza cuarcitas ordovícicas y las cascadas descienden 250 metros a lo largo de 1500. El punto más alto
+      es el Alto das Caravelas, a 1339 m; el más bajo, a 260 m en el propio río.
+
+
+      El agua explica también el verde. La cuenca del Olo está abierta a las masas de aire húmedo del
+      Atlántico y recibe mucha lluvia en invierno, con nieve frecuente en las tierras altas y veranos cálidos
+      y secos; apenas hay mes seco. De ahí el paisaje verdejante y la capacidad de regeneración de la flora.
+
+
+      Esa humedad alimenta un mosaico de bosques. Por debajo de los 600 metros, en el lado atlántico, domina
+      el roble carballo, con castaño, acebo, majuelo y arándano. En las laderas al sur, los robles se mezclan
+      con alcornoque, madroño y laurel. En las cotas altas, de influencia continental, hay bosques mixtos de
+      roble carballo y rebollo, con abedules. En las riberas, aliso, fresno, sauce y helechos. En los terrenos
+      encharcados crece la rorela, una planta carnívora. En total el parque tiene unas 486 especies de
+      plantas, 25 de ellas endémicas ibéricas.
+    wildlife: >-
+      El parque es pequeño, pero guarda una fauna de montaña completa: unas doscientas especies animales, 117
+      de ellas estrictamente protegidas por el Convenio de Berna. El [lobo](/especie/canis_lupus/) encabeza la
+      lista de las más importantes para la conservación, junto con varios murciélagos, la culebrera europea y
+      el [halcón peregrino](/especie/falco_peregrinus/).
+
+
+      El río es el mejor sitio para empezar. Nutrias y truchas viven en el Olo, y en sus orillas se ven el
+      [mirlo acuático](/especie/cinclus_cinclus/), el [martín pescador](/especie/alcedo_atthis/) y el [desmán
+      ibérico](/especie/galemys_pyrenaicus/). La [trucha](/especie/salmo_trutta/) domina los tramos más
+      torrenciales; entre los anfibios y reptiles acuáticos están la salamandra rabilarga, el tritón ibérico,
+      la rana patilarga y el lagarto verdinegro. La [nutria](/especie/lutra_lutra/) completa el cuadro.
+
+
+      En los bosques, el [corzo](/especie/capreolus_capreolus/), el [gato montés](/especie/felis_silvestris/),
+      la [ardilla](/especie/sciurus_vulgaris/), la garduña, el turón y la [gineta](/especie/genetta_genetta/).
+      Y arriba, en los roquedos, la [chova piquirroja](/especie/pyrrhocorax_pyrrhocorax/), el [búho
+      real](/especie/bubo_bubo/), el roquero azul, el cuervo y el cernícalo, y en los matorrales del este
+      anidan el aguilucho cenizo y el aguilucho pálido. En la región hay águilas reales con parejas
+      nidificantes.
+    visit: >-
+      Hay una ruta que lo cuenta casi todo: el Circuito de Ermelo. Se puede iniciar entrando al parque desde
+      Mondim de Basto y siguiendo hasta la aldea de Ermelo. Desde allí continúa hacia Fojo y Varzigueto, donde
+      se contempla la caída del Olo por las Fisgas. El tramo de Varzigueto a Barreiro abre una panorámica
+      hacia el horizonte occidental, y el circuito regresa a Ermelo por el valle de la ribera de Fervença,
+      entre robles y alcornoques.
+
+
+      El circuito recorre la zona baja; la meseta granítica, la zona alta, corresponde a la freguesia de Lamas
+      de Olo.
+    history: >-
+      La vida de montaña aquí se organizó en torno al agua. En Fervença, Lamas de Olo y Ermelo hay sistemas de
+      levadas que captan agua a gran altura y la llevan por canales de piedra a los bancales. Los lameiros se
+      riegan con el sistema de rega de lima: en verano riega los pastos y en invierno protege las plantas de
+      las heladas. Los bancales se sostienen con muros de piedra suelta, y entre los oficios que aún se
+      practican están la cestería de castaño, los zuecos de aliso, los sombreros de paja y los tejidos de lana
+      y lino.
+
+
+      Mucho de esto está en retroceso. Muchas técnicas agrícolas tradicionales están en abandono por la
+      mecanización, el despoblamiento y el envejecimiento de la población. El parque se creó en 1983.
+    before: >-
+      Prepárate para tiempo cambiante: en las tierras altas hay nieve frecuente en invierno, y llueve mucho en
+      invierno. Las normas de visita de los espacios protegidos portugueses las recoge el código de visita del
+      ICNF, el organismo que lo gestiona.
+    around: >-
+      No hay otros lugares del atlas cerca. A distancia comparten rorela y trucha el [Parque Nacional de
+      Aigüestortes i Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/), y
+      rorela y nutria, [Achill Island](/lugar/achill-island/).
+  en:
+    intro: >-
+      A river descends from a granite plateau, meets a quartzite barrier and decides to fall. That is how the
+      Fisgas de Ermelo are born, and how much of the park is explained. The Alvão Nature Park spreads across
+      the Alvão and Marão ranges in northern Portugal, the smallest of the country's nature parks: some 72 km²
+      of mountain platforms between 700 and 1,300 metres, stone villages, terraced fields and water audible in
+      every corner.
+    landscape: >-
+      The park is two landscapes in one. To the east, a high granite plateau with gentle slopes, where the Olo
+      rises at 1,280 metres and the granite rounds into boulders that form a rugged, chaotic landscape around
+      Lamas de Olo, Agarez and Arnal. To the west, the low schist zone, abrupt, with drops of up to eight
+      hundred metres. Between the two, the step: the Fisgas de Ermelo, where the Olo crosses Ordovician
+      quartzites and the waterfalls descend 250 metres over 1,500 metres. The highest point is Alto das
+      Caravelas at 1,339 m; the lowest at 260 m at the river itself.
+
+
+      Water also explains the green. The Olo basin is open to Atlantic humid air masses and receives heavy
+      rainfall in winter, with frequent snow on the highlands and warm, dry summers; barely a dry month. Hence
+      the verdant landscape and the flora's regenerative capacity.
+
+
+      That moisture feeds a mosaic of forests. Below 600 metres, on the Atlantic side, the pedunculate oak
+      dominates, with chestnut, holly, hawthorn and bilberry. On the south-facing slopes, oaks mix with cork
+      oak, strawberry tree and laurel. At higher altitudes, under continental influence, there are mixed
+      forests of pedunculate and pyrenean oak with birches. On the riverbanks, alder, ash, willow and ferns.
+      In waterlogged terrain, the sundew grows — a carnivorous plant. In total the park has some 486 plant
+      species, 25 of them Iberian endemics.
+    wildlife: >-
+      The park is small but holds a complete mountain fauna: some two hundred animal species, 117 of them
+      strictly protected under the Berne Convention. The [wolf](/especie/canis_lupus/) heads the list of those
+      most important for conservation, along with several bats, the European short-toed snake eagle and the
+      [peregrine falcon](/especie/falco_peregrinus/).
+
+
+      The river is the best place to start. Otters and trout live in the Olo, and on its banks one finds the
+      [dipper](/especie/cinclus_cinclus/), the [common kingfisher](/especie/alcedo_atthis/) and the [Iberian
+      desman](/especie/galemys_pyrenaicus/). The [brown trout](/especie/salmo_trutta/) dominates the most
+      torrential stretches; among the aquatic amphibians and reptiles are the Bosca's newt, the Iberian newt,
+      the Iberian frog and the Schreiber's lizard. The [otter](/especie/lutra_lutra/) completes the picture.
+
+
+      In the forests, the [roe deer](/especie/capreolus_capreolus/), the
+      [wildcat](/especie/felis_silvestris/), the [red squirrel](/especie/sciurus_vulgaris/), the stone marten,
+      the polecat and the [common genet](/especie/genetta_genetta/). And above, on the crags, the [red-billed
+      chough](/especie/pyrrhocorax_pyrrhocorax/), the [eagle owl](/especie/bubo_bubo/), the blue rock thrush,
+      the raven and the kestrel, and in the eastern scrubland the Montagu's harrier and the pallid harrier
+      nest. In the region there are golden eagles with nesting pairs.
+    visit: >-
+      There is a route that tells almost everything: the Circuito de Ermelo. It can be started by entering the
+      park from Mondim de Basto and following the road to the village of Ermelo. From there it continues
+      towards Fojo and Varzigueto, where the fall of the Olo over the Fisgas can be seen. The stretch from
+      Varzigueto to Barreiro opens a panorama towards the western horizon, and the circuit returns to Ermelo
+      through the valley of the Fervença stream, among oaks and cork oaks.
+
+
+      The circuit covers the lower zone; the granite plateau, the upper zone, corresponds to the parish of
+      Lamas de Olo.
+    history: >-
+      Mountain life here was organised around water. In Fervença, Lamas de Olo and Ermelo there are levada
+      systems that capture water at high altitude and channel it through stone channels to the terraces. The
+      lameiros are irrigated with the rega de lima system: in summer it irrigates the pastures and in winter
+      it protects the plants from frost. The terraces are supported by dry-stone walls, and among the crafts
+      still practised are chestnut basketry, alder clogs, straw hats and wool and linen weaving.
+
+
+      Much of this is in retreat. Many traditional farming techniques are being abandoned due to
+      mechanisation, depopulation and the ageing of the population. The park was created in 1983.
+    before: >-
+      Be prepared for changeable weather: in the highlands there is frequent snow in winter, and heavy
+      rainfall in winter. The visit rules for Portuguese protected areas are set out in the ICNF visitor code,
+      the managing body.
+    around: >-
+      There are no other atlas sites nearby. At a distance, [Aigüestortes i Estany de Sant Maurici National
+      Park](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) shares sundew and trout, and
+      [Achill Island](/lugar/achill-island/) shares sundew and otter.
+  fr:
+    intro: >-
+      Une rivière descend d'un plateau granitique, rencontre une barrière de quartzite et décide de tomber.
+      C'est ainsi que naissent les Fisgas de Ermelo, et c'est ainsi que l'on explique une grande partie du
+      parc. Le Parc Naturel de l'Alvão s'étend sur les sierras d'Alvão et de Marão, dans le nord du Portugal,
+      le plus petit des parcs naturels du pays : environ 72 km² de plateaux de montagne entre 700 et 1 300
+      mètres, villages de pierre, terrasses et une eau que l'on entend dans chaque recoin.
+    landscape: >-
+      Le parc réunit deux paysages. À l'est, un haut plateau granitique aux pentes douces, où l'Olo prend sa
+      source à 1 280 mètres et le granit s'arrondit en blocs formant un paysage sauvage et chaotique autour de
+      Lamas de Olo, Agarez et Arnal. À l'ouest, la zone basse de schiste, abrupte, avec des dénivelés allant
+      jusqu'à huit cents mètres. Entre les deux, le gradin : les Fisgas de Ermelo, où l'Olo traverse des
+      quartzites ordoviciens et les cascades descendent 250 mètres sur 1 500 mètres. Le point le plus haut est
+      l'Alto das Caravelas à 1 339 m ; le plus bas à 260 m au niveau de la rivière elle-même.
+
+
+      L'eau explique aussi le vert. Le bassin de l'Olo est ouvert aux masses d'air humide atlantiques et
+      reçoit de fortes pluies en hiver, avec des neiges fréquentes sur les hauteurs et des étés chauds et secs
+      ; à peine un mois sec. D'où le paysage verdoyant et la capacité de régénération de la flore.
+
+
+      Cette humidité nourrit une mosaïque de forêts. En dessous de 600 mètres, côté atlantique, le chêne
+      pédonculé domine, avec le châtaignier, le houx, l'aubépine et l'airelle. Sur les versants exposés au
+      sud, les chênes se mêlent au chêne-liège, à l'arbousier et au laurier. En altitude, sous influence
+      continentale, il y a des forêts mixtes de chêne pédonculé et de chêne tauzin avec des bouleaux. Sur les
+      berges, l'aulne, le frêne, le saule et les fougères. Sur les terrains inondés pousse la rossolis, une
+      plante carnivore. Au total, le parc compte quelque 486 espèces végétales, dont 25 endémiques ibériques.
+    wildlife: >-
+      Le parc est petit, mais abrite une faune de montagne complète : environ deux cents espèces animales,
+      dont 117 strictement protégées par la Convention de Berne. Le [loup](/especie/canis_lupus/) est en tête
+      de liste des plus importantes pour la conservation, avec plusieurs chauves-souris, le circaète
+      Jean-le-Blanc et le [faucon pèlerin](/especie/falco_peregrinus/).
+
+
+      La rivière est le meilleur endroit pour commencer. Loutres et truites vivent dans l'Olo, et sur ses
+      rives on observe le [cincle plongeur](/especie/cinclus_cinclus/), le
+      [martin-pêcheur](/especie/alcedo_atthis/) et le [desman des Pyrénées](/especie/galemys_pyrenaicus/). La
+      [truite](/especie/salmo_trutta/) domine les tronçons les plus torrentiels ; parmi les amphibiens et
+      reptiles aquatiques se trouvent le triton de Bosca, le triton ibérique, la grenouille ibérique et le
+      lézard schreiber. La [loutre](/especie/lutra_lutra/) complète le tableau.
+
+
+      Dans les forêts, le [chevreuil](/especie/capreolus_capreolus/), le [chat
+      sauvage](/especie/felis_silvestris/), l'[écureuil roux](/especie/sciurus_vulgaris/), la fouine, le
+      putois et la [genette commune](/especie/genetta_genetta/). Et en hauteur, sur les rochers, le [crave à
+      bec rouge](/especie/pyrrhocorax_pyrrhocorax/), le [grand-duc d'Europe](/especie/bubo_bubo/), le
+      monticole bleu, le corbeau et le faucon crécerelle, et dans les garrigues de l'est nichent le busard
+      cendré et le busard pâle. Dans la région, des aigles royaux avec des couples nicheurs.
+    visit: >-
+      Il existe un circuit qui raconte presque tout : le Circuito de Ermelo. On peut le commencer en entrant
+      dans le parc depuis Mondim de Basto et en suivant la route jusqu'au village d'Ermelo. De là, il continue
+      vers Fojo et Varzigueto, d'où l'on contemple la chute de l'Olo par les Fisgas. Le tronçon de Varzigueto
+      à Barreiro ouvre un panorama vers l'horizon occidental, et le circuit revient à Ermelo par la vallée du
+      ruisseau Fervença, entre chênes et chênes-lièges.
+
+
+      Le circuit parcourt la zone basse ; le plateau granitique, la zone haute, correspond à la paroisse de
+      Lamas de Olo.
+    history: >-
+      La vie de montagne s'est organisée ici autour de l'eau. À Fervença, Lamas de Olo et Ermelo, il existe
+      des systèmes de levadas qui captent l'eau en altitude et la conduisent par des canaux de pierre
+      jusqu'aux terrasses. Les lameiros sont irrigués par le système de rega de lima : en été, il irrigue les
+      pâturages et en hiver, il protège les plantes du gel. Les terrasses sont soutenues par des murs en
+      pierre sèche, et parmi les métiers encore pratiqués figurent la vannerie en châtaignier, les sabots en
+      aulne, les chapeaux de paille et le tissage de laine et de lin.
+
+
+      Tout cela est en recul. De nombreuses techniques agricoles traditionnelles sont abandonnées en raison de
+      la mécanisation, du dépeuplement et du vieillissement de la population. Le parc a été créé en 1983.
+    before: >-
+      Préparez-vous à un temps changeant : sur les hauteurs, il y a souvent de la neige en hiver et beaucoup
+      de pluie. Les règles de visite des espaces protégés portugais sont consignées dans le code de visite de
+      l'ICNF, l'organisme gestionnaire.
+    around: >-
+      Il n'y a pas d'autres sites de l'atlas à proximité. À distance, le [Parc national d'Aigüestortes i
+      Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) partage rossolis
+      et truite, et [Achill Island](/lugar/achill-island/) partage rossolis et loutre.
+  de:
+    intro: >-
+      Ein Fluss steigt von einem Granitplateau herab, trifft auf eine Quarzitbarriere und entscheidet sich zu
+      fallen. So entstehen die Fisgas de Ermelo, und so lässt sich ein Großteil des Parks erklären. Der
+      Naturpark Alvão erstreckt sich über die Gebirge Alvão und Marão im Norden Portugals, der kleinste der
+      Naturparks des Landes: rund 72 km² Bergplateaus zwischen 700 und 1.300 Metern, Steindörfer, Terrassen
+      und ein Wasser, das an jeder Ecke zu hören ist.
+    landscape: >-
+      Der Park ist zwei Landschaften in einer. Im Osten ein hohes Granitplateau mit sanften Hängen, wo der Olo
+      auf 1.280 Metern entspringt und der Granit sich zu Felsblöcken rundet, die rund um Lamas de Olo, Agarez
+      und Arnal eine raue, chaotische Landschaft bilden. Im Westen die tiefere Schieferzone, steil, mit
+      Höhenunterschieden von bis zu achthundert Metern. Zwischen beiden der Absatz: die Fisgas de Ermelo, wo
+      der Olo ordovizische Quarzite quert und die Wasserfälle 250 Meter über 1.500 Meter hinabstürzen. Der
+      höchste Punkt ist Alto das Caravelas auf 1.339 m; der tiefste bei 260 m am Fluss selbst.
+
+
+      Das Wasser erklärt auch das Grün. Das Einzugsgebiet des Olo ist dem feuchten Atlantikluft ausgesetzt und
+      erhält im Winter viel Regen, mit häufigem Schnee im Hochland und warmen, trockenen Sommern; kaum ein
+      trockener Monat. Daher die grüne Landschaft und die Regenerationsfähigkeit der Flora.
+
+
+      Diese Feuchtigkeit nährt ein Mosaik aus Wäldern. Unterhalb von 600 Metern, auf der Atlantikseite,
+      dominiert die Stieleiche mit Kastanie, Stechpalme, Weißdorn und Heidelbeere. An den südexponierten
+      Hängen mischen sich Eichen mit Korkeiche, Erdbeerbaum und Lorbeer. In höheren Lagen, unter kontinentalem
+      Einfluss, gibt es Mischwälder aus Stiel- und Traubeneiche mit Birken. An den Flussufern Erle, Esche,
+      Weide und Farne. Auf vernässtem Gelände wächst der Sonnentau — eine fleischfressende Pflanze. Insgesamt
+      hat der Park rund 486 Pflanzenarten, 25 davon iberische Endemiten.
+    wildlife: >-
+      Der Park ist klein, beherbergt aber eine vollständige Bergfauna: rund zweihundert Tierarten, 117 davon
+      streng durch die Berner Konvention geschützt. Der [Wolf](/especie/canis_lupus/) steht an der Spitze der
+      Liste der für den Naturschutz wichtigsten Arten, zusammen mit mehreren Fledermäusen, dem Schlangenadler
+      und dem [Wanderfalken](/especie/falco_peregrinus/).
+
+
+      Der Fluss ist der beste Ausgangspunkt. Otter und Forellen leben im Olo, und an seinen Ufern sieht man
+      die [Wasseramsel](/especie/cinclus_cinclus/), den [Eisvogel](/especie/alcedo_atthis/) und den
+      [Pyrenäen-Desman](/especie/galemys_pyrenaicus/). Die [Bachforelle](/especie/salmo_trutta/) dominiert die
+      reißendsten Abschnitte; zu den Wasseramphibien und -reptilien zählen der Bosca-Molch, der Iberische
+      Molch, der Iberische Frosch und der Schreiber-Eidechse. Der [Fischotter](/especie/lutra_lutra/)
+      vervollständigt das Bild.
+
+
+      In den Wäldern: das [Reh](/especie/capreolus_capreolus/), die [Wildkatze](/especie/felis_silvestris/),
+      das [Eichhörnchen](/especie/sciurus_vulgaris/), der Steinmarder, der Iltis und die
+      [Ginsterkatze](/especie/genetta_genetta/). Und oben, an den Felsen, der
+      [Alpenkrähe](/especie/pyrrhocorax_pyrrhocorax/), der [Uhu](/especie/bubo_bubo/), der Blaumerle, der Rabe
+      und der Turmfalke, und in dem östlichen Gestrüpp nisten der Wiesenweihe und der Steppenweihe. In der
+      Region gibt es Steinadler mit Brutpaaren.
+    visit: >-
+      Es gibt eine Route, die fast alles erzählt: den Circuito de Ermelo. Man kann ihn beginnen, indem man den
+      Park von Mondim de Basto aus betritt und dem Weg bis zum Dorf Ermelo folgt. Von dort aus führt er weiter
+      nach Fojo und Varzigueto, wo man den Fall des Olo durch die Fisgas betrachten kann. Der Abschnitt von
+      Varzigueto nach Barreiro öffnet ein Panorama zum westlichen Horizont, und der Rundweg kehrt nach Ermelo
+      durch das Tal des Fervença-Bachs zurück, durch Eichen und Korkeichen.
+
+
+      Der Rundweg erschließt die untere Zone; das Granitplateau, die obere Zone, entspricht der Pfarrgemeinde
+      Lamas de Olo.
+    history: >-
+      Das Bergleben organisierte sich hier um das Wasser. In Fervença, Lamas de Olo und Ermelo gibt es
+      Levada-Systeme, die Wasser in großer Höhe fassen und über Steinkanäle zu den Terrassen leiten. Die
+      Lameiros werden mit dem Rega-de-Lima-System bewässert: Im Sommer bewässert es die Weiden und im Winter
+      schützt es die Pflanzen vor Frost. Die Terrassen werden von Trockensteinmauern gestützt, und zu den noch
+      praktizierten Handwerken zählen die Kastanienkorbflechterei, Erlenholzschuhe, Strohhüte und Woll- und
+      Leinenweberei.
+
+
+      Vieles davon ist im Rückgang. Viele traditionelle Landwirtschaftstechniken werden durch Mechanisierung,
+      Entvölkerung und Überalterung der Bevölkerung aufgegeben. Der Park wurde 1983 gegründet.
+    before: >-
+      Bereiten Sie sich auf wechselhaftes Wetter vor: Im Hochland gibt es im Winter häufig Schnee und starke
+      Regenfälle. Die Besuchsregeln für portugiesische Schutzgebiete sind im ICNF-Besuchercode der
+      Verwaltungsbehörde festgelegt.
+    around: >-
+      Es gibt keine anderen Atlas-Standorte in der Nähe. In der Ferne teilen der [Nationalpark Aigüestortes i
+      Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) Sonnentau und
+      Forelle, und [Achill Island](/lugar/achill-island/) Sonnentau und Otter.
+  it:
+    intro: >-
+      Un fiume scende da un altopiano granitico, incontra una barriera di quarzite e decide di cadere. Così
+      nascono le Fisgas de Ermelo, e così si spiega gran parte del parco. Il Parco Naturale dell'Alvão si
+      estende sulle sierras di Alvão e Marão, nel nord del Portogallo, il più piccolo dei parchi naturali del
+      paese: circa 72 km² di piattaforme montane tra 700 e 1.300 metri, villaggi di pietra, terrazze e
+      un'acqua che si sente in ogni angolo.
+    landscape: >-
+      Il parco è due paesaggi in uno. A est, un alto altopiano granitico con pendii dolci, dove l'Olo nasce a
+      1.280 metri e il granito si arrotonda in massi che formano un paesaggio aspro e caotico intorno a Lamas
+      de Olo, Agarez e Arnal. A ovest, la zona bassa di scisto, scoscesa, con dislivelli fino a ottocento
+      metri. Tra le due, lo scalino: le Fisgas de Ermelo, dove l'Olo attraversa quarziti ordoviciane e le
+      cascate scendono 250 metri su 1.500 metri. Il punto più alto è l'Alto das Caravelas a 1.339 m; il più
+      basso a 260 m nel fiume stesso.
+
+
+      L'acqua spiega anche il verde. Il bacino dell'Olo è aperto alle masse d'aria umida atlantica e riceve
+      molta pioggia in inverno, con neve frequente sulle terre alte ed estati calde e secche; quasi nessun
+      mese secco. Da qui il paesaggio verdeggiante e la capacità di rigenerazione della flora.
+
+
+      Quell'umidità alimenta un mosaico di foreste. Al di sotto dei 600 metri, sul lato atlantico, domina la
+      farnia con castagno, agrifoglio, biancospino e mirtillo. Sui versanti rivolti a sud, le querce si
+      mescolano con la sughera, il corbezzolo e l'alloro. Alle quote alte, sotto influenza continentale, ci
+      sono foreste miste di farnia e rovere con betulle. Sulle rive, ontano, frassino, salice e felci. Sui
+      terreni acquitrinosi cresce la drosera — una pianta carnivora. In totale il parco ha circa 486 specie
+      vegetali, 25 delle quali endemiche iberiche.
+    wildlife: >-
+      Il parco è piccolo, ma ospita una fauna montana completa: circa duecento specie animali, 117 delle quali
+      strettamente protette dalla Convenzione di Berna. Il [lupo](/especie/canis_lupus/) è in cima alla lista
+      delle più importanti per la conservazione, insieme a diversi pipistrelli, al biancone e al [falco
+      pellegrino](/especie/falco_peregrinus/).
+
+
+      Il fiume è il posto migliore da cui iniziare. Lontre e trote vivono nell'Olo, e sulle sue rive si vedono
+      il [merlo acquaiolo](/especie/cinclus_cinclus/), il [martin pescatore](/especie/alcedo_atthis/) e il
+      [desmano dei Pirenei](/especie/galemys_pyrenaicus/). La [trota](/especie/salmo_trutta/) domina i tratti
+      più torrentizi; tra gli anfibi e rettili acquatici ci sono il tritone di Bosca, il tritone iberico, la
+      rana iberica e il lacerto di Schreiber. La [lontra](/especie/lutra_lutra/) completa il quadro.
+
+
+      Nei boschi, il [capriolo](/especie/capreolus_capreolus/), il [gatto
+      selvatico](/especie/felis_silvestris/), lo [scoiattolo rosso](/especie/sciurus_vulgaris/), la faina, il
+      puzzola e la [genetta comune](/especie/genetta_genetta/). E in alto, sulle rupi, il [gracchio
+      corallino](/especie/pyrrhocorax_pyrrhocorax/), il [gufo reale](/especie/bubo_bubo/), il passero
+      solitario, il corvo e il gheppio, e nelle macchie orientali nidificano il falco di palude e l'albanella
+      pallida. Nella regione ci sono aquile reali con coppie nidificanti.
+    visit: >-
+      C'è un percorso che racconta quasi tutto: il Circuito de Ermelo. Si può iniziare entrando nel parco da
+      Mondim de Basto e seguendo fino al villaggio di Ermelo. Da lì prosegue verso Fojo e Varzigueto, dove si
+      contempla la caduta dell'Olo attraverso le Fisgas. Il tratto da Varzigueto a Barreiro apre un panorama
+      verso l'orizzonte occidentale, e il circuito ritorna a Ermelo attraverso la valle del torrente Fervença,
+      tra querce e sughere.
+
+
+      Il circuito percorre la zona bassa; l'altopiano granitico, la zona alta, corrisponde alla parrocchia di
+      Lamas de Olo.
+    history: >-
+      La vita di montagna qui si è organizzata attorno all'acqua. A Fervença, Lamas de Olo e Ermelo ci sono
+      sistemi di levadas che captano acqua a grande altezza e la convogliano attraverso canali di pietra alle
+      terrazze. I lameiros sono irrigati con il sistema di rega de lima: in estate irriga i pascoli e in
+      inverno protegge le piante dal gelo. Le terrazze sono sostenute da muri a secco, e tra i mestieri ancora
+      praticati ci sono la cesteria di castagno, gli zoccoli di ontano, i cappelli di paglia e i tessuti di
+      lana e lino.
+
+
+      Molto di questo è in declino. Molte tecniche agricole tradizionali vengono abbandonate per la
+      meccanizzazione, lo spopolamento e l'invecchiamento della popolazione. Il parco fu creato nel 1983.
+    before: >-
+      Preparati al tempo variabile: nelle terre alte c'è neve frequente in inverno e molta pioggia. Le norme
+      di visita degli spazi protetti portoghesi sono raccolte nel codice di visita dell'ICNF, l'ente gestore.
+    around: >-
+      Non ci sono altri siti dell'atlas nelle vicinanze. A distanza condividono drosera e trota il [Parco
+      Nazionale di Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/), e drosera e lontra [Achill
+      Island](/lugar/achill-island/).
+  pt:
+    intro: >-
+      Um rio desce de um planalto granítico, encontra uma barreira de quartzito e decide cair. Assim nascem as
+      Fisgas de Ermelo, e assim se explica grande parte do parque. O Parque Natural do Alvão estende-se pelas
+      serras do Alvão e do Marão, no norte de Portugal, o mais pequeno dos parques naturais do país: cerca de
+      72 km² de plataformas de montanha entre 700 e 1.300 metros, aldeias de pedra, socalcos e uma água que se
+      ouve em qualquer recanto.
+    landscape: >-
+      O parque é duas paisagens numa. A leste, um alto planalto granítico de pendentes suaves, onde o Olo
+      nasce a 1.280 metros e o granito se redonda em penedos que formam uma paisagem agreste e caótica em
+      torno de Lamas de Olo, Agarez e Arnal. A oeste, a zona baixa de xisto, abrupta, com desníveis de até
+      oitocentos metros. Entre uma e outra, o degrau: as Fisgas de Ermelo, onde o Olo cruza quartzitos
+      ordovícicos e as cascatas descem 250 metros ao longo de 1.500 metros. O ponto mais alto é o Alto das
+      Caravelas, a 1.339 m; o mais baixo, a 260 m no próprio rio.
+
+
+      A água explica também o verde. A bacia do Olo está aberta às massas de ar húmido do Atlântico e recebe
+      muita chuva no inverno, com neve frequente nas terras altas e verões quentes e secos; quase sem mês
+      seco. Daí a paisagem verdejante e a capacidade de regeneração da flora.
+
+
+      Essa humidade alimenta um mosaico de florestas. Abaixo dos 600 metros, no lado atlântico, domina o
+      carvalho-alvarinho, com castanheiro, azevinho, pilriteiro e mirtilo. Nas encostas a sul, os carvalhos
+      misturam-se com o sobreiro, o medronheiro e o loureiro. Nas cotas altas, de influência continental, há
+      florestas mistas de carvalho-alvarinho e carvalho-negral com bétulas. Nas margens dos rios, amieiro,
+      freixo, salgueiro e fetos. Em terrenos encharcados cresce a orvalha — uma planta carnívora. No total o
+      parque tem cerca de 486 espécies de plantas, 25 delas endémicas ibéricas.
+    wildlife: >-
+      O parque é pequeno, mas guarda uma fauna de montanha completa: cerca de duzentas espécies animais, 117
+      delas estritamente protegidas pela Convenção de Berna. O [lobo](/especie/canis_lupus/) encabeça a lista
+      das mais importantes para a conservação, juntamente com vários morcegos, a águia-cobreira e o
+      [falcão-peregrino](/especie/falco_peregrinus/).
+
+
+      O rio é o melhor sítio para começar. Lontras e trutas vivem no Olo, e nas suas margens veem-se o
+      [melro-d'água](/especie/cinclus_cinclus/), o [guarda-rios](/especie/alcedo_atthis/) e o
+      [toupeira-de-água](/especie/galemys_pyrenaicus/). A [truta](/especie/salmo_trutta/) domina os troços
+      mais torrenciais; entre os anfíbios e répteis aquáticos estão o tritão-de-Bosca, o tritão-ibérico, a
+      rã-ibérica e o lagarto-de-Schreiber. A [lontra](/especie/lutra_lutra/) completa o quadro.
+
+
+      Nas florestas, o [corço](/especie/capreolus_capreolus/), o [gato-bravo](/especie/felis_silvestris/), o
+      [esquilo-vermelho](/especie/sciurus_vulgaris/), a fuinha, o toirão e a
+      [gineta](/especie/genetta_genetta/). E acima, nos penhascos, a
+      [gralha-de-bico-vermelho](/especie/pyrrhocorax_pyrrhocorax/), o [bufo-real](/especie/bubo_bubo/), o
+      melro-azul, o corvo e o peneireiro, e nos matos do leste nidificam o tartaranhão-caçador e o
+      tartaranhão-pálido. Na região há águias-reais com casais nidificantes.
+    visit: >-
+      Há um percurso que conta quase tudo: o Circuito de Ermelo. Pode iniciar-se entrando no parque por Mondim
+      de Basto e seguindo até à aldeia de Ermelo. Dali continua para Fojo e Varzigueto, donde se contempla a
+      queda do Olo pelas Fisgas. O troço de Varzigueto a Barreiro abre uma panorâmica para o horizonte
+      ocidental, e o circuito regressa a Ermelo pelo vale da ribeira da Fervença, entre carvalhos e sobreiros.
+
+
+      O circuito percorre a zona baixa; o planalto granítico, a zona alta, corresponde à freguesia de Lamas de
+      Olo.
+    history: >-
+      A vida de montanha aqui organizou-se em torno da água. Em Fervença, Lamas de Olo e Ermelo há sistemas de
+      levadas que captam água a grande altitude e a levam por canais de pedra aos socalcos. Os lameiros são
+      regados com o sistema de rega de lima: no verão rega os pastos e no inverno protege as plantas das
+      geadas. Os socalcos são suportados por muros de pedra solta, e entre os ofícios ainda praticados estão a
+      cestaria de castanheiro, os tamancos de amieiro, os chapéus de palha e os tecidos de lã e linho.
+
+
+      Muito disto está em retrocesso. Muitas técnicas agrícolas tradicionais estão em abandono pela
+      mecanização, o despovoamento e o envelhecimento da população. O parque foi criado em 1983.
+    before: >-
+      Prepara-te para tempo variável: nas terras altas há neve frequente no inverno e chuva intensa. As normas
+      de visita dos espaços protegidos portugueses constam do código de visita do ICNF, o organismo gestor.
+    around: >-
+      Não há outros lugares do atlas nas proximidades. À distância partilham orvalha e truta o [Parque
+      Nacional de Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/), e orvalha e lontra [Achill
+      Island](/lugar/achill-island/).
+fuentes:
+  - url: https://www.icnf.pt/api/file/doc/24ea71d05d0d6b60
+    titulo: Plano de Ordenamento do Parque Natural do Alvão
+    fecha_consulta: '2026-11-05'
+  - url: https://resources.natural.pt/uploads/additional-information/2019/06/12/08/tvI18TG31eUZxwsW.pdf
+    titulo: Parque Natural do Alvão — Natural.pt
+    fecha_consulta: '2026-11-05'
+  - url: https://www.visitportugal.com/pt-pt/NR/exeres/EF2AB0A2-6F3B-4A30-9624-EBACEFA90502
+    titulo: Circuito de Ermelo — Visit Portugal
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Parque_Natural_do_Alv%C3%A3o
+    titulo: Parque Natural do Alvão — Wikipédia
+    fecha_consulta: '2026-11-05'
+  - url: https://en.wikipedia.org/wiki/Alv%C3%A3o_Natural_Park
+    titulo: Alvão Natural Park — Wikipedia
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parque_Natural_do_Alv%C3%A3o_1.JPG
+    autor: Ricardo Oliveira
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

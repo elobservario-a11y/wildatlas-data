@@ -1,0 +1,629 @@
+id: nationalpark-schwarzwald
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de la Selva Negra
+  en: Black Forest National Park
+  fr: Parc national de la Forêt-Noire
+  de: Nationalpark Schwarzwald
+  it: Parco Nazionale della Foresta Nera
+  pt: Parque Nacional da Floresta Negra
+nombre_original: Nationalpark Schwarzwald
+alias:
+  - Schwarzwald Wilderness & High Ridge (Nationalpark Schwarzwald & Biosphärengebiet Schwarzwald)
+paises:
+  - DE
+region:
+  es: Baden-Wurtemberg (Freudenstadt / Baden-Baden)
+  en: Baden-Württemberg (Freudenstadt / Baden-Baden)
+  fr: Bade-Wurtemberg (Freudenstadt / Baden-Baden)
+  de: Baden-Württemberg (Freudenstadt / Baden-Baden)
+  it: Baden-Württemberg (Freudenstadt / Baden-Baden)
+  pt: Bade-Vurtemberga (Freudenstadt / Baden-Baden)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.55
+  lon: 8.22
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555558886
+  nombre_en_la_fuente: Schwarzwald
+  categoria_uicn: II
+  capa: capas/cdda/nationalpark-schwarzwald.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+  - lake
+designaciones:
+  - national_park
+  - biosphere_reserve
+  - natura2000
+  - iucn_ii
+especies:
+  - felis_silvestris
+  - tetrao_urogallus
+  - cervus_elaphus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la Schwarzwaldhochstraße y lago Mummelsee; baja en la zona de reserva estricta de Ruhestein
+  en: Moderate along the Schwarzwaldhochstraße and Lake Mummelsee; low in the Ruhestein strict reserve zone
+  fr: >-
+    Moyenne sur la Schwarzwaldhochstraße et au lac Mummelsee ; faible dans la zone de réserve intégrale du
+    Ruhestein
+  de: Mäßig an der Schwarzwaldhochstraße und am Mummelsee; gering in der Kernzone Ruhestein
+  it: >-
+    Media lungo la Schwarzwaldhochstraße e al lago Mummelsee; bassa nella zona di riserva integrale di
+    Ruhestein
+  pt: Média na Schwarzwaldhochstraße e no lago Mummelsee; baixa na reserva estrita de Ruhestein
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Nationalpark Schwarzwald Official
+    url: https://www.nationalpark-schwarzwald.de/
+  - titulo: Normas — Reglas para visitar el parque
+    url: https://www.nationalpark-schwarzwald.de/nationalpark/regeln-tipps/regeln-im-park
+  - titulo: Avisos — Cierres de senderos
+    url: https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/wegesperrungen
+  - titulo: Rutas — Recorrer el parque
+    url: https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park
+  - titulo: Centro de visitantes — Nationalparkzentrum
+    url: https://www.nationalpark-schwarzwald.de/erleben/nationalparkzentrum
+  - titulo: Accesos — Llegada y contacto
+    url: https://www.nationalpark-schwarzwald.de/anreise-kontakt
+resumen:
+  es: >-
+    El primer Parque Nacional de Baden-Wurtemberg (creado en 2014), protegiendo abetales y piceales salvajes
+    sobre crestas de arenisca roja.
+  en: >-
+    Baden-Württemberg's first National Park (created in 2014), protecting wild spruce and fir woodlands along
+    red sandstone ridges.
+  fr: >-
+    Le premier parc national du Bade-Wurtemberg (créé en 2014), protégeant sapinières et pessières sauvages
+    sur crêtes de grès rose.
+  de: >-
+    Der erste Nationalpark Baden-Württembergs (gegründet 2014) schützt urwüchsige Fichten-Tannenwälder auf
+    Buntsandsteinrücken.
+  it: >-
+    Il primo Parco Nazionale del Baden-Württemberg (istituito nel 2014), a tutela di abetine e peccete vergini
+    su dorsali di arenaria rossa.
+  pt: >-
+    O primeiro Parque Nacional de Bade-Vurtemberga (criado em 2014), protegendo abetais e pinhais bravios
+    sobre cristas de grés vermelho.
+unico:
+  es: >-
+    Un bosque dominado por la pícea se transforma ante tus ojos en bosque salvaje, y entre sus árboles caídos
+    aún queda sitio para el urogallo y el rastro de un lince.
+  en: >-
+    A forest dominated by spruce transforms before your eyes into wild woodland, and among fallen logs there
+    remains space for the capercaillie and the tracks of a lynx.
+  fr: >-
+    Une forêt dominée par l'épicéa se transforme sous vos yeux en forêt sauvage, et entre les troncs abattus
+    subsiste un espace pour le grand tétras et l'empreinte d'un lynx.
+  de: >-
+    Ein fichtendominierter Wald wandelt sich vor deinen Augen in wilden Urwald, und zwischen Totholzstämmen
+    bleibt Raum für das Auerhuhn und die Spur eines Luchses.
+  it: >-
+    Una foresta dominata dall'abete rosso si trasforma sotto i tuoi occhi in bosco selvaggio, e tra i tronchi
+    caduti c'è ancora posto per il gallo cedrone e le orme della lince.
+  pt: >-
+    Uma floresta dominada pelo espruce transforma-se perante os teus olhos em bosque virgem, e entre troncos
+    tombados resta refúgio para o tetraz e o rasto de um lince.
+observaciones:
+  es: >-
+    Hay que quedarse en los caminos señalizados para no molestar a la fauna y consultar los cierres de
+    temporada antes de salir. Los perros van con correa. Están prohibidos el fuego y fumar, y también recoger
+    leña, plantas, partes de plantas o setas. No se puede entrar en los arroyos, ríos y lagos del parque, ni
+    nadando ni a pie: son biotopos escasos y sensibles.
+texto:
+  es:
+    intro: >-
+      En el Wildnispfad, los árboles que derribó el huracán Lothar en 1999 siguen cruzando el camino: el
+      recorrido pasa por encima y por debajo de sus troncos. Esa decisión resume el Parque Nacional de la
+      Selva Negra: un lugar donde puedes seguir cómo se regenera el bosque tras una tormenta. Fundado el 1 de
+      enero de 2014, es el primer parque nacional de Baden-Württemberg y hoy mide 11.267 hectáreas sobre la
+      cresta principal de la Selva Negra del Norte, sobre todo entre la carretera Schwarzwaldhochstraße y el
+      valle del Murg.
+    landscape: >-
+      La montaña sube por escalones. El sector de Ruhestein llega a unos 1150 m en la cumbre sureste de la
+      Hornisgrinde, la montaña más alta de la Selva Negra del Norte, y baja por la ladera oeste del
+      Schliffkopf hasta las cascadas de Allerheiligen, a unos 500 m, el punto más bajo y más occidental del
+      parque. El otro sector, el de Hoher Ochsenkopf y Plättig, tiene su centro en el Hoher Ochsenkopf, de
+      1054 m. Desde el 1 de enero de 2026 una ampliación por ley cierra el hueco entre los dos.
+
+
+      La huella del hielo permanece en tres lagos de circo glaciar, el Wildsee, el Huzenbacher See y el
+      Buhlbachsee, ofrecen hábitat a anfibios y libélulas. Los bosques mixtos de montaña, que ocupan gran
+      parte del parque, son de pícea, haya y abeto blanco, con helechos, licopodios y musgos. Y entre ellos,
+      las Grinden y las turberas de meseta, que suponen cerca del 3 % del parque, están cubiertas de
+      gramíneas, junco y brezo, y benefician a insectos raros y a la víbora común, el verderón serrano, el
+      bisbita pratense y el torcecuello.
+    wildlife: >-
+      El urogallo concentra una parte esencial del esfuerzo de conservación. En peligro de extinción, tiene en
+      los bosques claros de coníferas del parque una zona de presencia importante: aproximadamente uno de cada
+      tres urogallos de la Selva Negra vive aquí, en un parque que ocupa algo más de 100 km² de los 6.000 km²
+      de la sierra. En el mínimo de 2022 se contaron 97 machos en celo en toda la Selva Negra, 17 de ellos en
+      el parque; con el plan de emergencia, en el parque subieron a 31 en 2026.
+
+
+      La madera sostiene una variada comunidad de aves. Entre los pájaros carpinteros hay pico negro, pico
+      picapinos, pico cano y el escaso [pico tridáctilo](/especie/picoides_tridactylus/); también hay
+      piquituertos y cascanueces, y entre las rapaces nocturnas, cárabo, mochuelo boreal y [mochuelo
+      chico](/especie/glaucidium_passerinum/). En el Spechtpfad viven las cinco especies de pájaros
+      carpinteros del parque: pico picapinos, negro, cano, tridáctilo y el torcecuello.
+
+
+      Los grandes ungulados son el [ciervo rojo](/especie/cervus_elaphus/), el
+      [corzo](/especie/capreolus_capreolus/) y el [jabalí](/especie/sus_scrofa/). Los primeros registros de
+      [lince](/especie/lynx_lynx/) correspondían a machos llegados de Suiza; en 2025 ya había también una
+      hembra territorial en la Selva Negra del Norte. Desde el invierno de 2017/18 hay pruebas genéticas de
+      que el [lobo](/especie/canis_lupus/) ha vuelto a la Selva Negra del Norte tras más de 150 años de su
+      exterminio. En total, en 2019 se habían registrado 2100 especies de animales, 1400 de ellas insectos, y
+      unas 750 de escarabajos, además de 1050 especies de hongos.
+    visit: >-
+      Empieza por el Nationalparkzentrum Ruhestein, a unos 900 metros de altitud: es un buen punto de partida
+      donde el personal da consejos de rutas. Tiene exposición permanente, exposiciones temporales, cine y el
+      puente de la Naturaleza Salvaje (Brücke der Wildnis). La exposición multimedia, de unos 1.000 m², trata
+      del bosque que se vuelve más salvaje. Con hielo o aviso de tormenta pueden cerrar el puente y la torre.
+      El programa anual ofrece más de 300 actividades, desde urogallos hasta teatro en el bosque.
+
+
+      Los cuatro senderos temáticos son lo más popular. El Lotharpfad, de unos 900 metros, enseña cómo se
+      regenera la naturaleza tras la tormenta cuando se la deja a su aire; va por pasarelas, escaleras y
+      escalinatas, con una plataforma panorámica sobre las cumbres de la Selva Negra del Norte. El
+      Wildnispfad, de unos 3,5 km, es estrecho: se pasa por encima y por debajo de troncos gruesos, y el
+      Adlerhorst es el mejor sitio para una pausa. El Luchspfad parte del aparcamiento Plättig, recorre unos
+      4,5 km en unas tres horas y asciende 75 m; empieza en la Luchshütte, donde se oye el grito del lince. El
+      Spechtpfad, de 1,2 km, junto al Lotharpfad, es accesible sin escalones y apto para sillas de ruedas y
+      cochecitos.
+
+
+      En invierno hay caminos señalizados, pistas de fondo y rutas con raquetas de nieve. Los cierres
+      estacionales determinan qué recorridos se pueden utilizar.
+    history: >-
+      El parque nació en 2014 tras una decisión discutida: el parlamento regional votó su creación el 28 de
+      noviembre de 2013, y fue una decisión muy debatida políticamente. La composición del bosque está
+      cambiando: se espera que la pícea ceda terreno a frondosas más resistentes al calor y la sequía.
+      Mientras tanto, el plan de emergencia para el urogallo se aplica desde 2022.
+    before: >-
+      Hay que quedarse en los caminos señalizados para no molestar a la fauna y consultar los cierres de
+      temporada antes de salir. Los perros van con correa. Están prohibidos el fuego y fumar, y también
+      recoger leña, plantas, partes de plantas o setas. No se puede entrar en los arroyos, ríos y lagos del
+      parque, ni nadando ni a pie: son biotopos escasos y sensibles.
+    around: >-
+      A veintitrés kilómetros está la [Llanura de Inundación del Alto
+      Rin](/lugar/upper-rhine-floodplain-rheinauen/).
+  en:
+    intro: >-
+      Along the Wildnispfad, trees felled by Cyclone Lothar in 1999 still lie across the track: the route
+      leads over and beneath their weathered trunks. That simple decision encapsulates Black Forest National
+      Park: a place where you can watch forest regenerate naturally after a storm. Established on 1 January
+      2014, it is the first national park in Baden-Württemberg and today covers 11,267 hectares across the
+      main ridge of the Northern Black Forest, primarily between the Schwarzwaldhochstraße highway and the
+      Murg Valley.
+    landscape: >-
+      The mountain ascends in distinct steps. The Ruhestein sector reaches some 1150 m at the southeastern
+      crest of the Hornisgrinde, the highest mountain in the Northern Black Forest, and drops down the western
+      slopes of the Schliffkopf to the Allerheiligen waterfalls at around 500 m, the lowest and westernmost
+      point in the park. The other sector, encompassing Hoher Ochsenkopf and Plättig, centres on the Hoher
+      Ochsenkopf at 1054 m. Since 1 January 2026, a statutory expansion closes the gap between the two.
+
+
+      Glacial history lingers in three cirque tarns—the Wildsee, the Huzenbacher See and the Buhlbachsee—which
+      offer critical habitat for amphibians and dragonflies. Mountain mixed forests, blanketing much of the
+      park, comprise Norway spruce, European beech and silver fir, festooned with ferns, clubmosses and
+      bryophytes. Interspersed among them are the Grinden and plateau raised bogs, accounting for nearly 3% of
+      the park area; blanketed in moor grass, rushes and heather, they benefit rare insects, the common
+      European adder, European serin, meadow pipit and Eurasian wryneck.
+    wildlife: >-
+      The western capercaillie commands a central focus in conservation efforts. Endangered with extinction,
+      it maintains a critical presence in open montane conifer stands here: roughly one out of every three
+      capercaillies in the Black Forest lives within the park, which accounts for just over 100 km² out of the
+      mountain range's 6,000 km². During the population low in 2022, only 97 displaying males were counted
+      across the entire Black Forest, 17 of them within the park; following an emergency action plan, male
+      numbers in the park rebounded to 31 in 2026.
+
+
+      Deadwood sustains a rich avian community. Woodpeckers include black woodpecker, great spotted
+      woodpecker, grey-headed woodpecker and the rare [three-toed woodpecker](/especie/picoides_tridactylus/);
+      crossbills and spotted nutcrackers also thrive, while nocturnal raptors feature tawny owl, boreal owl
+      and the [Eurasian pygmy owlet](/especie/glaucidium_passerinum/). The Spechtpfad trail is home to all
+      five woodpecker species of the park: great spotted, black, grey-headed, three-toed and the wryneck.
+
+
+      Large ungulates include [red deer](/especie/cervus_elaphus/), [roe deer](/especie/capreolus_capreolus/)
+      and [wild boar](/especie/sus_scrofa/). Early [Eurasian lynx](/especie/lynx_lynx/) records involved males
+      arriving from Switzerland; by 2025, a territorial female was established in the Northern Black Forest.
+      Since the winter of 2017/18, genetic testing confirms that the [grey wolf](/especie/canis_lupus/) has
+      returned to the Northern Black Forest over 150 years after its extirpation. In total, researchers had
+      catalogued 2100 animal species by 2019, including 1400 insects and roughly 750 beetles, along with 1050
+      fungal species.
+    visit: >-
+      Begin at the Nationalparkzentrum Ruhestein, at an altitude of around 900 metres: it is an excellent
+      starting point where staff provide route advice. It features a permanent exhibition, temporary
+      galleries, a cinema and the Brücke der Wildnis skywalk. The multimedia exhibition, spanning some 1,000
+      m², explores woodland rewilding. In icy conditions or severe weather warnings, the bridge and tower may
+      be closed. The annual programme offers more than 300 activities, from capercaillies to open-air woodland
+      theatre.
+
+
+      The four themed trails are the most popular highlights. The Lotharpfad, around 900 metres long, shows
+      how nature heals when left unmanaged after storm blowdowns; it follows boardwalks, stairs and
+      footbridges leading to a panoramic platform overlooking Northern Black Forest summits. The Wildnispfad,
+      approximately 3.5 km long, is narrow: you scramble over and under massive tree trunks, with the
+      Adlerhorst clearing offering the best spot for a break. The Luchspfad sets out from the Plättig car
+      park, covering some 4.5 km in about three hours and ascending 75 m; it starts at the Luchshütte, where
+      you can hear the recorded call of a lynx. The Spechtpfad, measuring 1.2 km beside the Lotharpfad, is
+      step-free and suitable for wheelchairs and prams.
+
+
+      In winter there are marked footpaths, cross-country ski trails and snowshoe routes. Seasonal closures
+      dictate which paths can be used.
+    history: >-
+      The park was born in 2014 following a contentious debate: the regional parliament voted for its
+      establishment on 28 November 2013, in what was a politically heated decision. Forest composition is
+      shifting: spruce is expected to give way to broadleaf species better adapted to heat and drought.
+      Meanwhile, the capercaillie emergency action plan has been underway since 2022.
+    before: >-
+      Remain on designated paths to avoid disturbing wildlife, and check seasonal trail closures before
+      setting out. Dogs must be kept on a leash. Lighting fires and smoking are strictly forbidden, as is
+      gathering firewood, plants, plant parts or mushrooms. Do not enter the park's streams, rivers or lakes,
+      whether swimming or wading: they are rare and fragile biotopes.
+    around: >-
+      Twenty-three kilometres away lies the [Upper Rhine Floodplain
+      (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/).
+  fr:
+    intro: >-
+      Sur le Wildnispfad, les arbres couchés par l'ouragan Lothar en 1999 barrent toujours le chemin :
+      l'itinéraire passe par-dessus et par-dessous leurs troncs. Ce choix résume le parc national de la
+      Forêt-Noire : un lieu où vous pouvez suivre la régénération de la forêt après une tempête. Créé le 1
+      janvier 2014, c'est le premier parc national du Bade-Wurtemberg et il couvre aujourd'hui 11 267 hectares
+      sur la crête principale de la Forêt-Noire septentrionale, principalement entre la route
+      Schwarzwaldhochstraße et la vallée de la Murg.
+    landscape: >-
+      La montagne s'élève par paliers. Le secteur de Ruhestein culmine à environ 1150 m sur l'arête sud-est de
+      la Hornisgrinde, point culminant du nord du massif, et descend le versant ouest du Schliffkopf jusqu'aux
+      cascades d'Allerheiligen, vers 500 m d'altitude, point le plus bas et le plus occidental du parc.
+      L'autre secteur, celui du Hoher Ochsenkopf et du Plättig, a son centre au Hoher Ochsenkopf, à 1054 m.
+      Depuis le 1 janvier 2026, un agrandissement voté par la loi comble la brèche entre les deux.
+
+
+      L'empreinte glaciaire subsiste dans trois lacs de cirque—le Wildsee, le Huzenbacher See et le
+      Buhlbachsee—qui offrent un habitat précieux aux amphibiens et libellules. Les forêts mixtes de montagne,
+      couvrant une grande part du parc, sont formées d'épicéa commun, de hêtre et de sapin pectiné, avec
+      fougères, lycopodes et mousses. Entremêlées, les Grinden et les tourbières de plateau, qui représentent
+      près de 3 % du parc, sont couvertes de graminées, joncs et bruyères, et profitent à des insectes rares,
+      à la vipère péliade, au venturon montagnard, au pipit farlouse et au torcol fourmilier.
+    wildlife: >-
+      Le grand tétras concentre une part essentielle des efforts de protection. En danger d'extinction, il
+      trouve dans les forêts de conifères claires du parc un bastion majeur : environ un grand tétras sur
+      trois de toute la Forêt-Noire vit ici, dans un parc n'occupant qu'un peu plus de 100 km² sur les 6 000
+      km² du massif. Au plus bas démographique de 2022, seuls 97 mâles chanteurs avaient été comptés dans
+      toute la Forêt-Noire, dont 17 dans le parc ; grâce au plan d'urgence, ils sont remontés à 31 en 2026
+      dans le parc.
+
+
+      Le bois mort fait vivre une communauté d'oiseaux variée. Parmi les pics figurent le pic noir, le pic
+      épeiche, le pic cendré et le rare [pic tridactyle](/especie/picoides_tridactylus/) ; on compte aussi
+      becs-croisés et cassenoix moucheté, et pour les rapaces nocturnes, chouette hulotte, nyctale de Tengmalm
+      et [chevêchette d'Europe](/especie/glaucidium_passerinum/). Sur le Spechtpfad vivent les cinq espèces de
+      pics du parc : épeiche, noir, cendré, tridactyle et le torcol.
+
+
+      Les grands ongulés sont le [cerf élaphe](/especie/cervus_elaphus/), le
+      [chevreuil](/especie/capreolus_capreolus/) et le [sanglier](/especie/sus_scrofa/). Les premières
+      observations de [lynx boréal](/especie/lynx_lynx/) concernaient des mâles arrivés de Suisse ; en 2025
+      s'est aussi établie une femelle territoriale dans le nord de la Forêt-Noire. Depuis l'hiver 2017/18, des
+      preuves génétiques confirment le retour du [loup](/especie/canis_lupus/) dans le nord de la Forêt-Noire
+      après plus de 150 ans d'absence. Au total, en 2019 avaient été recensées 2100 espèces animales, dont
+      1400 insectes et près de 750 coléoptères, en plus de 1050 espèces de champignons.
+    visit: >-
+      Commencez par le Nationalparkzentrum Ruhestein, à environ 900 mètres d'altitude : c'est un bon point de
+      départ où l'équipe conseille sur les itinéraires. Il comprend exposition permanente, expositions
+      temporaires, cinéma et la passerelle Brücke der Wildnis. L'exposition multimédia, d'environ 1 000 m²,
+      aborde la forêt qui retourne à l'état sauvage. En cas de verglas ou d'alerte météo, la passerelle et la
+      tour peuvent fermer. Le programme annuel offre plus de 300 activités, du pistage du tétras au spectacle
+      théâtral en forêt.
+
+
+      Les quatre sentiers à thème sont les plus appréciés. Le Lotharpfad, d'environ 900 mètres, montre comment
+      la nature guérit spontanément après la tempête quand on la laisse à son gré ; il va par passerelles,
+      pontons et escaliers vers une plateforme surplombant les cimes du nord de la Forêt-Noire. Le
+      Wildnispfad, d'environ 3,5 km, est resserré : on franchit de gros troncs par-dessus et par-dessous, et
+      le secteur Adlerhorst offre la meilleure halte. Le Luchspfad part du parking Plättig, couvre environ 4,5
+      km en quelque trois heures et grimpe de 75 m ; il commence à la Luchshütte, où l'on entend l'appel
+      enregistré du lynx. Le Spechtpfad, long de 1,2 km près du Lotharpfad, est de plain-pied et accessible
+      aux fauteuils roulants et poussettes.
+
+
+      En hiver, des chemins balisés, des pistes de ski de fond et des parcours en raquettes sont aménagés. Les
+      fermetures de saison déterminent les accès utilisables.
+    history: >-
+      Le parc est né en 2014 après un vote disputé : le parlement régional vota sa création le 28 novembre
+      2013 au terme d'un débat politique animé. La composition de la forêt change : on attend que l'épicéa
+      cède du terrain à des feuillus plus résistants à la chaleur et à la sécheresse. Entre-temps, le plan
+      d'urgence pour le grand tétras s'applique depuis 2022.
+    before: >-
+      Restez sur les sentiers balisés pour ne pas déranger la faune et vérifiez les fermetures de saison avant
+      de partir. Les chiens doivent être tenus en laisse. Fumer et faire du feu sont interdits, tout comme
+      prélever du bois mort, des végétaux, des parties de plantes ou des champignons. On ne peut entrer dans
+      les ruisseaux, rivières et lacs du parc, ni à pied ni pour nager : ce sont des milieux rares et
+      vulnérables.
+    around: >-
+      À vingt-trois kilomètres s'étend la [Plaine d'inondation du Rhin supérieur
+      (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/).
+  de:
+    intro: >-
+      Auf dem Wildnispfad versperren die vom Orkan Lothar 1999 entwurzelten Bäume noch immer den Weg: Die
+      Route führt über und unter ihren Stämmen hindurch. Diese Haltung prägt den Nationalpark Schwarzwald: ein
+      Raum, in dem du beobachten kannst, wie sich der Wald nach Stürmen aus eigener Kraft regeneriert.
+      Gegründet am 1. Januar 2014, ist er der erste Nationalpark Baden-Württembergs und umfasst heute 11.267
+      Hektar auf dem Hauptkamm des Nordschwarzwalds, vor allem zwischen Schwarzwaldhochstraße und Murgtal.
+    landscape: >-
+      Das Gebirge steigt gestaffelt an. Der Bereich Ruhestein reicht bis auf rund 1150 m am Südostgipfel der
+      Hornisgrinde, dem höchsten Berg des Nordschwarzwalds, und fällt am Westhang des Schliffkopfs bis zu den
+      Allerheiligen-Wasserfällen auf etwa 500 m ab, dem tiefsten und westlichsten Punkt des Parks. Der andere
+      Bereich um Hoher Ochsenkopf und Plättig zentriert sich um den 1054 m hohen Ochsenkopf. Seit dem 1.
+      Januar 2026 schließt eine gesetzliche Erweiterung die Lücke zwischen beiden Teilgebieten.
+
+
+      Eiszeitliche Zeugen sind die drei Karseen Wildsee, Huzenbacher See und Buhlbachsee, wertvolle
+      Lebensräume für Amphibien und Libellen. Die Bergmischwälder aus Fichte, Buche und Weißtanne,
+      unterwachsen von Farnen, Bärlappen und Moosen, bedecken den Großteil der Fläche. Dazwischen liegen
+      Grinden und Hochmoore, die rund 3 % des Parks einnehmen; überzogen von Pfeifgras, Binsen und Heidekraut
+      bieten sie Lebensraum für seltene Insekten, Kreuzotter, Zitronenzeisig, Wiesenpieper und Wendehals.
+    wildlife: >-
+      Das Auerhuhn steht im Zentrum der Schutzbemühungen. Vom Aussterben bedroht, findet es in den lichten
+      Nadelwäldern des Parks ein Kernvorkommen: Rund jedes dritte Auerhuhn des Schwarzwalds lebt hier, in
+      einem Schutzgebiet, das gut 100 km² der 6.000 km² des Mittelgebirges umfasst. Beim Tiefststand 2022
+      wurden im gesamten Schwarzwald nur noch 97 balzende Hähne gezählt, 17 davon im Park; durch das
+      Notfallprogramm stieg der Bestand im Park bis 2026 wieder auf 31 Hähne.
+
+
+      Totholzreichtum begünstigt eine vielgestaltige Vogelwelt. Zu den Spechten zählen Schwarzspecht,
+      Buntspecht, Grauspecht und der seltene [Dreizehenspecht](/especie/picoides_tridactylus/);
+      Fichtenkreuzschnäbel und Tannenhäher sind verbreitet, unter den Eulen Waldkauz, Raufußkauz und
+      [Sperlingskauz](/especie/glaucidium_passerinum/). Auf dem Spechtpfad leben alle fünf Spechtarten des
+      Gebiets: Buntspecht, Schwarzspecht, Grauspecht, Dreizehenspecht und der Wendehals.
+
+
+      Die Huftiere sind [Rothirsch](/especie/cervus_elaphus/), [Reh](/especie/capreolus_capreolus/) und
+      [Wildschwein](/especie/sus_scrofa/). Frühe Nachweise des [Luchses](/especie/lynx_lynx/) betrafen aus der
+      Schweiz zugewanderte Kuder; 2025 hielt sich auch eine territoriale Kätzin im Nordschwarzwald auf. Seit
+      dem Winter 2017/18 belegen Genanalysen, dass der [Wolf](/especie/canis_lupus/) nach über 150 Jahren
+      Abwesenheit in den Nordschwarzwald zurückgekehrt ist. Bis 2019 wurden 2100 Tierarten erfasst, darunter
+      1400 Insektenarten, rund 750 Käferarten sowie 1050 Pilzarten.
+    visit: >-
+      Beginne am Nationalparkzentrum Ruhestein auf etwa 900 Metern Höhe: ein guter Ausgangspunkt mit
+      fachkundiger Tourenberatung. Es bietet Dauerausstellung, Wechselausstellungen, Kino und die
+      Aussichtsplattform Brücke der Wildnis. Die rund 1.000 m² große Multimedia-Ausstellung widmet sich der
+      Waldwildnis. Bei Sturm oder Glätte können Brücke und Turm gesperrt sein. Das Jahresprogramm bietet mehr
+      als 300 Veranstaltungen von Auerhühnern bis Waldführungen.
+
+
+      Beliebt sind die vier Erlebnispfade. Der Lotharpfad (rund 900 Meter) zeigt über Holzstege, Leitern und
+      Treppen die Sukzession nach Windwurf und bietet Blicke über die Schwarzwaldgipfel. Der Wildnispfad (rund
+      3,5 km) führt schmal über und unter mächtigen Stämmen hindurch; der Adlerhorst lädt zur Rast ein. Der
+      Luchspfad startet am Parkplatz Plättig, erstreckt sich über 4,5 km in rund drei Stunden und steigt 75 m
+      an; er beginnt an der Luchshütte, wo der Luchsruf ertönt. Der Spechtpfad (1,2 km) neben dem Lotharpfad
+      ist stufenlos und für Rollstühle und Kinderwagen geeignet.
+
+
+      Im Winter gibt es markierte Winterwanderwege, Loipen und Schneeschuhrouten. Saisonale Sperrungen
+      bestimmen, welche Wege genutzt werden können.
+    history: >-
+      Der Park entstand 2014 nach kontroverser Debatte: Der Landtag beschloss die Gründung am 28. November
+      2013 nach intensiver politischer Diskussion. Die Waldzusammensetzung wandelt sich: Es wird erwartet,
+      dass die Fichte gegenüber trockenheitsresistenteren Laubbaumarten weicht. Das Notfallprogramm für das
+      Auerhuhn läuft unterdessen seit 2022.
+    before: >-
+      Bleibe auf den markierten Wegen, um Wildtiere nicht zu stören, und prüfe Wintersperrungen vorab. Hunde
+      gehören an die Leine. Feuer und Rauchen sind verboten, ebenso das Sammeln von Holz, Pflanzen,
+      Pflanzenteilen oder Pilzen. Gewässer des Parks dürfen weder schwimmend noch watend betreten werden: Es
+      sind seltene und empfindliche Biotope.
+    around: >-
+      Dreiundzwanzig Kilometer entfernt liegt die [Oberrheinische Auenlandschaft
+      (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/).
+  it:
+    intro: >-
+      Sul Wildnispfad gli alberi abbattuti dall'uragano Lothar nel 1999 sbarrano ancora il tracciato:
+      l'itinerario passa sopra e sotto i loro tronchi. Questa scelta riassume lo spirito del Parco Nazionale
+      della Foresta Nera: un luogo in cui puoi seguire la rigenerazione naturale del bosco dopo una tempesta.
+      Istituito il 1 gennaio 2014, è il primo parco nazionale del Baden-Württemberg e copre oggi 11.267 ettari
+      lungo la cresta principale della Foresta Nera settentrionale, principalmente tra la
+      Schwarzwaldhochstraße e la valle del Murg.
+    landscape: >-
+      Il rilievo sale a gradoni. Il settore di Ruhestein tocca circa 1150 m sulla cresta sud-orientale
+      dell'Hornisgrinde, la vetta più alta del nord del massiccio, e scende lungo il versante occidentale
+      dello Schliffkopf fino alle cascate di Allerheiligen, a circa 500 m, il punto più basso e occidentale
+      del parco. L'altro settore, quello di Hoher Ochsenkopf e Plättig, ha il suo fulcro nello Hoher
+      Ochsenkopf a 1054 m. Dal 1 gennaio 2026 un ampliamento stabilito per legge colma la cesura tra i due
+      comparti.
+
+
+      L'impronta glaciale sopravvive in tre laghi di circo—il Wildsee, l'Huzenbacher See e il Buhlbachsee—che
+      offrono rifugio ad anfibi e libellule. I boschi misti montani di abete rosso, faggio e abete bianco,
+      ricchi di felci, licopodi e muschi, ammantano gran parte del parco. Tra di essi si inseriscono le
+      Grinden e le torbiere alte di altopiano, che occupano circa il 3 % del parco; coperte da graminacee,
+      giunchi ed eriche, sostengono insetti rari, il marasso, il venturone alpino, la pispola e il torcicollo.
+    wildlife: >-
+      Il gallo cedrone concentra una parte essenziale degli sforzi di tutela. In pericolo di estinzione, trova
+      nei boschi aperti di conifere del parco un'area di presenza cruciale: circa un gallo cedrone su tre
+      dell'intera Foresta Nera vive qui, in un parco che occupa poco più di 100 km² rispetto ai 6.000 km² del
+      rilievo montuoso. Nel minimo del 2022 si contavano appena 97 maschi in parata nell'intera Foresta Nera,
+      17 dei quali nel parco; grazie al piano di emergenza, nel parco sono risaliti a 31 nel 2026.
+
+
+      Il legno marcescente sostiene una variegata comunità ornitica. Tra i picchi si contano picchio nero,
+      picchio rosso maggiore, picchio cenerino e il raro [picchio tridattilo](/especie/picoides_tridactylus/);
+      abbondano crocieri e nocciolaie, e tra i rapaci notturni allocco, civetta capogrosso e [civetta
+      nana](/especie/glaucidium_passerinum/). Sullo Spechtpfad vivono tutte e cinque le specie di picchi del
+      parco: rosso maggiore, nero, cenerino, tridattilo e il torcicollo.
+
+
+      I grandi ungulati sono il [cervo nobile](/especie/cervus_elaphus/), il
+      [capriolo](/especie/capreolus_capreolus/) e il [cinghiale](/especie/sus_scrofa/). I primi avvistamenti
+      di [lince](/especie/lynx_lynx/) riguardavano maschi giunti dalla Svizzera; nel 2025 si è stabilita anche
+      una femmina territoriale nella Foresta Nera settentrionale. Dall'inverno 2017/18 analisi genetiche
+      certificano il ritorno del [lupo](/especie/canis_lupus/) a oltre 150 anni dalla sua estirpazione. In
+      totale, nel 2019 risultavano censite 2100 specie animali, di cui 1400 insetti e circa 750 coleotteri,
+      oltre a 1050 specie di funghi.
+    visit: >-
+      Inizia dal Nationalparkzentrum Ruhestein, a circa 900 metri di quota: un buon punto di partenza dove il
+      personale consiglia gli itinerari. Comprende una mostra permanente, mostre temporanee, cinema e la
+      passerella Brücke der Wildnis. L'allestimento multimediale di circa 1.000 m² illustra il bosco che
+      ritorna selvaggio. In caso di gelo o allerta bufera la passerella e la torre possono essere chiuse. Il
+      calendario annuale propone oltre 300 attività, dalle tracce del gallo cedrone al teatro nel bosco.
+
+
+      I quattro sentieri tematici sono i più amati. Il Lotharpfad (circa 900 metri) mostra come la natura si
+      rigenera da sola dopo la tempesta; si snoda su passerelle, gradini e scale verso una piattaforma sulle
+      cime della Foresta Nera settentrionale. Il Wildnispfad (circa 3,5 km) è stretto: si scavalcano tronchi
+      spessi sopra e sotto, e l'Adlerhorst è la sosta migliore. Il Luchspfad parte dal parcheggio Plättig,
+      percorre circa 4,5 km in circa tre ore salendo di 75 m; inizia alla Luchshütte dove si ascolta il
+      richiamo della lince. Lo Spechtpfad (1,2 km), accanto al Lotharpfad, è privo di gradini e adatto a
+      passeggini e carrozzine.
+
+
+      In inverno ci sono sentieri segnalati, piste di fondo e percorsi con ciaspole. Le chiusure stagionali
+      determinano quali tracciati sono praticabili.
+    history: >-
+      Il parco è nato nel 2014 dopo una decisione dibattuta: il parlamento regionale votò la sua creazione il
+      28 novembre 2013 al culmine di un acceso confronto politico. La composizione del bosco sta mutando: si
+      prevede che l'abete rosso ceda spazio a latifoglie più resistenti a calore e siccità. Nel frattempo, il
+      piano di emergenza per il gallo cedrone è attivo dal 2022.
+    before: >-
+      Resta sui sentieri tracciati per non disturbare la fauna e controlla le chiusure stagionali prima di
+      partire. I cani vanno condotti al guinzaglio. Sono vietati il fuoco e il fumo, così come raccogliere
+      legna, piante, parti di piante o funghi. È vietato entrare nei torrenti, fiumi e laghi del parco, sia a
+      nuoto sia a piedi: sono biotopi rari e sensibili.
+    around: >-
+      A ventitré chilometri si trova la [Pianura Alluvionale dell'Alto Reno
+      (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/).
+  pt:
+    intro: >-
+      No Wildnispfad, as árvores tombadas pelo furacão Lothar em 1999 continuam a atravessar o caminho: o
+      percurso segue por cima e por baixo dos seus troncos. Essa escolha resume o Parque Nacional da Floresta
+      Negra: um lugar onde podes acompanhar como a mata se regenera após uma tempestade. Criado a 1 de janeiro
+      de 2014, é o primeiro parque nacional de Bade-Vurtemberga e mede hoje 11.267 hectares na crista
+      principal da Floresta Negra Setentrional, sobretudo entre a estrada Schwarzwaldhochstraße e o vale do
+      Murg.
+    landscape: >-
+      A montanha sobe por degraus. O setor de Ruhestein atinge cerca de 1150 m na crista sudeste da
+      Hornisgrinde, a montanha mais alta do norte do maciço, e desce pela encosta poente do Schliffkopf até às
+      cascatas de Allerheiligen, por volta dos 500 m, o ponto mais baixo e ocidental do parque. O outro setor,
+      de Hoher Ochsenkopf e Plättig, tem o seu centro no Hoher Ochsenkopf, a 1054 m. Desde 1 de janeiro de
+      2026, uma ampliação por lei fecha o intervalo entre os dois.
+
+
+      A marca do gelo permanece em três lagoas de circo glaciar—o Wildsee, o Huzenbacher See e o
+      Buhlbachsee—que oferecem habitat a anfíbios e libélulas. As florestas mistas de montanha, dominando
+      grande parte do parque, são de espruce, faia e abeto-branco, com fetos, licopódios e musgos. Entre elas,
+      as Grinden e as turfeiras de planalto, que somam cerca de 3 % do parque, cobrem-se de gramíneas, juncos
+      e urzes, beneficiando insetos raros, a víbora-comum, o chamariz-montês, a petinha-dos-prados e o
+      torcicolo.
+    wildlife: >-
+      O tetraz concentra uma parte essencial do esforço de conservação. Em perigo de extinção, tem nos bosques
+      abertos de coníferas do parque uma zona de refúgio vital: cerca de um em cada três tetrazes da Floresta
+      Negra vive aqui, num parque que ocupa pouco mais de 100 km² dos 6.000 km² da cordilheira. No mínimo de
+      2022 contaram-se apenas 97 machos em parada nupcial em toda a Floresta Negra, 17 deles no parque; com o
+      plano de emergência, subiram para 31 em 2026 no interior do parque.
+
+
+      A madeira sustenta uma comunidade rica de aves. Entre os pica-paus há pica-pau-preto,
+      pica-pau-malhado-grande, pica-pau-cinzento e o raro
+      [pica-pau-tridáctilo](/especie/picoides_tridactylus/); também ocorrem cruza-bicos e quebra-nozes, e
+      entre as rapinas noturnas coruja-do-mato, mocho-funéreo e
+      [mocho-pigmeu](/especie/glaucidium_passerinum/). No Spechtpfad vivem as cinco espécies de pica-paus do
+      parque: malhado-grande, preto, cinzento, tridáctilo e o torcicolo.
+
+
+      Os grandes ungulados são o [veado-vermelho](/especie/cervus_elaphus/), a
+      [corça](/especie/capreolus_capreolus/) e o [javali](/especie/sus_scrofa/). Os primeiros registos de
+      [lince-euroasiático](/especie/lynx_lynx/) correspondiam a machos vindos da Suíça; em 2025 estabeleceu-se
+      também uma fêmea territorial na Floresta Negra Setentrional. Desde o inverno de 2017/18 há provas
+      genéticas de que o [lobo-cinzento](/especie/canis_lupus/) regressou ao norte da Floresta Negra após mais
+      de 150 anos da sua erradicação. No total, em 2019 haviam sido registadas 2100 espécies de animais, 1400
+      delas insetos, e cerca de 750 de escaravelhos, além de 1050 espécies de cogumelos.
+    visit: >-
+      Começa pelo Nationalparkzentrum Ruhestein, a cerca de 900 metros de altitude: é um bom ponto de partida
+      onde a equipa dá conselhos de itinerários. Dispõe de exposição permanente, mostras temporárias, cinema e
+      a passarela Brücke der Wildnis. A exposição multimédia de cerca de 1.000 m² aborda a floresta que se
+      torna selvagem. Com gelo ou alerta de tempestade podem encerrar a passarela e a torre. O programa anual
+      oferece mais de 300 atividades, desde tetrazes até teatro na mata.
+
+
+      Os quatro trilhos temáticos são o mais procurado. O Lotharpfad, de cerca de 900 metros, ensina como a
+      natureza se regenera após a tempestade quando deixada ao seu ritmo; segue por passadiços e escadarias
+      até a uma plataforma panorâmica sobre os cumes da Floresta Negra Setentrional. O Wildnispfad, de cerca
+      de 3,5 km, é estreito: passa-se por cima e por baixo de troncos grossos, e o Adlerhorst é o melhor sítio
+      para descansar. O Luchspfad parte do estacionamento de Plättig, cobre cerca de 4,5 km em cerca de três
+      horas e sobe 75 m; começa na Luchshütte onde se escuta o chamamento do lince. O Spechtpfad, de 1,2 km,
+      junto ao Lotharpfad, é plano e acessível para cadeiras de rodas e carrinhos de bebé.
+
+
+      No inverno há caminhos sinalizados, pistas de fundo e rotas com raquetes de neve. Os encerramentos
+      sazonais determinam que itinerários podem ser percorridos.
+    history: >-
+      O parque nasceu em 2014 após uma decisão disputada: o parlamento regional votou a sua criação a 28 de
+      novembro de 2013, tendo sido uma opção politicamente muito debatida. A composição da floresta está a
+      mudar: prevê-se que o espruce recue perante folhosas mais resistentes ao calor e à seca. Entretanto, o
+      plano de emergência para o tetraz vigora desde 2022.
+    before: >-
+      Tens de permanecer nos caminhos assinalados para não perturbar a fauna e consultar os encerramentos
+      sazonais antes de sair. Os cães vão com trela. São proibidos o fogo e fumar, bem como apanhar lenha,
+      plantas, partes de plantas ou cogumelos. Não se pode entrar nos ribeiros, rios e lagos do parque, nem a
+      nadar nem a pé: são biótopos escassos e sensíveis.
+    around: >-
+      A vinte e três quilómetros situa-se a [Planície de Inundação do Alto Reno
+      (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/).
+fuentes:
+  - url: https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/erlebnispfade
+    titulo: Erlebnispfade im Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/erlebnispfade/luchspfad
+    titulo: Luchspfad
+    fecha_consulta: '2026-10-23'
+  - url: https://www.fva-bw.de/aktuelles/artikel/diese-luchse-fuehlen-sich-im-schwarzwald-heimisch
+    titulo: FVA Baden-Württemberg — Diese Luchse fühlen sich im Schwarzwald heimisch
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park
+    titulo: Unterwegs im Nationalpark Schwarzwald
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-schwarzwald.de/nationalpark/aufgaben-ziele/arten-biotopschutz/auerhuhn-notfallplan
+    titulo: Schutz für die gefährdeten Auerhühner
+    fecha_consulta: '2026-10-23'
+  - url: https://de.wikipedia.org/wiki/Nationalpark_Schwarzwald
+    titulo: Nationalpark Schwarzwald - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-schwarzwald.de/erleben/nationalparkzentrum
+    titulo: Nationalparkzentrum Ruhestein
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-schwarzwald.de/nationalpark/regeln-tipps/regeln-im-park
+    titulo: Regeln im Park
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_Schwarzwald_n%C3%A4he_Hornberg_II.jpg
+    autor: Josef A. Baumann
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

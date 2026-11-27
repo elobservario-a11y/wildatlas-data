@@ -1,0 +1,24 @@
+name: Corregir un dato, enlace o foto
+description: Un dato desactualizado, un enlace roto, una fuente nueva o una foto libre de Commons
+labels: [correccion]
+body:
+  - type: input
+    id: ficha
+    attributes:
+      label: Ficha (id o dirección en wildatlas.eu)
+    validations: { required: true }
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué hay que cambiar o añadir
+      description: Qué dice ahora y qué debería decir.
+    validations: { required: true }
+  - type: input
+    id: fuente
+    attributes:
+      label: Enlace a la fuente oficial o científica
+      description: Para una foto, su página en Wikimedia Commons.
+    validations: { required: true }
+  - type: markdown
+    attributes:
+      value: No indiques ubicaciones exactas de nidos, madrigueras, dormideros ni de poblaciones de especies sensibles.

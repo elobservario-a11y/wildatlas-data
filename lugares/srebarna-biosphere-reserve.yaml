@@ -1,0 +1,466 @@
+id: srebarna-biosphere-reserve
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva de la Biosfera de Srebarna
+  en: Srebarna Biosphere Reserve
+  fr: Réserve de biosphère de Srebarna
+  de: Biosphärenreservat Srebarna
+  it: Riserva della Biosfera di Srebarna
+  pt: Reserva da Biosfera de Srebarna
+nombre_original: Srebarna Biosphere Reserve
+alias:
+  - Srebarna Biosphere Reserve
+paises:
+  - BG
+region:
+  es: Provincia de Silistra (Danubio búlgaro)
+  en: Silistra Province (Bulgarian Danube)
+  fr: Province de Silistra (Danube bulgare)
+  de: Oblast Silistra (Bulgarische Donau)
+  it: Provincia di Silistra (Danubio bulgaro)
+  pt: Província de Silistra (Danúbio búlgaro)
+ubicacion:
+  tipo: punto
+  lat: 44.11
+  lon: 27.06
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 19029
+  nombre_en_la_fuente: Srebarna
+  categoria_uicn: IV
+  capa: capas/cdda/srebarna-biosphere-reserve.geojson
+habitats:
+  - wetland
+  - lake
+  - river_corridor
+designaciones:
+  - ramsar
+  - unesco_whs
+  - biosphere_reserve
+especies:
+  - pelecanus_crispus
+  - egretta_alba
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: da aprile a ottobre
+  pt: abril a outubro
+masificacion: 2
+valoracion: 2
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — reserva de Srebarna
+    url: https://www.srebarnalake.com/
+  - titulo: Visita — itinerarios y observación en Srebarna
+    url: https://riosv-ruse.org/pr-srebarna/turizam
+enlaces_referencia:
+  - titulo: UNESCO Srebarna Nature Reserve
+    url: https://whc.unesco.org/en/list/269/
+resumen:
+  es: >-
+    Lago dulceacuícola junto al Danubio famoso por albergar la única colonia nidificante de pelícano ceñudo de
+    Bulgaria.
+  en: Freshwater lake beside the Danube famous for holding Bulgaria's only breeding colony of Dalmatian pelican.
+  fr: >-
+    Lac d'eau douce près du Danube célèbre pour abriter l'unique colonie nicheuse de pélican frisé de
+    Bulgarie.
+  de: Süßwassersee an der Donau, berühmt für die einzige Brutkolonie des Krauskopfpelikans in Bulgarien.
+  it: >-
+    Lago d'acqua dolce lungo il Danubio celebre per ospitare l'unica colonia nidificante di pellicano riccio
+    della Bulgaria.
+  pt: >-
+    Lago de água doce junto ao Danúbio famoso por albergar a única colónia nidificante de pelicano-crespo da
+    Bulgária.
+unico:
+  es: El único lugar de cría del pelícano ceñudo en Bulgaria.
+  en: The only breeding site of the Dalmatian pelican in Bulgaria.
+  fr: Le seul site de reproduction du pélican frisé en Bulgarie.
+  de: Der einzige Brutplatz des Krauskopfpelikans in Bulgarien.
+  it: L'unico sito di riproduzione del pellicano riccio in Bulgaria.
+  pt: O único local de criação do pelicano-crespo na Bulgária.
+observaciones:
+  es: >-
+    Abril a octubre es la mejor época. La reserva está junto a la carretera Ruse–Silistra y se llega en coche.
+    Entrar en la lámina de agua en barca, para fines científicos o rodajes, exige permiso del ministro de
+    Medio Ambiente.
+texto:
+  es:
+    intro: >-
+      Con luna llena, el agua de este lago se cubre de reflejos plateados. Esa es, según la explicación que se
+      considera más probable, la razón de su nombre: *srebro* significa plata en búlgaro. El lago Srébarna, a
+      dos kilómetros al sur del Danubio, es el último lago ribereño del Danubio que se conserva en Bulgaria,
+      un agua dulce con carrizales flotantes y sauzales inundados, hoy reserva natural y reserva de la
+      biosfera. Y es mucho más que un lago bonito: está en la Via Pontica, una de las rutas migratorias que
+      unen Europa y África, y por eso es un lugar de cría, escala e invernada para miles de aves.
+    landscape: >-
+      El lago tiene entre uno y tres metros de profundidad y está rodeado de carrizales; el carrizal ocupa
+      cerca de dos tercios de la superficie de la reserva. Entre las plantas hay hidrófitas como el carrizo, y
+      la reserva tiene 139 especies de plantas, 11 de ellas en peligro fuera de Srébarna. En la zona núcleo no
+      hay actividad económica; en la zona de amortiguación se practican la agricultura y la silvicultura.
+    wildlife: >-
+      Las cifras hablan de un lugar excepcional: se han registrado 243 especies de aves, el 57,5 % de la
+      avifauna búlgara, y 90 de ellas son especies de interés de conservación europeo. Entre el paso
+      migratorio y el invierno llegan a reunirse hasta 52.355 aves acuáticas.
+
+
+      El pájaro del lugar es el [pelícano ceñudo](/especie/pelecanus_crispus/): Srébarna es su único sitio de
+      cría en Bulgaria. Junto a él hay una colonia de cormorán pigmeo, y el porrón pardo tiene aquí la mayor
+      población reproductora del país; el lago es además un área de descanso, y de muda, para anátidas raras
+      como el ánade friso, el [porrón europeo](/especie/aythya_ferina/) y la cerceta carretona. A finales de
+      otoño y en invierno el humedal es escala de la barnacla cariblanca y reúne uno de los mayores grupos de
+      [ánsar común](/especie/anser_anser/) de Bulgaria, mientras el [cormorán
+      grande](/especie/phalacrocorax_carbo/) de la colonia de una isla cercana del Danubio viene a pescar.
+      También crían garzas, el [morito común](/especie/plegadis_falcinellus/), el cisne vulgar, el [aguilucho
+      lagunero](/especie/circus_aeruginosus/) y el [pechiazul](/especie/luscinia_svecica/).
+
+
+      No solo es un lugar de aves: hay 27 especies de anfibios y reptiles y 23 de peces, el 18,1 % de los
+      peces de agua dulce de Bulgaria, entre ellos una densa población de espinoso de nueve espinas.
+    visit: >-
+      Lo mejor es ir con tiempo y unos prismáticos. Hay tres rutas turísticas con infraestructura, dos de
+      ellas circulares, con cenadores, bancos, torres de observación y refugios. La oriental parte del paraje
+      Fazanaria, bordea el límite este de la reserva y llega a la esclusa sur. La occidental sale del Museo de
+      Ciencias Naturales, sigue el camino cortafuegos del oeste y llega a la orilla del Danubio; y la mejor
+      vista de la colonia de pelícanos se tiene desde la cima de Kodzha Bair, en el noroeste.
+
+
+      El Museo de Ciencias Naturales, al suroeste de la reserva, tiene una rica colección de aves y mamíferos
+      disecados. Su terraza da una amplia vista del lago, con telescopios y prismáticos para ver aves en vuelo
+      o nadando; es habitual ver cormoranes pescando y cisnes. Y el sendero ecológico rodea la reserva e
+      incluye plataformas para observar aves y cámaras de vídeo en el lago.
+    history: >-
+      El primer científico búlgaro que se interesó por el lago fue Aleksi Petrov, que lo visitó en 1911. La
+      zona se declaró reserva natural en 1948.
+    before: >-
+      Abril a octubre es la mejor época. La reserva está junto a la carretera Ruse–Silistra y se llega en
+      coche. Entrar en la lámina de agua en barca, para fines científicos o rodajes, exige permiso del
+      ministro de Medio Ambiente.
+    around: >-
+      Otros humedales del atlas comparten aves con Srébarna: el [Parque Nacional del Delta del
+      Evros](/lugar/ethniko-parko-delta-evrou/) comparte el pelícano ceñudo y el ánsar común, y los [Humedales
+      de Persina](/lugar/persina-marshes/) también el pelícano ceñudo.
+  en:
+    intro: >-
+      Under a full moon, the water of this lake is covered in silvery reflections. That is, according to the
+      most likely explanation, the reason for its name: *srebro* means silver in Bulgarian. Lake Srebarna, two
+      kilometres south of the Danube, is the last Danube riverside lake preserved in Bulgaria, a freshwater
+      basin with floating reedbeds and flooded willow groves, now a nature reserve and biosphere reserve. And
+      it is far more than a pretty lake: it lies on the Via Pontica, one of the migratory flyways linking
+      Europe and Africa, making it a breeding, staging and wintering site for thousands of birds.
+    landscape: >-
+      The lake is between one and three metres deep and surrounded by reedbeds; reedbeds cover around
+      two-thirds of the reserve's surface. Among the plants are hydrophytes such as common reed, and the
+      reserve holds 139 plant species, 11 of them endangered outside Srebarna. In the core zone there is no
+      economic activity; in the buffer zone farming and forestry take place.
+    wildlife: >-
+      The figures speak of an exceptional place: 243 bird species have been recorded, 57.5 % of Bulgaria's
+      avifauna, and 90 of them are species of European conservation concern. Between migration and winter, up
+      to 52,355 waterbirds gather here.
+
+
+      The signature bird is the [Dalmatian pelican](/especie/pelecanus_crispus/): Srebarna is its only
+      breeding site in Bulgaria. Beside it is a colony of pygmy cormorant, and the ferruginous duck has its
+      largest breeding population in the country here; the lake is also a resting and moulting site for rare
+      waterfowl such as gadwall, [common pochard](/especie/aythya_ferina/) and garganey. In late autumn and
+      winter the wetland is a stopover for the barnacle goose and gathers one of the largest flocks of
+      [greylag goose](/especie/anser_anser/) in Bulgaria, while the [great
+      cormorant](/especie/phalacrocorax_carbo/) from a colony on a nearby Danube island comes to fish. Herons,
+      [glossy ibis](/especie/plegadis_falcinellus/), mute swan, [western marsh
+      harrier](/especie/circus_aeruginosus/) and [bluethroat](/especie/luscinia_svecica/) also breed here.
+
+
+      It is not only a bird site: there are 27 species of amphibians and reptiles and 23 of fish, 18.1 % of
+      Bulgaria's freshwater fish, including a dense population of ninespine stickleback.
+    visit: >-
+      It is best to go with plenty of time and a pair of binoculars. There are three waymarked visitor routes,
+      two of them circular, with gazebos, benches, observation towers and shelters. The eastern route starts
+      from the Fazanaria site, skirts the eastern boundary of the reserve and reaches the southern sluice. The
+      western route leaves from the Natural History Museum, follows the western firebreak track and reaches
+      the Danube bank; and the best view of the pelican colony is from the top of Kodzha Bair, in the
+      north-west.
+
+
+      The Natural History Museum, south-west of the reserve, has a rich collection of mounted birds and
+      mammals. Its terrace offers a wide view of the lake, with telescopes and binoculars to watch birds in
+      flight or swimming; it is common to see cormorants fishing and swans. And the eco-trail circles the
+      reserve and includes birdwatching platforms and video cameras on the lake.
+    history: >-
+      The first Bulgarian scientist to take an interest in the lake was Aleksi Petrov, who visited it in 1911.
+      The area was declared a nature reserve in 1948.
+    before: >-
+      April to October is the best time. The reserve lies beside the Ruse–Silistra road and is reached by car.
+      Entering the open water by boat, for scientific work or filming, requires a permit from the Minister of
+      the Environment.
+    around: >-
+      Other wetlands in the atlas share birds with Srebarna: [Evros Delta National
+      Park](/lugar/ethniko-parko-delta-evrou/) shares the Dalmatian pelican and greylag goose, and [Persina
+      Marshes](/lugar/persina-marshes/) also shares the Dalmatian pelican.
+  fr:
+    intro: >-
+      Par pleine lune, l'eau de ce lac se couvre de reflets argentés. C'est, selon l'explication jugée la plus
+      probable, l'origine de son nom : *srebro* signifie argent en bulgare. Le lac Srébarna, à deux kilomètres
+      au sud du Danube, est le dernier lac riverain du Danube conservé en Bulgarie, une eau douce aux
+      roselières flottantes et saulaies inondées, aujourd'hui réserve naturelle et réserve de biosphère. Et
+      c'est bien plus qu'un beau lac : il se trouve sur la Via Pontica, l'une des voies migratoires qui
+      relient l'Europe et l'Afrique, et sert ainsi de site de nidification, d'escale et d'hivernage à des
+      milliers d'oiseaux.
+    landscape: >-
+      Le lac mesure entre un et trois mètres de profondeur et est entouré de roselières ; la roselière occupe
+      près des deux tiers de la surface de la réserve. Parmi les plantes figurent des hydrophytes comme le
+      roseau commun, et la réserve compte 139 espèces végétales, dont 11 menacées hors de Srébarna. Dans la
+      zone cœur il n'y a aucune activité économique ; dans la zone tampon se pratiquent l'agriculture et la
+      sylviculture.
+    wildlife: >-
+      Les chiffres parlent d'un lieu exceptionnel : 243 espèces d'oiseaux y ont été recensées, soit 57,5 % de
+      l'avifaune bulgare, et 90 d'entre elles sont d'intérêt de conservation européen. Entre le passage
+      migratoire et l'hiver se rassemblent jusqu'à 52 355 oiseaux d'eau.
+
+
+      L'oiseau emblématique du lieu est le [pélican frisé](/especie/pelecanus_crispus/) : Srébarna est son
+      unique site de reproduction en Bulgarie. À ses côtés vit une colonie de cormoran pygmée, et le fuligule
+      nyroca possède ici la plus grande population nicheuse du pays ; le lac est aussi une zone de repos et de
+      mue pour des anatidés rares comme le canard chipeau, le [fuligule milouin](/especie/aythya_ferina/) et
+      la sarcelle d'été. À la fin de l'automne et en hiver, la zone humide sert d'escale à la bernache
+      nonnette et rassemble l'un des plus grands groupes d'[oie cendrée](/especie/anser_anser/) de Bulgarie,
+      tandis que le [grand cormoran](/especie/phalacrocorax_carbo/) de la colonie d'une île voisine du Danube
+      vient y pêcher. Hérons, [ibis falcinelle](/especie/plegadis_falcinellus/), cygne tuberculé, [busard des
+      roseaux](/especie/circus_aeruginosus/) et [gorgebleue à miroir](/especie/luscinia_svecica/) y nichent
+      également.
+
+
+      Ce n'est pas seulement un site ornithologique : on y trouve 27 espèces d'amphibiens et de reptiles et 23
+      de poissons, soit 18,1 % des poissons d'eau douce de Bulgarie, dont une dense population d'épinochette à
+      neuf épines.
+    visit: >-
+      Le mieux est d'y aller avec du temps et des jumelles. Il existe trois itinéraires touristiques aménagés,
+      dont deux circulaires, avec kiosques, bancs, tours d'observation et abris. L'itinéraire oriental part du
+      lieu-dit Fazanaria, longe la limite est de la réserve et atteint l'écluse sud. L'itinéraire occidental
+      part du Musée des sciences naturelles, suit le chemin pare-feu de l'ouest et rejoint la rive du Danube ;
+      et la meilleure vue sur la colonie de pélicans s'obtient depuis le sommet de Kodzha Bair, au nord-ouest.
+
+
+      Le Musée des sciences naturelles, au sud-ouest de la réserve, possède une riche collection d'oiseaux et
+      de mammifères naturalisés. Sa terrasse offre une large vue sur le lac, avec télescopes et jumelles pour
+      observer les oiseaux en vol ou à la nage ; il est fréquent de voir des cormorans pêcher et des cygnes.
+      Le sentier écologique fait le tour de la réserve avec des plateformes d'observation et des caméras vidéo
+      sur le lac.
+    history: >-
+      Le premier scientifique bulgare à s'intéresser au lac fut Aleksi Petrov, qui le visita en 1911. Le site
+      fut déclaré réserve naturelle en 1948.
+    before: >-
+      D'avril à octobre est la meilleure période. La réserve se trouve le long de la route Ruse–Silistra et
+      est accessible en voiture. Pénétrer sur le plan d'eau en barque, à des fins scientifiques ou de
+      tournage, exige une autorisation du ministre de l'Environnement.
+    around: >-
+      D'autres zones humides de l'atlas partagent des oiseaux avec Srébarna : le [Parc national du delta de
+      l'Évros](/lugar/ethniko-parko-delta-evrou/) partage le pélican frisé et l'oie cendrée, et les [Marais de
+      Persina](/lugar/persina-marshes/) partagent aussi le pélican frisé.
+  de:
+    intro: >-
+      Bei Vollmond überzieht sich das Wasser dieses Sees mit silbrigen Reflexen. Das ist nach der
+      wahrscheinlichsten Erklärung der Grund für seinen Namen: *srebro* bedeutet auf Bulgarisch Silber. Der
+      Srebarna-See, zwei Kilometer südlich der Donau, ist der letzte erhaltene Flussufersee der Donau in
+      Bulgarien, ein Süßwassergewässer mit schwimmenden Schilfinseln und überfluteten Weidenwäldern, heute
+      Naturreservat und Biosphärenreservat. Und er ist weit mehr als ein schöner See: Er liegt an der Via
+      Pontica, einer der Zugrouten zwischen Europa und Afrika, und ist daher Brut-, Rast- und
+      Überwinterungsplatz für Tausende von Vögeln.
+    landscape: >-
+      Der See ist zwischen ein und drei Meter tief und von Schilfröhricht umgeben; das Röhricht nimmt rund
+      zwei Drittel der Reservatsfläche ein. Unter den Pflanzen finden sich Wasserpflanzen wie das Schilfrohr,
+      und das Reservat zählt 139 Pflanzenarten, von denen 11 außerhalb von Srebarna gefährdet sind. In der
+      Kernzone gibt es keine wirtschaftliche Nutzung; in der Pufferzone werden Landwirtschaft und
+      Forstwirtschaft betrieben.
+    wildlife: >-
+      Die Zahlen sprechen für einen außergewöhnlichen Ort: Es wurden 243 Vogelarten nachgewiesen, 57,5 % der
+      bulgarischen Vogelwelt, und 90 davon sind Arten von europäischem Schutzinteresse. Zwischen Vogelzug und
+      Winter versammeln sich hier bis zu 52.355 Wasservögel.
+
+
+      Der Charaktervogel des Gebiets ist der [Krauskopfpelikan](/especie/pelecanus_crispus/): Srebarna ist
+      sein einziger Brutplatz in Bulgarien. Daneben gibt es eine Kolonie der Zwergscharbe, und die Moorente
+      hat hier ihren größten Brutbestand des Landes; der See ist zudem Rast- und Mauserplatz für seltene
+      Entenvögel wie Schnatterente, [Tafelente](/especie/aythya_ferina/) und Knäkente. Im Spätherbst und
+      Winter ist das Feuchtgebiet Rastplatz für die Weißwangengans und versammelt eine der größten Gruppen der
+      [Graugans](/especie/anser_anser/) in Bulgarien, während der [Kormoran](/especie/phalacrocorax_carbo/)
+      aus einer Kolonie auf einer nahen Donauinsel zum Fischen kommt. Zudem brüten hier Reiher, [Brauner
+      Sichler](/especie/plegadis_falcinellus/), Höckerschwan, [Rohrweihe](/especie/circus_aeruginosus/) und
+      [Blaukehlchen](/especie/luscinia_svecica/).
+
+
+      Es ist nicht nur ein Vogelgebiet: Es gibt 27 Amphibien- und Reptilienarten sowie 23 Fischarten, 18,1 %
+      der Süßwasserfische Bulgariens, darunter eine dichte Population des Neunstachligen Stichlings.
+    visit: >-
+      Am besten nimmt man sich Zeit und ein Fernglas mit. Es gibt drei eingerichtete Besucherrouten, zwei
+      davon Rundwege, mit Pavillons, Bänken, Beobachtungstürmen und Schutzhütten. Die östliche Route startet
+      am Ort Fazanaria, folgt der Ostgrenze des Reservats und erreicht die Südschleuse. Die westliche Route
+      beginnt am Naturkundemuseum, folgt dem westlichen Brandschutzweg und erreicht das Donauufer; den besten
+      Blick auf die Pelikankolonie hat man vom Gipfel des Kodzha Bair im Nordwesten.
+
+
+      Das Naturkundemuseum südwestlich des Reservats besitzt eine reiche Sammlung präparierter Vögel und
+      Säugetiere. Seine Terrasse bietet einen weiten Blick über den See, mit Spektiven und Ferngläsern zum
+      Beobachten fliegender oder schwimmender Vögel; häufig sieht man Kormorane beim Fischen und Schwäne. Der
+      Öko-Lehrpfad umrundet das Reservat und umfasst Plattformen zur Vogelbeobachtung sowie Videokameras am
+      See.
+    history: >-
+      Der erste bulgarische Wissenschaftler, der sich für den See interessierte, war Aleksi Petrov, der ihn
+      1911 besuchte. 1948 wurde das Gebiet zum Naturreservat erklärt.
+    before: >-
+      April bis Oktober ist die beste Zeit. Das Reservat liegt an der Straße Ruse–Silistra und ist mit dem
+      Auto erreichbar. Das Befahren der Wasserfläche mit dem Boot zu wissenschaftlichen Zwecken oder für
+      Filmaufnahmen erfordert eine Genehmigung des Umweltministers.
+    around: >-
+      Andere Feuchtgebiete im Atlas teilen Vögel mit Srebarna: Der [Nationalpark
+      Evros-Delta](/lugar/ethniko-parko-delta-evrou/) teilt Krauskopfpelikan und Graugans, und die [Sümpfe von
+      Persina](/lugar/persina-marshes/) ebenfalls den Krauskopfpelikan.
+  it:
+    intro: >-
+      Con la luna piena, l'acqua di questo lago si copre di riflessi argentei. È questa, secondo la
+      spiegazione ritenuta più probabile, l'origine del suo nome: *srebro* significa argento in bulgaro. Il
+      lago Srebarna, due chilometri a sud del Danubio, è l'ultimo lago fluviale del Danubio conservato in
+      Bulgaria, uno specchio d'acqua dolce con canneti galleggianti e saliceti allagati, oggi riserva naturale
+      e riserva della biosfera. Ed è molto più di un bel lago: si trova lungo la Via Pontica, una delle rotte
+      migratorie che uniscono Europa e Africa, e per questo è luogo di nidificazione, sosta e svernamento per
+      migliaia di uccelli.
+    landscape: >-
+      Il lago è profondo tra uno e tre metri ed è circondato da canneti; il canneto occupa circa due terzi
+      della superficie della riserva. Tra le piante ci sono idrofite come la cannuccia di palude, e la riserva
+      conta 139 specie vegetali, 11 delle quali minacciate fuori da Srebarna. Nella zona nucleo non vi è
+      attività economica; nella zona cuscinetto si praticano l'agricoltura e la selvicoltura.
+    wildlife: >-
+      I numeri parlano di un luogo eccezionale: sono state registrate 243 specie di uccelli, il 57,5 %
+      dell'avifauna bulgara, e 90 di esse sono di interesse conservazionistico europeo. Tra passo migratorio e
+      inverno arrivano a radunarsi fino a 52.355 uccelli acquatici.
+
+
+      L'uccello simbolo del sito è il [pellicano riccio](/especie/pelecanus_crispus/): Srebarna è il suo unico
+      luogo di riproduzione in Bulgaria. Accanto a esso c'è una colonia di marangone minore, e la moretta
+      tabaccata ha qui la maggiore popolazione nidificante del paese; il lago è inoltre area di sosta e di
+      muta per anatidi rari come canapiglia, [moriglione](/especie/aythya_ferina/) e marzaiola. A fine autunno
+      e in inverno la zona umida è tappa dell'oca facciabianca e raduna uno dei maggiori gruppi di [oca
+      selvatica](/especie/anser_anser/) della Bulgaria, mentre il [cormorano
+      comune](/especie/phalacrocorax_carbo/) della colonia di una vicina isola del Danubio viene qui a
+      pescare. Vi nidificano anche aironi, il [mignattaio](/especie/plegadis_falcinellus/), il cigno reale, il
+      [falco di palude](/especie/circus_aeruginosus/) e il [pettazzurro](/especie/luscinia_svecica/).
+
+
+      Non è solo un luogo per uccelli: ci sono 27 specie di anfibi e rettili e 23 di pesci, il 18,1 % dei
+      pesci d'acqua dolce della Bulgaria, tra cui una densa popolazione di spinarello a nove spine.
+    visit: >-
+      La cosa migliore è andare con tempo e un binocolo. Ci sono tre percorsi turistici attrezzati, due dei
+      quali circolari, con gazebo, panchine, torri di osservazione e rifugi. Quello orientale parte dalla
+      località Fazanaria, costeggia il limite est della riserva e arriva alla chiusa sud. Quello occidentale
+      parte dal Museo di Scienze Naturali, segue la pista tagliafuoco occidentale e raggiunge la riva del
+      Danubio; la vista migliore sulla colonia di pellicani si ha dalla cima di Kodzha Bair, a nord-ovest.
+
+
+      Il Museo di Scienze Naturali, a sud-ovest della riserva, ospita una ricca collezione di uccelli e
+      mammiferi naturalizzati. La sua terrazza offre un'ampia vista sul lago, con cannocchiali e binocoli per
+      osservare gli uccelli in volo o mentre nuotano; è abituale vedere cormorani pescare e cigni. Il sentiero
+      ecologico circonda la riserva e include piattaforme per il birdwatching e telecamere sul lago.
+    history: >-
+      Il primo scienziato bulgaro a interessarsi al lago fu Aleksi Petrov, che lo visitò nel 1911. L'area fu
+      dichiarata riserva naturale nel 1948.
+    before: >-
+      Da aprile a ottobre è il periodo migliore. La riserva si trova lungo la strada Ruse–Silistra e si
+      raggiunge in auto. Entrare nello specchio d'acqua in barca, per fini scientifici o riprese, richiede il
+      permesso del ministro dell'Ambiente.
+    around: >-
+      Altre zone umide dell'atlante condividono uccelli con Srebarna: il [Parco Nazionale del Delta
+      dell'Evros](/lugar/ethniko-parko-delta-evrou/) condivide il pellicano riccio e l'oca selvatica, e le
+      [Paludi di Persina](/lugar/persina-marshes/) condividono anch'esse il pellicano riccio.
+  pt:
+    intro: >-
+      Com lua cheia, a água deste lago cobre-se de reflexos prateados. Essa é, segundo a explicação
+      considerada mais provável, a razão do seu nome: *srebro* significa prata em búlgaro. O lago Srébarna, a
+      dois quilómetros a sul do Danúbio, é o último lago ribeirinho do Danúbio conservado na Bulgária, uma
+      água doce com caniços flutuantes e salgueirais alagados, hoje reserva natural e reserva da biosfera. E é
+      muito mais do que um lago bonito: fica na Via Pontica, uma das rotas migratórias que ligam a Europa e
+      África, sendo por isso local de criação, escala e invernada para milhares de aves.
+    landscape: >-
+      O lago tem entre um e três metros de profundidade e está rodeado de caniços; o canavial ocupa cerca de
+      dois terços da superfície da reserva. Entre as plantas há hidrófitas como o caniço, e a reserva conta
+      com 139 espécies vegetais, 11 delas ameaçadas fora de Srébarna. Na zona núcleo não há atividade
+      económica; na zona tampão praticam-se a agricultura e a silvicultura.
+    wildlife: >-
+      Os números falam de um lugar excecional: foram registadas 243 espécies de aves, 57,5 % da avifauna
+      búlgara, sendo 90 delas espécies de interesse de conservação europeu. Entre a passagem migratória e o
+      inverno chegam a reunir-se até 52.355 aves aquáticas.
+
+
+      A ave do lugar é o [pelicano-crespo](/especie/pelecanus_crispus/): Srébarna é o seu único local de
+      criação na Bulgária. Junto a ele há uma colónia de corvo-marinho-pigmeu, e o zarro-castanho tem aqui a
+      maior população reprodutora do país; o lago é ainda área de repouso e de muda para anatídeos raros como
+      a frisada, o [zarro-comum](/especie/aythya_ferina/) e a marreco. No final do outono e no inverno a zona
+      húmida é escala do ganso-de-faces-brancas e reúne um dos maiores grupos de
+      [ganso-bravo](/especie/anser_anser/) da Bulgária, enquanto o
+      [corvo-marinho-de-faces-brancas](/especie/phalacrocorax_carbo/) da colónia de uma ilha próxima do
+      Danúbio vem pescar. Também nidificam garças, o [íbis-preto](/especie/plegadis_falcinellus/), o
+      cisne-vulgar, o [tartaranhão-ruivo-dos-pauis](/especie/circus_aeruginosus/) e o
+      [pisco-de-peito-azul](/especie/luscinia_svecica/).
+
+
+      Não é apenas um lugar de aves: há 27 espécies de anfíbios e répteis e 23 de peixes, 18,1 % dos peixes de
+      água doce da Bulgária, entre eles uma densa população de esgana-gata-de-nove-espinhos.
+    visit: >-
+      O melhor é ir com tempo e uns binóculos. Há três percursos turísticos com infraestruturas, dois deles
+      circulares, com mirantes, bancos, torres de observação e abrigos. O oriental parte do sítio Fazanaria,
+      margeia o limite este da reserva e chega à comporta sul. O ocidental sai do Museu de Ciências Naturais,
+      segue o caminho corta-fogo de oeste e chega à margem do Danúbio; e a melhor vista da colónia de
+      pelicanos tem-se do cimo de Kodzha Bair, a noroeste.
+
+
+      O Museu de Ciências Naturais, a sudoeste da reserva, tem uma rica coleção de aves e mamíferos
+      naturalizados. O seu terraço dá uma ampla vista do lago, com telescópios e binóculos para ver aves em
+      voo ou a nadar; é habitual ver corvos-marinhos a pescar e cisnes. E o trilho ecológico rodeia a reserva
+      e inclui plataformas para observar aves e câmaras de vídeo no lago.
+    history: >-
+      O primeiro cientista búlgaro a interessar-se pelo lago foi Aleksi Petrov, que o visitou em 1911. A zona
+      foi declarada reserva natural em 1948.
+    before: >-
+      Abril a outubro é a melhor época. A reserva fica junto à estrada Ruse–Silistra e chega-se de carro.
+      Entrar na lâmina de água de barco, para fins científicos ou filmagens, exige autorização do ministro do
+      Ambiente.
+    around: >-
+      Outras zonas húmidas do atlas partilham aves com Srébarna: o [Parque Nacional do Delta do
+      Evros](/lugar/ethniko-parko-delta-evrou/) partilha o pelicano-crespo e o ganso-bravo, e os [Pântanos de
+      Persina](/lugar/persina-marshes/) também o pelicano-crespo.
+fuentes:
+  - url: https://www.unesco.org/en/mab/srebarna
+    titulo: Srébarna | UNESCO Man and the Biosphere Programme
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tourism.government.bg/sites/tourism.government.bg/files/bulletin-eden-10_1.pdf
+    titulo: Srebarna Nature Reserve | Ministry of Tourism of Bulgaria
+    fecha_consulta: '2026-10-31'
+  - url: https://en.wikipedia.org/wiki/Srebarna_Nature_Reserve
+    titulo: Srebarna Nature Reserve – Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://bg.wikipedia.org/wiki/Сребърна_(резерват)
+    titulo: Сребърна (резерват) – Уикипедия
+    fecha_consulta: '2026-10-31'
+  - url: https://riosv-ruse.org/pr-srebarna/turizam
+    titulo: Възможности за туризъм на територията на Поддържан резерват „Сребърна” – РИОСВ Русе
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Srebarna-Lake.jpg
+    autor: Ivelin Minkov
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0/
+    fecha_descarga: '2026-10-03'

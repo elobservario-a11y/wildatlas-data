@@ -1,0 +1,497 @@
+id: cape-clear-island
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Cape Clear
+  en: Cape Clear Island
+  fr: Île de Cape Clear
+  de: Cape Clear Island
+  it: Isola di Cape Clear
+  pt: Ilha de Cape Clear
+nombre_original: Cape Clear Island / Cléire
+alias:
+  - Cape Clear Island
+  - Cléire
+paises:
+  - IE
+region:
+  es: Condado de Cork (Extremo meridional / Wild Atlantic Way)
+  en: County Cork (Southernmost point / Wild Atlantic Way)
+  fr: Comté de Cork (Pointe méridionale / Wild Atlantic Way)
+  de: County Cork (Südlichster Punkt / Wild Atlantic Way)
+  it: Contea di Cork (Estremo meridionale / Wild Atlantic Way)
+  pt: Condado de Cork (Extremo meridional / Wild Atlantic Way)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/8495304
+  nombre_en_la_fuente: Cléire
+  capa: capas/osm/cape-clear-island.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - ramsar
+especies:
+  - puffinus_gravis
+  - puffinus_griseus
+  - puffinus_yelkouan
+  - balaenoptera_acutorostrata
+  - delphinus_delphis
+  - phocoena_phocoena
+temporada_ideal:
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: Migración pelágica; Nidificación
+  en: Pelagic migration; Nesting
+  fr: Migration pélagique ; Nidification
+  de: Pelagischer Zug; Brutzeit
+  it: Migrazione pelagica; Nidificazione
+  pt: Migração pelágica; Nidificação
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Cape Clear Bird Observatory Official
+    url: https://birdwatchireland.ie/
+resumen:
+  es: >-
+    Isla atlántica meridional de Irlanda, observatorio ornitológico de aves marinas y paso migratorio de
+    cetáceos y tiburones peregrinos.
+  en: >-
+    Ireland's southernmost inhabited Atlantic island, home to a legendary bird observatory tracking pelagic
+    migration, cetaceans, and basking sharks.
+  fr: >-
+    Île atlantique méridionale d'Irlande, observatoire ornithologique d'oiseaux marins et couloir de migration
+    de cétacés et requins pèlerins.
+  de: >-
+    Irlands südlichste bewohnte Atlantikinsel, traditionsreiche Vogelwarte zur Beobachtung des Seevogelzugs,
+    von Walen und Riesenhaien.
+  it: >-
+    Isola atlantica all'estremità meridionale dell'Irlanda, storico osservatorio ornitologico pelagico e rotta
+    di cetacei e squali elefante.
+  pt: >-
+    Ilha atlântica mais meridional da Irlanda, observatório ornitológico de aves marinhas e rota de cetáceos e
+    tubarões-frade.
+unico:
+  es: >-
+    Un observatorio que lleva desde 1959 anillando aves en el punto más al sur de Irlanda habitado, donde a
+    veces aparecen rarezas de Norteamérica y Siberia.
+  en: >-
+    An island bird observatory that has been ringing birds continuously since 1959 at Ireland's southernmost
+    inhabited outpost, where vagrants from North America and Siberia regularly appear.
+  fr: >-
+    Un observatoire baguant des oiseaux depuis 1959 sur la terre habitée la plus méridionale d'Irlande, où
+    apparaissent des égarés d'Amérique du Nord et de Sibérie.
+  de: >-
+    Eine Insel-Vogelwarte, die seit 1959 am südlichsten bewohnten Punkt Irlands Vögel beringt, wo regelmäßig
+    Ausnahmeerscheinungen aus Nordamerika und Sibirien stranden.
+  it: >-
+    Un osservatorio che inanella uccelli dal 1959 nell'avamposto abitato più a sud d'Irlanda, dove compaiono
+    regolarmente specie accidentali nordamericane e siberiane.
+  pt: >-
+    Um observatório que anilha aves desde 1959 no posto habitado mais a sul da Irlanda, onde ocorrem com
+    frequência raridades da América do Norte e Sibéria.
+observaciones:
+  es: 'Se llega solo en ferri: comprueba los horarios de las salidas antes de organizar la visita.'
+texto:
+  es:
+    intro: >-
+      Un herrerillo común cruzó el mar de Irlanda y lo sabemos porque alguien lo anilló nueve días antes en
+      Gales. Es el único caso vivo de esa travesía que se conoce, y ocurrió en Cape Clear. Eso lo dice todo de
+      esta isla: es un puesto de escucha en el extremo sur de Irlanda, a donde llegan, empujadas por el viento
+      y la migración, aves que no deberían estar aquí. Cléire, su nombre oficial en irlandés, es la parte
+      habitada más meridional del país, en la costa suroeste del condado de Cork, y desde 1959 tiene un
+      observatorio de aves en el North Harbour.
+    landscape: >-
+      La isla está dividida en dos mitades, este y oeste, por un istmo estrecho al que llaman the Waist. A un
+      lado queda el North Harbour, del lado de tierra, y al otro el South Harbour, del lado del mar. Su punto
+      más alto, Cnoicín an tSeabhaic, llega a 160 m. A 6,5 km al suroeste queda el faro de Fastnet, el punto
+      más meridional de Irlanda.
+
+
+      Es una isla pequeña con mucha historia. Hay una piedra prehistórica con cazoletas, un fulacht fiadh, una
+      tumba de pasillo neolítica, menhires, un fuerte de promontorio en Dún an Óir y una torre de señales de
+      las guerras napoleónicas. Cerca del muelle principal del North Harbour está la ruina de una iglesia del
+      siglo XII, monumento nacional protegido. La isla es Gaeltacht: el irlandés se habla a diario.
+    wildlife: >-
+      Cape Clear es, según BirdWatch Ireland, uno de los mejores lugares de Europa para ver migración de aves
+      marinas, sobre todo a finales de verano. Es la hora de mirar al mar. Entre las aves de la isla están el
+      [arao común](/especie/uria_aalge/), el [paíño europeo](/especie/hydrobates_pelagicus/) y los cormoranes,
+      y en las aguas de alrededor se ven con frecuencia focas, tiburones peregrinos y delfines. En tierra son
+      comunes la armería marítima y la madreselva.
+
+
+      En primavera y otoño llegan los pájaros cantores camino de sus zonas de cría, o de vuelta, y entre ellos
+      suele haber uno o dos extraviados de Norteamérica y Siberia. Los de otoño, como el mosquitero musical,
+      la curruca zarcera, el carricerín común, el mosquitero común y la collalba gris, hacen escala aquí
+      camino de sus cuarteles de invierno africanos. En septiembre son habituales además el torcecuello, el
+      papamoscas cerrojillo, el colirrojo real, el mosquitero silbador y el carricero común. El anillamiento
+      revela las historias más raras: 125 carboneros garrapinos en otoño de 2008, cuando hasta entonces solo
+      se habían anillado 91; un vireo ojirrojo en septiembre de 2004, todavía el registro europeo más
+      temprano; y el ruiseñor ruso y el escribano pigmeo.
+    visit: >-
+      Se llega en ferri desde Baltimore o desde Schull. En Baltimore se puede aparcar junto al muelle del que
+      sale el ferri, pero no es raro que el aparcamiento esté lleno, así que deja tiempo extra.
+
+
+      El observatorio está junto al North Harbour, con fácil acceso a los servicios y al centro de la isla, y
+      a un paseo fácil de varios de los principales puntos de observación. BirdWatch Ireland organiza fines de
+      semana de fauna con el guarda del observatorio y el curso «Seabirds to Songbirds», un viaje por la
+      migración de las aves y la observación del mar.
+    history: >-
+      El anillamiento se hace en Cape Clear desde 1959. Como pasan relativamente pocos paseriformes migrantes,
+      es raro que se anillen más de cien aves en un día, y eso reduce las posibilidades de obtener controles,
+      aves anilladas aquí y recapturadas en otro lugar, o al revés. Los controles fueron la razón original de
+      anillar, como guía de los patrones migratorios. Hoy se valoran igual las poblaciones residentes: los
+      totales anuales muestran si suben o bajan y cómo se compara con la tendencia nacional. La lista de
+      anillamiento llegaba a 128 especies a finales de 2016.
+    before: 'Se llega solo en ferri: comprueba los horarios de las salidas antes de organizar la visita.'
+    around: >-
+      Cape Clear no tiene vecinos cercanos en el atlas, pero comparte hábitats costeros y marinos con otros
+      lugares. Con [Great Blasket](/lugar/great-blasket-island/) comparte la marsopa común; con el [Park
+      prirode Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) y las [Islas
+      Selvajes](/lugar/islas-selvajes/), el delfín común; y con el [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/), la marsopa común.
+  en:
+    intro: >-
+      A Eurasian blue tit crossed the Irish Sea, and we know this because someone had ringed it nine days
+      earlier in Wales. That remains the only recorded live crossing of its kind, and it concluded here on
+      Cape Clear. That singular feat captures the essence of this outpost: a sentinel station at the southern
+      extremity of Ireland, receiving wind-drifted migrants and rare vagrants far displaced from normal
+      flyways. Oileán Chléire, its official Irish name, is the southernmost inhabited territory in Ireland,
+      lying off the southwest coast of County Cork; since 1959 it has hosted an acclaimed bird observatory at
+      North Harbour.
+    landscape: >-
+      The island is neatly partitioned into eastern and western halves by a narrow sandy isthmus locally
+      termed the Waist. On the sheltered landward side lies North Harbour; on the open oceanic side opens
+      South Harbour. Its highest elevation, Cnoicín an tSeabhaic, ascends to 160 m. Some 6.5 km to the
+      southwest looms the isolated Fastnet Rock lighthouse, Ireland's southern sentinel.
+
+
+      Despite its compact scale, ancient heritage marks the terrain: a prehistoric cup-marked boulder, a
+      Bronze Age *fulacht fiadh* cooking trough, a Neolithic passage tomb, standing stones, an Iron Age
+      promontory fort at Dún an Óir, and a Napoleonic signal tower. Adjacent to the main North Harbour pier
+      stand the ruins of a twelfth-century church, a protected national monument. The island is an official
+      Gaeltacht enclave where the Irish language is spoken daily.
+    wildlife: >-
+      According to BirdWatch Ireland, Cape Clear ranks among the preeminent seawatching locations in Europe,
+      especially during late summer. This is prime time to scan offshore waters. Breeding and pelagic species
+      include the [common murre](/especie/uria_aalge/), [European storm
+      petrel](/especie/hydrobates_pelagicus/), and cormorants, while grey seals, basking sharks, and common
+      dolphins regularly patrol the bays. On dry land, thrift and honeysuckle cascade over stone walls.
+
+
+      Spring and autumn usher in weary songbirds pausing on their journeys between breeding grounds and winter
+      quarters, frequently mingled with transatlantic or Siberian vagrants. Autumn migrants such as willow
+      warblers, common whitethroats, sedge warblers, common chiffchaffs, and northern wheatears make landfall
+      en route to tropical Africa. September reliably brings Eurasian wrynecks, European pied flycatchers,
+      common redstarts, wood warblers, and Eurasian reed warblers. Constant ringing uncovers extraordinary
+      ornithological records: 125 coal tits ringed in autumn 2008 where only 91 had been banded previously; a
+      red-eyed vireo trapped in September 2004 representing the earliest autumn record for Europe; alongside
+      thrush nightingales and little buntings.
+    visit: >-
+      Access is by passenger ferry departing from Baltimore or Schull. At Baltimore, public parking is located
+      beside the ferry pier, though spaces often fill on sunny days, so allow extra time.
+
+
+      The observatory stands right beside North Harbour with straightforward access to island amenities and
+      easy walking routes to renowned seawatching headlands. BirdWatch Ireland hosts guided wildlife weekends
+      led by the observatory warden alongside the popular «Seabirds to Songbirds» course, introducing pelagic
+      observation techniques and migration ecology.
+    history: >-
+      Systematic bird ringing has been carried out on Cape Clear since 1959. Because overall numbers of
+      grounded passerines are relatively modest, ringing over one hundred birds in a single day is
+      exceptional, limiting recovery rates of banded individuals. Ring recoveries were the foundational
+      justification for early ringing schemes to unravel migration routes. Today, monitoring resident and
+      breeding populations holds equal value: annual totals reveal population fluctuations compared against
+      national trends. The observatory ringing list stood at 128 species by late 2016.
+    before: >-
+      The island is reachable exclusively by ferry: check sailing schedules and weather forecasts before
+      confirming travel arrangements.
+    around: >-
+      Cape Clear shares marine and coastal biotas with several atlas sites. With [Great
+      Blasket](/lugar/great-blasket-island/) it shares the harbour porpoise; with [Park prirode Lastovsko
+      otočje](/lugar/park-prirode-lastovsko-otocje/) and [Islas Selvajes](/lugar/islas-selvajes/), the
+      short-beaked common dolphin; and with [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/), the harbour porpoise.
+  fr:
+    intro: >-
+      Une mésange bleue a traversé la mer d'Irlande, et nous le savons parce qu'elle avait été baguée neuf
+      jours plus tôt au pays de Galles. C'est l'unique cas documenté d'une telle traversée réussie, et elle
+      s'est conclue à Cape Clear. Cela résume tout de cette île : un poste d'écoute à l'extrémité australe de
+      l'Irlande, où atterrissent, portés par les vents et l'instinct migratoire, des oiseaux égarés loin de
+      leurs routes habituelles. Cléire, son nom officiel en langue irlandaise, constitue la terre habitée la
+      plus méridionale du pays, au sud-ouest du comté de Cork ; depuis 1959, elle abrite un observatoire
+      ornithologique renommé au North Harbour.
+    landscape: >-
+      L'île est séparée en deux moitiés, orientale et occidentale, par un étroit isthme sableux appelé the
+      Waist. D'un côté s'abrite le North Harbour, tourné vers la côte ferme ; de l'autre s'ouvre le South
+      Harbour, battu par la houle du large. Son point culminant, Cnoicín an tSeabhaic, atteint 160 m. À 6,5 km
+      au sud-ouest se dresse le phare isolé du Fastnet Rock, ultime sentinelle rocheuse d'Irlande.
+
+
+      C'est une petite île chargée d'histoire : une pierre préhistorique à cupules, un *fulacht fiadh* de
+      l'âge du bronze, une tombe à couloir néolithique, des menhirs, un fort de promontoire à Dún an Óir et
+      une tour de vigie napoléonienne. Près du débarcadère de North Harbour subsistent les ruines d'une église
+      du XIIe siècle, monument national classé. L'île appartient au Gaeltacht : la langue gaélique y résonne
+      quotidiennement.
+    wildlife: >-
+      D'après BirdWatch Ireland, Cape Clear figure parmi les meilleurs observatoires d'oiseaux marins
+      d'Europe, singulièrement à la fin de l'été. C'est alors l'heure du seawatching. Parmi les oiseaux de mer
+      figurent le [guillemot de Troïl](/especie/uria_aalge/), l'[océanite
+      tempête](/especie/hydrobates_pelagicus/) et les cormorans ; phoques gris, requins pèlerins et dauphins
+      croisent fréquemment au large. À terre, l'armérie maritime et le chèvrefeuille tapissent les murets de
+      pierre.
+
+
+      Au printemps et à l'automne font halte des passereaux en route vers leurs aires de reproduction ou
+      d'hivernage, parmi lesquels s'égarent parfois des migrateurs d'Amérique du Nord ou de Sibérie. Les
+      migrateurs d'automne tels que le pouillot fitis, la fauvette grisette, le phragmite des joncs, le
+      pouillot véloce et le traquet motteux y font relâche avant la traversée vers l'Afrique. En septembre
+      transitent également le torcol fourmilier, le gobe-mouche noir, le rougequeue à front blanc, le pouillot
+      siffleur et la rousserolle effarvatte. Le baguage révèle des données historiques saisissantes : 125
+      mésanges noires capturées à l'automne 2008 alors que 91 individus seulement avaient été bagués
+      auparavant ; un viréo aux yeux rouges en septembre 2004, le signalement automnal le plus précoce pour
+      l'Europe ; ainsi que le rossignol progné et le bruant nain.
+    visit: >-
+      On y accède en ferry au départ de Baltimore ou de Schull. À Baltimore, un parking borde le quai
+      d'embarquement, mais les places se raréfient lors des beaux jours : prévoyez une marge horaire.
+
+
+      L'observatoire se trouve à proximité immédiate de North Harbour, permettant un accès aisé aux commodités
+      et aux falaises d'observation du sud-ouest. BirdWatch Ireland y organise des week-ends naturalistes
+      animés par le bagueur en chef ainsi que la formation « Seabirds to Songbirds », dédiée à l'initiation au
+      suivi de la migration pélagique.
+    history: >-
+      Le baguage scientifique s'exerce à Cape Clear depuis 1959. Le passage des passereaux migrateurs
+      s'effectuant par vagues diffuses, il est exceptionnel de capturer plus de cent oiseaux en une seule
+      journée, limitant le taux de reprises d'individus bagués ailleurs. Les contrôles de bagues constituaient
+      la finalité historique de ces stations pour cartographier les voies migratoires. Aujourd'hui, le suivi
+      des populations nicheuses et sédentaires revêt une importance équivalente, les totaux annuels éclairant
+      les dynamiques régionales. Le registre comptait 128 espèces baguées à la fin de 2016.
+    before: >-
+      L'accès s'effectue exclusivement par voie maritime : vérifiez les horaires de traversée et les
+      prévisions météo avant le départ.
+    around: >-
+      Cape Clear partage des écosystèmes littoraux et marins avec plusieurs sites de l'atlas. Avec [Great
+      Blasket](/lugar/great-blasket-island/) il partage le marsouin commun ; avec le [Park prirode Lastovsko
+      otočje](/lugar/park-prirode-lastovsko-otocje/) et les [Islas Selvajes](/lugar/islas-selvajes/), le
+      dauphin commun ; et avec le [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/), le marsouin commun.
+  de:
+    intro: >-
+      Eine Blaumeise flog über die Irische See, und wir wissen es, weil sie neun Tage zuvor in Wales beringt
+      worden war. Es ist der einzige dokumentierte Fall eines solchen Meeresflugs, und er endete auf Cape
+      Clear. Das beschreibt den Charakter dieser Insel treffend: Sie ist eine Horchstation am südlichsten
+      Zipfel Irlands, an der durch Winddrift und Zugstau Vögel stranden, die hier eigentlich nicht vorkommen
+      sollten. Cléire, so der offizielle irische Name, ist der südlichste bewohnte Ort des Landes an der
+      Südwestküste des County Cork; seit 1959 besteht eine Vogelwarte am North Harbour.
+    landscape: >-
+      Die Insel wird durch einen schmalen sandigen Isthmus namens the Waist in eine Ost- und eine Westhälfte
+      geteilt. Auf der geschützten Landseite liegt der North Harbour, auf der offenen Meerseite der South
+      Harbour. Die höchste Erhebung, Cnoicín an tSeabhaic, ragt 160 m auf. Etwa 6,5 km südwestlich steht auf
+      einer einsamen Schäre der Leuchtturm Fastnet Rock, Irlands südlichster Außenposten.
+
+
+      Trotz ihrer geringen Größe birgt die Insel reiche Geschichte: einen vorgeschichtlichen Schalenstein,
+      einen *Fulacht Fiadh* aus der Bronzezeit, ein neolithisches Ganggrab, Menhire, ein eisenzeitliches
+      Promontory Fort in Dún an Óir und einen Signalturm aus napoleonischer Zeit. Nahe dem Pier im North
+      Harbour stehen die Ruinen einer Kirche aus dem zwölften Jahrhundert, ein geschütztes Nationalmonument.
+      Die Insel ist Gaeltacht: Irisch wird im Alltag gesprochen.
+    wildlife: >-
+      Laut BirdWatch Ireland zählt Cape Clear zu den führenden Seawatching-Plätzen Europas, besonders im
+      Spätsommer. Dann lohnt der Blick auf die Dünung. Zu den Seevögeln gehören
+      [Trottellumme](/especie/uria_aalge/), [Sturmschwalbe](/especie/hydrobates_pelagicus/) und Kormorane; in
+      den umliegenden Meeresarmen kreuzen regelmäßig Kegelrobben, Riesenhaie und Delfine. An Land zieren
+      Grasnelke und Waldgeißblatt die Steinmauern.
+
+
+      Im Frühjahr und Herbst rasten Singvögel auf dem Weg in ihre Brut- oder Winterquartiere, unter denen sich
+      immer wieder Irrgäste aus Nordamerika oder Sibirien befinden. Herbstzieher wie Fitis, Dorngrasmücke,
+      Schilfrohrsänger, Zilpzalp und Steinschmätzer machen hier Station auf dem Zug nach Afrika. Im September
+      treten regelmäßig Wendehals, Trauerschnäpper, Gartenrotschwanz, Waldlaubsänger und Teichrohrsänger auf.
+      Die Beringungsstation liefert spektakuläre Nachweise: 125 Tannenmeisen im Herbst 2008, nachdem zuvor
+      insgesamt erst 91 beringt worden waren; ein Rotaugenvireo im September 2004, der bis heute den frühesten
+      europäischen Herbstnachweis darstellt; dazu Sprosser und Zwergammer.
+    visit: >-
+      Die Anreise erfolgt per Passagierfähre ab Baltimore oder Schull. Am Hafen von Baltimore stehen
+      Parkplätze bereit, die an sonnigen Tagen rasch belegt sind; plane zusätzliche Zeit ein.
+
+
+      Die Vogelwarte liegt direkt am North Harbour, mit kurzen Wegen zu den Einrichtungen der Insel und zu den
+      Beobachtungspunkten an den Klippen. BirdWatch Ireland veranstaltet Naturwochenenden mit dem
+      Stationsleiter sowie den Kurs «Seabirds to Songbirds» zur Einführung in die Meeresbeobachtung.
+    history: >-
+      Auf Cape Clear werden seit 1959 planmäßig Vögel beringt. Da Passantenströme kleinräumig auftreten,
+      werden selten mehr als hundert Vögel an einem Tag beringt, was die Wiederfundrate von Fremdringen
+      limitiert. Ringfunde bildeten den historischen Ausgangspunkt der Vogelzugforschung. Heute liegt das
+      Augenmerk gleichermaßen auf lokalen Beständen: Die Jahresgesamtzahlen spiegeln Bestandstrends wider. Die
+      Beringungsliste erreichte 128 Arten bis zum Jahresende 2016.
+    before: >-
+      Die Insel ist ausschließlich per Fähre erreichbar: Fährpläne und Wetterberichte vorab sorgfältig
+      abgleichen.
+    around: >-
+      Cape Clear teilt Lebensräume mit anderen Küsten- und Meeresgebieten des Atlas. Mit [Great
+      Blasket](/lugar/great-blasket-island/) teilt es den Schweinswal; mit dem [Park prirode Lastovsko
+      otočje](/lugar/park-prirode-lastovsko-otocje/) und den [Islas Selvajes](/lugar/islas-selvajes/) den
+      Gemeinen Delfin; und mit dem [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) den Schweinswal.
+  it:
+    intro: >-
+      Una cincia mora ha trasvolato il Mare d'Irlanda, e lo sappiamo perché era stata inanellata nove giorni
+      prima in Galles. È l'unica trasvolata accertata di questo tipo, ed è approdata a Cape Clear. Questo
+      episodio racchiude l'identità dell'isola: una stazione di ascolto nel lembo più meridionale
+      dell'Irlanda, dove sospinti dalle burrasche e dalle rotte migratorie giungono uccelli introvabili
+      altrove. Cléire, il suo nome ufficiale in gaelico, costituisce la terra abitata più a sud del paese, al
+      largo della costa sud-occidentale di Cork; dal 1959 accoglie un celebre osservatorio ornitologico al
+      North Harbour.
+    landscape: >-
+      L'isola è divisa in due settori, orientale e occidentale, da un istmo sabbioso chiamato the Waist. Da un
+      lato sorge il North Harbour, rivolto verso il continente; dall'altro si apre il South Harbour,
+      affacciato sul mare aperto. Il rilievo più alto, Cnoicín an tSeabhaic, tocca i 160 m. Circa 6,5 km a
+      sud-ovest si profila il faro isolato di Fastnet Rock, la sentinella meridionale d'Irlanda.
+
+
+      Nonostante l'estensione raccolta, racchiude una storia millenaria: un masso preistorico con coppelle, un
+      *fulacht fiadh* dell'età del bronzo, una tomba neolitica a corridoio, menhir, un fortilizio costiero a
+      Dún an Óir e una torre d'avvistamento napoleonica. Accanto al molo di North Harbour sorgono i ruderi di
+      una chiesa del XII secolo, monumento nazionale tutelato. L'isola è territorio Gaeltacht: la lingua
+      irlandese vi è parlata quotidianamente.
+    wildlife: >-
+      Secondo BirdWatch Ireland, Cape Clear è una delle migliori stazioni di seawatching d'Europa, in
+      particolare a fine estate. Tra i nidificanti e i migratori marini compaiono
+      l'[uria](/especie/uria_aalge/), l'[uccello delle tempeste europeo](/especie/hydrobates_pelagicus/) e
+      varie specie di cormorani; le acque circostanti ospitano assiduamente foche grigie, squali elefante e
+      delfini. Sulla terraferma l'armeria marittima e il caprifoglio impreziosiscono i muretti a secco.
+
+
+      In primavera e in autunno sostano passeriformi migratori lungo le rotte tra quartieri riproduttivi e
+      svernatoi africani, comprendendo talvolta rarità nordamericane o siberiane. I migratori autunnali come
+      luì grosso, sterpazzola, forapaglie comune, luì piccolo e culbianco vi fanno tappa prima della
+      traversata verso l'Africa. In settembre transitano regolarmente torcicollo, balia nera, codirosso
+      comune, luì verde e cannaiola comune. L'attività di inanellamento rivela presenze eccezionali: 125 cince
+      more inanellate nell'autunno 2008 rispetto alle sole 91 catturate nell'intera storia precedente; un
+      vireo occhirossi nel settembre 2004, a oggi la segnalazione autunnale più precoce d'Europa; oltre a
+      usignolo maggiore e zigolo minore.
+    visit: >-
+      L'isola si raggiunge con il traghetto passeggeri in partenza da Baltimore o da Schull. Al porto di
+      Baltimore è disponibile un parcheggio auto nei pressi dell'imbarco, che nelle belle giornate si riempie
+      in fretta: muoviti con congruo anticipo.
+
+
+      L'osservatorio sorge accanto al North Harbour, garantendo facile accesso ai servizi del borgo e ai
+      panoramici punti di osservazione sulle falesie. BirdWatch Ireland promuove fine settimana naturalistici
+      con il responsabile della stazione e il corso «Seabirds to Songbirds», dedicato all'apprendimento del
+      seawatching pelagico.
+    history: >-
+      L'inanellamento scientifico è attivo a Cape Clear dal 1959. Poiché il flusso dei passeriformi è
+      discontinuo, è raro inanellare oltre cento uccelli in una singola giornata, limitando le ricatture di
+      anelli esterni. I controlli d'inanellamento rappresentavano la motivazione originaria per tracciare le
+      rotte migratorie. Oggi assumono pari rilievo i censimenti dei contingenti nidificanti e residenti per
+      verificare i trend nazionali. Il registro dell'osservatorio contava 128 specie inanellate a fine 2016.
+    before: >-
+      L'accesso è subordinato ai traghetti marittimi: consulta orari di navigazione e bollettini meteo prima
+      della partenza.
+    around: >-
+      Cape Clear condivide affinità faunistiche con altre mete dell'atlante. Con [Great
+      Blasket](/lugar/great-blasket-island/) divide la focena comune; con il [Park prirode Lastovsko
+      otočje](/lugar/park-prirode-lastovsko-otocje/) e le [Islas Selvajes](/lugar/islas-selvajes/) il delfino
+      comune; e con il [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) la focena comune.
+  pt:
+    intro: >-
+      Um chapim-azul cruzou o mar da Irlanda e sabemos disso porque havia sido anilhado nove dias antes no
+      País de Gales. Trata-se da única travessia em voo comprovada do género, culminada aqui em Cape Clear. O
+      episódio traduz a alma desta ilha: um posto de vigia no extremo sul da Irlanda onde chegam, empurradas
+      pelas tempestades atlânticas, aves desgarradas das suas rotas habituais. Cléire, o seu nome oficial em
+      língua irlandesa, é o território habitado mais meridional do país, na costa sudoeste do condado de Cork;
+      desde 1959 acolhe um conceituado observatório ornitológico no North Harbour.
+    landscape: >-
+      A ilha encontra-se dividida em duas metades, oriental e ocidental, por um istmo arenoso apelidado de the
+      Waist. De um lado resguarda-se o North Harbour, voltado para terra firme; do outro rasga-se o South
+      Harbour, aberto às vagas oceânicas. A cota mais alta, Cnoicín an tSeabhaic, alcança 160 m. Cerca de 6,5
+      km a sudoeste ergue-se o farol solitário de Fastnet Rock, a sentinela meridional da Irlanda.
+
+
+      É uma ilha de dimensões modestas repleta de vestígios ancestrais: uma rocha pré-histórica com covinhas,
+      um *fulacht fiadh* da Idade do Bronze, um monumento megalítico de corredor, menires, um forte de escarpa
+      em Dún an Óir e uma torre de vigia das guerras napoleónicas. Próximo do cais de North Harbour restam as
+      ruínas de uma igreja do século XII, monumento nacional classificado. A ilha integra a Gaeltacht: a
+      língua irlandesa é falada no quotidiano.
+    wildlife: >-
+      Conforme a BirdWatch Ireland, Cape Clear é um dos locais cimeiros da Europa para observar a migração de
+      aves marinhas, sobretudo no final do verão. É a altura predileta para o seawatching. Entre as aves
+      costeiras contam-se o [airo](/especie/uria_aalge/), o
+      [painho-de-cauda-quadrada](/especie/hydrobates_pelagicus/) e corvos-marinhos; nas enseadas cruzam
+      frequentemente focas-cinzentas, tubarões-frade e golfinhos. Em terra firme a relva-do-olimpo e a
+      madressilva adornam os muros de pedra solta.
+
+
+      Na primavera e no outono confluem passeriformes migradores entre as zonas de nidificação e os estivais
+      africanos, intercalados por ocasionais errantes americanos ou siberianos. No outono, felosas-musicais,
+      papa-amoras-comuns, felosas-dos-juncos, felosas-comuns e cartaxos-do-norte fazem aqui escala rumo a
+      África. Em setembro registam-se com regularidade o torcicolo, o papa-moscas-preto, o
+      rabirruivo-de-testa-branca, a felosa-assobiadeira e a felosa-dos-caniços. O anilhamento revela registos
+      excecionais: 125 chapins-de-poupa no outono de 2008 face aos 91 registados cumulativamente até aí; um
+      víreo-de-olhos-vermelhos em setembro de 2004, o registo europeu de outono mais precoce conhecido; para
+      além de rouxinol-russo e da escrevedeira-pigmeia.
+    visit: >-
+      O acesso cumpre-se por barco de passageiros a partir de Baltimore ou de Schull. Em Baltimore existe
+      parqueamento junto ao cais de embarque, mas lota facilmente em dias de sol: prevê tempo suplementar.
+
+
+      O observatório situa-se junto ao North Harbour, facilitando o acesso aos serviços locais e a caminhadas
+      suaves em direção aos promontórios de observação marítima. A BirdWatch Ireland promove fins de semana de
+      observação com o responsável da estação e o curso «Seabirds to Songbirds», dedicado às técnicas de
+      monitorização pelágica.
+    history: >-
+      A anilhagem científica opera em Cape Clear desde 1959. Sendo moderados os fluxos de passeriformes
+      migradores, é invulgar ultrapassar uma centena de capturas num dia, o que reduz o índice de recapturas
+      de anilhas exteriores. As recuperações de anilhas constituíram o objetivo histórico basilar para
+      desvendar as rotas de voo. Hoje em dia valoriza-se igualmente a monitorização das populações locais: os
+      quantitativos anuais espelham flutuações demográficas face à tendência nacional. A lista de anilhagem
+      ascendia a 128 espécies no final de 2016.
+    before: >-
+      A ilha alcança-se exclusivamente por via marítima: confirma previamente os horários de travessia e as
+      condições de mar.
+    around: >-
+      Cape Clear partilha ecossistemas marinhos com outras paragens do atlas. Com [Great
+      Blasket](/lugar/great-blasket-island/) partilha o boto-comum; com o [Park prirode Lastovsko
+      otočje](/lugar/park-prirode-lastovsko-otocje/) e as [Islas Selvajes](/lugar/islas-selvajes/) o
+      golfinho-comum; e com o [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) o boto-comum.
+fuentes:
+  - url: https://birdwatchireland.ie/our-work/cape-clear-bird-observatory/
+    titulo: Cape Clear Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://birdwatchireland.ie/our-work/cape-clear-bird-observatory/cape-clear-courses/
+    titulo: Cape Clear Courses
+    fecha_consulta: '2026-10-30'
+  - url: https://birdwatchireland.ie/our-work/cape-clear-bird-observatory/bird-ringing/
+    titulo: Bird Ringing
+    fecha_consulta: '2026-10-30'
+  - url: https://birdwatchireland.ie/our-work/cape-clear-bird-observatory/other-information/
+    titulo: Island Information — BirdWatch Ireland
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Cape_Clear_Island
+    titulo: Cape Clear Island — Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Fastnet_Rock
+    titulo: Fastnet Rock — Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:2019-08-01-Cape_Clear-7085.jpg
+    autor: Superbass
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

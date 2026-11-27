@@ -1,0 +1,595 @@
+id: parco-nazionale-gran-paradiso
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Gran Paradiso
+  en: Gran Paradiso National Park
+  fr: Parc national du Grand-Paradis
+  de: Nationalpark Gran Paradiso
+  it: Parco Nazionale del Gran Paradiso
+  pt: Parque Nacional do Gran Paradiso
+nombre_original: Parco Nazionale Gran Paradiso
+alias:
+  - Parco Nazionale Gran Paradiso
+paises:
+  - IT
+region:
+  es: Valle de Aosta / Piamonte (Cogne / Valsavarenche / Ceresole Reale)
+  en: Aosta Valley / Piedmont (Cogne / Valsavarenche / Ceresole Reale)
+  fr: Vallée d'Aoste / Piémont (Cogne / Valsavarenche / Ceresole Reale)
+  de: Aostatal / Piemont (Cogne / Valsavarenche / Ceresole Reale)
+  it: Valle d'Aosta / Piemonte (Cogne / Valsavarenche / Ceresole Reale)
+  pt: Vale de Aosta / Piemonte (Cogne / Valsavarenche / Ceresole Reale)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.529
+  lon: 7.31
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 718
+  nombre_en_la_fuente: P N DEL GRAN PARADISO
+  capa: capas/cdda/parco-nazionale-gran-paradiso.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - alpine_meadow
+  - mature_forest
+designaciones:
+  - national_park
+  - iucn_ii
+  - natura2000
+especies:
+  - capra_ibex
+  - rupicapra_rupicapra
+  - marmota_marmota
+  - gypaetus_barbatus
+  - aquila_chrysaetos
+  - lagopus_muta
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 12
+  - 1
+temporada_nota:
+  es: invierno para ver íbices en las laderas bajas
+  en: winter to see ibex on the lower slopes
+  fr: l'hiver pour observer les bouquetins sur les versants inférieurs
+  de: Winter, um Steinböcke an den tiefen Hängen zu beobachten
+  it: l'inverno per avvistare gli stambecchi sui pendii bassi
+  pt: inverno para avistar íbexes nas encostas baixas
+masificacion: 3
+masificacion_nota:
+  es: Alta en Cogne y Valnontey en agosto
+  en: High in Cogne and Valnontey in August
+  fr: Élevée à Cogne et Valnontey en août
+  de: Hoch in Cogne und Valnontey im August
+  it: Alta a Cogne e Valnontey in agosto
+  pt: Alta em Cogne e Valnontey em agosto
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parco Nazionale Gran Paradiso
+    url: https://www.pngp.it
+  - titulo: Accesos — Cómo llegar al Gran Paradiso
+    url: https://www.pngp.it/come-arrivare
+  - titulo: Normas — Comportamiento en el parque
+    url: https://www.pngp.it/visita-il-parco/come-comportarsi
+  - titulo: Rutas — Red de senderos
+    url: https://www.pngp.it/sentieri
+  - titulo: Centros de visitantes — Directorio del parque
+    url: https://www.pngp.it/visita-il-parco/centri-visitatori
+  - titulo: Visita — Información útil
+    url: https://www.pngp.it/visita-il-parco/informazioni-utili
+resumen:
+  es: >-
+    El parque nacional más antiguo de Italia (1922): la última población de íbice de los Alpes sobrevivió aquí
+    y repobló toda la cordillera.
+  en: >-
+    Italy's oldest national park (1922): the last surviving Alpine ibex population held out here and
+    repopulated the entire range.
+  fr: >-
+    Le plus ancien parc national d'Italie (1922) : la dernière population de bouquetins des Alpes y a survécu
+    avant de repeupler toute la chaîne.
+  de: >-
+    Italiens ältester Nationalpark (1922): Die letzte Steinbockpopulation der Alpen überlebte hier und
+    besiedelte das gesamte Gebirge neu.
+  it: >-
+    Il parco nazionale più antico d'Italia (1922): l'ultima popolazione di stambecco delle Alpi è
+    sopravvissuta qui e ha ripopolato l'intera catena montuosa.
+  pt: >-
+    O parque nacional mais antigo de Itália (1922): a última população de íbex dos Alpes sobreviveu aqui e
+    repovoou toda a cordilheira.
+unico:
+  es: Aquí nació la protección del íbice, y todavía hoy el animal que salvó este macizo preside el parque.
+  en: >-
+    Here the protection of the ibex was born, and even today the animal that saved this massif presides over
+    the park.
+  fr: >-
+    C'est ici qu'est née la protection du bouquetin, et aujourd'hui encore l'animal qui a sauvé ce massif
+    préside le parc.
+  de: >-
+    Hier entstand der Schutz des Steinbocks, und noch heute beherrscht das Tier, das dieses Massiv rettete,
+    den Park.
+  it: >-
+    Qui è nata la protezione dello stambecco, e ancora oggi l'animale che ha salvato questo massiccio presiede
+    il parco.
+  pt: Aqui nasceu a proteção do íbex, e ainda hoje o animal que salvou este maciço preside ao parque.
+observaciones:
+  es: >-
+    En el parque está prohibido llevar perros, y acampar solo se permite en los campings habilitados. No se
+    pueden recoger setas, plantas ni minerales. Hay que seguir los senderos para no molestar a aves que anidan
+    en el suelo, como la perdiz griega.
+texto:
+  es:
+    intro: >-
+      A comienzos del siglo XIX, el íbice casi había desaparecido de los Alpes: sobrevivían unos 60 ejemplares
+      en el entorno del Gran Paradiso y la Vanoise. Hoy, de ese macizo descienden casi todos los íbices
+      alpinos actuales, y da nombre al parque nacional más antiguo de Italia. El Parque Nacional Gran
+      Paradiso, creado el 3 de diciembre de 1922 entre el Valle de Aosta y el Piamonte, es una historia de
+      caza, de reyes y de rescate, escrita sobre cinco valles de glaciares y prados altos.
+    landscape: >-
+      El Gran Paradiso es el único macizo de más de 4000 metros enteramente italiano. El parque abarca cinco
+      valles principales, Rhêmes, Cogne, Valsavarenche, Valle del Orco y Val Soana, y entre los tres mil y los
+      4000 metros hay 59 glaciares, más extensos en el lado valdostano. La geomorfología la modeló la
+      expansión de los glaciares durante las glaciaciones cuaternarias.
+
+
+      Hay lagos para cada gusto. Los más grandes y bonitos se concentran en torno al Colle del Nivolet, y de
+      los dos Laghi del Nivolet nace el torrente Savara. El agua también se despeña: las cascadas de Lillaz,
+      junto a Cogne, son las más espectaculares, y en el lado piamontés hay otras junto a Noasca.
+
+
+      La vegetación sube con la altura. Los hayedos solo aparecen en el lado piamontés, entre 800 y 1200 m, y
+      los alerces y el pino cembro llegan hasta el piso subalpino más alto, entre 2.200 y 2.300 m. Por encima
+      de los 2500 m, entre las rocas, viven la saxífraga, la androsace alpina, la artemisia y el ranúnculo de
+      los glaciares.
+    wildlife: >-
+      El [íbice](/especie/capra_ibex/) es el animal símbolo: unos 2700 en el censo de septiembre de 2011, con
+      machos adultos de 90 a 120 kg y cuernos de hasta 100 cm. El [rebeco](/especie/rupicapra_rupicapra/), con
+      más de 8000 ejemplares ya no está en peligro, porque no tiene depredadores naturales. Hay unas 6000
+      [marmotas](/especie/marmota_marmota/), el [águila real](/especie/aquila_chrysaetos/) cuenta con 27
+      parejas (censo de 2013), una de las mayores densidades de los Alpes, y el
+      [quebrantahuesos](/especie/gypaetus_barbatus/) ha vuelto a nidificar desde 2011, aunque sin éxito el
+      primer año.
+
+
+      Entre las demás aves hay ratoneros, pícidos, carboneros, perdices nivales, chovas, gavilanes, azores,
+      cárabos y mochuelos. La trucha común, autóctona, comparte los torrentes con el salvelino, introducido en
+      los años sesenta. En verano, los íbices y rebecos tienen pocos meses para llegar bien alimentados a la
+      época de cría, y por eso el parque pide observarlos desde lejos.
+    visit: >-
+      Los centros de visitantes son la mejor puerta de entrada. Son puntos de información monotemáticos —el
+      quebrantahuesos, el íbice, el rebeco, la geología, los depredadores, los oficios— y hay al menos uno en
+      cada pueblo principal del valle; suelen abrir en verano, Navidad, Semana Santa y festivos. En Degioz, en
+      Valsavarenche, «I preziosi predatori» está dedicado al lince y a su regreso en los años setenta, con un
+      espacio sobre el lobo; en Chanavey, en Rhêmes-Notre-Dame, «Bentornato gipeto!» trata del quebrantahuesos
+      y de las aves; en Ceresole Reale, «Homo et Ibex». El Giardino alpino Paradisia, en Valnontey, completa
+      la visita.
+
+
+      La red de senderos supera los 500 km por los cinco valles. Para llegar al Colle del Nivolet, el proyecto
+      «A piedi tra le nuvole» regula el tráfico privado en verano y favorece desplazarse a pie, en bici o en
+      lanzadera. Desde 1992 hay también un sendero adaptado para personas ciegas, de un kilómetro y poca
+      pendiente.
+    history: >-
+      En 1821 el rey Carlos Félix prohibió la caza del íbice en sus reinos. En 1856 Víctor Manuel II declaró
+      la Reserva Real de Caza del Gran Paradiso, mayor que el actual parque, y se mandó construir una red de
+      más de 300 km de caminos de herradura empedrados para enlazar pueblos y casas de caza; el tramo mejor
+      conservado está en el Valle del Orco, desde el Colle del Nivolet. En 1922 el parque nació a partir de 21
+      km² donados por Víctor Manuel III. Tras la guerra, los íbices estaban reducidos a unos 400, y en 2005
+      había unos 4.000.
+
+
+      El Gran Paradiso entró en 2014 en la Lista Verde mundial de áreas protegidas. Del lado francés confina
+      con el parque de la Vanoise.
+    before: >-
+      En el parque está prohibido llevar perros, y acampar solo se permite en los campings habilitados. No se
+      pueden recoger setas, plantas ni minerales. Hay que seguir los senderos para no molestar a aves que
+      anidan en el suelo, como la perdiz griega.
+    around: >-
+      A solo 1 km quedan el [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) y el [Parco
+      Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). Con glaciares, íbices y quebrantahuesos, se
+      parece al [Stelvio](/lugar/parco-nazionale-dello-stelvio/) y a las [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/); y comparte marmotas y quebrantahuesos con los
+      Pirineos, en el [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) y
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+  en:
+    intro: >-
+      At the beginning of the nineteenth century, the ibex had almost vanished from the Alps: only about 60
+      individuals survived around Gran Paradiso and the Vanoise. Today, almost all modern Alpine ibex descend
+      from that massif, which gives its name to Italy's oldest national park. Gran Paradiso National Park,
+      established on 3 December 1922 between the Aosta Valley and Piedmont, is a history of hunting, royalty,
+      and rescue written across five valleys of glaciers and high meadows.
+    landscape: >-
+      Gran Paradiso is the only massif over 4000 metres located entirely within Italy. The park encompasses
+      five main valleys: Rhêmes, Cogne, Valsavarenche, Valle dell'Orco, and Val Soana. Between three thousand
+      and 4000 metres there are 59 glaciers, more extensive on the Aosta Valley side. Glacial advance during
+      Quaternary ice ages sculpted its geomorphology.
+
+
+      There are lakes to suit every taste. The largest and finest cluster around Colle del Nivolet, and the
+      Savara torrent springs from the two Laghi del Nivolet. Water also thunders over drops: the Lillaz
+      waterfalls near Cogne are the most spectacular, while on the Piedmontese side others cascade near
+      Noasca.
+
+
+      Vegetation ascends with altitude. Beech woods appear only on the Piedmont slope between 800 and 1200 m,
+      whereas larch and Swiss pine reach the highest subalpine level between 2,200 and 2,300 m. Above 2500 m,
+      amid the crags, grow saxifrages, Alpine rock-jasmine, artemisia, and glacier buttercups.
+    wildlife: >-
+      The [Alpine ibex](/especie/capra_ibex/) is the park's flagship species: about 2700 in the September 2011
+      census, with adult males weighing 90 to 120 kg and boasting horns up to 100 cm. The
+      [chamois](/especie/rupicapra_rupicapra/), counting over 8000 individuals, is no longer in danger because
+      it lacks natural predators here. There are about 6000 [Alpine marmots](/especie/marmota_marmota/), the
+      [golden eagle](/especie/aquila_chrysaetos/) has 27 pairs (2013 census), among the highest densities in
+      the Alps, and the [bearded vulture](/especie/gypaetus_barbatus/) has nested again since 2011, though
+      without success the first year.
+
+
+      Other birds include buzzards, woodpeckers, tits, rock ptarmigans, choughs, sparrowhawks, goshawks, tawny
+      owls, and little owls. Native brown trout share torrents with brook trout introduced in the
+      nineteen-sixties. In summer, ibex and chamois have few months to gain condition before the rutting
+      season, so the park asks you to observe them from a distance.
+    visit: >-
+      Visitor centres are the best introduction. They are single-theme information points—the bearded vulture,
+      the ibex, the chamois, geology, predators, traditional trades—with at least one in each main valley
+      village; they usually open in summer, Christmas, Easter, and on holidays. In Degioz in Valsavarenche, «I
+      preziosi predatori» is dedicated to the lynx and its return in the nineteen-seventies, with an area on
+      the wolf; in Chanavey in Rhêmes-Notre-Dame, «Bentornato gipeto!» covers the bearded vulture and
+      birdlife; in Ceresole Reale, «Homo et Ibex». The Paradisia Alpine Garden in Valnontey rounds off the
+      visit.
+
+
+      The trail network exceeds 500 km across the five valleys. To reach Colle del Nivolet, the «A piedi tra
+      le nuvole» initiative regulates private vehicle traffic in summer and promotes travel on foot, by bike,
+      or by shuttle bus. Since 1992 there has also been an accessible trail for visually impaired visitors,
+      covering one kilometre on gentle ground.
+    history: >-
+      In 1821 King Charles Felix banned ibex hunting in his realms. In 1856 Victor Emmanuel II declared the
+      Royal Hunting Reserve of Gran Paradiso, larger than the present park, ordering the construction of a
+      network of more than 300 km of paved mule tracks linking villages and hunting lodges; the best-preserved
+      section runs in the Valle dell'Orco from Colle del Nivolet. In 1922 the park was born from 21 km²
+      donated by Victor Emmanuel III. After the war, ibex had dropped to about 400, and by 2005 numbered about
+      4,000.
+
+
+      Gran Paradiso was added to the IUCN Green List of Protected Areas in 2014. On the French side it borders
+      Vanoise National Park.
+    before: >-
+      Dogs are prohibited in the park, and camping is permitted only at established campsites. Collecting
+      mushrooms, plants, or minerals is not allowed. You must stay on marked paths to avoid disturbing
+      ground-nesting birds such as the rock partridge.
+    around: >-
+      Just 1 km away lie [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) and [Parco
+      Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). With glaciers, ibex, and bearded vultures, it
+      resembles [Stelvio](/lugar/parco-nazionale-dello-stelvio/) and [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/); and it shares marmots and bearded vultures with
+      the Pyrenees in [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) and
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+  fr:
+    intro: >-
+      Au début du XIXe siècle, le bouquetin avait presque disparu des Alpes : seuls subsistaient environ 60
+      individus aux abords du Grand-Paradis et de la Vanoise. Aujourd'hui, presque tous les bouquetins alpins
+      descendent de ce massif, qui donne son nom au plus ancien parc national d'Italie. Le parc national du
+      Grand-Paradis, créé le 3 décembre 1922 entre la Vallée d'Aoste et le Piémont, est une histoire de
+      chasse, de rois et de sauvetage écrite à travers cinq vallées de glaciers et de hauts alpages.
+    landscape: >-
+      Le Grand-Paradis est le seul massif de plus de 4000 mètres entièrement situé en Italie. Le parc englobe
+      cinq vallées principales : Rhêmes, Cogne, Valsavarenche, Valle dell'Orco et Val Soana ; entre trois
+      mille et 4000 mètres d'altitude s'étendent 59 glaciers, plus amples sur le versant valdôtain. La
+      géomorphologie a été façonnée par l'expansion glaciaire au cours des glaciations quaternaires.
+
+
+      Il existe des lacs pour toutes les envies. Les plus vastes et enchanteurs se concentrent autour du col
+      du Nivolet, et des deux Laghi del Nivolet sourd le torrent Savara. L'eau dévale aussi les escarpements :
+      les cascades de Lillaz, près de Cogne, sont les plus spectaculaires, tandis que côté piémontais d'autres
+      chutes jaillissent près de Noasca.
+
+
+      La végétation s'élève avec l'altitude. Les hêtraies n'apparaissent que sur le versant piémontais, entre
+      800 et 1200 m, alors que mélèzes et arolles atteignent l'étage subalpin supérieur, entre 2 200 et 2 300
+      m. Au-dessus de 2500 m, parmi les rochers, prospèrent saxifrages, androsaces alpines, armoises et
+      renoncules des glaciers.
+    wildlife: >-
+      Le [bouquetin des Alpes](/especie/capra_ibex/) est l'animal symbole : environ 2700 individus au
+      recensement de septembre 2011, avec des mâles adultes de 90 à 120 kg et des cornes atteignant 100 cm. Le
+      [chamois](/especie/rupicapra_rupicapra/), avec plus de 8000 individus, n'est plus menacé faute de
+      prédateurs naturels. On compte environ 6000 [marmottes des Alpes](/especie/marmota_marmota/), l'[aigle
+      royal](/especie/aquila_chrysaetos/) rassemble 27 couples (recensement de 2013), soit l'une des densités
+      les plus fortes des Alpes, et le [gypaète barbu](/especie/gypaetus_barbatus/) s'y reproduit de nouveau
+      depuis 2011, bien que sans succès la première année.
+
+
+      Parmi les autres oiseaux figurent buses, pics, mésanges, lagopèdes alpins, chocards, éperviers, autours,
+      chouettes hulottes et chevêches. La truite fario indigène partage les torrents avec l'omble de fontaine,
+      introduit dans les années soixante. En été, bouquetins et chamois n'ont que peu de mois pour se nourrir
+      avant le rut, c'est pourquoi le parc vous invite à les observer de loin.
+    visit: >-
+      Les maisons du parc sont la meilleure porte d'entrée. Ce sont des espaces thématiques dédiés au gypaète,
+      au bouquetin, au chamois, à la géologie, aux prédateurs ou aux métiers traditionnels, répartis dans
+      chaque village principal de vallée ; ils ouvrent d'ordinaire en été, à Noël, à Pâques et durant les
+      fêtes. À Degioz, dans le Valsavarenche, « I preziosi predatori » est consacré au lynx et à son retour
+      dans les années soixante-dix avec une salle sur le loup ; à Chanavey, à Rhêmes-Notre-Dame, « Bentornato
+      gipeto ! » expose le gypaète et les oiseaux ; à Ceresole Reale, « Homo et Ibex ». Le jardin alpin
+      Paradisia, à Valnontey, complète la visite.
+
+
+      Le réseau de sentiers dépasse 500 km à travers les cinq vallées. Pour monter au col du Nivolet, le
+      projet « A piedi tra le nuvole » régule la circulation privée en été pour favoriser les déplacements à
+      pied, à vélo ou en navette. Depuis 1992 existe aussi un sentier adapté aux personnes malvoyantes, long
+      d'un kilomètre et de très faible pente.
+    history: >-
+      En 1821, le roi Charles-Félix interdit la chasse au bouquetin dans ses États. En 1856, Victor-Emmanuel
+      II déclara la Réserve royale de chasse du Grand-Paradis, plus vaste que le parc actuel, ordonnant la
+      construction de plus de 300 km de chemins muletiers empierrés pour relier hameaux et pavillons de chasse
+      ; le tronçon le mieux conservé descend du col du Nivolet dans la Valle dell'Orco. En 1922, le parc vit
+      le jour grâce à 21 km² cédés par Victor-Emmanuel III. Après la guerre, les bouquetins étaient réduits à
+      environ 400 têtes, et en 2005 ils étaient environ 4 000.
+
+
+      Le Grand-Paradis est entré en 2014 sur la Liste verte mondiale des aires protégées. Côté français, il
+      jouxte le parc de la Vanoise.
+    before: >-
+      Il est interdit d'amener des chiens dans le parc, et le camping n'est autorisé que dans les campings
+      aménagés. La cueillette de champignons, de plantes et de minéraux est proscrite. Vous devez suivre les
+      sentiers balisés pour ne pas déranger les oiseaux qui nichent au sol comme la perdrix bartavelle.
+    around: >-
+      À seulement 1 km s'étendent le [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) et le
+      [Parco Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). Avec ses glaciers, ses bouquetins et ses
+      gypaètes, il ressemble au [Stelvio](/lugar/parco-nazionale-dello-stelvio/) et aux [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/) ; il partage marmottes et gypaètes avec les
+      Pyrénées dans le [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) et à
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+  de:
+    intro: >-
+      Zu Beginn des neunzehnten Jahrhunderts war der Steinbock in den Alpen fast ausgestorben: Rund 60 Tiere
+      überlebten im Umfeld des Gran Paradiso und der Vanoise. Von diesem Massiv stammen heute fast alle
+      Alpensteinböcke ab, und es verleiht dem ältesten Nationalpark Italiens seinen Namen. Der Nationalpark
+      Gran Paradiso, gegründet am 3. Dezember 1922 zwischen dem Aostatal und dem Piemont, erzählt eine
+      Geschichte von Jagd, Königen und Artenschutz über fünf Täler mit Gletschern und Hochalmen.
+    landscape: >-
+      Der Gran Paradiso ist das einzige Massiv von über 4000 Metern, das zur Gänze auf italienischem
+      Staatsgebiet liegt. Der Park umfasst fünf Haupttäler: Rhêmes, Cogne, Valsavarenche, Valle dell'Orco und
+      Val Soana; zwischen dreitausend und 4000 Metern erstrecken sich 59 Gletscher, die auf der Aostataler
+      Seite am weitesten ausgedehnt sind. Die Geomorphologie wurde durch den Gletschervorstoß während der
+      quartären Eiszeiten geprägt.
+
+
+      Seen gibt es für jeden Geschmack. Die größten und schönsten liegen rund um den Colle del Nivolet, und
+      aus den zwei Laghi del Nivolet entspringt der Savara-Wildbach. Das Wasser stürzt auch über Felsstufen:
+      Die Lillaz-Wasserfälle bei Cogne sind die spektakulärsten, während auf piemontesischer Seite weitere
+      Fälle nahe Noasca herabrauschen.
+
+
+      Die Vegetation steigt mit der Höhe an. Buchenwälder finden sich nur auf piemontesischer Seite zwischen
+      800 und 1200 m, während Lärchen und Arven bis in die oberste subalpine Stufe zwischen 2.200 und 2.300 m
+      vordringen. Oberhalb von 2500 m wachsen zwischen den Felsen Steinbrech, Alpen-Mannsschild, Edelraute und
+      Gletscherhahnenfuß.
+    wildlife: >-
+      Der [Alpensteinbock](/especie/capra_ibex/) ist das Wappentier des Gebiets: rund 2700 Tiere bei der
+      Zählung im September 2011, mit ausgewachsenen Böcken von 90 bis 120 kg und bis zu 100 cm langen Hörnern.
+      Die [Gämse](/especie/rupicapra_rupicapra/) ist mit über 8000 Exemplaren nicht mehr bedroht, da
+      Fressfeinde hier fehlen. Es gibt rund 6000 [Alpenmurmeltiere](/especie/marmota_marmota/), der
+      [Steinadler](/especie/aquila_chrysaetos/) zählt 27 Paare (Zählung 2013) bei einer der höchsten Dichten
+      der Alpen, und der [Bartgeier](/especie/gypaetus_barbatus/) brütet seit 2011 wieder, wenngleich im
+      ersten Jahr noch erfolglos.
+
+
+      Unter den übrigen Vögeln finden sich Bussarde, Spechte, Meisen, Schneehühner, Alpendohlen, Sperber,
+      Habichte, Waldkäuze und Steinkäuze. Die heimische Bachforelle teilt sich die Wildbäche mit dem
+      Bachsaibling, der in den sechziger Jahren eingesetzt wurde. Im Sommer haben Steinböcke und Gämsen nur
+      wenige Monate Zeit, um sich vor der Brunftzeit sattzufressen; deshalb bittet der Park darum, sie aus der
+      Ferne zu beobachten.
+    visit: >-
+      Die Besucherzentren sind das ideale Eingangstor. Es sind thematisch gegliederte Stationen zum Bartgeier,
+      zum Steinbock, zur Gämse, zur Geologie, zu Beutegreifern oder zum alten Handwerk in jedem Hauptort der
+      Täler; meist öffnen sie im Sommer, zu Weihnachten, Ostern und an Feiertagen. In Degioz im Valsavarenche
+      widmet sich «I preziosi predatori» dem Luchs und seiner Rückkehr in den siebziger Jahren sowie dem Wolf;
+      in Chanavey in Rhêmes-Notre-Dame zeigt «Bentornato gipeto!» das Leben der Greifvögel; in Ceresole Reale
+      informiert «Homo et Ibex». Der Alpengarten Paradisia in Valnontey vervollständigt den Rundgang.
+
+
+      Das Wegenetz misst über 500 km in den fünf Tälern. Zum Colle del Nivolet reguliert das Projekt «A piedi
+      tra le nuvole» den privaten Autoverkehr im Sommer und fördert Wanderer, Radfahrer und Zubringerbusse.
+      Seit 1992 gibt es zudem einen barrierearmen Weg für sehbehinderte Menschen, der einen Kilometer lang
+      sanft ansteigt.
+    history: >-
+      1821 verbot König Karl Felix die Steinbockjagd in seinen Reichen. 1856 erklärte Viktor Emanuel II. das
+      königliche Jagdrevier Gran Paradiso, das größer war als der heutige Park, und ließ über 300 km
+      gepflasterte Saumwege anlegen, um Dörfer und Jagdhütten zu verbinden; der besterhaltene Abschnitt führt
+      vom Colle del Nivolet ins Valle dell'Orco hinab. 1922 entstand der Park aus 21 km², die Viktor Emanuel
+      III. gestiftet hatte. Nach dem Krieg war der Steinbockbestand auf rund 400 Tiere geschrumpft, doch 2005
+      lebten wieder etwa 4.000 Tiere hier.
+
+
+      Der Gran Paradiso wurde 2014 in die weltweite Grüne Liste der Schutzgebiete der IUCN aufgenommen. Auf
+      französischer Seite schließt er an den Nationalpark Vanoise an.
+    before: >-
+      Im Park ist das Mitführen von Hunden verboten, und Zelten ist nur auf eingerichteten Campingplätzen
+      gestattet. Pilze, Pflanzen und Mineralien dürfen nicht gesammelt werden. Du solltest stets auf den Wegen
+      bleiben, um Bodenbrüter wie das Steinhuhn nicht zu stören.
+    around: >-
+      Nur 1 km entfernt liegen der [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) und der
+      [Parco Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). Mit Gletschern, Steinböcken und Bartgeiern
+      ähnelt er dem [Stelvio](/lugar/parco-nazionale-dello-stelvio/) und den [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/); Murmeltiere und Bartgeier teilt er zudem mit
+      den Pyrenäen im [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) und in
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+  it:
+    intro: >-
+      All'inizio dell'Ottocento lo stambecco era quasi scomparso dalle Alpi: sopravvivevano appena 60
+      esemplari attorno al Gran Paradiso e alla Vanoise. Oggi da quel massiccio discendono quasi tutti gli
+      stambecchi alpini odierni, e dà il nome al parco nazionale più antico d'Italia. Il Parco Nazionale Gran
+      Paradiso, istituito il 3 dicembre 1922 tra Valle d'Aosta e Piemonte, è una vicenda di caccia, re e
+      salvataggi scritta su cinque valli di ghiacciai e pascoli d'alta quota.
+    landscape: >-
+      Il Gran Paradiso è l'unico massiccio di oltre 4000 metri interamente italiano. Il parco comprende cinque
+      valli principali: Rhêmes, Cogne, Valsavarenche, Valle dell'Orco e Val Soana; tra i tremila e i 4000
+      metri ci sono 59 ghiacciai, più ampi sul versante valdostano. La geomorfologia è stata modellata
+      dall'espansione dei ghiacci durante le glaciazioni quaternarie.
+
+
+      Ci sono laghi per ogni preferenza. I più ampi e suggestivi si concentrano attorno al Colle del Nivolet,
+      e dai due Laghi del Nivolet nasce il torrente Savara. L'acqua compie anche salti notevoli: le cascate di
+      Lillaz, vicino a Cogne, sono le più spettacolari, mentre sul versante piemontese altre cascate
+      precipitano presso Noasca.
+
+
+      La vegetazione sale con la quota. Le faggete compaiono unicamente sul versante piemontese, tra 800 e
+      1200 m, mentre larici e pini cembri arrivano fino al piano subalpino sommitale, tra 2.200 e 2.300 m.
+      Oltre i 2500 m, tra le rocce, crescono sassifraghe, androsace alpina, artemisie e il ranuncolo dei
+      ghiacciai.
+    wildlife: >-
+      Lo [stambecco](/especie/capra_ibex/) è l'animale simbolo: circa 2700 individui nel censimento del
+      settembre 2011, con maschi adulti da 90 a 120 kg e corna lunghe fino a 100 cm. Il [camoscio
+      alpino](/especie/rupicapra_rupicapra/), con oltre 8000 capi, non è più in pericolo non avendo predatori
+      naturali. Ci sono circa 6000 [marmotte](/especie/marmota_marmota/), l'[aquila
+      reale](/especie/aquila_chrysaetos/) conta 27 coppie (censimento del 2013), una delle densità maggiori
+      delle Alpi, e il [gipeto](/especie/gypaetus_barbatus/) nidifica di nuovo dal 2011, pur senza successo il
+      primo anno.
+
+
+      Tra gli altri uccelli si trovano poiane, picchi, cince, pernici bianche, gracchi, sparvieri, astori,
+      allocchi e civette. La trota fario autoctona condivide i torrenti con il salmerino di fonte, introdotto
+      negli anni sessanta. In estate stambecchi e camosci hanno pochi mesi per nutrirsi prima della stagione
+      riproduttiva, perciò il parco chiede di osservarli da debita distanza.
+    visit: >-
+      I centri visita sono la migliore porta d'ingresso. Sono punti informativi a tema unico—il gipeto, lo
+      stambecco, il camoscio, la geologia, i predatori, i mestieri—con almeno una sede in ogni borgo vallivo;
+      aprono di solito in estate, a Natale, a Pasqua e nei giorni festivi. A Degioz, in Valsavarenche, «I
+      preziosi predatori» è dedicato alla lince e al suo ritorno negli anni settanta con uno spazio sul lupo;
+      a Chanavey, a Rhêmes-Notre-Dame, «Bentornato gipeto!» approfondisce il gipeto e l'avifauna; a Ceresole
+      Reale, «Homo et Ibex». Il Giardino alpino Paradisia a Valnontey arricchisce la visita.
+
+
+      La rete dei sentieri supera 500 km lungo le cinque valli. Verso il Colle del Nivolet, il progetto «A
+      piedi tra le nuvole» modera il traffico veicolare privato d'estate, incentivando spostamenti a piedi, in
+      bicicletta o con navette. Dal 1992 c'è anche un sentiero accessibile per non vedenti, lungo un
+      chilometro su terreno poco inclinato.
+    history: >-
+      Nel 1821 il re Carlo Felice proibì la caccia allo stambecco nei suoi domini. Nel 1856 Vittorio Emanuele
+      II dichiarò la Riserva Reale di Caccia del Gran Paradiso, più vasta dell'attuale parco, facendo
+      realizzare una rete di oltre 300 km di mulattiere lastricate per collegare paesi e casotti di caccia; il
+      tratto meglio conservato corre nella Valle dell'Orco dal Colle del Nivolet. Nel 1922 il parco fu
+      costituito grazie a 21 km² donati da Vittorio Emanuele III. Dopo la guerra gli stambecchi erano scesi a
+      circa 400 esemplari, ma nel 2005 se ne contavano circa 4.000.
+
+
+      Il Gran Paradiso è stato inserito nel 2014 nella Green List mondiale delle aree protette. Sul confine
+      francese tocca il parco della Vanoise.
+    before: >-
+      Nel parco è vietato portare cani, e il campeggio è consentito unicamente nelle aree attrezzate. Non si
+      possono raccogliere funghi, piante né campioni minerali. Segui sempre i tracciati segnati per non
+      disturbare gli uccelli che nidificano al suolo come la coturnice.
+    around: >-
+      A solo 1 km si trovano il [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) e il [Parco
+      Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). Con ghiacciai, stambecchi e gipeti somiglia allo
+      [Stelvio](/lugar/parco-nazionale-dello-stelvio/) e alle [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/); condivide inoltre marmotte e gipeti con i
+      Pirenei nel [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) e ad
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+  pt:
+    intro: >-
+      No início do século XIX o íbex quase tinha desaparecido dos Alpes: sobreviviam apenas cerca de 60
+      exemplares no maciço do Gran Paradiso e da Vanoise. Hoje quase todos os íbexes alpinos descendem desse
+      maciço, que dá nome ao parque nacional mais antigo de Itália. O Parque Nacional Gran Paradiso, criado a
+      3 de dezembro de 1922 entre o Vale de Aosta e o Piemonte, é uma história de caça, reis e salvamento
+      escrita em cinco vales de glaciares e prados altos.
+    landscape: >-
+      O Gran Paradiso é o único maciço de mais de 4000 metros inteiramente italiano. O parque abrange cinco
+      vales principais: Rhêmes, Cogne, Valsavarenche, Valle dell'Orco e Val Soana; entre os três mil e os 4000
+      metros contam-se 59 glaciares, mais vastos na vertente valdostana. A geomorfologia foi esculpida pelo
+      avanço dos gelos ao longo das glaciações quaternárias.
+
+
+      Há lagos para todas as preferências. Os maiores e mais bonitos reúnem-se em redor do Colle del Nivolet,
+      e dos dois Laghi del Nivolet brota a torrente Savara. A água também se despenha pelas encostas: as
+      cascatas de Lillaz, perto de Cogne, são as mais impressionantes, enquanto do lado piemontês outras
+      quedas correm junto a Noasca.
+
+
+      A vegetação sobe em andares sucessivos. Os faiais só surgem na encosta piemontesa entre os 800 e os 1200
+      m, ao passo que os lariços e o pinheiro-suíço alcançam o patamar subalpino superior entre os 2.200 e os
+      2.300 m. Acima dos 2500 m, por entre as escarpas, sobrevivem saxífragas, androsaces alpinas, artemísias
+      e o ranúnculo-dos-glaciares.
+    wildlife: >-
+      O [íbex](/especie/capra_ibex/) é o animal símbolo: cerca de 2700 exemplares no censo de setembro de
+      2011, com machos adultos de 90 a 120 kg e cornos de até 100 cm. A
+      [camurça](/especie/rupicapra_rupicapra/), com mais de 8000 indivíduos, já não corre perigo por falta de
+      predadores naturais. Contam-se cerca de 6000 [marmotas](/especie/marmota_marmota/), a
+      [águia-real](/especie/aquila_chrysaetos/) reúne 27 casais (censo de 2013), numa das maiores densidades
+      dos Alpes, e o [abutre-barbudo](/especie/gypaetus_barbatus/) voltou a nidificar desde 2011, ainda que
+      sem êxito reprodutivo no primeiro ano.
+
+
+      Entre as restantes aves encontram-se águias-de-asa-redonda, pica-paus, chapins, perdizes-brancas,
+      gralhas-de-bico-amarelo, gaviões, açores, corujas-do-mato e mochos-galegos. A truta-marisca autóctone
+      partilha os ribeiros com o salvelino-americano, introduzido nos anos sessenta. No verão, os íbexes e as
+      camurças têm poucos meses para se alimentar antes do cio, pelo que o parque pede que os observes a
+      distância.
+    visit: >-
+      Os centros de visitantes são a porta de entrada recomendada. São núcleos temáticos dedicados ao
+      abutre-barbudo, ao íbex, à camurça, à geologia, aos predadores ou aos ofícios tradicionais, presentes em
+      cada povoação principal dos vales; abrem habitualmente no verão, no Natal, na Páscoa e em feriados. Em
+      Degioz, no Valsavarenche, «I preziosi predatori» aborda o lince e o seu regresso nos anos setenta com
+      uma sala sobre o lobo; em Chanavey, em Rhêmes-Notre-Dame, «Bentornato gipeto!» destaca o abutre-barbudo
+      e as aves; em Ceresole Reale, «Homo et Ibex». O Jardim Alpino Paradisia, em Valnontey, completa o
+      circuito.
+
+
+      A rede de trilhos ultrapassa 500 km ao longo dos cinco vales. Para chegar ao Colle del Nivolet, o
+      projeto «A piedi tra le nuvole» condiciona o tráfego automóvel no verão, estimulando caminhadas a pé, em
+      bicicleta ou em autocarros vaivém. Desde 1992 existe igualmente um percurso adaptado para invisuais, com
+      um quilómetro de extensão e pendente suave.
+    history: >-
+      Em 1821 o rei Carlos Félix baniu a caça ao íbex nos seus estados. Em 1856 Vítor Emanuel II declarou a
+      Reserva Real de Caça do Gran Paradiso, maior que o atual parque, mandando construir mais de 300 km de
+      caminhos de ferradura calçados para unir aldeias e pavilhões de caça; o troço mais bem conservado desce
+      do Colle del Nivolet para o Valle dell'Orco. Em 1922 o parque nasceu a partir de 21 km² doados por Vítor
+      Emanuel III. Após a guerra os íbexes tinham caído para cerca de 400 cabeças, mas em 2005 já se contavam
+      cerca de 4.000.
+
+
+      O Gran Paradiso foi integrado em 2014 na Lista Verde mundial da UICN. No lado francês confina
+      diretamente com o parque da Vanoise.
+    before: >-
+      No parque é proibido levar cães, e pernoitar em tenda só é permitido nos parques de campismo
+      credenciados. É proibido apanhar cogumelos, plantas ou minerais. Deves manter-te nos caminhos
+      assinalados para não perturbar aves de nidificação terrestre como a perdiz-grega.
+    around: >-
+      Apenas a 1 km ficam o [Parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) e o [Parco
+      Naturale Mont Avic](/lugar/parco-naturale-mont-avic/). Com glaciares, íbexes e abutres-barbudos,
+      assemelha-se ao [Stelvio](/lugar/parco-nazionale-dello-stelvio/) e às [Alpi
+      Marittime](/lugar/parco-naturale-delle-alpi-marittime/); partilha ainda marmotas e abutres-barbudos com
+      os Pirenéus no [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) e em
+      [Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/).
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Gran_Paradiso_National_Park
+    titulo: Gran Paradiso National Park - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://it.wikipedia.org/wiki/Parco_nazionale_del_Gran_Paradiso
+    titulo: Parco nazionale del Gran Paradiso — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.pngp.it/visita-il-parco/centri-visitatori
+    titulo: Centri visitatori — Parco Nazionale Gran Paradiso
+    fecha_consulta: '2026-10-24'
+  - url: https://www.pngp.it/sentieri
+    titulo: I sentieri del Parco — Parco Nazionale Gran Paradiso
+    fecha_consulta: '2026-10-24'
+  - url: https://www.pngp.it/visita-il-parco/come-comportarsi
+    titulo: Come comportarsi — Parco Nazionale Gran Paradiso
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Ceresole_Reale_(82702707).jpeg
+    autor: Luca Casartelli
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,633 @@
+id: oulanka-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Oulanka
+  en: Oulanka National Park
+  fr: Parc national d'Oulanka
+  de: Nationalpark Oulanka
+  it: Parco Nazionale di Oulanka
+  pt: Parque Nacional de Oulanka
+nombre_original: Oulanka National Park
+alias:
+  - Oulanka National Park (Oulangan kansallispuisto)
+paises:
+  - FI
+region:
+  es: Laponia Finlandesa / Ostrobotnia del Norte (Kuusamo / Salla)
+  en: Finnish Lapland / North Ostrobothnia (Kuusamo / Salla)
+  fr: Laponie finlandaise / Ostrobotnie du Nord (Kuusamo / Salla)
+  de: Finnisch-Lappland / Nordösterbotten (Kuusamo / Salla)
+  it: Lapponia finlandese / Ostrobotnia settentrionale (Kuusamo / Salla)
+  pt: Lapónia Finlandesa / Ostrobótnia do Norte (Kuusamo / Salla)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 66.37
+  lon: 29.33
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 656
+  nombre_en_la_fuente: Oulangan kansallispuisto
+  categoria_uicn: II
+  capa: capas/cdda/oulanka-national-park.geojson
+habitats:
+  - river_corridor
+  - primary_forest
+  - gorge_canyon
+  - wetland
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - salmo_trutta
+  - alcedo_atthis
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media a lo largo de la ruta mítica del Karhunkierros (El Anillo del Oso)
+  en: Moderate along the legendary Karhunkierros (Bear's Ring) route
+  fr: Moyenne le long de l'itinéraire mythique du Karhunkierros (La Boucle de l'Ours)
+  de: Mäßig entlang der legendären Karhunkierros-Route (Bärenrunde)
+  it: Media lungo il mitico itinerario del Karhunkierros (L'Anello dell'Orso)
+  pt: Média ao longo da rota lendária do Karhunkierros (O Anel do Urso)
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 4
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y mapa — Información oficial del parque
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park
+  - titulo: Rutas — Senderismo e itinerarios del parque
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park/activities-and-trails/hiking-and-outdoor-recreation
+  - titulo: Normas — Instrucciones y restricciones de visita
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park/instructions-and-rules
+  - titulo: Servicios y centros — Equipamientos del parque
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park/services/hiking-services
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park/directions/by-car
+  - titulo: Avisos — Novedades y condiciones actuales
+    url: https://www.luontoon.fi/en/destinations/oulanka-national-park/whatsnew
+resumen:
+  es: >-
+    Ríos torrenciales encajados en gargantas de arenisca y pinares primigenios boreales, atravesados por
+    puentes colgantes a lo largo del sendero Karhunkierros.
+  en: >-
+    Torrential rivers carved into sandstone gorges and pristine boreal pine forests, crossed by suspension
+    bridges along the Karhunkierros trail.
+  fr: >-
+    Rivières torrentielles encaissées dans des gorges de grès et pinèdes boréales originelles, franchies par
+    des ponts suspendus le long du sentier Karhunkierros.
+  de: >-
+    Reißende Flüsse in Sandsteinschluchten und urwüchsige boreale Kiefernwälder, überquert von Hängebrücken
+    entlang des Karhunkierros-Pfades.
+  it: >-
+    Fiumi torrenziali incassati in gole d'arenaria e pinete boreali incontaminate, attraversati da ponti
+    sospesi lungo il sentiero Karhunkierros.
+  pt: >-
+    Rios torrenciais encravados em desfiladeiros de arenito e pinhais primígenos boreais, atravessados por
+    pontes suspensas ao longo do trilho Karhunkierros.
+unico:
+  es: Aquí se encuentran el norte, el sur y el este de Finlandia, y cada orilla del Oulankajoki lo demuestra.
+  en: Here north, south, and east Finland converge, and every bank of the Oulankajoki proves it.
+  fr: >-
+    Ici se rencontrent le nord, le sud et l'est de la Finlande, et chaque rive de l'Oulankajoki en apporte la
+    preuve.
+  de: Hier treffen Norden, Süden und Osten Finnlands aufeinander, und jedes Ufer des Oulankajoki beweist es.
+  it: Qui convergono il nord, il sud e l'est della Finlandia, e ogni sponda dell'Oulankajoki ne è la prova.
+  pt: Aqui convergem o norte, o sul e o leste da Finlândia, e cada margem do Oulankajoki comprova-o.
+observaciones:
+  es: >-
+    Las crecidas de primavera bloquean muchas zonas, pero Kiutaköngäs sigue accesible. Se pueden recoger bayas
+    y setas en el parque. El pastoreo de renos solo lo permite a gente de Laponia.
+texto:
+  es:
+    intro: >-
+      En Oulanka, la primavera se mide en el río. Cuando se funde la nieve, el Oulankajoki se desborda, corta
+      el acceso a buena parte de los senderos y deja un solo lugar cómodo desde el que verlo todo:
+      Kiutaköngäs, en el corazón del parque. Este parque nacional del norte de Finlandia, entre Kuusamo y
+      Salla, es una mezcla de naturaleza del norte, del sur y del este: pinares de bosque boreal sin talar,
+      valles con orillas de arena y rápidos, y al norte, extensas turberas.
+    landscape: >-
+      Dos ríos grandes cruzan el parque hacia el este, el Oulankajoki y el Kitkajoki. El fondo de los valles
+      baja hasta los 151 metros y los cerros más altos llegan a 380. Donde el agua se acelera aparecen los
+      rápidos: Kiutaköngäs mide unos cien metros y está a menos de un kilómetro del centro de naturaleza, y
+      Jyrävä, en el Kitkajoki, es el otro gran nombre. En lengua sami, kiutaköngäs significa rápido grande en
+      una garganta profunda.
+
+
+      Alrededor del agua crece un bosque que apenas se ha tocado: pinares de bosque boreal sin talar, cerca
+      del círculo polar ártico. Y bajo ellos, un suelo rico en nutrientes, que explica por qué prosperan
+      plantas raras y exigentes. Se cuentan más de quinientas plantas vasculares. Hay además un cruce de
+      caminos botánico: especies del norte y del sur se solapan, y numerosas especies del este de Finlandia
+      tienen en Oulanka su límite más occidental. El valle del río fue, tras la última glaciación, una vía de
+      dispersión muy importante para las que llegaban del este.
+
+
+      Entre las plantas de la zona destaca el zapatito de Venus (Calypso bulbosa), una orquídea amenazada que
+      es el emblema del parque y que aquí resulta común. Entre las especies amenazadas del país que viven en
+      Oulanka están también pohjanailakki y tikankontti.
+    wildlife: >-
+      Los bosques ricos en hierbas guardan aves raras como el arrendajo siberiano y el
+      [urogallo](/especie/tetrao_urogallus/). Hay más de cien especies de aves en el parque, y las orillas del
+      río y los prados aluviales albergan mariposas raras. Entre los mamíferos amenazados que viven aquí
+      figuran el [oso pardo](/especie/ursus_arctos/), el [lince](/especie/lynx_lynx/) y el
+      [glotón](/especie/gulo_gulo/), junto con el [alce](/especie/alces_alces/).
+
+
+      El calendario manda. A mediados y finales de mayo la crecida alcanza su máximo en Kiutaköngäs; casi al
+      mismo tiempo, desde finales de mayo hasta mediados de junio, florece el zapatito de Venus a medida que
+      se va la nieve. La temporada de Karhunkierros empieza a finales de mayo y se mantiene animada todo el
+      verano. A finales de verano abundan los arándanos y las setas, y las orquídeas silvestres figuran entre
+      las flores más populares de la zona. En otoño llega la ruska, con colores que atraen a muchos
+      senderistas. En invierno, las raquetas de nieve encajan bien con el terreno.
+    visit: >-
+      La ruta que da fama al parque es Karhunkierros, el sendero más conocido de Finlandia: unos 80 km, entre
+      tres y siete días según tu forma física, y practicable todo el año. A lo largo del camino hay ocho
+      refugios de monte de uso gratuito y dos refugios de día. En verano pueden llenarse, así que lleva
+      tienda.
+
+
+      Si no tienes días, el parque ofrece rutas de una jornada. Pieni Karhunkierros mide 11,8 km, es difícil y
+      suele llevar entre tres y cinco horas. Las demás son Hiiden hurmos (5 km) y Könkään keino (8 km),
+      ideales para familias, el sendero natural de Rytisuo (5 km) y Kanjonin kurkkaus (6 km), con el que ves
+      en un día buena parte de lo más famoso del parque. Para llegar a la cascada sin esfuerzo, Könkään kuohu
+      es un sendero accesible de cien metros bajo Kiutaköngäs. En verano también se puede hacer canoa o kayak
+      por el Oulankajoki.
+
+
+      Junto al centro de visitantes está la estación de investigación de Oulanka, fundada en 1966 para
+      estudios de biología y geología. En invierno, los aparcamientos del centro de visitantes, de Juuma y de
+      Ristikallio están despejados, y desde ellos arrancan la mayoría de las caminatas.
+    history: >-
+      Los primeros habitantes fueron sami, que vivieron aquí hasta finales del siglo XVII, cuando llegaron
+      colonos finlandeses. Los senderistas de hoy recorren caminos que ya usaban los cazadores de la Edad de
+      Piedra. Muchos de los refugios abiertos eran cabañas de pastores de renos. Durante la fiebre maderera,
+      los leñadores bajaban por el Oulankajoki de pie sobre los troncos.
+
+
+      A finales del siglo XIX la zona ya atraía a artistas y naturalistas, pero la protección tardó: la guerra
+      mundial y la llamada guerra de los rápidos de Kuusamo la retrasaron. En los años cincuenta hubo planes
+      de aprovechar el Oulankajoki y el Kitkajoki para producir electricidad; se desistió al ver que proteger
+      la naturaleza favorecía el turismo, y los rápidos siguen libres. El trazado de Karhunkierros se abrió en
+      1954; el parque se creó en 1956 y se amplió en 1982 y 1989. En 2002 recibió el certificado PAN Parks del
+      WWF. Al este linda con el parque nacional ruso de Paanajärvi, con el que colabora de forma continua.
+    before: >-
+      Las crecidas de primavera bloquean muchas zonas, pero Kiutaköngäs sigue accesible. Se pueden recoger
+      bayas y setas en el parque. El pastoreo de renos solo lo permite a gente de Laponia.
+    around: >-
+      El [Parque Nacional de Riisitunturi](/lugar/riisitunturi-national-park/) está a unos veinticinco
+      kilómetros. Más lejos, el [Río Drava y Llanura de Inundación](/lugar/drava-river---floodplain/) comparte
+      con Oulanka el corredor fluvial, los humedales y el [martín pescador](/especie/alcedo_atthis/).
+  en:
+    intro: >-
+      In Oulanka, spring is measured in the river. When the snow melts, the Oulankajoki overflows its banks,
+      cutting off access to many trails and leaving a single vantage point to witness it all: Kiutaköngäs, in
+      the heart of the park. This national park in northern Finland, set between Kuusamo and Salla, is a
+      crossroads of northern, southern, and eastern nature: unlogged boreal pine forests, valleys with sand
+      banks and rushing rapids, and expansive peatlands to the north.
+    landscape: >-
+      Two major rivers flow east across the park, the Oulankajoki and the Kitkajoki. The valley floors sink to
+      151 meters, while the highest hills reach 380. Where the water accelerates, rapids roar: Kiutaköngäs
+      stretches for about one hundred meters and lies less than one kilometer from the nature center, while
+      Jyrävä on the Kitkajoki is the other celebrated landmark. In the Sami language, kiutaköngäs translates
+      to a large rapid in a deep gorge.
+
+
+      Around the waters grows an almost untouched woodland: pristine boreal pine forests near the Arctic
+      Circle. Beneath them lies nutrient-rich soil that explains why rare and demanding plants flourish here.
+      More than five hundred vascular plant species have been documented. It is also a botanical crossroads:
+      northern and southern species overlap, and numerous eastern Finnish species reach their westernmost
+      range boundary in Oulanka. After the last ice age, the river valley served as a crucial migration
+      corridor for flora arriving from the east.
+
+
+      Among local plants, the fairy slipper (Calypso bulbosa) stands out—an endangered orchid that serves as
+      the park's emblem and is remarkably common here. Other nationally threatened species surviving in
+      Oulanka include pohjanailakki and tikankontti.
+    wildlife: >-
+      The herb-rich forests harbor rare birds such as the Siberian jay and the [western
+      capercaillie](/especie/tetrao_urogallus/). More than one hundred bird species inhabit the park, while
+      riverbanks and flood meadows shelter scarce butterflies. Threatened mammals residing here include the
+      [brown bear](/especie/ursus_arctos/), the [Eurasian lynx](/especie/lynx_lynx/), and the
+      [wolverine](/especie/gulo_gulo/), alongside the [moose](/especie/alces_alces/).
+
+
+      The seasons set the rhythm. In mid-to-late May the spring flood reaches its peak at Kiutaköngäs; around
+      the same time, from late May through mid-June, the fairy slipper blooms as the snow recedes. The
+      Karhunkierros trekking season opens in late May and remains bustling throughout the summer. In late
+      summer, bilberries and mushrooms abound, and wild orchids rank among the most sought-after blooms in the
+      area. In autumn the ruska arrives, displaying vibrant foliage that draws legions of hikers. In winter,
+      snowshoes are well suited to the terrain.
+    visit: >-
+      The trail that brought fame to the park is Karhunkierros, Finland's best-known hiking route: roughly 80
+      km, requiring between three and seven days depending on your fitness, and passable year-round. Along the
+      trail stand eight wilderness huts free for overnight use and two day-trip shelters. In summer they can
+      fill up quickly, so bring a tent.
+
+
+      If you lack the time for a multi-day trek, the park offers excellent day hikes. Pieni Karhunkierros
+      measures 11.8 km, is challenging, and typically takes between three and five hours. Other options
+      include Hiiden hurmos (5 km) and Könkään keino (8 km), both ideal for families, the Rytisuo nature trail
+      (5 km), and Kanjonin kurkkaus (6 km), which showcases much of the park's highlights in a single day. To
+      admire the falls effortlessly, Könkään kuohu is an accessible trail of one hundred meters below
+      Kiutaköngäs. In summer you can also canoe or kayak along the Oulankajoki.
+
+
+      Beside the visitor center stands the Oulanka Research Station, founded in 1966 for biological and
+      geological studies. In winter, the parking areas at the visitor center, Juuma, and Ristikallio are kept
+      clear of snow, serving as starting points for most winter walks.
+    history: >-
+      The earliest inhabitants were Sami people, who lived here until the late seventeenth century, when
+      Finnish settlers arrived. Today's hikers walk along trails once trodden by Stone Age hunters. Many of
+      the open shelters were once reindeer herders' cabins. During the logging boom, timber fellers floated
+      down the Oulankajoki standing upright on logs.
+
+
+      By the late nineteenth century the area was already attracting artists and naturalists, but formal
+      protection took time: world war and the so-called Kuusamo rapids conflict delayed conservation efforts.
+      In the nineteen-fifties there were plans to harness the Oulankajoki and the Kitkajoki for hydroelectric
+      power; the project was abandoned when authorities recognized that preserving wild nature benefited
+      tourism, leaving the rapids free-flowing. The Karhunkierros trail was marked out in 1954; the national
+      park was established in 1956 and expanded in 1982 and 1989. In 2002 it received WWF PAN Parks
+      certification. To the east it borders Russia's Paanajärvi National Park, with which it maintains ongoing
+      cross-border cooperation.
+    before: >-
+      Spring floods submerge many trails, yet Kiutaköngäs remains accessible. Foraging for berries and
+      mushrooms is permitted in the park. Reindeer husbandry is reserved exclusively for the people of
+      Lapland.
+    around: >-
+      The [Riisitunturi National Park](/lugar/riisitunturi-national-park/) lies roughly twenty-five kilometers
+      away. Further afield, the [Drava River and Floodplains](/lugar/drava-river---floodplain/) shares with
+      Oulanka a protected river corridor, expansive wetlands, and the [common
+      kingfisher](/especie/alcedo_atthis/).
+  fr:
+    intro: >-
+      À Oulanka, le printemps s'évalue au rythme du cours d'eau. À la fonte des neiges, l'Oulankajoki sort de
+      son lit, coupe l'accès à bon nombre de sentiers et ne laisse qu'un unique point d'observation commode
+      pour tout contempler : Kiutaköngäs, au cœur du parc. Ce parc national du nord de la Finlande, entre
+      Kuusamo et Salla, mêle la nature du nord, du sud et de l'est : des pinèdes boréales jamais exploitées,
+      des vallées aux berges sablonneuses et aux rapides vifs, et au nord de vastes tourbières.
+    landscape: >-
+      Deux grands cours d'eau traversent le parc vers l'est, l'Oulankajoki et le Kitkajoki. Le fond des
+      vallées descend jusqu'à 151 mètres et les collines les plus élevées culminent à 380. Là où l'eau
+      s'accélère surgissent les rapides : Kiutaköngäs s'étire sur une centaine de mètres et se trouve à moins
+      d'un kilomètre du centre d'interprétation, tandis que Jyrävä, sur le Kitkajoki, constitue l'autre grand
+      repère. En langue samie, kiutaköngäs signifie grand rapide dans une gorge profonde.
+
+
+      Autour de l'eau s'épanouit une forêt quasiment intouchée : des pinèdes boréales préservées, proches du
+      cercle polaire arctique. Sous leurs troncs, un sol riche en nutriments explique la prospérité de plantes
+      rares et exigeantes. On dénombre plus de cinq cents espèces de plantes vasculaires. C'est en outre un
+      carrefour botanique : espèces boréales et méridionales s'y chevauchent, et de nombreuses plantes de
+      l'est finlandais atteignent à Oulanka leur limite occidentale. Après la dernière glaciation, la vallée
+      fluviale a constitué un corridor de dispersion majeur pour la flore venant de l'est.
+
+
+      Parmi les végétaux locaux se distingue la calypso bulbeuse (Calypso bulbosa), une orchidée menacée
+      devenue l'emblème du parc et qui y demeure commune. Parmi les espèces menacées à l'échelle nationale
+      présentes à Oulanka figurent également le pohjanailakki et le tikankontti.
+    wildlife: >-
+      Les forêts d'éboulis et sous-bois riches en herbes abritent des oiseaux rares comme le mésangeai
+      imitateur et le [grand tétras](/especie/tetrao_urogallus/). Plus d'une centaine d'espèces d'oiseaux
+      peuplent le parc, tandis que les rives et prairies inondables accueillent des papillons rares. Parmi les
+      mammifères vulnérables figurent l'[ours brun](/especie/ursus_arctos/), le [lynx
+      boréal](/especie/lynx_lynx/) et le [glouton](/especie/gulo_gulo/), aux côtés de
+      l'[élan](/especie/alces_alces/).
+
+
+      Le calendrier dicte les saisons. De la mi-mai à la fin mai, la crue printanière culmine à Kiutaköngäs ;
+      presque au même moment, de fin mai à la mi-juin, la calypso bulbeuse fleurit à mesure que la neige
+      s'efface. La saison de randonnée sur le Karhunkierros démarre fin mai et reste animée tout l'été. En fin
+      d'été abondent myrtilles et champignons, et les orchidées sauvages comptent parmi les fleurs les plus
+      admirées. À l'automne survient la ruska, parée de teintes flamboyantes qui séduisent les marcheurs. En
+      hiver, les raquettes à neige s'adaptent parfaitement au terrain.
+    visit: >-
+      L'itinéraire qui fait la réputation du parc est le Karhunkierros, le sentier le plus renommé de Finlande
+      : environ 80 km, entre trois et sept jours selon votre condition physique, praticable en toute saison.
+      Le long du parcours se dressent huit refuges forestiers en accès libre et deux abris de jour. En été ils
+      peuvent vite se remplir, prévoyez donc une tente.
+
+
+      Si vous manquez de temps, le parc propose d'excellentes boucles à la journée. Pieni Karhunkierros fait
+      11,8 km, exige un bon effort et demande généralement entre trois et cinq heures. Les autres sont Hiiden
+      hurmos (5 km) et Könkään keino (8 km), parfaits pour les familles, le sentier pédagogique de Rytisuo (5
+      km) et Kanjonin kurkkaus (6 km), qui donne à voir en une journée l'essentiel des joyaux du parc. Pour
+      contempler la cascade sans difficulté, Könkään kuohu est un chemin aménagé d'une centaine de mètres sous
+      Kiutaköngäs. En été, canoë et kayak se pratiquent également sur l'Oulankajoki.
+
+
+      Près du centre des visiteurs se trouve la station de recherche d'Oulanka, créée en 1966 pour des travaux
+      biologiques et géologiques. En hiver, les parkings du centre des visiteurs, de Juuma et de Ristikallio
+      sont déneigés et servent de point de départ à la plupart des sorties.
+    history: >-
+      Les premiers habitants étaient des Samis, qui vécurent ici jusqu'à la fin du dix-septième siècle, date
+      de l'arrivée des pionniers finlandais. Les randonneurs d'aujourd'hui empruntent des pistes déjà
+      arpentées par les chasseurs de l'âge de pierre. Plusieurs abris ouverts servaient autrefois de cabanes
+      d'éleveurs de rennes. Durant l'essor du flottage du bois, les draveurs descendaient l'Oulankajoki debout
+      sur les grumes en mouvement.
+
+
+      À la fin du dix-neuvième siècle, la région fascinait déjà artistes et naturalistes, mais la protection
+      légale prit du retard, différée par les conflits mondiaux et la controverse sur les rapides de Kuusamo.
+      Dans les années cinquante, des projets visaient à équiper l'Oulankajoki et le Kitkajoki de barrages
+      hydroélectriques ; ils furent abandonnés quand il apparut que la préservation des paysages profitait au
+      tourisme, laissant les rapides libres. Le tracé du Karhunkierros a été balisé en 1954 ; le parc a été
+      créé en 1956 puis agrandi en 1982 et 1989. En 2002, il a reçu la certification PAN Parks du WWF. À
+      l'est, il jouxte le parc national russe de Paanajärvi, avec lequel il entretient des échanges continus.
+    before: >-
+      Les crues printanières bloquent de nombreux secteurs, mais Kiutaköngäs reste accessible. La cueillette
+      de baies et de champignons est autorisée dans le parc. L'élevage de rennes est réservé aux habitants de
+      Laponie.
+    around: >-
+      Le [Parc national de Riisitunturi](/lugar/riisitunturi-national-park/) se situe à environ vingt-cinq
+      kilomètres. Plus au sud, la [Rivière Drave et plaine inondable](/lugar/drava-river---floodplain/)
+      partage avec Oulanka un corridor d'eaux vives, de vastes zones humides et la présence du [martin-pêcheur
+      d'Europe](/especie/alcedo_atthis/).
+  de:
+    intro: >-
+      In Oulanka bemisst sich das Frühjahr am Fluss. Wenn der Schnee schmilzt, tritt der Oulankajoki über die
+      Ufer, versperrt den Zugang zu vielen Pfaden und lässt einen einzigen bequemen Ort übrig, um das
+      Naturschauspiel zu beobachten: Kiutaköngäs im Herzen des Parks. Dieser Nationalpark im Norden Finnlands,
+      zwischen Kuusamo und Salla gelegen, vereint Elemente aus dem Norden, Süden und Osten des Landes:
+      unberührte boreale Urwälder, Flusstäler mit Sandbänken und Stromschnellen sowie weite Moore im Norden.
+    landscape: >-
+      Zwei große Flüsse fließen ostwärts durch den Park: der Oulankajoki und der Kitkajoki. Die Talböden
+      sinken bis auf 151 Meter ab, während die höchsten Hügel 380 Meter erreichen. Wo das Wasser an Fahrt
+      gewinnt, tosen die Stromschnellen: Kiutaköngäs erstreckt sich über etwa einhundert Meter und liegt
+      weniger als einen Kilometer vom Naturzentrum entfernt; Jyrävä am Kitkajoki ist die andere berühmte
+      Landmarke. Im Samischen bedeutet kiutaköngäs große Stromschnelle in einer tiefen Schlucht.
+
+
+      Um das Wasser gedeiht ein kaum berührter Wald: boreale Kiefernwälder ohne Holzeinschlag nahe dem
+      Polarkreis. Darunter liegt ein nährstoffreicher Boden, der erklärt, warum anspruchsvolle und seltene
+      Pflanzen hier so üppig wachsen. Mehr als fünfhundert Gefäßpflanzenarten sind hier nachgewiesen. Es ist
+      zudem eine botanische Wegscheide: Nördliche und südliche Arten überschneiden sich, und zahlreiche
+      Pflanzen Ostfinnlands finden in Oulanka ihre westlichste Verbreitungsgrenze. Nach der letzten Eiszeit
+      fungierte das Flusstal als zentrale Ausbreitungsroute für Pflanzen, die aus dem Osten einwanderten.
+
+
+      Unter den heimischen Gewächsen ragt die Norne (Calypso bulbosa) heraus – eine bedrohte Orchidee, die als
+      Wahrzeichen des Parks gilt und hier erstaunlich häufig vorkommt. Zu den landesweit gefährdeten Arten in
+      Oulanka zählen auch pohjanailakki und tikankontti.
+    wildlife: >-
+      Die kräuterreichen Wälder beherbergen seltene Vögel wie den Unglückshäher und das
+      [Auerhuhn](/especie/tetrao_urogallus/). Mehr als einhundert Vogelarten leben im Park, und die Uferzonen
+      sowie Feuchtwiesen bieten seltenen Schmetterlingen Schutz. Unter den bedrohten Säugetieren finden sich
+      hier der [Braunbär](/especie/ursus_arctos/), der [Eurasische Luchs](/especie/lynx_lynx/) und der
+      [Vielfraß](/especie/gulo_gulo/), zusammen mit dem [Elch](/especie/alces_alces/).
+
+
+      Der Kalender gibt den Takt vor. Mitte bis Ende Mai erreicht das Frühjahrshochwasser an den
+      Kiutaköngäs-Fällen seinen Höchststand; fast zeitgleich, von Ende Mai bis Mitte Juni, blüht die Norne,
+      sobald der Schnee weicht. Die Wandersaison auf der Karhunkierros-Route beginnt Ende Mai und bleibt den
+      gesamten Sommer über belebt. Im Spätsommer reifen Heidelbeeren und Pilze in Hülle und Fülle, und wilde
+      Orchideen gehören zu den begehrtesten Blüten der Region. Im Herbst zieht die Farbenpracht der Ruska
+      Scharen von Wanderern an. Im Winter eignen sich Schneeschuhe ideal für das Gelände.
+    visit: >-
+      Der Pfad, der den Park berühmt gemacht hat, ist der Karhunkierros, Finnlands bekannteste Wanderroute:
+      rund 80 km lang, für die du je nach Kondition zwischen drei und sieben Tage benötigst und ganzjährig
+      begehbar. Entlang der Strecke stehen acht kostenlose Wildnishütten für Übernachtungen und zwei
+      Tageshütten bereit. Im Sommer können sie rasch belegt sein, daher solltest du ein Zelt mitführen.
+
+
+      Wenn du nicht mehrere Tage Zeit hast, bietet der Park lohnende Tagestouren. Die Pieni Karhunkierros
+      misst 11,8 km, ist anspruchsvoll und erfordert meist zwischen drei und fünf Stunden. Weitere Optionen
+      sind Hiiden hurmos (5 km) und Könkään keino (8 km), beide ideal für Familien, der Naturlehrpfad Rytisuo
+      (5 km) sowie Kanjonin kurkkaus (6 km), der an einem Tag viele Höhepunkte des Parks erschließt. Um den
+      Wasserfall mühelos zu bestaunen, führt der barrierefreie Pfad Könkään kuohu über einhundert Meter
+      unterhalb von Kiutaköngäs. Im Sommer lässt sich der Oulankajoki auch mit Kanu oder Kajak befahren.
+
+
+      Neben dem Besucherzentrum befindet sich die Forschungsstation Oulanka, die 1966 für biologische und
+      geologische Studien gegründet wurde. Im Winter werden die Parkplätze am Besucherzentrum, in Juuma und
+      Ristikallio geräumt, von wo die meisten Winterwanderungen starten.
+    history: >-
+      Die ersten Bewohner waren Samen, die hier bis zum späten siebzehnten Jahrhundert lebten, als finnische
+      Siedler eintrafen. Wanderer nutzen heute Pfade, die schon Jäger der Steinzeit begingen. Viele der
+      offenen Unterstände dienten früher Rentierhirten als Quartiere. Während des Holzbooms steuerten Flößer
+      stehend auf Baumstämmen den Oulankajoki hinab.
+
+
+      Bereits Ende des neunzehnten Jahrhunderts zog die Region Künstler und Naturforscher an, doch der Schutz
+      verzögerte sich: Weltkriege und der sogenannte Stromschnellenstreit von Kuusamo hemmten die Pläne. In
+      den fünfziger Jahren sollte der Oulankajoki und Kitkajoki zur Stromerzeugung gestaut werden; das
+      Vorhaben wurde aufgegeben, als klar wurde, dass unberührte Natur den Tourismus fördert, sodass die
+      Stromschnellen unverbaut blieben. Der Karhunkierros wurde 1954 trassiert; der Nationalpark wurde 1956
+      gegründet und 1982 sowie 1989 erweitert. 2002 erhielt er das PAN-Parks-Zertifikat des WWF. Im Osten
+      grenzt er an den russischen Nationalpark Paanajärvi, mit dem eine dauerhafte Kooperation besteht.
+    before: >-
+      Frühjahrshochwasser überflutet viele Bereiche, doch Kiutaköngäs bleibt erreichbar. Das Sammeln von
+      Beeren und Pilzen ist im Park erlaubt. Die Rentierzucht ist den Einheimischen Lapplands vorbehalten.
+    around: >-
+      Der [Nationalpark Riisitunturi](/lugar/riisitunturi-national-park/) liegt etwa fünfundzwanzig Kilometer
+      entfernt. Weiter entfernt teilt die [Drau und Überschwemmungsgebiete](/lugar/drava-river---floodplain/)
+      mit Oulanka einen geschützten Flusskorridor, weite Feuchtgebiete und das Vorkommen des
+      [Eisvogels](/especie/alcedo_atthis/).
+  it:
+    intro: >-
+      A Oulanka la primavera si misura sul fiume. Quando la neve si scioglie, l'Oulankajoki straripa, isola
+      molti sentieri e lascia un solo punto agevole per ammirare il tutto: Kiutaköngäs, nel cuore del parco.
+      Questo parco nazionale della Finlandia settentrionale, tra Kuusamo e Salla, fonde la natura del nord,
+      del sud e dell'est: pinete boreali mai disboscate, valli dalle sponde sabbiose e rapide impetuose, e a
+      nord estese torbiere.
+    landscape: >-
+      Due grandi corsi d'acqua scorrono verso est nel parco, l'Oulankajoki e il Kitkajoki. Il fondovalle
+      scende fino a 151 metri e le colline più alte toccano i 380. Dove l'acqua acquista impeto appaiono le
+      rapide: Kiutaköngäs si allunga per circa cento metri a meno di un chilometro dal centro visite, mentre
+      Jyrävä sul Kitkajoki è l'altro celebre riferimento. In lingua sami, kiutaköngäs significa grande rapida
+      in una gola profonda.
+
+
+      Attorno all'acqua cresce una foresta quasi intatta: pinete boreali originarie vicine al circolo polare
+      artico. Sotto di esse, un terreno ricco di nutrienti chiarisce perché prosperino piante rare ed
+      esigenti. Si contano più di cinquecento piante vascolari. È inoltre un incrocio botanico: specie
+      settentrionali e meridionali si sovrappongono, e numerose piante della Finlandia orientale raggiungono a
+      Oulanka il loro limite occidentale estremo. Dopo l'ultima era glaciale, la valle fluviale fu una via di
+      dispersione fondamentale per le specie giunte da est.
+
+
+      Tra i vegetali del parco spicca la pianella della Madonna (Calypso bulbosa), un'orchidea protetta che è
+      l'emblema del parco e che qui risulta comune. Tra le specie minacciate sul piano nazionale presenti a
+      Oulanka figurano anche pohjanailakki e tikankontti.
+    wildlife: >-
+      I boschi ricchi di erbe accolgono uccelli rari come la ghiandaia siberiana e
+      l'[urogallo](/especie/tetrao_urogallus/). Più di cento specie di uccelli popolano l'area, mentre sponde
+      e prati alluvionali ospitano farfalle rare. Tra i mammiferi protetti che vivono qui si annoverano
+      l'[orso bruno](/especie/ursus_arctos/), la [lince eurasiatica](/especie/lynx_lynx/) e il
+      [ghiottone](/especie/gulo_gulo/), assieme all'[alce](/especie/alces_alces/).
+
+
+      Il calendario scandisce le visite. Tra metà e fine maggio la piena tocca il vertice a Kiutaköngäs; quasi
+      contemporaneamente, da fine maggio a metà giugno, la pianella della Madonna fiorisce con il ritirarsi
+      della neve. La stagione del Karhunkierros comincia a fine maggio e resta vivace per tutta l'estate. A
+      fine estate abbondano mirtilli e funghi, e le orchidee selvatiche sono tra le fioriture più ammirate. In
+      autunno giunge la ruska, con colori accesi che richiamano moltissimi escursionisti. In inverno le
+      ciaspole si adattano alla perfezione al territorio.
+    visit: >-
+      Il tracciato che dà celebrità al parco è il Karhunkierros, l'itinerario escursionistico più noto della
+      Finlandia: circa 80 km, percorribili tra tre e sette giorni a seconda della preparazione fisica,
+      praticabile tutto l'anno. Lungo il cammino sorgono otto rifugi aperti a uso gratuito e due rifugi per la
+      sosta diurna. In estate possono riempirsi facilmente, quindi porta con te la tenda.
+
+
+      Se hai poco tempo, il parco offre ottime escursioni in giornata. Il Pieni Karhunkierros misura 11,8 km,
+      è impegnativo e richiede di norma tra tre e cinque ore. Le altre alternative sono Hiiden hurmos (5 km) e
+      Könkään keino (8 km), ideali per famiglie, il sentiero naturalistico di Rytisuo (5 km) e Kanjonin
+      kurkkaus (6 km), che in un solo giorno ti svela molti scorci celebri del parco. Per raggiungere la
+      cascata senza fatica, Könkään kuohu è un percorso accessibile di cento metri sotto Kiutaköngäs. In
+      estate è possibile navigare l'Oulankajoki anche in canoa o kayak.
+
+
+      Accanto al centro visitatori si trova la stazione di ricerca di Oulanka, fondata nel 1966 per indagini
+      biologiche e geologiche. In inverno i parcheggi del centro visitatori, di Juuma e di Ristikallio vengono
+      tenuti sgombri dalla neve, costituendo la partenza della gran parte dei percorsi.
+    history: >-
+      I primi abitanti furono i sami, che vissero qui fino alla fine del diciassettesimo secolo, quando
+      giunsero i coloni finlandesi. Gli escursionisti di oggi ricalcano sentieri già battuti dai cacciatori
+      dell'età della pietra. Molti dei rifugi aperti erano capanne usate dai pastori di renne. Durante l'epoca
+      d'oro del legname, i boscaioli scendevano l'Oulankajoki in piedi sui tronchi fluttuanti.
+
+
+      A fine diciannovesimo secolo l'area attirava già artisti e naturalisti, ma la tutela formale tardò: i
+      conflitti mondiali e la cosiddetta contesa dei rapidi di Kuusamo la rinviarono. Negli anni cinquanta vi
+      furono progetti per sfruttare l'Oulankajoki e il Kitkajoki a fini idroelettrici; l'idea fu abbandonata
+      comprendendo che preservare la natura integra favoriva il turismo, lasciando le rapide libere. Il
+      percorso del Karhunkierros fu tracciato nel 1954; il parco fu istituito nel 1956 e ampliato nel 1982 e
+      nel 1989. Nel 2002 ottenne il riconoscimento PAN Parks dal WWF. A oriente confina con il parco nazionale
+      russo di Paanajärvi, con il quale coopera stabilmente.
+    before: >-
+      Le piene primaverili allagano ampie zone, ma Kiutaköngäs rimane raggiungibile. È consentito raccogliere
+      bacche e funghi nel parco. L'allevamento delle renne è riservato ai soli residenti della Lapponia.
+    around: >-
+      Il [Parco Nazionale di Riisitunturi](/lugar/riisitunturi-national-park/) si trova a circa venticinque
+      chilometri. Più a sud, il [Fiume Drava e pianura alluvionale](/lugar/drava-river---floodplain/)
+      condivide con Oulanka il corridoio fluviale, le zone umide e la presenza del [martin
+      pescatore](/especie/alcedo_atthis/).
+  pt:
+    intro: >-
+      Em Oulanka, a primavera mede-se no rio. Quando a neve derrete, o Oulankajoki transborda, corta o acesso
+      a grande parte dos trilhos e deixa um único ponto favorável para contemplar tudo: Kiutaköngäs, no
+      coração do parque. Este parque nacional do norte da Finlândia, situado entre Kuusamo e Salla, combina a
+      natureza do norte, do sul e do leste: pinhais boreais virgens, vales com margens arenosas e rápidos
+      impetuosos, e a norte extensas turfeiras.
+    landscape: >-
+      Dois grandes rios cruzam o parque em direção a leste, o Oulankajoki e o Kitkajoki. O fundo dos vales
+      desce até aos 151 metros e as colinas mais altas atingem os 380. Onde a corrente acelera surgem os
+      rápidos: Kiutaköngäs estende-se por cerca de cem metros e fica a menos de um quilómetro do centro de
+      visitantes, enquanto Jyrävä, no Kitkajoki, é a outra referência maior. Na língua sami, kiutaköngäs
+      significa grande rápido num desfiladeiro profundo.
+
+
+      Em torno das águas ergue-se uma floresta quase intocada: pinhais boreais virgens, muito perto do círculo
+      polar ártico. Sob as árvores, um solo rico em nutrientes explica por que razão proliferam plantas raras
+      e exigentes. Registam-se mais de quinhentas espécies vasculares. Trata-se também de uma encruzilhada
+      botânica: espécies do norte e do sul sobrepõem-se, e várias espécies do leste da Finlândia encontram em
+      Oulanka o seu limite ocidental. Após a última glaciação, o vale fluvial constituiu um corredor de
+      dispersão crucial para as plantas provenientes de leste.
+
+
+      Entre a vegetação local sobressai o sapatinho-de-vénus (Calypso bulbosa), uma orquídea vulnerável que
+      serve de símbolo ao parque e que aqui é invulgarmente comum. Outras espécies ameaçadas a nível nacional
+      presentes em Oulanka incluem pohjanailakki e tikankontti.
+    wildlife: >-
+      Os bosques ricos em ervas albergam aves raras como o gaio-siberiano e o
+      [tetraz-grande](/especie/tetrao_urogallus/). Mais de cem espécies de aves habitam o parque, enquanto as
+      margens e prados aluviais acolhem borboletas raras. Entre os mamíferos ameaçados que aqui habitam
+      contam-se o [urso-pardo](/especie/ursus_arctos/), o [lince-euroasiático](/especie/lynx_lynx/) e o
+      [glutão](/especie/gulo_gulo/), a par do [alce](/especie/alces_alces/).
+
+
+      O calendário dita a experiência. Em meados e finais de maio a cheia atinge o auge em Kiutaköngäs; quase
+      na mesma altura, do final de maio a meados de junho, o sapatinho-de-vénus floresce à medida que a neve
+      recua. A época de trekking no Karhunkierros arranca em finais de maio e permanece movimentada todo o
+      verão. No fim do verão abundam mirtilos e cogumelos, e as orquídeas selvagens figuram entre as flores
+      mais procuradas. No outono chega a ruska, trazendo folhagens coloridas que atraem muitos caminhantes. No
+      inverno, as raquetes de neve ajustam-se na perfeição ao terreno.
+    visit: >-
+      O percurso que celebrizou o parque é o Karhunkierros, o trilho pedestre mais famoso da Finlândia: cerca
+      de 80 km, exigindo entre três e sete dias dependendo da tua condição física, transitável todo o ano. Ao
+      longo do caminho existem oito abrigos de montanha de utilização gratuita e dois abrigos de apoio diurno.
+      No verão podem lotar depressa, pelo que deves levar tenda.
+
+
+      Se não dispões de vários dias, o parque disponibiliza ótimos passeios de um dia. O Pieni Karhunkierros
+      tem 11,8 km, é exigente e demora habitualmente entre três e cinco horas. As restantes opções são Hiiden
+      hurmos (5 km) e Könkään keino (8 km), perfeitas para famílias, o trilho de interpretação de Rytisuo (5
+      km) e Kanjonin kurkkaus (6 km), que revela num único dia grande parte dos tesouros do parque. Para
+      admirar a cascata comodamente, o Könkään kuohu é um trilho acessível de cem metros logo abaixo de
+      Kiutaköngäs. No verão também é possível descer o Oulankajoki de canoa ou caiaque.
+
+
+      Junto ao centro de visitantes situa-se a Estação de Investigação de Oulanka, fundada em 1966 para
+      investigações biológicas e geológicas. No inverno, os parques de estacionamento do centro de visitantes,
+      de Juuma e de Ristikallio mantêm-se limpos de neve, servindo de ponto de partida para os passeios na
+      neve.
+    history: >-
+      Os primeiros habitantes foram os samis, que aqui viveram até ao final do século dezassete, data da
+      fixação dos colonos finlandeses. Os caminhantes de hoje percorrem trilhos antes calcorreados por
+      caçadores da Idade da Pedra. Muitos dos abrigos abertos serviram outrora de cabanas a pastores de renas.
+      Na época áurea do corte de madeira, os madeireiros desciam o Oulankajoki em pé sobre os troncos
+      flutuantes.
+
+
+      Em finais do século dezanove a área já atraía artistas e naturalistas, mas a criação de proteção legal
+      sofreu atrasos com as guerras mundiais e a disputa pelas quedas de água de Kuusamo. Nos anos cinquenta
+      surgiram planos para aproveitar o Oulankajoki e o Kitkajoki para fins hidroelétricos; o projeto foi
+      travado ao reconhecer-se que a preservação da natureza intacta beneficiava o turismo, mantendo os
+      rápidos intocados. O traçado do Karhunkierros foi inaugurado em 1954; o parque foi criado em 1956 e
+      ampliado em 1982 e 1989. Em 2002 recebeu a certificação PAN Parks da WWF. A leste faz fronteira com o
+      parque nacional russo de Paanajärvi, mantendo uma cooperação transfronteiriça contínua.
+    before: >-
+      As cheias de primavera bloqueiam vários trilhos, mas Kiutaköngäs permanece acessível. É permitido colher
+      bagas e cogumelos no parque. A pastorícia de renas é prerrogativa exclusiva dos habitantes da Lapónia.
+    around: >-
+      O [Parque Nacional de Riisitunturi](/lugar/riisitunturi-national-park/) fica a cerca de vinte e cinco
+      quilómetros. Mais a sul, o [Rio Drava e Planície de Inundação](/lugar/drava-river---floodplain/)
+      partilha com Oulanka um corredor de águas bravas, zonas húmidas preservadas e a presença do
+      [guarda-rios-comum](/especie/alcedo_atthis/).
+fuentes:
+  - url: https://www.luontoon.fi/en/articles/when-to-visit-oulanka-national-park
+    titulo: When to Visit Oulanka National Park
+    fecha_consulta: '2026-10-23'
+  - url: https://www.luontoon.fi/en/trails/pieni-karhunkierros-trail-kuusamo-42308-en
+    titulo: Pieni Karhunkierros Trail
+    fecha_consulta: '2026-10-23'
+  - url: https://www.luontoon.fi/en/articles/oulangan-historia
+    titulo: History of Oulanka National Park
+    fecha_consulta: '2026-10-23'
+  - url: https://en.wikipedia.org/wiki/Oulanka_National_Park
+    titulo: Oulanka National Park - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://fi.wikipedia.org/wiki/Oulangan_kansallispuisto
+    titulo: Oulangan kansallispuisto - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://fi.wikipedia.org/wiki/Karhunkierros
+    titulo: Karhunkierros - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://en.wikipedia.org/wiki/Karhunkierros
+    titulo: Karhunkierros - Wikipedia
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:River_landscape_towards_east_from_Kiutak%C3%B6ng%C3%A4s_in_Oulanka_National_Park,_Kuusamo,_Northern_Ostrobothnia,_Finland,_2021_June.jpg
+    autor: Ximonic (Simo Räsänen)
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,751 @@
+id: ethniko-parko-delta-evrou
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Delta del Evros
+  en: Evros Delta National Park
+  fr: Parc national du delta de l'Évros
+  de: Nationalpark Evros-Delta
+  it: Parco nazionale del Delta dell'Evros
+  pt: Parque Nacional do Delta do Evros
+nombre_original: Εθνικό Πάρκο Δέλτα Έβρου
+alias:
+  - Evros Delta National Park
+paises:
+  - GR
+region:
+  es: Tracia (Alejandrópolis / Feres)
+  en: Thrace (Alexandroupoli / Feres)
+  fr: Thrace (Alexandroúpoli / Fères)
+  de: Thrakien (Alexandroupoli / Feres)
+  it: Tracia (Alessandropoli / Feres)
+  pt: Trácia (Alexandrópolis / Feres)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.8
+  lon: 26.07
+  radio_km: 10
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: way/137321320
+  nombre_en_la_fuente: Εθνικό Υγροτοπικό Πάρκο Δέλτα Έβρου
+  capa: capas/osm/ethniko-parko-delta-evrou.geojson
+habitats:
+  - wetland
+  - river_corridor
+  - coast
+designaciones:
+  - national_park
+  - ramsar
+  - natura2000
+especies:
+  - pelecanus_crispus
+  - phoenicopterus_roseus
+  - haliaeetus_albicilla
+  - anser_anser
+  - platalea_leucorodia
+temporada_ideal:
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+temporada_nota:
+  es: invernada de anátidas y paso primaveral
+  en: waterfowl wintering and spring passage
+  fr: hivernage des canards et passage printanier
+  de: Überwinterung von Entenvögeln und Frühjahrszug
+  it: svernamento di anatidi e passo primaverile
+  pt: invernada de anatídeos e passagem primaveril
+masificacion: 0
+masificacion_nota:
+  es: 'Zona fronteriza con Turquía: parte del delta tiene acceso restringido'
+  en: 'Border zone with Turkey: parts of the delta have restricted access'
+  fr: 'Zone frontalière avec la Turquie : accès réglementé sur une partie du delta'
+  de: 'Grenzgebiet zur Türkei: Teile des Deltas unterliegen Zugangsbeschränkungen'
+  it: 'Fascia confinaria con la Turchia: parte del delta è ad accesso interdetto'
+  pt: 'Zona fronteiriça com a Turquia: parte do delta tem acesso condicionado'
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor, visitas y centros — Delta del Evros, NECCA
+    url: https://necca.gov.gr/en/mdpp/management-unit-of-evros-delta-and-dadia-national-parks-and-protected-areas-of-eastern-thrace/
+resumen:
+  es: >-
+    El gran delta de la frontera greco-turca, uno de los humedales más importantes de Grecia para aves
+    invernantes y en paso.
+  en: >-
+    The great delta on the Greek-Turkish border, one of Greece's foremost wetlands for wintering and migratory
+    birds.
+  fr: >-
+    Le vaste delta de la frontière gréco-turque, l'une des zones humides majeures de Grèce pour les oiseaux
+    hivernants et en halte.
+  de: >-
+    Das gewaltige Delta an der griechisch-türkischen Grenze, eines der bedeutendsten Feuchtgebiete
+    Griechenlands für Rast- und Wintervögel.
+  it: >-
+    Il vasto delta sul confine greco-turco, una delle zone umide più importanti della Grecia per svernamento e
+    rotte migratorie.
+  pt: >-
+    O grande delta da fronteira greco-turca, uma das zonas húmidas mais capitais da Grécia para aves
+    invernantes e em passagem.
+unico:
+  es: >-
+    En un delta que es a la vez frontera, pasillo de migración y refugio de invierno, las aves acuáticas, las
+    rapaces y las cigüeñas llegan por decenas de miles, cada estación con las suyas.
+  en: >-
+    In a delta that is simultaneously a geopolitical border, a migration corridor, and a winter haven,
+    waterfowl, raptors, and storks arrive in their tens of thousands, each season with its own ensemble.
+  fr: >-
+    Dans un delta qui est à la fois frontière internationale, couloir migratoire et refuge d'hivernage,
+    oiseaux d'eau, rapaces et cigognes affluent par dizaines de milliers, chaque saison composant son cortège.
+  de: >-
+    In einem Delta, das zugleich Staatsgrenze, Zugvogelkorridor und Winterquartier ist, treffen Wasservögel,
+    Greifvögel und Störche zu Zehntausenden ein – jede Jahreszeit mit eigenem Artengefüge.
+  it: >-
+    In un delta che funge insieme da frontiera, corridoio migratorio e rifugio invernale, avifauna acquatica,
+    rapaci e cicogne giungono a decine di migliaia, ogni stagione col proprio popolamento.
+  pt: >-
+    Num delta que é simultaneamente fronteira, corredor de migração e refúgio de inverno, aves aquáticas,
+    rapinas e cegonhas afluem às dezenas de milhares, cada estação com o seu cortejo singular.
+observaciones:
+  es: >-
+    Los visitantes extranjeros que quieran visitar el delta para hacer ecoturismo y observar aves necesitan un
+    permiso de entrada a la zona militar, que emiten la policía y el ejército griegos. El trámite lleva
+    tiempo, así que escribe cuanto antes al gestor. Comprueba también con él el estado de los centros y de las
+    visitas antes de organizar el viaje.
+texto:
+  es:
+    intro: >-
+      Un río que recorre el interior de la península balcánica y dibuja la frontera entre Grecia y Turquía
+      llega al final de su viaje y se deshace en islotes, lagunas y cañaverales. Eso es el delta del Evros,
+      que en búlgaro se llama Maritsa. Entra en el Egeo cerca de Enez, y el agua y los sedimentos que trae,
+      empujados por el mar, lo han formado y lo siguen remodelando. El Parque Nacional del Delta del Evros
+      protege ese mosaico en la Tracia griega. Lo que lo ha hecho famoso son las aves: se han registrado más
+      de 320 especies.
+    landscape: >-
+      El Maritsa es el río más largo que discurre solo por el interior de la península balcánica, con 480
+      kilómetros, y su curso bajo marca el límite entre Grecia y Turquía. Eso explica dos cosas: que parte del
+      delta sea zona fronteriza con acceso restringido y que las tierras bajas junto al río se inunden unos
+      cuatro meses al año.
+
+
+      Con tanta agua yendo y viniendo, el delta no es un paisaje, son varios: se distinguen 7 grandes unidades
+      de biotopos, cada una con su vegetación según el suelo, el microclima y que el agua sea dulce o salada.
+      Yendo del norte hacia el mar se suceden la vegetación de ribera, los tarayales, los prados húmedos de
+      juncos y la vegetación sumergida de aguas salobres; completan el mosaico las lagunas de agua dulce, los
+      suelos salinos y los arenales.
+
+
+      La flora cuenta más de 300 especies. En las orillas del río y de los torrentes crecen plátanos, sauces,
+      chopos y alisos; en los canales flotan ninfeas y castañas de agua, y en los prados florecen lirios y
+      orquídeas. Pero la imagen del año llega en otoño, cuando las armyríthres, plantas de marisma salada, se
+      tiñen de un rojo oscuro y cubren las orillas de las lagunas.
+    wildlife: >-
+      El delta tiene un calendario, y cada estación trae lo suyo.
+
+
+      En invierno pasan la estación decenas de miles de aves acuáticas, entre ellas miles de patos. Entre los
+      gansos están el ánsar careto grande y, más raros, la barnacla cuellirroja y el [ánsar
+      común](/especie/anser_anser/). El delta es además el lugar más importante de Grecia para los tres cisnes
+      europeos: el cisne vulgar, el [cisne cantor](/especie/cygnus_cygnus/) y el [cisne
+      chico](/especie/cygnus_columbianus/). De las rapaces invernantes se ven el [águila imperial
+      oriental](/especie/aquila_heliaca/), el [pigargo europeo](/especie/haliaeetus_albicilla/) y el
+      [aguilucho lagunero](/especie/circus_aeruginosus/).
+
+
+      En primavera el delta recibe aves que viajan de África al norte de Europa y que paran a descansar y
+      comer: miles de limícolas, charranes y golondrinas, además de la [cigüeña
+      blanca](/especie/ciconia_ciconia/), la [cigüeña negra](/especie/ciconia_nigra/) y los pelícanos, el
+      [común](/especie/pelecanus_onocrotalus/) y el [ceñudo](/especie/pelecanus_crispus/). En la migración
+      otoñal pasan muchas rapaces y paseriformes, y pelícano común y cigüeña blanca vuelven a verse en grandes
+      números.
+
+
+      Criar, crían pocas. Los hábitats se han reducido y desde los años 70 muchas aves importantes dejaron de
+      hacerlo, de modo que solo se ven en migración o en verano. Siguen criando el [cormorán
+      grande](/especie/phalacrocorax_carbo/), la [garza real](/especie/ardea_cinerea/), la [garza
+      imperial](/especie/ardea_purpurea/), el pigargo, el aguilucho lagunero, el [martín
+      pescador](/especie/alcedo_atthis/), el abejaruco y el [charrancito](/especie/sternula_albifrons/).
+
+
+      En tierra y en el agua hay más: 40 especies de mamíferos, con zorro, tejón, comadreja, [gato
+      montés](/especie/felis_silvestris/), [jabalí](/especie/sus_scrofa/) y [nutria](/especie/lutra_lutra/)
+      entre los más comunes; 28 de anfibios y reptiles, sobre todo tortugas de agua, culebras de agua, ranas y
+      lagartijas; y 46 de peces, con la anguila en el agua salada.
+    visit: >-
+      La visita empieza en el Centro de Información de Traianoupoli, que funciona desde septiembre de 1997.
+      Nació para proteger la naturaleza de la zona, promover su ecoturismo y sensibilizar a autoridades y
+      público sobre los valores del delta. Allí recorres una sala de exposición y ves una película sobre las
+      funciones y valores de los humedales; después subes a los autobuses del gestor y sales al humedal. El
+      recorrido incluye observación de aves con prismáticos y telescopios, además de un paseo en barca.
+
+
+      El centro atiende consultas sobre el delta y organiza visitas educativas y guiadas, y ofrece material
+      impreso sobre el humedal. El gestor cuenta también con un centro de información en Feres.
+
+
+      Los voluntarios recogen basura, censan aves, participan en actos y plantan árboles. Cada año el gestor
+      celebra la Fiesta Paneuropea de las Aves, el Día Mundial de los Humedales y otros actos en el centro, en
+      pueblos vecinos y en Alejandrópolis.
+    history: >-
+      El organismo gestor del parque funciona desde 2003 con sede en el centro de información. Entre sus
+      tareas figuran atender a los visitantes, vigilar el área y hacer el seguimiento científico del humedal,
+      y ofrece programas de educación ambiental de un día o de varios días para escolares de la zona y de toda
+      Grecia.
+
+
+      La unidad de gestión del delta, con sede en Alejandrópolis, cubre dos espacios de la red Natura del
+      delta, GR1110006 y GR1110007.
+    before: >-
+      Los visitantes extranjeros que quieran visitar el delta para hacer ecoturismo y observar aves necesitan
+      un permiso de entrada a la zona militar, que emiten la policía y el ejército griegos. El trámite lleva
+      tiempo, así que escribe cuanto antes al gestor. Comprueba también con él el estado de los centros y de
+      las visitas antes de organizar el viaje.
+    around: >-
+      A trece kilómetros está el [Parque Nacional Forestal de
+      Dadia-Lefkimi-Soufli](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), con el que el delta
+      forma el gran conjunto natural del Evros y que comparte con él la unidad de gestión.
+
+
+      Más lejos hay humedales que se le parecen por sus aves: la [Reserva de la Biosfera de
+      Srebarna](/lugar/srebarna-biosphere-reserve/) comparte el pelícano ceñudo, el ánsar común y el pigargo;
+      el [Parque Nacional de Prespa](/lugar/ethniko-parko-prespon/), los pelícanos común y ceñudo; y el
+      [Parque Nacional de Doñana](/lugar/parque-nacional-de-donana/), el ánsar común, la espátula y el
+      flamenco.
+  en:
+    intro: >-
+      A river coursing through the interior of the Balkan Peninsula to trace the border between Greece and
+      Turkey reaches the climax of its journey, unravelling into islets, lagoons, and vast reedbeds. This is
+      the delta of the Evros, known in Bulgarian as the Maritsa. It discharges into the Aegean near Enez,
+      where fresh river discharge and marine wave action have sculpted and continue to reshape its contours.
+      The Evros Delta National Park protects this intricate landscape in Greek Thrace. What has made it
+      renowned worldwide is its avifauna: over 320 species have been recorded.
+    landscape: >-
+      The Maritsa is the longest river flowing entirely within the Balkan Peninsula, stretching 480
+      kilometres, with its lower reach marking the international frontier between Greece and Turkey. This dual
+      character explains two fundamental realities: portions of the delta remain a sensitive military frontier
+      with strictly controlled access, and the low-lying floodplain stays inundated for roughly four months
+      each year.
+
+
+      With so much dynamic water constantly reshaping the terrain, the delta is not a single landscape but a
+      mosaic of several: specialists identify 7 major biotope units, each defined by distinct vegetation
+      shaped by soil conditions, microclimate, and salinity gradients. Journeying from north to south toward
+      the open Aegean, one traverses riparian woodland, tamarisk scrub, wet rush meadows, and submerged
+      brackish meadows, seamlessly interwoven with freshwater lagoons, saline soils, and coastal dune sands.
+
+
+      The vascular flora numbers over 300 species. Along the riverbanks and secondary distributaries thrive
+      oriental planes, willows, black poplars, and alders; water lilies and water chestnuts drift across the
+      canals, while damp pastures bloom with wild irises and orchids. Yet the most striking visual event
+      arrives in autumn, when halophytic glassworts (armyríthres) turn a rich, blazing crimson, fringing the
+      saline lagoons in deep red.
+    wildlife: >-
+      The delta follows an annual ecological calendar, with each season bringing its own avian multitude.
+
+
+      In winter, tens of thousands of waterfowl settle across the waters, including thousands of dabbling and
+      diving ducks. Wild geese arrive in force, led by the greater white-fronted goose, joined by rarer
+      visitors such as the red-breasted goose and the [greylag goose](/especie/anser_anser/). The delta stands
+      as Greece's premier wintering stronghold for all three native European swans: the mute swan, the
+      [whooper swan](/especie/cygnus_cygnus/), and the [tundra swan](/especie/cygnus_columbianus/). Among
+      wintering birds of prey, the [eastern imperial eagle](/especie/aquila_heliaca/), the [white-tailed
+      eagle](/especie/haliaeetus_albicilla/), and the [western marsh harrier](/especie/circus_aeruginosus/)
+      patrol the marshland.
+
+
+      Spring witnesses the arrival of long-distance migrants winging northward from Africa to northern Europe,
+      pausing to feed and rest: thousands of waders, terns, and swallows, accompanied by the [white
+      stork](/especie/ciconia_ciconia/), the [black stork](/especie/ciconia_nigra/), and pelicans—both the
+      [great white pelican](/especie/pelecanus_onocrotalus/) and the rare [Dalmatian
+      pelican](/especie/pelecanus_crispus/). Autumn passage brings renewed waves of raptors and passerines,
+      with white storks and white pelicans congregating once again in significant flocks.
+
+
+      Breeding populations, however, are now limited. Habitats were curtailed over the twentieth century, and
+      since the 70s many key species ceased nesting here, appearing only on migration or as non-breeding
+      summer wanderers. Species that continue to breed include the [great
+      cormorant](/especie/phalacrocorax_carbo/), [grey heron](/especie/ardea_cinerea/), [purple
+      heron](/especie/ardea_purpurea/), white-tailed eagle, marsh harrier, [common
+      kingfisher](/especie/alcedo_atthis/), European bee-eater, and [little
+      tern](/especie/sternula_albifrons/).
+
+
+      Land and water shelter much more: 40 mammal species, with red fox, badger, weasel, [European
+      wildcat](/especie/felis_silvestris/), [wild boar](/especie/sus_scrofa/), and [Eurasian
+      otter](/especie/lutra_lutra/) among the most widespread; 28 species of amphibians and reptiles,
+      dominated by terrapins, dice snakes, frogs, and wall lizards; and 46 fish species, including the
+      European eel in saline lagoons.
+    visit: >-
+      Visits begin at the Traianoupoli Information Centre, operational since September 1997. Established to
+      safeguard regional nature, promote sustainable ecotourism, and raise awareness among authorities and the
+      public, the centre houses an exhibition hall and screens a film on wetland functions. Visitors then
+      board park-operated minibuses to enter the wetland itself. Excursions combine birdwatching using
+      provided binoculars and spotting scopes with a guided boat trip along the water channels.
+
+
+      The centre answers technical enquiries, organizes guided educational tours, and provides informative
+      print material. The management authority also operates an auxiliary information centre in Feres.
+
+
+      Volunteers participate in litter clean-ups, avian censuses, public outreach, and tree planting.
+      Annually, the authority celebrates EuroBirdwatch, World Wetlands Day, and environmental events at the
+      centre, neighbouring villages, and Alexandroupoli.
+    history: >-
+      The park's dedicated management body has operated since 2003, based at the visitor centre. Its
+      responsibilities encompass visitor hospitality, surveillance, and long-term scientific monitoring of the
+      wetland ecosystems, alongside running single-day and multi-day environmental education workshops for
+      school groups from Thrace and across Greece.
+
+
+      The Evros Delta management unit, headquartered in Alexandroupoli, administers two Natura network sites
+      in the delta: GR1110006 and GR1110007.
+    before: >-
+      Foreign visitors wishing to explore the delta for ecotourism and birdwatching must obtain a military
+      entry permit issued jointly by Greek police and armed forces authorities. Clearance requires advance
+      processing, so contact park management as early as possible. Confirm operating hours and tour departures
+      before planning your arrival.
+    around: >-
+      Thirteen kilometres away lies [Dadia-Lefkimi-Soufli Forest National
+      Park](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), with which the delta constitutes the
+      greater Evros ecological complex under unified management oversight.
+
+
+      Further away, other major wetlands share ecological parallels: [Srebarna Biosphere
+      Reserve](/lugar/srebarna-biosphere-reserve/) shares Dalmatian pelicans, greylag geese, and white-tailed
+      eagles; [Prespa National Park](/lugar/ethniko-parko-prespon/) shares both pelican species; and [Doñana
+      National Park](/lugar/parque-nacional-de-donana/) shares greylag geese, spoonbills, and greater
+      flamingos.
+  fr:
+    intro: >-
+      Un fleuve qui traverse l'intérieur de la péninsule balkanique et délimite la frontière entre la Grèce et
+      la Turquie achève sa course en s'éparpillant en îlots, lagunes et roselières. C'est le delta de l'Évros,
+      nommé Maritsa en bulgare. Il se jette dans la mer Égée près d'Enez, où les alluvions fluviales et
+      l'action de la mer ont façonné et continuent de remodeler ses contours. Le parc national du delta de
+      l'Évros protège cette mosaïque en Thrace grecque. Sa célébrité mondiale repose sur son avifaune : plus
+      de 320 espèces y ont été inventoriées.
+    landscape: >-
+      La Maritsa est le plus long cours d'eau s'écoulant exclusivement au cœur des Balkans, avec 480
+      kilomètres, son cours inférieur matérialisant la frontière gréco-turque. Cette situation explique deux
+      réalités majeures : une partie du delta constitue une zone militaire à l'accès strictement contrôlé et
+      les basses terres fluviales restent submergées environ quatre mois par an.
+
+
+      Avec ces flux d'eau permanents, le delta ne forme pas un paysage unique, mais une mosaïque d'écosystèmes
+      : on y distingue 7 grandes unités de biotopes, chacune définie par sa végétation propre selon la
+      pédologie, le microclimat et la salinité des eaux. En allant du nord vers le littoral marin se succèdent
+      la ripisylve, les tamariçaies, les prés humides à joncs et la flore immergée des eaux saumâtres,
+      complétées par des lagunes d'eau douce, des sols salés et des cordons dunaires.
+
+
+      La flore compte plus de 300 espèces. Sur les rives du fleuve et des défluents croissent platanes
+      d'Orient, saules, peupliers et aulnes ; sur les canaux flottent nénuphars et châtaignes d'eau, tandis
+      que les prairies se parent d'iris sauvages et d'orchidées. Mais la vision la plus saisissante intervient
+      à l'automne, lorsque les armyríthres, salicornes des prés salés, virent au rouge pourpre et embrasent
+      les abords des lagunes.
+    wildlife: >-
+      Le delta vit au rythme d'un calendrier écologique précis, chaque saison apportant son cortège d'oiseaux.
+
+
+      En hiver, des dizaines de milliers d'oiseaux d'eau s'y rassemblent, parmi lesquels des nuées de canards
+      de surface et plongeurs. Les oies hivernantes sont dominées par l'oie rieuse, côtoyant des espèces plus
+      rares telles la bernache à cou roux et l'[oie cendrée](/especie/anser_anser/). Le delta est par ailleurs
+      le refuge hivernal le plus vital de Grèce pour les trois cygnes européens : le cygne tuberculé, le
+      [cygne chanteur](/especie/cygnus_cygnus/) et le [cygne de Bewick](/especie/cygnus_columbianus/). Parmi
+      les rapaces hivernants évoluent l'[aigle impérial](/especie/aquila_heliaca/), le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/) et le [busard des roseaux](/especie/circus_aeruginosus/).
+
+
+      Au printemps, le delta accueille les migrateurs reliant l'Afrique à l'Europe septentrionale qui s'y
+      alimentent : des milliers de limicoles, sternes et hirondelles, ainsi que la [cigogne
+      blanche](/especie/ciconia_ciconia/), la [cigogne noire](/especie/ciconia_nigra/) et les pélicans, tant
+      le [blanc](/especie/pelecanus_onocrotalus/) que le [frisé](/especie/pelecanus_crispus/). Lors de la
+      migration automnale transitent rapaces et passereaux, et les pélicans blancs et cigognes blanches
+      s'observent à nouveau en grand nombre.
+
+
+      La nidification demeure plus discrète. Les habitats s'étant réduits au cours du siècle passé, nombre
+      d'espèces majeures ont cessé de nicher depuis les années 70, n'étant plus observées qu'en migration ou
+      comme estivants erratiques. Continuent toutefois de nicher le [grand
+      cormoran](/especie/phalacrocorax_carbo/), le [héron cendré](/especie/ardea_cinerea/), le [héron
+      pourpré](/especie/ardea_purpurea/), le pygargue, le busard des roseaux, le [martin-pêcheur
+      d'Europe](/especie/alcedo_atthis/), le guêpier d'Europe et la [sterne
+      naine](/especie/sternula_albifrons/).
+
+
+      Sur terre et dans les eaux foisonne le reste de la faune : 40 espèces de mammifères, avec le renard
+      roux, le blaireau, la belette, le [chat forestier](/especie/felis_silvestris/), le
+      [sanglier](/especie/sus_scrofa/) et la [loutre d'Europe](/especie/lutra_lutra/) parmi les plus réguliers
+      ; 28 espèces d'amphibiens et reptiles, dominées par les cistudes, couleuvres aquatiques, grenouilles et
+      lézards ; et 46 espèces de poissons, dont l'anguille en milieu saumâtre.
+    visit: >-
+      La découverte commence au centre d'information de Traianoupoli, en activité depuis septembre 1997. Conçu
+      pour sauvegarder les richesses naturelles régionales, développer l'écotourisme et sensibiliser le
+      public, il abrite une salle d'exposition et projette un film documentaire sur les fonctions des zones
+      humides. Vous montez ensuite à bord des minibus du parc pour rejoindre la zone protégée. Le circuit
+      associe l'observation ornithologique avec jumelles et longues-vues à une excursion en bateau dans les
+      chenaux.
+
+
+      Le centre répond aux sollicitations des visiteurs, orchestre des visites pédagogiques encadrées et
+      propose de la documentation imprimée. L'organisme gestionnaire anime également un second point
+      d'information à Fères.
+
+
+      Les bénévoles participent au nettoyage des déchets, aux recensements ornithologiques, aux manifestations
+      publiques et au reboisement. Chaque année, le parc organise les Journées européennes de la migration, la
+      Journée mondiale des zones humides et des animations tant au centre que dans les villages riverains et à
+      Alexandroúpoli.
+    history: >-
+      L'organisme de gestion du parc national opère depuis 2003 avec son siège au centre d'accueil. Ses
+      missions couvrent l'accueil des visiteurs, la surveillance du territoire et le suivi scientifique
+      continu des écosystèmes du delta, complétés par des programmes d'éducation à l'environnement d'un ou
+      plusieurs jours destinés aux écoles de Thrace et de toute la Grèce.
+
+
+      L'unité de gestion du delta de l'Évros, basée à Alexandroúpoli, administre deux sites du réseau Natura
+      au sein du delta : GR1110006 et GR1110007.
+    before: >-
+      Les ressortissants étrangers souhaitant visiter le delta pour l'écotourisme et l'ornithologie doivent
+      impérativement obtenir une autorisation d'entrée en zone militaire délivrée conjointement par la police
+      et l'armée grecques. Les démarches exigeant un certain délai, prenez contact au plus tôt avec le parc.
+      Vérifiez également les créneaux des visites avant de planifier votre voyage.
+    around: >-
+      À treize kilomètres se trouve le [Parc national forestier de
+      Dadia-Lefkimi-Soufli](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), avec lequel le delta
+      constitue le grand complexe naturel de l'Évros sous une unité de gestion partagée.
+
+
+      Plus loin, d'autres grandes zones humides partagent des cortèges similaires : la [Réserve de biosphère
+      de Srebarna](/lugar/srebarna-biosphere-reserve/) abrite le pélican frisé, l'oie cendrée et le pygargue ;
+      le [Parc national de Prespa](/lugar/ethniko-parko-prespon/) rassemble pélicans blancs et frisés ; et le
+      [Parc national de Doñana](/lugar/parque-nacional-de-donana/) accueille oies cendrées, spatules et
+      flamants roses.
+  de:
+    intro: >-
+      Ein Fluss, der das Innere der Balkanhalbinsel durchquert und die Grenze zwischen Griechenland und der
+      Türkei markiert, erreicht das Ende seines Laufs und fächert sich in Inselchen, Lagunen und Schilfwälder
+      auf. Das ist das Delta des Evros, der auf Bulgarisch Mariza heißt. Bei Enez mündet er in die Ägäis, wo
+      Flussgeschiebe und Meeresströmungen seine Gestalt geformt haben und fortlaufend verändern. Der
+      Nationalpark Evros-Delta bewahrt dieses Landschaftsmosaik im griechischen Thrakien. Weltberühmt wurde
+      das Gebiet durch seine Vogelwelt: Über 320 Arten sind hier dokumentiert.
+    landscape: >-
+      Die Mariza ist mit 480 Kilometern der längste ausschließlich im Binnenland der Balkanhalbinsel
+      verlaufende Fluss, dessen Unterlauf die Staatsgrenze zwischen Griechenland und der Türkei bildet. Das
+      erklärt zwei wesentliche Gegebenheiten: Teile des Deltas sind militärische Sperrzone mit streng
+      reglementiertem Zutritt, und die ufernahen Niederungen stehen rund vier Monate im Jahr unter Wasser.
+
+
+      Durch das fortwährende Kräftespiel des Wassers ist das Delta kein einheitliches Landschaftsbild, sondern
+      ein Mosaik: Experten unterscheiden 7 große Biotoptypen, jeder mit eigener Pflanzengemeinschaft je nach
+      Bodenbeschaffenheit, Mikroklima und Süß- oder Salzwassereinfluss. Von Norden nach Süden zum Meer hin
+      folgen Auwälder, Tamariskengebüsche, feuchte Binsenwiesen und submerse Brackwasservegetation
+      aufeinander, ergänzt durch Süßwasserlagunen, Salzfluren und Dünenkämme.
+
+
+      Die Flora umfasst mehr als 300 Arten. An den Ufern des Hauptstroms und der Nebenarme gedeihen
+      Morgenländische Platanen, Weiden, Schwarzpappeln und Erlen; auf den Wasserläufen schwimmen Seerosen und
+      Wassernüsse, während die Feuchtwiesen von wilden Schwertlilien und Orchideen geschmückt werden. Das
+      spektakulärste Naturereignis vollzieht sich jedoch im Herbst, wenn die Armyríthres, typische
+      Quellerfluren der Salzwiesen, tiefrot anlaufen und die Ufer der Lagunen in leuchtende Rottöne tauchen.
+    wildlife: >-
+      Das Delta folgt einem festen biologischen Jahreslauf, und jede Saison bringt ihre eigenen Vogelschwärme
+      hervor.
+
+
+      Im Winter überwintern Zehntausende von Wasservögeln in den Lagunen, darunter zahllose Entenarten. Bei
+      den Gänsen dominiert die Blässgans, begleitet von selteneren Gästen wie der Rothalsgans und der
+      [Graugans](/especie/anser_anser/). Das Delta ist überdies das wichtigste Winterquartier Griechenlands
+      für alle drei europäischen Schwanenarten: Höckerschwan, [Singschwan](/especie/cygnus_cygnus/) und
+      [Zwergschwan](/especie/cygnus_columbianus/). Unter den überwinternden Greifvögeln patrouillieren
+      [Kaiseradler](/especie/aquila_heliaca/), [Seeadler](/especie/haliaeetus_albicilla/) und
+      [Rohrweihe](/especie/circus_aeruginosus/) über den Röhrichten.
+
+
+      Im Frühjahr rasten Zugvögel auf ihrem weiten Weg von Afrika nach Nordeuropa, um Energie zu tanken:
+      Tausende Watvögel, Seeschwalben und Rauchschwalben, dazu [Weißstorch](/especie/ciconia_ciconia/),
+      [Schwarzstorch](/especie/ciconia_nigra/) und Pelikane – sowohl der
+      [Rosapelikan](/especie/pelecanus_onocrotalus/) als auch der seltene
+      [Krauskopfpelikan](/especie/pelecanus_crispus/). Auf dem Herbstzug passieren erneut Greifvögel und
+      Singvögel in Massen, und Rosapelikane sowie Weißstörche sammeln sich wieder in beachtlicher Stärke.
+
+
+      Brutvögel sind rarer geworden. Durch Lebensraumverluste im zwanzigsten Jahrhundert stellten viele
+      Charakterarten seit den 70er Jahren das Brüten ein und treten nur noch auf dem Durchzug oder als
+      Sommergäste auf. Zu den regelmäßigen Brutvögeln zählen weiterhin
+      [Kormoran](/especie/phalacrocorax_carbo/), [Graureiher](/especie/ardea_cinerea/),
+      [Purpurreiher](/especie/ardea_purpurea/), Seeadler, Rohrweihe, [Eisvogel](/especie/alcedo_atthis/),
+      Bienenfresser und [Zwergseeschwalbe](/especie/sternula_albifrons/).
+
+
+      Zu Lande und im Wasser begegnen dir weitere Arten: 40 Säugetierarten, darunter Rotfuchs, Dachs,
+      Mauswiesel, [Wildkatze](/especie/felis_silvestris/), [Wildschwein](/especie/sus_scrofa/) und
+      [Fischotter](/especie/lutra_lutra/); 28 Amphibien- und Reptilienarten, überwiegend Sumpfschildkröten,
+      Würfelnattern, Laubfrösche und Eidechsen; sowie 46 Fischarten, allen voran der Europäische Aal in den
+      Lagunen.
+    visit: >-
+      Dein Besuch beginnt am Informationszentrum Traianoupoli, das seit September 1997 besteht. Gegründet zum
+      Schutz der regionalen Natur, zur Förderung des sanften Tourismus und zur Aufklärung über die
+      Feuchtgebiete, bietet es einen Ausstellungsraum und eine Videovorführung zu den ökologischen Funktionen
+      des Deltas. Anschließend steigst du in die Kleinbusse der Nationalparkverwaltung und fährst in das
+      Schutzgebiet ein. Die geführte Route verbindet Vogelbeobachtungen mit Ferngläsern und Spektiven mit
+      einer Bootsfahrt durch die Wasserkanäle.
+
+
+      Das Zentrum beantwortet fachliche Fragen, veranstaltet Führungen und hält Informationsmaterialien
+      bereit. Die Verwaltung betreibt zudem eine Außenstelle in Feres.
+
+
+      Ehrenamtliche engagieren sich bei Müllsammelaktionen, Vogelzählungen und Pflanzungen. Alljährlich begeht
+      das Schutzgebiet den EuroBirdwatch, den Welttag der Feuchtgebiete und Umweltfeste am Zentrum, in den
+      umliegenden Dörfern und in Alexandroupoli.
+    history: >-
+      Die Nationalparkverwaltung arbeitet seit 2003 mit Sitz im Informationszentrum. Zu ihren Kernaufgaben
+      zählen Gästebetreuung, Gebietsüberwachung und die wissenschaftliche Dauerbeobachtung des Feuchtgebiets
+      sowie ein- und mehrtägige Umweltbildungsprogramme für Schulklassen aus Thrakien und ganz Griechenland.
+
+
+      Die für das Delta zuständige Verwaltungseinheit mit Sitz in Alexandroupoli betreut zwei Natura-Gebiete
+      im Mündungsbereich: GR1110006 und GR1110007.
+    before: >-
+      Ausländische Staatsangehörige, die das Delta zur Naturbeobachtung besuchen möchten, benötigen zwingend
+      eine militärische Einreisegenehmigung, die von der griechischen Polizei und den Streitkräften
+      ausgestellt wird. Das Verfahren erfordert Vorlaufzeit, kontaktiere die Parkverwaltung daher frühzeitig.
+      Erkundige dich vor der Anreise auch nach dem aktuellen Betriebsstatus der Zentren und Touren.
+    around: >-
+      Dreizehn Kilometer entfernt liegt der [Nationalpark
+      Dadia-Lefkimi-Soufli-Wald](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), mit dem das Delta
+      den großen Naturraum des Evros bildet und eine gemeinsame Verwaltungseinheit teilt.
+
+
+      Weiter entfernt bieten andere große Feuchtgebiete vergleichbare Vogelgemeinschaften: Das
+      [Biosphärenreservat Srebarna](/lugar/srebarna-biosphere-reserve/) teilt Krauskopfpelikan, Graugans und
+      Seeadler; der [Prespa-Nationalpark](/lugar/ethniko-parko-prespon/) Rosa- und Krauskopfpelikan; und der
+      [Nationalpark Doñana](/lugar/parque-nacional-de-donana/) Graugans, Löffler und Rosaflamingo.
+  it:
+    intro: >-
+      Un fiume che attraversa il cuore della penisola balcanica e delinea il confine fra Grecia e Turchia
+      giunge al termine del suo tragitto disperdendosi in isolotti, lagune e canneti. È il delta dell'Evros,
+      che in bulgaro prende il nome di Marizza. Sfocia nell'Egeo vicino a Enez, dove i depositi alluvionali e
+      il moto ondoso hanno plasmato e continuano a rimodellare le terre emerse. Il Parco nazionale del Delta
+      dell'Evros tutela questo mosaico nella Tracia greca. Ciò che l'ha reso celebre in tutta Europa sono gli
+      uccelli: vi sono state censite oltre 320 specie.
+    landscape: >-
+      La Marizza è il corso d'acqua più lungo che scorre interamente nell'entroterra dei Balcani, con i suoi
+      480 chilometri, e il suo tratto terminale segna la linea di confine tra Grecia e Turchia. Questo
+      chiarisce due aspetti salienti: una parte del delta ricade in zona militare ad accesso strettamente
+      controllato e le piane alluvionali restano allagate per circa quattro mesi all'anno.
+
+
+      Con una simile dinamica idrica, il delta non forma un paesaggio omogeneo, ma una complessa articolazione
+      ecologica: si riconoscono 7 unità ambientali maggiori, ciascuna provvista di una vegetazione specifica
+      legata a suolo, microclima e salinità dell'acqua. Spostandosi da nord verso la costa marina si alternano
+      boschi ripariali, boscaglie di tamerici, prati umidi a giunchi e praterie sommerse di acque salmastre, a
+      cui si aggiungono lagune d'acqua dolce, terreni salsi e dune sabbiose.
+
+
+      La flora vascolare comprende oltre 300 specie. Sulle sponde del fiume e dei canali secondari crescono
+      platani orientali, salici, pioppi neri e ontani; nei canali galleggiano ninfee e castagne d'acqua,
+      mentre sui prati fioriscono iris selvatici e orchidee. Ma il quadro più impressionante si ammira in
+      autunno, quando le armyríthres, piante tipiche delle barene salmastre, assumono tonalità rosso scuro e
+      infiammano i bordi delle lagune.
+    wildlife: >-
+      Il delta vive al ritmo di un calendario biologico scandito dal susseguirsi delle stagioni.
+
+
+      In inverno vi stazionano decine di migliaia di uccelli acquatici, inclusi fitti stormi di anatre. Fra le
+      oche spicca l'oca lombardella maggiore, affiancata da comparse più rare come l'oca collorosso e l'[oca
+      selvatica](/especie/anser_anser/). Il delta rappresenta inoltre il sito d'elezione in Grecia per tutte e
+      tre le specie di cigni europei: il cigno reale, il [cigno selvatico](/especie/cygnus_cygnus/) e il
+      [cigno minore](/especie/cygnus_columbianus/). Tra i rapaci svernanti compaiono l'[aquila imperiale
+      orientale](/especie/aquila_heliaca/), l'[aquila di mare](/especie/haliaeetus_albicilla/) e il [falco di
+      palude](/especie/circus_aeruginosus/).
+
+
+      In primavera il delta accoglie gli uccelli migratori in rotta dall'Africa verso il nord Europa per
+      alimentarsi e riposare: migliaia di caradriformi, sterne e rondini, a cui si uniscono la [cicogna
+      bianca](/especie/ciconia_ciconia/), la [cicogna nera](/especie/ciconia_nigra/) e i pellicani, sia il
+      [comune](/especie/pelecanus_onocrotalus/) sia il [riccio](/especie/pelecanus_crispus/). Durante il passo
+      autunnale transitano molti rapaci e passeriformi, e il pellicano bianco e la cicogna bianca tornano a
+      concentrarsi in numeri cospicui.
+
+
+      Le presenze nidificanti sono più scarse. Con il ridursi degli habitat naturali nel secolo scorso, molte
+      specie chiave hanno cessato di riprodursi a partire dagli anni 70, comparendo solo durante i passi o
+      come estivanti. Continuano tuttavia a nidificare il [cormorano](/especie/phalacrocorax_carbo/),
+      l'[airone cenerino](/especie/ardea_cinerea/), l'[airone rosso](/especie/ardea_purpurea/), l'aquila di
+      mare, il falco di palude, il [martin pescatore](/especie/alcedo_atthis/), il gruccione e il
+      [fraticello](/especie/sternula_albifrons/).
+
+
+      A terra e nelle acque vivono altre presenze: 40 specie di mammiferi, con volpe, tasso, donnola, [gatto
+      selvatico](/especie/felis_silvestris/), [cinghiale](/especie/sus_scrofa/) e [lontra
+      europea](/especie/lutra_lutra/) fra i più regolari; 28 fra anfibi e rettili, soprattutto testuggini
+      d'acqua dolce, bisce tassellate, rane e lucertole; e 46 specie ittiche, con l'anguilla nelle lagune
+      salmastre.
+    visit: >-
+      La visita prende le mosse dal Centro visite di Traianoupoli, in funzione dal settembre 1997. Sorto per
+      salvaguardare la natura locale, promuovere l'ecoturismo e sensibilizzare istituzioni e cittadini,
+      accoglie una sala espositiva e proietta un documentario sulle dinamiche delle zone umide. Si sale quindi
+      a bordo dei minibus del parco per entrare nell'area protetta. Il percorso guidato combina l'avvistamento
+      con binocoli e cannocchiali a una suggestiva navigazione in barca nei canali.
+
+
+      Il centro evade richieste d'informazione, coordina gite scolastiche ed escursioni guidate, distribuendo
+      materiale divulgativo. L'ente gestore dispone anche di un presidio informativo a Feres.
+
+
+      I volontari si dedicano alla raccolta rifiuti, ai censimenti dell'avifauna e alla piantumazione di
+      alberi. Ogni anno il parco promuove l'EuroBirdwatch, la Giornata mondiale delle zone umide e festival
+      ambientali nei villaggi del comprensorio e ad Alessandropoli.
+    history: >-
+      L'ente parco è operativo dal 2003 con sede principale nel centro informativo. Tra i suoi compiti
+      istituzionali figurano accoglienza, sorveglianza e monitoraggio scientifico del delta, oltre a percorsi
+      di educazione ambientale di una o più giornate rivolti alle scolaresche della Tracia e dell'intera
+      Grecia.
+
+
+      L'unità di gestione del delta dell'Evros, ubicata ad Alessandropoli, coordina due siti della rete Natura
+      ricadenti nel delta: GR1110006 e GR1110007.
+    before: >-
+      I visitatori stranieri intenzionati a visitare il delta per ecoturismo e birdwatching devono munirsi del
+      permesso di ingresso in zona militare rilasciato congiuntamente da polizia ed esercito ellenici. Poiché
+      la procedura richiede tempo, contatta con largo anticipo l'ente parco. Accertati anche dello stato di
+      apertura dei centri visite prima di intraprendere il viaggio.
+    around: >-
+      A tredici chilometri sorge il [Parco nazionale della foresta di
+      Dadia-Lefkimi-Soufli](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), con cui il delta
+      costituisce il grande complesso ecologico dell'Evros sotto una medesima unità di coordinamento.
+
+
+      Più lontane, altre zone umide ospitano comunità ornitiche analoghe: la [Riserva naturale di
+      Srebarna](/lugar/srebarna-biosphere-reserve/) accoglie il pellicano riccio, l'oca selvatica e l'aquila
+      di mare; il [Parco nazionale di Prespa](/lugar/ethniko-parko-prespon/) ospita pellicano comune e riccio;
+      e il [Parco nazionale di Doñana](/lugar/parque-nacional-de-donana/) condivide oche selvatiche, spatole e
+      fenicotteri.
+  pt:
+    intro: >-
+      Um rio que percorre o interior da península balcânica e desenha a fronteira entre a Grécia e a Turquia
+      atinge o termo do seu percurso, desfazendo-se em ilhéus, lagoas e vastos caniçais. É o delta do Evros,
+      denominado Maritsa em búlgaro. Desagua no mar Egeu perto de Enez, onde as aluviões fluviais e as
+      correntes marítimas esculpiram e continuam a modelar os seus contornos. O Parque Nacional do Delta do
+      Evros salvaguarda este mosaico na Trácia grega. Aquilo que o celebrizou no mundo foram as aves: estão
+      catalogadas mais de 320 espécies.
+    landscape: >-
+      O Maritsa é o rio mais comprido a fluir exclusivamente pelo interior dos Balcãs, estendendo-se por 480
+      quilómetros, e o seu curso inferior estabelece a fronteira entre a Grécia e a Turquia. Tal facto dita
+      duas realidades fundamentais: parte do delta constitui zona militar de acesso condicionado e as terras
+      baixas marginais permanecem inundadas cerca de quatro meses por ano.
+
+
+      Com tal dinâmica hidrológica, o delta não forma uma paisagem única, mas vários ecossistemas
+      interligados: distinguem-se 7 grandes unidades de biótopos, cada uma com vegetação própria moldada pelo
+      solo, pelo microclima e pelo gradiente entre água doce e salgada. Rumo a sul em direção ao mar
+      sucedem-se a mata ripícola, os tamarindais, os prados húmidos de juncos e a vegetação submersa de águas
+      salobras, entremeados por lagoas de água doce, solos salinos e cordões dunares.
+
+
+      A flora conta com mais de 300 espécies. Nas margens do rio e dos canais crescem plátanos-orientais,
+      salgueiros, choupos e amieiros; nos esteiros flutuam nenúfares e castanhas-de-água, enquanto as várzeas
+      se cobrem de lírios bravos e orquídeas. Contudo, o cenário mais marcante ocorre no outono, quando as
+      armyríthres, plantas das marinhas e sapais, se tingem de vermelho escuro cobrindo as margens das lagoas.
+    wildlife: >-
+      O delta pauta-se por um calendário biológico rigoroso, em que cada época do ano traz o seu contingente
+      de aves.
+
+
+      No inverno congregam-se dezenas de milhares de aves aquáticas, incluindo milhares de patos. Nos gansos
+      avulta o ganso-grande-de-testa-branca, acompanhado por espécies mais raras como o ganso-de-pescoço-ruivo
+      e o [ganso-comum](/especie/anser_anser/). O delta constitui igualmente o refúgio invernal primordial da
+      Grécia para os três cisnes europeus: o cisne-vulgar, o [cisne-bravo](/especie/cygnus_cygnus/) e o
+      [cisne-pequeno](/especie/cygnus_columbianus/). Entre as aves de rapina invernantes contam-se a
+      [águia-imperial-oriental](/especie/aquila_heliaca/), a [águia-rabalva](/especie/haliaeetus_albicilla/) e
+      o [tartaranhão-dos-pauis](/especie/circus_aeruginosus/).
+
+
+      Na primavera o delta acolhe aves migradoras em rota de África para o norte da Europa que aqui encontram
+      repouso e alimento: milhares de limícolas, garajaus e andorinhas, a par da
+      [cegonha-branca](/especie/ciconia_ciconia/), da [cegonha-preta](/especie/ciconia_nigra/) e dos
+      pelicanos, tanto o [comum](/especie/pelecanus_onocrotalus/) como o
+      [crespo](/especie/pelecanus_crispus/). Na migração de outono passam numerosas rapinas e passeriformes,
+      voltando o pelicano-comum e a cegonha-branca a congregar-se em bandos expressivos.
+
+
+      A nidificação tornou-se mais restrita. Com a retração de habitats no século passado, muitas espécies
+      cruciais deixaram de nidificar a partir dos anos 70, surgindo apenas em passagem ou em dispersão
+      estival. Continuam a nidificar o [corvo-marinho-comum](/especie/phalacrocorax_carbo/), a
+      [garça-real](/especie/ardea_cinerea/), a [garça-vermelha](/especie/ardea_purpurea/), a águia-rabalva, o
+      tartaranhão-dos-pauis, o [guarda-rios-comum](/especie/alcedo_atthis/), o abelharuco e a
+      [chilreta](/especie/sternula_albifrons/).
+
+
+      Em terra e na água regista-se vasta fauna: 40 espécies de mamíferos, com raposa, texugo, doninha,
+      [gato-bravo](/especie/felis_silvestris/), [javali](/especie/sus_scrofa/) e
+      [lontra-europeia](/especie/lutra_lutra/) entre as mais frequentes; 28 espécies de anfíbios e répteis,
+      sobretudo cágados, cobras-de-água, rãs e lagartixas; e 46 espécies de peixes, com a enguia-europeia nos
+      esteiros salobros.
+    visit: >-
+      O périplo tem início no Centro de Informação de Traianoupoli, em funcionamento desde setembro de 1997.
+      Criado com o propósito de proteger a natureza circundante, impulsionar o ecoturismo e alertar a
+      sociedade para o valor dos sapais, compreende uma sala de exposições e a projeção de um filme sobre o
+      ecossistema. De seguida embarcas nos miniautocarros do parque em direção à zona húmida. A visita integra
+      a observação de aves com binóculos e telescópios terrestres, complementada por um passeio de barco pelos
+      canais.
+
+
+      O centro esclarece dúvidas dos visitantes, assegura visitas pedagógicas e disponibiliza material
+      informativo. A direção dispõe igualmente de um posto de atendimento em Feres.
+
+
+      Os voluntários colaboram em ações de limpeza de lixo, censos de avifauna e sementeiras de árvores.
+      Anualmente, o parque promove o Dia Europeu das Aves, o Dia Mundial das Zonas Húmidas e iniciativas em
+      localidades vizinhas e em Alexandrópolis.
+    history: >-
+      A entidade gestora do parque exerce funções desde 2003, sediada no centro de informação. As suas
+      atribuições incluem o atendimento ao público, o patrulhamento preventivo e a monitorização científica
+      dos biótopos do delta, promovendo ateliers de educação ambiental de curta e média duração para escolas
+      da Trácia e de toda a Grécia.
+
+
+      A unidade de gestão do delta do Evros, sediada em Alexandrópolis, tutela dois sítios da rede Natura na
+      foz: GR1110006 e GR1110007.
+    before: >-
+      Cidadãos estrangeiros que pretendam aceder ao delta para observação de aves necessitam de autorização
+      militar de acesso concedida conjuntamente pela polícia e pelas forças armadas gregas. Como a tramitação
+      leva tempo, contacta com antecedência a equipa do parque. Confirma também o estado de funcionamento dos
+      centros antes de planear a deslocação.
+    around: >-
+      A treze quilómetros fica o [Parque Nacional da Floresta de
+      Dadia-Lefkimi-Soufli](/lugar/parque-nacional-forestal-de-dadia-lefkimi-soufli/), com o qual o delta
+      compõe o grande núcleo natural do Evros sob tutela partilhada.
+
+
+      Mais longe existem zonas húmidas com avifauna coincidente: a [Reserva da Biosfera de
+      Srebarna](/lugar/srebarna-biosphere-reserve/) partilha o pelicano-crespo, o ganso-comum e a
+      águia-rabalva; o [Parque Nacional de Prespa](/lugar/ethniko-parko-prespon/) os pelicanos comum e crespo;
+      e o [Parque Nacional de Doñana](/lugar/parque-nacional-de-donana/) o ganso-comum, o colhereiro e o
+      flamingo-comum.
+fuentes:
+  - url: https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CE%94%CE%AD%CE%BB%CF%84%CE%B1_%CE%88%CE%B2%CF%81%CE%BF%CF%85
+    titulo: Εθνικό Πάρκο Δέλτα Έβρου - Βικιπαίδεια
+    fecha_consulta: '2026-10-30'
+  - url: https://necca.gov.gr/en/mdpp/management-unit-of-evros-delta-and-dadia-national-parks-and-protected-areas-of-eastern-thrace/
+    titulo: Management Unit of Evros Delta and Dadia National Parks – N.E.C.C.A.
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Maritsa
+    titulo: Maritsa - Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Gka3381.jpg
+    autor: Evrodelta
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-21'

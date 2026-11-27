@@ -1,0 +1,575 @@
+id: badinsky-prales-primeval-forest
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque Primario de Badínsky Prales
+  en: Badínsky Prales Primeval Forest
+  fr: Forêt primaire de Badínsky Prales
+  de: Buchen-Urwald Badínsky Prales
+  it: Foresta Primaria di Badínsky Prales
+  pt: Floresta Primitiva de Badínsky Prales
+nombre_original: Badínsky Prales Primeval Forest
+alias:
+  - Badínsky Prales Primeval Forest
+paises:
+  - SK
+region:
+  es: Banská Bystrica (Badín / Banská Bystrica)
+  en: Banská Bystrica (Badín / Banská Bystrica)
+  fr: Banská Bystrica (Badín / Banská Bystrica)
+  de: Banská Bystrica (Badín / Banská Bystrica)
+  it: Banská Bystrica (Badín / Banská Bystrica)
+  pt: Banská Bystrica (Badín / Banská Bystrica)
+ubicacion:
+  tipo: punto
+  lat: 48.68
+  lon: 19.05
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 16772
+  nombre_en_la_fuente: Badínsky prales
+  categoria_uicn: Ia
+  capa: capas/cdda/badinsky-prales-primeval-forest.geojson
+habitats:
+  - primary_forest
+  - mature_forest
+designaciones:
+  - strict_reserve
+  - unesco_whs
+  - natura2000
+especies:
+  - lynx_lynx
+  - dryocopus_martius
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 0
+masificacion_nota:
+  es: Visita con permiso especial en el perimetro de la reserva
+  en: Visits require a special permit on the perimeter of the reserve
+  fr: Visite avec autorisation spéciale sur le périmètre de la réserve
+  de: Besuch mit Sondergenehmigung am Rand des Schutzgebiets
+  it: Visite con permesso speciale sul perimetro della riserva
+  pt: Visita com autorização especial no perímetro da reserva
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Administración — Conservación de la Naturaleza de Eslovaquia
+    url: https://www.sopsr.sk/
+  - titulo: Contacto y permisos — Administración de Poľana
+    url: https://chkopolana.sopsr.sk/kontakt/
+  - titulo: Normas de visita — Badínsky prales (CVTI SR)
+    url: https://vedanadosah.cvtisr.sk/priroda/zem/prirodne-lesne-laboratorium-badinsky-prales/
+resumen:
+  es: >-
+    Bosque virgen de abeto y haya de más de 400 años protegido desde 1913, célebre por haber recibido la
+    visita oficial de Carlos III del Reino Unido por su valor ecológico.
+  en: >-
+    Virgin fir and beech forest over 400 years old protected since 1913, famous for receiving an official
+    visit by Charles III of the United Kingdom for its ecological value.
+  fr: >-
+    Forêt vierge de sapins et de hêtres vieille de plus de 400 ans protégée depuis 1913, célèbre pour avoir
+    reçu la visite officielle de Charles III du Royaume-Uni en raison de sa valeur écologique.
+  de: >-
+    Über 400 Jahre alter Urwald aus Tanne und Buche unter Schutz seit 1913, berühmt für den offiziellen Besuch
+    von Charles III. des Vereinigten Königreichs wegen seines ökologischen Wertes.
+  it: >-
+    Foresta vergine di abete e faggio di oltre 400 anni protetta dal 1913, celebre per la visita ufficiale di
+    Carlo III del Regno Unito per il suo valore ecologico.
+  pt: >-
+    Floresta virgem de abetos e faias com mais de 400 anos protegida desde 1913, afamada por ter recebido a
+    visita oficial de Carlos III do Reino Unido pelo seu valor ecológico.
+unico:
+  es: >-
+    Es un bosque primario que lleva más de un siglo protegido y donde conviven las tres fases de la vida de un
+    bosque europeo.
+  en: >-
+    A primeval forest protected for over a century where all three lifecycle phases of a natural European
+    forest coexist side by side.
+  fr: >-
+    Une forêt primaire protégée depuis plus d’un siècle où coexistent les trois phases de la vie d’une forêt
+    naturelle européenne.
+  de: >-
+    Ein Urwald, der seit über einem Jahrhundert geschützt ist und in dem alle drei Entwicklungsphasen eines
+    natürlichen europäischen Bergwalds nebeneinander bestehen.
+  it: >-
+    Una foresta primaria protetta da oltre un secolo dove convivono le tre fasi del ciclo vitale di una
+    foresta naturale europea.
+  pt: >-
+    Uma floresta primária protegida há mais de um século onde coexistem as três fases da vida de um bosque
+    europeu natural.
+observaciones:
+  es: >-
+    Para entrar hace falta ir en una excursión con acompañante especializado. Pregunta a la administración de
+    Poľana qué excursiones hay y cómo solicitar permiso antes de organizar nada. No recorras zonas fuera del
+    sendero.
+texto:
+  es:
+    intro: >-
+      Hay bosques que se visitan y bosques que se estudian. El Badínsky prales es de los segundos: un
+      abetal-hayedo primario de los Kremnické vrchy, en el centro de Eslovaquia, protegido desde 1913 y
+      cerrado al público. Fue una de las primeras reservas naturales del territorio eslovaco, y desde entonces
+      se ha dejado a su aire. Hoy es un laboratorio natural donde se puede seguir el ciclo de vida de los
+      bosques primarios de los Cárpatos: cómo nacen los árboles, cómo llegan a su óptimo y cómo se
+      desintegran.
+    landscape: >-
+      El Badínsky prales está a 5 km del pueblo de Badín, sobre el valle del arroyo Badínsky, en la vertiente
+      oriental de los montes Kremnické vrchy. A unos 10 km al suroeste de Banská Bystrica, el terreno sube
+      entre los 620 y los 1 025 m, casi siempre en laderas orientadas al norte, noroeste y noreste. El suelo
+      cuenta su origen volcánico: roca piroclástica, y en la zona de amortiguación, restos de una colada de
+      lava que asoman como paredes de roca, voladizos y columnas. Allí donde el viento ha derribado árboles,
+      el suelo queda con pozos y montículos.
+
+
+      El clima es frío y húmedo: el periodo de vegetación dura entre 120 y 140 días y la nieve cubre el suelo
+      entre 140 y 150 días al año. En este ambiente prospera un bosque que no se parece a uno de explotación.
+      Están presentes las tres fases principales de un bosque primario europeo (crecimiento, óptimo y
+      desintegración), y alrededor del 70 % es hayedo o abetal-hayedo florido. Dominan el haya y el [abeto
+      blanco](/especie/abies_alba/); en la zona de amortiguación hay también pícea, y son frecuentes el arce
+      blanco, el fresno y el tilo. Los abetos tienen entre 200 y 400 años, y el más alto mide 46 metros. El
+      brest väzový (*Ulmus laevis*), hoy amenazado, tiene aquí presencia numerosa. En total se han registrado
+      más de 140 especies de plantas vasculares, y entre los hongos destaca el ohňovec Pouzarov (*Phellinus
+      pouzarii*), propio de bosques primarios.
+    wildlife: >-
+      Es un bosque de vida discreta. Entre los grandes carnívoros hay [oso pardo](/especie/ursus_arctos/),
+      [lince](/especie/lynx_lynx/) y [lobo](/especie/canis_lupus/). Anidan el [pico
+      dorsiblanco](/especie/dendrocopos_leucotos/) y el papamoscas papirrojo, y están bien representados el
+      [urogallo](/especie/tetrao_urogallus/), el [búho real](/especie/bubo_bubo/), la abubilla y el [mochuelo
+      chico](/especie/glaucidium_passerinum/). Entre los mamíferos hay musaraña alpina, murciélago de
+      Bechstein y murciélago ratonero grande.
+
+
+      Los anfibios más extendidos son el [tritón de los Cárpatos](/especie/triturus_montandoni/), la
+      [salamandra común](/especie/salamandra_salamandra/), la ranita de San Antonio, el sapo común y el
+      sapillo de vientre amarillo; entre los reptiles hay lagartija de turbera, lagartija roquera, víbora
+      común, lagarto verde y culebra lisa. Abundan los insectos y los escarabajos, como la bystruška zlatá, el
+      krasoň jedľový y el [longicornio alpino](/especie/rosalia_alpina/).
+    visit: >-
+      No se puede entrar por tu cuenta. El bosque está cerrado al público; solo se permite la entrada por el
+      sendero de excursión en excursiones con acompañante especializado. Moverse fuera del sendero didáctico
+      en el grado máximo de protección es una infracción que puede ser multada. Lo que sí está abierto para
+      quien llega hasta aquí es el entorno: sobre el bosque hay una cascada, la de Badínsky, que visitan a
+      menudo los excursionistas.
+    history: >-
+      La reserva se declaró en 1913. Su creación, junto con la del bosque primario de Dobročský, nació de una
+      iniciativa del Ministerio de Agricultura húngaro, que en 1908 mandó elaborar listas de monumentos
+      naturales. En 1994 obtuvo el estatuto de reserva natural nacional. En el bosque quedan restos dispersos
+      de carboneo y de un antiguo camino forestal cubierto de vegetación. Y en 2000 lo visitó el príncipe
+      Carlos, que se llevó a Inglaterra algunos plantones de árboles jóvenes.
+
+
+      La gestión es de mínima intervención. Solo se retiran los troncos que amenazan el tráfico del camino
+      forestal. En la zona A, el bosque primario propiamente dicho, rige el máximo grado de protección y no
+      habrá intervención humana en el futuro. En la zona B, la de amortiguación, hay 16 tipos de bosque y la
+      pícea, especie no autóctona, se irá reduciendo. La red Natura 2000 protege aquí roquedos silíceos con
+      vegetación de grietas, hayedos y abetales floridos y bosques de tilo y arce en pedregales.
+    before: >-
+      Para entrar hace falta ir en una excursión con acompañante especializado. Pregunta a la administración
+      de Poľana qué excursiones hay y cómo solicitar permiso antes de organizar nada. No recorras zonas fuera
+      del sendero.
+    around: >-
+      Badínsky prales no tiene vecinos cercanos en el atlas, pero sí comparte hábitat de bosque primario y
+      fauna con otros bosques europeos. Con la [Reserva Natural Estricta
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) lo une el longicornio alpino, el pito negro y el
+      lince; con el [Bosque Primario de Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/), el pito negro,
+      el lince y el lobo; y con el [Parque Nacional Cozia](/lugar/parcul-national-cozia---codrii-seculari/) y
+      el [Bosque Primario de Krokar](/lugar/pragozd-krokar/), el longicornio alpino, el lince y el lobo.
+  en:
+    intro: >-
+      There are forests that you visit, and forests that you study. Badínsky prales is firmly among the
+      latter: an ancient primeval fir-beech woodland in the Kremnica Mountains of central Slovakia, protected
+      since 1913 and closed to casual public access. It was one of the earliest nature reserves established on
+      Slovak territory, left ever since to natural processes. Today it serves as an open-air laboratory where
+      scientists track the complete lifecycle of Carpathian primeval forests: how trees germinate, reach
+      mature canopy dominance, and eventually collapse in decay.
+    landscape: >-
+      Badínsky prales lies 5 km from the village of Badín, overlooking the valley of the Badínsky brook on the
+      eastern slopes of the Kremnica Mountains. About 10 km southwest of Banská Bystrica, the terrain climbs
+      between 620 and 1,025 m, predominantly across northern, north-western, and north-eastern aspects. The
+      bedrock reveals its volcanic origins: pyroclastic rocks with lava flows that jut out in the buffer zone
+      as sheer cliffs, rock overhangs, and basaltic columns. Where storms have felled ancient giants, the
+      ground is pitted with classic pit-and-mound microtopography.
+
+
+      The climate is cold and wet: the vegetative season lasts between 120 and 140 days, with snowblanketing
+      the ground for 140 to 150 days annually. In this setting thrives a forest radically unlike commercial
+      timber plantations. All three classic lifecycle stages of a European primeval woodland (growth, optimum,
+      and disintegration) are visibly present, with roughly 70 % consisting of herb-rich beech and fir-beech
+      forest. European beech and [silver fir](/especie/abies_alba/) dominate; the buffer zone also includes
+      Norway spruce, with sycamore maple, European ash, and large-leaved lime occurring frequently. Surviving
+      firs are between 200 and 400 years old, the tallest reaching 46 metres. The fluttering elm (*Ulmus
+      laevis*), now endangered across Europe, maintains a substantial presence here. In total, over 140
+      vascular plant species have been documented, alongside rare wood-decay fungi such as *Phellinus
+      pouzarii*, confined strictly to virgin old-growth.
+    wildlife: >-
+      This is a realm of secretive woodland creatures. Large carnivores include the [brown
+      bear](/especie/ursus_arctos/), [Eurasian lynx](/especie/lynx_lynx/), and [wolf](/especie/canis_lupus/).
+      The [white-backed woodpecker](/especie/dendrocopos_leucotos/) and red-breasted flycatcher breed in the
+      deadwood, alongside robust populations of [western capercaillie](/especie/tetrao_urogallus/), [Eurasian
+      eagle-owl](/especie/bubo_bubo/), Eurasian hoopoe, and [Eurasian pygmy
+      owl](/especie/glaucidium_passerinum/). Small mammals feature the alpine shrew, Bechstein's bat, and
+      greater mouse-eared bat.
+
+
+      Widespread amphibians include the endemic [Carpathian newt](/especie/triturus_montandoni/), [fire
+      salamander](/especie/salamandra_salamandra/), European tree frog, common toad, and yellow-bellied toad;
+      reptiles range from the viviparous lizard and wall lizard to the common European viper, western green
+      lizard, and smooth snake. Saproxylic insects flourish, including rare carabids such as *Carabus
+      clathratus auraniensis*, *Eurythyrea austriaca*, and the magnificent [alpine longhorn
+      beetle](/especie/rosalia_alpina/).
+    visit: >-
+      You cannot enter on your own. The core primeval forest is closed to the general public; entry is
+      strictly restricted to the designated educational trail on pre-arranged tours led by a specialist
+      conservation guide. Stepping off the marked nature trail in this fifth-degree nature reserve constitutes
+      a punishable offence subject to steep fines. However, the surrounding valley remains open to hikers:
+      just above the forest boundary lies the scenic Badínsky waterfall, a favourite walking destination.
+    history: >-
+      The reserve was officially designated in 1913. Its creation, along with that of the neighbouring
+      Dobročský primeval forest, arose from an initiative by the Hungarian Ministry of Agriculture, which in
+      1908 ordered comprehensive inventories of natural monuments. In 1994 it gained national nature reserve
+      status. Scattered traces of historical charcoal hearths and an overgrown ancient timber track survive
+      beneath the canopy. In 2000, Prince Charles visited the reserve, taking several young tree seedlings
+      back to England.
+
+
+      Management adheres to absolute non-intervention. Fallen trunks are cleared only where they obstruct
+      maintenance access on the forest track. In Zone A, the primeval sanctuary itself, the highest
+      fifth-level protection applies, ensuring zero human intervention in perpetuity. In Zone B, the buffer
+      belt, 16 distinct forest types are identified, and non-native Norway spruce is being gradually reduced.
+      The Natura 2000 network here protects siliceous rocky slopes, herb-rich beech forests, and ravines with
+      maple and lime scree woods.
+    before: >-
+      Access requires joining a specialized guided tour with an authorized escort. Contact the Poľana
+      Protected Landscape Area administration well in advance to inquire about available dates and permit
+      procedures. Never wander off designated trails.
+    around: >-
+      Badínsky prales has no immediate neighbours in this atlas, but shares virgin forest ecosystems and
+      wildlife with other European reserves. It connects with [Havešová Strict Nature
+      Reserve](/lugar/narodna-prirodna-rezervacia-havesova/) through alpine longhorn beetle, black woodpecker,
+      and lynx; with [Strâmbu-Băiuț Primeval Forest](/lugar/codrul-secular-strambu-baiut/) through black
+      woodpecker, lynx, and wolf; and with [Cozia National
+      Park](/lugar/parcul-national-cozia---codrii-seculari/) and [Krokar Primeval
+      Forest](/lugar/pragozd-krokar/) through alpine longhorn beetle, lynx, and wolf.
+  fr:
+    intro: >-
+      Il est des forêts que l'on visite et des forêts que l'on étudie. Le Badínsky prales appartient
+      résolument à la seconde catégorie : une hêtraie-sapinière primaire des monts Kremnické vrchy, au cœur de
+      la Slovaquie, protégée depuis 1913 et fermée au grand public. Ce fut l'une des toutes premières réserves
+      naturelles du territoire slovaque, laissée depuis lors en libre évolution. C'est aujourd'hui un
+      laboratoire à ciel ouvert où l'on observe le cycle naturel complet des forêts vierges carpatiques :
+      germination, canopée optimale et décomposition du bois sénescent.
+    landscape: >-
+      Le Badínsky prales est situé à 5 km du village de Badín, dominant la vallée du ruisseau Badínsky sur le
+      versant oriental des monts Kremnické vrchy. À environ 10 km au sud-ouest de Banská Bystrica, le relief
+      s'élève entre 620 et 1 025 m, principalement sur des pentes tournées vers le nord, le nord-ouest et le
+      nord-est. Le substrat géologique trahit une origine volcanique : roches pyroclastiques et, dans la zone
+      tampon, coulées de lave affleurant en falaises, corniches et orgues rocheuses. Là où le vent a renversé
+      de vieux arbres, le sol conserve les cuvettes et buttes de chablis caractéristiques.
+
+
+      Le climat est rude et humide : la période de végétation dure entre 120 et 140 jours, et la neige couvre
+      le sol pendant 140 à 150 jours par an. Dans ce milieu prospère un boisement sans commune mesure avec une
+      forêt exploitée. Les trois phases cardinales d'une forêt primaire européenne (croissance, maturité
+      optimale et décomposition) s'y côtoient, avec environ 70 % de hêtraies et hêtraies-sapinières à flore
+      riche. Le hêtre et le [sapin blanc](/especie/abies_alba/) dominent ; la zone tampon compte aussi de
+      l'épicéa, avec érable sycomore, frêne et tilleul abondants. Les sapins affichent entre 200 et 400 ans,
+      le plus haut culminant à 46 mètres. L'orme lisse (*Ulmus laevis*), aujourd'hui menacé, y maintient une
+      population vigoureuse. Plus de 140 espèces de plantes vasculaires y sont recensées, ainsi que des
+      champignons remarquables comme *Phellinus pouzarii*, inféodé aux forêts anciennes.
+    wildlife: >-
+      C'est un monde à la faune discrète. Parmi les grands prédateurs figurent l'[ours
+      brun](/especie/ursus_arctos/), le [lynx boréal](/especie/lynx_lynx/) et le
+      [loup](/especie/canis_lupus/). Le [pic à dos blanc](/especie/dendrocopos_leucotos/) et le gobe-mouche
+      nain nichent dans le bois mort, tandis que sont bien représentés le [grand
+      tétras](/especie/tetrao_urogallus/), le [grand-duc d'Europe](/especie/bubo_bubo/), la huppe fasciée et
+      la [chevêchette d'Europe](/especie/glaucidium_passerinum/). Les mammifères comptent la musaraigne
+      alpine, le murin de Bechstein et le grand murin.
+
+
+      Les amphibiens les plus répandus sont le [triton de Montandon](/especie/triturus_montandoni/), la
+      [salamandre tachetée](/especie/salamandra_salamandra/), la rainette verte, le crapaud commun et le
+      sonneur à ventre jaune ; parmi les reptiles figurent le lézard vivipare, le lézard des murailles, la
+      vipère péliade, le lézard vert et la coronelle lisse. Les insectes saproxyliques abondent, tels les
+      carabes dorés, *Eurythyrea austriaca* et la remarquable [rosalie des Alpes](/especie/rosalia_alpina/).
+    visit: >-
+      On ne peut y pénétrer par ses propres moyens. Le cœur forestier est interdit au public ; seul l'accès
+      par le sentier didactique est permis lors d'excursions encadrées par un guide spécialisé. Quitter le
+      sentier balisé dans ce périmètre de protection maximale constitue une infraction passible d'amende. En
+      revanche, les environs immédiats sont ouverts aux marcheurs : au-dessus de la réserve coule la cascade
+      de Badín, destination prisée des randonneurs.
+    history: >-
+      La réserve a été instituée en 1913. Sa création, conjointe à celle de la forêt primaire de Dobročský,
+      émana d'une initiative du ministère hongrois de l'Agriculture, qui ordonna dès 1908 l'inventaire des
+      monuments naturels. En 1994, elle a obtenu le statut de réserve naturelle nationale. Dans les bois
+      subsistent de vieux vestiges de charbonnage et un chemin d'exploitation abandonné. En 2000, le prince
+      Charles visita la forêt et rapporta en Angleterre des jeunes pousses d'arbres.
+
+
+      La gestion repose sur la non-intervention absolue. On n'évacue que les troncs menaçant la sécurité du
+      chemin d'accès. Dans la zone A, la forêt primaire stricte, le niveau de protection maximal exclut toute
+      intervention humaine future. Dans la zone B, zone tampon, 16 types forestiers sont identifiés et
+      l'épicéa non indigène sera progressivement éliminé. Le réseau Natura 2000 y protège les éboulis
+      siliceux, les hêtraies riches et les forêts de ravin à érables et tilleuls.
+    before: >-
+      Pour y accéder, il est obligatoire de participer à une sortie accompagnée par un guide agréé. Contactez
+      l'administration de l'aire protégée de Poľana pour connaître les modalités et obtenir les autorisations
+      préalables. Ne vous écartez en aucun cas du sentier.
+    around: >-
+      Le Badínsky prales n'a pas de voisins immédiats dans l'atlas, mais partage son écologie de forêt
+      primaire avec d'autres massifs européens. Avec la [Réserve naturelle stricte de
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/), il partage la rosalie des Alpes, le pic noir et
+      le lynx ; avec la [Forêt primaire de Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/), le pic noir,
+      le lynx et le loup ; et avec le [Parc national de
+      Cozia](/lugar/parcul-national-cozia---codrii-seculari/) et la [Forêt primaire de
+      Krokar](/lugar/pragozd-krokar/), la rosalie des Alpes, le lynx et le loup.
+  de:
+    intro: >-
+      Es gibt Wälder zum Wandern und Wälder zum Forschen. Der Badínsky prales gehört zur zweiten Kategorie:
+      ein urwüchsiger Tannen-Buchenwald in den Kremnitzer Bergen der Mittelslowakei, seit 1913 geschützt und
+      für den freien Publikumsverkehr gesperrt. Er war eines der frühesten Naturschutzgebiete auf slowakischem
+      Boden und ist seither völlig ungestört geblieben. Heute dient er als Freilandlabor, um den gesamten
+      Lebenszyklus karpatischer Urwälder zu studieren: wie Bäume keimen, im Kronendach dominieren und
+      schließlich zerfallen.
+    landscape: >-
+      Der Badínsky prales liegt 5 km von der Ortschaft Badín entfernt über dem Tal des Badínsky-Bachs an den
+      Osthängen der Kremnitzer Berge. Rund 10 km südwestlich von Banská Bystrica steigt das Gelände zwischen
+      620 und 1 025 m an, vorwiegend an Nord-, Nordwest- und Nordosthängen. Der Boden zeugt von vulkanischem
+      Ursprung: pyroklastisches Gestein mit Lavaströmen, die in der Pufferzone als Steilwände, Felskanzeln und
+      Basaltsäulen hervortreten. Wo Stürme alte Riesen geworfen haben, prägt ein ausgeprägtes Wurzelteller-
+      und Muldenrelief den Waldboden.
+
+
+      Das Klima ist rau und feucht: Die Vegetationsperiode währt zwischen 120 und 140 Tagen, während Schnee
+      das Gelände an 140 bis 150 Tagen im Jahr bedeckt. Hier gedeiht ein Wald, der keinem Wirtschaftswald
+      gleicht. Alle drei Hauptphasen eines mitteleuropäischen Urwalds (Aufwuchs-, Optimal- und Zerfallsphase)
+      sind vertreten, und etwa 70 % entfallen auf artenreiche Buchen- und Tannen-Buchenwälder. Rotbuche und
+      [Weißtanne](/especie/abies_alba/) dominieren; in der Pufferzone wächst auch Fichte, während Bergahorn,
+      Esche und Linde häufig beigemischt sind. Die Tannen sind zwischen 200 und 400 Jahre alt, die
+      stattlichste ragt 46 Meter auf. Die Flatterulme (*Ulmus laevis*), heute europaweit bedroht, besitzt hier
+      einen gesunden Bestand. Mehr als 140 Gefäßpflanzenarten wurden erfasst, ergänzt um seltene Holzpilze wie
+      *Phellinus pouzarii*, der an Urwälder gebunden ist.
+    wildlife: >-
+      Die Tierwelt lebt zurückgezogen. Unter den großen Raubtieren streifen
+      [Braunbär](/especie/ursus_arctos/), [Eurasischer Luchs](/especie/lynx_lynx/) und
+      [Wolf](/especie/canis_lupus/) durchs Gebiet. Im Totholz nisten
+      [Weißrückenspecht](/especie/dendrocopos_leucotos/) und Zwergschnäpper; gut vertreten sind zudem
+      [Auerhuhn](/especie/tetrao_urogallus/), [Uhu](/especie/bubo_bubo/), Wiedehopf und
+      [Sperlingskauz](/especie/glaucidium_passerinum/). Unter den Säugern leben Alpenspitzmaus,
+      Bechsteinfledermaus und Großes Mausohr.
+
+
+      Zu den verbreitetsten Amphibien zählen [Karpatenmolch](/especie/triturus_montandoni/),
+      [Feuersalamander](/especie/salamandra_salamandra/), Laubfrosch, Erdkröte und Gelbbauchunke; bei den
+      Reptilien sind Waldeidechse, Mauereidechse, Kreuzotter, Smaragdeidechse und Schlingnatter heimisch.
+      Urwaldtotholzkäfer sind zahlreich vertreten, darunter Goldlaufkäfer, *Eurythyrea austriaca* und der
+      prächtige [Alpenbock](/especie/rosalia_alpina/).
+    visit: >-
+      Ein Besuch auf eigene Faust ist ausgeschlossen. Der Kernurwald ist für die Öffentlichkeit gesperrt; der
+      Zutritt ist ausschließlich entlang des Lehrpfads im Rahmen geführter Exkursionen mit Fachbegleitung
+      gestattet. Das Verlassen des Pfades in der höchsten Schutzstufe ist ordnungswidrig und wird mit
+      Bußgeldern geahndet. Frei zugänglich ist hingegen die unmittelbare Umgebung: Oberhalb des Urwalds stürzt
+      der Badínsky-Wasserfall herab, ein beliebtes Ausflugsziel für Wanderer.
+    history: >-
+      Das Reservat wurde 1913 ausgewiesen. Die Unterschutzstellung ging gemeinsam mit jener des Urwalds
+      Dobročský auf eine Initiative des ungarischen Ackerbauministeriums zurück, das 1908 die Erfassung von
+      Naturdenkmälern veranlasste. Im Jahr 1994 erhielt das Gebiet den Status eines Nationalen Naturreservats.
+      Im Wald zeugen historische Meilerplätze und ein verwachsener alter Holzabfuhrweg von früherer Nutzung.
+      Im Jahr 2000 besuchte der britische Thronfolger Prinz Charles den Urwald und nahm Setzlinge mit nach
+      England.
+
+
+      Das Schutzgebietsmanagement folgt streng dem Prozessschutz. Umgestürzte Stämme werden nur dort geräumt,
+      wo sie den Forstweg blockieren. In Zone A, dem eigentlichen Urwald, gilt die höchste Schutzstufe ohne
+      menschliche Eingriffe für die Zukunft. In Zone B, der Pufferzone, sind 16 Waldtypen ausgewiesen, und die
+      nicht heimische Fichte wird behutsam entnommen. Das Natura-2000-Netz schützt hier Silikatfelsen,
+      krautreiche Buchenwälder sowie Schlucht- und Hangmischwälder.
+    before: >-
+      Für den Zutritt ist die Teilnahme an einer autorisierten Führung mit Fachbegleitung zwingend
+      vorgeschrieben. Erkundige dich bei der Verwaltung des Landschaftsschutzgebiets Poľana nach Terminen und
+      Genehmigungen. Verlasse keinesfalls den markierten Weg.
+    around: >-
+      Der Badínsky prales hat keine direkten Nachbarn in diesem Atlas, teilt aber Urwaldlebensräume und
+      Artenspektren mit anderen Karpatenwäldern. Mit dem [Nationalen Naturreservat
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) verbinden ihn Alpenbock, Schwarzspecht und
+      Luchs; mit dem [Urwald Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) Schwarzspecht, Luchs und
+      Wolf; und mit dem [Nationalpark Cozia](/lugar/parcul-national-cozia---codrii-seculari/) sowie dem
+      [Urwald Krokar](/lugar/pragozd-krokar/) Alpenbock, Luchs und Wolf.
+  it:
+    intro: >-
+      Vi sono boschi da visitare e boschi da studiare. Il Badínsky prales appartiene senza dubbio ai secondi:
+      un'antica abetina-faggeta primaria dei monti Kremnické vrchy, nella Slovacchia centrale, protetta fin
+      dal 1913 e preclusa alle visite ordinarie. Fu una delle primissime riserve naturali istituite in
+      territorio slovacco, lasciata da allora alla libera evoluzione naturale. Oggi è un laboratorio biologico
+      all'aperto dove seguire l'intero ciclo vitale delle foreste vergini dei Carpazi: nascita, maturità di
+      volta e disintegrazione del legno morto.
+    landscape: >-
+      Il Badínsky prales sorge a 5 km dal borgo di Badín, sovrastando la valle del torrente Badínsky sul
+      versante orientale dei monti Kremnické vrchy. A circa 10 km a sud-ovest di Banská Bystrica, il terreno
+      sale tra i 620 e i 1 025 m, prevalentemente su pendii esposti a nord, nord-ovest e nord-est. Il
+      basamento svela origini vulcaniche: rocce piroclastiche e, nella fascia di rispetto, colate laviche che
+      affiorano in pareti verticali, cornici e colonne basaltiche. Dove il vento ha sradicato alberi
+      colossali, il suolo è modellato da tipiche buche e cumuli di scalzamento.
+
+
+      Il clima è freddo e umido: la stagione vegetativa dura tra 120 e 140 giorni e la coltre nevosa permane
+      tra 140 e 150 giorni all'anno. In questo ambiente prospera una foresta incomparabile con i boschi da
+      legname. Le tre fasi fondamentali di una foresta primaria europea (crescita, climax e decomposizione)
+      sono pienamente rappresentate, e circa il 70 % è composto da faggete e abetine floride. Dominano faggio
+      e [abete bianco](/especie/abies_alba/); nella zona tampone compare anche l'abete rosso, con acero
+      montano, frassino e tiglio ben diffusi. Gli abeti hanno tra 200 e 400 anni, con l'esemplare più alto che
+      svetta a 46 metri. L'olmo bianco (*Ulmus laevis*), oggi minacciato, vanta qui popolazioni cospicue. Si
+      contano più di 140 specie di piante vascolari e funghi rari come *Phellinus pouzarii*, esclusivo delle
+      foreste vetuste.
+    wildlife: >-
+      È una foresta popolata da fauna elusiva. Tra i grandi carnivori si muovono l'[orso
+      bruno](/especie/ursus_arctos/), la [lince boreale](/especie/lynx_lynx/) e il [lupo
+      grigio](/especie/canis_lupus/). Nel legno morto nidificano il [picchio
+      dorsobianco](/especie/dendrocopos_leucotos/) e il pigliamosche pettirosso, affiancati da [gallo
+      cedrone](/especie/tetrao_urogallus/), [gufo reale](/especie/bubo_bubo/), upupa e [civetta
+      nana](/especie/glaucidium_passerinum/). Tra i mammiferi vivono il toporagno alpino, il vespertilio di
+      Bechstein e il vespertilio maggiore.
+
+
+      Gli anfibi più diffusi comprendono il [tritone dei Carpazi](/especie/triturus_montandoni/), la
+      [salamandra pezzata](/especie/salamandra_salamandra/), la raganella, il rospo comune e l'ululone dal
+      ventre giallo; tra i rettili si incontrano lucertola vivipara, lucertola muraiola, marasso, ramarro e
+      colubro liscio. Gli insetti xilofagi abbondano con carabi rari, *Eurythyrea austriaca* e la magnifica
+      [rosalia alpina](/especie/rosalia_alpina/).
+    visit: >-
+      Non è consentito accedere autonomamente. La foresta primaria integrale è chiusa al pubblico; l'ingresso
+      è permesso unicamente lungo il sentiero didattico partecipando a visite guidate con accompagnatori
+      autorizzati. Allontanarsi dal sentiero in quest'area a massima protezione costituisce violazione
+      punibile con sanzioni. L'area circostante è invece fruibile dagli escursionisti: a monte della riserva
+      precipita la cascata di Badín, classica meta per camminatori.
+    history: >-
+      La riserva venne dichiarata nel 1913. La sua istituzione, insieme a quella della foresta primaria di
+      Dobročský, nacque dall'iniziativa del Ministero dell'Agricoltura ungherese che nel 1908 dispose la
+      catalogazione dei monumenti naturali. Nel 1994 ottenne lo status di riserva naturale nazionale. Nel
+      bosco rimangono tracce sparse di antiche piazzole di carbonaie e una vecchia pista forestale ormai
+      inerbita. Nel 2000 il principe Carlo d'Inghilterra visitò la foresta, portando con sé in Inghilterra
+      alcuni germogli.
+
+
+      La gestione persegue la stretta non interferenza. I tronchi caduti vengono rimossi solo se ostacolano la
+      viabilità sulla pista forestale. Nella zona A, il cuore primordiale della riserva, vige il quinto
+      livello di massima protezione senza interventi umani futuri. Nella zona B, fascia tampone, sono censiti
+      16 tipi forestali e l'abete rosso alloctono viene progressivamente ridotto. La rete Natura 2000 tutela
+      qui rupi silicee, faggete floride e boschi di forra con aceri e tigli.
+    before: >-
+      Per accedere è indispensabile partecipare a un'uscita guidata con accompagnatore autorizzato. Contatta
+      la direzione del parco naturale di Poľana per informazioni sui calendari e sul rilascio dei permessi.
+      Non uscire mai dal sentiero segnato.
+    around: >-
+      Badínsky prales non ha riserve confinanti nel nostro atlas, ma condivide habitat primigeni e fauna con
+      altre foreste montane europee. Con la [Riserva naturale integrale di
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) condivide rosalia alpina, picchio nero e lince;
+      con la [Foresta primordiale di Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/), picchio nero, lince
+      e lupo; e con il [Parco nazionale di Cozia](/lugar/parcul-national-cozia---codrii-seculari/) e la
+      [Foresta vergine di Krokar](/lugar/pragozd-krokar/), rosalia alpina, lince e lupo.
+  pt:
+    intro: >-
+      Há florestas que se visitam e florestas que se estudam. Badínsky prales pertence à segunda categoria: um
+      abetal-faial primário nas montanhas de Kremnické vrchy, no centro da Eslováquia, protegido desde 1913 e
+      interdito ao público em geral. Foi uma das primeiras reservas naturais em território eslovaco, deixada
+      desde então entregue à sua dinâmica natural. Hoje é um laboratório natural onde se pode acompanhar o
+      ciclo de vida completo das florestas primárias dos Cárpatos: como germinam as árvores, como atingem o
+      dossel adulto e como se decompõem.
+    landscape: >-
+      Badínsky prales fica a 5 km da povoação de Badín, alcandorado sobre o vale do ribeiro Badínsky na
+      vertente oriental dos montes Kremnické vrchy. A cerca de 10 km a sudoeste de Banská Bystrica, o relevo
+      eleva-se entre os 620 e os 1 025 m, quase sempre em encostas voltadas a norte, noroeste e nordeste. O
+      substrato rochoso documenta uma origem vulcânica: rochas piroclásticas e, na zona tampão, escoadas de
+      lava que surgem em escarpas verticais, saliências e colunas basálticas. Onde o vento derrubou gigantes
+      florestais, o solo exibe microrrelevos de covas e montículos de raízes arrancadas.
+
+
+      O clima é frio e húmido: o período vegetativo dura entre 120 e 140 dias, cobrindo a neve o terreno entre
+      140 e 150 dias por ano. Neste ambiente vinga um arvoredo incomparável com florestas de produção.
+      Encontram-se patentes as três fases essenciais de uma mata primária europeia (crescimento, apogeu e
+      senescência), sendo cerca de 70 % composto por faiais ou abetais-faiais floridos. A faia e o
+      [abeto-branco](/especie/abies_alba/) dominam; na zona tampão surge espruce, com bordo, freixo e tília
+      abundantes. Os abetos têm entre 200 e 400 anos, elevando-se o mais alto a 46 metros. O ulmeiro-da-baixa
+      (*Ulmus laevis*), hoje vulnerável na Europa, mantém aqui presença assinalável. Identificaram-se mais de
+      140 espécies de plantas vasculares e fungos raros de madeira morta como *Phellinus pouzarii*, exclusivo
+      de matas virgens.
+    wildlife: >-
+      É uma floresta de vida silvestre esquiva. Nos grandes carnívoros encontram-se o
+      [urso-pardo](/especie/ursus_arctos/), o [lince-euroasiático](/especie/lynx_lynx/) e o
+      [lobo-cinzento](/especie/canis_lupus/). O [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/) e o
+      papa-moscas-pequeno nidificam nos troncos secos, com forte presença do
+      [tetraz-grande](/especie/tetrao_urogallus/), do [bufo-real](/especie/bubo_bubo/), da poupa e do
+      [mocho-pigmeu](/especie/glaucidium_passerinum/). Nos pequenos mamíferos destacam-se o musaranho-alpino,
+      o morcego-de-bechstein e o morcego-rato-grande.
+
+
+      Os anfíbios mais comuns incluem o [tritão-dos-cárpatos](/especie/triturus_montandoni/), a
+      [salamandra-de-pintas-amarelas](/especie/salamandra_salamandra/), a rela-comum, o sapo-comum e o
+      bombina-de-ventre-amarelo; entre os répteis surgem lagartixa-vivípara, lagartixa-dos-muros,
+      víbora-comum, sardão-verde e cobra-lisa-austríaca. Os escaravelhos saproxílicos são variados, incluindo
+      carábidos raros, *Eurythyrea austriaca* e a majestosa [rosalia-alpina](/especie/rosalia_alpina/).
+    visit: >-
+      Não é possível entrar por conta própria. O núcleo primário encontra-se fechado ao público; o acesso
+      restringe-se ao trilho didático em visitas acompanhadas por um guia especializado credenciado. Sair do
+      trilho educativo nesta reserva com o grau máximo de proteção consubstancia uma infração punida com
+      coima. O vale em redor permanece acessível aos caminhantes: a montante da floresta despenha-se a cascata
+      de Badín, ponto de atração para passeios pedestres.
+    history: >-
+      A reserva foi criada em 1913. A sua classificação, a par da floresta primária de Dobročský, resultou de
+      uma diretiva do Ministério da Agricultura húngaro, que em 1908 determinou o inventário de monumentos
+      naturais. Em 1994 alcançou o estatuto de reserva natural nacional. No arvoredo sobrevivem vestígios
+      antigos de carvoarias e um velho caminho de desembosque tomado pela vegetação. Em 2000, o príncipe
+      Carlos visitou a mata, levando para Inglaterra pequenos rebentos florestais.
+
+
+      A gestão rege-se pela não intervenção estrita. Apenas se desimpedem troncos caídos que obstruam a
+      circulação no caminho florestal. Na zona A, a mata primária estrita, aplica-se o grau de proteção máximo
+      sem qualquer intervenção humana futura. Na zona B, de amortecimento, identificam-se 16 tipos florestais
+      e o espruce introduzido será progressivamente removido. A rede Natura 2000 preserva aqui escarpas
+      rochosas siliciosas, faiais floridos e bosques de encosta com bordos e tílias.
+    before: >-
+      O acesso exige inscrição obrigatória numa visita guiada com acompanhante credenciado. Informa-te junto
+      da administração da área protegida de Poľana sobre calendários e autorizações prévias. Nunca te desvies
+      do trilho demarcado.
+    around: >-
+      Badínsky prales não tem vizinhos imediatos neste atlas, mas partilha ecossistemas de bosque primitivo
+      com outras áreas protegidas europeias. Com a [Reserva Natural Estrita de
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) partilha a rosalia-alpina, o pica-pau-preto e o
+      lince; com a [Floresta Primitiva de Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/), o
+      pica-pau-preto, o lince e o lobo; e com o [Parque Nacional de
+      Cozia](/lugar/parcul-national-cozia---codrii-seculari/) e a [Floresta Primitiva de
+      Krokar](/lugar/pragozd-krokar/), a rosalia-alpina, o lince e o lobo.
+fuentes:
+  - url: https://www.biomonitoring.sk/InternalGeoportal/ProtectedSites/DetailSites/77
+    titulo: Badínsky prales – Štátna ochrana prírody SR
+    fecha_consulta: '2026-10-29'
+  - url: https://slovakia.travel/badinsky-prales
+    titulo: Badínsky prales – Slovakia.travel
+    fecha_consulta: '2026-10-29'
+  - url: https://vedanadosah.cvtisr.sk/priroda/zem/prirodne-lesne-laboratorium-badinsky-prales/
+    titulo: 'Prírodné lesné laboratórium: Badínsky prales – Veda na dosah'
+    fecha_consulta: '2026-10-29'
+  - url: https://sk.wikipedia.org/wiki/Bad%C3%ADnsky_prales
+    titulo: Badínsky prales – Wikipédia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Poh%C4%BEad_na_Bad%C3%ADnsky_prales.JPG
+    autor: Gasparct
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,590 @@
+id: de-maashorst
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural De Maashorst
+  en: De Maashorst Nature Reserve
+  fr: Réserve naturelle De Maashorst
+  de: Naturschutzgebiet De Maashorst
+  it: Riserva Naturale De Maashorst
+  pt: Reserva Natural De Maashorst
+nombre_original: De Maashorst
+alias:
+  - Maashorst
+paises:
+  - NL
+region:
+  es: Brabante Septentrional
+  en: North Brabant
+  fr: Brabant-Septentrional
+  de: Nordbrabant
+  it: Brabante Settentrionale
+  pt: Brabante do Norte
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 51.68
+  lon: 5.61
+  radio_km: 6
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: way/6323817
+  nombre_en_la_fuente: De Maashorst
+  capa: capas/osm/de-maashorst.geojson
+habitats:
+  - mature_forest
+  - steppe
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - bison_bonasus
+  - bos_taurus
+  - equus_caballus
+proyectos:
+  - de_maashorst
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: da aprile a ottobre
+  pt: abril a outubro
+masificacion: 2
+valoracion: 2
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Área natural De Maashorst
+    url: https://natuurgebieddemaashorst.nl/
+  - titulo: Normas — Visita y grandes herbívoros de Maashorst
+    url: https://natuurgebieddemaashorst.nl/plan-je-bezoek/bezoekregels/
+  - titulo: Rutas — Senderismo en Maashorst
+    url: https://natuurgebieddemaashorst.nl/wat-te-doen/wandelen/
+  - titulo: Accesos — Cómo llegar y aparcar
+    url: https://natuurgebieddemaashorst.nl/plan-je-bezoek/routebeschrijving-parkeren/
+  - titulo: Centros y accesos — Puntos de entrada de Maashorst
+    url: https://natuurgebieddemaashorst.nl/plan-je-bezoek/informatie-startpunten/
+  - titulo: Mapa y rutas — Red de cruces señalizados
+    url: https://natuurgebieddemaashorst.nl/plan-je-bezoek/knooppuntennetwerk/
+resumen:
+  es: Mosaico de pinares, brezales y pastizales habitado por bisontes europeos y toros Tauros.
+  en: Mosaic of pinewoods, heathlands and grasslands inhabited by European bison and Tauros cattle.
+  fr: Mosaïque de pinèdes, de landes et de prairies peuplée de bisons d'Europe et de taureaux Tauros.
+  de: Mosaik aus Kiefernwäldern, Heiden und Weiden, bewohnt von Wisenten und Tauros-Rindern.
+  it: Mosaico di pinete, brughiere e pascoli abitato da bisonti europei e bovini Tauros.
+  pt: Mosaico de pinhais, urzais e pastagens habitado por bisontes-europeus e touros Tauros.
+unico:
+  es: >-
+    Una fractura que empuja agua subterránea rica en hierro hasta la superficie y crea humedales en cotas
+    altas, junto a terrenos más bajos y secos.
+  en: >-
+    A geological fault that pushes iron-rich groundwater to the surface and creates wetlands on high ground,
+    beside lower, drier terrain.
+  fr: >-
+    Une faille qui pousse l'eau souterraine riche en fer jusqu'à la surface et crée des zones humides sur les
+    hauteurs, à côté de terrains plus bas et secs.
+  de: >-
+    Eine Verwerfung, die eisenreiches Grundwasser an die Oberfläche drückt und Feuchtgebiete in höheren Lagen
+    schafft, neben tieferem, trockenem Gelände.
+  it: >-
+    Una faglia che spinge acqua sotterranea ricca di ferro fino in superficie e crea zone umide in quota,
+    accanto a terreni più bassi e asciutti.
+  pt: >-
+    Uma fratura que empurra água subterrânea rica em ferro até à superfície e cria zonas húmidas em cotas
+    altas, junto a terrenos mais baixos e secos.
+observaciones:
+  es: >-
+    En el recinto de grandes herbívoros hay que permanecer en el sendero y mantener cincuenta metros de
+    distancia. Si un animal está en el camino, espera o rodéalo en un amplio arco, y si se acerca demasiado,
+    aléjate con calma. No te agaches para una foto: los animales lo toman como una amenaza. Los perros no
+    pueden entrar en ese sendero, ni siquiera con correa; en el resto del área se pasea con perro con correa,
+    y hay áreas especiales donde puede ir suelto. Los mejores meses van de abril a octubre.
+texto:
+  es:
+    intro: >-
+      Hace 125.000 años, el Mosa pasaba por aquí. Después, una fractura de la corteza terrestre levantó el
+      terreno y empujó el río hacia el este, y lo que quedó se llamó, con toda lógica, Maashorst: el bloque
+      elevado del Mosa. Hoy es uno de los mayores espacios naturales continuos de Brabante Septentrional, unas
+      2400 hectáreas de bosques, brezales, dunas de arena móvil, lagunas y viejas avenidas arboladas, con una
+      idea clara: dejar que mande la naturaleza.
+    landscape: >-
+      Lo extraño de la Maashorst es el agua. Aquí las tierras altas son las húmedas y las bajas las secas, y
+      todo viene de la falla de Peelrand. A un lado, la parte elevada está hecha de arena gruesa y grava por
+      la que el agua se cuela fácil; al otro, la parte hundida, de arena fina que casi no deja pasar el agua.
+      El agua que baja del lado alto topa con la falla y no puede seguir: sube a la superficie como agua de
+      rezume, un fenómeno que se llama wijst. Como es rica en hierro, al salir se oxida y toma un color pardo
+      rojizo. Un lugar donde se ve bien es el Annabos.
+
+
+      Esa falla lleva activa desde el Mioceno, hace unos 23 millones de años, y el desnivel original de unos
+      doscientos metros se ha borrado casi por completo: solo cerca de Uden se aprecian todavía unos cinco
+      metros. Lo que sí quedó fue lo que depositó el antiguo Mosa: en las elevaciones hay gravas y a veces
+      grandes piedras, y en las depresiones, arena fina de cobertura.
+
+
+      Sobre ese suelo hay un mosaico: bosque, brezal, espacios abiertos y dunas de arena móvil. Hay unos
+      cuatro brezales dispersos que suman unas 200 ha, y las zonas húmedas de rezume albergan vegetación
+      palustre y plantas del agua mineralizada.
+    wildlife: >-
+      En el recinto de pastoreo viven [bisontes europeos](/especie/bison_bonasus/), ponis Exmoor y tauros, que
+      pastan allí desde marzo de 2016 y mantienen el paisaje abierto. Su pastoreo también favorece a la abeja
+      minera, al conejo y al alcaudón dorsirrojo.
+
+
+      En las zonas semiabiertas hay chotacabras, alondra totovía y escribano cerillo, y en los bosques viven
+      el [halcón abejero](/especie/pernis_apivorus/), el azor, el alcotán, el búho chico, el [pito
+      negro](/especie/dryocopus_martius/) y el piquituerto. El sapo corredor y la rana campestre ocupan el
+      valle del Kraaivenloop, y las tejoneras son abundantes. En las zonas húmedas de rezume crecen la calta y
+      el musgo de turbera.
+
+
+      El calendario manda, sobre todo, en el sendero de los bisontes: abre del 1 de septiembre al 15 de marzo,
+      y del 15 de marzo a agosto se cierra, porque es la temporada de cría y las especies vulnerables que
+      anidan en el área necesitan tranquilidad.
+    visit: >-
+      Las rutas parten en su mayoría del centro de visitantes de Slabroek, cerca de Nistelrode. La Berg en
+      Breukroute recorre 6,5 km las dunas de Bedafse Bergen, el arroyo Leijgraaf y los suelos de wijst. Una
+      ruta de guardabosques atraviesa el viejo bosque pionero, los brezales y los pastizales cortos, y otra
+      sube a colinas de arena de hasta 5 metros. En el norte, Herperduin va de los lagos Ganzenven y Klompven
+      a las dunas, y hay marchas de varios días, las IVN Trektocht, que cruzan el área.
+
+
+      El sendero por el recinto de bisontes es la experiencia estrella: se recorre entre el amanecer y el
+      anochecer, y en él puedes ver bisontes, ponis Exmoor y tauros. Con suerte te cruzas con los guardas
+      Maashorst, que explican los animales y su papel en la naturaleza.
+    history: >-
+      El ser humano estuvo aquí desde muy pronto. Los arqueólogos han hallado el mayor depósito de bronce de
+      los Países Bajos, de época romana, y varios pueblos medievales olvidados. En la alta Edad Media la zona
+      estaba casi vacía, y la gente volvió a finales del siglo sexto.
+
+
+      Hoy el objetivo es la naturaleza de procesos: se deja actuar a los procesos naturales, casi no hay
+      mantenimiento y los árboles muertos se quedan donde caen. Los municipios, Staatsbosbeheer y el consejo
+      de aguas Aa en Maas aspiran a que en 2050 los procesos naturales marquen el rumbo. Dos ecoductos,
+      Herperduin y Maashorst, sirven de conexión ecológica.
+    before: >-
+      En el recinto de grandes herbívoros hay que permanecer en el sendero y mantener cincuenta metros de
+      distancia. Si un animal está en el camino, espera o rodéalo en un amplio arco, y si se acerca demasiado,
+      aléjate con calma. No te agaches para una foto: los animales lo toman como una amenaza. Los perros no
+      pueden entrar en ese sendero, ni siquiera con correa; en el resto del área se pasea con perro con
+      correa, y hay áreas especiales donde puede ir suelto. Los mejores meses van de abril a octubre.
+    around: >-
+      A diecisiete kilómetros está la [Puerta de Güeldres / Corredor del Rin](/lugar/gelderse-poort/), y a
+      veintitrés las [Reservas de Deurnsche Peel y Mariapeel](/lugar/deurnsche-peel---mariapeel/). La [Reserva
+      Natural de Millingerwaard](/lugar/millingerwaard/) queda a veintiocho. Más lejos, la [Reserva de
+      Bisontes de Kraansvlak](/lugar/kraansvlak-bison-reserve/) comparte con la Maashorst el bisonte y el
+      caballo en un paisaje de estepa.
+  en:
+    intro: >-
+      125,000 years ago, the Meuse flowed through here. Later, a fault in the Earth's crust lifted the ground
+      and pushed the river eastwards, and what remained was logically called Maashorst: the uplifted block of
+      the Meuse. Today it is one of the largest continuous natural areas in North Brabant, some 2,400 hectares
+      of woodland, heathland, shifting sand dunes, pools and old tree-lined avenues, guided by a clear idea:
+      letting nature take charge.
+    landscape: >-
+      The strange thing about the Maashorst is its water. Here the high ground is wet and the low ground is
+      dry, and it all comes from the Peelrand Fault. On one side, the raised block is made of coarse sand and
+      gravel through which water seeps easily; on the other, the sunken block is fine sand that barely lets
+      water pass. Water flowing down from the high side hits the fault and can go no further: it rises to the
+      surface as seepage water, a phenomenon called wijst. Because it is rich in iron, on emerging it oxidises
+      and turns reddish-brown. One place where this shows clearly is Annabos.
+
+
+      That fault has been active since the Miocene, some 23 million years ago, and the original drop of
+      roughly two hundred metres has been almost completely erased: only near Uden can about five metres still
+      be seen. What did remain is what the ancient Meuse laid down: on the rises there is gravel and sometimes
+      large stones, and in the hollows fine cover sand.
+
+
+      Across that soil lies a mosaic: woodland, heath, open spaces and shifting sand dunes. Around four
+      scattered heaths add up to some 200 ha, and the wet seepage zones hold marsh vegetation and plants of
+      mineral-rich water.
+    wildlife: >-
+      Inside the grazing enclosure live [European bison](/especie/bison_bonasus/), Exmoor ponies and Tauros
+      cattle, which have grazed here since March 2016 and keep the landscape open. Their grazing also benefits
+      mining bees, rabbits and the red-backed shrike.
+
+
+      In the semi-open areas there are European nightjar, woodlark and yellowhammer, and in the woods live the
+      [European honey buzzard](/especie/pernis_apivorus/), northern goshawk, Eurasian hobby, long-eared owl,
+      [black woodpecker](/especie/dryocopus_martius/) and red crossbill. Natterjack toad and moor frog occupy
+      the Kraaivenloop valley, and badger setts are plentiful. In the wet seepage zones grow marsh marigold
+      and bog moss.
+
+
+      The calendar rules above all on the bison trail: it opens from 1 September to 15 March, and from 15
+      March to August it closes, because that is the breeding season and vulnerable ground-nesting species in
+      the area need quiet.
+    visit: >-
+      Most routes start from the Slabroek visitor centre, near Nistelrode. The 6.5 km Berg en Breukroute takes
+      in the Bedafse Bergen dunes, the Leijgraaf stream and the wijst soils. A ranger trail crosses old
+      pioneer woodland, heathlands and short grasslands, and another climbs sand hills up to 5 metres high. In
+      the north, Herperduin runs from the Ganzenven and Klompven lakes to the dunes, and multi-day hikes, the
+      IVN Trektocht, cross the area.
+
+
+      The trail through the bison enclosure is the star experience: you walk it between dawn and dusk, and
+      along it you can spot bison, Exmoor ponies and Tauros. With luck you meet the Maashorst rangers, who
+      explain the animals and their role in nature.
+    history: >-
+      People were here very early on. Archaeologists have found the largest Bronze hoard in the Netherlands,
+      from Roman times, as well as several forgotten medieval villages. In the early Middle Ages the area was
+      almost empty, and people returned at the end of the sixth century.
+
+
+      Today the aim is process-led nature: natural processes are left to act, maintenance is minimal and dead
+      trees stay where they fall. The municipalities, Staatsbosbeheer and the Aa en Maas water board aim for
+      natural processes to set the course by 2050. Two wildlife overpasses, Herperduin and Maashorst, provide
+      ecological connectivity.
+    before: >-
+      Inside the large-herbivore enclosure you must stay on the path and keep fifty metres' distance. If an
+      animal is on the track, wait or go round in a wide arc, and if one comes too close, step back calmly. Do
+      not crouch down for a photo: the animals take it as a threat. Dogs are not allowed on that trail, not
+      even on a lead; in the rest of the area dogs must be on a lead, with designated zones where they may run
+      free. The best months run from April to October.
+    around: >-
+      Seventeen kilometres away lies [Gelderse Poort / Rhine Corridor](/lugar/gelderse-poort/), and
+      twenty-three kilometres away are the [Deurnsche Peel and Mariapeel
+      Reserves](/lugar/deurnsche-peel---mariapeel/). [Millingerwaard Nature Reserve](/lugar/millingerwaard/)
+      is twenty-eight kilometres away. Further afield, [Kraansvlak Bison
+      Reserve](/lugar/kraansvlak-bison-reserve/) shares bison and horses in a steppe-like landscape with De
+      Maashorst.
+  fr:
+    intro: >-
+      Il y a 125 000 ans, la Meuse passait par ici. Ensuite, une faille de l'écorce terrestre a soulevé le
+      terrain et repoussé le fleuve vers l'est, et ce qui est resté s'est appelé fort logiquement Maashorst :
+      le bloc soulevé de la Meuse. C'est aujourd'hui l'un des plus grands espaces naturels continus du
+      Brabant-Septentrional, quelque 2 400 hectares de forêts, landes, dunes de sable mouvant, mares et
+      vieilles allées boisées, avec une idée claire : laisser la nature décider.
+    landscape: >-
+      Ce qui étonne dans la Maashorst, c'est l'eau. Ici, les terres hautes sont humides et les terres basses
+      sont sèches, et tout vient de la faille du Peelrand. D'un côté, le bloc soulevé est fait de sable
+      grossier et de graviers que l'eau traverse aisément ; de l'autre, le bloc affaissé est de sable fin qui
+      ne laisse presque pas passer l'eau. L'eau qui descend du côté haut bute contre la faille et ne peut
+      aller plus loin : elle remonte en surface sous forme d'eau de suintement, un phénomène appelé wijst.
+      Comme elle est riche en fer, elle s'oxyde au contact de l'air et prend une teinte brun rougeâtre.
+      Annabos est l'un des endroits où on le voit bien.
+
+
+      Cette faille est active depuis le Miocène, il y a quelque 23 millions d'années, et le dénivelé initial
+      d'environ deux cents mètres a été presque entièrement effacé : seul près d'Uden subsiste encore un
+      ressaut d'environ cinq mètres. Ce qui est resté, c'est ce que l'ancienne Meuse a déposé : sur les
+      hauteurs se trouvent des graviers et parfois de grosses pierres, et dans les dépressions du sable fin de
+      couverture.
+
+
+      Sur ce sol s'étend une mosaïque : forêt, lande, espaces ouverts et dunes de sable mouvant. Environ
+      quatre landes dispersées totalisent quelque 200 ha, et les zones humides de suintement abritent une
+      végétation palustre et des plantes d'eau minéralisée.
+    wildlife: >-
+      Dans l'enclos de pâturage vivent des [bisons d'Europe](/especie/bison_bonasus/), des poneys Exmoor et
+      des tauros, qui y pâturent depuis mars 2016 et maintiennent le paysage ouvert. Leur pâturage favorise
+      aussi les abeilles fouisseuses, le lapin et la pie-grièche écorcheur.
+
+
+      Dans les zones semi-ouvertes vivent l'engoulevent d'Europe, l'alouette lulu et le bruant jaune, et dans
+      les bois la [bondrée apivore](/especie/pernis_apivorus/), l'autour des palombes, le faucon hobereau, le
+      hibou moyen-duc, le [pic noir](/especie/dryocopus_martius/) et le bec-croisé des sapins. Le crapaud
+      calamite et la grenouille des champs occupent la vallée du Kraaivenloop, et les terriers de blaireaux
+      abondent. Dans les zones humides de suintement poussent le populage des marais et la sphaigne.
+
+
+      Le calendrier commande surtout sur le sentier des bisons : il ouvre du 1 septembre au 15 mars, et ferme
+      du 15 mars à août, car c'est la saison de reproduction et les espèces vulnérables qui nichent dans le
+      secteur ont besoin de calme.
+    visit: >-
+      La plupart des itinéraires partent du centre d'accueil de Slabroek, près de Nistelrode. La Berg en
+      Breukroute parcourt 6,5 km à travers les dunes de Bedafse Bergen, le ruisseau Leijgraaf et les sols de
+      wijst. Un sentier de garde forestier traverse la vieille forêt pionnière, les landes et les pelouses
+      rases, et un autre grimpe sur des collines de sable atteignant 5 mètres. Au nord, Herperduin va des
+      étangs Ganzenven et Klompven jusqu'aux dunes, et des marches de plusieurs jours, les IVN Trektocht,
+      traversent le massif.
+
+
+      Le sentier dans l'enclos des bisons est l'expérience phare : on le parcourt entre le lever et le coucher
+      du soleil, et l'on peut y observer bisons, poneys Exmoor et tauros. Avec un peu de chance, on croise les
+      gardes de Maashorst, qui expliquent les animaux et leur rôle dans la nature.
+    history: >-
+      L'être humain est arrivé ici très tôt. Les archéologues ont découvert le plus grand dépôt de bronze des
+      Pays-Bas, d'époque romaine, ainsi que plusieurs villages médiévaux oubliés. Au haut Moyen Âge la région
+      était presque vide, et la population est revenue à la fin du sixième siècle.
+
+
+      Aujourd'hui, l'objectif est la nature de processus : on laisse agir les processus naturels, l'entretien
+      est minimal et les arbres morts restent là où ils tombent. Les communes, Staatsbosbeheer et l'agence de
+      l'eau Aa en Maas visent qu'en 2050 les processus naturels dictent le cap. Deux écoducs, Herperduin et
+      Maashorst, assurent la connexion écologique.
+    before: >-
+      Dans l'enclos des grands herbivores, il faut rester sur le sentier et garder cinquante mètres de
+      distance. Si un animal se trouve sur le chemin, attendez ou contournez-le largement, et s'il s'approche
+      trop, éloignez-vous calmement. Ne vous accroupissez pas pour une photo : les animaux le perçoivent comme
+      une menace. Les chiens sont interdits sur ce sentier, même tenus en laisse ; dans le reste du site on se
+      promène avec un chien en laisse, avec des zones dédiées où il peut courir librement. Les meilleurs mois
+      vont d'avril à octobre.
+    around: >-
+      À dix-sept kilomètres se trouve la [Porte de Gueldre / Corridor du Rhin](/lugar/gelderse-poort/), et à
+      vingt-trois les [Réserves de Deurnsche Peel et Mariapeel](/lugar/deurnsche-peel---mariapeel/). La
+      [Réserve naturelle de Millingerwaard](/lugar/millingerwaard/) est à vingt-huit kilomètres. Plus loin, la
+      [Réserve de bisons de Kraansvlak](/lugar/kraansvlak-bison-reserve/) partage avec la Maashorst le bison
+      et le cheval dans un paysage steppique.
+  de:
+    intro: >-
+      Vor 125.000 Jahren floss hier die Maas entlang. Dann hob eine Verwerfung der Erdkruste das Gelände an
+      und drängte den Fluss nach Osten ab, und was zurückblieb, hieß folgerichtig Maashorst: die gehobene
+      Scholle der Maas. Heute ist es eines der größten zusammenhängenden Naturgebiete Nordbrabants, rund 2.400
+      Hektar aus Wäldern, Heiden, Wanderdünen, Tümpeln und alten Baumalleen, mit einer klaren Idee: der Natur
+      das Kommando lassen.
+    landscape: >-
+      Das Merkwürdige an der Maashorst ist das Wasser. Hier sind die Hochlagen feucht und die Senken trocken,
+      und alles geht auf die Peelrand-Verwerfung zurück. Auf der einen Seite besteht die gehobene Scholle aus
+      grobem Sand und Kies, durch den das Wasser leicht sickert; auf der anderen besteht die abgesunkene
+      Scholle aus feinem Sand, der kaum Wasser durchlässt. Wasser, das von der hohen Seite herabfließt, stößt
+      an die Verwerfung und kann nicht weiter: Es tritt als Sickerwasser an die Oberfläche, ein Phänomen
+      namens wijst. Da es eisenreich ist, oxidiert es beim Austritt und färbt sich rotbraun. Ein Ort, an dem
+      man das gut sieht, ist der Annabos.
+
+
+      Diese Verwerfung ist seit dem Miozän aktiv, vor rund 23 Millionen Jahren, und der ursprüngliche
+      Höhenunterschied von etwa zweihundert Metern ist fast vollständig eingeebnet: Nur bei Uden sind noch
+      rund fünf Meter zu erkennen. Geblieben ist, was die alte Maas ablagerte: Auf den Erhebungen liegen Kiese
+      und manchmal große Steine, in den Senken feiner Decksand.
+
+
+      Auf diesem Boden liegt ein Mosaik: Wald, Heide, offene Flächen und Wanderdünen. Rund vier verstreute
+      Heideflächen summieren sich auf etwa 200 ha, und die feuchten Sickerzonen beherbergen Sumpfvegetation
+      und Pflanzen mineralreichen Wassers.
+    wildlife: >-
+      Im Weidegehege leben [Wisente](/especie/bison_bonasus/), Exmoor-Ponys und Tauros-Rinder, die dort seit
+      März 2016 weiden und die Landschaft offen halten. Ihre Beweidung fördert auch Sandbienen, Kaninchen und
+      den Neuntöter.
+
+
+      In den halboffenen Bereichen leben Ziegenmelker, Heidelerche und Goldammer, und in den Wäldern
+      [Wespenbussard](/especie/pernis_apivorus/), Habicht, Baumfalke, Waldohreule,
+      [Schwarzspecht](/especie/dryocopus_martius/) und Fichtenkreuzschnabel. Kreuzkröte und Moorfrosch
+      besiedeln das Tal des Kraaivenloop, und Dachsbaue sind zahlreich. In den feuchten Sickerzonen wachsen
+      Sumpfdotterblume und Torfmoos.
+
+
+      Der Kalender bestimmt vor allem den Wisentpfad: Er öffnet vom 1. September bis zum 15. März und ist vom
+      15. März bis August geschlossen, weil dann Brutzeit ist und die empfindlichen Bodenbrüter des Gebiets
+      Ruhe brauchen.
+    visit: >-
+      Die meisten Wege starten am Besucherzentrum Slabroek bei Nistelrode. Die 6,5 km lange Berg en Breukroute
+      führt durch die Dünen der Bedafse Bergen, am Bach Leijgraaf entlang und über die wijst-Böden. Ein
+      Försterweg quert alten Pionierwald, Heiden und Magerrasen, und ein anderer steigt auf bis zu 5 Meter
+      hohe Sandhügel. Im Norden führt Herperduin von den Seen Ganzenven und Klompven zu den Dünen, und
+      mehrtägige Wanderungen, die IVN Trektocht, durchqueren das Gebiet.
+
+
+      Der Pfad durch das Wisentgehege ist das Haupterlebnis: Man begeht ihn zwischen Sonnenaufgang und
+      Sonnenuntergang und kann dort Wisente, Exmoor-Ponys und Tauros sehen. Mit etwas Glück trifft man die
+      Maashorst-Ranger, die die Tiere und ihre Rolle in der Natur erklären.
+    history: >-
+      Der Mensch war schon sehr früh hier. Archäologen haben den größten Bronzefund der Niederlande aus
+      römischer Zeit sowie mehrere vergessene mittelalterliche Dörfer entdeckt. Im Frühmittelalter war die
+      Gegend fast menschenleer, und am Ende des sechsten Jahrhunderts kehrten die Menschen zurück.
+
+
+      Heute ist das Ziel Prozessnatur: Natürliche Abläufe dürfen wirken, es gibt kaum Pflege und tote Bäume
+      bleiben liegen, wo sie fallen. Die Gemeinden, Staatsbosbeheer und der Wasserverband Aa en Maas streben
+      an, dass 2050 natürliche Prozesse den Kurs bestimmen. Zwei Grünbrücken, Herperduin und Maashorst, dienen
+      der ökologischen Vernetzung.
+    before: >-
+      Im Gehege der großen Pflanzenfresser muss man auf dem Weg bleiben und fünfzig Meter Abstand halten.
+      Steht ein Tier auf dem Weg, warte oder umgeh es in weitem Bogen, und wenn es zu nahe kommt, zieh dich
+      ruhig zurück. Geh für ein Foto nicht in die Hocke: Die Tiere deuten das als Drohung. Hunde dürfen diesen
+      Pfad nicht betreten, auch nicht angeleint; im übrigen Gebiet gilt Leinenpflicht, mit ausgewiesenen
+      Freilaufflächen. Die besten Monate sind April bis Oktober.
+    around: >-
+      Siebzehn Kilometer entfernt liegt [Gelderse Poort / Rheinkorridor](/lugar/gelderse-poort/), und
+      dreiundzwanzig Kilometer entfernt die [Reservate Deurnsche Peel und
+      Mariapeel](/lugar/deurnsche-peel---mariapeel/). Das [Naturschutzgebiet
+      Millingerwaard](/lugar/millingerwaard/) liegt achtundzwanzig Kilometer entfernt. Weiter weg teilt das
+      [Wisentreservat Kraansvlak](/lugar/kraansvlak-bison-reserve/) mit der Maashorst Wisent und Pferd in
+      einer steppenartigen Landschaft.
+  it:
+    intro: >-
+      125.000 anni fa la Mosa passava di qui. Poi una faglia della crosta terrestre sollevò il terreno e
+      spinse il fiume verso est, e ciò che rimase si chiamò logicamente Maashorst: il blocco sollevato della
+      Mosa. Oggi è una delle maggiori aree naturali continue del Brabante Settentrionale, circa 2.400 ettari
+      di boschi, brughiere, dune di sabbia mobile, stagni e vecchi viali alberati, con un'idea chiara:
+      lasciare che comandi la natura.
+    landscape: >-
+      La particolarità della Maashorst è l'acqua. Qui le terre alte sono umide e quelle basse asciutte, e
+      tutto deriva dalla faglia del Peelrand. Da un lato, il blocco sollevato è fatto di sabbia grossolana e
+      ghiaia in cui l'acqua filtra facilmente; dall'altro, il blocco ribassato è di sabbia fine che quasi non
+      lascia passare l'acqua. L'acqua che scende dal lato alto incontra la faglia e non può proseguire: risale
+      in superficie come acqua di risorgiva, un fenomeno chiamato wijst. Poiché è ricca di ferro, uscendo si
+      ossida e assume un colore bruno-rossastro. Un punto in cui si vede bene è Annabos.
+
+
+      Questa faglia è attiva dal Miocene, circa 23 milioni di anni fa, e il dislivello originario di circa
+      duecento metri è stato quasi del tutto cancellato: solo vicino a Uden si apprezzano ancora circa cinque
+      metri. Ciò che è rimasto è quanto depositò l'antica Mosa: sui rilievi ci sono ghiaie e talvolta grandi
+      pietre, e nelle depressioni sabbia fine di copertura.
+
+
+      Su quel suolo si stende un mosaico: bosco, brughiera, spazi aperti e dune di sabbia mobile. Circa
+      quattro brughiere sparse sommano circa 200 ha, e le zone umide di risorgiva ospitano vegetazione
+      palustre e piante di acque mineralizzate.
+    wildlife: >-
+      Nel recinto di pascolo vivono [bisonti europei](/especie/bison_bonasus/), pony Exmoor e tauros, che vi
+      pascolano dal marzo 2016 e mantengono aperto il paesaggio. Il loro pascolo favorisce anche le api
+      scavatrici, il coniglio e l'averla piccola.
+
+
+      Nelle zone semiaperte vivono il succiacapre, la tottavilla e lo zigolo giallo, e nei boschi il [falco
+      pecchiaiolo](/especie/pernis_apivorus/), l'astore, il lodolaio, il gufo comune, il [picchio
+      nero](/especie/dryocopus_martius/) e il crociere. Il rospo calamita e la rana arvale occupano la valle
+      del Kraaivenloop, e le tane di tasso sono abbondanti. Nelle zone umide di risorgiva crescono la calta
+      palustre e lo sfagno.
+
+
+      Il calendario comanda soprattutto sul sentiero dei bisonti: apre dal 1 settembre al 15 marzo e chiude
+      dal 15 marzo ad agosto, perché è la stagione riproduttiva e le specie vulnerabili che nidificano
+      nell'area hanno bisogno di tranquillità.
+    visit: >-
+      I percorsi partono per lo più dal centro visite di Slabroek, vicino a Nistelrode. La Berg en Breukroute
+      percorre 6,5 km tra le dune di Bedafse Bergen, il torrente Leijgraaf e i suoli di wijst. Un sentiero dei
+      guardaboschi attraversa il vecchio bosco pioniero, le brughiere e i pascoli rasi, e un altro sale su
+      colline di sabbia alte fino a 5 metri. A nord, Herperduin va dai laghi Ganzenven e Klompven alle dune, e
+      cammini di più giorni, le IVN Trektocht, attraversano l'area.
+
+
+      Il sentiero nel recinto dei bisonti è l'esperienza di punta: si percorre tra l'alba e il tramonto e
+      lungo il tragitto puoi vedere bisonti, pony Exmoor e tauros. Con fortuna incontri i guardiani della
+      Maashorst, che spiegano gli animali e il loro ruolo nella natura.
+    history: >-
+      L'uomo è stato qui molto presto. Gli archeologi hanno trovato il più grande deposito di bronzo dei Paesi
+      Bassi, di epoca romana, e diversi villaggi medievali dimenticati. Nell'alto Medioevo la zona era quasi
+      vuota, e la popolazione tornò alla fine del sesto secolo.
+
+
+      Oggi l'obiettivo è la natura dei processi: si lasciano agire i processi naturali, la manutenzione è
+      minima e gli alberi morti restano dove cadono. I comuni, Staatsbosbeheer e il consorzio idrico Aa en
+      Maas puntano a far sì che nel 2050 i processi naturali segnino la rotta. Due ecodotti, Herperduin e
+      Maashorst, fungono da collegamento ecologico.
+    before: >-
+      Nel recinto dei grandi erbivori bisogna restare sul sentiero e mantenere cinquanta metri di distanza. Se
+      un animale è sul cammino, attendi o aggiralo con un ampio arco, e se si avvicina troppo allontanati con
+      calma. Non accovacciarti per una foto: gli animali lo interpretano come una minaccia. I cani non possono
+      entrare su quel sentiero, nemmeno al guinzaglio; nel resto dell'area si passeggia con il cane al
+      guinzaglio, con aree dedicate dove può stare sciolto. I mesi migliori vanno da aprile a ottobre.
+    around: >-
+      A diciassette chilometri si trova la [Porta di Gheldria / Corridoio del Reno](/lugar/gelderse-poort/), e
+      a ventitré le [Riserve di Deurnsche Peel e Mariapeel](/lugar/deurnsche-peel---mariapeel/). La [Riserva
+      Naturale di Millingerwaard](/lugar/millingerwaard/) dista ventotto chilometri. Più lontano, la [Riserva
+      dei Bisonti di Kraansvlak](/lugar/kraansvlak-bison-reserve/) condivide con la Maashorst il bisonte e il
+      cavallo in un paesaggio di steppa.
+  pt:
+    intro: >-
+      Há 125.000 anos, o Mosa passava por aqui. Depois, uma fratura da crosta terrestre levantou o terreno e
+      empurrou o rio para leste, e o que ficou chamou-se, com toda a lógica, Maashorst: o bloco elevado do
+      Mosa. Hoje é um dos maiores espaços naturais contínuos do Brabante do Norte, cerca de 2.400 hectares de
+      florestas, urzais, dunas de areia móvel, lagoas e velhas alamedas arborizadas, com uma ideia clara:
+      deixar que a natureza mande.
+    landscape: >-
+      O estranho da Maashorst é a água. Aqui as terras altas são as húmidas e as baixas as secas, e tudo vem
+      da falha de Peelrand. De um lado, a parte elevada é feita de areia grossa e cascalho por onde a água se
+      infiltra facilmente; do outro, a parte afundada é de areia fina que quase não deixa passar a água. A
+      água que desce do lado alto encontra a falha e não consegue prosseguir: sobe à superfície como água de
+      exsudação, um fenómeno que se chama wijst. Como é rica em ferro, ao sair oxida e ganha uma cor
+      castanho-avermelhada. Um lugar onde se vê bem é o Annabos.
+
+
+      Essa falha está ativa desde o Miocénico, há cerca de 23 milhões de anos, e o desnível original de cerca
+      de duzentos metros apagou-se quase por completo: só perto de Uden ainda se notam cerca de cinco metros.
+      O que ficou foi o que depositou o antigo Mosa: nas elevações há cascalhos e por vezes grandes pedras, e
+      nas depressões areia fina de cobertura.
+
+
+      Sobre esse solo há um mosaico: floresta, urzal, espaços abertos e dunas de areia móvel. Há cerca de
+      quatro urzais dispersos que somam cerca de 200 ha, e as zonas húmidas de exsudação albergam vegetação
+      palustre e plantas de água mineralizada.
+    wildlife: >-
+      No recinto de pastoreio vivem [bisontes-europeus](/especie/bison_bonasus/), póneis Exmoor e tauros, que
+      pastam ali desde março de 2016 e mantêm a paisagem aberta. O seu pastoreio também favorece a
+      abelha-mineira, o coelho e o picanço-de-dorso-ruivo.
+
+
+      Nas zonas semiabertas há noitibó-da-europa, cotovia-pequena e escrevedeira-amarela, e nos bosques vivem
+      o [tartaranhão-apívoro](/especie/pernis_apivorus/), o açor, a ógea, o bufo-pequeno, o
+      [pica-pau-preto](/especie/dryocopus_martius/) e o cruza-bicos. O sapo-corredor e a rã-dos-campos ocupam
+      o vale do Kraaivenloop, e as tocas de texugo são abundantes. Nas zonas húmidas de exsudação crescem o
+      malmequer-dos-pântanos e o esfagno.
+
+
+      O calendário manda, sobretudo, no trilho dos bisontes: abre de 1 de setembro a 15 de março, e de 15 de
+      março a agosto fecha, porque é a época de criação e as espécies vulneráveis que nidificam na área
+      precisam de tranquilidade.
+    visit: >-
+      Os percursos partem na maioria do centro de visitantes de Slabroek, perto de Nistelrode. A Berg en
+      Breukroute percorre 6,5 km pelas dunas de Bedafse Bergen, o ribeiro Leijgraaf e os solos de wijst. Um
+      trilho de guarda-florestal atravessa a velha floresta pioneira, os urzais e as pastagens curtas, e outro
+      sobe a colinas de areia até 5 metros. A norte, Herperduin vai dos lagos Ganzenven e Klompven às dunas, e
+      há marchas de vários dias, as IVN Trektocht, que cruzam a área.
+
+
+      O trilho pelo recinto de bisontes é a experiência estrela: percorre-se entre o nascer e o pôr do sol, e
+      nele podes ver bisontes, póneis Exmoor e tauros. Com sorte cruzas-te com os guardas da Maashorst, que
+      explicam os animais e o seu papel na natureza.
+    history: >-
+      O ser humano esteve aqui desde muito cedo. Os arqueólogos encontraram o maior depósito de bronze dos
+      Países Baixos, de época romana, e várias aldeias medievais esquecidas. Na Alta Idade Média a zona estava
+      quase vazia, e as pessoas regressaram no final do século sexto.
+
+
+      Hoje o objetivo é a natureza de processos: deixa-se atuar os processos naturais, quase não há manutenção
+      e as árvores mortas ficam onde caem. Os municípios, a Staatsbosbeheer e a junta de águas Aa en Maas
+      aspiram a que em 2050 os processos naturais marquem o rumo. Dois ecodutos, Herperduin e Maashorst,
+      servem de ligação ecológica.
+    before: >-
+      No recinto de grandes herbívoros há que permanecer no trilho e manter cinquenta metros de distância. Se
+      um animal estiver no caminho, espera ou contorna-o num arco amplo, e se se aproximar demasiado,
+      afasta-te com calma. Não te agaches para uma foto: os animais encaram-no como uma ameaça. Os cães não
+      podem entrar nesse trilho, nem mesmo com trela; no resto da área passeia-se com cão à trela, e há áreas
+      especiais onde pode ir solto. Os melhores meses vão de abril a outubro.
+    around: >-
+      A dezassete quilómetros fica a [Porta de Guéldria / Corredor do Reno](/lugar/gelderse-poort/), e a vinte
+      e três as [Reservas de Deurnsche Peel e Mariapeel](/lugar/deurnsche-peel---mariapeel/). A [Reserva
+      Natural de Millingerwaard](/lugar/millingerwaard/) fica a vinte e oito. Mais longe, a [Reserva de
+      Bisontes de Kraansvlak](/lugar/kraansvlak-bison-reserve/) partilha com a Maashorst o bisonte e o cavalo
+      numa paisagem de estepe.
+fuentes:
+  - url: https://natuurgebieddemaashorst.nl/natuurgebied/hoogtepunten/unieke-wijstgronden/
+    titulo: Unieke wijstgronden – Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/wp-content/uploads/2024/02/maa-wijst-folder-a5-drieluik-3-0.pdf
+    titulo: Wijstgronden – Natuurgebied De Maashorst (folleto)
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/wat-te-doen/wandelen/
+    titulo: Wandelen in De Maashorst – Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/wandelpad-wisenten-is-open/
+    titulo: Wandelpad begrazingsgebied met wisenten is open – Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/natuurgebied/
+    titulo: Natuurgebied - Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'
+  - url: https://nl.wikipedia.org/wiki/Maashorst_(natuurgebied)
+    titulo: Maashorst (natuurgebied) – Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/
+    titulo: Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'
+  - url: https://natuurgebieddemaashorst.nl/wat-te-doen/
+    titulo: Wat te doen - Natuurgebied De Maashorst
+    fecha_consulta: '2026-10-31'

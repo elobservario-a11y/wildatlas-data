@@ -1,0 +1,625 @@
+id: alpstein-massif
+estado_editorial: valoracion-revisada
+nombre:
+  es: Macizo de Alpstein
+  en: Alpstein Massif
+  fr: Massif de l'Alpstein
+  de: Alpstein-Massiv
+  it: Massiccio dell'Alpstein
+  pt: Maciço de Alpstein
+nombre_original: Alpstein Massif
+alias:
+  - Alpstein Massif (Alpstein)
+paises:
+  - CH
+region:
+  es: Appenzell Rodas Interiores / San Galo (Säntis / Wasserauen)
+  en: Appenzell Innerrhoden / Appenzell Ausserrhoden / St. Gallen (Wasserauen / Schwägalp / Wildhaus)
+  fr: >-
+    Appenzell Rhodes-Intérieures / Appenzell Rhodes-Extérieures / Saint-Gall (Wasserauen / Schwägalp /
+    Wildhaus)
+  de: Appenzell Innerrhoden / Appenzell Ausserrhoden / St. Gallen (Wasserauen / Schwägalp / Wildhaus)
+  it: Appenzello Interno / Appenzello Esterno / San Gallo (Wasserauen / Schwägalp / Wildhaus)
+  pt: Appenzell Interior / Appenzell Exterior / São Galo (Wasserauen / Schwägalp / Wildhaus)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.25
+  lon: 9.33
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 31044
+  nombre_en_la_fuente: Säntis
+  capa: capas/cdda/alpstein-massif.geojson
+habitats:
+  - high_mountain
+  - karst
+  - lake
+designaciones:
+  - natural_monument
+especies:
+  - rupicapra_rupicapra
+  - gyps_fulvus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: June to October (snow lingers on high passes until late June)
+  fr: juin à octobre (névés tardifs sur les cols élevés jusqu'à fin juin)
+  de: Juni bis Oktober (Schneereste auf Pässen bis Ende Juni möglich)
+  it: giugno a ottobre (neve sui valichi fino a fine giugno)
+  pt: junho a outubro (neves residuais nos passos até finais de junho)
+masificacion: 3
+masificacion_nota:
+  es: Alta en el lago Seealpsee y restaurante Äscher; baja en crestas de altitud
+  en: High at Lake Seealpsee and Äscher restaurant; low along high-altitude crests
+  fr: Forte au lac Seealpsee et au restaurant Äscher ; faible sur les crêtes d'altitude
+  de: Hoch am Seealpsee und am Berggasthaus Äscher; gering auf den Höhengraten
+  it: Alta al lago Seealpsee e al ristorante Äscher; bassa sulle creste d'alta quota
+  pt: Alta no lago Seealpsee e no restaurante Äscher; baixa nas cristas de altitude
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Visita — macizo del Alpstein
+    url: https://www.appenzell.ch/de/alpstein.html
+  - titulo: Rutas — itinerarios de senderismo del Alpstein
+    url: https://www.appenzell.ch/de/alpstein/wandern/wandervorschlaege.html
+  - titulo: Mapas — cartografía senderista del Alpstein
+    url: https://www.appenzell.ch/de/alpstein/wandern/wanderkarten.html
+  - titulo: Avisos — estado de los caminos del Alpstein
+    url: https://www.appenzell.ch/de/footer/aktuelles/neuigkeiten/detail/wegzustand-1.html
+  - titulo: Normas — preparar las rutas del Alpstein
+    url: https://www.appenzell.ch/de/alpstein/gut-zu-wissen.html
+enlaces_referencia:
+  - titulo: Wikipedia — macizo del Alpstein
+    url: https://en.wikipedia.org/wiki/Alpstein
+resumen:
+  es: >-
+    Tres cadenas calizas paralelas cortadas a pico con el pico Säntis (2.502 m) y los pintorescos lagos
+    Seealpsee y Fälensee.
+  en: >-
+    Three parallel sheer-cut limestone chains crowned by Mount Säntis (2,502 m) with scenic lakes Seealpsee
+    and Fälensee.
+  fr: >-
+    Trois chaînons calcaires parallèles taillés à pic dominés par le mont Säntis (2 502 m) et les lacs
+    pittoresques Seealpsee et Fälensee.
+  de: >-
+    Drei parallel verlaufende, steil abfallende Kalkketten mit dem Säntis (2.502 m) und den malerischen Seen
+    Seealpsee und Fälensee.
+  it: >-
+    Tre catene calcaree parallele recise a picco con la vetta del Säntis (2.502 m) e i suggestivi laghi
+    Seealpsee e Fälensee.
+  pt: >-
+    Três cristas calcárias paralelas cortadas a pique com o cume do Säntis (2.502 m) e os pitorescos lagos
+    Seealpsee e Fälensee.
+unico:
+  es: >-
+    Una travesía de 84 km y 5.166 m de desnivel, la Königstour, que ata las tres cadenas, los lagos y los
+    refugios en un solo recorrido.
+  en: >-
+    An 84 km traverse with 5,166 m of elevation gain, the Königstour, linking the three chains, lakes, and
+    mountain inns in a single route.
+  fr: >-
+    Une traversée de 84 km et 5 166 m de dénivelé, la Königstour, reliant les trois chaînons, les lacs et les
+    auberges en un seul tracé.
+  de: >-
+    Eine 84 km lange Rundtour mit 5.166 Höhenmetern, die Königstour, die alle drei Ketten, Bergseen und
+    Gasthäuser in einer Route bündelt.
+  it: >-
+    Una traversata di 84 km e 5.166 m di dislivello, la Königstour, che unisce le tre catene, i laghi e i
+    rifugi in un unico itinerario.
+  pt: >-
+    Uma travessia de 84 km e 5.166 m de desnível, a Königstour, que une as três cristas, os lagos e as
+    estalagens num único traçado.
+observaciones:
+  es: >-
+    En la montaña el tiempo cambia de golpe, y puede llover, tronar, granizar o nevar a baja altura incluso en
+    verano y en otoño. Lleva botas de montaña con suela de taco, protección para el sol y la lluvia, ropa de
+    abrigo, botiquín y un teléfono para emergencias. Planifica con mapas la ruta, los desniveles y el tiempo
+    de marcha, avisa a alguien de tu recorrido y da la vuelta a tiempo si el tiempo empeora o te falta
+    energía. Los mejores meses van de mayo a octubre.
+texto:
+  es:
+    intro: >-
+      Tres cadenas de caliza, plegadas hasta quedar paralelas y cortadas casi a pico, a menos de treinta
+      kilómetros del lago de Constanza. Eso es el Alpstein, en el este de Suiza: un macizo que no llega a los
+      2.502 metros de su cumbre, el Säntis, pero que, por estar adelantado al borde norte de los Alpes, se
+      levanta sobre su entorno con una presencia enorme. Se reparte entre tres cantones, entre ellos Appenzell
+      Rodas Interiores y San Galo, y su fama le viene de los senderos: tiene tres lagos de montaña,
+      veinticuatro refugios, seis teleféricos y la red de caminos más densa de Suiza.
+    landscape: >-
+      Todo empieza con los pliegues. Los movimientos tectónicos levantaron tres cadenas que corren de suroeste
+      a noreste, y solo una cresta, el Lisengrat, las cruza de lado entre el Altmann y el Säntis. El Säntis,
+      la cumbre más alta, se alcanza en teleférico desde Schwägalp; el Altenalp Türm, más al norte, es la
+      cumbre más septentrional de Suiza por encima de los 2.000 metros.
+
+
+      La roca es caliza, y la caliza lo condiciona todo: está llena de grietas, cuevas y dolinas, y el agua se
+      cuela hacia dentro. Por eso algunas cabañas y alpes tienen que recoger agua de lluvia para abastecerse,
+      y por eso dos de los tres lagos no tienen desagüe visible. En el Fälensee y el Sämtisersee, el agua sale
+      por debajo de la cresta y vuelve a asomar en el valle del Rin. Entre las cadenas del norte y del centro
+      está el Seealpsee; entre las del centro y el sur, los otros dos. El Fälensee tiene 31 metros de
+      profundidad máxima.
+
+
+      Las depresiones sin salida de agua guardan además un clima de extremos. En una hondonada como la del
+      Sämtisersee se han medido mínimas por debajo de −30 °C, porque el aire frío se queda atrapado. Y el
+      macizo, expuesto al norte, recibe mucha agua: caen más de 1.500 mm al año en general y más de 2.500 mm
+      en el Säntis, donde en abril de 1999 se midió el mayor espesor de nieve registrado en Suiza, 816 cm.
+    wildlife: >-
+      El Alpstein es país de roca y de pasto alpino, y su fauna es la de la alta montaña. En los roquedos y
+      las praderas viven el [rebeco](/especie/rupicapra_rupicapra/), el [íbice](/especie/capra_ibex/), la
+      [marmota](/especie/marmota_marmota/) y la liebre variable, y en el aire patrulla el [águila
+      real](/especie/aquila_chrysaetos/). Entre las aves de altura aparecen también el [lagópodo
+      alpino](/especie/lagopus_muta/), el [urogallo](/especie/tetrao_urogallus/) y la chova piquigualda, y en
+      cotas más bajas el [ciervo rojo](/especie/cervus_elaphus/). Entre las mariposas se cuenta el
+      Sumpfwiesen-Perlmuttfalter.
+
+
+      Las flores marcan la primavera. La aurícula alpina florece en las grietas de la roca y en los suelos
+      calizos; la prímula farinosa, planta delicada de zonas pantanosas y alpinas, abre más tarde, ya a
+      finales de primavera, y el zapatito de dama, una orquídea rara, aparece en bosques y matorrales en esas
+      mismas fechas.
+
+
+      El calendario de la montaña lo fija la nieve: la temporada de la Königstour va de mayo o junio a
+      octubre, según la nieve y el horario de los refugios. Si encuentras vacas con terneros en un pasto,
+      mantén la distancia y rodéalas; los caminos cruzan pastos con frecuencia y los rebaños son parte del
+      paisaje.
+    visit: >-
+      Hay caminos para casi todo. Los hay anchos y sencillos, y los hay señalizados en blanco-rojo-blanco, que
+      piden forma física, pie firme y cabeza para las alturas. Los teleféricos facilitan los accesos: uno sube
+      a Ebenalp desde Wasserauen y otro al Hoher Kasten desde Brülisau, y las estaciones de abajo se enlazan
+      con autobuses PostAuto o con el tren de Appenzell.
+
+
+      La Königstour es la gran propuesta. Tiene 84 km y 5.166 m de desnivel, tres jornadas, cuatro o siete, y
+      tarda 30 horas y media si se hace de una vez, aunque se puede trocear en etapas de un día o medio. Los
+      refugios de montaña son parte del recorrido, de modo que se duerme en ellos o en un alpe.
+
+
+      Una parada que merece la pena está en Ebenalp: el Wildkirchli, un sistema de cuevas kársticas con tres
+      tramos, uno de los cuales, con dos entradas, se recorre por un sendero.
+    history: >-
+      Las cuevas de Wildkirchli cuentan la historia humana del macizo. Allí aparecieron herramientas que
+      prueban que los neandertales vivieron en el Alpstein, y también huellas de osos de las cavernas. Siglos
+      después llegaron los ermitaños: hasta 1853 vivieron en las cuevas unas dos docenas de forma continuada.
+
+
+      Hoy las normas son sencillas. Hay que quedarse en los caminos señalizados, los drones están prohibidos
+      en todo el macizo y no se puede acampar: el Alpstein no es zona de tiendas, y se duerme en un refugio o
+      en un alpe.
+    before: >-
+      En la montaña el tiempo cambia de golpe, y puede llover, tronar, granizar o nevar a baja altura incluso
+      en verano y en otoño. Lleva botas de montaña con suela de taco, protección para el sol y la lluvia, ropa
+      de abrigo, botiquín y un teléfono para emergencias. Planifica con mapas la ruta, los desniveles y el
+      tiempo de marcha, avisa a alguien de tu recorrido y da la vuelta a tiempo si el tiempo empeora o te
+      falta energía. Los mejores meses van de mayo a octubre.
+  en:
+    intro: >-
+      Three limestone chains, folded until parallel and cleaved into vertical precipices less than thirty
+      kilometers from Lake Constance. This is the Alpstein in eastern Switzerland: a massif whose highest
+      crest, the Säntis, reaches 2,502 meters, yet by projecting forward onto the northern edge of the Alps
+      rises above its foreland with overwhelming prominence. It is shared among three cantons, including
+      Appenzell Innerrhoden and St. Gallen, and owes its renown to hiking: it boasts three alpine lakes,
+      twenty-four mountain inns, six cable cars, and the densest footpath network in Switzerland.
+    landscape: >-
+      It all begins with tectonic folding. Mountain-building forces hoisted three parallel ridges striking
+      from southwest to northeast, with only a single high transverse crest—the Lisengrat—crossing between
+      Altmann and Säntis. The Säntis, the apex of the range, is accessible by aerial cableway from Schwägalp;
+      the Altenalp Türm, farther north, constitutes the northernmost summit in Switzerland exceeding 2,000
+      meters.
+
+
+      The bedrock is pure limestone, and limestone dictates everything: it is riddled with fissures, caverns,
+      and dolines, swallowing surface runoff underground. As a result, several alpine dairies and huts must
+      harvest rainwater for their supply, and two of the three mountain lakes have no visible surface outflow.
+      In the Fälensee and Sämtisersee, waters drain subterraneanly beneath the ridge, emerging kilometers away
+      in the Rhine valley. Between the northern and central chains rests the Seealpsee; between the central
+      and southern chains lie the other two. The Fälensee reaches a maximum depth of 31 meters.
+
+
+      These enclosed karst basins also trap thermal extremes. In frost hollows such as the Sämtisersee
+      depression, winter temperatures have plunged below −30 °C due to trapped cold air pools. Exposed
+      directly to northern weather fronts, the massif catches vast precipitation: over 1,500 mm annually on
+      average and exceeding 2,500 mm on the Säntis, where in April 1999 Switzerland's deepest recorded
+      snowpack was measured at 816 cm.
+    wildlife: >-
+      The Alpstein is a domain of bare rock and alpine turf, harboring high-montane wildlife. Across screes
+      and cliffs live [Alpine chamois](/especie/rupicapra_rupicapra/), [Alpine ibex](/especie/capra_ibex/),
+      [Alpine marmot](/especie/marmota_marmota/), and mountain hare, while the [golden
+      eagle](/especie/aquila_chrysaetos/) patrols the airspace. Highland birds include the [rock
+      ptarmigan](/especie/lagopus_muta/), [western capercaillie](/especie/tetrao_urogallus/), and
+      yellow-billed chough, with the [red deer](/especie/cervus_elaphus/) occupying lower forest belts. Among
+      rare alpine butterflies counts the cranberry fritillary (*Boloria aquilonaris*).
+
+
+      Spring is heralded by wildflowers. The yellow alpine auricula blooms on exposed limestone ledges; the
+      bird's-eye primrose (*Primula farinosa*), a delicate jewel of wet flushes, opens later toward late
+      spring; and the rare lady's slipper orchid graces montane copses and scrub at the same time.
+
+
+      The mountain calendar is dictated strictly by snow: the hiking season for the Königstour runs from May
+      or June to October, depending on snow cover and hut opening dates. When crossing pastures with suckler
+      herds, keep your distance and walk around them; footpaths frequently traverse working alpine pastures
+      and grazing cattle are integral to the scenery.
+    visit: >-
+      Trails cater to every level of hiker. There are broad, gentle walking tracks as well as white-red-white
+      marked alpine footpaths requiring good physical fitness, surefootedness, and a head for heights. Cable
+      cars ease high-altitude access: one ascends to Ebenalp from Wasserauen and another to Hoher Kasten from
+      Brülisau, with base stations connected by PostAuto buses or Appenzell railways.
+
+
+      The Königstour (King's Tour) is the supreme hiking route: it spans 84 km with 5,166 m of elevation gain,
+      completed over three, four, or seven days, requiring 30 hours and a half of pure walking time if
+      undertaken continuously, though easily divided into day or half-day legs. Mountain inns form an integral
+      part of the experience, offering overnight lodging on the heights.
+
+
+      A classic must-see stop sits on Ebenalp: the Wildkirchli, a karst cave system comprising three caverns,
+      one of which features two openings crossed directly by a mountain path.
+    history: >-
+      The Wildkirchli caves illuminate the deep human history of the massif. Archaeological digs unearthed
+      prehistoric stone tools proving that Neanderthals inhabited the Alpstein caves, alongside bones of
+      Pleistocene cave bears. Millennia later arrived Christian hermits: up until 1853, roughly two dozen
+      hermits lived continuously inside the cliffside caves.
+
+
+      Today, regulations are straightforward: hikers must remain strictly on marked trails, drone flights are
+      prohibited throughout the entire massif, and wild camping is forbidden—the Alpstein is not tenting
+      country, and overnight stays are accommodated exclusively in mountain huts or alpine inns.
+    before: >-
+      Mountain weather changes abruptly: rain, thunderstorms, hail, or unseasonal snowfall down to
+      mid-altitudes can strike even in summer and autumn. Equip yourself with lug-soled mountain boots, sun
+      and rain protection, warm layers, a first-aid kit, and an emergency mobile phone. Plan routes,
+      elevations, and walking times carefully using topographic maps, inform someone of your itinerary, and
+      turn back early if weather deteriorates or energy wanes. Prime months extend from May to October.
+  fr:
+    intro: >-
+      Trois chaînons calcaires, plissés jusqu'à devenir parallèles et taillés en falaises quasi verticales à
+      moins de trente kilomètres du lac de Constance. C'est l'Alpstein, en Suisse orientale : un massif dont
+      la cime, le Säntis, culmine à 2 502 mètres mais qui, s'avançant en avant-poste sur la bordure nord des
+      Alpes, s'élève au-dessus du plateau avec une majesté saisissante. Partagé entre trois cantons dont
+      Appenzell Rhodes-Intérieures et Saint-Gall, il doit sa célébrité à la randonnée : trois lacs alpins,
+      vingt-quatre auberges de montagne, six téléphériques et le réseau de sentiers le plus dense de Suisse.
+    landscape: >-
+      Tout commence par les plissements géologiques. Les poussées tectoniques ont dressé trois chaînes
+      d'orientation sud-ouest–nord-est, qu'une seule arête transverse, le Lisengrat, relie de flanc entre
+      l'Altmann et le Säntis. Le Säntis, point culminant, s'atteint en téléphérique depuis Schwägalp ;
+      l'Altenalp Türm, plus au nord, forme le sommet le plus septentrional de Suisse dépassant les 2 000
+      mètres.
+
+
+      La roche calcaire conditionne toute l'hydrologie : sillonnée de failles, de grottes et de dolines, elle
+      absorbe les eaux de surface. C'est pourquoi chalets d'alpage et auberges collectent l'eau de pluie pour
+      leurs besoins, et que deux des trois lacs n'ont aucun exutoire visible. Au Fälensee et au Sämtisersee,
+      l'eau s'infiltre sous la crête pour reparaître dans la vallée du Rhin. Entre les chaînes du nord et du
+      centre repose le Seealpsee ; entre celles du centre et du sud s'étendent les deux autres. Le Fälensee
+      affiche une profondeur maximale de 31 mètres.
+
+
+      Ces cuvettes karstiques fermées connaissent des extrêmes thermiques. Dans la combe du Sämtisersee ont
+      été relevées des températures inférieures à −30 °C en raison du piégeage de l'air froid. Exposé au nord,
+      le massif capte de copieuses précipitations : plus de 1 500 mm par an en moyenne et plus de 2 500 mm au
+      Säntis, où fut mesuré en avril 1999 le record suisse d'épaisseur de neige avec 816 cm.
+    wildlife: >-
+      L'Alpstein est le domaine du roc et des pelouses d'alpage, accueillant la grande faune montagnarde. Dans
+      les pierriers et pâturages vivent le [chamois](/especie/rupicapra_rupicapra/), le [bouquetin des
+      Alpes](/especie/capra_ibex/), la [marmotte alpine](/especie/marmota_marmota/) et le lièvre variable,
+      tandis que l'[aigle royal](/especie/aquila_chrysaetos/) patrouille dans les airs. Parmi les oiseaux
+      d'altitude nichent le [lagopède alpin](/especie/lagopus_muta/), le [grand
+      tétras](/especie/tetrao_urogallus/) et le chocard à bec jaune, le [cerf
+      élaphe](/especie/cervus_elaphus/) occupant les étages forestiers inférieurs. Parmi les papillons
+      remarquables figure le nacré de la canneberge.
+
+
+      La flore rythme le printemps : la primevère oreille-d'ours fleurit sur les corniches calcaires ; la
+      primevère farineuse égaye les suintements alpins en fin de printemps, et le sabot de Vénus s'épanouit
+      dans les clairières boisées à la même époque.
+
+
+      La neige dicte le calendrier : la saison de la Königstour s'étend de mai ou juin à octobre selon
+      l'enneigement et l'ouverture des refuges. Si vous croisez des vaches allaitantes dans les alpages,
+      gardez vos distances et contournez-les ; les sentiers traversent fréquemment des pâturages en
+      exploitation.
+    visit: >-
+      Le réseau s'adresse à toutes les pratiques : sentiers larges et familiaux côtoient des itinéraires
+      balisés blanc-rouge-blanc réclamant condition physique, pied montagnard et absence de vertige. Les
+      téléphériques ouvrent les accès : l'un monte à Ebenalp depuis Wasserauen, un autre au Hoher Kasten
+      depuis Brülisau, reliés aux vallées par les cars postaux ou le train d'Appenzell.
+
+
+      La Königstour constitue la grande aventure du massif : 84 km et 5 166 m de dénivelé positif, réalisable
+      en trois, quatre ou sept jours, demandant 30 heures et demie de marche pure, modulable en demi-journées.
+      Les auberges de montagne permettent de loger chaque soir en altitude.
+
+
+      Une halte incontournable se situe à Ebenalp : le Wildkirchli, ensemble de trois grottes karstiques dont
+      l'une, percée de deux ouvertures, est traversée par le sentier pédestre.
+    history: >-
+      Les grottes du Wildkirchli racontent l'histoire préhistorique du massif. Des fouilles y ont mis au jour
+      des outils taillés prouvant la présence néandertalienne dans l'Alpstein, ainsi que des ossements d'ours
+      des cavernes. Bien plus tard s'y installèrent des ermites : jusqu'en 1853, près de deux douzaines
+      d'ermites s'y succédèrent sans interruption.
+
+
+      Aujourd'hui, les règles sont strictes : il est impératif de rester sur les chemins balisés, les drones
+      sont prohibés sur l'ensemble du massif et le bivouac sous tente est interdit, l'hébergement s'effectuant
+      en auberge de montagne ou au refuge d'alpage.
+    before: >-
+      En haute montagne, la météo change soudainement : pluie, orages, grêle ou neige précoce peuvent survenir
+      même en plein été. Emportez de solides chaussures de montagne à semelle crantée, protection solaire et
+      imperméable, vêtements chauds, trousse de secours et téléphone. Planifiez précisément étapes et
+      dénivelés sur carte, prévenez un tiers et sachez faire demi-tour si le temps se gâte. La période
+      favorable s'étend de mai à octobre.
+  de:
+    intro: >-
+      Drei Kalkketten, bis zur Parallele gefaltet und steil abfallend, weniger als dreißig Kilometer vom
+      Bodensee entfernt. Das ist der Alpstein in der Ostschweiz: ein Massiv, dessen höchster Gipfel, der
+      Säntis, 2.502 Meter misst, das sich jedoch durch seine vorgeschobene Lage am Alpennordrand mit
+      gewaltiger Präsenz über sein Umland erhebt. Er teilt sich auf drei Kantone auf, darunter Appenzell
+      Innerrhoden und St. Gallen, und verdankt seinen Weltruf dem Wandern: drei Bergseen, vierundzwanzig
+      Berggasthäuser, sechs Seilbahnen und das dichteste Wanderwegenetz der Schweiz.
+    landscape: >-
+      Alles beginnt mit den Falten. Tektonische Kräfte warfen drei von Südwest nach Nordost ziehende Ketten
+      auf, die nur von einem einzigen Quergrat, dem Lisengrat, zwischen Altmann und Säntis verbunden werden.
+      Der Säntis als höchster Punkt wird per Luftseilbahn von der Schwägalp erschlossen; der Altenalp Türm
+      weiter nördlich ist der nördlichste Zweitausender der Schweiz, der über 2.000 Meter aufragt.
+
+
+      Der Kalkstein prägt alles: Er ist von Klüften, Höhlen und Dolinen durchsetzt, sodass Oberflächenwasser
+      im Boden versickert. Deshalb müssen manche Alphütten Regenwasser sammeln, und zwei der drei Bergseen
+      besitzen keinen oberirdischen Abfluss. Im Fälensee und im Sämtisersee fließt das Wasser unterirdisch
+      unter der Bergkette hindurch und tritt im Rheintal wieder zutage. Zwischen Nord- und Mittelkette liegt
+      der Seealpsee; zwischen Mittel- und Südkette die beiden anderen. Der Fälensee weist eine Maximaltiefe
+      von 31 Metern auf.
+
+
+      Die abflusslosen Kessel bergen extreme Mikroklimata. In Senken wie jener des Sämtisersees wurden
+      Kältesee-Minima von unter −30 °C gemessen. Dem Norden ausgesetzt, fängt das Massiv reiche Niederschläge
+      ab: über 1.500 mm im Gebietsmittel und über 2.500 mm am Säntis, wo im April 1999 mit 816 cm die größte
+      je in der Schweiz gemessene Schneehöhe registriert wurde.
+    wildlife: >-
+      Der Alpstein ist das Reich von Fels und Alpwiesen, Heimat einer typischen Hochgebirgsfauna. An den
+      Schutthalden und Felsbändern leben [Gämse](/especie/rupicapra_rupicapra/),
+      [Alpensteinbock](/especie/capra_ibex/), [Alpenmurmeltier](/especie/marmota_marmota/) und Schneehase,
+      während der [Steinadler](/especie/aquila_chrysaetos/) am Himmel kreist. Zu den Gebirgsvögeln zählen
+      [Alpenschneehuhn](/especie/lagopus_muta/), [Auerhuhn](/especie/tetrao_urogallus/) und Alpendohle, in
+      tieferen Lagen der [Rothirsch](/especie/cervus_elaphus/). Unter den Schmetterlingen fällt der
+      Hochmoor-Perlmuttfalter auf.
+
+
+      Die Alpenflora kündet vom Frühling: Die Aurikel blüht in Felsspalten auf Kalk; die Mehlprimel öffnet
+      spät im Frühjahr auf Quellfluren ihre Blüten, zeitgleich mit dem seltenen Frauenschuh in lichten
+      Bergwäldern.
+
+
+      Der Schnee bestimmt den Kalender: Die Wandersaison der Königstour dauert je nach Schneelage und
+      Hüttenbetrieb von Mai oder Juni bis Oktober. Triffst du auf Weiden Mutterkühe mit Kälbern an, halte
+      Abstand und umgehe die Herde ruhig; Wanderwege queren regelmäßig bestoßene Weidegründe.
+    visit: >-
+      Das Wegenetz bietet Routen für jeden Anspruch: Breite Talwege wechseln mit weiß-rot-weiß markierten
+      Bergwanderwegen, die Trittsicherheit, Schwindelfreiheit und Kondition verlangen. Seilbahnen erleichtern
+      den Aufstieg: eine fährt ab Wasserauen auf die Ebenalp, eine andere ab Brülisau auf den Hohen Kasten,
+      optimal vernetzt mit PostAuto und Appenzeller Bahnen.
+
+
+      Die Königstour ist das Meisterstück des Massivs: 84 km und 5.166 Höhenmeter, gegliedert in drei, vier
+      oder sieben Etappen mit 30 Stunden und einer halben reiner Gehzeit, flexibel aufteilbar. Berggasthäuser
+      ermöglichen Übernachtungen direkt an den Kämmen.
+
+
+      Ein klassischer Höhepunkt liegt auf der Ebenalp: das Wildkirchli, ein System aus drei Karsthöhlen, von
+      denen eine mit zwei Öffnungen direkt von einem Wanderweg durchquert wird.
+    history: >-
+      Die Höhlen des Wildkirchli dokumentieren die frühe Menschheitsgeschichte des Massivs. Dort geborgene
+      Steingeräte beweisen, dass Neandertaler im Alpstein lebten, begleitet von Höhlenbärenknochen.
+      Jahrhunderte später folgten Eremiten: Bis 1853 lebten rund zwei Dutzend Klausner ununterbrochen in den
+      Felsenhöhlen.
+
+
+      Heute gelten klare Verhaltensregeln: Auf markierten Wegen bleiben, Drohnen sind im gesamten Massiv
+      verboten und wildes Campieren ist untersagt—im Alpstein übernachtet man in Berggasthäusern oder
+      Schutzhütten.
+    before: >-
+      Im Gebirge schlägt das Wetter unvermittelt um: Gewitter, Graupel oder Schneefälle bis in mittlere Lagen
+      sind auch im Hochsommer möglich. Feste Bergschuhe mit Profilsohle, Regen- und Sonnenschutz, warme
+      Kleidung, Erste-Hilfe-Set und Notfalltelefon gehören in den Rucksack. Plane Route und Gehzeiten
+      sorgfältig mit Karten und kehre bei Erschöpfung rechtzeitig um. Beste Wanderzeit ist von Mai bis
+      Oktober.
+  it:
+    intro: >-
+      Tre dorsali calcaree, piegate fino a farsi parallele e recise a picco a meno di trenta chilometri dal
+      lago di Costanza. Questo è l'Alpstein, nella Svizzera orientale: un massiccio la cui cima più alta, il
+      Säntis, tocca i 2.502 metri ma che, avanzando sul bordo settentrionale delle Alpi, domina l'altopiano
+      con una presenza maestosa. Condiviso tra tre cantoni tra cui Appenzello Interno e San Gallo, deve la sua
+      celebrità all'escursionismo: vanta tre laghi alpini, ventiquattro locande di montagna, sei funivie e la
+      rete di sentieri più fitta della Svizzera.
+    landscape: >-
+      Tutto prende origine dal piegamento orogenetico. I movimenti tettonici hanno innalzato tre catene
+      allungate da sud-ovest a nord-est, solcate trasversalmente da un'unica cresta d'alta quota, il
+      Lisengrat, tra l'Altmann e il Säntis. Il Säntis, sommità del gruppo, si raggiunge in funivia da
+      Schwägalp; l'Altenalp Türm, più a nord, è la vetta più settentrionale della Svizzera che supera i 2.000
+      metri.
+
+
+      La roccia calcarea governa ogni aspetto idrologico: fessurata da crepacci, doline e caverne, inghiotte
+      le acque meteoriche nel sottosuolo. Per questo alpeggi e rifugi raccolgono acqua piovana e due dei tre
+      laghi sono privi di emissari superficiali. Nel Fälensee e nel Sämtisersee l'acqua defluisce per via
+      ipogea sotto la cresta rispuntando nella valle del Reno. Tra la catena settentrionale e quella mediana
+      si annida il Seealpsee; tra la mediana e la meridionale giacciono gli altri due. Il Fälensee tocca una
+      profondità massima di 31 metri.
+
+
+      Le conche chiuse intrappolano estremi climatici: nella depressione del Sämtisersee si sono registrate
+      minime inferiori a −30 °C per l'accumulo di aria gelida. Esposto a nord, il massiccio riceve abbondanti
+      precipitazioni: oltre 1.500 mm l'anno in media e più di 2.500 mm sul Säntis, dove nell'aprile 1999 si
+      misurò lo spessore record di neve per la Svizzera con 816 cm.
+    wildlife: >-
+      L'Alpstein è regno di calcare e pascolo alpino, popolato da fauna d'alta quota. Su ghiaioni e rupi
+      vivono il [camoscio alpino](/especie/rupicapra_rupicapra/), lo [stambecco alpino](/especie/capra_ibex/),
+      la [marmotta alpina](/especie/marmota_marmota/) e la lepre variabile, mentre nei cieli volteggia
+      l'[aquila reale](/especie/aquila_chrysaetos/). Tra i volatili di vetta compaiono la [pernice
+      bianca](/especie/lagopus_muta/), il [gallo cedrone](/especie/tetrao_urogallus/) e il gracchio corallino,
+      mentre nei boschi inferiori staziona il [cervo nobile](/especie/cervus_elaphus/). Tra i lepidotteri
+      spicca la farfalla dei mirtilli.
+
+
+      I fiori inaugurano la primavera: l'orecchia d'orso sboccia nelle fessure calcaree; la primula farinosa
+      schiude le corolle a tarda primavera negli acquitrini d'alta quota, in contemporanea con la rara
+      scarpetta di Venere nei boschi radi.
+
+
+      Il calendario montano è stabilito dalla neve: la stagione della Königstour corre da maggio o giugno a
+      ottobre, in base all'innevamento e ai rifugi. Se incroci mandrie con vitelli al pascolo mantieni la
+      distanza; i sentieri attraversano regolarmente alpeggi con bestiame.
+    visit: >-
+      I tracciati soddisfano ogni livello: sentieri ampi e pianeggianti si alternano a vie alpine
+      bianco-rosso-bianco che esigono passo sicuro, allenamento e assenza di vertigini. Gli impianti a fune
+      facilitano l'ascesa: una funivia sale a Ebenalp da Wasserauen e una al Hoher Kasten da Brülisau,
+      collegate a valle da autopostali e ferrovie appenzellesi.
+
+
+      La Königstour rappresenta l'itinerario supremo: 84 km e 5.166 m di dislivello positivo in tre, quattro o
+      sette tappe, per 30 ore e mezza di cammino complessivo, frazionabile a piacere. Le storiche locande di
+      montagna permettono di pernottare comodamente in cresta.
+
+
+      Una sosta memorabile si compie a Ebenalp: il Wildkirchli, complesso di tre grotte carsiche di cui una,
+      aperta su due versanti, è attraversata direttamente dal sentiero escursionistico.
+    history: >-
+      Le caverne del Wildkirchli narrano la remota presenza umana nel massiccio. Vi furono rinvenuti manufatti
+      in selce che attestano la frequentazione dei Neanderthal nell'Alpstein, assieme a resti dell'orso delle
+      caverne. Secoli dopo subentrarono gli eremiti: fino al 1853 circa due dozzine di anacoreti vissero
+      continuativamente nelle grotte rupestri.
+
+
+      Oggi le norme prescrivono di seguire i percorsi tracciati; i droni sono vietati in tutto il massiccio e
+      il campeggio libero non è consentito: nell'Alpstein si pernotta nelle locande o nei rifugi alpini.
+    before: >-
+      In quota il meteo muta repentinamente: temporali, grandine o nevicate anticipate possono verificarsi
+      anche in piena estate. Porta scarponi da trekking con suola scolpita, giacca impermeabile, pile caldo,
+      pronto soccorso e telefono per le emergenze. Consulta carte topografiche per dislivelli e tempi di
+      marcia, avvisa sul tuo itinerario e rientra se le condizioni peggiorano. I mesi più favorevoli vanno da
+      maggio a ottobre.
+  pt:
+    intro: >-
+      Três cristas de calcário, dobradas até ficarem paralelas e recortadas em abismos verticais a menos de
+      trinta quilómetros do lago de Constança. Este é o Alpstein, na Suíça oriental: um maciço cujo pico
+      supremo, o Säntis, atinge 2.502 metros mas que, erguendo-se em posição avançada na bordadura norte dos
+      Alpes, domina a paisagem envolvente com um porte monumental. Reparte-se por três cantões, incluindo
+      Appenzell Interior e São Galo, e deve a sua fama ao montanhismo: possui três lagos alpinos, vinte e
+      quatro estalagens de montanha, seis teleféricos e a malha de veredas mais densa da Suíça.
+    landscape: >-
+      Tudo principia com o enrugamento tectónico. As forças orogénicas ergueram três cristas paralelas
+      orientadas de sudoeste para nordeste, unidas de flanco por uma única aresta de altitude, o Lisengrat,
+      entre o Altmann e o Säntis. O Säntis, cume do maciço, alcança-se de teleférico a partir de Schwägalp; o
+      Altenalp Türm, mais a norte, constitui o pico suíço mais setentrional a superar os 2.000 metros de
+      altitude.
+
+
+      A rocha calcária dita toda a circulação das águas: sulcada de fendas, algares e dolinas, absorve as
+      chuvas para o subsolo. Por essa razão vários algares e pastagens recolhem água da chuva para as suas
+      necessidades, e dois dos três lagos de montanha não apresentam qualquer emissário superficial visível.
+      No Fälensee e no Sämtisersee a água escoa subterraneamente sob a crista, ressurgindo quilómetros adiante
+      no vale do Reno. Entre a cadeia norte e a central repousa o Seealpsee; entre a central e a sul
+      estendem-se os outros dois. O Fälensee regista uma profundidade máxima de 31 metros.
+
+
+      Estas depressões cársticas fechadas retêm extremos de temperatura. Na bacia do Sämtisersee registaram-se
+      mínimas inferiores a −30 °C pelo aprisionamento de ar polar. Exposto diretamente aos ventos de norte, o
+      maciço recebe precipitação abundante: mais de 1.500 mm anuais em média e mais de 2.500 mm no Säntis,
+      onde em abril de 1999 se mediu o recorde de neve acumulada na Suíça com 816 cm.
+    wildlife: >-
+      O Alpstein é o território da rocha nua e dos pastos de altitude, albergando fauna alpina característica.
+      Nas escarpas e canchaes vivem o [camurça](/especie/rupicapra_rupicapra/), o [íbis-dos-alpes /
+      cabra-montês](/especie/capra_ibex/), a [marmota-alpina](/especie/marmota_marmota/) e a lebre-variável,
+      enquanto a [águia-real](/especie/aquila_chrysaetos/) patrulha os ares. Entre as aves de altitude
+      contam-se a [lagópode-branca](/especie/lagopus_muta/), o [tetraz-grande](/especie/tetrao_urogallus/) e o
+      gralha-de-bico-amarelo, ocorrendo o [veado-vermelho](/especie/cervus_elaphus/) nos estratos florestais
+      mais baixos. Nas borboletas raras destaca-se a borboleta-dos-arandos.
+
+
+      As flores anunciam a primavera: a orelha-de-urso desabrocha nas fendas do calcário; a prímula-farinhenta
+      desabrocha mais tarde nos charcos alpinos em finais de primavera, a par do raro sapatinho-de-vénus nas
+      clareiras florestais.
+
+
+      A neve determina o ritmo da montanha: a temporada da Königstour prolonga-se de maio ou junho a outubro,
+      dependendo do degelo e do calendário das estalagens. Ao cruzar vacas com vitelos nos pastos, mantém
+      distância e contorna a manada; os trilhos cruzam amiúde pastagens ativas integradas na paisagem.
+    visit: >-
+      A rede pedestre atende a todas as exigências: caminhos largos e suaves convivem com trilhos alpinos
+      sinalizados a branco-vermelho-branco, que exigem boa compleição física, passada segura e ausência de
+      vertigens. Os teleféricos facilitam as subidas: um sobe para Ebenalp a partir de Wasserauen e outro para
+      Hoher Kasten a partir de Brülisau, articulados com autocarros PostAuto e os caminhos de ferro de
+      Appenzell.
+
+
+      A Königstour constitui o expoente maior do maciço: 84 km e 5.166 m de desnível positivo, desdobrada em
+      três, quatro ou sete jornadas, exigindo 30 horas e meia de marcha contínua, facilmente fracionável em
+      etapas de meio dia. As estalagens tradicionais possibilitam o pernoite diretamente nas alturas.
+
+
+      Uma paragem emblemática situa-se em Ebenalp: o Wildkirchli, um complexo cárstico com três cavernas, uma
+      das quais, com duas saídas, é percorrida por um trilho pedestre.
+    history: >-
+      As grutas de Wildkirchli documentam a remota presença humana no maciço. Escavações arqueológicas
+      desenterraram instrumentos líticos comprovando a ocupação neandertal nas cavernas de Alpstein, a par de
+      ossadas do urso-das-cavernas. Séculos mais tarde instalaram-se ali eremitas: até 1853 habitaram as
+      grutas cerca de duas dezenas de anacoretas de modo contínuo.
+
+
+      Hoje as regras são simples: permanecer nos trilhos demarcados, sendo interdito o voo de drones em todo o
+      maciço e proibido o acampamento selvagem—em Alpstein dorme-se em estalagens ou refúgios de montanha.
+    before: >-
+      Na alta montanha o tempo altera-se subitamente: chuvas fortes, trovoadas, saraiva ou nevadas podem
+      ocorrer mesmo em pleno verão. Calça botas de montanha com sola aderente, leva agasalhos térmicos,
+      impermeável, estojo de primeiros socorros e telemóvel para emergências. Estuda o traçado e os desníveis
+      com cartografia detalhada e dá meia-volta se o tempo deteriorar ou escassear a energia. Os meses mais
+      indicados vão de maio a outubro.
+fuentes:
+  - url: https://www.appenzell.ch/fileadmin/template_appenzell/user_upload/06_Dokumente/Broschueren_Flyer/Wanderbroschuere_einseitig.pdf
+    titulo: Wanderbroschüre Appenzellerland — Tierwelt im Alpstein
+    fecha_consulta: '2026-11-06'
+  - url: https://www.appenzell.ch/en/alpstein/staying-safe-while-on-the-go.html
+    titulo: Staying safe while on the go — Appenzellerland Tourismus
+    fecha_consulta: '2026-11-06'
+  - url: https://www.appenzell.ch/en/alpstein/hiking.html
+    titulo: Hiking — Appenzellerland Tourismus
+    fecha_consulta: '2026-11-06'
+  - url: https://de.wikipedia.org/wiki/Alpstein
+    titulo: Alpstein – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Alpstein
+    titulo: Alpstein - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://de.wikipedia.org/wiki/F%C3%A4lensee
+    titulo: Fälensee – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://de.wikipedia.org/wiki/Wildkirchli
+    titulo: Wildkirchli – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.appenzell.ch/de/alpstein.html
+    titulo: Alpstein im Appenzellerland – Appenzellerland Tourismus
+    fecha_consulta: '2026-11-06'
+  - url: https://www.appenzell.ch/de/alpstein/gut-zu-wissen/mutterkuhherden.html
+    titulo: Mutterkuhherden – Appenzellerland Tourismus
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Wasserauen-Seealpsee.jpg
+    autor: Uwelino
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

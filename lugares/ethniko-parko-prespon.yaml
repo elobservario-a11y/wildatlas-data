@@ -1,0 +1,707 @@
+id: ethniko-parko-prespon
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Prespa (Grecia)
+  en: Prespa National Park (Greece)
+  fr: Parc national de Prespa (Grèce)
+  de: Prespa-Nationalpark (Griechenland)
+  it: Parco nazionale di Prespa (Grecia)
+  pt: Parque Nacional de Prespa (Grécia)
+nombre_original: Εθνικό Πάρκο Πρεσπών
+alias:
+  - Prespes National Park
+paises:
+  - GR
+region:
+  es: Macedonia Occidental (Florina — Psarades / Agios Germanos)
+  en: Western Macedonia (Florina — Psarades / Agios Germanos)
+  fr: Macédoine-Occidentale (Florina — Psarades / Agios Germanos)
+  de: Westmakedonien (Florina — Psarades / Agios Germanos)
+  it: Macedonia Occidentale (Florina — Psarades / Agios Germanos)
+  pt: Macedónia Ocidental (Florina — Psarades / Agios Germanos)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.76
+  lon: 21.1
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 392905
+  nombre_en_la_fuente: Ethniko Parko limnon Mikris kai Megalis Prespas
+  capa: capas/cdda/ethniko-parko-prespon.geojson
+habitats:
+  - lake
+  - wetland
+  - mature_forest
+designaciones:
+  - national_park
+  - ramsar
+  - natura2000
+especies:
+  - pelecanus_crispus
+  - pelecanus_onocrotalus
+  - phalacrocorax_carbo
+  - lutra_lutra
+  - ursus_arctos
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: cría de pelícanos en primavera
+  en: pelican breeding season in spring
+  fr: nidification des pélicans au printemps
+  de: Pelikanbrutzeit im Frühjahr
+  it: stagione riproduttiva dei pellicani in primavera
+  pt: época de reprodução dos pelicanos na primavera
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Society for the Protection of Prespa
+    url: https://www.spp.gr
+  - titulo: Gestor — Parque de Prespa, NECCA
+    url: https://necca.gov.gr/en/mdpp/the-management-unit-of-prespes-national-park-and-protected-areas-of-western-macedonia/
+  - titulo: Rutas, mapas y observación — Herramientas de SPP para Prespa
+    url: https://spp.gr/resources/spp-apps/
+enlaces_referencia:
+  - titulo: 'Wikipedia: Prespa National Park (Greece)'
+    url: https://en.wikipedia.org/wiki/Prespa_National_Park_(Greece)
+resumen:
+  es: >-
+    Dos lagos de montaña compartidos por tres países y una de las mayores colonias del mundo de pelícano
+    ceñudo.
+  en: >-
+    Two high-altitude mountain lakes shared across three sovereign borders, supporting one of the world's
+    greatest breeding colonies of Dalmatian pelicans.
+  fr: >-
+    Deux lacs d'altitude partagés entre trois frontières et l'une des plus exceptionnelles colonies de
+    pélicans frisés au monde.
+  de: Zwei Hochgebirgsseen im Dreiländereck mit einer der weltweit bedeutendsten Kolonien des Krauskopfpelikans.
+  it: >-
+    Due laghi d'alta quota condivisi tra tre confini e una delle maggiori colonie al mondo di pellicano
+    riccio.
+  pt: >-
+    Dois lagos alpinos partilhados por três países e uma das mais extraordinárias colónias do mundo de
+    pelicano-crespo.
+unico:
+  es: >-
+    La mayor colonia de pelícano ceñudo del mundo, en un lago pequeño de aguas someras que comparten Grecia y
+    Albania.
+  en: >-
+    The world's largest breeding colony of Dalmatian pelicans, flourishing across a shallow freshwater lake
+    shared between Greece and Albania.
+  fr: >-
+    La plus grande colonie de pélicans frisés de la planète, établie sur un lac aux eaux peu profondes partagé
+    entre la Grèce et l'Albanie.
+  de: >-
+    Die weltweit größte Kolonie des Krauskopfpelikans an einem seichten Seebecken, das sich Griechenland und
+    Albanien teilen.
+  it: >-
+    La più grande colonia di pellicano riccio del pianeta, insediata in un bacino lacustre poco profondo
+    diviso tra Grecia e Albania.
+  pt: >-
+    A maior colónia de pelicano-crespo do planeta, radicada num lago somero partilhado entre a Grécia e a
+    Albânia.
+observaciones:
+  es: >-
+    Visitar Vidronisi está prohibido, para no molestar a los polluelos y proteger los huevos. Las aves se
+    observan desde la distancia.
+texto:
+  es:
+    intro: >-
+      Entre marzo y julio, desde una colina frente a una isla pequeña, unos prismáticos o un telescopio bastan
+      para ver las enormes colonias de pelícanos. Eso es Prespa: un parque nacional que ocupa el sureste del
+      lago Prespa dentro del país, incluido el Mikri Prespa, el lago pequeño. Es un lugar de agua poco
+      profunda, cañaverales y montes cubiertos de bosque, donde está la mayor colonia del mundo de pelícano
+      ceñudo.
+    landscape: >-
+      El Mikri Prespa es un lago largo y estrecho, de 13,6 km de longitud máxima, con su extremo sur en
+      Albania. Tiene 48,5 km² de superficie, 5 de ellos albaneses, y es poco profundo: 8,4 m en el punto más
+      hondo y 4 m de media. Antes, junto al Gran Prespa, formaba un único lago; el torrente de Agios Germanos
+      fue depositando sedimentos y lo partió en dos. Entre 1936 y 1945 se desvió el torrente para que vertiera
+      al Gran Prespa, y hoy el Mikri Prespa lo hace por el arroyo Koula.
+
+
+      Los dos lagos los separa un istmo de cuatro kilómetros de largo y quinientos metros de ancho, en
+      territorio griego, con una carretera sobre un terraplén. El Gran Prespa descansa sobre caliza, unos
+      ciento cincuenta metros por encima del lago Ohrid, y su única salida es subterránea, por canales del
+      karst.
+
+
+      La orilla del Mikri Prespa es empinada, con amplias zonas someras de vegetación pantanosa y humedales,
+      bosques de hoja caduca en las laderas altas y cañaverales abajo. Dos islotes salpican el agua: Agios
+      Achilleios, donde viven pocas personas, y Vidronisi, tan pequeño como deshabitado.
+    wildlife: >-
+      En Prespa se han registrado 275 especies de aves, y 149 crían aquí. La estrella es el [pelícano
+      ceñudo](/especie/pelecanus_crispus/): la colonia de Prespa es la mayor del mundo (en 2018 se contaron
+      1.266 parejas) y supone alrededor del veinte por ciento de la población reproductora mundial. El
+      [pelícano común](/especie/pelecanus_onocrotalus/) llega hacia abril, tras un largo viaje desde los lagos
+      del Rift en Sudán, y cría más tarde; solo en este lago y en el delta del Danubio forman los dos
+      pelícanos colonias mixtas.
+
+
+      En los cañaverales anidan ocho especies de garzas, sobre todo la [garceta
+      común](/especie/egretta_garzetta/), la [garceta grande](/especie/egretta_alba/) y la [garza
+      real](/especie/ardea_cinerea/); en verano pueden verse también la garcilla cangrejera, la garza
+      imperial, el avetorillo común y el [martinete](/especie/nycticorax_nycticorax/). Cría además el [ánsar
+      común](/especie/anser_anser/). Vidronisi alberga una de las mayores colonias de cormoranes, y desde
+      Mikrolimni se observa. El Gran Prespa no se hiela nunca, y por eso invernan aquí el veinte y el treinta
+      y cinco por ciento de los somormujos lavancos y porrones moñudos que pasan el invierno en Grecia.
+
+
+      El mejor mes para ver más variedad es mayo, cuando sigue la migración de primavera y la mayoría de las
+      aves que crían ya han hecho el nido; a mitad de invierno el frío reduce mucho el número de especies. En
+      el monte Devas se ven el zorzal charlo y el escribano hortelano. Entre las plantas, hay unas 1.400
+      especies, entre ellas la endémica Centaurea prespana. En el arroyo de Agios Germanos vive una especie
+      endémica de trucha salvaje, y en el Gran Prespa solo se conocen once peces nativos, nueve de ellos
+      endémicos.
+    visit: >-
+      Empieza en Agios Germanos, donde está el centro de visitantes y el Centro de Información del Medio
+      Natural de la Agencia de Protección de Prespa, junto a la Colección Bizantina y a un molino de agua
+      restaurado por la Sociedad para la Protección de Prespa. Para ver aves: las aguas someras del Mikri
+      Prespa, los cañaverales, el puerto de Psarades, el bosque de orilla y la desembocadura del arroyo de
+      Agios Germanos.
+
+
+      Desde el aparcamiento de Krina, en la orilla frente a Agios Achilleios, sube a la colina: entre marzo y
+      julio se ven las enormes colonias de pelícanos. Una pasarela flotante de 630 m de largo y 3 de ancho, la
+      primera de su tipo en un lago griego, lleva a la isla. Ir de Krina al monasterio y volver mide solo
+      cinco kilómetros, o puedes dar una vuelta de cuarenta minutos en los barcos solares-eléctricos del
+      municipio.
+
+
+      En Psarades, el único pueblo griego del Gran Prespa, a unos 850 metros, empiezan dos sendas: una corta y
+      sin marcar a la ermita de Agios Athanasios y otra bien marcada al cabo Roti. En barca se llega a las
+      ermitas de Panagia Eleousa, la Ascensión y la Transfiguración, y a pinturas rupestres de la orilla.
+    history: >-
+      Agios Achilleios es una de las dos islas lacustres habitadas de Grecia, con solo once casas: según la
+      leyenda, si se construye una nueva, cae una vieja. El zar Samuel trasladó hacia el 980-985 las reliquias
+      de san Aquileo y levantó a finales del siglo X una basílica de tres naves que dio nombre a la isla; el
+      monasterio de Panagia Porphyra es de principios del XVI.
+
+
+      Durante años la parte griega de Prespa fue una zona poco poblada y sensible para el ejército, que exigía
+      permiso a los forasteros; tras la Guerra Civil, buena parte de la población emigró. Agios Germanos tenía
+      3.500 habitantes antes de aquella guerra y hoy unos doscientos cincuenta.
+
+
+      El Mikri Prespa es un hábitat protegido dentro del parque nacional y buena parte pertenece a la red
+      Natura 2000. El bosque de enebros centenarios de la ermita de San Jorge, camino de Psarades, está en el
+      corazón del parque, protegido por el Convenio de Ramsar. En 1999 la Sociedad para la Protección de
+      Prespa recibió el Premio Ramsar de Conservación de Humedales, y desde 2017 se aplica el proyecto LIFE
+      Prespa Waterbirds para proteger las aves acuáticas. Las praderas húmedas que rodean la isla las crea la
+      ganadería extensiva y son clave para la biodiversidad.
+    before: >-
+      Visitar Vidronisi está prohibido, para no molestar a los polluelos y proteger los huevos. Las aves se
+      observan desde la distancia.
+    around: >-
+      El [Parque Nacional de Pelister](/lugar/nacionalen-park-pelister/) queda a solo un kilómetro, y el
+      [Parque Nacional de Galičica](/lugar/nacionalen-park-galicica/), a siete. Lejos, comparten pelícanos y
+      humedal el [Parque Nacional del Delta del Evros](/lugar/ethniko-parko-delta-evrou/), la [Reserva
+      Científica del Bajo Prut](/lugar/rezervatia-stiintifica-prutul-de-jos/), el [Parque Nacional del Lago
+      Skadar](/lugar/nacionalni-park-skadarsko-jezero/) y la [Reserva Natural Especial Carska
+      Bara](/lugar/specijalni-rezervat-prirode-carska-bara/).
+  en:
+    intro: >-
+      Between March and July, standing atop a low hillside looking toward a small lake islet, a pair of
+      binoculars or a spotting scope reveals the immense nesting colonies of pelicans. This is Prespa: a
+      national park encompassing the south-eastern shores of the Prespa basin within Greek territory,
+      including Lake Mikri Prespa, the smaller lake. It is a world of shallow waters, towering reedbeds and
+      forested mountain slopes, safeguarding the planet's largest colony of the Dalmatian pelican.
+    landscape: >-
+      Lake Mikri Prespa forms an elongated, narrow waterbody with a maximum length of 13.6 km, its
+      southernmost tip extending into Albania. It covers an area of 48.5 km², 5 of which belong to Albania,
+      and is comparatively shallow: 8.4 m at its deepest sounding and averaging 4 m across its basin. In
+      ancient times it formed a single unified lake with Great Prespa; the alluvial silt carried by the Agios
+      Germanos torrent gradually partitioned the waters. Between 1936 and 1945 the torrent was channelled to
+      drain directly into Great Prespa, and today Mikri Prespa empties into its northern neighbour via the
+      Koula sluice channel.
+
+
+      The two lake basins are severed by a sandy isthmus four kilometres long and five hundred metres wide in
+      Greek territory, traversed by a road built atop an embankment. Great Prespa rests upon a permeable
+      limestone foundation, sitting some one hundred and fifty metres higher in elevation than Lake Ohrid,
+      draining exclusively through underground karst subterranean channels.
+
+
+      The shoreline of Mikri Prespa rises steeply, fringed by extensive marsh wetlands and shallow littoral
+      zones, with deciduous woodlands clothing the upper slopes and reedbeds lining the water. Two islets dot
+      the surface: Agios Achilleios, where a small community still lives, and Vidronisi, tiny and uninhabited.
+    wildlife: >-
+      Prespa has recorded 275 bird species, of which 149 breed locally. The crown jewel is the [Dalmatian
+      pelican](/especie/pelecanus_crispus/): the Prespa nesting colony is the largest in the world (in 2018
+      researchers counted 1,266 breeding pairs), representing roughly twenty percent of the global breeding
+      population. The [great white pelican](/especie/pelecanus_onocrotalus/) arrives around April after its
+      long migration from the East African Rift lakes in Sudan, nesting later; only here and in the Danube
+      Delta do both pelican species form mixed colonies.
+
+
+      In the reedbeds nest eight heron species, notably the [little egret](/especie/egretta_garzetta/), [great
+      egret](/especie/egretta_alba/) and [grey heron](/especie/ardea_cinerea/); in summer visitors may also
+      spot squacco herons, purple herons, little bitterns and the [black-crowned night
+      heron](/especie/nycticorax_nycticorax/). Breeding wildfowl include the [greylag
+      goose](/especie/anser_anser/). Vidronisi shelters a massive cormorant colony, easily observed from
+      Mikrolimni. Great Prespa never freezes over, and consequently between twenty and thirty-five percent of
+      the wintering great crested grebes and tufted ducks in Greece spend the cold season here.
+
+
+      The best month to observe bird variety is May, when spring migration overlaps with active nesting; in
+      midwinter cold spells reduce species counts considerably. On Mount Devas look for mistle thrushes and
+      ortolan buntings. Botanists record around 1,400 plant species, including the endemic knapweed Centaurea
+      prespana. In the Agios Germanos stream swims an endemic wild trout, while Great Prespa hosts eleven
+      native fish species, nine of which are endemic.
+    visit: >-
+      Begin in Agios Germanos, which houses the central visitor centre and the Natural Environment Information
+      Centre run by the Prespa Protected Area Management Body, alongside a Byzantine archaeological collection
+      and a restored watermill. For birdwatching, head to the shallow margins of Mikri Prespa, the reedbeds,
+      the port of Psarades, riparian woodlands and the mouth of the Agios Germanos stream.
+
+
+      From the Krina parking area on the shore opposite Agios Achilleios, walk up the hill: between March and
+      July the views of pelican colonies are exceptional. A floating pedestrian walkway 630 m long and 3 m
+      wide, the first of its kind on a Greek lake, leads visitors onto the island. The walk from Krina to the
+      ruined basilica and back covers just five kilometres, or you can take a forty-minute cruise on the
+      municipality's solar-electric boats.
+
+
+      In Psarades, the only Greek settlement on the shores of Great Prespa, situated at an altitude of 850
+      metres, two trails begin: an unmarked footpath to the hermitage of Agios Athanasios and a well-marked
+      mountain route to Cape Roti. Small boats take visitors to the cave hermitages of Panagia Eleousa, the
+      Ascension and the Transfiguration, adorned with medieval cliffside frescoes.
+    history: >-
+      Agios Achilleios is one of only two inhabited lake islands in Greece, numbering just eleven houses:
+      local lore claims that if a new home is built, an older one will collapse. Tsar Samuel of Bulgaria
+      transferred the relics of Saint Achilleus here around 980-985 and erected a monumental three-aisled
+      basilica at the end of the X century, lending the island its name; the monastery of Panagia Porphyra
+      dates from the early XVI century.
+
+
+      For decades the Greek Prespa basin remained a restricted frontier military zone requiring special
+      transit permits; after the Greek Civil War, a large portion of the population emigrated. Agios Germanos
+      counted 3,500 inhabitants before the war, compared to around two hundred and fifty today.
+
+
+      Lake Mikri Prespa is designated as a wetland of international importance under the Ramsar Convention,
+      and much of the park belongs to the Natura 2000 network. The ancient juniper forest near Saint George's
+      Chapel on the road to Psarades lies in the core reserve. In 1999 the Society for the Protection of
+      Prespa was awarded the Ramsar Wetland Conservation Award, and since 2017 the LIFE Prespa Waterbirds
+      project has safeguarded aquatic avifauna. Wet meadows surrounding the island are maintained by
+      low-intensity cattle grazing, proving vital for biodiversity.
+    before: >-
+      Setting foot on Vidronisi islet is strictly prohibited to safeguard fragile nesting colonies and pelican
+      eggs. Birds must be observed from a respectful distance using binoculars or spotting scopes.
+    around: >-
+      [Pelister National Park](/lugar/nacionalen-park-pelister/) lies just one kilometre away across the
+      border, and [Galičica National Park](/lugar/nacionalen-park-galicica/) is seven kilometres distant.
+      Further afield, pelicans and wetland expanses are shared with [Evros Delta National
+      Park](/lugar/ethniko-parko-delta-evrou/), [Lower Prut Scientific
+      Reserve](/lugar/rezervatia-stiintifica-prutul-de-jos/), [Lake Skadar National
+      Park](/lugar/nacionalni-park-skadarsko-jezero/) and [Carska Bara Special Nature
+      Reserve](/lugar/specijalni-rezervat-prirode-carska-bara/).
+  fr:
+    intro: >-
+      Entre mars et juillet, depuis une colline faisant face à un îlot lacustre, des jumelles ou une
+      longue-vue suffisent pour admirer les impressionnantes colonies de pélicans. C'est cela, Prespa : un
+      parc national englobant le sud-est du bassin lacustre sur le territoire grec, incluant le Mikri Prespa,
+      le petit lac. C'est un univers d'eaux calmes et peu profondes, de roselières géantes et de versants
+      boisés abritant la plus importante colonie mondiale de pélicans frisés.
+    landscape: >-
+      Le Mikri Prespa forme un plan d'eau allongé de 13,6 km de longueur maximale, dont l'extrémité sud
+      empiète sur l'Albanie. Sa superficie s'élève à 48,5 km², dont 5 km² en territoire albanais, et il est
+      particulièrement peu profond : 8,4 m au point le plus bas et 4 m en moyenne. Jadis réuni au Grand Prespa
+      en une vaste nappe d'eau, il fut scindé en deux par les alluvions charriées par le torrent d'Agios
+      Germanos. Entre 1936 et 1945, le cours d'eau fut dérivé vers le Grand Prespa, et aujourd'hui le Petit
+      Prespa se déverse dans son voisin par le canal de Koula.
+
+
+      Les deux lacs sont séparés par un isthme sableux de quatre kilomètres de long sur cinq cents mètres de
+      large en Grèce, surmonté d'une chaussée carrossable. Le Grand Prespa repose sur un soubassement calcaire
+      perméable, perché quelque cent cinquante mètres au-dessus du lac d'Ohrid, et son évacuation s'effectue
+      exclusivement par des galeries karstiques souterraines.
+
+
+      Les berges du Mikri Prespa sont abruptes, bordées d'étendues marécageuses et de roselières denses,
+      tandis que les versants supérieurs portent des feuillus. Deux îles ponctuent le lac : Agios Achilleios,
+      habitée par un petit hameau, et Vidronisi, modeste écueil rocheux désert.
+    wildlife: >-
+      Prespa dénombre 275 espèces d'oiseaux, dont 149 nidificatrices. L'emblème des lieux est le [pélican
+      frisé](/especie/pelecanus_crispus/) : la colonie de Prespa est la plus vaste au monde (en 2018, les
+      ornithologues y ont dénombré 1 266 couples), représentant près de vingt pour cent de la population
+      reproductrice mondiale. Le [pélican blanc](/especie/pelecanus_onocrotalus/) arrive vers le mois d'avril
+      après sa traversée depuis la vallée du Rift au Soudan pour y nicher ; ce n'est qu'ici et dans le delta
+      du Danube que les deux pélicans forment des colonies mixtes.
+
+
+      Dans les roselières nichent huit espèces de hérons, notamment l'[aigrette
+      garzette](/especie/egretta_garzetta/), la [grande aigrette](/especie/egretta_alba/) et le [héron
+      cendré](/especie/ardea_cinerea/) ; en été s'y ajoutent le crabier chevelu, le héron pourpré, le blongios
+      nain et le [bihoreau gris](/especie/nycticorax_nycticorax/). L'[oie cendrée](/especie/anser_anser/) s'y
+      reproduit également. Vidronisi abrite une immense colonie de grands cormorans visible depuis Mikrolimni.
+      Comme le Grand Prespa ne gèle jamais, entre vingt et trente-cinq pour cent des grèbes huppés et
+      fuligules morillons hivernant en Grèce y passent la mauvaise saison.
+
+
+      Le mois de mai est le plus propice pour observer la plus grande diversité aviaire. Sur le mont Devas
+      chantent la grive draine et le bruant ortolan. On compte environ 1 400 espèces végétales, dont
+      l'endémique Centaurea prespana. Le ruisseau d'Agios Germanos abrite une truite sauvage endémique, et le
+      Grand Prespa compte onze poissons indigènes, dont neuf endémiques.
+    visit: >-
+      Commencez votre découverte à Agios Germanos, où se trouvent la maison du parc et le centre d'information
+      de l'Organisme de gestion de Prespa, adossés à une collection byzantine et à un moulin à eau restauré.
+      Pour l'observation ornithologique, explorez les rives basses du Mikri Prespa, les roselières, le port de
+      Psarades et l'embouchure du ruisseau d'Agios Germanos.
+
+
+      Depuis le parking de Krina faisant face à Agios Achilleios, montez sur la butte : de mars à juillet, la
+      vue sur les colonies de pélicans y est extraordinaire. Une passerelle flottante de 630 m de long sur 3 m
+      de large mène à pied sur l'île. L'aller-retour jusqu'aux ruines de la basilique totalise cinq
+      kilomètres, ou bien vous pouvez opter pour une traversée de quarante minutes sur les bateaux solaires
+      municipaux.
+
+
+      À Psarades, unique village grec des rives du Grand Prespa situé à 850 mètres d'altitude, débutent deux
+      sentiers : l'un vers l'ermitage d'Agios Athanasios et l'autre vers le cap Roti. Des barques locales
+      mènent aux ermitages rupestres ornés de fresques médiévales peintes à même la falaise.
+    history: >-
+      Agios Achilleios est l'une des deux seules îles lacustres habitées de Grèce, ne comptant que onze
+      maisons : une légende affirme que si une nouvelle maison s'élève, une ancienne s'écroule. Le tsar Samuel
+      y transféra vers 980-985 les reliques de saint Achille et y érigea à la fin du Xe siècle une basilique à
+      trois nefs qui donna son nom à l'île ; le monastère de Panagia Porphyra remonte au début du XVIe siècle.
+
+
+      Pendant des décennies, le bassin de Prespa fut une zone militaire frontière soumise à autorisation ;
+      après la guerre civile, une part majeure des habitants émigra. Agios Germanos comptait 3 500 âmes
+      avant-guerre contre environ deux cent cinquante de nos jours.
+
+
+      Le lac Mikri Prespa est un site Ramsar d'importance internationale et est intégré au réseau Natura 2000.
+      Le bois de genévriers centenaires de la chapelle Saint-Georges est classé en réserve intégrale. En 1999,
+      la Société pour la protection de Prespa a reçu le Prix Ramsar pour la conservation des zones humides, et
+      le programme LIFE Prespa Waterbirds y est conduit depuis 2017. Les prairies humides ceinturant l'île
+      sont entretenues par le pâturage extensif bovin, garant de la biodiversité.
+    before: >-
+      L'accès à l'îlot de Vidronisi est formellement interdit pour protéger la nidification et les œufs des
+      pélicans. L'observation des oiseaux doit toujours s'effectuer à bonne distance.
+    around: >-
+      Le [parc national de Pelister](/lugar/nacionalen-park-pelister/) se trouve à seulement un kilomètre et
+      le [parc national de Galičica](/lugar/nacionalen-park-galicica/) à sept kilomètres. Plus loin, les
+      pélicans et les vastes roselières se retrouvent dans le [parc national du delta de
+      l'Évros](/lugar/ethniko-parko-delta-evrou/), la [réserve scientifique du bas
+      Prut](/lugar/rezervatia-stiintifica-prutul-de-jos/), le [parc national du lac
+      Skadar](/lugar/nacionalni-park-skadarsko-jezero/) et la [réserve naturelle spéciale de Carska
+      Bara](/lugar/specijalni-rezervat-prirode-carska-bara/).
+  de:
+    intro: >-
+      Von März bis Juli genügt von einer Anhöhe gegenüber einer kleinen Seeinsel ein Fernglas oder Spektiv, um
+      die gewaltigen Brutkolonien der Pelikane zu überblicken. Das ist Prespa: ein Nationalpark, der den
+      südöstlichen Teil des Prespa-Beckens in Griechenland umfasst, einschließlich des Mikri Prespa, des
+      Kleinen Prespasees. Es ist eine Welt seichter Gewässer, weiter Schilfdickichte und waldreicher Hänge,
+      die die größte Brutkolonie des Krauskopfpelikans weltweit beherbergt.
+    landscape: >-
+      Der Mikri Prespa ist ein langgestreckter, schmaler See mit 13,6 km Maximallänge, dessen südlicher Zipfel
+      auf albanischem Gebiet liegt. Er bedeckt 48,5 km² Fläche, 5 davon in Albanien, und ist flach: 8,4 m an
+      der tiefsten Stelle und 4 m im Durchschnitt. Einst bildete er mit dem Großen Prespasee ein einziges
+      Gewässer; Schwemmmaterial des Baches Agios Germanos trennte die beiden Becken. Zwischen 1936 und 1945
+      wurde der Bachlauf umgeleitet, und heute entwässert der Kleine Prespasee über den Koula-Kanal in seinen
+      großen Nachbarn.
+
+
+      Ein vier Kilometer langer und fünfhundert Meter breiter Isthmus auf griechischem Boden trennt die beiden
+      Seen, über den eine Straße auf einem Damm verläuft. Der Große Prespasee ruht auf durchlässigem
+      Kalkuntergrund etwa einhundertfünfzig Meter über dem Ohridsee und entwässert ausschließlich unterirdisch
+      durch Karstschwinden.
+
+
+      Die Ufer des Kleinen Prespasees fallen steil ab, gesäumt von weiten Verlandungszonen und Schilf, während
+      an den oberen Hängen Laubwälder wachsen. Zwei Inseln liegen im Wasser: Agios Achilleios mit wenigen
+      Bewohnern und das unbewohnte Felseiland Vidronisi.
+    wildlife: >-
+      Im Prespa-Gebiet wurden 275 Vogelarten erfasst, von denen 149 hier brüten. Der Star ist der
+      [Krauskopfpelikan](/especie/pelecanus_crispus/): Die Prespa-Kolonie ist die größte der Welt (2018
+      zählten Forscher 1.266 Brutpaare), was rund zwanzig Prozent des weltweiten Bestands ausmacht. Der
+      [Rosapelikan](/especie/pelecanus_onocrotalus/) trifft gegen April aus Ostafrika ein und brütet später;
+      nur hier und im Donaudelta bilden beide Pelikanarten gemischte Kolonien.
+
+
+      Im Röhricht nisten acht Reiherarten, allen voran [Seidenreiher](/especie/egretta_garzetta/),
+      [Silberreiher](/especie/egretta_alba/) und [Graureiher](/especie/ardea_cinerea/); im Sommer kommen
+      Rallenreiher, Purpurreiher, Zwergdommel und [Nachtreiher](/especie/nycticorax_nycticorax/) hinzu. Auch
+      die [Graugans](/especie/anser_anser/) brütet hier. Auf Vidronisi nistet eine große Kormorankolonie. Da
+      der Große Prespasee nie zufriert, überwintern zwanzig bis fünfunddreißig Prozent der Haubentaucher und
+      Reiherenten Griechenlands hier.
+
+
+      Der Mai bietet die größte Artenfülle bei Vögeln. Am Berg Devas leben Misteldrossel und Ortolan. Die
+      Flora zählt rund 1.400 Pflanzenarten, darunter die endemische Flockenblume Centaurea prespana. Im Bach
+      von Agios Germanos schwimmt eine endemische Bachforelle, und im Großen Prespasee leben elf heimische
+      Fischarten, neun davon endemisch.
+    visit: >-
+      Beginne in Agios Germanos mit dem Besucherzentrum der Prespa-Verwaltung, einer byzantinischen Sammlung
+      und einer restaurierten Wassermühle. Zur Vogelbeobachtung eignen sich die Flachwasserzonen des Kleinen
+      Prespasees, die Röhrichte, der Hafen von Psarades und die Bachmündung bei Agios Germanos.
+
+
+      Vom Parkplatz Krina gegenüber Agios Achilleios erreichst du die Aussichtshügel mit Blick auf die
+      Pelikankolonien. Ein 630 m langer und 3 m breiter schwimmender Holzsteg führt zur Insel. Der Rundgang ab
+      Krina zur Basilika misst fünf Kilometer, alternativ werden vierzigminütige Fahrten mit Solarbooten
+      angeboten.
+
+
+      In Psarades am Großen Prespasee auf 850 Metern Höhe beginnen zwei Pfade: ein Pfad zur Eremitage Agios
+      Athanasios und eine markierte Route zum Kap Roti. Per Fischerboot erreichst du Felseneremitagen mit
+      mittelalterlichen Wandmalereien.
+    history: >-
+      Agios Achilleios ist eine von nur zwei bewohnten Seeinseln Griechenlands mit elf Häusern. Zar Samuel
+      überführte um 980-985 die Reliquien des heiligen Achilleus hierher und errichtete Ende des X.
+      Jahrhunderts eine dreischiffige Basilika; das Kloster Panagia Porphyra stammt aus dem frühen XVI.
+      Jahrhundert.
+
+
+      Jahrzehntelang war das griechische Prespa militärisches Sperrgebiet; nach dem Bürgerkrieg wanderten
+      viele Bewohner ab. Agios Germanos zählte einst 3.500 Einwohner, heute etwa zweihundertfünfzig.
+
+
+      Der Kleine Prespasee ist Ramsar-Gebiet und Teil des Natura-2000-Netzes. Der uralte Wacholderwald bei der
+      Georgskapelle steht als Kernzone unter Schutz. 1999 erhielt die Gesellschaft für den Schutz von Prespa
+      den Ramsar-Naturschutzpreis, und seit 2017 läuft das Schutzprojekt LIFE Prespa Waterbirds.
+    before: >-
+      Das Betreten der Insel Vidronisi ist strikt verboten, um Brutvögel und Gelege nicht zu stören. Pelikane
+      sind ausschließlich aus der Distanz mit optischen Geräten zu beobachten.
+    around: >-
+      Der [Pelister-Nationalpark](/lugar/nacionalen-park-pelister/) liegt nur einen Kilometer jenseits der
+      Grenze und der [Nationalpark Galičica](/lugar/nacionalen-park-galicica/) sieben Kilometer entfernt.
+      Weiter entfernt teilen Pelikane und Feuchtgebiete der [Nationalpark
+      Evros-Delta](/lugar/ethniko-parko-delta-evrou/), das [Naturreservat Unterer
+      Pruth](/lugar/rezervatia-stiintifica-prutul-de-jos/), der [Nationalpark
+      Skutarisee](/lugar/nacionalni-park-skadarsko-jezero/) und das [Sondernaturreservat Carska
+      Bara](/lugar/specijalni-rezervat-prirode-carska-bara/).
+  it:
+    intro: >-
+      Tra marzo e luglio, dall'alto di un colle affacciato su un isolotto lacustre, bastano un binocolo o un
+      cannocchiale per ammirare le sterminate colonie di pellicani. È questa Prespa: un parco nazionale che
+      tutela il settore sud-orientale del bacino in territorio greco, comprendendo il Mikri Prespa, il lago
+      minore. È un ambiente di acque calme e poco profonde, canneti maestosi e pendii boscati che accoglie la
+      più vasta colonia mondiale di pellicano riccio.
+    landscape: >-
+      Il Piccolo Prespa forma uno specchio d'acqua stretto e allungato, con una lunghezza massima di 13,6 km,
+      la cui propaggine meridionale appartiene all'Albania. Ricopre una superficie di 48,5 km², di cui 5 in
+      territorio albanese, ed è caratterizzato da modeste profondità: 8,4 m nel punto più profondo e 4 m di
+      media. In passato formava un unico grande lago con il Grande Prespa; i detriti alluvionali accumulati
+      dal torrente Agios Germanos lo hanno poi diviso in due. Tra il 1936 e il 1945 il torrente fu deviato
+      verso il Grande Prespa, e oggi il lago minore riversa le proprie acque attraverso il canale artificiale
+      Koula.
+
+
+      I due bacini sono separati da un istmo sabbioso lungo quattro chilometri e largo cinquecento metri in
+      territorio greco, percorso da una strada rialzata. Il Grande Prespa poggia su un basamento calcareo
+      carsificato posto circa centocinquanta metri più in alto del lago di Ocrida, e il suo deflusso avviene
+      unicamente attraverso inghiottitoi carsici sotterranei.
+
+
+      Le sponde del Piccolo Prespa scendono ripide verso zone umide bordate da canneti, mentre i versanti
+      montani sono rivestiti di caducifoglie. Due isole emergono dalle acque: Agios Achilleios, abitata da
+      poche famiglie, e Vidronisi, piccolo scoglio roccioso disabitato.
+    wildlife: >-
+      A Prespa sono state censite 275 specie di uccelli, delle quali 149 nidificanti. La specie regina è il
+      [pellicano riccio](/especie/pelecanus_crispus/): la colonia di Prespa è la più numerosa della Terra (nel
+      2018 sono state contate 1.266 coppie nidificanti), pari a circa il venti percento dell'intera
+      popolazione mondiale riproduttiva. Il [pellicano comune](/especie/pelecanus_onocrotalus/) giunge intorno
+      ad aprile dall'Africa orientale e nidifica più tardi; soltanto qui e nel delta del Danubio le due specie
+      formano colonie miste.
+
+
+      Tra i canneti nidificano otto specie di aironi, in particolare la
+      [garzetta](/especie/egretta_garzetta/), l'[airone bianco maggiore](/especie/egretta_alba/) e l'[airone
+      cenerino](/especie/ardea_cinerea/); d'estate si aggiungono sgarza ciuffetto, airone rosso, tarabusino e
+      [nitticora](/especie/nycticorax_nycticorax/). Vi nidifica anche l'[oca
+      selvatica](/especie/anser_anser/). Vidronisi ospita una grande colonia di cormorani. Poiché il Grande
+      Prespa non ghiaccia mai, vi sverna tra il venti e il trentacinque percento degli svassi maggiori e
+      morette che trascorrono l'inverno in Grecia.
+
+
+      Maggio è il periodo più indicato per cogliere la massima biodiversità ornitica. Sul monte Devas cantano
+      tordela e ortolano. La flora annovera circa 1.400 specie, tra cui l'endemica Centaurea prespana. Nel
+      torrente di Agios Germanos vive una trota fario autoctona, e nel Grande Prespa si contano undici pesci
+      nativi, nove dei quali endemici.
+    visit: >-
+      Inizia la visita da Agios Germanos, sede del centro visitatori dell'Ente Parco di Prespa, affiancato da
+      una collezione bizantina e da un mulino ad acqua restaurato. Per osservare l'avifauna, perlustra le
+      sponde del Piccolo Prespa, i canneti, il molo di Psarades e la foce del torrente Agios Germanos.
+
+
+      Dal parcheggio di Krina di fronte ad Agios Achilleios, sali sulla collina per dominare le colonie di
+      pellicani. Una passerella pedonale galleggiante lunga 630 m e larga 3 m consente l'accesso a piedi
+      sull'isola. Il sentiero da Krina alla basilica misura cinque chilometri, oppure puoi effettuare
+      un'escursione di quaranta minuti sui battelli elettrici-solari comunali.
+
+
+      A Psarades, unico borgo greco sul Grande Prespa a quota 850 metri, partono due percorsi: un sentiero
+      verso l'eremo di Agios Athanasios e un tracciato segnato verso Capo Roti. Con barche locali si
+      raggiungono gli eremi rupestri affrescati sulle falesie.
+    history: >-
+      Agios Achilleios è una delle due sole isole lacustri abitate della Grecia, con appena undici case: la
+      tradizione vuole che se si edifica una nuova dimora, una vecchia crolli. Lo zar Samuele traslò qui verso
+      il 980-985 le reliquie di sant'Achilleo edificando a fine X secolo la basilica a tre navate; il
+      monastero di Panagia Porphyra risale all'inizio del XVI secolo.
+
+
+      Per decenni l'area di Prespa fu zona militare di confine sottoposta a rigidi controlli; dopo la guerra
+      civile molti abitanti emigrarono. Agios Germanos contava 3.500 residenti prima del conflitto, ridotti a
+      circa duecentocinquanta oggi.
+
+
+      Il Piccolo Prespa è zona umida Ramsar di rilevanza internazionale ed è inserito in Rete Natura 2000. Il
+      bosco di ginepri secolari presso la cappella di San Giorgio è riserva integrale. Nel 1999 la Società per
+      la Protezione di Prespa ha ricevuto il Premio Ramsar, e dal 2017 è attivo il progetto LIFE Prespa
+      Waterbirds.
+    before: >-
+      L'accesso all'isolotto di Vidronisi è severamente vietato per preservare uova e nidiacei. L'osservazione
+      dell'avifauna va condotta a debita distanza con strumenti ottici.
+    around: >-
+      Il [Parco nazionale di Pelister](/lugar/nacionalen-park-pelister/) dista appena un chilometro oltre il
+      confine e il [Parco nazionale di Galičica](/lugar/nacionalen-park-galicica/) sette chilometri. Più
+      lontani, condividono pellicani e specchi lacustri il [Parco nazionale del Delta
+      dell'Evros](/lugar/ethniko-parko-delta-evrou/), la [Riserva scientifica del Basso
+      Prut](/lugar/rezervatia-stiintifica-prutul-de-jos/), il [Parco nazionale del Lago di
+      Scutari](/lugar/nacionalni-park-skadarsko-jezero/) e la [Riserva naturale speciale di Carska
+      Bara](/lugar/specijalni-rezervat-prirode-carska-bara/).
+  pt:
+    intro: >-
+      Entre março e julho, do cimo de uma encosta diante de um ilhéu lacustre, binóculos ou um telescópio
+      bastam para contemplar as imensas colónias de pelicanos. Prespa é isso mesmo: um parque nacional que
+      tutela o setor sudeste da bacia lacustre em território grego, compreendendo o Mikri Prespa, o lago
+      menor. Trata-se de um refúgio de águas mansas e pouco profundas, caniçais imponentes e encostas
+      florestadas que salvaguarda a maior colónia mundial de pelicano-crespo.
+    landscape: >-
+      O Pequeno Prespa forma uma massa de água alongada com 13,6 km de comprimento máximo, cuja extremidade
+      meridional pertence à Albânia. Abrange uma área de 48,5 km², dos quais 5 km² em território albanês,
+      sendo de reduzida profundidade: 8,4 m no ponto mais fundo e 4 m em média. Em tempos remotos formava com
+      o Grande Prespa uma única bacia lacustre; os sedimentos aluviais transportados pela torrente de Agios
+      Germanos acabaram por cindi-la em duas. Entre 1936 e 1945 o leito da torrente foi desviado para o Grande
+      Prespa, e hoje o lago menor escoa as águas pelo canal de Koula.
+
+
+      Os dois lagos acham-se apartados por um istmo arenoso com quatro quilómetros de comprimento e quinhentos
+      metros de largura na Grécia, percorrido por uma estrada em aterro. O Grande Prespa assenta num substrato
+      calcário cársico cerca de cento e cinquenta metros acima do lago de Ohrid, escoando unicamente por
+      sumidouros subterrâneos.
+
+
+      As margens do Pequeno Prespa são declivosas, orladas por sapais e caniçais espessos, enquanto as
+      encostas superiores acolhem florestas de caducifólias. Dois ilhéus despontam nas águas: Agios
+      Achilleios, habitado por escassos moradores, e Vidronisi, pequeno penedo desabitado.
+    wildlife: >-
+      Prespa regista 275 espécies de aves, das quais 149 nidificam no local. A espécie emblemática é o
+      [pelicano-crespo](/especie/pelecanus_crispus/): a colónia de Prespa é a mais expressiva do mundo (em
+      2018 contabilizaram-se 1.266 casais reprodutores), representando perto de vinte por cento da população
+      reprodutora global. O [pelicano-vulgar](/especie/pelecanus_onocrotalus/) chega em abril vindo da África
+      Oriental e nidifica mais tarde; apenas aqui e no delta do Danúbio as duas espécies formam colónias
+      conjuntas.
+
+
+      Nos caniçais nidificam oito espécies de garças, destacando-se a
+      [garça-branca-pequena](/especie/egretta_garzetta/), a [garça-branca-grande](/especie/egretta_alba/) e a
+      [garça-real](/especie/ardea_cinerea/); no verão surgem o papa-ratos, a garça-vermelha, o garçote e o
+      [goraz](/especie/nycticorax_nycticorax/). Também nidifica o [ganso-comum](/especie/anser_anser/).
+      Vidronisi alberga uma colónia vultosa de corvos-marinhos. Como o Grande Prespa nunca congela, entre
+      vinte e trinta e cinco por cento dos mergulhões-de-crista e zarros-negrinhos que invernam na Grécia
+      permanecem aqui.
+
+
+      Maio é o mês de maior diversidade de aves. No monte Devas ocorrem a tordeia e a sombria. A flora soma
+      cerca de 1.400 espécies, integrando a endémica Centaurea prespana. No ribeiro de Agios Germanos
+      sobrevive uma truta endémica, e o Grande Prespa alberga onze peixes nativos, nove dos quais endémicos.
+    visit: >-
+      Começa em Agios Germanos, onde se localizam o centro de acolhimento e o Centro de Informação da Direção
+      do Parque de Prespa, contíguos a uma coleção bizantina e a um moinho de água recuperado. Para observação
+      de aves ruma às margens baixas do Pequeno Prespa, aos caniçais, ao porto de Psarades e à foz da ribeira
+      de Agios Germanos.
+
+
+      A partir do parque de estacionamento de Krina, diante de Agios Achilleios, sobe à colina para observar
+      os ninhos de pelicanos. Um passadiço flutuante de 630 m de extensão e 3 m de largura conduz à ilha. O
+      percurso a pé de Krina até à basílica perfaz cinco quilómetros, ou podes fazer um circuito de quarenta
+      minutos nos barcos solares municipais.
+
+
+      Em Psarades, a única aldeia grega nas margens do Grande Prespa a 850 metros de altitude, partem dois
+      percursos: um trilho até à ermida de Agios Athanasios e uma rota assinalada para o cabo Roti. Pequenas
+      embarcações locais levam os visitantes às ermidas rupestres decoradas com frescos medievais nas fragas.
+    history: >-
+      Agios Achilleios é uma de apenas duas ilhas lacustres habitadas da Grécia, congregando onze casas: a
+      tradição local afirma que se uma nova casa for erguida, uma antiga ruirá. O czar Samuel transferiu para
+      aqui por volta de 980-985 as relíquias de Santo Aquileu e mandou construir no fim do século X uma
+      basílica de três naves; o mosteiro de Panagia Porphyra remonta ao início do século XVI.
+
+
+      Durante décadas a bacia grega de Prespa foi uma zona militar sujeita a restrições; após a guerra civil
+      grande parte dos habitantes emigrou. Agios Germanos reunia 3.500 habitantes antes do conflito, contra
+      cerca de duzentos e cinquenta na atualidade.
+
+
+      O Pequeno Prespa é zona húmida Ramsar de relevância internacional e integra a Rede Natura 2000. O bosque
+      de zimbros centenários da capela de São Jorge constitui reserva integral. Em 1999 a Sociedade para a
+      Proteção de Prespa recebeu o Prémio Ramsar, e desde 2017 decorre o projeto LIFE Prespa Waterbirds.
+    before: >-
+      O desembarque no ilhéu de Vidronisi é estritamente proibido para salvaguardar a postura de ovos e as
+      crias dos pelicanos. A observação de aves deve fazer-se à distância com binóculos ou telescópio.
+    around: >-
+      O [Parque Nacional de Pelister](/lugar/nacionalen-park-pelister/) fica a apenas um quilómetro e o
+      [Parque Nacional de Galičica](/lugar/nacionalen-park-galicica/) a sete quilómetros. Mais afastados,
+      partilham pelicanos e vastos sapais o [Parque Nacional do Delta do
+      Evros](/lugar/ethniko-parko-delta-evrou/), a [Reserva Científica do Baixo
+      Prut](/lugar/rezervatia-stiintifica-prutul-de-jos/), o [Parque Nacional do Lago
+      Skadar](/lugar/nacionalni-park-skadarsko-jezero/) e a [Reserva Natural Especial Carska
+      Bara](/lugar/specijalni-rezervat-prirode-carska-bara/).
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Prespa_National_Park_(Greece)
+    titulo: Prespa National Park (Greece) - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/assets/Files/prespes_final_guide.pdf
+    titulo: Municipio de Prespes — guía de visita, pp. 22–23
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/discover/34/nature/190/1-little-prespa
+    titulo: Little Prespa - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Lake_Prespa
+    titulo: Lake Prespa - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/discover/32/places/123/1-psarades
+    titulo: Psarades - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/discover/32/places/145/1-mikrolimni
+    titulo: Mikrolimni - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en
+    titulo: Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/experiences/43/1-activities/214/bird-watching-in-prespes
+    titulo: Bird watching in Prespes - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/experiences/43/1-activities/213/prespes-in-3-days
+    titulo: Prespes in 3 days - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/experiences/43/1-activities/128/crossing-saint-achilleios-pedestrian-bridge
+    titulo: Crossing Saint Achilleios' pedestrian bridge - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/discover/32/places/130/1-saint-achilleios
+    titulo: Saint Achilleios - Visit Prespes
+    fecha_consulta: '2026-11-06'
+  - url: https://visitprespes.gr/en/discover/32/places/119/1-saint-germanos
+    titulo: Saint Germanos - Visit Prespes
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Small_Prespa_Lake_2019-06-01_28.jpg
+    autor: Спасимир (Spasimir Pilev)
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

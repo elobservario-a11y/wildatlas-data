@@ -1,0 +1,601 @@
+id: bieszczadzki-park-narodowy---kompleks-lesny
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Bieszczady - Complejo Forestal
+  en: Bieszczady National Park - Forest Complex
+  fr: Parc national de Bieszczady - Complexe forestier
+  de: Bieszczady-Nationalpark - Waldkomplex
+  it: Parco Nazionale di Bieszczady - Complesso Forestale
+  pt: Parque Nacional de Bieszczady - Complexo Florestal
+nombre_original: Bieszczadzki Park Narodowy - Kompleks leśny
+alias:
+  - Bieszczady Forests
+paises:
+  - PL
+region:
+  es: Voivodato de Subcarpacia (Ustrzyki Górne)
+  en: Subcarpathian Voivodeship (Ustrzyki Górne)
+  fr: Voïvodie des Basses-Carpates (Ustrzyki Górne)
+  de: Woiwodschaft Karpatenvorland (Ustrzyki Górne)
+  it: Voivodato della Precarpazia (Ustrzyki Górne)
+  pt: Voivodia da Subcarpácia (Ustrzyki Górne)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 49.15
+  lon: 22.65
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 851
+  nombre_en_la_fuente: Bieszczadzki Park Narodowy
+  categoria_uicn: II
+  capa: capas/cdda/bieszczadzki-park-narodowy---kompleks-lesny.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+designaciones:
+  - national_park
+  - unesco_whs
+  - natura2000
+  - iucn_ii
+especies:
+  - bison_bonasus
+  - ursus_arctos
+  - canis_lupus
+  - lynx_lynx
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en las praderas de cumbre (połoniny); baja en valles forestales
+  en: Moderate on summit meadows (połoniny); low in forested valleys
+  fr: Moyenne sur les pelouses sommitales (połoniny) ; faible dans les vallées forestières
+  de: Mäßig auf den Gipfelwiesen (połoniny); gering in bewaldeten Tälern
+  it: Media sui pascoli sommitali (połoniny); bassa nelle valli boscose
+  pt: Média nos prados de cumeada (połoniny); baixa nos vales florestais
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Bieszczadzki Park Narodowy - Kompleks leśny
+    url: https://www.bdpn.pl/
+  - titulo: Normas y permisos — Bieszczady
+    url: https://bdpn.gov.pl/regulamin-i-oplaty
+  - titulo: Avisos y accesos — Bieszczady
+    url: https://bdpn.gov.pl/komunikat-turystyczny
+  - titulo: Accesos y aparcamientos — Bieszczady
+    url: https://bdpn.gov.pl/wejscia-i-parkingi
+  - titulo: Rutas — Senderos de Bieszczady
+    url: https://bdpn.gov.pl/szlaki
+  - titulo: Centro de visitantes — Museo de naturaleza de Bieszczady
+    url: https://bdpn.gov.pl/muzeum-przyrodnicze-1
+resumen:
+  es: >-
+    El rincón más salvaje de Polonia en los Cárpatos Orientales, famoso por sus prados de altura (*połoniny*)
+    y bisontes.
+  en: >-
+    Poland’s wildest realm in the Eastern Carpathians, famed for sweeping alpine summit meadows (*połoniny*)
+    and free-ranging European bison.
+  fr: >-
+    Le recoin le plus sauvage de Pologne dans les Carpates orientales, réputé pour ses pelouses d’altitude
+    (*połoniny*) et ses bisons d’Europe.
+  de: >-
+    Polens wildester Winkel in den Ostkarpaten, berühmt für subalpine Bergwiesen (*połoniny*) und freilebende
+    Wisente.
+  it: >-
+    L’angolo più selvaggio della Polonia nei Carpazi Orientali, celebre per le praterie d’alta quota
+    (*połoniny*) e i bisonti europei.
+  pt: >-
+    O recanto mais selvagem da Polónia nos Cárpatos Orientais, célebre pelos seus prados de altitude
+    (*połoniny*) e bisontes-europeus.
+unico:
+  es: Aquí vive la mayor manada de bisontes de montaña en libertad del mundo.
+  en: Home to the world’s largest wild herd of mountain European bison.
+  fr: Abrite la plus importante harde de bisons d’Europe de montagne vivant en liberté au monde.
+  de: Beherbergt die weltweit größte frei lebende Gebirgs-Wisentherde.
+  it: Custodisce la più numerosa mandria libera di bisonti europei di montagna al mondo.
+  pt: Acolhe a maior manada de bisontes-europeus de montanha em liberdade do mundo.
+observaciones:
+  es: >-
+    Hay que caminar solo por senderos señalizados y de día. Llévate tus residuos: la comida abandonada atrae a
+    la fauna. Los puntos de información no tienen horario fijo, así que comprueba antes de ir si hace falta
+    comprar la entrada por adelantado.
+texto:
+  es:
+    intro: >-
+      Camina por un valle de los Bieszczady y verás que el bosque no ha empezado de cero: bajo los árboles
+      quedan lindes y terrazas de campos, sótanos, pozos hundidos, cimientos de casas, árboles junto a caminos
+      y huertos asilvestrados. Entre 1944 y 1947 se expulsó a la población ucraniana de lo que hoy es el
+      parque, y los terrenos de las antiguas aldeas empezaron a cubrirse de árboles y arbustos. De ahí nace un
+      paisaje mitad natural y mitad obra de las personas que aquí se llama *krainy dolin*, la tierra de los
+      valles.
+
+
+      El Parque Nacional de Bieszczady, creado en 1973, protege la parte más meridional de Polonia, en la zona
+      más alta de la cordillera. Allí, junto a la frontera con Ucrania, está Opołonek, de 1.028 m, el punto
+      más al sur del país. Ocupa hoy 292,02 km² y es el mayor parque nacional de montaña de Polonia.
+    landscape: >-
+      El parque tiene dos pisos. Abajo, casi el 80 % es bosque natural de caducifolios y mixto, con haya,
+      aliso gris, arce, abeto rojo y abeto blanco, y un 15 % se considera bosque primario. Arriba, por encima
+      de 1.150 o 1.250 m, el bosque se acaba y empiezan las *połoniny*, los prados de altura de los Cárpatos
+      Orientales, que no existen en otro lugar de Polonia y ocupan unas 1.800 ha.
+
+
+      Las cumbres con nombre son Tarnica, de 1.346 m, Krzemień, de 1.335 m, y Halicz, de 1.333 m, y fueron el
+      núcleo del parque cuando se creó. Casi el 70 % de la superficie está bajo protección estricta, el
+      porcentaje más alto de todos los parques nacionales del país.
+
+
+      Para que el paisaje de los valles no desaparezca, se siega con regularidad y, desde 1993, pastan
+      caballos hucul, una raza de los Cárpatos Orientales.
+
+
+      La vida vegetal es abundante: casi 780 plantas vasculares, unas 30 de ellas propias de los Cárpatos
+      Orientales, además de 250 especies de musgos, 500 de líquenes y 1.000 de hongos.
+    wildlife: >-
+      El parque es refugio de más de 230 especies de vertebrados, 58 de ellas mamíferos. Viven casi todos los
+      grandes carnívoros del país, el [oso pardo](/especie/ursus_arctos/), el [lobo](/especie/canis_lupus/),
+      el [lince](/especie/lynx_lynx/) y el gato montés, y herbívoros como el
+      [bisonte](/especie/bison_bonasus/) y el ciervo de los Cárpatos.
+
+
+      El bisonte es una historia de reintroducción. En los años 60 se llevaron a los Bieszczady cerca de
+      veinte desde los centros de cría de Pszczyna y Niepołomice; hoy su manada es la mayor de montaña que
+      vive en libertad en el mundo.
+
+
+      Entre las aves, más de 140 especies crían en el parque, con grandes rapaces como el [águila
+      real](/especie/aquila_chrysaetos/), el águila pomerana y la culebrera europea. Hay rapaces nocturnas, el
+      búho real, el mochuelo boreal y el cárabo uralense, este último con una de las mayores densidades de
+      Europa. Y en las cumbres más altas pueden verse aves de montaña poco comunes, como el *siwerniak* y el
+      *płochacz halny*.
+
+
+      La estación buena va de mayo a octubre.
+    visit: >-
+      Empieza por el Museo de la Naturaleza en Ustrzyki Dolne, que guarda una de las mayores colecciones de
+      ejemplares naturales de Polonia y recorre el paisaje del parque como una caminata, desde la tierra de
+      los valles hasta las cumbres de las *połoniny*. Si llegas desde Ustrzyki Dolne, el centro de información
+      de Lutowiska está abierto todo el año. El parque cuenta con 20 puntos de información y de venta de
+      entradas y 11 aparcamientos.
+
+
+      Para caminar, el parque tiene una docena larga de senderos de naturaleza e historia, la mayoría sobre
+      rutas existentes. Tres referencias: Wołosate–Tarnica recorre 4.40 km y el ascenso lleva dos horas y
+      cinco minutos; Rozsypaniec–Krzemień mide 13.50 km y el ascenso dura cuatro horas y media; y Tarnawa
+      Niżna–Dźwiniacz Górny tiene cerca de diez kilómetros y unas dos horas y cuarenta minutos en cada
+      sentido.
+    history: >-
+      Más allá de la expulsión de 1944-1947, el parque guarda otras capas. En 1992 pasó a ser parte de la
+      Reserva de la Biosfera de los Cárpatos Orientales, y desde 2021 el 11 % de su superficie es Patrimonio
+      Mundial de la UNESCO.
+    before: >-
+      Hay que caminar solo por senderos señalizados y de día. Llévate tus residuos: la comida abandonada atrae
+      a la fauna. Los puntos de información no tienen horario fijo, así que comprueba antes de ir si hace
+      falta comprar la entrada por adelantado.
+    around: >-
+      A un kilómetro están el [Complejo de Bosques Vírgenes de Bukovské Vrchy - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) y la [Reserva Natural Estricta
+      Stužica](/lugar/narodna-prirodna-rezervacia-stuzica/); a trece kilómetros, la [Reserva Natural Estricta
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) y la [Reserva Natural Estricta
+      Rožok](/lugar/narodna-prirodna-rezervacia-rozok/). Con el [Parque Nacional de Białowieża - Reserva
+      Estricta](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) comparte bisonte, lince y lobo, aunque
+      queda lejos.
+  en:
+    intro: >-
+      Walk along a valley in the Bieszczady and you quickly realize the forest did not start from scratch:
+      beneath the trees lie overgrown field terraces, stone boundary walls, collapsed cellars, sunken stone
+      wells, house foundations, and feral orchards. Between 1944 and 1947 the Ukrainian population was
+      forcibly expelled from what is now the park, and the former village sites slowly reverted to brush and
+      woodland. This created a poignant cultural landscape known locally as *krainy dolin*, the land of the
+      valleys.
+
+
+      Bieszczady National Park, created in 1973, protects the southernmost corner of Poland across the highest
+      ridge of the range. There, right along the Ukrainian border, rises Mount Opołonek at 1,028 m, the
+      southernmost point in the country. Today the park encompasses 292.02 km², ranking as Poland's largest
+      mountain national park.
+    landscape: >-
+      The park is divided into two distinct ecological belts. Down below, nearly 80 % is natural deciduous and
+      mixed forest dominated by European beech, grey alder, sycamore maple, Norway spruce, and silver fir,
+      with roughly 15 % classified as old-growth primeval stands. Up above, between 1,150 and 1,250 m, the
+      trees abrupt and the *połoniny* begin: alpine ridgeline meadows unique within Poland to the Eastern
+      Carpathians, covering some 1,800 ha.
+
+
+      The iconic summits are Tarnica (1,346 m), Krzemień (1,335 m), and Halicz (1,333 m), forming the historic
+      core of the park upon its creation. Nearly 70 % of the territory is under strict protection, the highest
+      proportion among all Polish national parks.
+
+
+      To preserve the open cultural valleys from shrub encroachment, meadows are mown regularly and, since
+      1993, grazed by Hucul ponies, an ancient mountain horse native to the Eastern Carpathians.
+
+
+      Plant life is exceptionally rich: nearly 780 vascular plants, some 30 of them endemic to the Eastern
+      Carpathians, alongside 250 species of mosses, 500 lichens, and 1,000 fungi.
+    wildlife: >-
+      The park shelters more than 230 vertebrate species, including 58 mammals. It sustains virtually all of
+      Poland's large carnivores: [brown bear](/especie/ursus_arctos/), [wolf](/especie/canis_lupus/),
+      [Eurasian lynx](/especie/lynx_lynx/), and European wildcat, alongside large herbivores like the
+      [European bison](/especie/bison_bonasus/) and Carpathian red deer.
+
+
+      The bison represents a conservation triumph. In the 60s, close to twenty animals were brought to the
+      Bieszczady from breeding centres in Pszczyna and Niepołomice; today their herd forms the largest
+      free-ranging mountain population in the world.
+
+
+      Over 140 bird species breed in the park, featuring apex raptors such as the [golden
+      eagle](/especie/aquila_chrysaetos/), lesser spotted eagle, and short-toed snake eagle. Nocturnal
+      predators include Eurasian eagle-owl, boreal owl, and Ural owl, the latter occurring at one of Europe's
+      highest densities. On windy summits you can spot rare montane passerines like the water pipit
+      (*siwerniak*) and alpine accentor (*płochacz halny*).
+
+
+      The best season runs from May to October.
+    visit: >-
+      Begin at the Nature Museum in Ustrzyki Dolne, which preserves one of Poland's finest natural history
+      collections, showcasing the park's ecosystems from valley floor to windswept *połoniny*. If approaching
+      from Ustrzyki Dolne, the Lutowiska visitor centre stays open year-round. The park maintains 20
+      information and ticket kiosks alongside 11 parking areas.
+
+
+      For hiking, the park offers over a dozen natural and historical trails, mostly along established paths.
+      Three classic benchmarks: Wołosate–Tarnica spans 4.40 km with an ascent taking two hours and five
+      minutes; Rozsypaniec–Krzemień measures 13.50 km with an ascent of four and a half hours; and Tarnawa
+      Niżna–Dźwiniacz Górny covers close to ten kilometres, taking about two hours and forty minutes each way.
+    history: >-
+      Beyond the wartime displacement of 1944-1947, the landscape preserves other historic chapters. In 1992
+      it became part of the East Carpathians Biosphere Reserve, and since 2021 roughly 11 % of its territory
+      has been inscribed as UNESCO World Heritage.
+    before: >-
+      Hike strictly along marked trails during daylight hours. Carry out all trash, as abandoned food
+      habituates wildlife. Information kiosks do not keep fixed hours, so check ahead whether you need to
+      purchase trail admission online.
+    around: >-
+      One kilometre away lie the [Bukovské Vrchy Primeval Forest Complex - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) and the [Stužica Strict Nature
+      Reserve](/lugar/narodna-prirodna-rezervacia-stuzica/); thirteen kilometres distant are [Havešová Strict
+      Nature Reserve](/lugar/narodna-prirodna-rezervacia-havesova/) and [Rožok Strict Nature
+      Reserve](/lugar/narodna-prirodna-rezervacia-rozok/). [Białowieża National Park - Strict
+      Reserve](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) shares bison, lynx, and wolf, though
+      located far to the north.
+  fr:
+    intro: >-
+      Marchez au fond d'une vallée des Bieszczady et vous constaterez que la forêt n'est pas née de rien :
+      sous les frondaisons subsistent murets, terrasses de cultures, caves voûtées, puits comblés, fondations
+      de maisons et vergers retournés à l'état sauvage. Entre 1944 et 1947, la population ukrainienne fut
+      expulsée du territoire actuel du parc, et l'espace des anciens villages s'est progressivement reboisé.
+      Il en résulte un paysage mi-naturel mi-culturel baptisé ici *krainy dolin*, le pays des vallées.
+
+
+      Le parc national de Bieszczady, créé en 1973, protège l'extrême sud de la Pologne sur les plus hauts
+      reliefs de la chaîne. Là, sur la frontière ukrainienne, culmine l'Opołonek à 1 028 m, point le plus
+      méridional du pays. Il couvre 292,02 km² et forme le plus vaste parc national montagnard de Pologne.
+    landscape: >-
+      Le parc comporte deux étages distincts. En bas, près de 80 % est couvert de forêt naturelle feuillue et
+      mixte, avec hêtre, aune blanc, érable sycomore, épicéa et sapin blanc, dont 15 % sont considérés comme
+      forêt primaire. En haut, au-dessus de 1 150 ou 1 250 m, la forêt cède la place aux *połoniny*, ces
+      pelouses d'altitude des Carpates orientales uniques en Pologne, s'étendant sur environ 1 800 ha.
+
+
+      Les sommets emblématiques sont le Tarnica (1 346 m), le Krzemień (1 335 m) et le Halicz (1 333 m), cœur
+      historique du parc lors de sa création. Près de 70 % de la superficie est sous protection intégrale,
+      record parmi tous les parcs nationaux polonais.
+
+
+      Pour empêcher les vallées de se refermer sous la friche, les prairies sont fauchées régulièrement et,
+      depuis 1993, pâturées par des chevaux houtsoules, race rustique des Carpates orientales.
+
+
+      La flore est foisonnante : près de 780 plantes vasculaires, dont environ 30 endémiques des Carpates
+      orientales, ainsi que 250 mousses, 500 lichens et 1 000 champignons.
+    wildlife: >-
+      Le parc sert de refuge à plus de 230 espèces de vertébrés, dont 58 mammifères. On y rencontre la
+      quasi-totalité des grands carnivores de Pologne : [ours brun](/especie/ursus_arctos/),
+      [loup](/especie/canis_lupus/), [lynx boréal](/especie/lynx_lynx/) et chat sauvage, aux côtés
+      d'herbivores majeurs comme le [bison d'Europe](/especie/bison_bonasus/) et le cerf élaphe des Carpates.
+
+
+      Le bison d'Europe illustre une réussite de réintroduction. Dans les années 60, près d'une vingtaine
+      d'individus furent introduits depuis les parcs d'élevage de Pszczyna et Niepołomice ; leur population
+      est aujourd'hui la plus grande harde montagnarde libre de la planète.
+
+
+      Plus de 140 espèces d'oiseaux nichent dans le parc, dont l'[aigle royal](/especie/aquila_chrysaetos/),
+      l'aigle pomarin et le circaète Jean-le-Blanc. Les rapaces nocturnes comptent le grand-duc, la chouette
+      de Tengmalm et la chouette de l'Oural, cette dernière à de très fortes densités. Sur les crêtes dénudées
+      nichent des passereaux d'altitude comme le pipit spioncelle (*siwerniak*) et l'accenteur alpin
+      (*płochacz halny*).
+
+
+      La belle saison s'étend de mai à octobre.
+    visit: >-
+      Commencez par le musée d'histoire naturelle d'Ustrzyki Dolne, qui présente les écosystèmes du parc
+      depuis le pays des vallées jusqu'aux *połoniny*. Depuis Ustrzyki Dolne, le centre d'information de
+      Lutowiska reste ouvert toute l'année. Le parc dispose de 20 points d'information et guichets et de 11
+      parkings.
+
+
+      Pour la marche, le parc offre plus d'une douzaine de sentiers thématiques. Trois repères :
+      Wołosate–Tarnica parcourt 4,40 km pour deux heures et cinq minutes de montée ; Rozsypaniec–Krzemień
+      s'étire sur 13,50 km avec quatre heures et demie d'ascension ; Tarnawa Niżna–Dźwiniacz Górny compte
+      environ dix kilomètres et deux heures quarante par sens.
+    history: >-
+      Au-delà des expulsions de 1944-1947, le paysage recèle d'autres jalons. En 1992, le parc a intégré la
+      réserve de biosphère des Carpates orientales, et depuis 2021 environ 11 % de son territoire est inscrit
+      au patrimoine mondial de l'UNESCO.
+    before: >-
+      Restez impérativement sur les sentiers balisés et marchez de jour. Remportez tous vos déchets pour ne
+      pas attirer les animaux. Les guichets ayant des horaires variables, vérifiez à l'avance la possibilité
+      d'acheter votre billet en ligne.
+    around: >-
+      À un kilomètre s'étendent le [Complexe de forêts primaires de Bukovské Vrchy - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) et la [Réserve naturelle stricte de
+      Stužica](/lugar/narodna-prirodna-rezervacia-stuzica/) ; à treize kilomètres se trouvent la [Réserve
+      naturelle stricte de Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) et la [Réserve naturelle
+      stricte de Rožok](/lugar/narodna-prirodna-rezervacia-rozok/). Le [Parc national de Białowieża - Réserve
+      stricte](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) partage bison, lynx et loup bien plus au
+      nord.
+  de:
+    intro: >-
+      Wer durch ein Tal im Bieszczady-Gebirge wandert, begreift rasch, dass der Wald nicht bei null begann:
+      Unter Bäumen liegen alte Feldterrassen, Lesesteinriegel, Kellergewölbe, zugewachsene Brunnen,
+      Hausgrundrisse und verwilderte Obstbäume. Zwischen 1944 und 1947 wurde die ukrainische Bevölkerung aus
+      dem heutigen Parkgebiet vertrieben; die früheren Siedlungsfluren überwucherten mit Sträuchern und
+      Wäldern. So entstand eine Kulturlandschaft namens *krainy dolin*, das Land der Täler.
+
+
+      Der 1973 gegründete Bieszczady-Nationalpark schützt den südlichsten Zipfel Polens am Hauptkamm der
+      Ostkarpaten. Direkt an der ukrainischen Grenze erhebt sich der Opołonek mit 1.028 m als südlichster
+      Punkt des Landes. Er umfasst heute 292,02 km² und ist Polens größter Gebirgsnationalpark.
+    landscape: >-
+      Der Park gliedert sich in zwei Etagen. Unten bedecken fast 80 % naturnahe Laub- und Mischwälder mit
+      Rotbuche, Grauerle, Bergahorn, Fichte und Weißtanne, von denen 15 % als Urwald eingestuft werden. Oben,
+      oberhalb von 1.150 oder 1.250 m, bricht der Wald jäh ab und die *połoniny* beginnen: subalpine
+      Bergwiesen der Ostkarpaten, die es nirgendwo sonst in Polen gibt und rund 1.800 ha umfassen.
+
+
+      Prägende Gipfel sind Tarnica (1.346 m), Krzemień (1.335 m) und Halicz (1.333 m), die den historischen
+      Kern des Parks bildeten. Fast 70 % der Fläche stehen unter Totalreservat-Schutz – der Spitzenwert aller
+      polnischen Nationalparks.
+
+
+      Um das Offenland der Täler vor Verbuschung zu bewahren, werden Wiesen gemäht und weiden seit 1993
+      Huzulenpferde, eine robuste urtümliche Rasse der Ostkarpaten.
+
+
+      Die Pflanzenwelt ist außergewöhnlich reich: fast 780 Gefäßpflanzen, etwa 30 davon ostkarpatische
+      Endemiten, sowie 250 Moosarten, 500 Flechten und 1.000 Pilzarten.
+    wildlife: >-
+      Das Schutzgebiet bietet über 230 Wirbeltierarten Lebensraum, darunter 58 Säugetieren. Nahezu alle großen
+      Beutegreifer Polens kommen vor: [Braunbär](/especie/ursus_arctos/), [Wolf](/especie/canis_lupus/),
+      [Eurasischer Luchs](/especie/lynx_lynx/) und Wildkatze, gemeinsam mit dem
+      [Wisent](/especie/bison_bonasus/) und dem Karpatenhirsch.
+
+
+      Der Wisent ist ein großer Wiederansiedlungserfolg. In den 60er-Jahren wurden rund zwanzig Tiere aus
+      Pszczyna und Niepołomice ins Bieszczady-Gebirge umgesiedelt; heute lebt hier die weltweit größte freie
+      Gebirgsherde.
+
+
+      Über 140 Vogelarten brüten im Park, darunter [Steinadler](/especie/aquila_chrysaetos/), Schreiadler und
+      Schlangenadler. Zu den Eulen zählen Uhu, Raufußkauz und Habichtskauz, letzterer in europaweiter
+      Spitzendichte. Auf windigen Kämmen leben Bergpieper (*siwerniak*) und Alpenbraunelle (*płochacz halny*).
+
+
+      Die Hauptsaison dauert von Mai bis Oktober.
+    visit: >-
+      Beginne am Naturkundemuseum in Ustrzyki Dolne, das die Naturräume des Parks von den Tälern bis zu den
+      *połoniny* veranschaulicht. Von Ustrzyki Dolne kommend ist die Informationsstelle in Lutowiska
+      ganzjährig geöffnet. Der Park verfügt über 20 Infostellen und Ticketkassen sowie 11 Parkplätze.
+
+
+      Zum Wandern stehen über ein Dutzend Natur- und Geschichtspfade bereit. Drei Anhaltspunkte:
+      Wołosate–Tarnica verläuft über 4,40 km bei zwei Stunden und fünf Minuten Aufstieg; Rozsypaniec–Krzemień
+      misst 13,50 km bei viereinhalb Stunden Anstieg; Tarnawa Niżna–Dźwiniacz Górny umfasst rund zehn
+      Kilometer und zwei Stunden vierzig je Richtung.
+    history: >-
+      Über die Zwangsaussiedlungen von 1944-1947 hinaus birgt das Gebiet weitere Facetten. 1992 wurde der Park
+      Teil des Biosphärenreservats Ostkarpaten, und seit 2021 gehören 11 % der Fläche zum
+      UNESCO-Weltnaturerbe.
+    before: >-
+      Wandere ausschließlich auf markierten Wegen und bei Tageslicht. Nimm alle Abfälle mit, da Speisereste
+      Bären anlocken. Die Kassen haben variable Öffnungszeiten; prüfe vorab den Online-Ticketkauf.
+    around: >-
+      Einen Kilometer entfernt liegen der [Urwaldkomplex Bukovské Vrchy - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) und das [Nationales Naturreservat
+      Stužica](/lugar/narodna-prirodna-rezervacia-stuzica/); dreizehn Kilometer entfernt das [Nationales
+      Naturreservat Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) und das [Nationales Naturreservat
+      Rožok](/lugar/narodna-prirodna-rezervacia-rozok/). Der [Nationalpark Białowieża -
+      Totalreservat](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) teilt Wisent, Luchs und Wolf im
+      fernen Norden.
+  it:
+    intro: >-
+      Cammina lungo una valle dei Bieszczady e ti accorgerai che la foresta non è sorta dal nulla: sotto gli
+      alberi affiorano terrazzamenti, muretti a secco, cantine interrate, pozzi in pietra, fondamenta di case
+      e frutteti inselvatichiti. Tra il 1944 e il 1947 la popolazione ucraina fu espulsa da quello che è oggi
+      il parco, e le antiche terre rurali vennero riconquistate dalla macchia e dal bosco. Ne è nato un
+      paesaggio semiculturale chiamato *krainy dolin*, la terra delle valli.
+
+
+      Il Parco Nazionale di Bieszczady, istituito nel 1973, tutela l'estremità meridionale della Polonia lungo
+      il crinale montuoso. Là, sulla frontiera ucraina, si erge l'Opołonek a 1.028 m, punto più a sud della
+      nazione. Copre oggi 292,02 km² ed è il più esteso parco nazionale montano della Polonia.
+    landscape: >-
+      Il territorio presenta due fasce distinte. In basso, quasi l'80 % è coperto da foresta naturale mista
+      con faggio, ontano bianco, acero montano, abete rosso e abete bianco, di cui il 15 % è classificato come
+      foresta vetusta primaria. In alto, sopra quota 1.150 o 1.250 m, il bosco termina e si aprono le
+      *połoniny*: le praterie alpine dei Carpazi Orientali, uniche in Polonia, estese per circa 1.800 ha.
+
+
+      Le vette più celebri sono Tarnica (1.346 m), Krzemień (1.335 m) e Halicz (1.333 m), nucleo primigenio
+      del parco alla fondazione. Quasi il 70 % della superficie è a protezione integrale, la quota più alta
+      tra tutti i parchi nazionali polacchi.
+
+
+      Per evitare che il fondovalle si inselvatichisca, i prati vengono sfalciati e dal 1993 pascolati dai
+      cavalli hucul, antica razza autoctona dei Carpazi Orientali.
+
+
+      La flora annovera quasi 780 piante vascolari, circa 30 delle quali endemiche dei Carpazi Orientali,
+      assieme a 250 specie di muschi, 500 licheni e 1.000 funghi.
+    wildlife: >-
+      Il parco ospita più di 230 specie di vertebrati, tra cui 58 mammiferi. Vi risiedono quasi tutti i grandi
+      carnivori polacchi: [orso bruno](/especie/ursus_arctos/), [lupo grigio](/especie/canis_lupus/), [lince
+      boreale](/especie/lynx_lynx/) e gatto selvatico, affiancati da grandi erbivori come il [bisonte
+      europeo](/especie/bison_bonasus/) e il cervo dei Carpazi.
+
+
+      Il bisonte è un trionfo di conservazione. Negli anni 60 furono reintrodotti una ventina di esemplari dai
+      centri di Pszczyna e Niepołomice; oggi la mandria montana è la più vasta in libertà al mondo.
+
+
+      Oltre 140 specie di volatili nidificano nel parco, con rapaci maestosi quali l'[aquila
+      reale](/especie/aquila_chrysaetos/), l'aquila anatraia minore e il biancone. Tra i notturni figurano il
+      gufo reale, la civetta capogrosso e l'allocco degli Urali, presente con densità tra le più alte
+      d'Europa. Sulle creste ventose volano lo spioncello (*siwerniak*) e il sordone (*płochacz halny*).
+
+
+      La stagione favorevole va da maggio a ottobre.
+    visit: >-
+      Inizia dal Museo della Natura a Ustrzyki Dolne, che raccoglie una ricca collezione scientifica ed espone
+      gli ambienti dai fondivalle alle *połoniny*. Da Ustrzyki Dolne, il centro informazioni di Lutowiska è
+      aperto tutto l'anno. Il parco conta 20 punti informativi e biglietterie assieme a 11 parcheggi.
+
+
+      Per camminare ci sono oltre una dozzina di sentieri naturalistici e storici. Tre itinerari classici:
+      Wołosate–Tarnica copre 4,40 km con due ore e cinque minuti di salita; Rozsypaniec–Krzemień misura 13,50
+      km per quattro ore e mezza di marcia; Tarnawa Niżna–Dźwiniacz Górny copre circa dieci chilometri e due
+      ore e quaranta minuti a tratta.
+    history: >-
+      Oltre agli sradicamenti del periodo 1944-1947, il territorio racchiude altre tappe. Nel 1992 è entrato
+      nella Riserva della Biosfera dei Carpazi Orientali, e dal 2021 l'11 % della superficie è patrimonio
+      mondiale UNESCO.
+    before: >-
+      Cammina esclusivamente sui sentieri segnati e nelle ore diurne. Porta via i rifiuti: gli scarti di cibo
+      attirano i carnivori. I punti vendita possono avere orari variabili, pertanto controlla l'acquisto
+      online dei biglietti prima della partenza.
+    around: >-
+      A un chilometro si trovano il [Complesso di foreste primordiali di Bukovské Vrchy - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) e la [Riserva naturale integrale di
+      Stužica](/lugar/narodna-prirodna-rezervacia-stuzica/); a tredici chilometri la [Riserva naturale
+      integrale di Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) e la [Riserva naturale integrale di
+      Rožok](/lugar/narodna-prirodna-rezervacia-rozok/). Con il [Parco nazionale di Białowieża - Riserva
+      integrale](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) condivide bisonte, lince e lupo a nord.
+  pt:
+    intro: >-
+      Caminha por um vale dos Bieszczady e perceberás que a floresta não começou do nada: sob as copas das
+      árvores restam socalcos agrícolas, muros de pedra, caves soterradas, poços de pedra, fundações de
+      habitações e pomares bravios. Entre 1944 e 1947 a população ucraniana foi expulsa do território que hoje
+      forma o parque, e as antigas aldeias foram engolidas por bosques espontâneos. Nasceu assim uma paisagem
+      mista natural e humana conhecida por *krainy dolin*, a terra dos vales.
+
+
+      O Parque Nacional de Bieszczady, criado em 1973, protege o extremo sul da Polónia ao longo da crista
+      montanhosa. Ali, na fronteira ucraniana, ergue-se o monte Opołonek a 1.028 m, ponto mais meridional do
+      país. Abrange 292,02 km² e é o maior parque nacional de montanha da Polónia.
+    landscape: >-
+      O parque reparte-se em dois andares. Em baixo, quase 80 % é mata natural caducifólia e mista com faia,
+      amieiro-branco, bordo, espruce e abeto-branco, sendo 15 % classificado como floresta primária virgem. Em
+      cima, acima dos 1.150 ou 1.250 m, a floresta termina e surgem as *połoniny*: prados alpinos dos Cárpatos
+      Orientais exclusivos na Polónia, abrangendo cerca de 1.800 ha.
+
+
+      Os cumes mais célebres são Tarnica (1.346 m), Krzemień (1.335 m) e Halicz (1.333 m), berço do parque na
+      sua fundação. Quase 70 % da área encontra-se sob reserva integral, a percentagem mais elevada de todos
+      os parques nacionais do país.
+
+
+      Para impedir que os vales se fechem em matagal, os prados são ceifados e, desde 1993, pastoreados por
+      cavalos hucul, uma raça rústica dos Cárpatos Orientais.
+
+
+      A flora é riquíssima: quase 780 plantas vasculares, cerca de 30 endémicas dos Cárpatos Orientais, além
+      de 250 musgos, 500 líquenes e 1.000 fungos.
+    wildlife: >-
+      O parque é refúgio de mais de 230 espécies de vertebrados, com 58 mamíferos. Acolhe quase todos os
+      grandes carnívoros da Polónia: [urso-pardo](/especie/ursus_arctos/),
+      [lobo-cinzento](/especie/canis_lupus/), [lince-euroasiático](/especie/lynx_lynx/) e gato-bravo, ao lado
+      de ungulados como o [bisonte-europeu](/especie/bison_bonasus/) e o veado dos Cárpatos.
+
+
+      O bisonte consagra um êxito de reintrodução. Nos anos 60 foram levados para os Bieszczady cerca de vinte
+      animais dos criadouros de Pszczyna e Niepołomice; hoje constituem a maior manada de montanha em
+      liberdade do planeta.
+
+
+      Mais de 140 espécies de aves nidificam aqui, com grandes rapinas como a
+      [águia-real](/especie/aquila_chrysaetos/), a águia-pomarina e o bútio-vespeiro. Entre as noturnas
+      avultam o bufo-real, o mocho-boreale e a coruja-dos-urales, esta última com densidades recorde na
+      Europa. Nas cristas ocorrem aves raras como a petinha-ribeirinha (*siwerniak*) e a ferreirinha-alpina
+      (*płochacz halny*).
+
+
+      A melhor época estende-se de maio a outubro.
+    visit: >-
+      Começa pelo Museu da Natureza em Ustrzyki Dolne, que reúne uma das maiores coleções zoológicas da
+      Polónia e ilustra os ecossistemas desde os vales até às *połoniny*. A partir de Ustrzyki Dolne, o centro
+      de Lutowiska abre todo o ano. O parque possui 20 postos informativos e de bilheteira e 11 parques de
+      estacionamento.
+
+
+      Para caminhar há mais de uma dezena de percursos temáticos. Três percursos de referência:
+      Wołosate–Tarnica soma 4,40 km com subida de duas horas e cinco minutos; Rozsypaniec–Krzemień mede 13,50
+      km para quatro horas e meia de caminhada; e Tarnawa Niżna–Dźwiniacz Górny cobre cerca de dez quilómetros
+      e duas horas e quarenta por sentido.
+    history: >-
+      Para além do êxodo de 1944-1947, a região guarda outros episódios. Em 1992 integrou a Reserva da
+      Biosfera dos Cárpatos Orientais e, desde 2021, cerca de 11 % da área foi classificada como Património
+      Mundial da UNESCO.
+    before: >-
+      Caminha estritamente por trilhos assinalados e durante o dia. Leva contigo todo o lixo: restos de comida
+      atraem animais selvagens. Os postos de venda podem ter horários irregulares, pelo que deves confirmar a
+      compra antecipada de bilhetes online.
+    around: >-
+      A um quilómetro situam-se o [Complexo de Florestas Primitivas de Bukovské Vrchy - NP
+      Poloniny](/lugar/bukovske-vrchy-pralesovy-komplex-np-poloniny/) e a [Reserva Natural Estrita de
+      Stužica](/lugar/narodna-prirodna-rezervacia-stuzica/); a treze quilómetros a [Reserva Natural Estrita de
+      Havešová](/lugar/narodna-prirodna-rezervacia-havesova/) e a [Reserva Natural Estrita de
+      Rožok](/lugar/narodna-prirodna-rezervacia-rozok/). O [Parque Nacional de Białowieża - Reserva
+      Estrita](/lugar/bialowieski-park-narodowy---rezerwat-scisly/) partilha bisonte, lince e lobo a norte.
+fuentes:
+  - url: https://bdpn.gov.pl/
+    titulo: Bieszczadzki Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://pedzelek.bdpn.pl/zasady-zwiedzania
+    titulo: Zasady zwiedzania Bieszczadzkiego Parku Narodowego
+    fecha_consulta: '2026-10-29'
+  - url: https://pl.wikipedia.org/wiki/Bieszczadzki_Park_Narodowy
+    titulo: Bieszczadzki Park Narodowy – Wikipedia, wolna encyklopedia
+    fecha_consulta: '2026-10-29'
+  - url: https://bdpn.gov.pl/muzeum-przyrodnicze-1
+    titulo: Muzeum Przyrodnicze
+    fecha_consulta: '2026-10-29'
+  - url: https://bdpn.gov.pl/wejscia-i-parkingi
+    titulo: Wejścia i parkingi
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Bieszczadzki_park_Narodowy.jpg
+    autor: Stap22
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-03'

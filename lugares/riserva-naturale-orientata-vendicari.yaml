@@ -1,0 +1,578 @@
+id: riserva-naturale-orientata-vendicari
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de Vendicari (Sicilia)
+  en: Vendicari Nature Reserve (Sicily)
+  fr: Réserve naturelle de Vendicari (Sicile)
+  de: Naturreservat Vendicari (Sizilien)
+  it: Riserva naturale orientata Oasi Faunistica di Vendicari
+  pt: Reserva Natural de Vendicari (Sicília)
+nombre_original: Riserva Naturale Orientata Vendicari
+alias:
+  - Riserva Naturale Orientata Vendicari (Sicilia)
+paises:
+  - IT
+region:
+  es: Sicilia (Siracusa / Noto / Marzamemi)
+  en: Sicily (Syracuse / Noto / Marzamemi)
+  fr: Sicile (Syracuse / Noto / Marzamemi)
+  de: Sizilien (Syrakus / Noto / Marzamemi)
+  it: Sicilia (Siracusa / Noto / Marzamemi)
+  pt: Sicília (Siracusa / Noto / Marzamemi)
+ubicacion:
+  tipo: punto
+  lat: 36.8
+  lon: 15.1
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 14645
+  nombre_en_la_fuente: Riserva naturale Oasi Faunistica di Vendicari
+  categoria_uicn: IV
+  capa: capas/cdda/riserva-naturale-orientata-vendicari.geojson
+habitats:
+  - wetland
+  - coast
+  - marine
+designaciones:
+  - natural_reserve
+  - ramsar
+  - natura2000
+especies:
+  - phoenicopterus_roseus
+  - platalea_leucorodia
+  - porphyrio_porphyrio
+temporada_ideal:
+  - 3
+  - 4
+  - 5
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y migración de otoño
+  en: spring and autumn migration
+  fr: printemps et migration d'automne
+  de: Frühling und Herbstzug
+  it: primavera e migrazione d'autunno
+  pt: primavera e migração de outono
+masificacion: 2
+masificacion_nota:
+  es: Media en la playa de Calamosche y la almadraba histórica en verano
+  en: Moderate at Calamosche beach and the historic tuna fishery in summer
+  fr: Moyenne sur la plage de Calamosche et à la madrague historique en été
+  de: Mäßig am Strand von Calamosche und der historischen Thunfischfanganlage im Sommer
+  it: Media presso la spiaggia di Calamosche e la tonnara storica in estate
+  pt: Média na praia de Calamosche e na armação atuneira histórica no verão
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y accesos — Reserva de Vendicari
+    url: https://www.riserve-vendicari-cavagrande-pantalica.it/riserva-naturale-di-vendicari/
+  - titulo: Mapa — Recorridos de Vendicari
+    url: https://www.riserve-vendicari-cavagrande-pantalica.it/vendicari-mappa/
+  - titulo: Normas — Reglamento de Vendicari (PDF)
+    url: https://www.riserve-vendicari-cavagrande-pantalica.it/wp-content/uploads/2023/08/Regolamento-Vendicari.pdf
+resumen:
+  es: >-
+    Oasis costero y sitio Ramsar en la Sicilia sudoriental, con lagunas pantanosas estacionales (*pantani*) e
+    históricas ruinas de la *Tonnara di Vendicari*.
+  en: >-
+    Coastal oasis and Ramsar wetland in southeastern Sicily, featuring seasonal salt lagoons (*pantani*) and
+    historic ruins of the *Tonnara di Vendicari*.
+  fr: >-
+    Oasis littorale et site Ramsar du sud-est de la Sicile, avec lagunes côtières temporaires (*pantani*) et
+    ruines de la *Tonnara di Vendicari*.
+  de: >-
+    Küstenoase und Ramsar-Gebiet im Südosten Siziliens mit saisonalen Strandlagunen (*pantani*) und Ruinen der
+    historischen *Tonnara di Vendicari*.
+  it: >-
+    Oasi costiera e zona umida Ramsar nella Sicilia sud-orientale, con lagune salmastre temporanee (*pantani*)
+    e i ruderi della storica *Tonnara di Vendicari*.
+  pt: >-
+    Oásis litoral e sítio Ramsar no sudeste da Sicília, com lagoas costeiras sazonais (*pantani*) e ruínas da
+    histórica *Tonnara di Vendicari*.
+unico:
+  es: >-
+    Es el paso obligado entre Europa y África de las aves acuáticas, donde cada mes del año trae a especies
+    distintas.
+  en: >-
+    A mandatory transit bottleneck between Europe and Africa for waterbirds, where every month brings
+    different migrant flocks.
+  fr: >-
+    Le passage obligé des oiseaux d'eau entre Europe et Afrique, où chaque mois de l'année amène des espèces
+    différentes.
+  de: >-
+    Ein unverzichtbarer Nadelöhr-Rastplatz zwischen Europa und Afrika für Wasservögel, wo jeder Monat andere
+    Arten bringt.
+  it: >-
+    Punto di sosta obbligato tra Europa e Africa per gli uccelli acquatici, dove ogni mese dell'anno porta
+    specie diverse.
+  pt: >-
+    Ponto de passagem obrigatório entre a Europa e África para aves aquáticas, onde cada mês acolhe espécies
+    distintas.
+observaciones:
+  es: >-
+    Si ves animales salvajes, déjalos tranquilos, no te acerques, no les des comida y evita gritos y
+    movimientos bruscos. Evita las horas más calurosas del día, lleva agua y calzado cerrado. La reserva abre
+    todos los días del año salvo cierres temporales por eventos excepcionales u obras, que el gestor anuncia
+    en su web: comprueba antes de ir.
+texto:
+  es:
+    intro: >-
+      Hay lugares donde un viaje se acaba y otro empieza. En la punta sudoriental de Sicilia, una franja
+      estrecha de unos 8 km de costa, entre Noto Marina y San Lorenzo, hace de última escala para millones de
+      aves acuáticas que bajan desde el norte hacia sus zonas de invernada: desde aquí quedan unos 350 km de
+      mar abierto hasta las costas africanas. Por eso a Vendicari le llaman «el hotel de las aves», y por eso
+      quien sabe de pájaros llega con prismáticos y se queda hasta que se acaba la luz. La reserva es además
+      un sitio Ramsar y se extiende por el municipio de Noto, a lo largo de 1.512,43 hectáreas.
+    landscape: >-
+      La reserva junta en pocos kilómetros costa rocosa, costa arenosa, matorral mediterráneo, pantanos,
+      salinas y garrigas. La clave está en los pantanos, lagunas poco profundas de agua salobre y a veces muy
+      salada, que acogen cada año a cientos de especies de aves. De los pantanos Piccolo, Grande y Roveto,
+      solo el Piccolo no se seca nunca, ni en épocas de sequía, gracias a manantiales de agua salobre. Los
+      demás, en julio y agosto, con el calor y sin salida para el agua, se evaporan y solo quedan charcos.
+
+
+      La vegetación cambia con el suelo. En las playas arenosas, como la de Eloro, crecen plantas psammófilas
+      como ravastrello, alfalfa marina, calcatreppola y azucena de mar. En el matorral de tomillo y lentisco
+      se encuentran el labiérnago de hoja estrecha y el enebro de bayas grandes. En las dunas estables de
+      Marianelli, la playa más aislada y de carácter más salvaje, crecen el ammófilo, la santolina y la grama
+      de las playas. Y junto a los pantanos, donde la sal manda, plantas palustres como Salicornia fruticosa y
+      Salicornia glauca toleran la salinidad.
+    wildlife: >-
+      Cada estación abre un capítulo distinto del libro de las aves. En julio y agosto, aunque los pantanos
+      estén secos, llegan limícolas tempranos como archibebes, zarapitos y avocetas. En julio pasan
+      chorlitejos patinegros y gaviotas picofinas, y en agosto grupos de garzas reales y garcetas que paran en
+      la reserva. También en agosto pueden verse las rarísimas [espátulas](/especie/platalea_leucorodia/),
+      junto a algunas [cigüeñas negras](/especie/ciconia_nigra/) y la más escasa [cigüeña
+      blanca](/especie/ciconia_ciconia/).
+
+
+      Hacia septiembre llegan las cercetas, y con las primeras lluvias, grupos de correlimos y otros
+      limícolas. En otoño aparecen gaviotas reidoras y cabecinegras, procedentes del este y del mar Negro, y
+      los [flamencos](/especie/phoenicopterus_roseus/) del norte de Francia hacen escala antes de criar en
+      Túnez. En otoño e invierno se registra el mayor número de [tarros blancos](/especie/tadorna_tadorna/),
+      que se han convertido en un símbolo de la reserva. Desde diciembre los pantanos se llenan de fochas, de
+      varios millares de ejemplares, y es buen momento para ver la abubilla y el pechiazul. La cigüeñuela
+      común hace escala en su viaje de África a las zonas de cría del norte de Europa. Hacia finales de
+      febrero llegan los primeros bandos de cercetas carretonas, y en marzo se registra el mayor número de
+      aves de todo el año.
+
+
+      En la arena, algo más discreto: una gran parte de la playa de Vendicari está vedada al público porque es
+      lugar de puesta de la [tortuga boba](/especie/caretta_caretta/).
+    visit: >-
+      La reserva tiene cinco entradas que llevan a cinco playas. Desde la de Eloro, un sendero corto bordea el
+      torrente San Nicola, sobre el que están los restos de la antigua ciudad griega de Eloro; en unos 300
+      metros se llega a la playa. Desde la de Calamosche, un sendero de unos 1200 metros lleva a la cala,
+      resguardada por dos promontorios rocosos que mantienen el agua tranquila. En la entrada principal, en
+      Vendicari, el sendero pasa junto al pantano grande y las salinas y en unos 500 metros llega a la playa.
+      Y desde la entrada sur, la de Cittadella, un tramo largo de sendero de unos 3,5 km lleva a la Tonnara.
+
+
+      En la antigua casa de los pescadores, junto a la Torre Sveva y la Tonnara, el ecomuseo tiene salas
+      didácticas con paneles sobre flora, fauna, geología, medio marino y aspectos humanos. Los puestos de
+      observación reciben cada año a aficionados de toda Europa, sobre todo en otoño y primavera.
+    history: >-
+      Vendicari fue instituida como reserva natural el 14 de marzo de 1984. La historia humana se lee en sus
+      ruinas. La Torre Sveva se remonta a la época sueva, entre los siglos XIII y XIV, y se completó en la
+      segunda mitad del siglo XVI. La Tonnara de Vendicari dejó de funcionar tras el desembarco aliado de
+      julio de 1943. Las salinas, medievales, fueron auxiliares de la Tonnara; su cierre definitivo, en 1951,
+      lo provocó una inundación que dañó gravemente la instalación. Más antiguos son los restos de un
+      establecimiento griego de elaboración de pescado, con veinticinco balsas activas del siglo IV al I a.
+      C., y, en Cittadella dei Maccari, la aldea bizantina que Paolo Orsi encontró, con la iglesia llamada
+      Trigona, de tres ábsides y cúpula hemisférica, datada entre los siglos VI y VIII.
+    before: >-
+      Si ves animales salvajes, déjalos tranquilos, no te acerques, no les des comida y evita gritos y
+      movimientos bruscos. Evita las horas más calurosas del día, lleva agua y calzado cerrado. La reserva
+      abre todos los días del año salvo cierres temporales por eventos excepcionales u obras, que el gestor
+      anuncia en su web: comprueba antes de ir.
+    around: >-
+      Por sus aves acuáticas, Vendicari se parece a otros humedales costeros europeos. El [Parque Natural da
+      Ria Formosa](/lugar/parque-natural-da-ria-formosa/), el [Parque Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) y el [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/) comparten con él la espátula y el flamenco, y el [Parque
+      Nacional del Delta del Evros](/lugar/ethniko-parko-delta-evrou/) también los comparte.
+  en:
+    intro: >-
+      There are places where one migration ends and another begins. On the southeastern tip of Sicily, a
+      narrow coastal strip of roughly 8 km between Noto Marina and San Lorenzo provides the final staging post
+      for millions of waterbirds flying south towards wintering grounds: from here, some 350 km of open sea
+      stretch to the African shore. That is why Vendicari is known as the «bird hotel», and why birdwatchers
+      arrive with optics and linger until twilight fades. The reserve is also a designated Ramsar site
+      encompassing 1,512.43 hectares within the municipality of Noto.
+    landscape: >-
+      Within a few kilometres the reserve brings together rocky shoreline, fine sandy beaches, Mediterranean
+      scrub, wetlands, salt pans and garrigue. The ecological engine lies in the *pantani*, shallow brackish
+      or hypersaline lagoons that welcome hundreds of bird species each year. Of Pantano Piccolo, Pantano
+      Grande and Pantano Roveto, only Piccolo never dries out, even during drought, fed by subsoil brackish
+      springs. The others, under July and August heat with no outlet, evaporate into residual saline pools.
+
+
+      Vegetation mirrors soil conditions. On sandy strands like Eloro grow psammophiles such as sea rocket,
+      sea medick, sea holly and sea daffodil. In the thyme and lentisc scrubland, narrow-leaved phillyrea and
+      large-fruited juniper take root. On the stable backdunes of Marianelli—the wildest and most secluded
+      strand—marram grass, cotton lavender and Bermuda grass thrive. Bordering the lagoons, where salinity
+      rules, succulent halophytes such as *Salicornia fruticosa* and *Salicornia glauca* form dense glasswort
+      swards.
+    wildlife: >-
+      Every season opens a fresh chapter in avian migration. In July and August, even while lagoons recede,
+      early waders touch down: greenshanks, curlews and avocets. In July kentish plovers and slender-billed
+      gulls pass through, followed in August by grey herons and little egrets pausing along their voyage.
+      August also welcomes rare [Eurasian spoonbills](/especie/platalea_leucorodia/), alongside solitary
+      [black storks](/especie/ciconia_nigra/) and the less frequent [white stork](/especie/ciconia_ciconia/).
+
+
+      Towards September teals arrive, and the autumn rains bring dunlins and other calidrid sandpipers. Autumn
+      ushers in black-headed and Mediterranean gulls arriving from the Black Sea, while [greater
+      flamingos](/especie/phoenicopterus_roseus/) from southern France stage here before nesting in Tunisia.
+      Autumn and winter record the greatest concentrations of [common shelducks](/especie/tadorna_tadorna/),
+      the reserve's flagship waterfowl. From December coots blanket the open water in several thousands,
+      joined by hoopoes and bluethroats. Black-winged stilts stage on their return flight from Africa. By late
+      February the first garganey flocks appear, and March records the highest overall bird tallies of the
+      year.
+
+
+      On the beach, something more secretive occurs: large stretches of Vendicari beach are cordoned off as
+      nesting grounds for the [loggerhead sea turtle](/especie/caretta_caretta/).
+    visit: >-
+      The reserve has five entrances leading to five beaches. From Eloro, a short path follows the San Nicola
+      creek past the archaeological remains of the Greek city of Heloros, reaching the beach in about 300
+      metres. From Calamosche, a path of roughly 1,200 metres leads to the sheltered cove flanked by rocky
+      promontories. At the main Vendicari gate, the path skirts the Pantano Grande and old salt pans, reaching
+      the beach in 500 metres. From Cittadella in the south, a 3.5 km trail leads north to the historic tuna
+      fishery.
+
+
+      In the restored fishermen's dwellings beside the Swabian Tower and the tuna works, an ecomuseum features
+      exhibits on flora, fauna, geology, marine ecosystems and coastal history. Hide facilities welcome
+      birders year-round, especially during spring and autumn.
+    history: >-
+      Vendicari was formally established as a nature reserve on 14 March 1984. Human history is etched into
+      its stone ruins. The Swabian Tower dates back to the Swabian period between the XIII and XIV centuries,
+      completed in the second half of the XVI century. The historic Tonnara di Vendicari ceased operating
+      after the Allied landings in Sicily in July 1943. The medieval salt pans, which served the tuna works,
+      closed definitively in 1951 following catastrophic storm flooding. Older still are the Greek
+      fish-salting installations, featuring twenty-five stone vats active from the IV to the I century BC. At
+      Cittadella dei Maccari, archaeological excavations by Paolo Orsi unearthed a Byzantine settlement
+      centred around the Trigona chapel, a three-apsed domed church dated between the VI and VIII centuries.
+    before: >-
+      If you spot wildlife, keep your distance, do not approach or feed animals, and avoid shouting or sudden
+      movements. Avoid walking in the hottest midday hours, carry drinking water and wear closed footwear. The
+      reserve is open every day of the year except during exceptional weather closures or maintenance work
+      announced on the official portal: verify before your visit.
+    around: >-
+      Vendicari shares its coastal lagoons and waterbirds with [Doñana National
+      Park](/lugar/parque-nacional-de-donana/) and [Aiguamolls de l'Empordà Natural
+      Park](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), while [Ria Formosa Natural
+      Park](/lugar/parque-natural-da-ria-formosa/) and the [Evros Delta National
+      Park](/lugar/ethniko-parko-delta-evrou/) match its spoonbills and flamingos.
+  fr:
+    intro: >-
+      Il est des lieux où un périple s'achève tandis qu'un autre commence. À la pointe sud-est de la Sicile,
+      une étroite frange littorale d'environ 8 km entre Noto Marina et San Lorenzo sert d'ultime escale à des
+      millions d'oiseaux d'eau descendant vers le sud : d'ici s'ouvrent quelque 350 km de mer ouverte
+      jusqu'aux rivages africains. C'est pourquoi Vendicari est surnommée « l'hôtel des oiseaux », attirant
+      les passionnés d'ornithologie jusqu'au crépuscule. La réserve constitue en outre un site Ramsar et
+      s'étend sur 1 512,43 hectares dans la commune de Noto.
+    landscape: >-
+      La réserve rassemble en quelques kilomètres côtes rocheuses, estrans sableux, maquis méditerranéen,
+      marais, salins et garrigues. Le cœur battant du site réside dans les *pantani*, ces lagunes peu
+      profondes d'eaux saumâtres qui accueillent chaque année des centaines d'espèces aviaires. Des marais
+      Piccolo, Grande et Roveto, seul le Piccolo ne s'assèche jamais, même lors des sécheresses estivales,
+      alimenté par des résurgences saumâtres. Les autres, sous la canicule de juillet et août, s'évaporent en
+      croûtes salines.
+
+
+      La végétation épouse la nature du sol. Sur les plages de sable comme Eloro croissent roquette de mer,
+      luzerne marine, panicaut et lis maritime. Le maquis abrite filaire à feuilles étroites et genévrier à
+      gros fruits. Sur les dunes de Marianelli, plage sauvage et reculée, s'installent oyat et santoline. Au
+      bord des lagunes règnent les salicornes halophiles comme *Salicornia fruticosa* et *Salicornia glauca*.
+    wildlife: >-
+      Chaque saison dévoile une facette différente de la migration. En juillet et août, bien que les marais
+      soient à sec, débarquent les premiers limicoles : chevaliers, courlis et avocettes. En juillet
+      transitent gravelots à collier interrompu et goélands railleurs, puis en août les hérons cendrés et
+      aigrettes garzettes. En août s'observent également les rarissimes [spatules
+      blanches](/especie/platalea_leucorodia/), ainsi que des [cigognes noires](/especie/ciconia_nigra/) et la
+      [cigogne blanche](/especie/ciconia_ciconia/).
+
+
+      Vers septembre arrivent les sarcelles, et les premières pluies amènent bécasseaux et chevaliers.
+      L'automne voit affluer mouettes rieuses et goélands mélanocéphales venus de mer Noire, tandis que les
+      [flamants roses](/especie/phoenicopterus_roseus/) de Camargue font halte avant de regagner la Tunisie.
+      L'automne et l'hiver concentrent d'importantes troupes de [tadornes de
+      Belon](/especie/tadorna_tadorna/), emblème ailé de la réserve. Dès décembre, les foulques couvrent les
+      eaux par milliers, accompagnées de huppes et de gorgebleues. Les échasses blanches font étape au retour
+      d'Afrique. Fin février apparaissent les premières sarcelles d'été, et mars enregistre les plus hauts
+      comptages annuels.
+
+
+      Sur le sable s'opère un phénomène précieux : de larges secteurs de la plage sont sanctuarisés pour la
+      ponte de la [tortue caouanne](/especie/caretta_caretta/).
+    visit: >-
+      La réserve compte cinq accès desservant cinq plages. Depuis Eloro, un court chemin longe le ruisseau San
+      Nicola et les ruines grecques d'Héloros pour atteindre la plage en 300 mètres. Depuis Calamosche, un
+      sentier d'environ 1 200 mètres mène à une crique abritée entre deux avancées rocheuses. À l'entrée
+      principale de Vendicari, le sentier longe le grand marais et les salins et débouche en 500 mètres sur le
+      rivage. Depuis l'accès sud de Cittadella, un itinéraire de 3,5 km rejoint l'ancienne madrague.
+
+
+      Dans l'ancienne maison des pêcheurs, près de la tour souabe et de la madrague, un écomusée présente
+      géologie, faune, flore et traditions maritimes. Des observatoires accueillent les ornithologues au
+      printemps et à l'automne.
+    history: >-
+      Vendicari a été formellement instituée réserve naturelle le 14 mars 1984. L'histoire humaine se lit dans
+      ses pierres. La tour souabe remonte à l'époque des Hohenstaufen, entre les XIII et XIV siècles,
+      complétée dans la seconde moitié du XVI siècle. La madrague de Vendicari cessa son activité après le
+      débarquement allié de juillet 1943. Les salins médiévaux, annexes de la madrague, fermèrent
+      définitivement en 1951 à la suite d'une inondation dévastatrice. Plus anciens encore sont les vestiges
+      d'une usine grecque de salaison de poisson, dotée de vingt-cinq cuves actives du IV au I siècle av.
+      J.-C. À Cittadella dei Maccari, le village byzantin fouillé par Paolo Orsi abrite l'église Trigona,
+      édifice à trois absides et coupole daté entre les VI et VIII siècles.
+    before: >-
+      Si vous apercevez des animaux sauvages, laissez-les tranquilles, ne vous approchez pas, ne les
+      nourrissez pas et évitez cris et gestes brusques. Évitez les heures les plus chaudes de la journée,
+      emportez de l'eau potable et portez des chaussures fermées. La réserve est ouverte tous les jours de
+      l'année sauf fermeture exceptionnelle pour intempéries ou travaux annoncée sur le site officiel :
+      vérifiez avant de vous déplacer.
+    around: >-
+      Vendicari partage ses lagunes et son avifaune avec le [Parc national de
+      Doñana](/lugar/parque-nacional-de-donana/) et le [Parc naturel des Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), tandis que la [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) et le [Delta de
+      l'Évros](/lugar/ethniko-parko-delta-evrou/) accueillent spatules et flamants roses.
+  de:
+    intro: >-
+      Es gibt Orte, an denen eine Reise endet und eine andere beginnt. An der südöstlichen Spitze Siziliens
+      dient ein schmaler Küstenstreifen von rund 8 km zwischen Noto Marina und San Lorenzo als letztes
+      Sprungbrett für Millionen von Wasservögeln auf ihrem Zug nach Süden: Von hier aus liegen rund 350 km
+      offenes Meer vor ihnen bis zur afrikanischen Küste. Deshalb nennt man Vendicari das «Hotel der Vögel»,
+      und Ornithologen verweilen hier bis zum Einbruch der Dämmerung. Das Schutzgebiet ist zudem ein
+      Ramsar-Gebiet und erstreckt sich über 1.512,43 Hektar im Gemeindegebiet von Noto.
+    landscape: >-
+      Das Reservat vereint auf wenigen Kilometern Felsküste, Sandstrände, Macchie, Lagunen, Salinen und
+      Garrigue. Das Herzstück bilden die *Pantani*, flache Brackwasserlagunen, die alljährlich Hunderten von
+      Vogelarten Rast bieten. Von den Lagunen Piccolo, Grande und Roveto trocknet allein der Pantano Piccolo
+      dank unterirdischer Quellen nie gänzlich aus. Die übrigen verdunsten in der Sommerhitze von Juli und
+      August zu Salztonebenen.
+
+
+      Die Flora richtet sich nach dem Boden. Auf Sandstränden wie Eloro wachsen Meersenf,
+      Strand-Schneckenklee, Stranddistel und Strandlilie. Im Buschwerk wurzeln Steinlinde und Phönizischer
+      Wacholder. Auf den Dünengürteln von Marianelli—dem wildesten Strandabschnitt—gedeihen Strandhafer und
+      Santolina. Entlang der salzigen Lagunenufer dominieren Quellerfluren mit *Salicornia fruticosa* und
+      *Salicornia glauca*.
+    wildlife: >-
+      Jede Jahreszeit schreibt ein eigenes Kapitel im Vogelzug. Im Juli und August treffen erste Limikolen
+      ein: Schenkelwasserläufer, Brachvögel und Säbelschnäbler. Im Juli rasten Seeregenpfeifer und
+      Dünnschnabelmöwen, im August Graureiher und Seidenreiher. Ebenfalls im August lassen sich seltene
+      [Löffler](/especie/platalea_leucorodia/), vereinzelte [Schwarzstörche](/especie/ciconia_nigra/) und
+      seltenere [Weißstörche](/especie/ciconia_ciconia/) beobachten.
+
+
+      Im September folgen Krickenten, und mit den Herbstregen erscheinen Alpenstrandläufer. Im Herbst ziehen
+      Lach- und Schwarzkopfmöwen aus dem Schwarzmeerraum durch, während
+      [Rosaflamingos](/especie/phoenicopterus_roseus/) aus Südfrankreich auf dem Weg nach Tunesien pausieren.
+      Herbst und Winter bringen Höchstzahlen an [Brandgänsen](/especie/tadorna_tadorna/), dem Symboltier des
+      Reservats. Ab Dezember überwintern Tausende Blässhühner, begleitet von Wiedehopf und Blaukehlchen.
+      Stelzenläufer nutzen die Lagunen auf dem Rückzug. Ende Februar treffen Knäkenten ein, und der März
+      verzeichnet die höchsten Vogelzahlen des Jahres.
+
+
+      Im Sand vollzieht sich ein stilles Naturschauspiel: Große Strandbereiche sind als Gelegeplätze der
+      [Unechten Karettschildkröte](/especie/caretta_caretta/) gesperrt.
+    visit: >-
+      Fünf Eingänge erschließen fünf Strände. Von Eloro führt ein kurzer Pfad entlang des Flüsschens San
+      Nicola vorbei an den Ruinen der antiken Stadt Heloros in 300 Metern zum Meer. Von Calamosche gelangt man
+      auf einem Weg von 1.200 Metern zu einer windgeschützten Badebucht. Am Haupteingang Vendicari führt der
+      Pfad am Pantano Grande vorbei und erreicht nach 500 Metern den Strand. Vom Südeingang Cittadella wandert
+      man 3,5 km zur Tonnara.
+
+
+      Im restaurierten Fischerhaus neben dem Stauferturm erläutert ein Ökomuseum Natur und Fischereitradition.
+      Beobachtungshütten stehen Naturbeobachtern offen.
+    history: >-
+      Vendicari wurde am 14. März 1984 offiziell als Naturreservat ausgewiesen. Die Geschichte der
+      menschlichen Besiedlung spiegelt sich in den Ruinen wider. Der Stauferturm reicht in die Stauferzeit
+      zwischen dem XIII. und XIV. Jahrhundert zurück und wurde in der zweiten Hälfte des XVI. Jahrhunderts
+      vollendet. Die Tonnara von Vendicari stellte ihren Betrieb nach der Landung der Alliierten im Juli 1943
+      ein. Die mittelalterlichen Salinen dienten der Thunfischverarbeitung; ihre endgültige Schließung im Jahr
+      1951 wurde durch eine verheerende Überschwemmung verursacht. Noch älter sind die antiken griechischen
+      Fischsalzanlagen mit fünfundzwanzig Becken aus dem IV. bis I. Jahrhundert v. Chr. In Cittadella dei
+      Maccari legte Paolo Orsi eine byzantinische Siedlung mit der Trigona-Kirche frei, einer dreischiffigen
+      Kuppelkirche aus dem VI. bis VIII. Jahrhundert.
+    before: >-
+      Wenn du Wildtiere sichtest, lass sie in Ruhe, nähere dich nicht, füttere sie nicht und vermeide lautes
+      Rufen sowie abrupte Bewegungen. Meide die heißesten Mittagsstunden, nimm ausreichend Trinkwasser mit und
+      trage geschlossene Wanderschuhe. Das Schutzgebiet ist ganzjährig geöffnet, vorbehaltlich kurzfristiger
+      Schließungen wegen Unwettern oder Instandhaltungsarbeiten, die online angekündigt werden: informiere
+      dich vorab.
+    around: >-
+      Vendicari teilt Lagunen und Rastvögel mit dem [Nationalpark Doñana](/lugar/parque-nacional-de-donana/)
+      und den [Aiguamolls de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), während [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) und das [Evros-Delta](/lugar/ethniko-parko-delta-evrou/)
+      Löffler und Flamingos beherbergen.
+  it:
+    intro: >-
+      Ci sono luoghi dove un viaggio si conclude e un altro ha inizio. All'estremità sud-orientale della
+      Sicilia, una stretta fascia costiera di circa 8 km tra Noto Marina e San Lorenzo funge da ultimo approdo
+      per milioni di uccelli acquatici diretti a svernare a sud: da qui si aprono circa 350 km di mare aperto
+      fino alle coste africane. Per questo Vendicari è chiamata «l'albergo dei volatili», accogliendo
+      appassionati con binocoli fino al tramonto. La riserva è inoltre zona umida Ramsar ed estesa su 1.512,43
+      ettari nel comune di Noto.
+    landscape: >-
+      La riserva racchiude in pochi chilometri costa rocciosa, arenili sabbiosi, macchia mediterranea, pantani
+      salmastri, saline e garighe. Il fulcro ecologico è nei *pantani*, bacini poco profondi che richiamano
+      centinaia di specie alate. Tra i pantani Piccolo, Grande e Roveto, solo il Piccolo non si prosciuga mai
+      grazie a sorgenti sotterranee. Gli altri evaporano durante la calura di luglio e agosto lasciando
+      distese saline.
+
+
+      La vegetazione riflette i suoli. Sulle spiagge sabbiose come Eloro crescono ravastrello marittimo, erba
+      medica marina, calcatreppola e giglio marino. Nella macchia allignano fillirea e ginepro coccolone.
+      Sulle dune stabili di Marianelli—la spiaggia più solitaria e selvaggia—prosperano sparto pungente e
+      santolina. A ridosso dei pantani le alofite come *Salicornia fruticosa* e *Salicornia glauca* sopportano
+      la forte concentrazione salina.
+    wildlife: >-
+      Ogni stagione riserva novità ornitologiche. A luglio e agosto arrivano i primi limicoli: pettegole,
+      chiurli e avosette. A luglio transitano fratini e gabbiani corsi, seguiti in agosto da aironi cenerini e
+      garzette. In agosto si ammirano le rare [spatole](/especie/platalea_leucorodia/), assieme alla [cicogna
+      nera](/especie/ciconia_nigra/) e alla [cicogna bianca](/especie/ciconia_ciconia/).
+
+
+      A settembre giungono le alzavole e, con le piogge autunnali, piovanelli e voltapietre. L'autunno porta
+      gabbiani comuni e gabbiani corallini dal Mar Nero, mentre i
+      [fenicotteri](/especie/phoenicopterus_roseus/) sostano prima di raggiungere la Tunisia. Autunno e
+      inverno concentrano il maggior numero di [volpoche](/especie/tadorna_tadorna/), autentico simbolo della
+      riserva. Da dicembre i pantani accolgono migliaia di folaghe, upupe e pettazzurri. Il cavaliere d'Italia
+      sosta di ritorno dall'Africa. A fine febbraio compaiono le marzaiole e marzo registra i picchi di
+      presenze annuali.
+
+
+      Sulla battigia si compie un rito appartato: ampi tratti di spiaggia sono interdetti per consentire la
+      deposizione delle uova della [tartaruga comune](/especie/caretta_caretta/).
+    visit: >-
+      Cinque varchi conducono a cinque spiagge. Da Eloro un tracciato costeggia il fiume San Nicola e i resti
+      della città greca di Eloro, giungendo al mare in 300 metri. Da Calamosche un sentiero di 1.200 metri
+      porta alla caletta protetta da due scogliere. All'ingresso principale di Vendicari il cammino rasenta il
+      Pantano Grande e giunge in 500 metri alla spiaggia. Da Cittadella a sud, un itinerario di 3,5 km
+      raggiunge la tonnara.
+
+
+      Presso la casa dei pescatori, accanto alla Torre Sveva e alla tonnara, l'ecomuseo ospita sale didattiche
+      su flora, fauna, geologia e cultura marinara. I capanni d'osservazione accolgono birdwatcher in ogni
+      stagione.
+    history: >-
+      Vendicari è stata istituita come riserva naturale il 14 marzo 1984. La storia umana si legge nelle sue
+      testimonianze archeologiche. La Torre Sveva risale all'epoca sveva, tra i secoli XIII e XIV, e fu
+      completata nella seconda metà del XVI secolo. La Tonnara di Vendicari cessò le attività dopo lo sbarco
+      alleato del luglio 1943. Le saline medievali, a servizio della tonnara, chiusero definitivamente nel
+      1951 a causa di un'alluvione che compromise le vasche. Più antichi sono i resti dello stabilimento
+      ellenistico per la lavorazione del pescato con venticinque vasche attive tra il IV e il I secolo a.C.,
+      e, a Cittadella dei Maccari, il villaggio bizantino indagato da Paolo Orsi con la chiesetta della
+      Trigona, dotata di tre absidi e cupola emisferica, databile tra i secoli VI e VIII.
+    before: >-
+      Se avvisti animali selvatici, lasciali indisturbati, non avvicinarti, non offrire cibo ed evita
+      schiamazzi o movimenti bruschi. Evita le ore più torride della giornata, porta abbondante acqua e calza
+      scarpe chiuse. La riserva è aperta tutti i giorni dell'anno salvo chiusure eccezionali per maltempo o
+      interventi tecnici rese note sul portale del gestore: verifica prima della visita.
+    around: >-
+      Vendicari condivide pantani e avifauna con il [Parco Nazionale di
+      Doñana](/lugar/parque-nacional-de-donana/) e gli [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), mentre la [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) e il [Delta
+      dell'Evros](/lugar/ethniko-parko-delta-evrou/) ospitano spatole e fenicotteri.
+  pt:
+    intro: >-
+      Há lugares onde uma viagem finda e outra principia. No extremo sudeste da Sicília, uma estreita faixa
+      costeira de cerca de 8 km entre Noto Marina e San Lorenzo serve de última escala a milhões de aves
+      aquáticas que rumam a sul: daqui abrem-se cerca de 350 km de mar aberto até à costa africana. Por essa
+      razão Vendicari é apelidada de «o hotel das aves», acolhendo ornitólogos até ao cair da noite. A reserva
+      constitui um sítio Ramsar e estende-se por 1.512,43 hectares no município de Noto.
+    landscape: >-
+      A reserva congrega em escassos quilómetros arribas rochosas, praias de areia, matagal mediterrânico,
+      pauis salobros, salinas e charnecas. O motor ecológico assenta nos *pantani*, lagoas pouco profundas que
+      acolhem centenas de espécies aladas. Das lagoas Piccolo, Grande e Roveto, apenas a Piccolo nunca seca no
+      verão graças a nascentes freáticas salobras. As restantes evaporam-se sob o calor de julho e agosto
+      originando crostas de sal.
+
+
+      A vegetação adapta-se ao substrato. Nos areais como Eloro medram a eruca-marítima, a luzerna-da-praia, o
+      cardo-marítimo e o narciso-das-areias. No matagal surgem o lódão e o zimbro-galego. Nas dunas de
+      Marianelli—o areal mais recôndito e selvagem—fixam-se o estorno e a santolina. Junto às lagoas dominam
+      plantas halófitas como *Salicornia fruticosa* e *Salicornia glauca*.
+    wildlife: >-
+      Cada estação inaugura um novo capítulo migratório. Em julho e agosto, mesmo com as lagoas secas, chegam
+      os primeiros limícolas: perna-vermelha, maçaricos e alfaiates. Em julho passam
+      borrelhos-de-coleira-interrompida e gaivotas-de-bico-fino, e em agosto garças-reais e
+      garças-brancas-pequenas. Em agosto avistam-se também os raros
+      [colhereiros-europeus](/especie/platalea_leucorodia/), a par da [cegonha-preta](/especie/ciconia_nigra/)
+      e da [cegonha-branca](/especie/ciconia_ciconia/).
+
+
+      Por volta de setembro surgem marrecos, e as primeiras chuvas trazem pilritos. O outono acolhe
+      gaivotas-de-cabeça-preta vindas do Mar Negro, enquanto os
+      [flamingos-comuns](/especie/phoenicopterus_roseus/) fazem escala antes de nidificarem na Tunísia. No
+      outono e inverno registam-se bandos numerosos de [patos-brancos](/especie/tadorna_tadorna/), emblema da
+      reserva. Em dezembro as galeirões cobrem a água aos milhares, acompanhados por poupas e
+      piscos-de-peito-azul. O pernilongo descansa no regresso de África. Em finais de fevereiro chegam as
+      primeiras marrequinhas e março regista os máximos de aves do ano.
+
+
+      Na areia decorre um fenómeno resguardado: setores extensos da praia estão interditados para assegurar a
+      desova da [tartaruga-comum](/especie/caretta_caretta/).
+    visit: >-
+      A reserva possui cinco portais de acesso a cinco praias. A partir de Eloro, um pequeno trilho margeia o
+      rio San Nicola e as ruínas gregas de Heloro alcançando a praia em 300 metros. De Calamosche, um caminho
+      de 1.200 metros conduz à enseada protegida por pontais rochosos. Na entrada principal de Vendicari o
+      trilho ladeia o Pantano Grande alcançando o mar em 500 metros. A partir de Cittadella a sul, um
+      itinerário de 3,5 km ruma à antiga armação de atum.
+
+
+      Na antiga habitação dos pescadores, contígua à Torre Sueva e à armação, o ecomuseu exibe painéis sobre
+      fauna, flora, geologia e cultura pesqueira. Vários postos de observação acolhem visitantes todo o ano.
+    history: >-
+      Vendicari foi formalmente instituída como reserva natural a 14 de março de 1984. A história humana
+      transparece nas ruínas arqueológicas. A Torre Sueva remonta ao período suevo, entre os séculos XIII e
+      XIV, tendo sido concluída na segunda metade do século XVI. A armação atuneira de Vendicari encerrou a
+      faina após o desembarque aliado de julho de 1943. As salinas medievais, de apoio à pesca, fecharam em
+      definitivo em 1951 na sequência de cheias que arruinaram as instalações. Mais antigos são os vestígios
+      de uma fábrica grega de salga de peixe com vinte e cinco tanques activos do século IV ao I a.C., e, na
+      Cittadella dei Maccari, o povoado bizantino desenterrado por Paolo Orsi com a igreja da Trigona, de três
+      absides e cúpula hemisférica, datada entre os séculos VI e VIII.
+    before: >-
+      Se avistares animais selvagens, deixa-os tranquilos, não te aproximes, não lhes dês alimento e evita
+      gritos ou gestos bruscos. Evita as horas de maior calor, leva água potável e calçado fechado. A reserva
+      está aberta todos os dias do ano salvo encerramentos pontuais por intempérie ou trabalhos divulgados no
+      portal oficial: confirma antes de te deslocares.
+    around: >-
+      Vendicari partilha lagoas e avifauna com o [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/) e os [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), enquanto a [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) e o [Delta do Evros](/lugar/ethniko-parko-delta-evrou/)
+      partilham colhereiros e flamingos.
+fuentes:
+  - url: https://orbs.regione.sicilia.it/aree-protette/riserve-naturali-siciliane/184-riserva-naturale-orientata-oasi-faunistica-di-vendicari.html
+    titulo: Riserva Naturale Oasi faunistica di Vendicari - Regione Siciliana
+    fecha_consulta: '2026-10-30'
+  - url: https://www.riserva-vendicari.it/birdwatching-vendicari/
+    titulo: Birdwatching
+    fecha_consulta: '2026-10-30'
+  - url: https://www.riserve-vendicari-cavagrande-pantalica.it/riserva-naturale-di-vendicari/
+    titulo: Riserva Naturale di Vendicari - Riserve Vendicari Cavagrande Pantalica
+    fecha_consulta: '2026-10-30'
+  - url: https://it.wikipedia.org/wiki/Riserva_naturale_orientata_Oasi_faunistica_di_Vendicari
+    titulo: Riserva naturale orientata Oasi faunistica di Vendicari - Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Riserva_naturale_orientata_di_Vendicari,_giugno_2026_-_WLE2026_02.jpg
+    autor: Auregann
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

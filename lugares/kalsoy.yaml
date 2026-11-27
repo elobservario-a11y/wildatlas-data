@@ -1,0 +1,528 @@
+id: kalsoy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Kalsoy y Faro de Kallur
+  en: Kalsoy Island and Kallur Lighthouse
+  fr: Île de Kalsoy et phare de Kallur
+  de: Insel Kalsoy und Leuchtturm Kallur
+  it: Isola di Kalsoy e faro di Kallur
+  pt: Ilha de Kalsoy e Farol de Kallur
+nombre_original: Kalsoy
+alias:
+  - Kalsoy
+paises:
+  - FO
+region:
+  es: Islas Feroe (Trøllanes / Mikladalur)
+  en: Faroe Islands (Trøllanes / Mikladalur)
+  fr: Îles Féroé (Trøllanes / Mikladalur)
+  de: Färöer (Trøllanes / Mikladalur)
+  it: Isole Fær Øer (Trøllanes / Mikladalur)
+  pt: Ilhas Faroé (Trøllanes / Mikladalur)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2135808
+  nombre_en_la_fuente: Kalsoy
+  capa: capas/osm/kalsoy.geojson
+habitats:
+  - coast
+  - marine
+  - high_mountain
+designaciones:
+  - natural_monument
+especies:
+  - fratercula_arctica
+  - fulmarus_glacialis
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: maggio a settembre
+  pt: maio a setembro
+masificacion: 2
+masificacion_nota:
+  es: Media en la caminata al faro de Kallur en Trøllanes
+  en: Moderate on the hike to Kallur Lighthouse at Trøllanes
+  fr: Moyenne sur la randonnée menant au phare de Kallur à Trøllanes
+  de: Mittel auf dem Wanderweg zum Leuchtturm Kallur in Trøllanes
+  it: Media sul sentiero per il faro di Kallur a Trøllanes
+  pt: Média na caminhada para o farol de Kallur em Trøllanes
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Administración y visita — Kalsoy, Visit North
+    url: https://visitnorth.fo/kalsoy-2/
+  - titulo: Accesos — Ferry público Klaksvík–Kalsoy
+    url: https://www.ssl.fo/en/timetable/ferry/56-klaksvik-kalsoy/
+  - titulo: Normas — Tasas y acceso al sendero de Kallur
+    url: https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees
+resumen:
+  es: >-
+    Estrecha isla en forma de flauta de 18 km de longitud con 13 túneles y el icónico faro de Kallur
+    suspendido sobre acantilados de 200 m.
+  en: >-
+    Narrow flute-shaped island 18 km long with 13 mountain peaks and the iconic Kallur Lighthouse perched
+    above 200 m sea cliffs.
+  fr: >-
+    Étroite île en forme de flûte de 18 km de long percée de 13 tunnels avec le phare emblématique de Kallur
+    suspendu sur des falaises de 200 m.
+  de: >-
+    Schmale, flötenförmige Insel von 18 km Länge mit 13 Berggipfeln und dem ikonischen Leuchtturm Kallur über
+    200 m hohen Klippen.
+  it: >-
+    Stretta isola a forma di flauto lunga 18 km con 13 vette e l'iconico faro di Kallur sospeso su scogliere
+    di 200 m.
+  pt: >-
+    Estreita ilha em forma de flauta com 18 km de extensão, 13 cumes e o icónico Farol de Kallur alcandorado
+    sobre falésias de 200 m.
+unico:
+  es: Es la isla de la flauta, donde la carretera atraviesa túneles hasta un faro al borde de los acantilados.
+  en: >-
+    Known as the flute island, where the lone road threads through single-lane tunnels to reach an isolated
+    lighthouse at the cliff edge.
+  fr: >-
+    Surnommée l'île-flûte, sa route enfile une succession de tunnels menant à un phare isolé au bord du
+    gouffre marin.
+  de: >-
+    Als Flöteninsel bekannt, windet sich ihre Straße durch enge Tunnel bis zu einem einsamen Leuchtturm am
+    Klippenrand.
+  it: >-
+    Nota come l'isola-flauto, dove l'unica strada attraversa gallerie scavate nella roccia fino a un faro
+    affacciato sul precipizio.
+  pt: >-
+    Conhecida como a ilha-flauta, onde a estrada solitária perfura túneis até a um farol suspenso à beira do
+    abismo marinho.
+observaciones:
+  es: >-
+    Lleva linterna para los túneles y calzado firme. Antes de ir, comprueba el horario del transbordador y del
+    autobús, la tarifa de acceso al sendero de Kallur y el estado del tiempo.
+texto:
+  es:
+    intro: >-
+      Cuatro túneles oscuros, una carretera a medio asfaltar y, al final del último, un faro ante un muro de
+      acantilados. Kalsoy, en el noreste de las Feroe, es una isla tan estrecha que los feroeses la llaman «la
+      flauta», por su forma y por los túneles que la agujerean. No la une ningún puente, túnel ni dique con
+      otra isla: se llega en barco, y eso la mantiene tranquila. Entre sus 13 cumbres y 11 valles, los cuatro
+      pueblos se reparten por la ladera oriental.
+    landscape: >-
+      Kalsoy tiene dos caras. La occidental es pura roca: acantilados escarpados a lo largo de toda la isla,
+      que son además fuertes colonias de aves marinas. La oriental, en cambio, es más verde y menos empinada,
+      y en sus valles se acurrucan los cuatro pueblos: Húsar, Mikladalur, Syðradalur y Trøllanes, unidos por
+      una carretera con cuatro túneles. Entre ellos, el del norte, hacia Trøllanes, es estrecho, frío, húmedo
+      y mide más de dos kilómetros; casi no lo usan vehículos.
+
+
+      El nombre cuenta la geografía. Kalsoy significa «isla del hombre», por contraste con la vecina Kunoy,
+      «isla de la mujer», y los nombres vienen de Kallurin y Konan, los acantilados más al norte de cada una.
+      Parte de Kallurin se derrumbó al mar hace mucho. Las dos cumbres más altas son Nestindar y Botnstindur.
+    wildlife: >-
+      Kalsoy es sobre todo una isla de aves marinas. Su costa norte y oeste está catalogada como Área
+      Importante para las Aves: allí crían unas 40.000 parejas de [frailecillo](/especie/fratercula_arctica/),
+      5.000 de [paíño común](/especie/hydrobates_pelagicus/) y 200 de mérgulo atlántico. Cerca del faro, en
+      Kalvík, está una de las mayores colonias de [gaviota tridáctila](/especie/rissa_tridactyla/) de las
+      Feroe. En el norte abundan las aves de acantilado, y el resto de la isla tiene también muchas aves de
+      pradera.
+
+
+      En tierra, la fauna es sencilla. El único mamífero silvestre es la liebre, y no hay ratones ni ratas,
+      aunque las islas vecinas sí tienen ratas. Entre las plantas, varias especies raras crecen en Galvin y en
+      el extremo norte.
+    visit: >-
+      El plato fuerte es la caminata al faro de Kallur, en la punta norte. Sale de Trøllanes, está catalogada
+      como moderadamente fácil y la ida y vuelta suele llevar entre hora y media y dos horas. El faro, de
+      1927, se alza ante el acantilado, y desde allí la vista cae sobre las montañas de Kunoy y Viðoy, con
+      Kunoyarnakkur y, más allá, el cabo Enniberg. La caminata es de pago obligatorio para los visitantes que
+      no van con guía.
+
+
+      Para llegar, el transbordador para coches une Klaksvík con Syðradalur, el embarcadero de la isla. Una
+      carretera de 17 km con cuatro túneles conecta Syðradalur con Trøllanes. Por lo estrecho de la carretera
+      y lo limitado del aparcamiento, la web oficial recomienda usar el autobús, y sin coche hay una línea
+      desde el puerto del transbordador hacia Húsar, Mikladalur y Trøllanes. También se puede caminar hasta el
+      faro por la carretera, pero los cuatro túneles carecen de luz, así que lleva linterna. El camino
+      alternativo por tierra de Mikladalur a Trøllanes es una senda peligrosa y escarpada que es mejor evitar.
+    history: >-
+      Kalsoy guarda leyendas, y la más conocida es la de la mujer foca de Mikladalur. Los pueblos son
+      antiguos: Mikladalur y Húsar se mencionan por escrito por primera vez en la Carta de las Ovejas, de
+      finales del siglo XIV. Trøllanes, en cambio, estuvo aislado hasta 1985, cuando llegó el túnel, por lo
+      difícil que era llegar por tierra o por mar. Hoy los pueblos dan una idea de la vida feroesa
+      tradicional, entre acantilados abruptos, colinas verdes y mar abierto, y en la isla hay mucha cría de
+      ovejas.
+    before: >-
+      Lleva linterna para los túneles y calzado firme. Antes de ir, comprueba el horario del transbordador y
+      del autobús, la tarifa de acceso al sendero de Kallur y el estado del tiempo.
+    around: >-
+      A solo nueve kilómetros, la isla de [Viðoy](/lugar/vidoy/) comparte con Kalsoy sus acantilados y sus
+      aves marinas, y a doce se encuentra el [Slættaratindur](/lugar/slaettaratindur/). A veinticinco están
+      los [acantilados de aves de Vestmanna](/lugar/vestmanna-bird-cliffs/).
+
+
+      Más lejos, [St Kilda](/lugar/st-kilda/), [Hornstrandir](/lugar/hornstrandir/) y [Lundy](/lugar/lundy/)
+      comparten con Kalsoy el fulmar boreal y el frailecillo.
+  en:
+    intro: >-
+      Four dark unlit tunnels, a winding narrow road, and at the end of the last mountain pass, a solitary
+      white lighthouse perched before a sheer drop of sea cliffs. Kalsoy, in the northeastern Faroe Islands,
+      is an island so long and slender that Faroese locals nickname it "the flute", owing to its narrow
+      silhouette and the road tunnels that perforate its ridges. No bridge, undersea tunnel, or causeway links
+      it to neighbouring islands: you arrive by boat, which preserves its timeless serenity. Between its 13
+      mountain peaks and 11 valleys, four historic hamlets nestle along its sheltered eastern flanks.
+    landscape: >-
+      Kalsoy has two contrasting faces. Its western coast is unbroken rock: sheer, precipitous sea cliffs
+      running the entire length of the island that harbour massive seabird colonies. In contrast, the eastern
+      slopes are greener and more gently terraced, sheltering four villages in their valleys: Húsar,
+      Mikladalur, Syðradalur, and Trøllanes, joined by a single road pierced by four mountain tunnels. Among
+      them, the northernmost tunnel leading to Trøllanes is narrow, damp, and chilly, stretching for more than
+      two kilometres with minimal vehicle traffic.
+
+
+      The place-names echo local geography. Kalsoy translates as "man's island", standing in contrast to
+      neighbouring Kunoy, "woman's island", named after their northern capes, Kallurin and Konan. Part of the
+      Kallurin headland collapsed into the Atlantic long ago. The island's two highest summits are Nestindar
+      and Botnstindur.
+    wildlife: >-
+      Kalsoy is fundamentally an island of pelagic seabirds. Its northern and western cliffs are designated an
+      Important Bird Area: breeding grounds for roughly 40,000 pairs of [Atlantic
+      puffins](/especie/fratercula_arctica/), 5,000 pairs of [European storm
+      petrels](/especie/hydrobates_pelagicus/), and 200 pairs of black guillemots. Near the lighthouse at
+      Kalvík thrives one of the largest colonies of [black-legged kittiwakes](/especie/rissa_tridactyla/) in
+      the Faroes. While cliff nesters throng the northern heights, the rest of the island supports breeding
+      meadow birds such as golden plovers and whimbrels.
+
+
+      On land, terrestrial fauna is sparse. The only wild mammal is the mountain hare, and the island is free
+      of mice and rats, despite their presence on neighbouring isles. Rare arctic-alpine plants cling to
+      crevices around Galvin and the northern cliffs.
+    visit: >-
+      The undeniable highlight is the hike out to Kallur Lighthouse at the northern promontory. Setting off
+      from Trøllanes, it is graded moderately easy and the round trip typically takes between an hour and a
+      half and two hours. The lighthouse, dating from 1927, perches dramatically before the drop, offering
+      breathtaking views across to Kunoy and Viðoy, crowned by Kunoyarnakkur and the precipice of Cape
+      Enniberg. The hike requires a mandatory hiking fee for unguided visitors.
+
+
+      To reach the island, a vehicle and passenger ferry links Klaksvík to Syðradalur pier. A 17 km road with
+      four tunnels connects Syðradalur with Trøllanes. Given the narrow single-track tunnels and scarce
+      parking, the official tourist board advises taking the local bus service connecting the ferry slip with
+      Húsar, Mikladalur, and Trøllanes. You can also walk through the tunnels, but since all four lack
+      lighting, bringing a headlamp is essential. The historic overland route from Mikladalur to Trøllanes is
+      a hazardous pass best avoided.
+    history: >-
+      Kalsoy is steeped in local folklore, most notably the haunting legend of the Seal Woman (Kópakonan) of
+      Mikladalur. The villages are ancient: Mikladalur and Húsar are first documented in the
+      fourteenth-century Sheep Letter. By contrast, Trøllanes remained isolated until 1985 when the final road
+      tunnel was blasted through the mountain, ending centuries of perilous boat landings. Today these
+      settlements preserve traditional Faroese rural life between towering cliffs, green terraces, and the
+      open North Atlantic, sustained by sheep farming.
+    before: >-
+      Carry a bright torch or headlamp for the road tunnels and wear sturdy waterproof hiking boots. Before
+      setting out, check the ferry schedule and connecting bus times, verify the Kallur hiking fee, and review
+      the weather forecast.
+    around: >-
+      Just nine kilometres across the sound, the island of [Viðoy](/lugar/vidoy/) shares sheer cliffs and
+      seabird colonies with Kalsoy, while twelve kilometres away rises
+      [Slættaratindur](/lugar/slaettaratindur/). Twenty-five kilometres to the southwest lie the [Vestmanna
+      Bird Cliffs](/lugar/vestmanna-bird-cliffs/).
+
+
+      Further across the North Atlantic, [St Kilda](/lugar/st-kilda/), [Hornstrandir Nature
+      Reserve](/lugar/hornstrandir/), and [Lundy Island](/lugar/lundy/) share northern fulmars and Atlantic
+      puffins with Kalsoy.
+  fr:
+    intro: >-
+      Quatre tunnels obscurs, une étroite chaussée et, au bout de la dernière percée, un phare immaculé posé
+      devant un mur d'abîmes marins. Kalsoy, au nord-est des Féroé, est une terre si effilée que les
+      Féringiens la surnomment « la flûte », en raison de sa silhouette étroite et des tunnels qui
+      transpercent ses crêtes. Aucun pont ni digue ne la relie aux îles voisines : on y accède par bateau, ce
+      qui préserve sa quiétude. Entre ses 13 sommets et 11 vallées, quatre villages traditionnels s'égrènent
+      le long du versant oriental.
+    landscape: >-
+      Kalsoy présente deux visages contrastés. La côte occidentale est une muraille rocheuse continue : des
+      falaises vertigineuses s'étirant sur toute l'île, servant de refuge à d'immenses colonies d'oiseaux de
+      mer. À l'inverse, la côte orientale est plus verdoyante et moins abrupte, accueillant quatre villages
+      dans ses replis : Húsar, Mikladalur, Syðradalur et Trøllanes, reliés par une route percée de quatre
+      tunnels. Parmi eux, le tunnel boréal vers Trøllanes est étroit, humide et froid, long de plus de deux
+      kilomètres et peu fréquenté par les véhicules.
+
+
+      La toponymie éclaire la géographie. Kalsoy signifie « l'île de l'homme », par opposition à Kunoy, «
+      l'île de la femme », d'après leurs promontoires septentrionaux respectifs, Kallurin et Konan. Une partie
+      du promontoire de Kallurin s'est effondrée dans l'océan jadis. Les deux cimes les plus élevées sont
+      Nestindar et Botnstindur.
+    wildlife: >-
+      Kalsoy est avant tout un sanctuaire d'oiseaux marins. Son littoral septentrional et occidental est
+      classé Zone importante pour la conservation des oiseaux : on y dénombre environ 40 000 couples de
+      [macareux moines](/especie/fratercula_arctica/), 5 000 couples d'[océanites
+      tempêtes](/especie/hydrobates_pelagicus/) et 200 de guillemots à miroir. Près du phare, à Kalvík, niche
+      l'une des plus denses colonies de [mouettes tridactyles](/especie/rissa_tridactyla/) de l'archipel. Si
+      les falaises du nord foisonnent d'oiseaux rupestres, le reste de l'île abrite aussi des limicoles de
+      prairies.
+
+
+      Sur la terre ferme, la faune reste sobre. Le seul mammifère sauvage est le lièvre variable, et l'île est
+      exempte de rats et de souris. Parmi la flore, plusieurs espèces arctiques rares poussent à Galvin et sur
+      les corniches nordiques.
+    visit: >-
+      L'excursion reine est la marche vers le phare de Kallur, sur la pointe nord. Au départ de Trøllanes,
+      elle est cotée modérément facile et l'aller-retour demande généralement entre une heure et demie et deux
+      heures. Le phare, bâti en 1927, veille au bord du vide, offrant un panorama imprenable sur les crêtes de
+      Kunoy et Viðoy, dominées par Kunoyarnakkur et le cap Enniberg. La randonnée fait l'objet d'une redevance
+      obligatoire pour les marcheurs individuels sans guide.
+
+
+      Pour rejoindre l'île, un transbordeur relie Klaksvík à l'embarcadère de Syðradalur. Une route de 17 km
+      avec quatre tunnels connecte Syðradalur à Trøllanes. En raison de l'étroitesse de la voie et du
+      stationnement restreint, il est conseillé de prendre l'autobus régulier qui dessert Húsar, Mikladalur et
+      Trøllanes. Il est aussi possible de marcher sur la route, mais les quatre tunnels ne sont pas éclairés :
+      une lampe frontale est indispensable. L'ancien sentier de montagne reliant Mikladalur à Trøllanes est
+      très escarpé et dangereux.
+    history: >-
+      Kalsoy est pétrie de légendes insulaires, dont la célèbre histoire de la femme-phoque (Kópakonan) de
+      Mikladalur. Les hameaux sont séculaires : Mikladalur et Húsar apparaissent dès la fin du XIVe siècle
+      dans la Lettre des Moutons. Trøllanes, au contraire, est demeuré enclavé jusqu'en 1985, date du
+      percement du tunnel routier. Aujourd'hui, ces bourgs perpétuent le mode de vie féringien traditionnel
+      entre falaises à pic, collines herbeuses et élevage extensif d'ovins.
+    before: >-
+      Emportez une bonne lampe torche pour franchir les tunnels et chaussez des bottes de randonnée étanches.
+      Vérifiez les horaires du ferry et du bus, le tarif du sentier de Kallur et les prévisions météo avant
+      d'embarquer.
+    around: >-
+      À seulement neuf kilomètres par la mer, l'île de [Viðoy](/lugar/vidoy/) partage avec Kalsoy ses falaises
+      océaniques, et à douze kilomètres se dresse le [Slættaratindur](/lugar/slaettaratindur/). À vingt-cinq
+      kilomètres s'élèvent les [Falaises ornithologiques de Vestmanna](/lugar/vestmanna-bird-cliffs/).
+
+
+      Plus loin en mer, [Saint-Kilda](/lugar/st-kilda/), [Hornstrandir](/lugar/hornstrandir/) et
+      [Lundy](/lugar/lundy/) partagent avec Kalsoy le fulmar boréal et le macareux moine.
+  de:
+    intro: >-
+      Vier finstere Felsentunnel, eine schmale Bergstraße und am Ende der letzten Röhre ein weißer Leuchtturm
+      vor einer senkrecht ins Meer stürzenden Felswand. Kalsoy im Nordosten der Färöer ist so schmal, dass die
+      Färinger sie wegen ihrer langgestreckten Gestalt und der durchlöchernden Tunnel liebevoll „die Flöte“
+      nennen. Keine Brücke und kein Unterwassertunnel verbinden sie mit den Nachbarinseln: Man erreicht sie
+      nur per Schiff, was ihr eine friedliche Abgeschiedenheit bewahrt. Zwischen ihren 13 Gipfeln und 11
+      Tälern liegen vier kleine Dörfer am geschützten Osthang.
+    landscape: >-
+      Kalsoy besitzt zwei gegensätzliche Gesichter. Die Westküste ist eine abweisende Felsenmauer: Senkrechte
+      Steilklippen ziehen sich über die gesamte Insellänge und beherbergen riesige Seevogelkolonien. Die
+      Ostseite hingegen ist sanfter terrassiert und grüner; in ihren Tälern schmiegen sich vier Dörfer an den
+      Hang: Húsar, Mikladalur, Syðradalur und Trøllanes, verbunden durch eine Straße mit vier Tunneln. Der
+      nördlichste Tunnel nach Trøllanes ist eng, kalt, feucht und über zwei Kilometer lang; kaum ein Fahrzeug
+      begegnet einem dort.
+
+
+      Die Namen erzählen die Geografie. Kalsoy bedeutet „Männerinsel“, im Kontrast zur Nachbarinsel Kunoy, der
+      „Fraueninsel“, benannt nach den Nordkaps Kallurin und Konan. Ein Teil des Kaps Kallurin stürzte vor
+      langer Zeit ins Meer. Die beiden höchsten Berge sind Nestindar und Botnstindur.
+    wildlife: >-
+      Kalsoy ist vor allem eine Seevogelinsel. Ihre Nord- und Westküste ist als Important Bird Area
+      ausgewiesen: Dort brüten rund 40.000 Paare des [Papageitauchers](/especie/fratercula_arctica/), 5.000
+      Paare der [Sturmschwalbe](/especie/hydrobates_pelagicus/) und 200 Paare der Gryllteiste. Nahe dem
+      Leuchtturm in Kalvík befindet sich eine der größten Kolonien der
+      [Dreizehenmöwe](/especie/rissa_tridactyla/) der Färöer. Neben den Klippenbrütern im Norden bevölkern
+      Wiesenbrüter wie Goldregenpfeifer und Regenbrachvögel die Hochweiden.
+
+
+      An Land ist die Tierwelt überschaubar. Einziges wildes Säugetier ist der Schneehase; Mäuse und Ratten
+      fehlen völlig. In den Felsfluren von Galvin und am Nordkap gedeihen seltene arktische Pflanzenarten.
+    visit: >-
+      Der unbestrittene Höhepunkt ist die Wanderung zum Leuchtturm Kallur an der Nordspitze. Sie beginnt in
+      Trøllanes, gilt als mittelschwer und erfordert für Hin- und Rückweg zwischen anderthalb und zwei
+      Stunden. Der Leuchtturm von 1927 thront vor dem Abgrund und eröffnet einen Traumblick auf die
+      Zackenberge von Kunoy und Viðoy, gekrönt vom Kunoyarnakkur und dem Kap Enniberg. Für unbegleitete
+      Wanderer wird eine Wegegebühr erhoben.
+
+
+      Zur Insel gelangt man mit der Autofähre von Klaksvík zum Anleger Syðradalur. Eine 17 km lange Straße mit
+      vier Tunneln führt nach Trøllanes. Wegen enger Passagen und knapper Parkplätze empfiehlt sich der
+      Linienbus ab dem Fährhafen. Wer die Tunnel zu Fuß durchquert, benötigt zwingend eine Taschenlampe, da
+      sie unbeleuchtet sind. Der alte Pfad über die Berge von Mikladalur nach Trøllanes ist gefährlich steil
+      und sollte gemieden werden.
+    history: >-
+      Kalsoy birgt reiche Sagen, allen voran die Erzählung von der Robbenfrau (Kópakonan) in Mikladalur. Die
+      Siedlungen sind uralt: Mikladalur und Húsar werden bereits im Schafsbrief vom Ende des vierzehnten
+      Jahrhunderts urkundlich erwähnt. Trøllanes hingegen blieb bis 1985 isoliert, als der Straßentunnel
+      vollendet wurde. Heute vermitteln die Weiler das traditionelle färöische Inselleben zwischen steilen
+      Kliffs, saftigen Hängen und Schafzucht.
+    before: >-
+      Führe eine Taschenlampe für die Tunnel mit und trage trittfeste Wanderschuhe. Prüfe vorab den Fahrplan
+      von Fähre und Bus, die Wandergebühr für den Kallur-Pfad und den Wetterbericht.
+    around: >-
+      Nur neun Kilometer entfernt teilt die Insel [Viðoy](/lugar/vidoy/) ihre Klippenlandschaft mit Kalsoy,
+      und in zwölf Kilometern Entfernung erhebt sich der [Slættaratindur](/lugar/slaettaratindur/).
+      Fünfundzwanzig Kilometer südwestlich ragen die [Vogelfelsen von
+      Vestmanna](/lugar/vestmanna-bird-cliffs/) auf.
+
+
+      Weiter im Nordatlantik verbinden Eissturmvögel und Papageitaucher Kalsoy mit [St.
+      Kilda](/lugar/st-kilda/), [Hornstrandir](/lugar/hornstrandir/) und der [Insel Lundy](/lugar/lundy/).
+  it:
+    intro: >-
+      Quattro gallerie scavate nel buio, una carreggiata stretta e, all'uscita dell'ultimo traforo, un candido
+      faro solitario dinanzi a un anfiteatro di falesie abissali. Kalsoy, nel nordest delle Fær Øer, è una
+      terra così affusolata che i faroesi la chiamano «il flauto», per via della sua sagoma sottile e dei
+      tunnel che la traforano da parte a parte. Nessun ponte né tunnel sottomarino la unisce alle isole
+      vicine: vi si giunge in traghetto, custodendone la quiete ancestrale. Tra le sue 13 cime e 11 vallate,
+      quattro villaggi storici punteggiano il versante orientale.
+    landscape: >-
+      Kalsoy possiede due anime distinte. La costa occidentale è una muraglia rocciosa continua: dirupi
+      vertiginosi che corrono per l'intera lunghezza dell'isola, dimora di immense colonie di uccelli marini.
+      Al contrario, il versante orientale è più verdeggiante e meno ripido, accogliendo quattro villaggi
+      adagiati nelle valli: Húsar, Mikladalur, Syðradalur e Trøllanes, uniti da una strada con quattro
+      gallerie. Tra queste, la galleria verso Trøllanes è stretta, umida e fredda, lunga oltre due chilometri
+      e pochissimo transitata.
+
+
+      I toponimi rivelano la geografia. Kalsoy significa «isola dell'uomo», in contrapposizione alla vicina
+      Kunoy, «isola della donna», derivati dai rispettivi promontori nordici, Kallurin e Konan. Parte del
+      promontorio di Kallurin sprofondò nell'oceano in tempi remoti. Le due vette più alte sono Nestindar e
+      Botnstindur.
+    wildlife: >-
+      Kalsoy è innanzitutto un santuario ornitologico pelagico. La costa settentrionale e occidentale è
+      classificata Important Bird Area: vi nidificano circa 40.000 coppie di [pulcinelle di
+      mare](/especie/fratercula_arctica/), 5.000 coppie di [uccelli delle tempeste
+      europei](/especie/hydrobates_pelagicus/) e 200 coppie di urie nere. Presso il faro a Kalvík prospera una
+      delle maggiori colonie di [gabbiani tridattili](/especie/rissa_tridactyla/) delle Fær Øer. Oltre ai
+      volatili rupestri del nord, il resto dell'isola ospita pivieri dorati e chiurli nei pascoli d'altura.
+
+
+      Sulla terraferma la fauna selvatica è modesta. L'unico mammifero selvatico è la lepre variabile, e
+      l'isola è totalmente priva di topi e ratti. Tra le specie vegetali rare spiccano endemismi artico-alpini
+      a Galvin e sulle creste nordiche.
+    visit: >-
+      L'esperienza imperdibile è l'escursione al faro di Kallur, all'estremità settentrionale. Parte da
+      Trøllanes, presenta difficoltà moderata e il percorso di andata e ritorno impegna solitamente tra un'ora
+      e mezza e due ore. Il faro, risalente al 1927, domina il precipizio spalancando la vista verso Kunoy e
+      Viðoy, incorniciate da Kunoyarnakkur e dal capo Enniberg. Il sentiero prevede un pedaggio obbligatorio
+      per gli escursionisti senza guida.
+
+
+      Per arrivare, un traghetto collega Klaksvík all'attracco di Syðradalur. Una strada di 17 km con quattro
+      gallerie unisce Syðradalur a Trøllanes. A causa delle strettoie e della carenza di parcheggi, è
+      consigliabile servirsi dell'autobus di linea. Se si cammina attraverso le gallerie prive
+      d'illuminazione, è indispensabile una torcia frontale. Il vecchio sentiero montano tra Mikladalur e
+      Trøllanes è pericoloso ed esposto.
+    history: >-
+      Kalsoy è intessuta di miti isolani, tra cui la struggente leggenda della Donna foca (Kópakonan) di
+      Mikladalur. I villaggi vantano origini antiche: Mikladalur e Húsar figurano già nella Lettera delle
+      Pecore di fine Trecento. Trøllanes, al contrario, è rimasta isolata fino al 1985, anno di apertura del
+      tunnel stradale. Oggi questi borghi conservano il sapore della vita faroese d'un tempo tra scogliere
+      verticali, prati e allevamento ovino.
+    before: >-
+      Porta una torcia per attraversare i tunnel bui e scarponi robusti. Controlla gli orari di traghetto e
+      autobus, la tariffa di accesso al sentiero di Kallur e le previsioni meteo prima di salpare.
+    around: >-
+      A soli nove chilometri di mare, l'isola di [Viðoy](/lugar/vidoy/) condivide falesie e colonie marine con
+      Kalsoy, mentre a dodici chilometri sorge lo [Slættaratindur](/lugar/slaettaratindur/). A venticinque
+      chilometri svettano le [Scogliere degli uccelli di Vestmanna](/lugar/vestmanna-bird-cliffs/).
+
+
+      Più al largo nell'Atlantico, [St Kilda](/lugar/st-kilda/), [Hornstrandir](/lugar/hornstrandir/) e
+      [Lundy](/lugar/lundy/) condividono fulmari e pulcinelle di mare.
+  pt:
+    intro: >-
+      Quatro túneis escuros, uma estrada estreita e, à saída da última galeria, um farol alvo empoleirado
+      diante de um paredão de abismos marítimos. Kalsoy, no nordeste das Faroé, é uma ilha tão delgada que os
+      faroenses lhe chamam «a flauta», pela sua silhueta afilada e pelos túneis que lhe perfuram as cristas.
+      Nenhuma ponte nem túnel submarino a une às ilhas vizinhas: chega-se de barco, resguardando a sua
+      tranquilidade intocada. Entre os seus 13 cumes e 11 vales, quatro aldeias históricas aninham-se na
+      encosta oriental.
+    landscape: >-
+      Kalsoy tem duas faces contrastantes. A costa ocidental é uma muralha rochosa ininterrupta: falésias
+      escarpadas ao longo de toda a ilha que abrigam volumosas colónias de aves marinhas. Pelo contrário, a
+      vertente oriental é mais verdejante e suave, abrigando quatro aldeias nos seus vales: Húsar, Mikladalur,
+      Syðradalur e Trøllanes, articuladas por uma estrada com quatro túneis. Entre eles, o túnel norte rumo a
+      Trøllanes é estreito, frio, húmido e estende-se por mais de dois quilómetros, quase sem tráfego
+      automóvel.
+
+
+      A toponímia espelha a geografia. Kalsoy significa «ilha do homem», por oposição à vizinha Kunoy, «ilha
+      da mulher», nomes derivados dos cabos setentrionais Kallurin e Konan. Parte do promontório de Kallurin
+      ruiu no oceano há muito tempo. Os dois pontos mais elevados são Nestindar e Botnstindur.
+    wildlife: >-
+      Kalsoy é essencialmente um santuário de aves pelágicas. O seu litoral norte e oeste está classificado
+      como Área Importante para as Aves: aí nidificam cerca de 40.000 casais de
+      [fradinhos](/especie/fratercula_arctica/), 5.000 casais de
+      [painhos-de-cauda-quadrada](/especie/hydrobates_pelagicus/) e 200 casais de airo-de-asa-branca. Perto do
+      farol, em Kalvík, nidifica uma das maiores colónias de
+      [gaivotas-tridáctilas](/especie/rissa_tridactyla/) das Faroé. Além das aves de falésia no norte, o resto
+      da ilha acolhe limícolas nos prados de altitude.
+
+
+      Em terra firme a fauna é modesta. O único mamífero selvagem é a lebre-ártica, e a ilha está
+      completamente livre de ratos. Na flora, raras plantas ártico-alpinas prosperam em Galvin e nas cristas
+      setentrionais.
+    visit: >-
+      O prato forte é o trilho pedestre até ao farol de Kallur, na ponta norte. Tem início em Trøllanes,
+      possui dificuldade moderada e o trajeto de ida e volta demora habitualmente entre hora e meia e duas
+      horas. O farol, erguido em 1927, ergue-se à beira do abismo com vistas deslumbrantes para Kunoy e Viðoy,
+      dominadas por Kunoyarnakkur e o cabo Enniberg. A caminhada está sujeita a uma taxa obrigatória para
+      caminhantes sem guia.
+
+
+      Para lá chegar, um ferry para viaturas e passageiros liga Klaksvík ao cais de Syðradalur. Uma estrada de
+      17 km com quatro túneis liga Syðradalur a Trøllanes. Pela estreiteza da via e escassez de
+      estacionamento, recomenda-se o autocarro local. É possível caminhar pelos túneis, mas como carecem de
+      luz, levar lanterna frontal é indispensável. O antigo carreiro montanhoso entre Mikladalur e Trøllanes é
+      perigoso e escarpado.
+    history: >-
+      Kalsoy guarda ricas lendas insulares, destacando-se a célebre história da Mulher-Foca (Kópakonan) de
+      Mikladalur. As povoações são antigas: Mikladalur e Húsar surgem na Carta das Ovelhas dos finais do
+      século XIV. Trøllanes, por seu lado, permaneceu isolada até 1985, quando o túnel rodoviário foi
+      perfurado. Hoje as aldeias perpetuam a vida tradicional faroense entre alcantilados abruptos, colinas
+      verdejantes e pastorícia de ovinos.
+    before: >-
+      Leva lanterna para os túneis e calçado firme impermeável. Confirma os horários de ferry e autocarro, o
+      bilhete para o trilho de Kallur e as previsões meteorológicas antes de embarcar.
+    around: >-
+      A apenas nove quilómetros por mar, a ilha de [Viðoy](/lugar/vidoy/) partilha arribas e aves marinhas com
+      Kalsoy, enquanto a doze se situa o [Slættaratindur](/lugar/slaettaratindur/). A vinte e cinco
+      quilómetros erguem-se as [Falésias de Aves de Vestmanna](/lugar/vestmanna-bird-cliffs/).
+
+
+      Mais longe pelo Atlântico Norte, [St Kilda](/lugar/st-kilda/), [Hornstrandir](/lugar/hornstrandir/) e
+      [Lundy](/lugar/lundy/) partilham com Kalsoy o fulmar-glacial e o fradinho.
+fuentes:
+  - url: https://visitfaroeislands.com/en/whatson/places/place/kalsoy0?lang=en
+    titulo: Kalsoy
+    fecha_consulta: '2026-10-30'
+  - url: https://visitfaroeislands.com/en/whatson/places/place/kallurin0?lang=en
+    titulo: Kallurin
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Kalsoy
+    titulo: Kalsoy - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://da.wikipedia.org/wiki/Kalsoy
+    titulo: Kalsoy - Wikipedia (dansk)
+    fecha_consulta: '2026-10-30'
+  - url: https://fo.wikipedia.org/wiki/Kalsoy
+    titulo: Kalsoy - Wikipedia (føroyskt)
+    fecha_consulta: '2026-10-30'
+  - url: https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees
+    titulo: Hiking Fees - Visit Faroe Islands
+    fecha_consulta: '2026-10-30'
+  - url: https://visitnorth.fo/kalsoy-2/
+    titulo: Kalsoy - Visit North
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Kallur_kalsoy_2.jpg
+    autor: Ekrem Canli
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

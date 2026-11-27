@@ -1,0 +1,634 @@
+id: parc-national-de-la-vanoise
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de la Vanoise
+  en: Vanoise National Park
+  fr: Parc national de la Vanoise
+  de: Nationalpark Vanoise
+  it: Parco Nazionale della Vanoise
+  pt: Parque Nacional de Vanoise
+nombre_original: Parc national de la Vanoise
+alias:
+  - Parc national de la Vanoise
+paises:
+  - FR
+region:
+  es: Auvernia-Ródano-Alpes (Saboya — Pralognan / Tarentaise / Maurienne)
+  en: Auvergne-Rhône-Alpes (Savoie)
+  fr: Auvergne-Rhône-Alpes (Savoie)
+  de: Auvergne-Rhône-Alpes (Savoyen)
+  it: Alvernia-Rodano-Alpi (Savoia)
+  pt: Auvérnia-Ródano-Alpes (Saboia)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.371
+  lon: 6.851
+  radio_km: 13
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 661
+  nombre_en_la_fuente: Vanoise
+  capa: capas/cdda/parc-national-de-la-vanoise.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - alpine_meadow
+designaciones:
+  - national_park
+  - iucn_ii
+  - natura2000
+especies:
+  - capra_ibex
+  - rupicapra_rupicapra
+  - marmota_marmota
+  - gypaetus_barbatus
+  - aquila_chrysaetos
+  - lagopus_muta
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+masificacion: 3
+masificacion_nota:
+  es: Alta en Pralognan y en los refugios clásicos en julio-agosto
+  en: High in Pralognan and popular refuges in July–August
+  fr: Élevée à Pralognan et dans les refuges classiques en juillet-août
+  de: Hoch in Pralognan und auf den Haupthütten im Juli und August
+  it: Alta a Pralognan e nei rifugi più noti a luglio e agosto
+  pt: Elevada em Pralognan e nos refúgios concorridos em julho e agosto
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 5
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Parc national de la Vanoise
+    url: https://www.vanoise-parcnational.fr
+  - titulo: Normas — Regulación del núcleo protegido
+    url: https://www.vanoise-parcnational.fr/fr/parc-national-de-la-vanoise/la-reglementation-du-coeur
+  - titulo: Centros de visitantes — Casas y puntos de información
+    url: https://www.vanoise-parcnational.fr/fr/des-decouvertes/sejourner-dans-le-parc/sinformer-sur-le-parc/les-points-info-parc-national-de-la
+  - titulo: Rutas y mapas — Senderismo en Vanoise
+    url: https://www.vanoise-parcnational.fr/fr/des-decouvertes/decouvrir-le-parc/la-randonnee-pedestre
+  - titulo: Accesos — Llegar al parque
+    url: https://www.vanoise-parcnational.fr/fr/des-decouvertes/sejourner-dans-le-parc/venir-dans-le-parc-national
+resumen:
+  es: >-
+    El primer parque nacional de Francia (1963), creado para salvar al íbice: glaciares, praderas alpinas y
+    una de las grandes poblaciones de íbice de los Alpes.
+  en: >-
+    France's first national park (1963), created to save the Alpine ibex: glaciers, alpine grasslands, and one
+    of the Alps' greatest ibex populations.
+  fr: >-
+    Le premier parc national de France (1963), créé pour sauver le bouquetin : glaciers, alpages et l'une des
+    plus grandes populations de bouquetins des Alpes.
+  de: >-
+    Frankreichs erster Nationalpark (1963), gegründet zur Rettung des Alpensteinbocks: Gletscher, alpine
+    Matten und eine der bedeutendsten Steinbockpopulationen der Alpen.
+  it: >-
+    Il primo parco nazionale della Francia (1963), istituito per salvare lo stambecco: ghiacciai, praterie
+    alpine e una delle maggiori popolazioni di stambecchi delle Alpi.
+  pt: >-
+    O primeiro parque nacional de França (1963), criado para salvar o íbex: glaciares, prados alpinos e uma
+    das maiores populações de íbex dos Alpes.
+unico:
+  es: >-
+    Es el parque que se creó para salvar al íbice y que hoy, pegado al Gran Paradiso italiano, forma con él
+    uno de los mayores espacios protegidos de los Alpes.
+  en: >-
+    Created to save the Alpine ibex, it borders Italy's Gran Paradiso to form one of the largest continuous
+    protected spaces in the Alps.
+  fr: >-
+    Créé pour sauver le bouquetin, il forme avec le Grand Paradis italien contigu l'un des plus vastes espaces
+    protégés des Alpes.
+  de: >-
+    Zur Rettung des Alpensteinbocks gegründet, bildet er zusammen mit dem angrenzenden italienischen Gran
+    Paradiso eines der größten Schutzgebiete der Alpen.
+  it: >-
+    Istituito per salvare lo stambecco, forma con il contiguo Gran Paradiso italiano una delle aree protette
+    più vaste delle Alpi.
+  pt: >-
+    Criado para salvar o íbex, forma com o vizinho Gran Paradiso italiano um dos maiores espaços protegidos
+    dos Alpes.
+observaciones:
+  es: >-
+    Al planificar una marcha, mira el desnivel antes que la distancia: en la Vanoise el desnivel pesa más. En
+    julio y agosto la afluencia es alta en Pralognan y en los refugios clásicos. Respeta las zonas de
+    invernada del gallo lira si vas con esquís.
+texto:
+  es:
+    intro: >-
+      Todo empezó por una cabra. El [íbice](/especie/capra_ibex/) había sido exterminado a tiros en cuanto
+      aparecieron las armas de fuego, y en el macizo de la Vanoise solo sobrevivía un puñado en las alturas de
+      la vertiente sur, en la Maurienne, un territorio tan escarpado y de acceso tan difícil que acabó siendo
+      su último refugio. Para salvarlo nació en 1963 el Parque Nacional de la Vanoise, el primero de Francia.
+      Hoy sus 535 km² de zona protegida de corazón, en Saboya, se reparten entre los valles de la Tarentaise,
+      al norte, y de la Maurienne, al sur, y el íbice sigue siendo su emblema.
+    landscape: >-
+      La Vanoise es un país de alturas con modales amables. Hay 107 cumbres por encima de los 3.000 metros,
+      entre ellas la Grande Casse (3.855 m), el Mont Pourri (3.779 m) y la Dent Parrachée (3.695 m), pero las
+      separan valles pastorales anchos que dan acceso fácil a los collados. Por eso se camina tanto aquí: el
+      relieve es imponente, pero deja puertas abiertas.
+
+
+      Hay glaciares y lagos de altura, y entre los árboles crecen alerces, pinos negros de montaña y el pino
+      cembro, que en la región llaman arolle. Entre las flores protegidas están la androsace alpina y el
+      edelweiss.
+
+
+      El paisaje también guarda huellas humanas muy antiguas. El arte rupestre está muy extendido en el
+      parque, y el conjunto más importante son los grabados del Grand Roc Noir, que se reparten entre los
+      términos de Termignon, Lanslebourg-Mont-Cenis y Lanslevillard.
+    wildlife: >-
+      El íbice es el rey, con unos 2.100 ejemplares en el parque, pero no está solo. El
+      [rebeco](/especie/rupicapra_rupicapra/) suma unos 6.000, y la [marmota](/especie/marmota_marmota/) está
+      por todas partes: no hace falta buscarla, ella te encuentra. Completan el reparto el lobo, el lince, la
+      liebre variable, el tejón y el armiño.
+
+
+      Arriba mandan las aves. El [quebrantahuesos](/especie/gypaetus_barbatus/) y el [águila
+      real](/especie/aquila_chrysaetos/) vuelan sobre los cortados; el [lagópodo
+      alpino](/especie/lagopus_muta/), el gallo lira y el treparriscos viven en las zonas altas, y entre las
+      rapaces nocturnas está el búho real.
+
+
+      El invierno cambia las reglas. El esquí fuera de pista está prohibido en las zonas donde pasa el
+      invierno el gallo lira, para no molestarlo.
+    visit: >-
+      La Vanoise se camina. Hay una red de casi 400 km de senderos balizados que parten de los pueblos y
+      estaciones de los valles de Maurienne y Tarentaise, y el portal Rando Vanoise propone una sesentena de
+      recorridos en el corazón del parque y más de 250 en todo el territorio.
+
+
+      Dos grandes itinerarios cruzan el macizo de norte a sur: la Via Alpina y el GR 5. Por el parque pasan
+      también el GR 55 y el tour de los glaciares de la Vanoise, que te llevan hasta glaciares y lagos de
+      altura. Las travesías de varios días son posibles gracias a los refugios, así que puedes encadenar
+      jornadas sin bajar al valle.
+
+
+      Una excursión de nivel medio es la subida al Col de Plan Séry, que el refugio del parque da por ida y
+      vuelta en seis horas.
+    history: >-
+      La historia de la Vanoise es la de una reserva que se hizo parque. En 1943 se creó una reserva natural
+      con el impulso del Club alpino francés, el Touring club de France y los cazadores. En el vecino Gran
+      Paradiso quedaba un centenar de íbices cuando se prohibió su caza en 1823, y desde 1856 hubo allí una
+      reserva real.
+
+
+      El parque ha tenido que defender su corazón. Ecologistas llevaron ante el Consejo de Estado el proyecto
+      de la estación de Val Thorens por vulnerar la inviolabilidad del corazón del parque, y las obras
+      empezaron, pero sin la ampliación sobre el glaciar. Después llegó el pulso con los municipios:
+      veintiséis de los veintinueve rechazaron una primera carta, por la burocracia y el poco margen para el
+      turismo de invierno, y solo dos votaron a favor de la nueva, lo que dejó el área de adhesión muy
+      reducida.
+    before: >-
+      Al planificar una marcha, mira el desnivel antes que la distancia: en la Vanoise el desnivel pesa más.
+      En julio y agosto la afluencia es alta en Pralognan y en los refugios clásicos. Respeta las zonas de
+      invernada del gallo lira si vas con esquís.
+    around: >-
+      La Vanoise toca el [Parque Nacional del Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), a 1 km:
+      comparten catorce kilómetros de frontera y están hermanados desde 1972. A unos veintidós kilómetros
+      queda el [Parque Natural del Gran Bosco de
+      Salbertrand](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), a veintisiete la [Cadena de
+      Belledonne](/lugar/chaine-de-belledonne/) y a treinta el [Parque Nacional de los
+      Écrins](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Más lejos, el [Parque Nacional de los Pirineos](/lugar/parc-national-des-pyrenees/) comparte marmota,
+      quebrantahuesos y águila real, y el [Parque Nacional de
+      Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) el lagópodo, la marmota y
+      el quebrantahuesos.
+  en:
+    intro: >-
+      It all began with a goat. The [Alpine ibex](/especie/capra_ibex/) had been systematically exterminated
+      as soon as firearms appeared, and across the entire Vanoise massif only a tiny handful survived high on
+      the southern slopes of the Maurienne—terrain so steep and inaccessible that it became their ultimate
+      sanctuary. To save it, Vanoise National Park was created in 1963 as France's first national park. Today
+      its 535 km² protected core, in Savoie, spans the valleys of the Tarentaise to the north and the
+      Maurienne to the south, and the ibex remains its proud emblem.
+    landscape: >-
+      The Vanoise is a high-altitude world with welcoming manners. There are 107 peaks rising above 3,000
+      meters, including the Grande Casse (3,855 m), Mont Pourri (3,779 m), and Dent Parrachée (3,695 m), yet
+      broad pastoral valleys separate them and provide gentle access to high mountain passes. That is why
+      hiking is so beloved here: the terrain is towering, yet it leaves open doors.
+
+
+      Glaciers and high-altitude lakes grace the heights, while larches, mountain pine, and Swiss stone
+      pine—known locally as arolle—dominate the timberline. Protected mountain blooms include the alpine
+      androsace and edelweiss.
+
+
+      The landscape also preserves deep human roots. Prehistoric rock art is remarkably widespread across the
+      park, with the most celebrated concentration found in the petroglyphs of Grand Roc Noir, shared among
+      the communes of Termignon, Lanslebourg-Mont-Cenis, and Lanslevillard.
+    wildlife: >-
+      The ibex is king, numbering some 2,100 individuals in the park, but it is far from alone. The
+      [chamois](/especie/rupicapra_rupicapra/) numbers around 6,000, and the [Alpine
+      marmot](/especie/marmota_marmota/) is ubiquitous: no need to search for it, it finds you first.
+      Completing the carnivore cast are wolves, lynx, mountain hares, badgers, and stoats.
+
+
+      Above, birds rule the skies. The [bearded vulture](/especie/gypaetus_barbatus/) and [golden
+      eagle](/especie/aquila_chrysaetos/) soar along the cliffs; the [rock ptarmigan](/especie/lagopus_muta/),
+      black grouse, and wallcreeper inhabit high crags, while the Eurasian eagle-owl represents nocturnal
+      raptors.
+
+
+      Winter shifts the rules. Off-piste skiing is prohibited in designated black grouse wintering reserves to
+      avoid fatal disturbance.
+    visit: >-
+      The Vanoise is meant to be walked. An extensive network of nearly 400 km of marked trails radiates from
+      the villages and ski resorts of the Maurienne and Tarentaise valleys, while the Rando Vanoise hiking
+      portal offers some sixty circuits in the park's core and over 250 across the wider territory.
+
+
+      Two major trails cross the massif north to south: the Via Alpina and the GR 5. The GR 55 and the Tour of
+      the Vanoise Glaciers also wind through the park, leading up to sparkling glaciers and hanging tarns.
+      Multi-day traverses are facilitated by staffed mountain refuges, allowing you to string together
+      consecutive days without descending to the valleys.
+
+
+      A classic moderate day hike is the ascent to Col de Plan Séry, which the park refuge estimates as a
+      six-hour round trip.
+    history: >-
+      The story of the Vanoise is that of a nature reserve that grew into a national park. In 1943 a natural
+      reserve was established through the joint push of the French Alpine Club, the Touring Club de France,
+      and hunting federations. In neighboring Gran Paradiso, barely a hundred ibex survived when hunting was
+      banned in 1823, leading to a royal hunting reserve in 1856.
+
+
+      The park has repeatedly had to defend its core. Conservationists took the Val Thorens ski resort
+      expansion to the Council of State over violations of the core park's inviolability; construction
+      proceeded, but without expanding onto the glacier. Later came friction with local municipalities:
+      twenty-six of twenty-nine communes rejected an initial park charter over bureaucracy and constraints on
+      winter sports, leaving the surrounding transition zone sharply reduced when only two voted in favor of
+      the revision.
+    before: >-
+      When planning a hike, assess elevation gain before distance: in the Vanoise, altitude gain is what
+      counts. In July and August, visitor density is high around Pralognan and popular refuges. Respect
+      designated black grouse wintering reserves if visiting on skis.
+    around: >-
+      The Vanoise borders Italy's [Gran Paradiso National Park](/lugar/parco-nazionale-gran-paradiso/) just 1
+      km away: they share fourteen kilometers of frontier and have been officially twinned since 1972. Roughly
+      twenty-two kilometers away lies the [Gran Bosco di Salbertrand Natural
+      Park](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), twenty-seven kilometers to the [Belledonne
+      Range](/lugar/chaine-de-belledonne/), and thirty kilometers to the [Écrins National
+      Park](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Farther away, the [Pyrénées National Park](/lugar/parc-national-des-pyrenees/) shares marmots, bearded
+      vultures, and golden eagles, while [Aigüestortes National
+      Park](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) shares ptarmigan, marmots, and
+      bearded vultures.
+  fr:
+    intro: >-
+      Tout a commencé par une chèvre sauvage. Le [bouquetin des Alpes](/especie/capra_ibex/) avait été décimé
+      dès l'apparition des armes à feu, et dans le massif de la Vanoise ne subsistait qu'une poignée
+      d'individus sur les hauteurs du versant sud, en Maurienne—un territoire si escarpé et d'accès si
+      difficile qu'il devint son ultime refuge. Pour le sauver fut créé en 1963 le Parc national de la
+      Vanoise, le premier de France. Aujourd'hui, ses 535 km² de cœur protégé, en Savoie, se partagent entre
+      la vallée de la Tarentaise au nord et celle de la Maurienne au sud, et le bouquetin demeure son fier
+      emblème.
+    landscape: >-
+      La Vanoise est un pays de cimes aux manières douces. On y dénombre 107 sommets dépassant les 3 000
+      mètres, parmi lesquels la Grande Casse (3 855 m), le Mont Pourri (3 779 m) et la Dent Parrachée (3 695
+      m), mais de larges vallées pastorales les séparent et ouvrent des accès aisés vers les cols. C'est
+      pourquoi la randonnée y est reine : le relief est grandiose, mais il laisse des portes ouvertes.
+
+
+      Glaciers et lacs d'altitude ponctuent les hauteurs, tandis que mélèzes, pins cembros—appelés localement
+      arolles—et pins à crochets peuplent l'étage subalpin. Parmi les fleurs protégées figurent l'androsace
+      alpine et l'edelweiss.
+
+
+      Le paysage garde aussi de très anciennes traces humaines. L'art rupestre est largement présent dans le
+      parc, son ensemble le plus remarquable étant les gravures du Grand Roc Noir, partagées entre Termignon,
+      Lanslebourg-Mont-Cenis et Lanslevillard.
+    wildlife: >-
+      Le bouquetin règne en maître avec environ 2 100 individus dans le parc, mais il est loin d'être seul. Le
+      [chamois](/especie/rupicapra_rupicapra/) compte environ 6 000 têtes, et la [marmotte des
+      Alpes](/especie/marmota_marmota/) est omniprésente : inutile de la chercher, elle vous trouve
+      d'elle-même. Le tableau faunistique se complète du loup, du lynx, du lièvre variable, du blaireau et de
+      l'hermine.
+
+
+      Dans les airs s'imposent les grands oiseaux. Le [gypaète barbu](/especie/gypaetus_barbatus/) et l'[aigle
+      royal](/especie/aquila_chrysaetos/) patrouillent le long des parois ; le [lagopède
+      alpin](/especie/lagopus_muta/), le tétras-lyre et le tichodrome échelette occupent les étages élevés,
+      tandis que le grand-duc d'Europe représente les rapaces nocturnes.
+
+
+      L'hiver bouleverse les règles. Le ski hors-piste est interdit dans les zones d'hivernage du tétras-lyre
+      afin d'éviter un dérangement préjudiciable à sa survie.
+    visit: >-
+      La Vanoise se découvre à pied. Un réseau de près de 400 km de sentiers balisés rayonne depuis les
+      villages et stations des vallées de Maurienne et de Tarentaise, et le portail Rando Vanoise propose une
+      soixantaine d'itinéraires dans le cœur du parc et plus de 250 sur l'ensemble du territoire.
+
+
+      Deux grands itinéraires traversent le massif du nord au sud : la Via Alpina et le GR 5. Le GR 55 et le
+      Tour des Glaciers de la Vanoise sillonnent également le parc, menant aux glaciers scintillants et aux
+      lacs perchés. Les traversées de plusieurs jours sont facilitées par les refuges gardés, permettant
+      d'enchaîner les étapes sans redescendre en vallée.
+
+
+      Une classique randonnée de niveau moyen est la montée au col de Plan Séry, que le refuge du parc estime
+      à six heures aller-retour.
+    history: >-
+      L'histoire de la Vanoise est celle d'une réserve devenue parc national. En 1943 naquit une réserve
+      naturelle sous l'impulsion du Club alpin français, du Touring club de France et des chasseurs. Au Grand
+      Paradis voisin, il ne restait qu'une centaine de bouquetins quand leur chasse fut interdite en 1823,
+      créant une réserve royale dès 1856.
+
+
+      Le parc a maintes fois dû défendre son intégrité. Des écologistes portèrent devant le Conseil d'État le
+      projet de la station de Val Thorens pour atteinte à l'inviolabilité du cœur du parc ; les aménagements
+      eurent lieu, mais sans extension sur le glacier. Vint ensuite la négociation avec les communes :
+      vingt-six sur vingt-neuf rejetèrent la première charte en raison de la bureaucratie et des contraintes
+      sur le tourisme hivernal, et seules deux votèrent en faveur de la nouvelle, réduisant fortement l'aire
+      d'adhésion.
+    before: >-
+      Lors de la préparation d'une course, évaluez le dénivelé avant la distance : en Vanoise, le dénivelé
+      pèse davantage. En juillet et août, la fréquentation est élevée à Pralognan et dans les refuges
+      classiques. Respectez les zones d'hivernage du tétras-lyre si vous pratiquez le ski de randonnée.
+    around: >-
+      La Vanoise touche le [Parc national du Grand Paradis](/lugar/parco-nazionale-gran-paradiso/) à seulement
+      1 km : ils partagent quatorze kilomètres de frontière commune et sont jumelés depuis 1972. À environ
+      vingt-deux kilomètres se trouve le [Parc naturel du Gran Bosco de
+      Salbertrand](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), à vingt-sept la [Chaîne de
+      Belledonne](/lugar/chaine-de-belledonne/) et à trente le [Parc national des
+      Écrins](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Plus loin, le [Parc national des Pyrénées](/lugar/parc-national-des-pyrenees/) partage marmotte, gypaète
+      barbu et aigle royal, et le [Parc national
+      d'Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) le lagopède, la marmotte
+      et le gypaète barbu.
+  de:
+    intro: >-
+      Alles begann mit einem Wildtier. Der [Alpensteinbock](/especie/capra_ibex/) war mit dem Aufkommen von
+      Feuerwaffen nahezu ausgerottet worden, und im gesamten Vanoise-Massiv überlebte nur eine Handvoll Tiere
+      an den steilen Südhängen der Maurienne—einem so unzugänglichen Terrain, dass es zu ihrem letzten
+      Zufluchtsort wurde. Um die Art zu retten, entstand 1963 der Nationalpark Vanoise als erster Nationalpark
+      Frankreichs. Heute erstreckt sich seine 535 km² große Kernzone im Département Savoie zwischen dem
+      Tarentaise-Tal im Norden und der Maurienne im Süden, und der Steinbock ziert bis heute sein Wappen.
+    landscape: >-
+      Die Vanoise ist eine alpine Hochgebirgslandschaft mit sanften Zügen. Es gibt 107 Gipfel über 3.000
+      Metern, darunter die Grande Casse (3.855 m), der Mont Pourri (3.779 m) und die Dent Parrachée (3.695 m),
+      doch breite Almtäler trennen sie und bieten bequemen Zugang zu den Pässen. Darum wird hier so gern
+      gewandert: Das Relief ist gewaltig, lässt dem Wanderer aber immer offene Türen.
+
+
+      Gletscher und Karseen prägen die Höhenlagen, während Lärchen, Bergkiefern und die Zirbelkiefer—regional
+      arolle genannt—die subalpinen Wälder bilden. Zu den geschützten Alpenblumen gehören Mannsschild und
+      Edelweiß.
+
+
+      Die Landschaft birgt zudem uralte menschliche Zeugnisse. Felsbilder sind im Park weit verbreitet; das
+      bedeutendste Ensemble bilden die Petroglyphen des Grand Roc Noir, die sich auf die Gemeinden Termignon,
+      Lanslebourg-Mont-Cenis und Lanslevillard verteilen.
+    wildlife: >-
+      Der Steinbock ist König mit rund 2.100 Exemplaren im Park, doch er teilt sich das Revier. Die
+      [Gämse](/especie/rupicapra_rupicapra/) zählt etwa 6.000 Tiere, und das
+      [Alpenmurmeltier](/especie/marmota_marmota/) ist überall präsent: Du musst es nicht suchen, es findet
+      dich zuerst. Das Raubtierspektrum vervollständigen Wolf, Luchs, Schneehase, Dachs und Hermelin.
+
+
+      In den Lüften herrschen große Vögel. Der [Bartgeier](/especie/gypaetus_barbatus/) und der
+      [Steinadler](/especie/aquila_chrysaetos/) ziehen ihre Kreise über den Felswänden;
+      [Alpenschneehuhn](/especie/lagopus_muta/), Birkhuhn und Mauerläufer bewohnen die oberen Felsstufen,
+      während der Uhu die Nachtgreife anführt.
+
+
+      Der Winter ändert die Regeln. Varianten- und Tiefschneefahren ist in den Birkhuhn-Schutzgebieten
+      verboten, um die scheuen Vögel nicht im kräftezehrenden Winterquartier aufzuschrecken.
+    visit: >-
+      Die Vanoise will erwandert sein. Ein Wegenetz von fast 400 km markierten Pfaden geht von den Dörfern und
+      Wintersportorten der Maurienne- und Tarentaise-Täler aus, und das Tourenportal Rando Vanoise stellt rund
+      sechzig Routen in der Kernzone und über 250 im Gesamtgebiet vor.
+
+
+      Zwei große Fernwanderwege queren das Massiv von Nord nach Süd: die Via Alpina und der GR 5. Auch der GR
+      55 und die Vanoise-Gletscherrunde führen an funkelnden Eisriesen und Bergseen vorbei. Mehrtägige
+      Durchquerungen gelingen dank bewirtschafteter Berghütten, sodass du Tage am Stück im Gebirge verbringen
+      kannst, ohne ins Tal abzusteigen.
+
+
+      Eine beliebte mittelschwere Tagestour ist der Aufstieg zum Col de Plan Séry, den die Parkhütte als
+      Rundtour von sechs Stunden ausweist.
+    history: >-
+      Die Geschichte der Vanoise ist die eines Reservats, das zum Nationalpark heranwuchs. 1943 wurde auf
+      Betreiben des Club Alpin Français, des Touring Club de France und der Jägerschaft ein Schutzgebiet
+      gegründet. Im benachbarten Gran Paradiso lebten kaum hundert Steinböcke, als dort 1823 die Jagd verboten
+      und 1856 ein königliches Jagdreservat eingerichtet wurde.
+
+
+      Der Park musste seine Kernzone oft verteidigen. Naturschützer zogen vor den Staatsrat gegen den Ausbau
+      der Skistation Val Thorens wegen Verletzung der Kernzonen-Unberührtheit; die Bauarbeiten begannen, doch
+      der Gletscher blieb unangetastet. Später folgte das Ringen mit den Gemeinden: Sechsundzwanzig von
+      neunundzwanzig Kommunen lehnten die erste Parkcharta ab, und nur zwei stimmten der revidierten Fassung
+      zu, was die umliegende Beitrittszone drastisch verkleinerte.
+    before: >-
+      Achte bei der Tourenplanung mehr auf die Höhenmeter als auf die reine Distanz: In der Vanoise zehren
+      Anstiege an den Kräften. Im Juli und August ist der Andrang in Pralognan und auf den Haupthütten groß.
+      Respektiere im Winter auf Skiern stets die ausgewiesenen Ruhezonen des Birkhuhns.
+    around: >-
+      Die Vanoise grenzt in nur 1 km Entfernung an den italienischen [Nationalpark Gran
+      Paradiso](/lugar/parco-nazionale-gran-paradiso/): Sie teilen vierzehn Kilometer gemeinsame Staatsgrenze
+      und sind seit 1972 offiziell verpartnert. Etwa zweiundzwanzig Kilometer entfernt liegt der [Naturpark
+      Gran Bosco di Salbertrand](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), siebenundzwanzig
+      Kilometer die [Belledonne-Kette](/lugar/chaine-de-belledonne/) und dreißig Kilometer der [Nationalpark
+      Écrins](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Weiter entfernt teilen der [Nationalpark Pyrenäen](/lugar/parc-national-des-pyrenees/) Murmeltier,
+      Bartgeier und Steinadler sowie der [Nationalpark
+      Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) Schneehuhn, Murmeltier und
+      Bartgeier.
+  it:
+    intro: >-
+      Tutto ebbe inizio per uno stambecco. Lo [stambecco](/especie/capra_ibex/) era stato sistematicamente
+      sterminato non appena comparvero le armi da fuoco, e nell'intero massiccio della Vanoise ne sopravviveva
+      soltanto un pugno sulle alture del versante meridionale, nella Maurienne—un territorio così dirupato e
+      inaccessibile da divenire il suo ultimo rifugio. Per salvarlo nacque nel 1963 il Parco Nazionale della
+      Vanoise, il primo della Francia. Oggi i suoi 535 km² di area protetta centrale, in Savoia, si dividono
+      tra la valle della Tarentaise a nord e la Maurienne a sud, e lo stambecco rimane il suo fiero emblema.
+    landscape: >-
+      La Vanoise è un regno d'alta quota dai modi accoglienti. Si contano 107 vette oltre i 3.000 metri, tra
+      cui la Grande Casse (3.855 m), il Mont Pourri (3.779 m) e la Dent Parrachée (3.695 m), separate da ampie
+      vallate pastorali che agevolano l'accesso ai valichi. Per questa ragione è un territorio d'elezione per
+      il trekking: il rilievo è maestoso ma offre sempre varchi aperti.
+
+
+      Ghiacciai e laghi di circo impreziosiscono le quote elevate, mentre larici, pini uncinati e pini
+      cembri—chiamati arolle in loco—ammantano il piano subalpino. Tra le fioriture protette si ammirano
+      l'androsace alpina e la stella alpina.
+
+
+      Il paesaggio serba memorie umane arcaiche. L'arte rupestre è ampiamente diffusa nel parco, e la
+      testimonianza più celebre è costituita dalle incisioni del Grand Roc Noir, condivise tra i comuni di
+      Termignon, Lanslebourg-Mont-Cenis e Lanslevillard.
+    wildlife: >-
+      Lo stambecco regna sovrano con circa 2.100 esemplari nel parco, ma non è isolato. Il [camoscio
+      alpino](/especie/rupicapra_rupicapra/) conta circa 6.000 individui, e la [marmotta
+      alpina](/especie/marmota_marmota/) è ovunque: non serve cercarla, è lei a farsi notare. Completano la
+      fauna lupo, lince, lepre variabile, tasso ed ermellino.
+
+
+      In alto padroneggiano i volatili. Il [gipeto](/especie/gypaetus_barbatus/) e l'[aquila
+      reale](/especie/aquila_chrysaetos/) volteggiano lungo le scarpate; la [pernice
+      bianca](/especie/lagopus_muta/), il fagiano di monte e il picchio muraiolo abitano i ghiaioni sommitali,
+      mentre il gufo reale presidia la notte.
+
+
+      L'inverno muta le abitudini. Lo sci fuoripista è vietato nei settori di svernamento del fagiano di monte
+      per evitarne il disturbo.
+    visit: >-
+      La Vanoise si scopre a piedi. Una fitta rete di quasi 400 km di sentieri segnalati si diparte dai borghi
+      e dalle stazioni sciistiche della Maurienne e della Tarentaise, e il portale Rando Vanoise illustra una
+      sessantina di percorsi nel cuore protetto e oltre 250 sull'intero comprensorio.
+
+
+      Due grandi itinerari solcano il massiccio da nord a sud: la Via Alpina e il GR 5. Il GR 55 e il giro dei
+      ghiacciai della Vanoise conducono a seracchi scintillanti e laghetti sospesi. Le traversate di più
+      giorni sono agevolate dalla rete di rifugi custoditi, consentendo di concatenare le tappe senza
+      ridiscendere nei centri abitati.
+
+
+      Un classico giro di media difficoltà è la salita al Col de Plan Séry, stimata dal rifugio in sei ore tra
+      andata e ritorno.
+    history: >-
+      La genesi della Vanoise è quella di una riserva trasformatasi in parco nazionale. Nel 1943 nacque una
+      riserva naturale su spinta del Club alpino francese, del Touring club de France e dei cacciatori. Nel
+      vicino Gran Paradiso rimaneva un centinaio di stambecchi quando ne venne vietata la caccia nel 1823,
+      creando dal 1856 una riserva reale di caccia.
+
+
+      Il parco ha difeso tenacemente i propri confini. Gli ambientalisti ricorsero al Consiglio di Stato
+      contro i progetti d'espansione della stazione sciistica di Val Thorens per violazione dell'inviolabilità
+      del parco; i lavori si avviarono ma senza sconfinare sul ghiacciaio. Seguì il confronto con le
+      municipalità locali: ventisei comuni su ventinove respinsero una prima carta del parco a causa dei
+      vincoli burocratici, e soltanto due votarono a favore della nuova bozza, riducendo sensibilmente l'area
+      contigua.
+    before: >-
+      Nel pianificare un'escursione, calcola il dislivello prima dello sviluppo chilometrico: in Vanoise la
+      quota determina la fatica. A luglio e agosto l'affluenza è intensa a Pralognan e nei rifugi più noti.
+      Rispettate scrupolosamente le oasi di quiete invernale del fagiano di monte se vi muovete con gli sci.
+    around: >-
+      La Vanoise tocca il [Parco Nazionale Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/) ad appena 1
+      km di distanza: condividono quattordici chilometri di linea di confine e sono gemellati dal 1972. A
+      circa ventidue chilometri sorge il [Parco Naturale del Gran Bosco di
+      Salbertrand](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), a ventisette la [Catena di
+      Belledonne](/lugar/chaine-de-belledonne/) e a trenta il [Parco Nazionale degli
+      Écrins](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Più lontano, il [Parco Nazionale dei Pirenei](/lugar/parc-national-des-pyrenees/) condivide marmotta,
+      gipeto e aquila reale, e il [Parco Nazionale di
+      Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) pernice bianca, marmotta e
+      gipeto.
+  pt:
+    intro: >-
+      Tudo principiou com uma cabra bravia. O [íbex](/especie/capra_ibex/) tinha sido exterminado assim que
+      surgiram as armas de fogo, e no maciço de Vanoise restava apenas um punhado de espécimes nas alturas da
+      vertente sul, na Maurienne—um território tão alcantilado e de acesso tão árduo que se tornou o seu
+      derradeiro refúgio. Para o salvar foi fundado em 1963 o Parque Nacional de Vanoise, o primeiro de
+      França. Hoje em dia os seus 535 km² de zona protegida central, na Saboia, distribuem-se entre os vales
+      da Tarentaise a norte e da Maurienne a sul, continuando o íbex a ser o seu orgulhoso símbolo.
+    landscape: >-
+      Vanoise é um universo de altitudes com feição acolhedora. Erguem-se 107 picos acima dos 3.000 metros,
+      destacando-se a Grande Casse (3.855 m), o Mont Pourri (3.779 m) e a Dent Parrachée (3.695 m), separados
+      por vales pastoris abertos que facultam acessos suaves aos colos montanhosos. Por esse motivo as
+      caminhadas são aqui tão populares: o relevo é majestoso, mas deixa passagens desimpedidas.
+
+
+      Glaciares e lagoas de circo dominam as alturas, ao passo que lariços, pinheiros-das-rochas e o
+      pinheiro-suíço—chamado localmente arolle—formam os bosques subalpinos. Entre as flores protegidas
+      contam-se a androsace-alpina e a edelvais.
+
+
+      A paisagem preserva igualmente vestígios humanos imemoriais. A arte rupestre encontra-se disseminada no
+      parque, tendo como núcleo principal as gravuras do Grand Roc Noir, repartidas entre Termignon,
+      Lanslebourg-Mont-Cenis e Lanslevillard.
+    wildlife: >-
+      O íbex reina absoluto com cerca de 2.100 exemplares no parque, mas está bem acompanhado. A
+      [camurça](/especie/rupicapra_rupicapra/) perfaz cerca de 6.000 animais, e a
+      [marmota-alpina](/especie/marmota_marmota/) surge por todo o lado: não precisas de a procurar, ela dá
+      logo consigo. Completam a fauna o lobo, o lince, a lebre-variável, o texugo e a arminho.
+
+
+      Nas alturas dominam as grandes aves. O [abutre-barbudo](/especie/gypaetus_barbatus/) e a
+      [águia-real](/especie/aquila_chrysaetos/) patrulham as escarpas rochosas; o
+      [lagópode-branco](/especie/lagopus_muta/), o tetraz-lira e o trepadeira-dos-muros habitam os rochedos
+      cimeiros, enquanto o bufo-real sobressai nas rapinas noturnas.
+
+
+      O inverno impõe novas exigências. O esqui fora de pista é proibido nos setores de refúgio invernal do
+      tetraz-lira para não perturbar a sua sobrevivência.
+    visit: >-
+      Vanoise foi talhado para caminhar. Uma malha de quase 400 km de trilhos balizados irradia das aldeias e
+      estâncias de esqui da Maurienne e da Tarentaise, e a plataforma Rando Vanoise propõe cerca de sessenta
+      itinerários na zona central e mais de 250 em todo o território.
+
+
+      Duas grandes rotas cruzam o maciço de norte a sul: a Via Alpina e o GR 5. O GR 55 e a Volta dos
+      Glaciares de Vanoise circulam igualmente pelo parque, conduzindo a glaciares e lagos suspensos. As
+      travessias de várias jornadas são apoiadas por refúgios de montanha com guarda, permitindo encadear
+      etapas sem descer aos vales.
+
+
+      Um percurso de nível médio bastante apreciado é a subida ao Col de Plan Séry, estimada pelo refúgio em
+      seis horas de ida e volta.
+    history: >-
+      A história de Vanoise é a de uma reserva que evoluiu para parque nacional. Em 1943 constituiu-se uma
+      reserva natural por impulso do Clube Alpino Francês, do Touring Club de France e das associações de
+      caça. No contíguo Gran Paradiso restavam apenas cem íbexes quando a sua caça foi banida em 1823,
+      criando-se aí uma coutada real a partir de 1856.
+
+
+      O parque teve de defender reiteradamente a sua integridade. Associações ecologistas recorreram ao
+      Conselho de Estado contra a ampliação da estância de Val Thorens por violar a intangibilidade do coração
+      do parque; as obras avançaram mas a expansão sobre o glaciar foi travada. Seguiu-se o impasse com os
+      municípios: vinte e seis em vinte e nove rejeitaram a primeira carta do parque devido à burocracia e
+      entraves ao turismo, tendo apenas dois aprovado a versão revista, o que reduziu drasticamente a área
+      periférica de adesão.
+    before: >-
+      Ao programar uma caminhada, avalia o desnível antes da distância: em Vanoise o desnível acumula a
+      fadiga. Em julho e agosto a procura é grande em Pralognan e nos refúgios mais concorridos. Respeita
+      rigorosamente os setores de refúgio de inverno do tetraz-lira caso pratiques esqui de montanha.
+    around: >-
+      Vanoise confina com o [Parco Nazionale Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/) a apenas 1
+      km de distância: partilham catorze quilómetros de fronteira e mantêm geminação oficial desde 1972. A
+      cerca de vinte e dois quilómetros situa-se o [Parque Natural do Gran Bosco de
+      Salbertrand](/lugar/parco-naturale-del-gran-bosco-di-salbertrand/), a vinte e sete a [Cadeia de
+      Belledonne](/lugar/chaine-de-belledonne/) e a trinta o [Parque Nacional de
+      Écrins](/lugar/parc-national-des-ecrins---massif/).
+
+
+      Mais distante, o [Parque Nacional dos Pirinéus](/lugar/parc-national-des-pyrenees/) partilha marmotas,
+      abutre-barbudo e águia-real, e o [Parque Nacional de
+      Aigüestortes](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) lagópode, marmotas e
+      abutre-barbudo.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Vanoise_National_Park
+    titulo: Vanoise National Park - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.vanoise-parcnational.fr/fr/des-decouvertes/decouvrir-le-parc/la-randonnee-pedestre
+    titulo: La randonnée pédestre | Parc national de la Vanoise
+    fecha_consulta: '2026-10-24'
+  - url: https://refuge-rosuel.vanoise.com/bouger/randonnee
+    titulo: Refuge de Rosuel — Randonnée
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/Parc_national_de_la_Vanoise
+    titulo: Parc national de la Vanoise — Wikipédia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Vanoise_National_Park_-_pond.jpg
+    autor: Tiia Monto
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

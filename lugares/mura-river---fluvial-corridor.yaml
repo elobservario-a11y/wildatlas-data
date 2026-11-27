@@ -1,0 +1,499 @@
+id: mura-river---fluvial-corridor
+estado_editorial: valoracion-revisada
+nombre:
+  es: Corredor Fluvial del Río Mura
+  en: Mura River Fluvial Corridor
+  fr: Couloir fluvial de la rivière Mura
+  de: Flusskorridor der Mur
+  it: Corridoio fluviale del fiume Mura
+  pt: Corredor Fluvial do Rio Mura
+nombre_original: Mura River - Fluvial Corridor
+alias:
+  - Mura River
+paises:
+  - AT
+  - SI
+  - HR
+  - HU
+region:
+  es: Estiria (AT), Prekmurje (SI), Međimurje (HR)
+  en: Styria (AT), Prekmurje (SI), Međimurje (HR)
+  fr: Styrie (AT), Prekmurje (SI), Međimurje (HR)
+  de: Steiermark (AT), Prekmurje (SI), Međimurje (HR)
+  it: Stiria (AT), Prekmurje (SI), Međimurje (HR)
+  pt: Estíria (AT), Prekmurje (SI), Međimurje (HR)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.55
+  lon: 16.2
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 395232
+  nombre_en_la_fuente: Mura
+  capa: capas/cdda/mura-river---fluvial-corridor.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - biosphere_reserve
+  - natura2000
+especies:
+  - lutra_lutra
+  - castor_fiber
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Centro de visitantes — interpretación de Mura en Velika Polana
+    url: https://muranatura.si/en/info-center-velika-polana
+resumen:
+  es: Río meandriforme de aguas rápidas con molinos de agua tradicionales y sotos aluviales preserved.
+  en: >-
+    Fast-flowing meandering river flanked by preserved alluvial gallery forests and historic floating boat
+    mills.
+  fr: Rivière sauvage et méandrique aux eaux vives abritant moulins flottants et forêts alluviales préservées.
+  de: Mäandrierender Wildfluss mit Stromschnellen, historischen Schiffsmühlen und intakten Auwäldern.
+  it: Fiume meandriforme a corrente vivace con caratteristici mulini galleggianti e boschi golenali preservati.
+  pt: Rio meandriforme de águas bravas com azenhas flutuantes tradicionais e matas de galeria preservadas.
+unico:
+  es: >-
+    Un río que aún cambia de curso y que conserva molinos flotantes, bosques aluviales viejos y una nutria que
+    lo recorre entero.
+  en: >-
+    A dynamically shifting river preserving traditional floating boat mills, ancient alluvial gallery forests,
+    and a continuous European otter corridor.
+  fr: >-
+    Une rivière vivante qui déplace ses bancs de graviers, conservant des moulins à nef, des forêts inondables
+    et une loutre omniprésente.
+  de: >-
+    Ein dynamischer Flusslauf voller Kiesbänke mit traditionellen Schiffsmühlen, urigen Auwäldern und
+    durchgängigen Fischotterrevieren.
+  it: >-
+    Un fiume che continua a mutare alveo conservando mulini su barche, boschi alluvionali vetusti e una
+    popolazione continua di lontre.
+  pt: >-
+    Um rio dinâmico que desloca o seu leito conservando moinhos em barcas, florestas aluviais antigas e uma
+    lontra que o percorre na totalidade.
+observaciones:
+  es: >-
+    El proyecto Natura Mura planea mejoras en puntos de interpretación y senderos; comprueba antes de ir
+    cuáles están abiertos. Entre los retos de la reserva figura la visita sin control, así que mantente en los
+    senderos y puntos señalizados.
+texto:
+  es:
+    intro: >-
+      Prekmurje significa «al otro lado del Mura», y Međimurje, «entre el Mura»: dos regiones que se definen
+      por un río. Es el Mura, que nace a 1898 m en los Hohe Tauern, en Austria, y que baja hasta caer en el
+      Drava como un río de curvas, bancos de arena y bosques inundables. La parte eslovena, protegida como
+      reserva de biosfera de la UNESCO, conserva el mayor complejo de llanuras de inundación de Eslovenia: un
+      paisaje donde la naturaleza y la gente llevan siglos entrelazadas, con molinos flotantes incluidos.
+    landscape: >-
+      El Mura mide unos 464 km; 95 km fluyen en Eslovenia o en su entorno, y el resto forma la frontera entre
+      Croacia y Hungría. Cerca de Spielfeld el río forma la frontera entre Austria y Eslovenia, hasta Bad
+      Radkersburg y Gornja Radgona, donde entra del todo en Eslovenia. Pasa por Veržej y desemboca en el Drava
+      en Legrad, en la frontera entre Croacia y Hungría.
+
+
+      Lo que hace único este tramo es que el río sigue siendo dinámico. En el alto Međimurje el Mura inunda y
+      cambia de curso a menudo, y ahí está Murščak, el mayor bosque junto al río. La zona núcleo es un mosaico
+      de hábitats bien conservados de las secciones medias de las llanuras de inundación, con bosques
+      aluviales muy viejos de sauce blanco, roble común y álamos blancos y negros. Hay bosques aluviales de
+      aliso negro y fresno común, y bosque de ribera mixto con roble pedunculado, olmo blanco europeo y
+      fresno. Y en la zona de transición hay humedales, pastizales naturales, cursos de agua y bosques de
+      frondosas.
+
+
+      Los bosques de sauce, aliso y fresno ocupan unas 1820 ha del Mura, y están peor en el tramo fronterizo
+      con Austria. Los bosques de roble, álamo temblón y olmo crecen en suelos desarrollados y solo se inundan
+      con aguas altas: si baja el agua freática, mueren.
+    wildlife: >-
+      La [nutria](/especie/lutra_lutra/) vive en todo el curso del Mura, y el [castor](/especie/castor_fiber/)
+      se ha vuelto a asentar en los últimos años. En los bosques aluviales con mucha madera muerta vive el
+      [pico mediano](/especie/picoides_medius/). Y en las charcas permanentes de la llanura de inundación, el
+      [sapillo de vientre de fuego europeo](/especie/bombina_bombina/), cuyo hábitat desaparece por relleno,
+      dragado y colmatación. La libélula Ophiogomphus cecilia depende de los bancos de arena del río, y su
+      hábitat está en mal estado entre Šentilj y Veržej.
+
+
+      El mejor momento para recorrer el Mura es de mayo a octubre.
+    visit: >-
+      El centro de interpretación de Velika Polana, en el molino de Copek, tiene cinco puntos de
+      interpretación sobre el Mura y su entorno: el proyecto de restauración, la red europea de espacios
+      protegidos y la reserva de biosfera, los prados extensivos, el río y su ribera, y los bosques aluviales.
+      Entre un punto y otro se presentan las especies animales y vegetales de la cuenca, y los puntos tienen
+      códigos QR con más contenido en varios idiomas.
+
+
+      El proyecto Natura Mura prevé senderos educativos y puntos de interpretación en los lugares donde
+      restaura hábitats, y mejora los existentes en Lisjakova struga, Mota y Bobri.
+    history: >-
+      Hay noticias de molinos flotantes en el río desde el siglo IV a. C.; el molino Babič, cerca de Veržej,
+      sigue funcionando. Aún hay transbordadores de cable. En la reserva viven la minoría húngara y la
+      comunidad romaní, y se hablan variedades del grupo dialectal panónico.
+
+
+      El tramo esloveno del Mura es una zona protegida europea de 147,5 km² que incluye los tramos fronterizos
+      con Austria y Croacia. El proyecto Natura Mura busca mejorar el estado de conservación de tres tipos de
+      hábitat y doce especies. Restaura brazos muertos, como Zaton y Podkova, y ramales del río, permite
+      ensanchar el cauce de forma controlada, compra las áreas más valiosas de bosque aluvial, pantanos y
+      humedales y sustituye plantaciones de álamo por bosque natural. Entre las amenazas están el cambio de
+      las condiciones hidromorfológicas del río, el cambio climático, la intensificación del uso de la llanura
+      de inundación, las especies invasoras y el abandono de los pastizales extensivos.
+
+
+      El nombre «Amazonas de Europa» se debe a una reserva de biosfera transfronteriza, la Mura-Drava-Danubio,
+      que cinco países (Austria, Eslovenia, Croacia, Hungría y Serbia) acordaron crear en 2011.
+    before: >-
+      El proyecto Natura Mura planea mejoras en puntos de interpretación y senderos; comprueba antes de ir
+      cuáles están abiertos. Entre los retos de la reserva figura la visita sin control, así que mantente en
+      los senderos y puntos señalizados.
+  en:
+    intro: >-
+      Prekmurje translates as "beyond the Mura", and Međimurje signifies "between the Mura": two historic
+      regions defined by a single dynamic river. Rising at 1898 m in Austria's Hohe Tauern range, the Mura
+      journeys down to merge with the Drava as a living corridor of gravel bars, shifting oxbows, and
+      floodplain gallery woodlands. The Slovenian reach, protected as a UNESCO biosphere reserve, preserves
+      the nation's largest contiguous floodplain complex, where rural communities and natural wetlands have
+      coexisted for centuries alongside traditional floating boat mills.
+    landscape: >-
+      The Mura extends for roughly 464 km; 95 km flow through or border Slovenia, with the remainder forming
+      the Croatian-Hungarian frontier. Near Spielfeld the river establishes the Austrian-Slovenian border down
+      to Bad Radkersburg and Gornja Radgona, where it enters entirely into Slovenia. Flowing past Veržej, it
+      empties into the Drava at Legrad on the border between Croatia and Hungary.
+
+
+      What distinguishes this reach is its untamed hydromorphology. Across upper Međimurje the Mura floods
+      freely and frequently carves new channels, nourishing Murščak, the river's largest contiguous riparian
+      forest. The conservation core forms an intricate mosaic of mature willow-poplar and hardwood gallery
+      woodlands featuring ancient white willow, pedunculate oak, European white elm, and ash. Backwaters and
+      gravel islands create diverse aquatic biotopes.
+
+
+      Softwood willow, alder, and ash associations blanket some 1820 ha along the Mura, facing greater
+      ecological stress along the Austrian border stretch. Hardwood oak-elm forests thrive on slightly
+      elevated alluvial terraces that inundate only during peak flood stages: drops in the groundwater table
+      threaten their survival.
+    wildlife: >-
+      The Eurasian [otter](/especie/lutra_lutra/) thrives throughout the entire length of the Mura corridor,
+      while the European [beaver](/especie/castor_fiber/) has successfully recolonized its backwaters in
+      recent decades. Mature floodplain gallery forests rich in deadwood support healthy populations of the
+      [middle spotted woodpecker](/especie/picoides_medius/). Permanent backwater pools and side arms shelter
+      the [European fire-bellied toad](/especie/bombina_bombina/), whose shallow habitats face threats from
+      infilling and drainage. The river clubtail dragonfly (Ophiogomphus cecilia) depends on clean gravel
+      beds, showing depleted habitats between Šentilj and Veržej.
+
+
+      The most rewarding season to explore the river is from May to October.
+    visit: >-
+      The Velika Polana interpretive centre, housed in the historic Copek watermill, presents five thematic
+      stations interpreting the Mura and its surroundings: river restoration projects, European protected
+      areas and the biosphere reserve, hay meadows, riverine ecology, and alluvial forests. Exhibits
+      illustrate resident flora and fauna, enhanced by QR codes providing multilingual digital interpretation.
+
+
+      The Natura Mura conservation initiative is establishing thematic educational trails and upgrading
+      visitor points across habitat restoration zones at Lisjakova struga, Mota, and Bobri.
+    history: >-
+      Floating timber boat mills have operated along the river since the fourth century BC; the restored Babič
+      mill near Veržej continues milling grain. Traditional cable reaction ferries still convey passengers
+      across the current. The biosphere reserve encompasses Hungarian minority and Romani communities speaking
+      Pannonian dialects.
+
+
+      The Slovenian reach forms a 147.5 km² European protected site spanning the Austrian and Croatian
+      borders. The Natura Mura project focuses on improving the conservation status of three habitat types and
+      twelve priority species. Initiatives restore historic oxbows like Zaton and Podkova, reconnect abandoned
+      side arms, allow controlled riverbed widening, purchase prime alluvial woodlands, and replace hybrid
+      poplar plantations with indigenous trees.
+
+
+      The moniker "Amazon of Europe" celebrates the vast transboundary Mura-Drava-Danube Biosphere Reserve,
+      officially established through an accord signed by five nations (Austria, Slovenia, Croatia, Hungary,
+      and Serbia) in 2011.
+    before: >-
+      The Natura Mura project carries out ongoing enhancements along interpretive trails; verify which
+      boardwalks and paths are open before visiting. To prevent disturbance across delicate riparian
+      sanctuaries, stay strictly on designated footpaths and access points.
+  fr:
+    intro: >-
+      Prekmurje signifie « au-delà de la Mura » et Međimurje « entre la Mura » : deux terroirs historiques
+      définis par un même cours d'eau. Née à 1898 m d'altitude dans les Hohe Tauern autrichiens, la Mura
+      dévale vers la Drave en un ruban d'îlots de galets, de méandres vifs et de forêts inondables. La section
+      slovène, protégée comme réserve de biosphère UNESCO, préserve le plus vaste complexe alluvial de
+      Slovénie, où traditions rurales et nature cohabitent depuis des siècles autour de pittoresques moulins
+      flottants.
+    landscape: >-
+      La Mura s'étire sur environ 464 km ; 95 km s'écoulent en Slovénie ou le long de ses confins, le reste
+      marquant la frontière croato-hongroise. Vers Spielfeld, le cours d'eau forme la frontière austro-slovène
+      jusqu'à Bad Radkersburg et Gornja Radgona, où il pénètre pleinement en territoire slovène. Longeant
+      Veržej, elle rejoint la Drave à Legrad.
+
+
+      Ce tronçon doit sa renommée à une morphodynamique préservée. Dans le haut Međimurje, la rivière déborde
+      fréquemment et divague à travers les sédiments, alimentant Murščak, la plus vaste forêt riveraine du
+      secteur. La zone centrale forme une mosaïque de ripisylves matures dominées par le saule blanc, le chêne
+      pédonculé et l'orme lisse. Bras secondaires et gravières composent un dédale aquatique.
+
+
+      Les saulaies-frênaies inondables occupent environ 1820 ha le long de la Mura, subissant de fortes
+      pressions sur le secteur frontalier autrichien. Les chênaies-ormaies de terrasse alluviale ne sont
+      submergées que lors des très hautes eaux : la baisse des nappes phréatiques menace directement leur
+      régénération.
+    wildlife: >-
+      La [loutre d'Europe](/especie/lutra_lutra/) peuple l'ensemble du linéaire de la Mura, tandis que le
+      [castor d'Eurasie](/especie/castor_fiber/) a recolonisé durablement ses méandres ces dernières années.
+      Les vieilles forêts alluviales abondant en bois mort hébergent le [pic mar](/especie/picoides_medius/).
+      Dans les bras morts et mares résiduelles survit le [sonneur à ventre de feu](/especie/bombina_bombina/),
+      vulnérable au comblement des gravières. La libellule Ophiogomphus cecilia recherche les bancs de
+      graviers propres, son habitat apparaissant altéré entre Šentilj et Veržej.
+
+
+      La meilleure période pour arpenter la Mura s'étend de mai à octobre.
+    visit: >-
+      Le centre d'interprétation de Velika Polana, installé dans le moulin historique de Copek, compte cinq
+      stations pédagogiques dédiées à la Mura : projets de renaturation, réseau Natura et réserve de
+      biosphère, prairies de fauche, ripisylves et dynamique fluviale. Des QR codes permettent d'approfondir
+      les contenus en plusieurs langues.
+
+
+      Le programme de restauration Natura Mura aménage de nouveaux sentiers d'interprétation et valorise les
+      sites de Lisjakova struga, Mota et Bobri.
+    history: >-
+      Des moulins flottants sur barques sont documentés sur la rivière depuis le IVe siècle avant notre ère ;
+      le moulin de Babič près de Veržej moud encore le grain selon la coutume. Des bacs à traille franchissent
+      toujours le courant. La réserve abrite des minorités hongroise et rom parlant des dialectes pannoniens.
+
+
+      La section slovène forme un site protégé européen de 147,5 km² incluant les tronçons frontaliers
+      d'Autriche et de Croatie. Le projet Natura Mura œuvre à réhabiliter trois types d'habitats et douze
+      espèces prioritaires en restaurant des bras morts comme Zaton et Podkova, en rachetant des ripisylves et
+      en remplaçant les peupleraies de production par des feuillus indigènes.
+
+
+      Le surnom d'« Amazone de l'Europe » renvoie à la réserve de biosphère transfrontalière
+      Mura-Drave-Danube, dont cinq pays (Autriche, Slovénie, Croatie, Hongrie et Serbie) ont scellé la
+      création en 2011.
+    before: >-
+      Le projet Natura Mura réalise des travaux réguliers d'aménagement sur les passerelles et sentiers :
+      vérifiez les accès avant votre venue. Pour préserver les ripisylves sensibles, ne quittez pas les
+      cheminements balisés.
+  de:
+    intro: >-
+      Prekmurje bedeutet „jenseits der Mur“ und Međimurje „zwischen den Murarmen“: zwei Regionen, geprägt von
+      einem ungezähmten Fluss. Die Mur entspringt auf 1898 m Höhe in den Hohen Tauern in Österreich und fließt
+      bis zu ihrer Mündung in die Drau als Auenlandschaft voller Kiesbänke und Altwässer. Der slowenische
+      Abschnitt, geschützt als UNESCO-Biosphärenreservat, bewahrt das größte Auwaldgebiet Sloweniens, wo
+      Kultur und Natur seit Jahrhunderten mit traditionellen Schiffsmühlen verwoben sind.
+    landscape: >-
+      Die Mur erstreckt sich über rund 464 km; 95 km fließen durch Slowenien oder entlang seiner Grenzen,
+      während der Rest die Grenze zwischen Kroatien und Ungarn bildet. Bei Spielfeld markiert der Fluss die
+      österreichisch-slowenische Grenze bis Bad Radkersburg und Gornja Radgona, wo er ganz nach Slowenien
+      eintritt. Vorbei an Veržej mündet er bei Legrad in die Drau.
+
+
+      Besonders macht diesen Abschnitt seine Fließdynamik. Im oberen Međimurje verlagert die Mur bei
+      Hochwasser regelmäßig ihr Flussbett und speist Murščak, den größten zusammenhängenden Auwald des
+      Gebiets. Die Kernzone bildet ein Mosaik naturnaher Weich- und Hartholzauen mit alten Silberweiden,
+      Stieleichen, Flatterulmen und Eschen. Altarme und Kiesbänke schaffen artenreiche Lebensräume.
+
+
+      Weichholzauen aus Weiden, Erlen und Eschen bedecken rund 1820 ha entlang der Mur, leiden jedoch im
+      Grenzabschnitt zu Österreich unter Eintiefung. Eichen-Ulmen-Wälder höherer Auenterrassen werden nur bei
+      extremen Hochwässern überflutet: Sinkende Grundwasserspiegel bedrohen ihren Fortbestand.
+    wildlife: >-
+      Der [Fischotter](/especie/lutra_lutra/) bewohnt den gesamten Lauf der Mur, und der Europäische
+      [Biber](/especie/castor_fiber/) hat sich in den letzten Jahren wieder fest etabliert. Totholzreiche
+      Auwälder beherbergen den [Mittelspecht](/especie/picoides_medius/). In Altwässern lebt die
+      [Rotbauchunke](/especie/bombina_bombina/), deren Flachgewässer durch Verlandung gefährdet sind. Die
+      Grüne Flussjungfer (Ophiogomphus cecilia) benötigt saubere Kiesbänke und leidet unter
+      Flussbettveränderungen zwischen Šentilj und Veržej.
+
+
+      Die beste Reisezeit für die Flusslandschaft reicht von Mai bis Oktober.
+    visit: >-
+      Das Informationszentrum in Velika Polana in der historischen Copek-Wassermühle bietet fünf Stationen zur
+      Mur: Renaturierungsprojekte, Natura-Schutzgebiete und Biosphärenreservat, Auwiesen, Flussdynamik und
+      Auenwälder. Schautafeln und QR-Codes vertiefen Artenwissen in mehreren Sprachen.
+
+
+      Das Projekt Natura Mura errichtet neue Naturlehrpfade an Renaturierungsflächen bei Lisjakova struga,
+      Mota und Bobri.
+    history: >-
+      Schwimmende Schiffsmühlen sind auf der Mur seit dem vierten Jahrhundert vor Christus belegt; die
+      Babič-Mühle bei Veržej mahlt noch heute Getreide. Traditionelle Seilfähren queren die Strömung. Im
+      Reservat leben ungarische und Roma-Minderheiten.
+
+
+      Der slowenische Murabschnitt umfasst ein 147,5 km² großes europäisches Schutzgebiet an den Grenzen zu
+      Österreich und Kroatien. Das Projekt Natura Mura verbessert den Erhaltungszustand von drei
+      Lebensraumtypen und zwölf prioritären Arten durch Reaktivierung von Altarmen wie Zaton und Podkova,
+      Flussaufweitungen und den Umbau von Pappelmonokulturen in naturnahe Auwälder.
+
+
+      Die Bezeichnung „Amazonas Europas“ bezieht sich auf das Fünf-Länder-Biosphärenreservat Mur-Drau-Donau,
+      das 2011 von fünf Staaten (Österreich, Slowenien, Kroatien, Ungarn und Serbien) vereinbart wurde.
+    before: >-
+      Im Rahmen des Projekts Natura Mura finden regelmäßig Wegearbeiten statt: Informiere dich vorab über
+      offene Bohlenwege. Bleibe zum Schutz der empfindlichen Auenbiotope stets auf den markierten Pfaden.
+  it:
+    intro: >-
+      Prekmurje significa «oltre la Mura» e Međimurje «tra i rami della Mura»: due regioni storiche plasmate
+      dal medesimo fiume. Scaturendo a 1898 m nei Tauri Occidentali in Austria, la Mura scende fino a
+      confluire nella Drava come corridoio di meandri, barre ghiaiose e foreste alluvionali. Il tratto
+      sloveno, tutelato come riserva di biosfera UNESCO, custodisce il più esteso complesso golenale della
+      Slovenia, dove comunità rurali e natura fluviale convivono da secoli attorno a storici mulini
+      galleggianti.
+    landscape: >-
+      La Mura misura circa 464 km; 95 km scorrono in territorio sloveno o lungo i suoi confini, mentre il
+      resto delimita la frontiera croato-ungherese. Presso Spielfeld il corso d'acqua segna il confine
+      austro-sloveno fino a Bad Radkersburg e Gornja Radgona, dove entra interamente in Slovenia. Superata
+      Veržej, si getta nella Drava a Legrad.
+
+
+      Ciò che contraddistingue questo tratto è la dinamica idromorfologica naturale. Nell'alto Međimurje il
+      fiume esonda di frequente spostando il proprio alveo e alimentando Murščak, la più vasta foresta
+      ripariale del comprensorio. La fascia centrale compone un mosaico di boschi alluvionali con salice
+      bianco, farnia, olmo bianco europeo e frassino. Lanche fluviali e banchi di ghiaia creano habitat
+      d'eccezione.
+
+
+      I boschi igrofili di salice, ontano e frassino occupano circa 1820 ha lungo la Mura, manifestando
+      segnali di sofferenza nel settore confinario austriaco. Le foreste di farnia e olmo delle terrazze alte
+      si allagano solo durante le massime piene: l'abbassamento della falda freatica ne pregiudica la
+      sopravvivenza.
+    wildlife: >-
+      La [lontra europea](/especie/lutra_lutra/) popola l'intero corso della Mura, mentre il [castoro
+      europeo](/especie/castor_fiber/) è tornato a insediarsi stabilmente nei meandri. Nelle foreste
+      alluvionali ricche di tronchi marcescenti nidifica il [picchio rosso
+      mezzano](/especie/picoides_medius/). Nelle lanche stabili risiede l'[ululone dal ventre
+      rosso](/especie/bombina_bombina/), minacciato dall'interramento dei bacini. La libellula Ophiogomphus
+      cecilia predilige i fondali ghiaiosi limpidi, rarefatta tra Šentilj e Veržej.
+
+
+      Il periodo d'elezione per scoprire la Mura spazia da maggio a ottobre.
+    visit: >-
+      Il centro visite di Velika Polana, allestito nello storico mulino Copek, propone cinque stazioni
+      divulgative dedicate alla Mura: progetti di rinaturazione, rete Natura e riserva di biosfera, prati da
+      sfalcio, ecosistemi fluviali e foreste golenali. Codici QR consentono approfondimenti multilingue.
+
+
+      Il progetto Natura Mura realizza nuovi tracciati didattici e riqualifica gli accessi di Lisjakova
+      struga, Mota e Bobri.
+    history: >-
+      I mulini galleggianti montati su scafi d'imbarcazione sono attestati sul fiume sin dal IV secolo a.C.;
+      il mulino Babič presso Veržej è tuttora operativo. Tradizionali traghetti a fune attraversano la
+      corrente. Nella riserva risiedono minoranze ungheresi e comunità rom che parlano idiomi pannonici.
+
+
+      Il segmento sloveno forma un'area protetta europea di 147,5 km² estesa ai confini con Austria e Croazia.
+      Il progetto Natura Mura migliora lo stato di conservazione di tre tipi di habitat e dodici specie
+      prioritarie, riattivando lanche storiche quali Zaton e Podkova, ampliando l'alveo e riconvertendo
+      pioppeti industriali in boschi naturali.
+
+
+      Il nome «Amazzonia d'Europa» celebra la riserva di biosfera transfrontaliera Mura-Drava-Danubio,
+      istituita nel 2011 con accordo formale tra cinque paesi (Austria, Slovenia, Croazia, Ungheria e Serbia).
+    before: >-
+      Il piano Natura Mura comporta periodici lavori di ripristino sui sentieri: verifica prima della partenza
+      l'apertura delle passerelle. Rimani sui percorsi segnalati per non recare disturbo alla fauna ripariale.
+  pt:
+    intro: >-
+      Prekmurje significa «para lá do Mura» e Međimurje «entre o Mura»: duas regiões históricas desenhadas
+      pelo mesmo rio. Nascendo aos 1898 m nos Hohe Tauern austríacos, o Mura corre até à sua confluência com o
+      Drava como um corredor vivo de cascalheiras, meandros e matas inundáveis. O troço esloveno, protegido
+      como Reserva da Biosfera da UNESCO, preserva o maior complexo de planície aluvial da Eslovénia, onde
+      comunidades rurais e vida selvagem coexistem há séculos junto a históricas azenhas flutuantes.
+    landscape: >-
+      O Mura mede cerca de 464 km; 95 km correm na Eslovénia ou delimitam as suas fronteiras, correspondendo o
+      restante à linha divisória entre Croácia e Hungria. Perto de Spielfeld o rio estabelece a fronteira
+      austro-eslovena até Bad Radkersburg e Gornja Radgona, onde entra totalmente na Eslovénia. Passando por
+      Veržej, desagua no Drava em Legrad.
+
+
+      O grande valor deste troço reside na sua dinâmica fluvial natural. No alto Međimurje o rio inunda com
+      frequência e abre novos canais, alimentando Murščak, a maior floresta ribeirinha local. A zona tampão
+      acolhe um mosaico de galerias ripícolas com salgueiro-branco, carvalho-roble, ulmeiro e freixo. Braços
+      mortos e ilhas fluviais constituem biótopos vitais.
+
+
+      As matas aluviais de salgueiro, amieiro e freixo cobrem cerca de 1820 ha no Mura, sofrendo maior
+      degradação no setor fronteiriço com a Áustria. Os carvalhais-ulmedos das plataformas mais altas só se
+      inundam nas cheias excecionais: a descida dos lençóis freáticos compromete a sua regeneração.
+    wildlife: >-
+      A [lontra-europeia](/especie/lutra_lutra/) habita todo o curso da bacia do Mura, enquanto o
+      [castor-europeu](/especie/castor_fiber/) recolonizou com sucesso as suas margens nos últimos anos. As
+      matas ciliares com abundância de troncos ocos abrigam o [pica-pau-médio](/especie/picoides_medius/). Nas
+      lagoas permanentes sobrevive o [bombina-de-barriga-vermelha](/especie/bombina_bombina/), ameaçado pela
+      dessecação de pauis. A libélula Ophiogomphus cecilia requer cascalheiras bem oxigenadas, rareando entre
+      Šentilj e Veržej.
+
+
+      A melhor época para explorar as margens do Mura situa-se entre maio e outubro.
+    visit: >-
+      O centro interpretativo de Velika Polana, instalado no moinho histórico de Copek, dispõe de cinco polos
+      temáticos dedicados ao Mura: intervenções de renaturalização, rede Natura e reserva da biosfera, prados
+      de feno, dinâmica hidrográfica e matas de galeria. Códigos QR disponibilizam conteúdos bilingues.
+
+
+      O projeto Natura Mura promove trilhos didáticos em zonas em recuperação em Lisjakova struga, Mota e
+      Bobri.
+    history: >-
+      Existem registos de moinhos em barcaças no rio desde o século IV a.C.; o moinho Babič perto de Veržej
+      continua a moer cereais. Tradicionais barcas de cabo continuam a cruzar o leito. Na reserva coabitam
+      minorias húngaras e comunidades ciganas que falam dialetos panónicos.
+
+
+      O troço esloveno integra uma área protegida de 147,5 km² abrangendo as fronteiras com a Áustria e a
+      Croácia. O projeto Natura Mura melhora a preservação de três tipos de habitat e doze espécies
+      prioritárias, revitalizando meandros históricos como Zaton e Podkova, alargando o leito e substituindo
+      choupais exóticos por vegetação nativa.
+
+
+      A designação «Amazónia da Europa» celebra a Reserva da Biosfera Transfronteiriça Mura-Drava-Danúbio,
+      cuja constituição foi formalizada por cinco países (Áustria, Eslovénia, Croácia, Hungria e Sérvia) em
+      2011.
+    before: >-
+      O projeto Natura Mura realiza obras periódicas de beneficiação em pontes e trilhos: confirma
+      antecipadamente as passagens acessíveis. Para preservar as margens frágeis, mantém-te nos trilhos
+      sinalizados.
+fuentes:
+  - url: https://www.unesco.org/en/mab/mura-river
+    titulo: Mura River - UNESCO Man and the Biosphere Programme
+    fecha_consulta: '2026-10-29'
+  - url: https://muranatura.si/en/
+    titulo: Natura Mura
+    fecha_consulta: '2026-10-29'
+  - url: https://muranatura.si/en/info-center-velika-polana
+    titulo: Info centre Velika Polana – Natura Mura
+    fecha_consulta: '2026-10-29'
+  - url: https://muranatura.si/en/odkrijte-naturo-mure
+    titulo: Discover Natura Mura – Natura Mura
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Mura_River
+    titulo: Mur – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Mura-Drava-Danube
+    titulo: Mura-Drava-Danube – Wikipedia
+    fecha_consulta: '2026-10-29'

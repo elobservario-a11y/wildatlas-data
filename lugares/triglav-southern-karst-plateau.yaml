@@ -1,0 +1,665 @@
+id: triglav-southern-karst-plateau
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Triglav
+  en: Triglav National Park - Southern Karst Plateau
+  fr: Parc national du Triglav - Plateau karstique méridional
+  de: Triglav-Nationalpark - Südliches Karstplateau
+  it: Parco nazionale del Triglav - Altopiano carsico meridionale
+  pt: Parque Nacional do Triglav - Planalto Cársico Meridional
+nombre_original: Triglavski narodni park
+alias:
+  - Triglav National Park
+paises:
+  - SI
+region:
+  es: Alpes Julianos (Eslovenia)
+  en: Gorenjska / Goriška (Bohinj / Tolmin / Bovec)
+  fr: Gorenjska / Goriška (Bohinj / Tolmin / Bovec)
+  de: Gorenjska / Goriška (Bohinj / Tolmin / Bovec)
+  it: Gorenjska / Goriška (Bohinj / Tolmin / Bovec)
+  pt: Gorenjska / Goriška (Bohinj / Tolmin / Bovec)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.35251135904277
+  lon: 13.802141899355956
+  radio_km: 16.329476522648743
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 2517
+  nombre_en_la_fuente: Triglavski narodni park
+  categoria_uicn: II
+  capa: capas/cdda/triglav-southern-karst-plateau.geojson
+habitats:
+  - high_mountain
+  - karst
+  - lake
+  - mature_forest
+designaciones:
+  - national_park
+  - iucn_ii
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+temporada_nota:
+  es: >-
+    El gestor recomienda el verano para las praderas floridas de los Alpes Julianos; hay que comprobar las
+    condiciones de nieve de cada ruta.
+  en: June to September
+  fr: juin à septembre
+  de: Juni bis September
+  it: da giugno a settembre
+  pt: junho a setembro
+masificacion: 4
+masificacion_nota:
+  es: >-
+    Alta en los accesos de Vrata, donde se cierra la barrera al llenarse los aparcamientos; sin cuantificar
+    otros sectores.
+  en: High at Lake Bohinj and Savica Waterfall in summer
+  fr: Élevée au lac de Bohinj et à la cascade de Savica en été
+  de: Hoch am Bohinjer See und am Savica-Wasserfall im Sommer
+  it: Alta al lago di Bohinj e alla cascata Savica in estate
+  pt: Alta no lago Bohinj e na cascata Savica no verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — naturaleza y ecosistemas del parque Triglav
+    url: https://www.tnp.si/en/park/nature-and-culture/ecosystems/
+  - titulo: Condiciones actuales y avisos de acceso
+    url: https://www.tnp.si/en/visiting-park/latest/actual-conditions/
+  - titulo: Normas de visita, baño y pernocta
+    url: https://www.tnp.si/en/visiting-park/information-for-visitors/code-of-conduct/
+  - titulo: Zonas de tranquilidad — restricciones por sector
+    url: https://www.tnp.si/en/park/nature-and-culture/quiet-zones/
+  - titulo: Mostnica y Voje — sendero e información de visita
+    url: https://www.tnp.si/en/visiting-park/landmaks/the-mostnica-gorge/
+  - titulo: Lago Bohinj — paisaje y recorrido a pie
+    url: https://www.tnp.si/en/visiting-park/landmaks/lake-bohinj/
+resumen:
+  es: Valles glaciares, lagos de montaña y remanentes de bosque antiguo en los Alpes Julianos.
+  en: Glacial lakes, alpine karst plateaus and endemic alpine flora surrounding the Triglav massif in Slovenia.
+  fr: >-
+    Lacs glaciaires, hauts plateaux karstiques et flore alpine endémique autour du massif du Triglav en
+    Slovénie.
+  de: Gletscherseen, alpine Karstplateaus und endemische Alpenflora rund um das Triglav-Massiv in Slowenien.
+  it: Laghi glaciali, altipiani carsici alpini e flora endemica attorno al massiccio del Triglav in Slovenia.
+  pt: >-
+    Lagos glaciares, planaltos cársicos alpinos e flora alpina endémica em redor do maciço do Triglav, na
+    Eslovénia.
+unico:
+  es: >-
+    Aquí puedes recorrer en un solo parque un lago de cubeta glaciar, surgencias kársticas bajo el agua y un
+    karst de altura que es, en el fondo, un desierto seco.
+  en: >-
+    Deep karst high plateaus riddled with sinkholes and alpine flora where ibex, chamois and golden eagles
+    thrive beside Lake Bohinj.
+  fr: >-
+    De profonds plateaux karstiques percés de gouffres abritant bouquetins, chamois et aigles royaux aux
+    abords du lac de Bohinj.
+  de: >-
+    Tiefe, zerklüftete Karsthochflächen voller Dolinen und Alpenflora, wo Steinböcke, Gämsen und Steinadler am
+    Bohinjer See leben.
+  it: >-
+    Profondi altipiani carsici d'alta quota solcati da doline e flora alpina dove stambecchi, camosci e aquile
+    reali vivono attorno al lago di Bohinj.
+  pt: >-
+    Profundos planaltos cársicos repletos de dolinas e flora alpina onde íbexes, camurças e águias-reais vivem
+    junto ao lago Bohinj.
+observaciones:
+  es: >-
+    Usa las rutas señalizadas. No se permite pernoctar fuera de las zonas habilitadas ni bañarse en los lagos
+    y arroyos de alta montaña. En Vrata, cuando los aparcamientos se llenan, la barrera de entrada al valle no
+    se abre. Elige una ruta acorde a tu experiencia y equipo, y calcula bien las condiciones: en la montaña
+    hay caída de piedras y árboles, y terreno resbaladizo e irregular.
+texto:
+  es:
+    intro: >-
+      Hubo un tiempo en que el Triglav era un mar. Durante millones de años, capa tras capa, se fue
+      depositando caliza en el fondo, y cuando África y Eurasia chocaron, aquel fondo marino se levantó hasta
+      convertirse en los Alpes Julianos. Después llegaron los glaciares, que excavaron los valles principales
+      más hondos que los laterales, y el agua, que siguió puliendo la roca. El Parque Nacional de Triglav
+      guarda lo que dejó esa historia: valles glaciares, lagos de montaña, turberas altas y restos de bosque
+      virgen, con hayas, píceas y alerces.
+    landscape: >-
+      Lo primero que se aprende en el Triglav es a leer el hielo. El lago Bohinj ocupa una cubeta modelada por
+      glaciares, casi sin zonas someras, y recibe agua de surgencias kársticas subacuáticas en su orilla
+      norte. Cerca de allí, el valle de Voje tiene la forma de U que dejan los glaciares, y por el camino de
+      Stara Fužina se llega hasta la cascada de Mostnica.
+
+
+      Arriba, el paisaje cambia de lógica. Por encima de la vegetación el karst queda desnudo: el agua lo
+      creó, pero en altura es un desierto seco, y como apenas hay plantas, sus formas se ven con una claridad
+      que abajo no tienen. El lago más alto del parque, Zgornje Kriško jezero, está a 2150 metros, y los lagos
+      de altura suelen pasar más de medio año bajo el hielo.
+
+
+      En el otro extremo, las turberas altas de la meseta de Pokljuka son las más meridionales de Europa, y un
+      alerce del parque tiene 422 centímetros de perímetro y 1050 años. La altitud manda también sobre el
+      calendario: la época de vegetación se desplaza más de una semana por cada cien metros que subes.
+    wildlife: >-
+      La primavera empieza en las alturas con una flor pequeña: la soldanela alpina asoma incluso con nieve.
+      Es el aviso de que las [marmotas](/especie/marmota_marmota/) están despertando, porque salen cuando la
+      nieve empieza a fundirse. Más tarde, entre junio y septiembre, florece el cardo azul alpino (normalmente
+      un año sí y otro no), y de julio a septiembre la flor de las nieves, que fue la primera planta protegida
+      de Eslovenia. El parque tiene diecinueve especies de plantas endémicas; una de las más típicas es la
+      campanilla de Zois, que solo crece en los Alpes del sureste, y la rosa del Triglav es uno de sus
+      símbolos.
+
+
+      En la roca viven el [rebeco](/especie/rupicapra_rupicapra/) y el [íbice](/especie/capra_ibex/). El
+      rebeco prefiere en verano los terrenos abiertos por encima del bosque y en invierno se refugia en los
+      árboles; el íbice, que fue exterminado en el siglo XVII y se reintrodujo entre 1964 y 1975, se mueve en
+      invierno hasta el límite del bosque. Con el rebeco aparecen sus depredadores: el
+      [lobo](/especie/canis_lupus/), el [lince](/especie/lynx_lynx/) y el [águila
+      real](/especie/aquila_chrysaetos/), que caza las crías y anida en repisas y grietas inaccesibles. El
+      [oso pardo](/especie/ursus_arctos/) se ve de forma ocasional en la meseta de Pokljuka.
+
+
+      Entre las aves, el [gallo lira](/especie/tetrao_tetrix/) vive junto al límite del bosque, sobre todo en
+      los pinares de pino mugo, y la [perdiz nival](/especie/lagopus_muta/) ocupa las laderas herbosas con
+      rocas justo por encima. En primavera, los machos del [urogallo](/especie/tetrao_urogallus/) se reúnen en
+      los cantaderos. Junto a los ríos Radovna y Soča y la cascada Savica busca al [mirlo
+      acuático](/especie/cinclus_cinclus/). Y con tiempo húmedo sale la salamandra alpina, que se ve a menudo
+      en los pastos de montaña. En el río Soča y sus afluentes vive además la [trucha
+      marmórea](/especie/salmo_marmoratus/).
+    visit: >-
+      El gestor recomienda el verano para las praderas floridas de los Alpes Julianos, y de hecho junio, julio
+      y agosto son la ventana natural para el parque.
+
+
+      Para entender el lugar antes de caminarlo, el parque tiene centros de información en Bohinj (Stara
+      Fužina), Trenta (Dom Trenta) y Bled (Triglavska roža). En el de Trenta hay una exposición sobre la
+      naturaleza viva e inerte, el paisaje cultural y la relación entre las personas y la naturaleza.
+
+
+      Para empezar, la ruta de Mostnica es técnicamente fácil, con una pendiente suave y constante, y la guía
+      oficial publica unas dos horas de ida desde Stara Fužina. Otra opción más corta es el circuito de la
+      cascada de Peričnik, que sale de Koča pri Peričniku, sube a la cascada superior, rodea la inferior y
+      vuelve al punto de partida. Los refugios de montaña dan abrigo, descanso y avituallamiento a quien se
+      adentra más.
+    history: >-
+      La idea de proteger el valle de los Lagos del Triglav se llevó a la práctica en 1924, y el parque con su
+      forma actual se estableció oficialmente en 1981. Dentro hay zonas de tranquilidad cuyas actividades se
+      adaptan para que las especies vivan sin molestias.
+
+
+      El plan de gestión del parque registra también que el valle de Voje ha cambiado por las construcciones
+      de recreo, los cambios en los prados y la circulación de coches.
+    before: >-
+      Usa las rutas señalizadas. No se permite pernoctar fuera de las zonas habilitadas ni bañarse en los
+      lagos y arroyos de alta montaña. En Vrata, cuando los aparcamientos se llenan, la barrera de entrada al
+      valle no se abre. Elige una ruta acorde a tu experiencia y equipo, y calcula bien las condiciones: en la
+      montaña hay caída de piedras y árboles, y terreno resbaladizo e irregular.
+    around: >-
+      La [Meseta de Jelovica](/lugar/jelovica-plateau/) queda a tres kilómetros, y a seis kilómetros la
+      [Cordillera de Karavanke / Karawanken](/lugar/karavanke---karawanken/). A dieciséis kilómetros está la
+      [Meseta Kárstica de Nanos](/lugar/kraska-planota-nanos/) y a diecinueve la [Meseta Forestal de
+      Trnovo](/lugar/trnovski-gozd/).
+  en:
+    intro: >-
+      There was a time when Triglav lay beneath a primordial sea. Over millions of years, thick marine
+      limestone beds accumulated on the sea floor, and when the African and Eurasian tectonic plates collided,
+      that seabed was thrust upward into the Julian Alps. Later, powerful Pleistocene glaciers carved deep
+      U-shaped valleys, followed by water that continues polishing the bare rock today. Triglav National Park
+      preserves the legacy of that epic geological history: glacial valleys, crystal mountain tarns,
+      ombrotrophic peat bogs and primeval forest remnants sheltered beneath beech, spruce and larch canopies.
+    landscape: >-
+      The first lesson learned in Triglav is how to read glacial topography. Lake Bohinj fills a vast basin
+      gouged by glaciers, nearly devoid of shallow littoral shelves, fed by subaquatic karst springs emerging
+      along its northern shore. Nearby, the Voje valley displays the classic U-shaped profile left by valley
+      glaciers, where a footpath from Stara Fužina leads directly to the Mostnica waterfall.
+
+
+      Higher up, the landscape enters another realm. Above the tree line, the karst lies stripped of soil:
+      water created it, yet at high altitude it forms a parched rock desert whose karst pavements and
+      crevasses appear with stark clarity. The highest tarn in the park, Zgornje Kriško jezero, rests at 2150
+      metres, and high-altitude lakes spend more than half the year locked beneath ice.
+
+
+      At the opposite extreme, the raised bogs of the Pokljuka plateau represent the southernmost bogs of
+      their kind in Europe, while an ancient larch in the park measures 422 centimetres in girth and is 1050
+      years old. Altitude also commands the phenological calendar: the vegetative season shifts by more than a
+      week for every hundred metres gained.
+    wildlife: >-
+      Spring awakens in the heights with an alpine harbinger: the alpine soldanelle thrusts its delicate
+      blooms through lingering snow. This marks the awakening of the [alpine
+      marmots](/especie/marmota_marmota/), emerging from winter dens as snowbanks melt. Later, between June
+      and September, the Queen of the Alps (*Eryngium alpinum*) blossoms, followed from July to September by
+      edelweiss, Slovenia's first protected wild plant. The park shelters nineteen endemic plant species;
+      among the most emblematic is Zois' bellflower, restricted to the south-eastern Alps, while the Triglav
+      rose stands as a cherished botanical symbol.
+
+
+      On the rocky crags dwell the [chamois](/especie/rupicapra_rupicapra/) and alpine
+      [ibex](/especie/capra_ibex/). Chamois favour open alpine meadows above the tree line in summer,
+      retreating into dense forest during winter; the ibex, extirpated in the XVII century and successfully
+      reintroduced between 1964 and 1975, descends to the upper forest edge in winter. Chamois attract apex
+      predators: the grey [wolf](/especie/canis_lupus/), Eurasian [lynx](/especie/lynx_lynx/) and [golden
+      eagle](/especie/aquila_chrysaetos/), which hunts kids and nests on inaccessible cliff ledges. The [brown
+      bear](/especie/ursus_arctos/) is occasionally recorded wandering the Pokljuka plateau.
+
+
+      Among birds, the [black grouse](/especie/tetrao_tetrix/) inhabits the subalpine scrub, particularly
+      dwarf mountain pine (*mugo*), while the [rock ptarmigan](/especie/lagopus_muta/) frequents alpine
+      boulder meadows immediately above. In spring, male [western capercaillies](/especie/tetrao_urogallus/)
+      gather at traditional display leks. Along the mountain waters of the Radovna and Soča rivers and the
+      Savica waterfall, watch for the [white-throated dipper](/especie/cinclus_cinclus/). In damp weather, the
+      alpine salamander emerges across mountain meadows, and in the Soča river basin thrives the endemic
+      [marble trout](/especie/salmo_marmoratus/).
+    visit: >-
+      Park authorities recommend summer to experience the Julian Alps in full floral bloom, making June, July
+      and August the natural window for visits.
+
+
+      To understand the terrain before hiking, the national park operates information centres in Bohinj (Stara
+      Fužina), Trenta (Dom Trenta) and Bled (Triglavska roža). The Trenta centre features comprehensive
+      exhibits on biodiversity, geology and the cultural traditions of the mountain valleys.
+
+
+      For an introductory hike, the Mostnica gorge path is technically easy with a gentle, steady incline,
+      taking around two hours from Stara Fužina. A shorter alternative is the Peričnik waterfall circuit,
+      starting from Koča pri Peričniku, climbing behind the upper fall, looping past the lower fall and
+      returning to the trailhead. Mountain huts provide shelter and meals for those venturing deeper into the
+      range.
+    history: >-
+      The initial vision to protect the Valley of the Triglav Lakes was realized in 1924, and the national
+      park in its present boundaries was officially established in 1981. Tranquil conservation zones are
+      designated within the park where human activities are restricted so wildlife can thrive undisturbed.
+
+
+      The park management plan also documents historical changes in the Voje valley resulting from holiday
+      homes, changing meadow management and vehicular access.
+    before: >-
+      Stick strictly to marked trails. Overnight camping outside designated huts is forbidden, and swimming in
+      high-altitude lakes and streams is prohibited. In the Vrata valley, once parking areas fill to capacity,
+      the access barrier is closed. Choose itineraries suited to your stamina and equipment: mountain hazards
+      include loose rockfall, fallen timber and slippery limestone surfaces.
+    around: >-
+      The [Jelovica Plateau](/lugar/jelovica-plateau/) lies three kilometres away, and six kilometres away
+      stands the [Karavanke / Karawanken Range](/lugar/karavanke---karawanken/). Sixteen kilometres away lies
+      the [Nanos Karst Plateau](/lugar/kraska-planota-nanos/) and nineteen kilometres distant is the [Trnovo
+      Forest Plateau](/lugar/trnovski-gozd/).
+  fr:
+    intro: >-
+      Il fut un temps où le Triglav reposait sous les flots d'une mer tropicale. Durant des millions d'années,
+      d'épaisses couches sédimentaires calcaires se sont déposées, avant que la collision entre les plaques
+      africaine et eurasienne ne soulève ces fonds marins pour former les Alpes juliennes. Par la suite, les
+      glaciers ont creusé de profondes vallées en auge, relayés par l'eau qui continue de polir les dalles de
+      pierre. Le parc national du Triglav conserve cet héritage grandiose : vallées glaciaires, lacs de
+      montagne, tourbières d'altitude et lambeaux de forêts primaires de hêtres, d'épicéas et de mélèzes.
+    landscape: >-
+      La première leçon à Triglav est d'apprendre à déchiffrer les traces glaciaires. Le lac de Bohinj remplit
+      une combe surcreusée par les glaciers, presque sans rives basses, alimentée par des résurgences
+      karstiques subaquatiques sur sa rive nord. Tout près, la vallée de Voje présente le profil
+      caractéristique en U laissé par les langues de glace, où le chemin depuis Stara Fužina mène à la cascade
+      de Mostnica.
+
+
+      En altitude, le paysage change de logique. Au-dessus de la végétation, le karst apparaît dénudé : l'eau
+      l'a façonné, mais en hauteur il forme un désert minéral sec où lapiés et gouffres se révèlent avec une
+      remarquable netteté. Le lac le plus élevé du parc, Zgornje Kriško jezero, culmine à 2150 mètres, et les
+      lacs alpins passent plus de la moitié de l'année sous les glaces.
+
+
+      À l'autre extrême, les tourbières hautes du plateau de Pokljuka sont les plus méridionales d'Europe, et
+      un mélèze vénérable affiche 422 centimètres de circonférence et 1050 ans d'âge. L'altitude commande
+      aussi le calendrier végétal : la saison de croissance se décale de plus d'une semaine par centaine de
+      mètres d'élévation.
+    wildlife: >-
+      Le printemps s'éveille sur les cimes avec une fleur gracieuse : la soldanelle alpine perce à travers les
+      dernières neiges. C'est le signal marquant le réveil des [marmottes](/especie/marmota_marmota/), qui
+      émergent dès la fonte nivale. Plus tard, entre juin et septembre, fleurit le panicaut des Alpes, puis de
+      juillet à septembre l'edelweiss, toute première plante protégée en Slovénie. Le parc compte dix-neuf
+      espèces végétales endémiques, dont la campanule de Zois, typique des Alpes du Sud-Est, et la fameuse
+      rose du Triglav.
+
+
+      Sur les parois rocheuses vivent le [chamois](/especie/rupicapra_rupicapra/) et le
+      [bouquetin](/especie/capra_ibex/) des Alpes. Le chamois recherche en été les alpages au-dessus de la
+      forêt pour redescendre à l'abri des arbres en hiver ; le bouquetin, réintroduit entre 1964 et 1975 après
+      son éradication au XVIIe siècle, côtoie la lisière supérieure des bois. Avec le chamois apparaissent ses
+      prédateurs : le [loup](/especie/canis_lupus/), le [lynx](/especie/lynx_lynx/) et l'[aigle
+      royal](/especie/aquila_chrysaetos/) nichant sur les falaises inaccessibles. L'[ours
+      brun](/especie/ursus_arctos/) fréquente épisodiquement le plateau de Pokljuka.
+
+
+      Parmi les oiseaux montagnards, le [tétras lyre](/especie/tetrao_tetrix/) habite les pinèdes de pins
+      mugos et le [lagopède alpin](/especie/lagopus_muta/) les éboulis herbeux d'altitude. Au printemps, les
+      mâles de [grand tétras](/especie/tetrao_urogallus/) paradent sur leurs places de chant. Le long de la
+      Radovna, de la Soča et de la cascade de Savica s'observe le [cincle
+      plongeur](/especie/cinclus_cinclus/). Par temps pluvieux sort la salamandre noire alpestre, et dans la
+      Soča vit la remarquable [truite marbrée](/especie/salmo_marmoratus/).
+    visit: >-
+      L'administration du parc recommande la saison estivale pour contempler les pelouses fleuries des Alpes
+      juliennes, les mois de juin, juillet et août constituant la période idéale.
+
+
+      Pour préparer vos randonnées, le parc dispose de maisons d'information à Bohinj (Stara Fužina), Trenta
+      (Dom Trenta) et Bled (Triglavska roža). À Trenta, une muséographie détaille la géologie, la biodiversité
+      et les traditions montagnardes.
+
+
+      Pour débuter, les gorges de la Mostnica offrent une promenade facile avec une déclivité douce et
+      régulière d'environ deux heures depuis Stara Fužina. Le sentier de la cascade de Peričnik constitue une
+      autre halte appréciée, montant derrière la chute supérieure avant de revenir au refuge de Koča pri
+      Peričniku. Des refuges alpins gardés jalonnent les itinéraires d'altitude.
+    history: >-
+      Le projet de sanctuaire dans la vallée des lacs du Triglav fut initié en 1924, et le parc national sous
+      sa délimitation actuelle fut officiellement établi en 1981. Des zones de quiétude y sont délimitées où
+      les activités humaines sont encadrées pour préserver la quiétude des animaux sauvages.
+
+
+      Le plan de gestion documente également les mutations paysagères de la vallée de Voje liées aux
+      résidences secondaires, à l'évolution des pâturages et à la circulation automobile.
+    before: >-
+      Empruntez exclusivement les sentiers balisés. Le bivouac hors des abris autorisés et la baignade dans
+      les lacs et torrents d'altitude sont rigoureusement interdits. Dans la vallée de Vrata, dès que les
+      parkings sont saturés, la barrière d'accès est fermée. Adaptez votre itinéraire à vos capacités
+      physiques : chutes de pierres et dalles glissantes exigent vigilance.
+    around: >-
+      Le [plateau de Jelovica](/lugar/jelovica-plateau/) se trouve à trois kilomètres, et à six kilomètres
+      s'élèvent les [Karavanke / Karawanken](/lugar/karavanke---karawanken/). À seize kilomètres se dresse le
+      [plateau karstique du Nanos](/lugar/kraska-planota-nanos/) et à dix-neuf kilomètres le [plateau
+      forestier de Trnovo](/lugar/trnovski-gozd/).
+  de:
+    intro: >-
+      Einst lag das Triglav-Gebiet auf dem Grund eines Meeres. Über Jahrmillionen lagerten sich Schicht um
+      Schicht Kalke ab, bis die Kollision von Afrika und Eurasien den Meeresboden zu den Julischen Alpen
+      emporhob. Später schürften Gletscher tiefe Täler aus, und Wasser schliff die Felsen weiter glatt. Der
+      Triglav-Nationalpark bewahrt dieses erdgeschichtliche Erbe: Trogtäler, Karseen, Hochmoore und
+      Urwaldreste mit Buchen, Fichten und Lärchen.
+    landscape: >-
+      Im Triglav lernt man zuerst, die Spuren des Eises zu lesen. Der Bohinj-See füllt ein tiefes
+      Gletscherbecken fast ohne Flachwasserzonen, gespeist von unterseeischen Karstquellen an seinem Nordufer.
+      Nahebei zeigt das Voje-Tal das klassische U-Profil der Alpengletscher; von Stara Fužina führt der Weg
+      zum Mostnica-Wasserfall.
+
+
+      In der Höhe wandelt sich die Landschaft: Über der Baumgrenze liegt der nackte Karst frei. Wasser hat ihn
+      geschaffen, doch im Hochgebirge bildet er eine steinige Trockenwüste, deren Dolinen und Karrenfelder
+      klar zutage treten. Der höchstgelegene See des Parks, der Zgornje Kriško jezero, liegt auf 2150 Metern
+      Höhe, und alpine Karseen verbringen mehr als ein halbes Jahr unter einer dicken Eisdecke.
+
+
+      Am anderen Ende des Parks bilden die Hochmoore der Pokljuka-Hochebene die südlichsten ihrer Art in
+      Europa, und eine alte Lärche im Park misst 422 Zentimeter Umfang und zählt 1050 Jahre. Die Höhenlage
+      bestimmt auch die Vegetationszeit, die sich pro hundert Höhenmetern um mehr als eine Woche verschiebt.
+    wildlife: >-
+      Der Frühling erwacht in den Hochlagen mit der Alpenglöckchen-Blüte inmitten des schmelzenden Schnees.
+      Sie kündet vom Erwachen der [Murmeltiere](/especie/marmota_marmota/), die ihre Winterbaue verlassen. Von
+      Juni bis September blüht die Blaue Mannstreu und von Juli bis September das Edelweiß, Sloweniens älteste
+      geschützte Pflanzenart. Der Park birgt neunzehn endemische Pflanzenarten; besonders charakteristisch ist
+      Zois' Schafgarbe und die Zois-Glockenblume der südöstlichen Alpen sowie die Triglav-Rose.
+
+
+      Auf den Felsbändern leben [Gämse](/especie/rupicapra_rupicapra/) und
+      Alpen-[Steinbock](/especie/capra_ibex/). Die Gämse äst im Sommer auf den Almmatten und zieht sich im
+      Winter in Bergwälder zurück; der Steinbock, nach seiner Ausrottung im XVII. Jahrhundert zwischen 1964
+      und 1975 wieder angesiedelt, hält sich im Winter an der Waldgrenze auf. Mit den Huftieren treten ihre
+      Beutegreifer auf: [Wolf](/especie/canis_lupus/), [Luchs](/especie/lynx_lynx/) und der
+      [Steinadler](/especie/aquila_chrysaetos/), der in unzugänglichen Felswänden horstet. Der
+      [Braunbär](/especie/ursus_arctos/) streift gelegentlich über die Pokljuka.
+
+
+      Unter den Vögeln bewohnt das [Birkhuhn](/especie/tetrao_tetrix/) den Krummholzgürtel aus Bergkiefern,
+      während das [Alpenschneehuhn](/especie/lagopus_muta/) die steinigen Matten darüber besiedelt. Im
+      Frühjahr balzen die Hähne des [Auerhuhns](/especie/tetrao_urogallus/). An Radovna, Soča und am
+      Savica-Wasserfall taucht die [Wasseramsel](/especie/cinclus_cinclus/) nach Nahrung. Bei Regen zeigt sich
+      der Alpensalamander, und in der Soča schwimmt die seltene [Marmorierte
+      Forelle](/especie/salmo_marmoratus/).
+    visit: >-
+      Die Parkverwaltung empfiehlt den Sommer für Wanderungen durch die blühenden Bergwiesen; Juni, Juli und
+      August bieten das ideale Zeitfenster.
+
+
+      Informationszentren in Bohinj (Stara Fužina), Trenta (Dom Trenta) und Bled (Triglavska roža) vermitteln
+      Wissen über Natur, Geologie und Alpwirtschaft. In Trenta veranschaulicht eine moderne Ausstellung das
+      Zusammenleben von Mensch und Natur.
+
+
+      Die Mostnica-Schlucht ist ein technisch einfacher Einstieg mit stetiger Steigung, der ab Stara Fužina
+      etwa zwei Stunden beansprucht. Beliebt ist auch der Rundweg am Peričnik-Wasserfall ab der Hütte Koča pri
+      Peričniku. Zahlreiche Schutzhütten bieten Unterkunft und Verpflegung im Gebirge.
+    history: >-
+      Die Idee eines Schutzgebiets im Tal der Triglav-Seen wurde bereits 1924 verwirklicht; der Nationalpark
+      in seinen heutigen Grenzen entstand offiziell 1981. Eingerichtete Ruhezogen sichern ungestörte
+      Rückzugsräume für Wildtiere.
+
+
+      Der Bewirtschaftungsplan dokumentiert auch bauliche Veränderungen im Voje-Tal durch Ferienhütten,
+      veränderte Weidewirtschaft und Pkw-Verkehr.
+    before: >-
+      Bleib stets auf den markierten Wegen. Wildes Zelten außerhalb ausgewiesener Hütten und das Baden in
+      Bergseen und Wildbächen sind verboten. Im Vrata-Tal schließt die Zufahrtsschranke, sobald die Parkplätze
+      belegt sind. Wähle Touren entsprechend deiner Kondition und achte auf Steinschlag und rutschige
+      Kalkfelsen.
+    around: >-
+      Die [Jelovica-Hochebene](/lugar/jelovica-plateau/) liegt drei Kilometer entfernt und in sechs Kilometern
+      die [Karawanken](/lugar/karavanke---karawanken/). Nach sechzehn Kilometern erreichst du das
+      [Karstplateau Nanos](/lugar/kraska-planota-nanos/) und nach neunzehn das [Hochland von
+      Trnovo](/lugar/trnovski-gozd/).
+  it:
+    intro: >-
+      Ci fu un'epoca in cui il Triglav giaceva sul fondale di un mare caldo. Per milioni di anni spessi banchi
+      di calcare si accumularono strato su strato, finché lo scontro tra la placca africana ed euroasiatica
+      sollevò quei sedimenti marini nelle Alpi Giulie. Più tardi i ghiacciai scavarono profonde valli a U,
+      seguiti dall'acqua che continuò a levigare la roccia. Il Parco Nazionale del Triglav custodisce
+      l'eredità di questa storia geologica: valli glaciali, laghetti montani, torbiere alte e lembi di foresta
+      vergine con faggi, abeti rossi e larici.
+    landscape: >-
+      La prima nozione che si apprende nel Triglav è la lettura delle forme glaciali. Il lago di Bohinj occupa
+      una profonda conca scavata dai ghiacciai, quasi priva di rive basse, alimentata da risorgenze carsiche
+      subacquee lungo la sponda settentrionale. Poco distante, la valle di Voje mostra il classico profilo a
+      U, da cui il sentiero da Stara Fužina risale verso la cascata Mostnica.
+
+
+      In quota il paesaggio muta radicalmente. Sopra la vegetazione il carso appare denudato: l'acqua lo ha
+      plasmato, ma ad alta quota regna un deserto roccioso asciutto dove campi solcati e doline emergono
+      nitidi. Il lago più elevato del parco, Zgornje Kriško jezero, riposa a 2150 metri, e i bacini alpini
+      trascorrono oltre metà dell'anno coperti dal ghiaccio.
+
+
+      All'estremo opposto, le torbiere alte dell'altopiano di Pokljuka sono le più meridionali d'Europa,
+      mentre un larice monumentale misura 422 centimetri di circonferenza e vanta 1050 anni d'età.
+      L'altitudine scandisce il calendario botanico: la stagione vegetativa si sposta di oltre una settimana
+      per ogni cento metri di dislivello.
+    wildlife: >-
+      La primavera debutta in quota con un fiore minuscolo: la soldanella alpina spunta tra le ultime chiazze
+      di neve. È il segnale del risveglio delle [marmotte](/especie/marmota_marmota/), che lasciano le tane
+      col disgelo. Più tardi, tra giugno e settembre, fiorisce l'eringio alpino e da luglio a settembre la
+      stella alpina, prima pianta protetta della Slovenia. Il parco conta diciannove specie vegetali
+      endemiche, tra cui la campanula di Zois e la caratteristica rosa del Triglav.
+
+
+      Sulle balze rupestri dimorano il [camoscio](/especie/rupicapra_rupicapra/) e lo
+      [stambecco](/especie/capra_ibex/) alpino. Il camoscio predilige d'estate i pascoli aperti d'alta quota
+      rifugiandosi nel bosco d'inverno; lo stambecco, reintrodotto tra il 1964 e il 1975 dopo l'estinzione nel
+      XVII secolo, scende al limitare dei boschi. Con gli ungulati compaiono i predatori: il
+      [lupo](/especie/canis_lupus/), la [lince](/especie/lynx_lynx/) e l'[aquila
+      reale](/especie/aquila_chrysaetos/) che nidifica su cenge inaccessibili. L'[orso
+      bruno](/especie/ursus_arctos/) fa sporadiche apparizioni sull'altopiano di Pokljuka.
+
+
+      Tra gli uccelli di montagna, il [fagiano di monte](/especie/tetrao_tetrix/) vive tra i pini mughi e la
+      [pernice bianca](/especie/lagopus_muta/) occupa i pendii sassosi soprastanti. In primavera i maschi di
+      [gallo cedrone](/especie/tetrao_urogallus/) si affrontano nelle arene di canto. Lungo la Radovna,
+      l'Isonzo (Soča) e la cascata Savica caccia il [merlo acquaiolo](/especie/cinclus_cinclus/). Con la
+      pioggia fa capolino la salamandra alpina, e nelle acque dell'Isonzo nuota la rara [trota
+      marmorata](/especie/salmo_marmoratus/).
+    visit: >-
+      L'ente parco raccomanda la bella stagione estiva per godere dei pascoli fioriti delle Alpi Giulie, con i
+      mesi di giugno, luglio e agosto come periodo ottimale.
+
+
+      Per orientarsi prima delle escursioni, il parco dispone di centri visite a Bohinj (Stara Fužina), Trenta
+      (Dom Trenta) e Bled (Triglavska roža). A Trenta un allestimento moderno presenta la natura e le genti
+      delle valli montane.
+
+
+      Per iniziare, l'itinerario delle forre della Mostnica è tecnicamente agevole, con una salita costante di
+      circa due ore da Stara Fužina. Molto amato è anche il circuito della cascata Peričnik con partenza dal
+      rifugio Koča pri Peričniku. Rifugi alpini gestiti garantiscono ristoro e pernottamento nelle traversate
+      d'alta quota.
+    history: >-
+      L'idea di tutelare la valle dei Laghi del Triglav risale al 1924, mentre il parco nella sua
+      conformazione attuale fu istituito ufficialmente nel 1981. All'interno vi sono zone di tranquillità dove
+      le attività ricreative sono regolate per tutelare la fauna selvatica.
+
+
+      Il piano di gestione segnala anche l'impatto urbanistico nella valle di Voje dovuto a baite turistiche,
+      cambiamenti nei pascoli e traffico veicolare.
+    before: >-
+      Rimani sui tracciati segnati. È vietato il campeggio libero fuori dai rifugi ed è proibita la
+      balneazione nei laghi e torrenti d'alta quota. Nella valle di Vrata, a parcheggi esauriti la sbarra
+      d'ingresso viene chiusa. Scegli itinerari adatti alla tua preparazione: pietraie e calcari umidi possono
+      risultare insidiosi.
+    around: >-
+      L'[Altopiano di Jelovica](/lugar/jelovica-plateau/) dista tre chilometri, e a sei chilometri sorge la
+      [Catena delle Caravanche / Karawanken](/lugar/karavanke---karawanken/). A sedici chilometri si trova
+      l'[Altopiano carsico del Nanos](/lugar/kraska-planota-nanos/) e a diciannove chilometri l'[Altopiano
+      forestale di Tarnova](/lugar/trnovski-gozd/).
+  pt:
+    intro: >-
+      Houve um tempo em que o Triglav repousava no fundo de um mar primordial. Ao longo de milhões de anos
+      acumularam-se espessas camadas de calcário marinho, até que o embate entre as placas africana e
+      euroasiática elevou esses sedimentos formando os Alpes Julianos. Mais tarde, os glaciares escavaram
+      vales em U profundos, secundados pela água que continuou a polir a rocha. O Parque Nacional do Triglav
+      preserva esse património geológico: vales glaciares, lagos de montanha, turfeiras altas e relíquias de
+      floresta virgem com faias, espruces e lariços.
+    landscape: >-
+      A primeira lição no Triglav é aprender a decifrar a passagem do gelo. O lago Bohinj ocupa uma bacia
+      escavada por glaciares quase sem margens baixas, alimentado por ressurgências cársicas subaquáticas na
+      margem norte. Perto dali, o vale de Voje exibe o perfil em U talhado pelos glaciares, onde o caminho a
+      partir de Stara Fužina alcança a cascata de Mostnica.
+
+
+      Nas alturas, a paisagem ganha outra dimensão. Acima da vegetação o carste fica a descoberto: a água
+      moldou-o, mas em altitude compõe um deserto rochoso seco onde campos de lapiás e algares surgem
+      límpidos. O lago mais elevado do parque, Zgornje Kriško jezero, repousa a 2150 metros, passando os lagos
+      alpinos mais de meio ano cobertos de gelo.
+
+
+      No outro extremo, as turfeiras altas do planalto de Pokljuka constituem as mais meridionais da Europa,
+      enquanto um lariço secular ostenta 422 centímetros de perímetro e 1050 anos de vida. A altitude comanda
+      também o calendário botânico: a época vegetativa recua mais de uma semana por cada cem metros de ganho
+      altimétrico.
+    wildlife: >-
+      A primavera desperta nos cumes com uma flor singela: a soldanela-alpina desponta através do manto de
+      neve. É o anúncio do despertar das [marmotas](/especie/marmota_marmota/), que emergem das tocas com o
+      degelo. Mais tarde, de junho a setembro, floresce o cardo-azul-alpino e de julho a setembro a
+      flor-dos-alpes, a primeira planta protegida na Eslovénia. O parque abriga dezanove espécies de plantas
+      endémicas, destacando-se a campânula-de-zois nos Alpes do sudeste e a rosa do Triglav como símbolo
+      botânico.
+
+
+      Nas escarpas habitam a [camurça](/especie/rupicapra_rupicapra/) e o
+      [íbex](/especie/capra_ibex/)-dos-alpes. A camurça procura no verão as pastagens abertas de altitude,
+      descendo para o bosque no inverno; o íbex, reintroduzido entre 1964 e 1975 após ter sido extinto no
+      século XVII, procura a orla florestal nos meses frios. Com os ungulados surgem os predadores: o
+      [lobo](/especie/canis_lupus/), o [lince](/especie/lynx_lynx/) e a
+      [águia-real](/especie/aquila_chrysaetos/), que caça crias e nidifica em fragas inacessíveis. O
+      [urso-pardo](/especie/ursus_arctos/) vagueia esporadicamente pelo planalto de Pokljuka.
+
+
+      Entre as aves de montanha, o [galo-lira](/especie/tetrao_tetrix/) habita os pinhais de pinheiro-mugo e a
+      [perdiz-nival](/especie/lagopus_muta/) ocupa as encostas pedregosas. Na primavera, os machos de
+      [tetraz-grande](/especie/tetrao_urogallus/) reúnem-se nas clareiras de acasalamento. Junto aos rios
+      Radovna e Soča e à cascata Savica avista-se o [melro-d'água](/especie/cinclus_cinclus/). Com a chuva
+      surge a salamandra-alpina, e nas correntes do rio Soča nada a
+      [truta-marmorada](/especie/salmo_marmoratus/).
+    visit: >-
+      A direção do parque recomenda o verão para admirar as pastagens floridas dos Alpes Julianos, sendo
+      junho, julho e agosto os meses mais favoráveis.
+
+
+      Para preparar a visita, o parque dispõe de centros de acolhimento em Bohinj (Stara Fužina), Trenta (Dom
+      Trenta) e Bled (Triglavska roža). Em Trenta encontra-se uma exposição sobre a geologia, ecologia e
+      tradições pastoris das montanhas.
+
+
+      Para um primeiro contacto, as gargantas de Mostnica oferecem um percurso fácil com declive suave de
+      cerca de duas horas a partir de Stara Fužina. Outra opção popular é o trilho da cascata Peričnik desde a
+      Koča pri Peričniku. Refúgios de montanha acolhem os caminhantes em travessias mais longas.
+    history: >-
+      A ideia de proteger o vale dos Lagos do Triglav concretizou-se em 1924, tendo o parque nos moldes atuais
+      sido estabelecido formalmente em 1981. Zonas de tranquilidade foram criadas para que a fauna se
+      desenvolva sem perturbações.
+
+
+      O plano de ordenamento regista também alterações na paisagem do vale de Voje motivadas por habitações
+      secundárias, mudança nas pastagens e tráfego de viaturas.
+    before: >-
+      Caminha estritamente nos trilhos assinalados. O campismo selvagem fora dos abrigos e os banhos em lagos
+      e ribeiros de montanha são proibidos. No vale de Vrata, a barreira encerra assim que os parques de
+      estacionamento atingem a lotação. Escolhe rotas adequadas ao teu nível: calcários polidos e cascalheiras
+      exigem calçado aderente.
+    around: >-
+      O [Planalto de Jelovica](/lugar/jelovica-plateau/) fica a três quilómetros e a seis quilómetros ergue-se
+      a [Cordilheira de Karavanke / Karawanken](/lugar/karavanke---karawanken/). A dezasseis quilómetros
+      situa-se o [Planalto Cársico de Nanos](/lugar/kraska-planota-nanos/) e a dezanove o [Planalto Florestal
+      de Trnovo](/lugar/trnovski-gozd/).
+fuentes:
+  - url: https://www.tnp.si/en/park/nature-and-culture/ecosystems/
+    titulo: JZ TNP — parque, naturaleza y visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/landmaks/lake-bohinj/
+    titulo: JZ TNP — parque, naturaleza y visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/landmaks/the-mostnica-gorge/
+    titulo: JZ TNP — parque, naturaleza y visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/information-for-visitors/code-of-conduct/
+    titulo: JZ TNP — parque, naturaleza y visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/park/nature-and-culture/quiet-zones/
+    titulo: JZ TNP — parque, naturaleza y visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/media/1458/jz_tnp_nacrt_upravljanja_tnp_2016_2025.pdf
+    titulo: JZ TNP — Plan 2016–2025
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/latest/car-park-occupany-vrata-valley/
+    titulo: The Vrata Valley | Triglav National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/activities/hiking/mostnica-gorge/
+    titulo: Mostnica Gorge | Triglav National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/media/309/casopis_tnp_poletje_2018.pdf
+    titulo: TNP — guía oficial de visitantes de 2018, p. 4
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/media/401/otroski_casopis_boja_1.pdf
+    titulo: Triglavski narodni park — guía educativa 2018–2019, p. 12
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/park/nature-and-culture/flora/
+    titulo: JZ TNP — flora
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/park/nature-and-culture/fauna/
+    titulo: JZ TNP — fauna
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/park/nature-and-culture/geology/
+    titulo: JZ TNP — geología
+    fecha_consulta: '2026-10-31'
+  - url: https://en.wikipedia.org/wiki/Triglav_National_Park
+    titulo: Wikipedia — Triglav National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/information-for-visitors/information-points/details-info-centers/125/information-center-bohinj.html
+    titulo: JZ TNP — centro de información
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/
+    titulo: JZ TNP — visita
+    fecha_consulta: '2026-10-31'
+  - url: https://www.tnp.si/en/visiting-park/activities/hiking/
+    titulo: JZ TNP — senderismo
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Wocheiner_See.jpg
+    autor: Martin Geisler
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-19'

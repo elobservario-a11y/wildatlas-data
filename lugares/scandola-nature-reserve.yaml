@@ -1,0 +1,598 @@
+id: scandola-nature-reserve
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de Scandola (Córcega)
+  en: Scandola Nature Reserve (Corsica)
+  fr: Réserve naturelle de Scandola (Corse)
+  de: Naturschutzgebiet Scandola (Korsika)
+  it: Riserva Naturale di Scandola (Corsica)
+  pt: Reserva Natural de Scandola (Córsega)
+nombre_original: Scandola Nature Reserve
+alias:
+  - Scandola Nature Reserve (Réserve Naturelle de Scandola)
+paises:
+  - FR
+region:
+  es: Córcega (Golfo de Porto / Galéria / Osani)
+  en: Corsica (Gulf of Porto / Galéria / Osani)
+  fr: Corse (Golfe de Porto / Galéria / Osani)
+  de: Korsika (Golf von Porto / Galéria / Osani)
+  it: Corsica (Golfo di Porto / Galéria / Osani)
+  pt: Córsega (Golfo de Porto / Galéria / Osani)
+ubicacion:
+  tipo: punto
+  lat: 42.37
+  lon: 8.56
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 7168
+  nombre_en_la_fuente: Scandola
+  categoria_uicn: IV
+  capa: capas/cdda/scandola-nature-reserve.geojson
+habitats:
+  - coast
+  - marine
+  - karst
+designaciones:
+  - unesco_whs
+  - strict_reserve
+  - natural_reserve
+  - natura2000
+especies:
+  - pandion_haliaetus
+  - falco_peregrinus
+  - tursiops_truncatus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en los barcos de excursión diurna desde Porto y Calvi
+  en: High on day-trip tour boats from Porto and Calvi
+  fr: Élevée sur les bateaux d’excursion au départ de Porto et Calvi
+  de: Hoch auf den Ausflugsbooten ab Porto und Calvi
+  it: Alta sulle imbarcazioni turistiche da Porto e Calvi
+  pt: Elevada nos barcos de excursão com partida de Porto e Calvi
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: PNRC Réserve Naturelle de Scandola Official
+    url: https://www.pnr.corsica/reserves-naturelles/scandola
+  - titulo: Visita y restricciones — Scandola, Agencia de Turismo de Córcega
+    url: https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/LA-RESERVE-NATURELLE-DE-SCANDOLA
+enlaces_referencia:
+  - titulo: UNESCO World Heritage Gulf of Porto Scandola
+    url: https://whc.unesco.org/en/list/258/
+resumen:
+  es: >-
+    Península volcánica de ignimbrita roja cayendo verticalmente al mar Tirreno (Patrimonio Mundial UNESCO),
+    sin senderos terrestres de acceso humano.
+  en: >-
+    A volcanic peninsula of red ignimbrite plunging sheer into the Tyrrhenian Sea (UNESCO World Heritage),
+    accessible solely by boat with no landward trails.
+  fr: >-
+    Péninsule volcanique d’ignimbrites rouges plongeant à pic dans la mer Tyrrhénienne (Patrimoine mondial
+    UNESCO), sans sentier d’accès terrestre.
+  de: >-
+    Vulkanische Halbinsel aus rotem Ignimbrit, die senkrecht ins Tyrrhenische Meer abfällt (UNESCO-Welterbe),
+    ohne irdische Zugangswege.
+  it: >-
+    Penisola vulcanica di ignimbrite rossa che precipita a picco nel Mar Tirreno (Patrimonio mondiale UNESCO),
+    priva di sentieri terrestri.
+  pt: >-
+    Península vulcânica de ignimbrito vermelho que cai a pique no mar Tirreno (Património Mundial UNESCO),
+    desprovida de acessos pedonais.
+unico:
+  es: Scandola es la parte emergida de un antiguo complejo volcánico que se hundió en parte en el mar.
+  en: >-
+    Scandola represents the emergent fraction of an ancient collapsed volcanic caldera that foundered partly
+    into the sea.
+  fr: Scandola est la partie émergée d’une ancienne caldeira volcanique effondrée en grande partie dans la mer.
+  de: >-
+    Scandola bildet den über die Meeresoberfläche ragenden Teil einer uralten Vulkankaldera, die teilweise im
+    Meer versank.
+  it: Scandola è la parte emersa di un’antica caldera vulcanica sprofondata in gran parte nel mare.
+  pt: >-
+    Scandola constitui a porção emersa de uma caldeira vulcânica ancestral que colapsou em grande parte no
+    mar.
+observaciones:
+  es: >-
+    Las normas son claras y sirven para toda la zona. Está prohibido recoger fauna o flora, dar de comer a los
+    animales, practicar senderismo, escalada u otros deportes de naturaleza, acampar, hacer fuego, bucear con
+    botellas y practicar la pesca de recreo. Tampoco se puede sobrevolar la reserva a menos de 1000 metros de
+    altitud. Comprueba antes de salir las zonas de tranquilidad de la temporada y las condiciones del barco
+    que elijas.
+texto:
+  es:
+    intro: >-
+      A Scandola no se llega caminando: se mira desde el agua. Es una península de roca volcánica que cae
+      vertical al mar Tirreno, sin senderos ni carreteras, y las excursiones de un día salen de los puertos de
+      Porto (Ota), Sagone y Cargèse. Lo que recorres desde cubierta es la primera reserva natural de Francia
+      creada para proteger a la vez el patrimonio terrestre y el marino, con 919 hectáreas de tierra y una
+      reserva integral de 70 hectáreas de mar.
+    landscape: >-
+      Todo parte de un volcán que ya no existe. La península tiene estructura de caldera: es lo que queda de
+      un edificio volcánico que se desplomó hacia el mar. De aquellas erupciones sobreviven rocas de una gran
+      diversidad y formas que lo cuentan: caos, piroclastitas y órganos riolíticos. En la isla de Gargalo, la
+      más imponente, una torre genovesa corona la cima.
+
+
+      En lo alto, el maquis lo cubre casi todo. Lavandas, brezos, madroños, mirtos y encinas se agarran a los
+      acantilados, y en esas paredes crecen 33 especies de plantas endémicas, 16 de ellas protegidas.
+
+
+      Bajo la línea de flotación el paisaje cambia de materia pero no de intensidad. Hay praderas de
+      [posidonia](/especie/posidonia_oceanica/) y de cistoseiras, de riqueza notable en el Mediterráneo, y se
+      han contado 450 clases de algas y 243 especies de peces. Es una de las razones por las que la zona
+      integral es una referencia científica reconocida a escala internacional.
+    wildlife: >-
+      El emblema de la reserva vuela sobre el agua: el [águila pescadora](/especie/pandion_haliaetus/).
+      Scandola es hoy uno de sus principales refugios en Francia, y para que críe sin molestias se fijan zonas
+      de tranquilidad alrededor de los nidos, donde la navegación y el acercamiento a los acantilados están
+      regulados. Esas zonas se establecen por temporada y pueden cambiar de un año a otro según el estado de
+      los nidos.
+
+
+      En las mismas paredes anidan el [águila real](/especie/aquila_chrysaetos/), el [halcón
+      peregrino](/especie/falco_peregrinus/) y varias gaviotas. Entre las aves de los acantilados figuran
+      también el cormorán moñudo mediterráneo y la [pardela cenicienta](/especie/calonectris_diomedea/). En
+      tierra hay jabalíes, zorros, reptiles, anfibios y murciélagos, entre ellos el murciélago rabudo, el
+      mayor de Europa. En el agua frecuenta la zona el [delfín mular](/especie/tursiops_truncatus/), y las
+      últimas [focas monje](/especie/monachus_monachus/) de Córcega se refugiaron aquí antes de que existiera
+      la reserva.
+
+
+      La temporada de las excursiones va de mayo a octubre. En verano, además, es cuando más gente llega, y
+      esa afluencia es la mayor amenaza del lugar.
+    visit: >-
+      La visita es en barco y sin desembarcar: la reserva solo se descubre desde el mar. Eso cambia la manera
+      de planear el día. Eliges una de las compañías que salen de Porto, Sagone o Cargèse y dejas que la ruta
+      haga el resto; si navegas por tu cuenta, las aplicaciones comunitarias gratuitas DONIA y Nav&Co son
+      imprescindibles, porque trazan con precisión los ecosistemas marinos para fondear fuera de las praderas
+      submarinas y funcionan sin conexión.
+
+
+      El fondeo está regulado por la prefectura: se permite solo desde el amanecer hasta el ocaso, nunca de
+      noche, y en la reserva integral, de la isla de Gargalu a A Punta Palazzu, no se puede fondear ni de día
+      ni de noche.
+    history: >-
+      La reserva se creó en 1975 por decreto ministerial, a iniciativa del Parque Natural Regional de Córcega,
+      que sigue gestionándola con un equipo de seis agentes repartidos en dos bases, en Galéria y en Porto.
+      Desde 1983 es Patrimonio Mundial de la UNESCO, y está además protegida como zona Natura 2000, área
+      marina protegida y sitio de interés nacional. Una parte del norte pertenece al Conservatoire du
+      littoral, que desde 1992 ha adquirido 502 hectáreas entre Punta Palazza y Punta Nera.
+
+
+      La ciencia ha encontrado aquí un laboratorio. La pradera de posidonia de la bahía de Elbu se vigila
+      desde finales de los años setenta, y el balizado de su límite inferior es el más antiguo del
+      Mediterráneo. La estricta protección también dejó que el coral rojo creciera durante más de treinta años
+      sin presión pesquera, hasta tamaños raros fuera de los espacios protegidos.
+    before: >-
+      Las normas son claras y sirven para toda la zona. Está prohibido recoger fauna o flora, dar de comer a
+      los animales, practicar senderismo, escalada u otros deportes de naturaleza, acampar, hacer fuego,
+      bucear con botellas y practicar la pesca de recreo. Tampoco se puede sobrevolar la reserva a menos de
+      1000 metros de altitud. Comprueba antes de salir las zonas de tranquilidad de la temporada y las
+      condiciones del barco que elijas.
+    around: >-
+      La reserva comparte águila pescadora y delfín mular con el [Parque Natural Marino del Cap Corse y
+      Desierto de los Agriates](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/), otra costa de roca y
+      mar. Más lejos, el delfín mular y el halcón peregrino unen Scandola con el [Parque Nacional de
+      Kornati](/lugar/nacionalni-park-kornati/) y con el [Parque Natural del Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/); el delfín mular también aparece en la [Meseta Kárstica y
+      Acantilados de La Mola](/lugar/la-mola-formentera/).
+  en:
+    intro: >-
+      You do not arrive in Scandola on foot: you discover it from the sea. This volcanic rock peninsula
+      plunges sheer into the Tyrrhenian Sea without footpaths or vehicular roads, explored on day boat
+      excursions departing from the ports of Porto (Ota), Sagone and Cargèse. What you view from deck is
+      France’s inaugural nature reserve created to simultaneously preserve terrestrial and marine ecosystems,
+      encompassing 919 hectares of land and an integral marine sanctuary of 70 hectares.
+    landscape: >-
+      Everything stems from a long-extinct volcano. The peninsula forms a caldera structure: the shattered rim
+      of a volcanic complex that collapsed catastrophically into the Mediterranean. Relict formations tell of
+      those cataclysms: chaotic rock towers, welded pyroclastics and dramatic rhyolitic organ pipes. On
+      Gargalo Island, the most imposing offshore islet, a sixteenth-century Genoese watchtower crowns the
+      craggy summit.
+
+
+      Dense maquis covers the higher terrain. Lavender, tree heathers, strawberry trees, myrtle and evergreen
+      holm oaks cling to vertical crevices, alongside 33 endemic plant species, 16 of which are strictly
+      protected by law.
+
+
+      Beneath the waterline the spectacle shifts in medium but not in vibrancy. Flourishing meadows of
+      [Neptune grass](/especie/posidonia_oceanica/) and cystoseira seaweed stands rank among the richest in
+      the Mediterranean, supporting 450 types of marine algae and 243 fish species. This biodiversity explains
+      why the marine reserve serves as an international scientific benchmark.
+    wildlife: >-
+      The reserve’s living emblem soars above the waves: the [osprey](/especie/pandion_haliaetus/). Scandola
+      represents its primary historical stronghold in France; to safeguard breeding pairs, quiet protection
+      buffer zones are enacted around cliff eyries, strictly regulating navigation and boat approaches. These
+      seasonal quiet zones are gazetted annually and adjust according to active nest sites.
+
+
+      The same volcanic crags shelter nesting [golden eagle](/especie/aquila_chrysaetos/), [peregrine
+      falcon](/especie/falco_peregrinus/) and breeding gull colonies. Seabirds include the Mediterranean shag
+      and [Scopoli's shearwater](/especie/calonectris_diomedea/). Landward ridges host wild boar, foxes,
+      reptiles, amphibians and bats, notably the European free-tailed bat, Europe’s largest species. Offshore
+      waters attract pods of [common bottlenose dolphin](/especie/tursiops_truncatus/), and the last
+      [Mediterranean monk seals](/especie/monachus_monachus/) in Corsica found refuge along these sea caves
+      prior to the reserve’s establishment.
+
+
+      The excursion season spans May to October. Summer brings peak visitor arrivals, whose concentrated boat
+      traffic represents the reserve’s foremost management challenge.
+    visit: >-
+      Visits take place entirely by boat without going ashore: Scandola is experienced exclusively from the
+      water. You book with one of the licensed passenger ferry companies operating out of Porto, Sagone or
+      Cargèse; if skippering your own vessel, free crowd-sourced marine navigation apps such as DONIA and
+      Nav&Co are indispensable for charting fragile sea meadows and anchoring legally outside seagrass beds,
+      operating reliably offline.
+
+
+      Maritime anchoring is strictly governed by maritime prefecture regulations: anchoring is permitted
+      solely between dawn and dusk, never overnight, while within the integral marine reserve from Gargalu
+      Island to A Punta Palazzu, anchoring is prohibited at all times day and night.
+    history: >-
+      The reserve was established in 1975 by ministerial decree at the initiative of the Regional Natural Park
+      of Corsica, which continues day-to-day management with a team of six wardens stationed across two
+      operational bases in Galéria and Porto. Inscribed as a UNESCO World Heritage Site in 1983, it is also
+      protected under the Natura 2000 network, as a Marine Protected Area and as a national site of special
+      interest. A northern terrestrial sector belongs to the Conservatoire du littoral, which since 1992 has
+      acquired 502 hectares between Punta Palazza and Punta Nera.
+
+
+      Scientific research has turned Scandola into a marine observatory. The Neptune seagrass meadow in Elbu
+      Bay has been continuously monitored since the late seventies, boasting the oldest boundary monitoring
+      transect in the Mediterranean. Strict protection has allowed red coral to grow undisturbed for over
+      thirty years free from harvesting pressure, attaining colony sizes unseen outside reserves.
+    before: >-
+      Reserve rules are unambiguous across the entire area. Collecting flora or fauna, feeding wildlife,
+      hiking, rock climbing, bivouacking, lighting fires, scuba diving and recreational sea fishing are
+      strictly prohibited. Aircraft overflights below 1000 metres altitude are outlawed. Before sailing,
+      verify seasonal quiet buffer zones and your vessel’s operating permissions.
+    around: >-
+      The reserve shares the osprey and bottlenose dolphin with [Cap Corse and Agriate Marine Natural
+      Park](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/), another wild rocky coastline. Further
+      afield, bottlenose dolphins and peregrine falcons connect Scandola with [Kornati National
+      Park](/lugar/nacionalni-park-kornati/) and [Cap de Creus Natural
+      Park](/lugar/parc-natural-del-cap-de-creus/); bottlenose dolphins also cruise off [La Mola Karst Plateau
+      and Cliffs](/lugar/la-mola-formentera/).
+  fr:
+    intro: >-
+      On n'aborde pas Scandola à pied : on la découvre depuis la mer. Cette péninsule de roche volcanique
+      plonge verticalement dans la mer Tyrrhénienne, sans sentiers ni voies carrossables, et les excursions à
+      la journée appareillent des ports de Porto (Ota), Sagone et Cargèse. Ce que vous admirez depuis le pont
+      est la première réserve naturelle de France créée pour préserver conjointement les patrimoines terrestre
+      et marin, avec 919 hectares terrestres et un sanctuaire marin intégral de 70 hectares.
+    landscape: >-
+      Tout procède d'un ancien volcan aujourd'hui disparu. La péninsule présente une structure de caldeira :
+      c'est le reliquat d'un édifice volcanique qui s'est effondré dans la Méditerranée. De ces éruptions
+      subsistent des roches d'une exceptionnelle variété : chaos ruiniformes, dépôts pyroclastiques et orgues
+      rhyolitiques spectaculaires. Sur l'île de Gargalo, la plus imposante, une tour génoise domine la crête
+      rocheuse.
+
+
+      Sur les hauteurs, le maquis dense recouvre la roche. Lavandes, bruyères, arbousiers, myrtes et chênes
+      verts s'enracinent dans les falaises, qui abritent 33 espèces de plantes endémiques dont 16 bénéficient
+      d'une protection légale stricte.
+
+
+      Sous la surface marine, le paysage change d'élément sans perdre de sa splendeur. Des herbiers de
+      [posidonie](/especie/posidonia_oceanica/) et des forêts de cystoseires d'une richesse remarquable
+      tapissent les fonds, abritant 450 types d'algues et 243 espèces de poissons. C'est l'une des raisons
+      pour lesquelles la réserve intégrale sert de référence scientifique mondiale.
+    wildlife: >-
+      L'emblème vivant de la réserve plane au-dessus des flots : le [balbuzard
+      pêcheur](/especie/pandion_haliaetus/). Scandola est l'un de ses sanctuaires majeurs en France ; afin
+      d'assurer sa nidification sans dérangement, des zones de quiétude sont délimitées autour des nids,
+      encadrant la navigation et l'approche des falaises. Ces périmètres sont fixés chaque saison et évoluent
+      annuellement selon l'occupation des aires.
+
+
+      Sur les mêmes parois nichent l'[aigle royal](/especie/aquila_chrysaetos/), le [faucon
+      pèlerin](/especie/falco_peregrinus/) et des goélands. La faune aviaire compte aussi le cormoran huppé de
+      Méditerranée et le [puffin cendré](/especie/calonectris_diomedea/). À terre vivent sangliers, renards,
+      reptiles, amphibiens et chauves-souris, dont le molosse de Cestoni, le plus grand chiroptère d'Europe.
+      Dans les eaux croise le [grand dauphin](/especie/tursiops_truncatus/), et les derniers [phoques moines
+      de Méditerranée](/especie/monachus_monachus/) de Corse trouvèrent refuge dans ces grottes avant la
+      création de la réserve.
+
+
+      La saison des excursions s'étend de mai à octobre. C'est en été que l'affluence culmine, cette
+      fréquentation nautique constituant la première menace pour le milieu.
+    visit: >-
+      La visite s'effectue exclusivement en bateau sans débarquement : la réserve ne s'explore que par voie
+      maritime. Vous embarquez sur l'un des navires d'excursion au départ de Porto, Sagone ou Cargèse ; si
+      vous naviguez à bord de votre propre embarcation, les applications communautaires gratuites DONIA et
+      Nav&Co sont indispensables pour cartographier les herbiers sous-marins et mouiller hors des zones
+      sensibles.
+
+
+      Le mouillage est strictement réglementé par arrêté préfectoral : il est autorisé uniquement du lever au
+      coucher du soleil, jamais de nuit, et dans la réserve intégrale, de l'île de Gargalu à A Punta Palazzu,
+      tout mouillage est formellement interdit de jour comme de nuit.
+    history: >-
+      La réserve a été instituée en 1975 par décret ministériel, à l'initiative du Parc naturel régional de
+      Corse qui en assure la gestion opérationnelle avec six agents répartis entre les bases de Galéria et
+      Porto. Classée au Patrimoine mondial de l'UNESCO en 1983, elle est également intégrée au réseau Natura
+      2000 et reconnue comme aire marine protégée. Le Conservatoire du littoral est propriétaire d'une portion
+      septentrionale où il a acquis 502 hectares entre Punta Palazza et Punta Nera depuis 1992.
+
+
+      La science a trouvé ici un observatoire écologique exceptionnel. L'herbier de posidonies de la baie
+      d'Elbu fait l'objet de suivis continus depuis la fin des années soixante-dix, constituant le plus ancien
+      balisage bathymétrique de Méditerranée. La protection intégrale a également permis au corail rouge de
+      croître pendant plus de trente ans à l'abri de toute récolte.
+    before: >-
+      Les règles de protection s'appliquent à l'ensemble du périmètre. Tout prélèvement de faune ou de flore,
+      nourrissage, randonnée pédestre, escalade, bivouac, feu, plongée en scaphandre autonome et pêche de
+      loisir sont formellement interdits. Le survol aérien à moins de 1000 mètres d'altitude est prohibé.
+      Vérifiez avant de partir les zones de quiétude de la saison et la réglementation en vigueur.
+    around: >-
+      La réserve partage le balbuzard pêcheur et le grand dauphin avec le [parc naturel marin du Cap Corse et
+      de l'Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/). Plus loin, le grand dauphin et
+      le faucon pèlerin rattachent Scandola au [parc national des Kornati](/lugar/nacionalni-park-kornati/) et
+      au [parc naturel du Cap de Creus](/lugar/parc-natural-del-cap-de-creus/) ; le grand dauphin fréquente
+      également les abords du [plateau karstique et des falaises de La Mola](/lugar/la-mola-formentera/).
+  de:
+    intro: >-
+      Nach Scandola gelangt man nicht zu Fuß: Man nähert sich vom Wasser aus. Es ist eine Halbinsel aus
+      Vulkangestein, die ohne Wege oder Straßen senkrecht ins Tyrrhenische Meer abbricht; Tagesausflüge
+      starten in den Häfen von Porto (Ota), Sagone und Cargèse. Was du vom Deck aus betrachtest, ist
+      Frankreichs erstes Naturschutzgebiet, das gleichzeitig zum Schutz des terrestrischen und marinen
+      Naturerbes eingerichtet wurde — mit 919 Hektar Landfläche und einem Totalreservat von 70 Hektar
+      Meeresfläche.
+    landscape: >-
+      Alles geht auf einen erloschenen Vulkan zurück. Die Halbinsel besitzt die Struktur einer Caldera: Sie
+      ist der Rest eines gewaltigen Vulkangebäudes, das einst ins Mittelmeer stürzte. Von jenen Ausbrüchen
+      zeugen Gesteine seltener Vielfalt: bizarre Felsburgen, Schweißschlacken und rhyolithische Basaltorgeln.
+      Auf der Insel Gargalo, dem imposantesten Eiland, krönt ein genuesischer Wachturm den Felsgipfel.
+
+
+      In der Höhe bedeckt dichte Macchie den Felsboden. Lavendel, Baumheide, Erdbeerbäume, Myrten und
+      Steineichen klammern sich an steile Felswände, an denen 33 endemische Pflanzenarten wachsen, von denen
+      16 gesetzlich geschützt sind.
+
+
+      Unter der Wasserlinie setzt sich die Naturvielfalt ungebrochen fort. Seegraswiesen aus
+      [Neptungras](/especie/posidonia_oceanica/) und Cystoseira-Wälder von herausragender Dichte überziehen
+      den Meeresgrund, Heimat von 450 Algenarten und 243 Fischarten. Dies ist einer der Gründe, warum das
+      Meeresreservat als weltweite wissenschaftliche Referenz gilt.
+    wildlife: >-
+      Das Wappentier des Reservats kreist über den Wellen: der [Fischadler](/especie/pandion_haliaetus/).
+      Scandola ist heute eines seiner wichtigsten Refugien in Frankreich; um eine störungsfreie Brut zu
+      gewährleisten, werden um die Horste Schutzzonen eingerichtet, in denen Schiffsverkehr und die Annäherung
+      an die Felsen reguliert sind. Diese Ruhezonen werden saisonal festgelegt und jährlich an die
+      Neststandorte angepasst.
+
+
+      In denselben Felswänden brüten [Steinadler](/especie/aquila_chrysaetos/),
+      [Wanderfalke](/especie/falco_peregrinus/) und verschiedene Möwenarten. Zu den Felsenvögeln zählen auch
+      die Krähenscharbe und der [Gelbschnabel-Sturmtaucher](/especie/calonectris_diomedea/). An Land leben
+      Wildschweine, Füchse, Reptilien, Amphibien und Fledermäuse, darunter die Europäische
+      Bulldoggefledermaus, die größte Fledermausart Europas. Im Wasser kreuzt regelmäßig der [Große
+      Tümmler](/especie/tursiops_truncatus/), und die letzten
+      [Mittelmeer-Mönchsrobben](/especie/monachus_monachus/) Korsikas suchten hier vor Gründung des
+      Schutzgebiets Zuflucht.
+
+
+      Die Ausflugssaison reicht von Mai bis Oktober. Im Sommer erreicht der Besucherandrang seinen Höhepunkt,
+      wobei der dichte Bootsverkehr die größte Belastung darstellt.
+    visit: >-
+      Der Besuch erfolgt ausschließlich per Boot ohne Landgang: Das Schutzgebiet lässt sich nur vom Wasser aus
+      erkunden. Du buchst bei einer der Ausflugsreedereien ab Porto, Sagone oder Cargèse; wenn du mit dem
+      eigenen Boot unterwegs bist, sind kostenfreie Navigations-Apps wie DONIA und Nav&Co unverzichtbar, um
+      marine Lebensräume exakt darzustellen und Ankerverbote über Seegraswiesen einzuhalten.
+
+
+      Das Ankern unterliegt strengen präfektoralen Vorschriften: Es ist ausschließlich von Sonnenaufgang bis
+      Sonnenuntergang gestattet, niemals nachts. Im Totalreservat von der Insel Gargalu bis A Punta Palazzu
+      ist das Ankern zu jeder Tages- und Nachtzeit verboten.
+    history: >-
+      Das Reservat wurde 1975 per Ministerialerlass auf Initiative des Regionalen Naturparks Korsika
+      gegründet, der die Betreuung bis heute mit sechs Rangern an den Stützpunkten Galéria und Porto
+      gewährleistet. Seit 1983 ist es UNESCO-Welterbe und zusätzlich als Natura-2000-Gebiet,
+      Meeresschutzgebiet und nationales Naturdenkmal geschützt. Ein nördlicher Landabschnitt gehört dem
+      Conservatoire du littoral, das seit 1992 insgesamt 502 Hektar zwischen Punta Palazza und Punta Nera
+      erworben hat.
+
+
+      Die Wissenschaft nutzt Scandola als Freilandlabor: Die Neptungraswiese der Bucht von Elbu wird seit den
+      späten siebziger Jahren kontinuierlich überwacht und besitzt die älteste Tiefenmarkierung des
+      Mittelmeers. Der strenge Schutz ermöglichte zudem der roten Edelkoralle, über dreißig Jahre lang ohne
+      Ernte zu wachsen.
+    before: >-
+      Die Schutzbestimmungen gelten ausnahmslos im gesamten Areal. Das Sammeln von Pflanzen oder Tieren,
+      Füttern, Wandern, Klettern, Zelten, Feuermachen, Gerätetauchen und die Freizeitfischerei sind untersagt.
+      Überflüge unter 1000 Metern Flughöhe sind verboten. Informiere dich vor Fahrtantritt über saisonale
+      Schutzzonen und Auflagen.
+    around: >-
+      Das Reservat teilt Fischadler und Großen Tümmler mit dem [Meeresnaturpark Cap Corse und
+      Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/). Weiter entfernt verbinden Großer
+      Tümmler und Wanderfalke Scandola mit dem [Nationalpark Kornaten](/lugar/nacionalni-park-kornati/) und
+      dem [Naturpark Cap de Creus](/lugar/parc-natural-del-cap-de-creus/); der Große Tümmler erscheint auch am
+      [Karstplateau und Steilküste von La Mola](/lugar/la-mola-formentera/).
+  it:
+    intro: >-
+      A Scandola non si arriva a piedi: la si ammira dal mare. È una penisola di roccia vulcanica che cade
+      verticale nel Mar Tirreno, priva di sentieri o strade carreggiabili, e le escursioni giornaliere salpano
+      dai porti di Porto (Ota), Sagone e Cargèse. Quella che contempli dal ponte è la prima riserva naturale
+      di Francia istituita per salvaguardare insieme il patrimonio terrestre e quello marino, con 919 ettari a
+      terra e un santuario marino integrale di 70 ettari.
+    landscape: >-
+      Tutto trae origine da un antico apparato vulcanico estinto. La penisola ha struttura di caldera: è
+      quanto resta di un cono eruttivo sprofondato nel Mediterraneo. Da quegli eventi geologici sopravvivono
+      rocce di straordinaria varietà: guglie scoscese, depositi piroclastici e spettacolari organi riolitici.
+      Sull'isola di Gargalo, la più imponente, una torre genovese corona la vetta rocciosa.
+
+
+      Sulle alture la macchia mediterranea ricopre quasi ogni superficie. Lavanda, erica arborea, corbezzoli,
+      mirti e lecci si abbarbicano a pareti verticali che ospitano 33 specie di piante endemiche, 16 delle
+      quali protette dalla legge.
+
+
+      Sotto la superficie marina la ricchezza naturale muta elemento ma non splendore. Praterie di
+      [posidonia](/especie/posidonia_oceanica/) e foreste di cistoseira di eccezionale valore foderano i
+      fondali, ospitando 450 tipi di alghe e 243 specie di pesci. È una delle ragioni per cui la riserva
+      integrale rappresenta un riferimento scientifico a livello internazionale.
+    wildlife: >-
+      Il simbolo vivente della riserva volteggia sopra le onde: il [falco
+      pescatore](/especie/pandion_haliaetus/). Scandola costituisce oggi uno dei suoi baluardi principali in
+      Francia; per consentirgli di riprodursi senza disturbo vengono istituite zone di quiete attorno ai nidi,
+      dove la navigazione e l'avvicinamento alle scogliere sono rigidamente disciplinati. Tali corridoi
+      protetti sono definiti stagionalmente e aggiornati di anno in anno in base ai siti attivi.
+
+
+      Sulle medesime pareti nidificano l'[aquila reale](/especie/aquila_chrysaetos/), il [falco
+      pellegrino](/especie/falco_peregrinus/) e varie specie di gabbiani. Tra i volatili marini figurano il
+      marangone dal ciuffo e la [berta maggiore](/especie/calonectris_diomedea/). A terra vivono cinghiali,
+      volpi, rettili, anfibi e pipistrelli, tra cui il molosso di Cestoni, il più grande chirottero d'Europa.
+      Nelle acque incrocia il [tursiope](/especie/tursiops_truncatus/), e le ultime [foche
+      monache](/especie/monachus_monachus/) di Corsica trovarono riparo in queste grotte prima della
+      fondazione della riserva.
+
+
+      La stagione delle visite va da maggio a ottobre. In estate l'affluenza raggiunge il culmine, e il
+      traffico nautico rappresenta la principale minaccia per l'ambiente.
+    visit: >-
+      La visita si svolge esclusivamente in barca senza scendere a terra: la riserva si sperimenta soltanto
+      via mare. Puoi scegliere una delle compagnie autorizzate in partenza da Porto, Sagone o Cargèse; se
+      navighi con imbarcazione propria, le applicazioni comunitarie gratuite DONIA e Nav&Co sono fondamentali
+      per localizzare i fondali sensibili e ormeggiare all'esterno delle praterie sommerse.
+
+
+      L'ancoraggio è disciplinato da ordinanza prefettizia: è consentito soltanto dall'alba al tramonto, mai
+      di notte, e all'interno della riserva integrale, dall'isola di Gargalu ad A Punta Palazzu, è vietato
+      ancorare sia di giorno che di notte.
+    history: >-
+      La riserva è nata nel 1975 con decreto ministeriale su impulso del Parco Naturale Regionale della
+      Corsica, che ne cura la gestione operativa con una squadra di sei guardaparco dislocati tra Galéria e
+      Porto. Dal 1983 è Patrimonio Mondiale dell'UNESCO, integrata nella rete Natura 2000 e classificata come
+      area marina protetta. Una porzione settentrionale appartiene al Conservatoire du littoral, che dal 1992
+      ha acquisito 502 ettari tra Punta Palazza e Punta Nera.
+
+
+      La scienza ha trovato in Scandola un laboratorio naturale: la prateria di posidonia della baia di Elbu è
+      monitorata dalla fine degli anni settanta, vantando la più antica linea batimetrica di controllo del
+      Mediterraneo. La tutela integrale ha consentito inoltre al corallo rosso di accrescersi per oltre
+      trent'anni al riparo dalla raccolta commerciale.
+    before: >-
+      Le norme di tutela valgono per l'intero perimetro. È vietato prelevare flora o fauna, nutrire animali,
+      praticare escursionismo terrestre, arrampicata, campeggio, accendere fuochi, effettuare immersioni con
+      bombole e pesca ricreativa. È vietato il sorvolo aereo a quota inferiore a 1000 metri. Verifica prima di
+      salpare le zone di quiete stagionali e le condizioni di navigazione.
+    around: >-
+      La riserva condivide falco pescatore e tursiope con il [Parco Naturale Marino di Cap Corse e
+      Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/). Più lontano, tursiopi e falchi
+      pellegrini legano Scandola al [Parco Nazionale delle Kornati](/lugar/nacionalni-park-kornati/) e al
+      [Parco Naturale del Cap de Creus](/lugar/parc-natural-del-cap-de-creus/); il tursiope è presente anche
+      presso l'[Altopiano Carsico e Falesie di La Mola](/lugar/la-mola-formentera/).
+  pt:
+    intro: >-
+      A Scandola não se chega a pé: contempla-se a partir do mar. Trata-se de uma península de rocha vulcânica
+      que se precipita verticalmente no mar Tirreno, sem trilhos pedestres nem estradas, explorada em
+      excursões marítimas diárias que partem dos portos de Porto (Ota), Sagone e Cargèse. O que avistas do
+      convés é a primeira reserva natural de França criada para salvaguardar em conjunto o património
+      terrestre e marinho, integrando 919 hectares de terra e uma reserva integral marinha de 70 hectares.
+    landscape: >-
+      Tudo decorre de um vulcão extinto. A península exibe uma estrutura de caldeira: é o testemunho de um
+      edifício vulcânico que colapsou no mar Mediterrâneo. Dessas erupções subsistem rochas de notável
+      diversidade: escarpas ruiniformes, depósitos piroclásticos e imponentes órgãos riolíticos. Na ilha de
+      Gargalo, a mais majestosa, uma torre genovesa coroa a crista rochosa.
+
+
+      Nas alturas, o maquis cobre o relevo. Alfazemas, urzes, medronheiros, murtas e azinheiras fixam-se nas
+      fendas rochosas verticais, onde se desenvolvem 33 espécies de plantas endémicas, 16 das quais com
+      estatuto de proteção legal.
+
+
+      Sob a linha de água, o ecossistema muda de feição sem perder riqueza biológica. Densos prados de
+      [posidónia](/especie/posidonia_oceanica/) e florestas de cistoseiras forram os fundos marinhos,
+      albergando 450 tipos de algas e 243 espécies de peixes. É uma das razões pelas quais a reserva integral
+      constitui uma referência científica internacional.
+    wildlife: >-
+      O símbolo faunístico da reserva plana sobre as vagas marinhas: a
+      [águia-pesqueira](/especie/pandion_haliaetus/). Scandola é atualmente um dos seus principais santuários
+      em França; para que nidifique sem perturbação, são decretadas zonas de tranquilidade em torno dos
+      ninhos, com navegação e aproximação às falésias estritamente vigiadas. Estas áreas de proteção são
+      delimitadas por época e adaptadas em função da localização dos ninhos.
+
+
+      Nas mesmas escarpas nidificam a [águia-real](/especie/aquila_chrysaetos/), o
+      [falcão-peregrino](/especie/falco_peregrinus/) e gaivotas costeiras. A avifauna marinha inclui o
+      corvo-marinho-de-crista e a [cagarra-de-scopoli](/especie/calonectris_diomedea/). Em terra vivem
+      javalis, raposas, répteis, anfíbios e morcegos, salientando-se o morcego-rabudo, o maior da Europa. Nas
+      águas circulam bandos de [roaz-corvineiro](/especie/tursiops_truncatus/), e as derradeiras
+      [focas-monge-do-mediterrâneo](/especie/monachus_monachus/) da Córsega procuraram refúgio nestas grutas
+      antes da fundação da reserva.
+
+
+      A época de visitas decorre de maio a outubro. No verão a afluência atinge o pico, constituindo o tráfego
+      de embarcações a principal pressão ambiental.
+    visit: >-
+      A visita faz-se exclusivamente por via marítima e sem desembarque: a reserva só pode ser percorrida a
+      partir da água. Podes recorrer às companhias autorizadas que operam a partir de Porto, Sagone ou
+      Cargèse; em navegação particular, as aplicações comunitárias gratuitas DONIA e Nav&Co são fundamentais
+      para cartografar os habitats marinhos sensíveis e fundear fora das pradarias de posidónia.
+
+
+      A fundeação rege-se por regulamentos marítimos estritos: só é autorizada entre o nascer e o pôr do sol,
+      nunca durante a noite, e na reserva integral, da ilha de Gargalu a A Punta Palazzu, é expressamente
+      proibido fundear tanto de dia como de noite.
+    history: >-
+      A reserva foi criada em 1975 por decreto governamental, por iniciativa do Parque Natural Regional da
+      Córsega, que assegura a sua gestão com seis vigilantes repartidos pelas bases de Galéria e Porto.
+      Classificada como Património Mundial da UNESCO em 1983, integra a rede Natura 2000 e está classificada
+      como área marinha protegida. O Conservatoire du littoral adquiriu desde 1992 um total de 502 hectares no
+      setor setentrional entre Punta Palazza e Punta Nera.
+
+
+      A investigação científica encontrou aqui um observatório natural: o prado de posidónia da baía de Elbu é
+      monitorizado desde os finais dos anos setenta, ostentando a mais antiga balizagem batimétrica do
+      Mediterrâneo. A proteção estrita permitiu igualmente ao coral-vermelho desenvolver-se durante mais de
+      trinta anos a salvo de exploração comercial.
+    before: >-
+      A regulamentação aplica-se rigorosamente a todo o perímetro. É proibido colher espécimes de fauna ou
+      flora, alimentar animais, praticar caminhadas, escalada, campismo, fogueiras, mergulho com garrafa e
+      pesca lúdica. O sobrevoo aéreo a menos de 1000 metros de altitude é interdito. Confirma antes de
+      embarcar os perímetros de tranquilidade sazonais e as regras vigentes.
+    around: >-
+      A reserva partilha a águia-pesqueira e o roaz-corvineiro com o [Parque Natural Marinho de Cap Corse e
+      Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/). Mais longe, o roaz-corvineiro e o
+      falcão-peregrino ligam Scandola ao [Parque Nacional de Kornati](/lugar/nacionalni-park-kornati/) e ao
+      [Parque Natural do Cap de Creus](/lugar/parc-natural-del-cap-de-creus/); o roaz-corvineiro surge
+      igualmente junto ao [Planalto Cársico e Arribas de La Mola](/lugar/la-mola-formentera/).
+fuentes:
+  - url: https://www.pnr.corsica/fr/patrimoine-naturel-culturel/gestion-des-sites/scandola
+    titulo: Scandola
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_de_Scandola
+    titulo: Réserve naturelle de Scandola — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/LA-RESERVE-NATURELLE-DE-SCANDOLA
+    titulo: La réserve naturelle de Scandola — Agence du Tourisme de la Corse
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Scandola_Natural_Reserve,_Corsica_(8132792420).jpg
+    autor: Michal Osmenda from Brussels, Belgium
+    licencia: CC BY 2.0
+    url_licencia: https://creativecommons.org/licenses/by/2.0
+    fecha_descarga: '2026-10-03'

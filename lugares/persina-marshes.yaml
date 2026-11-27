@@ -1,0 +1,512 @@
+id: persina-marshes
+estado_editorial: valoracion-revisada
+nombre:
+  es: Humedales de Persina
+  en: Persina Marshes
+  fr: Zones humides de Persina
+  de: Persina-Feuchtgebiete
+  it: Zone umide di Persina
+  pt: Zonas Húmidas de Persina
+nombre_original: Persina Marshes
+alias:
+  - Persina Marshes
+paises:
+  - BG
+region:
+  es: Provincia de Pleven (Belene)
+  en: Pleven Province (Belene)
+  fr: Oblast de Pleven (Belene)
+  de: Provinz Plewen (Belene)
+  it: Provincia di Pleven (Belene)
+  pt: Província de Pleven (Belene)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 43.66
+  lon: 25.15
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 176774
+  nombre_en_la_fuente: Persina
+  categoria_uicn: V
+  capa: capas/cdda/persina-marshes.geojson
+habitats:
+  - wetland
+  - river_corridor
+designaciones:
+  - natural_park
+  - ramsar
+especies:
+  - pelecanus_crispus
+  - haliaeetus_albicilla
+  - ciconia_nigra
+proyectos:
+  - danubeparks
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: da aprile a ottobre
+  pt: abril a outubro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Visita — punto de información Ramsar de la isla Persin
+    url: https://wildisland.danubeparks.org/news-media/detail/news/ramsar-information-point-on-persin-island/
+enlaces_referencia:
+  - titulo: Wikipedia — Parque Natural Persina
+    url: https://en.wikipedia.org/wiki/Persina_Nature_Park
+resumen:
+  es: Parque Natural que engloba las islas fluviales de la cuenca del Danubio búlgaro y sus marismas inundables.
+  en: Nature park embracing the Danube river islands of northern Bulgaria and their dynamic floodplain wetlands.
+  fr: Parc naturel englobant les îles fluviales du cours bulgare du Danube et leurs marais alluviaux inondables.
+  de: Naturpark über den Flussinseln der bulgarischen Donau und ihren weitläufigen Überschwemmungsauen.
+  it: >-
+    Parco naturale che comprende le isole fluviali del Danubio bulgaro e le loro paludi periodicamente
+    allagate.
+  pt: Parque natural que abrange as ilhas fluviais do Danúbio búlgaro e os seus sapais e várzeas inundáveis.
+unico:
+  es: Es el único parque natural a lo largo del valle búlgaro del Danubio.
+  en: The only nature park established along the Bulgarian stretch of the Danube valley.
+  fr: Le seul parc naturel établi le long de la vallée bulgare du Danube.
+  de: Der einzige Naturpark entlang des gesamten bulgarischen Donautals.
+  it: L'unico parco naturale istituito lungo l'intero corso bulgaro della valle del Danubio.
+  pt: É o único parque natural instituído ao longo de todo o vale búlgaro do Danúbio.
+observaciones:
+  es: >-
+    Para visitar la isla Persin hace falta un permiso especial, y la visita debe reservarse con un mes de
+    antelación. La ruta en barca se reserva con al menos 15 días de antelación.
+texto:
+  es:
+    intro: >-
+      Una isla de 15 km de largo que el Danubio rodea con dos brazos y que da nombre a todo un parque. Persin
+      es la mayor isla de Bulgaria y la cuarta del Danubio, y alrededor de ella se extiende el Parque Natural
+      Persina, creado el 4 de diciembre de 2000 en tierras de los municipios de Nikopol, Belene y Svishtov. Su
+      misión, conservar y restaurar los humedales del Danubio y mantener las islas en estado natural, tiene un
+      sentido muy concreto: aquí el río todavía se desborda y se mezcla con el bosque.
+    landscape: >-
+      Persina se entiende desde dos ecosistemas. Los bosques inundados que bordean el río y las marismas
+      interiores son los más importantes del parque. En el este de Persin se juntan pantanos, viejos bosques
+      de sauce y álamo, carrizales y eneales.
+
+
+      La isla vive del agua, y del agua dependió siempre. Está formada por sedimentos aluviales; cuando el río
+      crece, parte de ella queda sumergida. Su flora se compone de sauces, álamos y álamos temblones. En la
+      reserva Persinski Blata, las marismas típicas del Danubio conservan su vegetación palustre y protegen la
+      castaña de agua, el ninfoides de flores amarillas y el mordisco de rana.
+    wildlife: >-
+      El año cambia aquí de plumaje. En la época de cría, las rutas en barca ofrecen muchas garzas, cormoranes
+      y espátulas; en invierno, el protagonismo pasa a los pelícanos y a los cisnes. En la isla de Belene
+      viven más de 170 especies de aves acuáticas raras, como el morito, el cormorán pigmeo, el alcaudón chico
+      y la barnacla cuellirroja. En Persinski Blata anidan el cisne vulgar y, en otoño, se concentran cigüeñas
+      negras. Las islas de Kitka y Milka protegen su vegetación original y el hábitat del pigargo europeo.
+
+
+      Además, el parque registra 1 100 especies de animales, con zooplancton, zoobentos y abundantes
+      invertebrados.
+    visit: >-
+      Empieza por el centro de visitantes, en Belene. De allí sale la ruta acuática «En el abrazo del
+      Danubio»: una lancha del parque con seis plazas recorre parte de las islas y pasa junto a una colonia
+      mixta de aves. Sale de la playa del pueblo, cerca del centro.
+
+
+      Si quieres lo más salvaje, hay una ruta especializada en la isla Persin que gira en torno a la
+      restauración de humedales, las marismas interiores y la observación de muchas aves raras y amenazadas,
+      con un experto del parque como guía. Se hace en coche y, en algunos tramos, a pie. Las rutas ciclistas
+      del parque llegan hasta Kaykusha.
+
+
+      En la isla, el parque instala un punto de información Ramsar que sustituirá a una vieja torre de
+      seguimiento, dentro del proyecto LIFE WILDisland.
+    history: >-
+      Hasta 1947 la gente de la zona usó la isla de Belene para el pastoreo, la pesca y, muy poco, la madera.
+      A partir de 1948 sirvió de prisión estatal, y con la presión humana el lugar perdió gran parte de su
+      valor ecológico y de los recursos que daba.
+
+
+      La recuperación empezó con obra. Entre 2002 y 2008 el proyecto del Banco Mundial de restauración de
+      humedales devolvió a la isla Persin el primer humedal del valle búlgaro del Danubio. Un proyecto de 2006
+      reconectó con el río bosques de ribera y humedales antiguos de la isla Belene; después los humedales se
+      llenan con regularidad, se recuperan los peces y aumentan las aves. El 24 de septiembre de 2002 el grupo
+      de islas fue declarado sitio Ramsar, y el Complejo de las islas Belene es hoy una zona de la red Natura
+      de protección de aves.
+    before: >-
+      Para visitar la isla Persin hace falta un permiso especial, y la visita debe reservarse con un mes de
+      antelación. La ruta en barca se reserva con al menos 15 días de antelación.
+    around: >-
+      No hay otros lugares del atlas cerca. A mayor distancia, el [Srebarna Biosphere
+      Reserve](/lugar/srebarna-biosphere-reserve/) y el [Béda-Karapancsa
+      Floodplain](/lugar/beda-karapancsa-floodplain/) comparten con Persina los humedales y corredores
+      fluviales; Srebarna, además, el pigargo europeo, y Béda-Karapancsa, el pigargo europeo y la cigüeña
+      negra. El [Biosphärenreservat Spreewald](/lugar/biospharenreservat-spreewald/) comparte la castaña de
+      agua.
+  en:
+    intro: >-
+      An island 15 km long, embraced by two arms of the Danube, giving its name to an entire protected
+      landscape. Persin is the largest island in Bulgaria and the fourth largest on the Danube, surrounded by
+      Persina Nature Park, established on 4 December 2000 across the municipalities of Nikopol, Belene and
+      Svishtov. Its mission—to preserve and restore Danubian wetlands and maintain the river islands in their
+      natural state—holds tangible meaning here: this is where the river still spills over its banks and
+      mingles freely with the floodplain forest.
+    landscape: >-
+      Persina is shaped by two core ecosystems: the seasonally flooded gallery forests fringing the river and
+      the inland marshes, which form the park's most valuable habitats. On eastern Persin Island, marshes
+      merge with old-growth willow and poplar woodlands, extensive reedbeds and cattail swamps.
+
+
+      The island lives by water and has always depended on its pulse. Composed of soft alluvial silt and
+      gravel, sections submerge whenever the Danube rises. The woodland canopy features white willows, black
+      poplars and aspens. Within the Persinski Blata reserve, classic Danubian floodplain marshes retain their
+      aquatic vegetation, safeguarding water caltrop, yellow floating heart and European frogbit.
+    wildlife: >-
+      The seasons bring shifting plumages. During the breeding season, boat trips offer close views of
+      breeding herons, cormorants and Eurasian spoonbills; in winter, migratory pelicans and swans take pride
+      of place. Belene Island supports more than 170 species of rare waterbirds, including glossy ibis, pygmy
+      cormorant, lesser grey shrike and red-breasted goose. In Persinski Blata, mute swans nest and black
+      storks gather in autumn. The pristine islands of Kitka and Milka preserve original riparian vegetation
+      and nesting habitat for the white-tailed eagle.
+
+
+      Altogether, the park records 1,100 animal species, rich in zooplankton, zoobenthos and diverse aquatic
+      invertebrates.
+    visit: >-
+      Begin at the visitor centre in Belene. From there departs the boat excursion "In the Embrace of the
+      Danube": a six-passenger park launch navigates among the islands, passing close to a bustling mixed
+      heron and cormorant colony. Boats depart from the town riverfront near the centre.
+
+
+      For an immersive wilderness experience, a specialised guided route on Persin Island explores wetland
+      restoration, inland marshes and rare bird observation accompanied by an expert park ranger. It combines
+      driving with short walking stretches. Waymarked cycling routes extend towards Kaykusha.
+
+
+      On the island, the park authority is erecting a dedicated Ramsar information post replacing an older
+      observation tower, as part of the LIFE WILDisland conservation initiative.
+    history: >-
+      Until 1947 local residents used Belene Island for grazing livestock, fishing and small-scale timber
+      harvesting. From 1948 onward it was converted into a state labour camp and high-security prison, and
+      heavy anthropogenic pressure degraded much of its original ecological value.
+
+
+      Recovery began through active habitat restoration. Between 2002 and 2008, a World Bank wetland
+      restoration project reconnected the first Danubian marsh on Persin Island. A 2006 project re-established
+      seasonal flooding in riparian forests and former wetlands on Belene Island; since then, marshes flood
+      reliably, native fish stocks have rebounded and nesting bird populations have grown. On 24 September
+      2002 the island complex was designated a Ramsar site, and the Belene Islands Complex now forms part of
+      the Natura network for bird protection.
+    before: >-
+      Visiting Persin Island requires a special access permit, and arrangements must be booked one month in
+      advance. Boat excursions must be reserved at least 15 days in advance.
+    around: >-
+      There are no other atlas sites nearby. Farther along the Danube, [Srebarna Biosphere
+      Reserve](/lugar/srebarna-biosphere-reserve/) and [Béda-Karapancsa
+      Floodplain](/lugar/beda-karapancsa-floodplain/) share Danubian wetlands and river corridors with
+      Persina; Srebarna also shares the white-tailed eagle, while Béda-Karapancsa shares the eagle and black
+      stork. [Biosphärenreservat Spreewald](/lugar/biospharenreservat-spreewald/) shares water caltrop in
+      low-gradient wetlands.
+  fr:
+    intro: >-
+      Une île de 15 km de long que le Danube enlace de deux bras et qui donne son nom à tout un parc. Persin
+      est la plus grande île de Bulgarie et la quatrième du Danube ; autour d'elle s'étend le parc naturel
+      Persina, créé le 4 décembre 2000 sur le territoire des communes de Nikopol, Belene et Svichtov. Sa
+      mission — préserver et restaurer les zones humides danubiennes et maintenir les îles à l'état sauvage —
+      prend ici tout son sens : c'est l'un des rares endroits où le fleuve déborde encore librement au milieu
+      des forêts alluviales.
+    landscape: >-
+      Persina s'articule autour de deux milieux majeurs : les ripisylves inondables bordant le fleuve et les
+      marais intérieurs, qui constituent le cœur écologique du parc. Dans l'est de l'île de Persin se mêlent
+      marécages, vieilles forêts de saules et peupliers, vastes roselières et cariçaies.
+
+
+      L'île vit au rythme de l'eau, dont elle a toujours dépendu. Bâtie d'alluvions fluviales, elle voit une
+      partie de ses terres submergée lors des crues du fleuve. Sa flore arborescente rassemble saules blancs,
+      peupliers noirs et trembles. Dans la réserve de Persinski Blata, les marais typiques du Danube
+      conservent leur flore aquatique, abritant mâcre nageante, faux-nénuphar jaune et morène des grenouilles.
+    wildlife: >-
+      Les saisons transforment l'avifaune. Pendant la nidification, les sorties en barque permettent
+      d'observer de denses colonies de hérons, cormorans et spatules blanches ; en hiver, pélicans et cygnes
+      prennent le relais. L'île de Belene accueille plus de 170 espèces d'oiseaux d'eau rares, dont l'ibis
+      falcinelle, le cormoran pygmée, la pie-grièche à poitrine rose et la bernache à cou roux. Dans les
+      Persinski Blata niche le cygne tuberculé et se rassemblent les cigognes noires à l'automne. Les îles de
+      Kitka et Milka préservent leur végétation d'origine et le domaine vital du pygargue à queue blanche.
+
+
+      Le parc recense en outre 1 100 espèces animales, avec un riche zooplancton, des communautés benthiques
+      et de multiples invertébrés aquatiques.
+    visit: >-
+      Le point d'accueil principal se trouve à Belene. C'est de là que part l'excursion en bateau « Dans les
+      bras du Danube » : une embarcation du parc de six places fait le tour d'une partie des îles et longe une
+      colonie mixte d'oiseaux aquatiques. Les départs s'effectuent depuis les berges du village, à proximité
+      du centre.
+
+
+      Pour une immersion plus sauvage, un itinéraire spécialisé sur l'île Persin est guidé par un agent du
+      parc pour observer la restauration des zones humides, les marais intérieurs et de nombreuses espèces
+      menacées. Il combine trajet en véhicule et tronçons à pied. Des pistes cyclables balisées rejoignent
+      Kaykusha.
+
+
+      Sur l'île, l'administration du parc installe un point d'information Ramsar remplaçant une ancienne tour
+      d'observation, dans le cadre du projet LIFE WILDisland.
+    history: >-
+      Jusqu'en 1947, les habitants utilisaient l'île de Belene pour le pâturage, la pêche et un prélèvement
+      forestier limité. À partir de 1948, elle fut transformée en camp pénitentiaire d'État, la forte pression
+      humaine lui faisant perdre l'essentiel de sa valeur écologique.
+
+
+      La renaissance s'est faite par de grands travaux écologiques. Entre 2002 et 2008, un programme de la
+      Banque mondiale a permis de restaurer le premier grand marais fluvial de la rive bulgare sur l'île
+      Persin. En 2006, un projet a reconnecté forêts alluviales et anciens bras morts de l'île de Belene ;
+      depuis, les zones humides se remplissent régulièrement, les poissons recolonisent les frayères et les
+      oiseaux augmentent. Le 24 septembre 2002, le complexe insulaire a été classé site Ramsar, et les îles
+      Belene forment aujourd'hui une zone Natura de protection des oiseaux.
+    before: >-
+      L'accès à l'île Persin exige un permis spécial, à réserver un mois à l'avance. La sortie en barque doit
+      être réservée au moins 15 jours à l'avance.
+    around: >-
+      Aucun autre site de l'atlas n'est proche. Plus loin le long du Danube, la [Réserve de biosphère de
+      Srébarna](/lugar/srebarna-biosphere-reserve/) et la [Plaine inondable de
+      Béda-Karapancsa](/lugar/beda-karapancsa-floodplain/) partagent zones humides et dynamique fluviale avec
+      Persina ; Srebarna abrite en outre le pygargue, et Béda-Karapancsa le pygargue et la cigogne noire. La
+      [Réserve de biosphère de Spreewald](/lugar/biospharenreservat-spreewald/) partage la mâcre nageante.
+  de:
+    intro: >-
+      Eine 15 km lange Flussinsel, die die Donau in zwei Armen umfließt und einem ganzen Park seinen Namen
+      leiht. Persin ist die größte Insel Bulgariens und die viertgrößte der Donau; um sie herum erstreckt sich
+      der Naturpark Persina, der am 4. Dezember 2000 auf den Gemarkungen von Nikopol, Belene und Swischtow
+      ausgewiesen wurde. Seine Aufgabe, die Donau-Feuchtgebiete zu renaturieren und die Inseln in naturnahem
+      Zustand zu erhalten, hat einen greifbaren Sinn: Hier tritt der Fluss noch regelmäßig über die Ufer und
+      flutet die Weichholzauen.
+    landscape: >-
+      Persina gliedert sich in zwei Hauptökosysteme: die regelmäßig überfluteten Auwälder entlang des Stroms
+      und die Binnenmarschen, die die wertvollsten Biotope des Parks darstellen. Im Osten der Insel Persin
+      verzahnen sich Altwasser, alte Weiden- und Pappelwälder, dichte Schilfgürtel und Rohrkolbenbestände.
+
+
+      Die Insel lebt vom Wasser und war stets von dessen Rhythmus geprägt. Aufgebaut aus fluvialen Sedimenten,
+      steht ein beträchtlicher Teil bei Hochwasser unter Wasser. Die Baumschicht besteht aus Weiden,
+      Schwarz-Pappeln und Zitter-Pappeln. Im Reservat Persinski Blata bewahren die typischen Donaumarschen
+      ihre Wasserpflanzenwelt und schützen Wassernuss, Seekanne und Froschbiss.
+    wildlife: >-
+      Der Jahreslauf spiegelt sich im Federkleid wider. Zur Brutzeit bieten Bootsfahrten hervorragende
+      Beobachtungsmöglichkeiten für Reiher, Kormorane und Löffler; im Winter rücken Pelikane und Schwäne ins
+      Blickfeld. Die Insel Belene beherbergt über 170 seltene Wasservogelarten, darunter Brauner Sichler,
+      Zwergscharbe, Schwarzstirnwürger und Rothalsgans. In Persinski Blata brütet der Höckerschwan, während im
+      Herbst Schwarzstörche rasten. Die Inseln Kitka und Milka bewahren unberührte Uferwälder und Brutreviere
+      des Seeadlers.
+
+
+      Insgesamt verzeichnet der Park 1 100 Tierarten mit reichhaltigem Zooplankton, Bodenfauna und
+      vielfältigen wirbellosen Wassertieren.
+    visit: >-
+      Ausgangspunkt ist das Besucherzentrum in Belene. Dort beginnt die Bootstour „In der Umarmung der Donau“:
+      Ein parkeigenes Motorboot für sechs Personen befährt Teile der Inseln und passiert eine artenreiche
+      Reiherkolonie. Das Boot legt am Flussufer unweit des Zentrums ab.
+
+
+      Wer die unberührteste Wildnis sucht, wählt eine Fachexkursion auf die Insel Persin mit einem Ranger des
+      Parks, die Einblicke in Moor-Renaturierung, Binnensümpfe und seltene Vogelarten bietet. Sie wird teils
+      mit dem Geländefahrzeug, teils zu Fuß absolviert. Ausgeschilderte Radwege führen bis nach Kaykusha.
+
+
+      Auf der Insel errichtet die Parkverwaltung im Rahmen des LIFE-Projekts WILDisland einen neuen
+      Ramsar-Infopunkt, der einen alten Beobachtungsturm ersetzt.
+    history: >-
+      Bis 1947 nutzte die örtliche Bevölkerung die Insel Belene zur Beweidung, Fischerei und moderaten
+      Holzgewinnung. Ab 1948 diente sie als berüchtigtes Straflager, wodurch das Gebiet unter starkem
+      Nutzungsdruck einen Großteil seines ökologischen Reichtums einbüßte.
+
+
+      Die Erholung begann mit gezielten Renaturierungsmaßnahmen. Zwischen 2002 und 2008 stellte ein Projekt
+      der Weltbank das erste funktionierende Donau-Feuchtgebiet auf der Insel Persin wieder her. Ein
+      Folgeprojekt von 2006 band Auwälder und Altmarschen der Insel Belene wieder an das Flusssystem an;
+      seither fluten Hochwässer die Sümpfe verlässlich, Fischbestände erholten sich und Brutvögel nahmen
+      spürbar zu. Am 24. September 2002 wurde der Inselkomplex als Ramsar-Gebiet ausgewiesen, und die
+      Belene-Inseln bilden heute ein Natura-Vogelschutzgebiet.
+    before: >-
+      Für den Besuch der Insel Persin ist eine Sondergenehmigung erforderlich, die mindestens einen Monat im
+      Voraus beantragt werden muss. Bootstouren sind mindestens 15 Tage im Voraus anzumelden.
+    around: >-
+      In direkter Nachbarschaft liegen keine Atlas-Gebiete. Flussab- und -aufwärts teilen das
+      [Biosphärenreservat Srebarna](/lugar/srebarna-biosphere-reserve/) und die
+      [Béda-Karapancsa-Aue](/lugar/beda-karapancsa-floodplain/) Feuchtgebiete und Donau-Auendynamik mit
+      Persina; Srebarna teilt Seeadler, Béda-Karapancsa Seeadler und Schwarzstorch. Das [Biosphärenreservat
+      Spreewald](/lugar/biospharenreservat-spreewald/) teilt Vorkommen der Wassernuss.
+  it:
+    intro: >-
+      Un'isola lunga 15 km che il Danubio abbraccia con due rami e che dà il nome a un intero parco naturale.
+      Persin è la maggiore isola della Bulgaria e la quarta dell'intero Danubio; attorno ad essa si estende il
+      Parco naturale Persina, istituito il 4 dicembre 2000 sui territori comunali di Nikopol, Belene e
+      Svishtov. La sua missione — tutelare e rinaturare le zone umide del Danubio mantenendo le isole in stato
+      selvaggio — possiede un significato tangibile: qui il grande fiume esonda ancora naturalmente,
+      mescolandosi al bosco alluvionale.
+    landscape: >-
+      Persina si fonda su due ecosistemi portanti: i boschi inondabili che orlano le sponde e le paludi
+      interne, habitat di maggior pregio dell'area protetta. Nella porzione orientale dell'isola di Persin si
+      connettono acquitrini, vecchi boschi di salice e pioppo, canneti ed estese formazioni a tifa.
+
+
+      L'isola vive in simbiosi con l'acqua. Generata da depositi alluvionali, vede parte della propria
+      superficie finire sommersa durante le piene del fiume. Il manto boschivo è costituito da salici bianchi,
+      pioppi neri e pioppi tremuli. Nella riserva Persinski Blata, le tipiche paludi danubiane conservano la
+      vegetazione palustre autoctona tutelando la castagna d'acqua, il ninfòide giallo e il morso di rana.
+    wildlife: >-
+      Il calendario ornitologico muta a ogni stagione. Nel periodo riproduttivo, le escursioni in barca
+      permettono di osservare cospicue colonie di aironi, cormorani e spatole; nei mesi freddi il proscenio è
+      dominato da pellicani e cigni. Sull'isola di Belene stazionano oltre 170 specie di uccelli acquatici
+      rari, tra cui mignattaio, marangone minore, averla cenerina e oca collorosso. A Persinski Blata nidifica
+      il cigno reale e in autunno sostano le cicogne nere. Le isole di Kitka e Milka preservano la vegetazione
+      fluviale primaria e l'habitat riproduttivo dell'aquila di mare.
+
+
+      Il parco recensisce complessivamente 1 100 specie animali, con un ricchissimo popolamento di
+      zooplancton, benthos e invertebrati acquatici.
+    visit: >-
+      Si comincia dal centro visitatori di Belene. Da qui salpa l'itinerario nautico «Nell'abbraccio del
+      Danubio»: un battello del parco da sei posti naviga tra i canali insulari lambendo una vivace colonia
+      mista di uccelli acquatici. Le partenze avvengono dall'attracco cittadino vicino alla sede.
+
+
+      Per gli amanti della natura più selvaggia, un itinerario dedicato sull'isola di Persin illustra il
+      ripristino delle zone umide, le paludi interne e l'avvistamento dell'avifauna minacciata con
+      l'accompagnamento di una guida del parco. Si effettua in fuoristrada e con tratti a piedi. Piste
+      ciclabili segnalate giungono fino a Kaykusha.
+
+
+      Sull'isola, l'ente parco sta allestendo un punto informativo Ramsar in sostituzione di una vecchia
+      torretta, nell'ambito dell'iniziativa LIFE WILDisland.
+    history: >-
+      Fino al 1947 la popolazione locale impiegò l'isola di Belene per il pascolo, la pesca e minimi tagli
+      boschivi. Dal 1948 fu adibita a carcere di massima sicurezza e campo di lavoro statale, e la forte
+      antropizzazione ne compromise pesantemente i valori ecologici.
+
+
+      La rinascita è scaturita da estesi interventi ambientali. Tra il 2002 e il 2008 un progetto della Banca
+      Mondiale per il ripristino delle zone umide ha restituito all'isola di Persin la prima grande palude
+      attiva del Danubio bulgaro. Un intervento del 2006 ha ricollegato al fiume boschi di ripa e bracci morti
+      dell'isola di Belene; da allora le paludi si allagano regolarmente, i pesci si riproducono e l'avifauna
+      prospera. Il 24 settembre 2002 il complesso insulare è stato designato sito Ramsar, e le isole di Belene
+      costituiscono oggi una zona protetta della rete Natura per l'avifauna.
+    before: >-
+      Per accedere all'isola di Persin occorre un permesso speciale, da richiedere con un mese di anticipo. Le
+      uscite guidate in barca vanno prenotate con almeno 15 giorni di anticipo.
+    around: >-
+      Non vi sono siti dell'atlante nelle immediate vicinanze. A maggior raggio, la [Riserva della Biosfera di
+      Srebarna](/lugar/srebarna-biosphere-reserve/) e la [Piana Alluvionale di
+      Béda-Karapancsa](/lugar/beda-karapancsa-floodplain/) condividono ambienti golenali e dinamiche fluviali
+      con Persina; Srebarna accoglie l'aquila di mare, e Béda-Karapancsa l'aquila di mare e la cicogna nera.
+      La [Biosphärenreservat Spreewald](/lugar/biospharenreservat-spreewald/) condivide la castagna d'acqua.
+  pt:
+    intro: >-
+      Uma ilha de 15 km de comprimento que o Danúbio circunda com dois braços e que empresta o nome a todo o
+      parque. Persin é a maior ilha da Bulgária e a quarta maior de todo o Danúbio; em seu redor estende-se o
+      Parque Natural Persina, criado a 4 de dezembro de 2000 nos municípios de Nikopol, Belene e Svishtov. A
+      sua missão — salvaguardar e renaturalizar as zonas húmidas danubianas mantendo as ilhas em estado
+      selvagem — tem aqui um sentido concreto: é onde o rio ainda transborda naturalmente e se funde com as
+      florestas ripícolas.
+    landscape: >-
+      Persina estrutura-se em dois biomas fundamentais: as matas inundáveis ao longo do rio e os sapais
+      interiores, que formam os ecossistemas mais valiosos do parque. No setor oriental da ilha de Persin
+      confluem lagoas, velhos bosques de salgueiro e choupo, canaviais densos e tabuais.
+
+
+      A ilha vive da dinâmica fluvial e dependeu sempre das suas cheias. Composta por aluviões fluviais, fica
+      parcialmente submersa quando o rio sobe. A flora arbórea integra salgueiros-brancos, choupos-negros e
+      choupos-tremedores. Na reserva de Persinski Blata, os sapais típicos do Danúbio preservam a sua
+      vegetação aquática, resguardando a castanha-d'água, o nimfoide-amarelo e a mordidela-de-rã.
+    wildlife: >-
+      O ciclo do ano transforma a avifauna. Na época de nidificação, os passeios de barco revelam colónias
+      povoadas de garças, corvos-marinhos e colhereiros; no inverno, o protagonismo transfere-se para
+      pelicanos e cisnes. Na ilha de Belene registam-se mais de 170 espécies de aves aquáticas raras, como o
+      íbis-preto, o corvo-marinho-pigmeu, o picanço-de-peito-rosado e o ganso-de-pescoço-ruivo. Em Persinski
+      Blata nidifica o cisne-mudo e concentram-se cegonhas-pretas no outono. As ilhas de Kitka e Milka
+      conservam a vegetação primitiva e o território reprodutor da águia-rabalva.
+
+
+      O parque regista ainda 1 100 espécies de animais, com abundante zooplâncton, bentos e invertebrados
+      aquáticos.
+    visit: >-
+      O acesso organiza-se a partir do centro de visitantes, em Belene. Dali parte o percurso fluvial «No
+      Abraço do Danúbio»: uma embarcação do parque para seis pessoas percorre os canais insulares e passa
+      junto a uma movimentada colónia mista de aves aquáticas. Zarpa da margem da vila, perto do centro.
+
+
+      Para quem procura a natureza mais agreste, existe um roteiro especializado na ilha Persin acompanhado
+      por um guia do parque, focado na recuperação de zonas húmidas, sapais interiores e avistamento de aves
+      ameaçadas. Realiza-se em viatura todo-o-terreno com pequenos troços a pé. Percursos cicláveis
+      sinalizados estendem-se até Kaykusha.
+
+
+      Na ilha, a direção do parque está a erguer um posto de informação Ramsar em substituição de uma antiga
+      torre de vigia, no âmbito do projeto LIFE WILDisland.
+    history: >-
+      Até 1947 a população local utilizava a ilha de Belene para pastagem, pesca e corte florestal moderado. A
+      partir de 1948 acolheu um campo de trabalhos forçados e prisão estatal, sofrendo uma forte degradação
+      ecológica.
+
+
+      A recuperação arrancou com intervenções de restauro ambiental. Entre 2002 e 2008, um projeto do Banco
+      Mundial para a reabilitação de zonas húmidas reativou na ilha Persin o primeiro grande sapal do Danúbio
+      búlgaro. Em 2006, outro projeto restabeleceu a ligação ao rio de matas ripícolas e antigos esteiros da
+      ilha de Belene; desde então, as lagoas enchem-se regularmente, as espécies piscícolas recuperaram e as
+      aves proliferam. A 24 de setembro de 2002 o arquipélago foi declarado sítio Ramsar, e o Complexo das
+      Ilhas Belene constitui hoje uma área da rede Natura de proteção de aves.
+    before: >-
+      A deslocação à ilha Persin carece de autorização especial, devendo ser requerida com um mês de
+      antecedência. O passeio de barco deve ser reservado com pelo menos 15 dias de antecedência.
+    around: >-
+      Não existem outros locais do atlas na vizinhança. Mais longe no corredor danubiano, a [Reserva da
+      Biosfera de Srebarna](/lugar/srebarna-biosphere-reserve/) e a [Planície de Inundação de
+      Béda-Karapancsa](/lugar/beda-karapancsa-floodplain/) partilham sapais e dinâmicas fluviais com Persina;
+      Srebarna acolhe a águia-rabalva, e Béda-Karapancsa a águia-rabalva e a cegonha-preta. A [Reserva da
+      Biosfera de Spreewald](/lugar/biospharenreservat-spreewald/) partilha a castanha-d'água.
+fuentes:
+  - url: https://persina.bg/en/
+    titulo: Home - Persina Nature Park - Bulgaria
+    fecha_consulta: '2026-10-04'
+  - url: https://persina.bg/protected-areas
+    titulo: Protected areas - Persina Nature Park - Bulgaria
+    fecha_consulta: '2026-10-04'
+  - url: https://persina.bg/trips
+    titulo: Trips - Persina Nature Park - Bulgaria
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Persina_Nature_Park
+    titulo: Persina Nature Park – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Belene_Island
+    titulo: Belene Island – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BD%D0%B0
+    titulo: Персина – Уикипедия
+    fecha_consulta: '2026-10-04'
+  - url: https://wildisland.danubeparks.org/news-media/detail/news/ramsar-information-point-on-persin-island/
+    titulo: Ramsar information point on Persin Island – DANUBEPARKS WILDisland
+    fecha_consulta: '2026-10-04'
+  - url: https://danubeparks.org/activities/tourism/oportunities/wetland-restoration-and-birdwatching
+    titulo: Wetland restoration and birdwatching – DANUBEPARKS
+    fecha_consulta: '2026-10-04'
+  - url: https://danubeparks.org/activities/tourism/oportunities/in-the-embrace-of-the-danube
+    titulo: In the embrace of the Danube – DANUBEPARKS
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Danube_at_belene.jpg
+    autor: en:User:Preslav
+    licencia: CC BY-SA 3.0
+    url_licencia: http://creativecommons.org/licenses/by-sa/3.0/
+    fecha_descarga: '2026-10-21'

@@ -1,0 +1,616 @@
+id: islas-desertas
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de las Islas Desertas (Madeira)
+  en: Desertas Islands Nature Reserve (Madeira)
+  fr: Réserve naturelle des îles Desertas (Madère)
+  de: Naturreservat Desertas-Inseln (Madeira)
+  it: Riserva naturale delle isole Desertas (Madeira)
+  pt: Reserva Natural das Ilhas Desertas (Madeira)
+nombre_original: Islas Desertas
+alias:
+  - Reserva Natural das Ilhas Desertas
+paises:
+  - PT
+region:
+  es: Región Autónoma de Madeira (Deserta Grande / Bugio / Ilhéu Chão)
+  en: Autonomous Region of Madeira (Deserta Grande / Bugio / Ilhéu Chão)
+  fr: Région autonome de Madère (Deserta Grande / Bugio / Ilhéu Chão)
+  de: Autonome Region Madeira (Deserta Grande / Bugio / Ilhéu Chão)
+  it: Regione Autonoma di Madeira (Deserta Grande / Bugio / Ilhéu Chão)
+  pt: Região Autónoma da Madeira (Deserta Grande / Bugio / Ilhéu Chão)
+ubicacion:
+  tipo: punto
+  lat: 32.55
+  lon: -16.5
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 39816
+  nombre_en_la_fuente: Ilhas Desertas
+  categoria_uicn: Ia
+  capa: capas/cdda/islas-desertas.geojson
+habitats:
+  - coast
+  - marine
+  - steppe
+designaciones:
+  - strict_reserve
+  - natura2000
+especies:
+  - monachus_monachus
+  - pterodroma_deserta
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 0
+masificacion_nota:
+  es: Acceso estrictamente regulado con permiso del Instituto de las Florestas y Conservação da Natureza
+  en: Strictly regulated access with prior permit from the Instituto das Florestas e Conservação da Natureza
+  fr: >-
+    Accès strictement réglementé avec autorisation préalable de l'Instituto das Florestas e Conservação da
+    Natureza
+  de: Streng reglementierter Zugang mit Vorabgenehmigung des Instituto das Florestas e Conservação da Natureza
+  it: >-
+    Accesso rigorosamente regolamentato con autorizzazione preventiva dell'Instituto das Florestas e
+    Conservação da Natureza
+  pt: Acesso estritamente regulado com licença do Instituto das Florestas e Conservação da Natureza
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — IFCN Madeira
+    url: https://ifcn.madeira.gov.pt/
+  - titulo: Gestor — Reserva Natural de Ilhas Desertas
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas.html
+  - titulo: Visita y permisos — Acceso a Ilhas Desertas
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas/como-visitar.html
+  - titulo: Normas — Legislación de Ilhas Desertas
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas/legislacao-aplicavel.html
+resumen:
+  es: >-
+    Archipiélago deshabitado de tres islas volcánicas estrechas (Deserta Grande, Bugio y Chão) santuario
+    estricto de la foca monje del Mediterráneo (*Monachus monachus*).
+  en: >-
+    Uninhabited archipelago of three narrow volcanic islands (Deserta Grande, Bugio, and Chão), a strict
+    sanctuary for the Mediterranean monk seal (*Monachus monachus*).
+  fr: >-
+    Archipel inhabité de trois îles volcaniques effilées (Deserta Grande, Bugio et Chão), sanctuaire intégral
+    du phoque moine de Méditerranée (*Monachus monachus*).
+  de: >-
+    Unbewohnter Archipel aus drei schmalen Vulkaninseln (Deserta Grande, Bugio und Chão), strenges
+    Schutzgebiet für die Mittelmeer-Mönchsrobbe (*Monachus monachus*).
+  it: >-
+    Arcipelago disabitato di tre strette isole vulcaniche (Deserta Grande, Bugio e Chão), santuario integrale
+    della foca monaca mediterranea (*Monachus monachus*).
+  pt: >-
+    Arquipélago desabitado de três ilhas vulcânicas estreitas (Deserta Grande, Bugio e Chão), santuário
+    estrito da foca-monge-do-mediterrâneo (*Monachus monachus*).
+unico:
+  es: >-
+    Aquí se protegió el mar entero para que una pequeña colonia de foca monje del Mediterráneo, el
+    lobo-marinho de los portugueses, tuviera dónde criar.
+  en: >-
+    The surrounding sea was protected in its entirety so that a tiny colony of Mediterranean monk seal—the
+    Portuguese lobo-marinho—would have a safe breeding haven.
+  fr: >-
+    L'ensemble du domaine maritime a été placé sous protection stricte pour offrir une zone de reproduction
+    sûre à une petite colonie de phoque moine, le lobo-marinho des Portugais.
+  de: >-
+    Hier wurde das umgebende Meer vollständig geschützt, damit eine kleine Kolonie der
+    Mittelmeer-Mönchsrobbe—portugiesisch lobo-marinho—einen sicheren Wurfplatz hat.
+  it: >-
+    L'intero mare circostante è stato posto sotto tutela affinché una piccola colonia di foca monaca—il
+    lobo-marinho dei portoghesi—avesse un luogo sicuro dove riprodursi.
+  pt: >-
+    Aqui protegeu-se todo o mar circundante para que uma pequena colónia de foca-monge-do-mediterrâneo, o
+    lobo-marinho dos portugueses, tivesse onde procriar.
+observaciones:
+  es: >-
+    El acceso está estrictamente regulado: sin autorización previa del IFCN no se desembarca. Comprueba los
+    trámites y las condiciones en la web del gestor antes de plantearte el viaje.
+texto:
+  es:
+    intro: >-
+      Desde Madeira, en un día claro, se ven en el horizonte tres perfiles largos y pelados. No tienen pueblos
+      ni cultivos: tienen basalto, viento y una colonia diminuta de [foca monje](/especie/monachus_monachus/)
+      que fue la razón de todo. Las Islas Desertas son un archipiélago deshabitado formado por Ilhéu Chão,
+      Deserta Grande y Bugio, y su reserva natural abarca 12.586 hectáreas de tierra y mar, hasta la
+      batimétrica de los cien metros.
+    landscape: >-
+      Las Desertas nacieron de un volcán. Hace unos 3,5 millones de años formaban una sola isla, parte del
+      mismo edificio volcánico que dio origen a Madeira; después, cuando la actividad cesó, la erosión y el
+      clima fueron troceándola hasta dejar el perfil actual. Por eso en su roca dominan los basaltos, las
+      tobas y las escorias, y por eso el relieve sigue cambiando bajo el viento y el mar.
+
+
+      Cada isla tiene su carácter. Ilhéu Chão es la más pequeña, una meseta de altura casi constante con un
+      faro en el extremo norte. Deserta Grande es la mayor y la más alta: se extiende 11.700 metros y llega a
+      479 de altitud, con grutas excavadas en la roca, pequeñas playas y algunas fajãs. Las dos mayores, Fajã
+      Grande y Fajã da Doca, nacieron de desprendimientos de tierra en 1894. Bugio, larga y estrecha como un
+      arco, es la más accidentada y recortada de las tres.
+
+
+      En la Fajã da Doca, ese mismo deslizamiento dejó una pequeña restinga que forma una buena ensenada. Es
+      el fondeadero oficial de la reserva.
+    wildlife: >-
+      La foca monje es la protagonista, pero no la única. En las aguas costeras viven castanhetas, bogas,
+      sargos, garoupas y el peixe-verde, y en el mar que rodea las islas se observan también varias especies
+      de tortugas y de cetáceos.
+
+
+      El cielo es de las aves marinas. Las Desertas son centro de nidificación de la cagarra, el
+      roque-de-castro, la alma-negra y la [freira-do-bugio](/especie/pterodroma_deserta/). Deserta Grande
+      sostiene la mayor colonia de alma-negra del Atlántico, y la freira-do-bugio nidifica exclusivamente en
+      Bugio. Son aves vulnerables para las que estas islas son uno de los últimos refugios del mundo. Entre
+      las residentes, que se ven todo el año, destacan el corre-caminhos y el canário-da-terra, además de
+      rapaces como el francelho, la manta y la coruja-das-torres.
+
+
+      En tierra, lo pequeño es lo valioso. La tarântula-das-desertas vive solo en el Vale da Castanheira, en
+      el extremo norte de Deserta Grande. Hay unas 50 especies y subespecies de moluscos terrestres, 44 de
+      ellas endémicas. Y la lagartija Teira dugesii mauli es el único reptil terrestre de las islas.
+
+
+      La flora reúne unas 200 especies, de las cuales el 30 % son endemismos de Madeira. Deserta Grande, con
+      más hábitats y más plantas que las otras, guarda dos endemismos exclusivos: la couve-da-rocha y Musschia
+      isambertoi. Desde el nivel del mar hasta los 360 metros crece una vegetación marítima de
+      cenoura-da-rocha, goivo-da-rocha y vaqueira; por encima, hasta los 480 metros en Deserta Grande y Bugio,
+      empieza la zona montañosa.
+    visit: >-
+      No se llega por libre. La actividad principal es la visita guiada por un recorrido interpretativo, y
+      después la observación y la escucha de la vida salvaje. Los visitantes llegan en embarcaciones privadas,
+      marítimo-turísticas o de la Marina, siempre con autorización previa del gestor, el IFCN, que se solicita
+      a través del portal en línea SIMplifica. El gestor no se encarga del transporte para desembarcar en
+      tierra.
+
+
+      Para grupos pedagógicos existe un programa de visitas de educación ambiental: hay que contactar con el
+      IFCN.
+    history: >-
+      Desde el siglo XIV las islas eran conocidas ya por el nombre que llevan hoy, o por el singular Ilha
+      Deserta. Se intentó fundar una colonia portuguesa varias veces y siempre se fracasó: las condiciones
+      eran agrestes y la sequedad, extrema. Entre 1894 y 1971 pertenecieron a dos familias inglesas de
+      Madeira, hasta que el Estado portugués las compró y las convirtió en reserva natural.
+
+
+      La protección total resguarda los ecosistemas de toda la parte terrestre y de la franja marina
+      adyacente; el mar del norte tiene protección parcial. En 1998 la colonia de focas sumaba solo ocho
+      ejemplares, y hoy ronda los cuarenta. La reserva recibió en marzo de 2014 el Diploma Europeo del Consejo
+      de Europa para las áreas protegidas.
+    before: >-
+      El acceso está estrictamente regulado: sin autorización previa del IFCN no se desembarca. Comprueba los
+      trámites y las condiciones en la web del gestor antes de plantearte el viaje.
+    around: >-
+      La [Reserva Natural da Ponta de São Lourenço](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) queda a
+      quince kilómetros, en el extremo oriental de Madeira, y la [Floresta de
+      Laurissilva](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) a dieciocho. Las [Islas
+      Selvajes](/lugar/islas-selvajes/) comparten con las Desertas la cagarra y un mismo mundo de costa y mar
+      abierto.
+  en:
+    intro: >-
+      From Madeira on a clear day, three elongated, barren profiles trace the horizon. They hold no villages
+      and no fields: only basalt, wind, and a tiny colony of [Mediterranean monk
+      seal](/especie/monachus_monachus/) that provided the founding rationale for the reserve. The Desertas
+      Islands are an uninhabited archipelago comprising Ilhéu Chão, Deserta Grande, and Bugio, with a nature
+      reserve encompassing 12,586 hectares of land and sea out to the hundred-metre bathymetric contour.
+    landscape: >-
+      The Desertas were born of volcanism. Around 3.5 million years ago they formed a single landmass, part of
+      the same volcanic volcanic edifice that created Madeira; once volcanic activity waned, marine erosion
+      and weathering carved the relief into its modern contours. Basalts, tuffs, and scoria dominate the
+      strata, and the topography continues shifting under the relentless assault of wind and waves.
+
+
+      Each isle possesses distinct character. Ilhéu Chão is the smallest, a near-horizontal plateau crowned by
+      a lighthouse on its northern tip. Deserta Grande is the largest and highest, extending 11,700 metres and
+      reaching 479 metres in elevation, riddled with sea caves, pocket gravel beaches, and several coastal
+      fajãs. The two largest fajãs, Fajã Grande and Fajã da Doca, originated from massive landslides in 1894.
+      Bugio, narrow and curved like an arch, presents the most rugged and eroded terrain of the trio.
+
+
+      At Fajã da Doca, that same historic rockfall created a small shingle spit sheltering a calm cove,
+      serving as the official anchorage of the nature reserve.
+    wildlife: >-
+      The monk seal commands the spotlight, though it is far from alone. Coastal waters teem with damselfish,
+      bogue, sea breams, groupers, and ornate wrasse, while several sea turtle species and cetaceans regularly
+      patrol the surrounding ocean.
+
+
+      The skies belong to pelagic seabirds. The Desertas represent a vital North Atlantic breeding hub for
+      Cory's shearwater, band-rumped storm petrel, Bulwer's petrel, and the [Desertas
+      petrel](/especie/pterodroma_deserta/). Deserta Grande supports the Atlantic's largest colony of Bulwer's
+      petrel, while the Desertas petrel breeds exclusively on the high plateaus of Bugio. These vulnerable
+      seabirds find on these predator-free cliffs one of their final refuges. Year-round terrestrial residents
+      include Berthelot's pipit and island canary, flanked by raptors such as common kestrel, common buzzard,
+      and western barn owl.
+
+
+      On land, small endemics carry profound ecological weight. The giant Desertas wolf spider (*Hogna
+      ingens*) survives solely in Vale da Castanheira on northern Deserta Grande. About 50 land snail species
+      and subspecies occur, 44 of them endemic to the islands. The Madeira wall lizard (*Teira dugesii mauli*)
+      is the sole terrestrial reptile.
+
+
+      The vascular flora numbers some 200 species, of which 30 % are Madeiran endemics. Deserta Grande
+      preserves two exclusive single-island endemics: *Sinapidendron sempervivifolium* and *Musschia
+      isambertoi*. Maritime halophyte scrub extends from sea level to 360 metres, giving way above 480 metres
+      on Deserta Grande and Bugio to high-altitude mountain vegetation.
+    visit: >-
+      Visiting independently is not allowed. The primary permitted activity is an interpretive guided walk
+      along an established trail, followed by guided observation and listening to wildlife. Visitors arrive
+      via licensed maritime tourism vessels, private yachts, or naval boats, always with prior authorization
+      issued by the managing authority, the IFCN, requested through the SIMplifica online portal. The reserve
+      does not provide boat transport.
+
+
+      Educational groups may apply for dedicated environmental education outings by contacting the IFCN
+      directly.
+    history: >-
+      Navigators documented the islands as early as the fourteenth century under their modern name or as the
+      singular Ilha Deserta. Multiple Portuguese settlement attempts were made, all defeated by severe aridity
+      and barren terrain. Between 1894 and 1971 the islands were owned by two English families of Madeira
+      until the Portuguese state acquired them to create a nature reserve.
+
+
+      Strict total protection encompasses all terrestrial areas and adjacent shallow waters, while northern
+      waters maintain partial protection. In 1998 the seal colony had plummeted to just eight individuals;
+      today it numbers around forty. In March 2014 the reserve was awarded the European Diploma of Protected
+      Areas by the Council of Europe.
+    before: >-
+      Access is strictly regulated: disembarking without prior written authorization from the IFCN is
+      prohibited. Review permit procedures and marine guidelines on the managing authority's website well
+      before your voyage.
+    around: >-
+      The [Ponta de São Lourenço Nature Reserve](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) lies
+      fifteen kilometres away at Madeira's eastern tip, and the [Laurissilva
+      Forest](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) eighteen kilometres. The [Selvagens
+      Islands](/lugar/islas-selvajes/) share with the Desertas Cory's shearwater colonies and an oceanic
+      wilderness setting.
+  fr:
+    intro: >-
+      Depuis Madère, par temps clair, trois silhouettes étirées et arides se détachent à l'horizon. Elles
+      n'abritent ni villages ni cultures : seulement du basalte, le vent et une minuscule colonie de [phoque
+      moine](/especie/monachus_monachus/) qui fut à l'origine de tout. Les îles Desertas forment un archipel
+      inhabité composé d'Ilhéu Chão, Deserta Grande et Bugio, dont la réserve naturelle couvre 12 586 hectares
+      terrestres et marins jusqu'à l'isobathe des cent mètres.
+    landscape: >-
+      Les Desertas sont nées d'un volcan. Il y a environ 3,5 millions d'années, elles constituaient une seule
+      île rattachée au même édifice volcanique que Madère ; après l'extinction de l'activité, l'érosion marine
+      et les éléments ont morcelé le relief jusqu'à leur découpage actuel. Les basaltes, les tufs et les
+      scories dominent la roche, et le modelé continue de changer sous les assauts de la houle et du vent.
+
+
+      Chaque île possède sa personnalité. Ilhéu Chão est la plus petite, un plateau tabulaire d'altitude
+      régulière coiffé d'un phare à son extrémité nord. Deserta Grande est la plus vaste et la plus haute :
+      elle s'étire sur 11 700 mètres et culmine à 479 mètres d'altitude, entaillée de grottes marines, de
+      grèves de galets et de quelques fajãs. Les deux plus grandes, Fajã Grande et Fajã da Doca, sont issues
+      d'éboulements géants survenus en 1894. Bugio, étroite et incurvée en arc, présente le relief le plus
+      escarpé et déchiqueté des trois.
+
+
+      À Fajã da Doca, ce même éboulement a créé un cordon de galets abritant une crique paisible, qui sert de
+      mouillage officiel à la réserve.
+    wildlife: >-
+      Le phoque moine est le héros incontesté, mais nullement le seul hôte. Dans les eaux côtières évoluent
+      castagnoles, bogues, sars, mérous et girelles-paons, tandis que plusieurs espèces de tortues et de
+      cétacés croisent au large de l'archipel.
+
+
+      Le ciel appartient aux oiseaux marins pélagiques. Les Desertas constituent un haut lieu de reproduction
+      pour le puffin cendré, l'océanite de Castro, le pétrel de Bulwer et le [pétrel de
+      Desertas](/especie/pterodroma_deserta/). Deserta Grande héberge la plus grande colonie de pétrel de
+      Bulwer de l'Atlantique, tandis que le pétrel de Desertas niche exclusivement sur les plateaux sommitaux
+      de Bugio. Ce sont des oiseaux très vulnérables dont ces îles forment l'un des ultimes refuges mondiaux.
+      Parmi les sédentaires terrestres se distinguent le pipit de Berthelot et le serin des Canaries, aux
+      côtés de rapaces comme le faucon crécerelle, la buse variable et l'effraie des clochers.
+
+
+      À terre, la rareté prend des formes minuscules. La mygale des Desertas (*Hogna ingens*) ne survit que
+      dans le Vale da Castanheira, au nord de Deserta Grande. On compte environ 50 espèces et sous-espèces de
+      gastéropodes terrestres, dont 44 endémiques. Le lézard de Madère (*Teira dugesii mauli*) constitue
+      l'unique reptile terrestre.
+
+
+      La flore compte environ 200 espèces, dont 30 % sont endémiques de Madère. Deserta Grande recèle deux
+      endémiques exclusifs : *Sinapidendron sempervivifolium* et *Musschia isambertoi*. Du niveau marin
+      jusqu'à 360 mètres s'épanouit une végétation maritime halophile ; au-delà, jusqu'à 480 mètres sur
+      Deserta Grande et Bugio, s'installe la végétation d'altitude.
+    visit: >-
+      L'accès en toute liberté n'est pas autorisé. L'activité principale consiste en une visite accompagnée le
+      long d'un sentier d'interprétation, complétée par l'observation de la faune. Les visiteurs arrivent à
+      bord d'embarcations de tourisme maritime agréées, de bateaux privés ou de la Marine, toujours munis
+      d'une autorisation préalable de l'IFCN obtenue via la plateforme SIMplifica. La réserve ne fournit pas
+      de service de navette maritime.
+
+
+      Pour les groupes scolaires, des programmes pédagogiques d'éducation à l'environnement sont organisés sur
+      demande auprès de l'IFCN.
+    history: >-
+      Dès le XIVe siècle, les îles étaient mentionnées sous leur nom actuel ou sous la forme singulière d'Ilha
+      Deserta. Plusieurs tentatives de colonisation portugaise ont été menées, toutes vouées à l'échec en
+      raison de l'extrême aridité. Entre 1894 et 1971, elles appartinrent à deux familles anglaises de Madère,
+      avant que l'État portugais ne les rachète pour en faire une réserve naturelle.
+
+
+      La protection intégrale préserve les écosystèmes terrestres et la bande marine littorale ; les eaux
+      septentrionales relèvent d'une protection partielle. En 1998, la colonie de phoques moines ne comptait
+      que huit individus ; elle approche aujourd'hui la quarantaine. La réserve a reçu en mars 2014 le Diplôme
+      européen des espaces protégés décerné par le Conseil de l'Europe.
+    before: >-
+      L'accès est strictement réglementé : tout débarquement sans autorisation préalable de l'IFCN est
+      formellement interdit. Renseignez-vous sur les formalités et la réglementation sur le site du
+      gestionnaire avant de concevoir votre excursion.
+    around: >-
+      La [réserve naturelle de Ponta de São Lourenço](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) se
+      trouve à quinze kilomètres, à la pointe orientale de Madère, et la [forêt de lauriers de
+      Madère](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) à dix-huit kilomètres. Les [îles
+      Selvagens](/lugar/islas-selvajes/) partagent avec les Desertas d'immenses colonies de puffins cendrés et
+      un même sanctuaire océanique.
+  de:
+    intro: >-
+      Von Madeira aus zeichnen sich an klaren Tagen drei langgestreckte, kahle Rücken am Horizont ab. Sie
+      kennen weder Dörfer noch Äcker: nur Basalt, Wind und eine winzige Kolonie der
+      [Mittelmeer-Mönchsrobbe](/especie/monachus_monachus/), die der Anlass für alles war. Die Desertas-Inseln
+      sind ein unbewohnter Archipel aus Ilhéu Chão, Deserta Grande und Bugio; ihr Naturreservat umfasst 12.586
+      Hektar Land und Meer bis zur Tiefenlinie von hundert Metern.
+    landscape: >-
+      Die Desertas verdanken ihre Entstehung dem Vulkanismus. Vor rund 3,5 Millionen Jahren bildeten sie eine
+      einzige Insel, Teil desselben Vulkangebäudes wie Madeira; nach dem Erlöschen der Vulkane formten
+      Verwitterung und Meeresbrandung das heutige Profil heraus. Basalte, Tuffe und Schlacken prägen das
+      Gestein, und die Steilküsten wandeln sich unter dem Ansturm von Wind und Wogen beständig weiter.
+
+
+      Jede Insel besitzt ihr eigenes Gesicht. Ilhéu Chão ist die kleinste, ein ebenmäßiges Plateau mit einem
+      Leuchtturm an der Nordspitze. Deserta Grande ist die größte und höchste: Sie erstreckt sich über 11.700
+      Meter und erreicht 479 Meter Höhe, durchsetzt von Brandungshöhlen, kleinen Kiesstränden und Fajãs. Die
+      beiden größten, Fajã Grande und Fajã da Doca, entstanden 1894 durch gewaltige Bergrutsche. Bugio, schmal
+      und wie ein Bogen geschwungen, ist die zerklüftetste der drei Inseln.
+
+
+      An der Fajã da Doca hinterließ jener Erdrutsch eine Geröllzunge, die eine geschützte Bucht bildet—den
+      offiziellen Ankerplatz des Reservats.
+    wildlife: >-
+      Die Mönchsrobbe steht im Mittelpunkt, ist aber keineswegs allein. In den Küstengewässern schwimmen
+      Mönchsfische, Gelbstriemen, Brassen, Zackenbarsche und Meerjunker, während Meeresschildkröten und
+      Delfine regelmäßig die Gewässer durchstreifen.
+
+
+      Der Himmel gehört den Hochsee-Meeresvögeln. Die Desertas sind eine herausragende Brutstätte für
+      Gelbschnabel-Sturmtaucher, Madeirawellenläufer, Bulwersturmvogel und den
+      [Desertas-Sturmvogel](/especie/pterodroma_deserta/). Deserta Grande beherbergt die größte Kolonie des
+      Bulwersturmvogels im Atlantik, während der Desertas-Sturmvogel ausschließlich auf Bugio brütet. Diese
+      empfindlichen Arten finden auf den raubfeindfreien Felswänden eine ihrer letzten Zufluchten weltweit.
+      Unter den ganzjährig anwesenden Landvögeln fallen Kanarenpieper und Kanarengirlitz auf, begleitet von
+      Greifvögeln wie Turmfalke, Mäusebussard und Schleiereule.
+
+
+      An Land besitzen kleine Endemiten weltweite Bedeutung. Die Desertas-Tarantel (*Hogna ingens*) lebt
+      ausschließlich im Vale da Castanheira im Norden von Deserta Grande. Es gibt rund 50 Arten und Unterarten
+      von Landschnecken, 44 davon endemisch. Die Madeira-Mauereidechse (*Teira dugesii mauli*) ist das einzige
+      Landsäugetier-Reptil.
+
+
+      Die Flora umfasst rund 200 Arten, davon 30 % Madeira-Endemiten. Deserta Grande hütet zwei
+      Inselendemiten: *Sinapidendron sempervivifolium* und *Musschia isambertoi*. Von Meereshöhe bis 360 Meter
+      gedeiht küstennahe Halophytenvegetation; darüber, bis 480 Meter auf Deserta Grande und Bugio, setzt die
+      montane Flora ein.
+    visit: >-
+      Ein individueller Besuch auf eigene Faust ist ausgeschlossen. Die Hauptaktivität besteht in einer
+      geführten Wanderung entlang des Lehrpfads mit Beobachtung der Tierwelt. Besucher reisen auf lizenzierten
+      Ausflugsbooten, Privatyachten oder Schiffen der Marine an, stets mit schriftlicher Vorabgenehmigung des
+      IFCN über das Portal SIMplifica. Die Reservatsverwaltung stellt keine eigenen Bootstransfers bereit.
+
+
+      Für pädagogische Gruppen gibt es ein Umweltbildungsprogramm nach vorheriger Absprache mit dem IFCN.
+    history: >-
+      Bereits im vierzehnten Jahrhundert waren die Inseln unter ihrem heutigen Namen oder als Ilha Deserta
+      bekannt. Mehrere Versuche portugiesischer Besiedlung scheiterten an der extremen Trockenheit und
+      Unwirtlichkeit. Zwischen 1894 und 1971 befanden sie sich im Besitz zweier englischer Familien aus
+      Madeira, bis der portugiesische Staat sie erwarb und zum Naturreservat erklärte.
+
+
+      Strenger Vollsperrschutz gilt für alle Landflächen und den Ufersaum; der nördliche Seebereich unterliegt
+      partiellem Schutz. 1998 zählte die Robbenkolonie nur noch acht Exemplare; heute nähert sie sich vierzig
+      Tieren. Im März 2014 verlieh der Europarat dem Reservat das Europadiplom für geschützte Gebiete.
+    before: >-
+      Der Zugang ist streng reglementiert: Ohne schriftliche Genehmigung des IFCN ist ein Betreten untersagt.
+      Informiere dich vor Reiseplanung auf der Website der Schutzgebietsverwaltung über Auflagen und
+      Genehmigungsverfahren.
+    around: >-
+      Das [Naturreservat Ponta de São Lourenço](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) liegt
+      fünfzehn Kilometer entfernt an Madeiras Ostspitze, der
+      [Laurisilva-Lorbeerwald](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) achtzehn
+      Kilometer. Die [Selvagens-Inseln](/lugar/islas-selvajes/) teilen mit den Desertas die
+      Gelbschnabel-Sturmtaucher und die unberührte ozeanische Inselwelt.
+  it:
+    intro: >-
+      Da Madeira, nelle giornate limpide, si profilano all'orizzonte tre dorsali allungate e brulle. Non
+      ospitano paesi né coltivazioni: soltanto basalto, vento e una minuscola colonia di [foca
+      monaca](/especie/monachus_monachus/) che è stata la ragione di ogni tutela. Le isole Desertas
+      costituiscono un arcipelago disabitato formato da Ilhéu Chão, Deserta Grande e Bugio; la riserva
+      naturale copre 12.586 ettari tra terra e mare fino all'isobata dei cento metri.
+    landscape: >-
+      Le Desertas traggono origine da un vulcano. Circa 3,5 milioni di anni fa costituivano un'unica isola,
+      parte del medesimo edificio vulcanico che generò Madeira; cessata l'attività eruttiva, l'erosione marina
+      e gli agenti atmosferici ne hanno modellato i profili odierni. Basalti, tufi e scorie dominano la
+      geologia, e il rilievo continua a mutare sotto l'incessante battito del vento e del mare.
+
+
+      Ciascuna isola possiede una propria identità. Ilhéu Chão è la minore, un altopiano pianeggiante
+      sormontato da un faro sulla punta settentrionale. Deserta Grande è la più estesa ed elevata: si allunga
+      per 11.700 metri toccando i 479 metri di quota, traforata da grotte marine, spiaggette di ciottoli e
+      alcune fajãs. Le due maggiori, Fajã Grande e Fajã da Doca, scaturirono da enormi frane nel 1894. Bugio,
+      stretta e arcuata, è la più scoscesa e tormentata del gruppo.
+
+
+      Presso Fajã da Doca, quello stesso crollo ha originato una lingua di ciottoli che racchiude
+      un'insenatura riparata, approdo ufficiale della riserva.
+    wildlife: >-
+      La foca monaca è la protagonista indiscussa, ma non è sola. Nelle acque costiere nuotano castagnole,
+      boghe, saraghi, cernie e donzelle pavonine, mentre tartarughe marine e cetacei solcano assiduamente il
+      mare circostante.
+
+
+      Il cielo è il regno dei volatili pelagici. Le Desertas sono un bastione riproduttivo per berta maggiore,
+      uccello delle tempeste di Castro, berta di Bulwer e [petrello delle
+      Desertas](/especie/pterodroma_deserta/). Deserta Grande accoglie la maggiore colonia atlantica di berta
+      di Bulwer, mentre il petrello delle Desertas nidifica unicamente sui pianori sommitali di Bugio. Si
+      tratta di specie vulnerabili per le quali queste scogliere prive di predatori terrestri rappresentano
+      uno degli ultimi rifugi al mondo. Tra gli stanziali terrestri spiccano pispola di Berthelot e canarino
+      dell'Atlantico, oltre a rapaci quali gheppio, poiana e barbagianni.
+
+
+      A terra, le forme di vita minute racchiudono un immenso valore ecologico. La tarantola delle Desertas
+      (*Hogna ingens*) sopravvive unicamente nel Vale da Castanheira a nord di Deserta Grande. Si contano
+      circa 50 specie e sottospecie di molluschi terrestri, 44 delle quali endemiche. La lucertola di Madeira
+      (*Teira dugesii mauli*) è l'unico rettile terrestre.
+
+
+      La flora annovera circa 200 specie, con un 30 % di endemismi di Madeira. Deserta Grande custodisce due
+      endemismi insulari esclusivi: *Sinapidendron sempervivifolium* e *Musschia isambertoi*. Dal livello del
+      mare fino a 360 metri prospera una vegetazione alofila costiera; al di sopra, fino a 480 metri su
+      Deserta Grande e Bugio, si sviluppa la flora montana.
+    visit: >-
+      Non si accede in autonomia. L'attività principale prevede un'escursione guidata lungo un percorso
+      didattico, affiancata dall'osservazione e dall'ascolto della fauna selvatica. I visitatori sbarcano
+      tramite imbarcazioni turistiche autorizzate, natanti privati o della Marina, sempre muniti di permesso
+      preventivo dell'IFCN richiesto tramite il portale SIMplifica. L'ente gestore non fornisce trasporti
+      marittimi.
+
+
+      I gruppi scolastici possono accedere a programmi didattici di educazione ambientale concordando la
+      visita con l'IFCN.
+    history: >-
+      Fin dal XIV secolo le isole erano designate con il nome attuale o con il singolare Ilha Deserta. I
+      molteplici tentativi di colonizzazione portoghese fallirono tutti per via dell'aridità estrema e del
+      terreno aspro. Tra il 1894 e il 1971 appartennero a due famiglie inglesi di Madeira, fino
+      all'acquisizione da parte dello Stato portoghese che ne decretò la tutela come riserva naturale.
+
+
+      La protezione integrale tutela tutti gli ecosistemi terrestri e la fascia marina costiera; il settore
+      marino settentrionale è a protezione parziale. Nel 1998 la colonia di foche monache contava appena otto
+      esemplari; oggi sfiora la quarantina. Nel marzo 2014 la riserva è stata insignita del Diploma europeo
+      delle aree protette dal Consiglio d'Europa.
+    before: >-
+      L'accesso è rigorosamente disciplinato: senza previa autorizzazione scritta dell'IFCN lo sbarco è
+      vietato. Consulta requisiti e modalità sul portale dell'ente gestore prima di organizzare la
+      navigazione.
+    around: >-
+      La [Riserva naturale di Ponta de São Lourenço](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) si
+      trova a quindici chilometri, all'estremità orientale di Madeira, e la [Foresta di
+      laurisilva](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) a diciotto. Le [Isole
+      Selvagge](/lugar/islas-selvajes/) condividono con le Desertas la berta maggiore e un analogo isolamento
+      oceanico.
+  pt:
+    intro: >-
+      A partir da Madeira, num dia límpido, avistam-se no horizonte três perfis compridos e despidos. Não têm
+      povoações nem lavouras: têm basalto, vento e uma colónia diminuta de
+      [foca-monge-do-mediterrâneo](/especie/monachus_monachus/) que foi o motivo de tudo. As Ilhas Desertas
+      são um arquipélago desabitado constituído pelo Ilhéu Chão, Deserta Grande e Bugio, estendendo-se a sua
+      reserva natural por 12.586 hectares de terra e mar, até à batimétrica dos cem metros.
+    landscape: >-
+      As Desertas nasceram de um vulcão. Há cerca de 3,5 milhões de anos formavam uma única ilha integrada no
+      mesmo edifício vulcânico que deu origem à Madeira; quando a atividade cessou, a erosão marinha e o clima
+      foram desmantelando o relevo até desenharem o perfil contemporâneo. Por isso predominam nos seus
+      estratos os basaltos, os tufos e as escórias, e o relevo continua em mutação sob o embate das vagas e do
+      vento.
+
+
+      Cada ilha tem o seu carácter. O Ilhéu Chão é a mais pequena, um planalto de cota regular encimado por um
+      farol no extremo norte. A Deserta Grande é a maior e mais alta: prolonga-se por 11.700 metros e atinge
+      479 de altitude, rasgada por grutas litorais, pequenas praias de calhaus e algumas fajãs. As duas
+      maiores, a Fajã Grande e a Fajã da Doca, resultaram de deslizamentos maciços em 1894. O Bugio, estreito
+      e recurvado em arco, apresenta o relevo mais acidentado e alcantilado das três.
+
+
+      Na Fajã da Doca, essa mesma derrocada criou uma restinga que delimita uma enseada abrigada, constituindo
+      o ancoradouro oficial da reserva.
+    wildlife: >-
+      A foca-monge assume o papel principal, mas não é a única habitante. Nas águas costeiras ocorrem
+      castanhetas, bogas, sargos, garoupas e o peixe-verde, sendo frequente avistar no mar circundante
+      diversas espécies de tartarugas e cetáceos.
+
+
+      O céu pertence às aves marinhas pelágicas. As Desertas representam um centro vital de nidificação da
+      cagarra, do roque-de-castro, da alma-negra e da [freira-do-bugio](/especie/pterodroma_deserta/). A
+      Deserta Grande acolhe a maior colónia de alma-negra do Atlântico, enquanto a freira-do-bugio nidifica
+      exclusivamente no Bugio. São aves muito vulneráveis para as quais estas escarpas sem predadores
+      representam dos últimos refúgios à escala global. Entre as aves terrestres residentes destacam-se o
+      corre-caminhos e o canário-da-terra, a par de rapinas como o francelho, a manta e a coruja-das-torres.
+
+
+      Em terra, o minúsculo adquire valor incalculável. A tarântula-das-desertas vive unicamente no Vale da
+      Castanheira, no norte da Deserta Grande. Existem cerca de 50 espécies e subespécies de moluscos
+      terrestres, 44 das quais endémicas. A lagartixa-da-madeira (*Teira dugesii mauli*) é o único réptil
+      terrestre.
+
+
+      A flora reúne cerca de 200 espécies, sendo 30 % endemismos da Madeira. A Deserta Grande conserva dois
+      endemismos botânicos exclusivos: a couve-da-rocha e a *Musschia isambertoi*. Do nível do mar até aos 360
+      metros desenvolve-se vegetação halófila marítima de cenoura-da-rocha, goivo-da-rocha e vaqueira; acima
+      desse patamar, até aos 480 metros na Deserta Grande e Bugio, instala-se a vegetação montanhosa.
+    visit: >-
+      Não é permitida a visita livre. A atividade primordial consiste na visita guiada ao longo de um trilho
+      interpretativo, complementada pela observação e escuta da fauna selvagem. Os visitantes desembarcam
+      através de operadoras marítimo-turísticas autorizadas, embarcações privadas ou da Marinha, sempre
+      munidos de autorização prévia emitida pelo IFCN e requerida no portal SIMplifica. O instituto não
+      assegura transporte para terra.
+
+
+      Para grupos escolares organiza-se um programa de visitas de educação ambiental, mediante contacto prévio
+      com o IFCN.
+    history: >-
+      Desde o século XIV que as ilhas figuravam na cartografia com o nome atual ou sob a designação singular
+      de Ilha Deserta. Tentou-se a colonização portuguesa em várias épocas, gorando-se sempre em virtude da
+      secura implacável e das condições agrestes. Entre 1894 e 1971 pertenceram a duas famílias britânicas da
+      Madeira, até à sua aquisição pelo Estado português para criação da reserva natural.
+
+
+      A proteção total salvaguarda toda a área terrestre e a faixa marinha adjacente; o mar setentrional goza
+      de proteção parcial. Em 1998 a colónia de lobos-marinhos contava apenas oito animais, rondando
+      atualmente cerca de quarenta. Em março de 2014 a reserva recebeu o Diploma Europeu do Conselho da Europa
+      para as áreas protegidas.
+    before: >-
+      O acesso é estritamente regulamentado: desembarcar sem autorização prévia do IFCN é interdito. Confirma
+      a tramitação e as normas no portal do gestor antes de planeares a deslocação.
+    around: >-
+      A [Reserva Natural da Ponta de São Lourenço](/lugar/reserva-natural-da-ponta-de-sao-lourenco/) situa-se
+      a quinze quilómetros, no extremo este da Madeira, e a [Floresta de
+      Laurissilva](/lugar/parque-natural-da-madeira---floresta-de-laurissilva/) a dezoito. As [Ilhas
+      Selvagens](/lugar/islas-selvajes/) partilham com as Desertas a cagarra e o mesmo isolamento oceânico.
+fuentes:
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas/sobre.html
+    titulo: Sobre – Reserva Natural das Ilhas Desertas
+    fecha_consulta: '2026-10-29'
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas/valores-naturais.html
+    titulo: Valores Naturais – Ilhas Desertas
+    fecha_consulta: '2026-10-29'
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-desertas/como-visitar.html
+    titulo: Como Visitar – Ilhas Desertas
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Desertas_Islands
+    titulo: Desertas Islands – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://pt.wikipedia.org/wiki/Ilhas_Desertas
+    titulo: Ilhas Desertas – Wikipédia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Desertas_Islands_On_The_Cloudy_Horizon.jpg
+    autor: André Moniz Vieira
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

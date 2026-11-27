@@ -1,0 +1,697 @@
+id: parco-nazionale-della-val-grande
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de la Val Grande
+  en: Val Grande National Park
+  fr: Parc national de la Val Grande
+  de: Nationalpark Val Grande
+  it: Parco Nazionale della Val Grande
+  pt: Parque Nacional da Val Grande
+nombre_original: Parco Nazionale della Val Grande
+alias:
+  - Parco Nazionale della Val Grande
+paises:
+  - IT
+region:
+  es: Piamonte (Verbania / Lago Maggiore / Malesco / Santa Maria Maggiore)
+  en: Piedmont (Verbania / Lake Maggiore / Malesco / Santa Maria Maggiore)
+  fr: Piémont (Verbania / lac Majeur / Malesco / Santa Maria Maggiore)
+  de: Piemont (Verbania / Lago Maggiore / Malesco / Santa Maria Maggiore)
+  it: Piemonte (Verbania / Lago Maggiore / Malesco / Santa Maria Maggiore)
+  pt: Piemonte (Verbania / Lago Maggiore / Malesco / Santa Maria Maggiore)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.03
+  lon: 8.5
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 63645
+  nombre_en_la_fuente: Parco nazionale della Val Grande
+  categoria_uicn: II
+  capa: capas/cdda/parco-nazionale-della-val-grande.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+  - gorge_canyon
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - rupicapra_rupicapra
+  - aquila_chrysaetos
+  - lynx_lynx
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Baja en el interior absoluto del valle (área salvaje sin asentamientos permanentes ni carreteras)
+  en: Low in the deep interior of the valley (wilderness area without permanent settlements or paved roads)
+  fr: Faible au cœur même de la vallée (zone sauvage dépourvue d'habitats permanents et de routes)
+  de: Niedrig im inneren Kern des Tals (Wildnisgebiet ohne Dauersiedlungen und Straßen)
+  it: Bassa nel cuore più interno della valle (area wilderness priva di insediamenti permanenti e strade)
+  pt: Baixa no coração absoluto do vale (área selvagem sem povoações permanentes nem estradas)
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parco Nazionale della Val Grande
+    url: https://www.parcovalgrande.it/
+  - titulo: Normas — Leyes y reglamentos
+    url: https://www.parcovalgrande.it/pagina.php?id=115
+  - titulo: Visita — Información para visitantes
+    url: https://www.parcovalgrande.it/pagina.php?id=2
+  - titulo: Mapa — Cartografía del parque
+    url: https://www.parcovalgrande.it/mappa.php
+  - titulo: Rutas — Recorridos del parque
+    url: https://www.parcovalgrande.it/percorsi.php
+  - titulo: Centros de visitantes — Directorio
+    url: https://www.parcovalgrande.it/centrivisita.php
+resumen:
+  es: >-
+    El área salvaje (*wilderness area*) más grande de los Alpes y de Italia, un valle de cañones impenetrables
+    totalmente reconquistado por la naturaleza.
+  en: >-
+    The largest wilderness area in the Alps and Italy, an impenetrable canyon valley fully reclaimed by wild
+    nature.
+  fr: >-
+    La plus vaste zone sauvage (*wilderness area*) des Alpes et d'Italie, une vallée de gorges impénétrables
+    entièrement reconquise par la nature.
+  de: >-
+    Das größte Wildnisgebiet (*wilderness area*) der Alpen und Italiens, ein unzugängliches Schluchtental, das
+    sich die Natur vollkommen zurückgeholt hat.
+  it: >-
+    L'area selvaggia (*wilderness area*) più vasta delle Alpi e d'Italia, una valle di forre impenetrabili
+    interamente riconquistata dalla natura.
+  pt: >-
+    A maior área selvagem (*wilderness area*) dos Alpes e de Itália, um vale de desfiladeiros impenetráveis
+    totalmente reconquistado pela natureza.
+unico:
+  es: >-
+    Es el mayor territorio salvaje de los Alpes, y lo es porque las personas se marcharon y la montaña
+    recuperó lo suyo.
+  en: >-
+    The most expansive wilderness territory in the Alps, born because human inhabitants departed and nature
+    reclaimed what was rightfully hers.
+  fr: >-
+    Le plus grand territoire sauvage des Alpes, né du départ des hommes et de la reconquête spontanée de la
+    montagne par la forêt.
+  de: >-
+    Das weitläufigste Wildnisgebiet des gesamten Alpenbogens, entstanden, weil die Menschen abwanderten und
+    sich die Natur ihren Raum zurückeroberte.
+  it: >-
+    È il maggiore territorio selvaggio delle Alpi, nato dall'abbandono dell'uomo e dalla riconquista spontanea
+    della foresta sui versanti montani.
+  pt: >-
+    O mais extenso território selvagem dos Alpes, fruto do abandono humano e da recuperação natural da
+    montanha pela floresta.
+observaciones:
+  es: >-
+    El campamento libre está prohibido: si hay que dormir, usa un vivac y, si hay mucha gente, puedes montar
+    la tienda a su lado del atardecer al amanecer. El parque no tiene datos de nieve ni estaciones
+    meteorológicas, así que consulta fuentes locales y el boletín de aludes. Comprueba la apertura de los
+    centros de visita antes de ir.
+texto:
+  es:
+    intro: >-
+      Hay un lugar en los Alpes donde el único pueblo habitado se alcanza a pie por un camino de herradura, o
+      por una carretera tan estrecha y retorcida que son 14 km desde Verbania. Es Cicogna, la «pequeña
+      capital» del Parque Nacional de la Val Grande, y alrededor de él se extiende la zona salvaje más grande
+      de los Alpes y de Italia. No es una naturaleza virgen: es una naturaleza que volvió. Aquí hubo alpes,
+      talas, pastos y cabañas, y cuando la gente se fue el bosque ocupó de nuevo los valles.
+    landscape: >-
+      El parque ocupa 17.021 hectáreas en el Piamonte e incluye la Val Grande entera y la lateral Val Pogallo.
+      Los dos ríos que dan nombre al valle, el Valgrande y el Pogallo, tienen cauces encajados en roca dura,
+      con paredes a plomo, y suben y bajan muy deprisa cuando llueve. De la vieja red de caminos quedan
+      algunos puentes: sin ellos, los torrentes serían barreras infranqueables.
+
+
+      Bajo los pies hay una geología rara. En la Val Grande solo afloran rocas metamórficas, y entre ellas el
+      afloramiento más extenso de los Alpes de corteza continental profunda, la llamada Zona Ivrea-Verbano.
+      Las montañas más características, como el Pedum, el Proman, los Corni di Nibbio, la Cima Sasso y la Cima
+      della Laurasca, son de rocas oscuras, verdes o negruzcas, durísimas: anfibolitas, serpentinitas y
+      peridotitas.
+
+
+      La vegetación cuenta la historia humana. El bosque es joven y bajo, y dominan especies de montaña baja
+      como el castaño, el haya y el avellano. Esa juventud viene de que el abandono de pastos y talas permitió
+      que el bosque recolonizara valles y laderas.
+    wildlife: >-
+      Con tan poca presencia humana, la fauna ha vuelto por su cuenta. Entre las aves hay águila real, halcón
+      peregrino, culebrera europea, gallo lira, francolín y búho real, además de pícidos como el pico negro.
+      Los ungulados, el [rebeco](/especie/rupicapra_rupicapra/), el corzo, el ciervo y el jabalí, forman
+      poblaciones estructuradas, y entre los carnívoros menores viven zorros, garduñas, martas, tejones y
+      comadrejas. En los ríos se ven la trucha común, el cabezudo y, junto al agua, el mirlo acuático y la
+      lavandera cascadeña. Entre los insectos hay un endemismo, el escarabajo Carabus lepontinus, de las
+      laderas del Monte Zeda, y la Rosalia alpina, una especie estrictamente protegida en Europa.
+
+
+      También han vuelto los grandes depredadores. El [lobo](/especie/canis_lupus/) desapareció del norte de
+      Italia hacia 1920 y desde los años sesenta y setenta empezó a bajar de los Apeninos hacia los Alpes; las
+      primeras parejas territoriales cerca de Verbania se documentaron en 2019, y su presencia en la Val
+      Grande se confirmó oficialmente en 2022. El parque registra además un único
+      [oso](/especie/ursus_arctos/), observado por primera vez en 2019 e identificado como M29. Siguen
+      ausentes el lince, la nutria, el gato montés y el turón, aunque el parque no descarta el regreso de
+      alguno.
+    visit: >-
+      El corazón salvaje está en la parte más interna del parque, protegido por un anillo de montañas. Llegar
+      exige varias horas de camino y buen entrenamiento, y algunos senderos son difíciles y no están
+      señalizados. Por eso el parque pide prudencia y acompañantes expertos. Si no conoces el terreno, empieza
+      por los Sentieri Natura, excursiones de dificultad media.
+
+
+      Dos de ellos salen de Cicogna. El de «La civiltà della fatica» sube a Alpe Prà y Leciuri en unas dos
+      horas y media, sin contar paradas ni regreso, entre muros de piedra seca, castaños centenarios e
+      incisiones rupestres, con ocho paneles, cuatro atriles y veinte hitos de observación. El de «All'ombra
+      degli abeti» une Cappella Porta con Pian Cavallone, con ocho paneles interpretativos; el parque lo
+      recomienda de abril a noviembre. Hay también una ruta turística de hora y media a Pian Cavallone desde
+      Gabbio, con 430 metros de desnivel.
+
+
+      Si buscas cumbres, el Monte Zeda y el Pizzo Marona, sobre el Lago Maggiore, se hacen en una jornada
+      moderadamente exigente. La cresta de Casa dell'Alpino a la Bocchetta di Campo, en cambio, es solo para
+      excursionistas con experiencia.
+
+
+      Para dormir en travesía hay vivacs que están siempre abiertos y sin guarda: tienen una estufa de leña,
+      ollas y un tablado, y hay que llevar saco de dormir y comida. Los perros pueden entrar si van siempre
+      atados.
+
+
+      Los centros del parque explican el lugar en cada puerta de entrada: hay cuatro centros de visita, dos
+      museos y un laboratorio geológico. El de Cicogna tiene una muestra gratuita sobre la Val Grande con
+      experiencias interactivas; el de Intragna presenta las Terre di Mezzo y el modo de vida de la montaña; y
+      el Museo Arqueológico de la Piedra Ollar de Malesco repasa su explotación desde la prehistoria hasta la
+      época romana. El parque organiza también excursiones guiadas, actividades didácticas y campos de
+      voluntariado.
+    history: >-
+      La historia de la Val Grande es una sucesión de usos. En el siglo XIV, las canteras de mármol rosa de
+      Candoglia empezaron a abastecer al Duomo de Milán, y con ellas llegó la tala de los bosques del valle. A
+      principios del siglo XX, la madera de las bosques aislados de Pogallo convirtió su alpe en un pueblo
+      activo. Y en julio de 1944 el valle fue refugio de partisanos: un rastrillaje nazifascista dejó unos 300
+      muertos y 208 cabañas quemadas.
+
+
+      El parque se creó en 1992, se amplió en 1998 y en 2023, y su sede está en Vogogna. Dentro hay dos
+      reservas naturales de 1971, la integral Val Grande, de 973 hectáreas, y la orientada Monte Mottac, de
+      2.410. Desde 2018 forma parte de la reserva de la biosfera UNESCO Ticino Val Grande Verbano.
+    before: >-
+      El campamento libre está prohibido: si hay que dormir, usa un vivac y, si hay mucha gente, puedes montar
+      la tienda a su lado del atardecer al amanecer. El parque no tiene datos de nieve ni estaciones
+      meteorológicas, así que consulta fuentes locales y el boletín de aludes. Comprueba la apertura de los
+      centros de visita antes de ir.
+    around: A 29 km queda el [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+  en:
+    intro: >-
+      There is a hidden pocket in the Alps where the sole inhabited hamlet can only be reached on foot via a
+      mule track, or by a road so tortuous and narrow that it takes 14 km from Verbania. That village is
+      Cicogna, the «little capital» of Val Grande National Park, surrounding which stretches the largest
+      wilderness territory in the Alps and in Italy. It is not pristine primeval nature, but rewilded nature:
+      once home to alpine pastures, lumbering, and stonework, when people left, the forest recaptured the
+      valleys.
+    landscape: >-
+      The park protects 17,021 hectares in Piedmont, encompassing the entirety of Val Grande and its lateral
+      tributary Val Pogallo. The two torrents that name the valleys, the Valgrande and Pogallo, cut sheer
+      gorges through hard crystalline bedrock, rising and falling precipitously after rains. Only a few
+      historic stone and iron bridges survive from the old trail network; without them, the mountain torrents
+      would form impassable barriers.
+
+
+      Beneath your boots lies rare geology: Val Grande exposes exclusively metamorphic rocks, featuring the
+      Alps' most extensive surface outcropping of deep continental crust, known as the Ivrea-Verbano Zone.
+      Distinctive peaks such as Pedum, Proman, Corni di Nibbio, Cima Sasso, and Cima della Laurasca are
+      composed of dark, greenish-black, ultra-hard stones: amphibolites, serpentinites, and peridotites.
+
+
+      The vegetation records this human retreat. Forests are comparatively young and dense, dominated by
+      low-montane species like sweet chestnut, beech, and hazel. This young forest took over as abandoned high
+      pastures and cleared slopes returned to natural succession.
+    wildlife: >-
+      With human presence virtually absent, wildlife has recolonized naturally. Birds include golden eagle,
+      peregrine falcon, short-toed snake eagle, black grouse, hazel grouse, and Eurasian eagle-owl, alongside
+      forest specialists like black woodpecker. Ungulates—[chamois](/especie/rupicapra_rupicapra/), roe deer,
+      red deer, and wild boar—maintain healthy breeding herds, while smaller carnivores feature red fox, stone
+      marten, pine marten, European badger, and least weasel. River torrents shelter brown trout, bullhead,
+      white-throated dipper, and grey wagtail. Notable invertebrates include the endemic ground beetle Carabus
+      lepontinus on the flanks of Monte Zeda and the strictly protected Rosalia alpina.
+
+
+      Apex predators have also returned. The [grey wolf](/especie/canis_lupus/) disappeared from northern
+      Italy around 1920, beginning its return during the sixties and seventies from the Apennines into the
+      Alps; the first stable packs near Verbania were confirmed in 2019, with resident status in Val Grande
+      verified in 2022. The park also records a single wandering [brown bear](/especie/ursus_arctos/), first
+      detected in 2019 and catalogued as M29. Lynx, otter, wildcat, and European polecat remain absent, though
+      their natural return is anticipated.
+    visit: >-
+      The wild heart of the park lies in its deepest interior, guarded by a ring of summits. Reaching it
+      demands several hours of vigorous walking and reliable fitness, as interior trails are rugged and
+      unwaymarked. For this reason the park urges caution and recommends certified wilderness guides. Novice
+      hikers should begin with the Sentieri Natura, self-guided paths of moderate grade.
+
+
+      Two nature trails depart from Cicogna: «La civiltà della fatica» climbs to Alpe Prà and Leciuri in about
+      two and a half hours one way, winding past dry-stone terraces, veteran chestnuts, and rock carvings,
+      guided by eight panels, four lecterns, and twenty observation points. «All'ombra degli abeti» connects
+      Cappella Porta with Pian Cavallone with eight interpretive panels, recommended from April to November. A
+      gentler walk of an hour and a half reaches Pian Cavallone from Gabbio with 430 metres of ascent.
+
+
+      For summit panoramic views, Monte Zeda and Pizzo Marona above Lake Maggiore can be climbed in a
+      moderately demanding day trip. In contrast, the knife-edge ridge from Casa dell'Alpino to Bocchetta di
+      Campo is strictly for experienced mountaineers.
+
+
+      For multi-day treks, unstaffed wilderness bivouacs (bivacchi) remain open year-round: each offers a wood
+      stove, cookware, and wooden bunks, requiring visitors to bring sleeping bags and food. Dogs are
+      permitted if kept strictly on a leash.
+
+
+      Park visitor centres explain the territory at each entrance: four visitor centres, two museums, and a
+      geological laboratory. Cicogna offers interactive exhibits on Val Grande; Intragna introduces the Terre
+      di Mezzo and mountain life; and the Soapstone Archaeological Museum in Malesco highlights ancient
+      quarrying from prehistoric to Roman times. The park also runs guided outings, educational workshops, and
+      volunteer conservation camps.
+    history: >-
+      The history of Val Grande is a sequence of human exploitations. In the fourteenth century, the pink
+      marble quarries of Candoglia began supplying the Duomo in Milan, triggering heavy timber logging across
+      the valley. In the early twentieth century, logging in the remote woods of Pogallo turned its high alpe
+      into a bustling logging village. In July 1944 the valley sheltered anti-fascist partisans: a brutal
+      Nazi-fascist roundup left some 300 dead and 208 stone cabins burned.
+
+
+      The national park was established in 1992, expanded in 1998 and 2023, with headquarters in Vogogna. It
+      encompasses two historic 1971 nature reserves: the strict integral reserve of Val Grande (973 hectares)
+      and the guided reserve of Monte Mottac (2,410 hectares). Since 2018 it has been incorporated into the
+      UNESCO Ticino Val Grande Verbano Biosphere Reserve.
+    before: >-
+      Wild camping is prohibited: for overnight stays, use open bivouac shelters; if full, a small tent may be
+      pitched alongside from dusk to dawn. The park operates no weather stations or snow reports; consult
+      local forecasts and regional avalanche bulletins. Verify visitor centre opening times before heading
+      into the mountains.
+    around: At 29 km sits [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+  fr:
+    intro: >-
+      Il existe un recoin des Alpes où l'unique village habité ne s'atteint qu'à pied par un chemin muletier,
+      ou par une route si étroite et sinueuse qu'elle compte 14 km depuis Verbania. C'est Cicogna, la « petite
+      capitale » du parc national de la Val Grande, autour de laquelle s'étend le plus vaste domaine sauvage
+      des Alpes et d'Italie. Ce n'est pas une nature vierge mais une nature réensauvagée : alpages,
+      bûcheronnage, coupes et chalets occupaient autrefois les combes, avant que la forêt ne reprenne
+      possession des lieux.
+    landscape: >-
+      Le parc protège 17 021 hectares dans le Piémont, englobant la Val Grande proprement dite et la vallée
+      latérale de Pogallo. Les deux torrents qui donnent leur nom au territoire, le Valgrande et le Pogallo,
+      coulent au fond de gorges encaissées aux parois abruptes, connaissant des crues soudaines lors des
+      orages. Quelques ponts subsistent du réseau muletier historique : sans eux, les cours d'eau formeraient
+      des verrous infranchissables.
+
+
+      Sous les pas affleure une géologie singulière : la Val Grande n'expose que des roches métamorphiques,
+      constituant le plus vaste affleurement alpin de croûte continentale profonde, la fameuse zone
+      Ivrea-Verbano. Les sommets emblématiques, tels le Pedum, le Proman, les Corni di Nibbio, la Cima Sasso
+      et la Cima della Laurasca, sont sculptés dans des roches sombres, vertes ou noirâtres, d'une extrême
+      dureté : amphibolites, serpentinites et péridotites.
+
+
+      La végétation témoigne de l'histoire humaine : les boisements sont jeunes et denses, dominés par le
+      châtaignier, le hêtre et le noisetier, recolonisant les anciens prés de fauche et coupes abandonnés.
+    wildlife: >-
+      En l'absence d'occupation humaine permanente, la faune a spontanément réinvesti la combe. L'avifaune
+      abrite aigle royal, faucon pèlerin, circaète Jean-le-Blanc, tétras lyre, gélinotte des bois et hibou
+      grand-duc, ainsi que le pic noir. Les ongulés — [chamois](/especie/rupicapra_rupicapra/), chevreuil,
+      cerf élaphe et sanglier — forment des populations stables, tandis que parmi les petits carnivores
+      cohabitent renard, fouine, martre, blaireau et belette. Dans les rivières vivent truite fario, chabot,
+      cincle plongeur et bergeronnette des ruisseaux. Parmi les insectes remarquables figurent un coléoptère
+      endémique du mont Zeda, Carabus lepontinus, et la rosalie des Alpes, espèce strictement protégée.
+
+
+      Les grands prédateurs ont également regagné le massif. Le [loup](/especie/canis_lupus/) avait disparu du
+      nord de l'Italie vers 1920 ; à partir des années soixante et soixante-dix, il a entamé sa reconquête
+      depuis les Apennins vers les Alpes. Les premiers couples territoriaux près de Verbania ont été recensés
+      en 2019, et sa présence au sein du parc a été officialisée en 2022. Le parc signale en outre la présence
+      d'un unique [ours brun](/especie/ursus_arctos/), observé pour la première fois en 2019 et identifié
+      comme M29. Lynx, loutre, chat sauvage et putois demeurent absents à ce jour.
+    visit: >-
+      Le cœur sauvage du parc s'isole au fond de la vallée, verrouillé par une couronne de sommets. Y accéder
+      exige plusieurs heures de marche et une solide condition physique, certains itinéraires étant ardus et
+      non balisés. Le parc invite à la prudence et recommande l'accompagnement par des guides officiels. Pour
+      une première approche, privilégiez les Sentieri Natura de difficulté moyenne.
+
+
+      Deux d'entre eux s'élancent de Cicogna : « La civiltà della fatica » monte à l'Alpe Prà et Leciuri en
+      environ deux heures et demie de marche aller, le long de terrasses de pierre sèche, châtaigniers
+      séculaires et gravures rupestres, jalonné de huit panneaux, quatre pupitres et vingt bornes
+      d'observation. « All'ombra degli abeti » relie Cappella Porta à Pian Cavallone avec huit panneaux
+      didactiques, recommandé d'avril à novembre. Une balade familiale d'une heure et demie rejoint Pian
+      Cavallone depuis Gabbio avec 430 mètres de dénivelé.
+
+
+      Côté cimes, le Monte Zeda et le Pizzo Marona dominant le lac Majeur se gravissent en une journée
+      panoramique modérée. L'arête reliant Casa dell'Alpino à la Bocchetta di Campo s'adresse en revanche
+      exclusivement aux alpinistes aguerris.
+
+
+      Pour bivouaquer, des abris non gardés (bivacchi) restent ouverts en permanence : dotés d'un poêle à
+      bois, d'ustensiles et d'un bas-flanc de couchage, ils imposent d'emporter sac de couchage et vivres. Les
+      chiens sont admis tenus en laisse.
+
+
+      Aux entrées du parc, quatre centres de visiteurs, deux musées et un atelier géologique accueillent le
+      public. Cicogna présente une exposition interactive sur la Val Grande ; Intragna détaille les Terre di
+      Mezzo et la vie montagnarde ; et le musée archéologique de la pierre ollaire de Malesco retrace
+      l'artisanat minéral depuis la préhistoire. Des sorties accompagnées et chantiers de bénévoles sont
+      également programmés.
+    history: >-
+      L'histoire de la Val Grande est une succession d'exploitations humaines. Au XIVe siècle, les carrières
+      de marbre rose de Candoglia approvisionnèrent le dôme de Milan, entraînant l'exploitation forestière
+      intensive des vallées. Au début du XXe siècle, le boisement de Pogallo transforma l'alpage en un bourg
+      forestier animé. En juillet 1944, le massif servit de refuge aux maquisards partisans : un violent
+      ratissage nazi-fasciste fit environ 300 morts et détruisit 208 chalets d'alpage.
+
+
+      Le parc vit le jour en 1992, agrandi en 1998 et 2023, son siège étant établi à Vogogna. Il englobe deux
+      réserves naturelles créées en 1971 : la réserve intégrale de Val Grande (973 hectares) et la réserve
+      orientée du Monte Mottac (2 410 hectares). Depuis 2018, il appartient à la réserve de biosphère UNESCO
+      Ticino Val Grande Verbano.
+    before: >-
+      Le camping sauvage est prohibé : pour passer la nuit, utilisez les bivouacs non gardés ; en cas
+      d'affluence, une tente peut être montée à proximité du crépuscule à l'aube. Le parc ne dispose pas de
+      stations météo locales ; consultez les prévisions régionales et le bulletin d'avalanches avant toute
+      ascension.
+    around: À 29 km s'étend le [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+  de:
+    intro: >-
+      Es gibt einen Ort in den Alpen, dessen einzige bewohnte Ortschaft nur zu Fuß über einen Saumpfad
+      erreichbar ist oder über eine so gewundene und schmale Straße, dass sie 14 km ab Verbania misst. Es ist
+      Cicogna, die «kleine Hauptstadt» des Nationalparks Val Grande; um sie herum erstreckt sich das größte
+      Wildnisgebiet der Alpen und Italiens. Dies ist keine unberührte Urlandschaft, sondern wiedererstandene
+      Wildnis: Wo einst Almen, Rodungen und Steinhütten lagen, hat der Wald nach dem Abwandern der Menschen
+      die Täler zurückerobert.
+    landscape: >-
+      Der Nationalpark schützt 17.021 Hektar im Piemont und umfasst das gesamte Val Grande sowie das Seitental
+      Val Pogallo. Die beiden namensgebenden Wildbäche, Valgrande und Pogallo, fließen in steilen
+      Felsschluchten und schwellen bei Starkregen rasch an. Vom historischen Wegenetz zeugen alte Stein- und
+      Eisenbrücken, ohne die die Bergbäche unpassierbare Hindernisse bildeten.
+
+
+      Unter den Füßen liegt eine geologische Besonderheit: Im Val Grande stehen ausschließlich metamorphe
+      Gesteine an, darunter der größte Oberflächenaufschluss tiefer kontinentaler Erdkruste der gesamten Alpen
+      — die Ivrea-Verbano-Zone. Die markantesten Berge wie Pedum, Proman, Corni di Nibbio, Cima Sasso und Cima
+      della Laurasca bestehen aus dunkelgrünen bis schwarzen, extrem harten Gesteinen: Amphiboliten,
+      Serpentiniten und Peridotiten.
+
+
+      Die Pflanzenwelt spiegelt den menschlichen Rückzug wider: Junge, dichte Wälder aus Edelkastanie,
+      Rotbuche und Hasel breiten sich über ehemals gerodete Hänge und verlassene Weiden aus.
+    wildlife: >-
+      Mangels menschlicher Störung ist die Tierwelt von selbst zurückgekehrt. Unter den Vögeln leben
+      Steinadler, Wanderfalke, Schlangenadler, Birkhuhn, Haselhuhn und Uhu sowie der Schwarzspecht. Das
+      Schalenwild — [Gämse](/especie/rupicapra_rupicapra/), Reh, Hirsch und Wildschwein — bildet stabile
+      Populationen, während an Beutegreifern Fuchs, Steinmarder, Baummarder, Dachs und Wiesel vorkommen. In
+      den Bächen leben Bachforelle, Groppe, Wasseramsel und Gebirgsstelze. Besondere Insektenarten sind der
+      auf Monte Zeda endemische Laufkäfer Carabus lepontinus sowie der streng geschützte Alpenbock.
+
+
+      Auch die großen Beutegreifer sind zurück: Der [Wolf](/especie/canis_lupus/) verschwand um 1920 aus
+      Norditalien und wanderte ab den sechziger und siebziger Jahren aus dem Apennin in die Alpen zurück; die
+      ersten territorialen Paare bei Verbania wurden 2019 bestätigt, seit 2022 ist seine Anwesenheit im Val
+      Grande belegt. Zudem verzeichnet der Park einen einzelnen [Braunbären](/especie/ursus_arctos/), der 2019
+      erstmals gesichtet und als M29 registriert wurde. Luchs, Fischotter, Wildkatze und Iltis fehlen bislang
+      noch.
+    visit: >-
+      Das wilde Herz des Parks verbirgt sich im Talinneren, abgeschirmt von einem Kranz steiler Gipfel. Es zu
+      erreichen erfordert mehrstündige Märsche und gute Kondition, da mancher Pfad unmarkiert und ausgesetzt
+      ist. Der Park mahnt zur Vorsicht und rät zu geführten Touren mit Nationalparkführern. Einsteigern
+      empfehlen sich die leichteren Sentieri Natura.
+
+
+      Zwei dieser Wege starten in Cicogna: «La civiltà della fatica» steigt zur Alpe Prà und nach Leciuri in
+      etwa zweieinhalb Stunden reiner Gehzeit empor, vorbei an Trockenmauern, Kastanienhainen und
+      Felsritzungen, erklärt an acht Schautafeln, vier Pulten und zwanzig Beobachtungspunkten. «All'ombra
+      degli abeti» verbindet Cappella Porta mit Pian Cavallone mit acht Infotafeln (empfohlen von April bis
+      November). Eine leichte Route führt in anderthalb Stunden ab Gabbio mit 430 Höhenmetern nach Pian
+      Cavallone.
+
+
+      Für Gipfelwanderer bieten Monte Zeda und Pizzo Marona über dem Lago Maggiore aussichtsreiche
+      Tagestouren. Der Grat von Casa dell'Alpino zur Bocchetta di Campo bleibt erfahrenen Alpinisten
+      vorbehalten.
+
+
+      Für Weitwanderungen stehen einfache, unbewirtschaftete Biwakschachteln (bivacchi) ganzjährig offen:
+      Ausgestattet mit Holzofen, Kochgeschirr und Holzpritschen, muss Schlafsack und Verpflegung selbst
+      mitgebracht werden. Hunde sind an der Leine zu führen.
+
+
+      An den Zugängen informieren vier Besucherzentren, zwei Museen und ein Geologielabor: Cicogna bietet eine
+      interaktive Ausstellung; Intragna beleuchtet die Kulturlandschaft der Terre di Mezzo; und das
+      Specksteinmuseum in Malesco zeigt historische Steinverarbeitung von der Urgeschichte bis zur Römerzeit.
+      Führungen und Freiwilligencamps ergänzen das Angebot.
+    history: >-
+      Die Geschichte des Val Grande ist eine Folge wechselnder Nutzungen: Im vierzehnten Jahrhundert
+      belieferten die rosa Marmorbrüche von Candoglia den Mailänder Dom, was zu umfangreichen Holzschlägen
+      führte. Zu Beginn des zwanzigsten Jahrhunderts machte Holzgewinnung die einsame Alm Pogallo zu einem
+      lebhaften Holzfällerdorf. Im Juli 1944 diente das Tal Partisanen als Zuflucht: Eine Razzia forderte rund
+      300 Todesopfer und zerstörte 208 Alphütten.
+
+
+      Der Nationalpark entstand 1992, erweitert 1998 und 2023, mit Sitz in Vogogna. Er umfasst zwei Reservate
+      aus dem Jahr 1971: das Totalreservat Val Grande (973 Hektar) und das Naturreservat Monte Mottac (2.410
+      Hektar). Seit 2018 gehört er zum UNESCO-Biosphärenreservat Ticino Val Grande Verbano.
+    before: >-
+      Freies Zelten ist untersagt: Nutze die offenen Biwaks; bei Überfüllung darf ein Zelt von Sonnenuntergang
+      bis Sonnenaufgang daneben aufgestellt werden. Der Park betreibt keine Wetterstationen; prüfe vorab
+      regionale Wetterberichte und Lawinenlage.
+    around: In 29 km Entfernung liegt der [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+  it:
+    intro: >-
+      C'è un angolo delle Alpi in cui l'unico paese abitato si raggiunge a piedi lungo una mulattiera, oppure
+      tramite una strada così stretta e tortuosa da richiedere 14 km da Verbania. È Cicogna, la «piccola
+      capitale» del Parco Nazionale della Val Grande, attorno alla quale si estende l'area wilderness più
+      ampia dell'arco alpino e d'Italia. Non è una natura vergine ma una natura ritornata: qui vi furono
+      alpeggi, disboscamenti, pascoli e baite, e quando le comunità se ne andarono il bosco ha rioccupato le
+      valli.
+    landscape: >-
+      Il parco tutela 17.021 ettari in Piemonte e comprende l'intera Val Grande e la laterale Val Pogallo. I
+      due corsi d'acqua che battezzano le valli, il Valgrande e il Pogallo, scorrono incassati in gole
+      profonde tra pareti verticali e mutano portata repentinamente in caso di pioggia. Della storica rete di
+      mulattiere restano arditi ponti in pietra e ferro: senza di essi, le forre costituirebbero barriere
+      insormontabili.
+
+
+      Sotto i passi affiora una geologia straordinaria: nella Val Grande compaiono solo rocce metamorfiche,
+      con il più esteso affioramento alpino di crosta continentale profonda, la celebre Zona Ivrea-Verbano.
+      Vette iconiche quali il Pedum, il Proman, i Corni di Nibbio, la Cima Sasso e la Cima della Laurasca sono
+      modellate in rocce scure, verdastre o nerastre, durissime: anfiboliti, serpentiniti e peridotiti.
+
+
+      La vegetazione racconta il ritiro dell'uomo: il bosco è compatto e giovane, dominato da castagno, faggio
+      e nocciolo, che hanno ricolonizzato pascoli e tagli boschivi abbandonati.
+    wildlife: >-
+      Con una presenza umana ridotta ai minimi termini, la fauna è ritornata spontaneamente. Tra i volatili si
+      contano aquila reale, falco pellegrino, biancone, fagiano di monte, francolino di monte e gufo reale,
+      oltre al picchio nero. Gli ungulati — [camoscio alpino](/especie/rupicapra_rupicapra/), capriolo, cervo
+      e cinghiale — mantengono popolazioni stabili, mentre tra i mesocarnivori vivono volpe, faina, martora,
+      tasso e donnola. Nei torrenti nuotano trota fario e scazzone, affiancati da merlo acquaiolo e ballerina
+      gialla. Tra gli insetti compaiono l'endemico Carabus lepontinus sulle pendici del Monte Zeda e la
+      Rosalia alpina, specie a protezione rigorosa.
+
+
+      Sono riapparsi anche i grandi predatori. Il [lupo grigio](/especie/canis_lupus/) scomparve dal nord
+      Italia attorno al 1920 e a partire dagli anni sessanta e settanta ha avviato la risalita dall'Appennino
+      verso le Alpi; i primi branchi stabili presso Verbania sono stati accertati nel 2019 e la presenza in
+      Val Grande è stata formalizzata nel 2022. Il parco documenta inoltre un solo esemplare maschio di [orso
+      bruno](/especie/ursus_arctos/), avvistato nel 2019 e catalogato con la sigla M29. Mancano tuttora lince,
+      lontra, gatto selvatico e puzzola.
+    visit: >-
+      Il cuore selvaggio si nasconde nel settore più interno, cinto da una corona di vette. Raggiungerlo
+      comporta diverse ore di cammino e buon allenamento, con sentieri a tratti impervi e privi di
+      segnaletica. Il parco raccomanda prudenza e suggerisce l'accompagnamento di guide ufficiali. Chi si
+      avvicina per la prima volta può iniziare dai Sentieri Natura, escursioni di media difficoltà.
+
+
+      Due partono da Cicogna: «La civiltà della fatica» sale all'Alpe Prà e a Leciuri in circa due ore e mezza
+      di sola andata tra terrazzamenti, castagni secolari e incisioni rupestri, illustrata da otto pannelli,
+      quattro leggii e venti punti sosta. «All'ombra degli abeti» collega Cappella Porta con Pian Cavallone
+      con otto bacheche didattiche, ideale da aprile a novembre. Un percorso agevole di un'ora e mezza porta a
+      Pian Cavallone da Gabbio superando 430 metri di dislivello.
+
+
+      Per salire in vetta, il Monte Zeda e il Pizzo Marona affacciati sul Lago Maggiore offrono un'escursione
+      panoramica di medio impegno. La cresta dalla Casa dell'Alpino alla Bocchetta di Campo è invece riservata
+      a escursionisti esperti.
+
+
+      Per il pernottamento in quota sono sempre aperti bivacchi incustoditi: provvisti di stufa a legna,
+      stoviglie e tavolato, richiedono sacco a pelo e provviste. I cani sono ammessi al guinzaglio.
+
+
+      Alle porte d'accesso operano quattro centri visita, due musei e un laboratorio geologico: Cicogna
+      propone mostre interattive sulla Val Grande; Intragna illustra le Terre di Mezzo e la vita rurale
+      montana; e il Museo Archeologico della Pietra Ollare a Malesco ripercorre la lavorazione litica dalla
+      preistoria all'epoca romana. Si tengono inoltre escursioni guidate e campi di volontariato.
+    history: >-
+      La vicenda della Val Grande è un susseguirsi di attività umane. Nel Trecento le cave di marmo rosa di
+      Candoglia aprirono i cantieri per il Duomo di Milano, avviando il disboscamento vallivo. A inizio
+      Novecento il legname delle foreste di Pogallo trasformò l'alpeggio in un popoloso villaggio boscaiolo.
+      Nel luglio del 1944 la valle fu teatro della resistenza partigiana: un rastrellamento nazifascista
+      provocò circa 300 caduti e 208 baite incendiate.
+
+
+      Il parco nazionale è nato nel 1992, ampliato nel 1998 e nel 2023, con sede a Vogogna. Al suo interno
+      insistono due riserve naturali del 1971: l'integrale Val Grande (973 ettari) e l'orientata Monte Mottac
+      (2.410 ettari). Dal 2018 fa parte della riserva della biosfera UNESCO Ticino Val Grande Verbano.
+    before: >-
+      Il campeggio libero è vietato: per pernottare si usano i bivacchi aperti o, in caso di esaurimento
+      posti, una tenda montata dal tramonto all'alba. Il parco non dispone di stazioni meteo interne; consulta
+      i bollettini nivometeorologici locali prima di partire.
+    around: A 29 km si estende il [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+  pt:
+    intro: >-
+      Há um recanto nos Alpes onde a única aldeia habitada se atinge a pé por um caminho de ferradura, ou por
+      uma estrada tão estreita e tortuosa que totaliza 14 km desde Verbania. É Cicogna, a «pequena capital» do
+      Parque Nacional da Val Grande, em redor da qual se espalha a maior mancha selvagem dos Alpes e de
+      Itália. Não é uma floresta intocada, mas uma natureza renascida: outrora albergou pastos, cortes de
+      madeira e cabanas de pedra, mas com a saída das populações a mata reconquistou os vales.
+    landscape: >-
+      O parque abrange 17.021 hectares no Piemonte, englobando a Val Grande e o vale lateral de Pogallo. Os
+      dois rios que dão o nome ao vale, o Valgrande e o Pogallo, correm em gargantas talhadas em rocha viva
+      com escarpas a prumo, subindo e descendo de caudal subitamente com as chuvas. Da antiga malha de
+      caminhos sobrevivem algumas pontes: sem elas, as torrentes formariam barreiras intransponíveis.
+
+
+      Sob os pés revela-se uma geologia ímpar: na Val Grande afloram exclusivamente rochas metamórficas,
+      formando o maior afloramento alpino de crusta continental profunda, a chamada Zona Ivrea-Verbano. Os
+      cumes emblemáticos como o Pedum, o Proman, os Corni di Nibbio, a Cima Sasso e a Cima della Laurasca
+      compõem-se de rochas escuras, esverdeadas ou negras, extraordinariamente duras: anfibolitos,
+      serpentinitos e peridotitos.
+
+
+      A cobertura vegetal retrata o recuo humano: o bosque apresenta-se jovem e cerrado, dominado por
+      castanheiros, faias e aveleiras, que colonizaram antigas pastagens e talhões florestais abandonados.
+    wildlife: >-
+      Com escassa presença humana, a fauna regressou pelos seus próprios meios. Nas aves destacam-se a
+      águia-real, o falcão-peregrino, a águia-cobreira, o tetraz-lira, a galinha-do-mato e o bufo-real, além
+      do pica-pau-preto. Os ungulados — [camurça](/especie/rupicapra_rupicapra/), corço, veado e javali —
+      sustentam efectivos estáveis, ao passo que nos carnívoros menores habitam raposas, fuinhas, martas,
+      texugos e doninhas. Nos rios nadam a truta-comum e o peixe-escorpião, patrulhados pelo melro-d'água e
+      pela alvéola-cinzenta. Nos insetos destaca-se um escaravelho endémico do Monte Zeda, Carabus lepontinus,
+      e a protegida Rosalia alpina.
+
+
+      Os grandes predadores também restabeleceram território. O [lobo-cinzento](/especie/canis_lupus/)
+      extinguiu-se no norte de Itália cerca de 1920, tendo encetado a travessia dos Apeninos para os Alpes a
+      partir dos anos sessenta e setenta; as primeiras alcateias perto de Verbania foram documentadas em 2019
+      e a sua permanência na Val Grande confirmada em 2022. O parque regista ainda um único exemplar errante
+      de [urso-pardo](/especie/ursus_arctos/), avistado em 2019 e codificado como M29. Lince, lontra,
+      gato-bravo e tourão continuam ausentes.
+    visit: >-
+      O núcleo selvagem abriga-se na porção mais interior do parque, blindado por uma muralha de montanhas.
+      Aceder-lhe impõe longas horas de caminhada e boa preparação física, dado que certos trilhos são
+      exigentes e desprovidos de sinalética. O parque apela à cautela e aconselha o acompanhamento por guias
+      credenciados. Quem não conhece a zona deve iniciar-se pelos Sentieri Natura, de dificuldade moderada.
+
+
+      Dois trilhos partem de Cicogna: «La civiltà della fatica» sobe à Alpe Prà e a Leciuri em cerca de duas
+      horas e meia de marcha de ida, por socalcos de pedra solta, castanheiros seculares e gravuras rupestres,
+      com oito painéis, quatro atrís e vinte marcos didáticos. «All'ombra degli abeti» une Cappella Porta a
+      Pian Cavallone com oito painéis explicativos, aconselhável de abril a novembro. Uma rota turística de
+      hora e meia conduz a Pian Cavallone a partir de Gabbio com 430 metros de subida.
+
+
+      Para alcançar os cumes, o Monte Zeda e o Pizzo Marona sobre o Lago Maggiore vencem-se numa jornada
+      panorâmica acessível. Já a crista entre a Casa dell'Alpino e a Bocchetta di Campo reserva-se
+      exclusivamente a montanhistas experientes.
+
+
+      Para pernoitas em travessia existem abrigos não guardados (bivacchi) de livre acesso: dotados de fogão a
+      lenha, panelas e estrados de madeira, requerem saco-cama e comida. Os cães são permitidos se mantidos à
+      trela.
+
+
+      Nas portas de entrada funcionam quatro centros de acolhimento, dois museus e um laboratório geológico:
+      Cicogna acolhe uma mostra interativa; Intragna foca-se nas Terre di Mezzo e nas vivências rurais; e o
+      Museu Arqueológico da Pedra-Sabão em Malesco documenta a lavra mineral desde a pré-história à época
+      romana. O parque promove ainda saídas de campo e iniciativas de voluntariado.
+    history: >-
+      A história da Val Grande é uma sucessão de ciclos económicos. No século XIV, as pedreiras de mármore
+      rosa de Candoglia forneceram blocos para o Duomo de Milão, acelerando a desflorestação dos vales. Nos
+      primórdios do século XX, o corte de madeira em Pogallo converteu a remota alpe num agitado povoado
+      madeireiro. Em julho de 1944 o vale acolheu partisanos antifascistas: uma violenta rusga nazi-fascista
+      deixou cerca de 300 mortos e 208 cabanas consumidas pelo fogo.
+
+
+      O parque foi criado em 1992, alargado em 1998 e em 2023, com sede em Vogogna. Engloba duas reservas
+      naturais instituídas em 1971: a reserva integral Val Grande (973 hectares) e a reserva orientada Monte
+      Mottac (2.410 hectares). Desde 2018 integra a Reserva da Biosfera da UNESCO Ticino Val Grande Verbano.
+    before: >-
+      O acampamento livre é proibido: pernoita nos abrigos de montanha; caso estejam lotados, permite-se
+      montar tenda ao lado entre o crepúsculo e a alvorada. O parque não opera estações meteorológicas locais;
+      consulta fontes regionais e os boletins de risco de avalanche antes de subires.
+    around: A 29 km situa-se o [Landschaftspark Binntal](/lugar/landschaftspark-binntal/).
+fuentes:
+  - url: https://parcovalgrande.it/percorsi_dettaglio.php?id_iti=2716
+    titulo: Pian Cavallone (da Intragna)
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/percorsi_dettaglio.php?id_iti=259
+    titulo: All'ombra degli abeti
+    fecha_consulta: '2026-10-24'
+  - url: https://parcovalgrande.it/percorsi_dettaglio.php?id_iti=261
+    titulo: La civiltà della fatica
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/pagina.php?id=16
+    titulo: La Fauna
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/pagina.php?id=104
+    titulo: Monitoraggio della biodiversità animale in ambiente alpino e azioni collegate
+    fecha_consulta: '2026-10-24'
+  - url: https://parcovalgrande.it/pagina.php?id=3
+    titulo: Domande frequenti
+    fecha_consulta: '2026-10-24'
+  - url: https://it.wikipedia.org/wiki/Parco_nazionale_della_Val_Grande
+    titulo: Parco nazionale della Val Grande — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/pagina.php?id=14
+    titulo: Parco Nazionale della Val Grande — La Geologia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/centrivisita.php
+    titulo: Musei e Centri visita — Parco Nazionale della Val Grande
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/centrivisita_dettaglio.php?id=213
+    titulo: Centro Visita di Cicogna — Parco Nazionale della Val Grande
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/centrivisita_dettaglio.php?id=217
+    titulo: Museo Archeologico della Pietra Ollare a Malesco — Parco Nazionale della Val Grande
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/centrivisita_dettaglio.php?id=214
+    titulo: Centro Visita di Intragna — Parco Nazionale della Val Grande
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/pagina.php?id=2
+    titulo: Parco Nazionale della Val Grande — Visitare il Parco
+    fecha_consulta: '2026-10-24'
+  - url: https://www.parcovalgrande.it/pagina.php?id=3
+    titulo: Parco Nazionale della Val Grande — Domande frequenti
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Corni_di_Nibbio_dall%27alpe_Belmello.jpg
+    autor: Mazzaloris95
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

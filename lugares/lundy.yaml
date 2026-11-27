@@ -1,0 +1,671 @@
+id: lundy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Lundy
+  en: Lundy Island
+  fr: Île de Lundy
+  de: Insel Lundy
+  it: Isola di Lundy
+  pt: Ilha de Lundy
+nombre_original: Lundy
+alias:
+  - Lundy
+paises:
+  - GB
+region:
+  es: Inglaterra (Devon / Canal de Bristol / Ilfracombe)
+  en: England (Devon / Bristol Channel / Ilfracombe)
+  fr: Angleterre (Devon / Canal de Bristol / Ilfracombe)
+  de: England (Devon / Bristolkanal / Ilfracombe)
+  it: Inghilterra (Devon / Canale di Bristol / Ilfracombe)
+  pt: Inglaterra (Devon / Canal de Bristol / Ilfracombe)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/3067397
+  nombre_en_la_fuente: Lundy
+  capa: capas/osm/lundy.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - natural_reserve
+especies:
+  - fratercula_arctica
+  - halichoerus_grypus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 2
+masificacion_nota:
+  es: Media en el barco MS Oldenburg procedente de Ilfracombe o Bideford
+  en: Moderate on the MS Oldenburg ferry arriving from Ilfracombe or Bideford
+  fr: Modérée à bord du MS Oldenburg en provenance d’Ilfracombe ou de Bideford
+  de: Mäßig auf dem Fährschiff MS Oldenburg ab Ilfracombe oder Bideford
+  it: Moderata a bordo del traghetto MS Oldenburg in partenza da Ilfracombe o Bideford
+  pt: Média no barco MS Oldenburg a partir de Ilfracombe ou Bideford
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Landmark Trust Lundy Island Official
+    url: https://www.landmarktrust.org.uk/lundyisland/
+  - titulo: Accesos — Llegar al embarque de Lundy
+    url: https://www.landmarktrust.org.uk/lundyisland/day-trips/how-to-find-us/
+  - titulo: Avisos y transportes — Calendario de travesías
+    url: https://www.landmarktrust.org.uk/lundyisland/timetable/
+  - titulo: Rutas — Senderismo en Lundy
+    url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/activities/walking/
+  - titulo: Mapa — Isla de Lundy
+    url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/map/
+  - titulo: Normas — Código de conducta y zona marina protegida
+    url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/wildlife/below-the-waves/marine-protected-area/
+resumen:
+  es: >-
+    Meseta granítica de 5 km de longitud en el Canal de Bristol, la primera Zona de Conservación Marina
+    declarada en el Reino Unido.
+  en: >-
+    Granite plateau 5 km in length in the Bristol Channel, the first designated Marine Conservation Zone in
+    the United Kingdom.
+  fr: >-
+    Plateau granitique de 5 km de long dans le canal de Bristol, première zone de conservation marine désignée
+    au Royaume-Uni.
+  de: >-
+    Ein 5 km langes Granitplateau im Bristolkanal und die erste ausgewiesene Meeresschutzzone des Vereinigten
+    Königreichs.
+  it: >-
+    Altopiano granitico lungo 5 km nel Canale di Bristol, la prima Zona di Conservazione Marina istituita nel
+    Regno Unito.
+  pt: >-
+    Planalto granítico de 5 km de comprimento no Canal de Bristol, a primeira Zona de Conservação Marinha
+    declarada no Reino Unido.
+unico:
+  es: >-
+    Una isla de 5 km donde conviven la única planta endémica, la col de Lundy, con aves marinas que anidan por
+    miles y una reserva marina que fue la primera de Inglaterra.
+  en: >-
+    An island 5 km long where its sole endemic plant, the Lundy cabbage, coexists with seabirds nesting by the
+    thousands and a marine reserve that was England’s first.
+  fr: >-
+    Une île de 5 km où cohabitent son unique plante endémique, le chou de Lundy, des milliers d’oiseaux marins
+    nicheurs et une réserve marine qui fut la première d’Angleterre.
+  de: >-
+    Eine 5 km lange Insel, auf der ihre einzige endemische Pflanze, der Lundy-Kohl, neben tausenden nistenden
+    Seevögeln und Englands erstem Meeresschutzgebiet gedeiht.
+  it: >-
+    Un’isola di 5 km dove convivono la sua unica pianta endemica, il cavolo di Lundy, uccelli marini che
+    nidificano a migliaia e una riserva marina che fu la prima d’Inghilterra.
+  pt: >-
+    Uma ilha de 5 km onde coexistem a sua única planta endémica, a couve-de-Lundy, milhares de aves marinhas
+    nidificantes e uma reserva marinha que foi a primeira de Inglaterra.
+observaciones:
+  es: >-
+    Los frailecillos, araos, gaviotas tridáctilas, pardelas pichonetas y alcas están protegidos en la isla. No
+    te acerques a una cría de foca sola y usa prismáticos en vez de acercarte a las focas. Comprueba los
+    horarios de las travesías antes de ir.
+texto:
+  es:
+    intro: >-
+      Lundy significa «isla de los frailecillos», y el nombre no es un adorno. Esta roca de granito, de unos 5
+      km de largo y apenas 1 km de ancho, flota a 19 km de la costa del norte de Devon, en la boca del Canal
+      de Bristol, y es la mayor isla de ese canal. Aquí el océano y el canal se encuentran, el viento sopla
+      casi siempre y la niebla aparece a menudo. Lo que parece un lugar duro es, en realidad, un refugio:
+      miles de aves marinas anidan en sus acantilados y las focas crían en sus calas.
+    landscape: >-
+      La isla es sobre todo granito del Paleoceno, con pizarra en el extremo sur. Arriba hay una meseta;
+      abajo, acantilados que caen al mar. Es un sitio escarpado y a menudo envuelto en niebla, por eso ha sido
+      escenario de muchos naufragios y por eso conserva faros: dos activos, construidos en 1897, y uno más
+      antiguo que ya no funciona.
+
+
+      El clima es suave, pero no manso. Los inviernos son frescos y húmedos, los veranos suaves y húmedos, y
+      el viento y la niebla se repiten. Aquí crece una rareza botánica: la col de Lundy (Coincya wrightii), la
+      única planta endémica de la isla. Dos invertebrados también son endémicos y se alimentan de ella: un
+      escarabajo pulga y un gorgojo.
+
+
+      Bajo el agua, el paisaje es otro. En la costa oriental, más resguardada, hay bancos de arena y
+      arrecifes, y las aguas de Lundy guardan muchas especies raras: algas, esponjas ramificadas, gorgonias y
+      corales de copa.
+    wildlife: >-
+      Entre abril y julio, los acantilados occidentales se llenan de aves marinas reproductoras: diez especies
+      vuelven a criar aquí. Frailecillos, araos, gaviotas tridáctilas, pardelas pichonetas y alcas están
+      protegidos en la isla. Los [frailecillos](/especie/fratercula_arctica/) anidan entre abril y julio, y
+      sus puntos de observación son Jenny’s Cove y St. Phillip's Stone. Las [pardelas
+      pichonetas](/especie/puffinus_puffinus/) llegan para criar de abril a septiembre y en invierno vuelan
+      hacia Sudamérica. En los acantilados anidan también [alcas](/especie/alca_torda/),
+      [araos](/especie/uria_aalge/), [gaviotas tridáctilas](/especie/rissa_tridactyla/) y
+      [fulmares](/especie/fulmarus_glacialis/); y hay poblaciones menores de [halcón
+      peregrino](/especie/falco_peregrinus/) y de cuervo.
+
+
+      La historia reciente de estas colonias es una buena noticia. Las ratas, y quizá la pesca comercial de
+      anguilas de arena, el alimento principal de los frailecillos, habían reducido su población. Desde que se
+      eliminaron las ratas en 2006, las aves marinas han aumentado: en 2023 había 1.355 frailecillos y 25.000
+      pardelas pichonetas, el 95 % de la población reproductora de Inglaterra. Desde 2014, además, el [paíño
+      europeo](/especie/hydrobates_pelagicus/) ha colonizado la isla.
+
+
+      Como Lundy está en rutas migratorias importantes, también atrae a aves vagabundas, sobre todo de
+      Norteamérica: su lista suma 317 especies.
+
+
+      En tierra viven mamíferos introducidos: una raza de pony salvaje, el pony de Lundy, ovejas Soay, ciervos
+      sika, cabras asilvestradas y conejos. Y en la orilla, la [foca gris](/especie/halichoerus_grypus/). Las
+      crías nacen generalmente entre septiembre y noviembre; si ves una sola, no te acerques. Se la ve en
+      Landing Bay, Brazen Ward y North End, y los prismáticos ayudan a no molestarla.
+
+
+      En el mar, desde los acantilados se ven con regularidad tres cetáceos: el delfín mular, el delfín común
+      y la marsopa común, sobre todo desde la costa sudeste. Más raros son el rorcual aliblanco, el delfín de
+      Risso y el calderón de aleta larga. El tiburón peregrino visita Lundy en verano y puede verse desde
+      mayo; con él, el pez luna y la tortuga laúd, sobre todo en la costa este y solo en los meses cálidos.
+    visit: >-
+      Se llega en barco. El ferry de Lundy navega al menos tres veces por semana desde Bideford o Ilfracombe,
+      y el cruce dura unas dos horas. En la isla, el guarda dirige paseos hasta Jenny’s Cove durante la
+      temporada de cría, para ver las colonias de aves marinas desde el borde.
+
+
+      Si quieres ver frailecillos, planifica entre abril y julio. Si prefieres focas, septiembre y noviembre
+      son los meses de las crías. Y si buscas cetáceos y tiburón peregrino, el verano es tu estación.
+    history: >-
+      El nombre es escandinavo y viene del nórdico antiguo lundi, «frailecillo». Su cementerio de Beacon Hill
+      conserva cuatro piedras inscritas del siglo V o VI. En 1969 el millonario Jack Hayward compró la isla y
+      la donó al National Trust; hoy la gestiona el Landmark Trust.
+
+
+      El mar que la rodea se protege desde 1971 y fue la primera reserva natural marina de Inglaterra, en
+      1986. En enero de 2010 se convirtió en zona de conservación marina, que cubre un rectángulo de 31 km²
+      alrededor de la isla. La propia isla es Sitio de Especial Interés Científico.
+    before: >-
+      Los frailecillos, araos, gaviotas tridáctilas, pardelas pichonetas y alcas están protegidos en la isla.
+      No te acerques a una cría de foca sola y usa prismáticos en vez de acercarte a las focas. Comprueba los
+      horarios de las travesías antes de ir.
+    around: >-
+      Lundy no tiene lugares del atlas cerca, pero comparte foca gris, frailecillo y costa marina con varias
+      islas. La [Isla de Lunga (Islas Treshnish)](/lugar/lunga-treshnish-isles/) es otro santuario de
+      frailecillos y aves marinas, y el [Mingulay](/lugar/mingulay/) y la [Great Blasket Island / An Blascaod
+      Mór](/lugar/great-blasket-island/) comparten con Lundy la foca gris y el frailecillo. La [Reserva
+      Natural de las Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) es otro refugio de aves marinas.
+  en:
+    intro: >-
+      Lundy means "puffin island", and the name is no embellishment. This granite rock, around 5 km long and
+      barely 1 km wide, rises 19 km off the north Devon coast at the mouth of the Bristol Channel, forming the
+      largest island in that waterway. Here ocean and channel meet, the wind blows almost constantly, and fog
+      settles in frequently. What looks like a harsh place is in truth a sanctuary: thousands of seabirds nest
+      on its cliffs and seals breed in its sheltered coves.
+    landscape: >-
+      The island is predominantly Paleocene granite, with slate at its southern tip. Up top lies a plateau;
+      below, sheer cliffs plunging into the sea. It is a rugged place and often cloaked in mist, which is why
+      it has witnessed many shipwrecks and why it retains lighthouses: two active ones, built in 1897, and an
+      older tower no longer in service.
+
+
+      The climate is mild but far from gentle. Winters are cool and damp, summers mild and humid, with wind
+      and fog recurring throughout the year. Here grows a botanical rarity: the Lundy cabbage (Coincya
+      wrightii), the island’s sole endemic plant. Two endemic invertebrates also live exclusively on it: a
+      flea beetle and a weevil.
+
+
+      Beneath the surface, the landscape transforms. Along the more sheltered eastern shore lie sandbanks and
+      reefs, and Lundy’s waters shelter many rare species: seaweeds, branching sponges, seafans, and cup
+      corals.
+    wildlife: >-
+      Between April and July, the western cliffs teem with breeding seabirds: ten species return to raise
+      young here. Puffins, guillemots, kittiwakes, Manx shearwaters, and razorbills are all protected on the
+      island. [Atlantic puffins](/especie/fratercula_arctica/) nest between April and July, with key vantage
+      points at Jenny’s Cove and St. Phillip's Stone. [Manx shearwaters](/especie/puffinus_puffinus/) arrive
+      to breed from April to September before flying to South America for the winter. The sea cliffs also host
+      nesting [razorbills](/especie/alca_torda/), [common murres](/especie/uria_aalge/), [black-legged
+      kittiwakes](/especie/rissa_tridactyla/), and [northern fulmars](/especie/fulmarus_glacialis/), alongside
+      smaller resident populations of [peregrine falcon](/especie/falco_peregrinus/) and raven.
+
+
+      The recent history of these colonies is a true success story. Rats, and perhaps commercial fishing for
+      sandeels—the puffins’ staple food—had decimated their numbers. Since rats were eradicated in 2006,
+      seabird populations have surged: in 2023 there were 1,355 puffins and 25,000 Manx shearwaters,
+      representing 95 % of England’s breeding population. In addition, since 2014 the [European storm
+      petrel](/especie/hydrobates_pelagicus/) has recolonised the island.
+
+
+      Because Lundy lies along major migratory flyways, it also attracts vagrant birds, especially from North
+      America: its island list totals 317 species.
+
+
+      On land live introduced mammals: a feral pony breed, the Lundy pony, Soay sheep, sika deer, feral goats,
+      and rabbits. Along the water’s edge resides the [grey seal](/especie/halichoerus_grypus/). Pups are
+      usually born between September and November; if you spot a lone pup, do not approach. Seals can be seen
+      around Landing Bay, Brazen Ward, and North End, and binoculars help avoid disturbing them.
+
+
+      Out at sea, three cetaceans are regularly observed from the cliff tops: bottlenose dolphin, common
+      dolphin, and harbour porpoise, particularly off the south-eastern coast. Minke whale, Risso’s dolphin,
+      and long-finned pilot whale appear more rarely. The basking shark visits Lundy in summer and can be
+      spotted from May; with it come ocean sunfish and leatherback sea turtles, primarily off the eastern
+      coast during warmer months.
+    visit: >-
+      Access is by sea. The Lundy ferry sails at least three times a week from Bideford or Ilfracombe, and the
+      crossing takes about two hours. On the island, the warden leads guided walks to Jenny’s Cove during the
+      breeding season to view the seabird colonies from the cliff rim.
+
+
+      If you wish to see puffins, plan between April and July. If you prefer seals, September and November are
+      the pupping months. And if you are looking for cetaceans and basking sharks, summer is your season.
+    history: >-
+      The name is Scandinavian and stems from Old Norse lundi, meaning "puffin". Its Beacon Hill cemetery
+      preserves four inscribed stones dating from the fifth or sixth century. In 1969 millionaire Jack Hayward
+      purchased the island and donated it to the National Trust; today it is managed by the Landmark Trust.
+
+
+      The surrounding sea has enjoyed protection since 1971 and became England’s first statutory Marine Nature
+      Reserve in 1986. In January 2010 it was designated a Marine Conservation Zone, spanning a rectangle of
+      31 km² around the island. The island itself is a Site of Special Scientific Interest.
+    before: >-
+      Puffins, guillemots, kittiwakes, Manx shearwaters, and razorbills are protected on the island. Do not
+      approach a lone seal pup and use binoculars rather than walking up to the seals. Check sailing schedules
+      before you travel.
+    around: >-
+      Lundy has no atlas sites in immediate proximity, but shares grey seals, puffins, and marine coastlines
+      with several islands. The [Isle of Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) is another
+      puffin and seabird haven, while [Mingulay](/lugar/mingulay/) and [Great Blasket Island / An Blascaod
+      Mór](/lugar/great-blasket-island/) share grey seals and puffins with Lundy. The [Sept-Îles Nature
+      Reserve](/lugar/reserve-naturelle-des-sept-iles/) is another premier seabird refuge.
+  fr:
+    intro: >-
+      Lundy signifie « île aux macareux », et ce nom n’a rien d’un artifice. Ce bloc de granit, d’environ 5 km
+      de long sur à peine 1 km de large, se dresse à 19 km au large de la côte nord du Devon, à l’embouchure
+      du canal de Bristol, et constitue la plus grande île de ce détroit. Ici l’océan et le canal se
+      rejoignent, le vent souffle presque sans trêve et la brume s’installe fréquemment. Ce lieu d’apparence
+      rude est en vérité un sanctuaire : des milliers d’oiseaux marins nichent sur ses falaises et les phoques
+      mettent bas dans ses criques abritées.
+    landscape: >-
+      L’île est essentiellement formée de granit du Paléocène, avec des schistes à sa pointe sud. Au sommet
+      s’étend un plateau ; en bas, des falaises vertigineuses plongent dans la mer. C’est un relief escarpé et
+      souvent enveloppé de brouillard, ce qui lui valut d’être le théâtre de nombreux naufrages et justifie la
+      présence de phares : deux actifs, édifiés en 1897, et un plus ancien désormais désaffecté.
+
+
+      Le climat est doux mais rude. Les hivers sont frais et pluvieux, les étés tempérés et humides, et le
+      vent comme la brume s’y succèdent. Ici pousse une rareté botanique : le chou de Lundy (Coincya
+      wrightii), unique plante endémique de l’île. Deux invertébrés également endémiques s’en nourrissent
+      exclusivement : une altise et un charançon.
+
+
+      Sous l’eau, le paysage change d’échelle. Sur la côte orientale, mieux abritée, s’étirent des bancs de
+      sable et des récifs, et les fonds de Lundy abritent de nombreuses espèces rares : algues, éponges
+      ramifiées, gorgones et coraux solitaires en coupe.
+    wildlife: >-
+      Entre avril et juillet, les falaises occidentales s’animent d’oiseaux marins nicheurs : dix espèces
+      reviennent s’y reproduire. Macareux, guillemots, mouettes tridactyles, puffins des Anglais et petits
+      pingouins sont tous protégés sur l’île. Les [macareux moines](/especie/fratercula_arctica/) nichent
+      entre avril et juillet, avec pour postes d’observation privilégiés Jenny’s Cove et St. Phillip's Stone.
+      Les [puffins des Anglais](/especie/puffinus_puffinus/) débarquent pour nicher d’avril à septembre avant
+      de migrer vers l’Amérique du Sud en hiver. Sur les falaises nichent aussi le [petit
+      pingouin](/especie/alca_torda/), le [guillemot de Troïl](/especie/uria_aalge/), la [mouette
+      tridactyle](/especie/rissa_tridactyla/) et le [fulmar boréal](/especie/fulmarus_glacialis/), ainsi que
+      de petites populations de [faucon pèlerin](/especie/falco_peregrinus/) et de grand corbeau.
+
+
+      L’histoire récente de ces colonies est exemplaire. Les rats, conjugués peut-être à la pêche commerciale
+      des lançons—nourriture essentielle des macareux—avaient décimé les effectifs. Depuis l’éradication des
+      rats en 2006, les oiseaux de mer ont prospéré : en 2023, on dénombrait 1 355 macareux et 25 000 puffins
+      des Anglais, soit 95 % de la population reproductrice d’Angleterre. De plus, depuis 2014, l’[océanite
+      tempête](/especie/hydrobates_pelagicus/) a recolonisé l’île.
+
+
+      Située sur d’importantes voies migratoires, Lundy attire aussi de nombreux migrateurs égarés, notamment
+      d’Amérique du Nord : sa liste aviaire atteint 317 espèces.
+
+
+      À terre vivent des mammifères introduits : une race de poney rustique, le poney de Lundy, des moutons
+      Soay, des cerfs sika, des chèvres férales et des lapins. Sur le rivage réside le [phoque
+      gris](/especie/halichoerus_grypus/). Les petits naissent généralement entre septembre et novembre ; si
+      vous en voyez un isolé, ne vous approchez pas. On les observe à Landing Bay, Brazen Ward et North End,
+      et des jumelles permettent de ne pas les déranger.
+
+
+      En mer, trois cétacés s’observent régulièrement depuis le haut des falaises : le grand dauphin, le
+      dauphin commun et le marsouin commun, surtout le long de la côte sud-est. Plus rares sont la baleine de
+      Minke, le dauphin de Risso et le globicéphale noir. Le requin pèlerin fréquente Lundy en été et peut
+      être aperçu dès mai ; s’y ajoutent le poisson-lune et la tortue luth, principalement sur la côte est
+      durant les mois les plus chauds.
+    visit: >-
+      On y accède par bateau. Le ferry de Lundy effectue la traversée au moins trois fois par semaine depuis
+      Bideford ou Ilfracombe, pour un trajet d’environ deux heures. Sur place, le garde anime des promenades
+      jusqu’à Jenny’s Cove pendant la saison de reproduction afin d’admirer les colonies d’oiseaux marins
+      depuis la falaise.
+
+
+      Si vous souhaitez voir des macareux, venez entre avril et juillet. Si vous préférez les phoques,
+      septembre et novembre constituent la période des naissances. Et si vous cherchez les cétacés et le
+      requin pèlerin, l’été est la saison idéale.
+    history: >-
+      Le nom est d’origine scandinave et dérive du vieux norrois lundi, « macareux ». Son cimetière de Beacon
+      Hill conserve quatre pierres gravées datant du cinquième ou sixième siècle. En 1969, le millionnaire
+      Jack Hayward racheta l’île pour en faire don au National Trust ; elle est aujourd’hui gérée par le
+      Landmark Trust.
+
+
+      Les eaux environnantes sont protégées depuis 1971 et sont devenues la première réserve naturelle marine
+      d’Angleterre en 1986. En janvier 2010, l’espace a été érigé en zone de conservation marine s’étendant
+      sur un rectangle de 31 km² autour de l’île. L’île elle-même est classée Site d’intérêt scientifique
+      particulier.
+    before: >-
+      Macareux, guillemots, mouettes tridactyles, puffins des Anglais et petits pingouins sont protégés sur
+      l’île. Ne vous approchez pas d’un blanchon seul et observez les phoques aux jumelles plutôt que de les
+      déranger. Vérifiez les horaires de traversée avant votre départ.
+    around: >-
+      Lundy n’a pas d’espaces de l’atlas dans ses environs immédiats, mais partage le phoque gris, le macareux
+      et les côtes battues avec plusieurs îles. L’[Île de Lunga (Îles
+      Treshnish)](/lugar/lunga-treshnish-isles/) est un autre haut lieu pour les macareux et les oiseaux de
+      mer, tandis que [Mingulay](/lugar/mingulay/) et la [Great Blasket Island / An Blascaod
+      Mór](/lugar/great-blasket-island/) partagent avec Lundy le phoque gris et le macareux. La [Réserve
+      Naturelle des Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) constitue un autre sanctuaire majeur.
+  de:
+    intro: >-
+      Lundy bedeutet „Papageitaucherinsel“, und der Name ist kein Zufall. Dieser Granitfelsen, rund 5 km lang
+      und kaum 1 km breit, erhebt sich 19 km vor der Nordküste Devons an der Mündung des Bristolkanals und ist
+      die größte Insel dieser Meerenge. Hier treffen Ozean und Kanal aufeinander, der Wind bläst fast
+      unaufhörlich und oft zieht Nebel auf. Was wie ein unwirtlicher Ort wirkt, ist in Wahrheit ein Refugium:
+      Tausende Seevögel nisten in den Klippen und Robben ziehen in den Buchten ihre Jungen auf.
+    landscape: >-
+      Die Insel besteht überwiegend aus paläozänem Granit mit Schiefer an der Südspitze. Oben erstreckt sich
+      ein Plateau; unten stürzen steile Felswände ins Meer ab. Es ist eine schroffe und oft nebelverhangene
+      Landschaft, weshalb sie Schauplatz zahlreicher Schiffbrüche war und Leuchttürme besitzt: zwei aktive,
+      errichtet im Jahr 1897, sowie einen älteren Turm, der außer Dienst steht.
+
+
+      Das Klima ist mild, aber rau. Die Winter sind kühl und feucht, die Sommer gemäßigt und feucht, begleitet
+      von wiederkehrendem Wind und Nebel. Hier wächst eine botanische Kostbarkeit: der Lundy-Kohl (Coincya
+      wrightii), die einzige endemische Pflanze der Insel. Zwei ebenfalls endemische Wirbellose ernähren sich
+      ausschließlich von ihr: ein Erdfloh und ein Rüsselkäfer.
+
+
+      Unter Wasser eröffnet sich eine ganz andere Welt. An der geschützteren Ostküste finden sich Sandbänke
+      und Riffe, und Lundys Gewässer bergen viele seltene Arten: Algen, Verzweigungsschwämme, Hornkorallen und
+      Kelchkorallen.
+    wildlife: >-
+      Zwischen April und Juli beleben brütende Seevögel die Westklippen: Zehn Arten kehren zur Fortpflanzung
+      hierher zurück. Papageitaucher, Trottellummen, Dreizehenmöwen, Schwarzschnabel-Sturmtaucher und Tordalke
+      stehen auf der Insel unter Schutz. [Papageitaucher](/especie/fratercula_arctica/) nisten zwischen April
+      und Juli; die besten Aussichtspunkte sind Jenny’s Cove und St. Phillip's Stone.
+      [Schwarzschnabel-Sturmtaucher](/especie/puffinus_puffinus/) treffen von April bis September zur Brut ein
+      und ziehen im Winter nach Südamerika. An den Felswänden nisten auch [Tordalk](/especie/alca_torda/),
+      [Trottellumme](/especie/uria_aalge/), [Dreizehenmöwe](/especie/rissa_tridactyla/) und
+      [Eissturmvogel](/especie/fulmarus_glacialis/), begleitet von kleineren Beständen von
+      [Wanderfalke](/especie/falco_peregrinus/) und Kolkrabe.
+
+
+      Die jüngste Geschichte dieser Kolonien ist ein bemerkenswerter Erfolg. Ratten und möglicherweise die
+      kommerzielle Sandaalfischerei—die Hauptnahrung der Papageitaucher—hatten die Bestände dezimiert. Seit
+      der Ausrottung der Ratten im Jahr 2006 sind die Seevogelzahlen stark angestiegen: 2023 zählte man 1.355
+      Papageitaucher und 25.000 Schwarzschnabel-Sturmtaucher, was 95 % der Brutpopulation Englands entspricht.
+      Zudem hat die [Sturmschwalbe](/especie/hydrobates_pelagicus/) seit 2014 die Insel wiederbesiedelt.
+
+
+      Da Lundy an bedeutenden Zugrouten liegt, zieht die Insel auch Irrgäste an, insbesondere aus Nordamerika:
+      Ihre Artenliste umfasst 317 Vogelarten.
+
+
+      An Land leben eingeführte Säugetiere: eine halbwilde Ponyrasse, das Lundy-Pony, Soayschafe, Sikahirsche,
+      verwilderte Ziegen und Kaninchen. An den Ufern lebt die [Kegelrobbe](/especie/halichoerus_grypus/). Die
+      Jungtiere kommen meist zwischen September und November zur Welt; wenn du ein einzelnes Jungtier siehst,
+      nähere dich nicht. Man beobachtet sie in Landing Bay, Brazen Ward und North End, wobei ein Fernglas
+      hilft, sie nicht zu stören.
+
+
+      Auf See lassen sich von den Klippen aus regelmäßig drei Walarten beobachten: Großer Tümmler, Gemeiner
+      Delfin und Gewöhnlicher Schweinswal, vor allem vor der Südostküste. Seltener sind Zwergwal,
+      Rundkopfdelfin und Grindwal. Der Riesenhai besucht Lundy im Sommer und kann ab Mai gesichtet werden;
+      begleitet wird er von Mondfisch und Lederschildkröte, vor allem an der Ostküste während der warmen
+      Monate.
+    visit: >-
+      Die Anreise erfolgt per Schiff. Die Lundy-Fähre verkehrt mindestens dreimal wöchentlich ab Bideford oder
+      Ilfracombe, und die Überfahrt dauert etwa zwei Stunden. Auf der Insel führt der Ranger während der
+      Brutzeit Wanderungen nach Jenny’s Cove durch, um die Seevogelkolonien von der Klippenkante aus zu
+      beobachten.
+
+
+      Wenn du Papageitaucher sehen willst, plane zwischen April und Juli. Bevorzugst du Robben, sind September
+      und November die Monate der Jungtiere. Suchst du Meeressäuger und Riesenhaie, ist der Sommer die beste
+      Zeit.
+    history: >-
+      Der Name ist skandinavischen Ursprungs und stammt vom altnordischen lundi für „Papageitaucher“. Der
+      Friedhof von Beacon Hill bewahrt vier beschriftete Grabsteine aus dem fünften oder sechsten Jahrhundert.
+      1969 kaufte der Millionär Jack Hayward die Insel und schenkte sie dem National Trust; heute wird sie vom
+      Landmark Trust verwaltet.
+
+
+      Das umgebende Meer steht seit 1971 unter Schutz und wurde 1986 zu Englands erstem
+      Meeresnaturschutzgebiet erklärt. Im Januar 2010 wurde es zur Meeresschutzzone aufgewertet, die ein
+      Rechteck von 31 km² um die Insel umfasst. Die Insel selbst ist eine Site of Special Scientific Interest.
+    before: >-
+      Papageitaucher, Trottellummen, Dreizehenmöwen, Schwarzschnabel-Sturmtaucher und Tordalke sind auf der
+      Insel geschützt. Nähere dich keinem allein liegenden Robbenjungtier und nutze ein Fernglas, statt an die
+      Robben heranzugehen. Prüfe vorab die Fährzeiten.
+    around: >-
+      Lundy hat keine unmittelbaren Nachbargebiete im Atlas, teilt aber Kegelrobben, Papageitaucher und
+      Meeresküsten mit mehreren Inseln. Die [Insel Lunga (Treshnish-Inseln)](/lugar/lunga-treshnish-isles/)
+      ist ein weiteres Refugium für Papageitaucher und Seevögel, während [Mingulay](/lugar/mingulay/) und
+      [Great Blasket Island / An Blascaod Mór](/lugar/great-blasket-island/) mit Lundy Kegelrobben und
+      Papageitaucher teilen. Auch das [Naturschutzgebiet Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/)
+      ist ein bedeutendes Seevogelschutzgebiet.
+  it:
+    intro: >-
+      Lundy significa «isola delle pulcinelle di mare», e il nome non è un caso. Questo sperone di granito,
+      lungo circa 5 km e largo appena 1 km, emerge a 19 km dalla costa settentrionale del Devon, all’imbocco
+      del Canale di Bristol, ed è la maggiore isola di questo braccio di mare. Qui l’oceano e il canale si
+      incontrano, il vento soffia quasi costantemente e la nebbia cala di frequente. Quello che appare come un
+      luogo aspro è in realtà un santuario: migliaia di uccelli marini nidificano sulle sue scogliere e le
+      foche partoriscono nelle sue calette riparate.
+    landscape: >-
+      L’isola è formata prevalentemente da granito del Paleocene, con scisti all’estremità meridionale. In
+      alto si stende un altopiano; in basso, scogliere a picco precipitano nel mare. È un luogo scosceso e
+      spesso avvolto dalla nebbia, teatro in passato di numerosi naufragi e per questo provvisto di fari: due
+      attivi, costruiti nel 1897, e uno più antico ormai inattivo.
+
+
+      Il clima è mite ma vigoroso. Gli inverni sono freschi e umidi, le estati temperate e piovose, con vento
+      e nebbia ricorrenti. Qui cresce una rarità botanica: il cavolo di Lundy (Coincya wrightii), l’unica
+      pianta endemica dell’isola. Due invertebrati anch’essi endemici se ne nutrono in modo esclusivo: un
+      crisomelide e un curculionide.
+
+
+      Sott’acqua il paesaggio cambia volto. Sulla costa orientale, più protetta, si trovano banchi di sabbia e
+      scogliere sommerse, e i fondali di Lundy custodiscono molte specie rare: alghe, spugne ramificate,
+      gorgonie e madrepore a coppa.
+    wildlife: >-
+      Tra aprile e luglio, le scogliere occidentali si popolano di uccelli marini nidificanti: dieci specie
+      tornano a riprodursi qui. Pulcinelle di mare, urie, gabbiani tridattili, berte minori e gazze marine
+      sono specie protette sull’isola. Le [pulcinelle di mare](/especie/fratercula_arctica/) nidificano tra
+      aprile e luglio, con punti d’osservazione privilegiati a Jenny’s Cove e St. Phillip's Stone. Le [berte
+      minori atlantiche](/especie/puffinus_puffinus/) arrivano per nidificare da aprile a settembre per poi
+      migrare verso il Sud America in inverno. Sulle falesie nidificano anche la [gazza
+      marina](/especie/alca_torda/), l’[uria](/especie/uria_aalge/), il [gabbiano
+      tridattilo](/especie/rissa_tridactyla/) e il [fulmaro](/especie/fulmarus_glacialis/), con popolazioni
+      minori di [falco pellegrino](/especie/falco_peregrinus/) e corvo imperiale.
+
+
+      La storia recente di queste colonie è un grande successo di conservazione. I ratti e forse la pesca
+      commerciale dei cicerelli—cibo fondamentale delle pulcinelle—ne avevano ridotto drasticamente il numero.
+      Dopo l’eradicazione dei ratti nel 2006, gli uccelli marini si sono moltiplicati: nel 2023 si contavano
+      1.355 pulcinelle di mare e 25.000 berte minori, pari al 95 % della popolazione riproduttiva
+      dell’Inghilterra. Dal 2014, inoltre, l’[uccello delle tempeste europeo](/especie/hydrobates_pelagicus/)
+      è tornato a colonizzare l’isola.
+
+
+      Trovandosi su importanti rotte migratorie, Lundy attira anche uccelli erranti, soprattutto dal Nord
+      America: il contingente ornitologico dell’isola somma 317 specie.
+
+
+      A terra vivono mammiferi introdotti: una razza di pony semiselvatico, il pony di Lundy, pecore Soay,
+      cervi sika, capre rinselvatichite e conigli. Lungo la riva risiede la [foca
+      grigia](/especie/halichoerus_grypus/). I cuccioli nascono solitamente tra settembre e novembre; se ne
+      scorgi uno isolato, non avvicinarti. Si avvistano a Landing Bay, Brazen Ward e North End, e il binocolo
+      permette di osservarli senza disturbarli.
+
+
+      In mare, dalle scogliere si avvistano con regolarità tre cetacei: il tursiope, il delfino comune e la
+      focena comune, soprattutto lungo la costa sud-orientale. Più rari sono la balenottera minore, il grampo
+      e il globicefalo. Lo squalo elefante visita Lundy in estate ed è visibile da maggio; con esso compaiono
+      il pesce luna e la tartaruga liuto, soprattutto lungo la costa orientale durante i mesi caldi.
+    visit: >-
+      Si raggiunge via mare. Il traghetto di Lundy salpa almeno tre volte alla settimana da Bideford o
+      Ilfracombe, con una traversata di circa due ore. Sull’isola, il guardaparco conduce escursioni a Jenny’s
+      Cove durante la stagione riproduttiva per ammirare le colonie dalle alture delle falesie.
+
+
+      Se vuoi avvistare le pulcinelle di mare, organizza la visita tra aprile e luglio. Se preferisci le
+      foche, settembre e novembre sono i mesi ideali per le nascite. E se cerchi cetacei e squali elefante,
+      l’estate è il periodo migliore.
+    history: >-
+      Il nome ha origini scandinave e deriva dall’antico norreno lundi, «pulcinella di mare». Il cimitero di
+      Beacon Hill custodisce quattro cippi funerari con iscrizioni risalenti al quinto o sesto secolo. Nel
+      1969 il milionario Jack Hayward acquistò l’isola donandola al National Trust; oggi è gestita dal
+      Landmark Trust.
+
+
+      Le acque circostanti sono protette dal 1971 e nel 1986 sono diventate la prima riserva naturale marina
+      d’Inghilterra. Nel gennaio 2010 l’area è stata istituita come zona di conservazione marina, coprendo un
+      rettangolo di 31 km² attorno all’isola. L’isola stessa è un Sito di Speciale Interesse Scientifico.
+    before: >-
+      Pulcinelle di mare, urie, gabbiani tridattili, berte minori e gazze marine sono protetti sull’isola. Non
+      avvicinarti a un cucciolo di foca solitario e usa il binocolo per osservare le foche. Controlla gli
+      orari dei traghetti prima di partire.
+    around: >-
+      Lundy non ha altri luoghi dell’atlante nelle immediate vicinanze, ma condivide foche grigie, pulcinelle
+      di mare e coste rocciose con varie isole. L’[Isola di Lunga (Isole
+      Treshnish)](/lugar/lunga-treshnish-isles/) è un altro celebre santuario di pulcinelle e uccelli marini,
+      mentre [Mingulay](/lugar/mingulay/) e [Great Blasket Island / An Blascaod
+      Mór](/lugar/great-blasket-island/) condividono con Lundy la foca grigia e la pulcinella. La [Riserva
+      Naturale delle Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) è un altro rifugio ornitologico
+      d’eccezione.
+  pt:
+    intro: >-
+      Lundy significa «ilha dos papagaios-do-mar», e o nome não é mero acaso. Este rochedo de granito, com
+      cerca de 5 km de comprimento e apenas 1 km de largura, ergue-se a 19 km da costa norte de Devon, na foz
+      do Canal de Bristol, sendo a maior ilha deste canal. Aqui o oceano e o canal encontram-se, o vento sopra
+      quase sem descanso e o nevoeiro surge com frequência. O que aparenta ser um lugar agreste é, na verdade,
+      um refúgio: milhares de aves marinhas nidificam nas suas escarpas e as focas criam nas suas enseadas
+      abrigadas.
+    landscape: >-
+      A ilha é formada sobretudo por granito do Paleocénico, com xisto no extremo sul. No topo estende-se um
+      planalto; em baixo, falésias abruptas precipitam-se no mar. É um relevo escarpado e frequentemente
+      envolto em bruma, razão pela qual foi palco de inúmeros naufrágios e conserva faróis: dois ativos,
+      construídos em 1897, e um mais antigo já desativado.
+
+
+      O clima é temperado mas rigoroso. Os invernos são frescos e húmidos, os verões amenos e pluviosos,
+      repetindo-se o vento e o nevoeiro. Aqui cresce uma raridade botânica: a couve-de-Lundy (Coincya
+      wrightii), a única planta endémica da ilha. Dois invertebrados também endémicos alimentam-se
+      exclusivamente dela: um escaravelho-pulga e um gorgulho.
+
+
+      Debaixo de água, a paisagem transforma-se. Na costa oriental, mais abrigada, estendem-se bancos de areia
+      e recifes, e as águas de Lundy guardam muitas espécies raras: algas, esponjas ramificadas, gorgónias e
+      corais-taça.
+    wildlife: >-
+      Entre abril e julho, as falésias ocidentais enchem-se de aves marinhas nidificantes: dez espécies
+      regressam para criar aqui. Papagaios-do-mar, airos, gaivotas-tridáctilas, pardelas-fumarentas e
+      tordas-mergulheiras estão protegidos na ilha. Os [papagaios-do-mar](/especie/fratercula_arctica/)
+      nidificam entre abril e julho, sendo Jenny’s Cove e St. Phillip's Stone os principais pontos de
+      observação. As [pardelas-fumarentas](/especie/puffinus_puffinus/) chegam para criar de abril a setembro
+      e rumam à América do Sul no inverno. Nas escarpas nidificam também a
+      [torda-mergulheira](/especie/alca_torda/), o [airo](/especie/uria_aalge/), a
+      [gaivota-tridáctila](/especie/rissa_tridactyla/) e o [fulmar-glacial](/especie/fulmarus_glacialis/),
+      além de populações menores de [falcão-peregrino](/especie/falco_peregrinus/) e de corvo-comum.
+
+
+      A história recente destas colónias é um caso de sucesso. Os ratos e porventura a pesca comercial de
+      galeotas—o alimento principal dos papagaios-do-mar—tinham dizimado os seus efetivos. Desde a erradicação
+      dos ratos em 2006, as aves marinhas multiplicaram-se: em 2023 contavam-se 1.355 papagaios-do-mar e
+      25.000 pardelas-fumarentas, o equivalente a 95 % da população reprodutora de Inglaterra. Além disso,
+      desde 2014 o [painho-de-cauda-quadrada](/especie/hydrobates_pelagicus/) recolonizou a ilha.
+
+
+      Como Lundy se situa em importantes rotas migratórias, atrai igualmente aves migradoras acidentais,
+      sobretudo da América do Norte: a sua lista conta com 317 espécies.
+
+
+      Em terra vivem mamíferos introduzidos: uma raça de pónei assilvestrado, o pónei de Lundy, ovelhas Soay,
+      cervos sika, cabras assilvestradas e coelhos. Junto à rebentação habita a
+      [foca-cinzenta](/especie/halichoerus_grypus/). As crias nascem geralmente entre setembro e novembro; se
+      vires uma cria sozinha, não te aproximes. Podem ser observadas em Landing Bay, Brazen Ward e North End,
+      e os binóculos ajudam a não as perturbar.
+
+
+      No mar, a partir das escarpas avistam-se com regularidade três cetáceos: o roaz-corvineiro, o
+      golfinho-comum e a toninha-comum, sobretudo junto à costa sudeste. Mais raros são a baleia-anã, o grampo
+      e o caldeirão. O tubarão-frade visita Lundy no verão e pode ser avistado a partir de maio; com ele
+      surgem o peixe-lua e a tartaruga-de-couro, sobretudo na costa leste e apenas nos meses quentes.
+    visit: >-
+      Chega-se de barco. O ferry de Lundy realiza travessias pelo menos três vezes por semana a partir de
+      Bideford ou Ilfracombe, demorando cerca de duas horas. Na ilha, o guarda conduz passeios até Jenny’s
+      Cove durante a época de reprodução para observar as colónias a partir do cimo das falésias.
+
+
+      Se quiseres ver papagaios-do-mar, planeia a viagem entre abril e julho. Se preferires focas, setembro e
+      novembro são os meses de nascimento das crias. E se procuras cetáceos e tubarões-frade, o verão é a
+      melhor época.
+    history: >-
+      O nome tem origem escandinava e provém do nórdico antigo lundi, «papagaio-do-mar». O cemitério de Beacon
+      Hill conserva quatro lápides com inscrições que datam do quinto ou sexto século. Em 1969, o milionário
+      Jack Hayward comprou a ilha e doou-a ao National Trust; hoje é gerida pelo Landmark Trust.
+
+
+      O mar circundante é protegido desde 1971 e tornou-se a primeira reserva natural marinha de Inglaterra em
+      1986. Em janeiro de 2010 passou a ser uma zona de conservação marinha, abrangendo um retângulo de 31 km²
+      em redor da ilha. A própria ilha é um Sítio de Especial Interesse Científico.
+    before: >-
+      Papagaios-do-mar, airos, gaivotas-tridáctilas, pardelas-fumarentas e tordas-mergulheiras estão
+      protegidos na ilha. Não te aproximes de uma cria de foca isolada e recorre a binóculos em vez de te
+      aproximares das focas. Confirma os horários dos barcos antes de partir.
+    around: >-
+      Lundy não tem outros locais do atlas nas imediações, mas partilha a foca-cinzenta, o papagaio-do-mar e
+      arribas costeiras com várias ilhas. A [Ilha de Lunga (Ilhas Treshnish)](/lugar/lunga-treshnish-isles/) é
+      outro santuário de aves marinhas, enquanto [Mingulay](/lugar/mingulay/) e a [Great Blasket Island / An
+      Blascaod Mór](/lugar/great-blasket-island/) partilham com Lundy a foca-cinzenta e o papagaio-do-mar. A
+      [Reserva Natural das Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) constitui outro grande refúgio
+      de avifauna.
+fuentes:
+  - url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/wildlife/above-the-waves/seabirds/
+    titulo: Seabirds
+    fecha_consulta: '2026-10-24'
+  - url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/wildlife/below-the-waves/marine-life/
+    titulo: Marine life
+    fecha_consulta: '2026-10-24'
+  - url: https://www.landmarktrust.org.uk/lundyisland/discovering-lundy/activities/wardenledevents/wardenledevents-guidedwalks/
+    titulo: Guided walks
+    fecha_consulta: '2026-10-24'
+  - url: https://www.landmarktrust.org.uk/lundyisland/day-trips/
+    titulo: Day trips
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Lundy
+    titulo: Lundy — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.gov.uk/government/publications/marine-conservation-zone-2013-designation-lundy
+    titulo: Lundy MCZ — Marine Conservation Zone designation (GOV.UK)
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lundy_Island_,_Coastal_Scenery_-_geograph.org.uk_-_5852348.jpg
+    autor: Lewis Clarke
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-03'

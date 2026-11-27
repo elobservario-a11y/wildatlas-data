@@ -1,0 +1,631 @@
+id: parque-natural-da-ilha-do-corvo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de la Isla de Corvo (Azores)
+  en: Corvo Island Natural Park (Azores)
+  fr: Parc naturel de l'île de Corvo (Açores)
+  de: Naturpark der Insel Corvo (Azoren)
+  it: Parco Naturale dell'Isola di Corvo (Azzorre)
+  pt: Parque Natural da Ilha do Corvo (Açores)
+nombre_original: Parque Natural da Ilha do Corvo (Açores)
+alias:
+  - Parque Natural da Ilha do Corvo (Açores)
+paises:
+  - PT
+region:
+  es: Región Autónoma de las Azores (Isla de Corvo / Vila do Corvo)
+  en: Autonomous Region of the Azores (Corvo Island / Vila do Corvo)
+  fr: Région autonome des Açores (Île de Corvo / Vila do Corvo)
+  de: Autonome Region Azoren (Insel Corvo / Vila do Corvo)
+  it: Regione Autonoma delle Azzorre (Isola di Corvo / Vila do Corvo)
+  pt: Região Autónoma dos Açores (Ilha do Corvo / Vila do Corvo)
+ubicacion:
+  tipo: punto
+  lat: 39.69
+  lon: -31.11
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 388901
+  nombre_en_la_fuente: Costa e Caldeirao do Corvo
+  categoria_uicn: IV
+  capa: capas/cdda/parque-natural-da-ilha-do-corvo.geojson
+habitats:
+  - coast
+  - marine
+  - lake
+designaciones:
+  - natural_park
+  - biosphere_reserve
+  - natura2000
+  - iucn_v
+especies:
+  - calonectris_diomedea
+  - puffinus_lherminieri
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre (meca absoluta de la migración de divagantes americanas en otoño)
+  en: May to October (absolute mecca for American vagrant bird migration in autumn)
+  fr: mai à octobre (haut lieu absolu pour la migration des oiseaux nord-américains égarés en automne)
+  de: Mai bis Oktober (absolutes Mekka für nordamerikanische Irrgäste im Herbstzug)
+  it: maggio a ottobre (meta d'elezione assoluta per la migrazione di uccelli accidentali americani in autunno)
+  pt: maio a outubro (meca absoluta da migração de aves acidentais americanas no outono)
+masificacion: 1
+masificacion_nota:
+  es: Baja salvo ornitólogos internacionales en octubre
+  en: Low except for international ornithologists in October
+  fr: Faible sauf pour les ornithologues internationaux en octobre
+  de: Gering ausser für internationale Vogelbeobachter im Oktober
+  it: Bassa salvo per gli ornitologi internazionali a ottobre
+  pt: Baixa salvo ornitólogos internacionais em outubro
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor y visita — Parque Natural do Corvo
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/1/about
+  - titulo: Ruta y accesos — Caldeirão PRC02COR
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/1/trilho/2
+resumen:
+  es: >-
+    La isla más pequeña y remota del archipiélago de las Azores (17 km²), dominada por el Caldeirão (cráter
+    volcánico con dos lagunas interiores).
+  en: >-
+    The smallest and most remote island of the Azorean archipelago (17 km²), dominated by the Caldeirão
+    (volcanic collapse caldera holding two interior lagoons).
+  fr: >-
+    L'île la plus petite et reculée de l'archipel des Açores (17 km²), dominée par le Caldeirão (cratère
+    d'effondrement abritant deux lagunes intérieures).
+  de: >-
+    Die kleinste und abgelegenste Insel des Azoren-Archipels (17 km²), beherrscht vom Caldeirão
+    (Einsturzkrater mit zwei Binnenseen).
+  it: >-
+    L'isola più minuscola e sperduta dell'arcipelago delle Azzorre (17 km²), dominata dal Caldeirão (cratere
+    vulcanico con due lagune interne).
+  pt: >-
+    A ilha mais pequena e remota do arquipélago dos Açores (17 km²), dominada pelo Caldeirão (cratera
+    vulcânica com duas lagoas interiores).
+unico:
+  es: >-
+    Es la isla más pequeña de las Azores y un cráter con lagunas donde aterrizan, perdidas por las tormentas,
+    aves que no se ven en el continente europeo.
+  en: >-
+    It is the smallest island of the Azores and a volcanic crater with lagoons where storm-blown vagrant birds
+    make landfall that are never otherwise seen in continental Europe.
+  fr: >-
+    C'est la plus petite île des Açores et un cratère aux lagunes où atterrissent, égarés par les tempêtes,
+    des oiseaux rarissimes jamais observés sur le continent européen.
+  de: >-
+    Sie ist die kleinste Azoreninsel und ein Vulkankrater mit Lagunen, wo von Stürmen verdriftete Vögel
+    landen, die auf dem europäischen Kontinent nie zu sehen sind.
+  it: >-
+    È l'isola più piccola delle Azzorre e un cratere vulcanico con lagune dove approdano, sospinti dalle
+    burrasche, uccelli mai avvistati nell'Europa continentale.
+  pt: >-
+    É a ilha mais pequena dos Açores e uma cratera com lagoas onde poisam, desviadas por tempestades
+    atlânticas, aves que nunca se avistam no continente europeu.
+observaciones:
+  es: >-
+    Corvo es una isla remota: comprueba los accesos y transportes con antelación y consulta al gestor el
+    estado de los senderos antes de salir.
+texto:
+  es:
+    intro: >-
+      Corvo es una sola montaña que sale del Atlántico. Una isla de 17,21 kilómetros cuadrados, la más pequeña
+      de las Azores, que es en realidad un único volcán extinto, el Monte Gordo, coronado por una caldera de
+      colapso de 3,7 kilómetros de perímetro y 300 metros de profundidad: el Caldeirão. En su fondo hay
+      lagunas, turberas y pequeños islotes, y alrededor, un litoral alto y escarpado que se precipita al mar.
+    landscape: >-
+      Corvo está en el Grupo Occidental, al norte de Flores, con la que comparte un mismo banco submarino. El
+      volcán empezó a emerger hace unos 730 mil años y el cráter colapsó hace unos 430 mil. Dentro de la
+      caldera quedaron conos de escoria y salpicadura de entre 20 y 30 metros que dieron lugar a las lagunas y
+      las turberas, y entre ellas asoman pequeños islotes: dos alargados y cinco redondos.
+
+
+      El punto más alto es el Estreitinho, en el borde sur del Caldeirão, a 720 metros. Hacia el oeste cae
+      casi vertical un acantilado de unos 700 metros, de los mayores del Atlántico. Allí el mar y los vientos
+      del noreste y del oeste hacen retroceder la costa, y las arribas ya han alcanzado el borde oeste de la
+      caldera.
+
+
+      Solo en el sur, sobre una fajã de lava, se asienta Vila do Corvo, la única población de la isla. La
+      agricultura se limita a los alrededores de la villa y a una zona abrigada de la costa este, las Quintas
+      y Fojo; los mejores pastos están al norte, en las Terras Altas.
+
+
+      El clima es húmedo pero suave y ventoso, y en las zonas altas la niebla es casi permanente. En junio
+      llegan los «nevoeiros do São João», cuando es más frecuente.
+    wildlife: >-
+      Corvo es un lugar excelente para observar aves. Recibe especies de las rutas migratorias de América del
+      Norte y de Europa que llegan desorientadas por las tormentas, y a lo largo del año acuden decenas de
+      ornitólogos, que recorren los senderos para observar las aves en tránsito, sobre todo en la Lagoa do
+      Caldeirão. Algunas no se han visto nunca en el continente europeo.
+
+
+      Para las aves marinas, la isla y la vecina Flores forman con sus aguas un Área Importante para las Aves
+      de BirdLife International de 210.400 hectáreas, con zonas de alimentación y cría de pardelas cenicienta,
+      menor y pichoneta, y de charranes rosado y común.
+
+
+      En el terreno, el área protegida destaca por los bosques de turbera y por las plantas endémicas de las
+      Azores: el parque incluye 48 especies, entre ellas Azorina vidalii, Myosotis azorica y Veronica dabneyi.
+    visit: >-
+      La isla ofrece un centro de interpretación de aves silvestres, un centro de rehabilitación, dos
+      senderos, una reserva voluntaria y miradores. Los dos senderos cruzan la isla de formas distintas.
+
+
+      El recorrido circular del Caldeirão es de dificultad media: 4,8 kilómetros que se hacen en dos horas y
+      media. Atraviesa la caldera de colapso de la cima del volcán, reconocida como geositio, y se desarrolla
+      en dos zonas de protección especial de la naturaleza.
+
+
+      El itinerario Cara do Índio es lineal: 10,3 kilómetros, unas tres horas. Cruza la isla de norte a sur y
+      conecta los geositios del Caldeirão y de Vila do Corvo.
+    history: >-
+      La isla se pobló de forma permanente hacia 1580, cuando colonos de Flores se fijaron en ella y se
+      dedicaron a la agricultura, el pastoreo y la pesca. Desde el siglo XVIII los balleneros norteamericanos
+      reclutaron arponeros en Flores y los corvinos mantuvieron mayor relación con Boston que con Lisboa.
+      Junto al aeródromo quedan molinos de viento típicos, de interés municipal: de unos 7 que hubo, solo 3
+      siguen funcionando.
+
+
+      En la década de 1960 el régimen forestal impuesto sobre el baldío acabó con la producción de lana y con
+      las ovejas de la isla. Hoy la pecuaria sigue siendo la principal actividad del sector primario, con
+      bovinos, cerdos y aves, y el queso y los lácteos son los productos principales.
+
+
+      La isla es Reserva de la Biosfera de la UNESCO desde septiembre de 2007. El Parque Natural do Corvo se
+      creó en 2008 para proteger la isla y poner en valor sus recursos naturales, y reúne espacios protegidos,
+      un sitio Ramsar, tres geositios prioritarios y áreas de Natura 2000 e IBA.
+    before: >-
+      Corvo es una isla remota: comprueba los accesos y transportes con antelación y consulta al gestor el
+      estado de los senderos antes de salir.
+    around: >-
+      La [Isla de Flores](/lugar/isla-de-flores/) queda a veinte kilómetros, en el mismo grupo occidental. La
+      [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) y las [Islas
+      Selvajes](/lugar/islas-selvajes/) comparten con Corvo pardelas y costa.
+  en:
+    intro: >-
+      Corvo is a single volcanic mountain surging out of the North Atlantic. An island of 17.21 square
+      kilometres—the smallest in the Azores archipelago—it represents the emergent peak of an extinct central
+      volcano, Monte Gordo, crowned by a summit collapse caldera with a perimeter of 3.7 kilometres and a
+      depth of 300 metres: the Caldeirão. Across its floor lie lagoons, peat bogs, and miniature volcanic
+      islets, framed by dizzying maritime cliffs that plunge precipitously into ocean swells.
+    landscape: >-
+      Corvo belongs to the Western Group of the archipelago, lying just north of Flores with which it shares a
+      common submarine bank. The volcanic edifice began breaching the surface roughly 730 thousand years ago,
+      with the central caldera collapsing around 430 thousand years ago. Inside the caldera floor rise
+      secondary scoria cones and spatter mounds between 20 and 30 metres high that cradled the lagoons and
+      peat bogs, punctuated by diminutive islets: two elongated and five rounded domes.
+
+
+      The highest topographic point is Estreitinho, perched on the southern rim of the Caldeirão at 720
+      metres. To the west plunges a sheer vertical sea cliff of some 700 metres, among the highest marine
+      cliffs in the entire Atlantic Basin. Here relentless westerly and north-easterly gales and wave
+      battering drive coastal retreat, so that the sea cliffs have already breached the western rim of the
+      caldera.
+
+
+      Only in the extreme south, upon a low basaltic lava platform (*fajã*), rests Vila do Corvo, the sole
+      human settlement on the island. Agriculture is confined to the immediate surrounds of the village and a
+      sheltered pocket along the eastern shore, at Quintas and Fojo; the richest pastoral uplands stretch
+      across the north, in the Terras Altas.
+
+
+      The climate is oceanic, humid yet temperate and relentlessly windy, with thick summit mist nearly
+      permanent across the heights. June heralds the dense 'nevoeiros de São João', when sea fogs are most
+      pervasive.
+    wildlife: >-
+      Corvo is internationally renowned as an exceptional destination for birdwatching. It intercepts
+      transoceanic vagrants drifting off migratory flyways across North America and Europe, deflected off
+      course by Atlantic cyclones, drawing dozens of birders throughout the autumn who scour the trails and
+      the shores of Lagoa do Caldeirão. Several species recorded here have never been documented anywhere on
+      the European mainland.
+
+
+      For seabirds, the island and adjacent Flores combine their surrounding waters to constitute an Important
+      Bird Area (IBA) designated by BirdLife International covering 210,400 hectares, providing vital feeding
+      and nesting grounds for Cory's shearwater, Barolo shearwater, Manx shearwater, roseate tern, and common
+      tern.
+
+
+      On land, the protected area is distinguished by active blanket bogs and native Azorean flora: the park
+      shelters 48 endemic plant species, including Azorina vidalii, Myosotis azorica, and Veronica dabneyi.
+    visit: >-
+      The island offers a wild bird interpretation centre, a wildlife rehabilitation facility, two waymarked
+      hiking trails, a voluntary nature reserve, and scenic viewpoints. The two official trails traverse the
+      volcanic landscape along different routes.
+
+
+      The Caldeirão circular trail is of moderate difficulty: 4.8 kilometres taking about two and a half
+      hours. It descends into the collapse caldera of the summit volcano, designated a priority geosite,
+      traversing two Special Protection Areas.
+
+
+      The Cara do Índio route is a linear trail: 10.3 kilometres taking about three hours. It traverses the
+      island from north to south, linking the geosites of the Caldeirão and Vila do Corvo.
+    history: >-
+      Permanent human settlement began around 1580, when colonists from neighboring Flores took up residence
+      to engage in subsistence farming, pastoralism, and coastal fishing. From the eighteenth century onward,
+      American whaling vessels recruited skilled harpooners across the Western Group, forging stronger
+      maritime ties between Corvo and Boston than with mainland Lisbon. Near the airstrip stand traditional
+      conical windmills of municipal heritage interest: of some 7 that once operated, only 3 remain active
+      today.
+
+
+      In the 1960s, state forestry regimes imposed on community lands dismantled traditional sheep-farming and
+      local wool production. Today livestock rearing remains the bedrock of the primary sector, centred on
+      cattle, pigs, and poultry, with artisanal cheeses and dairy representing the primary exports.
+
+
+      The entire island was designated a UNESCO Biosphere Reserve in September 2007. The Parque Natural do
+      Corvo was established in 2008 to safeguard the territory and promote sustainable development,
+      integrating protected landscapes, a Ramsar wetland, three priority geosites, Natura 2000 tracts, and an
+      IBA marine area.
+    before: >-
+      Corvo is an exceedingly remote island: verify transport schedules and flight connections well in
+      advance, and consult the managing authority regarding trail conditions before venturing across the
+      heights.
+    around: >-
+      [Flores Island](/lugar/isla-de-flores/) lies twenty kilometres to the south, sharing the western
+      submarine ridge. [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) and the
+      [Selvagens Islands](/lugar/islas-selvajes/) share with Corvo pelagic shearwaters and windswept
+      Macaronesian coastline.
+  fr:
+    intro: >-
+      Corvo est un cône volcanique solitaire surgi de l'océan Atlantique. Une île de 17,21 kilomètres
+      carrés—la plus exiguë des Açores—qui constitue l'appareil d'un unique volcan éteint, le Monte Gordo,
+      coiffé par une caldeira d'effondrement de 3,7 kilomètres de pourtour et de 300 mètres de profondeur : le
+      Caldeirão. En son fond s'abritent lagunes, tourbières et îlots rocheux, ceints de falaises maritimes
+      monumentales plongeant à pic dans les flots.
+    landscape: >-
+      Corvo appartient au Groupe occidental, au nord de Flores avec laquelle elle repose sur un même socle
+      sous-marin. Le volcan central a émergé il y a environ 730 mille ans et le cratère s'est effondré il y a
+      quelque 430 mille ans. À l'intérieur de la caldeira subsistent des cônes de scories de 20 à 30 mètres de
+      hauteur qui ont donné naissance aux lagunes et aux tourbières, émaillées de petits îlots : deux allongés
+      et cinq circulaires.
+
+
+      Le point culminant est l'Estreitinho, situé sur le rebord méridional du Caldeirão à 720 mètres. Vers
+      l'ouest plonge une falaise verticale d'environ 700 mètres, l'un des escarpements marins les plus
+      vertigineux de l'Atlantique. L'assaut conjugué de la houle et des vents d'ouest et de nord-est érode le
+      littoral, les falaises entamant d'ores et déjà la crête occidentale de la caldeira.
+
+
+      Ce n'est qu'au sud, sur une *fajã* de lave côtière, que s'établit Vila do Corvo, l'unique village de
+      l'île. L'agriculture vivrière se cantonne aux abords du bourg et à une terrasse abritée de la côte
+      orientale, aux Quintas et Fojo ; les pâturages s'étendent au nord, sur les Terras Altas.
+
+
+      Le climat est très humide mais tempéré et venteux, les crêtes baignant dans des brumes quasi
+      permanentes. En juin surviennent les brouillards denses de São João (*nevoeiros do São João*).
+    wildlife: >-
+      Corvo est un site ornithologique exceptionnel. L'île recueille des migrateurs égarés venus d'Amérique du
+      Nord et d'Europe, déroutés par les tempêtes atlantiques, attirant des dizaines d'ornithologues tout au
+      long de l'automne le long des sentiers et autour de la Lagoa do Caldeirão. Certaines espèces contactées
+      ici n'ont jamais été observées en Europe continentale.
+
+
+      Pour l'avifaune marine, l'île et Flores voisine forment une Zone Importante pour la Conservation des
+      Oiseaux (ZICO) de BirdLife International de 210 400 hectares marins, accueillant sites de gagnage et
+      colonies du puffin cendré, du petit puffin, du puffin des Anglais, de la sterne de Dougall et de la
+      sterne pierregarin.
+
+
+      Sur le plan botanique, l'espace protégé brille par ses tourbières actives et ses plantes endémiques
+      açoriennes : le parc abrite 48 espèces indigènes remarquables, dont Azorina vidalii, Myosotis azorica et
+      Veronica dabneyi.
+    visit: >-
+      L'île propose un centre d'interprétation des oiseaux sauvages, un centre de soins de la faune, deux
+      sentiers de randonnée balisés, une réserve naturelle volontaire et des belvédères. Les deux itinéraires
+      officiels parcourent les reliefs volcaniques selon deux axes distincts.
+
+
+      La boucle du Caldeirão est de niveau moyen : 4,8 kilomètres réalisables en deux heures et demie. Elle
+      descend au fond de la caldeira de sommet, classée géosite d'intérêt prioritaire, traversant deux zones
+      de protection spéciale de la nature.
+
+
+      Le sentier Cara do Índio est linéaire : 10,3 kilomètres pour environ trois heures. Il traverse l'île du
+      nord au sud reliant les géosites du Caldeirão et de Vila do Corvo.
+    history: >-
+      Le peuplement permanent débuta vers 1580, lorsque des pionniers venus de Flores s'y établirent pour
+      cultiver la terre, élever le bétail et pêcher. Dès le XVIIIe siècle, les baleiniers américains
+      recrutèrent des harponneurs dans le groupe occidental, liant étroitement la population de Corvo à Boston
+      plus qu'à Lisbonne. Près de la piste d'aviation subsistent des moulins à vent coniques classés d'intérêt
+      communal : sur environ 7 moulins d'origine, 3 seulement fonctionnent encore.
+
+
+      Dans les années 1960, le régime forestier imposé sur les terres communales ruina la production lainière
+      et l'élevage ovin. Aujourd'hui, l'élevage bovin, porcin et avicole constitue l'ossature économique de
+      l'île, réputée pour ses fromages artisanaux.
+
+
+      L'île a été proclamée réserve de biosphère par l'UNESCO en septembre 2007. Le Parque Natural do Corvo
+      fut instauré en 2008 pour préserver le territoire et ses ressources naturelles, regroupant réserves
+      terrestres, un site Ramsar, trois géosites, des espaces Natura 2000 et une aire marine ZICO.
+    before: >-
+      Corvo est un territoire insulaire très isolé : vérifiez liaisons aériennes et maritimes avec
+      anticipation, et consultez les gardes sur l'état des sentiers avant de partir.
+    around: >-
+      L'[Île de Flores](/lugar/isla-de-flores/) se dresse à vingt kilomètres au sud sur le même banc
+      sous-marin. La [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) et les [Îles
+      Selvagens](/lugar/islas-selvajes/) partagent avec Corvo puffins pélagiques et falaises volcaniques.
+  de:
+    intro: >-
+      Corvo ist ein einzelner gewaltiger Vulkankegel, der aus dem Nordatlantik ragt. Eine Insel von 17,21
+      Quadratkilometern – die kleinste des gesamten Azoren-Archipels –, die aus einem erloschenen
+      Zentralvulkan (Monte Gordo) besteht, gekrönt von einer Einbruchskaldeira mit 3,7 Kilometern Umfang und
+      300 Metern Tiefe: dem Caldeirão. Auf ihrem Grund liegen Seen, Torfmoore und kleine Vulkankegel, umgeben
+      von schwindelerregenden Steilküsten, die senkrecht ins Meer abstürzen.
+    landscape: >-
+      Corvo gehört zur Westgruppe der Azoren und liegt nördlich von Flores, mit dem es auf einer gemeinsamen
+      untermeerischen Plattform ruht. Der Vulkan begann vor rund 730 Tausend Jahren aus dem Ozean
+      aufzusteigen; der Hauptkrater brach vor etwa 430 Tausend Jahren ein. Im Inneren der Kaldeira blieben
+      sekundäre Schlackenkegel von 20 bis 30 Metern Höhe stehen, die die Seewannen und Hochmoore gliedern,
+      gesäumt von kleinen Inselchen: zwei länglichen und fünf runden Hügeln.
+
+
+      Höchster Geländepunkt ist der Estreitinho am südlichen Kraterrand auf 720 Metern Höhe. Nach Westen fällt
+      eine fast senkrechte Felsklippe von rund 700 Metern ab, eine der gewaltigsten marinen Steilwände des
+      gesamten Atlantiks. Hier treiben Winde und Brandung die Küste stetig landeinwärts, sodass die
+      Brandungskante bereits den westlichen Rand der Kaldeira angegriffen hat.
+
+
+      Nur ganz im Süden, auf einer flachen Basaltlavaplattform (*fajã*), liegt Vila do Corvo, die einzige
+      Ortschaft der Insel. Landwirtschaftliche Nutzung beschränkt sich auf das Umfeld des Dorfes und einen
+      geschützten Hangstreifen an der Ostküste bei Quintas und Fojo; die Hochweiden breiten sich im Norden auf
+      den Terras Altas aus.
+
+
+      Das Klima ist ozeanisch-feucht, mild und extrem windig; auf den Höhen herrscht fast ständiger Nebel. Im
+      Juni treten die dichten Johannisnebel (*nevoeiros do São João*) besonders gehäuft auf.
+    wildlife: >-
+      Corvo gilt als herausragendes Refugium für Vogelbeobachter. Die Insel fängt transatlantische Irrgäste
+      auf, die auf den Zugwegen Nordamerikas und Europas von Herbststürmen über den Atlantik abgetrieben
+      werden. Alljährlich im Spätherbst durchstreifen Dutzende Vogelkundler die Pfade und Ufer der Lagoa do
+      Caldeirão. Mehrere hier nachgewiesene Arten wurden auf dem europäischen Festland noch nie gesichtet.
+
+
+      Für Meeresvögel bildet Corvo gemeinsam mit Flores ein von BirdLife International ausgewiesenes
+      Vogelschutzgebiet (IBA) mit 210.400 Hektar Meeresfläche, das Brut- und Nahrungsgründe für
+      Gelbschnabel-Sturmtaucher, Barolo-Sturmtaucher, Atlantiksturmtaucher, Rosenseeschwalbe und
+      Flussseeschwalbe schützt.
+
+
+      An Land besticht das Schutzgebiet durch intakte Deckenmoore und endemische Azoren-Pflanzen: Der
+      Naturpark beherbergt 48 endemische Pflanzenarten, darunter Azorina vidalii, Myosotis azorica und
+      Veronica dabneyi.
+    visit: >-
+      Auf der Insel stehen ein Informationszentrum für Wildvögel, eine Pflegestation, zwei Wanderwege, ein
+      freiwilliges Schutzgebiet und Aussichtspunkte zur Verfügung. Die beiden offiziellen Wanderwege
+      erschliessen den Vulkanbau auf unterschiedliche Weise.
+
+
+      Der Rundweg Caldeirão ist mittelschwer: 4,8 Kilometer in etwa zweieinhalb Stunden. Er führt in das
+      Innere der Einsturzkaldeira am Vulkangipfel, die als vorrangiges Geotop eingestuft ist, und berührt zwei
+      besondere Schutzzonen.
+
+
+      Der Wanderweg Cara do Índio verläuft linear: 10,3 Kilometer in rund drei Stunden. Er quert die Insel von
+      Nord nach Süd und verbindet die Geotope des Caldeirão mit Vila do Corvo.
+    history: >-
+      Die dauerhafte Besiedlung begann um 1580, als Siedler von Flores übersetzten, um Ackerbau, Viehzucht und
+      Küstenfischerei zu betreiben. Seit dem achtzehnten Jahrhundert heuerten amerikanische Walfangschiffe
+      Harpunierer auf der Insel an, wodurch engere Beziehungen nach Boston als nach Lissabon entstanden. Nahe
+      der Landebahn stehen traditionelle steinerne Windmühlen von lokalem Denkmalrang: Von einst rund 7 Mühlen
+      sind heute noch 3 funktionsfähig.
+
+
+      In den 1960er Jahren beendete ein behördliches Aufforstungsprogramm auf den Allmenden die traditionelle
+      Woll- und Schafwirtschaft. Heute bildet die Rinder-, Schweine- und Geflügelhaltung das wirtschaftliche
+      Rückgrat; Corvo-Käse und Milchprodukte sind die Haupterzeugnisse.
+
+
+      Die gesamte Insel wurde im September 2007 von der UNESCO als Biosphärenreservat anerkannt. Der Parque
+      Natural do Corvo wurde 2008 gegründet, um die Naturwerte der Insel zu bewahren; er vereint
+      Schutzgebiete, ein Ramsar-Feuchtgebiet, drei prioritäre Geotope, Natura-2000-Zonen und eine marine IBA.
+    before: >-
+      Corvo ist extrem abgelegen: Erkundige dich frühzeitig nach Flug- und Fährverbindungen und erfrage den
+      Zustand der Wanderpfade bei der Parkverwaltung.
+    around: >-
+      Die [Insel Flores](/lugar/isla-de-flores/) liegt zwanzig Kilometer südlich auf demselben Sockel. Die
+      [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) und die [Ilhas
+      Selvagens](/lugar/islas-selvajes/) teilen mit Corvo Sturmtaucherkolonien und steile Basaltküsten.
+  it:
+    intro: >-
+      Corvo è una piramide vulcanica solitaria che emerge dall'Oceano Atlantico. Un'isola di 17,21 chilometri
+      quadrati—la più ridotta dell'arcipelago delle Azzorre—che costituisce l'apparato di un unico vulcano
+      spento, il Monte Gordo, sormontato da una caldera di collasso con 3,7 chilometri di perimetro e 300
+      metri di profondità: il Caldeirão. Sul fondo si aprono lagune, torbiere e coni eruttivi minori, cinti da
+      scogliere marine strapiombanti che precipitano tra i marosi.
+    landscape: >-
+      Corvo fa parte del Gruppo Occidentale, a nord di Flores con cui condivide un basamento sottomarino
+      comune. L'apparato vulcanico iniziò a emergere circa 730 mila anni fa e la caldera collassò circa 430
+      mila anni or sono. All'interno del cratere rimasero coni di scorie e apparati secondari alti tra 20 e 30
+      metri che generarono le conche lacustri e le torbiere, punteggiate da isolotti vulcanici: due allungati
+      e cinque circolari.
+
+
+      La vetta culminante è l'Estreitinho, situato sul bordo meridionale del Caldeirão a 720 metri. Verso
+      ponente precipita una falesia verticale di circa 700 metri, tra i dislivelli costieri marini più
+      imponenti dell'intero Atlantico. Qui il moto ondoso e i venti d'occidente e di nord-est scalzano la
+      linea di costa, tanto che i dirupi hanno già intaccato la cresta occidentale della caldera.
+
+
+      Solo a mezzogiorno, su una piattaforma lavica costiera (*fajã*), sorge Vila do Corvo, l'unico centro
+      abitato dell'isola. Le colture sono relegate nei pressi del villaggio e su una fascia riparata della
+      costa orientale, a Quintas e Fojo; i pascoli più ubbiosi occupano il settore settentrionale delle Terras
+      Altas.
+
+
+      Il clima è umido ma temperato e battuto dai venti, con banchi di nebbia perenni attorno alle cime. A
+      giugno si intensificano i fitti banchi di nebbia noti come *nevoeiros do São João*.
+    wildlife: >-
+      Corvo è un palcoscenico ornitologico d'eccezione mondiale. Accoglie contingenti migratori dall'America
+      Settentrionale e dall'Europa deviati dalle tempeste oceaniche, attirando ogni autunno decine di
+      ornitologi che perlustrano i percorsi attorno alla Lagoa do Caldeirão. Svariate specie documentate qui
+      non sono mai state osservate nell'Europa continentale.
+
+
+      Per gli uccelli marini, l'isola e le acque attorno a Flores formano un'Area Importante per l'Avifauna
+      (IBA) di BirdLife International estesa per 210.400 ettari marini, vitale per la sosta e la riproduzione
+      di berta maggiore, berta minore fosca, berta minore atlantica, sterna di Dougall e sterna comune.
+
+
+      Sotto il profilo botanico, l'area protetta si distingue per torbiere attive ed endemismi vegetali
+      esclusivi: il parco custodisce 48 specie botaniche endemiche delle Azzorre, tra cui Azorina vidalii,
+      Myosotis azorica e Veronica dabneyi.
+    visit: >-
+      L'isola dispone di un centro di interpretazione dell'avifauna, una struttura di recupero della fauna
+      selvatica, due itinerari escursionistici segnalati, una riserva naturale volontaria e belvedere
+      panoramici. I due percorsi pedonali attraversano i rilievi secondo itinerari differenti.
+
+
+      Il circuito del Caldeirão è di difficoltà intermedia: 4,8 chilometri percorribili in due ore e mezza.
+      Scende sul fondo della caldera sommitale, riconosciuta geosito prioritario, sviluppandosi all'interno di
+      due aree protette speciali.
+
+
+      Il sentiero Cara do Índio è lineare: 10,3 chilometri per circa tre ore. Taglia l'isola da nord a sud
+      connettendo i geositi del Caldeirão e di Vila do Corvo.
+    history: >-
+      L'insediamento umano stabile ebbe inizio attorno al 1580, quando coloni provenienti da Flores vi presero
+      dimora per dedicarsi ad agricoltura, pastorizia e pesca costiera. A partire dal XVIII secolo le
+      baleniere nordamericane reclutarono ramponieri nel gruppo occidentale, allacciando legami con Boston più
+      stretti che con Lisbona. Presso la pista aeroportuale sorgono mulini a vento tradizionali di interesse
+      civico: dei circa 7 un tempo attivi, solo 3 continuano a funzionare.
+
+
+      Negli anni Sessanta (1960) il regime forestale imposto sui demani pose fine alla pastorizia ovina e alla
+      produzione laniera. Oggi l'allevamento di bovini, suini e pollame costituisce il perno economico; i
+      formaggi vaccini artigianali rappresentano i prodotti più rinomati.
+
+
+      L'intera isola è Riserva della Biosfera UNESCO dal settembre 2007. Il Parque Natural do Corvo è stato
+      istituito nel 2008 per tutelare l'integrità ecologica insulare, riunendo riserve naturali, un sito
+      Ramsar, tre geositi, settori Natura 2000 e una vasta IBA marina.
+    before: >-
+      Corvo è una terra isolata: programma i voli e i traghetti con largo anticipo e consulta i guardiaparco
+      sullo stato dei sentieri prima di intraprendere escursioni in quota.
+    around: >-
+      L'[Isola di Flores](/lugar/isla-de-flores/) dista venti chilometri verso sud sullo stesso plateau
+      marino. La [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) e le [Isole
+      Selvagge](/lugar/islas-selvajes/) condividono con Corvo berte pelagiche e imponenti falesie basaltiche.
+  pt:
+    intro: >-
+      O Corvo é uma montanha vulcânica solitária erguida do Atlântico. Uma ilha de 17,21 quilómetros
+      quadrados—a mais exígua dos Açores—que constitui o aparelho de um único vulcão extinto, o Monte Gordo,
+      encimado por uma caldeira de colapso de 3,7 quilómetros de perímetro e 300 metros de profundidade: o
+      Caldeirão. No seu fundo repousam lagoas, turfeiras e pequenos ilhéus lávicos, envolvidos por escarpas
+      marítimas imponentes que mergulham no oceano.
+    landscape: >-
+      O Corvo integra o Grupo Ocidental, a norte das Flores, com a qual partilha o mesmo maciço submarino. O
+      edifício vulcânico começou a despontar há cerca de 730 mil anos, tendo a cratera abatido há cerca de 430
+      mil anos. No interior da caldeira ergueram-se cones de escórias e respingo de entre 20 e 30 metros que
+      deram lugar às lagoas e turfeiras, pontilhadas por pequenos ilhéus: dois alongados e cinco arredondados.
+
+
+      O ponto mais elevado é o Estreitinho, no rebordo sul do Caldeirão, a 720 metros de altitude. Para poente
+      despenha-se uma falésia vertical de cerca de 700 metros, das maiores escarpas marinhas de todo o oceano
+      Atlântico. Ali a força das vagas e as ventanias de noroeste e oeste desgastam a costa, tendo as arribas
+      alcançado o bordo poente da caldeira.
+
+
+      Apenas a sul, assente numa fajã lávica costeira, se implanta a Vila do Corvo, o único povoado insular. A
+      agricultura limita-se às imediações da vila e a uma nesga abrigada da costa oriental, nas Quintas e
+      Fojo; as melhores pastagens estendem-se a norte, nas Terras Altas.
+
+
+      O clima é húmido mas tépido e ventoso, sendo o nevoeiro quase constante nas zonas de cota alta. Em junho
+      ocorrem com maior intensidade os nevoeiros de São João (*nevoeiros do São João*).
+    wildlife: >-
+      O Corvo é um destino ornitológico de craveira mundial. Interceta rotas migratórias da América do Norte e
+      da Europa, recebendo espécies desorientadas pelas tempestades atlânticas, o que atrai anualmente dezenas
+      de ornitólogos às margens da Lagoa do Caldeirão. Várias das aves registadas nunca foram avistadas na
+      Europa continental.
+
+
+      No domínio marinho, a ilha e as Flores constituem com as águas envolventes uma Área Importante para as
+      Aves (IBA) da BirdLife International com 210.400 hectares, assegurando zonas de alimentação e
+      nidificação para a cagarra, o frulho, o estapagado, o garajau-rosado e o garajau-comum.
+
+
+      Em terra, o parque destaca-se pelas turfeiras de cobertura e pela flora vascular autóctone: acolhe 48
+      espécies vegetais endémicas dos Açores, incluindo *Azorina vidalii*, *Myosotis azorica* e *Veronica
+      dabneyi*.
+    visit: >-
+      A ilha disponibiliza um centro de interpretação de aves selvagens, um centro de reabilitação faunística,
+      dois trilhos pedestres assinalados, uma reserva voluntária e miradouros panorâmicos. Os dois percursos
+      cruzam a orografia vulcânica de formas distintas.
+
+
+      O trilho circular do Caldeirão é de dificuldade média: 4,8 quilómetros realizáveis em duas horas e meia.
+      Percorre o fundo da caldeira de colapso da cimeira vulcânica, classificada como geossítio prioritário,
+      atravessando duas zonas de proteção especial da natureza.
+
+
+      O percurso pedestre Cara do Índio é linear: 10,3 quilómetros, demorando cerca de três horas. Atravessa a
+      ilha de norte a sul estabelecendo a ligação entre os geossítios do Caldeirão e da Vila do Corvo.
+    history: >-
+      O povoamento definitivo remonta a cerca de 1580, quando colonos florentinos se fixaram na ilha para
+      amanhar a terra, apascentar gado e pescar. A partir do século XVIII os navios baleeiros norte-americanos
+      recrutaram arpoadores nas ilhas ocidentais, estreitando laços entre os corvinos e Boston mais do que com
+      Lisboa. Junto à pista de aviação erguem-se moinhos de vento cónicos de interesse municipal: dos cerca de
+      7 outrora existentes, apenas 3 permanecem operacionais.
+
+
+      Na década de 1960 o regime florestal imposto aos baldios aniquilou a criação de ovelhas e a produção de
+      lã. Atualmente a pecuária bovina, suína e avícola constitui o motor económico; o queijo curado artesanal
+      e os lacticínios são os produtos nobres da ilha.
+
+
+      A ilha foi consagrada Reserva da Biosfera da UNESCO em setembro de 2007. O Parque Natural do Corvo
+      nasceu em 2008 para salvaguardar o património natural da ilha, agregando reservas, um sítio Ramsar, três
+      geossítios nucleares e áreas das redes Natura 2000 e IBA.
+    before: >-
+      O Corvo é um território oceânico remoto: confirma ligações aéreas e marítimas com antecedência e
+      consulta os vigilantes da natureza sobre as condições dos trilhos antes de caminhar.
+    around: >-
+      A [Ilha das Flores](/lugar/isla-de-flores/) dista vinte quilómetros a sul sobre o mesmo maciço
+      submarino. A [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/) e as [Ilhas
+      Selvagens](/lugar/islas-selvajes/) partilham com o Corvo colónias de procelariformes e arribas
+      vulcânicas.
+fuentes:
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/1/about
+    titulo: Sobre o Parque — Parque Natural do Corvo
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/1/trilho/2
+    titulo: Caldeirão PRC02COR — Parques Naturais dos Açores
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/1/trilho/39
+    titulo: Cara do Índio PR01COR — Parques Naturais dos Açores
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/1/poi/122
+    titulo: Reserva da Biosfera do Corvo — Parques Naturais dos Açores
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/en/parques/1/areasprotegidas/17
+    titulo: Costa e Caldeirão do Corvo — Parques Naturais dos Açores
+    fecha_consulta: '2026-10-29'
+  - url: https://pt.wikipedia.org/wiki/Ilha_do_Corvo
+    titulo: Ilha do Corvo – Wikipédia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Corvo_Island
+    titulo: Corvo Island – Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Caldeira_do_Corvo_(15016510170).jpg
+    autor: Paulo Valdivieso from Lisboa, Portugal
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-21'

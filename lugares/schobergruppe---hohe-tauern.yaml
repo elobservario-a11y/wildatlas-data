@@ -1,0 +1,631 @@
+id: schobergruppe---hohe-tauern
+estado_editorial: valoracion-revisada
+nombre:
+  es: Grupo Schober - Altos Tauern
+  en: Schober Group - Hohe Tauern National Park
+  fr: Groupe du Schober - Parc national des Hohe Tauern
+  de: Schobergruppe - Nationalpark Hohe Tauern
+  it: Gruppo dello Schober - Parco Nazionale degli Alti Tauri
+  pt: Grupo de Schober - Parque Nacional Hohe Tauern
+nombre_original: Schobergruppe - Hohe Tauern
+alias:
+  - Schober Group (Schobergruppe)
+paises:
+  - AT
+region:
+  es: Tirol Oriental / Carintia (Lienz / Heiligenblut)
+  en: East Tyrol / Carinthia (Lienz / Debanttal)
+  fr: Tyrol oriental / Carinthie (Lienz / Debanttal)
+  de: Osttirol / Kärnten (Lienz / Debanttal)
+  it: Tirolo Orientale / Carinzia (Lienz / Debanttal)
+  pt: Tirol Oriental / Caríntia (Lienz / Debanttal)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2129328
+  nombre_en_la_fuente: Schobergruppe
+  capa: capas/osm/schobergruppe---hohe-tauern.geojson
+habitats:
+  - high_mountain
+  - glacial
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - rupicapra_rupicapra
+  - capra_ibex
+  - aquila_chrysaetos
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: July to September
+  fr: juillet à septembre
+  de: Juli bis September
+  it: da luglio a settembre
+  pt: julho a setembro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Nationalpark Hohe Tauern - Schobergruppe
+    url: https://hohetauern.at/
+  - titulo: Ruta — sendero natural y cultural de Debanttal
+    url: https://hohetauern.at/de/besuchen/themenwege/natur-und-kulturschaetze-im-nationalpark-hohe-tauern/323-natur-und-kulturweg-debanttal.html
+enlaces_referencia:
+  - titulo: Wikipedia — grupo del Schober
+    url: https://en.wikipedia.org/wiki/Schober_group
+resumen:
+  es: Grupo alpino afilado de más de 30 cumbres de 3.000 m con circo glaciares aislados sin remontes de esquí.
+  en: Heart of high alpine rock and silence with 30 summits above 3,000 m and no cable cars in the Eastern Alps.
+  fr: >-
+    Cœur de haute montagne rocheuse et de silence avec 30 sommets de plus de 3 000 m sans aucune remontée
+    mécanique dans les Alpes orientales.
+  de: Herz aus hochalpinem Fels und Stille mit 30 Gipfeln über 3.000 m und ohne Bergbahnen in den Ostalpen.
+  it: >-
+    Cuore di roccia d'alta quota e silenzio con 30 cime oltre i 3.000 m e nessun impianto di risalita nelle
+    Alpi Orientali.
+  pt: Coração de rocha alpina e silêncio com 30 cumes acima de 3.000 m e sem teleféricos nos Alpes Orientais.
+unico:
+  es: >-
+    Hace 25.000 años el hielo cubría el 95 % de este macizo; hoy queda menos de un 1 %, y lo que ves es la
+    huella de aquella gran glaciación.
+  en: >-
+    More than 25,000 hectares of high alpine wilderness where 95 % of the territory is strict nature reserve
+    (IUCN Category 1).
+  fr: >-
+    Plus de 25 000 hectares de haute montagne sauvage où 95 % du territoire relève d'une réserve naturelle
+    intégrale (Catégorie 1 de l'UICN).
+  de: >-
+    Mehr als 25.000 Hektar hochalpine Wildnis, in der 95 % des Gebiets streng geschützte Kernzone sind
+    (IUCN-Kategorie 1).
+  it: >-
+    Più di 25.000 ettari di natura selvaggia d'alta quota dove il 95 % del territorio è riserva naturale
+    integrale (Categoria 1 IUCN).
+  pt: >-
+    Mais de 25.000 hectares de alta montanha bravia onde 95 % do território é reserva natural estrita
+    (Categoria 1 da UICN).
+observaciones:
+  es: >-
+    Las rutas de altura exigen buen pie y equipo de montaña. La Lienzer Hütte es la única cabaña de montaña
+    del Debanttal, así que planifica las etapas largas con ella como base. El sendero temático es fácil; la
+    caminata al Gartlsee exige paso seguro.
+texto:
+  es:
+    intro: >-
+      Imagina una herradura de roca de tres mil metros con un solo valle dentro. Eso es la Schobergruppe: unos
+      400 km² y alrededor de cincuenta cumbres por encima de los 3.000 metros que rodean el Debanttal y
+      reparten el macizo entre Carintia y el Tirol Oriental. El Petzeck, con 3.283 metros, es la más alta; el
+      Hochschober es la que le da nombre. Buena parte del macizo está dentro del Parque Nacional Hohe Tauern,
+      y se nota en lo que no hay: casi nadie. Es un grupo poco frecuentado: el valle central está poco
+      acondicionado y el parque lo describe como un lugar especialmente tranquilo.
+    landscape: >-
+      La piedra manda. Es roca antigua, sobre todo micaesquisto y paragneis, y por eso las cumbres, apretadas
+      unas contra otras y casi a la misma altura, toman tonos rojizos o azulados. Entre sus crestas afiladas
+      quedan encerrados numerosos lagos de circo.
+
+
+      El hielo hizo el resto. En el Debanttal, los glaciares excavaron un valle en forma de artesa y hundieron
+      la cabecera unos mil metros; por eso las paredes caen tan empinadas. Cerca de la Lienzer Hütte y de la
+      Hofalm dejaron cerros pulidos y estrías en la roca. Hoy el macizo conserva veinticinco glaciares que
+      cubren unos 2,5 km², y en el Debanttal solo quedan restos inmóviles, el mayor el Viehkofelkees, bajo el
+      Ralfkopf.
+
+
+      El valle mide dieciséis kilómetros, y el parque lo considera el valle de majadas cerrado más largo de
+      Austria. Lo recorre el arroyo Debantbach. Subiendo, el paisaje cambia por pisos: bosque de pícea en la
+      entrada, hasta Seichenbrunn; después un alerzal modelado por el hombre; y desde la Hofalm, el bosque de
+      alerce y pino cembro. La tala dejó el límite del arbolado en 2.000 metros, aunque el natural estaría
+      entre los 2.300 y los 2.400. Por encima, la rosa alpina de hoja rojiza y el arándano dominan donde la
+      nieve aguanta más, y en la fuente del Debantbach, a 2.300 metros, un manantial reúne musgos y plantas
+      como la saxífraga estrellada. Bajo las cumbres de tres mil metros dominan los canchales.
+    wildlife: >-
+      Aquí el aislamiento se paga en fauna. El Debanttal es muy rico en caza mayor y una de las zonas del
+      parque con más ciervos; también hay corzos, [rebecos](/especie/rupicapra_rupicapra/) y una población
+      numerosa de [marmotas](/especie/marmota_marmota/). Las marmotas viven en grupos familiares, en
+      madrigueras entre los 1.400 y los 2.700 metros, y se avisan con silbidos: una serie anuncia peligro en
+      el suelo; un solo silbido, que viene un águila. Si lo oyes, mira arriba. En el valle hay dos nidos de
+      [águila real](/especie/aquila_chrysaetos/), y en 2014 se soltaron dos
+      [quebrantahuesos](/especie/gypaetus_barbatus/), reintroducidos en los Hohe Tauern desde 1986. De vez en
+      cuando bajan [íbices](/especie/capra_ibex/) desde Kals o Heiligenblut, y por el valle también se mueve
+      el [lince](/especie/lynx_lynx/).
+
+
+      El calendario se lee en las flores. La rosa alpina tiñe las laderas de rosa entre mayo y principios de
+      julio, según la altura. El invierno es cosa de pocos: unos pocos esquiadores de travesía visitan la
+      cabecera occidental, y el plan de equipar el valle para el esquí se abandonó por el riesgo de aludes.
+    visit: >-
+      Todo empieza en el aparcamiento de Seichenbrunn. Desde Lienz hay que ir hacia Nußdorf-Debant y seguir
+      las señales del Debanttal en el parque nacional.
+
+
+      El paseo más amable es el sendero temático natural y cultural, que sigue el Debantbach por la Gaimberger
+      Alm y la Hofalm hasta la Lienzer Hütte: hora y media, unos 300 metros de desnivel, sin dificultad. Sus
+      paneles explican la vida de los líquenes, el valor de las turberas, las aves del bosque de alerces y
+      pino cembro y el sentido de la ganadería de montaña tradicional, y junto a la Hofalm hay un pequeño
+      museo de las majadas.
+
+
+      Si quieres subir un nivel, la Lienzer Hütte es la base de las rutas largas. Hasta el lago Gartlsee, a
+      2.571 metros, la ida y vuelta son cinco horas y unos 500 metros de desnivel, por terreno de
+      desprendimientos y con buen pie. El Lienzer Höhenweg ofrece un recorrido circular de cinco horas que,
+      tras un tramo casi llano hasta la Trelebitsch Alm, baja 300 metros hasta Seichenbrunn. Y para dos días,
+      la travesía de Seichenbrunn al refugio Wangenitzsee y a la Lienzer Hütte suma seis horas y 890 metros de
+      desnivel; desde la Untere Seescharte, a unos 2.530 metros, se ven los lagos Kreuzsee y Wangenitzsee
+      justo bajo el refugio. Los más ambiciosos tienen el Petzeck desde Seichenbrunn: 16,6 kilómetros, diez
+      horas y dificultad alta. A la Lienzer Hütte se llega también por el Wiener Höhenweg, desde el este, o
+      por el Lienzer Höhenweg, desde Zettersfeld, y se puede subir en bicicleta.
+    history: >-
+      El Debanttal es un valle de ganaderos. Las praderas y majadas las trabajan sobre todo agricultores de
+      Nußdorf-Debant, y buena parte de las majadas pertenece a comunidades agrarias. Para abrir pastos se taló
+      el bosque menos productivo, y por eso el arbolado termina hoy más abajo de lo natural.
+
+
+      El Parque Nacional Hohe Tauern existe desde 1981, y fue el primero de Austria. Con sus 332 glaciares y
+      la mayor zona Natura 2000 continua de Austria, protege también a los íbices, hoy unos 1.100,
+      reintroducidos en los años sesenta.
+    before: >-
+      Las rutas de altura exigen buen pie y equipo de montaña. La Lienzer Hütte es la única cabaña de montaña
+      del Debanttal, así que planifica las etapas largas con ella como base. El sendero temático es fácil; la
+      caminata al Gartlsee exige paso seguro.
+    around: >-
+      A 5 km está el [Parque Nacional Hohe Tauern - Valle de Umbal y Cabecera del
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), y a 6 km la [Ankogelgruppe - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), otros dos sectores del mismo parque. Más lejos, el [Parque
+      Nacional de la Vanoise](/lugar/parc-national-de-la-vanoise/) y el [Parque Nacional del Gran
+      Paradiso](/lugar/parco-nazionale-gran-paradiso/) comparten con la Schobergruppe el íbice, el águila real
+      y el rebeco, además de la alta montaña y los glaciares.
+  en:
+    intro: >-
+      Here there are no cable cars, no ski lifts, and no roads. The Schober Group is a high mountain massif in
+      the southern Hohe Tauern between East Tyrol and Carinthia, with more than 400 peaks and cirques and some
+      thirty peaks over 3,000 meters. The highest is Petzeck at 3,283 m, and the entire heart of the massif is
+      preserved as a strict core zone. The main natural access route is the Debanttal, an alpine valley that
+      penetrates deep into the heart of the massif from near Lienz.
+    landscape: >-
+      Water and frost shattered the rock. Today the massif preserves twenty-five glaciers covering around 2.5
+      km², and in the Debanttal only relict ice masses remain, the largest being the Viehkofelkees below the
+      Ralfkopf.
+
+
+      The valley extends sixteen kilometers, considered by the park authorities to be the longest enclosed
+      alpine pasture valley in Austria. Through it flows the Debantbach torrent. Ascending, the landscape
+      shifts in elevational zones: spruce forest at the lower entrance up to Seichenbrunn; followed by larch
+      pasture shaped by human history; and beyond Hofalm, old-growth larch and Swiss stone pine forest.
+      Historic logging depressed the treeline to 2,000 meters, though its natural potential lies between 2,300
+      and 2,400 meters. Above, rusty-leaved alpenrose and bilberry dominate hollows where snow lingers
+      longest, while at the source of the Debantbach at 2,300 meters, a spring mire gathers rare mosses and
+      plants such as starry saxifrage. Beneath the three-thousand-meter peaks, vast boulder screes dominate.
+    wildlife: >-
+      Isolation here fosters thriving wildlife. The Debanttal is rich in large game and represents one of the
+      park areas with the most red deer; roe deer, [chamois](/especie/rupicapra_rupicapra/), and an abundant
+      population of [alpine marmots](/especie/marmota_marmota/) are also widespread. Marmots live in family
+      clans in burrows between 1,400 and 2,700 meters, communicating through whistles: a sequence warns of
+      danger on the ground; a single whistle signals an approaching eagle. If you hear it, look skyward. The
+      valley shelters two nesting pairs of [golden eagle](/especie/aquila_chrysaetos/), and in 2014 two
+      [bearded vultures](/especie/gypaetus_barbatus/) were released, continuing reintroductions underway in
+      the Hohe Tauern since 1986. Occasionally [alpine ibex](/especie/capra_ibex/) descend from Kals or
+      Heiligenblut, and the [Eurasian lynx](/especie/lynx_lynx/) also roams the valley.
+
+
+      The mountain calendar is marked by blooms. Alpenrose paints the slopes bright pink between May and early
+      July, depending on altitude. Winter belongs to few: occasional ski mountaineers explore the western
+      headwaters, as plans to develop the valley for downhill skiing were permanently abandoned due to high
+      avalanche risk.
+    visit: >-
+      Everything starts at the Seichenbrunn parking area. From Lienz, head toward Nußdorf-Debant and follow
+      signs into the Debanttal within the national park.
+
+
+      The gentlest excursion is the nature and culture theme trail, following the Debantbach past Gaimberger
+      Alm and Hofalm to the Lienzer Hütte: an hour and a half, roughly 300 meters of elevation gain, easy and
+      family-friendly. Interpretive panels explain lichen ecology, wetland value, birds of the larch-stone
+      pine forest, and historic alpine transhumance; a small alpine dairy museum stands beside Hofalm.
+
+
+      For more demanding hiking, the Lienzer Hütte serves as the hub for long routes. A round trip to Lake
+      Gartlsee at 2,571 meters takes five hours and some 500 meters of ascent over loose scree requiring
+      surefootedness. The Lienzer Höhenweg offers a five-hour circuit that, after a gentle traverse to
+      Trelebitsch Alm, drops 300 meters back to Seichenbrunn. For a two-day trek, the route from Seichenbrunn
+      to Wangenitzsee hut and Lienzer Hütte totals six hours and 890 meters of ascent; from the Untere
+      Seescharte at around 2,530 meters, you gaze upon Kreuzsee and Wangenitzsee right below the shelter.
+      Ambitious mountaineers can tackle Petzeck from Seichenbrunn: 16.6 kilometers, ten hours, and high
+      difficulty. The Lienzer Hütte can also be reached along the Wiener Höhenweg from the east or the Lienzer
+      Höhenweg from Zettersfeld, and mountain biking is permitted on designated tracks.
+    history: >-
+      The Debanttal is historically a valley of alpine herders. High pastures and hayfields are worked
+      primarily by farmers from Nußdorf-Debant, with many community-held alms. Historic clearing opened
+      pastures in less productive timber, which is why the forest margin ends lower than natural conditions
+      dictate.
+
+
+      Hohe Tauern National Park was established in 1981 as Austria's first national park. With 332 glaciers
+      and the largest contiguous Natura 2000 sanctuary in Austria, it also shelters around 1,100 alpine ibex,
+      successfully reintroduced from the sixties onward.
+    before: >-
+      High-altitude trails demand sturdy alpine boots, surefootedness, and proper mountain gear. The Lienzer
+      Hütte is the only mountain lodge in the Debanttal, so plan multi-day itineraries with it as your base.
+      The valley theme path is gentle; ascents like Gartlsee require solid mountain walking experience.
+    around: >-
+      At 5 km lies [Hohe Tauern National Park - Umbal Valley and Upper
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), and at 6 km the [Ankogel Group - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), two other sectors of the same park. Further afield,
+      [Vanoise National Park](/lugar/parc-national-de-la-vanoise/) and [Gran Paradiso National
+      Park](/lugar/parco-nazionale-gran-paradiso/) share alpine ibex, golden eagles, chamois, glaciated peaks,
+      and high mountain silence with the Schober Group.
+  fr:
+    intro: >-
+      Ici, il n'y a ni téléphériques, ni remontées mécaniques, ni routes carrossables. Le groupe du Schober
+      est un massif de haute montagne des Hohe Tauern méridionales, à cheval entre le Tyrol oriental et la
+      Carinthie, comptant plus de 400 cimes et combes glaciaires et une trentaine de sommets dépassant les 3
+      000 mètres. Le point culminant est le Petzeck à 3 283 m, et tout le cœur du massif est classé en zone
+      centrale protégée. La voie d'accès royale est le Debanttal, une vallée alpine qui s'enfonce dans le
+      massif depuis les abords de Lienz.
+    landscape: >-
+      L'eau et le gel ont façonné la roche. Le massif conserve aujourd'hui vingt-cinq glaciers couvrant
+      environ 2,5 km², et dans le Debanttal ne subsistent que des névés et glaciers fossiles, le plus grand
+      étant le Viehkofelkees sous le Ralfkopf.
+
+
+      La vallée s'étend sur seize kilomètres, considérée par le parc comme la plus longue vallée d'alpages
+      fermée d'Autriche. Elle est parcourue par le ruisseau Debantbach. En montant, le paysage s'étage :
+      pessière à l'entrée jusqu'à Seichenbrunn ; puis forêt claire de mélèzes façonnée par l'agropastoralisme
+      ; et au-delà de la Hofalm, forêt mixte de mélèzes et de pins cembro. Les défrichements historiques ont
+      abaissé la limite des arbres à 2 000 mètres, alors que son niveau potentiel naturel se situerait entre 2
+      300 et 2 400 mètres. Au-dessus, le rhododendron ferrugineux et l'airelle dominent dans les combes à
+      neige, et à la source du Debantbach à 2 300 mètres, une tourbière de source rassemble des mousses et des
+      espèces rares comme la saxifrage étoilée. Sous les crêtes de trois mille mètres règnent d'immenses
+      pierriers.
+    wildlife: >-
+      L'isolement profite à la faune montagnarde. Le Debanttal est très giboyeux et constitue l'un des
+      secteurs du parc les plus riches en cerfs élaphes ; on y croise aussi chevreuils,
+      [chamois](/especie/rupicapra_rupicapra/) et une importante colonie de [marmottes des
+      Alpes](/especie/marmota_marmota/). Les marmottes vivent en clans familiaux dans des terriers entre 1 400
+      et 2 700 mètres et s'avertissent par sifflements : une série annonce un prédateur terrestre ; un
+      sifflement bref et strident prévient d'un rapace en vol. Si vous l'entendez, levez les yeux. Deux
+      couples d'[aigle royal](/especie/aquila_chrysaetos/) nichent dans la vallée, et en 2014 deux jeunes
+      [gypaètes barbus](/especie/gypaetus_barbatus/) y ont été relâchés, prolongeant les réintroductions
+      engagées dans les Hohe Tauern depuis 1986. De temps à autre, des [bouquetins des
+      Alpes](/especie/capra_ibex/) descendent de Kals ou Heiligenblut, et le [lynx
+      boréal](/especie/lynx_lynx/) fréquente également la vallée.
+
+
+      Les saisons se lisent dans les floraisons alpines. Les rhododendrons embrasent les pentes de rose vif
+      entre mai et début juillet selon l'altitude. L'hiver n'attire que de rares initiés : quelques skieurs de
+      randonnée parcourent le fond de vallée occidental, le projet d'aménagement pour le ski alpin ayant été
+      abandonné en raison du danger d'avalanches.
+    visit: >-
+      Tout commence au parking de Seichenbrunn. Depuis Lienz, prenez la direction de Nußdorf-Debant et suivez
+      les panneaux indiquant le Debanttal dans le parc national.
+
+
+      La balade la plus accessible est le sentier thématique nature et culture, qui longe le Debantbach par la
+      Gaimberger Alm et la Hofalm jusqu'au refuge Lienzer Hütte : une heure et demie, environ 300 mètres de
+      dénivelé, sans difficulté technique. Ses panneaux commentent la vie des lichens, le rôle des zones
+      humides, l'avifaune des forêts de mélèzes et de pins cembro et le pastoralisme traditionnel ; un modeste
+      musée de l'alpage jouxte la Hofalm.
+
+
+      Pour aller plus haut, la Lienzer Hütte est le point d'appui des grandes courses. L'aller-retour jusqu'au
+      lac de Gartlsee à 2 571 mètres demande cinq heures et 500 mètres de dénivelé dans un pierrier exigeant
+      un pied sûr. Le sentier d'altitude Lienzer Höhenweg offre une boucle de cinq heures qui, après un
+      faux-plat vers la Trelebitsch Alm, redescend de 300 mètres vers Seichenbrunn. En deux jours, la
+      traversée de Seichenbrunn au refuge Wangenitzsee puis à la Lienzer Hütte cumule six heures et 890 mètres
+      de dénivelé ; depuis l'Untere Seescharte à environ 2 530 mètres, la vue plonge sur les lacs Kreuzsee et
+      Wangenitzsee. Les montagnards aguerris viseront le Petzeck depuis Seichenbrunn : 16,6 kilomètres, dix
+      heures de marche et haute difficulté. On accède aussi à la Lienzer Hütte par le Wiener Höhenweg depuis
+      l'est ou le Lienzer Höhenweg depuis Zettersfeld, et le VTT est autorisé sur pistes balisées.
+    history: >-
+      Le Debanttal est une vallée d'alpages séculaires. Pâtures et prairies de fauche sont exploitées par les
+      agriculteurs de Nußdorf-Debant, une large part des alpages appartenant à des coopératives pastorales.
+      Les défrichements anciens destinés à ouvrir des parcours à bétail expliquent pourquoi la lisière
+      forestière actuelle se trouve plus bas que son optimum biologique.
+
+
+      Le parc national des Hohe Tauern a vu le jour en 1981, premier parc national d'Autriche. Fort de ses 332
+      glaciers et du plus vaste espace Natura 2000 d'un seul tenant en Autriche, il abrite environ 1 100
+      bouquetins réintroduits à partir des années soixante.
+    before: >-
+      Les itinéraires d'altitude requièrent de solides chaussures de montagne, un pied montagnard et un
+      équipement adapté. La Lienzer Hütte est l'unique refuge gardé du Debanttal : planifiez vos étapes en
+      prenant cet établissement pour camp de base. Le sentier thématique est facile ; la montée au Gartlsee
+      exige de l'assurance en terrain instable.
+    around: >-
+      À 5 km se situe le [parc national des Hohe Tauern - Vallée d'Umbal et cours supérieur de
+      l'Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), et à 6 km le [groupe de l'Ankogel - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), deux autres secteurs du même parc national. Plus loin, le
+      [parc national de la Vanoise](/lugar/parc-national-de-la-vanoise/) et le [parc national du
+      Grand-Paradis](/lugar/parco-nazionale-gran-paradiso/) partagent avec le Schober bouquetin, aigle royal,
+      chamois et paysages de haute montagne glaciaire.
+  de:
+    intro: >-
+      Hier gibt es keine Bergbahnen, keine Skilifte und keine Straßen. Die Schobergruppe ist ein hochalpines
+      Felsmassiv in den südlichen Hohen Tauern zwischen Osttirol und Kärnten mit mehr als 400 Gipfeln und
+      Karen sowie rund dreißig Gipfeln über 3.000 Metern. Der höchste ist das Petzeck mit 3.283 m, und das
+      gesamte Herz des Massivs ist als streng geschützte Kernzone ausgewiesen. Der natürliche Hauptzugang ist
+      das Debanttal, das von Lienz aus tief in das Gebirgsmassiv hineinführt.
+    landscape: >-
+      Wasser und Frost haben das Gestein zerklüftet. Heute bewahrt das Massiv noch fünfundzwanzig Gletscher,
+      die rund 2,5 km² bedecken, und im Debanttal sind nur noch Reste wie das Viehkofelkees unterhalb des
+      Ralfkopfs erhalten.
+
+
+      Das Tal erstreckt sich über sechzehn Kilometer und gilt der Nationalparkverwaltung als das längste
+      geschlossene Almtal Österreichs. Es wird vom Debantbach durchflossen. Talaufwärts wechselt die
+      Landschaft in Höhenstufen: Fichtenwald am Eingang bis Seichenbrunn; danach lichter, anthropogen
+      geformter Lärchenwald; und ab der Hofalm der urige Lärchen-Zirben-Wald. Historische Rodungen senkten die
+      Waldgrenze auf 2.000 Meter ab, obwohl sie natürlicherweise zwischen 2.300 und 2.400 Metern läge. Darüber
+      herrschen Rostblättrige Alpenrose und Heidelbeere in Schneetälchen vor, und an der Quelle des
+      Debantbachs auf 2.300 Metern gedeiht in einem Quellmoor eine reiche Flora mit Stern-Steinbrech.
+      Unterhalb der Dreitausender beherrschen riesige Blockschutthalden das Bild.
+    wildlife: >-
+      Die Abgeschiedenheit kommt der Tierwelt zugute. Das Debanttal ist wildreich und gehört zu den
+      rotwildreichsten Tälern des Nationalparks; auch Rehe, [Gämsen](/especie/rupicapra_rupicapra/) und eine
+      dichte Population von [Alpenmurmeltieren](/especie/marmota_marmota/) sind hier heimisch. Murmeltiere
+      leben in Familienverbänden in Bauen zwischen 1.400 und 2.700 Metern und warnen einander mit Pfiffen:
+      Eine Pfiffserie signalisiert Gefahr am Boden; ein einzelner gellender Pfiff kündigt einen Adler an. Wenn
+      du ihn hörst, blicke nach oben. Im Tal nisten zwei Paare des [Steinadlers](/especie/aquila_chrysaetos/),
+      und 2014 wurden zwei [Bartgeier](/especie/gypaetus_barbatus/) freigelassen, Teil des seit 1986 in den
+      Hohen Tauern laufenden Wiederansiedlungsprojekts. Gelegentlich wechseln
+      [Alpensteinböcke](/especie/capra_ibex/) aus Kals oder Heiligenblut herüber, und auch der [Eurasische
+      Luchs](/especie/lynx_lynx/) durchstreift das Tal.
+
+
+      Der Jahreslauf spiegelt sich in den Blüten wider. Die Alpenrose taucht die Berghänge von Mai bis Anfang
+      Juli je nach Höhenlage in leuchtendes Rosa. Der Winter gehört wenigen: Gelegentlich nutzen
+      Skitourengeher den Talschluss, da Pläne zur Erschließung für den alpinen Skilauf wegen akuter
+      Lawinengefahr verworfen wurden.
+    visit: >-
+      Ausgangspunkt aller Touren ist der Parkplatz Seichenbrunn. Von Lienz fährst du über Nußdorf-Debant den
+      Schildern folgend ins Debanttal im Nationalpark.
+
+
+      Die gemütlichste Wanderung ist der Natur- und Kulturlehrweg, der dem Debantbach über Gaimberger Alm und
+      Hofalm zur Lienzer Hütte folgt: anderthalb Stunden, rund 300 Höhenmeter, ohne jede Schwierigkeit.
+      Schautafeln erläutern Flechten, Feuchtbiotope, Vögel des Zirbenwaldes und traditionelle
+      Almbewirtschaftung; bei der Hofalm informiert ein kleines Almmuseum.
+
+
+      Für anspruchsvollere Bergtouren ist die Lienzer Hütte der zentrale Stützpunkt. Zum Gartlsee auf 2.571
+      Metern Höhe dauert der Hin- und Rückweg fünf Stunden bei 500 Höhenmetern über Blockschutt, der
+      Trittsicherheit verlangt. Der Lienzer Höhenweg bietet eine fünfstündige Rundtour, die nach Querung zur
+      Trelebitsch Alm 300 Höhenmeter nach Seichenbrunn absteigt. Für zwei Tage verbindet die Tour Seichenbrunn
+      mit der Wangenitzseehütte und der Lienzer Hütte in sechs Stunden bei 890 Höhenmetern; von der Unteren
+      Seescharte auf rund 2.530 Metern blickt man auf Kreuzsee und Wangenitzsee. Sehr konditionsstarke
+      Bergsteiger besteigen das Petzeck ab Seichenbrunn: 16,6 Kilometer, zehn Stunden Gehzeit und hohe alpine
+      Schwierigkeit. Die Lienzer Hütte ist zudem über den Wiener Höhenweg von Osten oder den Lienzer Höhenweg
+      vom Zettersfeld erreichbar; Mountainbiken ist auf ausgewiesenen Wegen gestattet.
+    history: >-
+      Das Debanttal ist seit Jahrhunderten ein Almtal. Die Mähder und Almen werden vor allem von Bauern aus
+      Nußdorf-Debant bewirtschaftet, ein Großteil gehört Agrargemeinschaften. Frühere Rodungen schufen
+      Weideflächen, weshalb die Waldgrenze heute künstlich tiefer liegt als von Natur aus.
+
+
+      Der Nationalpark Hohe Tauern wurde 1981 als erster Nationalpark Österreichs gegründet. Mit 332
+      Gletschern und dem größten zusammenhängenden Natura-2000-Gebiet Österreichs schützt er auch rund 1.100
+      Steinböcke, die seit den sechziger Jahren erfolgreich wiederangesiedelt wurden.
+    before: >-
+      Hochalpine Routen erfordern Trittsicherheit, Schwindelfreiheit und wetterfeste Bergausrüstung. Die
+      Lienzer Hütte ist der einzige bewirtschaftete Schutzbau im Debanttal; plane Mehrtagestouren mit ihr als
+      Basis. Der Lehrweg ist leicht begehbar; Anstiege wie zum Gartlsee erfordern alpine Erfahrung.
+    around: >-
+      In 5 km Entfernung liegt der [Nationalpark Hohe Tauern - Umbaltal und
+      Isel-Oberlauf](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), und in 6 km die [Ankogelgruppe - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), zwei weitere Teilbereiche desselben Parks. Weiter entfernt
+      teilen der [Nationalpark Vanoise](/lugar/parc-national-de-la-vanoise/) und der [Nationalpark Gran
+      Paradiso](/lugar/parco-nazionale-gran-paradiso/) Steinbock, Steinadler, Gämse und hochalpine
+      Gletscherwelten mit der Schobergruppe.
+  it:
+    intro: >-
+      Qui non ci sono funivie, né skilift, né strade asfaltate. Il gruppo dello Schober è un massiccio
+      montuoso d'alta quota negli Alti Tauri meridionali, tra il Tirolo Orientale e la Carinzia, con più di
+      400 creste e circhi glaciali e una trentina di vette che superano i 3.000 metri. La cima più elevata è
+      il Petzeck con 3.283 m, e l'intero nucleo del massiccio è protetto come zona centrale a tutela
+      integrale. La via d'accesso principale è la Debanttal, una valle alpina che si incunea nel massiccio
+      partendo dalle vicinanze di Lienz.
+    landscape: >-
+      L'acqua e il gelo hanno frantumato la roccia. Oggi il massiccio custodisce ancora venticinque ghiacciai
+      che coprono circa 2,5 km², e nella Debanttal sopravvivono solo corpi glaciali fossili, il maggiore dei
+      quali è il Viehkofelkees sotto il Ralfkopf.
+
+
+      La valle si allunga per sedici chilometri, considerata dall'ente parco la più lunga valle ad alpeggio
+      chiusa dell'Austria. È percorsa dal torrente Debantbach. Risalendola, il paesaggio muta per fasce
+      altitudinali: bosco di abete rosso all'imbocco fino a Seichenbrunn; poi un lariceto pascolato modellato
+      dall'uomo; e dalla Hofalm in su, il bosco misto di larice e pino cembro. I disboscamenti storici hanno
+      abbassato il limite della vegetazione arborea a 2.000 metri, sebbene la quota potenziale naturale si
+      collocherebbe tra 2.300 e 2.400 metri. Più in alto dominano il rododendro rugginoso e il mirtillo nelle
+      vallette nivali, e alla sorgente del Debantbach a quota 2.300 metri una torbiera sorgiva accoglie muschi
+      e piante rare come la sassifraga stellata. Sotto le creste dei tremila metri regnano immense pietraie.
+    wildlife: >-
+      L'isolamento geografico favorisce una fauna straordinaria. La Debanttal è ricca di ungulati e
+      costituisce uno dei comprensori del parco con la più alta densità di cervi; sono comuni anche caprioli,
+      [camosci alpini](/especie/rupicapra_rupicapra/) e una cospicua popolazione di
+      [marmotte](/especie/marmota_marmota/). Le marmotte vivono in nuclei familiari in tane scavate tra 1.400
+      e 2.700 metri, comunicando tramite fischi: una serie annuncia un predatore terrestre; un fischio singolo
+      e acuto segnala l'avvicinarsi di un'aquila. Se lo senti, volgi lo sguardo in alto. Nella valle
+      nidificano due coppie di [aquila reale](/especie/aquila_chrysaetos/), e nel 2014 sono stati liberati due
+      [gipeti](/especie/gypaetus_barbatus/), nell'ambito del programma di reintroduzione avviato negli Alti
+      Tauri sin dal 1986. Di tanto in tanto compaiono [stambecchi](/especie/capra_ibex/) provenienti da Kals o
+      Heiligenblut, e anche la [lince eurasiatica](/especie/lynx_lynx/) si sposta nella valle.
+
+
+      Il ritmo stagionale si legge nelle fioriture. I rododendri tingono i pendii di rosa acceso tra maggio e
+      inizio luglio a seconda della quota. L'inverno appartiene a pochissimi: qualche scialpinista frequenta
+      la testata occidentale, poiché i vecchi progetti di impianti sciistici furono accantonati per l'alto
+      rischio di valanghe.
+    visit: >-
+      Il punto di partenza è il parcheggio di Seichenbrunn. Da Lienz si sale verso Nußdorf-Debant seguendo i
+      cartelli per la Debanttal nel parco nazionale.
+
+
+      L'itinerario più agevole è il sentiero tematico naturalistico e culturale lungo il Debantbach, toccando
+      Gaimberger Alm e Hofalm fino alla Lienzer Hütte: un'ora e mezza, circa 300 metri di dislivello, privo di
+      difficoltà. I pannelli descrivono i licheni, le torbiere, l'avifauna dei boschi di larici e cembri e la
+      pastorizia alpina; presso la Hofalm sorge un piccolo museo dell'alpeggio.
+
+
+      Per escursioni più impegnative, la Lienzer Hütte costituisce il fulcro ideale. La salita al lago
+      Gartlsee a 2.571 metri richiede cinque ore tra andata e ritorno e circa 500 metri di dislivello su
+      ghiaioni che esigono passo sicuro. Il Lienzer Höhenweg offre un anello di cinque ore che, dopo un tratto
+      pianeggiante verso la Trelebitsch Alm, scende di 300 metri a Seichenbrunn. Su due giorni, la traversata
+      da Seichenbrunn al rifugio Wangenitzsee e alla Lienzer Hütte assomma a sei ore e 890 metri di
+      dislivello; dalla Untere Seescharte a circa 2.530 metri si aprono i laghi Kreuzsee e Wangenitzsee. Gli
+      escursionisti più esperti possono scalare il Petzeck da Seichenbrunn: 16,6 chilometri, dieci ore e
+      notevole difficoltà alpinistica. Alla Lienzer Hütte si perviene anche attraverso il Wiener Höhenweg da
+      est o il Lienzer Höhenweg da Zettersfeld, con percorsi aperti anche alla mountain bike.
+    history: >-
+      La Debanttal è storicamente una valle di pascoli alpini. Prati e malghe sono gestiti dagli agricoltori
+      di Nußdorf-Debant, appartenendo in gran parte a consorzi agrari. I disboscamenti praticati per aprire
+      pascoli spiegano perché il bosco si arresti oggi più in basso rispetto al limite climatico naturale.
+
+
+      Il Parco Nazionale degli Alti Tauri è stato istituito nel 1981, primo parco nazionale d'Austria. Con i
+      suoi 332 ghiacciai e la maggiore area Natura 2000 continua dell'Austria, protegge circa 1.100 stambecchi
+      alpini, reintrodotti con successo a partire dagli anni sessanta.
+    before: >-
+      I percorsi d'alta quota richiedono calzature da montagna, passo fermo e abbigliamento per terreni
+      impervi. La Lienzer Hütte è l'unico rifugio gestito della Debanttal: programma le tappe lunghe usandola
+      come base. Il sentiero tematico è facile; salite come quella al Gartlsee richiedono esperienza di
+      montagna.
+    around: >-
+      A 5 km sorge il [Parco Nazionale Hohe Tauern - Valle di Umbal e Sorgenti
+      dell'Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), e a 6 km l'[Ankogelgruppe - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), altri due settori del medesimo parco. Più lontano, il
+      [Parco Nazionale della Vanoise](/lugar/parc-national-de-la-vanoise/) e il [Parco Nazionale del Gran
+      Paradiso](/lugar/parco-nazionale-gran-paradiso/) condividono con lo Schober stambecco, aquila reale,
+      camoscio e grandiosi orizzonti glaciali.
+  pt:
+    intro: >-
+      Aqui não há teleféricos, nem pistas mecânicas, nem estradas de montanha. O grupo de Schober é um maciço
+      rochoso nos Hohe Tauern meridionais, entre o Tirol Oriental e a Caríntia, com mais de 400 cumes e circos
+      glaciares e cerca de trinta picos acima dos 3.000 metros. O ponto culminante é o Petzeck com 3.283 m,
+      estando todo o âmago do maciço resguardado como zona de reserva estrita. O eixo de penetração natural é
+      o Debanttal, um vale alpino que rasga o maciço a partir dos arredores de Lienz.
+    landscape: >-
+      A água e o gelo fraturaram a rocha ao longo das eras. Hoje o maciço conserva vinte e cinco glaciares que
+      recobrem cerca de 2,5 km², restando no Debanttal apenas campos de gelo estagnados, sendo o maior o
+      Viehkofelkees sob o Ralfkopf.
+
+
+      O vale prolonga-se por dezasseis quilómetros, considerado pela administração do parque como o mais longo
+      vale de pastagens fechado da Áustria. É sulcado pelo ribeiro Debantbach. À medida que se sobe, a
+      paisagem ordena-se em pisos de vegetação: mata de espruce à entrada até Seichenbrunn; depois um lariçal
+      de pastagem moldado pelo Homem; e a partir da Hofalm, o bosque autóctone de lariço e pinheiro-suíço. Os
+      cortes históricos rebaixaram o limite florestal para os 2.000 metros, embora o patamar potencial se
+      situasse entre os 2.300 e os 2.400 metros. Acima dominam o rododentro-ferrugíneo e o mirtilo nos covões
+      de neve, e na nascente do Debantbach a 2.300 metros, uma turfeira de cabeceira reúne briófitos e
+      espécies raras como a saxífraga-estrelada. Sob os cumes de três mil metros imperam vastos canchais.
+    wildlife: >-
+      O isolamento territorial beneficia amplamente a fauna selvagem. O Debanttal acolhe densas populações de
+      ungulados, sendo um dos setores com maior concentração de veados no parque; ocorrem também corças,
+      [camurças](/especie/rupicapra_rupicapra/) e um contingente expressivo de
+      [marmotas-dos-alpes](/especie/marmota_marmota/). As marmotas coabitam em clãs familiares em tocas
+      escavadas entre os 1.400 e os 2.700 metros, alertando-se mutuamente com assobios: uma sequência avisa de
+      ameaças no solo; um silvo isolado denuncia a aproximação de uma águia. Se o ouvires, olha para o céu. No
+      vale nidificam dois casais de [águia-real](/especie/aquila_chrysaetos/), e em 2014 foram soltos dois
+      [abutres-barbudos](/especie/gypaetus_barbatus/), integrados no plano de reintrodução nos Hohe Tauern
+      ativo desde 1986. De tempos a tempos descem [íbexes](/especie/capra_ibex/) de Kals ou Heiligenblut, e o
+      [lince-euroasiático](/especie/lynx_lynx/) vagueia também pelo vale.
+
+
+      O calendário anual reflete-se na flora alpina. Os rododendros cobrem as encostas de cor-de-rosa vivo
+      entre maio e princípios de julho conforme a cota. O inverno é domínio de poucos: alguns esquiadores de
+      travessia acorrem ao fundo do vale, tendo os planos de instalação de estâncias de esqui sido abandonados
+      devido ao elevado perigo de avalanches.
+    visit: >-
+      O ponto de partida é o parque de estacionamento de Seichenbrunn. A partir de Lienz deves seguir em
+      direção a Nußdorf-Debant e acompanhar as placas do Debanttal no parque nacional.
+
+
+      O itinerário mais suave é o percurso temático natural e cultural que segue o Debantbach pela Gaimberger
+      Alm e Hofalm até à Lienzer Hütte: hora e meia de caminhada, cerca de 300 metros de desnível, sem
+      qualquer dificuldade. Os painéis abordam a ecologia dos líquenes, o valor das turfeiras, a avifauna dos
+      lariçais e a transumância tradicional; junto à Hofalm funciona um pequeno museu dos pastores.
+
+
+      Para caminhadas de montanha, a Lienzer Hütte funciona como quartel-general. A subida à lagoa Gartlsee, a
+      2.571 metros de altitude, faz-se em cinco horas de ida e volta com 500 metros de desnível sobre blocos
+      de pedra que exigem passada firme. O Lienzer Höhenweg proporciona um circuito de cinco horas que, após
+      uma travessia suave até à Trelebitsch Alm, desce 300 metros até Seichenbrunn. Numa travessia de dois
+      dias, a ligação de Seichenbrunn ao refúgio Wangenitzsee e à Lienzer Hütte soma seis horas e 890 metros
+      de desnível; da Untere Seescharte, a cerca de 2.530 metros, descortinam-se as lagoas Kreuzsee e
+      Wangenitzsee. Os montanhistas experientes podem subir ao Petzeck a partir de Seichenbrunn: 16,6
+      quilómetros, dez horas e elevado grau de exigência. Aceder à Lienzer Hütte é igualmente viável pelo
+      Wiener Höhenweg a partir de leste ou pelo Lienzer Höhenweg desde Zettersfeld, sendo autorizado o uso de
+      bicicleta de montanha em pistas assinaladas.
+    history: >-
+      O Debanttal é ancestralmente um vale de criadores de gado. As pastagens e lameiros são explorados pelos
+      agricultores de Nußdorf-Debant, pertencendo grande parte a cooperativas agrárias. Os desbastes
+      florestais para alargar pastos explicam por que razão o bosque termina hoje abaixo da sua cota climática
+      natural.
+
+
+      O Parque Nacional Hohe Tauern foi criado em 1981, constituindo o primeiro parque nacional da Áustria.
+      Com os seus 332 glaciares e a maior reserva contínua Natura 2000 da Áustria, salvaguarda perto de 1.100
+      íbexes, restabelecidos com êxito a partir dos anos sessenta.
+    before: >-
+      Os percursos de altitude exigem bota de montanha, passada segura e equipamento para terreno alpino. A
+      Lienzer Hütte é o único refúgio de montanha com serviços no Debanttal: planeia as etapas com ela como
+      ponto de apoio. O trilho interpretativo é fácil; subidas como a da lagoa Gartlsee requerem experiência
+      alpina.
+    around: >-
+      A 5 km situa-se o [Parque Nacional Hohe Tauern - Vale de Umbal e Cabeceira do
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/), e a 6 km o [Grupo de Ankogel - Hohe
+      Tauern](/lugar/ankogelgruppe---hohe-tauern/), outros dois setores do mesmo parque. Mais longe, o [Parque
+      Nacional da Vanoise](/lugar/parc-national-de-la-vanoise/) e o [Parque Nacional Gran
+      Paradiso](/lugar/parco-nazionale-gran-paradiso/) partilham com o grupo de Schober o íbex, a águia-real,
+      a camurça e vastas paisagens glaciares.
+fuentes:
+  - url: https://hohetauern.at/images/dateien/forschung/20190313_BeschreibungUntersuchungsgebietTAV2019.pdf
+    titulo: 13. Tag der Artenvielfalt im Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/np-blog/nationalpark-blog/27-news/2668-20-tag-der-artenvielfalt-im-debanttal.html
+    titulo: 20. Tag der Artenvielfalt im Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://www.osttirol.com/aktiv-outdoor/wandern/detail/petzeck
+    titulo: Petzeck - Osttirol Tourismus
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Schobergruppe
+    titulo: Schobergruppe – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/besuchen/themenwege/natur-und-kulturschaetze-im-nationalpark-hohe-tauern/323-natur-und-kulturweg-debanttal.html
+    titulo: Natur- und Kulturweg Debanttal – Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Debanttal
+    titulo: Debanttal – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/natur/tierwelt.html
+    titulo: Tierwelt im Reich der Superlative – Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/natur/pflanzenwelt.html
+    titulo: Pflanzen - eine Welt für Spezialisten – Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/natur/gletscher-und-wasser.html
+    titulo: Gletscher und Wasser – Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://hohetauern.at/de/natur/natura-2000.html
+    titulo: Natura 2000 Gebiet Nationalpark Hohe Tauern – Nationalpark Hohe Tauern
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Nationalpark_Hohe_Tauern
+    titulo: Nationalpark Hohe Tauern – Wikipedia
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Blauspitze.jpg
+    autor: FkMohr
+    licencia: CC BY-SA 3.0 de
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+    fecha_descarga: '2026-10-17'

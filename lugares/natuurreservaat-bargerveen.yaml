@@ -1,0 +1,516 @@
+id: natuurreservaat-bargerveen
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de Bargerveen
+  en: Bargerveen Nature Reserve
+  fr: Réserve naturelle de Bargerveen
+  de: Naturschutzgebiet Bargerveen
+  it: Riserva Naturale di Bargerveen
+  pt: Reserva Natural de Bargerveen
+nombre_original: Natuurreservaat Bargerveen
+alias:
+  - Bargerveen
+paises:
+  - NL
+region:
+  es: Drenthe (Emmen / Zwartemeer)
+  en: Drenthe (Emmen / Zwartemeer)
+  fr: Drenthe (Emmen / Zwartemeer)
+  de: Drenthe (Emmen / Zwartemeer)
+  it: Drenthe (Emmen / Zwartemeer)
+  pt: Drenthe (Emmen / Zwartemeer)
+ubicacion:
+  tipo: punto
+  lat: 52.68
+  lon: 7.03
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555514252
+  nombre_en_la_fuente: Bargerveen
+  categoria_uicn: IV
+  capa: capas/cdda/natuurreservaat-bargerveen.geojson
+habitats:
+  - wetland
+designaciones:
+  - ramsar
+  - natura2000
+especies:
+  - saxicola_rubetra
+  - cygnus_cygnus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera a otoño
+  en: spring to autumn
+  fr: printemps à automne
+  de: Frühling bis Herbst
+  it: da primavera ad autunno
+  pt: primavera a outono
+masificacion: 1
+valoracion: 2
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y normas — Bargerveen, información de visita de Veenland
+    url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/veenland/toegankelijkheid
+  - titulo: Rutas y mapa — Bargerveen a pie y en bicicleta
+    url: https://www.staatsbosbeheer.nl/-/media/veenland/fiets-wandelfolder-bargerveen.pdf
+  - titulo: Ruta y acceso — Weiteveen y Bargerveen
+    url: https://www.naturpark-moor.eu/nl/tour/weiteveenroute
+resumen:
+  es: Último gran resto conservado de la inmensa turbera Bourtanger Moor en la frontera con Alemania.
+  en: Last large preserved remnant of the vast Bourtanger Moor raised bog on the border with Germany.
+  fr: Dernier grand vestige préservé de l'immense tourbière du Bourtanger Moor à la frontière avec l'Allemagne.
+  de: Letzter großer erhaltener Rest des riesigen Hochmoors Bourtanger Moor an der Grenze zu Deutschland.
+  it: Ultimo grande resto conservato dell'immensa torbiera Bourtanger Moor al confine con la Germania.
+  pt: Último grande resto conservado da imensa turfeira Bourtanger Moor na fronteira com a Alemanha.
+unico:
+  es: >-
+    Un trozo de turbera alta sin excavar, con plantas que no crecen en ningún otro rincón del país, en la
+    frontera con Alemania.
+  en: >-
+    A piece of unexcavated raised bog, with plants that grow nowhere else in the country, right on the German
+    border.
+  fr: >-
+    Un lambeau de tourbière haute non creusée, avec des plantes qui ne poussent nulle part ailleurs dans le
+    pays, à la frontière allemande.
+  de: >-
+    Ein Stück unabgebautes Hochmoor mit Pflanzen, die sonst nirgendwo im Land wachsen, direkt an der deutschen
+    Grenze.
+  it: >-
+    Un lembo di torbiera alta non scavata, con piante che non crescono in nessun altro angolo del paese, al
+    confine con la Germania.
+  pt: >-
+    Um pedaço de turfeira alta por escavar, com plantas que não crescem em nenhum outro recanto do país, na
+    fronteira com a Alemanha.
+observaciones:
+  es: >-
+    Se admiten perros con correa en Bargerveen. Respeta los sectores cerrados por su fragilidad y las normas
+    de los paneles de la entrada.
+texto:
+  es:
+    intro: >-
+      El Bargerveen guarda lo que casi nadie conservó: un pedazo de turbera alta sin excavar. Es uno de los
+      mayores restos de turbera alta de Países Bajos, y en él queda aún turba viva, con unas plantas que son
+      únicas en el país, como el musgo de turbera de cinco hileras y el rocío de sol de hoja larga. Forma
+      parte del espacio natural Veenland, que incluye también Berkenrode y Oosterbos.
+
+
+      La reserva se compone de tres piezas: Meerstalblok, Amsterdamscheveld y Schoonebeekerveld. En cada una
+      la turba se excavó de forma distinta, a mano o a máquina, y de ahí sale su variedad: donde hubo casitas
+      se plantaron frutales, y en otros sitios se cultivó trigo sarraceno. El resultado es un mosaico de
+      turbera, brezal y bosquecillos.
+    landscape: >-
+      Durante siglos nadie quiso estos pantanos. Eran intransitables y estaban llenos de mosquitos, y los
+      dejaron en paz hasta que se vio que la turba servía de combustible.
+
+
+      El mejor lugar para entender lo que pasó es el montículo mirador Verlengde Noordersloot. Desde lo alto
+      se aprecia lo enorme que fue drenar este paisaje, y se ven los brezales extensos y los grandes pozos de
+      turba inundados al este y al sur. Entre los árboles hay huellas de las antiguas casas: claros con
+      castaños y frutales, pozos medio ocultos y los restos de la casa de Uneken, la granja de los últimos
+      habitantes del Bargerveen.
+
+
+      La extracción de turba terminó en 1992 y todo pasó a Staatsbosbeheer. En el Amsterdamscheveld la turba
+      salía por una vía estrecha hasta la fábrica de la Griendtsveen Turfstrooisel Maatschappij. Hoy la
+      gestión busca que vuelva a formarse turbera viva. Contra lo esperado, la turbera viva no brotó primero
+      en el Meerstalblok sino en los pozos de las antiguas casas. A comienzos del siglo XXI se construyeron al
+      norte un embalse de agua alta y otro de agua baja para estabilizar el nivel del agua. En 2016 la
+      provincia de Drenthe lo declaró monumento geológico.
+    wildlife: >-
+      Hay más de 300 especies de aves registradas, y cada año crían entre 100 y 120. Entre la fauna están el
+      chotacabras europeo, el búho campestre, el [aguilucho pálido](/especie/circus_cyaneus/), el alcaudón
+      dorsirrojo y el zampullín común.
+
+
+      Mirando más abajo, la variedad es igual de notable. Además de decenas de especies de mariposas diurnas y
+      libélulas, hay casi 1000 especies de polillas. Crecen las tres especies de rocío de sol (redondo,
+      pequeño y el raro de hoja larga) y 15 especies de musgo de turbera. Entre los reptiles figuran la víbora
+      europea, la culebra lisa y el lagarto vivíparo; entre los anfibios, la rara rana campestre.
+    visit: >-
+      La reserva está abierta todo el año por los caminos y senderos que se abren, aunque algunos sectores
+      sensibles están cerrados. Se puede entrar por cuatro aparcamientos del lado neerlandés. En torno a
+      Bargerveen hay redes de puntos señalizados para caminar y para ir en bicicleta, y continúan al otro lado
+      de la frontera alemana.
+
+
+      Desde el aparcamiento norte se llega en silla de ruedas o scooter hasta la caseta de observación de aves
+      y la colina-mirador Verlengde Noordersloot. En Weiteveen, el Veenloopcentrum inicia rutas a pie y en
+      bicicleta por el área. La Weiteveenroute empieza en este centro, que fue casa parroquial y es la puerta
+      de entrada a la turbera, y en ella la «Stilteplaats», una antigua granja, es un lugar de silencio que
+      merece un pequeño desvío. Junto a la turbera hay un redil, el mayor de Países Bajos, con establo para
+      más de 1.000 ovejas y balaustradas para verlas desde arriba.
+    history: >-
+      El primer tramo del Bargerveen pasó a manos de Staatsbosbeheer en 1968. Desde 2006 forma parte del
+      parque natural internacional Bourtanger Moor-Bargerveen. En el Veenloopcentrum se explica cómo vivían
+      los pioneros y las monjas de la turbera; en 1925 unas monjas franciscanas construyeron allí una casa
+      para las hermanas.
+    before: >-
+      Se admiten perros con correa en Bargerveen. Respeta los sectores cerrados por su fragilidad y las normas
+      de los paneles de la entrada.
+    around: >-
+      A trece kilómetros está la [Reserva Natural Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/). A mayor distancia, el [Parque Nacional
+      Desembocadura del Warta](/lugar/park-narodowy-ujscie-warty/), el [Parque Nacional de
+      Polesie](/lugar/poleski-park-narodowy/) y [The Flow Country](/lugar/the-flow-country/) comparten con el
+      Bargerveen el cisne cantor.
+  en:
+    intro: >-
+      Bargerveen preserves what almost nobody kept: a piece of unexcavated raised bog. It is one of the
+      largest raised-bog remnants in the Netherlands, and living peat still survives there, with plants unique
+      in the country such as five-ranked bog moss and great sundew. It forms part of the Veenland nature area,
+      which also includes Berkenrode and Oosterbos.
+
+
+      The reserve consists of three parts: Meerstalblok, Amsterdamscheveld and Schoonebeekerveld. In each one
+      the peat was cut differently, by hand or by machine, and that gives it its variety: where small cottages
+      once stood, fruit trees were planted, and in other places buckwheat was grown. The result is a mosaic of
+      bog, heathland and small woods.
+    landscape: >-
+      For centuries nobody wanted these marshes. They were impassable and full of mosquitoes, and people left
+      them alone until they realised peat made good fuel.
+
+
+      The best place to understand what happened is the Verlengde Noordersloot viewing mound. From the top you
+      can appreciate how vast the drainage of this landscape was, and you see the wide heathlands and large
+      flooded peat pits to the east and south. Among the trees are traces of the old cottages: clearings with
+      chestnut and fruit trees, half-hidden wells and the remains of Uneken's house, the farmstead of
+      Bargerveen's last inhabitants.
+
+
+      Peat cutting ended in 1992 and everything passed to Staatsbosbeheer. In Amsterdamscheveld the peat
+      travelled out along a narrow-gauge line to the Griendtsveen Turfstrooisel Maatschappij factory. Today
+      management aims to let living bog form again. Unexpectedly, living bog did not sprout first in
+      Meerstalblok, but in the pits beside the old cottages. Early in the twenty-first century a high-water
+      reservoir and a low-water reservoir were built to the north to stabilise the water level. In 2016 the
+      province of Drenthe declared it a geological monument.
+    wildlife: >-
+      More than 300 bird species have been recorded, and between 100 and 120 breed every year. Wildlife
+      includes European nightjar, short-eared owl, [hen harrier](/especie/circus_cyaneus/), red-backed shrike
+      and little grebe.
+
+
+      Looking lower down, the variety is just as striking. Alongside dozens of butterfly and dragonfly
+      species, there are nearly 1,000 species of moths. All three sundew species grow here (round-leaved,
+      oblong-leaved and the rare great sundew) along with 15 species of bog moss. Reptiles include common
+      European adder, smooth snake and viviparous lizard; amphibians include the rare moor frog.
+    visit: >-
+      The reserve is open year-round along the open paths and tracks, although some sensitive sectors are
+      closed. You can enter from four car parks on the Dutch side. Around Bargerveen there are numbered
+      networks for walking and cycling, and they continue across the German border.
+
+
+      From the north car park you can reach the birdwatching hide and the Verlengde Noordersloot viewing hill
+      by wheelchair or mobility scooter. In Weiteveen, the Veenloopcentrum starts walking and cycling routes
+      through the area. The Weiteveenroute begins at this centre, a former presbytery that serves as the
+      gateway to the bog, and along it the «Stilteplaats», an old farmstead, is a quiet spot worth a short
+      detour. Beside the bog stands a sheepfold, the largest in the Netherlands, with stabling for more than
+      1,000 sheep and raised walkways to view them from above.
+    history: >-
+      The first section of Bargerveen passed to Staatsbosbeheer in 1968. Since 2006 it has been part of the
+      international Bourtanger Moor-Bargerveen nature park. At the Veenloopcentrum you can learn how the bog
+      pioneers and nuns lived; in 1925 Franciscan nuns built a house there for the sisters.
+    before: >-
+      Dogs on a lead are allowed in Bargerveen. Respect the sectors closed for their fragility and the rules
+      on the entrance boards.
+    around: >-
+      Thirteen kilometres away lies [Borkener Paradies Nature
+      Reserve](/lugar/naturschutzgebiet-borkener-paradies/). Further afield, [Ujście Warty National
+      Park](/lugar/park-narodowy-ujscie-warty/), [Polesie National Park](/lugar/poleski-park-narodowy/) and
+      [The Flow Country](/lugar/the-flow-country/) share the whooper swan with Bargerveen.
+  fr:
+    intro: >-
+      Le Bargerveen conserve ce que presque personne n'a gardé : un morceau de tourbière haute non creusée.
+      C'est l'un des plus grands vestiges de tourbière haute des Pays-Bas, et il y reste encore de la tourbe
+      vivante, avec des plantes uniques dans le pays comme la sphaigne à cinq rangs et le rossolis à longues
+      feuilles. Il fait partie de l'espace naturel Veenland, qui comprend aussi Berkenrode et Oosterbos.
+
+
+      La réserve se compose de trois pièces : Meerstalblok, Amsterdamscheveld et Schoonebeekerveld. Dans
+      chacune, la tourbe fut extraite différemment, à la main ou à la machine, d'où sa variété : là où il y
+      eut des maisonnettes on planta des fruitiers, et ailleurs on cultiva du sarrasin. Le résultat est une
+      mosaïque de tourbière, de lande et de petits bois.
+    landscape: >-
+      Pendant des siècles personne ne voulut de ces marais. Ils étaient impraticables et pleins de moustiques,
+      et on les laissa tranquilles jusqu'à ce qu'on voie que la tourbe servait de combustible.
+
+
+      Le meilleur endroit pour comprendre ce qui s'est passé est la butte d'observation Verlengde
+      Noordersloot. D'en haut, on mesure l'ampleur du drainage de ce paysage, et l'on voit les vastes landes
+      et les grandes fosses à tourbe inondées à l'est et au sud. Parmi les arbres subsistent des traces des
+      anciennes maisons : clairières avec châtaigniers et fruitiers, puits à demi cachés et vestiges de la
+      maison d'Uneken, la ferme des derniers habitants du Bargerveen.
+
+
+      L'extraction de tourbe s'est arrêtée en 1992 et tout est passé à Staatsbosbeheer. Dans
+      l'Amsterdamscheveld, la tourbe sortait par une voie étroite jusqu'à l'usine de la Griendtsveen
+      Turfstrooisel Maatschappij. Aujourd'hui la gestion cherche à faire renaître la tourbière vivante. Contre
+      toute attente, la tourbe vivante n'a pas d'abord repoussé dans le Meerstalblok mais dans les fosses des
+      anciennes maisons. Au début du vingt et unième siècle furent construits au nord un bassin d'eau haute et
+      un bassin d'eau basse pour stabiliser le niveau. En 2016, la province de Drenthe l'a déclaré monument
+      géologique.
+    wildlife: >-
+      Plus de 300 espèces d'oiseaux ont été recensées, et entre 100 et 120 nichent chaque année. Parmi la
+      faune figurent l'engoulevent d'Europe, le hibou des marais, le [busard
+      Saint-Martin](/especie/circus_cyaneus/), la pie-grièche écorcheur et le grèbe castagneux.
+
+
+      En regardant plus bas, la variété est tout aussi remarquable. Outre des dizaines d'espèces de papillons
+      de jour et de libellules, il y a près de 1 000 espèces de papillons de nuit. On y trouve les trois
+      espèces de rossolis (à feuilles rondes, intermédiaire et le rare à longues feuilles) et 15 espèces de
+      sphaigne. Parmi les reptiles figurent la vipère péliade, la coronelle lisse et le lézard vivipare ;
+      parmi les amphibiens, la rare grenouille des champs.
+    visit: >-
+      La réserve est ouverte toute l'année sur les chemins et sentiers ouverts, bien que certains secteurs
+      fragiles soient fermés. On peut y entrer par quatre parkings côté néerlandais. Autour de Bargerveen
+      existent des réseaux de points-nœuds pour marcher et faire du vélo, qui se poursuivent de l'autre côté
+      de la frontière allemande.
+
+
+      Depuis le parking nord, on accède en fauteuil roulant ou en scooter électrique jusqu'à la cabane
+      d'observation des oiseaux et à la colline-belvédère Verlengde Noordersloot. À Weiteveen, le
+      Veenloopcentrum est le point de départ d'itinéraires à pied et à vélo dans le secteur. La Weiteveenroute
+      commence à ce centre, ancien presbytère qui sert de porte d'entrée à la tourbière, et la « Stilteplaats
+      », une ancienne ferme, y est un lieu de silence qui mérite un petit détour. Près de la tourbière se
+      trouve une bergerie, la plus grande des Pays-Bas, avec une étable pour plus de 1 000 moutons et des
+      galeries pour les voir d'en haut.
+    history: >-
+      Le premier secteur du Bargerveen passa aux mains de Staatsbosbeheer en 1968. Depuis 2006, il fait partie
+      du parc naturel international Bourtanger Moor-Bargerveen. Au Veenloopcentrum, on explique comment
+      vivaient les pionniers et les religieuses de la tourbière ; en 1925, des sœurs franciscaines y
+      construisirent une maison pour les sœurs.
+    before: >-
+      Les chiens tenus en laisse sont admis à Bargerveen. Respectez les secteurs fermés pour leur fragilité et
+      les règles des panneaux à l'entrée.
+    around: >-
+      À treize kilomètres se trouve la [Réserve naturelle de Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/). Plus loin, le [Parc national de l'embouchure de
+      la Warta](/lugar/park-narodowy-ujscie-warty/), le [Parc national de
+      Polésie](/lugar/poleski-park-narodowy/) et [The Flow Country](/lugar/the-flow-country/) partagent avec
+      le Bargerveen le cygne chanteur.
+  de:
+    intro: >-
+      Das Bargerveen bewahrt, was kaum jemand erhielt: ein Stück unabgebautes Hochmoor. Es ist einer der
+      größten Hochmoorreste der Niederlande, und in ihm gibt es noch lebendes Moor mit im Land einzigartigen
+      Pflanzen wie dem Fünfzeiligen Torfmoos und dem Langblättrigen Sonnentau. Es gehört zum Naturgebiet
+      Veenland, zu dem auch Berkenrode und Oosterbos zählen.
+
+
+      Das Reservat besteht aus drei Teilen: Meerstalblok, Amsterdamscheveld und Schoonebeekerveld. In jedem
+      wurde der Torf anders gestochen, von Hand oder maschinell, und daraus entsteht seine Vielfalt: Wo kleine
+      Katen standen, wurden Obstbäume gepflanzt, und anderswo wurde Buchweizen angebaut. Das Ergebnis ist ein
+      Mosaik aus Moor, Heide und kleinen Gehölzen.
+    landscape: >-
+      Jahrhundertelang wollte niemand diese Sümpfe. Sie waren unpassierbar und voller Mücken, und man ließ sie
+      in Ruhe, bis man sah, dass Torf als Brennstoff taugte.
+
+
+      Der beste Ort, um zu verstehen, was geschah, ist der Aussichtshügel Verlengde Noordersloot. Von oben
+      wird sichtbar, wie gewaltig die Entwässerung dieser Landschaft war, und man sieht die weiten Heiden und
+      großen überfluteten Torfstiche im Osten und Süden. Zwischen den Bäumen finden sich Spuren der alten
+      Häuser: Lichtungen mit Kastanien und Obstbäumen, halb verborgene Brunnen und die Reste des Hauses von
+      Uneken, dem Hof der letzten Bewohner des Bargerveen.
+
+
+      Der Torfabbau endete 1992 und alles ging an Staatsbosbeheer. Im Amsterdamscheveld fuhr der Torf auf
+      einer Schmalspurbahn zur Fabrik der Griendtsveen Turfstrooisel Maatschappij. Heute zielt die Pflege
+      darauf ab, dass wieder lebendes Hochmoor wächst. Wider Erwarten spross das lebende Moor nicht zuerst im
+      Meerstalblok, sondern in den Gruben der alten Häuser. Zu Beginn des einundzwanzigsten Jahrhunderts
+      wurden im Norden ein Hochwasser- und ein Niedrigwasserspeicher gebaut, um den Wasserstand zu
+      stabilisieren. 2016 erklärte die Provinz Drenthe es zum geologischen Denkmal.
+    wildlife: >-
+      Über 300 Vogelarten sind nachgewiesen, und jedes Jahr brüten zwischen 100 und 120. Zur Tierwelt gehören
+      Ziegenmelker, Sumpfohreule, [Kornweihe](/especie/circus_cyaneus/), Neuntöter und Zwergtaucher.
+
+
+      Schaut man tiefer, ist die Vielfalt ebenso bemerkenswert. Neben Dutzenden Tagfalter- und Libellenarten
+      gibt es fast 1.000 Nachtfalterarten. Es wachsen alle drei Sonnentauarten (Rundblättriger, Mittlerer und
+      der seltene Langblättrige) sowie 15 Torfmoosarten. Unter den Reptilien finden sich Kreuzotter,
+      Schlingnatter und Waldeidechse; unter den Amphibien der seltene Moorfrosch.
+    visit: >-
+      Das Reservat ist ganzjährig auf den freigegebenen Wegen und Pfaden zugänglich, obwohl einige
+      empfindliche Bereiche gesperrt sind. Man erreicht es über vier Parkplätze auf niederländischer Seite.
+      Rund um das Bargerveen gibt es Knotenpunktnetze zum Wandern und Radfahren, die sich jenseits der
+      deutschen Grenze fortsetzen.
+
+
+      Vom Nordparkplatz gelangt man mit Rollstuhl oder Elektromobil bis zur Vogelbeobachtungshütte und zum
+      Aussichtshügel Verlengde Noordersloot. In Weiteveen startet das Veenloopcentrum Wander- und Radrouten
+      durch das Gebiet. Die Weiteveenroute beginnt an diesem Zentrum, einem ehemaligen Pfarrhaus und Tor zum
+      Moor, und auf ihr ist der «Stilteplaats», ein alter Bauernhof, ein Ort der Stille, der einen kleinen
+      Abstecher lohnt. Am Moor steht ein Schafstall, der größte der Niederlande, mit Stallungen für über 1.000
+      Schafe und Galerien, um sie von oben zu sehen.
+    history: >-
+      Der erste Teil des Bargerveen ging 1968 an Staatsbosbeheer. Seit 2006 gehört es zum Internationalen
+      Naturpark Bourtanger Moor-Bargerveen. Im Veenloopcentrum wird erklärt, wie die Moorpioniere und die
+      Ordensschwestern lebten; 1925 bauten Franziskanerinnen dort ein Schwesternhaus.
+    before: >-
+      Angelegte Hunde sind im Bargerveen erlaubt. Beachte die wegen ihrer Empfindlichkeit gesperrten Bereiche
+      und die Regeln auf den Tafeln am Eingang.
+    around: >-
+      Dreizehn Kilometer entfernt liegt das [Naturschutzgebiet Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/). Weiter entfernt teilen der [Nationalpark
+      Warthemündung](/lugar/park-narodowy-ujscie-warty/), der [Nationalpark
+      Polesie](/lugar/poleski-park-narodowy/) und [The Flow Country](/lugar/the-flow-country/) mit dem
+      Bargerveen den Singschwan.
+  it:
+    intro: >-
+      Il Bargerveen custodisce ciò che quasi nessuno ha conservato: un pezzo di torbiera alta non scavata. È
+      uno dei maggiori resti di torbiera alta dei Paesi Bassi, e in esso resta ancora torba viva, con piante
+      uniche nel paese come lo sfagno a cinque file e la drosera a foglie lunghe. Fa parte dell'area naturale
+      Veenland, che comprende anche Berkenrode e Oosterbos.
+
+
+      La riserva è composta da tre parti: Meerstalblok, Amsterdamscheveld e Schoonebeekerveld. In ciascuna la
+      torba fu scavata in modo diverso, a mano o a macchina, e da lì nasce la sua varietà: dove sorsero
+      casette furono piantati alberi da frutto, e altrove si coltivò grano saraceno. Il risultato è un mosaico
+      di torbiera, brughiera e boschetti.
+    landscape: >-
+      Per secoli nessuno volle queste paludi. Erano impraticabili e piene di zanzare, e le lasciarono in pace
+      finché non si capì che la torba serviva da combustibile.
+
+
+      Il posto migliore per capire cosa successe è il monticello panoramico Verlengde Noordersloot. Dall'alto
+      si apprezza quanto fosse enorme drenare questo paesaggio, e si vedono le ampie brughiere e le grandi
+      cave di torba allagate a est e a sud. Tra gli alberi ci sono tracce delle vecchie case: radure con
+      castagni e alberi da frutto, pozzi seminascosti e i resti della casa di Uneken, la fattoria degli ultimi
+      abitanti del Bargerveen.
+
+
+      L'estrazione di torba terminò nel 1992 e tutto passò a Staatsbosbeheer. Nell'Amsterdamscheveld la torba
+      usciva su una ferrovia a scartamento ridotto fino alla fabbrica della Griendtsveen Turfstrooisel
+      Maatschappij. Oggi la gestione cerca di far tornare a formarsi torbiera viva. Contro le attese, la torba
+      viva non spuntò prima nel Meerstalblok ma nelle fosse delle vecchie case. All'inizio del ventunesimo
+      secolo furono costruiti a nord un bacino d'acqua alta e uno d'acqua bassa per stabilizzare il livello
+      idrico. Nel 2016 la provincia di Drenthe lo dichiarò monumento geologico.
+    wildlife: >-
+      Ci sono oltre 300 specie di uccelli registrate, e ogni anno ne nidificano tra 100 e 120. Tra la fauna
+      figurano il succiacapre, il gufo di palude, l'[albanella reale](/especie/circus_cyaneus/), l'averla
+      piccola e il tuffetto.
+
+
+      Guardando più in basso, la varietà è altrettanto notevole. Oltre a decine di specie di farfalle diurne e
+      libellule, ci sono quasi 1.000 specie di falene. Crescono tutte e tre le specie di drosera (a foglie
+      rotonde, intermedia e la rara a foglie lunghe) e 15 specie di sfagno. Tra i rettili figurano il marasso,
+      la coronella austriaca e la lucertola vivipara; tra gli anfibi, la rara rana arvale.
+    visit: >-
+      La riserva è aperta tutto l'anno lungo i sentieri e i percorsi aperti, anche se alcuni settori sensibili
+      sono chiusi. Si può entrare da quattro parcheggi sul lato olandese. Intorno al Bargerveen esistono reti
+      di nodi segnalati per camminare e andare in bicicletta, che proseguono oltre il confine tedesco.
+
+
+      Dal parcheggio nord si arriva in sedia a rotelle o scooter elettrico fino al capanno di birdwatching e
+      alla collina panoramica Verlengde Noordersloot. A Weiteveen, il Veenloopcentrum avvia percorsi a piedi e
+      in bicicletta nell'area. La Weiteveenroute parte da questo centro, che fu casa parrocchiale ed è la
+      porta d'ingresso alla torbiera, e lungo di essa la «Stilteplaats», una vecchia fattoria, è un luogo di
+      silenzio che merita una piccola deviazione. Accanto alla torbiera c'è un ovile, il più grande dei Paesi
+      Bassi, con stalla per oltre 1.000 pecore e balaustre per vederle dall'alto.
+    history: >-
+      Il primo tratto del Bargerveen passò a Staatsbosbeheer nel 1968. Dal 2006 fa parte del parco naturale
+      internazionale Bourtanger Moor-Bargerveen. Al Veenloopcentrum si spiega come vivevano i pionieri e le
+      suore della torbiera; nel 1925 alcune suore francescane vi costruirono una casa per le sorelle.
+    before: >-
+      I cani al guinzaglio sono ammessi a Bargerveen. Rispetta i settori chiusi per la loro fragilità e le
+      norme sui pannelli all'ingresso.
+    around: >-
+      A tredici chilometri si trova la [Riserva Naturale Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/). Più lontano, il [Parco Nazionale Foce della
+      Warta](/lugar/park-narodowy-ujscie-warty/), il [Parco Nazionale di
+      Polesie](/lugar/poleski-park-narodowy/) e [The Flow Country](/lugar/the-flow-country/) condividono con
+      il Bargerveen il cigno selvatico.
+  pt:
+    intro: >-
+      O Bargerveen guarda o que quase ninguém conservou: um pedaço de turfeira alta por escavar. É um dos
+      maiores restos de turfeira alta dos Países Baixos, e nele resta ainda turfa viva, com plantas que são
+      únicas no país, como o esfagno de cinco fileiras e a orvalhinha-de-folha-longa. Faz parte do espaço
+      natural Veenland, que inclui também Berkenrode e Oosterbos.
+
+
+      A reserva compõe-se de três peças: Meerstalblok, Amsterdamscheveld e Schoonebeekerveld. Em cada uma a
+      turfa foi escavada de forma distinta, à mão ou à máquina, e daí vem a sua variedade: onde houve casinhas
+      plantaram-se árvores de fruto, e noutros sítios cultivou-se trigo-sarraceno. O resultado é um mosaico de
+      turfeira, urzal e bosquetes.
+    landscape: >-
+      Durante séculos ninguém quis estes pântanos. Eram intransitáveis e estavam cheios de mosquitos, e
+      deixaram-nos em paz até se perceber que a turfa servia de combustível.
+
+
+      O melhor lugar para entender o que aconteceu é o montículo miradouro Verlengde Noordersloot. Do alto
+      aprecia-se quão enorme foi drenar esta paisagem, e veem-se os urzais extensos e as grandes fossas de
+      turfa inundadas a leste e a sul. Entre as árvores há vestígios das antigas casas: clareiras com
+      castanheiros e árvores de fruto, poços meio ocultos e os restos da casa de Uneken, a quinta dos últimos
+      habitantes do Bargerveen.
+
+
+      A extração de turfa terminou em 1992 e tudo passou para a Staatsbosbeheer. No Amsterdamscheveld a turfa
+      saía por uma via estreita até à fábrica da Griendtsveen Turfstrooisel Maatschappij. Hoje a gestão
+      procura que volte a formar-se turfeira viva. Contra o esperado, a turfeira viva não brotou primeiro no
+      Meerstalblok mas nas fossas das antigas casas. No início do século vinte e um construíram-se a norte uma
+      albufeira de água alta e outra de água baixa para estabilizar o nível da água. Em 2016 a província de
+      Drenthe declarou-o monumento geológico.
+    wildlife: >-
+      Há mais de 300 espécies de aves registadas, e todos os anos nidificam entre 100 e 120. Entre a fauna
+      estão o noitibó-da-europa, a coruja-do-nabal, o [tartaranhão-azulado](/especie/circus_cyaneus/), o
+      picanço-de-dorso-ruivo e o mergulhão-pequeno.
+
+
+      Olhando mais abaixo, a variedade é igualmente notável. Além de dezenas de espécies de borboletas diurnas
+      e libélulas, há quase 1.000 espécies de traças. Crescem as três espécies de orvalhinha (folha-redonda,
+      intermédia e a rara de folha longa) e 15 espécies de esfagno. Entre os répteis figuram a
+      víbora-europeia, a cobra-lisa e a lagartixa-vivípara; entre os anfíbios, a rara rã-dos-campos.
+    visit: >-
+      A reserva está aberta todo o ano pelos caminhos e trilhos que se abrem, embora alguns setores sensíveis
+      estejam fechados. Pode entrar-se por quatro parques de estacionamento do lado neerlandês. Em redor de
+      Bargerveen há redes de pontos sinalizados para caminhar e para andar de bicicleta, que continuam do
+      outro lado da fronteira alemã.
+
+
+      Do parque de estacionamento norte chega-se em cadeira de rodas ou scooter até à cabana de observação de
+      aves e à colina-miradouro Verlengde Noordersloot. Em Weiteveen, o Veenloopcentrum inicia rotas a pé e de
+      bicicleta pela área. A Weiteveenroute começa neste centro, que foi casa paroquial e é a porta de entrada
+      para a turfeira, e nela a «Stilteplaats», uma antiga quinta, é um lugar de silêncio que merece um
+      pequeno desvio. Junto à turfeira há um redil, o maior dos Países Baixos, com estábulo para mais de 1.000
+      ovelhas e balaustradas para as ver de cima.
+    history: >-
+      O primeiro troço do Bargerveen passou para as mãos da Staatsbosbeheer em 1968. Desde 2006 faz parte do
+      parque natural internacional Bourtanger Moor-Bargerveen. No Veenloopcentrum explica-se como viviam os
+      pioneiros e as freiras da turfeira; em 1925 umas freiras franciscanas construíram ali uma casa para as
+      irmãs.
+    before: >-
+      Admite-se cães com trela em Bargerveen. Respeita os setores fechados pela sua fragilidade e as normas
+      dos painéis da entrada.
+    around: >-
+      A treze quilómetros está a [Reserva Natural Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/). A maior distância, o [Parque Nacional Foz do
+      Warta](/lugar/park-narodowy-ujscie-warty/), o [Parque Nacional de
+      Polesie](/lugar/poleski-park-narodowy/) e [The Flow Country](/lugar/the-flow-country/) partilham com o
+      Bargerveen o cisne-bravo.
+fuentes:
+  - url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/veenland/over-het-veenland
+    titulo: Over het Veenland - Staatsbosbeheer
+    fecha_consulta: '2026-10-04'
+  - url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/veenland/toegankelijkheid
+    titulo: Veenland - Bezoekersinformatie - Staatsbosbeheer
+    fecha_consulta: '2026-10-04'
+  - url: https://www.naturpark-moor.eu/nl/tour/weiteveenroute
+    titulo: Weiteveenroute — Naturpark Moor
+    fecha_consulta: '2026-10-04'
+  - url: https://nl.wikipedia.org/wiki/Bargerveen
+    titulo: Bargerveen — Wikipedia
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Bargerveen_23-08-2019._(d.j.b)._07.jpg
+    autor: Dominicus Johannes Bergsma
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

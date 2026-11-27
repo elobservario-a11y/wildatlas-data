@@ -1,0 +1,657 @@
+id: biebrzanski-park-narodowy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Biebrza
+  en: Biebrza National Park
+  fr: Parc national de la Biebrza
+  de: Biebrza-Nationalpark
+  it: Parco Nazionale di Biebrza
+  pt: Parque Nacional de Biebrza
+nombre_original: Biebrzański Park Narodowy
+alias:
+  - Biebrza Marshes
+paises:
+  - PL
+region:
+  es: Voivodato de Podlaquia (Osowiec-Twierdza)
+  en: Podlaskie Voivodeship (Osowiec-Twierdza)
+  fr: Voïvodie de Podlachie (Osowiec-Twierdza)
+  de: Woiwodschaft Podlachien (Osowiec-Twierdza)
+  it: Voivodato di Podlachia (Osowiec-Twierdza)
+  pt: Voivodia da Podláquia (Osowiec-Twierdza)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 53.58
+  lon: 22.75
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 11146
+  nombre_en_la_fuente: Biebrzański Park Narodowy
+  capa: capas/cdda/biebrzanski-park-narodowy.geojson
+habitats:
+  - wetland
+  - river_corridor
+designaciones:
+  - national_park
+  - ramsar
+  - natura2000
+  - iucn_ii
+especies:
+  - alces_alces
+  - philomachus_pugnax
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera (inundación de mayo) y otoño
+  en: spring (May flooding) and autumn
+  fr: printemps (crue de mai) et automne
+  de: Frühjahr (Maihochwasser) und Herbst
+  it: primavera (piene di maggio) e autunno
+  pt: primavera (cheias de maio) e outono
+masificacion: 2
+masificacion_nota:
+  es: Media durante las crecidas de primavera en las pasarelas
+  en: Moderate during spring floods along wooden boardwalks
+  fr: Moyenne lors des crues printanières sur les passerelles
+  de: Mäßig während der Frühjahrshochwässer auf den Holzstegen
+  it: Media durante le piene primaverili lungo le passerelle
+  pt: Média durante as cheias de primavera sobre os passadiços
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Biebrzański Park Narodowy
+    url: https://www.biebrza.org.pl/
+  - titulo: Rutas — Biebrza
+    url: https://bbpn.gov.pl/szlaki-turystyczne
+  - titulo: Mapa — Parque nacional de Biebrza
+    url: https://bbpn.gov.pl/mapa-parku
+  - titulo: Normas — Acceso al parque de Biebrza
+    url: https://bbpn.gov.pl/zasady-udostepniania-parku
+  - titulo: Centro de visitantes — Educación e información
+    url: https://bbpn.gov.pl/centrum-edukacji-i-zarzadzania
+  - titulo: Avisos — Estado de senderos y accesos
+    url: https://bbpn.gov.pl/komunikat-turystyczny
+resumen:
+  es: El mayor Parque Nacional de Polonia y el mayor complejo de turberas de cuenca de Europa Central.
+  en: Poland’s largest national park and Central Europe’s greatest valley mire and wetland wilderness complex.
+  fr: >-
+    Le plus vaste parc national de Pologne et le plus grand ensemble de tourbières et de zones humides de
+    plaine d’Europe centrale.
+  de: Polens größter Nationalpark und der gewaltigste zusammenhängende Tal- und Flachmoorkomplex Mitteleuropas.
+  it: >-
+    Il più grande parco nazionale della Polonia e il più vasto complesso di torbiere e zone umide vallive
+    dell’Europa centrale.
+  pt: >-
+    O maior parque nacional da Polónia e o mais vasto complexo de turfeiras de vale e zonas húmidas da Europa
+    Central.
+unico:
+  es: >-
+    Es el mayor refugio del alce en Polonia y el hogar de un ave tan singular que ha dado su emblema al
+    parque: el combatiente.
+  en: >-
+    Poland’s premier stronghold for moose and breeding ground for an emblematic wader that graces the park
+    emblem: the ruff.
+  fr: >-
+    Le principal sanctuaire de l’élan en Pologne et le domaine d’un échassier si emblématique qu’il figure sur
+    l’écusson du parc : le combattant varié.
+  de: >-
+    Polens bedeutendstes Refugium für Elche und Heimat jenes seltenen Watvogels, der das Parkwappen ziert: der
+    Kampfläufer.
+  it: >-
+    Il principale rifugio dell’alce in Polonia e il regno di un uccello limicolo così singolare da costituire
+    l’emblema del parco: il combattente.
+  pt: >-
+    O principal santuário do alce na Polónia e o habitat de uma ave limícola tão singular que deu o seu
+    símbolo ao parque: o combatente.
+observaciones:
+  es: >-
+    Se puede visitar de la hora anterior al amanecer a la hora posterior al ocaso. Acampar, encender fuego y
+    fumar solo se permite en los lugares señalados. Con perro solo puedes recorrer los senderos autorizados, y
+    siempre atado con una correa corta de 1,5 m.
+
+
+    En los senderos hay tramos encharcados, y las pasarelas, escaleras, torres y plataformas pueden resbalar.
+    Algunas rutas, como la de Osowiec-Twierdza a Kuligi o el camino a Biały Grąd, pueden ser muy difíciles o
+    impracticables en primavera según el nivel del agua. Comprueba los avisos del gestor antes de salir: hay
+    sendas, torres y tramos de río cerrados temporalmente.
+texto:
+  es:
+    intro: >-
+      En primavera el Biebrza se sale de madre, y un valle de unos cien kilómetros de largo se convierte en un
+      mar bajo de agua, carrizo y turba. Esa es la escena que define al Parque Nacional de Biebrza: las
+      mayores turberas de Polonia, tendidas a lo largo de un río de llanura, sinuoso y de corriente lenta, que
+      forma una de las mayores zonas pantanosas de la Unión Europea. Es también el mayor de los parques
+      nacionales polacos.
+
+
+      La idea de proteger este paisaje no es de ayer. Entre las dos guerras mundiales ya se crearon dos
+      reservas, Czerwone Bagno y Grzędy, y en 1995 el parque fue reconocido como humedal de importancia
+      mundial por el Convenio de Ramsar.
+    landscape: >-
+      El Biebrza es un río típico de tierras bajas, de curso meandriforme y corriente lenta, y casi todo su
+      recorrido, unos 155 km, transcurre dentro del parque. Esa lentitud lo explica todo: el agua se extiende,
+      se estanca y deja a su paso una sucesión de comunidades húmedas. Hay aguas abiertas y ciénagas, turberas
+      y carrizales, y bosques de aliso, abedul y ribera donde el suelo se encharca.
+
+
+      Lo más valioso son las turberas bajas de musgos, que guardan plantas raras y relictas, como el abedul
+      enano, que han desaparecido de otras partes del país. Entre las orquídeas del parque están el *storczyk
+      krwisty* y el *obuwik pospolity*; entre las droseras, la *rosiczka długolistna*. Y en el corazón de
+      todo, protegido de forma estricta, está Czerwone Bagno, el Pantano Rojo.
+    wildlife: >-
+      Aquí las cifras hablan de abundancia. Se han observado 291 especies de aves, de las que 195 crían en el
+      parque. Hay rarezas boreales, aves de la taiga y la tundra que anidan aisladas, y es uno de los grandes
+      refugios de Europa Central para las aves limícolas, que necesitan extensiones enormes de tierra húmeda.
+      Entre las que crían destacan el combatiente, la buscarla acuática (amenazada en todo el mundo), la
+      grulla común, el búho real y el águila moteada mayor, para la que el área es refugio de importancia
+      europea.
+
+
+      De los mamíferos manda el [alce](/especie/alces_alces/): el parque es su mayor refugio en Polonia, con
+      unos cuatrocientos ejemplares. Comparten territorio el [lince](/especie/lynx_lynx/), el
+      [lobo](/especie/canis_lupus/) y la [nutria](/especie/lutra_lutra/). Y debajo de los grandes hay otro
+      mundo: más de 700 especies de mariposas y 448 de arañas.
+
+
+      El calendario marca el ritmo. En primavera, cerca de Brzostowo y Chyliny, se puede ver una migración
+      masiva de aves, y es el momento de la inundación de mayo. El otoño es la otra estación del parque. Dos
+      épocas obligan, además, a respetar cierres: durante la cría de las aves y durante el celo de alces y
+      ciervos el parque puede cerrar temporalmente rutas terrestres, acuáticas y ecuestres.
+    visit: >-
+      La puerta natural es Osowiec-Twierdza, donde está la sede del parque, dentro del recinto de la fortaleza
+      de Osowiec, del siglo XIX. Aquí tienes la información turística, el centro de visitantes y un centro
+      educativo de campo con una torre y una red de pasarelas de madera para recorrer el sector.
+
+
+      Para empezar, el sendero educativo Kładka: unos dos kilómetros y nueve paradas, y una de las rutas donde
+      se admiten perros. Si quieres algo más largo, la ruta roja de Grzędy recorre 7 km por una presa,
+      marismas y dunas; es fácil, aunque a veces húmeda. Cerca del refugio forestal de Grzędy, un sendero
+      corto lleva a una pasarela con paneles explicativos en medio de un pinar sobre turbera alta. Y entre
+      Gugny y Barwik, un sendero a veces difícil pasa por una plataforma donde se puede ver el baile nupcial
+      de la agachadiza real, y por una torre en Występ.
+
+
+      En total, el parque anuncia 50 rutas: a pie, en bicicleta, de agua, a caballo, de esquí de fondo y
+      educativas. Para ir en bici tienes, por ejemplo, la ruta de Wizna a Goniądz, de 64,3 km, fácil, o la de
+      Laskowiec a Tykocin, de 20,5 km, siguiendo el Narew entre pueblos tradicionales.
+    history: >-
+      En abril de 2020 una quema ilegal de pastos provocó un incendio que destruyó al menos 6.000 hectáreas de
+      hierba y bosque; con el nivel de agua bajo, no se apagó con la inundación habitual. El parque cuenta con
+      un centro de rehabilitación de fauna, al que llegan cada año unos 200 animales salvajes de varias
+      decenas de especies para volver a la naturaleza una vez recuperados.
+    before: >-
+      Se puede visitar de la hora anterior al amanecer a la hora posterior al ocaso. Acampar, encender fuego y
+      fumar solo se permite en los lugares señalados. Con perro solo puedes recorrer los senderos autorizados,
+      y siempre atado con una correa corta de 1,5 m.
+
+
+      En los senderos hay tramos encharcados, y las pasarelas, escaleras, torres y plataformas pueden
+      resbalar. Algunas rutas, como la de Osowiec-Twierdza a Kuligi o el camino a Biały Grąd, pueden ser muy
+      difíciles o impracticables en primavera según el nivel del agua. Comprueba los avisos del gestor antes
+      de salir: hay sendas, torres y tramos de río cerrados temporalmente.
+    around: >-
+      El [Bosque Primitivo de Augustów](/lugar/puszcza-augustowska/) queda a solo 5 km; el [Parque Nacional de
+      Narew](/lugar/narwianski-park-narodowy/), a 19 km, y el [Parque Paisajístico del Bosque de
+      Knyszyn](/lugar/park-krajobrazowy-puszczy-knyszynskiej/), a veinticinco kilómetros. Más lejos, el
+      [Parque Nacional de Soomaa](/lugar/soomaa-rahvuspark/) comparte con Biebrza el alce, el lince y el lobo,
+      y también los humedales y los corredores fluviales.
+  en:
+    intro: >-
+      In spring the Biebrza overflows its banks, transforming a valley roughly one hundred kilometres long
+      into a shallow inland sea of water, reed beds, and peat. This is the defining image of Biebrza National
+      Park: the vastest valley mires in Poland, unfurling along an unhurried, meandering lowland river that
+      forms one of the largest pristine wetland wildernesses in the European Union. It is also the largest of
+      Poland's national parks.
+
+
+      The idea of protecting this water world has deep roots. Between the two world wars, two early nature
+      reserves were established at Czerwone Bagno and Grzędy, and in 1995 the entire wetland expanse was
+      designated as a Ramsar Wetland of International Importance.
+    landscape: >-
+      The Biebrza is an archetypal lowland river with lazy loops, meandering bends, and an unhurried current,
+      with almost its entire course, some 155 km, flowing inside the national park. That gentle gradient
+      explains everything: water spreads widely, stands in shallow pools, and sustains an uninterrupted mosaic
+      of wetland communities. There are open channels, sluggish backwaters, fens, expansive reed swamps, and
+      wet riparian woodlands of black alder and downy birch where the ground stays waterlogged.
+
+
+      The most precious habitats are the moss-rich low bogs, which harbour rare boreal relics like the dwarf
+      birch that have vanished from the rest of the country. Notable orchids include early marsh-orchid
+      (*storczyk krwisty*) and lady's-slipper (*obuwik pospolity*); sundews feature the great sundew
+      (*rosiczka długolistna*). In the heart of it all lies the strictly protected sanctuary of Czerwone
+      Bagno, the Red Bog.
+    wildlife: >-
+      Here ecological statistics reflect sheer abundance. Observers have recorded 291 bird species, with 195
+      breeding within the park boundaries. Boreal rarities, taiga specialists, and tundra birds nest in
+      isolated outposts, making this one of Central Europe's critical breeding havens for waders that depend
+      on uninterrupted swathes of wet ground. Iconic breeders include the ruff, the globally threatened
+      aquatic warbler, common crane, Eurasian eagle-owl, and the greater spotted eagle, for which the valley
+      represents a sanctuary of European significance.
+
+
+      Among mammals, the [moose](/especie/alces_alces/) reigns: the park serves as its foremost refuge in
+      Poland, hosting roughly four hundred individuals. Sharing this vast wilderness are the [Eurasian
+      lynx](/especie/lynx_lynx/), [wolf](/especie/canis_lupus/), and [Eurasian otter](/especie/lutra_lutra/).
+      Beneath these large species thrives an immense hidden world: more than 700 species of butterflies and
+      moths and 448 species of spiders.
+
+
+      The natural calendar governs all activity. In spring, especially near Brzostowo and Chyliny, spectacular
+      mass bird migrations unfold alongside the May floods. Autumn offers the park's other great season. Two
+      periods also enforce seasonal trail closures: during bird breeding and during the rut of moose and red
+      deer, certain walking, paddling, or equestrian routes may be closed temporarily.
+    visit: >-
+      The natural gateway is Osowiec-Twierdza, where park headquarters are located within the
+      nineteenth-century Osowiec Fortress complex. Here you will find visitor services, an exhibition centre,
+      and a field education trail with a viewing tower and network of wooden boardwalks leading into the
+      marsh.
+
+
+      To begin, walk the Kładka educational trail: about two kilometres with nine interpretive stops, and one
+      of the few trails where leashed dogs are permitted. For a longer hike, the red trail at Grzędy covers 7
+      km across a historic dyke, sand dunes, and wetlands; it is easy walking, though often damp. Near the
+      Grzędy forest lodge, a short spur leads to a raised boardwalk with informative panels in a bog pine
+      forest. Between Gugny and Barwik, an adventurous trail crosses a viewing platform where you can witness
+      the mating dance of the great snipe, continuing to a tower at Występ.
+
+
+      Altogether, the park lists 50 designated trails: for walking, cycling, canoeing, horseback riding,
+      cross-country skiing, and nature education. For cycling, options include the gentle Wizna to Goniądz
+      route spanning 64.3 km or the 20.5 km trail from Laskowiec to Tykocin along the Narew past traditional
+      villages.
+    history: >-
+      In April 2020, an illegal grass fire sparked a massive wildfire that consumed at least 6,000 hectares of
+      peat grassland and forest; drought and low river levels prevented the usual spring floods from
+      extinguishing the flames. The park also operates a wildlife rehabilitation centre, which takes in around
+      200 injured or orphaned wild animals annually across dozens of species to nurse them back to health and
+      release them into the wild.
+    before: >-
+      Visits are permitted from one hour before sunrise until one hour after sunset. Camping, lighting fires,
+      and smoking are allowed only at designated facilities. Dogs are restricted strictly to authorized
+      trails, held on a short leash no longer than 1.5 m.
+
+
+      Trails often cross waterlogged stretches, and boardwalks, steps, and viewing towers become slippery when
+      wet. Some routes, such as Osowiec-Twierdza to Kuligi or the path to Biały Grąd, can be very challenging
+      or impassable during spring high water. Check park management notices before leaving: individual trails,
+      towers, and river sections close temporarily.
+    around: >-
+      The [Augustów Primeval Forest](/lugar/puszcza-augustowska/) lies only 5 km away; [Narew National
+      Park](/lugar/narwianski-park-narodowy/) is 19 km distant, and the [Knyszyn Forest Landscape
+      Park](/lugar/park-krajobrazowy-puszczy-knyszynskiej/) is twenty-five kilometres away. Further afield,
+      [Soomaa National Park](/lugar/soomaa-rahvuspark/) shares moose, lynx, and wolf with Biebrza, alongside
+      expansive riverine wetlands.
+  fr:
+    intro: >-
+      Au printemps, la Biebrza sort de son lit, transformant une vallée d'environ cent kilomètres de long en
+      une mer intérieure d'eau libre, de roseaux et de tourbe. C'est le spectacle emblématique du parc
+      national de la Biebrza : les plus vastes tourbières de Pologne, étirées le long d'une rivière de plaine
+      aux méandres paresseux qui compose l'une des plus grandes étendues marécageuses sauvages de l'Union
+      européenne. C'est également le plus grand des parcs nationaux polonais.
+
+
+      La volonté de préserver cet univers amphibie est ancienne. Entre les deux guerres mondiales furent
+      fondées deux réserves pionnières, Czerwone Bagno et Grzędy, et en 1995 le parc a été inscrit sur la
+      liste des zones humides d'importance internationale de la Convention de Ramsar.
+    landscape: >-
+      La Biebrza est une rivière de plaine par excellence, au cours méandrique et au courant ralenti, dont la
+      quasi-totalité du tracé, quelque 155 km, s'écoule au sein du parc national. Cette pente infime gouverne
+      tout : les eaux débordent, stagnent et nourrissent une mosaïque ininterrompue d'habitats humides. On y
+      observe plans d'eau libres, tourbières basses, roselières denses et aulnaies-bétulaies marécageuses où
+      le sol demeure gorgé d'eau.
+
+
+      Les milieux les plus remarquables sont les tourbières basses mousseuses, qui conservent des reliques
+      boréales rares comme le bouleau nain, disparu du reste du pays. Parmi les orchidées figurent l'orchis
+      incarnat (*storczyk krwisty*) et le sabot de Vénus (*obuwik pospolity*) ; parmi les droséras, la droséra
+      à feuilles allongées (*rosiczka długolistna*). Au cœur de cet ensemble s'étend la réserve intégrale de
+      Czerwone Bagno, le Marais Rouge.
+    wildlife: >-
+      Ici, les inventaires traduisent une abondance exceptionnelle. On a recensé 291 espèces d'oiseaux, dont
+      195 nichent dans le parc. Des raretés boréales et des espèces de la taïga y trouvent des isolats de
+      nidification, faisant de la vallée l'un des grands refuges d'Europe centrale pour les limicoles
+      tributaires de vastes espaces humides. Parmi les nicheurs figurent le combattant varié, la phragmite
+      aquatique (mondialement menacée), la grue cendrée, le grand-duc d'Europe et l'aigle criard, pour lequel
+      le parc est un sanctuaire d'échelle européenne.
+
+
+      Chez les mammifères domine l'[élan](/especie/alces_alces/) : le parc est son principal bastion polonais
+      avec environ quatre cents individus. Il partage l'espace avec le [lynx boréal](/especie/lynx_lynx/), le
+      [loup](/especie/canis_lupus/) et la [loutre d'Europe](/especie/lutra_lutra/). Sous ces grands animaux
+      s'anime un autre univers : plus de 700 espèces de papillons et 448 espèces d'araignées.
+
+
+      Le rythme saisonnier est marqué. Au printemps, vers Brzostowo et Chyliny, s'observe une spectaculaire
+      migration aviaire lors de la grande crue de mai. L'automne constitue l'autre temps fort. Deux périodes
+      imposent des restrictions : pendant la reproduction des oiseaux et le brame des élans et des cerfs, des
+      itinéraires pédestres, nautiques ou équestres peuvent être fermés temporairement.
+    visit: >-
+      La porte d'accès naturelle est Osowiec-Twierdza, où siège la direction du parc au cœur de la forteresse
+      d'Osowiec datant du XIXe siècle. Vous y trouverez l'accueil touristique, le centre d'interprétation et
+      un sentier pédagogique doté d'une tour et de passerelles sur pilotis pour explorer les marais.
+
+
+      Pour débuter, le sentier pédagogique Kładka compte environ deux kilomètres et neuf étapes, figurant
+      parmi les rares itinéraires ouverts aux chiens. Pour une sortie plus longue, le sentier rouge de Grzędy
+      parcourt 7 km sur une digue, des dunes intérieures et des tourbières ; il est facile quoique souvent
+      humide. Près de la maison forestière de Grzędy, un court sentier mène à une passerelle dans une pinède
+      de tourbière. Entre Gugny et Barwik, un itinéraire plus engagé rejoint une plateforme pour contempler
+      les parades nuptiales de la bécassine double, menant à une tour à Występ.
+
+
+      Au total, le parc compte 50 itinéraires balisés : à pied, à vélo, en canoë, à cheval, en ski nordique et
+      sentiers didactiques. À vélo, la boucle de Wizna à Goniądz mesure 64,3 km et offre un parcours roulant,
+      tandis que celle de Laskowiec à Tykocin s'étend sur 20,5 km le long de la Narew entre villages
+      traditionnels.
+    history: >-
+      En avril 2020, un écobuage illégal provoqua un immense incendie détruisant au moins 6 000 hectares de
+      prairies tourbeuses et de forêts ; le niveau d'eau exceptionnellement bas empêcha la crue d'éteindre le
+      brasier. Le parc gère également un centre de soins de la faune sauvage, qui accueille chaque année
+      environ 200 animaux blessés de plusieurs dizaines d'espèces afin de les relâcher dans la nature.
+    before: >-
+      Les visites sont autorisées d'une heure avant le lever du soleil à une heure après son coucher.
+      Bivouaquer, allumer du feu et fumer ne sont permis que sur les aires prévues. Avec un chien, l'accès est
+      limité aux seuls sentiers autorisés, obligatoirement tenu avec une laisse courte de 1,5 m.
+
+
+      Les chemins traversent des zones inondées et les passerelles ou observatoires peuvent être glissants.
+      Certains tronçons, comme Osowiec-Twierdza vers Kuligi ou la voie vers Biały Grąd, sont très difficiles
+      ou impraticables au printemps. Consultez les avis de la direction avant votre sortie : des tours et
+      portions de rivière sont ponctuellement fermées.
+    around: >-
+      La [Forêt vierge d'Augustów](/lugar/puszcza-augustowska/) n'est qu'à 5 km ; le [Parc national de la
+      Narew](/lugar/narwianski-park-narodowy/) se trouve à 19 km et le [Parc naturel de la forêt de
+      Knyszyn](/lugar/park-krajobrazowy-puszczy-knyszynskiej/) à vingt-cinq kilomètres. Plus loin, le [Parc
+      national de Soomaa](/lugar/soomaa-rahvuspark/) partage l'élan, le lynx et le loup avec la Biebrza au
+      cœur des grands marais.
+  de:
+    intro: >-
+      Im Frühjahr tritt die Biebrza über die Ufer und verwandelt ein rund einhundert Kilometer langes
+      Urstromtal in ein flaches Meer aus Wasser, Schilf und Torf. Dies ist das typische Bild des
+      Biebrza-Nationalparks: die größten Talmoore Polens entlang eines trägen, mäandrierenden Tieflandflusses,
+      der eines der weitläufigsten intakten Feuchtgebiete der Europäischen Union bildet. Er ist zugleich der
+      flächengrößte Nationalpark Polens.
+
+
+      Der Gedanke, diese Feuchtlandschaft zu bewahren, reicht weit zurück. Zwischen den beiden Weltkriegen
+      entstanden mit Czerwone Bagno und Grzędy zwei frühe Schutzgebiete, und 1995 wurde der Park als
+      Ramsar-Feuchtgebiet von internationaler Bedeutung anerkannt.
+    landscape: >-
+      Die Biebrza ist ein idealtypischer Tieflandfluss mit ausladenden Flussschlingen und gemächlicher
+      Strömung; fast ihr gesamter Lauf über etwa 155 km verläuft innerhalb des Nationalparks. Das geringe
+      Gefälle bestimmt die Landschaft: Das Wasser breitet sich aus, staut sich und lässt ein Mosaik feuchter
+      Pflanzengesellschaften entstehen. Offene Wasserflächen wechseln mit Niedermooren, Schilfröhrichten und
+      sumpfigen Erlen- und Birkenbruchwäldern, wo das Grundwasser ganzjährig hoch steht.
+
+
+      Den wertvollsten Lebensraum bilden die moosreichen Flachmoore mit eiszeitlichen Reliktpflanzen wie der
+      Zwergbirke, die im übrigen Land ausgestorben ist. Zu den geschützten Orchideen gehören Fleischfarbenes
+      Knabenkraut (*storczyk krwisty*) und Frauenschuh (*obuwik pospolity*); unter den Sonnentauarten wächst
+      der Langblättrige Sonnentau (*rosiczka długolistna*). Im Herzen des Parks liegt das streng geschützte
+      Totalreservat Czerwone Bagno, das Rote Moor.
+    wildlife: >-
+      Die biologische Vielfalt ist überwältigend. 291 Vogelarten wurden registriert, von denen 195 im
+      Parkgebiet brüten. Boreale Reliktarten der Taiga und Tundra nisten hier isoliert; die Biebrza gilt als
+      wichtigste mitteleuropäische Brutstätte für Watvögel, die weite Feuchtflächen benötigen. Zu den
+      Brutvögeln gehören Kampfläufer, Seggenrohrsänger (weltweit bedroht), Kranich, Uhu und Schelladler, für
+      den das Gebiet ein Refugium von europäischer Tragweite darstellt.
+
+
+      Unter den Säugetieren beherrscht der [Elch](/especie/alces_alces/) das Revier: Der Park ist sein
+      wichtigstes Rückzugsgebiet in Polen mit rund vierhundert Tieren. Den Lebensraum teilen [Eurasischer
+      Luchs](/especie/lynx_lynx/), [Wolf](/especie/canis_lupus/) und [Fischotter](/especie/lutra_lutra/).
+      Darunter entfaltet sich ein Kosmos kleinerer Arten mit mehr als 700 Schmetterlings- und 448
+      Spinnenarten.
+
+
+      Die Jahreszeiten geben den Takt vor. Im Frühjahr vollzieht sich bei Brzostowo und Chyliny ein
+      spektakulärer Vogelzug während des Maihochwassers. Der Herbst bildet die zweite Hauptsaison. Zu zwei
+      Jahreszeiten gelten Einschränkungen: Während der Vogelbrut und in der Brunftzeit von Elchen und Hirschen
+      kann die Parkverwaltung Wege, Wasserrouten und Reitpfade zeitweilig sperren.
+    visit: >-
+      Das natürliche Eingangstor ist Osowiec-Twierdza, Sitz der Parkverwaltung im Areal der Festung Osowiec
+      aus dem neunzehnten Jahrhundert. Hier befinden sich Besucherzentrum, Ausstellung und ein Naturlehrpfad
+      mit Aussichtsturm und Bohlenstegen über das Moor.
+
+
+      Für den Auftakt eignet sich der Lehrpfad Kładka: rund zwei Kilometer mit neun Stationen und einer der
+      wenigen Wege, auf denen angeleinte Hunde erlaubt sind. Für weite Strecken führt die rote Route bei
+      Grzędy über 7 km über Deiche, Dünen und Moor; sie ist leicht, aber stellenweise nass. Nahe dem Forsthaus
+      Grzędy erschließt ein kurzer Holzsteg mit Schautafeln ein Hochmoor-Kiefernwäldchen. Zwischen Gugny und
+      Barwik führt ein anspruchsvoller Pfad zu einer Balzplattform der Doppelschnepfe und einem Turm bei
+      Występ.
+
+
+      Insgesamt weist der Park 50 Routen aus: für Wanderer, Radfahrer, Kanuten, Reiter, Skilangläufer und
+      Lehrpfade. Per Rad bietet die Route Wizna–Goniądz 64,3 km leichte Fahrt, oder Laskowiec–Tykocin über
+      20,5 km entlang der Narew durch Holzdörfer.
+    history: >-
+      Im April 2020 vernichtete ein illegal gelegter Flächenbrand mindestens 6.000 Hektar Ried- und
+      Waldflächen; wegen historischer Niedrigwasserstände konnte das sonst übliche Hochwasser das Feuer nicht
+      löschen. Der Park betreibt eine Wildtierstation, die jährlich etwa 200 Wildtiere dutzender Arten
+      aufnimmt, gesundpflegt und wieder auswildert.
+    before: >-
+      Besuche sind von einer Stunde vor Sonnenaufgang bis eine Stunde nach Sonnenuntergang gestattet. Zelten,
+      offenes Feuer und Rauchen sind nur an ausgewiesenen Plätzen erlaubt. Hunde dürfen nur auf freigegebenen
+      Pfaden geführt werden, stets an einer kurzen Leine von höchstens 1,5 m.
+
+
+      Die Wege weisen nasse Stellen auf; Stege und Türme können rutschig sein. Abschnitte wie Osowiec-Twierdza
+      nach Kuligi oder der Weg nach Biały Grąd sind im Frühjahr je nach Wasserstand unpassierbar. Beachte
+      vorab die Hinweise der Parkverwaltung zu zeitweilig gesperrten Türmen und Flussabschnitten.
+    around: >-
+      Der [Augustów-Urwald](/lugar/puszcza-augustowska/) liegt nur 5 km entfernt; der
+      [Narew-Nationalpark](/lugar/narwianski-park-narodowy/) ist 19 km nah und der [Landschaftspark
+      Knyszyn-Urwald](/lugar/park-krajobrazowy-puszczy-knyszynskiej/) liegt fünfundzwanzig Kilometer entfernt.
+      Weiter entfernt teilt der [Nationalpark Soomaa](/lugar/soomaa-rahvuspark/) Elch, Luchs und Wolf mit der
+      Biebrza in weiten Mooren.
+  it:
+    intro: >-
+      In primavera la Biebrza esonda trasformando una valle lunga circa cento chilometri in un mare interno
+      d'acque basse, canneti e torba. È questo il paesaggio cardine del Parco Nazionale di Biebrza: le
+      maggiori torbiere basse della Polonia lungo un corso d'acqua di pianura pigro e sinuoso che forma una
+      delle più estese paludi incontaminate dell'Unione Europea. È inoltre il più vasto parco nazionale
+      polacco.
+
+
+      La salvaguardia di quest'ambiente ha radici solide. Tra le due guerre mondiali vennero istituite le due
+      riserve storiche di Czerwone Bagno e Grzędy, e nel 1995 il territorio è stato proclamato zona umida di
+      rilievo internazionale ai sensi della Convenzione di Ramsar.
+    landscape: >-
+      La Biebrza è un classico fiume di pianura con anse meandriformi e deflusso lento; quasi l'intero
+      tracciato, circa 155 km, si sviluppa entro i confini del parco. La scarsa pendenza spiega tutto: l'acqua
+      dilaga, ristagna e sostiene una successione continua di habitat palustri. Si alternano specchi d'acqua
+      aperti, lanche torbose, canneti sterminati e boschi golenali di ontano nero e betulla dove il terreno è
+      perennemente intriso d'acqua.
+
+
+      I valori botanici più alti appartengono alle torbiere basse a muschi con relitti glaciali come la
+      betulla nana, scomparsa altrove nel paese. Tra le orchidee spiccano *storczyk krwisty* e *obuwik
+      pospolity*; tra le piante carnivore la drosera a foglie lunghe (*rosiczka długolistna*). Al centro di
+      questo mosaico si trova la riserva integrale di Czerwone Bagno, la Palude Rossa.
+    wildlife: >-
+      Le cifre testimoniano una biodiversità eccezionale. Sono state registrate 291 specie di uccelli, delle
+      quali 195 nidificano all'interno del parco. Numerose specie boreali e della taiga nidificano qui
+      isolate, rendendo la valle un bastione centroeuropeo per i limicoli legati ai grandi pantani. Tra i
+      nidificanti spiccano il combattente, il pagliarolo (globalmente minacciato), la gru, il gufo reale e
+      l'aquila anatraia maggiore, per la quale il parco è un santuario europeo.
+
+
+      Tra i mammiferi regna l'[alce](/especie/alces_alces/): il parco è il suo baluardo primario in Polonia
+      con circa quattrocento esemplari. Coabitano la [lince boreale](/especie/lynx_lynx/), il [lupo
+      grigio](/especie/canis_lupus/) e la [lontra europea](/especie/lutra_lutra/). Accanto ai grandi mammiferi
+      prolifera un ricco microcosmo con oltre 700 specie di farfalle e 448 specie di ragni.
+
+
+      Il calendario naturale detta i tempi. A primavera, attorno a Brzostowo e Chyliny, si assiste a un
+      passaggio migratorio imponente favorito dalle inondazioni di maggio. L'autunno è l'altra stagione
+      privilegiata. Due periodi richiedono restrizioni: durante la cova dei volatili e durante il bramito di
+      alci e cervi il parco può chiudere temporaneamente sentieri, percorsi fluviali e ippovie.
+    visit: >-
+      Il varco d'accesso d'elezione è Osowiec-Twierdza, dove ha sede l'ente parco all'interno della fortezza
+      ottocentesca di Osowiec del XIX secolo. Qui trovi il centro accoglienza, mostre e un sentiero didattico
+      con torretta panoramica e passerelle in legno per penetrare nella palude.
+
+
+      Per iniziare, il sentiero didattico Kładka misura circa due chilometri con nove punti di sosta, ed è tra
+      i pochi percorsi aperti ai cani al guinzaglio. Per camminate più lunghe, il percorso rosso di Grzędy
+      copre 7 km su argini, dune e paludi; è facile sebbene spesso fangoso. Presso la foresteria di Grzędy, un
+      breve tratto su passerella attraversa una pineta torbosa. Tra Gugny e Barwik, un itinerario avventuroso
+      conduce a una postazione per osservare le parate del croccolone e a una torre a Występ.
+
+
+      Nel complesso il parco segnala 50 percorsi: a piedi, in bicicletta, in canoa, a cavallo, con sci di
+      fondo e tematici. In bicicletta, l'itinerario da Wizna a Goniądz di 64,3 km offre un percorso
+      pianeggiante, mentre da Laskowiec a Tykocin si pedala per 20,5 km costeggiando il Narew tra villaggi
+      rurali.
+    history: >-
+      Nell'aprile 2020 un incendio doloso appiccato sui pascoli ha distrutto almeno 6.000 ettari di canneti e
+      torbiere; la siccità e i bassi livelli idrici impedirono alle piene di estinguere le fiamme. Il parco
+      ospita un centro di recupero della fauna selvatica che accoglie ogni anno circa 200 animali selvatici
+      appartenenti a decine di specie per riabilitarli e reintrodurli in natura.
+    before: >-
+      Le visite sono consentite da un'ora prima dell'alba a un'ora dopo il tramonto. Campeggiare, accendere
+      fuochi e fumare è ammesso solo nelle piazzole autorizzate. I cani sono ammessi solo sui sentieri
+      designati, rigorosamente tenuti con guinzaglio corto di 1,5 m.
+
+
+      I sentieri presentano tratti allagati e le passerelle di legno possono risultare scivolose. Alcuni
+      tracciati come quello da Osowiec-Twierdza a Kuligi o la via per Biały Grąd possono essere impraticabili
+      a primavera. Controlla gli avvisi dell'ente parco prima di metterti in marcia.
+    around: >-
+      La [Foresta primordiale di Augustów](/lugar/puszcza-augustowska/) dista solo 5 km; il [Parco nazionale
+      del Narew](/lugar/narwianski-park-narodowy/) è a 19 km e il [Parco paesaggistico della foresta di
+      Knyszyn](/lugar/park-krajobrazowy-puszczy-knyszynskiej/) a venticinque chilometri. Più a nord, il [Parco
+      nazionale di Soomaa](/lugar/soomaa-rahvuspark/) condivide alce, lince e lupo in grandi ambienti
+      palustri.
+  pt:
+    intro: >-
+      Na primavera o Biebrza transborda, convertendo um vale com cerca de cem quilómetros de extensão num mar
+      interior de águas rasas, caniçais e turfa. Esta é a paisagem emblemática do Parque Nacional de Biebrza:
+      as maiores turfeiras baixas da Polónia, espraiadas ao longo de um rio de planície serpenteante e de
+      corrente vagarosa que forma um dos maiores pauis intactos da União Europeia. É também o maior de todos
+      os parques nacionais polacos.
+
+
+      A preservação desta paisagem aquática não é recente. Entre as duas guerras mundiais criaram-se duas
+      reservas pioneiras, Czerwone Bagno e Grzędy, e em 1995 o parque foi consagrado como zona húmida de
+      importância internacional pela Convenção de Ramsar.
+    landscape: >-
+      O Biebrza é um rio de planície por excelência, meandriforme e de corrente lenta, decorrendo quase todo o
+      seu percurso, cerca de 155 km, no interior do parque nacional. O fraco declive determina a dinâmica: as
+      águas espalham-se, estagnam e sustentam um mosaico ininterrupto de comunidades palustres. Alternam-se
+      águas livres, lodaçais, turfeiras de depressão, caniçais densos e amiais e bétulas ripícolas onde o solo
+      se mantém saturado de água.
+
+
+      O valor botânico supremo reside nas turfeiras baixas musgosas, que abrigam relíquias boreais raras como
+      a bétula-anã, desaparecida no restante território polaco. Nas orquídeas destacam-se *storczyk krwisty* e
+      o sapatinho-de-vénus (*obuwik pospolity*); nas dróseras, a drósera-de-folhas-longas (*rosiczka
+      długolistna*). No coração da área estende-se a reserva integral de Czerwone Bagno, o Pântano Vermelho.
+    wildlife: >-
+      Aqui os números traduzem grande abundância biológica. Foram registadas 291 espécies de aves, das quais
+      195 nidificam no parque. Espécies boreais e aves da taiga e tundra nidificam aqui de forma isolada,
+      transformando o vale num refúgio centro-europeu de eleição para limícolas dependentes de planícies
+      húmidas. Entre os nidificantes avultam o combatente, a felosa-aquática (globalmente ameaçada), o
+      grou-comum, o bufo-real e a águia-pomarina-maior, para a qual a área é santuário de relevância europeia.
+
+
+      Nos mamíferos reina o [alce](/especie/alces_alces/): o parque é o seu reduto máximo na Polónia com cerca
+      de quatrocentos animais. Partilham o território o [lince-euroasiático](/especie/lynx_lynx/), o
+      [lobo-cinzento](/especie/canis_lupus/) e a [lontra-europeia](/especie/lutra_lutra/). Sob a megafauna
+      fervilha um microcosmo com mais de 700 espécies de borboletas e 448 de aranhas.
+
+
+      O ciclo natural dita o ritmo. Na primavera, junto a Brzostowo e Chyliny, assiste-se a uma imensa
+      migração de aves durante as cheias de maio. O outono é a outra grande estação. Dois períodos impõem
+      restrições: na época de nidificação e durante a brama de alces e veados, o parque encerra
+      temporariamente trilhos pedonais, fluviais ou equestres.
+    visit: >-
+      A porta de entrada natural é Osowiec-Twierdza, onde funciona a sede do parque dentro do recinto da
+      fortaleza de Osowiec, erguida no século XIX. Aqui tens o centro de visitantes, exposições e um percurso
+      pedagógico com torre de vigia e passadiços de madeira sobre os pauis.
+
+
+      Para começar, o trilho pedagógico Kładka tem cerca de dois quilómetros e nove paragens, sendo um dos
+      percursos onde se admitem cães com trela. Para caminhadas mais extensas, a rota vermelha de Grzędy
+      percorre 7 km por diques, dunas interiores e turfeiras; é acessível embora húmida. Junto ao posto
+      florestal de Grzędy, um passadiço curto penetra num pinhal de turfeira. Entre Gugny e Barwik, um
+      percurso mais desafiante conduz a uma plataforma para avistar as paradas nupciais da narceja-real e a
+      uma torre em Występ.
+
+
+      No total, o parque assinala 50 percursos: pedestres, cicláveis, fluviais, equestres, de esqui e
+      pedagógicos. Em bicicleta, o percurso de Wizna a Goniądz oferece 64,3 km acessíveis, enquanto de
+      Laskowiec a Tykocin se pedalam 20,5 km ao longo do Narew cruzando aldeias tradicionais.
+    history: >-
+      Em abril de 2020, uma queimada ilegal provocou um incêndio que destruiu pelo menos 6.000 hectares de
+      pastagens e florestas de turfeira; com caudais em mínimos históricos, as habituais cheias não puderam
+      apagar o fogo. O parque gere um centro de reabilitação de fauna que acolhe anualmente cerca de 200
+      animais selvagens de várias dezenas de espécies para recuperação e devolução à natureza.
+    before: >-
+      As visitas são permitidas desde uma hora antes do nascer do sol até uma hora após o pôr do sol. Acampar,
+      fazer fogo e fumar só é autorizado em locais devidamente sinalizados. Cães só podem aceder aos trilhos
+      expressamente permitidos, sempre presos por trela curta de 1,5 m.
+
+
+      Há troços alagados nos caminhos, e os passadiços e torres podem estar escorregadios. Certos percursos,
+      como de Osowiec-Twierdza a Kuligi ou a rota para Biały Grąd, tornam-se intransitáveis na primavera
+      consoante os caudais. Confirma os avisos da administração antes de sair.
+    around: >-
+      A [Floresta Primitiva de Augustów](/lugar/puszcza-augustowska/) fica a apenas 5 km; o [Parque Nacional
+      do Narew](/lugar/narwianski-park-narodowy/) dista 19 km e o [Parque Paisagístico da Floresta de
+      Knyszyn](/lugar/park-krajobrazowy-puszczy-knyszynskiej/) vinte e cinco quilómetros. Mais distante, o
+      [Parque Nacional de Soomaa](/lugar/soomaa-rahvuspark/) partilha alce, lince e lobo com Biebrza entre
+      amplos pauis.
+fuentes:
+  - url: https://archiwum2.biebrza.org.pl/plik,3951,biebrza-national-park-pdf.pdf
+    titulo: Biebrza National Park | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://archiwum2.biebrza.org.pl/1143,fauna
+    titulo: Fauna | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://archiwum2.biebrza.org.pl/160,mammals-of-the-biebrza-national-park
+    titulo: Mammals of Biebrza National Park | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://archiwum2.biebrza.org.pl/90,sciezka-edukacyjna-kladka
+    titulo: Ścieżka edukacyjna Kładka | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://archiwum2.biebrza.org.pl/167,hiking-trails
+    titulo: Hiking trails | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://archiwum2.biebrza.org.pl/165,visitor-regulations
+    titulo: Visitor regulations | Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://pl.wikipedia.org/wiki/Biebrza%C5%84ski_Park_Narodowy
+    titulo: Biebrzański Park Narodowy – Wikipedia, wolna encyklopedia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Biebrza_National_Park
+    titulo: Biebrza National Park - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://bbpn.gov.pl/szlaki-turystyczne
+    titulo: Szlaki turystyczne
+    fecha_consulta: '2026-10-29'
+  - url: https://www.biebrza.org.pl/
+    titulo: Biebrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://bbpn.gov.pl/komunikat-turystyczny
+    titulo: Komunikat turystyczny
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Marsh_in_Biebrza_National_Park_02(js),_(Poland).jpg
+    autor: Jerzy Strzelecki
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

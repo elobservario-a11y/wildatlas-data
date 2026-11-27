@@ -1,0 +1,644 @@
+id: totes-gebirge---karst-desert
+estado_editorial: valoracion-revisada
+nombre:
+  es: Totes Gebirge - Desierto Kárstico
+  en: Totes Gebirge - Karst Desert
+  fr: Totes Gebirge - Désert karstique
+  de: Totes Gebirge - Karstwüste
+  it: Totes Gebirge - Deserto Carsico
+  pt: Totes Gebirge - Deserto Cársico
+nombre_original: Totes Gebirge - Karst Desert
+alias:
+  - Totes Gebirge Karst Desert (Totes Gebirge)
+paises:
+  - AT
+region:
+  es: Alta Austria / Estiria (Hinterstoder / Bad Aussee)
+  en: Upper Austria / Styria (Hinterstoder / Bad Aussee)
+  fr: Haute-Autriche / Styrie (Hinterstoder / Bad Aussee)
+  de: Oberösterreich / Steiermark (Hinterstoder / Bad Aussee)
+  it: Alta Austria / Stiria (Hinterstoder / Bad Aussee)
+  pt: Alta Áustria / Estíria (Hinterstoder / Bad Aussee)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2133678
+  nombre_en_la_fuente: Totes Gebirge
+  capa: capas/osm/totes-gebirge---karst-desert.geojson
+habitats:
+  - karst
+  - high_mountain
+  - lake
+designaciones:
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - lagopus_muta
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en los lagos de Salzkammergut (Almsee / Grundlsee); muy baja en la meseta interior
+  en: Moderate around the Salzkammergut lakes (Almsee / Grundlsee); very low across the high interior plateau
+  fr: Moyenne autour des lacs du Salzkammergut (Almsee / Grundlsee) ; très faible sur le haut plateau intérieur
+  de: Mäßig an den Salzkammergutseen (Almsee / Grundlsee); sehr gering auf dem inneren Hochplateau
+  it: Media presso i laghi del Salzkammergut (Almsee / Grundlsee); assai bassa sull'altopiano interno
+  pt: Média junto aos lagos de Salzkammergut (Almsee / Grundlsee); muito reduzida no planalto interior
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Normas — protección del sector oriental de Totes Gebirge
+    url: https://www.verwaltung.steiermark.at/cms/beitrag/11680676/74837620/
+enlaces_referencia:
+  - titulo: Wikipedia — Totes Gebirge
+    url: https://en.wikipedia.org/wiki/Totes_Gebirge
+resumen:
+  es: >-
+    Las 'Montañas Muertas', la mayor meseta de karst desértico alpino de Europa Central (más de 200 km² de
+    caliza desnuda sin agua superficial).
+  en: >-
+    The 'Dead Mountains', Central Europe's largest high-alpine karst desert plateau (over 200 km² of exposed
+    barren limestone void of surface water).
+  fr: >-
+    Les 'Montagnes Mortes', le plus vaste haut plateau de karst désertique d'Europe centrale (plus de 200 km²
+    de calcaire nu dépourvu d'eau de surface).
+  de: >-
+    Das 'Tote Gebirge', die größte alpine Karstwüstenhochfläche Mitteleuropas (über 200 km² nackter Kalkfels
+    ohne oberirdisches Wasser).
+  it: >-
+    I 'Monti Morti', il più vasto altopiano carsico d'alta quota dell'Europa centrale (oltre 200 km² di
+    calcare nudo privo di acque superficiali).
+  pt: >-
+    As 'Montanhas Mortas', o maior planalto cársico desértico de alta montanha da Europa Central (mais de 200
+    km² de calcário exposto sem água superficial).
+unico:
+  es: >-
+    Una meseta de piedra sin una gota de agua en superficie, con 2800 cuevas debajo, entre ellas la más larga
+    de Austria.
+  en: >-
+    A monumental high-altitude limestone plateau without a single drop of surface water, honeycombed by 2800
+    known caves beneath, including Austria's longest cavern.
+  fr: >-
+    Un plateau calcaire colossal sans une goutte d'eau en surface, abritant 2800 grottes en sous-sol, dont la
+    plus longue cavité d'Autriche.
+  de: >-
+    Ein gewaltiges Hochplateau ohne einen Tropfen Wasser an der Oberfläche, unterhöhlt von 2800 bekannten
+    Höhlen, darunter Österreichs längste Höhle.
+  it: >-
+    Un colossale altopiano roccioso privo di acque in superficie, traforato da 2800 grotte conosciute, tra cui
+    la caverna più estesa d'Austria.
+  pt: >-
+    Um monumental planalto rochoso sem uma gota de água à superfície, perfurado por 2800 grutas conhecidas,
+    incluindo a gruta mais extensa da Áustria.
+observaciones:
+  es: >-
+    Es un macizo de travesías largas y sin agua en la meseta. Prepara las etapas contando con las cabañas y no
+    esperes arroyos fuera de los valles.
+texto:
+  es:
+    intro: >-
+      Los vecinos de la zona le pusieron un nombre que no engaña: «tierra de huesos». En el corazón del Totes
+      Gebirge, el «macizo muerto», no hay manantiales ni arroyos y apenas crecen plantas, y los bancos blancos
+      de caliza sobresalen del suelo como costillas. Es una meseta enorme, de unos 1125 km², con el Großer
+      Priel como techo a 2.515 metros, y se considera la mayor zona kárstica calcárea de Europa central. Pero
+      basta bajar a sus bordes para que el desierto se llene de lagos, alerzales, majadas y gallos de monte.
+    landscape: >-
+      La explicación del nombre está en la roca. El macizo es de caliza del Dachstein, muy karstificada, y
+      casi toda la lluvia y el deshielo se cuela por grietas y dolinas y reaparece como manantial en los
+      valles, mucho más abajo. Por eso, aunque llueve —entre 1200 y más de 2500 mm al año, más cuanto más
+      alto—, la meseta está seca. Las dolinas son muy frecuentes y algunas son gigantes: la del Kuhntal tiene
+      más de 500 metros de diámetro.
+
+
+      El karst cambia de cara según dónde mires. En los bordes oeste y este domina un karst cubierto de
+      vegetación, el karst verde; en la meseta central, el karst gris, roca desnuda. Y por debajo hay otro
+      macizo: el registro austriaco de cuevas recoge 2800, la mayoría con la entrada en la meseta. El sistema
+      de cuevas del Schönberg, con 155.018 metros medidos, es la cueva más larga de Austria.
+
+
+      El hielo hizo lo demás. Durante las glaciaciones el macizo estuvo siempre cubierto y la meseta alimentó
+      grandes corrientes de hielo que excavaron cubetas profundas en los valles. Hoy esas cubetas son lagos:
+      el Altausseer See y el Grundlsee, en el suroeste; el Almsee, el Offensee y el Gleinkersee, al pie norte.
+      En la meseta de Tauplitzalm hay además seis lagos de montaña. Del macizo nacen el Traun y el Steyr.
+
+
+      Las cumbres se agrupan en tres bloques: el grupo del Schönberg, al oeste, separado por una falla
+      profunda del grupo central del Priel; y, en el este, el Warscheneck. Las tres cimas más altas están en
+      el Priel: el Großer Priel, la Spitzmauer (2.446 m) y el Schermberg (2.396 m).
+    wildlife: >-
+      El alerce marca el límite del bosque, y por encima se extienden campos de pino mugo. La mayor parte de
+      las plantas endémicas de los Alpes del noreste crece aquí.
+
+
+      En la meseta karstificada del Priel el [rebeco](/especie/rupicapra_rupicapra/) tiene su refugio y
+      alcanza densidades altas. En las grandes majadas viven [ciervos](/especie/cervus_elaphus/) y, en menor
+      número, [corzos](/especie/capreolus_capreolus/); también hay liebres variables. Cuatro gallináceas de
+      patas emplumadas comparten el macizo: el [lagópodo alpino](/especie/lagopus_muta/), el gallo lira, el
+      grévol y el [urogallo](/especie/tetrao_urogallus/). Chovas alpinas y cuervos son frecuentes, y el
+      [águila real](/especie/aquila_chrysaetos/) también tiene aquí su área de distribución. Entre los
+      anfibios, la salamandra alpina y el tritón alpino tienen buenas poblaciones.
+
+
+      Lo más raro vive bajo tierra: un pseudoescorpión, Neobisium aueri, solo se conoce de cuevas de este
+      macizo y es un relicto terciario que sobrevivió a las glaciaciones allí dentro. Y el pasado tiene sus
+      fieras: 7 de las 40 grandes cuevas de osos de los Alpes están aquí, lo que da al macizo un valor
+      especial para estudiar el oso de las cavernas. El [oso pardo](/especie/ursus_arctos/) actual, en cambio,
+      se considera extinguido en la zona desde 2011.
+    visit: >-
+      El macizo se cruza a pie de cabaña en cabaña. El sendero 201 lo atraviesa de este a oeste, con su punto
+      más alto junto al Warscheneck, y forma parte del Nordalpenweg, del E4 y de la Via Alpina. Ese itinerario
+      pasa por Spital am Pyhrn, Hinterstoder, la Prielschutzhaus, la Loserhütte y termina en Bad Goisern.
+      Desde 2020 existe además el Welser Höhenweg, una travesía de los grupos Priel y Schönberg, y el
+      Salzsteigweg cruza el macizo de Hinterstoder a la Hochmölbinghütte.
+
+
+      Hay cabañas gestionadas en los bordes y tres en el interior de la meseta, y vías de peaje que suben
+      desde Altaussee (la Loser-Panoramastraße), Bad Mitterndorf (Tauplitz) y Hinterstoder.
+    history: >-
+      La primera cabaña de montaña, la Loserhütte, se abrió en 1882 en el extremo oriental de la Augstalm, a
+      1.498 metros. Poco antes, en 1878, un joven geólogo y alpinista, Georg Geyer, había publicado con 21
+      años su monografía «Das Todte Gebirge», y se convirtió en el gran pionero de su geología.
+
+
+      La prehistoria dejó huella en las cuevas Salzofenhöhle y Ramesch: allí aparecieron herramientas de
+      piedra del Musteriense, de entre 65.000 y 31.000 años a. C. Y en la localidad de Feuerkogel se conocen
+      casi 600 especies de amonites del Triásico, uno de los yacimientos más interesantes del mundo.
+
+
+      En 1991 se declararon en Estiria las reservas Totes Gebirge Oeste (154,6 km²) y Este (78,17 km²), y en
+      2006 el espacio europeo Totes Gebirge con Altausseer See, dentro de Natura 2000. Los planes de unir con
+      remontes la estación de esquí de Hinterstoder con la Wurzeralm, dentro de reservas, provocaron polémica
+      y se abandonaron.
+    before: >-
+      Es un macizo de travesías largas y sin agua en la meseta. Prepara las etapas contando con las cabañas y
+      no esperes arroyos fuera de los valles.
+    around: >-
+      A unos 4 km queda la [Reserva Natural del Dachstein — Gosau, Hallstatt y
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), y a 16 km el [Parque Nacional
+      Gesäuse - Garganta del Enns](/lugar/nationalpark-gesause---enns-gorge/). Más lejos, el [Steinernes Meer
+      - Mar de Piedra](/lugar/steinernes-meer---karst-plateau/) comparte con este macizo el karst de alta
+      montaña, el rebeco y el lagópodo alpino.
+  en:
+    intro: >-
+      Local mountaineers long ago bestowed an uncompromising name upon this range: «land of bones». In the
+      high interior of the Totes Gebirge, the «dead range», no mountain springs or surface brooks flow and
+      vegetation is sparse, with white ribs of fractured limestone jutting from the plateau like bare skeleton
+      bones. It forms a monumental massif of roughly 1125 km², culminating at the summit of Großer Priel at
+      2,515 meters, widely regarded as the most expansive limestone karst plateau in Central Europe. Yet
+      descend toward its peripheral fringes and this austere stone desert gives way to sparkling fjord-like
+      lakes, larch forests, summer pastures, and mountain grouse.
+    landscape: >-
+      The explanation for its desolate name lies in the geology. The massif consists of heavily karstified
+      Dachsteinkalk limestone, causing nearly all precipitation and snowmelt to drain directly into deep
+      joints and sinkholes, only reappearing as gushing valley springs far below. Consequently, despite annual
+      rainfall ranging between 1200 and over 2500 mm—increasing with altitude—the high plateau remains
+      completely parched. Karst sinkholes are ubiquitous and occasionally gigantic: the Kuhntal doline exceeds
+      500 meters in diameter.
+
+
+      The karst landscape changes character according to exposure. The eastern and western borders feature a
+      green karst softened by dwarf mountain pine and subalpine pastures, while the central plateau is a grey
+      karst of completely bare rock. Beneath this surface lies an immense speleological labyrinth: the
+      Austrian cave cadastre records some 2800 caverns, most opening on the high plateau. The Schönberg cave
+      system, with 155,018 meters of surveyed passages, represents the longest cave in Austria.
+
+
+      Pleistocene glaciation sculpted the valleys. Glaciers fed by the plateau carved deep basins around the
+      massif that today cradle scenic lakes: Altausseer See and Grundlsee in the southwest; Almsee, Offensee,
+      and Gleinkersee along the northern foot. On the Tauplitzalm plateau lie six mountain lakes. The Traun
+      and Steyr rivers both originate from springs draining the massif.
+
+
+      The peaks divide into three major massifs: the Schönberg group in the west, severed by a major fault
+      from the central Priel group; and the Warscheneck in the east. The three highest summits all rise in the
+      Priel group: the Großer Priel, the Spitzmauer (2,446 m), and the Schermberg (2,396 m).
+    wildlife: >-
+      Larch woodlands mark the upper timberline, yielding higher up to extensive dwarf mountain pine thickets.
+      Many endemic plant taxa of the northeastern Limestone Alps occur across these crags.
+
+
+      Across the fissured Priel plateau the [chamois](/especie/rupicapra_rupicapra/) finds a safe haven and
+      reaches notable population densities. Lower summer pastures support [red deer](/especie/cervus_elaphus/)
+      and small numbers of [roe deer](/especie/capreolus_capreolus/), alongside mountain hares. Four species
+      of grouse share the massif: [rock ptarmigan](/especie/lagopus_muta/), black grouse, hazel grouse, and
+      [western capercaillie](/especie/tetrao_urogallus/). Alpine choughs and ravens are widespread, and the
+      [golden eagle](/especie/aquila_chrysaetos/) nests across the cliffs. Alpine salamanders and alpine newts
+      sustain healthy populations.
+
+
+      The most extraordinary life forms hide underground: the blind pseudoscorpion Neobisium aueri is endemic
+      exclusively to caverns of this massif, surviving as a Tertiary relict sheltered through the ice ages.
+      Prehistory also left its mark: 7 of the 40 known major bear caves in the Alps are located here, making
+      the range vital for studying extinct cave bears. The modern [brown bear](/especie/ursus_arctos/), by
+      contrast, has been considered extirpated from the region since 2011.
+    visit: >-
+      The massif is traversed on foot from mountain hut to hut. Marked trail 201 crosses the range from east
+      to west, reaching its highest point near the Warscheneck as part of the Nordalpenweg, European trail E4,
+      and Via Alpina. This trek connects Spital am Pyhrn, Hinterstoder, the Prielschutzhaus, and the
+      Loserhütte, terminating at Bad Goisern. Since 2020, hikers can also tackle the Welser Höhenweg across
+      the Priel and Schönberg groups, while the Salzsteigweg traverses from Hinterstoder to the
+      Hochmölbinghütte.
+
+
+      Serviced Alpine Club huts ring the perimeter with three located in the interior plateau, complemented by
+      toll roads ascending from Altaussee (Loser-Panoramastraße), Bad Mitterndorf (Tauplitz), and
+      Hinterstoder.
+    history: >-
+      The earliest alpine refuge, the Loserhütte, opened in 1882 at the eastern edge of the Augstalm at 1,498
+      meters. Shortly before, in 1878, a young 21-year-old geologist and alpinist, Georg Geyer, published his
+      pioneering monograph «Das Todte Gebirge», laying the foundation for modern alpine geology.
+
+
+      Prehistoric hunters frequented the caves of Salzofenhöhle and Rameschhöhle, leaving behind Mousterian
+      stone artifacts dated between 65,000 and 31,000 BC. In addition, the Feuerkogel fossil locality has
+      yielded nearly 600 Triassic ammonite species, ranking among the world's most significant paleontological
+      sites.
+
+
+      In 1991 Styria established the Totes Gebirge West (154.6 km²) and East (78.17 km²) nature reserves, and
+      in 2006 the European Natura 2000 protected area Totes Gebirge with Altausseer See was formalized.
+      Proposals to interconnect the Hinterstoder ski resort with Wurzeralm across the protected plateau
+      sparked fierce public debate and were ultimately shelved.
+    before: >-
+      This is a challenging massif characterized by long distances and a total absence of surface water on the
+      plateau. Plan daily stages strictly between staffed huts and carry ample fluids, as no springs exist
+      above the valleys.
+    around: >-
+      About 4 km to the west lies the [Dachstein Nature Reserve - Gosau, Hallstatt and
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), and 16 km to the east sits
+      [Gesäuse National Park - Enns Gorge](/lugar/nationalpark-gesause---enns-gorge/). Farther west, the
+      [Steinernes Meer - Sea of Stone](/lugar/steinernes-meer---karst-plateau/) shares alpine karst desert
+      terrain, chamois, and rock ptarmigan.
+  fr:
+    intro: >-
+      Les montagnards de la région lui ont donné un surnom sans équivoque : la «terre d'ossements». Au cœur du
+      Totes Gebirge, le «massif mort», il n'y a ni sources ni ruisseaux et la végétation est clairsemée,
+      tandis que des bancs de calcaire blanchi émergent du sol comme des côtes fossiles. Ce gigantesque massif
+      de quelque 1125 km², coiffé par le Großer Priel à 2 515 mètres d'altitude, est considéré comme le plus
+      vaste désert karstique d'Europe centrale. Pourtant, dès que l'on descend vers ses lisières, la roche
+      cède la place à des lacs glaciaires, des mélézins, des alpages vivants et des tétras.
+    landscape: >-
+      L'aridité du paysage s'explique par la nature de la roche. Le massif est bâti en calcaire du Dachstein
+      intensément karstifié : les précipitations et fontes s'engouffrent dans les failles et dolines pour ne
+      réapparaître qu'en résurgences torrentielles dans les vallées, bien plus bas. Dès lors, bien qu'il y
+      pleuve abondamment — entre 1200 et plus de 2500 mm annuels selon l'altitude —, le plateau reste
+      désespérément sec. Les dolines sont omniprésentes et parfois gigantesques : celle du Kuhntal dépasse 500
+      mètres de diamètre.
+
+
+      Le relief change de visage selon les secteurs. Les bordures orientale et occidentale présentent un karst
+      vert tapissé de pins mugos et de pelouses, alors que le plateau central est un karst gris de roche
+      entièrement dénudée. En profondeur s'ouvre un autre empire : le cadastre autrichien recense 2800
+      cavités, dont l'immense réseau du Schönberg qui, avec 155 018 mètres de galeries topographiées,
+      constitue la plus longue grotte d'Autriche.
+
+
+      Les glaciers quaternaires ont parachevé le relief en creusant de profondes auges aujourd'hui occupées
+      par des lacs : Altausseer See et Grundlsee au sud-ouest ; Almsee, Offensee et Gleinkersee au piémont
+      nord. Le plateau de la Tauplitzalm abrite quant à lui six lacs d'altitude. La Traun et la Steyr naissent
+      de résurgences drainant le massif.
+
+
+      Les sommets se regroupent en trois blocs : le groupe du Schönberg à l'ouest, isolé par une faille
+      majeure du groupe central du Priel ; et le Warscheneck à l'est. Les trois plus hauts sommets s'élèvent
+      dans le Priel : le Großer Priel, la Spitzmauer (2 446 m) et le Schermberg (2 396 m).
+    wildlife: >-
+      Les mélèzes marquent la limite forestière supérieure, relayés par les landes de pins mugos. La majorité
+      des plantes endémiques des Alpes nord-orientales s'épanouit sur ces crêtes rocheuses.
+
+
+      Sur les plateaux lapiazés du Priel, le [chamois](/especie/rupicapra_rupicapra/) trouve refuge et atteint
+      de fortes densités. Les alpages accueillent le [cerf élaphe](/especie/cervus_elaphus/) et de petits
+      groupes de [chevreuils](/especie/capreolus_capreolus/), aux côtés du lièvre variable. Quatre tétraonidés
+      se partagent le massif : le [lagopède alpin](/especie/lagopus_muta/), le tétras lyre, la gélinotte et le
+      [grand tétras](/especie/tetrao_urogallus/). Chocards à bec jaune et grands corbeaux sont fréquents, et
+      l'[aigle royal](/especie/aquila_chrysaetos/) patrouille régulièrement au-dessus des gouffres.
+      Salamandres noires et tritons alpestres sont bien implantés.
+
+
+      La rareté suprême vit sous terre : le pseudoscorpion aveugle Neobisium aueri est endémique strict des
+      grottes du massif, où il a survécu aux glaciations comme relique tertiaire. Les cavernes abritent une
+      riche mémoire paléontologique : 7 des 40 grandes grottes à ours des Alpes s'y trouvent, révélant de
+      précieux gisements d'ours des cavernes. L'[ours brun](/especie/ursus_arctos/) contemporain, en revanche,
+      est considéré comme éteint dans le secteur depuis 2011.
+    visit: >-
+      Le massif se parcourt à pied de refuge en refuge. Le sentier 201 le traverse d'est en ouest, culminant
+      près du Warscheneck au sein du Nordalpenweg, de l'E4 et de la Via Alpina. Ce parcours relie Spital am
+      Pyhrn, Hinterstoder, la Prielschutzhaus et la Loserhütte pour finir à Bad Goisern. Depuis 2020 s'est
+      ajouté le Welser Höhenweg à travers les massifs du Priel et du Schönberg, tandis que le Salzsteigweg
+      relie Hinterstoder à la Hochmölbinghütte.
+
+
+      Des refuges gardés ceinturent le plateau avec trois établissements installés à l'intérieur, et des
+      routes à péage montent depuis Altaussee (Loser-Panoramastraße), Bad Mitterndorf (Tauplitz) et
+      Hinterstoder.
+    history: >-
+      Le premier refuge du massif, la Loserhütte, ouvrit en 1882 sur l'Augstalm à 1 498 mètres d'altitude. Peu
+      avant, en 1878, un jeune géologue de 21 ans, Georg Geyer, publiait sa monographie «Das Todte Gebirge»,
+      ouvrant la voie à la cartographie alpine moderne.
+
+
+      Les grottes de Salzofenhöhle et Rameschhöhle ont livré des industries lithiques moustériennes datées
+      entre 65 000 et 31 000 ans avant notre ère. Par ailleurs, le gisement du Feuerkogel a fourni près de 600
+      espèces d'ammonites du Trias, réputé mondialement.
+
+
+      En 1991, la Styrie a érigé les réserves naturelles du Totes Gebirge Ouest (154,6 km²) et Est (78,17
+      km²), et en 2006 le site européen Natura 2000 englobant l'Altausseer See. Les projets de liaison par
+      remontées mécaniques entre Hinterstoder et la Wurzeralm à travers les réserves ont été abandonnés.
+    before: >-
+      C'est un massif d'itinéraires longs et totalement dépourvu d'eau sur le plateau. Calibrez soigneusement
+      vos étapes de cabane en cabane et n'espérez aucun ruisseau hors des vallées.
+    around: >-
+      À environ 4 km s'étend la [réserve naturelle du Dachstein — Gosau, Hallstatt et
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), et à 16 km le [parc national
+      du Gesäuse - Défilé de l'Enns](/lugar/nationalpark-gesause---enns-gorge/). Plus loin, le [Steinernes
+      Meer - Mer de Pierre](/lugar/steinernes-meer---karst-plateau/) partage haut plateau calcaire, chamois et
+      lagopède alpin.
+  de:
+    intro: >-
+      Einheimische Bergsteiger nannten das Massiv treffend «Knochenland». Im Herzen des Toten Gebirges gibt es
+      weder Quellen noch Bäche und kaum Vegetation, während weiße Kalksteinbänke wie Rippen aus dem Boden
+      ragen. Das Gebirgsmassiv umfasst rund 1125 km² Fläche, gekrönt vom Großen Priel mit 2.515 Metern, und
+      gilt als die ausgedehnteste Kalkkarsthochfläche Mitteleuropas. Doch am Gebirgsrand weicht die Steinwüste
+      tiefblauen Seen, lichten Lärchenwäldern, Almhütten und Raufußhühnern.
+    landscape: >-
+      Die Erklärung für die Ödnis liegt im Gestein. Das Massiv besteht aus stark verkarstetem Dachsteinkalk:
+      Nahezu alle Niederschläge und Schmelzwasser versickern sofort in Klüften und Dolinen und treten erst in
+      den Talniederungen als mächtige Quellen zutage. Obwohl es reichlich regnet – zwischen 1200 und über 2500
+      mm jährlich je nach Höhenlage –, bleibt das Hochplateau staubtrocken. Dolinen sind allgegenwärtig; jene
+      im Kuhntal misst über 500 Meter Durchmesser.
+
+
+      Das Karstrelief wechselt je nach Lage. An den Rändern dominiert der grüne Karst mit Latschenfeldern und
+      Almwiesen, während die zentrale Hochfläche als grauer Karst aus nacktem Fels daliegt. Darunter erstreckt
+      sich eine unterirdische Welt: Das österreichische Höhlenkataster verzeichnet rund 2800 Höhlen. Das
+      Schönberg-Höhlensystem stellt mit 155.018 Metern vermessener Gesamtlänge die längste Höhle Österreichs
+      dar.
+
+
+      Eiszeitliche Gletscher schufen die Talkessel am Gebirgsfuß, in denen heute malerische Salzkammergutseen
+      ruhen: Altausseer See und Grundlsee im Südwesten; Almsee, Offensee und Gleinkersee am Nordfuß. Auf der
+      Tauplitzalm liegen zudem sechs Bergseen. Aus den Karstquellen des Massivs entspringen Traun und Steyr.
+
+
+      Die Gipfel gliedern sich in drei Blöcke: die Schönberggruppe im Westen, getrennt durch eine markante
+      Störung von der zentralen Prielgruppe; und im Osten das Warscheneck. Die drei höchsten Erhebungen
+      thronen in der Prielgruppe: Großer Priel, Spitzmauer (2.446 m) und Schermberg (2.396 m).
+    wildlife: >-
+      Lärchenwälder markieren die Baumgrenze, abgelöst von ausgedehnten Krummholzzonen aus Bergkiefern.
+      Zahlreiche Pflanzenarten der nordöstlichen Kalkalpen besitzen hier ihren Schwerpunkt.
+
+
+      Auf der zerklüfteten Prielhochfläche findet die [Gämse](/especie/rupicapra_rupicapra/) optimalen
+      Lebensraum und erreicht hohe Bestände. Auf den Almen weiden [Rothirsch](/especie/cervus_elaphus/) und
+      kleinere Gruppen des [Rehs](/especie/capreolus_capreolus/) neben Schneahasen. Vier Raufußhühner teilen
+      sich das Massiv: [Alpenschneehuhn](/especie/lagopus_muta/), Birkhuhn, Haselhuhn und
+      [Auerhuhn](/especie/tetrao_urogallus/). Alpendohlen und Kolkraben sind ständige Begleiter, und der
+      [Steinadler](/especie/aquila_chrysaetos/) jagt über den Karstfeldern. Alpensalamander und Alpentriton
+      sind weit verbreitet.
+
+
+      Besondere Endemiten leben im Höhleninneren: Der blinde Pseudoskorpion Neobisium aueri kommt
+      ausschließlich in Höhlen dieses Gebirges vor und überdauerte als Tertiärrelikt die Eiszeiten. Berühmt
+      sind auch die Höhlenfunde: 7 der 40 großen Bärenhöhlen der Alpen liegen im Toten Gebirge. Der
+      [Braunbär](/especie/ursus_arctos/) gilt im Gebiet seit 2011 als erloschen.
+    visit: >-
+      Das Gebirge wird zu Fuß von Hütte zu Hütte durchquert. Der Weitwanderweg 201 quert das Massiv von Ost
+      nach West, gipfelnd nahe dem Warscheneck als Teil des Nordalpenwegs, des E4 und der Via Alpina. Diese
+      Route führt über Spital am Pyhrn, Hinterstoder, das Prielschutzhaus und die Loserhütte bis Bad Goisern.
+      Seit 2020 erschließt der Welser Höhenweg die Priel- und Schönberggruppe, während der Salzsteigweg von
+      Hinterstoder zur Hochmölbinghütte zieht.
+
+
+      Bewirtschaftete Schutzhütten säumen die Ränder mit drei Stützpunkten im Hochplateau, ergänzt durch
+      Mautstraßen ab Altaussee (Loser-Panoramastraße), Bad Mitterndorf (Tauplitz) und Hinterstoder.
+    history: >-
+      Die älteste alpine Schutzhütte, die Loserhütte, wurde 1882 am Ostrand der Augstalm auf 1.498 Metern
+      eröffnet. Zuvor veröffentlichte 1878 der 21-jährige Geologe Georg Geyer seine bahnbrechende Monographie
+      «Das Todte Gebirge», die die moderne Karstgeologie begründete.
+
+
+      In der Salzofenhöhle und Rameschhöhle wurden Steinwerkzeuge der Moustérien-Kultur aus der Zeit zwischen
+      65.000 und 31.000 v. Chr. freigelegt. Die Fossillagerstätte Feuerkogel lieferte zudem fast 600
+      triassische Ammonitenarten von weltweiter Bedeutung.
+
+
+      1991 wies die Steiermark die Naturschutzgebiete Totes Gebirge West (154,6 km²) und Ost (78,17 km²) aus,
+      gefolgt 2006 vom Europaschutzgebiet Natura 2000 Totes Gebirge mit Altausseer See. Erschließungspläne für
+      eine Skigebietsverbindung zwischen Hinterstoder und der Wurzeralm wurden nach Protesten verworfen.
+    before: >-
+      Lange Etappen und absolute Wasserarmut auf der Hochfläche prägen das Massiv. Plane deine Touren strikt
+      von Hütte zu Hütte und führe ausreichend Getränke mit.
+    around: >-
+      Rund 4 km westlich liegt das [Naturschutzgebiet Dachstein — Gosau, Hallstatt und
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), und in 16 km Entfernung der
+      [Nationalpark Gesäuse - Ennsschlucht](/lugar/nationalpark-gesause---enns-gorge/). Weiter entfernt teilt
+      das [Steinerne Meer](/lugar/steinernes-meer---karst-plateau/) alpine Karstplateaus, Gams und
+      Alpenschneehuhn.
+  it:
+    intro: >-
+      I montanari locali gli attribuirono un toponimo eloquente: «terra d'ossa». Nel cuore del Totes Gebirge,
+      il «massiccio morto», non sgorgano sorgenti né scorrono ruscelli e la vegetazione è minima, mentre i
+      banchi calcarei bianchi emergono dal terreno come costole scheletriche. È un immenso massiccio di circa
+      1125 km², culminante nel Großer Priel a 2.515 metri, considerato il più vasto deserto carsico
+      dell'Europa centrale. Eppure basta scendere ai suoi margini perché il deserto roccioso ceda il passo a
+      laghi montani, boschi di larice, malghe e tetraonidi.
+    landscape: >-
+      La chiave del paesaggio risiede nella geologia. Il massiccio è costituito da calcare di Dachstein
+      intensamente carsificato: piogge e disgelo svaniscono subito in fessure e doline per riaffiorare solo
+      come impetuose risorgenze nei fondovalle sottostanti. Pertanto, malgrado precipitazioni generose — tra
+      1200 e oltre 2500 mm annui con la quota —, l'altopiano rimane arido. Le doline sono diffusissime e
+      imponenti: quella del Kuhntal supera i 500 metri di diametro.
+
+
+      Il paesaggio carsico muta a seconda dell'esposizione. Ai margini orientali e occidentali prevale il
+      carso verde coperto da pino mugo e pascoli, mentre sull'altopiano centrale domina il carso grigio a
+      roccia nuda. Nel sottosuolo si estende un altro mondo: il catasto austriaco registra circa 2800 grotte,
+      tra cui il complesso del Schönberg che con 155.018 metri di gallerie rilevate è la cavità più estesa
+      d'Austria.
+
+
+      I ghiacciai quaternari hanno forgiato le valli laterali, dove oggi brillano splendidi laghi alpini:
+      Altausseer See e Grundlsee a sud-ovest; Almsee, Offensee e Gleinkersee sul versante settentrionale.
+      Sull'altopiano di Tauplitzalm si contano inoltre sei laghetti montani. Dal massiccio traggono origine i
+      fiumi Traun e Steyr.
+
+
+      I rilievi si raggruppano in tre settori: il gruppo del Schönberg a ovest, separato da una marcata faglia
+      dal gruppo centrale del Priel; e il Warscheneck a est. Le tre cime maggiori appartengono al Priel:
+      Großer Priel, Spitzmauer (2.446 m) e Schermberg (2.396 m).
+    wildlife: >-
+      I lariceti segnano il limite degli alberi, sostituiti in alto da fitte pinete di pino mugo. La maggior
+      parte degli endemismi vegetali delle Alpi calcaree nord-orientali fiorisce su queste rupi.
+
+
+      Sui pianori carsici del Priel il [camoscio alpino](/especie/rupicapra_rupicapra/) trova pascoli
+      indisturbati raggiungendo densità ragguardevoli. Sugli alpeggi stazionano il [cervo
+      nobile](/especie/cervus_elaphus/) e nuclei di [capriolo](/especie/capreolus_capreolus/), oltre alla
+      lepre variabile. Quattro specie di tetraonidi popolano il massiccio: la [pernice
+      bianca](/especie/lagopus_muta/), il gallo forcello, il francolino di monte e
+      l'[urogallo](/especie/tetrao_urogallus/). Gracchi alpini e corvi imperiali volteggiano costantemente,
+      mentre l'[aquila reale](/especie/aquila_chrysaetos/) nidifica sulle pareti rocciose. Salamandra alpina e
+      tritone alpestre sono ben distribuiti.
+
+
+      La rarità biologica più singolare abita gli abissi: lo pseudo-scorpione cieco Neobisium aueri è endemico
+      esclusivo delle cavità del massiccio, dove sopravvisse alle glaciazioni come relitto terziario. Le
+      grotte conservano una memoria paleontologica eccezionale: 7 delle 40 grandi caverne dell'orso delle Alpi
+      si aprono qui. L'[orso bruno](/especie/ursus_arctos/) contemporaneo è invece considerato estinto
+      nell'area dal 2011.
+    visit: >-
+      Il massiccio si attraversa a piedi di rifugio in rifugio. Il sentiero 201 valica l'altopiano da est a
+      ovest, culminando presso il Warscheneck nell'ambito del Nordalpenweg, dell'E4 e della Via Alpina. Il
+      percorso tocca Spital am Pyhrn, Hinterstoder, la Prielschutzhaus e la Loserhütte terminando a Bad
+      Goisern. Dal 2020 è attivo anche il Welser Höhenweg attraverso i gruppi del Priel e del Schönberg,
+      mentre il Salzsteigweg collega Hinterstoder alla Hochmölbinghütte.
+
+
+      Rifugi alpini custoditi punteggiano i confini con tre strutture sull'altopiano centrale, serviti da
+      strade panoramiche a pedaggio da Altaussee (Loser-Panoramastraße), Bad Mitterndorf (Tauplitz) e
+      Hinterstoder.
+    history: >-
+      Il rifugio più antico del comprensorio, la Loserhütte, fu inaugurato nel 1882 sull'Augstalm a 1.498
+      metri. Poco prima, nel 1878, il geologo ventunenne Georg Geyer pubblicava a 21 anni la monografia
+      fondamentale «Das Todte Gebirge», inaugurando lo studio geologico dell'area.
+
+
+      Nelle grotte Salzofenhöhle e Rameschhöhle furono scoperte testimonianze litiche musteriane datate tra
+      65.000 e 31.000 anni a.C. Inoltre il giacimento fossilifero del Feuerkogel ha restituito quasi 600
+      specie di ammoniti del Triassico di rilevanza internazionale.
+
+
+      Nel 1991 la Stiria istituì le riserve naturali Totes Gebirge Ovest (154,6 km²) ed Est (78,17 km²),
+      seguite nel 2006 dal sito europeo Natura 2000 con l'Altausseer See. I progetti di collegamento
+      funiviario tra gli impianti sciistici di Hinterstoder e la Wurzeralm attraverso l'area protetta sono
+      stati accantonati.
+    before: >-
+      La traversata richiede tappe impegnative e totale assenza di sorgenti sull'altopiano. Pianifica le tappe
+      rigorosamente da rifugio a rifugio e trasporta ampie scorte d'acqua.
+    around: >-
+      A circa 4 km verso ovest sorge la [Riserva Naturale del Dachstein — Gosau, Hallstatt e
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), e a 16 km il [Parco Nazionale
+      Gesäuse - Forra dell'Enns](/lugar/nationalpark-gesause---enns-gorge/). Più a occidente, lo [Steinernes
+      Meer - Mare di Pietra](/lugar/steinernes-meer---karst-plateau/) condivide altopiani carsici, camoscio e
+      pernice bianca.
+  pt:
+    intro: >-
+      Os montanheses locais atribuíram-lhe um nome certeiro: «terra de ossadas». No coração do Totes Gebirge,
+      o «maciço morto», não correm ribeiros nem nascentes e a vegetação é escassa, com cristas brancas de
+      calcário a emergir do solo como costelas expostas. É um maciço colossal de cerca de 1125 km², tendo no
+      Großer Priel o seu teto a 2.515 metros, sendo considerado o maior deserto cársico de altitude da Europa
+      Central. Contudo, descendo em direção aos limites da montanha, a aridez rochosa cede lugar a lagos de
+      origem glaciar, lariços, pastagens alpinas e galos-silvestres.
+    landscape: >-
+      A explicação para o seu aspeto ermo reside na geologia. O maciço é talhado em calcário de Dachstein
+      fortemente carsificado: a chuva e o degelo precipitam-se imediatamente por fraturas e algares,
+      ressurgindo apenas em nascentes no fundo dos vales muito mais abaixo. Daí que, apesar de chover
+      copiosamente — entre 1200 e mais de 2500 mm anuais consoante a altitude —, o planalto permaneça seco. As
+      dolinas são frequentes e por vezes gigantescas: a do Kuhntal excede 500 metros de diâmetro.
+
+
+      O relevo varia consoante o setor. Nas orlas ocidental e oriental domina o carso verde com
+      pinheiro-das-rochas e prados, ao passo que no planalto central se impõe o carso cinzento de rocha
+      inteiramente nua. Sob a superfície desenvolve-se uma rede subterrânea notável: o cadastro austríaco
+      inventaria 2800 cavidades, destacando-se o sistema da gruta de Schönberg que, com 155.018 metros de
+      extensão topografada, constitui a maior gruta da Áustria.
+
+
+      Os glaciares do Quaternário afeiçoaram os vales circundantes onde hoje se alojam lagos límpidos:
+      Altausseer See e Grundlsee a sudoeste; Almsee, Offensee e Gleinkersee no sopé norte. No planalto da
+      Tauplitzalm contam-se ainda seis lagoas alpinas. Do maciço nascem os rios Traun e Steyr.
+
+
+      Os cumes distribuem-se por três blocos: o grupo do Schönberg a oeste, separado por uma falha profunda do
+      grupo central do Priel; e o Warscheneck a leste. Os três picos mais elevados erguem-se no Priel: Großer
+      Priel, Spitzmauer (2.446 m) e Schermberg (2.396 m).
+    wildlife: >-
+      Os lariços definem o limite da floresta, substituídos acima por densos matagais de pinheiro-das-rochas.
+      A generalidade dos endemismos botânicos dos Alpes calcários do nordeste ocorre nestas vertentes.
+
+
+      No planalto carsificado do Priel a [camurça](/especie/rupicapra_rupicapra/) encontra refúgio seguro e
+      atinge densidades expressivas. Nas pastagens baixas ocorrem o [veado-vermelho](/especie/cervus_elaphus/)
+      e pequenos efetivos de [corça](/especie/capreolus_capreolus/), a par da lebre-variável. Quatro espécies
+      de tetrazes coexistem no maciço: o [lagópode-branco](/especie/lagopus_muta/), o galo-lira, a
+      galinha-do-mato e o [tetraz-grande](/especie/tetrao_urogallus/). Gralhas-de-bico-amarelo e corvos são
+      habituais, enquanto a [águia-real](/especie/aquila_chrysaetos/) nidifica nas escarpas. A
+      salamandra-alpina e o tritão-alpino exibem populações prósperas.
+
+
+      A espécie mais rara esconde-se no subsolo: o pseudoescorpião cego Neobisium aueri é um endemismo estrito
+      das cavernas deste maciço, sobrevivendo às glaciações como relíquia do Terciário. As grutas guardam
+      também memória fóssil: 7 das 40 grandes cavernas de ursos dos Alpes situam-se aqui. O
+      [urso-pardo](/especie/ursus_arctos/) contemporâneo, por seu turno, é considerado extinto na região desde
+      2011.
+    visit: >-
+      O maciço atravessa-se a pé de refúgio em refúgio. O trilho 201 cruza o planalto de leste a oeste,
+      culminando junto ao Warscheneck no traçado do Nordalpenweg, do E4 e da Via Alpina. Essa travessia liga
+      Spital am Pyhrn, Hinterstoder, o Prielschutzhaus e o Loserhütte até terminar em Bad Goisern. Desde 2020
+      existe também o Welser Höhenweg pelos grupos Priel e Schönberg, enquanto o Salzsteigweg liga
+      Hinterstoder à cabana Hochmölbinghütte.
+
+
+      Existem refúgios alpinos guardados no perímetro com três instalações no interior do planalto, servidos
+      por estradas cénicas com portagem a partir de Altaussee (Loser-Panoramastraße), Bad Mitterndorf
+      (Tauplitz) e Hinterstoder.
+    history: >-
+      O primeiro abrigo alpino do maciço, o Loserhütte, abriu em 1882 na extremidade oriental da Augstalm a
+      1.498 metros. Pouco antes, em 1878, um jovem geólogo e alpinista, Georg Geyer, publicava aos 21 anos a
+      sua monografia pioneira «Das Todte Gebirge», fundando a geologia moderna da região.
+
+
+      Nas grutas Salzofenhöhle e Rameschhöhle foram recolhidas ferramentas líticas do Musteriense com idades
+      entre 65.000 e 31.000 a.C. Além disso, a jazida de Feuerkogel revelou cerca de 600 espécies de amonites
+      do Triássico com valor de referência mundial.
+
+
+      Em 1991 a Estíria decretou as reservas naturais Totes Gebirge Oeste (154,6 km²) e Este (78,17 km²),
+      seguindo-se em 2006 o sítio europeu Natura 2000 integrando o Altausseer See. Os projetos de ligação por
+      teleférico entre estâncias de esqui foram definitivamente abandonados.
+    before: >-
+      É um maciço de percursos extensos e sem água no planalto. Planeia as etapas rigorosamente entre refúgios
+      e não contes com nascentes fora dos vales.
+    around: >-
+      A cerca de 4 km a oeste localiza-se a [Reserva Natural de Dachstein — Gosau, Hallstatt e
+      Obertraun](/lugar/naturschutzgebiet-dachstein-gosau-hallstatt-obertraun/), e a 16 km o [Parque Nacional
+      Gesäuse - Garganta do Enns](/lugar/nationalpark-gesause---enns-gorge/). Mais longe, o [Steinernes Meer -
+      Mar de Pedra](/lugar/steinernes-meer---karst-plateau/) partilha deserto cársico de altitude, camurça e
+      lagópode-branco.
+fuentes:
+  - url: https://www.verwaltung.steiermark.at/cms/beitrag/11680817/74835791/
+    titulo: Natura 2000 — Totes Gebirge mit Altausseer See — Land Steiermark
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Totes_Gebirge
+    titulo: Totes Gebirge – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Totes_Gebirge
+    titulo: Totes Gebirge – Wikipedia
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Temlberg_Totes_Gebirge_20220722.jpg
+    autor: Tigerente
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

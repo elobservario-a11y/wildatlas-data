@@ -1,0 +1,581 @@
+id: kocevski-gozdni-kompleks
+estado_editorial: valoracion-revisada
+nombre:
+  es: Complejo Forestal de Kočevsko
+  en: Kočevsko Forest Complex
+  fr: Complexe forestier de Kočevsko
+  de: Waldkomplex von Kočevsko
+  it: Complesso Forestale di Kočevsko
+  pt: Complexo Florestal de Kočevsko
+nombre_original: Kočevski gozdni kompleks
+alias:
+  - Kočevsko Forest (Kočevski gozdni kompleks)
+paises:
+  - SI
+region:
+  es: Baja Carniola (Kočevje)
+  en: Lower Carniola (Kočevje)
+  fr: Basse-Carniole (Kočevje)
+  de: Unterkrain (Kočevje)
+  it: Bassa Carniola (Kočevje)
+  pt: Baixa Carniola (Kočevje)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.64
+  lon: 14.86
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 395235
+  nombre_en_la_fuente: Kočevsko
+  capa: capas/cdda/kocevski-gozdni-kompleks.geojson
+habitats:
+  - mature_forest
+  - karst
+designaciones:
+  - natura2000
+especies:
+  - ursus_arctos
+  - lynx_lynx
+  - canis_lupus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Información institucional — Kočevsko
+    url: https://www.kocevsko.com/
+  - titulo: Visita y normas — Bosques de Kočevsko, Rajhenavski Rog y Krokar
+    url: https://www.kocevsko.com/en/kocevsko/virgin-forest-and-forests
+  - titulo: Rutas — Senderos de los bosques de Kočevsko
+    url: https://www.kocevsko.com/sl/poti
+  - titulo: Visita — Accesos e información de Kočevsko
+    url: https://www.kocevsko.com/en/plan-your-visit
+  - titulo: Gestor forestal — Zavod za gozdove Slovenije
+    url: https://www.zgs.si/
+resumen:
+  es: >-
+    La mayor masa forestal continua de Europa Central habitada por la mayor densidad de oso pardo de
+    Eslovenia.
+  en: >-
+    The largest continuous forest tract in Central Europe, inhabited by Slovenia's densest brown bear
+    population.
+  fr: >-
+    Le plus grand massif forestier continu d'Europe centrale, abritant la plus forte densité d'ours bruns de
+    Slovénie.
+  de: Das größte zusammenhängende Waldgebiet Mitteleuropas mit der höchsten Braunbärendichte Sloweniens.
+  it: >-
+    La più vasta massa boschiva continua dell'Europa centrale, popolata dalla maggiore densità di orsi bruni
+    della Slovenia.
+  pt: >-
+    A maior mancha florestal contínua da Europa Central, habitada pela maior densidade de ursos-pardos da
+    Eslovénia.
+unico:
+  es: >-
+    Una de las zonas más boscosas de Eslovenia, con tres grandes carnívoros vivos y bosques vírgenes que se
+    contemplan solo desde fuera.
+  en: >-
+    One of the most forested expanses in Slovenia, harboring three thriving large carnivores and virgin
+    forests admired strictly from perimeter trails.
+  fr: >-
+    L'une des zones les plus boisées de Slovénie, avec trois grands prédateurs et des forêts primaires qui ne
+    s'observent que depuis l'extérieur.
+  de: >-
+    Eines der waldreichsten Gebiete Sloweniens, Heimat dreier großer Beutegreifer und unberührter Urwälder,
+    die man nur von außen bestaunt.
+  it: >-
+    Una delle aree più boscose della Slovenia, con tre grandi carnivori stabili e foreste vergini da
+    contemplare solo dall'esterno.
+  pt: >-
+    Uma das áreas mais arborizadas da Eslovénia, com três grandes carnívoros selvagens e florestas virgens que
+    só se contemplam a partir de fora.
+observaciones:
+  es: >-
+    Los mejores meses van de mayo a octubre, y calcula entre dos y tres días. A los bosques vírgenes no se
+    entra: solo se miran desde los senderos señalizados. El itinerario del Eagle’s Trail se limita a la parte
+    de la reserva donde las águilas no crían, porque son muy sensibles a las molestias.
+texto:
+  es:
+    intro: >-
+      Hay bosques en los que la gente decide no entrar. En Kočevsko, en la Baja Carniola eslovena, los bosques
+      cubren más del 80 % del territorio, y dentro de ellos quedan unas pocas islas vírgenes, solo 218
+      hectáreas en toda la región, que se conservan porque nadie las tocó. Aquí se admira desde el sendero,
+      sin pisar. Es el hogar del [oso pardo](/especie/ursus_arctos/), del [lobo](/especie/canis_lupus/) y del
+      [lince](/especie/lynx_lynx/), los tres grandes carnívoros que aún recorren estos bosques.
+    landscape: >-
+      El corazón del complejo es Kočevski Rog, una meseta kárstica de Dolenjska cuyo punto más alto, el Veliki
+      Rog, llega a 1099 metros. Es sobre todo una zona de grandes bosques, con restos del bosque virgen de
+      Rajhenavski y muchas fieras, del oso al lobo y al lince.
+
+
+      El bosque virgen de Rajhenavski Rog ocupa 51 hectáreas en el corazón de Kočevski Rog, y desde un sendero
+      que bordea su límite se ve su tamaño casi abrumador. Los gigantes centenarios llegan a 50 metros de
+      altura y algunos árboles tienen hasta quinientos años. El abeto más majestuoso, de 51 metros, se llama
+      Debela Jelka o la Reina de Rog. Más allá está la reserva forestal de Krokar, con más de 75 hectáreas:
+      una reserva estricta donde solo rigen las leyes de la naturaleza y la gente se mantiene fuera a
+      propósito.
+    wildlife: >-
+      El oso pardo fue muy cazado en Eslovenia en el pasado, y con una gestión cuidadosa su población es hoy
+      la más numerosa en estos bosques. Es especie protegida y figura en la lista roja eslovena desde 1993. El
+      lince casi desapareció de Eslovenia y se reasentó en los bosques de Kočevsko en los años setenta, y la
+      población eslovena de lobo está considerada una de las pocas poblaciones autóctonas que quedan en
+      Europa. Además hay [ciervo](/especie/cervus_elaphus/), [corzo](/especie/capreolus_capreolus/), zorro y
+      [jabalí](/especie/sus_scrofa/).
+
+
+      Con un guía se pueden vivir salidas nocturnas para ver osos desde refugios forestales seguros. El ciervo
+      es especialmente interesante en otoño, cuando se oyen los bramidos de la berrea; el zorro, en cambio, es
+      nocturno y cuesta verlo de día.
+
+
+      Arriba, el [águila de cola blanca](/especie/haliaeetus_albicilla/) se observa en los bosques; hay una
+      pareja presente de forma constante cerca del lago Kočevska Reka, y su nido se descubrió allí en los años
+      ochenta. El cárabo uralense y el azor se ven sobre todo en verano. Junto al lago Kočevje viven más de 70
+      especies de aves, y sus carrizales albergan libélulas y mariposas. Las aguas de Kočevsko son muy limpias
+      y dan hogar a peces y cangrejos.
+    visit: >-
+      Para aprender de los animales, lo mejor es ir con guía. La región ofrece una guía impresa para
+      identificar huellas de animales salvajes en los centros de información turística de Kočevsko, y el
+      centro de Kočevska Reka es además punto de encuentro del Búnker Škrilj subterráneo.
+
+
+      A pie, el sendero corto del Oso recorre 700 m en unos 40 minutos, con 32 m de desnivel y dificultad
+      fácil. La ruta de Rog atraviesa los bosques durante 64 kilómetros y es difícil; está marcada con una
+      huella de oso y permite explorar varios días. El sendero natural de Borovec ofrece 7,10 km moderados
+      junto a la reserva forestal de Krokar. Y el Eagle’s Trail, junto al lago Kočevska Reka, es un sendero
+      educativo con paneles sobre procesos ecológicos y protección de depredadores; discurre por una parte de
+      la reserva que el águila no usa para criar, y un sendero peatonal conecta el lago con observatorios del
+      entorno. En bici, el circuito de Kočevsko, de 142 km, pasa por bosques primarios, observación guiada de
+      fauna y el río Kolpa.
+    history: >-
+      Los colonos alemanes Gottscheer se asentaron en Carniola hacia 1330, desbrozaron los grandes bosques de
+      la región y fundaron pueblos y ciudades. En 1941 se marcharon, y desde entonces el Rog está en gran
+      parte deshabitado; en él se construyeron hospitales secretos y el poblado Baza 20, que hoy es monumento
+      y atractivo turístico.
+
+
+      Los bosques vírgenes se conservan sin entrar en ellos, y los grandes carnívoros siguen en la región: el
+      lince volvió a asentarse en los años setenta y el oso sigue protegido.
+    before: >-
+      Los mejores meses van de mayo a octubre, y calcula entre dos y tres días. A los bosques vírgenes no se
+      entra: solo se miran desde los senderos señalizados. El itinerario del Eagle’s Trail se limita a la
+      parte de la reserva donde las águilas no crían, porque son muy sensibles a las molestias.
+    around: >-
+      El [Macizo Forestal de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) queda junto a él, y a
+      tres kilómetros queda el [Parque Nacional Risnjak - Complejo
+      Forestal](/lugar/nacionalni-park-risnjak---sumski-kompleks/). A siete kilómetros están los [Bosques y
+      Meseta Kárstica de Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), a trece el [Karst
+      Clásico y Sistema Subterráneo Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) y a quince el
+      [Lago Intermitente de Cerknica](/lugar/cerknisko-jezero/).
+  en:
+    intro: >-
+      There are forests into which people choose not to step. In Kočevsko, in Slovenian Lower Carniola, woods
+      blanket over 80% of the land, and within them endure a few virgin islands—just 218 hectares across the
+      entire region—preserved because no human hand ever logged them. Here you admire the wilderness from the
+      trail without venturing inside. It is home to the [brown bear](/especie/ursus_arctos/), the [grey
+      wolf](/especie/canis_lupus/), and the [Eurasian lynx](/especie/lynx_lynx/), the three large carnivores
+      that still roam these vast woodlands.
+    landscape: >-
+      The heart of the tract is Kočevski Rog, a rugged karst plateau in Dolenjska whose highest elevation,
+      Veliki Rog, reaches 1,099 meters. It is above all a domain of immense forests, harboring fragments of
+      the Rajhenavski primeval forest and a full guild of large predators, from bears to wolves and lynx.
+
+
+      The Rajhenavski Rog virgin forest covers 51 hectares in the heart of Kočevski Rog; looking in from the
+      perimeter footpath, its scale is awe-inspiring. Century-old giants reach 50 meters in height, with some
+      trees up to five hundred years old. The most majestic fir, standing 51 meters tall, is named Debela
+      Jelka or the Queen of Rog. Further along lies the Krokar forest reserve, covering over 75 hectares: a
+      strict nature reserve where only natural processes operate and people deliberately stay out.
+    wildlife: >-
+      The brown bear was heavily hunted across Slovenia in centuries past, but under careful conservation
+      management its population in these woods is now the country's most numerous. It has been a protected
+      species on the Slovenian Red List since 1993. The Eurasian lynx neared extinction in Slovenia before
+      being reintroduced to the Kočevsko forests in the nineteen-seventies, while the Slovenian wolf pack is
+      considered one of the few indigenous lineages remaining in Europe. The woods also support [red
+      deer](/especie/cervus_elaphus/), [roe deer](/especie/capreolus_capreolus/), red foxes, and [wild
+      boar](/especie/sus_scrofa/).
+
+
+      With a licensed guide you can join evening bear-watching excursions from secure forest hides. Red deer
+      are particularly captivating in autumn when the roaring of the rut echoes across the glades; foxes, by
+      contrast, are nocturnal and seldom seen by day.
+
+
+      Overhead, the [white-tailed eagle](/especie/haliaeetus_albicilla/) patrols the canopy; a breeding pair
+      has established a permanent territory near Lake Kočevska Reka, where their eyrie was discovered back in
+      the nineteen-eighties. Ural owls and northern goshawks are most conspicuous in summer. Around Lake
+      Kočevje more than 70 bird species find sanctuary, their reedbeds alive with dragonflies and butterflies.
+      Kočevsko's pristine waters harbor diverse native fish and freshwater crayfish.
+    visit: >-
+      To gain real insight into the animals, booking a certified local guide is best. The regional tourist
+      offices throughout Kočevsko distribute an identification field guide for animal tracks, and the center
+      at Kočevska Reka also serves as the rendezvous point for the underground Škrilj Bunker tour.
+
+
+      On foot, the short Bear Trail covers 700 m in about 40 minutes, with 32 m of elevation change and an
+      easy grade. The Rog Trail traverses the deep woods for 64 kilometers; marked with bear-paw blazes, it
+      offers a challenging multi-day trek. The Borovec Nature Trail provides a moderate 7.10 km loop along the
+      margin of the Krokar forest reserve. Beside Lake Kočevska Reka, the Eagle's Trail is an educational path
+      featuring interpretation boards on ecology and carnivore conservation; it skirts the section of the
+      reserve that eagles do not use for nesting, and a footpath connects the lake with scenic viewing hides.
+      For cyclists, the 142 km Kočevsko circuit winds through primary woods, guided wildlife outposts, and the
+      Kolpa River valley.
+    history: >-
+      German Gottscheer settlers colonized Carniola around 1330, clearing clearings in the great wilderness
+      and founding villages and market towns. In 1941 they were evacuated, and since then the Rog has remained
+      largely uninhabited; partisan fighters later erected secret field hospitals and the Baza 20 settlement,
+      preserved today as a historic monument and cultural attraction.
+
+
+      The virgin forest reserves are protected by leaving them untouched, while large carnivores continue to
+      thrive: the lynx returned in the nineteen-seventies and the brown bear remains strictly safeguarded.
+    before: >-
+      The best season runs from May to October; allow two to three days for a rewarding visit. Entering the
+      virgin forest reserves is prohibited: observe them exclusively from designated perimeter trails. The
+      Eagle's Trail is confined to portions of the reserve away from active raptor eyries, as nesting eagles
+      are exceptionally sensitive to human presence.
+    around: >-
+      The [Snežnik Forest Massif](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) borders the area, while
+      [Risnjak National Park - Forest Complex](/lugar/nacionalni-park-risnjak---sumski-kompleks/) lies three
+      kilometers away across the Croatian border. Seven kilometers away are the [Javorniki Forests and Karst
+      Plateau](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), thirteen kilometers the [Classical Karst
+      and Postojna-Planina Cave System](/lugar/postonjska-jama---planinsko-polje/), and fifteen kilometers the
+      [Intermittent Lake Cerknica](/lugar/cerknisko-jezero/).
+  fr:
+    intro: >-
+      Il est des forêts où l'on choisit délibérément de ne pas pénétrer. Dans le Kočevsko, en Basse-Carniole
+      slovène, les bois couvrent plus de 80 % du territoire, et au sein de cet océan végétal subsistent de
+      rares îlots vierges—à peine 218 hectares pour toute la région—préservés parce qu'aucune main humaine ne
+      les a exploités. On les contemple depuis le sentier, sans y poser le pied. C'est le royaume de [l'ours
+      brun](/especie/ursus_arctos/), du [loup gris](/especie/canis_lupus/) et du [lynx
+      boréal](/especie/lynx_lynx/), les trois grands prédateurs qui arpentent encore ces grands espaces.
+    landscape: >-
+      Le cœur du massif est le Kočevski Rog, un haut plateau karstique de Dolenjska dont le point culminant,
+      le Veliki Rog, s'élève à 1 099 mètres. C'est avant tout un domaine d'immenses forêts, abritant les
+      vestiges de la forêt vierge de Rajhenavski et de nombreux fauves, de l'ours au loup et au lynx.
+
+
+      La réserve intégrale de Rajhenavski Rog couvre 51 hectares au centre du massif ; le sentier qui longe sa
+      lisière donne la mesure de sa puissance. Les géants pluricentenaires atteignent 50 mètres de hauteur et
+      certains arbres ont jusqu'à cinq cents ans. Le sapin le plus majestueux, haut de 51 mètres, porte le nom
+      de Debela Jelka ou la Reine du Rog. Plus loin s'étend la réserve forestière de Krokar, sur plus de 75
+      hectares : un sanctuaire strict où seules règnent les lois naturelles et dont l'homme s'exclut
+      volontairement.
+    wildlife: >-
+      L'ours brun a été jadis intensément chassé en Slovénie, mais une gestion rigoureuse a permis à sa
+      population d'atteindre aujourd'hui son effectif le plus dense dans ces forêts. Protégé, il figure sur la
+      liste rouge slovène depuis 1993. Le lynx avait presque disparu de Slovénie avant d'être réintroduit dans
+      les bois de Kočevsko dans les années soixante-dix, tandis que la meute de loups slovène constitue l'une
+      des rares souches indigènes d'Europe. On y croise aussi le [cerf élaphe](/especie/cervus_elaphus/), le
+      [chevreuil](/especie/capreolus_capreolus/), le renard et le [sanglier](/especie/sus_scrofa/).
+
+
+      Avec un guide, des affûts nocturnes permettent d'observer l'ours depuis des observatoires sécurisés. Le
+      cerf s'avère particulièrement impressionnant à l'automne lors du brame ; le renard, nocturne, se montre
+      plus rarement de jour.
+
+
+      Dans les airs, le [pygargue à queue blanche](/especie/haliaeetus_albicilla/) survole la canopée ; un
+      couple niche régulièrement près du lac de Kočevska Reka, où son aire fut découverte dans les années
+      quatre-vingt. La chouette de l'Oural et l'autour des palombes se repèrent surtout en été. Les abords du
+      lac de Kočevje rassemblent plus de 70 espèces d'oiseaux, et ses roselières abritent libellules et
+      papillons. Les eaux limpides de Kočevsko accueillent poissons et écrevisses autochtones.
+    visit: >-
+      Pour comprendre la faune, la présence d'un guide s'impose. Les offices de tourisme de Kočevsko mettent à
+      disposition un guide d'identification des empreintes animales, et le bureau de Kočevska Reka sert de
+      point de départ pour la visite du bunker souterrain de Škrilj.
+
+
+      À pied, le court sentier de l'Ours parcourt 700 m en 40 minutes environ, avec 32 m de dénivelé et une
+      difficulté minime. Le sentier du Rog traverse les grands bois sur 64 kilomètres ; balisé d'une empreinte
+      d'ours, il se prête à une randonnée exigeante sur plusieurs jours. Le sentier nature de Borovec propose
+      une boucle modérée de 7,10 km près de la réserve de Krokar. Au bord du lac de Kočevska Reka, l'Eagle's
+      Trail est un sentier didactique jalonné de panneaux sur les équilibres écologiques et les prédateurs ;
+      il emprunte une portion de la réserve non fréquentée par l'aigle en nidification, et un sentier relie le
+      plan d'eau à des observatoires. À vélo, le tour de Kočevsko (142 km) relie forêts primaires, postes
+      d'observation et vallée de la Kolpa.
+    history: >-
+      Des colons allemands dits Gottscheer s'établirent en Carniole vers 1330, défrichant de vastes étendues
+      et fondant bourgs et villages. En 1941, ils durent quitter les lieux, et le Rog est resté depuis lors
+      largement désert ; les partisans y bâtirent des hôpitaux secrets et le campement de Baza 20, aujourd'hui
+      monument historique et musée de plein air.
+
+
+      Les forêts vierges sont préservées de toute intrusion humaine, et les grands carnivores continuent de
+      prospérer : le lynx s'y est réinstallé dans les années soixante-dix et l'ours demeure strictement
+      protégé.
+    before: >-
+      La période idéale va de mai à octobre ; comptez entre deux et trois jours sur place. Il est formellement
+      interdit de pénétrer dans les réserves intégrales : observez-les uniquement depuis les chemins balisés
+      en périphérie. L'Eagle's Trail contourne les secteurs de nidification des rapaces, très sensibles aux
+      dérangements.
+    around: >-
+      Le [massif forestier du Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) jouxte le site, et le
+      [complexe forestier du parc national de Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/) se
+      trouve à trois kilomètres de l'autre côté de la frontière. À sept kilomètres s'étendent les [forêts et
+      le plateau karstique de Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), à treize le
+      [karst classique et réseau souterrain de Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) et
+      à quinze le [lac intermittent de Cerknica](/lugar/cerknisko-jezero/).
+  de:
+    intro: >-
+      Es gibt Wälder, die der Mensch bewusst nicht betritt. Im Kočevsko in der slowenischen Unterkrain
+      bedecken Wälder über 80 % der Fläche, und darin liegen einige wenige Urwaldinseln—gerade einmal 218
+      Hektar in der gesamten Region—, die überdauerten, weil keine Axt sie je berührte. Hier blickt man vom
+      Weg aus hinein, ohne den Urwaldboden zu betreten. Es ist das Reich von
+      [Braunbär](/especie/ursus_arctos/), [Wolf](/especie/canis_lupus/) und [Eurasischem
+      Luchs](/especie/lynx_lynx/), den drei großen Raubtieren, die diese weiten Forste durchstreifen.
+    landscape: >-
+      Das Herzstück des Gebiets ist der Kočevski Rog (Hornwald), ein verkarstetes Hochplateau der Dolenjska,
+      dessen höchste Kuppe, der Veliki Rog, 1.099 Meter erreicht. Es ist ein Reich dichter Wälder mit Resten
+      des Urwalds Rajhenavski Rog und zahlreichen Großtieren von Bär bis Wolf und Luchs.
+
+
+      Der Urwald Rajhenavski Rog nimmt 51 Hektar im Zentrum des Kočevski Rog ein; vom Rundweg an seinem Rand
+      wirkt seine Urwüchsigkeit überwältigend. Uralte Baumriesen ragen bis zu 50 Meter empor, manche Bäume
+      zählen bis zu fünfhundert Jahre. Die mächtigste Tanne, 51 Meter hoch, wird Debela Jelka oder Königin des
+      Rog genannt. Weiter entfernt liegt das Waldreservat Krokar mit über 75 Hektar: ein Totalreservat, in dem
+      allein die Gesetze der Natur gelten und der Mensch draußen bleibt.
+    wildlife: >-
+      Der Braunbär wurde in Slowenien früher stark bejagt, doch dank umsichtiger Schutzmaßnahmen lebt heute in
+      diesen Wäldern die kopfstärkste Population des Landes. Er ist geschützt und steht seit 1993 auf der
+      Roten Liste Sloweniens. Der Luchs war in Slowenien fast ausgestorben und wurde in den siebziger Jahren
+      in den Wäldern von Kočevsko wieder angesiedelt; der slowenische Wolfsbestand gilt als eine der wenigen
+      autochthonen Linien Europas. Hinzu kommen [Rothirsch](/especie/cervus_elaphus/),
+      [Reh](/especie/capreolus_capreolus/), Rotfuchs und [Wildschwein](/especie/sus_scrofa/).
+
+
+      Mit einem Naturführer lassen sich abendliche Bärenbeobachtungen aus sicheren Hochsitzen buchen. Der
+      Hirsch ist im Herbst während der Brunft besonders eindrucksvoll; der Fuchs hingegen lebt nachtaktiv und
+      meidet das Tageslicht.
+
+
+      Über den Wipfeln kreist der [Seeadler](/especie/haliaeetus_albicilla/); ein Brutpaar hält sich beständig
+      am See von Kočevska Reka auf, wo der Horst in den achtziger Jahren entdeckt wurde. Habichtskauz und
+      Habicht fallen vor allem im Sommer auf. Am Kočevje-See rasten mehr als 70 Vogelarten, und in den
+      Schilfzonen summen Libellen und Falter. Die sauberen Gewässer von Kočevsko ernähren Fische und heimische
+      Flusskrebse.
+    visit: >-
+      Um die Tierwelt zu verstehen, empfiehlt sich eine geführte Tour. Die Touristeninformationen von Kočevsko
+      halten einen Bestimmungsführer für Tierspuren bereit, und das Zentrum in Kočevska Reka ist Treffpunkt
+      für den Besuch des unterirdischen Škrilj-Bunkers.
+
+
+      Zu Fuß führt der kurze Bärenpfad über 700 m in rund 40 Minuten bei 32 m Höhenunterschied auf bequemer
+      Strecke. Der Rog-Weg durchquert die Wälder auf 64 Kilometern; mit Bärentatzen markiert, eignet er sich
+      für eine anspruchsvolle Mehrtagestour. Der Borovec-Lehrpfad bietet eine moderate Schleife von 7,10 km am
+      Rand des Reservats Krokar. Am See von Kočevska Reka vermittelt der Adlerpfad (Eagle's Trail) auf
+      Schautafeln ökologische Zusammenhänge und Raubtierschutz; er verläuft abseits der Horstbereiche des
+      Seeadlers, und ein Fußweg verbindet den See mit Beobachtungspunkten. Für Radfahrer führt die 142 km
+      lange Kočevsko-Runde vorbei an Urwäldern, Wildbeobachtungsstellen und dem Kolpa-Flusstal.
+    history: >-
+      Deutsche Gottscheer siedelten sich um 1330 in Krain an, rodeten Lichtungen im weiten Waldland und
+      gründeten Dörfer. Im Jahr 1941 verließen sie das Gebiet, und seither ist der Rog weitgehend unbewohnt;
+      Partisanen errichteten dort geheime Lazarette und die Waldsiedlung Baza 20, die heute als Kulturdenkmal
+      erhalten ist.
+
+
+      Die Urwälder werden ohne Betreten bewahrt, und die großen Beutegreifer behaupten ihren Lebensraum: Der
+      Luchs kehrte in den siebziger Jahren zurück, und der Bär bleibt streng geschützt.
+    before: >-
+      Die besten Monate liegen zwischen Mai und Oktober; plane zwei bis drei Tage ein. Das Betreten der
+      Urwaldreservate ist untersagt: Beobachte sie ausschließlich von den markierten Randwegen aus. Der
+      Adlerpfad beschränkt sich auf Abschnitte fernab der Brutplätze, da brütende Adler extrem störempfindlich
+      sind.
+    around: >-
+      Das [Snežnik-Waldmassiv](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) schließt direkt an, und drei
+      Kilometer entfernt liegt der [Nationalpark Risnjak -
+      Waldkomplex](/lugar/nacionalni-park-risnjak---sumski-kompleks/) in Kroatien. Sieben Kilometer trennen
+      dich von den [Javorniki-Wäldern und dem
+      Karstplateau](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), dreizehn vom [Klassischen Karst und
+      Postojna-Planina-Höhlensystem](/lugar/postonjska-jama---planinsko-polje/) und fünfzehn vom
+      [Intermittierenden See von Cerknica](/lugar/cerknisko-jezero/).
+  it:
+    intro: >-
+      Ci sono foreste in cui l'uomo sceglie di non entrare. Nel Kočevsko, nella Bassa Carniola slovena, i
+      boschi ammantano oltre l' 80 % del territorio, e al loro interno sopravvivono poche isole vergini—appena
+      218 ettari nell'intera regione—rimaste intatte perché nessun intervento umano le ha mai alterate. Qui si
+      ammira il bosco dal sentiero perimetrale, senza calpestarne il suolo. È la casa dell' [orso
+      bruno](/especie/ursus_arctos/), del [lupo grigio](/especie/canis_lupus/) e della [lince
+      europea](/especie/lynx_lynx/), i tre grandi carnivori che ancora popolano queste selve.
+    landscape: >-
+      Il nucleo del massiccio è il Kočevski Rog, un altopiano carsico della Dolenjska la cui cima più alta, il
+      Veliki Rog, tocca i 1.099 metri. È soprattutto una terra di grandi selve, con lembi della foresta
+      vergine di Rajhenavski e una ricca fauna di predatori dall'orso al lupo e alla lince.
+
+
+      La foresta vergine di Rajhenavski Rog occupa 51 ettari nel cuore del Kočevski Rog; dal tracciato che ne
+      costeggia il limite si percepisce una maestosità solenne. Gli alberi centenari superano i 50 metri
+      d'altezza e alcuni esemplari raggiungono i cinquecento anni. L'abete più imponente, alto 51 metri, è
+      noto come Debela Jelka o Regina del Rog. Più avanti si estende la riserva forestale di Krokar, con oltre
+      75 ettari: una riserva integrale in cui vigono unicamente le leggi naturali e l'uomo rimane
+      deliberatamente all'esterno.
+    wildlife: >-
+      L'orso bruno è stato cacciato intensamente in passato in Slovenia, ma grazie a una tutela rigorosa la
+      sua popolazione vanta oggi la massima concentrazione in questi boschi. È specie protetta inserita nella
+      lista rossa slovena dal 1993. La lince era quasi scomparsa dal Paese ed è stata reintrodotta nei boschi
+      del Kočevsko negli anni Settanta, mentre il branco sloveno di lupi è ritenuto uno dei rari ceppi
+      indigeni d'Europa. La foresta ospita inoltre il [cervo nobile](/especie/cervus_elaphus/), il
+      [capriolo](/especie/capreolus_capreolus/), la volpe e il [cinghiale](/especie/sus_scrofa/).
+
+
+      Con una guida naturalistica si possono organizzare appostamenti serali da capanni sicuri per osservare
+      gli orsi. Il cervo è spettacolare in autunno durante il bramito; la volpe, invece, ha abitudini notturne
+      ed è schiva di giorno.
+
+
+      In cielo volteggia l' [aquila di mare](/especie/haliaeetus_albicilla/); una coppia staziona regolarmente
+      vicino al lago di Kočevska Reka, dove il nido fu scoperto negli anni Ottanta. L'allocco degli Urali e
+      l'astore si avvistano soprattutto d'estate. Attorno al lago di Kočevje vivono più di 70 specie di
+      uccelli, e i canneti brulicano di libellule e farfalle. Le acque pure del Kočevsko sostengono pesci e
+      gamberi di fiume.
+    visit: >-
+      Per scoprire i segreti della fauna è consigliabile affidarsi a una guida. Gli uffici turistici del
+      Kočevsko forniscono una guida per riconoscere le orme degli animali selvatici, e il punto informativo di
+      Kočevska Reka è anche il ritrovo per visitare il bunker sotterraneo di Škrilj.
+
+
+      A piedi, il breve sentiero dell'Orso copre 700 m in circa 40 minuti con 32 m di dislivello su percorso
+      facile. Il sentiero del Rog attraversa le foreste per 64 chilometri; contrassegnato dall'impronta
+      dell'orso, si presta a un trekking impegnativo di più giorni. Il percorso naturalistico di Borovec offre
+      un anello moderato di 7,10 km a ridosso della riserva di Krokar. Presso il lago di Kočevska Reka,
+      l'Eagle's Trail propone pannelli su ecologia e protezione dei predatori; si snoda nella parte della
+      riserva non usata dall'aquila per la nidificazione, e un sentiero unisce il lago a punti panoramici. In
+      bicicletta, l'anello di Kočevsko copre 142 km tra boschi primari, postazioni di avvistamento e la valle
+      del fiume Kolpa.
+    history: >-
+      I coloni tedeschi Gottscheer si stabilirono in Carniola intorno al 1330, aprendo varchi nelle selve e
+      fondando borghi e villaggi. Nel 1941 abbandonarono l'area e da allora il Rog è rimasto in gran parte
+      disabitato; i partigiani vi costruirono ospedali clandestini e il villaggio Baza 20, oggi monumento
+      storico e polo museale.
+
+
+      Le foreste vergini si conservano senza penetrarvi, e i grandi carnivori continuano a popolare il
+      territorio: la lince si è ristabilita negli anni Settanta e l'orso resta rigorosamente protetto.
+    before: >-
+      I mesi migliori vanno da maggio a ottobre; metti in conto da due a tre giorni. È vietato entrare nelle
+      riserve vergini: osservale esclusivamente dai sentieri perimetrali segnalati. L'itinerario dell'Eagle's
+      Trail si tiene a distanza dai nidi delle aquile, animali vulnerabili al disturbo.
+    around: >-
+      Il [Massiccio Forestale di Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) confina con la
+      riserva, e a tre chilometri oltre il confine croato si trova il [Complesso Forestale del Parco Nazionale
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/). A sette chilometri si estendono le [Foreste
+      e Altopiano Carsico di Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), a tredici il
+      [Carso Classico e Sistema Sotterraneo Postumia-Planina](/lugar/postonjska-jama---planinsko-polje/) e a
+      quindici il [Lago Intermittente di Cerknica](/lugar/cerknisko-jezero/).
+  pt:
+    intro: >-
+      Há florestas onde o ser humano opta por não entrar. Em Kočevsko, na Baixa Carniola eslovena, as matas
+      cobrem mais de 80 % do território, e no seu seio restam escassas ilhas virgens—apenas 218 hectares em
+      toda a região—preservadas porque mão humana nenhuma as explorou. Aqui contempla-se a partir do trilho,
+      sem pisar o solo da mata primitiva. É o refúgio do [urso-pardo](/especie/ursus_arctos/), do
+      [lobo](/especie/canis_lupus/) e do [lince-euroasiático](/especie/lynx_lynx/), os três grandes carnívoros
+      que ainda percorrem estas matas.
+    landscape: >-
+      O núcleo do complexo é Kočevski Rog, um planalto cárstico de Dolenjska cujo ponto culminante, o Veliki
+      Rog, atinge 1.099 metros. É sobretudo um domínio de florestas imensas, com fragmentos da mata virgem de
+      Rajhenavski e predadores de grande porte, do urso ao lobo e ao lince.
+
+
+      A floresta virgem de Rajhenavski Rog ocupa 51 hectares no centro de Kočevski Rog; o trilho que contorna
+      o seu perímetro revela uma grandiosidade imponente. As árvores gigantescas atingem 50 metros de altura e
+      alguns exemplares têm até quinhentos anos. O abeto mais majestoso, com 51 metros, chama-se Debela Jelka
+      ou a Rainha de Rog. Mais além situa-se a reserva florestal de Krokar, com mais de 75 hectares: uma
+      reserva integral regida apenas pelas leis da natureza e onde o ser humano se mantém deliberadamente à
+      margem.
+    wildlife: >-
+      O urso-pardo foi outrora muito caçado na Eslovénia, mas com uma gestão atenta a sua população é hoje a
+      mais numerosa nestas matas. Trata-se de uma espécie protegida inscrita no livro vermelho esloveno desde
+      1993. O lince quase desapareceu do país e foi reintroduzido nos bosques de Kočevsko na década de
+      setenta, enquanto a alcateia eslovena de lobo é considerada uma das raras linhagens autóctones da
+      Europa. Surgem ainda o [veado-vermelho](/especie/cervus_elaphus/), o
+      [corço](/especie/capreolus_capreolus/), a raposa e o [javali](/especie/sus_scrofa/).
+
+
+      Com um guia credenciado é possível participar em esperas noturnas para ver ursos a partir de abrigos
+      seguros. O veado é impressionante no outono durante a brama; a raposa, de hábitos noturnos, raramente se
+      avista à luz do dia.
+
+
+      No ar patrulha a [águia-rabalva](/especie/haliaeetus_albicilla/); um casal fixa-se junto ao lago de
+      Kočevska Reka, onde o seu ninho foi descoberto na década de oitenta. A coruja-uralense e o açor notam-se
+      sobretudo no verão. Junto ao lago Kočevje vivem mais de 70 espécies de aves, e os seus caniçais abrigam
+      libélulas e borboletas. As águas límpidas de Kočevsko sustentam peixes e lagostins autóctones.
+    visit: >-
+      Para melhor compreender a vida selvagem, o ideal é recorrer a um guia local. Os postos de turismo de
+      Kočevsko disponibilizam um guia de identificação de pegadas, e o centro de Kočevska Reka serve de ponto
+      de partida para as visitas ao búnquer subterrâneo de Škrilj.
+
+
+      A pé, o curto trilho do Urso cumpre 700 m em cerca de 40 minutos com 32 m de desnível e perfil
+      acessível. A rota de Rog atravessa os bosques ao longo de 64 quilómetros; sinalizada com uma pegada de
+      urso, destina-se a uma travessia exigente de vários dias. O trilho interpretativo de Borovec propõe uma
+      volta moderada de 7,10 km rente à reserva de Krokar. Junto ao lago Kočevska Reka, o Eagle's Trail
+      apresenta painéis educativos sobre processos ecológicos e conservação de predadores; percorre uma zona
+      que as águias não usam para nidificar, e um caminho pedonal liga o lago a abrigos de observação. De
+      bicicleta, o circuito de Kočevsko soma 142 km por bosques primitivos, postos de observação e o vale do
+      rio Kolpa.
+    history: >-
+      Os colonos alemães Gottscheer instalaram-se em Carniola por volta de 1330, abrindo clareiras no vasto
+      bosque e fundando aldeias. Em 1941 partiram, e desde então o Rog permaneceu praticamente desabitado; os
+      guerrilheiros ergueram ali hospitais clandestinos e o povoamento Baza 20, hoje classificado como
+      monumento histórico.
+
+
+      As florestas virgens conservam-se intocadas, e os grandes carnívoros continuam na região: o lince
+      regressou na década de setenta e o urso mantém-se sob proteção rigorosa.
+    before: >-
+      Os meses mais favoráveis vão de maio a outubro; prevê de dois a três dias. É proibido entrar nas
+      reservas virgens: aprecia-as apenas a partir dos trilhos assinalados no perímetro. O traçado do Eagle's
+      Trail afasta-se dos ninhos das águias, muito sensíveis a perturbações.
+    around: >-
+      O [Maciço Florestal de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) faz fronteira com a zona,
+      e a três quilómetros fica o [Complexo Florestal do Parque Nacional
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/) na Croácia. A sete quilómetros estendem-se
+      as [Florestas e Planalto Cárstico de Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), a
+      treze o [Carso Clássico e Sistema Subterrâneo
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) e a quinze o [Lago Intermitente de
+      Cerknica](/lugar/cerknisko-jezero/).
+fuentes:
+  - url: https://www.kocevsko.com/en/kocevsko/wildlife
+    titulo: Wildlife — Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://www.kocevsko.com/en/activities/hiking
+    titulo: Hiking — Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://www.kocevsko.com/en/paths/kocevsko-cycle-loop
+    titulo: The Kočevsko Cycle Loop — Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://www.kocevsko.com/en/paths/eagle-trail
+    titulo: Eagle Trail — Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://www.kocevsko.com/en/kocevsko/virgin-forest-and-forests
+    titulo: Virgin forest and forests – Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://www.kocevsko.com/en/plan-your-visit
+    titulo: Plan your visit – Kočevsko
+    fecha_consulta: '2026-10-31'
+  - url: https://sl.wikipedia.org/wiki/Ko%C4%8Devski_Rog
+    titulo: Kočevski Rog – Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://en.wikipedia.org/wiki/Ko%C4%8Devje
+    titulo: Kočevje – Wikipedia
+    fecha_consulta: '2026-10-31'

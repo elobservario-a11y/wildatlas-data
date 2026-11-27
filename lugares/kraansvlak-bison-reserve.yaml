@@ -1,0 +1,497 @@
+id: kraansvlak-bison-reserve
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva de Bisontes de Kraansvlak
+  en: Kraansvlak Bison Reserve
+  fr: Réserve de bisons de Kraansvlak
+  de: Wisent-Reservat Kraansvlak
+  it: Riserva dei bisonti di Kraansvlak
+  pt: Reserva de Bisões de Kraansvlak
+nombre_original: Kraansvlak Bison Reserve
+alias:
+  - Kraansvlak Bison Reserve
+paises:
+  - NL
+region:
+  es: Holanda Septentrional (Parque Nacional Zuid-Kennemerland)
+  en: North Holland (Zuid-Kennemerland National Park)
+  fr: Hollande-Septentrionale (Parc national Zuid-Kennemerland)
+  de: Nordholland (Nationalpark Zuid-Kennemerland)
+  it: Olanda Settentrionale (Parco Nazionale Zuid-Kennemerland)
+  pt: Holanda do Norte (Parque Nacional Zuid-Kennemerland)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: way/1018618514
+  nombre_en_la_fuente: Het Kraansvlak
+  capa: capas/osm/kraansvlak-bison-reserve.geojson
+habitats:
+  - coast
+  - steppe
+designaciones:
+  - national_park
+  - natura2000
+especies:
+  - bison_bonasus
+  - equus_caballus
+proyectos:
+  - kraansvlak_bison
+temporada_ideal:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+temporada_nota:
+  es: septiembre a marzo (sendero del bisonte abierto)
+  en: September to March (bison trail open)
+  fr: septembre à mars (sentier du bison ouvert)
+  de: September bis März (Wisentpfad geöffnet)
+  it: settembre a marzo (sentiero del bisonte aperto)
+  pt: setembro a março (trilho do bisão aberto)
+masificacion: 3
+masificacion_nota:
+  es: Media en miradores; acceso limitado por sendero interpretativo
+  en: Moderate at viewpoints; access limited to interpretive trail
+  fr: Modérée aux points de vue ; accès limité au sentier interprétatif
+  de: Mäßig an Aussichtspunkten; Zugang auf Lehrpfad begrenzt
+  it: Moderata ai punti panoramici; accesso limitato al sentiero didattico
+  pt: Média nos miradouros; acesso limitado ao trilho interpretativo
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Kraansvlak Bison Reserve
+    url: https://www.wisenten.nl/
+  - titulo: Visita y observación — Ver los bisontes de Kraansvlak
+    url: https://www.wisenten.nl/nl/kom-kijken
+  - titulo: Normas y ruta — Visitar Kraansvlak por libre
+    url: https://www.wisenten.nl/nl/zelf-op-pad
+  - titulo: Accesos — Cómo llegar al área de los bisontes
+    url: https://www.wisenten.nl/nl/route
+resumen:
+  es: El primer experimento costero de reintroducción del bisonte europeo en dunas de arena marítimas.
+  en: The first coastal reintroduction experiment for European bison in maritime sand dunes.
+  fr: La première expérience de réintroduction côtière du bison d'Europe dans des dunes maritimes.
+  de: Das erste Küsten-Wiederansiedlungsexperiment für Wisente in maritimen Sanddünen.
+  it: Il primo esperimento costiero di reintroduzione del bisonte europeo nelle dune sabbiose marittime.
+  pt: A primeira experiência costeira de reintrodução do bisão-europeu em dunas de areia marítimas.
+unico:
+  es: >-
+    Aquí los bisontes pastan, se bañan en arena y cruzan un lago dunar, y con cada baño abren claros que
+    mantienen vivas las dunas.
+  en: >-
+    Here bison graze, roll in sand and cross a dune lake, and every sand bath opens clearings that keep the
+    dunes alive.
+  fr: >-
+    Ici les bisons broutent, se roulent dans le sable et traversent un lac dunaire, et chaque bain de sable
+    ouvre des clairières qui maintiennent les dunes en vie.
+  de: >-
+    Hier grasen Wisente, wälzen sich im Sand und durchqueren einen Dünenteich — jedes Sandbad öffnet
+    Lichtungen, die die Dünen lebendig halten.
+  it: >-
+    Qui i bisonti pascolano, si rotolano nella sabbia e attraversano un lago dunale, e ogni bagno di sabbia
+    apre radure che mantengono vive le dune.
+  pt: >-
+    Aqui os bisões pastam, rolam na areia e atravessam uma lagoa dunar, e cada banho de areia abre clareiras
+    que mantêm as dunas vivas.
+observaciones:
+  es: >-
+    Durante la temporada del sendero hay que quedarse en él: esta parte del parque nacional es zona de
+    descanso para la fauna y la flora del espacio Natura 2000. No se admiten corredores ni perros, ni siquiera
+    con correa, y si los animales están en el camino o se acercan, hay que volver atrás y no cruzar entre las
+    manadas. Los bisontes no son mascotas y pueden ser peligrosos si no se les respeta.
+texto:
+  es:
+    intro: >-
+      Entre Haarlem y Zandvoort, en un recinto de dunas, viven bisontes en libertad. El 24 de abril de 2007
+      llegaron a Kraansvlak los tres primeros [bisontes](/especie/bison_bonasus/) europeos y se soltaron en un
+      recinto de dunas que forma parte del Parque Nacional Zuid-Kennemerland. Fue la primera zona con bisontes
+      en la naturaleza neerlandesa, y desde entonces el proyecto estudia qué hace un bisonte en un paisaje de
+      arena.
+    landscape: >-
+      El recinto de los bisontes supera las 300 ha, tras ampliarse en 2012 y otra vez en 2014. Es un paisaje
+      ondulado y variado: pastizal abierto que se vuelve matorral y bosque, arenales con dunas móviles y un
+      lago dunar, el Meertje van Burdet, a cuyo borde los bisontes suelen acercarse a beber y que visitan a
+      menudo en los días calurosos de verano.
+
+
+      Y el animal remodela el paisaje. Los bisontes se bañan a menudo en arena y así crean claros arenosos que
+      dinamizan las dunas. En esos claros encuentran su oportunidad plantas pioneras, lagartijas de arena e
+      insectos. Algunos árboles grandes se eligen para rascarse y marcar el territorio.
+    wildlife: >-
+      Los machos silvestres pesan hasta 840 kg y alcanzan 1,88 m de alzada. En Kraansvlak viven sobre todo en
+      zonas abiertas o semiabiertas, no en bosque cerrado, y su dieta se basa en hierbas, corteza (de bonetero
+      y arce) y bellotas.
+
+
+      Los grupos de hembras los lidera una hembra vieja, que decide cuándo descansar, rumiar, pastar o beber.
+      Con ellos viven los caballos Konik, que se soltaron en octubre de 2009, y el ganado Highland, junto con
+      gamos, zorros y conejos que los visitantes han visto desde el sendero. En el recinto y alrededor hay
+      también [corzos](/especie/capreolus_capreolus/) y una variedad de insectos, aves y reptiles.
+
+
+      La estación marca la visita: el Sendero del Bisonte está abierto del 1 de septiembre al 1 de marzo,
+      cuando empieza la época de cría de las aves, y por eso la temporada recomendada va de septiembre a
+      marzo.
+    visit: >-
+      Hay varias maneras de ver a los bisontes. El centro de visitantes De Kennemerduinen es un buen punto de
+      partida, y desde allí sale un camino a pie hasta el punto de observación de Kraansvlak, junto al lago
+      dunar. El Sendero del Bisonte, unos tres kilómetros con tramos de arena suelta, está marcado con postes
+      amarillos y mantiene a los visitantes a una distancia mínima de cincuenta metros de los animales; abre
+      cada día entre el amanecer y el anochecer. Desde el Duinpieperpad, una vía ciclista pavimentada al oeste
+      del recinto, también se pueden observar bisontes.
+
+
+      El proyecto ofrece excursiones guiadas con guarda para buscar la manada y explica el proyecto, las dunas
+      y sus habitantes, y salidas especiales de fotografía de naturaleza.
+    history: >-
+      El proyecto es una colaboración de PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting Duinbehoud y
+      FREE Nature, con investigación científica de varias universidades. Su objetivo es aprender de los
+      bisontes en condiciones neerlandesas y estudiar su efecto sobre las dunas, sin alimentación
+      suplementaria. Desde 2016 hay bisontes también en la Veluwe y en Maashorst, otras dos reservas
+      neerlandesas.
+    before: >-
+      Durante la temporada del sendero hay que quedarse en él: esta parte del parque nacional es zona de
+      descanso para la fauna y la flora del espacio Natura 2000. No se admiten corredores ni perros, ni
+      siquiera con correa, y si los animales están en el camino o se acercan, hay que volver atrás y no cruzar
+      entre las manadas. Los bisontes no son mascotas y pueden ser peligrosos si no se les respeta.
+    around: >-
+      A diferencia de otros lugares del atlas, Kraansvlak no tiene vecinos cercanos catalogados, pero comparte
+      bisontes y caballos con la [Reserva Natural De Maashorst](/lugar/de-maashorst/).
+  en:
+    intro: >-
+      Between Haarlem and Zandvoort, in a dune enclosure, [bison](/especie/bison_bonasus/) roam free. On 24
+      April 2007 the first three European bison arrived at Kraansvlak and were released into a dune enclosure
+      forming part of Zuid-Kennemerland National Park. It was the first site with bison in the wild in the
+      Netherlands, and ever since the project has been studying what a bison actually does in a sandy
+      landscape.
+    landscape: >-
+      The bison enclosure covers more than 300 ha, having been expanded in 2012 and again in 2014. It is a
+      varied, undulating terrain: open grassland giving way to scrub and woodland, sandy areas with shifting
+      dunes and a dune lake, the Meertje van Burdet, to whose shore the bison often come to drink and which
+      they visit frequently on hot summer days.
+
+
+      The animals reshape the landscape. Bison frequently roll in sand, creating bare sandy patches that keep
+      the dunes dynamic. Pioneer plants, sand lizards and insects seize the opportunity in those clearings.
+      Several large trees are chosen for scratching and scent-marking.
+    wildlife: >-
+      Wild males weigh up to 840 kg and stand 1.88 m at the shoulder. At Kraansvlak they live mainly in open
+      or semi-open areas rather than closed woodland, and their diet consists of grasses, bark (from spindle
+      and maple) and acorns.
+
+
+      Female herds are led by an old cow, who decides when to rest, ruminate, graze or drink. Living alongside
+      them are Konik horses, released in October 2009, and Highland cattle, together with fallow deer, foxes
+      and rabbits that visitors have spotted from the trail. Within and around the enclosure there are also
+      [roe deer](/especie/capreolus_capreolus/) as well as a variety of insects, birds and reptiles.
+
+
+      The season governs the visit: the Bison Trail is open from 1 September to 1 March, when the bird
+      breeding season begins, so the recommended window runs from September to March.
+    visit: >-
+      There are several ways to see the bison. The De Kennemerduinen visitor centre is a good starting point,
+      and from there a footpath leads to the Kraansvlak observation point beside the dune lake. The Bison
+      Trail, roughly three kilometres with stretches of loose sand, is marked with yellow posts and keeps
+      visitors at a minimum distance of fifty metres from the animals; it is open every day between dawn and
+      dusk. From the Duinpieperpad, a paved cycle path to the west of the enclosure, bison can also be
+      spotted.
+
+
+      The project offers guided excursions with a warden to search for the herd and explains the project, the
+      dunes and their inhabitants, as well as special wildlife photography outings.
+    history: >-
+      The project is a collaboration between PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting
+      Duinbehoud and FREE Nature, with scientific research from several universities. Its aim is to learn from
+      bison under Dutch conditions and study their effect on the dunes, without supplementary feeding. Since
+      2016 bison have also been present at the Veluwe and at Maashorst, two other Dutch reserves.
+    before: >-
+      During the trail season you must stay on the trail: this section of the national park is a rest zone for
+      the wildlife and flora of the Natura 2000 site. Runners and dogs are not allowed, not even on a lead,
+      and if the animals are on the path or approach you, turn back and do not pass between herds. Bison are
+      not pets and can be dangerous if not respected.
+    around: >-
+      Unlike other places in the atlas, Kraansvlak has no nearby catalogued neighbours, but it shares bison
+      and horses with the [De Maashorst Nature Reserve](/lugar/de-maashorst/).
+  fr:
+    intro: >-
+      Entre Haarlem et Zandvoort, dans un enclos de dunes, des [bisons](/especie/bison_bonasus/) vivent en
+      liberté. Le 24 avril 2007, les trois premiers bisons d'Europe sont arrivés à Kraansvlak et ont été
+      relâchés dans un enclos dunaire appartenant au parc national Zuid-Kennemerland. C'est le premier site
+      néerlandais à accueillir des bisons en nature, et depuis lors le projet étudie ce que fait un bison dans
+      un paysage de sable.
+    landscape: >-
+      L'enclos dépasse désormais 300 ha, après deux agrandissements en 2012 et en 2014. Le terrain est varié
+      et vallonné : herbage ouvert qui cède la place à des fourrés et à des bois, secteurs sableux avec dunes
+      mouvantes et un lac dunaire, le Meertje van Burdet, sur les rives duquel les bisons viennent souvent
+      boire et qu'ils fréquentent volontiers lors des journées chaudes.
+
+
+      L'animal remodèle le paysage. En se roulant régulièrement dans le sable, les bisons créent des placettes
+      nues qui dynamisent les dunes. Ces clairières offrent leur chance aux plantes pionnières, aux lézards
+      des sables et aux insectes. Quelques grands arbres sont choisis pour le grattage et le marquage.
+    wildlife: >-
+      Les mâles sauvages pèsent jusqu'à 840 kg et atteignent 1,88 m au garrot. À Kraansvlak, ils vivent
+      surtout en zones ouvertes ou semi-ouvertes plutôt qu'en forêt dense, et se nourrissent de graminées,
+      d'écorce (de fusain et d'érable) et de glands.
+
+
+      Les groupes de femelles sont conduits par une vieille vache qui décide des moments de repos, de
+      rumination, de pâturage et d'abreuvement. Ils cohabitent avec des chevaux Konik lâchés en octobre 2009
+      et du bétail Highland, ainsi qu'avec des daims, des renards et des lapins aperçus depuis le sentier.
+      Dans l'enclos et aux alentours vivent aussi des [chevreuils](/especie/capreolus_capreolus/) et une
+      grande diversité d'insectes, d'oiseaux et de reptiles.
+
+
+      La saison régit la visite : le sentier du bison est ouvert du 1er septembre au 1er mars, période hors
+      nidification des oiseaux, et c'est donc cette fenêtre qui est recommandée.
+    visit: >-
+      Plusieurs façons permettent de voir les bisons. Le centre de visiteurs De Kennemerduinen est un bon
+      point de départ ; de là part un sentier pédestre jusqu'au point d'observation de Kraansvlak, au bord du
+      lac dunaire. Le sentier du bison, d'environ trois kilomètres avec des tronçons de sable meuble, est
+      jalonné de poteaux jaunes et maintient les visiteurs à au moins cinquante mètres des animaux ; il est
+      ouvert chaque jour du lever au coucher du soleil. Depuis le Duinpieperpad, piste cyclable asphaltée à
+      l'ouest de l'enclos, vous pouvez également observer des bisons.
+
+
+      Le projet propose des excursions guidées avec un garde pour partir à la recherche du troupeau, avec des
+      explications sur le projet, les dunes et leurs habitants, ainsi que des sorties photo spéciales.
+    history: >-
+      Le projet est une collaboration entre PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting
+      Duinbehoud et FREE Nature, avec la participation scientifique de plusieurs universités. Son but est de
+      comprendre le comportement des bisons dans les conditions néerlandaises et d'étudier leur effet sur les
+      dunes, sans alimentation complémentaire. Depuis 2016, des bisons sont également présents dans le Veluwe
+      et à Maashorst, deux autres réserves néerlandaises.
+    before: >-
+      Pendant la saison du sentier, vous devez rester sur le chemin balisé : cette partie du parc national est
+      une zone de quiétude pour la faune et la flore du site Natura 2000. Les coureurs et les chiens ne sont
+      pas admis, même en laisse, et si les animaux sont sur le chemin ou s'approchent, rebroussez chemin sans
+      tenter de passer entre les troupeaux. Les bisons ne sont pas des animaux domestiques et peuvent être
+      dangereux.
+    around: >-
+      Contrairement à d'autres sites de l'atlas, Kraansvlak n'a pas de voisins répertoriés à proximité, mais
+      il partage bisons et chevaux avec la [Réserve naturelle De Maashorst](/lugar/de-maashorst/).
+  de:
+    intro: >-
+      Zwischen Haarlem und Zandvoort, in einem Dünengehege, leben [Wisente](/especie/bison_bonasus/) in freier
+      Wildbahn. Am 24. April 2007 kamen die ersten drei europäischen Wisente nach Kraansvlak und wurden in ein
+      Dünengehege entlassen, das zum Nationalpark Zuid-Kennemerland gehört. Es war das erste Vorkommen von
+      Wisenten in der niederländischen Natur, und seitdem untersucht das Projekt, was ein Wisent in einer
+      Sandlandschaft eigentlich tut.
+    landscape: >-
+      Das Wisentgehege umfasst mehr als 300 ha, nachdem es 2012 und erneut 2014 erweitert wurde. Es ist eine
+      abwechslungsreiche, hügelige Landschaft: offenes Grasland, das in Gebüsch und Wald übergeht, Sandfelder
+      mit Wanderdünen und ein Dünenteich, das Meertje van Burdet, an dessen Ufer die Wisente oft trinken
+      kommen und das sie an heißen Sommertagen gern aufsuchen.
+
+
+      Das Tier gestaltet die Landschaft um. Wisente wälzen sich häufig im Sand und schaffen so offene
+      Sandstellen, die die Dünen in Bewegung halten. In diesen Lichtungen finden Pionierpflanzen,
+      Zauneidechsen und Insekten ihre Chance. Einige große Bäume werden zum Scheuern und zur Reviermarkierung
+      genutzt.
+    wildlife: >-
+      Wilde Männchen wiegen bis zu 840 kg und erreichen eine Schulterhöhe von 1,88 m. In Kraansvlak halten sie
+      sich hauptsächlich in offenen oder halboffenen Bereichen auf, nicht in geschlossenem Wald, und ernähren
+      sich von Gräsern, Rinde (von Spindelbaum und Ahorn) und Eicheln.
+
+
+      Die Weibchengruppen werden von einer alten Leitkuh angeführt, die entscheidet, wann gerastet, gekäut,
+      gefressen oder getrunken wird. Mit ihnen leben Konik-Pferde, die im Oktober 2009 ausgewildert wurden,
+      und Hochlandrinder, sowie Damhirsche, Füchse und Kaninchen, die Besucher vom Pfad aus gesichtet haben.
+      Im Gehege und drum herum gibt es auch [Rehe](/especie/capreolus_capreolus/) sowie eine Vielfalt an
+      Insekten, Vögeln und Reptilien.
+
+
+      Die Saison bestimmt den Besuch: Der Wisentpfad ist vom 1. September bis 1. März geöffnet, wenn die
+      Vogelbrutsaison beginnt, weshalb der empfohlene Zeitraum von September bis März reicht.
+    visit: >-
+      Es gibt mehrere Möglichkeiten, die Wisente zu sehen. Das Besucherzentrum De Kennemerduinen ist ein guter
+      Ausgangspunkt; von dort führt ein Fußweg zum Aussichtspunkt Kraansvlak am Dünenteich. Der Wisentpfad,
+      etwa drei Kilometer mit Abschnitten aus losem Sand, ist mit gelben Pfosten markiert und hält Besucher
+      mindestens fünfzig Meter von den Tieren entfernt; er ist täglich von Sonnenaufgang bis Sonnenuntergang
+      geöffnet. Vom Duinpieperpad, einem asphaltierten Radweg westlich des Geheges, können ebenfalls Wisente
+      beobachtet werden.
+
+
+      Das Projekt bietet geführte Exkursionen mit einem Wärter an, um die Herde zu suchen, und erklärt
+      Projekt, Dünen und ihre Bewohner; auch spezielle Naturfotografie-Touren werden angeboten.
+    history: >-
+      Das Projekt ist eine Zusammenarbeit von PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting
+      Duinbehoud und FREE Nature, mit wissenschaftlicher Beteiligung mehrerer Universitäten. Ziel ist es, von
+      Wisenten unter niederländischen Bedingungen zu lernen und ihre Wirkung auf die Dünen zu untersuchen,
+      ohne Zufütterung. Seit 2016 gibt es Wisente auch in der Veluwe und in Maashorst, zwei weiteren
+      niederländischen Reservaten.
+    before: >-
+      Während der Pfadsaison musst du auf dem Weg bleiben: Dieser Teil des Nationalparks ist eine Ruhezone für
+      die Tier- und Pflanzenwelt des Natura-2000-Gebiets. Läufer und Hunde sind nicht erlaubt, auch nicht an
+      der Leine. Stehen die Tiere auf dem Weg oder kommen sie näher, dreh um und versuche nicht, zwischen den
+      Herden hindurchzugehen. Wisente sind keine Haustiere und können gefährlich sein.
+    around: >-
+      Anders als andere Orte im Atlas hat Kraansvlak keine nahegelegenen, erfassten Nachbarorte, teilt aber
+      Wisente und Pferde mit dem [Naturreservat De Maashorst](/lugar/de-maashorst/).
+  it:
+    intro: >-
+      Tra Haarlem e Zandvoort, in un recinto di dune, vivono in libertà i [bisonti
+      europei](/especie/bison_bonasus/). Il 24 aprile 2007 i primi tre bisonti europei giunsero a Kraansvlak e
+      furono rilasciati in un recinto dunale compreso nel Parco Nazionale Zuid-Kennemerland. Fu il primo sito
+      con bisonti allo stato selvatico nei Paesi Bassi, e da allora il progetto studia cosa fa un bisonte in
+      un paesaggio sabbioso.
+    landscape: >-
+      Il recinto supera oggi 300 ha, dopo essere stato ampliato nel 2012 e ancora nel 2014. È un territorio
+      vario e ondulato: prati aperti che sfumano in boscaglie e boschi, distese sabbiose con dune mobili e un
+      lago dunale, il Meertje van Burdet, sulle cui rive i bisonti si avvicinano spesso per abbeverarsi e che
+      frequentano volentieri nelle giornate calde.
+
+
+      L'animale rimodella il paesaggio. I bisonti si rotolano spesso nella sabbia aprendo radure che tengono
+      le dune in movimento. In quegli spazi trovano posto le piante pioniere, le lucertole delle sabbie e gli
+      insetti. Alcuni alberi grandi vengono scelti per grattarsi e marcare il territorio.
+    wildlife: >-
+      I maschi selvatici pesano fino a 840 kg e raggiungono 1,88 m al garrese. A Kraansvlak vivono soprattutto
+      in zone aperte o semiaperte, non nel bosco fitto, e la loro dieta comprende erbe, corteccia (di
+      fusaggine e acero) e ghiande.
+
+
+      I branchi di femmine sono guidati da una vecchia femmina dominante che decide quando riposare, ruminare,
+      pascolare o bere. Con loro convivono cavalli Konik liberati nell'ottobre 2009 e bovini Highland, insieme
+      a daini, volpi e conigli avvistati dal sentiero. Nel recinto e dintorni ci sono anche
+      [caprioli](/especie/capreolus_capreolus/) e una ricca varietà di insetti, uccelli e rettili.
+
+
+      La stagione governa la visita: il sentiero del bisonte è aperto dal 1° settembre al 1° marzo, quando
+      inizia la stagione riproduttiva degli uccelli, e questa è quindi la finestra consigliata.
+    visit: >-
+      Ci sono diversi modi per vedere i bisonti. Il centro visitatori De Kennemerduinen è un buon punto di
+      partenza; da lì un sentiero pedonale conduce al punto di osservazione di Kraansvlak, vicino al lago
+      dunale. Il sentiero del bisonte, circa tre chilometri con tratti su sabbia sciolta, è segnato da paletti
+      gialli e mantiene i visitatori a un minimo di cinquanta metri dagli animali; è aperto ogni giorno
+      dall'alba al tramonto. Dal Duinpieperpad, una ciclabile asfaltata a ovest del recinto, si possono
+      osservare bisonti anche in bicicletta.
+
+
+      Il progetto offre escursioni guidate con una guardia per cercare il branco, spiegando il progetto, le
+      dune e i loro abitanti, oltre a uscite speciali di fotografia naturalistica.
+    history: >-
+      Il progetto è una collaborazione tra PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting Duinbehoud
+      e FREE Nature, con ricerca scientifica di diverse università. L'obiettivo è imparare dal comportamento
+      dei bisonti in condizioni olandesi e studiarne l'effetto sulle dune, senza alimentazione supplementare.
+      Dal 2016 i bisonti sono presenti anche nella Veluwe e a Maashorst, altre due riserve olandesi.
+    before: >-
+      Durante la stagione del sentiero devi restare sul percorso: questa parte del parco nazionale è una zona
+      di quiete per la fauna e la flora del sito Natura 2000. Corridori e cani non sono ammessi, nemmeno al
+      guinzaglio, e se gli animali si trovano sul sentiero o si avvicinano, torna indietro senza tentare di
+      passare tra i branchi. I bisonti non sono animali domestici e possono essere pericolosi se non
+      rispettati.
+    around: >-
+      A differenza di altri luoghi nell'atlas, Kraansvlak non ha vicini catalogati nelle vicinanze, ma
+      condivide bisonti e cavalli con la [Riserva Naturale De Maashorst](/lugar/de-maashorst/).
+  pt:
+    intro: >-
+      Entre Haarlem e Zandvoort, num cercado de dunas, vivem [bisões-europeus](/especie/bison_bonasus/) em
+      liberdade. A 24 de abril de 2007 chegaram a Kraansvlak os três primeiros bisões europeus e foram soltos
+      num cercado de dunas que integra o Parque Nacional Zuid-Kennemerland. Foi o primeiro local com bisões na
+      natureza neerlandesa, e desde então o projeto estuda o que faz um bisão numa paisagem de areia.
+    landscape: >-
+      O cercado dos bisões supera as 300 ha, depois de ampliações em 2012 e novamente em 2014. É uma paisagem
+      ondulada e variada: pastagem aberta que cede a matagal e floresta, areais com dunas móveis e uma lagoa
+      dunar, o Meertje van Burdet, às margens do qual os bisões costumam vir beber e que frequentam nos dias
+      quentes de verão.
+
+
+      O animal remodela a paisagem. Os bisões rolam regularmente na areia criando manchas nuas que dinamizam
+      as dunas. Nessas clareiras encontram oportunidade as plantas pioneiras, as lagartixas-da-areia e os
+      insetos. Algumas árvores grandes são escolhidas para esfregação e marcação de território.
+    wildlife: >-
+      Os machos selvagens pesam até 840 kg e atingem 1,88 m de altura ao garrote. Em Kraansvlak vivem
+      sobretudo em zonas abertas ou semiabertas, não em floresta fechada, e a sua dieta baseia-se em ervas,
+      casca (de evónimo e bordo) e bolotas.
+
+
+      Os grupos de fêmeas são liderados por uma velha fêmea que decide quando descansar, ruminar, pastar ou
+      beber. Com eles vivem cavalos Konik, soltos em outubro de 2009, e gado Highland, bem como gamos, raposas
+      e coelhos avistados desde o trilho. No cercado e arredores há também
+      [corças](/especie/capreolus_capreolus/) e uma grande variedade de insetos, aves e répteis.
+
+
+      A estação governa a visita: o trilho do bisão está aberto de 1 de setembro a 1 de março, quando começa a
+      época de reprodução das aves, sendo esse o período recomendado.
+    visit: >-
+      Há várias formas de ver os bisões. O centro de visitantes De Kennemerduinen é um bom ponto de partida, e
+      dali parte um caminho pedestre até ao ponto de observação de Kraansvlak, junto à lagoa dunar. O trilho
+      do bisão, com cerca de três quilómetros e troços de areia solta, está marcado com postes amarelos e
+      mantém os visitantes a no mínimo cinquenta metros dos animais; está aberto todos os dias do amanhecer ao
+      anoitecer. Desde o Duinpieperpad, uma ciclovia asfaltada a oeste do cercado, também se podem observar
+      bisões.
+
+
+      O projeto oferece excursões guiadas com um guarda para ir à procura da manada, explicando o projeto, as
+      dunas e os seus habitantes, bem como saídas especiais de fotografia de natureza.
+    history: >-
+      O projeto é uma colaboração entre PWN, ARK Nature, Stichting Kritisch Bosbeheer, Stichting Duinbehoud e
+      FREE Nature, com investigação científica de várias universidades. O objetivo é aprender com os bisões em
+      condições neerlandesas e estudar o seu efeito sobre as dunas, sem alimentação suplementar. Desde 2016 há
+      bisões também na Veluwe e em Maashorst, duas outras reservas neerlandesas.
+    before: >-
+      Durante a época do trilho deves ficar no percurso: esta parte do parque nacional é zona de descanso para
+      a fauna e a flora do sítio Natura 2000. Não são admitidos corredores nem cães, nem mesmo com trela, e se
+      os animais estiverem no caminho ou se aproximarem, volta atrás sem tentar passar entre as manadas. Os
+      bisões não são animais domésticos e podem ser perigosos se não forem respeitados.
+    around: >-
+      Ao contrário de outros locais do atlas, Kraansvlak não tem vizinhos catalogados próximos, mas partilha
+      bisões e cavalos com a [Reserva Natural De Maashorst](/lugar/de-maashorst/).
+fuentes:
+  - url: https://www.wisenten.nl/en/come-and-visit
+    titulo: Come and visit – Wisentproject Kraansvlak
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/where-are-they
+    titulo: Where are they? – Wisentproject Kraansvlak
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/yourself
+    titulo: By yourself – Wisentproject Kraansvlak
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/nieuws/2018/record-number-visitors-bison-trail
+    titulo: Record number of visitors Bison Trail – Wisentproject Kraansvlak
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/history
+    titulo: Wisenten Kraansvlak — historia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/project
+    titulo: Wisenten Kraansvlak — proyecto
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/area
+    titulo: Wisenten Kraansvlak — la zona
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/behaviour
+    titulo: Wisenten Kraansvlak — comportamiento
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/food
+    titulo: Wisenten Kraansvlak — alimentación
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/european-bison-grazer-half-open-forests
+    titulo: Wisenten Kraansvlak — el bisonte
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/herd-animal
+    titulo: Wisenten Kraansvlak — vida en manada
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/getting-here
+    titulo: Wisenten Kraansvlak — cómo llegar
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/guide
+    titulo: Wisenten Kraansvlak — excursiones
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/netherlands
+    titulo: Wisenten Kraansvlak — otras zonas
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wisenten.nl/en/research
+    titulo: Wisenten Kraansvlak — investigación
+    fecha_consulta: '2026-10-30'

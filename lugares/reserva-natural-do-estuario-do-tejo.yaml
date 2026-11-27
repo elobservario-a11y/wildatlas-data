@@ -1,0 +1,605 @@
+id: reserva-natural-do-estuario-do-tejo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural del Estuario del Tajo
+  en: Tagus Estuary Nature Reserve
+  fr: Réserve naturelle de l'estuaire du Tage
+  de: Naturreservat Tejo-Mündung
+  it: Riserva naturale dell'estuario del Tago
+  pt: Reserva Natural do Estuário do Tejo
+nombre_original: Reserva Natural do Estuário do Tejo
+alias:
+  - Reserva Natural do Estuário do Tejo
+paises:
+  - PT
+region:
+  es: Gran Lisboa (Alcochete / Benavente / Vila Franca de Xira)
+  en: Greater Lisbon (Alcochete / Benavente / Vila Franca de Xira)
+  fr: Grand Lisbonne (Alcochete / Benavente / Vila Franca de Xira)
+  de: Großraum Lissabon (Alcochete / Benavente / Vila Franca de Xira)
+  it: Grande Lisbona (Alcochete / Benavente / Vila Franca de Xira)
+  pt: Grande Lisboa (Alcochete / Benavente / Vila Franca de Xira)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 38.8
+  lon: -8.97
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 1339
+  nombre_en_la_fuente: Estuario do Tejo
+  categoria_uicn: IV
+  capa: capas/cdda/reserva-natural-do-estuario-do-tejo.geojson
+habitats:
+  - wetland
+  - river_corridor
+designaciones:
+  - natural_reserve
+  - ramsar
+  - natura2000
+especies:
+  - phoenicopterus_roseus
+  - recurvirostra_avosetta
+  - platalea_leucorodia
+temporada_ideal:
+  - 10
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+temporada_nota:
+  es: otoño a primavera (invernada masiva de acuáticas a las puertas de Lisboa)
+  en: autumn to spring (massive waterbird wintering on Lisbon's doorstep)
+  fr: automne au printemps (hivernage massif d'oiseaux d'eau aux portes de Lisbonne)
+  de: Herbst bis Frühling (massenhafte Wasservogelüberwinterung vor den Toren Lissabons)
+  it: autunno a primavera (svernamento massiccio di acquatici alle porte di Lisbona)
+  pt: outono a primavera (invernada massiva de aquáticas às portas de Lisboa)
+masificacion: 1
+masificacion_nota:
+  es: Baja en los observatorios de EVOA en Alcochete
+  en: Low at EVOA observatories in Alcochete
+  fr: Faible dans les observatoires de l'EVOA à Alcochete
+  de: Gering in den EVOA-Beobachtungshütten bei Alcochete
+  it: Bassa nei capanni di osservazione EVOA ad Alcochete
+  pt: Baixa nos observatórios do EVOA em Alcochete
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — ICNF
+    url: https://www.icnf.pt/
+  - titulo: Visita y accesos — Reserva Natural do Estuário do Tejo (ICNF Natural.PT)
+    url: https://natural.pt/protected-areas/reserva-natural-estuario-tejo
+  - titulo: Normas — Código de visita de las áreas protegidas del ICNF
+    url: https://resources.natural.pt/uploads/additional-information/2026/10/13/11/MVFWRS8SS5xDBMC4.pdf
+  - titulo: Centro de visitantes y observatorios — EVOA
+    url: https://evoa.pt/
+  - titulo: Visita y accesos — Horarios y contacto del EVOA
+    url: https://evoa.pt/contactos/
+resumen:
+  es: >-
+    El mayor humedal estuario de Portugal y uno de los más importantes de Europa (14.000 ha de marismas),
+    albergando hasta 50.000 aves acuáticas invernantes.
+  en: >-
+    Portugal's largest estuarine wetland and one of Europe's most important (14,000 ha of saltmarshes),
+    hosting up to 50,000 wintering waterbirds.
+  fr: >-
+    La plus vaste zone humide estuarienne du Portugal et l'une des plus importantes d'Europe (14 000 ha de
+    marais), accueillant jusqu'à 50 000 oiseaux d'eau hivernants.
+  de: >-
+    Größtes Ästuar-Feuchtgebiet Portugals und eines der bedeutendsten Europas (14.000 ha Salzwiesen) mit bis
+    zu 50.000 überwinternden Wasservögeln.
+  it: >-
+    La più vasta zona umida estuariale del Portogallo e tra le maggiori d'Europa (14.000 ha di paludi
+    salmastre), con fino a 50.000 uccelli acquatici svernanti.
+  pt: >-
+    A maior zona húmida estuarina de Portugal e uma das mais importantes da Europa (14.000 ha de sapais),
+    acolhendo até 50.000 aves aquáticas invernantes.
+unico:
+  es: >-
+    Un delta interior a las puertas de Lisboa donde cada invierno llega a posarse una cuarta parte de las
+    avocetas que pasan el invierno en Europa.
+  en: >-
+    An inland delta on Lisbon's doorstep where each winter up to a quarter of all avocets wintering in Europe
+    gather.
+  fr: >-
+    Un delta intérieur aux portes de Lisbonne où se pose chaque hiver un quart des avocettes élégantes
+    hivernant en Europe.
+  de: >-
+    Ein Binnendelta vor den Toren Lissabons, an dem jeden Winter ein Viertel aller in Europa überwinternden
+    Säbelschnäbler rastet.
+  it: >-
+    Un delta interno alle porte di Lisbona dove ogni inverno sosta un quarto di tutte le avocette svernanti in
+    Europa.
+  pt: >-
+    Um delta interior às portas de Lisboa onde cada inverno chega a concentrar-se um quarto dos alfaiates que
+    invernam na Europa.
+observaciones:
+  es: >-
+    EVOA recibe como máximo 120 visitantes al día, para proteger la tranquilidad de las aves: planifica la
+    visita con tiempo. Está a media hora de Lisboa. Se puede ir todo el año, pero la mejor época para ver aves
+    es de otoño a primavera.
+texto:
+  es:
+    intro: >-
+      A media hora de Lisboa, donde el Tajo se ensancha antes de llegar al mar, hay un lugar donde el agua y
+      el barro se reparten el paisaje con las aves. Es la parte alta del estuario: una lámina somera de agua,
+      bancos de fango recortados por canales, marismas, salinas y las llanuras de cultivo que llaman lezírias.
+      La Reserva Natural del Estuario del Tajo ocupa 14 416,14 hectáreas entre Alcochete, Benavente y Vila
+      Franca de Xira, y en invierno su nombre se mide en aves: más de 120.000 individuos invernantes en los
+      años de más afluencia.
+    landscape: >-
+      El estuario del Tajo se extiende unos 80 km desde su límite superior hasta el Atlántico, y cambia de
+      carácter por el camino. Aquí arriba es poco profundo, un delta interior de grandes llanuras mareales y
+      marismas. La sección central es la más ancha, con unos siete metros de profundidad media. Y el tramo
+      final se estrecha en un canal profundo que conecta con el océano.
+
+
+      La reserva ocupa la parte alta, y se nota en lo plano: ningún punto supera los once metros sobre el
+      nivel del mar. Esa mezcla de aguas estuarinas, bancos de fango, canales mareales, marismas, salinas y
+      lezírias agrícolas es la que alimenta al ecosistema. La marisma de las orillas es muy productiva en
+      poliquetos, moluscos y crustáceos, y funciona como criadero de varias especies de peces. De ahí, de
+      abajo hacia arriba, sale todo lo que comen las aves.
+    wildlife: >-
+      Aquí el calendario lo marcan las alas. De noviembre a febrero, las lagunas se llenan con grandes bandos
+      llegados del norte de Europa: es la mejor época para ver miles de aves en reposo o en vuelo. Pasan por
+      la reserva más de diez mil anátidas y cincuenta mil limícolas, y la
+      [avoceta](/especie/recurvirostra_avosetta/) llega a reunir el 25% de toda la población invernante en
+      Europa. Entre las especies de invierno se esperan el [águila pescadora](/especie/pandion_haliaetus/), el
+      [avetoro](/especie/botaurus_stellaris/), el [ánsar común](/especie/anser_anser/) y el
+      [pechiazul](/especie/luscinia_svecica/), además de grandes concentraciones de cercetas y de [aguja
+      colinegra](/especie/limosa_limosa/).
+
+
+      En los pasos migratorios, de marzo a abril y de agosto a octubre, el estuario se convierte en un oasis:
+      se ven [combatientes](/especie/philomachus_pugnax/), algunos con plumaje nupcial, y zarapitos. En otoño,
+      mientras los arrozales están poco atractivos, los bandos se concentran en las lagunas de EVOA, y una vez
+      cosechado el arroz, los arrozales vuelven a ser un punto clave para ver más diversidad.
+
+
+      Mayo y junio traen aves migratorias desde África, y algunas crían en las islas de las lagunas: es la
+      época de los pollos y del cuidado parental, con canastera y sus crías, chorlitejo patinegro, garza
+      imperial, tarro blanco con crías, avetorillo y carricero tordal. En los humedales de alrededor también
+      crían el [pato colorado](/especie/netta_rufina/), la [garceta común](/especie/egretta_garzetta/) y la
+      [garza imperial](/especie/ardea_purpurea/); en los campos de cultivo, el
+      [alcaraván](/especie/burhinus_oedicnemus/) y la calandria. El [sisón](/especie/tetrax_tetrax/) está todo
+      el año, aunque en invierno es más numeroso.
+
+
+      Y luego están los que no faltan nunca. El [flamenco](/especie/phoenicopterus_roseus/) se ve a diario en
+      las lagunas de abril a octubre, aunque no cría en el estuario; el
+      [calamón](/especie/porphyrio_porphyrio/), más de octubre a febrero; y todo el año, el
+      [morito](/especie/plegadis_falcinellus/), la [espátula](/especie/platalea_leucorodia/) y el elanio azul,
+      este último más visible de septiembre a marzo.
+    visit: >-
+      La puerta de entrada es EVOA, el centro de observación de aves de la reserva, que abrió en 2013. Sus
+      lagunas son setenta hectáreas de humedal de agua dulce con distintas profundidades, y en cinco
+      kilómetros de senderos reúne cuatro observatorios, tres abrigos fotográficos y dos puntos de observación
+      camuflados. Cada uno enseña algo distinto: en la Lagoa Principal, con relieves, profundidades y tipos de
+      vegetación variados, se reúne la mayor diversidad de aves acuáticas; en la Lagoa Rasa predominan las
+      limícolas, y es el lugar ideal para verlas en acción.
+
+
+      Si prefieres ir acompañado, EVOA propone una visita guiada de reconocimiento con guías residentes, que
+      ayudan a localizar las especies más buscadas y los mejores momentos y lugares para verlas. Y para los
+      flamencos hay un tour por la lezíria que los busca de los arrozales a las salinas y de las lagunas al
+      estuario.
+    history: >-
+      Portugal creó la reserva con el Decreto-Lei 565/76, de 19 de julio. Hoy la misión de EVOA es conservar
+      la avifauna del estuario y de la lezíria, protegiendo a la vez los hábitats naturales y agrícolas de los
+      que depende. El centro colabora con universidades en estudios sobre la dinámica de las poblaciones de
+      aves y sobre la flora y la fauna de las lagunas, y participa en proyectos europeos.
+    before: >-
+      EVOA recibe como máximo 120 visitantes al día, para proteger la tranquilidad de las aves: planifica la
+      visita con tiempo. Está a media hora de Lisboa. Se puede ir todo el año, pero la mejor época para ver
+      aves es de otoño a primavera.
+    around: >-
+      A unos veintiséis kilómetros queda la [Reserva Natural del Estuario del
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/), el vecino más cercano del atlas. Lejos de aquí,
+      comparten espátula y flamenco el [delta del Evros](/lugar/ethniko-parko-delta-evrou/), los [Aiguamolls
+      de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) y el [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/); el [Körös-Maros](/lugar/koros-maros-nemzeti-park/) reúne la
+      avoceta y la espátula.
+  en:
+    intro: >-
+      Half an hour from Lisbon, where the Tagus widens before meeting the sea, water and silt share the
+      landscape with birds. This is the upper estuary: shallow water sheets, intertidal mudflats scored by
+      tidal creeks, saltmarshes, salt pans and cultivated alluvial plains known as lezírias. The Tagus Estuary
+      Nature Reserve protects 14,416.14 hectares between Alcochete, Benavente and Vila Franca de Xira, and in
+      winter its stature is measured in wings: over 120,000 wintering waterbirds in peak seasons.
+    landscape: >-
+      The Tagus estuary stretches about 80 km from its upper tidal reach to the Atlantic, changing personality
+      along the way. Here in the upper sector it is shallow, an inland delta of vast tidal flats and
+      saltmarshes. The middle section is the widest, averaging seven metres depth. The final reach narrows
+      into a deep channel connecting to the open sea.
+
+
+      The reserve occupies the upper estuary, and its flat terrain shows: no point rises above eleven metres
+      above sea level. This mosaic of estuarine channels, mudflats, saltmarshes, salt pans and agricultural
+      lezírias fuels the ecosystem. Mudflats support dense populations of polychaetes, molluscs and
+      crustaceans, functioning as fish nurseries. From the mud up, this productivity sustains the bird masses.
+    wildlife: >-
+      The calendar is driven by migration. From November to February, lagoons teem with northern flocks: the
+      premier season to witness tens of thousands of birds resting or flying. Over ten thousand ducks and
+      fifty thousand waders pass through, with the [pied avocet](/especie/recurvirostra_avosetta/) assembling
+      up to 25% of the total European wintering population. Wintering highlights include
+      [osprey](/especie/pandion_haliaetus/), [Eurasian bittern](/especie/botaurus_stellaris/), [greylag
+      goose](/especie/anser_anser/) and [bluethroat](/especie/luscinia_svecica/), alongside vast flocks of
+      teals and [black-tailed godwits](/especie/limosa_limosa/).
+
+
+      During migration passages—March to April and August to October—the estuary becomes a crucial stopover:
+      [ruffs](/especie/philomachus_pugnax/), some in breeding plumage, and curlews pause here. In autumn,
+      while rice fields lie bare, flocks concentrate in EVOA lagoons; once harvested, paddy fields again
+      attract great diversity.
+
+
+      May and June bring African migrants, with some breeding on lagoon islets: the nesting season for
+      collared pratincoles, Kentish plovers, purple herons, shelducks, little bitterns and great reed
+      warblers. Surrounding wetlands host breeding [red-crested pochards](/especie/netta_rufina/), [little
+      egrets](/especie/egretta_garzetta/) and [purple herons](/especie/ardea_purpurea/); arable fields support
+      [Eurasian stone-curlews](/especie/burhinus_oedicnemus/) and calandra larks. The [little
+      bustard](/especie/tetrax_tetrax/) is resident year-round, peaking in winter.
+
+
+      Year-round regulars include the [greater flamingo](/especie/phoenicopterus_roseus/), seen daily from
+      April to October without nesting; the [western swamphen](/especie/porphyrio_porphyrio/), conspicuous
+      from October to February; and the [glossy ibis](/especie/plegadis_falcinellus/), [Eurasian
+      spoonbill](/especie/platalea_leucorodia/) and black-winged kite, the latter most visible from September
+      to March.
+    visit: >-
+      The primary gateway is EVOA, the reserve's bird interpretation centre opened in 2013. Its freshwater
+      lagoons cover seventy hectares across varying depths, with five kilometres of walking trails connecting
+      four observatories, three photo hides and two camouflage viewpoints. Each offers distinct vantage
+      points: Lagoa Principal gathers maximum waterfowl diversity; Lagoa Rasa caters to waders; Lagoa Grande
+      hosts feeding and resting ducks. The visitor centre houses an exhibition, «EVOA, Where the World Meets
+      the Tagus», a café and bike rentals; binoculars and spotting scopes are provided.
+
+
+      Beyond EVOA, the reserve includes the Ponta da Erva coastal strip and the Salinas do Samouco near
+      Alcochete, equipped with bird hides.
+
+
+      From Lisbon, cross the Vasco da Gama Bridge towards Alcochete and follow signs to Companhia das Lezírias
+      and EVOA.
+    history: >-
+      Portugal created the reserve under Decree-Lei 565/76 of 19 July. Today EVOA's mission is to conserve the
+      birdlife of the estuary and the lezíria, while safeguarding the natural and agricultural habitats upon
+      which it depends. The centre collaborates with universities on studies investigating bird population
+      dynamics and the flora and fauna of the lagoons, participating in wider European research projects.
+    before: >-
+      Bring binoculars or a spotting scope, sunscreen, mosquito repellent and a windbreaker. EVOA is open
+      year-round with paid admission; guided visits require advance booking. The approach road through the
+      lezírias is an unpaved track of roughly 120 km² estate roads, requiring cautious driving. High-tide
+      roosts offer the best birdwatching.
+    around: >-
+      Twenty-six kilometres south lies the [Sado Estuary Nature
+      Reserve](/lugar/reserva-natural-do-estuario-do-sado/). For wintering waterfowl and tidal wetlands, the
+      Tagus estuary echoes [Doñana National Park](/lugar/parque-nacional-de-donana/), [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), the [Evros
+      Delta](/lugar/ethniko-parko-delta-evrou/) and [Körös-Maros National
+      Park](/lugar/koros-maros-nemzeti-park/).
+  fr:
+    intro: >-
+      À une demi-heure de Lisbonne, là où le Tage s'évase avant l'océan, les eaux et la vase se partagent le
+      territoire avec les oiseaux. C'est le haut estuaire : nappe d'eau peu profonde, bancs de slikke striés
+      de chenaux, prés salés, salines et plaines alluviales cultivées nommées lezírias. La réserve naturelle
+      de l'estuaire du Tage s'étend sur 14 416,14 hectares entre Alcochete, Benavente et Vila Franca de Xira,
+      et son hivernage compte plus de 120 000 oiseaux d'eau lors des années fastes.
+    landscape: >-
+      L'estuaire du Tage s'allonge sur environ 80 km depuis sa limite amont jusqu'à l'Atlantique. Dans ce
+      secteur sommital, peu profond, il forme un delta intérieur de vastes platiers de marée. La section
+      centrale est la plus large avec sept mètres de fond moyen, tandis que l'aval se resserre en goulet
+      profond vers la mer.
+
+
+      La réserve occupe le haut estuaire, d'une platitude absolue : aucun point ne dépasse onze mètres
+      d'altitude. Ce lacis d'eaux saumâtres, vasières, chenaux, salines et lezírias nourrit une faune
+      abondante. La vasière est extrêmement riche en vers, coquillages et crustacés, agissant comme
+      nourricerie pour les alevins et garde-manger pour l'avifaune.
+    wildlife: >-
+      Ici, les saisons obéissent aux vols d'oiseaux. De novembre à février, les lagunes accueillent d'immenses
+      rassemblements nordiques : plus de dix mille canards et cinquante mille limicoles, l'[avocette
+      élégante](/especie/recurvirostra_avosetta/) réunissant jusqu'à 25 % de la population hivernante en
+      Europe. On observe le [balbuzard pêcheur](/especie/pandion_haliaetus/), le [butor
+      étoilé](/especie/botaurus_stellaris/), l'[oie cendrée](/especie/anser_anser/) et la [gorgebleue à
+      miroir](/especie/luscinia_svecica/), ainsi que des volées de sarcelles et de [barges à queue
+      noire](/especie/limosa_limosa/).
+
+
+      Lors des passages de mars-avril et août-octobre, l'estuaire devient une étape essentielle pour
+      [combattants variés](/especie/philomachus_pugnax/) et courlis. En automne, les troupes se massent dans
+      les lagunes de l'EVOA avant de recoloniser les rizières moissonnées.
+
+
+      En mai et juin, les migrateurs africains arrivent pour nicher sur les îlots : glaréoles, gravelots,
+      hérons pourprés, tadornes et blongios. Les marais voisins accueillent [nette
+      rousse](/especie/netta_rufina/), [aigrette garzette](/especie/egretta_garzetta/) et [héron
+      pourpré](/especie/ardea_purpurea/) ; les champs hébergent [œdicnème
+      criard](/especie/burhinus_oedicnemus/) et calandre. L'[outarde canepetière](/especie/tetrax_tetrax/) est
+      sédentaire, plus visible l'hiver.
+
+
+      Les sédentaires incontournables comptent le [flamant rose](/especie/phoenicopterus_roseus/), présent
+      d'avril à octobre sans y nicher ; la [talève sultane](/especie/porphyrio_porphyrio/) en hiver ; et toute
+      l'année l'[ibis falcinelle](/especie/plegadis_falcinellus/), la [spatule
+      blanche](/especie/platalea_leucorodia/) et l'élanion blanc.
+    visit: >-
+      La porte d'accès est l'EVOA, centre d'observation ouvert en 2013. Ses lagunes douces couvrent
+      soixante-dix hectares avec cinq kilomètres de pistes reliant quatre observatoires et trois affûts. La
+      Lagoa Principal concentre la diversité d'anatidés, la Lagoa Rasa accueille les limicoles et la Lagoa
+      Grande sert de reposoir. Le centre offre exposition, cafétéria et location de vélos et jumelles.
+
+
+      Au-delà de l'EVOA, découvrez la Ponta da Erva et les salines de Samouco près d'Alcochete.
+
+
+      Depuis Lisbonne, franchissez le pont Vasco da Gama vers Alcochete et suivez la signalisation Companhia
+      das Lezírias et EVOA.
+    history: >-
+      Le Portugal a créé la réserve par le décret-loi 565/76 du 19 juillet. Aujourd'hui, la mission de l'EVOA
+      est de préserver l'avifaune de l'estuaire et de la lezíria, tout en protégeant les habitats naturels et
+      agricoles dont elle dépend. Le centre collabore avec des universités à des recherches sur la dynamique
+      des populations d'oiseaux ainsi que sur la flore et la faune des lagunes, s'associant à divers projets
+      européens.
+    before: >-
+      Prévoyez jumelles, crème solaire, antimoustiques et coupe-vent. L'EVOA est payant et ouvert toute
+      l'année ; visites guidées sur réservation. La piste d'accès dans les lezírias traverse une vaste
+      propriété agricole d'environ 120 km² nécessitant une conduite prudente. La marée haute offre les
+      meilleures observations.
+    around: >-
+      À vingt-six kilomètres au sud s'étend la [Réserve naturelle de l'estuaire du
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/). Pour les hivernants aquatiques, le Tage rappelle le
+      [Parc national de Doñana](/lugar/parque-nacional-de-donana/), les [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), le [Delta de
+      l'Évros](/lugar/ethniko-parko-delta-evrou/) et le [Parc national de
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/).
+  de:
+    intro: >-
+      Eine halbe Stunde von Lissabon entfernt, wo sich der Tejo vor der Mündung weitet, teilen sich Wasser und
+      Watt die Landschaft mit den Vögeln. Es ist das obere Ästuar: Flachwasser, von Prielen durchzogene
+      Schlickbänke, Salzwiesen, Salinen und als Lezírias bekannte Schwemmland-Agrarflächen. Das Naturreservat
+      Tejo-Mündung umfasst 14.416,14 Hektar zwischen Alcochete, Benavente und Vila Franca de Xira und
+      beherbergt im Winter in Spitzenjahren über 120.000 Wasservögel.
+    landscape: >-
+      Das Tejo-Ästuar reicht über 80 km landeinwärts. Hier oben ist es seicht, ein Binnendelta aus
+      Gezeitenflächen und Salzwiesen. Der mittlere Abschnitt ist mit sieben Metern Durchschnittstiefe am
+      breitesten, während sich der Unterlauf zu einer tiefen Meeresstraße verengt.
+
+
+      Das Reservat liegt im oberen Bereich, und die Landschaft ist bretteben: Kein Punkt überragt elf Meter
+      Meereshöhe. Dieses Mosaik aus Watt, Prielen, Salzwiesen, Salinen und Lezírias nährt das Ökosystem. Das
+      Watt produziert Myriaden Würmer, Weichtiere und Krebse und dient als Fischkinderstube, was den
+      Vogelreichtum begründet.
+    wildlife: >-
+      Der Jahreslauf wird vom Vogelzug bestimmt. Von November bis Februar füllen arktische Schwärme die
+      Lagunen: über zehntausend Enten und fünfzigtausend Limikolen, wobei der
+      [Säbelschnäbler](/especie/recurvirostra_avosetta/) bis zu 25 % des europäischen Winterbestands stellt.
+      Zu den Wintergästen zählen [Fischadler](/especie/pandion_haliaetus/),
+      [Rohrdommel](/especie/botaurus_stellaris/), [Graugans](/especie/anser_anser/) und
+      [Blaukehlchen](/especie/luscinia_svecica/), neben Tausenden Krickenten und
+      [Uferschnepfen](/especie/limosa_limosa/).
+
+
+      Auf dem Zug im März-April und August-Oktober rasten [Kampfläufer](/especie/philomachus_pugnax/) und
+      Brachvögel. Im Herbst konzentrieren sich die Vögel auf die EVOA-Lagunen, ehe abgeerntete Reisfelder neue
+      Nahrungsgründe bieten.
+
+
+      Im Mai und Juni treffen Brutvögel aus Afrika ein: Brachschwalben, Seeregenpfeifer, Purpurreiher und
+      Zwergdommeln brüten auf Inseln. In den Umlandsümpfen nisten [Kolbenente](/especie/netta_rufina/),
+      [Seidenreiher](/especie/egretta_garzetta/) und [Purpurreiher](/especie/ardea_purpurea/); Felder
+      beherbergen [Triel](/especie/burhinus_oedicnemus/) und Kalanderlerche. Die
+      [Zwergtrappe](/especie/tetrax_tetrax/) ist ganzjährig präsent, im Winter verstärkt.
+
+
+      Regelmäßig sind der [Rosaflamingo](/especie/phoenicopterus_roseus/) von April bis Oktober, das
+      [Purpurhuhn](/especie/porphyrio_porphyrio/) im Winter sowie ganzjährig [Brauner
+      Sichler](/especie/plegadis_falcinellus/), [Löffler](/especie/platalea_leucorodia/) und Gleitaar.
+    visit: >-
+      Hauptanlaufpunkt ist das 2013 eröffnete EVOA-Vogelzentrum. Seine Süßwasserlagunen umfassen siebzig
+      Hektar mit fünf Kilometern Wegen zu vier Beobachtungshütten und Schirmen. Die Lagoa Principal bietet
+      höchste Artenvielfalt, Lagoa Rasa zieht Watvögel an, Lagoa Grande dient Enten als Ruhezone. Das Zentrum
+      bietet Ausstellung, Café, Fernglas- und Fahrradverleih.
+
+
+      Weitere Highlights sind Ponta da Erva und die Salinen von Samouco bei Alcochete.
+
+
+      Von Lissabon aus fährst du über die Vasco-da-Gama-Brücke nach Alcochete und folgst der Beschilderung
+      Companhia das Lezírias und EVOA.
+    history: >-
+      Portugal wies das Schutzgebiet durch das Gesetzesdekret 565/76 vom 19. Juli aus. Heute besteht die
+      Aufgabe des EVOA darin, die Vogelwelt des Ästuars und der Lezíria zu bewahren und zugleich die
+      natürlichen und landwirtschaftlichen Lebensräume zu sichern, von denen sie abhängt. Das Zentrum arbeitet
+      mit Universitäten bei Studien zur Populationsdynamik der Vögel sowie zu Flora und Fauna der Lagunen
+      zusammen und wirkt an europäischen Projekten mit.
+    before: >-
+      Nimm Fernglas, Sonnenschutz, Mückenschutz und Windjacke mit. EVOA ist ganzjährig kostenpflichtig
+      zugänglich. Die Zufahrt durch die Lezírias führt über Schotterpisten auf einem rund 120 km² großen
+      Gutshof, die vorsichtiges Fahren verlangen. Flutzeiten bieten beste Beobachtungsbedingungen.
+    around: >-
+      Sechsundzwanzig Kilometer südlich liegt das [Naturreservat
+      Sado-Mündung](/lugar/reserva-natural-do-estuario-do-sado/). Für Wasservögel ähnelt der Tejo dem
+      [Nationalpark Doñana](/lugar/parque-nacional-de-donana/), den [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), dem
+      [Evros-Delta](/lugar/ethniko-parko-delta-evrou/) und dem [Nationalpark
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/).
+  it:
+    intro: >-
+      A mezz'ora da Lisbona, dove il Tago si dilata prima di incontrare il mare, acque e limi spartiscono lo
+      spazio con l'avifauna. È l'alto estuario: specchi bassi d'acqua, banchi di fango solcati da canali di
+      marea, barene, saline e pianure alluvionali denominate lezírias. La Riserva naturale dell'estuario del
+      Tago tutela 14.416,14 ettari tra Alcochete, Benavente e Vila Franca de Xira, ospitando nelle annate
+      record oltre 120.000 uccelli acquatici svernanti.
+    landscape: >-
+      L'estuario del Tago si allunga per circa 80 km fino all'Atlantico. In questo settore a monte è poco
+      profondo, un delta interno di vaste piane intertidali. La porzione centrale è la più larga con sette
+      metri di profondità media, mentre il tratto terminale si restringe in canale profondo verso l'oceano.
+
+
+      La riserva occupa la parte sommitale e pianeggiante: nessun rilievo supera gli undici metri sul mare.
+      Questo reticolo di acque salmastre, fanghi, barene, saline e lezírias alimenta l'ecosistema. Il fango
+      pullula di policheti, molluschi e crostacei, fungendo da vivaio ittico e mensa per i volatili.
+    wildlife: >-
+      La fenologia è scandita dai flussi migratori. Da novembre a febbraio le lagune accolgono le flotte
+      nordiche: oltre diecimila anatidi e cinquantamila limicoli, con
+      l'[avocetta](/especie/recurvirostra_avosetta/) che raduna fino al 25% dell'intera popolazione svernante
+      europea. Presenze tipiche includono [falco pescatore](/especie/pandion_haliaetus/),
+      [tarabuso](/especie/botaurus_stellaris/), [oca selvatica](/especie/anser_anser/) e
+      [pettazzurro](/especie/luscinia_svecica/), oltre a contingenti di alzavole e [pittime
+      reali](/especie/limosa_limosa/).
+
+
+      Nei passi di marzo-aprile e agosto-ottobre l'estuario si fa sosta cruciale per
+      [combattenti](/especie/philomachus_pugnax/) e chiurli. In autunno gli stormi convergono nei bacini EVOA
+      prima di disperdersi nelle risaie mietute.
+
+
+      Tra maggio e giugno giungono i nidificanti africani su isolotti lagunari: pernici di mare, fratini,
+      aironi rossi, volpoche e tarabusini. Nelle paludi circostanti nidificano [fistione
+      turco](/especie/netta_rufina/), [garzetta](/especie/egretta_garzetta/) e [airone
+      rosso](/especie/ardea_purpurea/); nei campi allignano [occhione](/especie/burhinus_oedicnemus/) e
+      calandra. La [gallina prataiola](/especie/tetrax_tetrax/) è stanziale, più abbondante in inverno.
+
+
+      Sempre presenti il [fenicottero](/especie/phoenicopterus_roseus/) da aprile a ottobre pur senza
+      nidificare; il [pollo sultano comune](/especie/porphyrio_porphyrio/) in inverno; e tutto l'anno
+      [mignattaio](/especie/plegadis_falcinellus/), [spatola](/especie/platalea_leucorodia/) e nibbio bianco.
+    visit: >-
+      Il polo di visita è l'EVOA, centro di interpretazione inaugurato nel 2013. Le lagune d'acqua dolce
+      coprono settanta ettari con cinque chilometri di percorsi che collegano quattro capanni e feritoie
+      mimetiche. La Lagoa Principal accoglie la massima varietà di anatre, Lagoa Rasa attrae limicoli, Lagoa
+      Grande ospita dormitori. La struttura offre mostre, bar e noleggio ottiche e biciclette.
+
+
+      Altre mete sono Ponta da Erva e le saline di Samouco ad Alcochete.
+
+
+      Da Lisbona attraversa il ponte Vasco da Gama verso Alcochete seguendo le indicazioni per Companhia das
+      Lezírias ed EVOA.
+    history: >-
+      Il Portogallo ha istituito la riserva con il decreto-legge 565/76 del 19 luglio. Oggi la missione
+      dell'EVOA è conservare l'avifauna dell'estuario e della lezíria, tutelando al contempo gli habitat
+      naturali e agricoli da cui dipende. Il centro collabora con atenei universitari in ricerche sulla
+      dinamica delle popolazioni ornitiche e sulla flora e fauna delle lagune, partecipando a programmi
+      europei.
+    before: >-
+      Munisciti di binocolo, protezione solare, antizanzare e giacca antivento. L'EVOA è a pagamento e aperto
+      tutto l'anno. L'accesso carrabile attraversa le piste sterrate di una tenuta di circa 120 km²
+      richiedendo prudenza al volante. Il culmine dell'alta marea regala i migliori avvistamenti.
+    around: >-
+      Ventisei chilometri a sud sorge la [Riserva naturale dell'estuario del
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/). Per avifauna acquatica il Tago richiama il [Parco
+      Nazionale di Doñana](/lugar/parque-nacional-de-donana/), gli [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), il [Delta
+      dell'Evros](/lugar/ethniko-parko-delta-evrou/) e il [Parco Nazionale di
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/).
+  pt:
+    intro: >-
+      A meia hora de Lisboa, onde o Tejo se alarga antes de beijar o mar, a água e a vasa partilham a paisagem
+      com as aves. É a cabeceira do estuário: uma lâmina somítica, esteiros entalhados por canais de maré,
+      sapais, salinas e lezírias agrícolas. A Reserva Natural do Estuário do Tejo abrange 14.416,14 hectares
+      repartidos por Alcochete, Benavente e Vila Franca de Xira, e no inverno o seu prestígio traduz-se em
+      mais de 120.000 aves aquáticas invernantes nos anos de maior afluência.
+    landscape: >-
+      O estuário do Tejo estende-se por cerca de 80 km até ao Atlântico. Neste troço superior é raso,
+      configurando um delta interior de vastas planícies de maré. O setor médio é o mais largo com cerca de
+      sete metros de profundidade média, enquanto a foz estreita em garganta funda voltada ao oceano.
+
+
+      A reserva situa-se na parte alta e plana: nenhuma cota supera os onze metros de altitude. Este labirinto
+      de águas salobras, lodaçais, sapais, marinhas de sal e lezírias sustenta todo o ecossistema. A vasa
+      entre-marés fervilha de anelídeos, bivalves e crustáceos, albergando viveiros de peixes que alimentam a
+      avifauna.
+    wildlife: >-
+      O calendário é pautado pelas asas. De novembro a fevereiro as lagoas acolhem vagas setentrionais: mais
+      de dez mil patos e cinquenta mil limícolas, acolhendo o [alfaiate](/especie/recurvirostra_avosetta/) até
+      25% de toda a população invernante europeia. Entre as espécies de inverno figuram a [águia
+      pescadora](/especie/pandion_haliaetus/), o [abetouro-comum](/especie/botaurus_stellaris/), o
+      [ganso-comum](/especie/anser_anser/) e o [pisco-de-peito-azul](/especie/luscinia_svecica/), com
+      concentrações de marrequinhas e [milherangos](/especie/limosa_limosa/).
+
+
+      Nas passagens de março-abril e agosto-outubro o estuário acolhe
+      [combatentes](/especie/philomachus_pugnax/) e maçaricos. No outono os bandos fixam-se nas lagoas do
+      EVOA, dispersando depois pelas restolheiras de arroz.
+
+
+      Em maio e junho nidificam perdizes-do-mar, borrelhos-de-coleira-interrompida, garças-vermelhas,
+      patos-brancos e garçotes. Nos pauis limítrofes criam o [pato-de-bico-vermelho](/especie/netta_rufina/),
+      a [garcinha-branca](/especie/egretta_garzetta/) e a [garça-vermelha](/especie/ardea_purpurea/); nos
+      campos de cultivo nidificam o [alcaravão](/especie/burhinus_oedicnemus/) e a calhandra. O
+      [sisão](/especie/tetrax_tetrax/) ocorre todo o ano, mais conspícuo no inverno.
+
+
+      Espécies emblemáticas contam o [flamingo-comum](/especie/phoenicopterus_roseus/), diário de abril a
+      outubro; o [caimão-comum](/especie/porphyrio_porphyrio/) no inverno; e todo o ano o
+      [íbis-preto](/especie/plegadis_falcinellus/), o [colhereiro-europeu](/especie/platalea_leucorodia/) e o
+      bútio-vespeiro ou tartaranhão.
+    visit: >-
+      A porta de entrada é o EVOA, centro de visitação inaugurado em 2013. As suas lagoas cobrem setenta
+      hectares com cinco quilómetros de trilhos, quatro observatórios e três abrigos fotográficos. A Lagoa
+      Principal reúne a maior variedade de patos, a Lagoa Rasa alberga limícolas e a Lagoa Grande acolhe
+      dormitórios. O centro dispõe de exposição, cafetaria e aluguer de binóculos e bicicletas.
+
+
+      Outros pontos incluem a Ponta da Erva e as Salinas do Samouco em Alcochete.
+
+
+      A partir de Lisboa atravessa a Ponte Vasco da Gama rumo a Alcochete e segue a sinalização Companhia das
+      Lezírias e EVOA.
+    history: >-
+      Portugal criou a reserva com o Decreto-Lei 565/76, de 19 de julho. Hoje a missão do EVOA é conservar a
+      avifauna do estuário e da lezíria, protegendo simultaneamente os habitats naturais e agrícolas de que
+      depende. O centro colabora com universidades em investigações sobre a dinâmica das populações de aves e
+      sobre a flora e a fauna das lagoas, integrando projetos europeus.
+    before: >-
+      Leva binóculos, protetor solar, repelente e corta-vento. O EVOA é pago e abre todo o ano. A estrada de
+      acesso na lezíria faz-se por terra batida numa herdade de cerca de 120 km² requerendo condução prudente.
+      O pico da preia-mar proporciona as melhores observações.
+    around: >-
+      Vinte e seis quilómetros a sul estende-se a [Reserva Natural do Estuário do
+      Sado](/lugar/reserva-natural-do-estuario-do-sado/). Nas aves aquáticas o Tejo assemelha-se ao [Parque
+      Nacional de Doñana](/lugar/parque-nacional-de-donana/), aos [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), ao [Delta do
+      Evros](/lugar/ethniko-parko-delta-evrou/) e ao [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/).
+fuentes:
+  - url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2022-200905857
+    titulo: Resolução do Conselho de Ministros n.º 76/2022
+    fecha_consulta: '2026-11-05'
+  - url: https://evoa.pt/experiencias/abrigos/
+    titulo: Abrigos — EVOA
+    fecha_consulta: '2026-11-05'
+  - url: https://evoa.pt/sobre-o-evoa/missao-e-visao/
+    titulo: Missão e Visão — EVOA
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Reserva_Natural_do_Estu%C3%A1rio_do_Tejo
+    titulo: Reserva Natural do Estuário do Tejo — Wikipédia
+    fecha_consulta: '2026-11-05'
+  - url: https://en.wikipedia.org/wiki/Tagus_Estuary_Natural_Reserve
+    titulo: Tagus Estuary Natural Reserve — Wikipedia
+    fecha_consulta: '2026-11-05'
+  - url: https://evoa.pt/experiencias/melhores-temporadas/
+    titulo: Melhores temporadas — EVOA
+    fecha_consulta: '2026-11-05'
+  - url: https://evoa.pt/experiencias/tour-na-leziria-em-busca-dos-flamingos/
+    titulo: 'Tour na Lezíria: Em busca dos flamingos — EVOA'
+    fecha_consulta: '2026-11-05'
+  - url: https://evoa.pt/sobre-o-evoa/projetos/
+    titulo: Projetos — EVOA
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Rede_Natura_2000_-_S%C3%ADtio_do_Estu%C3%A1rio_do_Tejo_07.jpg
+    autor: Joao 1968
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-21'

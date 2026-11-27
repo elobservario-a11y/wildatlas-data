@@ -1,0 +1,607 @@
+id: dummer-wetlands
+estado_editorial: valoracion-revisada
+nombre:
+  es: Humedales del Lago Dümmer
+  en: Dümmer Wetlands
+  fr: Zones humides du lac Dümmer
+  de: Dümmer-Feuchtgebiete
+  it: Zone Umide del Lago Dümmer
+  pt: Zonas Húmidas do Lago Dümmer
+nombre_original: Dümmer Wetlands
+alias:
+  - Dümmer Wetlands
+paises:
+  - DE
+region:
+  es: Baja Sajonia (Lembruch / Hüde)
+  en: Lower Saxony (Lembruch / Hüde)
+  fr: Basse-Saxe (Lembruch / Hüde)
+  de: Niedersachsen (Lembruch / Hüde)
+  it: Bassa Sassonia (Lembruch / Hüde)
+  pt: Baixa Saxónia (Lembruch / Hüde)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 52.52
+  lon: 8.35
+  radio_km: 10
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Dümmer
+  capa: capas/natura2000/dummer-wetlands.geojson
+habitats:
+  - wetland
+  - lake
+designaciones:
+  - natural_park
+  - ramsar
+  - natura2000
+especies:
+  - limosa_limosa
+  - numenius_arquata
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño
+  en: spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 2
+masificacion_nota:
+  es: Media en Lembruch en verano
+  en: Moderate around Lembruch in summer
+  fr: Moyenne à Lembruch en été
+  de: Mäßig in Lembruch während des Sommers
+  it: Media a Lembruch durante i mesi estivi
+  pt: Média em Lembruch durante os meses de verão
+valoracion: 2
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Dümmer Naturpark
+    url: https://www.naturpark-duemmer.de/
+  - titulo: Centro de visitantes — Estación de conservación del Dümmer
+    url: https://www.nlwkn.niedersachsen.de/startseite/naturschutz/naturschutzstationen/duemmer/naturschutz-vor-ort---die-naturschutzstation-duemmer-44504.html
+resumen:
+  es: >-
+    El segundo lago dulceacuícola más grande de Baja Sajonia rodeado de prados húmedos de nidificación de
+    limícolas.
+  en: Lower Saxony’s second-largest freshwater lake surrounded by vast wet meadows vital for breeding waders.
+  fr: >-
+    Le deuxième plus grand lac naturel de Basse-Saxe ceinturé de vastes prairies humides idéales pour la
+    nidification des limicoles.
+  de: >-
+    Niedersachsens zweitgrößter Binnensee, umrahmt von ausgedehnten Feuchtwiesen als Brutrevier bedrohter
+    Wiesenbrüter.
+  it: >-
+    Il secondo lago naturale della Bassa Sassonia cinto da estesi prati allagati per la nidificazione dei
+    limicoli.
+  pt: >-
+    O segundo maior lago natural da Baixa Saxónia cercado por vastos prados húmidos essenciais para a
+    nidificação de aves limícolas.
+unico:
+  es: >-
+    El mayor lugar de descanso e invernada de aves migratorias del interior de Baja Sajonia, rodeado de uno de
+    los mayores prados húmedos del noroeste de Alemania.
+  en: >-
+    The foremost staging and wintering waterbird haven in inland Lower Saxony, framed by one of northwestern
+    Germany’s largest wet meadow expanses.
+  fr: >-
+    Le premier site de repos et d’hivernage d’oiseaux d’eau de l’intérieur de la Basse-Saxe, entouré d’un des
+    plus grands prés humides du nord-ouest allemand.
+  de: >-
+    Bedeutendster Rast- und Überwinterungsplatz für Wasservögel im niedersächsischen Binnenland, umgeben von
+    einem der größten Feuchtgrünländer Nordwestdeutschlands.
+  it: >-
+    Il principale sito d’invernata per l’avifauna acquatica nell’entroterra della Bassa Sassonia, incorniciato
+    da uno dei maggiori prati umidi della Germania.
+  pt: >-
+    O maior refúgio de descanso e invernada de aves aquáticas no interior da Baixa Saxónia, rodeado por uma
+    das maiores pastagens húmidas do noroeste alemão.
+observaciones:
+  es: >-
+    En otoño, ve a las torres de las turberas una hora antes de la puesta de sol para ver cómo llegan las
+    grullas a sus dormideros. La torre del Osterfeiner Moor tiene acceso sin barreras para sillas de ruedas.
+texto:
+  es:
+    intro: >-
+      Un lago de apenas un metro y veinte de profundidad media que, según el año, recibe más de 50.000 patos y
+      gansos árticos. El Dümmer es el segundo lago interior más grande de Baja Sajonia, unos 13 km² de agua
+      somera en el oeste de la llanura del norte de Alemania, entre Lemförde, Damme y Diepholz, atravesado por
+      el río Hunte. Lo rodean turberas bajas, nacidas de la colmatación de un lago mucho mayor desde la última
+      glaciación, y esa mezcla de agua abierta, carrizales y prados húmedos lo convierte en una de las paradas
+      de aves más importantes del interior alemán.
+    landscape: >-
+      El Dümmer se formó hace unos 12.000 años. Hoy se cree que su cubeta la formaron lentes de hielo durante
+      la última glaciación, en un paisaje periglaciar sin glaciares. Desde entonces el lago se ha ido llenando
+      y la turba lo ha ido rodeando, hasta dejar el paisaje de hoy: agua libre, carrizales al sur y al oeste,
+      alisedas pantanosas, prados húmedos, pequeñas aguas y turberas. En las bahías tranquilas flotan
+      nenúfares blancos y amarillos.
+
+
+      La gente llegó pronto. Hace unos 7000 años los nómadas se asentaron en la Dümmerniederung, y el nombre
+      del lago aparece por primera vez en un documento del año 965 como «diummeri». Mucho después, como las
+      crecidas inundaban con regularidad la zona, en los años cuarenta se empezó a encauzar el lago con
+      diques.
+    wildlife: >-
+      **Primavera y verano: cría.** Como espacio Natura 2000, el Dümmer es un tesoro ornitológico. En algunos
+      años crían hasta 25.000 avefrías, cerca de 400 agachadizas comunes y unos 500 somormujos lavancos. Los
+      humedales de turbera baja de la orilla sur son zona de cría de importancia nacional para aves de prados
+      húmedos, carrizales y zonas de colmatación. El fumarel común, muy amenazado en Alemania, tiene aquí su
+      principal lugar de cría de Baja Sajonia, con hasta cien ejemplares. Varias parejas de [águila
+      pescadora](/especie/pandion_haliaetus/) crían alrededor del lago, y desde 2013 una pareja de [pigargo
+      europeo](/especie/haliaeetus_albicilla/) se ha asentado al sur.
+
+
+      **Otoño e invierno: paso y descanso.** Es cuando el Dümmer pesa más. Hay años con más de 50.000 patos
+      raros y gansos árticos en el área, y se han contado grandes concentraciones de silbón europeo (hasta
+      8.500), cerceta común (7.000), cuchara común (3.400), [ánade azulón](/especie/anas_platyrhynchos/)
+      (45.000) y [ánsar común](/especie/anser_anser/) (30.000). A las grullas se las ve en otoño en la
+      Diepholzer Moorniederung: una hora antes de la puesta de sol vuelan a sus dormideros, y desde la torre
+      de la reserva Oppenweher Moor se pueden contemplar las [grullas](/especie/grus_grus/).
+    visit: >-
+      Empieza por la estación de conservación del Dümmer. Su exposición permanente muestra con vitrinas y
+      dioramas la fauna y la flora de una turbera baja, y tiene un modelo funcional de las presas con las que
+      se vuelve a mojar la Dümmerniederung. Junto a ella, el jardín de naturaleza tiene una «araña de sauce»,
+      una construcción hecha con sauces vivos.
+
+
+      De la estación sale el **sendero natural**: un recorrido circular de cuatro kilómetros y medio que cruza
+      la reserva Ochsenmoor y llega a la orilla sur del lago. Trece paneles explican la formación del paisaje,
+      su fauna y flora y la relación cambiante de las personas con el lago. En el camino hay una torre de
+      observación en la reserva. El sendero se inauguró en 2003, con apoyo de la fundación de la lotería de
+      Baja Sajonia.
+
+
+      Las torres de observación están repartidas por el dique y las turberas. Desde la torre sobre el
+      Ochsenmoor y el lago se ven grandes bandadas de gansos silvestres y aves de prado; desde la del
+      Osterfeiner Moor hay una ventana de observación a altura sentada y acceso sin barreras para sillas de
+      ruedas. En total, cinco torres rodean el Dümmer, y los paneles describen la naturaleza cercana y las
+      acciones para conservar la turbera baja. En 2018 se añadió una más, pegada a la orilla, con vistas a la
+      bahía norte, que forma parte de la reserva Dümmer. En cualquier estación se pueden hacer observaciones
+      de naturaleza desde ellas.
+
+
+      La estación forma el «trébol del Dümmer» con el Dümmer Vogelschau, el Dümmer-Museum y el Schäferhof,
+      donde se aprende más de las riquezas naturales del lago. El Naturschutzring Dümmer ofrece con
+      regularidad visitas guiadas naturalistas por la Dümmerniederung.
+    history: >-
+      El encauzamiento tuvo un precio. Al faltar las inundaciones anuales, crecieron algas que quitaron el
+      oxígeno a casi todo lo demás; el lago se llenó de lodo, el agua se enturbió y murieron las plantas
+      subacuáticas, por la agricultura intensiva y la extracción de turba del entorno. El Dümmer sigue
+      sufriendo un fuerte aporte de nutrientes.
+
+
+      La respuesta fue proteger y volver a mojar. La orilla oeste y sur y una franja posterior están en la
+      reserva natural Dümmer desde el 17 de diciembre de 1961. Las áreas al oeste y al sur del lago se
+      volvieron a mojar entre 2002 y 2007, y con ello se creó una de las mayores zonas contiguas de prados
+      húmedos del noroeste de Alemania como hábitat de aves de prado. Las superficies de conservación están
+      arrendadas a más de 100 agricultores locales, y la estación de conservación, creada en 1993, atiende
+      sobre el terreno las áreas protegidas de la Dümmer-Niederung.
+    before: >-
+      En otoño, ve a las torres de las turberas una hora antes de la puesta de sol para ver cómo llegan las
+      grullas a sus dormideros. La torre del Osterfeiner Moor tiene acceso sin barreras para sillas de ruedas.
+    around: >-
+      A dieciséis kilómetros quedan los [Humedales de Diepholz](/lugar/diepholzer-moorniederung/), la turbera
+      que rodea al lago por el este. Lejos de aquí, el [Parque Natural del Lago Salado
+      Rusanda](/lugar/park-prirode-rusanda/) comparte con el Dümmer el zarapito real, y el [Parque Nacional
+      del Mar de Wadden de Baja Sajonia](/lugar/nationalpark-niedersachsisches-wattenmeer/), la aguja
+      colinegra.
+  en:
+    intro: >-
+      A lake with an average depth of just over a metre that, depending on the year, welcomes over 50,000
+      Arctic ducks and geese. Lake Dümmer is Lower Saxony’s second largest inland lake, covering roughly 13
+      km² of shallow water in the western North German Plain between Lemförde, Damme, and Diepholz, crossed by
+      the river Hunte. It is encircled by extensive fenlands, remnants of a far greater prehistoric lake, and
+      this mosaic of open water, reedbeds, and wet meadows forms one of Germany’s prime inland waterbird
+      stopovers.
+    landscape: >-
+      Dümmer formed roughly 12,000 years ago. Geologists believe its shallow basin was sculpted by
+      subterranean ice lenses during the last ice age within a periglacial tundra. Ever since, siltation and
+      fen peat accumulation have reshaped the basin into its present character: open water fringed by reedbeds
+      to the south and west, swampy alder carrs, wet meadows, drainage ditches, and fens. Sheltered bays
+      support floating water-lilies.
+
+
+      Humans settled early. Around 7000 years ago nomadic hunters camp in the Dümmerniederung, and the lake is
+      first documented in 965 under the name «diummeri». Much later, because recurrent flooding inundated
+      farmland, flood control dykes were constructed in the forties to encircle the lake.
+    wildlife: >-
+      **Spring and summer: breeding.** Designated a Natura 2000 European bird sanctuary, Dümmer is an
+      ornithological jewel. In peak years up to 25,000 northern lapwings, nearly 400 common snipes, and around
+      500 great crested grebes breed here. The fen meadows along the southern shore represent a nationally
+      significant nursery for meadow birds, reed dwellers, and wetland species. The black tern, severely
+      endangered in Germany, maintains its Lower Saxon breeding stronghold here with up to one hundred
+      individuals. Several pairs of [osprey](/especie/pandion_haliaetus/) nest around the lake basin, and
+      since 2013 a pair of [white-tailed eagles](/especie/haliaeetus_albicilla/) has settled in the south.
+
+
+      **Autumn and winter: migration and roosting.** This is when Dümmer reaches peak spectacle. Some years
+      bring over 50,000 waterfowl and Arctic geese, with massive counts of Eurasian wigeon (up to 8,500),
+      Eurasian teal (7,000), northern shoveler (3,400), [mallard](/especie/anas_platyrhynchos/) (45,000), and
+      [greylag goose](/especie/anser_anser/) (30,000). Migrating cranes also pause nearby in the Diepholz
+      lowlands: one hour before dusk they fly to their roosts, and the Oppenweher Moor observation tower
+      offers splendid views of [common cranes](/especie/grus_grus/).
+    visit: >-
+      Begin at the Dümmer Conservation Station. Its permanent exhibition features diorama displays of fen
+      fauna and flora, alongside a working scale model of the weirs used to re-wet the Dümmer lowlands.
+      Adjoining it, a sensory garden features a living willow sculpture (willow spider).
+
+
+      A four-and-a-half-kilometre circular **nature trail** starts directly from the station, traversing the
+      Ochsenmoor nature reserve to reach the southern lake shore. Thirteen interpretive boards explain
+      landscape evolution, biodiversity, and changing human interactions. Along the path stands a dedicated
+      observation tower. The trail was inaugurated in 2003 with support from the Lower Saxony Bingo
+      Environmental Foundation.
+
+
+      Several viewing towers encircle the dyke and surrounding fens. The tower overlooking Ochsenmoor and the
+      lake commands flocks of wild geese and meadow birds; the Osterfeiner Moor tower offers seated-level
+      viewing slits and barrier-free wheelchair access. In all, five towers ring Dümmer with panels explaining
+      fen restoration. In 2018 an additional lakeside tower was erected overlooking the protected northern
+      bay. Towers provide outstanding year-round birdwatching.
+
+
+      The station forms the «Dümmer Cloverleaf» together with the Dümmer Vogelschau, Dümmer Museum, and
+      Schäferhof. Regular guided walks are organised by Naturschutzring Dümmer.
+    history: >-
+      Dyking came at high ecological cost. Without natural flushing floods, cyanobacteria bloomed, depleting
+      dissolved oxygen; lake silt accumulated, clarity plummeted, and aquatic macrophyte beds died out due to
+      surrounding agricultural runoff and peat extraction. High nutrient loads remain a chronic challenge.
+
+
+      The remedy was legal protection and extensive re-wetting. The western and southern shores were
+      designated a nature reserve on 17 December 1961. Major sectors were systematically re-wetted between
+      2002 and 2007, forging one of northwestern Germany’s largest contiguous wet meadow networks for
+      grassland birds. Over 100 local farmers lease conservation pastures, and the conservation station,
+      founded in 1993, provides day-to-day stewardship across the basin.
+    before: >-
+      In autumn, head to the bog viewing towers an hour before sunset to watch cranes flying into roost. The
+      Osterfeiner Moor tower features step-free wheelchair access.
+    around: >-
+      Sixteen kilometres away lie the [Diepholz Moor Lowlands](/lugar/diepholzer-moorniederung/), the vast
+      raised bog complex bordering the lake to the east. Further afield, [Lake Rusanda Nature
+      Park](/lugar/park-prirode-rusanda/) shares the Eurasian curlew, and [Lower Saxony Wadden Sea National
+      Park](/lugar/nationalpark-niedersachsisches-wattenmeer/) shares the black-tailed godwit.
+  fr:
+    intro: >-
+      Un lac d’à peine un mètre vingt de profondeur moyenne qui, selon les années, accueille plus de 50 000
+      canards et oies arctiques. Le Dümmer est le deuxième plus grand lac naturel intérieur de Basse-Saxe,
+      étalant environ 13 km² d’eaux peu profondes dans l’ouest de la plaine d’Allemagne du Nord entre
+      Lemförde, Damme et Diepholz, traversé par la rivière Hunte. Il est entouré de bas-marais tourbeux nés du
+      comblement d’un lac glaciaire bien plus vaste, et cette mosaïque d’eaux libres, de roselières et de
+      prairies inondables forme l’une des haltes migratoires les plus renommées d’Allemagne continentale.
+    landscape: >-
+      Le lac Dümmer s’est formé il y a environ 12 000 ans. Sa cuvette résulterait de la fonte de lentilles de
+      glace periglaciaires à la fin de la dernière glaciation. Depuis, l’accumulation de vase et de tourbe a
+      modelé le paysage actuel : une vaste nappe d’eau bordée à l’ouest et au sud de roselières, d’aulnaies
+      marécageuses, de prés humides et de canaux. Les baies calmes portent des tapis de nénuphars blancs et
+      jaunes.
+
+
+      L’homme s’est installé très tôt. Il y a environ 7000 ans, des groupes nomades fréquentaient déjà la
+      Dümmerniederung, et le toponyme apparaît dès 965 sous la forme « diummeri ». Bien plus tard, les
+      inondations récurrentes ont poussé à ceinturer le lac de digues dans les années quarante.
+    wildlife: >-
+      **Printemps et été : reproduction.** Classé en zone Natura 2000, le Dümmer est un sanctuaire
+      d’exception. Certaines années, on y compte jusqu’à 25 000 vanneaux huppés, près de 400 bécassines des
+      marais et environ 500 grèbes huppés. Les bas-marais de la rive sud sont d’importance nationale pour les
+      oiseaux de prairies humides et de roselières. La guifette noire, très menacée en Allemagne, y maintient
+      son principal bastion de Basse-Saxe avec jusqu’à cent individus. Plusieurs couples de [balbuzards
+      pêcheurs](/especie/pandion_haliaetus/) nichent autour du plan d’eau, et depuis 2013 un couple de
+      [pygargues à queue blanche](/especie/haliaeetus_albicilla/) s’est fixé au sud.
+
+
+      **Automne et hiver : passage et halte.** C’est la saison reine sur le lac. Certaines années, plus de 50
+      000 canards et oies sauvages s’y rassemblent : canards siffleurs (jusqu’à 8 500), sarcelles d’hiver (7
+      000), canards souchets (3 400), [canards colverts](/especie/anas_platyrhynchos/) (45 000) et [oies
+      cendrées](/especie/anser_anser/) (30 000). Les grues s’observent à proximité dans les tourbières de
+      Diepholz : une heure avant le coucher du soleil, elles gagnent leurs dortoirs, visibles depuis la tour
+      d’Oppenwehe pour admirer les [grues cendrées](/especie/grus_grus/).
+    visit: >-
+      Commencez par la station de protection de la nature du Dümmer. Son exposition présente la biodiversité
+      des bas-marais avec dioramas et une maquette animée des vannes régulant la remise en eau. Un jardin
+      pédagogique voisin abrite une « araignée de saule » façonnée en osier vivant.
+
+
+      De la station s’élance un **sentier nature** de quatre kilomètres et demi en boucle qui traverse la
+      réserve de l’Ochsenmoor jusqu’au rivage sud. Treize panneaux d’interprétation décrivent la genèse du
+      site, sa flore et l’histoire locale. Une tour d’observation jalonne le parcours. Ce sentier a été
+      inauguré en 2003 avec le concours de la fondation environnementale Bingo de Basse-Saxe.
+
+
+      Plusieurs observatoires ponctuent la digue et les marais. La tour de l’Ochsenmoor domine les
+      rassemblements d’oies ; celle de l’Osterfeiner Moor propose des créneaux d’observation à hauteur assise
+      et une rampe accessible aux fauteuils roulants. Au total, cinq tours ceinturent le Dümmer. En 2018, une
+      tour supplémentaire a été dressée au bord de l’eau face à la baie nord protégée. Elles permettent de
+      belles observations en toute saison.
+
+
+      La station forme le « Trèfle du Dümmer » avec le Dümmer Vogelschau, le Dümmer-Museum et le Schäferhof.
+      Le Naturschutzring organise régulièrement des visites accompagnées.
+    history: >-
+      L’endiguement a eu de lourdes répercussions écologiques. Privé d’inondations naturelles, le lac a vu
+      proliférer des algues asphyxiantes ; la vase s’est accumulée, l’eau s’est troublée et les herbiers
+      aquatiques ont dépéri sous l’effet de l’agriculture intensive et de l’extraction de tourbe. Le Dümmer
+      subit toujours d’importants apports d’engrais.
+
+
+      La parade a été la protection et la remise en eau. Les rives ouest et sud sont classées en réserve
+      naturelle depuis le 17 décembre 1961. De vastes parcelles ont été réhumidifiées entre 2002 et 2007,
+      recréant l’un des plus vastes ensembles de prés humides d’un seul tenant du nord-ouest allemand. Plus de
+      100 agriculteurs locaux gèrent ces surfaces sous contrat environnemental, tandis que la station de
+      protection, créée en 1993, supervise le site.
+    before: >-
+      En automne, rejoignez les tours des marais une heure avant le coucher du soleil pour assister au retour
+      des grues. La tour de l’Osterfeiner Moor est accessible sans barrière architecturale pour les fauteuils
+      roulants.
+    around: >-
+      À seize kilomètres s’étendent les [Bas-marais et tourbières de
+      Diepholz](/lugar/diepholzer-moorniederung/), qui bordent le lac à l’est. Plus loin, le [Parc naturel du
+      lac salé de Rusanda](/lugar/park-prirode-rusanda/) partage le courlis cendré, et le [Parc national de la
+      mer des Wadden de Basse-Saxe](/lugar/nationalpark-niedersachsisches-wattenmeer/) la barge à queue noire.
+  de:
+    intro: >-
+      Ein See von durchschnittlich kaum einem Meter zwanzig Tiefe, der je nach Jahr über 50.000 arktische
+      Enten und Gänse anzieht. Der Dümmer ist Niedersachsens zweitgrößter natürlicher Binnensee, eine rund 13
+      km² große Flachwasserfläche im Westen der Norddeutschen Tiefebene zwischen Lemförde, Damme und Diepholz,
+      durchflossen von der Hunte. Er wird von weiten Niedermooren umgeben, die aus der Verlandung eines
+      urzeitlichen Riesensees hervorgingen; das Mosaik aus freier Wasserfläche, Schilfzonen und Feuchtwiesen
+      macht ihn zu einem der herausragenden Binnenrastplätze für Vögel in Deutschland.
+    landscape: >-
+      Der Dümmer entstand vor etwa 12.000 Jahren. Seine Flachmulde geht vermutlich auf das Auftauen von
+      Grundeislinsen am Ende der letzten Eiszeit in einer periglazialen Tundra zurück. Seither haben Sedimente
+      und Torfbildung das Becken verkleinert und das heutige Bild geprägt: freies Wasser, Röhrichte im Süden
+      und Westen, Erlenbruchwälder, Feuchtwiesen, Gräben und Moorgebiete. In geschützten Buchten gedeihen
+      Weiße und Gelbe Seerosen.
+
+
+      Die Besiedlung begann früh. Vor rund 7000 Jahren lagerten Nomaden in der Dümmerniederung, und im Jahr
+      965 wird der See erstmals urkundlich als «diummeri» erwähnt. Später machten regelmäßige Überschwemmungen
+      den Bauern zu schaffen, woraufhin der See in den vierziger Jahren durch Deiche eingedeicht wurde.
+    wildlife: >-
+      **Frühjahr und Sommer: Brutzeit.** Als europäisches Vogelschutzgebiet im Netz Natura 2000 ist der Dümmer
+      ein Schatz. In Spitzenjahren brüten bis zu 25.000 Kiebitze, rund 400 Bekassinen und etwa 500
+      Haubentaucher. Die Niedermoorwiesen am Südufer sind ein Brutgebiet von nationaler Bedeutung für
+      Wiesenbrüter und Röhrichtvögel. Die bundesweit stark gefährdete Trauerseeschwalbe hat hier mit bis zu
+      einhundert Vögeln ihr wichtigstes niedersächsisches Brutvorkommen. Mehrere Paare des
+      [Fischadlers](/especie/pandion_haliaetus/) brüten rund um den See, und seit 2013 hat sich im Süden ein
+      Brutpaar des [Seeadlers](/especie/haliaeetus_albicilla/) angesiedelt.
+
+
+      **Herbst und Winter: Rast und Zug.** Dann entfaltet der Dümmer seine größte Anziehungskraft. Manchmal
+      rasten über 50.000 Wasservögel und Gänse am See: Pfeifenten (bis zu 8.500), Krickenten (7.000),
+      Löffelenten (3.400), [Stockenten](/especie/anas_platyrhynchos/) (45.000) und
+      [Graugänse](/especie/anser_anser/) (30.000). Kraniche rasten in den angrenzenden Mooren; eine Stunde vor
+      Sonnenuntergang fliegen sie zu ihren Schlafplätzen, vom Turm im Oppenweher Moor aus lassen sich die
+      [Kraniche](/especie/grus_grus/) beobachten.
+    visit: >-
+      Erste Anlaufstelle ist die Naturschutzstation Dümmer. Ihre Ausstellung zeigt Flora und Fauna des
+      Niedermoors in Schaukästen und Dioramen sowie ein Funktionsmodell der Stauanlagen zur Wiedervernässung.
+      Im Außengelände steht eine begehbare Weidenspinne aus lebenden Weidenruten.
+
+
+      An der Station beginnt der viereinhalb Kilometer lange **Naturlehrpfad**, der als Rundweg durch das
+      Naturschutzgebiet Ochsenmoor zum Südufer führt. Dreizehn Informationstafeln erläutern Landschaftsgenese,
+      Pflanzenwelt und den Wandel der menschlichen Nutzung. Unterwegs steht ein hölzerner Beobachtungsturm.
+      Der Lehrpfad wurde 2003 mit Mitteln der Niedersächsischen Bingo-Umweltstiftung eingeweiht.
+
+
+      Mehrere Aussichtstürme säumen den Deich. Der Turm am Ochsenmoor eröffnet weite Blicke auf Gänse- und
+      Wiesenbrüterschwärme; jener im Osterfeiner Moor bietet Beobachtungsschlitze in Sitzhöhe und eine
+      stufenlose Rollstuhlrampe. Insgesamt fünf Türme umgeben den Dümmer. 2018 kam ein weiterer Turm direkt am
+      Ufer mit Blick auf die geschützte Nordbucht hinzu. Sie gestatten ganzjährig erstklassige
+      Naturbeobachtungen.
+
+
+      Die Station bildet mit Dümmer-Vogelschau, Dümmer-Museum und Schäferhof das «Dümmer-Kleeblatt». Der
+      Naturschutzring bietet regelmäßige Exkursionen an.
+    history: >-
+      Die Eindeichung forderte ihren ökologischen Tribut. Ohne jährliche Überflutung mehrten sich Algenblüten
+      und zehrten Sauerstoff auf; Schlamm lagerte sich ab, das Wasser trübte ein und Unterwasserpflanzen
+      starben infolge von Nährstoffeinträgen aus Landwirtschaft und Torfabbau ab. Der Dümmer kämpft bis heute
+      mit hoher Nährstoffbelastung.
+
+
+      Die Wende brachten Naturschutz und Wiedervernässung. West- und Südufer stehen seit dem 17. Dezember 1961
+      unter Naturschutz. Zwischen 2002 und 2007 wurden weite Flächen südlich und westlich des Sees
+      wiedervernässt, wodurch eines der größten zusammenhängenden Feuchtgrünländer Nordwestdeutschlands
+      entstand. Über 100 Landwirte bewirtschaften die Flächen extensiv im Vertragsnaturschutz, betreut von der
+      1993 gegründeten Naturschutzstation.
+    before: >-
+      Finde dich im Herbst eine Stunde vor Sonnenuntergang an den Moortürmen ein, um den Einflug der Kraniche
+      zu erleben. Der Turm im Osterfeiner Moor ist barrierefrei für Rollstuhlfahrende ausgebaut.
+    around: >-
+      In sechzehn Kilometern Entfernung liegt die [Diepholzer
+      Moorniederung](/lugar/diepholzer-moorniederung/), das östlich angrenzende Hochmoorbecken. Weit entfernt
+      teilen der [Naturpark Rusanda-Salzsee](/lugar/park-prirode-rusanda/) den Großen Brachvogel und der
+      [Nationalpark Niedersächsisches Wattenmeer](/lugar/nationalpark-niedersachsisches-wattenmeer/) die
+      Uferschnepfe mit dem Dümmer.
+  it:
+    intro: >-
+      Un lago con una profondità media di appena un metro e venti che, a seconda delle annate, ospita oltre
+      50.000 anatre e oche artiche. Il Dümmer è il secondo specchio lacustre della Bassa Sassonia, con circa
+      13 km² di acque basse nella pianura della Germania nord-occidentale tra Lemförde, Damme e Diepholz,
+      attraversato dal fiume Hunte. È abbracciato da vaste torbiere basse scaturite dall’interramento di un
+      bacino glaciale ben più ampio, e questo mosaico di specchi aperti, canneti e prati umidi ne fa una delle
+      tappe migratorie più preziose dell’interno tedesco.
+    landscape: >-
+      Il Dümmer ha avuto origine circa 12.000 anni fa. Si ritiene che la sua conca sia stata modellata dalla
+      fusione di lenti di ghiaccio sotterraneo durante l’ultima glaciazione in una tundra periglaciale. Da
+      allora l’accumulo di limo e torba ne ha ridotto le dimensioni fino all’assetto attuale: specchio libero
+      orlato da canneti a sud e ovest, ontaneti palustri, prati umidi e canali. Nelle baie riparate fioriscono
+      ninfee bianche e gialle.
+
+
+      La presenza umana fu precoce. Circa 7000 anni fa cacciatori nomadi frequentavano la Dümmerniederung, e
+      nel 965 il toponimo compare per la prima volta come «diummeri». Molto più tardi, a causa delle violente
+      esondazioni che allagavano i campi, negli anni quaranta il lago venne arginato con dighe artificiali.
+    wildlife: >-
+      **Primavera ed estate: riproduzione.** Riconosciuto sito Natura 2000, il Dümmer è un forziere
+      ornitologico. In annate favorevoli vi nidificano fino a 25.000 pavoncelle, circa 400 beccaccini e circa
+      500 svassi maggiori. I prati di torbiera bassa della sponda meridionale hanno valenza nazionale per le
+      specie prative e di canneto. Il mignattino comune, minacciato a livello federale, trova qui la sua
+      colonia più numerosa della Bassa Sassonia con fino a cento individui. Varie coppie di [falco
+      pescatore](/especie/pandion_haliaetus/) nidificano attorno al lago, e dal 2013 una coppia di [aquile di
+      mare](/especie/haliaeetus_albicilla/) si è stabilita nel settore meridionale.
+
+
+      **Autunno e inverno: sosta e svernamento.** È il momento di massimo richiamo. Vi sono inverni con oltre
+      50.000 uccelli acquatici e oche selvatiche: fischioni (fino a 8.500), alzavole (7.000), mestoloni
+      (3.400), [germani reali](/especie/anas_platyrhynchos/) (45.000) e [oche
+      selvatiche](/especie/anser_anser/) (30.000). Le gru transitano nelle torbiere contigue di Diepholz:
+      un’ora prima del tramonto raggiungono i dormitori, osservabili dalla torre di Oppenwehe per ammirare le
+      [gru](/especie/grus_grus/).
+    visit: >-
+      Il punto di partenza è la Stazione di Conservazione del Dümmer. La sua sala espositiva illustra gli
+      ambienti di torbiera con diorami e un modellino delle chiuse usate per gli allagamenti controllati. Nel
+      giardino didattico si trova un «ragno di salice» realizzato con rami viventi.
+
+
+      Dalla stazione prende le mosse un **sentiero natura** ad anello di quattro chilometri e mezzo che tocca
+      la riserva dell’Ochsenmoor fino alla riva sud. Tredici pannelli illustrano geomorfologia, flora e storia
+      delle bonifiche. Lungo il tracciato sorge una torre d’avvistamento. L’itinerario è stato inaugurato nel
+      2003 con il supporto della Fondazione Bingo per l’Ambiente.
+
+
+      Varie torri panoramiche punteggiano l’argine e i pantani. La torre dell’Ochsenmoor domina i branchi di
+      oche selvatiche; quella dell’Osterfeiner Moor dispone di feritoie a quota sedia a rotelle con rampa
+      accessibile. Nel complesso cinque torri circondano il lago. Nel 2018 ne è stata aggiunta una a ridosso
+      dell’acqua affacciata sulla baia nord protetta. Tutte consentono ottime osservazioni durante l’intero
+      arco dell’anno.
+
+
+      La stazione compone il «Quadrifoglio del Dümmer» con il Dümmer Vogelschau, il Museo e lo Schäferhof.
+      L’associazione Naturschutzring organizza regolari escursioni guidate.
+    history: >-
+      L’arginatura comportò pesanti conseguenze ecologiche. Mancando le inondazioni naturali periodiche, le
+      fioriture algali consumarono l’ossigeno; i fondali si riempirono di melma e le piante sommerse
+      scomparvero per l’apporto di fertilizzanti e le estrazioni di torba. Il lago combatte tuttora contro un
+      carico elevato di nutrienti.
+
+
+      La rinascita è giunta con le tutele e i riallagamenti. I settori occidentale e meridionale sono riserva
+      naturale dal 17 dicembre 1961. Grandi estensioni di terreni sono state risommerse tra il 2002 e il 2007,
+      ricreando una delle più vaste superfici continue di prati umidi della Germania nord-occidentale. Oltre
+      100 agricoltori gestiscono i pascoli con contratti agroambientali seguiti dalla stazione istituita nel
+      1993.
+    before: >-
+      In autunno raggiungi le torri delle torbiere un’ora prima del calare del sole per scorgere le gru in
+      volo verso i dormitori. La torre dell’Osterfeiner Moor è priva di barriere per sedie a rotelle.
+    around: >-
+      A sedici chilometri si trovano le [Zone Umide di Diepholz](/lugar/diepholzer-moorniederung/), la grande
+      torbiera che cinge il bacino a est. Più a sud, il [Parco Naturale del Lago Salato di
+      Rusanda](/lugar/park-prirode-rusanda/) ospita il chiurlo maggiore, e il [Parco Nazionale del Mare dei
+      Wadden della Bassa Sassonia](/lugar/nationalpark-niedersachsisches-wattenmeer/) la pittima reale.
+  pt:
+    intro: >-
+      Um lago com uma profundidade média de pouco mais de um metro que, consoante os anos, acolhe mais de
+      50.000 patos e gansos árticos. O Dümmer é o segundo maior lago interior natural da Baixa Saxónia,
+      somando cerca de 13 km² de águas baixas na planície do noroeste alemão entre Lemförde, Damme e Diepholz,
+      drenado pelo rio Hunte. Encontra-se rodeado por turfeiras baixas originadas pelo assoreamento de uma
+      grande bacia pós-glaciar, e este mosaico de águas abertas, caniçais e prados alagadiços constitui um dos
+      portos de abrigo ornitológicos mais relevantes da Alemanha interior.
+    landscape: >-
+      O Dümmer formou-se há cerca de 12.000 anos. Acredita-se que a sua depressão tenha sido esculpida pelo
+      degelo de lentes de gelo subterrâneo durante a última glaciação numa paisagem periglaciar de tundra.
+      Desde então, a sedimentação e a acumulação de turfa moldaram o cenário contemporâneo: um lençol de água
+      límpida debruado a sul e a oeste por caniçais, amiais pantanosos, prados húmidos e valas. Nas enseadas
+      tranquilas flutuam nenúfares brancos e amarelos.
+
+
+      A fixação humana foi precoce. Há cerca de 7000 anos caçadores nómadas acampavam na Dümmerniederung,
+      surgindo o topónimo documentalmente em 965 como «diummeri». Mais tarde, como as cheias submergiam as
+      terras agrícolas, nos anos quarenta o lago foi circunscrito por diques.
+    wildlife: >-
+      **Primavera e verão: reprodução.** Integrado na rede Natura 2000, o Dümmer é um relicário ornitológico.
+      Em anos propícios nidificam aqui até 25.000 abibes-comuns, perto de 400 narcejas-comuns e cerca de 500
+      mergulhões-de-crista. As turfeiras baixas da margem sul constituem uma maternidade de relevância federal
+      para aves de prado e caniçal. A gaivina-preta, seriamente ameaçada na Alemanha, mantém aqui o seu núcleo
+      reprodutor primordial da Baixa Saxónia com até cem aves. Vários casais de [águia
+      pescadora](/especie/pandion_haliaetus/) nidificam em redor da bacia, e desde 2013 um casal de
+      [águias-rabalvas](/especie/haliaeetus_albicilla/) fixou território a sul.
+
+
+      **Outono e inverno: passagem e descanso.** É a época de maior exuberância. Certos anos reúnem mais de
+      50.000 anatídeos e gansos bravos: piadeiras (até 8.500), marrequinhas-comuns (7.000), patos-trombeteiros
+      (3.400), [patos-reais](/especie/anas_platyrhynchos/) (45.000) e [gansos-bravos](/especie/anser_anser/)
+      (30.000). Os grous fazem escala nas turfeiras de Diepholz: uma hora antes do pôr do sol voam para os
+      dormitórios, sendo possível contemplar os [grous-comuns](/especie/grus_grus/) a partir da torre do
+      Oppenweher Moor.
+    visit: >-
+      O périplo principia no Centro de Conservação do Dümmer. A sua exposição exibe a fauna e flora das
+      turfeiras em dioramas e integra uma maqueta funcional das comportas de inundação. No jardim exterior
+      ergue-se uma estrutura viva de vime entrançado.
+
+
+      Do centro parte um **trilho de natureza** circular com quatro quilómetros e meio que atravessa a reserva
+      de Ochsenmoor até ao bordo sul do lago. Treze painéis abordam a evolução geomorfológica, os ecossistemas
+      e a presença humana. No caminho ergue-se uma torre de madeira. O percurso abriu em 2003 com apoio da
+      Fundação Bingo para o Ambiente.
+
+
+      Várias torres de observação distribuem-se pelo dique. A torre de Ochsenmoor descortina bandos de gansos
+      e limícolas; a torre de Osterfeiner Moor possui frestas para observação sentada e rampa para cadeiras de
+      rodas. Ao todo, cinco torres cercam o Dümmer. Em 2018 foi erguida uma torre adicional voltada para a
+      enseada norte protegida. Todas propiciam excelente observação ao longo do ano.
+
+
+      A estação forma o «Trevo do Dümmer» com o Dümmer Vogelschau, o museu e o Schäferhof. O Naturschutzring
+      promove passeios guiados regulares.
+    history: >-
+      A construção dos diques teve custos ecológicos severos. Sem inundações cíclicas de limpeza, proliferaram
+      cianobactérias que asfixiaram o ecossistema; acumulou-se lodo, a água turvou e as plantas subaquáticas
+      pereceram sob a carga de fertilizantes agrícolas e a extração de turfa. O Dümmer ainda lida com elevada
+      eutrofização.
+
+
+      A salvação passou pelo restauro e reumedecimento. As margens oeste e sul foram declaradas reserva
+      natural em 17 de dezembro de 1961. Entre 2002 e 2007 foram alagadas vastas áreas rurais, criando um dos
+      maiores blocos contínuos de prados húmidos do noroeste germânico. Mais de 100 agricultores exploram os
+      pastos em regime agroambiental com apoio da estação criada em 1993.
+    before: >-
+      No outono, chega às torres das turfeiras uma hora antes do crepúsculo para ver os grous a entrar nos
+      dormitórios. A torre do Osterfeiner Moor dispõe de acesso desimpedido para cadeiras de rodas.
+    around: >-
+      A dezasseis quilómetros ficam as [Zonas Húmidas de Diepholz](/lugar/diepholzer-moorniederung/), a vasta
+      bacia de turfeiras a nascente. Mais a sul, o [Parque Natural do Lago Salgado de
+      Rusanda](/lugar/park-prirode-rusanda/) acolhe o maçarico-real, e o [Parque Nacional do Mar de Wadden da
+      Baixa Saxónia](/lugar/nationalpark-niedersachsisches-wattenmeer/) o maçarico-de-bico-direito.
+fuentes:
+  - url: https://www.naturpark-duemmer.de/juwelen-im-naturpark/duemmer-see.html
+    titulo: Dümmer-See – Naturpark Dümmer
+    fecha_consulta: '2026-10-31'
+  - url: https://www.naturpark-duemmer.de/naturpark-duemmer/infrastruktur/naturerlebnispfad.html
+    titulo: Naturerlebnispfad – Naturpark Dümmer
+    fecha_consulta: '2026-10-31'
+  - url: https://www.naturpark-duemmer.de/naturpark-duemmer/infrastruktur/aussichtstuerme.html
+    titulo: Aussichtstürme – Naturpark Dümmer
+    fecha_consulta: '2026-10-31'
+  - url: https://www.naturpark-duemmer.de/infos-und-kontakt/aktuelles/details/NeueInformationstafelnamD%C3%BCmmer.html
+    titulo: Neue Informationstafeln am Dümmer – Naturpark Dümmer
+    fecha_consulta: '2026-10-31'
+  - url: https://de.wikipedia.org/wiki/D%C3%BCmmer
+    titulo: Dümmer – Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://www.naturpark-duemmer.de/
+    titulo: Naturpark Dümmer
+    fecha_consulta: '2026-10-31'
+  - url: https://www.nlwkn.niedersachsen.de/startseite/naturschutz/naturschutzstationen/duemmer/naturschutz-vor-ort---die-naturschutzstation-duemmer-44504.html
+    titulo: Naturschutz vor Ort - Die Naturschutzstation Dümmer | NLWKN
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:D%C3%BCmmer_See-006.jpg
+    autor: Markus Hallmann
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

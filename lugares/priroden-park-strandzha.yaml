@@ -1,0 +1,743 @@
+id: priroden-park-strandzha
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Strandzha
+  en: Strandzha Nature Park
+  fr: Parc naturel de Strandzha
+  de: Naturpark Strandža
+  it: Parco naturale di Strandža
+  pt: Parque Natural de Strandzha
+nombre_original: Природен парк Странджа
+alias:
+  - Strandzha Nature Park
+paises:
+  - BG
+region:
+  es: Burgas (Malko Tarnovo / Sinemorets / Tsarevo)
+  en: Burgas (Malko Tarnovo / Sinemorets / Tsarevo)
+  fr: Bourgas (Malko Tarnovo / Sinemorets / Tsarevo)
+  de: Burgas (Malko Tarnowo / Sinemorez / Zarewo)
+  it: Burgas (Malko Tărnovo / Sinemorec / Carevo)
+  pt: Burgas (Malko Tarnovo / Sinemorets / Tsarevo)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 42.068
+  lon: 27.626
+  radio_km: 19
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 176828
+  nombre_en_la_fuente: Strandzha
+  capa: capas/cdda/priroden-park-strandzha.geojson
+habitats:
+  - mature_forest
+  - coast
+  - river_corridor
+designaciones:
+  - natural_park
+  - iucn_v
+  - natura2000
+especies:
+  - testudo_graeca
+  - testudo_hermanni
+  - lutra_lutra
+  - ciconia_nigra
+  - aquila_pomarina
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: floración del rododendro póntico en mayo
+  en: blooming of the Pontic rhododendron in May
+  fr: floraison du rhododendron pontique en mai
+  de: Blütezeit des Pontischen Rhododendrons im Mai
+  it: fioritura del rododendro pontico a maggio
+  pt: floração do rododendro-pôntico em maio
+masificacion: 1
+masificacion_nota:
+  es: Alta en las playas de Sinemorets en verano
+  en: High on the beaches of Sinemorets in summer
+  fr: Élevée sur les plages de Sinemorets en été
+  de: Hoch an den Stränden von Sinemorez im Sommer
+  it: Alta sulle spiagge di Sinemorec in estate
+  pt: Alta nas praias de Sinemorets no verão
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parque Natural Strandzha
+    url: https://strandja.bg/en/
+  - titulo: Rutas — itinerarios del Parque Natural Strandzha
+    url: https://strandja.bg/en/info/53-turisticheski-marshruti-en
+  - titulo: Normas — comportamiento en Strandzha
+    url: https://strandja.bg/en/info/56-pravila-za-povedenie-v-priroden-park-en
+  - titulo: Centro de visitantes — información del parque
+    url: https://strandja.bg/en/info/44-infocentyr-en
+  - titulo: Mapas — descarga de recorridos GPS
+    url: https://strandja.bg/en/gpsmaps/23-GPS-karti-i-marshruti-en
+enlaces_referencia:
+  - titulo: 'Wikipedia: Strandzha Nature Park'
+    url: https://en.wikipedia.org/wiki/Strandzha_Nature_Park
+resumen:
+  es: >-
+    El mayor espacio protegido de Bulgaria: bosques caducifolios de tipo póntico con sotobosque de rododendro
+    y laurel, únicos en la UE.
+  en: >-
+    The largest protected area in Bulgaria: Pontic-type deciduous forests with an understorey of rhododendron
+    and laurel, unique within the EU.
+  fr: >-
+    Le plus vaste espace protégé de Bulgarie : des forêts caducifoliées de type pontique au sous-bois de
+    rhododendrons et de lauriers, uniques dans l'UE.
+  de: >-
+    Bulgariens größtes Schutzgebiet: pontische Laubwälder mit Rhododendron- und Lorbeer-Unterwuchs,
+    einzigartig in der EU.
+  it: >-
+    La maggiore area protetta della Bulgaria: foreste decidue di tipo pontico con sottobosco di rododendro e
+    alloro, uniche nell'UE.
+  pt: >-
+    A maior área protegida da Bulgária: florestas caducifólias de tipo pôntico com sub-bosque de rododendro e
+    loureiro, únicas na UE.
+unico:
+  es: >-
+    Aquí florece un rododendro que en toda Europa solo crece en Strandzha y en el noroeste de la península
+    ibérica.
+  en: >-
+    Here blooms a rhododendron that across all of Europe grows only in Strandzha and in the northwest of the
+    Iberian Peninsula.
+  fr: >-
+    Ici fleurit un rhododendron qui, dans toute l'Europe, ne pousse qu'à Strandzha et dans le nord-ouest de la
+    péninsule Ibérique.
+  de: >-
+    Hier blüht ein Rhododendron, der in ganz Europa nur in der Strandža und im Nordwesten der Iberischen
+    Halbinsel wächst.
+  it: >-
+    Qui fiorisce un rododendro che in tutta Europa cresce soltanto a Strandža e nel nord-ovest della penisola
+    iberica.
+  pt: >-
+    Aqui floresce um rododendro que em toda a Europa só cresce em Strandzha e no noroeste da Península
+    Ibérica.
+observaciones:
+  es: >-
+    En el itinerario Zvezdets–Brashlyan hay que vadear dos ríos. El acceso a las reservas está restringido a
+    los equipos científicos y a unos pocos senderos definidos. La dirección del parque, con sede en Malko
+    Tarnovo, gestiona la visita.
+texto:
+  es:
+    intro: >-
+      Un bosque donde el invierno rara vez baja de 0 °C y el sotobosque no pierde la hoja. Strandzha ocupa el
+      extremo sureste de Bulgaria, pegado a Turquía y al mar Negro, y con 1 161 km² es el mayor espacio
+      protegido del país. Los bosques cubren el 80 % del parque y el 30 % de ellos es bosque maduro. Son,
+      además, los últimos bosques templados de Europa con sotobosque perenne de laurel, una rareza que se
+      explica por su clima.
+    landscape: >-
+      Strandzha es una montaña de lomas suaves, no de picos: la cota más alta, el pico Gradishte, apenas llega
+      a 710 m, y el parque baja hasta la costa del mar Negro. Su secreto es el clima. La cercanía de tres
+      mares, el mar Negro, el de Mármara y el Egeo, lo dejó libre de la glaciación cuaternaria y le dio un
+      clima suave y relativamente húmedo, y bajo esas condiciones el bosque conservó relictos del Neógeno. Es
+      una de las regiones más cálidas del país: el mar Negro modera las temperaturas, que rara vez bajan de 0
+      °C en invierno ni suben de 24 °C en verano.
+
+
+      El resultado es un mosaico: 130 hábitats distintos, los primeros de Europa entre las áreas protegidas.
+      Hay robledales cálidos con sotobosque de arbustos de hoja perenne, como el brezo arbóreo y el rusco, y
+      hayedos de haya oriental mezclados con roble albar, roble de Strandzha, roble húngaro y carpe. Debajo
+      crecen el rododendro póntico, el arándano del Cáucaso, el laurel cerezo y el acebo del mar Negro. En la
+      costa, Silistar tiene el mayor número de plantas por kilómetro cuadrado de Bulgaria.
+
+
+      El agua dibuja el resto. El Veleka, de 147 km, es el río más largo y mayor de Strandzha; el Rezovo es
+      más rápido y frío, y por eso tiene más truchas. En el oeste, un karst de ponores, cavernas y cuevas se
+      extiende entre Varovnik y Malko Tarnovo. Y la costa guarda su propia historia: hace unos 80 millones de
+      años, en el Cretácico superior, hubo aquí actividad volcánica, y el pico Golyamata Papiya fue un volcán
+      activo.
+    wildlife: >-
+      El parque tiene el mayor número de vertebrados de las áreas protegidas de Bulgaria: 66 mamíferos, 269
+      aves y 24 reptiles. Los mamíferos más comunes son el [corzo](/especie/capreolus_capreolus/), el
+      [ciervo](/especie/cervus_elaphus/), el [jabalí](/especie/sus_scrofa/), el [lobo](/especie/canis_lupus/),
+      el [chacal dorado](/especie/canis_aureus/), el zorro, el tejón y la garduña. El parque protege
+      poblaciones importantes de [nutria](/especie/lutra_lutra/) y de [gato
+      montés](/especie/felis_silvestris/), y la población de nutria del río Veleka es la mejor conservada de
+      Europa. Entre los murciélagos, hay 25 especies, como el [murciélago de
+      Bechstein](/especie/myotis_bechsteinii/).
+
+
+      Strandzha está en la Vía Póntica, la segunda mayor ruta migratoria de aves de Europa, y las bahías de la
+      costa sirven de invernada. Hay poblaciones de importancia mundial de [pico
+      dorsiblanco](/especie/dendrocopos_leucotos/), papamoscas semicollarino, zarcero grande y carbonero
+      sombrío, y de importancia europea de [alimoche](/especie/neophron_percnopterus/), [cigüeña
+      blanca](/especie/ciconia_ciconia/), [cigüeña negra](/especie/ciconia_nigra/) y [búho
+      real](/especie/bubo_bubo/).
+
+
+      Entre los reptiles figuran la culebra de Esculapio, la culebrilla ciega, el sheltopusik (el mayor
+      lagarto de Europa), el gecko de Kotschy, el galápago europeo, la [tortuga
+      mora](/especie/testudo_graeca/) y la [tortuga de Hermann](/especie/testudo_hermanni/). El alburno del
+      mar Negro y el piscardo búlgaro son endemismos que solo viven en las cuencas del Veleka y del Rezovska.
+
+
+      En mayo, mira el sotobosque: es cuando florece la zelenika, el rododendro póntico, y entonces el bosque
+      recuerda al de la antigua Cólquida.
+    visit: >-
+      Hay dos centros de información, en Malko Tarnovo y en Gramatikovo. En Malko Tarnovo, el museo de
+      ciencias naturales usa fotos y juegos para explicar la naturaleza de Strandzha; en Brashlyan hay una
+      colección etnográfica y un punto de información de la dirección del parque.
+
+
+      El itinerario Zvezdets–Brashlyan es una marcha de unas cinco horas por pistas y senderos forestales, con
+      vados de los ríos Katun y Veleka. Tiene una altitud media de 250 m, es relativamente fácil y cuenta con
+      mirador, bancos, rincones de descanso y paneles informativos. Otro «corredor verde» está abierto también
+      a ciclistas, jinetes y personas con movilidad reducida. Si prefieres algo corto, hay un circuito de unas
+      dos horas desde el norte de Kondolovo.
+
+
+      En la costa, entre el sur de Ahtopol y la desembocadura del Veleka hay 15 paneles sobre fenómenos
+      geológicos, y el itinerario geológico Butamyata–Silistar dura unas dos horas.
+    history: >-
+      El parque se creó el 25 de enero de 1995 para proteger los ecosistemas y también el patrimonio cultural
+      y folclórico de la región. Su reserva de Silkosiya, de 1933, es la más antigua de Bulgaria, y
+      Uzunbodzhak es reserva de la biosfera. Hay cinco reservas, y el acceso a ellas se limita a equipos
+      científicos, con unos pocos senderos turísticos estrictamente definidos.
+
+
+      La historia aquí es de fronteras. Tras 1878 la región quedó en el Imperio otomano, lo que llevó al
+      levantamiento de Ilinden-Preobrazhenie de 1903. De ese mundo quedan las casas de madera de Brashlyan,
+      Kosti y Malko Tarnovo y un baile que sobrevive en el pueblo de Balgari: el nestinarstvo, descalzo sobre
+      brasas, que se celebra el 3 y 4 de junio.
+
+
+      La amenaza hoy es el turismo costero descontrolado. En junio de 2007 un tribunal anuló la protección del
+      parque; tras las protestas, el Parlamento aprobó una ley que impide recurrir en los tribunales las áreas
+      protegidas fijadas por el Gobierno. La costa del parque se ha mantenido casi intacta.
+    before: >-
+      En el itinerario Zvezdets–Brashlyan hay que vadear dos ríos. El acceso a las reservas está restringido a
+      los equipos científicos y a unos pocos senderos definidos. La dirección del parque, con sede en Malko
+      Tarnovo, gestiona la visita.
+    around: >-
+      No hay otros lugares del atlas cerca. A mucha distancia, comparten con Strandzha especies y hábitats el
+      [Parque Nacional del Río Salvaje Vjosa](/lugar/vjosa-wild-river-national-park/) (tortuga de Hermann,
+      cigüeña negra y nutria), la [Meseta de Babadag - Reserva de
+      Estepa](/lugar/podisul-babadag---rezervatia-de-stepa/) (tortuga mora y cigüeña negra) y la [Garganta de
+      Kresna - Corredor Biológico del Río Struma](/lugar/kresnensko-defile/) (tortuga de Hermann, nutria y
+      bosque maduro).
+  en:
+    intro: >-
+      A forest where winter temperatures rarely drop below 0 °C and the understorey never sheds its leaves.
+      Strandzha occupies the southeasternmost corner of Bulgaria, bordering Turkey and the Black Sea, and at
+      1,161 km² stands as the country's largest protected area. Forests mantle 80% of the park, with 30%
+      consisting of old-growth stands. They are, moreover, Europe's last temperate forests harboring an
+      evergreen laurel understorey, a biogeographical rarity shaped by its climate.
+    landscape: >-
+      Strandzha is a mountain of gentle rolling hills rather than jagged peaks: the highest point, Mount
+      Gradishte, barely reaches 710 m, and the park descends all the way to the Black Sea coast. Its secret
+      lies in the climate. The proximity of three seas—the Black, Marmara, and Aegean—spared it from
+      Quaternary glaciation and fostered a mild, relatively humid climate under which the woodland preserved
+      Neogene relicts. It is among the warmest areas in Bulgaria: the Black Sea buffers temperatures, which
+      rarely drop below 0 °C in winter or exceed 24 °C in summer.
+
+
+      The outcome is a mosaic: 130 distinct habitats, leading all protected areas in Europe. Warm oak
+      woodlands flourish with an evergreen shrub understorey of tree heath and butcher's-broom, alongside
+      oriental beech woods intermixed with sessile oak, Strandzha oak, Hungarian oak, and hornbeam. Beneath
+      them grow Pontic rhododendron, Caucasian whortleberry, cherry laurel, and Black Sea holly. Along the
+      coast, Silistar boasts the highest plant density per square kilometre in Bulgaria.
+
+
+      Water carves the remaining relief. The Veleka, extending 147 km, is the longest and mightiest river of
+      Strandzha; the Rezovo is swifter and colder, supporting richer trout populations. To the west, a karst
+      terrain of ponors, caverns, and caves stretches between Varovnik and Malko Tarnovo. And the coastline
+      preserves its own ancient history: some 80 million years ago, in the Late Cretaceous, volcanic activity
+      shook this land, and Golyamata Papiya peak stood as an active volcano.
+    wildlife: >-
+      The park harbors the highest vertebrate tally among Bulgaria's protected areas: 66 mammals, 269 birds,
+      and 24 reptiles. The most common mammals are the [roe deer](/especie/capreolus_capreolus/), the [red
+      deer](/especie/cervus_elaphus/), the [wild boar](/especie/sus_scrofa/), the [grey
+      wolf](/especie/canis_lupus/), the [golden jackal](/especie/canis_aureus/), fox, badger, and pine marten.
+      The park protects critical populations of the [Eurasian otter](/especie/lutra_lutra/) and the [European
+      wildcat](/especie/felis_silvestris/), and the otter population along the Veleka River is considered the
+      best preserved in Europe. Among bats, 25 species occur, including [Bechstein's
+      bat](/especie/myotis_bechsteinii/).
+
+
+      Strandzha lies on the Via Pontica, Europe's second-largest bird migration highway, and coastal bays
+      offer vital overwintering havens. It supports globally significant populations of the [white-backed
+      woodpecker](/especie/dendrocopos_leucotos/), semi-collared flycatcher, olive-tree warbler, and sombre
+      tit, alongside European-significant populations of the [Egyptian
+      vulture](/especie/neophron_percnopterus/), [white stork](/especie/ciconia_ciconia/), [black
+      stork](/especie/ciconia_nigra/), and [Eurasian eagle-owl](/especie/bubo_bubo/).
+
+
+      Reptiles include Aesculapian snake, slow worm, sheltopusik (Europe's largest legless lizard), Kotschy's
+      gecko, European pond turtle, the [Moorish tortoise](/especie/testudo_graeca/), and [Hermann's
+      tortoise](/especie/testudo_hermanni/). The Black Sea bleak and Bulgarian minnow are strict endemics
+      restricted to the Veleka and Rezovska basins.
+
+
+      In May, cast your eyes to the undergrowth: this is when the zelenika, the Pontic rhododendron, bursts
+      into bloom, transforming the forest into a living reflection of ancient Colchis.
+    visit: >-
+      There are two visitor centres, in Malko Tarnovo and Gramatikovo. In Malko Tarnovo, the natural history
+      museum uses photography and interactive exhibits to present Strandzha's biodiversity; Brashlyan features
+      an ethnographic collection and an information post of the park directorate.
+
+
+      The Zvezdets–Brashlyan route is a hike of about five hours along forest tracks and footpaths, wading
+      across the Katun and Veleka rivers. Averaging 250 m altitude, it is relatively easy and equipped with
+      viewpoints, benches, resting spots, and interpretive boards. Another 'green corridor' accommodates
+      cyclists, equestrians, and visitors with reduced mobility. If you prefer a shorter walk, a loop of about
+      two hours departs from north of Kondolovo.
+
+
+      Along the coast between south of Ahtopol and the mouth of the Veleka stand 15 panels interpreting
+      geological features, and the Butamyata–Silistar geological trail takes about two hours.
+    history: >-
+      The park was established on 25 January 1995 to protect the ecosystems alongside the region's rich
+      cultural and folklore heritage. Its Silkosiya reserve, founded in 1933, is the oldest nature reserve in
+      Bulgaria, and Uzunbodzhak holds biosphere reserve status. There are five nature reserves, with entry
+      restricted to scientific teams alongside a few strictly delineated interpretive trails.
+
+
+      History here is written by changing frontiers. After 1878 the region remained under Ottoman rule,
+      sparking the Ilinden-Preobrazhenie Uprising of 1903. Relics of that era survive in the timber
+      architecture of Brashlyan, Kosti, and Malko Tarnovo, and in a ritual preserved in the village of
+      Balgari: nestinarstvo, fire-walking on glowing embers, held on 3 and 4 June.
+
+
+      The foremost contemporary threat stems from unchecked coastal mass tourism. In June 2007 a court revoked
+      the park's protected status; following widespread public protests, Parliament enacted legislation
+      prohibiting judicial appeals against protected area boundaries established by the Council of Ministers.
+      The park's coastal strip has consequently remained largely pristine.
+    before: >-
+      On the Zvezdets–Brashlyan itinerary you must wade across two rivers. Access to strict nature reserves is
+      restricted to scientific teams and a few designated tracks. The park directorate, based in Malko
+      Tarnovo, oversees visits.
+    around: >-
+      There are no other atlas sites nearby. At a considerable distance, sharing habitats and species with
+      Strandzha, are [Vjosa Wild River National Park](/lugar/vjosa-wild-river-national-park/) (Hermann's
+      tortoise, black stork, and otter), [Babadag Plateau - Steppe
+      Reserve](/lugar/podisul-babadag---rezervatia-de-stepa/) (Moorish tortoise and black stork), and [Kresna
+      Gorge - Struma River Biological Corridor](/lugar/kresnensko-defile/) (Hermann's tortoise, otter, and
+      old-growth forest).
+  fr:
+    intro: >-
+      Une forêt où l'hiver descend rarement sous 0 °C et dont le sous-bois conserve toujours son feuillage.
+      Strandzha occupe l'extrême sud-est de la Bulgarie, adossé à la Turquie et à la mer Noire, et constitue
+      avec ses 1 161 km² la plus grande aire protégée du pays. Les massifs boisés couvrent 80 % du parc, dont
+      30 % sont des forêts anciennes. Ce sont en outre les dernières forêts tempérées d'Europe dotées d'un
+      sous-bois sempervirent de lauriers, une singularité née de son climat.
+    landscape: >-
+      Strandzha est une montagne de croupes douces et non d'aiguilles : son sommet le plus haut, le pic
+      Gradishte, culmine à peine à 710 m, et le parc descend jusqu'aux rivages de la mer Noire. Tout son
+      secret réside dans son climat. La proximité de trois mers — Noire, Marmara et Égée — l'a préservée des
+      glaciations quaternaires en lui conférant un climat doux et relativement humide, sous lequel la forêt a
+      gardé des relictes du Néogène. C'est l'une des régions les plus tièdes du pays : la mer Noire tempère
+      les écarts, avec des températures qui descendent rarement sous 0 °C en hiver et dépassent peu 24 °C en
+      été.
+
+
+      Le résultat forme une mosaïque : 130 habitats distincts, au premier rang des espaces protégés d'Europe.
+      On y rencontre des chênaies thermophiles au sous-bois d'arbustes sempervirents, comme la bruyère
+      arborescente et le fragon faux houx, et des hêtraies d'Orient mêlées de chêne sessile, de chêne de
+      Strandzha, de chêne chevelu et de charme. Dessous s'épanouissent le rhododendron pontique, la myrtille
+      du Caucase, le laurier-cerise et le houx de la mer Noire. Sur le littoral, Silistar abrite la plus forte
+      concentration végétale au kilomètre carré de Bulgarie.
+
+
+      L'eau parachève le tableau. La Veleka, longue de 147 km, est la rivière maîtresse de Strandzha ; la
+      Rezovo est plus rapide et plus froide, donc plus poissonneuse en truites. À l'ouest, un karst
+      d'engouffroirs et de grottes s'étire entre Varovnik et Malko Tarnovo. Et le littoral recèle sa propre
+      histoire : il y a environ 80 millions d'années, au Crétacé supérieur, un volcanisme intense régnait ici,
+      et le mont Golyamata Papiya était un volcan en éruption.
+    wildlife: >-
+      Le parc concentre le plus grand nombre de vertébrés des zones protégées de Bulgarie : 66 mammifères, 269
+      oiseaux et 24 reptiles. Parmi les mammifères les plus communs figurent le
+      [chevreuil](/especie/capreolus_capreolus/), le [cerf élaphe](/especie/cervus_elaphus/), le
+      [sanglier](/especie/sus_scrofa/), le [loup](/especie/canis_lupus/), le [chacal
+      doré](/especie/canis_aureus/), le renard, le blaireau et la fouine. Le parc protège des populations
+      majeures de [loutre d'Europe](/especie/lutra_lutra/) et de [chat sauvage](/especie/felis_silvestris/),
+      celle de la Veleka passant pour la mieux conservée d'Europe. Côté chiroptères, on dénombre 25 espèces,
+      tel le [murin de Bechstein](/especie/myotis_bechsteinii/).
+
+
+      Strandzha se situe sur la Via Pontica, la deuxième voie migratoire aviaire d'Europe, et les anses
+      marines servent d'hivernage. On y observe des effectifs d'importance planétaire de [pic à dos
+      blanc](/especie/dendrocopos_leucotos/), gobe-mouche à demi-collier, hypolaïs des oliviers et mésange
+      lugubre, ainsi que des effectifs d'importance européenne de
+      [percnoptère](/especie/neophron_percnopterus/), [cigogne blanche](/especie/ciconia_ciconia/), [cigogne
+      noire](/especie/ciconia_nigra/) et [hibou grand-duc](/especie/bubo_bubo/).
+
+
+      Les reptiles comptent la couleuvre d'Esculape, l'orvet, l'orvet des Balkans (le plus grand lézard apode
+      d'Europe), le gecko de Kotschy, la cistude, la [tortue mauresque](/especie/testudo_graeca/) et la
+      [tortue d'Hermann](/especie/testudo_hermanni/). L'ablette du Sud et le vairon bulgare sont des
+      endémiques exclusifs des bassins de la Veleka et de la Rezovska.
+
+
+      En mai, observez le sous-bois : c'est l'époque où s'ouvre la zelenika, le rhododendron pontique, et la
+      forêt semble alors renaître de l'antique Colchide.
+    visit: >-
+      On trouve deux centres d'accueil, à Malko Tarnovo et à Gramatikovo. À Malko Tarnovo, le musée d'histoire
+      naturelle présente la richesse de Strandzha au moyen de photographies et d'ateliers interactifs ; à
+      Brashlyan se trouvent une collection ethnographique et un relais d'information de la direction du parc.
+
+
+      L'itinéraire Zvezdets–Brashlyan propose une marche d'environ cinq heures sur pistes et sentiers
+      forestiers, franchissant à gué les rivières Katun et Veleka. À une altitude moyenne de 250 m, il s'avère
+      relativement aisé et pourvu de belvédères, de bancs, d'aires de repos et de pupitres didactiques. Un
+      autre « corridor vert » est aménagé pour les cyclistes, les cavaliers et les personnes à mobilité
+      réduite. Si vous préférez une boucle courte, un circuit d'environ deux heures s'élance au nord de
+      Kondolovo.
+
+
+      Sur le littoral, entre le sud d'Ahtopol et l'estuaire de la Veleka, 15 panneaux décryptent les
+      curiosités géologiques, et le sentier géologique Butamyata–Silistar nécessite environ deux heures.
+    history: >-
+      Le parc a été créé le 25 janvier 1995 pour préserver les écosystèmes ainsi que le patrimoine culturel et
+      folklorique de la contrée. Sa réserve de Silkosiya, décrétée en 1933, est la plus ancienne de Bulgarie,
+      et Uzunbodzhak bénéficie du statut de réserve de biosphère. Le territoire compte cinq réserves
+      intégrales, dont l'accès est réservé aux missions scientifiques en dehors de quelques sentiers de
+      découverte strictement balisés.
+
+
+      L'histoire locale est une affaire de frontières. Après 1878, la région demeura sous administration
+      ottomane, ce qui provoqua l'insurrection d'Ilinden-Préobrajénié en 1903. De cette époque témoignent les
+      demeures de bois de Brashlyan, Kosti et Malko Tarnovo, ainsi qu'une tradition perpétuée dans le village
+      de Balgari : le nestinarstvo, rituel de marche pieds nus sur la braise célébré les 3 et 4 juin.
+
+
+      La menace majeure actuelle découle du tourisme balnéaire incontrôlé. En juin 2007, un tribunal révoqua
+      la protection du parc ; face aux manifestations citoyennes, le Parlement vota une loi interdisant tout
+      recours judiciaire contre les périmètres protégés arrêtés par le gouvernement. Le littoral du parc a
+      ainsi pu demeurer presque intact.
+    before: >-
+      Sur le parcours Zvezdets–Brashlyan, vous devez traverser deux cours d'eau à gué. L'accès aux réserves
+      naturelles est réservé aux chercheurs et à de rares sentiers balisés. La direction du parc, installée à
+      Malko Tarnovo, gère l'accueil.
+    around: >-
+      Il n'y a pas d'autres sites de l'atlas à proximité. Bien plus loin, partagent avec Strandzha des espèces
+      et milieux le [Parc national du fleuve sauvage Vjosa](/lugar/vjosa-wild-river-national-park/) (tortue
+      d'Hermann, cigogne noire et loutre), le [Plateau de Babadag - Réserve de
+      steppe](/lugar/podisul-babadag---rezervatia-de-stepa/) (tortue mauresque et cigogne noire) et la [Gorge
+      de Kresna - Corridor biologique du fleuve Strouma](/lugar/kresnensko-defile/) (tortue d'Hermann, loutre
+      et forêt ancienne).
+  de:
+    intro: >-
+      Ein Wald, in dem die Wintertemperaturen selten unter 0 °C sinken und das Unterholz sein Laub nie
+      abwirft. Das Strandža-Gebirge liegt im äußersten Südosten Bulgariens an der Grenze zur Türkei und zum
+      Schwarzen Meer und ist mit 1.161 km² das größte Schutzgebiet des Landes. Wälder bedecken 80 % des Parks,
+      wobei 30 % davon auf Altwälder entfallen. Es sind die letzten gemäßigten Wälder Europas mit immergrünem
+      Lorbeer-Unterwuchs – eine Besonderheit, die dem milden Klima geschuldet ist.
+    landscape: >-
+      Das Strandža-Gebirge ist ein sanftes Hügelland ohne schroffe Zinken: Der höchste Punkt, der Gipfel
+      Gradishte, erreicht kaum 710 m, und der Park reicht bis an die Schwarzmeerküste hinab. Sein Geheimnis
+      ist das Klima. Die Nähe dreier Meere – Schwarzes Meer, Marmarameer und Ägäis – bewahrte es vor der
+      quartären Vergletscherung und schenkte ihm ein mildes, feuchtes Klima, unter dem der Wald Neogen-Relikte
+      bewahren konnte. Es ist eine der wärmsten Gegenden des Landes: Das Schwarze Meer mildert die
+      Temperaturen, die im Winter selten unter 0 °C fallen und im Sommer kaum 24 °C übersteigen.
+
+
+      Das Ergebnis ist ein Mosaik: 130 verschiedene Lebensräume, Spitzenwert unter den europäischen
+      Schutzgebieten. Es gibt wärmeliebende Eichenwälder mit immergrünem Strauchunterwuchs wie Baumheide und
+      Stechendem Mäusedorn sowie Orient-Buchenwälder, durchsetzt mit Traubeneiche, Strandža-Eiche, Ungarischer
+      Eiche und Hainbuche. Darunter wachsen Pontischer Rhododendron, Kaukasus-Heidelbeere, Kirschlorbeer und
+      Schwarzmeer-Stechpalme. An der Küste weist Silistar die höchste Pflanzendichte pro Quadratkilometer in
+      ganz Bulgarien auf.
+
+
+      Das Wasser gestaltet den Rest. Die Veleka ist mit 147 km der längste und wasserreichste Fluss der
+      Strandža; die Resowo fließt rascher und kühler und beherbergt daher mehr Forellen. Im Westen erstreckt
+      sich zwischen Warownik und Malko Tarnowo eine Karstlandschaft voller Ponore und Höhlen. Und die Küste
+      birgt ihre eigene Urgeschichte: Vor rund 80 Millionen Jahren, in der Oberkreide, herrschte hier
+      Vulkanismus, und der Gipfel Goljamata Papija war ein aktiver Vulkan.
+    wildlife: >-
+      Der Park weist den höchsten Wirbeltierreichtum aller bulgarischen Schutzgebiete auf: 66 Säugetiere, 269
+      Vogelarten und 24 Reptilien. Zu den häufigsten Säugetieren gehören [Reh](/especie/capreolus_capreolus/),
+      [Rothirsch](/especie/cervus_elaphus/), [Wildschwein](/especie/sus_scrofa/),
+      [Wolf](/especie/canis_lupus/), [Goldschakal](/especie/canis_aureus/), Fuchs, Dachs und Steinmarder. Der
+      Park bewahrt vitale Vorkommen von [Eurasischer Fischotter](/especie/lutra_lutra/) und
+      [Wildkatze](/especie/felis_silvestris/); die Fischotterpopulation der Veleka gilt als die bestplatzierte
+      Europas. Unter den Fledermäusen gibt es 25 Arten, etwa die
+      [Bechsteinfledermaus](/especie/myotis_bechsteinii/).
+
+
+      Das Strandža-Gebirge liegt auf der Via Pontica, der zweitgrößten Vogelzugroute Europas, und seine
+      Meeresbuchten bieten Überwinterungsplätze. Es beherbergt weltbedeutende Populationen von
+      [Weißrückenspecht](/especie/dendrocopos_leucotos/), Halbringschnäpper, Olivenspötter und Trauermeise
+      sowie europäisch bedeutsame Bestände von [Schmutzgeier](/especie/neophron_percnopterus/),
+      [Weißstorch](/especie/ciconia_ciconia/), [Schwarzstorch](/especie/ciconia_nigra/) und
+      [Uhu](/especie/bubo_bubo/).
+
+
+      Unter den Reptilien finden sich Äskulapnatter, Blindschleiche, Scheltopusik (Europas größte beinlose
+      Echse), Kotschys Gecko, Europäische Sumpfschildkröte, [Maurische
+      Landschildkröte](/especie/testudo_graeca/) und [Griechische
+      Landschildkröte](/especie/testudo_hermanni/). Schwarzmeer-Ukelei und Bulgarische Elritze sind Endemiten
+      der Flusstäler von Veleka und Resowska.
+
+
+      Im Mai lohnt der Blick ins Unterholz: Dann blüht die Zelenika, der Pontische Rhododendron, und der Wald
+      erinnert an die urzeitliche Landschaft Kolchis.
+    visit: >-
+      Es gibt zwei Informationszentren, in Malko Tarnowo und in Gramatikowo. In Malko Tarnowo veranschaulicht
+      das Naturkundemuseum die Tier- und Pflanzenwelt der Strandža anhand von Bildern und interaktiven
+      Modulen; in Brashlyan finden sich eine ethnografische Sammlung und eine Außenstelle der Parkverwaltung.
+
+
+      Die Route Swesdez–Brashlyan ist eine Wanderung von etwa fünf Stunden auf Forstwegen und Pfaden,
+      inklusive Durchquerung der Flüsse Katun und Veleka. Auf durchschnittlich 250 m Seehöhe verläuft sie
+      vergleichsweise einfach und bietet Aussichtspunkte, Rastbänke und Infotafeln. Ein weiterer «grüner
+      Korridor» steht auch Radfahrern, Reitern und Gehbehinderten offen. Wer einen kürzeren Spaziergang sucht,
+      wählt eine rund zweistündige Rundtour nördlich von Kondolowo.
+
+
+      An der Küste zwischen dem Süden von Achtopol und der Veleka-Mündung erläutern 15 Schautafeln geologische
+      Erscheinungen, und der Geopfad Butamyata–Silistar beansprucht etwa zwei Stunden.
+    history: >-
+      Der Naturpark wurde am 25. Januar 1995 ins Leben gerufen, um die Ökosysteme sowie das reiche Kultur- und
+      Brauchtumserbe der Region zu bewahren. Das Reservat Silkosiya von 1933 ist das älteste Bulgariens, und
+      Usunbodscha ist Biosphärenreservat. Es gibt fünf strenge Reservate, deren Betreten wissenschaftlichen
+      Teams vorbehalten ist, abgesehen von wenigen genau festgelegten Lehrpfaden.
+
+
+      Die Geschichte ist eine von Grenzen. Nach 1878 verblieb die Region im Osmanischen Reich, was 1903 zum
+      Ilinden-Preobraschenie-Aufstand führte. Aus jener Zeit stammen die Holzhäuser von Brashlyan, Kosti und
+      Malko Tarnowo sowie ein Brauch im Dorf Balgari: das Nestinarstwo, der rituelle Tanz barfuß über glühende
+      Kohlen am 3. und 4. Juni.
+
+
+      Die größte Bedrohung geht heute vom unkontrollierten Küstentourismus aus. Im Juni 2007 hob ein Gericht
+      den Schutzstatus des Parks auf; nach massiven Protesten erließ das Parlament ein Gesetz, das
+      gerichtliche Anfechtungen von Regierungsausweisungen von Schutzgebieten ausschließt. So blieb der
+      Küstenstreifen des Parks weitgehend unberührt.
+    before: >-
+      Auf der Route Swesdez–Brashlyan musst du zwei Flüsse durchfurten. Der Zutritt zu den Reservaten bleibt
+      Forschern und wenigen festgelegten Pfaden vorbehalten. Die Parkverwaltung in Malko Tarnowo regelt den
+      Besucherverkehr.
+    around: >-
+      In der näheren Umgebung gibt es keine weiteren Atlas-Orte. In weiter Ferne teilen Arten und Lebensräume
+      mit der Strandža der [Wildfluss-Nationalpark Vjosa](/lugar/vjosa-wild-river-national-park/) (Griechische
+      Landschildkröte, Schwarzstorch und Fischotter), die [Babadag-Hochebene –
+      Steppenreservat](/lugar/podisul-babadag---rezervatia-de-stepa/) (Maurische Landschildkröte und
+      Schwarzstorch) und die [Kresna-Schlucht – Biokorridor Struma-Fluss](/lugar/kresnensko-defile/)
+      (Griechische Landschildkröte, Fischotter und Altwald).
+  it:
+    intro: >-
+      Una foresta in cui l'inverno scende raramente sotto 0 °C e il sottobosco non perde mai le foglie.
+      Strandža occupa l'estremo sud-est della Bulgaria, addossata alla Turchia e al Mar Nero, e con i suoi
+      1.161 km² costituisce la più vasta area protetta del paese. I boschi ammantano l'80% del parco e il 30%
+      di essi è foresta matura. Sono peraltro le ultime foreste temperate d'Europa con sottobosco sempreverde
+      di alloro, una singolarità che trova spiegazione nel suo clima.
+    landscape: >-
+      Strandža è una montagna di dossi morbidi, non di picchi rocciosi: la cima più elevata, il monte
+      Gradishte, tocca appena 710 m, e il parco digrada fino alla costa del Mar Nero. Il suo segreto risiede
+      nel clima. La prossimità di tre mari — Mar Nero, Mar di Marmara ed Egeo — la risparmiò dalle glaciazioni
+      quaternarie regalandole un clima mite e umido, grazie al quale la foresta ha conservato relitti del
+      Neogene. È una delle regioni più miti della Bulgaria: il Mar Nero stempera le temperature, che raramente
+      scendono sotto 0 °C d'inverno o superano i 24 °C d'estate.
+
+
+      Ne scaturisce un mosaico: 130 habitat distinti, al primo posto in Europa tra le aree protette. Vi
+      crescono querceti termofili con sottobosco arbustivo sempreverde, come erica arborea e pungitopo, e
+      faggete di faggio orientale commiste a rovere, quercia di Strandža, farnetto e carpino. Al di sotto
+      allignano rododendro pontico, mirtillo caucasico, lauroceraso e agrifoglio del Mar Nero. Lungo la costa,
+      Silistar vanta la massima concentrazione floristica per chilometro quadrato della Bulgaria.
+
+
+      L'acqua modella il resto. La Veleka, con i suoi 147 km, è il corso d'acqua più lungo e maestoso di
+      Strandža; il Rezovo è più celere e freddo, e per questo ricco di trote. A occidente un carso di
+      inghiottitoi e cavità si sviluppa tra Varovnik e Malko Tărnovo. E la costa serba una memoria remota:
+      circa 80 milioni di anni fa, nel Cretaceo superiore, vi fu intensa attività vulcanica e la cima
+      Golyamata Papiya fu un vulcano attivo.
+    wildlife: >-
+      Il parco accoglie il più alto numero di vertebrati tra le aree protette della Bulgaria: 66 mammiferi,
+      269 uccelli e 24 rettili. I mammiferi più frequenti sono il [capriolo](/especie/capreolus_capreolus/),
+      il [cervo nobile](/especie/cervus_elaphus/), il [cinghiale](/especie/sus_scrofa/), il [lupo
+      grigio](/especie/canis_lupus/), lo [sciacallo dorato](/especie/canis_aureus/), la volpe, il tasso e la
+      faina. Il parco tutela consistenti popolazioni di [lontra europea](/especie/lutra_lutra/) e di [gatto
+      selvatico](/especie/felis_silvestris/); la popolazione di lontra del fiume Veleka è considerata la
+      meglio conservata d'Europa. Tra i chirotteri si annoverano 25 specie, come il [vespertilio di
+      Bechstein](/especie/myotis_bechsteinii/).
+
+
+      Strandža si trova lungo la Via Pontica, la seconda direttrice migratoria d'Europa, e le insenature
+      costiere offrono rifugi di svernamento. Ospita popolazioni di rilievo mondiale di [picchio
+      dorsobianco](/especie/dendrocopos_leucotos/), pigliamosche mezzocollare, canapino levantino e cincia
+      dalmatina, e di rilievo continentale di [capovaccaio](/especie/neophron_percnopterus/), [cicogna
+      bianca](/especie/ciconia_ciconia/), [cicogna nera](/especie/ciconia_nigra/) e [gufo
+      reale](/especie/bubo_bubo/).
+
+
+      Tra i rettili figurano il colubro di Esculapio, l'orbettino, lo pseudopo (la lucertola apoda più grande
+      d'Europa), il geco di Kotschy, la testuggine palustre europea, la [testuggine
+      greca](/especie/testudo_graeca/) e la [testuggine di Hermann](/especie/testudo_hermanni/). L'alborella
+      del Mar Nero e la sanguinerola bulgara sono endemismi esclusivi dei bacini della Veleka e della
+      Rezovska.
+
+
+      A maggio volgi lo sguardo al sottobosco: è allora che fiorisce la zelenika, il rododendro pontico, e la
+      foresta richiama le atmosfere dell'antica Colchide.
+    visit: >-
+      Vi sono due centri visita, a Malko Tărnovo e a Gramatikovo. A Malko Tărnovo il museo di scienze naturali
+      illustra la natura di Strandža attraverso mostre fotografiche e percorsi didattici; a Brashlyan si
+      trovano una raccolta etnografica e un punto informativo dell'ente parco.
+
+
+      L'itinerario Zvezdets–Brashlyan si compie in circa cinque ore di cammino lungo piste e carrarecce
+      forestali, con guadi sui fiumi Katun e Veleka. Si sviluppa a una quota media di 250 m, risulta
+      relativamente agevole ed è fornito di punti panoramici, panchine, aree di sosta e pannelli didattici. Un
+      altro «corridoio verde» è fruibile anche da ciclisti, cavalieri e persone a mobilità ridotta. Chi cerca
+      una camminata più breve può percorrere un anello di circa due ore a nord di Kondolovo.
+
+
+      Lungo la costa, tra il sud di Ahtopol e la foce della Veleka, 15 pannelli illustrano i fenomeni
+      geologici, mentre il sentiero geologico Butamyata–Silistar richiede circa due ore.
+    history: >-
+      Il parco fu istituito il 25 gennaio 1995 per proteggere gli ecosistemi e il prezioso patrimonio
+      culturale e folcloristico locale. La riserva di Silkosiya, datata 1933, è la più antica della Bulgaria,
+      e Uzunbodzhak è riserva della biosfera. Vi sono cinque riserve integrali, il cui accesso è consentito
+      esclusivamente a ricercatori scientifici, fatti salvi pochissimi sentieri autorizzati.
+
+
+      La storia locale è scandita dai confini. Dopo il 1878 la zona rimase sotto sovranità ottomana,
+      innescando la rivolta di Ilinden-Preobrazhenie del 1903. Di quel mondo restano le dimore in legno di
+      Brashlyan, Kosti e Malko Tărnovo e un rito tramandato nel borgo di Balgari: il nestinarstvo, la
+      camminata a piedi nudi sulle braci ardenti che ricorre il 3 e 4 giugno.
+
+
+      La minaccia principale è rappresentata dal turismo balneare sregolato. Nel giugno 2007 una corte revocò
+      la protezione dell'area; in risposta a vaste manifestazioni popolari, il Parlamento approvò una norma
+      che sottrae ai ricorsi giudiziari i confini delle aree protette decretati dall'esecutivo. La costa del
+      parco si è così mantenuta quasi intatta.
+    before: >-
+      Lungo l'itinerario Zvezdets–Brashlyan devi guadare due fiumi. L'accesso alle riserve è ristretto alle
+      delegazioni scientifiche e a pochissimi tracciati autorizzati. La direzione del parco, avente sede a
+      Malko Tărnovo, sovrintende alla fruizione.
+    around: >-
+      Non ci sono altri luoghi dell'atlante nelle vicinanze. A grande distanza condividono con Strandža specie
+      e ambienti il [Parco nazionale del fiume selvaggio Vjosa](/lugar/vjosa-wild-river-national-park/)
+      (testuggine di Hermann, cicogna nera e lontra), l'[Altopiano di Babadag - Riserva di
+      steppa](/lugar/podisul-babadag---rezervatia-de-stepa/) (testuggine greca e cicogna nera) e la [Gola di
+      Kresna - Corridoio biologico del fiume Struma](/lugar/kresnensko-defile/) (testuggine di Hermann, lontra
+      e foresta matura).
+  pt:
+    intro: >-
+      Uma floresta onde o inverno raramente desce abaixo de 0 °C e o sub-bosque nunca perde a folha. Strandzha
+      ocupa o extremo sudeste da Bulgária, encostado à Turquia e ao mar Negro, e com 1.161 km² é a maior área
+      protegida do país. As matas cobrem 80% do parque e 30% delas correspondem a floresta madura. São ainda
+      as últimas florestas temperadas da Europa com sub-bosque perene de loureiro, uma singularidade
+      decorrente do seu clima.
+    landscape: >-
+      Strandzha é uma serra de relevos suaves e não de picos aguçados: a cota mais alta, o pico Gradishte,
+      atinge apenas 710 m, e o parque desce até à costa do mar Negro. O seu segredo reside no clima. A
+      proximidade de três mares — o mar Negro, o de Mármara e o Egeu — livrou o maciço da glaciação
+      quaternária e conferiu-lhe um clima temperado e húmido, propício à conservação de relíquias do Neógeno
+      na floresta. É uma das regiões mais cálidas da Bulgária: o mar Negro suaviza as temperaturas, que
+      raramente descem abaixo de 0 °C no inverno nem sobem acima de 24 °C no verão.
+
+
+      O resultado traduz-se num mosaico: 130 habitats distintos, liderando as áreas protegidas da Europa.
+      Existem carvalhais termófilos com sub-bosque de arbustos de folha perene, como o urze-molar e o
+      gilbardeira, e faiais de faia-oriental misturados com carvalho-negral, carvalho-de-strandzha,
+      carvalho-da-hungria e carpa. Por baixo vicejam o rododendro-pôntico, o mirtilo-do-cáucaso, o
+      louro-cerejo e o azevinho-do-mar-negro. No litoral, Silistar apresenta a maior densidade botânica por
+      quilómetro quadrado da Bulgária.
+
+
+      A água desenha os restantes contornos. O Veleka, com 147 km, é o rio mais longo e volumoso de Strandzha;
+      o Rezovo é mais rápido e frio, albergando por isso mais trutas. A oeste, um relevo cárstico de
+      sumidouros e cavernas estende-se entre Varovnik e Malko Tarnovo. E a orla costeira guarda a sua própria
+      crónica: há cerca de 80 milhões de anos, no Cretácico Superior, ocorreu intensa atividade vulcânica e o
+      pico Golyamata Papiya foi um vulcão ativo.
+    wildlife: >-
+      O parque acolhe o maior número de vertebrados das áreas protegidas da Bulgária: 66 mamíferos, 269 aves e
+      24 répteis. Os mamíferos mais comuns são a [corça](/especie/capreolus_capreolus/), o
+      [veado-vermelho](/especie/cervus_elaphus/), o [javali](/especie/sus_scrofa/), o
+      [lobo-cinzento](/especie/canis_lupus/), o [chacal-dourado](/especie/canis_aureus/), a raposa, o texugo e
+      a fuinha. O parque salvaguarda núcleos vitais de [lontra-europeia](/especie/lutra_lutra/) e de
+      [gato-bravo](/especie/felis_silvestris/), sendo a colónia de lontras do rio Veleka a mais bem preservada
+      da Europa. Entre os morcegos há 25 espécies, como o
+      [morcego-de-bechstein](/especie/myotis_bechsteinii/).
+
+
+      Strandzha integra a Via Pôntica, a segunda maior autoestrada migratória de aves da Europa, e as enseadas
+      do litoral servem de invernada. Registam-se populações de escala global de
+      [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/), papa-moscas-de-meio-colar,
+      felosa-das-oliveiras e chapim-sombrio, além de números de relevância europeia de
+      [abutre-do-egito](/especie/neophron_percnopterus/), [cegonha-branca](/especie/ciconia_ciconia/),
+      [cegonha-preta](/especie/ciconia_nigra/) e [bufo-real](/especie/bubo_bubo/).
+
+
+      Os répteis englobam a cobra-de-esculápio, o licranço, o escaravelho-serpente (o maior lagarto ápode da
+      Europa), a osga-de-kotschy, o cágado-de-carapaça-estriada, a [tartaruga-grega](/especie/testudo_graeca/)
+      e a [tartaruga-de-hermann](/especie/testudo_hermanni/). O alburno-do-mar-negro e o peixe-agulha-búlgaro
+      são endemismos estritos que apenas habitam as bacias do Veleka e do Rezovska.
+
+
+      Em maio, contempla o sub-bosque: é a altura em que desabrocha a zelenika, o rododendro-pôntico, e a mata
+      faz lembrar a mítica Cólquida.
+    visit: >-
+      Existem dois centros de informação, em Malko Tarnovo e em Gramatikovo. Em Malko Tarnovo, o museu de
+      ciências naturais recorre a fotografias e recursos didáticos para explicar a biodiversidade de
+      Strandzha; em Brashlyan há uma coleção etnográfica e um posto de atendimento da direção do parque.
+
+
+      O itinerário Zvezdets–Brashlyan consiste numa marcha de cerca de cinco horas por pistas e caminhos
+      florestais, com vaus sobre os rios Katun e Veleka. Situa-se a uma altitude média de 250 m, é
+      relativamente acessível e conta com miradouros, bancos, zonas de descanso e painéis temáticos. Outro
+      «corredor verde» está adaptado a ciclistas, cavaleiros e pessoas com mobilidade condicionada. Se
+      preferires um percurso curto, existe um circuito de cerca de duas horas a partir do norte de Kondolovo.
+
+
+      Na costa, entre o sul de Ahtopol e a foz do Veleka, encontram-se 15 painéis sobre formações geológicas,
+      e o trilho geológico Butamyata–Silistar dura cerca de duas horas.
+    history: >-
+      O parque foi instituído a 25 de janeiro de 1995 para salvaguardar os ecossistemas e o rico legado
+      cultural e tradicional da região. A sua reserva de Silkosiya, criada em 1933, é a mais antiga da
+      Bulgária, e Uzunbodzhak é reserva da biosfera. Existem cinco reservas integrais, com acesso condicionado
+      a investigadores científicos e a escassos trilhos rigorosamente delimitados.
+
+
+      A história local foi moldada por fronteiras. Após 1878 o território permaneceu no Império Otomano,
+      originando a Revolta de Ilinden-Preobrazhenie em 1903. Desse universo perduram as habitações de madeira
+      de Brashlyan, Kosti e Malko Tarnovo e uma tradição viva na aldeia de Balgari: o nestinarstvo, a dança
+      descalça sobre brasas acesas nos dias 3 e 4 de junho.
+
+
+      A principal ameaça provém atualmente da pressão imobiliária e turística costeira. Em junho de 2007 um
+      tribunal revogou a classificação do parque; perante fortes protestos da sociedade civil, o Parlamento
+      aprovou legislação impedindo recursos judiciais contra áreas protegidas estabelecidas pelo Conselho de
+      Ministros. A orla costeira do parque permaneceu assim quase intocada.
+    before: >-
+      No percurso Zvezdets–Brashlyan terás de atravessar dois rios a vau. O acesso às reservas estritas está
+      circunscrito a equipas científicas e a escassos trilhos determinados. A direção do parque, sediada em
+      Malko Tarnovo, orienta as visitas.
+    around: >-
+      Não existem outros locais do atlas nas proximidades. A grande distância, partilham espécies e biótopos
+      com Strandzha o [Parque Nacional do Rio Selvagem Vjosa](/lugar/vjosa-wild-river-national-park/)
+      (tartaruga-de-hermann, cegonha-preta e lontra), o [Planalto de Babadag - Reserva de
+      Estepe](/lugar/podisul-babadag---rezervatia-de-stepa/) (tartaruga-grega e cegonha-preta) e o
+      [Desfiladeiro de Kresna - Corredor Biológico do Rio Struma](/lugar/kresnensko-defile/)
+      (tartaruga-de-hermann, lontra e bosque maduro).
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Strandzha_Nature_Park
+    titulo: Strandzha Nature Park - Wikipedia
+    fecha_consulta: '2026-10-19'
+  - url: https://strandja.iag.bg/routes/lang/1/page/1/index
+    titulo: DPP Strandzha, agencia forestal — rutas turísticas
+    fecha_consulta: '2026-10-19'
+  - url: https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0_(%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B5%D0%BD_%D0%BF%D0%B0%D1%80%D0%BA)
+    titulo: Странджа (природен парк) – Уикипедия
+    fecha_consulta: '2026-10-19'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0.jpg
+    autor: Denka marinova
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

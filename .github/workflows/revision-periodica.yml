@@ -1,0 +1,30 @@
+name: Revisión periódica
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node scripts/comprobar-enlaces.mjs
+      - run: node scripts/comprobar-commons.mjs
+      - name: Abrir una incidencia si hay algo roto
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          informe=""
+          for f in enlaces-rotos.md commons-incidencias.md; do [ -s "$f" ] && informe="$informe$(cat $f)"$'\n\n'; done
+          if [ -n "$informe" ]; then
+            printf '%s' "$informe" > cuerpo.md
+            gh issue create --title "Revisión semanal: enlaces y fotos ($(date +%F))" --body-file cuerpo.md --label revision
+          fi

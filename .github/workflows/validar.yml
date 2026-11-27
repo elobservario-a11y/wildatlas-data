@@ -1,0 +1,31 @@
+name: Validar
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Esquema, referencias, capas y textos
+        run: npm run validar -- --paises
+      - name: Las descargas están al día
+        run: |
+          npm run descargas
+          git diff --exit-code -- descargas || { echo "Ejecuta npm run descargas y sube el resultado."; exit 1; }
+      - name: Enlaces y fotos de los archivos cambiados
+        if: github.event_name == 'pull_request'
+        run: |
+          cambiados=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- lugares | tr '\n' ' ')
+          if [ -n "$cambiados" ]; then node scripts/comprobar-enlaces.mjs $cambiados; cat enlaces-rotos.md; fi
+          node scripts/comprobar-commons.mjs; cat commons-incidencias.md

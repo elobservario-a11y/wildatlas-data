@@ -1,0 +1,615 @@
+id: chaine-de-belledonne
+estado_editorial: valoracion-revisada
+nombre:
+  es: Cadena Montañosa de Belledonne
+  en: Belledonne Mountain Range
+  fr: Chaîne de Belledonne
+  de: Belledonne-Gebirgskette
+  it: Catena montuosa di Belledonne
+  pt: Cadeia Montanhosa de Belledonne
+nombre_original: Chaîne de Belledonne
+alias:
+  - Belledonne Massif (Chaîne de Belledonne)
+paises:
+  - FR
+region:
+  es: Isère / Saboya (Granoble / Chamrousse)
+  en: Isère / Savoie (Grenoble / Chamrousse)
+  fr: Isère / Savoie (Grenoble / Chamrousse)
+  de: Isère / Savoie (Grenoble / Chamrousse)
+  it: Isère / Savoia (Grenoble / Chamrousse)
+  pt: Isère / Saboia (Grenoble / Chamrousse)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/7468786
+  nombre_en_la_fuente: Chaîne de Belledonne
+  capa: capas/osm/chaine-de-belledonne.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - mature_forest
+designaciones:
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - canis_lupus
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en accesos desde Grenoble; muy baja en lagos de altitud (Lac Blanc)
+  en: Moderate at access points near Grenoble; very low around high-altitude tarns (Lac Blanc)
+  fr: Moyenne aux portes d'accès depuis Grenoble ; très faible aux abords des lacs d'altitude (Lac Blanc)
+  de: Mäßig an den Zugängen ab Grenoble; sehr gering an den Hochgebirgsseen (Lac Blanc)
+  it: Media ai varchi d'accesso da Grenoble; molto bassa presso i laghi d'alta quota (Lac Blanc)
+  pt: Média nos acessos a partir de Grenoble; muito baixa nas lagoas de altitude (Lac Blanc)
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Espace Belledonne Official
+    url: https://www.espacebelledonne.fr/
+  - titulo: Rutas y mapas — Alta travesía de Belledonne, GR 738
+    url: https://www.hautetraverseedebelledonne.com/
+resumen:
+  es: Muralla de picos cristalinos rocosos sin cruces de carretera que se alza frente a la ciudad de Grenoble.
+  en: Imposing crystalline rocky rampart without road passes soaring directly opposite the city of Grenoble.
+  fr: >-
+    Muraille de crêtes cristallines escarpées exempte de cols routiers se dressant face à la ville de
+    Grenoble.
+  de: >-
+    Imposante Barriere aus schroffen kristallinen Gipfeln ohne Passstraßen direkt gegenüber der Stadt
+    Grenoble.
+  it: >-
+    Rampa di vette cristalline impervie priva di valichi stradali che svetta frontalmente alla città di
+    Grenoble.
+  pt: >-
+    Muralha de picos cristalinos escarpados desprovida de estradas de travessia que se ergue defronte à cidade
+    de Grenoble.
+unico:
+  es: Es una cadena casi sin urbanizar, tan difícil de alcanzar que guarda especies raras en Francia.
+  en: >-
+    A largely unurbanized massif so rugged and difficult of access that it shelters species extremely rare in
+    France.
+  fr: >-
+    Un massif quasiment vierge d'urbanisation, d'accès si rude qu'il abrite des espèces rares à l'échelle de
+    la France.
+  de: >-
+    Eine kaum zersiedelte Gebirgskette, so schwer zugänglich, dass sie in Frankreich extrem seltene
+    Hochgebirgsarten bewahrt.
+  it: >-
+    Una catena montuosa quasi priva di insediamenti, d'accesso così aspro da preservare specie alpine
+    rarissime in Francia.
+  pt: >-
+    Um maciço praticamente livre de povoamento urbano, de acesso tão rigoroso que abriga espécies raras em
+    França.
+observaciones:
+  es: >-
+    En el sur de Belledonne, del Grand Colon al Arselle, está prohibido hacer fuego, aunque se permiten los
+    hornillos. Del 15 de junio al 15 de septiembre está prohibido encender fuego, fumar y tirar colillas
+    dentro de los bosques y a menos de 200 metros de ellos. Respeta a los pastores y a sus perros de
+    protección.
+texto:
+  es:
+    intro: >-
+      Una muralla de roca cristalina, larga y estrecha, sin un solo puerto de carretera. Así es Belledonne,
+      que se extiende entre Vizille, en Isère, y Aiguebelle, en Saboya: unos 80 kilómetros de largo por solo
+      20 de ancho. Su cresta culmina casi a 3.000 metros y funciona como una barrera natural entre los macizos
+      prealpinos, como la Chartreuse, el Vercors y las Bauges, y los Alpes interiores.
+    landscape: >-
+      Belledonne no se parece a sus vecinas. Mientras la Chartreuse y el Vercors son de caliza, Belledonne es
+      un macizo cristalino externo, hecho sobre todo de granito y gneis, y por eso su relieve es más rocoso y
+      escarpado, con fuertes pendientes y poca vegetación. Sus rocas pertenecen a la cadena herciniana del
+      Carbonífero, más antiguas que las calizas vecinas, aunque la cadena se elevó después de que esos macizos
+      se formaran. La vertiente oeste, hacia el valle del Isère, tiene colinas bordeantes y un relieve más
+      gradual hasta las crestas, mientras que la este cae casi en vertical sobre el valle del Romanche. El
+      punto más alto es el Grand Pic, de 2.977 metros.
+
+
+      La cadena se recorre en pisos. El nival es roca, acantilado y canchal, con una vegetación escasa, y
+      entre las piedras sobrevive la cardamine de Plumier, planta pionera y protegida. Aquí quedan nueve
+      restos de glaciares, uno solo con grietas, que se derriten muy deprisa por el cambio climático y dejan
+      al retirarse ecosistemas vírgenes. El piso alpino casi no tiene árboles, salvo pino negro y cembro, y
+      está salpicado de lagos de altura de aguas pobres en nutrientes, frágiles y muy atractivos para el
+      turismo. El subalpino, de 1.400 a 1.800 metros, es de bosques, sobre todo de pícea, que cubren más de la
+      mitad de Belledonne, con turberas ácidas de altura. Y abajo, en los «Balcones de Belledonne», entre 400
+      y unos 900 metros, se alternan pueblos, bosques de frondosas, prados pastados y pastizales secos con
+      orquídeas.
+
+
+      El clima, húmedo y de montaña, trae abundantes precipitaciones, más que en los Alpes interiores, y la
+      diversidad de pendientes crea muchos microclimas.
+    wildlife: >-
+      Como el relieve ha limitado el impacto humano, Belledonne es un reservorio de biodiversidad. En el piso
+      alpino, entre los espacios abiertos y las landas, viven el [íbice](/especie/capra_ibex/), el [lagópodo
+      alpino](/especie/lagopus_muta/) y el [gallo lira](/especie/tetrao_tetrix/); el cascanueces moteado
+      aparece en los pinares de cembro, y el [tritón alpino](/especie/triturus_alpestris/) y la rana bermeja,
+      en las zonas húmedas. Hay gallos lira también en varios pastos de altura. El
+      [lobo](/especie/canis_lupus/) ya está bien implantado en el macizo.
+
+
+      Las turberas del piso subalpino guardan droseras y arándano rojo, tritones y ranas, las libélulas
+      cordulie arctique y agrion hasté, y murciélagos como el minioptère de Schreibers. El estudio de
+      responsabilidad biológica de Espace Belledonne, que desde 2024 evalúa mamíferos, aves, anfibios y
+      reptiles, murciélagos, libélulas y plantas con flores, ha encontrado sesenta especies de responsabilidad
+      entre bastante alta y máxima, casi todas de montaña. Los grupos con más especies de responsabilidad alta
+      son la flora, los murciélagos y los anfibios y reptiles.
+    visit: >-
+      La gran travesía es el GR 738, la Haute Traversée de Belledonne, que va de Aiguebelle a Vizille y
+      también se llama «sendero de los pastores» por su carácter pastoral. Se considera uno de los senderos
+      más bellos y duros de Francia y ofrece una inmersión total en plena naturaleza. Si no quieres tanto, su
+      web propone itinerarios de un día entre pastos de altura, bosques y lagos, y circuitos patrimoniales que
+      cuentan la historia humana, cultural e industrial de los pueblos.
+
+
+      Desde la cadena se ve el valle del Isère, la Maurienne y el Eau d'Olle, y los macizos de la Chartreuse,
+      las Bauges, la Vanoise, las Grandes Rousses y el Taillefer. Si vas con tienda, el vivac se tolera en la
+      mayor parte de la cadena, pero no en todos los sectores: hay propiedades privadas, rebaños con perros de
+      protección, zonas sensibles y zonas de helitransporte. Pregunta antes a los guardas de refugio y a los
+      pastores.
+    history: >-
+      Belledonne ha sido tierra de industria. La minería de hierro de Allevard y los Hurtières habría empezado
+      antes del siglo XI y se apagó a finales del XIX y principios del XX. Hoy es un atractivo turístico, con
+      museos y senderos dedicados. 
+
+
+      El pastoreo marca el paisaje: unos 31 alpages y 10.674 hectáreas de pastos de altura, adonde suben cada
+      primavera 1.200 bovinos y 12.400 ovinos durante 100 a 120 días. Ese pastoreo mantiene abiertos los
+      paisajes de altura y beneficia a la biodiversidad, y la presencia del lobo es un reto para la actividad.
+      Además de bosques maduros que se están cartografiando, la cadena guarda 216 zonas húmedas, que suman 957
+      hectáreas. Varios sitios están clasificados como Natura 2000 o Espacios Naturales Sensibles. Desde el
+      confinamiento de 2020 la frecuentación ha aumentado mucho con la excursión, el trail y el esquí de
+      montaña, lo que obliga a repensar la convivencia de usos.
+    before: >-
+      En el sur de Belledonne, del Grand Colon al Arselle, está prohibido hacer fuego, aunque se permiten los
+      hornillos. Del 15 de junio al 15 de septiembre está prohibido encender fuego, fumar y tirar colillas
+      dentro de los bosques y a menos de 200 metros de ellos. Respeta a los pastores y a sus perros de
+      protección.
+    around: >-
+      Belledonne está rodeada de grandes espacios protegidos de los Alpes: a quince kilómetros queda el
+      [Parque Nacional de los Écrins](/lugar/parc-national-des-ecrins---massif/), a veintiuno el [macizo del
+      Dévoluy](/lugar/massif-du-devoluy/) y a veintisiete el [Parque Nacional de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  en:
+    intro: >-
+      A narrow, towering rampart of crystalline rock uncrossed by a single paved mountain pass. That is the
+      Belledonne range, stretching between Vizille in Isère and Aiguebelle in Savoie: roughly 80 kilometres
+      long by a mere 20 wide. Its jagged crest culminates just shy of 3,000 metres, functioning as an imposing
+      geographical barrier between the Prealps—Chartreuse, Vercors, and Bauges—and the inner continental Alps.
+    landscape: >-
+      Belledonne bears little resemblance to its neighbors. While the Chartreuse and Vercors massifs are
+      sedimentary limestone, Belledonne forms an external crystalline massif composed of granites,
+      amphibolites, and gneisses, displaying sharper, more severe relief, sheer scree slopes, and sparse
+      vegetation. Its bedrock stems from the Carboniferous Hercynian orogeny, older than neighboring
+      limestones, though elevated into its present alpine heights during later Alpine tectonics. The western
+      slopes falling toward the Isère Valley feature stepped foothill balconies and gradual approaches,
+      whereas the eastern face drops precipitously into the deep cleft of the Romanche Valley. Its highest
+      summit is the Grand Pic de Belledonne at 2,977 metres.
+
+
+      The range ascends through distinct ecological zones. The nival zone is a domain of bare rock, cliffs,
+      and frost-shattered scree with sparse vegetation, where Plumier's bittercress clings to damp fissures as
+      a protected pioneer plant. Nine shrinking glacierets persist—only one retaining active crevasses—melting
+      rapidly under climatic warming to expose virgin proglacial soils. The alpine zone is virtually devoid of
+      trees aside from mountain pine and Swiss stone pine, punctuated by oligotrophic, nutrient-poor glacial
+      tarns of high vulnerability and scenic allure. The subalpine zone (1,400 to 1,800 metres) is draped in
+      coniferous forests, dominated by Norway spruce covering over half the range, interspersed with acidic
+      mountain bogs. Below, the Balcons de Belledonne (400 to around 900 metres) alternate traditional
+      hamlets, mixed deciduous woodlands, grazed pastures, and dry calcareous meadows rich in orchids.
+
+
+      The mountain climate brings abundant Atlantic-influenced rainfall, far wetter than the inner Alpine rain
+      shadows, with contrasting exposures generating diverse microclimates.
+    wildlife: >-
+      Because extreme topography has curtailed human development, Belledonne stands as a biodiversity
+      reservoir. In the alpine tier, across boulderfields and dwarf-shrub heaths, reside the [Alpine
+      ibex](/especie/capra_ibex/), [rock ptarmigan](/especie/lagopus_muta/), and [black
+      grouse](/especie/tetrao_tetrix/); spotted nutcrackers harvest pine nuts in stone pine copses, while the
+      [alpine newt](/especie/triturus_alpestris/) and common frog breed in high wetlands. Black grouse also
+      lek across high-altitude pastures. The [grey wolf](/especie/canis_lupus/) has firmly re-established
+      permanent pack territories.
+
+
+      Subalpine peat bogs shelter round-leaved sundew, cranberries, amphibians, northern emerald and spearhead
+      dragonflies, alongside cave-roosting bats like Schreibers's bent-winged bat. A biological responsibility
+      assessment by Espace Belledonne, which since 2024 has evaluated mammals, birds, amphibians, reptiles,
+      bats, dragonflies, and vascular flora, identified sixty species of high or very high regional
+      conservation responsibility, predominantly montane specialists.
+    visit: >-
+      The definitive traverse is the GR 738 (Haute Traversée de Belledonne), which spans the entire crest from
+      Aiguebelle to Vizille, traditionally celebrated as the "Trail of the Shepherds" for its pastoral
+      heritage. Widely regarded as one of the finest and most demanding mountain footpaths in France, it
+      provides an uncompromising wilderness experience. For day visitors, network trails link high pastures,
+      old-growth forests, and alpine cirques, complemented by cultural circuits exploring historic hamlets.
+
+
+      Vantage points overlook the Isère Valley, the Maurienne trench, and the Eau d'Olle gorge, with panoramas
+      reaching the Chartreuse, Bauges, Vanoise, Grandes Rousses, and Taillefer massifs. For backpackers,
+      bivouacking is tolerated across most sectors, but subject to local bylaws: check boundaries regarding
+      private lands, pastoral herds guarded by livestock dogs, fragile wetlands, and helipad drop zones.
+      Consult refuge wardens and shepherds beforehand.
+    history: >-
+      Belledonne has long fostered mountain industry. Iron mining and smelting at Allevard and Les Hurtières
+      began before the eleventh century, waning in the late nineteenth and early twentieth centuries; restored
+      sites and interpretive trails now highlight this industrial heritage.
+
+
+      Pastoralism profoundly shapes the open landscape: some 31 alpine commons (*alpages*) covering 10,674
+      hectares of summer pastures accommodate 1,200 cattle and 12,400 sheep each spring for 100 to 120 days.
+      This transhumance preserves open subalpine grasslands and associated biodiversity, with wolf predation
+      presenting an ongoing operational challenge. Beside ancient woodlands currently being inventoried, the
+      range preserves 216 distinct wetland complexes totaling 957 hectares. Several sectors are classified
+      under Natura 2000 or as Sensitive Natural Areas. Since the 2020 lockdowns, recreational pressure from
+      trail running, trekking, and ski mountaineering has intensified, prompting new management frameworks to
+      balance use and conservation.
+    before: >-
+      In southern Belledonne from Grand Colon to Arselle open campfires are banned, though portable camping
+      stoves are permitted. From 15 June to 15 September lighting fires, smoking, and discarding cigarette
+      ends are strictly prohibited in and within 200 metres of woodlands. Maintain respectful distances from
+      sheep flocks and guardian dogs.
+    around: >-
+      Belledonne is encircled by major Alpine reserves: fifteen kilometres away lies [Parc National des
+      Écrins](/lugar/parc-national-des-ecrins---massif/), twenty-one kilometres to the south rises the [massif
+      du Dévoluy](/lugar/massif-du-devoluy/), and twenty-seven kilometres eastward stretches [Parc National de
+      la Vanoise](/lugar/parc-national-de-la-vanoise/).
+  fr:
+    intro: >-
+      Une muraille de roche cristalline, longue et étroite, sans un seul col routier pour la franchir. Telle
+      est Belledonne, qui s'étend entre Vizille en Isère et Aiguebelle en Savoie : environ 80 kilomètres de
+      long pour à peine 20 de large. Sa crête flirte avec les 3 000 mètres d'altitude et dresse une frontière
+      naturelle entre les massifs préalpins—Chartreuse, Vercors et Bauges—et les Alpes internes.
+    landscape: >-
+      Belledonne ne ressemble guère à ses voisines. Alors que la Chartreuse et le Vercors sont sculptés dans
+      le calcaire, Belledonne est un massif cristallin externe composé de granites et de gneiss, d'où un
+      relief plus rocheux, acéré, caractérisé par de fortes pentes et une végétation clairsemée. Ses roches
+      appartiennent à la chaîne hercynienne du Carbonifère, bien plus anciennes que les calcaires avoisinants,
+      bien que le massif se soit soulevé lors de l'orogenèse alpine. Le versant ouest dominant la vallée de
+      l'Isère présente des replats en balcons et des pentes plus graduelles, tandis que le versant oriental
+      plonge de manière quasi verticale sur la Romanche. Le point culminant est le Grand Pic de Belledonne à 2
+      977 mètres.
+
+
+      Le massif s'étage en plusieurs ceintures écologiques. L'étage nival réunit parois abruptes, pierriers et
+      falaises avec une végétation pionnière où s'accroche la cardamine de Plumier, espèce protégée. Neuf
+      reliques glaciaires subsistent—une seule présentant des crevasses—fondant rapidement sous l'effet du
+      réchauffement et découvrant des marges proglaciaires vierges. L'étage alpin est presque dépourvu
+      d'arbres hormis quelques pins cembro et pins à crochets, émaillé de lacs d'altitude oligotrophes, d'une
+      grande vulnérabilité écologique et d'un attrait paysager majeur. L'étage subalpin (1 400 à 1 800 mètres)
+      porte de vastes forêts dominées par l'épicéa couvrant plus de la moitié du massif, ponctuées de
+      tourbières acides. En contrebas, sur les Balcons de Belledonne (entre 400 et 900 mètres), alternent
+      villages, feuillus, prairies de fauche et pelouses sèches à orchidées.
+
+
+      Le climat montagnard très arrosé apporte des précipitations abondantes, bien supérieures à celles des
+      vallées intérieures, tandis que l'exposition des versants génère une multitude de microclimats.
+    wildlife: >-
+      Parce que le relief a freiné l'empreinte humaine, Belledonne forme un conservatoire de biodiversité. À
+      l'étage alpin, parmi les pelouses rocailleuses et les landes naines, vivent le [bouquetin des
+      Alpes](/especie/capra_ibex/), le [lagopède alpin](/especie/lagopus_muta/) et le [tétras
+      lyre](/especie/tetrao_tetrix/) ; le cassenoix moucheté fréquente les cembraies, tandis que le [triton
+      alpestre](/especie/triturus_alpestris/) et la grenouille rousse peuplent les zones humides d'altitude.
+      Le tétras lyre parade également dans plusieurs alpages. Le [loup](/especie/canis_lupus/) est solidement
+      réimplanté sur le massif.
+
+
+      Les tourbières subalpines abritent droséras et canneberges, amphibiens, cordulies arctiques, agrions
+      hastés et chauves-souris comme le minioptère de Schreibers. L'étude de responsabilité biologique menée
+      par l'Espace Belledonne, qui évalue depuis 2024 mammifères, oiseaux, amphibiens, reptiles, chiroptères,
+      libellules et flore vasculaire, a recensé soixante espèces à responsabilité patrimoniale forte à
+      majeure, presque toutes spécialistes des milieux montagnards.
+    visit: >-
+      La grande traversée pédestre est le GR 738 (Haute Traversée de Belledonne), reliant Aiguebelle à
+      Vizille, surnommé le « sentier des bergers » pour sa vocation pastorale. Considéré comme l'un des
+      itinéraires les plus esthétiques et exigeants de France, il offre une immersion sauvage intégrale. Pour
+      des sorties à la journée, des sentiers balisés desservent alpages, combes glaciaires et lacs d'altitude,
+      complétés par des boucles thématiques retraçant l'histoire ouvrière et rurale des villages.
+
+
+      Depuis les crêtes se dévoilent la vallée de l'Isère, la Maurienne, la vallée de l'Eau d'Olle, ainsi que
+      les massifs de la Chartreuse, des Bauges, de la Vanoise, des Grandes Rousses et du Taillefer. Le bivouac
+      sous tente est toléré sur la majeure partie de la chaîne sous réserve des réglementations locales :
+      tenez compte des propriétés privées, des alpages gardés par des chiens de protection, des zones humides
+      sensibles et des aires d'hélisurface. Renseignez-vous auprès des gardiens de refuge et des éleveurs.
+    history: >-
+      Belledonne a connu un riche passé industriel : l'extraction du minerai de fer à Allevard et aux
+      Hurtières débuta avant le XIe siècle pour s'éteindre à la fin du XIXe et au début du XXe siècle ; ce
+      patrimoine se visite via des sentiers et musées dédiés.
+
+
+      Le pastoralisme façonne les paysages ouverts : 31 alpages représentant 10 674 hectares de prairies
+      d'altitude accueillent chaque printemps 1 200 bovins et 12 400 ovins pendant 100 à 120 jours. Cet
+      entretien pastoral préserve la biodiversité des pelouses, la présence du loup posant un défi quotidien
+      aux bergers. Outre des forêts anciennes en cours de cartographie, le massif compte 216 zones humides
+      totalisant 957 hectares. Plusieurs secteurs sont inscrits à Natura 2000 ou protégés au titre des Espaces
+      Naturels Sensibles. Depuis le confinement de 2020, la fréquentation liée à la randonnée, au trail et au
+      ski de montagne a fortement progressé, nécessitant une concertation accrue entre usages.
+    before: >-
+      Dans le sud de Belledonne, du Grand Colon à l'Arselle, les feux au sol sont proscrits, seuls les
+      réchauds étant admis. Du 15 juin au 15 septembre, allumer du feu, fumer et jeter des mégots sont
+      formellement interdits en forêt et à moins de 200 mètres de celle-ci. Respectez le travail des bergers
+      et le périmètre des chiens de protection.
+    around: >-
+      Belledonne est ceinte de grands espaces protégés alpins : à quinze kilomètres s'étend le [Parque
+      Nacional de los Écrins](/lugar/parc-national-des-ecrins---massif/), à vingt et un kilomètres s'élève le
+      [massif du Dévoluy](/lugar/massif-du-devoluy/) et à vingt-sept kilomètres commence le [Parque Nacional
+      de la Vanoise](/lugar/parc-national-de-la-vanoise/).
+  de:
+    intro: >-
+      Eine gewaltige Mauer aus kristallinem Urgestein, langgestreckt und schmal, ohne einen einzigen
+      Straßenpass. Das ist die Belledonne-Kette, die sich zwischen Vizille im Département Isère und Aiguebelle
+      in Savoyen erstreckt: rund 80 Kilometer lang und kaum 20 Kilometer breit. Ihr Grat ragt bis fast an die
+      3.000-Meter-Marke empor und bildet eine natürliche Wetterscheide zwischen den Voralpenmassiven
+      Chartreuse, Vercors und Bauges und den inneren Zentralalpen.
+    landscape: >-
+      Belledonne unterscheidet sich grundlegend von den Nachbargebirgen: Während Chartreuse und Vercors aus
+      Kalkstein aufgebaut sind, handelt es sich bei Belledonne um ein externes Kristallinmassiv aus Graniten
+      und Gneisen mit schroffem, felsigem Relief, steilen Schutthalden und karger Vegetation. Die Gesteine
+      entstammen der variszischen Orogenese des Karbons und sind älter als die benachbarten Kalke, wurden
+      jedoch erst bei der alpinen Gebirgsbildung in ihre heutige Höhe emporgehoben. Die Westflanke zum
+      Isère-Tal steigt über Voralpenbalkone allmählich an, während die Ostseite fast senkrecht zur Romanche
+      abfällt. Höchster Gipfel ist der Grand Pic de Belledonne mit 2.977 Metern.
+
+
+      Die Kette gliedert sich in Höhenstufen: Die nivale Stufe ist von Fels, Steilwänden und Schutt geprägt;
+      in Felsspalten überdauert das geschützte Plumiers Schaumkraut. Neun Restgletscher überdauern – nur einer
+      mit Spalten –, die im Klimawandel rasch abschmelzen und unberührte Gletschervorfelder freigeben. Die
+      alpine Stufe ist weitgehend baumfrei, abgesehen von Berg- und Arvenkiefern, und reich an oligotrophen
+      Karseen von großer ökologischer Empfindlichkeit. Die subalpine Stufe von 1.400 bis 1.800 Metern Höhe
+      trägt Nadelwälder, vor allem Fichtenwälder auf über der Hälfte der Fläche, durchsetzt von sauren
+      Hochmooren. Talabwärts auf den Balkonen von Belledonne zwischen 400 und rund 900 Metern wechseln Dörfer,
+      Laubmischwälder, Weiden und orchideenreiche Magerwiesen ab.
+
+
+      Das feuchte Gebirgsklima bringt ergiebige Niederschläge, deutlich mehr als in den inneralpinen Tälern,
+      während Hangexpositionen vielfältige Mikroklimata erzeugen.
+    wildlife: >-
+      Weil das schroffe Relief die Erschließung hemmte, fungiert Belledonne als Biodiversitätsrefugium. In der
+      alpinen Stufe zwischen Felsfluren und Zwergstrauchheiden leben [Alpensteinbock](/especie/capra_ibex/),
+      [Alpenschneehuhn](/especie/lagopus_muta/) und [Birkhuhn](/especie/tetrao_tetrix/); der Tannenhäher
+      sammelt Arvennüsse, während [Bergmolch](/especie/triturus_alpestris/) und Grasfrosch alpine
+      Feuchtstellen besiedeln. Das Birkhuhn balzt auch auf mehreren Hochweiden. Der
+      [Wolf](/especie/canis_lupus/) hat sich im Massiv dauerhaft etabliert.
+
+
+      Subalpine Moore beherbergen Sonnentau, Moosbeeren, Amphibien sowie seltene Libellen wie Arktische
+      Smaragdlibelle und Speer-Azurjungfer sowie Fledermäuse wie die Langflügelfledermaus. Die
+      Biodiversitätsstudie von Espace Belledonne, die seit 2024 Säugetiere, Vögel, Amphibien, Reptilien,
+      Fledermäuse, Libellen und Gefäßpflanzen erfasst, wies sechzig Arten mit hoher bis höchster
+      Schutzverantwortung nach, ganz überwiegend Gebirgsspezialisten.
+    visit: >-
+      Die klassische Weitwanderung ist der GR 738 (Haute Traversée de Belledonne) von Aiguebelle nach Vizille,
+      wegen seiner pastoralen Prägung auch „Hirtenpfad“ genannt. Er gilt als einer der anspruchsvollsten und
+      ursprünglichsten Höhenwege Frankreichs. Für Tagesgäste erschließen markierte Wege Almen, Karkessel und
+      Bergseen, ergänzt durch Kulturwege zur Montangeschichte.
+
+
+      Von den Graten blickt man auf das Isère-Tal, die Maurienne und das Eau d'Olle sowie auf Chartreuse,
+      Bauges, Vanoise, Grandes Rousses und Taillefer. Zelten im Biwak ist in weiten Teilen der Kette
+      toleriert, jedoch reglementiert: Private Weidegründe, Herden mit Herdenschutzhunden, sensible Moore und
+      Helikopter-Landeplätze meiden. Vorab bei Hüttenwirten und Hirten erkundigen.
+    history: >-
+      Belledonne blickt auf eine lange Montantradition zurück: Der Eisenerzabbau in Allevard und Les Hurtières
+      begann vor dem elften Jahrhundert und endete um die Wende zum zwanzigsten Jahrhundert; Lehrpfade und
+      Museen erschließen diese Geschichte.
+
+
+      Die Almwirtschaft prägt die Landschaft: Rund 31 Almen und 10.674 Hektar Sommerweiden nehmen jeden
+      Frühling 1.200 Rinder und 12.400 Schafe für 100 bis 120 Tage auf. Die Beweidung hält die alpine
+      Mattenlandschaft offen, wobei die Präsenz des Wolfes die Weidewirtschaft fordert. Neben alten Wäldern
+      birgt das Massiv 216 Feuchtgebiete mit 957 Hektar Fläche. Mehrere Bereiche sind als Natura 2000 oder
+      sensible Naturräume ausgewiesen. Seit den Lockdowns von 2020 hat der Besucherdruck durch Wandern,
+      Trailrunning und Skitouren spürbar zugenommen.
+    before: >-
+      Im Süden Belledonnes vom Grand Colon bis L'Arselle ist offenes Bodenfeuer untersagt (Gaskocher erlaubt).
+      Vom 15. Juni bis 15. September gilt im Wald und bis 200 Meter Abstand ein striktes Feuer-, Rauch- und
+      Wegwerfverbot für Zigarettenkippen. Halte Abstand zu Schutzhunden.
+    around: >-
+      Belledonne ist von bedeutenden Alpenreservaten umgeben: In fünfzehn Kilometern Entfernung liegt der
+      [Parque Nacional de los Écrins](/lugar/parc-national-des-ecrins---massif/), in einundzwanzig Kilometern
+      erhebt sich das [massif du Dévoluy](/lugar/massif-du-devoluy/) und in siebenundzwanzig Kilometern
+      beginnt der [Parque Nacional de la Vanoise](/lugar/parc-national-de-la-vanoise/).
+  it:
+    intro: >-
+      Una muraglia di roccia cristallina, affilata e dirupata, senza un solo valico carrabile che la valichi.
+      Questa è Belledonne, distesa tra Vizille nell'Isère e Aiguebelle in Savoia: circa 80 chilometri di
+      sviluppo longitudinale per appena 20 di larghezza. Il suo crinale culmina a ridosso dei 3.000 metri
+      ergendosi come barriera orografica tra le Prealpi—Chartreuse, Vercors e Bauges—e le valli alpine
+      interne.
+    landscape: >-
+      Belledonne non somiglia ai massicci limitrofi: mentre Chartreuse e Vercors sono modellate nel calcare,
+      Belledonne è un massiccio cristallino esterno costituito da graniti, anfiboliti e gneiss, con canaloni
+      rocciosi, forti pendenze e scarsa copertura arborea. Il suo basamento appartiene all'orogenesi ercinica
+      del Carbonifero, ben più antico delle coperture calcaree, sollevato nelle quote attuali durante le fasi
+      tettoniche alpine. Il versante occidentale verso la piana dell'Isère sale con terrazze e gradoni, mentre
+      quello orientale sprofonda a precipizio sulla valle della Romanche. La massima elevazione è il Grand Pic
+      de Belledonne con i suoi 2.977 metri.
+
+
+      Il rilievo si organizza in fasce altitudinali: il piano nivale presenta pietraie, falesie e ghiaioni
+      dove vegeta la rara cardamine di Plumier. Sopravvivono nove relitti glaciali—uno solo provvisto di
+      crepacci—in rapido ritiro climatico. Il piano alpino è quasi privo di alberi salvo pini cembri e mughi,
+      costellato da laghetti glaciali oligotrofi di grande fascino e fragilità. Il piano subalpino, tra 1.400
+      e 1.800 metri, è ammantato da fitte conifere (in prevalenza abete rosso su oltre metà del massiccio)
+      intervallate da torbiere acide. Più in basso, sui «Balconi di Belledonne» tra 400 e 900 metri, si
+      alternano borghi, latifoglie, pascoli e prati magri ricchi di orchidee.
+
+
+      Il clima alpino umido assicura precipitazioni abbondanti rispetto alle vallate interne, con forti
+      escursioni termiche che creano una costellazione di microclimi.
+    wildlife: >-
+      Poiché l'asprezza morfologica ha arginato l'antropizzazione, Belledonne è una riserva preziosa di
+      biodiversità. Nel piano alpino tra pietraie e brughiere d'alta quota vivono lo [stambecco
+      alpino](/especie/capra_ibex/), la [pernice bianca](/especie/lagopus_muta/) e il [fagiano di
+      monte](/especie/tetrao_tetrix/); la nocciolaia abita le cembrete, mentre il [tritone
+      alpestre](/especie/triturus_alpestris/) e la rana temporaria popolano le zone umide. Il fagiano di monte
+      frequenta diversi alpeggi sommitali. Il [lupo grigio](/especie/canis_lupus/) è ormai stabilmente
+      insediato nel massiccio.
+
+
+      Le torbiere subalpine custodiscono drosera, mirtillo palustre, anfibi e libellule rare come la cordulia
+      artica e l'agrion astato, oltre a chirotteri come il miniottero comune. L'indagine di responsabilità
+      biologica di Espace Belledonne, che dal 2024 censisce mammiferi, uccelli, anfibi, rettili, pipistrelli,
+      libellule e flora vascolare, ha individuato sessanta specie a responsabilità conservazionistica alta o
+      prioritaria, quasi tutte d'alta montagna.
+    visit: >-
+      L'itinerario d'elezione è la Haute Traversée de Belledonne (GR 738), che collega Aiguebelle a Vizille
+      lungo il filo delle creste, detta anche «via dei pastori». Considerata tra le traversate più
+      spettacolari e severe di Francia, offre un'immersione solitaria totale. Per escursioni giornaliere,
+      sentieri segnalati collegano pascoli d'alpeggio, conche glaciali e laghi alpini, affiancati da circuiti
+      didattici dedicati alla memoria mineraria dei borghi.
+
+
+      Dai crinali lo sguardo spazia sulla valle dell'Isère, la Maurienne, la valle dell'Eau d'Olle e i
+      massicci di Chartreuse, Bauges, Vanoise, Grandes Rousses e Taillefer. Il bivacco notturno in tenda è
+      consentito su gran parte del massiccio ma soggetto a regole: rispetta le proprietà private, i greggi
+      difesi dai cani da guardiania, le torbiere protette e le aree di atterraggio elicotteri. Chiedi
+      indicazioni ai rifugisti e ai pastori.
+    history: >-
+      Belledonne ha vissuto una feconda epopea industriale: l'estrazione del minerale ferroso ad Allevard e
+      nelle Hurtières principiatasi prima dell'XI secolo si è spenta a cavallo tra XIX e XX secolo; musei e
+      sentieri tematici ne valorizzano oggi la memoria.
+
+
+      Il pascolo alpino scandisce il paesaggio montano: circa 31 alpeggi coprono 10.674 ettari di pascoli
+      d'alta quota, ospitando ogni primavera 1.200 bovini e 12.400 ovini per 100-120 giorni. La transumanza
+      preserva i prati aperti a vantaggio della biodiversità, pur dovendosi confrontare con la presenza del
+      lupo. Oltre a boschi maturi in fase di mappatura, la catena conta 216 zone umide per complessivi 957
+      ettari. Numerose tessere ricadono in siti Natura 2000 o Aree Naturali Sensibili. Dal 2020 la pressione
+      escursionistica, il trail running e lo scialpinismo sono notevolmente cresciuti.
+    before: >-
+      Nel settore meridionale di Belledonne, dal Grand Colon all'Arselle, è proibito accendere fuochi liberi
+      (consentiti i soli fornellini da campeggio). Dal 15 giugno al 15 settembre è rigorosamente vietato
+      accendere fuochi, fumare e gettare mozziconi nei boschi e nel raggio di 200 metri da essi. Rispetta il
+      pascolo e i cani da guardiania.
+    around: >-
+      Belledonne è incastonata tra grandi parchi alpini: a quindici chilometri si estende il [Parque Nacional
+      de los Écrins](/lugar/parc-national-des-ecrins---massif/), a ventuno chilometri sorge il [massif du
+      Dévoluy](/lugar/massif-du-devoluy/) e a ventisette chilometri inizia il [Parque Nacional de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  pt:
+    intro: >-
+      Uma imensa muralha de rocha cristalina, alongada e estreita, sem uma única estrada de montanha que a
+      transponha. Assim é Belledonne, estendendo-se entre Vizille em Isère e Aiguebelle na Saboia: perto de 80
+      quilómetros de comprimento por apenas 20 de largura. A sua crista cimeira roça os 3.000 metros de
+      altitude, atuando como barreira orográfica entre os Pré-Alpes—Chartreuse, Vercors e Bauges—e as
+      cordilheiras alpinas interiores.
+    landscape: >-
+      Belledonne contrasta marcadamente com os maciços envolventes: enquanto a Chartreuse e o Vercors são
+      esculpidos em calcário, Belledonne constitui um maciço cristalino externo composto por granitos e
+      gnaisses, patenteando um relevo rochoso e agreste, de declives alcantilados e vegetação dispersa. As
+      suas rochas remontam à orogenia hercínica do Carbonífero, muito mais antigas do que as formações
+      calcárias limítrofes, tendo sido alçadas às cotas atuais pelo levantamento alpino. A vertente ocidental
+      voltada para a veiga do Isère apresenta socalcos e declives mais suaves, enquanto a encosta oriental
+      tomba em abismo sobre o vale do Romanche. O cume culminante é o Grand Pic de Belledonne com 2.977
+      metros.
+
+
+      A cordilheira organiza-se em andares bioclimáticos: o piso nival congrega escarpas rochosas, vertentes
+      fraturadas e cascalheiras onde sobrevive a cardamina-de-plumier, planta pioneira protegida. Persistem
+      nove glaciares residuais—apenas um com fendas ativas—em rápido degelo acelerado pelas alterações
+      climáticas. O andar alpino é desprovido de arvoredo salvo pinheiros-da-montanha e pinheiros-cembros,
+      pontilhado por lagoas glaciares oligotróficas de extrema sensibilidade ecológica. O andar subalpino
+      (1.400 aos 1.800 metros) acolhe florestas cerradas, dominadas pelo abeto-falso em mais de metade do
+      maciço, entremeadas por turfeiras ácidas. Mais abaixo, nas Varandas de Belledonne (entre 400 e cerca de
+      900 metros), alternam aldeias, folhosas, pastagens e prados secos ricos em orquídeas.
+
+
+      O clima alpino húmido assegura precipitações expressivas, bem superiores às dos vales continentais
+      secos, criando a variedade de encostas um mosaico de microclimas.
+    wildlife: >-
+      O relevo intransponível travou a pegada humana, fazendo de Belledonne um reduto de biodiversidade. No
+      piso alpino entre prados pedregosos e charnecas de altitude habitam o
+      [íbis-dos-alpes](/especie/capra_ibex/), o [lagópode-branco](/especie/lagopus_muta/) e o
+      [tetraz-lira](/especie/tetrao_tetrix/); o quebra-nozes patrulha os pinhais de cembro, enquanto o
+      [tritão-alpino](/especie/triturus_alpestris/) e a rã-castanha colonizam as zonas húmidas de altitude. O
+      tetraz-lira também frequenta diversas pastagens de montanha. O [lobo-cinzento](/especie/canis_lupus/)
+      encontra-se fixado em alcateias territoriais.
+
+
+      As turfeiras do piso subalpino resguardam dróseras e arando-vermelho, anfíbios e libélulas como a
+      esmeralda-ártica e o alfaiate-hasteado, para além de morcegos como o morcego-de-peluche. O diagnóstico
+      de responsabilidade biológica do Espace Belledonne, que desde 2024 avalia mamíferos, aves, anfíbios,
+      répteis, morcegos, libélulas e flora vascular, catalogou sessenta espécies com responsabilidade
+      patrimonial elevada a máxima, na quase totalidade montanas.
+    visit: >-
+      A grande rota pedestre é o GR 738 (Haute Traversée de Belledonne), ligando Aiguebelle a Vizille ao longo
+      da crista, também chamado «trilho dos pastores». Considerado um dos percursos pedestres mais
+      deslumbrantes e severos de França, oferece uma imersão total em ambiente alpino puro. Para visitas
+      diárias, veredas sinalizadas alcançam pastagens, circos e lagoas de altitude, complementadas por
+      circuitos culturais dedicados à história mineira e rural das aldeias.
+
+
+      Dos cumes avistam-se o vale do Isère, a Maurienne, o vale do Eau d'Olle e os maciços da Chartreuse,
+      Bauges, Vanoise, Grandes Rousses e Taillefer. O bivaque com tenda é tolerado na maior parte da
+      cordilheira com restrições: atenta a propriedades privadas, rebanhos vigiados por cães de proteção,
+      turfeiras protegidas e áreas de helitransporte. Aconselha-te com os guardas de refúgio e pastores.
+    history: >-
+      Belledonne encerra um passado industrial: a extração de ferro em Allevard e Les Hurtières teve início
+      antes do século XI, extinguindo-se na transição do século XIX para o XX; trilhos didáticos e museus
+      preservam esta memória.
+
+
+      O pastoreio tradicional modela as paisagens de montanha: cerca de 31 alpages congregam 10.674 hectares
+      de pastos de altitude, recebendo em cada primavera 1.200 bovinos e 12.400 ovinos durante 100 a 120 dias.
+      A transumância mantém as pastagens limpas beneficiando a biodiversidade, constituindo o lobo um desafio
+      permanente. Além de matas maduras em processo de inventariação, a cordilheira acolhe 216 zonas húmidas
+      totalizando 957 hectares. Vários setores integram a rede Natura 2000 ou são Espaços Naturais Sensíveis.
+      A partir do confinamento de 2020 a afluência de caminhantes, praticantes de trail e esqui de montanha
+      aumentou significativamente.
+    before: >-
+      No sul de Belledonne, desde o Grand Colon até Arselle, é expressamente proibido fazer fogueiras no solo
+      (admitindo-se fogareiros de campismo). De 15 de junho a 15 de setembro é proibido atear fogo, fumar e
+      atirar beatas no interior das matas e a menos de 200 metros das mesmas. Respeita os pastores e os cães
+      de proteção.
+    around: >-
+      Belledonne está rodeada por grandes espaços protegidos dos Alpes: a quinze quilómetros estende-se o
+      [Parque Nacional de los Écrins](/lugar/parc-national-des-ecrins---massif/), a vinte e um quilómetros
+      ergue-se o [massif du Dévoluy](/lugar/massif-du-devoluy/) e a vinte e sete quilómetros principia o
+      [Parque Nacional de la Vanoise](/lugar/parc-national-de-la-vanoise/).
+fuentes:
+  - url: https://www.espacebelledonne.fr/biodiversite/la-responsabilite-biologique-de-belledonne/
+    titulo: La responsabilité biologique de Belledonne - Espace Belledonne
+    fecha_consulta: '2026-10-30'
+  - url: https://www.espacebelledonne.fr/portrait-de-belledonne/
+    titulo: Portrait de Belledonne - Espace Belledonne
+    fecha_consulta: '2026-10-30'
+  - url: https://www.hautetraverseedebelledonne.com/
+    titulo: Haute Traversée de Belledonne
+    fecha_consulta: '2026-10-30'
+  - url: https://www.hautetraverseedebelledonne.com/page/belledonne/bienvenue-dans-belledonne
+    titulo: Bienvenue dans Belledonne - Haute Traversée de Belledonne
+    fecha_consulta: '2026-10-30'
+  - url: https://www.hautetraverseedebelledonne.com/actualites/la-tournee-du-sentier-des-bergers-gr738
+    titulo: La tournée du sentier des bergers GR738
+    fecha_consulta: '2026-10-30'
+  - url: https://www.hautetraverseedebelledonne.com/page/plus-d-infos/le-bivouac-en-belledonne
+    titulo: Le bivouac en Belledonne - Haute Traversée de Belledonne
+    fecha_consulta: '2026-10-30'
+  - url: https://www.hautetraverseedebelledonne.com/page/plus-d-infos/le-pastoralisme-en-belledonne
+    titulo: Le pastoralisme en Belledonne - Haute Traversée de Belledonne
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Cha%C3%AEne_de_Belledonne_Casserousse.jpg
+    autor: Rémih
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

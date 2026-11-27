@@ -1,0 +1,694 @@
+id: sarek-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Sarek - La Última Gran Naturaleza Salvaje de Europa
+  en: Sarek National Park - Europe's Last Great Wilderness
+  fr: Parc national de Sarek - La dernière grande nature sauvage d'Europe
+  de: Sarek-Nationalpark - Europas letzte große Wildnis
+  it: Parco nazionale di Sarek - L'ultima grande natura selvaggia d'Europa
+  pt: Parque Nacional de Sarek - A Última Grande Natureza Selvagem da Europa
+nombre_original: Sarek National Park
+alias:
+  - Sarek National Park
+paises:
+  - SE
+region:
+  es: Laponia Sueca / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+  en: Swedish Lapland / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+  fr: Laponie suédoise / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+  de: Schwedisch-Lappland / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+  it: Lapponia svedese / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+  pt: Lapónia Sueca / Norrbotten (Jokkmokk / Kvikkjokk / Ritsem)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 67.33
+  lon: 17.7
+  radio_km: 45
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555730452
+  nombre_en_la_fuente: Sarek
+  categoria_uicn: II
+  capa: capas/cdda/sarek-national-park.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - river_corridor
+  - gorge_canyon
+designaciones:
+  - national_park
+  - unesco_whs
+  - iucn_ii
+especies:
+  - alces_alces
+  - gulo_gulo
+  - canis_lupus
+  - ursus_arctos
+temporada_ideal:
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: julio a septiembre
+  en: July to September
+  fr: juillet à septembre
+  de: Juli bis September
+  it: da luglio a settembre
+  pt: julho a setembro
+masificacion: 1
+masificacion_nota:
+  es: Sin senderos marcados, sin puentes ni refugios; solo senderistas autónomos de expedición
+  en: No marked trails, bridges, or shelters; self-sufficient wilderness expeditions only
+  fr: Ni sentiers balisés, ni ponts, ni refuges ; réservé aux randonneurs autonomes d'expédition
+  de: Keine markierten Wege, keine Brücken oder Schutzhütten; ausschließlich für autarke Wildniswanderer
+  it: >-
+    Niente sentieri segnati, né ponti o rifugi; riservato esclusivamente a escursionisti autonomi da
+    spedizione
+  pt: Sem trilhos assinalados, sem pontes nem abrigos; reservado a montanhistas e caminhantes em total autonomia
+valoracion: 5
+dias_visita:
+  min: 4
+  max: 9
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Sarek National Park
+    url: https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/sarek-nationalpark
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/sarek-nationalpark/besok-parken/hitta-hit
+  - titulo: Rutas — Recorridos y actividades del parque
+    url: https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/sarek-nationalpark/att-gora-i-parken
+  - titulo: Normas — Reglas de visita del parque
+    url: https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/sarek-nationalpark/besok-parken/regler-i-parken/
+  - titulo: Servicios — Instalaciones y refugios del parque
+    url: https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/sarek-nationalpark/besok-parken/service-i-parken
+  - titulo: Avisos — Estado de accesos en los parques de Laponia
+    url: https://laponia.nu/aktuell-information-i-varldsarvet/
+resumen:
+  es: >-
+    Cumbres, glaciares y el valle de Ráhpavuobme en el parque nacional de Sarek, parte del patrimonio mundial
+    de Laponia.
+  en: >-
+    Peaks, glaciers, and the Ráhpavuobme valley in Sarek National Park, part of the Laponia World Heritage
+    site.
+  fr: >-
+    Cimes, glaciers et la vallée de Ráhpavuobme dans le parc national de Sarek, au cœur du bien du Patrimoine
+    mondial de Laponia.
+  de: Gipfel, Gletscher und das Ráhpavuobme-Tal im Sarek-Nationalpark, Teil des Welterbes Laponia.
+  it: >-
+    Vette, ghiacciai e la valle di Ráhpavuobme nel parco nazionale di Sarek, compreso nel patrimonio mondiale
+    di Laponia.
+  pt: >-
+    Cumes, glaciares e o vale de Ráhpavuobme no parque nacional de Sarek, parte do sítio Património Mundial da
+    Laponia.
+unico:
+  es: >-
+    Casi cien glaciares alimentan un único río, el Ráhpaädno, que dibuja el delta más famoso de toda la región
+    montañosa.
+  en: >-
+    Nearly a hundred glaciers feed a single river, the Ráhpaädno, which sculpts the most famous delta in the
+    northern mountains.
+  fr: >-
+    Près d'une centaine de glaciers alimentent un fleuve unique, le Ráhpaädno, qui modèle le delta le plus
+    célèbre de la chaîne scandinave.
+  de: >-
+    Fast hundert Gletscher speisen einen einzigen Gebirgsfluss, den Ráhpaädno, der das berühmteste Binnendelta
+    der skandinavischen Bergwelt formt.
+  it: >-
+    Quasi cento ghiacciai alimentano un unico corso d'acqua, il Ráhpaädno, che plasma il delta montano più
+    celebre della penisola scandinava.
+  pt: >-
+    Quase cem glaciares alimentam um único rio, o Ráhpaädno, que modela o delta interior mais famoso de toda a
+    cordilheira.
+observaciones:
+  es: >-
+    No hay senderos marcados ni puentes ni refugios dentro de Sarek: es un parque para senderistas autónomos,
+    a pie o con esquís. Algunos cursos tienen puentes estacionales: el de Skárjá se retira cada otoño en
+    helicóptero y se repone después de la crecida de primavera, a finales de junio. En todo el patrimonio de
+    Laponia hace falta autorización de la administración del condado para volar drones.
+texto:
+  es:
+    intro: >-
+      En Sarek no hay carreteras, y eso lo explica casi todo. Quien quiera entrar tiene que poder caminar o
+      esquiar, cargar con lo que necesite y apañarse con lo que encuentre. A cambio recibe un paisaje de alta
+      montaña en estado natural: seis de las montañas más altas de Suecia, casi cien glaciares, arroyos
+      veloces, bosques de coníferas, humedales y auténtica tundra alpina. Es parque nacional desde 1909, está
+      en la Laponia sueca, en Norrbotten, y desde 1996 forma parte del patrimonio mundial de Laponia.
+    landscape: >-
+      Todo lo que ves lo ha esculpido el hielo. Los valles de Sarek tienen forma suave de U porque los
+      excavaron las masas de hielo de las glaciaciones, y las cumbres que quedaron en pie son agudas y duras
+      gracias, en parte, a la anfibolita. En varios puntos afloran además diques magmáticos que se abrieron
+      paso entre metasedimentos y todavía conservan los bordes enfriados.
+
+
+      El agua baja de los glaciares al Ráhpaädno, la arteria del parque, y el río termina formando el delta de
+      Ráhpavuobme, o Rapadalen. Allí el paisaje sinuoso cambia por completo: los valles se llenan de
+      abedulares antiguos, deltas y brezales de montaña, y en los bosques de la franja montana mandan pinos
+      silvestres con algunas píceas. En verano, en los prados de Ráhpavuobme, el gestor lo compara con una
+      jungla: crecen el acónito del norte, el cardo melancólico y el geranio de bosque, y florecen también
+      acónitos, calderones y lechugas de los Alpes. En el sotobosque, *Vaccinium myrtillus* y *Empetrum
+      nigrum*. Arriba, junto al borde de los glaciares y bajo los neveros, crece el ranúnculo glacial.
+
+
+      Las cumbres tienen su propio clima: allí la temperatura suele estar bajo cero incluso en verano.
+    wildlife: >-
+      El delta de Rapadalen alberga algunos de los [alces](/especie/alces_alces/) más grandes de Suecia, y en
+      los abedulares de esa zona, además de en los lagos de Rittak y Laitaure, vive el
+      [lince](/especie/lynx_lynx/) euroasiático. El [glotón](/especie/gulo_gulo/) tiene su dominio en el piso
+      alpino y baja a los bosques coníferos en invierno. El zorro rojo sube poco a poco hacia las cotas altas,
+      donde compite con el [zorro ártico](/especie/vulpes_lagopus/).
+
+
+      Los [renos](/especie/rangifer_tarandus/) marcan el verano. Cuando vuelve el calor, buscan neveros y
+      glaciares, y en los días más cálidos puedes verlos en las laderas altas, donde los insectos los dejan en
+      paz. Si te cruzas con ellos, siéntate a esperar a que pasen o rodea a los animales que pastan, para no
+      asustarlos.
+
+
+      El pechiazul llena de canto los abedulares en verano, y al principio de la primavera regresan los
+      escribanos nivales, en bandadas, a buscar comida donde empieza a fundirse la nieve.
+
+
+      El año tiene dos temporadas claras: julio a septiembre para caminar, marzo y abril para esquiar.
+    visit: >-
+      La puerta del sur es Kvikkjokk, o Huhttán, con autobús desde Jokkmokk. Desde Ritsem, en el norte, cruzas
+      Áhkkájávrre en barco y luego caminas entre medio día y un día entero hasta entrar al parque.
+
+
+      El Kungsleden pasa por Aktse. Desde allí puedes subir al pico Skierffe o seguir hacia el interior. Otra
+      subida es la del Bårddetjåhkkå: en el camino está el observatorio de Hamberg, terminado en 1911, y desde
+      la cima se ven todas las cumbres del Bårddemassivet y el glaciar Bårddejiegŋa, el mayor de Sarek. En
+      Álggavárre se conservan una capilla antigua y restos de minería histórica.
+
+
+      Para entender el conjunto antes de entrar, el Naturum Laponia está en la península de Viedásnjárgga, en
+      Stora Sjöfallet. Su exposición explica las montañas, los bosques y los humedales, sigue el cambio de
+      estaciones y cuenta por qué el reno es central en la cultura sami. Ofrece visitas guiadas y préstamo de
+      prismáticos, y está construido en una sola planta, sin escaleras.
+    history: >-
+      Los sami viven aquí y siguen las migraciones de los renos desde tiempos antiguos. En Skierffe y Nammásj
+      hay lugares sagrados donde se encontraban las personas y los dioses.
+
+
+      En Laponia, las decisiones importantes de gestión requieren consenso entre las partes. El plan Natura de
+      Sarek prevé que los hábitats sigan desarrollándose libremente.
+    before: >-
+      No hay senderos marcados ni puentes ni refugios dentro de Sarek: es un parque para senderistas
+      autónomos, a pie o con esquís. Algunos cursos tienen puentes estacionales: el de Skárjá se retira cada
+      otoño en helicóptero y se repone después de la crecida de primavera, a finales de junio. En todo el
+      patrimonio de Laponia hace falta autorización de la administración del condado para volar drones.
+    around: >-
+      Sarek limita con dos parques nacionales del atlas: el [Parque Nacional de
+      Padjelanta](/lugar/padjelanta-national-park/), a 1 km, y el [Parque Nacional de Stora Sjöfallet / Stuor
+      Muorkke](/lugar/stora-sjofallet-national-park/), a 2 km. Más lejos comparte glotón y alce con el [Parque
+      Nacional Urho Kekkonen](/lugar/urho-kekkonen-national-park/), el [Parque Nacional de
+      Abisko](/lugar/abisko-national-park/) y el [Parque Nacional de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/); con Abisko, además, el zorro ártico y los hábitats de
+      alta montaña. El [Parque Nacional Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/)
+      coincide en alta montaña, *Vaccinium myrtillus*, zorro ártico y oso pardo.
+  en:
+    intro: >-
+      There are no roads in Sarek, and that fact explains nearly everything. Anyone who wishes to enter must
+      be able to hike or ski, carry everything they need, and manage with whatever nature presents. In
+      exchange, you enter an alpine wilderness in its pristine state: six of Sweden's highest summits, nearly
+      a hundred glaciers, torrential streams, coniferous forests, wetlands, and true alpine tundra. It has
+      been a national park since 1909, situated in Swedish Lapland within Norrbotten County, and since 1996 it
+      forms part of the Laponian World Heritage area.
+    landscape: >-
+      Everything you see has been sculpted by glacial ice. The valleys of Sarek carry gentle U-shaped profiles
+      carved out by massive ice sheets during past glaciations, while the summits left standing remain jagged
+      and formidable thanks largely to amphibolite bedrock. In several places, magmatic dykes that forced
+      their way through metasediments crop out with their chilled margins still distinct.
+
+
+      Meltwater descends from the glaciers into the Ráhpaädno, the lifeblood of the national park, where the
+      river creates the inland delta of Ráhpavuobme, or Rapadalen. Here the sinuous mountain world shifts
+      character entirely: valleys fill with ancient birchwoods, braided deltas, and alpine heaths, while scots
+      pine with scattered norway spruce dominate the lower slopes. In summer, the lush meadows of Ráhpavuobme
+      are likened by park rangers to a subarctic jungle: northern monkshood, melancholy thistle, and wood
+      cranesbill flourish alongside globeflowers and alpine sow-thistle. The understorey is carpeted with
+      *Vaccinium myrtillus* and *Empetrum nigrum*. Higher up, clinging to glacier edges and perennial
+      snowbeds, blooms the glacier buttercup.
+
+
+      The mountain peaks produce their own microclimate: up there, temperatures frequently dip below freezing
+      even during midsummer.
+    wildlife: >-
+      The Rapadalen delta shelters some of the largest [moose](/especie/alces_alces/) in Sweden, while the
+      surrounding birchwoods and the lakes of Rittak and Laitaure host the Eurasian
+      [lynx](/especie/lynx_lynx/). The [wolverine](/especie/gulo_gulo/) commands the alpine tundra, descending
+      to coniferous woodlands in deep winter. The red fox is gradually pushing into higher elevations, where
+      it competes directly with the [Arctic fox](/especie/vulpes_lagopus/).
+
+
+      Semi-domesticated [reindeer](/especie/rangifer_tarandus/) define the brief summer. When warmth returns,
+      herds seek high snowfields and glacier flanks to escape biting insects. If you encounter reindeer, sit
+      down quietly until they move on or walk a wide circuit around grazing groups to avoid distressing them.
+
+
+      The bluethroat fills the mountain birchwoods with song in summer, while in early spring flocks of snow
+      buntings return to forage along the edges of melting snowpatches.
+
+
+      The year splits into two distinct visiting windows: July to September for self-supported trekking, and
+      March to April for ski expeditions.
+    visit: >-
+      The southern gateway is Kvikkjokk, or Huhttán, reached by public bus from Jokkmokk. From Ritsem in the
+      north, you take a boat across Lake Áhkkájávrre and then hike between half a day and a full day to reach
+      the park boundary.
+
+
+      The Kungsleden trail passes through Aktse. From there you can scramble up the iconic cliff of Skierffe
+      or continue into the roadless interior. Another classic ascent leads up Bårddetjåhkkå: along the
+      approach stands the historic Hamberg Observatory, completed in 1911, while the summit looks out across
+      every peak of the Bårddemassivet and the Bårddejiegŋa glacier, the largest in Sarek. At Álggavárre, a
+      historic chapel and remnants of seventeenth-century silver mining endure.
+
+
+      To understand this vast landscape before setting out, the Naturum Laponia visitor centre sits on the
+      Viedásnjárgga peninsula at Stora Sjöfallet. Its exhibits explain the alpine massifs, old-growth forests,
+      and peatlands, tracing the seasonal cycles and illuminating the deep cultural primacy of reindeer for
+      the Sámi people. It provides guided walks, binocular loans, and barrier-free single-storey architecture.
+    history: >-
+      The Sámi have lived here and followed the seasonal migrations of reindeer herds since time immemorial.
+      At Skierffe and Nammásj, sacred offering sites mark places where human life and ancestral spiritual
+      realms met.
+
+
+      Across Laponia, major conservation decisions require consensus among Sámi communities and state
+      authorities. The Natura management guidelines for Sarek ensure that natural processes and ecological
+      succession continue to unfold entirely unhindered.
+    before: >-
+      There are no marked trails, footbridges, or wilderness cabins within Sarek: it is an expedition realm
+      exclusively for fully self-sufficient backcountry travellers on foot or skis. A few torrents feature
+      seasonal summer bridges: the crossing at Skárjá is removed each autumn by helicopter and reassembled
+      after high spring meltwater, typically in late June. Operating drones anywhere across the Laponia World
+      Heritage site requires advance permission from the Norrbotten County Administrative Board.
+    around: >-
+      Sarek directly borders two national parks in the atlas: [Padjelanta National
+      Park](/lugar/padjelanta-national-park/), at 1 km, and [Stora Sjöfallet National Park / Stuor
+      Muorkke](/lugar/stora-sjofallet-national-park/), at 2 km. Further away it shares wolverine and moose
+      with [Urho Kekkonen National Park](/lugar/urho-kekkonen-national-park/), [Abisko National
+      Park](/lugar/abisko-national-park/), and [Femundsmarka National
+      Park](/lugar/femundsmarka-nasjonalpark/); sharing Arctic fox and alpine tundra habitats with Abisko as
+      well. [Pallas-Yllästunturi National Park](/lugar/pallas-yllastunturi-national-park/) converges on
+      high-mountain terrain, *Vaccinium myrtillus*, Arctic fox, and brown bear.
+  fr:
+    intro: >-
+      Il n'y a aucune route dans le Sarek, et cela résume presque tout. Quiconque désire y pénétrer doit être
+      en mesure de marcher ou de skier, de porter tout son équipement et de composer avec les éléments. En
+      contrepartie, vous découvrez une haute montagne à l'état pur : six des plus hauts sommets de Suède, près
+      d'une centaine de glaciers, des torrents impétueux, des forêts de conifères, des tourbières et une
+      authentique toundra alpine. Classé parc national dès 1909 en Laponie suédoise, dans le comté de
+      Norrbotten, il est intégré depuis 1996 au bien du Patrimoine mondial de Laponia.
+    landscape: >-
+      Tout ce que contemple votre regard a été sculpté par la glace. Les vallées du Sarek présentent un profil
+      évasé en U façonné par les calottes glaciaires successives, tandis que les crêtes émergentes demeurent
+      aiguës et acérées grâce notamment à l'amphibolite. En plusieurs endroits affleurent des dykes
+      magmatiques qui ont traversé les métasédiments et conservent leurs épontes de refroidissement intactes.
+
+
+      Les eaux de fonte descendent des glaciers vers le Ráhpaädno, l'artère maîtresse du parc, dont les
+      alluvions composent le delta intérieur de Ráhpavuobme, ou Rapadalen. Là, le décor tourmenté se
+      métamorphose : les dépressions accueillent de vieilles bétulaies montagnardes, des deltas fluviaux et
+      des landes d'altitude, tandis que sur les basses pentes règnent les pins sylvestres mêlés d'épicéas. En
+      été, les prairies luxuriantes de Ráhpavuobme évoquent une véritable jungle subarctique : l'aconit
+      septentrional, le cirse fausse-armoise et le géranium des bois y fleurissent aux côtés des trolle
+      d'Europe et des laiterons des Alpes. Le sous-bois abonde en *Vaccinium myrtillus* et *Empetrum nigrum*.
+      Au plus haut, à proximité immédiate des glaciers et sous les névés permanents, survit la renoncule des
+      glaciers.
+
+
+      Les sommets sécrètent leur propre climat : là-haut, les températures descendent fréquemment sous zéro
+      même au cœur de l'été.
+    wildlife: >-
+      Le delta de Rapadalen abrite quelques-uns des plus imposants [élans](/especie/alces_alces/) de Suède, et
+      ses forêts de bouleaux ainsi que les lacs de Rittak et de Laitaure hébergent le [lynx
+      boréal](/especie/lynx_lynx/). Le [glouton](/especie/gulo_gulo/) règne sur l'étage alpin et descend vers
+      les forêts de conifères au plus dur de l'hiver. Le renard roux progresse vers les hauteurs, où il entre
+      en concurrence directe avec le [renard polaire](/especie/vulpes_lagopus/).
+
+
+      Les [rennes](/especie/rangifer_tarandus/) scandent la belle saison. Lorsque la chaleur revient, les
+      hardes gagnent les névés et les glaciers d'altitude où les moustiques leur laissent du répit. Si vous
+      croisez un troupeau, asseyez-vous calmement le temps qu'il s'éloigne ou contournez largement les bêtes
+      au pâturage pour ne pas les effrayer.
+
+
+      La gorgebleue à miroir anime de ses trilles les forêts de bouleaux en été, tandis qu'au tout début du
+      printemps les bruants des neiges regagnent le massif en troupes pour se nourrir sur les premiers
+      déneigements.
+
+
+      L'année comporte deux fenêtres bien délimitées : de juillet à septembre pour la randonnée pédestre en
+      autonomie, et en mars-avril pour les traversées à ski.
+    visit: >-
+      La porte d'entrée sud est Kvikkjokk, ou Huhttán, accessible en autocar depuis Jokkmokk. Depuis Ritsem au
+      nord, vous traversez le lac Áhkkájávrre en bateau, puis marchez entre une demi-journée et une journée
+      complète avant de franchir la limite du parc.
+
+
+      Le sentier Kungsleden traverse Aktse. De là, vous pouvez gravir la proue rocheuse de Skierffe ou
+      poursuivre vers le cœur inviolé. Une autre ascension mène au Bårddetjåhkkå : sur le trajet s'élève
+      l'observatoire historique de Hamberg, achevé en 1911, tandis que la cime dévoile tous les pics du
+      Bårddemassivet et le glacier Bårddejiegŋa, le plus vaste de Sarek. À Álggavárre subsistent une chapelle
+      isolée et d'anciens vestiges miniers.
+
+
+      Pour appréhender l'ensemble avant de vous y aventurer, le centre Naturum Laponia est implanté sur la
+      péninsule de Viedásnjárgga, à Stora Sjöfallet. Sa scénographie décrypte les massifs, les forêts
+      anciennes et les tourbières, tout en illustrant la centralité séculaire du renne dans la culture sami.
+      Il propose des visites commentées, le prêt de jumelles et un bâtiment de plain-pied sans aucun escalier.
+    history: >-
+      Le peuple sami parcourt ces vallées et suit les transhumances du renne depuis des temps immémoriaux. À
+      Skierffe et à Nammásj s'élèvent des sites sacrés traditionnels où se côtoyaient les hommes et les
+      esprits protecteurs.
+
+
+      En Laponie, la gouvernance territoriale repose sur le consensus entre autorités et communautés locales.
+      Le document d'objectifs Natura de Sarek prévoit la libre évolution perpétuelle des habitats sans
+      perturbation anthropique.
+    before: >-
+      Le parc national ne comporte aucun sentier balisé, ni ponts permanents, ni refuges aménagés : il
+      s'adresse exclusivement aux marcheurs et skieurs d'expédition totalement autonomes. Seuls quelques cours
+      d'eau disposent de passerelles saisonnières : celle de Skárjá est démontée par hélicoptère chaque
+      automne et réinstallée après les grandes crues printanières vers la fin juin. Sur l'ensemble du bien de
+      Laponia, le vol de drones est soumis à autorisation préalable de la préfecture de Norrbotten.
+    around: >-
+      Sarek jouxte deux parcs nationaux répertoriés dans l'atlas : le [parc national de
+      Padjelanta](/lugar/padjelanta-national-park/), à 1 km, et le [parc national de Stora Sjöfallet / Stuor
+      Muorkke](/lugar/stora-sjofallet-national-park/), à 2 km. Plus au large, il partage le glouton et l'élan
+      avec le [parc national Urho Kekkonen](/lugar/urho-kekkonen-national-park/), le [parc national
+      d'Abisko](/lugar/abisko-national-park/) et le [parc national de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/) ; et avec Abisko, le renard polaire et les milieux de
+      haute montagne. Le [parc national de Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/)
+      présente également la haute montagne, *Vaccinium myrtillus*, le renard polaire et l'ours brun.
+  de:
+    intro: >-
+      Im Sarek gibt es keine Straßen, und das erklärt fast alles. Wer hierher vordringen will, muss wandern
+      oder auf Skiern gleiten können, die komplette Ausrüstung auf dem Rücken tragen und mit dem
+      zurechtkommen, was er vorfindet. Im Gegenzug erwartet dich eine urtümliche Hochgebirgslandschaft im
+      Naturzustand: sechs der höchsten Berge Schwedens, fast hundert Gletscher, reißende Gebirgsbäche,
+      Urwälder aus Nadelbäumen, weite Moore und arktisch-alpine Tundra. Sarek ist seit 1909 Nationalpark,
+      liegt in Schwedisch-Lappland in der Provinz Norrbotten und gehört seit 1996 zum Welterbe Laponia.
+    landscape: >-
+      Alles, was das Auge erblickt, wurde vom Eis gemeißelt. Die Täler des Sarek besitzen sanfte U-förmige
+      Tröge, die eiszeitliche Gletscher in den Fels gehobelt haben, während die aufragenden Felszacken dank
+      hartem Amphibolitgestein scharfkantig blieben. An mehreren Stellen treten magmatische Gänge zutage, die
+      einst Sedimentgesteine durchbrachen und bis heute ihre erstarrten Ränder zeigen.
+
+
+      Das Schmelzwasser stürzt von den Gletschern hinab in den Ráhpaädno, die Lebensader des Parks, und bildet
+      das weit verzweigte Delta von Ráhpavuobme oder Rapadalen. Hier wandelt sich das schroffe Gebirge völlig:
+      Die Täler füllen sich mit uralten Fjällbirkenwäldern, Verzweigungsdeltas und Zwergstrauchheiden, während
+      an den unteren Hängen Waldkiefern und Fichten vorherrschen. Im Hochsommer erinnern die Wiesen von
+      Ráhpavuobme an einen subarktischen Dschungel: Nordischer Eisenhut, Alpendisteln und Waldstorchschnabel
+      wuchern mannshoch neben Trollblumen und Alpen-Milchlattich. Am Boden breiten sich *Vaccinium myrtillus*
+      und *Empetrum nigrum* aus. Weit oben, an den Moränenrändern und Schneefeldern, blüht der
+      Gletscher-Hahnenfuß.
+
+
+      Die Gipfel tragen ihr eigenes Mikroklima: Dort herrschen selbst im Hochsommer oftmals Minustemperaturen.
+    wildlife: >-
+      Das Rapadalen-Delta beherbergt einige der stärksten [Elche](/especie/alces_alces/) Schwedens, und in den
+      lichten Birkenwäldern sowie an den Seen Rittak und Laitaure streift der [Eurasische
+      Luchs](/especie/lynx_lynx/) umher. Der [Vielfraß](/especie/gulo_gulo/) besitzt sein Kernrevier in der
+      alpinen Tundra und steigt im tiefsten Winter in die Nadelwälder hinab. Der Rotfuchs dringt zunehmend in
+      höhere Lagen vor, wo er mit dem [Polarfuchs](/especie/vulpes_lagopus/) um Nahrung konkurriert.
+
+
+      Die [Rentiere](/especie/rangifer_tarandus/) prägen den Bergsommer. Sobald Wärme aufkommt, steigen sie zu
+      Schneefeldern und Gletschern auf, um den Insektenschwärmen zu entkommen. Wenn du Rentieren begegnest,
+      setz dich ruhig hin, bis sie vorbeigezogen sind, oder umgehe weidende Tiere in weitem Bogen, um sie
+      nicht aufzuschrecken.
+
+
+      Das Blaukehlchen erfüllt die Birkenwälder im Sommer mit Gesang, während im zeitigen Frühjahr Schwärme
+      von Schneeammern eintreffen, um an den aperen Schneerändern Nahrung zu suchen.
+
+
+      Das Jahr teilt sich in zwei klare Besuchszeiten: Juli bis September für Fußwanderungen und März bis
+      April für Skitouren.
+    visit: >-
+      Das südliche Eingangstor ist Kvikkjokk (samisch Huhttán), das per Linienbus von Jokkmokk erreichbar ist.
+      Von Ritsem im Norden setzt du mit dem Boot über den See Áhkkájávrre und wanderst anschließend zwischen
+      einem halben und einem ganzen Tag bis an die Parkgrenze.
+
+
+      Der Fernwanderweg Kungsleden berührt Aktse. Von dort aus kannst du den Aussichtsfelsen Skierffe
+      besteigen oder tiefer ins weglose Schutzgebiet vordringen. Ein weiterer Klassiker ist die Bergtour auf
+      den Bårddetjåhkkå: Am Aufstieg liegt das historische Hamberg-Observatorium, vollendet 1911; vom Gipfel
+      aus überblickt man alle Zinnen des Bårddemassivs und den Bårddejiegŋa-Gletscher, den größten im Sarek.
+      Bei Álggavárre erinnern eine einsame Holzkapelle und Schürfreste an historischen Bergbau.
+
+
+      Um den Gesamtzusammenhang vor dem Aufbruch zu erfassen, lohnt der Besuch im Besucherzentrum Naturum
+      Laponia auf der Halbinsel Viedásnjárgga bei Stora Sjöfallet. Die Ausstellung erschließt Geologie,
+      Urwälder und Moore, zeichnet den Jahreslauf nach und vermittelt die zentrale Bedeutung des Rentiers in
+      der samischen Kultur. Es bietet Führungen, Fernglasverleih und eine stufenlose Architektur.
+    history: >-
+      Die Samen leben seit Jahrtausenden in diesen Tälern und folgen den Wanderzügen der Rentiere. Am Skierffe
+      und am Nammásj zeugen heilige Opferplätze von der engen Verbundenheit der Menschen mit den Naturmächten.
+
+
+      Im Welterbe Laponia werden Schutzentscheidungen im Konsens zwischen samischer Bevölkerung und Behörden
+      getroffen. Der Managementplan für Sarek sichert die vollständige Prozessdynamik aller Naturräume ohne
+      regulierende Eingriffe zu.
+    before: >-
+      Im gesamten Sarek gibt es weder markierte Wege noch feste Brücken oder Schutzhütten: Es ist ein
+      anspruchsvolles Terrain ausschließlich für vollständig autarke Wildniswanderer und Skiläufer. An wenigen
+      Schlüsselstellen existieren Sommerbrücken: Der Steg bei Skárjá wird im Herbst per Hubschrauber
+      ausgeflogen und erst nach dem Frühjahrshochwasser Ende Juni wieder montiert. Drohnenflüge sind im
+      gesamten Welterbe Laponia nur mit Genehmigung der Provinzialverwaltung Norrbotten gestattet.
+    around: >-
+      Sarek grenzt direkt an zwei Nationalparks im Atlas: den
+      [Padjelanta-Nationalpark](/lugar/padjelanta-national-park/) in 1 km Entfernung und den [Nationalpark
+      Stora Sjöfallet / Stuor Muorkke](/lugar/stora-sjofallet-national-park/) in 2 km Distanz. Weiter entfernt
+      teilt Sarek Vielfraß und Elch mit dem [Urho-Kekkonen-Nationalpark](/lugar/urho-kekkonen-national-park/),
+      dem [Nationalpark Abisko](/lugar/abisko-national-park/) und dem
+      [Femundsmarka-Nationalpark](/lugar/femundsmarka-nasjonalpark/); mit Abisko zudem Polarfuchs und alpine
+      Felslebensräume. Der [Nationalpark Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) deckt
+      sich bei Hochgebirge, *Vaccinium myrtillus*, Polarfuchs und Braunbär.
+  it:
+    intro: >-
+      A Sarek non esistono strade, e questo spiega quasi tutto. Chiunque voglia entrarvi deve poter camminare
+      o muoversi con gli sci, caricarsi l'equipaggiamento sulle spalle e fare affidamento solo sulle proprie
+      risorse. In cambio si accede a un ecosistema d'alta montagna rimasto intatto: sei tra le cime più alte
+      della Svezia, quasi cento ghiacciai, torrenti impetuosi, foreste di conifere, torbiere e autentica
+      tundra alpina. Parco nazionale sin dal 1909 nella Lapponia svedese, contea di Norrbotten, dal 1996 fa
+      parte del patrimonio mondiale UNESCO di Laponia.
+    landscape: >-
+      Tutto ciò che si osserva è stato modellato dai ghiacci. Le valli di Sarek presentano un armonioso
+      profilo a U scavato dalle coltri glaciali delle passate ere geologiche, mentre le vette rimaste scoperte
+      conservano creste aspre e aguzze grazie alla resistenza dell'anfibolite. In vari punti affiorano dicchi
+      magmatici che si aprirono un varco tra i metasedimenti, con i bordi di raffreddamento perfettamente
+      distinguibili.
+
+
+      Le acque di fusione scendono dai ghiacciai nel Ráhpaädno, la vena vitale del parco, sfociando nel delta
+      montano di Ráhpavuobme, o Rapadalen. Qui la morfologia valliva muta radicalmente: i fondovalle si
+      ricoprono di antiche boscaglie di betulla, rami deltizi e brughiere d'alta quota, mentre sulle fasce
+      inferiori dominano i pini silvestri misti ad abeti rossi. In estate, le praterie alluvionali di
+      Ráhpavuobme ricordano una giungla subartica: crescono l'aconito settentrionale, il cardo campestre e il
+      geranio dei boschi, fioriscono le botton d'oro e la cicerbita alpina. Nel sottobosco abbondano
+      *Vaccinium myrtillus* ed *Empetrum nigrum*. Sulle creste estreme, a ridosso delle morene e sotto i nevai
+      perenni, spunta il ranuncolo glaciale.
+
+
+      Le vette possiedono un microclima severo: in quota la temperatura precipita sovente sotto zero anche in
+      piena estate.
+    wildlife: >-
+      Il delta di Rapadalen accoglie alcuni degli [alci](/especie/alces_alces/) più maestosi di tutta la
+      Svezia, e tra le betulle circostanti e le rive dei laghi Rittak e Laitaure caccia la [lince
+      eurasiatica](/especie/lynx_lynx/). Il [ghiottone](/especie/gulo_gulo/) domina il piano alpino scendendo
+      verso i boschi di conifere durante i mesi più rigidi. La volpe rossa risale gradualmente verso le
+      altitudini maggiori, dove contende le prede alla [volpe artica](/especie/vulpes_lagopus/).
+
+
+      Le [renne](/especie/rangifer_tarandus/) ritmano l'estate artica. Quando risalgono le temperature, le
+      mandrie si rifugiano sui nevai e sui fronti glaciali per sottrarsi ai parassiti. Se incontri questi
+      ungulati, siediti ad attendere che transitino o aggira con ampio margine gli animali intenti a pascolare
+      per non allarmarli.
+
+
+      Il pettazzurro riempie di canti le boscaglie di betulla nella bella stagione, mentre a inizio primavera
+      tornano gli zigoli delle nevi a stormi per foraggiare dove affiorano i primi lembi di terreno sgombro
+      dal manto nevoso.
+
+
+      L'anno escursionistico presenta due finestre ben distinte: da luglio a settembre per il trekking a piedi
+      e tra marzo e aprile per le traversate scialpinistiche.
+    visit: >-
+      La porta meridionale è Kvikkjokk, o Huhttán, collegata da autobus di linea da Jokkmokk. Da Ritsem, a
+      nord, si attraversa il lago Áhkkájávrre in battello e si cammina poi da mezza giornata a un giorno
+      intero prima di varcare il confine del parco.
+
+
+      Il sentiero storico Kungsleden transita da Aktse. Da qui puoi salire al belvedere della rupe di Skierffe
+      o inoltrarti nel cuore selvaggio. Un'altra classica salita è quella al Bårddetjåhkkå: lungo la via si
+      trova l'osservatorio meteorologico di Hamberg, ultimato nel 1911; dalla vetta si abbracciano tutte le
+      vette del Bårddemassivet e la vedretta del Bårddejiegŋa, il ghiacciaio maggiore di Sarek. Ad Álggavárre
+      sorgono una cappella in legno e tracce di antichi scavi minerari.
+
+
+      Per inquadrare la vastità del territorio prima della traversata, il Naturum Laponia sorge sulla penisola
+      di Viedásnjárgga a Stora Sjöfallet. Il percorso museale illustra le vette, i boschi primari e le
+      torbiere, segue le stagioni e narra il ruolo cardine della renna nella civiltà sami. Mette a
+      disposizione visite guidate, noleggio di binocoli e una struttura su un unico livello senza gradini.
+    history: >-
+      Il popolo sami vive in queste vallate e segue le migrazioni delle renne da epoche arcaiche. Su rupi come
+      Skierffe e Nammásj rimangono luoghi di culto tradizionali in cui gli antenati entravano in comunione con
+      le forze spirituali della montagna.
+
+
+      Nel patrimonio di Laponia le scelte strategiche esigono il consenso condiviso tra comunità locali e
+      istituzioni. Il piano Natura di Sarek garantisce l'evoluzione spontanea e ininterrotta di tutti gli
+      habitat.
+    before: >-
+      Non troverai sentieri tracciati, né ponti stabili o rifugi custoditi all'interno di Sarek: è un parco
+      concepito per esploratori esperti interamente autosufficienti a piedi o con gli sci. Pochissimi torrenti
+      dispongono di passerelle provvisorie: quella di Skárjá viene rimossa ogni autunno con l'ausilio di
+      elicotteri e ricollocata a fine giugno, passata la piena di disgelo. Sull'intero territorio di Laponia
+      l'uso dei droni richiede il consenso formale dell'amministrazione provinciale.
+    around: >-
+      Sarek confina con due parchi nazionali inclusi nell'atlas: il [Parco nazionale di
+      Padjelanta](/lugar/padjelanta-national-park/), a 1 km, e il [Parco nazionale Stora Sjöfallet / Stuor
+      Muorkke](/lugar/stora-sjofallet-national-park/), a 2 km. Più a distanza condivide ghiottone e alce con
+      il [Parco nazionale Urho Kekkonen](/lugar/urho-kekkonen-national-park/), il [Parco nazionale di
+      Abisko](/lugar/abisko-national-park/) e il [Parco nazionale
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/); con Abisko condivide inoltre la volpe artica e gli
+      habitat d'alta quota. Il [Parco nazionale
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) coincide per ambienti d'alta montagna,
+      *Vaccinium myrtillus*, volpe artica e orso bruno.
+  pt:
+    intro: >-
+      Em Sarek não há estradas, e este facto sintetiza a sua essência. Quem quiser aventurar-se no seu
+      interior tem de ser capaz de marchar ou esquiar, carregar toda a sua bagagem e subsistir com o que
+      encontrar. Em contrapartida, é acolhido por um território de alta montanha em estado imaculado: seis dos
+      cumes mais elevados da Suécia, quase cem glaciares, torrentes velozes, bosques de coníferas, turfeiras e
+      genuína tundra alpina. Classificado como parque nacional desde 1909 na Lapónia sueca, condado de
+      Norrbotten, desde 1996 integra a área classificada como Património Mundial da Laponia.
+    landscape: >-
+      Toda a paisagem que se descortina foi esculpida pelo gelo. Os vales de Sarek ostentam um perfil suave em
+      U aberto pelas massas glaciares das épocas frias, enquanto os cumes escarpados permaneceram esguios e
+      resistentes devido à dureza do anfibolito. Em vários pontos afloram diques magmáticos que irromperam
+      através dos metassedimentos, conservando nítidas as suas orlas de arrefecimento rápido.
+
+
+      O degelo corre dos glaciares para o Ráhpaädno, o canal dorsal do parque, culminando na formação do delta
+      de Ráhpavuobme, ou Rapadalen. Ali o cenário montanhoso transforma-se radicalmente: os fundos de vale
+      enchem-se de bétulas ancestrais, esteiros fluviais e charnecas de montanha, ao passo que nos patamares
+      basais prosperam o pinheiro-silvestre e o espruce. No pino do verão, os prados aluviais de Ráhpavuobme
+      são descritos pela equipa gestora como uma selva subártica: brotam o acónito-do-norte, o
+      cardo-da-montanha e o gerânio-dos-bosques, florindo também o trole e a alface-dos-alpes. Na manta
+      rasteira cobrem o solo *Vaccinium myrtillus* e *Empetrum nigrum*. Nos cumes mais agrestes, pegado aos
+      moreias e debaixo de neves perpétuas, desabrocha o ranúnculo-dos-glaciares.
+
+
+      Os cumes têm o seu próprio clima: lá no cimo o termómetro desce com frequência abaixo de zero mesmo em
+      pleno verão.
+    wildlife: >-
+      O delta de Rapadalen abriga alguns dos maiores espécimes de [alce](/especie/alces_alces/) da Suécia, e
+      nos abedulares desse setor, bem como junto aos lagos Rittak e Laitaure, encontra refúgio o
+      [lince-euroasiático](/especie/lynx_lynx/). O [glutão](/especie/gulo_gulo/) tem o seu feudo no andar
+      alpino, descendo às matas de coníferas no auge do inverno. A raposa-vermelha galga progressivamente para
+      patamares elevados, onde compete de perto com a [raposa-do-ártico](/especie/vulpes_lagopus/).
+
+
+      As [renas](/especie/rangifer_tarandus/) pautam a dinâmica estival. Quando o calor regressa, procuram os
+      campos de neve e os glaciares para fugirem ao assédio dos insetos. Se cruzares com um rebanho, senta-te
+      e aguarda que passe ou contorna amplamente os animais em pastagem para não os assustar.
+
+
+      O pisco-de-peito-azul enche de trilos os bosques de bétulas no verão, ao passo que no dealbar da
+      primavera regressam bandos de escrevedeiras-das-neves em busca de sementes nas clareiras desprovidas de
+      gelo.
+
+
+      O calendário divide-se em duas temporadas bem delineadas: de julho a setembro para a marcha em autonomia
+      e de março a abril para as travessias em esquis.
+    visit: >-
+      O acesso pelo sul faz-se por Kvikkjokk, ou Huhttán, com ligação por autocarro a partir de Jokkmokk. A
+      partir de Ritsem, a norte, atravessa-se o lago Áhkkájávrre em embarcação e depois caminha-se entre meio
+      dia e um dia inteiro até se entrar nos limites do parque.
+
+
+      O célebre Kungsleden cruza Aktse. A partir daí podes subir ao miradouro de Skierffe ou avançar para as
+      zonas ermas interiores. Outra ascensão mítica é a do pico Bårddetjåhkkå: a meio do percurso situa-se o
+      histórico observatório de Hamberg, erguido em 1911; a partir da crista avistam-se todas as agulhas do
+      Bårddemassivet e o glaciar Bårddejiegŋa, o maior de Sarek. Em Álggavárre sobrevivem uma capela antiga de
+      madeira e vestígios de mineração histórica.
+
+
+      Para compreender a escala do território antes de avançares, o centro Naturum Laponia situa-se na
+      península de Viedásnjárgga, em Stora Sjöfallet. O espaço museológico explica a formação dos relevos, os
+      bosques e as turfeiras, retrata a sucessão das estações e contextualiza o papel nuclear da rena na
+      vivência sami. Disponibiliza visitas orientadas, empréstimo de binóculos e um edifício térreo e sem
+      escadas.
+    history: >-
+      O povo sami habita estas montanhas e acompanha as migrações sazonais das renas desde tempos imemoriais.
+      Em Skierffe e Nammásj conservam-se sítios sagrados onde outrora se reuniam a comunidade e os seus
+      espíritos tutelares.
+
+
+      Na Laponia, todas as grandes resoluções territoriais assentam no consenso mútuo entre comunidades sami e
+      entidades oficiais. O plano de conservação Natura de Sarek salvaguarda a evolução totalmente livre e
+      espontânea de todos os biótopos.
+    before: >-
+      Não existem quaisquer percursos assinalados, pontes fixas ou abrigos no interior de Sarek: é uma área
+      destinada em exclusivo a caminheiros experientes em completa autossuficiência a pé ou de esquis. Apenas
+      alguns rios contam com passadiços temporários: o de Skárjá é retirado todos os outonos por helicóptero e
+      reposto após o degelo primaveril, perto do final de junho. Em todo o território da Laponia o voo de
+      drones depende de autorização concedida pela administração provincial de Norrbotten.
+    around: >-
+      Sarek confina com dois parques nacionais constantes do atlas: o [Parque Nacional de
+      Padjelanta](/lugar/padjelanta-national-park/), a 1 km, e o [Parque Nacional de Stora Sjöfallet / Stuor
+      Muorkke](/lugar/stora-sjofallet-national-park/), a 2 km. Mais longe partilha o glutão e o alce com o
+      [Parque Nacional Urho Kekkonen](/lugar/urho-kekkonen-national-park/), o [Parque Nacional de
+      Abisko](/lugar/abisko-national-park/) e o [Parque Nacional de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/); com Abisko, além disso, a raposa-do-ártico e os
+      habitats de alta montanha. O [Parque Nacional
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) converge em alta montanha, *Vaccinium
+      myrtillus*, raposa-do-ártico e urso-pardo.
+fuentes:
+  - url: https://www.sverigesnationalparker.se/en/parks/sarek-national-park
+    titulo: About Sarek National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://www.sverigesnationalparker.se/en/parks/sarek-national-park/things-to-do
+    titulo: Things to do
+    fecha_consulta: '2026-10-22'
+  - url: https://www.sverigesnationalparker.se/en/parks/sarek-national-park/visit-the-park
+    titulo: Visit the park
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Sarek_National_Park
+    titulo: Sarek National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://laponia.nu/en/nationalparks-and-nature-reserves/high-mountains-and-deep-valleys/
+    titulo: Sarek – Laponiatjuottjudus
+    fecha_consulta: '2026-10-22'
+  - url: https://laponia.nu/wp-content/uploads/2023/09/Sarek_ENG_4000ex_100x210mm.pdf
+    titulo: Sarek National Park – folleto
+    fecha_consulta: '2026-10-22'
+  - url: https://whc.unesco.org/en/list/774/
+    titulo: Laponian Area – UNESCO
+    fecha_consulta: '2026-10-22'
+  - url: https://www.lansstyrelsen.se/download/18.4dc15f2816a53b76de7f356/1557497127221/Bevarandeplan%20Sarek%202019.pdf
+    titulo: Sarek SE0820185 – Bevarandeplan 2019
+    fecha_consulta: '2026-10-22'
+  - url: https://www.sverigesnationalparker.se/en/parks/sarek-national-park/visit-the-park/getting-here
+    titulo: Getting here – Sarek
+    fecha_consulta: '2026-10-22'
+  - url: https://laponia.nu/en/naturum-laponia/
+    titulo: Naturum Laponia
+    fecha_consulta: '2026-10-22'
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GC007941
+    titulo: Tegner et al. (2019) — A Mantle Plume Origin for the Scandinavian Dyke Complex
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Ruohtesv%C3%A1gge.jpg
+    autor: Bjornvaktaren
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

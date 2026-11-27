@@ -1,0 +1,553 @@
+id: lotschen-tal-upper-valley
+estado_editorial: valoracion-revisada
+nombre:
+  es: Curso Alto del Valle de Lötschental
+  en: Upper Lötschental Valley
+  fr: Haute vallée du Lötschental
+  de: Oberes Lötschental
+  it: Alto Corso della Valle di Lötschental
+  pt: Curso Alto do Vale de Lötschental
+nombre_original: Lötschental Upper Valley
+alias:
+  - Lötschental Upper Valley (Lötschental)
+paises:
+  - CH
+region:
+  es: Valais (Kippel / Blatten)
+  en: Valais (Kippel / Blatten)
+  fr: Valais (Kippel / Blatten)
+  de: Wallis (Kippel / Blatten)
+  it: Vallese (Kippel / Blatten)
+  pt: Valais (Kippel / Blatten)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.42
+  lon: 7.82
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 146767
+  nombre_en_la_fuente: Bietschhorn
+  capa: capas/cdda/lotschen-tal-upper-valley.geojson
+habitats:
+  - high_mountain
+  - glacial
+designaciones:
+  - unesco_whs
+especies:
+  - rupicapra_rupicapra
+  - marmota_marmota
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en Blatten y el glaciar de Langgletscher
+  en: Medium in Blatten and at the Langgletscher glacier
+  fr: Moyenne à Blatten et au glacier de Langgletscher
+  de: Mäßig in Blatten und am Langgletscher
+  it: Media a Blatten e presso il ghiacciaio di Langgletscher
+  pt: Média em Blatten e no glaciar de Langgletscher
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Lötschental Tourism Official
+    url: https://www.loetschental.ch/
+  - titulo: Accesos — movilidad y llegada al Lötschental
+    url: https://www.loetschental.ch/de/info-service/anreise-und-mobilitaet
+  - titulo: Avisos — información actual del valle
+    url: https://www.loetschental.ch/de/allgemein/aktuelles
+  - titulo: Rutas — senderismo y alpinismo del Lötschental
+    url: https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus
+enlaces_referencia:
+  - titulo: Wikipedia — valle de Lötschental
+    url: https://en.wikipedia.org/wiki/L%C3%B6tschental
+resumen:
+  es: El valle glaciar más místico de los Alpes berneses, rodeado por picos de más de 3.900 m.
+  en: The most mystical glacial valley in the Bernese Alps, rimmed by summits exceeding 3,900 m.
+  fr: La vallée glaciaire la plus secrète des Alpes bernoises, ceinte de sommets dépassant 3 900 m.
+  de: Das mystischste Gletschertal der Berner Alpen, umrahmt von Gipfeln über 3.900 m.
+  it: La valle glaciale più suggestiva delle Alpi bernesi, cinta da vette che superano i 3.900 m.
+  pt: O vale glaciar mais místico dos Alpes berneses, rodeado por cumes que superam os 3.900 m.
+unico:
+  es: Un valle que nace de un glaciar y sigue rodeado de más de veinte tresmiles.
+  en: A valley born directly from a glacier, cradled by more than twenty peaks exceeding three thousand meters.
+  fr: Une vallée née d'un glacier et dominée par plus de vingt sommets dépassant trois mille mètres.
+  de: Ein Tal, das einem Gletscher entspringt und von über zwanzig Dreitausendern umstanden ist.
+  it: Una valle generata da un ghiacciaio e sovrastata da oltre venti vette oltre i tremila metri.
+  pt: >-
+    Um vale que nasce diretamente de um glaciar e permanece cercado por mais de vinte picos de três mil
+    metros.
+observaciones:
+  es: >-
+    El sendero glaciar se sigue con folleto o códigos QR, porque no hay paneles tradicionales. En invierno,
+    casi todo el fondo del valle está expuesto a avalanchas. Un gran desprendimiento de hielo y roca ha
+    cambiado hace poco el fondo del valle alto en torno a Blatten: antes de planear cualquier ruta o acceso
+    por esa zona, consulta en la oficina de turismo del valle qué sigue abierto.
+texto:
+  es:
+    intro: >-
+      El Lötschental empieza en un glaciar. Del Langgletscher, la «lengua larga» de hielo que cierra el valle
+      por el este, nace el río Lonza, que recorre unos 27 kilómetros hasta la entrada del valle en Gampel. En
+      el camino atraviesa un valle de 150 kilómetros cuadrados, rodeado por más de veinte tresmiles, en la
+      vertiente sur de los Alpes berneses. Su tramo alto, el que va de este a oeste y ocupa dos tercios del
+      total, acaba en el paso glaciar de Lötschenlücke, a 3178 metros.
+    landscape: >-
+      Hay dos valles en uno. El bajo corre de norte a sur desde Gampel hasta debajo de Ferden con fuerte
+      pendiente, y el Lonza lo corta en una garganta estrecha. El alto, el valle principal, es una artesa
+      glaciar amplia, con hombreras marcadas en la ladera norte: la que dejó el hielo del Pleistoceno, que
+      también modeló su parte alta durante la Pequeña Edad de Hielo. Por debajo del Anungletscher, el glaciar
+      de la Pequeña Edad de Hielo levantó cerca de Fafleralp una morrena de unos 100 metros de altura; tras
+      ella hay bloques erráticos y lagos de deshielo, como el Guggisee y el Grundsee.
+
+
+      A un lado y otro, dos paredes muy distintas. La cadena norte, con Gasterngrat y Petersgrat, es la
+      divisoria entre el Ródano y el Aare y sus cumbres son de granito de Gastern. La sur, la del Bietschhorn,
+      de 3934 metros, separa el Lötschental del valle del Ródano. Los glaciares cubren el 13,7 por ciento de
+      la superficie y son el depósito de agua del valle.
+    wildlife: >-
+      El valle está en el cruce del clima marítimo húmedo del oeste de los Alpes del norte y el clima
+      mediterráneo más seco de los del sur. En Ried la temperatura media anual es de 4,7 °C y caen 1113
+      milímetros de precipitación al año. Casi todo el fondo del valle está expuesto a avalanchas.
+
+
+      Los pisos se leen en la ladera. La norte tiene bosque de coníferas hasta unos 2000 metros y, encima,
+      prados alpinos donde se encuentran los mayores pastos de altura del valle. La sur, en la sombra, apenas
+      tiene poblaciones y está cubierta de coníferas entre pastos pobres para ovejas y barrancos. Los bosques
+      de altura son sobre todo de alerce y picea, y en la ladera sur los de alerce y pino cembro marcan hacia
+      los 2200 metros el límite del arbolado. Entre 2500 y 3000 metros se alcanza el límite de la vegetación.
+
+
+      En esos pisos viven el [íbice alpino](/especie/capra_ibex/), el [rebeco](/especie/rupicapra_rupicapra/),
+      el ciervo, el topillo nival y la [marmota](/especie/marmota_marmota/); entre las aves, el [lagópodo
+      alpino](/especie/lagopus_muta/), la perdiz alpina y el [gallo lira](/especie/tetrao_tetrix/). El [águila
+      real](/especie/aquila_chrysaetos/) es habitual. El [lince](/especie/lynx_lynx/) llegó gracias a sueltas
+      en otros cantones, y los [lobos](/especie/canis_lupus/) regresan por su cuenta desde Italia y Francia a
+      Suiza desde 1995.
+    visit: >-
+      El Lötschentaler Höhenweg, entre Lauchernalp y Jeizinen, es una ruta moderada de 17,2 kilómetros, con
+      679 metros de subida y 1.131 de bajada. El Lötschental Panoramic Trail, entre Lauchernalp y Fafleralp,
+      mide 9,4 kilómetros y requiere unas dos horas y cuarenta minutos.
+
+
+      Para entender cómo se formó el paisaje, el sendero glaciar educativo explica en 23 estaciones la alta
+      montaña delante del Langgletscher. Es un circuito moderado de 11,2 kilómetros, cuatro horas y diez
+      minutos y 602 metros de subida, que sube desde 1.766 hasta 2.369 metros. Va de Fafleralp a Grundsee, al
+      portal glaciar y a Anenhütte, y vuelve por Guggialp. La información viene en un folleto o por códigos
+      QR, no con paneles tradicionales, y un tramo alpino está señalizado en azul y blanco hasta la puerta del
+      glaciar.
+
+
+      En Kippel, antiguo centro del valle, el Museo del Lötschental se creó en 1982.
+    history: >-
+      Por el Lötschenpass, ya recorrido en la Edad del Bronce, pasaron los comerciantes hasta principios de la
+      Edad Moderna. Con todo, el valle quedó aislado, sobre todo en invierno, hasta que el ferrocarril del
+      Lötschberg, construido entre 1907 y 1913, lo conectó. Esa soledad explica una costumbre única: en
+      carnaval salen por las calles los Tschäggättä, figuras con pieles y máscaras de madera tallada que
+      lanzan hollín a los curiosos.
+    before: >-
+      El sendero glaciar se sigue con folleto o códigos QR, porque no hay paneles tradicionales. En invierno,
+      casi todo el fondo del valle está expuesto a avalanchas. Un gran desprendimiento de hielo y roca ha
+      cambiado hace poco el fondo del valle alto en torno a Blatten: antes de planear cualquier ruta o acceso
+      por esa zona, consulta en la oficina de turismo del valle qué sigue abierto.
+    around: >-
+      A unos diez kilómetros queda el [Gran Glaciar de Aletsch - Sectores
+      Salvajes](/lugar/aletschgebiet-unspoiled-sectors/), y a quince el [Parque Natural del Valle de
+      Binn](/lugar/landschaftspark-binntal/). Lejos de aquí, el [Parque Nacional de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/) comparte con el valle la marmota y el rebeco.
+  en:
+    intro: >-
+      The Lötschental originates in ice. From the Langgletscher—the "long tongue" of ice sealing the eastern
+      head of the valley—springs the Lonza River, which courses roughly 27 kilometers down to the valley gate
+      at Gampel. En route, it cuts through a 150 square kilometer trough surrounded by more than twenty
+      three-thousand-meter summits on the southern flank of the Bernese Alps. Its upper section, trending east
+      to west and comprising two thirds of the basin, culminates at the glacial pass of the Lötschenlücke at
+      3,178 meters.
+    landscape: >-
+      The Lötschental comprises two valleys in one. The lower reach descends steeply from north to south
+      between Ferden and Gampel, sliced by the Lonza into a sheer canyon. The upper main valley forms an
+      expansive U-shaped glacial trough with pronounced lateral benches on the northern slope: carved during
+      the Pleistocene and remodeled again during the Little Ice Age. Below the Anungletscher, Little Ice Age
+      advances piled up a terminal moraine near Fafleralp rising some 100 meters high; behind it lie stranded
+      glacial erratics and meltwater lakes such as the Guggisee and Grundsee.
+
+
+      Two contrasting mountain walls flank the valley. The northern chain, carrying the Gasterngrat and
+      Petersgrat, divides the Rhône and Aare catchments with walls of Gastern granite. The southern wall,
+      crowned by the Bietschhorn at 3,934 meters, walls off the Lötschental from the Rhône valley. Glaciers
+      blanket 13.7 percent of the surface and constitute the valley's primary water reservoir.
+    wildlife: >-
+      The valley sits at the junction of the moist maritime climate of the northern Alps and the drier
+      Mediterranean conditions of the south. At Ried, mean annual temperature is 4.7 °C and annual
+      precipitation measures 1,113 millimeters. Almost the entire valley floor is exposed to winter
+      avalanches.
+
+
+      Vegetation zones step up the mountainsides. The sunny northern slope supports coniferous forests up to
+      roughly 2,000 meters, crowned by alpine meadows hosting the valley's largest high-altitude pastures. The
+      shady southern flank has virtually no permanent settlements, covered by dense conifers, avalanche
+      tracks, and sparse sheep grazing. Upper montane woods consist primarily of European larch and Norway
+      spruce; on southern exposures, larch and Swiss stone pine mark the timberline near 2,200 meters. The
+      absolute limit of vascular vegetation lies between 2,500 and 3,000 meters.
+
+
+      These zones shelter the [Alpine ibex](/especie/capra_ibex/), the [Alpine
+      chamois](/especie/rupicapra_rupicapra/), red deer, snow voles, and the [Alpine
+      marmot](/especie/marmota_marmota/); avifauna includes the [rock ptarmigan](/especie/lagopus_muta/), rock
+      partridge, and [black grouse](/especie/tetrao_tetrix/). The [golden eagle](/especie/aquila_chrysaetos/)
+      hunts regularly over the valley. The [Eurasian lynx](/especie/lynx_lynx/) arrived following releases in
+      neighboring cantons, while [grey wolves](/especie/canis_lupus/) have been naturally recolonizing
+      Switzerland from Italy and France since 1995.
+    visit: >-
+      The Lötschentaler Höhenweg between Lauchernalp and Jeizinen is a moderate hike of 17.2 kilometers, with
+      679 meters of ascent and 1,131 of descent. The Lötschental Panoramic Trail between Lauchernalp and
+      Fafleralp measures 9.4 kilometers and takes about two hours and forty minutes.
+
+
+      To understand the valley's glacial origins, the educational glacier trail interprets the high mountain
+      environment in front of the Langgletscher across 23 stations. It forms a moderate loop of 11.2
+      kilometers, taking four hours and ten minutes with 602 meters of climbing, ascending from 1,766 to 2,369
+      meters. It runs from Fafleralp to Grundsee, up to the glacier gate and Anenhütte, returning via
+      Guggialp. Trail information is accessed via booklet or QR codes rather than fixed panels, and an alpine
+      section blazed in blue and white leads up to the glacier portal.
+
+
+      In Kippel, the historical cultural center of the valley, the Lötschental Museum was founded in 1982.
+    history: >-
+      Traversed since the Bronze Age, the Lötschenpass was regularly crossed by trade caravans into the early
+      modern era. Yet the valley remained largely isolated, especially in winter, until the opening of the
+      Lötschberg railway built between 1907 and 1913. This seclusion nurtured a unique carnival tradition:
+      during Carnival, the Tschäggättä roam the village streets, donning raw sheepskins and grotesque
+      hand-carved wooden masks while soot-bombing onlookers.
+    before: >-
+      Follow the glacier nature trail using the printed brochure or mobile QR codes, as there are no fixed
+      interpretive panels. In winter, virtually the entire valley floor is threatened by avalanches. A major
+      rock and ice landslide recently altered the upper valley floor around Blatten: verify with the local
+      valley tourist office which routes and access roads are open before planning your trip.
+    around: >-
+      Roughly ten kilometers away lies the [Great Aletsch Glacier - Unspoiled
+      Sectors](/lugar/aletschgebiet-unspoiled-sectors/), and fifteen kilometers the [Binntal Nature
+      Park](/lugar/landschaftspark-binntal/). Farther afield, [Vanoise National
+      Park](/lugar/parc-national-de-la-vanoise/) shares the alpine chamois and marmots characteristic of this
+      valley.
+  fr:
+    intro: >-
+      Le Lötschental prend vie dans la glace. Du Langgletscher, la « longue langue » qui ferme la haute vallée
+      à l'est, naît la rivière Lonza, qui dévale environ 27 kilomètres jusqu'au verrou de Gampel. En chemin,
+      elle traverse un bassin de 150 kilomètres carrés cerné par plus de vingt sommets de plus de trois mille
+      mètres, sur le versant sud des Alpes bernoises. Son cours supérieur, orienté d'est en ouest et
+      représentant les deux tiers de l'ensemble, aboutit au col glaciaire de la Lötschenlücke à 3 178 mètres
+      d'altitude.
+    landscape: >-
+      Il y a deux vallées en une. La basse vallée descend vers le sud de Ferden à Gampel selon une pente raide
+      où la Lonza s'encaisse en gorges étroites. La haute vallée forme une vaste auge glaciaire en U, marquée
+      d'épaulements sur son versant nord façonnés lors du Pléistocène puis retouchés au Petit Âge glaciaire.
+      En aval de l'Anungletscher, les avancées du Petit Âge glaciaire ont accumulé près de Fafleralp une
+      moraine haute de 100 mètres ; en arrière gisent blocs erratiques et petits lacs de fonte, comme le
+      Guggisee et le Grundsee.
+
+
+      De part et d'autre se dressent deux murailles bien différentes. La crête nord, avec le Gasterngrat et le
+      Petersgrat, sépare les bassins du Rhône et de l'Aar dans le granite de Gastern. La crête sud, dominée
+      par le Bietschhorn à 3 934 mètres, isole le Lötschental de la vallée du Rhône. Les glaciers recouvrent
+      13,7 pour cent du territoire et constituent le réservoir d'eau de la vallée.
+    wildlife: >-
+      La vallée se situe au carrefour du climat humide des Préalpes du nord et des influences méditerranéennes
+      plus sèches du sud. À Ried, la température moyenne annuelle s'établit à 4,7 °C pour 1 113 millimètres de
+      précipitations par an. Presque tout le fond de vallée demeure exposé aux avalanches hivernales.
+
+
+      L'étagement se lit sur les adrets et ubacs. L'adret nord porte des forêts de résineux jusqu'à 2 000
+      mètres, couronnées par les plus grands alpages de la vallée. L'ubac sud, froid et sans village, porte
+      des pentes de conifères entre couloirs d'avalanches et pâtures à ovins. Les forêts subalpines sont
+      dominées par le mélèze et l'épicéa ; sur le versant sud, mélèzes et arolles marquent vers 2 200 mètres
+      la limite supérieure des arbres. Entre 2 500 et 3 000 mètres d'altitude cesse toute végétation.
+
+
+      Ces milieux abritent le [bouquetin des Alpes](/especie/capra_ibex/), le
+      [chamois](/especie/rupicapra_rupicapra/), le cerf, le campagnol des neiges et la [marmotte des
+      Alpes](/especie/marmota_marmota/) ; parmi les oiseaux figurent le [lagopède
+      alpin](/especie/lagopus_muta/), la perdrix bartavelle et le [tétras lyre](/especie/tetrao_tetrix/).
+      [L'aigle royal](/especie/aquila_chrysaetos/) est familier des lieux. Le [lynx
+      boréal](/especie/lynx_lynx/) s'est réimplanté à la suite de lâchers dans d'autres cantons, tandis que
+      les [loups](/especie/canis_lupus/) recolonisent naturellement la Suisse depuis l'Italie et la France
+      depuis 1995.
+    visit: >-
+      Le Lötschentaler Höhenweg entre Lauchernalp et Jeizinen propose une randonnée panoramique de 17,2
+      kilomètres pour 679 mètres de montée et 1 131 de descente. Le Lötschental Panoramic Trail entre
+      Lauchernalp et Fafleralp totalise 9,4 kilomètres et requiert environ deux heures et quarante minutes de
+      marche.
+
+
+      Pour comprendre le modelé glaciaire, le sentier didactique du glacier décrypte la haute montagne en 23
+      stations devant le Langgletscher. Cette boucle moyenne de 11,2 kilomètres demande quatre heures et dix
+      minutes pour 602 mètres de dénivelé positif, montant de 1 766 à 2 369 mètres d'altitude. Elle relie
+      Fafleralp au Grundsee, au portail du glacier et à l'Anenhütte, avant de redescendre par Guggialp. Les
+      explications sont fournies par livret ou code QR, sans panneaux fixes, et un tronçon alpin balisé bleu
+      et blanc mène au pied du glacier.
+
+
+      À Kippel, centre historique du val, le musée du Lötschental a été fondé en 1982.
+    history: >-
+      Fréquenté dès l'âge du bronze, le Lötschenpass a vu passer les marchands jusqu'à l'époque moderne. La
+      vallée est néanmoins demeurée isolée en hiver jusqu'à l'inauguration de la ligne du Lötschberg, percée
+      entre 1907 et 1913. Cet isolement a préservé une tradition carnavalesque singulière : les Tschäggättä,
+      vêtus de peaux de mouton et coiffés de masques grimaçants sculptés dans le bois d'arolle, noircissent
+      les passants de suie.
+    before: >-
+      Le sentier du glacier se parcourt à l'aide du livret ou des codes QR en l'absence de panneaux sur site.
+      En hiver, le fond de vallée est exposé aux avalanches. Un éboulement majeur a récemment modifié le
+      secteur haut autour de Blatten : renseignez-vous auprès de l'office du tourisme de la vallée pour
+      connaître l'état des sentiers et accès ouverts avant de partir.
+    around: >-
+      À dix kilomètres se déploie le [grand glacier d'Aletsch - secteurs
+      sauvages](/lugar/aletschgebiet-unspoiled-sectors/), et à quinze kilomètres le [parc naturel de la vallée
+      de Binn](/lugar/landschaftspark-binntal/). Plus loin, le [parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/) partage le chamois et la marmotte.
+  de:
+    intro: >-
+      Das Lötschental beginnt im Eis. Dem Langgletscher, der das Tal im Osten abschließt, entspringt die
+      Lonza, die über rund 27 Kilometer bis zum Talausgang bei Gampel fließt. Auf ihrem Weg durchquert sie ein
+      150 Quadratkilometer großes Tal, das von mehr als zwanzig Dreitausendern an der Südseite der Berner
+      Alpen überragt wird. Der obere Abschnitt von Ost nach West, der zwei Drittel des Tales einnimmt, endet
+      am vergletscherten Pass der Lötschenlücke auf 3.178 Metern.
+    landscape: >-
+      Es sind zwei Täler in einem. Das untere Tal fällt von Ferden nach Gampel steil ab, von der Lonza in eine
+      enge Schlucht geschnitten. Das obere Haupttal ist ein weiter glazialer Trogtal-Kessel mit ausgeprägten
+      Schliffborden an der Nordflanke aus dem Pleistozän, nachgeformt in der Kleinen Eiszeit. Unterhalb des
+      Anungletschers schüttete der Gletscher der Kleinen Eiszeit bei Fafleralp eine rund 100 Meter hohe
+      Endmoräne auf; dahinter liegen Findlinge und Schmelzwasserseen wie Guggisee und Grundsee.
+
+
+      Zu beiden Seiten ragen zwei gegensätzliche Felswände empor. Die Nordkette mit Gasterngrat und Petersgrat
+      bildet die Wasserscheide zwischen Rhone und Aare im Gastern-Granit. Die Südkette mit dem Bietschhorn,
+      3.934 Meter hoch, schirmt das Lötschental zum Rhonetal ab. Gletscher bedecken 13,7 Prozent der Fläche
+      und bilden den Wasserspeicher des Tals.
+    wildlife: >-
+      Das Tal liegt an der Grenze zwischen dem feuchten Nordalpenklima und den trockeneren südalpinen
+      Einflüssen. In Ried beträgt die Jahresmitteltemperatur 4,7 °C bei 1.113 Millimetern Jahresniederschlag.
+      Nahezu der gesamte Talboden ist im Winter lawinengefährdet.
+
+
+      Die Höhenstufen prägen die Hänge. Die sonnige Nordseite trägt Nadelwälder bis etwa 2.000 Meter, darüber
+      breiten sich die weitläufigen Almen des Tals aus. Die schattige Südseite weist kaum Siedlungen auf und
+      ist von Schutzwald, Lawinenrunsen und kargen Schafweiden bedeckt. Hochgebirgswälder bestehen aus Lärche
+      und Fichte; am Südhang markieren Lärchen und Arven um 2.200 Meter die Waldgrenze. Zwischen 2.500 und
+      3.000 Metern verliert sich jede Vegetation.
+
+
+      Hier leben [Alpensteinbock](/especie/capra_ibex/), [Gämse](/especie/rupicapra_rupicapra/), Rothirsch,
+      Schneemaus und [Alpenmurmeltier](/especie/marmota_marmota/); die Vogelwelt umfasst
+      [Alpenschneehuhn](/especie/lagopus_muta/), Steinhuhn und [Birkhuhn](/especie/tetrao_tetrix/). Der
+      [Steinadler](/especie/aquila_chrysaetos/) kreist regelmäßig. Der [Eurasische Luchs](/especie/lynx_lynx/)
+      wanderte nach Auswilderungen ein, und [Wölfe](/especie/canis_lupus/) kehren seit 1995 eigenständig aus
+      Italien und Frankreich in die Schweiz zurück.
+    visit: >-
+      Der Lötschentaler Höhenweg von der Lauchernalp nach Jeizinen ist eine mittelschwere Route von 17,2
+      Kilometern mit 679 Höhenmetern Anstieg und 1.131 Metern Abstieg. Der Lötschental Panoramic Trail
+      zwischen Lauchernalp und Fafleralp misst 9,4 Kilometer und dauert rund zwei Stunden und vierzig Minuten.
+
+
+      Der Gletscherlehrpfad erläutert an 23 Stationen die hochalpine Formung vor dem Langgletscher. Die
+      Rundtour über 11,2 Kilometer erfordert vier Stunden und zehn Minuten bei 602 Höhenmetern Anstieg von
+      1.766 auf 2.369 Meter Höhe. Sie führt von Fafleralp zum Grundsee, zum Gletschertor und zur Anenhütte und
+      zurück über die Guggialp. Informationstafeln wurden durch Broschüren und QR-Codes ersetzt; ein blau-weiß
+      markierter Alpinweg führt direkt zum Gletschertor.
+
+
+      In Kippel, dem historischen Zentrum des Tals, wurde 1982 das Lötschentaler Museum gegründet.
+    history: >-
+      Über den bereits in der Bronzezeit begangenen Lötschenpass zogen bis in die frühe Neuzeit Säumer und
+      Händler. Dennoch blieb das Tal vor allem im Winter isoliert, bis die zwischen 1907 und 1913 erbaute
+      Lötschbergbahn den Anschluss schuf. Diese Abgeschiedenheit bewahrte einen urtümlichen Fasnachtsbrauch:
+      die Tschäggättä, Gestalten in Fellen mit geschnitzten Holzmasken, die Passanten mit Ruß schwärzen.
+    before: >-
+      Den Gletscherlehrpfad erkundest du mit Faltblatt oder QR-Code, da vor Ort keine Schautafeln stehen. Im
+      Winter herrscht im Talboden akute Lawinengefahr. Ein Fels- und Eisabbruch veränderte kürzlich den
+      hinteren Talboden bei Blatten: Kläre vorab im Verkehrsbüro des Tals, welche Wege und Zufahrten
+      passierbar sind.
+    around: >-
+      Rund zehn Kilometer entfernt liegt der [Große Aletschgletscher - Unberührte
+      Sektoren](/lugar/aletschgebiet-unspoiled-sectors/) und fünfzehn Kilometer der [Landschaftspark
+      Binntal](/lugar/landschaftspark-binntal/). Weiter entfernt teilt der
+      [Vanoise-Nationalpark](/lugar/parc-national-de-la-vanoise/) Gämse und Murmeltier.
+  it:
+    intro: >-
+      La Lötschental scaturisce dai ghiacci. Dal Langgletscher, la «lingua lunga» che chiude a levante la
+      testata della valle, sgorga il fiume Lonza, che scorre per circa 27 chilometri fino allo sbocco di
+      Gampel. Nel suo corso attraversa un bacino di 150 chilometri quadrati coronato da più di venti vette di
+      oltre tremila metri sul versante meridionale delle Alpi bernesi. Il tratto superiore, orientato da est a
+      ovest e pari a due terzi dell'intera valle, si conclude al valico glaciale della Lötschenlücke a 3.178
+      metri.
+    landscape: >-
+      Sono due valli in una. La bassa valle scende ripida da Ferden a Gampel, incisa dalla Lonza in una
+      stretta forra. L'alta valle principale è un vasto solco a U modellato dai ghiacci pleistocenici e
+      ritoccato durante la Piccola Era Glaciale. A valle dell'Anungletscher, i ghiacci della Piccola Era
+      Glaciale edificarono vicino a Fafleralp una morena alta 100 metri; alle sue spalle riposano massi
+      erratici e laghetti di fusione come il Guggisee e il Grundsee.
+
+
+      Due barriere rocciose ben distinte serrano la valle. La catena settentrionale con Gasterngrat e
+      Petersgrat fa da spartiacque tra Rodano e Aar nel granito di Gastern. La muraglia meridionale del
+      Bietschhorn, a 3.934 metri, isola la valle dall'asse del Rodano. I ghiacciai coprono il 13,7 per cento
+      del territorio e fungono da serbatoio idrico primario.
+    wildlife: >-
+      La valle si trova all'incrocio tra il clima umido oceanico delle Alpi settentrionali e le correnti
+      secche mediterranee del sud. A Ried la temperatura media annua è di 4,7 °C con 1.113 millimetri di
+      precipitazioni all'anno. Quasi l'intero fondovalle è esposto a valanghe invernali.
+
+
+      I piani vegetazionali risalgono i versanti. Il versante nord esposto al sole ospita conifere fino a
+      circa 2.000 metri, sormontate dai pascoli d'alta quota più estesi della valle. Il versante sud, freddo e
+      disabitato, presenta boschi di conifere tra ripidi valloni e pascoli pascolati da pecore. I boschi
+      subalpini sono formati da larice e abete rosso; sul versante meridionale larici e pini cembri segnano
+      verso i 2.200 metri il limite degli alberi. Tra i 2.500 e i 3.000 metri la vegetazione scompare del
+      tutto.
+
+
+      In queste fasce vivono lo [stambecco alpino](/especie/capra_ibex/), il [camoscio
+      alpino](/especie/rupicapra_rupicapra/), il cervo nobile, l'arvicola delle nevi e la [marmotta
+      alpina](/especie/marmota_marmota/); tra gli uccelli compaiono la [pernice
+      bianca](/especie/lagopus_muta/), la coturnice e il [fagiano di monte](/especie/tetrao_tetrix/). L'
+      [aquila reale](/especie/aquila_chrysaetos/) volteggia regolarmente. La [lince
+      europea](/especie/lynx_lynx/) è giunta dopo rilasci in cantoni vicini, mentre i
+      [lupi](/especie/canis_lupus/) sono tornati autonomamente in Svizzera da Italia e Francia a partire dal
+      1995.
+    visit: >-
+      Il Lötschentaler Höhenweg tra Lauchernalp e Jeizinen è un tracciato panoramico di 17,2 chilometri con
+      679 metri di dislivello positivo e 1.131 di discesa. Il Lötschental Panoramic Trail tra Lauchernalp e
+      Fafleralp misura 9,4 chilometri e richiede due ore e quaranta minuti.
+
+
+      Per cogliere l'evoluzione dei ghiacci, il sentiero didattico glaciale illustra l'alta montagna in 23
+      tappe di fronte al Langgletscher. È un anello escursionistico di 11,2 chilometri, quattro ore e dieci
+      minuti di percorrenza e 602 metri di salita, che sale da 1.766 a 2.369 metri. Muove da Fafleralp verso
+      il Grundsee, la porta del ghiacciaio e l'Anenhütte, rientrando per Guggialp. Le informazioni sono
+      consultabili su opuscolo o codici QR senza pannelli fissi, e una deviazione alpinistica segnalata in
+      bianco e blu conduce al fronte glaciale.
+
+
+      A Kippel, centro storico della valle, il Museo della Lötschental è stato istituito nel 1982.
+    history: >-
+      Attraversato già nell'età del bronzo, il Lötschenpass ha visto transitare carovane commerciali fino alla
+      prima età moderna. Ciononostante la valle è rimasta isolata nei mesi invernali fino all'inaugurazione
+      della ferrovia del Lötschberg, costruita tra il 1907 e il 1913. Tale isolamento ha tramandato la
+      tradizione dei Tschäggättä: figure mascherate con pelli e volti lignei intagliati che cospargono di
+      fuliggine i curiosi durante il carnevale.
+    before: >-
+      Il sentiero didattico del ghiacciaio si segue con guida cartacea o codice QR in assenza di bacheche sul
+      percorso. In inverno il fondovalle è minacciato da valanghe. Una recente frana di roccia e ghiaccio ha
+      modificato il fondovalle superiore presso Blatten: prima di pianificare la gita, chiedi all'ufficio
+      turistico locale quali sentieri siano aperti.
+    around: >-
+      A circa dieci chilometri si estende il [Grande Ghiacciaio dell'Aletsch - Settori
+      Incontaminati](/lugar/aletschgebiet-unspoiled-sectors/) e a quindici chilometri il [Parco Naturale della
+      Valle di Binn](/lugar/landschaftspark-binntal/). Più distante, il [Parco Nazionale della
+      Vanoise](/lugar/parc-national-de-la-vanoise/) condivide camosci e marmotte.
+  pt:
+    intro: >-
+      O Lötschental nasce do gelo. Do Langgletscher, a «língua longa» que encerra a cabeceira do vale a leste,
+      brota o rio Lonza, que corre cerca de 27 quilómetros até ao fecho do vale em Gampel. Pelo caminho drena
+      uma bacia de 150 quilómetros quadrados delimitada por mais de vinte cumes de três mil metros na vertente
+      sul dos Alpes berneses. O seu troço superior, que corre de este para oeste e abrange dois terços da
+      extensão, culmina no colo glaciar de Lötschenlücke a 3.178 metros.
+    landscape: >-
+      Há dois vales num só. O vale inferior desce abruptamente de Ferden para Gampel, onde o Lonza esculpiu
+      uma garganta estreita. O vale principal superior é uma ampla calha glaciar em U com terraços laterais no
+      declive norte, moldados no Plistocénico e retocados na Pequena Idade do Gelo. A jusante do
+      Anungletscher, os avanços da Pequena Idade do Gelo acumularam junto a Fafleralp uma moreia com 100
+      metros de altura; por trás dela repousam blocos erráticos e lagoas de fusão como o Guggisee e o
+      Grundsee.
+
+
+      De cada lado erguem-se duas vertentes rochosas contrastantes. A crista norte com Gasterngrat e
+      Petersgrat divide as águas entre o Ródano e o Aar em granito de Gastern. A crista sul culmina no
+      Bietschhorn a 3.934 metros, isolando o Lötschental do vale do Ródano. Os glaciares cobrem 13,7 por cento
+      do território e servem de reserva hídrica.
+    wildlife: >-
+      O vale situa-se na transição entre o clima oceânico húmido dos Alpes setentrionais e a influência
+      mediterrânica mais seca do sul. Em Ried a temperatura média anual cifra-se em 4,7 °C com 1.113
+      milímetros de precipitação anual. Praticamente todo o fundo do vale se encontra exposto a avalanches no
+      inverno.
+
+
+      Os pisos de vegetação escalonam-se pelas encostas. A vertente norte soalheira alberga coníferas até aos
+      2.000 metros, encimadas pelos maiores pastos de altitude do vale. A encosta sul fria quase não tem
+      povoados, estando coberta por matas de resinosas e pastos pobres de ovelhas. As florestas de altitude
+      são dominadas por larícios e espruces; na encosta sul, larícios e pinheiros-cembros marcam por volta dos
+      2.200 metros o limite arbóreo. Entre os 2.500 e os 3.000 metros cessa qualquer vegetação.
+
+
+      Nestas zonas habitam o [íbis-alpino](/especie/capra_ibex/), a [camurça](/especie/rupicapra_rupicapra/),
+      o veado-vermelho, o rato-das-neves e a [marmota-alpina](/especie/marmota_marmota/); a avifauna inclui a
+      [perdiz-nival](/especie/lagopus_muta/), a perdiz-da-rocha e o [galo-lira](/especie/tetrao_tetrix/). A
+      [águia-real](/especie/aquila_chrysaetos/) patrulha com frequência o céu. O
+      [lince-euroasiático](/especie/lynx_lynx/) restabeleceu-se após reintroduções em cantões vizinhos,
+      enquanto os [lobos](/especie/canis_lupus/) regressam espontaneamente a partir de Itália e de França à
+      Suíça desde 1995.
+    visit: >-
+      O Lötschentaler Höhenweg entre Lauchernalp e Jeizinen é uma rota panorâmica de 17,2 quilómetros com 679
+      metros de subida e 1.131 de descida. O Lötschental Panoramic Trail entre Lauchernalp e Fafleralp
+      totaliza 9,4 quilómetros e exige cerca de duas horas e quarenta minutos.
+
+
+      Para compreender a geologia local, o percurso didático do glaciar esclarece a dinâmica de alta montanha
+      defronte do Langgletscher em 23 paragens. É um circuito moderado de 11,2 quilómetros, quatro horas e dez
+      minutos de caminhada e 602 metros de desnível positivo, subindo de 1.766 até 2.369 metros de altitude.
+      Vai de Fafleralp até ao Grundsee, à boca do glaciar e à Anenhütte, descendo por Guggialp. A informação é
+      facultada em brochura ou códigos QR sem placards fixos, e uma rota alpina marcada a azul e branco
+      alcança a entrada do glaciar.
+
+
+      Em Kippel, o centro histórico do vale, o Museu de Lötschental foi fundado em 1982.
+    history: >-
+      Utilizado desde a Idade do Bronze, o Lötschenpass serviu de passagem a mercadores até ao início da Idade
+      Moderna. O vale manteve-se no entanto isolado durante os invernos até à construção da linha de caminho
+      de ferro de Lötschberg entre 1907 e 1913. Este isolamento preservou uma tradição carnavalesca singular:
+      os Tschäggättä desfilam cobertos de peles e máscaras grotescas esculpidas em madeira de pinheiro-cembro,
+      atirando cinza aos passantes.
+    before: >-
+      O percurso glaciar orienta-se com folheto ou códigos QR por não existirem placards no local. No inverno,
+      o fundo do vale fica sujeito a avalanches. Uma grande derrocada de rocha e gelo alterou recentemente a
+      zona alta perto de Blatten: antes de planear qualquer rota, informa-te no posto de turismo sobre acessos
+      abertos.
+    around: >-
+      A dez quilómetros estende-se o [Grande Glaciar de Aletsch - Setores
+      Intocados](/lugar/aletschgebiet-unspoiled-sectors/) e a quinze quilómetros o [Parque Natural do Vale de
+      Binn](/lugar/landschaftspark-binntal/). Mais afastado, o [Parque Nacional da
+      Vanoise](/lugar/parc-national-de-la-vanoise/) partilha camurças e marmotas.
+fuentes:
+  - url: https://www.loetschental.ch/en/activities/hiking-and-alpinism/hiking-highlights-loetschental
+    titulo: Hiking highlights Lötschental — Lötschental Tourismus
+    fecha_consulta: '2026-11-06'
+  - url: https://www.loetschental.ch/de/aktivitaeten/familienerlebnis/themenwege/gletscherlehrpfad-sehen-und-verstehen-415
+    titulo: Gletscherlehrpfad sehen und verstehen — Lötschental Tourismus
+    fecha_consulta: '2026-11-06'
+  - url: https://de.wikipedia.org/wiki/L%C3%B6tschental
+    titulo: Lötschental - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/L%C3%B6tschental
+    titulo: Lötschental - Wikipedia
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:2177-L%C3%B6tschental.jpg
+    autor: FkMohr
+    licencia: CC BY-SA 3.0 de
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,678 @@
+id: reinheimen-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Reinheimen
+  en: Reinheimen National Park
+  fr: Parc national de Reinheimen
+  de: Reinheimen-Nationalpark
+  it: Parco nazionale di Reinheimen
+  pt: Parque Nacional de Reinheimen
+nombre_original: Reinheimen National Park
+alias:
+  - Reinheimen National Park
+paises:
+  - 'NO'
+region:
+  es: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+  en: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+  fr: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+  de: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+  it: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+  pt: Innlandet / Møre og Romsdal (Åndalsnes / Skjåk / Lesja)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 62.15
+  lon: 7.75
+  radio_km: 40
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 346054
+  nombre_en_la_fuente: Reinheimen
+  categoria_uicn: II
+  capa: capas/cdda/reinheimen-national-park.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - gorge_canyon
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - rangifer_tarandus
+  - gulo_gulo
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: junio a septiembre
+  en: June to September
+  fr: juin à septembre
+  de: Juni bis September
+  it: da giugno a settembre
+  pt: junho a setembro
+masificacion: 1
+masificacion_nota:
+  es: Muy baja en el interior; media en el valle de Romsdalen
+  en: Very low in the backcountry; moderate in the Romsdalen valley
+  fr: Très faible à l'intérieur ; moyenne dans la vallée de Romsdalen
+  de: Sehr gering im Kerngebiet; mäßig im Romsdalen-Tal
+  it: Molto bassa all'interno; media nella valle di Romsdalen
+  pt: Muito baixa no interior; média no vale de Romsdalen
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Reinheimen
+    url: https://www.nasjonalparkstyre.no/Reinheimen/
+  - titulo: Normas — Reinheimen
+    url: https://reinheimen.no/ferdselsrad/
+  - titulo: Centros de visitantes, senderos y accesos — Reinheimen
+    url: https://reinheimen.no/innfallsportar/
+  - titulo: Mapa y normas — Folleto oficial de Reinheimen
+    url: https://www.nasjonalparkstyre.no/uploads/files_reinheimen/M-2563_Reinheimen-web.pdf
+resumen:
+  es: >-
+    Uno de los espacios protegidos continuos sin carreteras ni electricidad más grandes de Noruega,
+    custodiando las poblaciones de reno salvaje más primitivas de las montañas.
+  en: >-
+    One of Norway's largest roadless, unelectrified contiguous protected areas, safeguarding the mountains'
+    most ancestral wild reindeer herds.
+  fr: >-
+    L'un des plus vastes espaces protégés continus sans route ni électricité de Norvège, abritant les hardes
+    de rennes sauvages les plus primitives des montagnes.
+  de: >-
+    Eines der größten zusammenhängenden straßen- und stromlosen Schutzgebiete Norwegens, das die
+    ursprünglichsten wilden Rentierbestände der Bergwelt bewahrt.
+  it: >-
+    Una delle maggiori aree protette contigue prive di strade ed elettricità della Norvegia, custode delle
+    popolazioni di renna selvatica più ancestrali delle montagne.
+  pt: >-
+    Uma das maiores áreas protegidas contínuas sem estradas nem eletricidade da Noruega, albergando os núcleos
+    de rena selvagem mais ancestrais das montanhas.
+unico:
+  es: >-
+    Un parque donde sigues los pasos de los cazadores de reno de hace milenios, entre trampas de foso y
+    refugios de piedra, a los pies de uno de los muros verticales más altos de Europa.
+  en: >-
+    A park where you retrace the steps of prehistoric reindeer hunters among pitfall traps and stone shelters,
+    beneath one of Europe's highest vertical rock faces.
+  fr: >-
+    Un parc où vous marchez sur les traces des chasseurs de rennes millénaires, entre fosses-pièges et abris
+    de pierre, au pied de l'une des plus hautes parois verticales d'Europe.
+  de: >-
+    Ein Park, in dem du auf den Spuren jahrtausendealter Rentierjäger zwischen Fanggruben und Steinhütten am
+    Fuß einer der höchsten Steilwände Europas wandelst.
+  it: >-
+    Un parco in cui ripercorri i passi dei cacciatori di renne di millenni or sono, tra buche-trappola e
+    ricoveri in pietra, ai piedi di una delle pareti verticali più alte d'Europa.
+  pt: >-
+    Um parque onde segues os passos dos caçadores de renas de há milénios, entre armadilhas de fosso e abrigos
+    de pedra, no sopé de uma das paredes verticais mais altas da Europa.
+observaciones:
+  es: >-
+    Las aves de las zonas altas crían en condiciones límite, con temporada corta y mal tiempo, y son
+    vulnerables a las molestias, sobre todo durante la cría. Respeta al reno en invierno y en primavera y
+    mantén al perro controlado. Consulta al gestor el estado de las rutas y los avisos antes de salir.
+texto:
+  es:
+    intro: >-
+      Desde el fondo del valle de Romsdalen, Trollveggen sube 1.700 metros en vertical, y es uno de los
+      farallones más altos de Europa. Pero Reinheimen no es solo ese muro. Es el tercer parque nacional más
+      grande de Noruega, con 1.969 km² de montaña continua, creado en 2006 entre Møre og Romsdal e Innlandet.
+      Una parte es dramática —picos afilados, crestas como cuchillos, ríos que corren rápidos—, y otra es una
+      larga meseta ondulada por donde pasta uno de los últimos grandes rebaños de reno salvaje de Europa. Aquí
+      se pasa de una a otra en cuestión de horas.
+    landscape: >-
+      Reinheimen tiene dos caras. En el oeste el paisaje es abrupto, con picos, crestas, valles, canchales y
+      ríos veloces. Si caminas hasta Bruraskaret, hacia Romsdalen, te asomas a una caída de unos 1.000 metros
+      por Trollveggen. En el este, el terreno se suaviza: mesetas onduladas, valles más anchos, ríos más
+      calmados. Las cumbres más altas pasan de los 2000 metros, y el punto más bajo está al pie de
+      Trollveggen, a unos 130 metros.
+
+
+      La diferencia tiene una causa. Entre 900 y 1.900 millones de años atrás se formaron las primeras partes
+      de Reinheimen: rocas sedimentarias e ígneas plegadas y transformadas en gneises, con granitos intruidos
+      después. En el este hay rocas más jóvenes y ricas en nutrientes, como filita y micaesquisto. En el oeste
+      el terreno se ha elevado más desde la Edad de Hielo y llueve más, así que los ríos tienen más pendiente
+      y más fuerza para cortar la roca. En Romsdalen, bloques enormes en el fondo del valle recuerdan los
+      desprendimientos; en el otoño de 2019 se desplomó Veslemannen, parte de la formación inestable de
+      Mannen, hacia el valle.
+
+
+      De la montaña nacen el Istra, el Rauma, el Lora, el Finna/Skjerva, el Valldøla y el Tora/Føysa.
+    wildlife: >-
+      El [reno](/especie/rangifer_tarandus/) salvaje ocupa casi todo el parque. El rebaño invernal ronda los
+      2000 animales y es uno de los más productivos del país. Es vulnerable a las molestias, sobre todo en
+      invierno y en la paridera de primavera. Huele a una persona desde varios kilómetros y puede correr igual
+      de lejos: si te lo encuentras, mantén buena distancia, aléjate despacio en sentido contrario y lleva al
+      perro controlado.
+
+
+      Sobre él viven los depredadores. El [glotón](/especie/gulo_gulo/) cría en el parque y en sus paisajes
+      protegidos. El [zorro ártico](/especie/vulpes_lagopus/) vuelve: en 2004 empezó un programa de cría que
+      soltó crías, y desde 2016 se observan parejas reproductoras en Reinheimen. Está prohibido por ley
+      molestar sus madrigueras.
+
+
+      Entre las aves, las laderas de bosque caducifolio de Tafjorden y Romsdalen albergan aves cantoras y
+      pájaros carpinteros. El [urogallo](/especie/tetrao_urogallus/) y el [gallo
+      lira](/especie/tetrao_tetrix/) se ven en los valles bajos agrícolas, el lagópodo escandinavo en los
+      valles de montaña y el [lagópodo alpino](/especie/lagopus_muta/) más arriba. Las gargantas y barrancos
+      son zonas de nidificación de rapaces: el [águila real](/especie/aquila_chrysaetos/), el
+      [pigargo](/especie/haliaeetus_albicilla/), el busardo calzado y el [halcón
+      gerifalte](/especie/falco_rusticolus/) son los más comunes, y el [búho real](/especie/bubo_bubo/)
+      también está presente. Los lagos Leirungvatnet y Råkvatnet reciben aves acuáticas reproductoras, entre
+      ellas especies de la Lista Roja. Se han registrado más de 115 especies de aves reproductoras en las
+      áreas protegidas.
+    visit: >-
+      Reinheimen se visita por sus puertas. En Lom, el Norwegian Mountain Center es el centro de visitantes de
+      tres parques —Reinheimen, Breheimen y Jotunheimen— y su museo cuenta la naturaleza, la cultura y la
+      historia. En Åndalsnes, el Norsk Tindesenter es centro y museo con rocódromo y explica la historia de la
+      escalada en Romsdalen. En Lesja, el museo rural explica el reno salvaje y la cultura de la zona. En el
+      paso de Trollstigen, un mirador con café informa del parque y de allí salen varios senderos señalizados.
+
+
+      Para caminar hay varias opciones. El mirador de Tussheim queda a una hora a pie del centro de Lesja, y
+      el sendero interpreta el hábitat del reno salvaje. El sendero natural y cultural de Billingen mide 3,1
+      km por laderas de bosque, con vistas a Reinheimen y Breheimen. El Kløvstien, un viejo camino de Valldal
+      a Åndalsnes, permite elegir entre un circuito corto o subir hasta el paso de Trollstigen. En Bjorli, el
+      Rånåkollen tiene un sendero marcado a la cima con vistas a dos parques y un refugio de día. En verano,
+      un autobús sale del Norsk Tindesenter a Vengedalen, punto de partida de la travesía de la cresta
+      Romsdalseggen. Y puedes recorrer en coche la ruta panorámica Geiranger-Trollstigen para ver el terreno
+      más alpino.
+
+
+      A Reinheimen llegan las carreteras Rv 15 y E136 y el tren de la línea Rauma.
+    history: >-
+      Reinheimen es especialmente rico en monumentos de la antigua caza del reno salvaje: trampas de foso,
+      sistemas de captura masiva, escondites de caza y restos de refugios de los cazadores. Están protegidos,
+      así que no muevas las piedras de los muros viejos. Los pueblos del entorno están muy ligados a la
+      montaña: unas 20.000 cabezas de ganado pastan en verano en los paisajes protegidos y en el parque, por
+      lo que hay que respetarlas.
+    before: >-
+      Las aves de las zonas altas crían en condiciones límite, con temporada corta y mal tiempo, y son
+      vulnerables a las molestias, sobre todo durante la cría. Respeta al reno en invierno y en primavera y
+      mantén al perro controlado. Consulta al gestor el estado de las rutas y los avisos antes de salir.
+    around: >-
+      Reinheimen tiene tres vecinos del atlas: el [Parque Nacional de
+      Dovrefjell-Sunndalsfjella](/lugar/dovrefjell-sunndalsfjella-national-park/), a unos 15 km, y el [Parque
+      Nacional de Jotunheimen](/lugar/jotunheimen-national-park/) y el [Parque Nacional de
+      Rondane](/lugar/rondane-national-park/), a unos 25 km. Más lejos, el [Parque Nacional de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) comparte con él el glotón y el reno,
+      la alta montaña y los glaciares.
+  en:
+    intro: >-
+      Rising from the floor of the Romsdalen valley, Trollveggen ascends 1,700 metres vertically, forming one
+      of the highest sheer rock faces in Europe. Yet Reinheimen is far more than that precipice. It is
+      Norway's third-largest national park, encompassing 1,969 km² of contiguous mountain territory,
+      established in 2006 across Møre og Romsdal and Innlandet. One quarter is dramatic—razor-sharp peaks,
+      knife-edge ridges, roaring torrents—while another unfolds into a sprawling rolling plateau where one of
+      Europe's last great wild reindeer herds grazes. Here you can traverse from one world to the other within
+      hours.
+    landscape: >-
+      Reinheimen exhibits two contrasting faces. In the west the topography is jagged, marked by horns,
+      crests, gorges, talus slopes, and churning glacial rivers. If you trek to Bruraskaret towards Romsdalen,
+      you peer over a plunge of about 1,000 metres straight down Trollveggen. In the east, the terrain
+      softens: undulating plateaus, broader valleys, and tranquil streams. The highest summits exceed 2000
+      metres, whereas the lowest point rests at the base of Trollveggen, around 130 metres.
+
+
+      This dichotomy has a geological root. Between 900 and 1,900 million years ago the foundational rocks of
+      Reinheimen formed: sedimentary and igneous strata folded and metamorphosed into gneisses, later invaded
+      by granitic intrusions. In the east younger, nutrient-rich rocks prevail, such as phyllite and mica
+      schist. In the west the land has rebounded more vigorously since the Ice Age and receives heavier
+      precipitation, granting rivers steeper gradients and formidable cutting power. In Romsdalen, colossal
+      valley-floor boulders bear witness to prehistoric and recent rock avalanches; in autumn 2019,
+      Veslemannen, part of the unstable Mannen rock mass, plunged into the valley.
+
+
+      From these heights spring the Istra, Rauma, Lora, Finna/Skjerva, Valldøla, and Tora/Føysa.
+    wildlife: >-
+      The wild [caribou](/especie/rangifer_tarandus/) ranges across virtually the entire park. The winter herd
+      numbers around 2000 animals, ranking among the country's most productive. It is exceedingly vulnerable
+      to disturbance, notably in midwinter and during spring calving. A reindeer can detect human scent from
+      several kilometres and bolt just as far: if you encounter reindeer, keep an ample distance, retreat
+      slowly in the opposite direction, and keep your dog under firm control.
+
+
+      Above them dwell the predators. The [wolverine](/especie/gulo_gulo/) breeds within the park and its
+      buffer zones. The [Arctic fox](/especie/vulpes_lagopus/) is staging a comeback: in 2004 a captive
+      breeding and release project began, and since 2016 breeding pairs have established territories in
+      Reinheimen. Disturbing their dens is prohibited by law.
+
+
+      Among birds, the deciduous wooded slopes of Tafjorden and Romsdalen shelter passerines and woodpeckers.
+      The [Western capercaillie](/especie/tetrao_urogallus/) and [black grouse](/especie/tetrao_tetrix/)
+      inhabit lower agricultural valleys, willow ptarmigan populate upland valleys, and the [rock
+      ptarmigan](/especie/lagopus_muta/) thrives at higher elevations. Gorges provide nesting ledges for
+      raptors: the [golden eagle](/especie/aquila_chrysaetos/), the [white-tailed
+      eagle](/especie/haliaeetus_albicilla/), rough-legged buzzard, and
+      [gyrfalcon](/especie/falco_rusticolus/) are most widespread, alongside the [Eurasian
+      eagle-owl](/especie/bubo_bubo/). Lakes Leirungvatnet and Råkvatnet host breeding waterfowl, including
+      red-listed species. More than 115 breeding bird species have been recorded across the protected
+      territories.
+    visit: >-
+      Reinheimen is best accessed through its gateways. In Lom, the Norwegian Mountain Center functions as the
+      visitor centre for three parks—Reinheimen, Breheimen, and Jotunheimen—with museum displays on nature,
+      culture, and mountain history. In Åndalsnes, the Norsk Tindesenter combines visitor facilities, a
+      museum, and a climbing wall explaining mountaineering heritage in Romsdalen. In Lesja, the rural museum
+      interprets wild reindeer and traditional upland life. At the Trollstigen Pass, a panoramic viewpoint and
+      café interpret the national park, serving as the trailhead for several signposted routes.
+
+
+      Hikers have multiple day options. The Tussheim lookout lies an hour on foot from Lesja centre along a
+      path interpreting reindeer ecology. The Billingen cultural and nature trail covers 3.1 km through
+      woodland slopes with vistas of Reinheimen and Breheimen. The Kløvstien, a historic packhorse track from
+      Valldal to Åndalsnes, allows either a gentle stroll or a stiff climb to Trollstigen. At Bjorli,
+      Rånåkollen offers a marked ascent to a summit overlooking two parks, complete with a day shelter. In
+      summer, a shuttle bus connects Norsk Tindesenter to Vengedalen, the departure point for the
+      Romsdalseggen ridge traverse. Alternatively, you can drive the scenic Geiranger-Trollstigen highway to
+      take in the most dramatic alpine relief.
+
+
+      Reinheimen is reachable via highways Rv 15 and E136, as well as the scenic Rauma railway line.
+    history: >-
+      Reinheimen is exceptionally rich in archaeological vestiges of prehistoric wild reindeer hunting:
+      pitfall trapping systems, large-scale converging drive walls, hunting blinds, and drystone hunter huts.
+      They enjoy strict legal protection, so never disturb stones from ancient walls. Surrounding rural
+      communities maintain deep historical bonds with the uplands: some 20,000 head of domestic livestock
+      graze each summer across the national park and its protected landscapes, requiring respectful
+      coexistence.
+    before: >-
+      High-altitude birds nest under razor-thin margins with short breeding windows and volatile weather,
+      leaving them extremely susceptible to human disturbance during the breeding season. Respect wild
+      reindeer during winter and spring, keeping dogs leashed and controlled. Consult park management
+      regarding route conditions and hazard bulletins prior to departure.
+    around: >-
+      Reinheimen has three neighbours in the atlas: [Dovrefjell-Sunndalsfjella National
+      Park](/lugar/dovrefjell-sunndalsfjella-national-park/), about 15 km away, alongside [Jotunheimen
+      National Park](/lugar/jotunheimen-national-park/) and [Rondane National
+      Park](/lugar/rondane-national-park/), about 25 km away. Farther afield, [Saltfjellet-Svartisen National
+      Park](/lugar/saltfjellet-svartisen-nasjonalpark/) shares the wolverine and caribou, arctic-alpine peaks,
+      and glaciers.
+  fr:
+    intro: >-
+      Depuis le fond de la vallée de Romsdalen, le Trollveggen s'élance à la verticale sur 1 700 mètres,
+      formant l'une des plus hautes parois rocheuses d'Europe. Mais Reinheimen ne se résume pas à cette
+      immense falaise. C'est le troisième plus grand parc national de Norvège, avec 1 969 km² de montagnes
+      ininterrompues, créé en 2006 entre le Møre og Romsdal et l'Innlandet. Une partie s'avère spectaculaire —
+      pics déchiquetés, arêtes en lame de rasoir, torrents impétueux —, tandis qu'une autre s'étend en un
+      vaste plateau ondulé où paît l'une des dernières grandes hardes de rennes sauvages d'Europe. On passe de
+      l'un à l'autre en quelques heures.
+    landscape: >-
+      Reinheimen présente deux visages. À l'ouest, le relief se révèle très heurté, jalonné de pics, d'arêtes,
+      de vallées encaissées, d'éboulis et de rivières torrentielles. En montant à Bruraskaret vers le
+      Romsdalen, vous plongez le regard dans un à-pic d'environ 1 000 mètres le long du Trollveggen. À l'est,
+      les formes s'adoucissent : hauts plateaux ondulés, vallées plus ouvertes, rivières assagies. Les plus
+      hauts sommets dépassent 2000 mètres, tandis que le point le plus bas se situe au pied du Trollveggen, à
+      environ 130 mètres.
+
+
+      Cette disparité trouve son origine géologique. Entre 900 et 1 900 millions d'années se sont constitués
+      les premiers socles de Reinheimen : des roches sédimentaires et ignées plissées et métamorphisées en
+      gneiss, intrudées ultérieurement de granites. À l'est affleurent des roches plus jeunes et riches en
+      minéraux, telles que des phyllades et des micaschistes. À l'ouest, le socle a connu un soulèvement
+      post-glaciaire plus accentué et reçoit davantage de pluies, dotant les cours d'eau d'une forte déclivité
+      et d'une puissance d'érosion redoutable. Dans le Romsdalen, d'immenses blocs rocheux au fond de la
+      vallée témoignent d'éboulements historiques ; à l'automne 2019, le monticule instable de Veslemannen
+      s'est détaché du mont Mannen pour s'écraser dans la vallée.
+
+
+      De ces massifs jaillissent l'Istra, la Rauma, la Lora, la Finna/Skjerva, la Valldøla et la Tora/Føysa.
+    wildlife: >-
+      Le [renne](/especie/rangifer_tarandus/) sauvage parcourt la quasi-totalité du parc. La harde hivernale
+      compte environ 2000 bêtes et constitue l'une des plus vigoureuses du pays. L'espèce est très sensible au
+      dérangement, surtout en plein hiver et lors des mises bas printanières. Le renne flaire l'homme à
+      plusieurs kilomètres et s'enfuit d'une traite : si vous en croisez, maintenez une bonne distance,
+      éloignez-vous calmement dans le sens opposé et gardez votre chien sous contrôle absolu.
+
+
+      Au-dessus règnent les carnivores. Le [glouton](/especie/gulo_gulo/) se reproduit dans le parc et ses
+      paysages protégés. Le [renard polaire](/especie/vulpes_lagopus/) est de retour : en 2004 a débuté un
+      programme d'élevage et de réintroduction, et depuis 2016 des couples reproducteurs sont observés dans le
+      Reinheimen. La loi interdit formellement de troubler leurs terriers.
+
+
+      Côté avifaune, les pentes feuillues de Tafjorden et du Romsdalen hébergent passereaux et pics. Le [grand
+      tétras](/especie/tetrao_urogallus/) et le [tétras lyre](/especie/tetrao_tetrix/) fréquentent les fonds
+      de vallées cultivés, le lagopède des saules les vallons montagnards et le [lagopède
+      alpin](/especie/lagopus_muta/) les hautes crêtes. Les gorges abritent de nombreux rapaces nicheurs :
+      l'[aigle royal](/especie/aquila_chrysaetos/), le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/), la buse pattue et le [faucon
+      gerfaut](/especie/falco_rusticolus/) sont les plus fréquents, tandis que le [hibou
+      grand-duc](/especie/bubo_bubo/) est également présent. Les lacs Leirungvatnet et Råkvatnet accueillent
+      des oiseaux d'eau nicheurs dont plusieurs figurent sur la Liste rouge. On a recensé plus de 115 espèces
+      d'oiseaux nicheurs dans les périmètres protégés.
+    visit: >-
+      Reinheimen s'aborde par différentes portes d'entrée. À Lom, le Norwegian Mountain Center fait office de
+      centre d'accueil pour trois parcs — Reinheimen, Breheimen et Jotunheimen — et présente nature, culture
+      et histoire alpine. À Åndalsnes, le Norsk Tindesenter abrite musée, espace d'information et mur
+      d'escalade retraçant l'alpinisme dans le Romsdalen. À Lesja, le musée rural met en valeur la culture
+      locale et le renne sauvage. Au col de Trollstigen, un belvédère panoramique doté d'un café propose des
+      informations sur le parc et sert de départ à plusieurs sentiers balisés.
+
+
+      Les randonneurs disposent d'un large éventail d'itinéraires. Le belvédère de Tussheim se trouve à une
+      heure de marche du centre de Lesja, sur un sentier pédagogique dédié au renne sauvage. Le sentier
+      naturel et culturel de Billingen s'étire sur 3,1 km à flanc de forêt, ouvrant de beaux panoramas sur
+      Reinheimen et Breheimen. Le Kløvstien, ancien sentier muletier reliant Valldal à Åndalsnes, permet de
+      choisir entre une boucle aisée et la montée vers Trollstigen. À Bjorli, le Rånåkollen dispose d'un
+      sentier jalonné vers un sommet dominant deux parcs, doté d'un abri de jour. En été, une navette dessert
+      Vengedalen depuis le Norsk Tindesenter, point de départ de la spectaculaire traversée de l'arête de
+      Romsdalseggen. On peut aussi parcourir en voiture la route panoramique Geiranger-Trollstigen pour
+      admirer la haute montagne.
+
+
+      On accède à Reinheimen par les routes Rv 15 et E136, ainsi que par la ligne ferroviaire de la Rauma.
+    history: >-
+      Le Reinheimen est exceptionnellement riche en vestiges archéologiques liés à la chasse ancestrale du
+      renne sauvage : fosses-pièges, systèmes de rabattage de grande ampleur, affûts de tir et murets d'abris
+      de chasseurs. Ces vestiges sont strictement protégés : veillez à ne jamais déplacer de pierres des
+      murets anciens. Les communautés rurales environnantes restent intimement liées à la montagne : environ
+      20 000 têtes de bétail pâturent l'été dans le parc et ses paysages protégés, méritant le plus grand
+      respect.
+    before: >-
+      Les oiseaux des hautes terres nichent dans des conditions extrêmes, avec une saison brève et une météo
+      capricieuse, ce qui les rend très vulnérables aux perturbations durant la reproduction. Respectez
+      scrupuleusement le renne en hiver et au printemps, et tenez vos chiens sous contrôle strict.
+      Renseignez-vous auprès de la direction du parc sur l'état des itinéraires et les alertes avant de
+      partir.
+    around: >-
+      Reinheimen compte trois voisins dans l'atlas : le [Parc national de
+      Dovrefjell-Sunndalsfjella](/lugar/dovrefjell-sunndalsfjella-national-park/), à environ 15 km, ainsi que
+      le [Parc national de Jotunheimen](/lugar/jotunheimen-national-park/) et le [Parc national de
+      Rondane](/lugar/rondane-national-park/), à environ 25 km. Plus au nord, le [Parc national de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) partage avec lui le glouton, le
+      renne, la haute montagne et les glaciers.
+  de:
+    intro: >-
+      Vom Talboden des Romsdalen steigt die Trollveggen 1.700 Meter senkrecht empor – eine der höchsten
+      Steilwände Europas. Doch Reinheimen ist weit mehr als diese Felsmauer. Es ist Norwegens drittgrößter
+      Nationalpark mit 1.969 km² zusammenhängendem Gebirgsland, der 2006 zwischen Møre og Romsdal und
+      Innlandet geschaffen wurde. Ein Teil ist dramatisch – schroffe Hörner, messerscharfe Grate, reißende
+      Flüsse –, während ein anderer aus einer weiten welligen Hochebene besteht, auf der eine der letzten
+      großen Herden wilder Rentiere Europas grast. Hier wechselt man in wenigen Stunden von einer Welt in die
+      andere.
+    landscape: >-
+      Reinheimen besitzt zwei Gesichter. Im Westen ist das Relief rau und zerklüftet mit Zinken, Kämmen,
+      Karen, Blockfeldern und reißenden Wildbächen. Wer zur Bruraskaret-Scharte gegen das Romsdalen aufsteigt,
+      blickt rund 1.000 Meter senkrecht über die Trollveggen in die Tiefe. Im Osten sanftere Formen: wellige
+      Hochebenen, breitere Täler, gemächlichere Flüsse. Die höchsten Gipfel überragen 2000 Meter, und der
+      tiefste Punkt liegt am Fuß der Trollveggen auf etwa 130 Metern.
+
+
+      Der Gegensatz hat eine geologische Ursache. Vor 900 bis 1.900 Millionen Jahren entstanden die ältesten
+      Einheiten Reinheimens: Sediment- und Eruptivgesteine, die gefaltet und zu Gneisen umgewandelt wurden,
+      mit späteren Granitintrusionen. Im Osten lagern jüngere, nährstoffreichere Gesteine wie Phyllite und
+      Glimmerschiefer. Im Westen hob sich das Land seit der Eiszeit stärker und empfängt mehr Niederschlag,
+      wodurch die Flüsse mit größerem Gefälle und enormer Erosionskraft fließen. Im Romsdalen erinnern
+      haushohe Felsblöcke am Talboden an Bergstürze; im Herbst 2019 stürzte die Felsnase Veslemannen, Teil des
+      instabilen Mannen-Massivs, ins Tal.
+
+
+      Aus dem Gebirge entspringen Istra, Rauma, Lora, Finna/Skjerva, Valldøla und Tora/Føysa.
+    wildlife: >-
+      Das wilde [Ren](/especie/rangifer_tarandus/) durchstreift fast den gesamten Park. Die Winterherde zählt
+      rund 2000 Tiere und ist eine der produktivsten Norwegens. Die Tiere reagieren hochsensibel auf
+      Störungen, insbesondere im Winter und während der Setzzeit im Frühjahr. Rentiere wittern Menschen auf
+      mehrere Kilometer Entfernung und flüchten ebenso weit: Halte bei einer Begegnung weiten Abstand, ziehe
+      dich langsam in die Gegenrichtung zurück und führe Hunde strikt unter Kontrolle.
+
+
+      Über ihnen jagen die Beutegreifer. Der [Vielfraß](/especie/gulo_gulo/) pflanzt sich im Nationalpark und
+      den angrenzenden Landschaftsschutzgebieten fort. Der [Polarfuchs](/especie/vulpes_lagopus/) kehrt
+      zurück: 2004 startete ein Auswilderungsprogramm, und seit 2016 werden wieder brütende Paare im
+      Reinheimen gesichtet. Es ist gesetzlich verboten, ihre Baue zu stören.
+
+
+      In der Vogelwelt beherbergen die Laubwälder von Tafjorden und Romsdalen Singvögel und Spechte.
+      [Auerhuhn](/especie/tetrao_urogallus/) und [Birkhuhn](/especie/tetrao_tetrix/) leben in den tieferen
+      landwirtschaftlichen Tälern, Moorschneehühner in den Gebirgstälern und das
+      [Alpenschneehuhn](/especie/lagopus_muta/) darüber in den Hochlagen. Schluchten dienen Greifvögeln als
+      Brutwände: [Steinadler](/especie/aquila_chrysaetos/), [Seeadler](/especie/haliaeetus_albicilla/),
+      Raufußbussard und [Gerfalke](/especie/falco_rusticolus/) brüten regelmäßig, auch der
+      [Uhu](/especie/bubo_bubo/) kommt vor. Die Seen Leirungvatnet und Råkvatnet sind Rast- und Brutplätze für
+      Wasservögel der Roten Liste. Mehr als 115 Brutvogelarten wurden in den Schutzgebieten dokumentiert.
+    visit: >-
+      Reinheimen erschließt sich über mehrere Eingangstore. In Lom dient das Norwegian Mountain Center als
+      Besucherzentrum für drei Parks – Reinheimen, Breheimen und Jotunheimen – und vermittelt Natur, Kultur
+      und Alpingeschichte. In Åndalsnes vereint das Norsk Tindesenter Museum, Infozentrum und Kletterwand zur
+      Kletterhistorie im Romsdalen. In Lesja widmet sich das Freilichtmuseum dem wilden Rentier und der
+      bäuerlichen Gebirgskultur. An der Passhöhe Trollstigen informiert ein Aussichtspunkt samt Café über den
+      Park, von dem mehrere markierte Pfade ausgehen.
+
+
+      Für Tagestouren gibt es vielseitige Möglichkeiten. Die Aussichtshütte Tussheim liegt eine Gehstunde vom
+      Ortskern Lesjas entfernt und bietet Infotafeln zur Rentierbiologie. Der Natur- und Kulturlehrpfad
+      Billingen misst 3,1 km durch Waldhänge mit Blick auf Reinheimen und Breheimen. Der Kløvstien, ein
+      historischer Saumpfad von Valldal nach Åndalsnes, erlaubt die Wahl zwischen einer kürzeren Runde und dem
+      Aufstieg zum Trollstigen. In Bjorli führt ein Steig auf den Rånåkollen mit Ausblick auf zwei Parks und
+      einer Schutzhütte. Im Sommer verkehrt ein Bus vom Norsk Tindesenter ins Vengedalen, Startpunkt der
+      Gratwanderung über den Romsdalseggen. Alternativ lässt sich das Hochgebirge auf der norwegischen
+      Landschaftsroute Geiranger-Trollstigen im Auto bestaunen.
+
+
+      Reinheimen ist über die Straßen Rv 15 und E136 sowie die Raumabahn erreichbar.
+    history: >-
+      Reinheimen birgt eine außergewöhnliche Fülle an Kulturdenkmälern der historischen Rentierjagd:
+      Fallgrubensysteme, Trichteranlagen für Treibjagden, Schießstände und Mauerreste alter Jägerhütten. Sie
+      stehen unter Denkmalschutz, sodass Steine alter Mauern keinesfalls versetzt werden dürfen. Die
+      umliegenden Dörfer sind eng mit dem Gebirge verwoben: Rund 20.000 Weidetiere weiden jeden Sommer im Park
+      und den angrenzenden Landschaftsschutzgebieten und dürfen nicht gestört werden.
+    before: >-
+      Die Vögel der Hochlagen brüten unter extremen Bedingungen mit kurzen Zeitfenstern und widrigem Wetter;
+      sie reagieren überaus empfindlich auf Störungen während der Brutzeit. Nimm im Winter und Frühjahr
+      besondere Rücksicht auf die Rentiere und führe Hunde angeleint. Erkundige dich vor dem Aufbruch bei der
+      Parkverwaltung über Wegverhältnisse und aktuelle Warnungen.
+    around: >-
+      Reinheimen besitzt drei Nachbarn im Atlas: den
+      [Dovrefjell-Sunndalsfjella-Nationalpark](/lugar/dovrefjell-sunndalsfjella-national-park/) in rund 15 km
+      Entfernung sowie den [Jotunheimen-Nationalpark](/lugar/jotunheimen-national-park/) und den
+      [Rondane-Nationalpark](/lugar/rondane-national-park/) in etwa 25 km Entfernung. Weiter entfernt teilt
+      der [Saltfjellet-Svartisen-Nationalpark](/lugar/saltfjellet-svartisen-nasjonalpark/) den Vielfraß, das
+      Rentier, hochalpine Landschaften und Gletscher.
+  it:
+    intro: >-
+      Dal fondovalle di Romsdalen la Trollveggen s'innalza verticalmente per 1.700 metri, costituendo una
+      delle pareti rocciose più maestose d'Europa. Tuttavia Reinheimen non è soltanto questo formidabile
+      bastione. È il terzo parco nazionale della Norvegia per estensione, forte di 1.969 km² di rilievi
+      montuosi continui, istituito nel 2006 tra Møre og Romsdal e Innlandet. Un settore è di forte impatto
+      scenografico — cime ardite, creste a lama di rasoio, impetuosi corsi d'acqua —, mentre un altro si
+      distende in un vasto altopiano ondulato su cui pascola uno degli ultimi branchi di renna selvatica
+      d'Europa. Qui si passa da un ambiente all'altro nel giro di poche ore.
+    landscape: >-
+      Reinheimen mostra due volti distinti. A ovest il territorio è aspro, costellato di vette, creste, forre,
+      pietraie e torrenti impetuosi. Salendo a Bruraskaret verso Romsdalen, ti affacci su un salto nel vuoto
+      di circa 1.000 metri lungo la Trollveggen. A oriente il profilo si attenua: altipiani ondulati, vallate
+      ampie, fiumi più placidi. Le quote maggiori superano i 2000 metri, laddove il punto più depresso si
+      colloca ai piedi della Trollveggen, a circa 130 metri.
+
+
+      Questa discrepanza ha origini geologiche. Tra 900 e 1.900 milioni di anni or sono si formarono i nuclei
+      ancestrali di Reinheimen: formazioni sedimentarie e magmatiche plicate e metamorfosate in gneiss, con
+      successive intrusioni granitiche. A est prevalgono litotipi più recenti e ricchi di nutrienti, quali
+      filladi e micascisti. A occidente la terra si è sollevata maggiormente dopo il disgelo e riceve più
+      piogge, conferendo ai corsi d'acqua notevole pendenza ed energia erosiva. A Romsdalen colossali massi
+      sul fondovalle testimoniano antiche frane; nell'autunno del 2019 la guglia instabile di Veslemannen è
+      crollata a valle dal monte Mannen.
+
+
+      Dalle montagne scaturiscono l'Istra, il Rauma, la Lora, il Finna/Skjerva, la Valldøla e il Tora/Føysa.
+    wildlife: >-
+      La [renna](/especie/rangifer_tarandus/) selvatica popola la quasi totalità del parco. La popolazione
+      invernale si aggira sui 2000 capi ed è tra le più prolifiche del paese. È sensibilissima al disturbo,
+      segnatamente d'inverno e durante i parti primaverili. Una renna avverte l'odore umano a chilometri di
+      distanza fuggendo all'istante: se ne scorgi una, mantieni un ampio distacco, allontanati lentamente in
+      senso opposto e tieni il cane sotto controllo.
+
+
+      Su di essa gravitano i predatori. Il [ghiottone](/especie/gulo_gulo/) si riproduce nel parco e nelle
+      aree protette contermini. La [volpe artica](/especie/vulpes_lagopus/) sta ritornando: nel 2004 è stato
+      avviato un programma di riproduzione e rilascio, e dal 2016 si rinvengono coppie riproduttive stabili
+      nel Reinheimen. È vietato per legge arrecare disturbo alle tane.
+
+
+      Tra i volatili, le pendici boscose di Tafjorden e Romsdalen accolgono passeriformi e picchi.
+      L'[urogallo](/especie/tetrao_urogallus/) e il [fagiano di monte](/especie/tetrao_tetrix/) popolano i
+      fondovalle agricoli, la pernice bianca nordica le vallate montane e la [pernice
+      bianca](/especie/lagopus_muta/) le quote alpine. Forre e pareti ospitano rapaci nidificanti: l'[aquila
+      reale](/especie/aquila_chrysaetos/), l'[aquila di mare](/especie/haliaeetus_albicilla/), la poiana
+      calzata e il [girfalco](/especie/falco_rusticolus/) sono i più rappresentati, ed è attestato pure il
+      [gufo reale](/especie/bubo_bubo/). I laghi Leirungvatnet e Råkvatnet ospitano uccelli acquatici
+      nidificanti, inclusi elementi della Lista Rossa. Si contano oltre 115 specie di uccelli nidificanti
+      nelle aree tutelate.
+    visit: >-
+      Si accede a Reinheimen attraverso le sue porte d'ingresso. A Lom il Norwegian Mountain Center fa da
+      centro visita per tre parchi — Reinheimen, Breheimen e Jotunheimen — ed espone natura, cultura e storia
+      alpina. Ad Åndalsnes il Norsk Tindesenter è polo museale con parete di arrampicata che illustra l'epopea
+      alpinistica di Romsdalen. A Lesja il museo rurale è dedicato alla civiltà montanara e alla renna
+      selvatica. Al passo di Trollstigen un punto panoramico con bar offre informazioni sul parco ed è il
+      punto di avvio di vari percorsi segnati.
+
+
+      Per camminare si presentano varie opportunità. Il belvedere di Tussheim dista un'ora a piedi dal centro
+      di Lesja, lungo una traccia che descrive l'habitat della renna. Il sentiero naturalistico e culturale di
+      Billingen si sviluppa per 3,1 km tra pendici boscose con vedute su Reinheimen e Breheimen. Il Kløvstien,
+      antica mulattiera da Valldal ad Åndalsnes, permette di scegliere tra un anello breve o l'ascesa a
+      Trollstigen. A Bjorli il Rånåkollen vanta una via segnata verso una vetta affacciata su due parchi,
+      provvista di rifugio diurno. In estate un autobus collega il Norsk Tindesenter a Vengedalen, punto di
+      partenza della celebre traversata di cresta del Romsdalseggen. Si può peraltro percorrere in automobile
+      la strada panoramica Geiranger-Trollstigen per ammirare gli scorci alpini più spettacolari.
+
+
+      Reinheimen è raggiungibile mediante le strade Rv 15 ed E136 e la ferrovia della Rauma.
+    history: >-
+      Reinheimen è straordinariamente ricco di testimonianze archeologiche legate all'antica caccia alla renna
+      selvatica: sistemi di buche-trappola, allineamenti di sbarramento per catture massive, appostamenti di
+      caccia e ruderi di ripari in pietra. Tali vestigia godono di protezione integrale, per cui non rimuovere
+      alcuna pietra dai muri antichi. I borghi limitrofi conservano un forte legame con le terre alte: circa
+      20.000 capi di bestiame pascolano d'estate nel parco e nelle aree protette contigue, imponendo il dovuto
+      rispetto.
+    before: >-
+      Gli uccelli d'alta quota nidificano in condizioni limite, con finestre stagionali brevi e meteo avverso,
+      risultando assai vulnerabili alle interferenze durante la cova. Rispetta la renna selvatica in inverno e
+      in primavera tenendo i cani costantemente legati. Informati presso l'ente gestore sulle condizioni dei
+      tracciati e sui bollettini di allerta prima di metterti in cammino.
+    around: >-
+      Reinheimen conta tre parchi vicini nell'atlante: il [Parco nazionale di
+      Dovrefjell-Sunndalsfjella](/lugar/dovrefjell-sunndalsfjella-national-park/), a circa 15 km, nonché il
+      [Parco nazionale di Jotunheimen](/lugar/jotunheimen-national-park/) e il [Parco nazionale di
+      Rondane](/lugar/rondane-national-park/), a circa 25 km. Più a nord, il [Parco nazionale di
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) condivide il ghiottone, la renna,
+      l'alta montagna e i ghiacciai.
+  pt:
+    intro: >-
+      A partir do fundo do vale de Romsdalen, o Trollveggen eleva-se 1.700 metros na vertical, constituindo
+      uma das escarpas mais altas da Europa. Contudo, Reinheimen não se esgota nessa muralha. É o terceiro
+      maior parque nacional da Noruega, com 1.969 km² de montanha contínua, criado em 2006 entre Møre og
+      Romsdal e Innlandet. Um setor é dramático — picos aguçados, cristas afiladas, rios impetuosos —, ao
+      passo que outro se abre num extenso planalto ondulado onde pasta uma das últimas grandes manadas de
+      renas selvagens da Europa. Aqui transita-se de um ambiente para o outro em poucas horas.
+    landscape: >-
+      Reinheimen ostenta duas faces contrastantes. A oeste o relevo é acidentado, exibindo cumes, arestas,
+      vales profundos, cascalheiras e cursos de água velozes. Ao subir até Bruraskaret, em direção a
+      Romsdalen, debruças-te sobre um abismo de cerca de 1.000 metros ao longo do Trollveggen. A leste, a
+      paisagem suaviza-se: planaltos ondulados, vales mais largos, rios calmos. Os cumes mais elevados superam
+      os 2000 metros, situando-se o ponto mais baixo na base do Trollveggen, a cerca de 130 metros.
+
+
+      A diferença assenta em razões geológicas. Entre 900 e 1.900 milhões de anos atrás formaram-se as
+      primeiras estruturas de Reinheimen: rochas sedimentares e ígneas dobradas e metamorfoseadas em gnaisses,
+      com intrusões graníticas posteriores. No leste afloram rochas mais jovens e ricas em nutrientes, como
+      filitos e micaxistos. No oeste o terreno ergueu-se com maior intensidade desde a Idade do Gelo e chove
+      mais, pelo que os rios têm maior declive e energia para erodir a rocha. Em Romsdalen, blocos colossais
+      no fundo do vale recordam grandes derrocadas; no outono de 2019 ruiu Veslemannen, parte da formação
+      instável de Mannen, despenhando-se sobre o vale.
+
+
+      Das montanhas nascem o Istra, o Rauma, o Lora, o Finna/Skjerva, o Valldøla e o Tora/Føysa.
+    wildlife: >-
+      A [rena](/especie/rangifer_tarandus/) selvagem ocupa praticamente todo o parque. A manada de inverno
+      ronda os 2000 animais e constitui uma das mais prolíficas da Noruega. É extremamente sensível a
+      perturbações, mormente no inverno e durante o parto na primavera. A rena pressente o odor humano a
+      vários quilómetros e foge com rapidez: se encontrares renas, mantém uma distância considerável,
+      afasta-te devagar em sentido oposto e mantém o cão sob controlo estrito.
+
+
+      Sobre elas atuam os predadores. O [glutão](/especie/gulo_gulo/) reproduz-se no parque e nas paisagens
+      protegidas adjacentes. A [raposa-do-ártico](/especie/vulpes_lagopus/) está de regresso: em 2004 arrancou
+      um programa de reprodução em cativeiro e libertação, e desde 2016 registam-se casais reprodutores em
+      Reinheimen. É expressamente proibido por lei perturbar as suas tocas.
+
+
+      Entre as aves, as encostas arborizadas de Tafjorden e Romsdalen acolhem passeriformes e pica-paus. O
+      [tetraz-grande](/especie/tetrao_urogallus/) e o [galo-lira](/especie/tetrao_tetrix/) habitam os vales
+      agrícolas baixos, o lagópode-dos-sauces os vales montanhosos e o
+      [lagópode-branco](/especie/lagopus_muta/) as cotas superiores. As gargantas abrigam rapinas
+      nidificantes: a [águia-real](/especie/aquila_chrysaetos/), a
+      [águia-rabalva](/especie/haliaeetus_albicilla/), a águia-calçada e o
+      [falcão-gerifalte](/especie/falco_rusticolus/) são as mais comuns, marcando presença também o
+      [bufo-real](/especie/bubo_bubo/). Os lagos Leirungvatnet e Råkvatnet acolhem aves aquáticas reprodutoras
+      da Lista Vermelha. Foram identificadas mais de 115 espécies de aves reprodutoras nas zonas protegidas.
+    visit: >-
+      Reinheimen visita-se a partir das suas portas de entrada. Em Lom, o Norwegian Mountain Center funciona
+      como centro de visitantes de três parques — Reinheimen, Breheimen e Jotunheimen —, expondo a natureza, a
+      cultura e a história alpina. Em Åndalsnes, o Norsk Tindesenter é um centro e museu com parede de
+      escalada que contextualiza o alpinismo em Romsdalen. Em Lesja, o museu rural ilustra a rena selvagem e
+      as tradições de montanha. No passo de Trollstigen, um miradouro com cafetaria providencia informação do
+      parque e serve de ponto de partida a múltiplos trilhos balizados.
+
+
+      Para caminhar existem várias opções. O miradouro de Tussheim fica a uma hora a pé do centro de Lesja por
+      um trilho que interpreta o habitat da rena. O trilho cultural e natural de Billingen percorre 3,1 km por
+      encostas florestais com vista sobre Reinheimen e Breheimen. O Kløvstien, um antigo caminho de cargueiros
+      de Valldal a Åndalsnes, permite escolher entre um passeio suave ou subir até ao passo de Trollstigen. Em
+      Bjorli, o Rånåkollen possui uma vereda assinalada até ao topo com vistas sobre dois parques e um abrigo
+      diurno. No verão, um autocarro liga o Norsk Tindesenter a Vengedalen, início da travessia da crista de
+      Romsdalseggen. Em alternativa, podes percorrer de carro a estrada cénica Geiranger-Trollstigen para
+      observar o relevo alpino.
+
+
+      Chega-se a Reinheimen pelas estradas Rv 15 e E136 e pela ferrovia da linha de Rauma.
+    history: >-
+      Reinheimen é excecionalmente rico em vestígios arqueológicos da caça pré-histórica à rena selvagem:
+      armadilhas de fosso, sistemas de captura em massa, abrigos de caça e ruínas de cabanas de caçadores.
+      Estão protegidos por lei, pelo que nunca deves mover pedras dos muros antigos. As aldeias vizinhas
+      mantêm fortes laços históricos com a serra: cerca de 20.000 cabeças de gado pastam no verão no parque e
+      nas paisagens protegidas, devendo ser respeitadas.
+    before: >-
+      As aves das terras altas nidificam em condições extremas, com uma janela reprodutiva curta e
+      meteorologia adversa, sendo vulneráveis a perturbações durante a época de criação. Respeita a rena no
+      inverno e na primavera mantendo os cães devidamente controlados. Consulta a entidade gestora sobre o
+      estado dos trilhos e avisos em vigor antes de partir.
+    around: >-
+      Reinheimen tem três vizinhos no atlas: o [Parque Nacional de
+      Dovrefjell-Sunndalsfjella](/lugar/dovrefjell-sunndalsfjella-national-park/), a cerca de 15 km, bem como
+      o [Parque Nacional de Jotunheimen](/lugar/jotunheimen-national-park/) e o [Parque Nacional de
+      Rondane](/lugar/rondane-national-park/), a cerca de 25 km. Mais distante, o [Parque Nacional de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) partilha o glutão e a rena, a alta
+      montanha e os glaciares.
+fuentes:
+  - url: https://reinheimen.no/en/
+    titulo: Welcome to Reinheimen National Park
+    fecha_consulta: '2026-10-04'
+  - url: https://reinheimen.no/en/visitor-centers-and-approaches/
+    titulo: Visitor centers and approaches
+    fecha_consulta: '2026-10-04'
+  - url: https://reinheimen.no/en/about-the-national-park/
+    titulo: About the national park
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Reinheimen_National_Park
+    titulo: Reinheimen National Park - Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://reinheimen.no/en/wild-reindeer/
+    titulo: Wild reindeer - Reinheimen nasjonalpark
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:View_from_Puttegga_towards_Storl%C3%B8ypfjellet_in_the_north.jpg
+    autor: Frankemann
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

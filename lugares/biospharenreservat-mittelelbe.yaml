@@ -1,0 +1,640 @@
+id: biospharenreservat-mittelelbe
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva de la Biosfera del Elba Medio
+  en: Middle Elbe Biosphere Reserve
+  fr: Réserve de biosphère de la Moyenne-Elbe
+  de: Biosphärenreservat Mittelelbe
+  it: Riserva della Biosfera del Medio Elba
+  pt: Reserva da Biosfera do Médio Elba
+nombre_original: Biosphärenreservat Mittelelbe
+alias:
+  - Middle Elbe Biosphere Reserve
+paises:
+  - DE
+region:
+  es: Sajonia-Anhalt (Dessau-Roßlau / Wittenberg)
+  en: Saxony-Anhalt (Dessau-Roßlau / Wittenberg)
+  fr: Saxe-Anhalt (Dessau-Roßlau / Wittenberg)
+  de: Sachsen-Anhalt (Dessau-Roßlau / Wittenberg)
+  it: Sassonia-Anhalt (Dessau-Roßlau / Wittenberg)
+  pt: Saxónia-Anhalt (Dessau-Roßlau / Wittenberg)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 51.85
+  lon: 12.25
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555751546
+  nombre_en_la_fuente: Flusslandschaft Elbe
+  capa: capas/cdda/biospharenreservat-mittelelbe.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - biosphere_reserve
+  - natura2000
+especies:
+  - castor_fiber
+  - haliaeetus_albicilla
+  - lucanus_cervus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Reserva de la Biosfera del Elba Medio
+    url: https://www.mittelelbe.com/
+  - titulo: Rutas — Senderos de las llanuras aluviales
+    url: https://www.mittelelbe.com/besucherinfos/auenpfade/
+  - titulo: Centro de visitantes — Auenhaus
+    url: https://www.mittelelbe.com/besucherinfos/infozentrum-auenhaus/
+  - titulo: Centro de visitantes — Haus der Flüsse
+    url: https://www.mittelelbe.com/besucherinfos/infozentrum-haus-der-fluesse/
+  - titulo: Observatorios — Puntos de observación de aves
+    url: https://www.mittelelbe.com/besucherinfos/vogelbeobachtungspunkte/
+resumen:
+  es: El mayor complejo continuo de bosques de ribera de robles aluviales de Europa Central.
+  en: The largest contiguous complex of alluvial hardwood oak floodplain forests in Central Europe.
+  fr: Le plus vaste ensemble continu de forêts alluviales de chênes de plaine inondable d'Europe centrale.
+  de: Der größte zusammenhängende Hartholzauen-Waldkomplex Mitteleuropas.
+  it: Il più grande comprensorio continuo di boschi ripariali e querce alluvionali dell'Europa centrale.
+  pt: O maior complexo contínuo de florestas aluviais de carvalhos de planície de inundação da Europa Central.
+unico:
+  es: >-
+    Una llanura aluvial inmensa donde el castor del Elba volvió de casi desaparecer y donde un jardín
+    paisajístico forma parte de la reserva.
+  en: >-
+    An immense floodplain where the Elbe beaver rebounded from near-extinction and where historic landscaped
+    gardens form part of the reserve.
+  fr: >-
+    Une immense plaine alluviale où le castor de l'Elbe a frôlé l'extinction avant de renaître, et où un parc
+    paysager intègre la réserve.
+  de: >-
+    Eine gewaltige Auenlandschaft, in der der Elbebiber vor dem Aussterben gerettet wurde und historische
+    Parkanlagen Teil des Schutzgebiets sind.
+  it: >-
+    Un'immensa pianura alluvionale dove il castoro dell'Elba fu strappato all'estinzione e dove uno storico
+    parco paesaggistico fa parte della riserva.
+  pt: >-
+    Uma imensa planície de inundação onde o castor-do-elba escapou à extinção e onde um jardim histórico
+    integra a reserva.
+observaciones:
+  es: >-
+    Hay una plaga de procesionaria del roble en la reserva, y se pide no acercarse a robles con nidos ni tocar
+    las orugas. Algunos Auenpfade siguen cerrados por seguridad vial.
+texto:
+  es:
+    intro: >-
+      El Elba lleva siglos sin desbordarse a su antojo, y aun así, aquí, todavía lo parece. Entre Lutherstadt
+      Wittenberg, Dessau-Roßlau y Magdeburgo, y hasta Seehausen, la reserva de la biosfera Mittelelbe sigue el
+      curso del río y también el del Mulde: un mosaico de bosques de ribera, prados inundables, brazos muertos
+      y dunas interiores. El río, junto con el Mulde, el Saale y el Havel, da forma a la historia y a la
+      estructura de todos los hábitats del conjunto. Y entre sus aguas encontró el castor del Elba su último
+      refugio después de la Segunda Guerra Mundial.
+    landscape: >-
+      Una llanura aluvial abarca todas las superficies que se inundan con las crecidas o que alternan entre
+      aguas altas y bajas, y esa alternancia es la clave de todo. Contiene la mayor extensión conectada de
+      llanuras aluviales de Europa central. Aquí el río dibuja bancos de arena y grava, un bosque blando de
+      sauces junto a la orilla y, más arriba, un bosque duro con robles, fresnos y olmos. Las dunas interiores
+      del Elba, formadas por el agua, están entre los hábitats más amenazados de Sajonia-Anhalt.
+
+
+      Pero el río ya no es salvaje. Los diques y la protección de las orillas frenaron para siempre la
+      dinámica que antes modelaba el paisaje, y la tarea de la reserva es conservar lo que quedó de aquella
+      variedad. Y hay un jardín dentro del río: el Reino de los Jardines de Dessau-Wörlitz, que une naturaleza
+      diseñada y cultura y es Patrimonio Mundial de la UNESCO. El parque de Wörlitz, en la reserva, es el
+      parque paisajístico más antiguo del continente europeo.
+    wildlife: >-
+      Se han registrado más de mil especies de plantas, más de 50 mamíferos, más de 700 mariposas, unas 50
+      libélulas y 200 abejas, además de al menos 315 especies de carábidos y 125 de caracoles.
+
+
+      Las aves son el espectáculo. Hay más de 179 especies reproductoras y al menos 100 más que paran, se
+      alimentan o invernan aquí, y las torres de observación marcan el calendario. De septiembre a diciembre,
+      en Neolith-Teich pasan la noche hasta 40.000 ánsares, entre ellos el raro ánsar piquicorto, y en la cría
+      hay somormujo cuellirrojo y cuchara común. En septiembre y octubre, en la torre de la zona de descanso
+      de [grullas](/especie/grus_grus/), a unos 6 km al este de Havelberg, se ven grullas en un humedal
+      Ramsar. En invierno, la torre de Wanzer reúne ánsares, avefrías, chorlitos dorados y cucharas en el
+      polder de Wrechow, y en primavera miles de patos y gansos descansan en la vega del Havel camino de sus
+      zonas de cría del norte. Desde el mirador de Gütschow, sobre el lago Schollener See, con suerte se ve
+      cazar al [águila pescadora](/especie/pandion_haliaetus/). Y en Neuschollene, en primavera, se oyen de
+      noche los cantos de muchos anfibios.
+
+
+      El [castor](/especie/castor_fiber/) del Elba, casi extinguido, encontró aquí su último refugio y su
+      población se ha recuperado hasta unos 1.200 individuos.
+    visit: >-
+      El centro Auenhaus, entre Dessau y Oranienbaum, nació para la Expo 2000 y es el punto de información
+      central de la reserva. Su exposición deja ver la madriguera del castor, ofrece estaciones multimedia y
+      explica los hábitats del río y de la llanura. Fuera, un recinto muestra hábitats típicos de la llanura
+      aluvial con paneles, y el recinto de los castores está abierto. Detrás hay un sendero sensorial con
+      huellas de animales y textos en braille para visitantes con discapacidad visual. En el norte, Haus der
+      Flüsse, en Havelberg, es desde 2015 el centro de información de esa parte de la reserva.
+
+
+      Los Auenpfade, los senderos didácticos de la reserva, miden entre uno y 12 km, y sus paneles explican
+      las especies y los hábitats de cada paisaje. El de Kühnauer See rodea el agua con 16 paneles y es un
+      camino bien acondicionado para caminar o ir en bici. El de Coswig sigue el meandro del Elba con ocho
+      paneles sobre cómo se usó el río con el tiempo. El de Oranienbaumer Heide, en un antiguo campo militar
+      abierto desde 2012, tiene 13 estaciones; allí unas 800 ha de paisaje abierto se mantienen con pastoreo
+      de caballos konik y vacas Heck. En Kliekener Aue, desde la plataforma Werder se mira al brazo muerto
+      Alte Elbe, rico en aves acuáticas, y desde el escarpe del Elba entre Coswig y Griebo se ve el valle con
+      el río en meandros. En Jerichow, una torre de observación y un sendero didáctico de unos 2,5 km recorren
+      el Alte Elbe.
+
+
+      Si prefieres la bici, el Elbe-Radweg R2 sigue unos 360 km del curso del Elba dentro de la reserva, y la
+      Fürst Franz Gartenreichtour mide unos 60 km. La guardería organiza paseos guiados, excursiones y charlas
+      durante todo el año, y la reserva tiene un proyecto de ciencia ciudadana sobre su biodiversidad.
+    history: >-
+      La protección se remonta a la ley de protección ambiental de Anhalt de 1923, y en 1927 se protegieron
+      zonas para el castor del Elba y para la castaña de agua. En 1979 el bosque de Steckby-Lödderitz fue una
+      de las dos reservas de la biosfera que la UNESCO reconoció en la RDA. El 20 de marzo de 2006 se declaró
+      la reserva de la biosfera Mittelelbe, con 125.743 ha. En Kliekener Aue, un proyecto Life de 1998 a 2002
+      limpió de lodo partes del Alte Elbe y reconectó un meandro cortado en los años 1930.
+    before: >-
+      Hay una plaga de procesionaria del roble en la reserva, y se pide no acercarse a robles con nidos ni
+      tocar las orugas. Algunos Auenpfade siguen cerrados por seguridad vial.
+    around: >-
+      La [Llanura de Inundación del Elster Negro](/lugar/black-elster-floodplain-schwarze-elster/) está a unos
+      23 km. Con el [Bosque de Tronçais](/lugar/foret-de-troncais/) y la [Serra do
+      Courel](/lugar/zec-serra-do-courel/), lejos de aquí, Mittelelbe comparte el ciervo volante y sus bosques
+      de ribera.
+  en:
+    intro: >-
+      The Elbe has not flooded unchecked for centuries, yet along this stretch it still feels wild. Stretching
+      between Lutherstadt Wittenberg, Dessau-Roßlau, Magdeburg, and up to Seehausen, the Mittelelbe Biosphere
+      Reserve follows the course of the river and the Mulde: a mosaic of floodplain forests, wet meadows,
+      oxbow lakes, and inland dunes. Together with the Mulde, Saale, and Havel, the river shapes the history
+      and structure of every habitat in the landscape. And along these waters, the Elbe beaver found its final
+      refuge after the Second World War.
+    landscape: >-
+      A floodplain encompasses all ground inundated by seasonal floods or fluctuating between high and low
+      water levels, and that dynamic pulse is the foundation of everything. It protects the largest connected
+      expanse of floodplain forests in Central Europe. Here the river deposits sandbanks and gravel beds,
+      nourishing soft softwood willow woods along the water's edge and, on slightly higher ground, hardwood
+      forests dominated by pedunculate oak, European ash, and field elm. The inland dunes of the Elbe, shaped
+      by water and wind, rank among the most threatened habitats in Saxony-Anhalt.
+
+
+      Yet the river is no longer entirely untamed. Dykes and reinforced riverbanks halted the free-form
+      meanders that once sculpted the terrain, and the reserve's mission is to safeguard what survives of that
+      primeval diversity. There is even a park built into the riverine landscape: the Dessau-Wörlitz Garden
+      Realm, blending designed nature and culture as a UNESCO World Heritage site. Wörlitz Park, embedded in
+      the reserve, is the oldest English landscape park on continental Europe.
+    wildlife: >-
+      More than a thousand plant species, over 50 mammals, more than 700 butterflies, around 50 dragonflies,
+      and 200 bees have been recorded here, alongside at least 315 ground beetle species and 125 molluscs.
+
+
+      Birds are the defining spectacle. More than 179 breeding species and at least 100 migratory visitors
+      stage, feed, or winter here, turning observation towers into seasonal waypoints. From September to
+      December, up to 40,000 wild geese roost at the Neolith-Teich pond, among them the rare pink-footed
+      goose, while red-necked grebes and northern shovelers breed on the water. In September and October, from
+      the viewing tower at the [crane](/especie/grus_grus/) staging site, some 6 km east of Havelberg, cranes
+      assemble across a Ramsar wetland. In winter, the Wanzer tower looks out over geese, northern lapwings,
+      European golden plovers, and shovelers on the Wrechow polder, and come spring thousands of ducks and
+      geese rest in the Havel lowland en route to northern breeding grounds. From the Gütschow observation
+      hide above Lake Schollen, sharp eyes may catch an [osprey](/especie/pandion_haliaetus/) fishing. At
+      Neuschollene on spring evenings, the chorus of countless amphibians resonates across the water.
+
+
+      The Elbe [beaver](/especie/castor_fiber/), once pushed to the edge of extinction, found its last
+      sanctuary here and its population has rebounded to roughly 1,200 individuals.
+    visit: >-
+      The Auenhaus visitor centre, set between Dessau and Oranienbaum, was built for Expo 2000 and serves as
+      the reserve's central information point. Its permanent exhibition lets visitors peer into an artificial
+      beaver lodge, offers interactive multimedia exhibits, and explains river and floodplain ecology.
+      Outdoors, an enclosure showcases typical alluvial habitats with interpretive panels, alongside a viewing
+      area for beavers. Behind the centre lies a sensory trail with animal tracks and Braille signage for
+      visually impaired visitors. To the north, the Haus der Flüsse in Havelberg has served since 2015 as the
+      information centre for the lower reaches.
+
+
+      The Auenpfade, the reserve's network of nature trails, range between one and 12 km in length, with
+      illustrated boards explaining local habitats and species. The Kühnauer See trail encircles the lake with
+      16 panels, offering an easy path for walking or cycling. The Coswig trail follows an Elbe bend with
+      eight panels detailing how human communities used the river over time. The trail across Oranienbaumer
+      Heide, located on a former military training ground opened in 2012, features 13 stations; there, some
+      800 ha of open heath are grazed year-round by Konik horses and Heck cattle. In the Kliekener Aue, the
+      Werder observation platform looks out across the Alte Elbe oxbow, teeming with waterfowl, while the high
+      river bluff between Coswig and Griebo looks over the meandering valley. At Jerichow, an observation
+      tower and a 2.5 km educational trail trace the Alte Elbe.
+
+
+      If you prefer cycling, the Elbe Cycle Route R2 tracks roughly 360 km of the Elbe through the reserve,
+      and the Fürst Franz Gartenreichtour spans around 60 km. Ranger services offer guided walks, field
+      excursions, and talks throughout the year, and the reserve runs a citizen science biodiversity
+      monitoring programme.
+    history: >-
+      Conservation dates back to the Anhalt Nature Conservation Act of 1923, followed in 1927 by early site
+      protections for the Elbe beaver and water chestnut. In 1979 the Steckby-Lödderitz Forest became one of
+      only two biosphere reserves recognised by UNESCO in the GDR. On 20 March 2006 the Mittelelbe Biosphere
+      Reserve was formally designated, encompassing 125,743 ha. In Kliekener Aue, a LIFE project between 1998
+      and 2002 desilted sections of the Alte Elbe and reconnected an oxbow cut off since the 1930s.
+    before: >-
+      Oak processionary moths pose a recurring hazard in the reserve; visitors should never approach infested
+      trees or touch caterpillars. Selected sections of the Auenpfade may be temporarily closed for tree
+      safety.
+    around: >-
+      The [Black Elster Floodplain](/lugar/black-elster-floodplain-schwarze-elster/) lies some 23 km away.
+      Further across Europe, the [Tronçais Forest](/lugar/foret-de-troncais/) and the [Serra do
+      Courel](/lugar/zec-serra-do-courel/) share stag beetle populations and ancient alluvial woodland with
+      the Middle Elbe.
+  fr:
+    intro: >-
+      L'Elbe n'inonde plus la vallée à sa guise depuis des siècles, et pourtant, ici, elle donne encore cette
+      illusion. Entre Lutherstadt Wittenberg, Dessau-Roßlau, Magdebourg et jusqu'à Seehausen, la réserve de
+      biosphère de la Moyenne-Elbe épouse le cours du fleuve et celui de la Mulde : une mosaïque de forêts
+      riveraines, de prairies inondables, de bras morts et de dunes continentales. Le fleuve, avec la Mulde,
+      la Saale et la Havel, façonne l'histoire et l'agencement de tous les biotopes du massif. Et c'est dans
+      ses eaux que le castor de l'Elbe trouva son ultime refuge au lendemain de la Seconde Guerre mondiale.
+    landscape: >-
+      Une plaine alluviale englobe toutes les terres submergées par les crues ou oscillant entre hautes et
+      basses eaux, et ce rythme fluvial constitue le moteur de tout l'écosystème. Elle abrite la plus vaste
+      étendue ininterrompue de forêts alluviales d'Europe centrale. Ici, le fleuve dépose bancs de sable et
+      gravières, nourrissant une forêt tendre de saules en lisière d'eau et, sur les terrasses plus hautes,
+      une forêt dure de chênes pédonculés, frênes et ormes. Les dunes intérieures de l'Elbe, remodelées par
+      les eaux, figurent parmi les habitats les plus menacés de Saxe-Anhalt.
+
+
+      Mais le fleuve n'est plus totalement sauvage. Les digues et l'enrochement des rives ont figé les
+      méandres qui modelaient autrefois le paysage, et la vocation de la réserve consiste à préserver ce qui a
+      survécu de cette diversité. Un jardin historique s'intègre même au fleuve : le royaume des jardins de
+      Dessau-Wörlitz, qui allie nature agencée et patrimoine culturel, inscrit au patrimoine mondial de
+      l'UNESCO. Le parc de Wörlitz, inclus dans la réserve, est le plus ancien jardin paysager à l'anglaise du
+      continent européen.
+    wildlife: >-
+      Plus de mille espèces végétales, plus de 50 mammifères, plus de 700 papillons, environ 50 odonates et
+      200 abeilles sauvages y ont été recensés, sans compter au moins 315 espèces de carabidés et 125 de
+      mollusques.
+
+
+      Les oiseaux offrent un spectacle permanent. Plus de 179 espèces nicheuses et au moins 100 migrateurs y
+      font étape, s'y nourrissent ou y hivernent, au gré des saisons et des miradors. De septembre à décembre,
+      l'étang de Neolith-Teich accueille jusqu'à 40 000 oies sauvages pour la nuit, dont la rare oie à bec
+      court, tandis que le grèbe jougris et le canard souchet y nichent. En septembre et octobre, depuis la
+      tour d'observation du dortoir de [grues](/especie/grus_grus/), à environ 6 km à l'est de Havelberg, les
+      grues cendrées s'observent au cœur d'une zone humide Ramsar. En hiver, la tour de Wanzer rassemble oies,
+      vanneaux huppés, pluviers dorés et souchets sur le polder de Wrechow, et au printemps des milliers de
+      canards et d'oies stationnent dans la plaine de la Havel en route vers leurs zones de nidification
+      nordiques. Depuis l'affût de Gütschow, dominant le lac Schollener See, on peut avec un peu de chance
+      voir chasser le [balbuzard pêcheur](/especie/pandion_haliaetus/). À Neuschollene, au printemps, le
+      concert nocturne des amphibiens résonne à travers les marais.
+
+
+      Le [castor](/especie/castor_fiber/) de l'Elbe, au bord de la disparition, a trouvé ici son dernier
+      sanctuaire et sa population s'est rétablie pour atteindre environ 1 200 individus.
+    visit: >-
+      Le centre Auenhaus, situé entre Dessau et Oranienbaum, a été inauguré lors de l'Expo 2000 et sert de
+      pavillon d'accueil principal de la réserve. Son exposition permanente permet d'observer une hutte de
+      castors en coupe, propose des bornes multimédias et détaille les milieux fluviaux. À l'extérieur, un
+      sentier thématique présente les biotopes alluviaux avec panneaux descriptifs et un enclos de castors. En
+      arrière s'étend un parcours sensoriel avec empreintes d'animaux et étiquettes en braille pour les
+      visiteurs malvoyants. Au nord, la Haus der Flüsse à Havelberg fait office depuis 2015 de pôle d'accueil
+      pour la basse vallée.
+
+
+      Les Auenpfade, sentiers pédagogiques balisés de la réserve, font entre un et 12 km, et leurs stations
+      explicitent les espèces et habitats de chaque secteur. Celui du Kühnauer See fait le tour du plan d'eau
+      avec 16 panneaux sur un chemin aménagé pour marcheurs et vélos. Celui de Coswig longe la boucle de
+      l'Elbe avec huit panneaux retraçant les usages historiques du fleuve. Le sentier d'Oranienbaumer Heide,
+      aménagé sur un ancien terrain militaire ouvert en 2012, compte 13 stations ; quelque 800 ha de landes
+      ouvertes y sont entretenus par pâturage de chevaux koniks et d'aurochs-reconstitués de Heck. Dans la
+      Kliekener Aue, la plateforme d'observation de Werder donne sur le bras mort de l'Alte Elbe, riche en
+      avifaune aquatique, tandis que le rebord de falaise fluviale entre Coswig et Griebo domine la vallée
+      méandreuse. À Jerichow, un mirador et un sentier nature d'environ 2,5 km longent l'Alte Elbe.
+
+
+      Si vous préférez la bicyclette, la véloroute Elbe-Radweg R2 suit environ 360 km du cours de l'Elbe dans
+      la réserve, et le circuit cyclable Fürst Franz Gartenreichtour s'étend sur environ 60 km. Les gardes
+      organisent des randonnées accompagnées, des excursions et des conférences toute l'année, et la réserve
+      anime un réseau de sciences participatives pour le suivi de la biodiversité.
+    history: >-
+      La conservation remonte à la loi sur la protection de la nature de l'Anhalt de 1923, suivie dès 1927 de
+      mesures protégeant le castor et la mâcre nageante. En 1979, la forêt de Steckby-Lödderitz devint l'une
+      des deux réserves de biosphère reconnues par l'UNESCO en RDA. Le 20 mars 2006 fut déclarée la réserve de
+      biosphère de la Moyenne-Elbe, avec 125 743 ha. Dans la Kliekener Aue, un projet Life mené de 1998 à 2002
+      a curé plusieurs tronçons de l'Alte Elbe et reconnecté un méandre déconnecté depuis les années 1930.
+    before: >-
+      La chenille processionnaire du chêne prolifère par moments dans la réserve ; il est recommandé de ne pas
+      s'approcher des arbres porteurs de nids et de ne pas manipuler les chenilles. Certains tronçons
+      d'Auenpfade peuvent être fermés pour impératif de sécurité forestière.
+    around: >-
+      La [Plaine inondable de l'Elster Noire](/lugar/black-elster-floodplain-schwarze-elster/) s'étend à
+      environ 23 km. Bien plus loin, la [Forêt de Tronçais](/lugar/foret-de-troncais/) et la [Serra do
+      Courel](/lugar/zec-serra-do-courel/) partagent avec la Moyenne-Elbe la présence du lucane cerf-volant et
+      de remarquables forêts alluviales.
+  de:
+    intro: >-
+      Die Elbe tritt seit Jahrhunderten nicht mehr ungebändigt über die Ufer, und doch wirkt sie hier noch
+      immer so. Zwischen Lutherstadt Wittenberg, Dessau-Roßlau, Magdeburg und bis hinauf nach Seehausen folgt
+      das Biosphärenreservat Mittelelbe dem Lauf des Stroms und der Mulde: ein Mosaik aus Auenwäldern,
+      Überflutungswiesen, Altwassern und Binnendünen. Zusammen mit Mulde, Saale und Havel prägt der Fluss die
+      Entstehung und Struktur aller hiesigen Lebensräume. Und an seinen Ufern fand der Elbebiber nach dem
+      Zweiten Weltkrieg sein letztes Rückzugsgebiet.
+    landscape: >-
+      Eine Aue umfasst alle Flächen, die bei Hochwasser überflutet werden oder dem Wechsel von Hoch- und
+      Niedrigwasser unterliegen – und dieser Wechsel ist der Schlüssel für die biologische Vielfalt. Sie
+      bewahrt die größte zusammenhängende Auenwaldlandschaft Mitteleuropas. Hier lagert der Fluss Sandbänke
+      und Kiesterrassen ab, speist die Weichholzaue aus Weiden direkt am Ufer und weiter landeinwärts die
+      Hartholzaue aus Stieleichen, Eschen und Ulmen. Die durch Wind und Wasser aufgewehten Binnendünen der
+      Elbe zählen zu den am stärksten bedrohten Lebensräumen Sachsen-Anhalts.
+
+
+      Doch der Fluss fließt nicht mehr völlig wild. Deiche und Uferbefestigungen setzten der freien
+      Flussdynamik Grenzen, die einst das Land formte, und Aufgabe des Reservats ist es, die Reste jener
+      Vielfalt zu sichern. Mitten im Stromgebiet liegt zudem eine gestaltete Kulturlandschaft: das Gartenreich
+      Dessau-Wörlitz, UNESCO-Welterbe. Der Wörlitzer Park innerhalb des Reservats gilt als ältester
+      Landschaftsgarten kontinentaleuropäischen Musters.
+    wildlife: >-
+      Über tausend Pflanzenarten, mehr als 50 Säugetierarten, über 700 Schmetterlinge, rund 50 Libellen- und
+      200 Bienenarten sind hier erfasst, dazu mindestens 315 Laufkäfer- und 125 Schneckenarten.
+
+
+      Die Vogelwelt ist das herausragende Naturerlebnis. Mehr als 179 Brutvogelarten und mindestens 100
+      weitere Gastvogelarten rasten, fressen oder überwintern hier; die Beobachtungstürme begleiten den
+      Jahreslauf. Von September bis Dezember schlafen am Neolith-Teich bis zu 40.000 Wildgänse, darunter die
+      seltene Kurzschnabelgans, während Rothalstaucher und Löffelente hier brüten. Im September und Oktober
+      rasten am Beobachtungsturm des [Kranich](/especie/grus_grus/)-Sammelplatzes, rund 6 km östlich von
+      Havelberg, hunderte Kraniche im Ramsar-Feuchtgebiet. Im Winter versammeln sich am Wanzer-Turm Gänse,
+      Kiebitze, Goldregenpfeifer und Löffelenten im Wrechow-Polder, und im Frühjahr rasten tausende Enten und
+      Gänse in den Havelflächen auf dem Weg in die nördlichen Brutgebiete. Von der Gütschow-Kanzel am
+      Schollener See lässt sich mit etwas Glück der [Fischadler](/especie/pandion_haliaetus/) beim Jagen
+      beobachten. Bei Neuschollene ertönen im Frühling nachts die Rufe unzähliger Amphibien.
+
+
+      Der fast ausgestorbene Elbe-[Biber](/especie/castor_fiber/) fand hier sein letztes Refugium; sein
+      Bestand hat sich inzwischen auf rund 1.200 Tiere erholt.
+    visit: >-
+      Das Informationszentrum Auenhaus zwischen Dessau und Oranienbaum entstand zur Expo 2000 und dient als
+      zentrale Anlaufstelle des Reservats. Die Ausstellung gewährt Einblicke in einen Biberbau, bietet
+      Multimediastationen und erläutert Lebensräume der Flussauen. Im Außenbereich veranschaulicht ein
+      Freigelände typische Auenbiotope mit Schautafeln, ergänzt durch ein Biber-Schaugehege. Dahinter führt
+      ein Sinnespfad mit Tierspuren und Blindenschrift für sehbehinderte Besucher entlang. Im Norden fungiert
+      das Haus der Flüsse in Havelberg seit 2015 als Informationszentrum des unteren Schutzgebiets.
+
+
+      Die Lehrpfade des Reservats, die Auenpfade, messen zwischen einem und 12 km und informieren auf Tafeln
+      über Flora, Fauna und Landschaftspflege. Der Weg am Kühnauer See umrundet das Gewässer mit 16
+      Schautafeln und eignet sich für Spaziergänger und Radler. Der Coswiger Pfad folgt der Elbeschleife mit
+      acht Tafeln zur historischen Flussnutzung. Der Pfad durch die Oranienbaumer Heide auf einem 2012
+      freigegebenen ehemaligen Militärgelände umfasst 13 Stationen; dort halten Konik-Pferde und Heckrinder
+      rund 800 ha Heideland offen. In der Kliekener Aue blickt man von der Werder-Plattform auf das Altwasser
+      Alte Elbe mit seiner reichen Wasservogelwelt, und vom Elbhang zwischen Coswig und Griebo übersieht man
+      das weite Flusstal. Bei Jerichow erschließen ein Beobachtungsturm und ein 2,5 km langer Lehrpfad die
+      Alte Elbe.
+
+
+      Für Radfahrer verläuft der Elberadweg R2 auf rund 360 km durch das Reservat, und die
+      Fürst-Franz-Gartenreichtour misst etwa 60 km. Die Naturwacht bietet ganzjährig Führungen, Exkursionen
+      und Fachvorträge an; zudem beteiligt sich das Reservat an Citizen-Science-Erfassungen der Artenvielfalt.
+    history: >-
+      Der Schutz geht auf das Anhaltische Naturschutzgesetz von 1923 zurück; 1927 wurden erste Schonsphären
+      für den Elbebiber und die Wassernuss ausgewiesen. 1979 zählte der Steckby-Lödderitzer Forst zu den
+      beiden ersten Biosphärenreservaten der UNESCO in der DDR. Am 20. März 2006 wurde das erweiterte
+      Biosphärenreservat Mittelelbe mit 125.743 ha ausgewiesen. In der Kliekener Aue entschlammte ein
+      Life-Projekt von 1998 bis 2002 Abschnitte der Alten Elbe und band eine in den 1930er-Jahren abgetrennte
+      Flussschleife wieder an.
+    before: >-
+      Im Schutzgebiet tritt der Eichenprozessionsspinner auf; meide befallene Eichen mit Gespinstnestern und
+      berühre keine Raupen. Einzelne Abschnitte der Auenpfade können aus Gründen der Verkehrssicherung
+      zeitweise gesperrt sein.
+    around: >-
+      Die [Schwarze-Elster-Aue](/lugar/black-elster-floodplain-schwarze-elster/) liegt etwa 23 km entfernt.
+      Weiter entfernt teilen auch der [Wald von Tronçais](/lugar/foret-de-troncais/) und die [Serra do
+      Courel](/lugar/zec-serra-do-courel/) Hirschkäfer und naturnahe Hartholzauen mit der Mittelelbe.
+  it:
+    intro: >-
+      L'Elba non esonda più liberamente da secoli, eppure qui dà ancora l'impressione di farlo. Tra
+      Lutherstadt Wittenberg, Dessau-Roßlau, Magdeburgo e fino a Seehausen, la Riserva della Biosfera
+      Mittelelbe segue il corso del fiume e della Mulde: un mosaico di boschi ripari, prati inondabili,
+      meandri abbandonati e dune interne. Il fiume, insieme a Mulde, Saale e Havel, plasma la genesi e la
+      struttura di ogni habitat locale. E lungo queste acque il castoro dell'Elba ha trovato il suo ultimo
+      rifugio dopo la Seconda Guerra Mondiale.
+    landscape: >-
+      Una piana alluvionale abbraccia tutte le terre inondate dalle piene o soggette all'alternanza stagionale
+      tra magra e piena, e questo respiro idrico è il fondamento di ogni forma vitale. Custodisce la più
+      estesa superficie continua di pianure alluvionali dell'Europa centrale. Qui il fiume deposita banchi di
+      sabbia e ghiaia, alimentando una foresta golenale molle di salici lungo riva e, più in quota, una
+      foresta dura di querce farnie, frassini e olmi. Le dune interne dell'Elba, modellate dall'azione idrica
+      ed eolica, figurano tra gli ambienti più minacciati della Sassonia-Anhalt.
+
+
+      Il fiume tuttavia non è più del tutto selvaggio. Argini e scogliere fluviali hanno interrotto la
+      dinamica spontanea che un tempo modellava la valle, e compito della riserva è salvaguardare ciò che
+      resta di quella ricchezza. Nella golena è incastonato anche un paesaggio storico: il Regno dei Giardini
+      di Dessau-Wörlitz, che fonde disegno paesaggistico e cultura ed è Patrimonio Mondiale UNESCO. Il parco
+      di Wörlitz, parte integrante della riserva, è il più antico parco paesaggistico all'inglese dell'Europa
+      continentale.
+    wildlife: >-
+      Oltre mille specie di piante, più di 50 mammiferi, oltre 700 farfalle, circa 50 libellule e 200 api
+      selvatiche sono state censite, assieme ad almeno 315 specie di carabidi e 125 molluschi.
+
+
+      Gli uccelli rappresentano il richiamo principale. Vi sono più di 179 specie nidificanti e almeno 100
+      altre che sostano, si nutrono o svernano qui, trasformando le torrette di osservazione in tappe del
+      calendario ornitologico. Da settembre a dicembre, sullo stagno Neolith-Teich pernottano fino a 40.000
+      oche selvatiche, tra cui la rara oca zamperosee, mentre lo svasso collorosso e il mestolone vi
+      nidificano. In settembre e ottobre, dalla torretta del sito di sosta delle [gru](/especie/grus_grus/), a
+      circa 6 km a est di Havelberg, stormi di gru sostano nella zona umida Ramsar. In inverno, la torretta di
+      Wanzer domina oche, pavoncelle, piviere dorati e mestoloni nel polder di Wrechow, e in primavera
+      migliaia di anatre e oche riposano nella golena dell'Havel dirette ai territori riproduttivi del nord.
+      Dall'appostamento di Gütschow sul lago Schollener See si può con fortuna scorgere il [falco
+      pescatore](/especie/pandion_haliaetus/) a caccia. A Neuschollene, in primavera, il canto notturno di una
+      moltitudine di anfibi pervade la palude.
+
+
+      Il [castoro](/especie/castor_fiber/) dell'Elba, un tempo prossimo all'estinzione, ha trovato qui il suo
+      ultimo santuario e la popolazione si è ripresa sino a raggiungere circa 1.200 individui.
+    visit: >-
+      Il centro visite Auenhaus, situato tra Dessau e Oranienbaum, è nato per l'Expo 2000 e funge da snodo
+      informativo della riserva. L'esposizione permette di osservare una tana di castoro, offre stazioni
+      multimediali e illustra gli ambienti alluvionali. All'esterno, un'area didattica presenta con pannelli i
+      biotopi golenali tipici e ospita un recinto per castori. Alle spalle si sviluppa un percorso sensoriale
+      con impronte di animali e scritte in braille per ipovedenti. A nord, la Haus der Flüsse a Havelberg
+      costituisce dal 2015 il punto informativo per il settore inferiore della riserva.
+
+
+      Gli Auenpfade, i sentieri didattici della riserva, misurano tra uno e 12 km e le loro tabelle spiegano
+      flora, fauna e gestione del paesaggio. Quello di Kühnauer See compie il giro del bacino con 16 pannelli
+      su un percorso adatto a piedi o in bici. Quello di Coswig segue l'ansa dell'Elba con otto pannelli sugli
+      usi storici del fiume. Il sentiero di Oranienbaumer Heide, in una ex area militare aperta dal 2012,
+      conta 13 stazioni; lì circa 800 ha di brughiera aperta sono mantenuti dal pascolo brado di cavalli konik
+      e bovini di Heck. Nella Kliekener Aue, la piattaforma Werder guarda il braccio morto dell'Alte Elbe,
+      affollato di uccelli acquatici, mentre dal dirupo dell'Elba tra Coswig e Griebo si domina la valle
+      serpeggiante. A Jerichow, una torre di avvistamento e un sentiero natura di circa 2,5 km costeggiano
+      l'Alte Elbe.
+
+
+      Se ami pedalare, la pista ciclabile Elbe-Radweg R2 segue circa 360 km dell'Elba all'interno della
+      riserva, e la Fürst Franz Gartenreichtour misura circa 60 km. Il personale di vigilanza propone visite
+      guidate, uscite ed escursioni lungo tutto l'anno, e la riserva coordina progetti di scienza partecipata
+      per il monitoraggio della biodiversità.
+    history: >-
+      La protezione ha radici nella legge di tutela ambientale dell'Anhalt del 1923, seguita nel 1927 dalle
+      prime oasi per il castoro dell'Elba e la castagna d'acqua. Nel 1979 la foresta di Steckby-Lödderitz fu
+      una delle prime due riserve della biosfera riconosciute dall'UNESCO nella RDT. Il 20 marzo 2006 fu
+      istituita la riserva della biosfera ampliata Mittelelbe con 125.743 ha. Nella Kliekener Aue, un progetto
+      Life dal 1998 al 2002 ha rimosso i sedimenti da porzioni dell'Alte Elbe riallacciando un meandro isolato
+      dagli anni 1930.
+    before: >-
+      Nel territorio della riserva sono presenti focolai di processionaria della quercia; evita di sostare
+      sotto querce con nidi o di toccare i bruchi. Singoli tratti degli Auenpfade possono rimanere chiusi per
+      motivi di incolumità.
+    around: >-
+      La [Piana Alluvionale dell'Elster Nero](/lugar/black-elster-floodplain-schwarze-elster/) dista circa 23
+      km. Molto più lontano, la [Foresta di Tronçais](/lugar/foret-de-troncais/) e la [Serra do
+      Courel](/lugar/zec-serra-do-courel/) condividono con il Medio Elba il cervo volante e magnifici boschi
+      ripariali.
+  pt:
+    intro: >-
+      O Elba há séculos que não transborda sem controlo, e ainda assim, aqui, continua a dar essa impressão.
+      Entre Lutherstadt Wittenberg, Dessau-Roßlau, Magdeburgo e até Seehausen, a Reserva da Biosfera
+      Mittelelbe acompanha o curso do rio e da Mulde: um mosaico de florestas ribeirinhas, prados inundáveis,
+      braços mortos e dunas interiores. O rio, a par da Mulde, do Saale e do Havel, molda a história e o
+      traçado de todos os habitats da região. E foi nas suas águas que o castor-do-elba encontrou o derradeiro
+      refúgio após a Segunda Guerra Mundial.
+    landscape: >-
+      Uma planície de inundação engloba todas as superfícies alagadas pelas cheias ou que alternam entre águas
+      altas e baixas, sendo essa pulsação sazonal o esteio de toda a vida silvestre. Abriga a maior extensão
+      contínua de florestas de várzea da Europa Central. Aqui o rio deposita bancos de areia e cascalho,
+      sustentando um bosque brando de salgueiros junto à margem e, em cotas superiores, uma mata dura de
+      carvalhos-robles, freixos e olmos. As dunas interiores do Elba, formadas pela água e pelo vento,
+      contam-se entre os biótopos mais ameaçados da Saxónia-Anhalt.
+
+
+      Contudo, o rio já não corre em estado puro. Diques e reforços de margens travaram a dinâmica de meandros
+      que antes esculpia o terreno, cabendo à reserva salvaguardar o que restou dessa diversidade. Há também
+      um jardim monumental integrado na bacia: o Reino dos Jardins de Dessau-Wörlitz, que harmoniza natureza
+      desenhada e cultura, classificado como Património Mundial da UNESCO. O parque de Wörlitz, integrado na
+      reserva, é o jardim paisagístico à inglesa mais antigo da Europa continental.
+    wildlife: >-
+      Estão catalogadas mais de mil espécies de plantas, mais de 50 mamíferos, mais de 700 borboletas, cerca
+      de 50 libélulas e 200 abelhas, além de pelo menos 315 espécies de carabídeos e 125 de caracóis.
+
+
+      As aves protagonizam o maior espetáculo. Há mais de 179 espécies nidificantes e pelo menos 100 outras
+      que fazem escala, se alimentam ou invernam aqui, orientando o calendário dos observatórios. De setembro
+      a dezembro, no lago Neolith-Teich pernoitam até 40.000 gansos-bravos, incluindo o raro
+      ganso-de-bico-curto, enquanto o mergulhão-de-pescoço-castanho e o pato-trombeteiro aí procriam. Em
+      setembro e outubro, no observatório do dormitório de [grous](/especie/grus_grus/), a cerca de 6 km a
+      leste de Havelberg, observam-se grous-comuns numa zona húmida Ramsar. No inverno, o posto de Wanzer
+      reúne gansos, abibes-comuns, tarambolas-douradas e patos-trombeteiros no pólder de Wrechow, e na
+      primavera milhares de patos e gansos descansam na várzea do Havel a caminho dos sítios de nidificação do
+      norte. Do miradouro de Gütschow, sobre o lago Schollener See, com sorte avista-se a
+      [águia-pesqueira](/especie/pandion_haliaetus/) a pescar. Em Neuschollene, pela primavera, ouve-se ao
+      anoitecer o coro de múltiplos anfíbios.
+
+
+      O [castor](/especie/castor_fiber/)-do-elba, que esteve à beira da extinção, encontrou aqui o seu último
+      santuário e a sua população recuperou até cerca de 1.200 indivíduos.
+    visit: >-
+      O centro de acolhimento Auenhaus, situado entre Dessau e Oranienbaum, foi construído para a Expo 2000 e
+      funciona como ponto de informação central da reserva. A sua exposição permite observar o interior de uma
+      toca de castores, dispõe de estações multimédia e explica a ecologia fluvial e de várzea. No exterior,
+      um percurso temático apresenta com painéis os habitats típicos da várzea e um cercado com castores. Nas
+      traseiras desenvolve-se um trilho sensorial com pegadas de animais e informação em braille para
+      visitantes com deficiência visual. A norte, o Haus der Flüsse, em Havelberg, constitui desde 2015 o
+      centro interpretativo da secção inferior da reserva.
+
+
+      Os Auenpfade, os trilhos didáticos da reserva, medem entre um e 12 km, e os seus painéis elucidam sobre
+      as espécies e a preservação da paisagem. O trilho de Kühnauer See circunda a lagoa com 16 painéis, num
+      trajeto adaptado para caminhar ou pedalar. O de Coswig segue o meandro do Elba com oito painéis sobre os
+      usos históricos do rio. O percurso pela Oranienbaumer Heide, num antigo campo militar aberto em 2012,
+      tem 13 estações; aí, cerca de 800 ha de charneca aberta mantêm-se através do pastoreio livre de cavalos
+      konik e bovinos de Heck. Na Kliekener Aue, a plataforma Werder debruça-se sobre o braço morto do Alte
+      Elbe, repleto de aves aquáticas, e a escarpa fluvial entre Coswig e Griebo descortina o vale em
+      meandros. Em Jerichow, uma torre de observação e um trilho pedagógico de cerca de 2,5 km percorrem o
+      Alte Elbe.
+
+
+      Se preferes a bicicleta, a ciclovia Elbe-Radweg R2 segue cerca de 360 km do curso do Elba na reserva, e
+      a rota Fürst Franz Gartenreichtour tem cerca de 60 km. O corpo de vigilantes organiza visitas guiadas,
+      excursões e palestras ao longo do ano, e a reserva dinamiza um projeto de ciência cidadã para
+      inventariação da biodiversidade.
+    history: >-
+      A preservação ambiental remonta à lei de conservação da natureza de Anhalt de 1923, tendo em 1927 sido
+      delimitadas as primeiras zonas de refúgio para o castor-do-elba e para a castanha-d'água. Em 1979, a
+      floresta de Steckby-Lödderitz foi uma das duas reservas da biosfera reconhecidas pela UNESCO na RDA. A
+      20 de março de 2006 foi declarada a Reserva da Biosfera Mittelelbe, com 125.743 ha. Na Kliekener Aue, um
+      projeto Life entre 1998 e 2002 desassoreou trechos do Alte Elbe e restabeleceu a ligação a um meandro
+      isolado na década de 1930.
+    before: >-
+      Existe uma proliferação de lagarta-processionária-do-carvalho na reserva; evita aproximar-te de
+      carvalhos com ninhos ou tocar nas lagartas. Alguns troços dos Auenpfade mantêm-se encerrados por razões
+      de segurança florestal.
+    around: >-
+      A [Planície de Inundação do Elster Negro](/lugar/black-elster-floodplain-schwarze-elster/) fica a cerca
+      de 23 km. Bem mais longe, a [Floresta de Tronçais](/lugar/foret-de-troncais/) e a [Serra do
+      Courel](/lugar/zec-serra-do-courel/) partilham com o Médio Elba o vaca-loura e florestas aluviais
+      maduras.
+fuentes:
+  - url: https://www.mittelelbe.com/biospaerenreservat/natur/
+    titulo: Natur — Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/tourismus/
+    titulo: Tourismus — Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/
+    titulo: Mittelelbe — Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Biosph%C3%A4renreservat_Mittelelbe
+    titulo: Biosphärenreservat Mittelelbe – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Middle_Elbe_Biosphere_Reserve
+    titulo: Middle Elbe Biosphere Reserve - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/auenpfade/kliekener-aue/
+    titulo: Kliekener Aue - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/vogelbeobachtungspunkte/
+    titulo: Vogelbeobachtungspunkte - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/infozentrum-auenhaus/
+    titulo: Infozentrum Auenhaus - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/infozentrum-haus-der-fluesse/
+    titulo: Infozentrum Haus der Flüsse - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/auenpfade/auenpfad-kuehnauer-see/
+    titulo: Auenpfad Kühnauer See - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/auenpfade/auenpfad-coswig/
+    titulo: Auenpfad Coswig - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/auenpfade/auenpfad-oranienbaumer-heide/
+    titulo: Auenpfad Oranienbaumer Heide - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+  - url: https://www.mittelelbe.com/besucherinfos/auenpfade/
+    titulo: Auenpfade - Biosphärenreservat Mittelelbe
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Elbblick_Trogbr%C3%BCcke.jpg
+    autor: Emillam
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

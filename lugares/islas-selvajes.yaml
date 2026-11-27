@@ -1,0 +1,610 @@
+id: islas-selvajes
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de las Islas Selvajes
+  en: Selvagens Islands Nature Reserve
+  fr: Réserve naturelle des îles Selvagens
+  de: Naturreservat der Selvagens-Inseln
+  it: Riserva naturale delle isole Selvagge
+  pt: Reserva Natural das Ilhas Selvagens
+nombre_original: Islas Selvajes
+alias:
+  - Reserva Natural das Ilhas Selvagens
+paises:
+  - PT
+region:
+  es: Región Autónoma de Madeira (Selvagem Grande / Selvagem Pequena)
+  en: Autonomous Region of Madeira (Selvagem Grande / Selvagem Pequena)
+  fr: Région autonome de Madère (Selvagem Grande / Selvagem Pequena)
+  de: Autonome Region Madeira (Selvagem Grande / Selvagem Pequena)
+  it: Regione Autonoma di Madeira (Selvagem Grande / Selvagem Pequena)
+  pt: Região Autónoma da Madeira (Selvagem Grande / Selvagem Pequena)
+ubicacion:
+  tipo: punto
+  lat: 30.15
+  lon: -15.87
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 32568
+  nombre_en_la_fuente: Ilhas Selvagens
+  categoria_uicn: Ia
+  capa: capas/cdda/islas-selvajes.geojson
+habitats:
+  - coast
+  - marine
+  - steppe
+designaciones:
+  - strict_reserve
+  - ramsar
+  - natura2000
+especies:
+  - calonectris_diomedea
+  - pelagodroma_marina
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 0
+masificacion_nota:
+  es: Reserva estricta habitada solo por guardas de la naturaleza y científicos
+  en: Strict nature reserve inhabited only by nature wardens and researchers
+  fr: Réserve intégrale habitée uniquement par des gardes-nature et des scientifiques
+  de: Strenges Naturreservat, nur von Rangern und Wissenschaftlern bewohnt
+  it: Riserva integrale abitata esclusivamente da guardiaparco e ricercatori
+  pt: Reserva estrita habitada apenas por vigilantes da natureza e cientistas
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — IFCN Madeira
+    url: https://ifcn.madeira.gov.pt/
+  - titulo: Gestor — Reserva Natural de Ilhas Selvagens
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens.html
+  - titulo: Visita y permisos — Acceso a Ilhas Selvagens
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/como-visitar.html
+  - titulo: Normas — Legislación de Ilhas Selvagens
+    url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/legislacao-aplicavel.html
+resumen:
+  es: >-
+    El territorio más meridional de Portugal y una de las reservas marinas estrictas más antiguas de Europa
+    (1971), albergando la colonia de pardela cenicienta (*Calonectris diomedea*) más densa del planeta.
+  en: >-
+    Portugal's southernmost territory and one of Europe's oldest strict marine reserves (1971), harbouring the
+    world's densest colony of Cory's shearwater (*Calonectris diomedea*).
+  fr: >-
+    Le territoire le plus méridional du Portugal et l'une des plus anciennes réserves marines intégrales
+    d'Europe (1971), abritant la plus forte densité mondiale de puffins cendrés (*Calonectris diomedea*).
+  de: >-
+    Das südlichste Territorium Portugals und eines der ältesten strengen Meeresschutzgebiete Europas (1971),
+    Heimat der weltweit dichtesten Brutkolonie des Gelbschnabel-Sturmtauchers (*Calonectris diomedea*).
+  it: >-
+    Il territorio più meridionale del Portogallo e una delle riserve marine integrali più antiche d'Europa
+    (1971), custode della colonia di berta maggiore (*Calonectris diomedea*) più densa del pianeta.
+  pt: >-
+    O território mais meridional de Portugal e uma das reservas marinhas integrais mais antigas da Europa
+    (1971), acolhendo a colónia de cagarra (*Calonectris diomedea*) mais densa do planeta.
+unico:
+  es: >-
+    Son el único archipiélago de la Macaronesia sin mamíferos, un fragmento de isla oceánica tal como era
+    antes de que los barcos humanos lo cambiaran todo.
+  en: >-
+    They are the only mammal-free archipelago in Macaronesia, an authentic oceanic island relic untouched by
+    the ecological disruptions brought by human navigation.
+  fr: >-
+    Elles sont le seul archipel de Macaronésie totalement exempt de mammifères, relique vivante d'un
+    écosystème océanique préservé des bouleversements apportés par la navigation humaine.
+  de: >-
+    Sie sind der einzige säugetierfreie Archipel Makaronesiens, ein echtes ozeanisches Inselrelikt, wie es vor
+    Beginn der menschlichen Seefahrt existierte.
+  it: >-
+    Costituiscono l'unico arcipelago della Macaronesia privo di mammiferi, autentico relitto insulare oceanico
+    rimasto immune dalle trasformazioni arrecate dalle rotte umane.
+  pt: >-
+    São o único arquipélago da Macaronésia sem mamíferos, um fragmento de ilha oceânica tal como era antes de
+    a navegação humana ter alterado a biosfera.
+observaciones:
+  es: >-
+    El acceso exige autorización previa del IFCN. Consulta la web del gestor para los trámites antes de
+    plantear el viaje.
+texto:
+  es:
+    intro: >-
+      Antes de que hubiera reserva, había una matanza. A finales del siglo XIX se cazaban cada septiembre u
+      octubre entre veinte y veintidós mil pardelas cenicientas en estas rocas, y la caza siguió hasta 1967.
+      Hoy es al revés: en las Islas Selvajes, el territorio más meridional de Portugal, crece la colonia de
+      cagarra de mayor densidad del mundo, y es una de las zonas de cría más importantes de aves marinas de la
+      Macaronesia y del Atlántico Norte.
+    landscape: >-
+      El archipiélago son dos islas, Selvagem Grande y Selvagem Pequena, y una serie de islotes; el principal
+      es Ilhéu de Fora. Selvagem Grande, de 245 hectáreas y forma pentagonal, es una extensa meseta de unos
+      cien metros de altura que cae al mar en acantilados volcánicos. Selvagem Pequena, de 20 hectáreas, es
+      baja y plana, casi toda cubierta de arena calcárea, con un faro en el Pico do Veado. Ilhéu de Fora, de 8
+      hectáreas, también está cubierto de arena calcárea.
+
+
+      La historia geológica empieza con la apertura del océano Atlántico. Se admite que fueron las primeras
+      islas de Madeira en emerger, hace unos 29 millones de años. Después hubo épocas de calma volcánica y de
+      erosión intensa, hasta que hace 3,4 millones de años una nueva fase de actividad dio origen en Selvagem
+      Grande al Complexo Vulcânico Superior. El edificio volcánico es hoy un Monumento Natural de la red de
+      Madeira.
+
+
+      La costa es rocosa y muy expuesta al oleaje. En Selvagem Grande las pendientes son muy fuertes; en
+      Selvagem Pequena e Ilhéu de Fora dominan las plataformas rocosas con pequeñas playas de arena blanca.
+    wildlife: >-
+      Todo gira alrededor de las aves marinas, que acuden solo para criar: salvo la gaviota patiamarilla, las
+      demás son migratorias y aparecen únicamente durante su periodo reproductor. Crían ocho especies marinas.
+      La cagarra tiene aquí la colonia más densa del mundo, pero la más numerosa es la del calcamar, con más
+      de 80.000 parejas reproductoras. Completan el cuadro la alma-negra, el roque-de-castro y el pintainho,
+      todas de interés comunitario, y en la costa el garajau-comum y la [gaviota
+      patiamarilla](/especie/larus_michahellis/). Las islas son Área Importante para las Aves de BirdLife.
+
+
+      En tierra casi no hay vertebrados: el único paseriforme que cría es el corre-caminhos, endémico de la
+      Macaronesia, y los dos únicos reptiles terrestres son exclusivos de las islas. Otras aves visitan el
+      archipiélago de paso, sobre todo en otoño y en primavera. Faltan los mamíferos: tras erradicar conejos y
+      ratones de Selvagem Grande, las Selvajes quedaron libres de ellos, y eso permite estudiar un ecosistema
+      insular como era antes de la navegación humana.
+
+
+      Los invertebrados compensan el vacío: hay unos 44 taxones de artrópodos endémicos, hasta el punto de ser
+      un punto caliente de diversidad. La flora reúne 105 taxones de plantas vasculares, con siete endemismos
+      exclusivos en apenas tres kilómetros cuadrados; entre ellos, la estreleira, catalogada como amenazada.
+      La vegetación crece rápido, es xerófila y suculenta, y los líquenes cubren las rocas desde el nivel del
+      mar hasta las cumbres.
+
+
+      Bajo el agua hay registradas 88 especies de peces litorales y nueve de cetáceos, entre ellos el rorcual
+      común, el cachalote y el [delfín mular](/especie/tursiops_truncatus/). La [tortuga
+      boba](/especie/caretta_caretta/) visita las aguas de Madeira, y las Selvajes ayudan a proteger su fase
+      juvenil oceánica.
+    visit: >-
+      Las islas reciben cientos de visitantes al año, que llegan en embarcaciones privadas,
+      marítimo-turísticas o de la Marina, siempre con autorización previa del IFCN. La actividad principal es
+      la visita guiada por un recorrido interpretativo, seguida de la observación y escucha de la vida
+      salvaje. La autorización se pide en el portal en línea SIMplifica, y el gestor no se encarga del
+      transporte para desembarcar.
+    history: >-
+      Las islas recibieron su nombre en 1438, de Diogo Gomes de Sintra. Por un tiempo se recolectó en ellas el
+      liquen Roccella tinctoria para la industria tintorera europea. En 1971 se creó la reserva, las primeras
+      en clasificarse así a escala nacional, lo que permitió frenar la caza excesiva que casi acabó con la
+      cagarra y controlar la pesca ilegal.
+
+
+      En noviembre de 2021 el Gobierno de Madeira anunció la mayor área marina de protección total de Europa:
+      2.677 km² en un radio de 12 millas náuticas, donde las actividades extractivas como la pesca o la
+      extracción de áridos quedan fuera. Hoy viven en las islas cuatro habitantes permanentes en Selvagem
+      Grande y dos semipermanentes en Selvagem Pequena, vigilantes del Parque Natural de Madeira.
+    before: >-
+      El acceso exige autorización previa del IFCN. Consulta la web del gestor para los trámites antes de
+      plantear el viaje.
+    around: >-
+      Las Selvajes no tienen vecinos cercanos en el atlas, pero comparten pardelas y costa con la [Fajã da
+      Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), la [Ilha do
+      Corvo](/lugar/parque-natural-da-ilha-do-corvo/) y el [Parc Naturel Marin du Cap Corse et de
+      l'Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+  en:
+    intro: >-
+      Before there was a nature reserve, there was slaughter. In the late nineteenth century, between twenty
+      and twenty-two thousand Cory's shearwaters were harvested each September and October on these cliffs,
+      and the hunting continued until 1967. Today the picture is inverted: on the Selvagens Islands,
+      Portugal's southernmost territory, thrives the world's densest Cory's shearwater colony, making it one
+      of the premier seabird breeding bastions of Macaronesia and the North Atlantic.
+    landscape: >-
+      The archipelago consists of two main islands, Selvagem Grande and Selvagem Pequena, and several islets,
+      the largest being Ilhéu de Fora. Selvagem Grande (245 hectares), pentagonal in outline, is an expansive
+      plateau roughly one hundred metres high dropping into the Atlantic via volcanic sea cliffs. Selvagem
+      Pequena (20 hectares) is low and level, predominantly covered in calcareous sand, crowned by a
+      lighthouse on Pico do Veado. Ilhéu de Fora (8 hectares) is likewise carpeted in calcareous sand.
+
+
+      Geological history commenced with the opening of the Atlantic Ocean. The Selvagens are widely recognized
+      as the earliest Madeiran islands to emerge, some 29 million years ago. Extended periods of volcanic
+      dormancy and severe marine abrasion ensued until, 3.4 million years ago, a new eruptive phase gave rise
+      on Selvagem Grande to the Upper Volcanic Complex. This volcanic edifice is today protected as a Natural
+      Monument within Madeira's regional network.
+
+
+      The coast is sheer basaltic rock heavily battered by oceanic swell. On Selvagem Grande slopes are
+      formidable; on Selvagem Pequena and Ilhéu de Fora, rocky wave-cut platforms alternate with small beaches
+      of white calcareous sand.
+    wildlife: >-
+      Everything revolves around pelagic seabirds arriving solely to breed: except for the yellow-legged gull,
+      all species are migratory and present only during their nesting season. Eight marine bird species breed
+      here. Cory's shearwater attains its densest global nesting concentration, while the white-faced storm
+      petrel forms the largest colony, exceeding 80,000 breeding pairs. Completing the assemblage are Bulwer's
+      petrel, band-rumped storm petrel, and Little shearwater, all of Community interest, alongside common
+      tern and the [yellow-legged gull](/especie/larus_michahellis/) along the shores. The islands are
+      designated a BirdLife Important Bird Area.
+
+
+      Terrestrial vertebrates are remarkably scarce: the only breeding passerine is Berthelot's pipit, endemic
+      to Macaronesia, and the two terrestrial reptiles are endemic exclusively to the Selvagens. Other bird
+      species visit on migration, particularly in autumn and spring. Mammals are entirely absent: following
+      the successful eradication of rabbits and house mice on Selvagem Grande, the archipelago is wholly
+      mammal-free, offering an extraordinary window into a pristine pre-human oceanic ecosystem.
+
+
+      Invertebrates compensate brilliantly: about 44 endemic terrestrial arthropod taxa occur, making the
+      islands an evolutionary hotspot. The vascular flora comprises 105 taxa, featuring seven exclusive
+      endemics across barely three square kilometres, notably the endangered shrubby daisy *Argyranthemum
+      thalassophilum* (estreleira). Vegetation is fast-growing, xerophytic, and succulent, with crustose
+      lichens clothing rocks from sea level to the highest summits.
+
+
+      Marine waters harbor 88 recorded inshore fish species and nine cetaceans, including fin whale, sperm
+      whale, and the [common bottlenose dolphin](/especie/tursiops_truncatus/). The [loggerhead sea
+      turtle](/especie/caretta_caretta/) frequents Madeiran waters, with the Selvagens playing a crucial role
+      in safeguarding its oceanic juvenile stage.
+    visit: >-
+      The islands welcome hundreds of visitors annually, arriving on licensed maritime tourism boats, private
+      yachts, or naval vessels, always subject to prior authorization from the IFCN. The core permitted
+      activity is an interpretive guided walk, followed by observation of wildlife. Permits must be requested
+      via the SIMplifica online portal; the reserve authority does not operate boat transfers.
+    history: >-
+      Diogo Gomes de Sintra named the islands in 1438. For a time, the orchil lichen (*Roccella tinctoria*)
+      was harvested here for the European textile dyeing trade. In 1971 the nature reserve was established—the
+      first designated in Portugal—effectively halting the rampant hunting that pushed Cory's shearwaters to
+      the brink and curbing illegal fishing.
+
+
+      In November 2021 the Regional Government of Madeira established Europe's largest fully protected marine
+      reserve: 2,677 km² across a 12-nautical-mile radius, where extractive activities such as commercial
+      fishing and aggregate mining are banned. Today four permanent wardens live on Selvagem Grande and two
+      semi-permanent staff on Selvagem Pequena, representing the Madeira Natural Park.
+    before: >-
+      Access requires prior authorization from the IFCN. Consult the managing authority's official portal for
+      permit procedures before planning any voyage.
+    around: >-
+      The Selvagens have no immediate neighbours in the atlas, but share pelagic shearwaters and oceanic
+      cliffs with [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), [Corvo
+      Island](/lugar/parque-natural-da-ilha-do-corvo/), and the [Cap Corse and Agriate Marine Natural
+      Park](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+  fr:
+    intro: >-
+      Avant qu'il n'y ait une réserve, il y avait un massacre. À la fin du XIXe siècle, on abattait chaque
+      année en septembre ou octobre entre vingt et vingt-deux mille puffins cendrés sur ces rochers, et cette
+      chasse s'est poursuivie jusqu'en 1967. Aujourd'hui, la situation s'est inversée : aux îles Selvagens,
+      territoire le plus austral du Portugal, prospère la colonie de puffins cendrés la plus dense de la
+      planète, faisant de l'archipel un sanctuaire majeur pour les oiseaux marins de Macaronésie et de
+      l'Atlantique Nord.
+    landscape: >-
+      L'archipel se compose de deux îles principales, Selvagem Grande et Selvagem Pequena, et de plusieurs
+      îlots, le plus étendu étant l'Ilhéu de Fora. Selvagem Grande (245 hectares), de silhouette pentagonale,
+      forme un plateau vaste d'environ cent mètres de haut qui plonge dans l'océan par de puissantes falaises
+      volcaniques. Selvagem Pequena (20 hectares) est basse et plane, presque entièrement tapissée de sable
+      calcaire, surmontée d'un phare sur le Pico do Veado. L'Ilhéu de Fora (8 hectares) est également
+      recouvert de sables calcaires.
+
+
+      L'histoire géologique débute lors de l'ouverture de l'océan Atlantique. On s'accorde à reconnaître
+      qu'elles furent les premières terres émergées de Madère, il y a environ 29 millions d'années. Après de
+      longues périodes d'accalmie éruptive et d'abrasion marine, une nouvelle phase volcanique a donné
+      naissance il y a 3,4 millions d'années au complexe volcanique supérieur de Selvagem Grande. L'édifice
+      volcanique est aujourd'hui classé Monument naturel régional de Madère.
+
+
+      Le littoral est rocheux et puissamment battu par les lames. À Selvagem Grande, les versants sont
+      vertigineux ; à Selvagem Pequena et Ilhéu de Fora dominent des platiers rocheux frangés de petites
+      plages de sable blanc.
+    wildlife: >-
+      Tout s'organise autour des oiseaux marins, qui ne gagnent la terre que pour nidifier : hormis le goéland
+      leucophée, tous sont migrateurs et ne séjournent qu'au temps de la reproduction. Huit espèces d'oiseaux
+      marins nichent ici. Le puffin cendré y compte la colonie la plus dense au monde, tandis que l'océanite
+      frégate forme la plus imposante par le nombre, avec plus de 80 000 couples reproducteurs. Le tableau se
+      complète du pétrel de Bulwer, de l'océanite de Castro et du puffin d'Assise, tous d'intérêt
+      communautaire, ainsi que de la sterne pierregarin et du [goéland leucophée](/especie/larus_michahellis/)
+      sur les rivages. Les îles sont classées Zone importante pour la conservation des oiseaux par BirdLife.
+
+
+      À terre, les vertébrés sont rarissimes : le seul passereau nicheur est le pipit de Berthelot, endémique
+      de Macaronésie, et les deux seuls reptiles terrestres sont endémiques exclusifs des îles. D'autres
+      oiseaux font escale au cours de leur migration d'automne et de printemps. Les mammifères font totalement
+      défaut : l'éradication réussie des lapins et des souris sur Selvagem Grande a rendu les Selvagens
+      vierges de tout mammifère, offrant un terrain d'étude unique sur les écosystèmes préhumains.
+
+
+      Les invertébrés comblent ce vide : on dénombre environ 44 taxons d'arthropodes endémiques, hissant
+      l'archipel au rang de point chaud de biodiversité. La flore réunit 105 taxons de plantes vasculaires,
+      avec sept endémiques exclusifs sur à peine trois kilomètres carrés, notamment l'estreleira, espèce
+      menacée. La végétation xérophile et succulente s'accroît rapidement, tandis que les lichens gainent la
+      roche du rivage jusqu'aux sommets.
+
+
+      Sous l'eau sont répertoriées 88 espèces de poissons côtiers et neuf espèces de cétacés, dont le rorqual
+      commun, le cachalot et le [grand dauphin](/especie/tursiops_truncatus/). La [tortue
+      caouanne](/especie/caretta_caretta/) fréquente les parages madériens, et les Selvagens protègent sa
+      phase de développement océanique juvénile.
+    visit: >-
+      Les îles accueillent quelques centaines de visiteurs par an, arrivant à bord d'embarcations touristiques
+      certifiées, de voiliers privés ou de navires militaires, impérativement munis d'un permis préalable de
+      l'IFCN. L'activité majeure réside dans la découverte accompagnée le long d'un sentier d'interprétation
+      et l'observation de la faune. L'autorisation se demande sur la plateforme SIMplifica ; l'administration
+      ne propose aucun transport pour débarquer.
+    history: >-
+      Diogo Gomes de Sintra baptisa les îles en 1438. Pendant un temps, on y récolta l'orseille (*Roccella
+      tinctoria*) pour les teintureries européennes. En 1971 fut créée la réserve, la toute première à être
+      classée à l'échelle nationale au Portugal, ce qui permit d'enrayer les massacres de puffins cendrés et
+      de juguler la pêche clandestine.
+
+
+      En novembre 2021, le gouvernement de Madère a officialisé la plus vaste zone marine de protection
+      intégrale d'Europe : 2 677 km² dans un rayon de 12 milles marins, interdisant toute pêche et activité
+      extractive. De nos jours, quatre agents permanents résident sur Selvagem Grande et deux veilleurs
+      semi-permanents occupent Selvagem Pequena, sous l'égide du Parc naturel de Madère.
+    before: >-
+      L'accès nécessite un permis préalable de l'IFCN. Consultez le site officiel du gestionnaire pour
+      accomplir les démarches avant d'envisager toute expédition.
+    around: >-
+      Les Selvagens ne comptent pas de proches voisins dans l'atlas, mais partagent les puffins et l'ambiance
+      océanique avec la [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), l'[île
+      de Corvo](/lugar/parque-natural-da-ilha-do-corvo/) et le [parc naturel marin du cap Corse et de
+      l'Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+  de:
+    intro: >-
+      Bevor es ein Schutzgebiet gab, gab es ein Massaker. Im späten neunzehnten Jahrhundert wurden alljährlich
+      im September oder Oktober zwischen zwanzig- und zweiundzwanzigtausend Gelbschnabel-Sturmtaucher auf
+      diesen Klippen getötet, und die Jagd währte bis 1967 fort. Heute verhält es sich umgekehrt: Auf den
+      Selvagens-Inseln, dem südlichsten Gebiet Portugals, gedeiht die dichteste Sturmtaucherkolonie der Erde,
+      ein überragender Brutplatz für Meeresvögel Makaronesiens und des Nordatlantiks.
+    landscape: >-
+      Der Archipel umfasst zwei Inseln, Selvagem Grande und Selvagem Pequena, sowie mehrere Felseneilande,
+      darunter als größtes Ilhéu de Fora. Selvagem Grande (245 Hektar), von fünfeckiger Gestalt, ist ein
+      weites, etwa einhundert Meter hohes Plateau, das mit steilen Vulkanwänden ins Meer abbricht. Selvagem
+      Pequena (20 Hektar) ist flach und eben, fast ganz von Kalksand bedeckt, mit einem Leuchtfeuer auf dem
+      Pico do Veado. Auch Ilhéu de Fora (8 Hektar) ist von hellem Kalksand überweht.
+
+
+      Die Erdgeschichte begann mit der Entstehung des Atlantiks. Sie gelten als älteste Inseln Madeiras, die
+      vor rund 29 Millionen Jahren aus dem Meer stiegen. Lange Ruhephasen und marine Abtragung folgten, ehe
+      vor 3,4 Millionen Jahren eine neue vulkanische Phase auf Selvagem Grande den Oberen Vulkankomplex schuf.
+      Das Vulkanmassiv steht heute als Naturdenkmal unter regionalem Schutz.
+
+
+      Die Küste ist felsig und extremer Brandung ausgesetzt. Auf Selvagem Grande fallen die Hänge schroff ab;
+      auf Selvagem Pequena und Ilhéu de Fora dominan Felsplattformen mit kleinen weißen Sandstränden.
+    wildlife: >-
+      Alles dreht sich um die Seevögel, die ausschließlich zur Fortpflanzung an Land gehen: Bis auf die
+      Mittelmeermöwe sind alle Arten pelagische Zugvögel und nur zur Brutzeit anwesend. Acht Meeresvogelarten
+      nisten hier. Der Gelbschnabel-Sturmtaucher erreicht die höchste Siedlungsdichte der Welt, die
+      Fregattensturmschwalbe mit über 80.000 Brutpaaren die höchste Individuenzahl. Ergänzt wird die Avifauna
+      durch Bulwersturmvogel, Madeirawellenläufer und Kleinen Sturmtaucher sowie Flussseeschwalbe und
+      [Mittelmeermöwe](/especie/larus_michahellis/) an den Küsten. Die Inseln sind als Important Bird Area von
+      BirdLife ausgewiesen.
+
+
+      An Land fehlen Wirbeltiere fast völlig: Der einzige brütende Singvogel ist der makaronesische
+      Kanarenpieper, und die zwei Landsäugetier-Reptilienarten sind inselendemisch. Andere Vögel rasten auf
+      dem Zug im Herbst und Frühjahr. Säugetiere fehlen vollständig: Nach der erfolgreichen Ausrottung von
+      Kaninchen und Mäusen auf Selvagem Grande sind die Inseln frei von Säugern—ein unschätzbares
+      Freilandlabor für prä-anthropogene Inselökosysteme.
+
+
+      Die Wirbellosen füllen diese Nische aus: Rund 44 endemische Gliederfüßer-Taxa machen die Inseln zu einem
+      Biodiversitäts-Hotspot. Die Flora zählt 105 Gefäßpflanzensippen mit sieben Inselendemiten auf kaum drei
+      Quadratkilometern, darunter die bedrohte *Argyranthemum thalassophilum* (estreleira). Die Vegetation ist
+      trockenheitsangepasst und sukkulent, Flechten überziehen das Gestein vom Flutsaum bis zu den Gipfeln.
+
+
+      Unter Wasser sind 88 Küstenfischarten und neun Walarten erfasst, darunter Finnwal, Pottwal und der
+      [Große Tümmler](/especie/tursiops_truncatus/). Die [Unechte
+      Karettschildkröte](/especie/caretta_caretta/) durchquert die Gewässer, wobei die Inseln Schutz für ihre
+      ozeanische Jugendphase bieten.
+    visit: >-
+      Die Inseln verzeichnen einige Hundert Besucher im Jahr, die auf Ausflugsschiffen, Privatyachten oder
+      Marineschiffen anreisen, stets mit behördlicher Genehmigung des IFCN. Die Hauptaktivität besteht in
+      einem geführten Rundgang auf dem Lehrpfad mit Naturbeobachtung. Genehmigungen müssen über das
+      SIMplifica-Portal beantragt werden; die Behörde betreibt keinen Zubringerdienst.
+    history: >-
+      Die Inseln erhielten ihren Namen 1438 durch Diogo Gomes de Sintra. Zeitweilig wurde hier die
+      Färberflechte *Roccella tinctoria* für die europäische Textilindustrie gesammelt. 1971 entstand das
+      Reservat—das erste Schutzgebiet auf nationaler Ebene Portugals—, wodurch die exzessive Jagd auf
+      Sturmtaucher gestoppt und illegale Fischerei unterbunden wurde.
+
+
+      Im November 2021 deklarierte Madeira Europas größtes Vollsperr-Meeresschutzgebiet: 2.677 km² im Umkreis
+      von 12 Seemeilen, frei von Fischerei und Bodenschatzgewinnung. Heute versehen vier feste Ranger auf
+      Selvagem Grande und zwei Stationsmitarbeiter auf Selvagem Pequena ihren Dienst für den Naturpark
+      Madeira.
+    before: >-
+      Das Betreten bedarf einer schriftlichen Genehmigung des IFCN. Konsultiere die Website der Parkverwaltung
+      vor jeder Reiseplanung.
+    around: >-
+      Die Selvagens besitzen im Atlas keine nahen Nachbarn, teilen aber Sturmtaucher und Brandungsklippen mit
+      der [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), der [Insel
+      Corvo](/lugar/parque-natural-da-ilha-do-corvo/) und dem [Meeresnaturpark Cap Corse und
+      Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+  it:
+    intro: >-
+      Prima che nascesse la riserva, vi fu un eccidio. Sul finire del XIX secolo venivano cacciate ogni anno
+      tra settembre e ottobre tra venti e ventiduemila berte maggiori su questi scogli, e i prelievi
+      continuarono fino al 1967. Oggi la prospettiva è ribaltata: nelle isole Selvagge, lembo più australe del
+      Portogallo, fiorisce la colonia di berta maggiore più fitta al mondo, configurando uno dei cardini
+      riproduttivi per l'avifauna marina della Macaronesia e del Nord Atlantico.
+    landscape: >-
+      L'arcipelago comprende due isole, Selvagem Grande e Selvagem Pequena, oltre a vari scogli emersi, il
+      maggiore dei quali è Ilhéu de Fora. Selvagem Grande (245 ettari), a perimetro pentagonale, è un
+      altopiano esteso alto circa cento metri che scende a picco in mare con scogliere vulcaniche. Selvagem
+      Pequena (20 ettari) è bassa e pianeggiante, quasi interamente ricoperta da sabbia calcarea, sormontata
+      da un faro sul Pico do Veado. Anche Ilhéu de Fora (8 ettari) è coperto da candida sabbia calcarea.
+
+
+      L'evoluzione geologica principia con l'apertura dell'oceano Atlantico. Sono concordemente ritenute le
+      prime isole emerse dell'area di Madeira, circa 29 milioni di anni fa. Seguirono lunghi periodi di
+      quiescenza ed erosione marina, finché 3,4 milioni di anni fa una nuova fase vulcanica generò su Selvagem
+      Grande il Complesso Vulcanico Superiore, oggi tutelato quale Monumento Naturale regionale di Madeira.
+
+
+      La costa è rupestre e battuta da violente mareggiate. Su Selvagem Grande i declivi sono verticali; su
+      Selvagem Pequena e Ilhéu de Fora dominano piattaforme rocciose d'abrasione intervallate da candide
+      calette sabbiose.
+    wildlife: >-
+      Tutto gravita intorno agli uccelli pelagici, che toccano terra solo per riprodursi: eccezion fatta per
+      il gabbiano reale zampelleggere, tutte le specie sono migratrici e presenti solo durante la
+      nidificazione. Vi nidificano otto specie marine. La berta maggiore vi registra la densità più elevata
+      della Terra, ma la specie più numerosa in assoluto è l'uccello delle tempeste facciabianca, con oltre
+      80.000 coppie riproduttrici. Completano il quadro la berta di Bulwer, l'uccello delle tempeste di Castro
+      e la berta minore fosca, tutte di interesse comunitario, assieme a sterna comune e [gabbiano reale
+      zampelleggere](/especie/larus_michahellis/) lungo la battigia. Le isole sono classificate Important Bird
+      Area da BirdLife.
+
+
+      A terra i vertebrati sono quasi assenti: l'unico passeriforme nidificante è la pispola di Berthelot,
+      endemismo macaronesico, e i due rettili terrestri sono endemici esclusivi dell'arcipelago. Altri
+      volatili sostano durante le rotte autunnali e primaverili. I mammiferi mancano completamente: dopo
+      l'eradicazione totale di conigli e topi su Selvagem Grande, le Selvagge sono prive di mammiferi, aprendo
+      una finestra impareggiabile sui sistemi insulari preistorici.
+
+
+      Gli invertebrati colmano questa assenza: si contano circa 44 taxa di artropodi endemici, facendo
+      dell'arcipelago un autentico punto caldo evolutivo. La flora raccoglie 105 taxa vascolari con sette
+      endemismi esclusivi in appena tre chilometri quadrati, tra cui la minacciata *Argyranthemum
+      thalassophilum* (estreleira). La vegetazione è xerofila e succulenta, e i licheni fasciano le rocce dal
+      limite di marea fino alle creste.
+
+
+      Sott'acqua sono registrate 88 specie ittiche litorali e nove specie di cetacei, tra cui balenottera
+      comune, capodoglio e il [tursiope](/especie/tursiops_truncatus/). La [tartaruga
+      comune](/especie/caretta_caretta/) solca assiduamente queste acque, che ne proteggono lo stadio
+      giovanile oceanico.
+    visit: >-
+      Le isole accolgono poche centinaia di visitatori l'anno a bordo di imbarcazioni autorizzate, barche
+      private o unità della Marina, sempre previo nulla osta dell'IFCN. L'attività cardinale consiste nella
+      visita accompagnata lungo il sentiero naturalistico con ascolto e osservazione faunistica. Il permesso
+      si ottiene tramite il portale SIMplifica; l'ente non assicura trasferimenti marittimi.
+    history: >-
+      Diogo Gomes de Sintra battezzò le isole nel 1438. Per un certo periodo vi si raccolse il lichene
+      tintorio *Roccella tinctoria* per i mercati tessili d'Europa. Nel 1971 fu creata la riserva—la prima
+      formalizzata a livello nazionale in Portogallo—, fermando la mattanza delle berte e regolamentando la
+      pesca.
+
+
+      Nel novembre 2021 il Governo di Madeira ha istituito la più vasta area marina a protezione integrale
+      d'Europa: 2.677 km² entro un raggio di 12 miglia nautiche, escludendo ogni attività estrattiva e
+      peschereccia. Oggi risiedono stabilmente quattro guardiani su Selvagem Grande e due addetti
+      semi-permanenti su Selvagem Pequena, alle dipendenze del Parco Naturale di Madeira.
+    before: >-
+      L'approdo richiede il permesso preventivo dell'IFCN. Consulta il portale istituzionale dell'ente per
+      conoscere procedure e regolamenti prima di programmare l'itinerario.
+    around: >-
+      Le Selvagge non contano vicini prossimi nell'atlas, ma condividono berte e scogliere oceaniche con la
+      [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), l'[Isola di
+      Corvo](/lugar/parque-natural-da-ilha-do-corvo/) e il [Parco naturale marino di Capo Corso e
+      dell'Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+  pt:
+    intro: >-
+      Antes de haver reserva, houve um massacre. Nos finais do século XIX caçavam-se anualmente em setembro ou
+      outubro entre vinte e vinte e duas mil cagarras nestes rochedos, prolongando-se os abates até 1967. Hoje
+      o cenário inverteu-se: nas Ilhas Selvagens, o território mais meridional de Portugal, medra a colónia de
+      cagarra mais densa do mundo, consagrando-se como um dos santuários de aves marinhas mais cruciais da
+      Macaronésia e do Atlântico Norte.
+    landscape: >-
+      O arquipélago integra duas ilhas, a Selvagem Grande e a Selvagem Pequena, e diversos ilhéus, sendo o
+      Ilhéu de Fora o mais expressivo. A Selvagem Grande (245 hectares), de contorno pentagonal, é um planalto
+      extenso com cerca de cem metros de altitude que mergulha no oceano através de falésias vulcânicas. A
+      Selvagem Pequena (20 hectares) é baixa e aplanada, quase totalmente coberta por areia calcária,
+      ostentando um farol no Pico do Veado. O Ilhéu de Fora (8 hectares) surge igualmente coberto por areia
+      calcária alva.
+
+
+      A cronologia geológica arrancou com a abertura do oceano Atlântico. Reconhece-se terem sido as primeiras
+      ilhas da Madeira a emergir, há cerca de 29 milhões de anos. Seguiram-se eras de acalmia vulcânica e
+      erosão marinha enérgica, até que há 3,4 milhões de anos uma nova erupção edificou na Selvagem Grande o
+      Complexo Vulcânico Superior. O edifício vulcânico encontra-se hoje classificado como Monumento Natural
+      da rede regional da Madeira.
+
+
+      A costa é rochosa e muito exposta à ondulação de largo. Na Selvagem Grande as vertentes são escarpadas;
+      na Selvagem Pequena e no Ilhéu de Fora imperam plataformas rochosas intercaladas por praias de areia
+      branca.
+    wildlife: >-
+      Tudo gira em torno das aves marinhas pelágicas, que aqui acorrem estritamente para nidificar: com
+      exceção da gaivota-de-patas-amarelas, todas são migradoras e ocorrem exclusivamente no período
+      reprodutor. Nidificam oito espécies marinhas. A cagarra atinge a maior densidade reprodutora mundial,
+      mas a mais numerosa é o calcamar, ultrapassando 80.000 casais nidificantes. O elenco completa-se com a
+      alma-negra, o roque-de-castro e o pintainho, todos de interesse comunitário, bem como o garajau-comum e
+      a [gaivota-de-patas-amarelas](/especie/larus_michahellis/) na orla costeira. As ilhas constituem uma
+      Important Bird Area da BirdLife.
+
+
+      Em terra escasseiam os vertebrados: o único passeriforme reprodutor é o corre-caminhos, endémico da
+      Macaronésia, e os dois répteis terrestres são exclusivos do arquipélago. Outras aves escalam a ilha
+      durante as passagens de outono e primavera. Não existem mamíferos: após a erradicação de coelhos e ratos
+      na Selvagem Grande, as Selvagens ficaram totalmente isentas de mamíferos, facultando o estudo de um
+      ecossistema oceânico primordial intacto.
+
+
+      Os invertebrados colmatam esse vazio: identificam-se cerca de 44 táxones de artrópodes endémicos,
+      erigindo as ilhas em ponto fulcral de biodiversidade. A flora congrega 105 táxones de plantas vasculares
+      com sete endemismos botânicos exclusivos em apenas três quilómetros quadrados, evidenciando-se a
+      ameaçada estreleira (*Argyranthemum thalassophilum*). A vegetação é xerófila e suculenta, carpetando os
+      líquenes as fragas desde o mar até aos picos.
+
+
+      No mar registam-se 88 espécies de peixes litorais e nove espécies de cetáceos, nomeadamente o
+      rorqual-comum, o cachalote e o [roaz-corvineiro](/especie/tursiops_truncatus/). A
+      [tartaruga-comum](/especie/caretta_caretta/) demanda as águas madeirenses, facultando as Selvagens
+      refúgio à sua fase oceânica juvenil.
+    visit: >-
+      As ilhas acolhem algumas centenas de forasteiros por ano, que desembarcam através de embarcações
+      turísticas registadas, veleiros particulares ou navios da Armada, sempre munidos de autorização prévia
+      do IFCN. A atividade primordial consiste na visita guiada num trilho de interpretação e na observação da
+      fauna. O pedido submete-se no portal SIMplifica; o gestor não dispõe de transporte de passageiros.
+    history: >-
+      Diogo Gomes de Sintra batizou as ilhas em 1438. Durante algum tempo colheu-se ali a urzela (*Roccella
+      tinctoria*) para a indústria tintureira europeia. Em 1971 instituiu-se a reserva—a primeira a ser
+      classificada a nível nacional em Portugal—, o que permitiu travar a chacina das cagarras e fiscalizar a
+      pesca furtiva.
+
+
+      Em novembro de 2021 o Governo Regional da Madeira oficializou a maior reserva marinha com proteção total
+      da Europa: 2.677 km² num raio de 12 milhas náuticas, banindo qualquer exploração de pesca ou extração de
+      inertes. Atualmente habitam as ilhas quatro vigilantes permanentes na Selvagem Grande e dois temporários
+      na Selvagem Pequena, ao serviço do Parque Natural da Madeira.
+    before: >-
+      O acesso carece de licença prévia do IFCN. Acede ao portal da autoridade ambiental para os trâmites
+      regulamentares antes de delineares a viagem.
+    around: >-
+      As Selvagens não possuem ilhas vizinhas contíguas no atlas, mas partilham cagarras e arribas oceânicas
+      com a [Fajã da Caldeira de Santo Cristo](/lugar/faja-da-caldeira-de-santo-cristo/), a [Ilha do
+      Corvo](/lugar/parque-natural-da-ilha-do-corvo/) e o [Parque Natural Marinho de Cap Corse e
+      Agriate](/lugar/parc-naturel-marin-du-cap-corse-et-de-l-agriate/).
+fuentes:
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/valores-naturais?format=html
+    titulo: Valores Naturais – Ilhas Selvagens (IFCN)
+    fecha_consulta: '2026-10-29'
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/como-visitar.html
+    titulo: Como Visitar – Ilhas Selvagens (IFCN)
+    fecha_consulta: '2026-10-29'
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/sobre.html
+    titulo: Sobre – Reserva Natural das Ilhas Selvagens
+    fecha_consulta: '2026-10-29'
+  - url: https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/valores-naturais.html
+    titulo: Valores Naturais – Ilhas Selvagens
+    fecha_consulta: '2026-10-29'
+  - url: https://pt.wikipedia.org/wiki/Ilhas_Selvagens
+    titulo: Ilhas Selvagens – Wikipédia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Savage_Islands
+    titulo: Savage Islands – Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Selvagem_Pequena_-_1ago04.jpg
+    autor: Coimbra68
+    licencia: CC BY-SA 3.0
+    url_licencia: http://creativecommons.org/licenses/by-sa/3.0/
+    fecha_descarga: '2026-10-21'

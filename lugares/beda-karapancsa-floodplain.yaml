@@ -1,0 +1,561 @@
+id: beda-karapancsa-floodplain
+estado_editorial: valoracion-revisada
+nombre:
+  es: Llanura de Inundación Béda-Karapancsa
+  en: Béda-Karapancsa Danube Floodplain
+  fr: Zone inondable du Danube de Béda-Karapancsa
+  de: Donauauen von Béda-Karapancsa
+  it: Piana Alluvionale del Danubio di Béda-Karapancsa
+  pt: Planície de Inundação do Danúbio de Béda-Karapancsa
+nombre_original: Béda-Karapancsa Floodplain
+alias:
+  - Béda-Karapancsa Floodplain
+paises:
+  - HU
+region:
+  es: Baranya (Mohács)
+  en: Baranya County (Kölked / Mohács / Bédai-Duna)
+  fr: Comitat de Baranya (Kölked / Mohács / Bédai-Duna)
+  de: Komitat Baranya (Kölked / Mohács / Bédai-Duna)
+  it: Contea di Baranya (Kölked / Mohács / Bédai-Duna)
+  pt: Condado de Baranya (Kölked / Mohács / Bédai-Duna)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.85
+  lon: 18.82
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Béda-Karapancsa
+  capa: capas/natura2000/beda-karapancsa-floodplain.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - national_park
+  - ramsar
+  - natura2000
+  - iucn_ii
+especies:
+  - haliaeetus_albicilla
+  - ciconia_nigra
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Duna-Dráva Nemzeti Park Directorate
+    url: https://www.ddnp.hu/
+  - titulo: Ruta y accesos — Sendero Nagypartos, Béda-Karapancsa
+    url: https://www.ddnp.hu/okoturizmus/tanosvenyek/nagypartosi_tanosveny
+  - titulo: Centro de visitantes y avisos — Museo de la cigüeña blanca, Kölked
+    url: https://www.ddnp.hu/okoturizmus/bemutatohelyek/feher_golya_muzeum
+resumen:
+  es: Sector meridional del Parque Nacional Duna-Dráva en la triple frontera con Croacia y Serbia.
+  en: >-
+    Southern Hungary's Danube wilderness of oxbows, willow forests, and floodplain meadows home to black
+    storks and white-tailed eagles.
+  fr: >-
+    Le paradis sauvage du Bas-Danube hongrois : bras morts, saulaies et prairies inondables abritant pygargues
+    et cigognes noires.
+  de: >-
+    Südungarns wilde Donauauenlandschaft aus Altwässern, Weichholzauen und Feuchtwiesen, Lebensraum von
+    Schwarzstörchen und Seeadlern.
+  it: >-
+    Il regno selvaggio del Basso Danubio ungherese: lanche, boschi golenali e prati inondabili rifugio di
+    cicogne nere e aquile di mare.
+  pt: >-
+    O santuário bravio do Baixo Danúbio húngaro: meandros abandonados, salgueirais e prados alagáveis que
+    abrigam cegonhas-pretas e águias-rabalvas.
+unico:
+  es: >-
+    Un laberinto de agua y bosque inundable donde vive la mayor población húngara de espino negro y la cigüeña
+    negra.
+  en: >-
+    A quiet side arm that was once the main Danube navigation channel, now sheltering Hungary's highest
+    density of white-tailed eagles and black storks.
+  fr: >-
+    Un bras tranquille qui fut autrefois le chenal navigable principal du Danube, abritant aujourd'hui la plus
+    forte densité de pygargues et de cigognes noires de Hongrie.
+  de: >-
+    Ein stiller Donauarm, der einst die Hauptschifffahrtsrinne war, heute Refugium mit Ungarns höchster Dichte
+    an Seeadlern und Schwarzstörchen.
+  it: >-
+    Un braccio fluviale tranquillo che fu un tempo il corso principale del Danubio, oggi scrigno con la più
+    alta densità ungherese di aquile di mare e cicogne nere.
+  pt: >-
+    Um braço sereno que já foi o leito principal do Danúbio, albergando hoje a maior densidade húngara de
+    águias-rabalvas e cegonhas-pretas.
+observaciones:
+  es: >-
+    Para la canoa, lleva ropa cómoda, gorra, protector solar y protección contra mosquitos y garrapatas. La
+    mejor época va de mayo a octubre; en mayo florecen los brazos muertos.
+texto:
+  es:
+    intro: >-
+      Hubo un tiempo en que el agua que ahora ves quieta era el cauce principal del Danubio. En
+      Béda-Karapancsa, el brazo de Külső-Béda lo fue, hasta que la regulación lo convirtió en un brazo
+      lateral, sin corriente, conectado al Danubio por un canal estrecho. Lo que queda alrededor es un mundo
+      de agua: brazos muertos, pantanos, prados húmedos y carrizales que rodean los cauces del río en la isla
+      de Mohács.
+
+
+      Es la parte más meridional del tramo húngaro del Bajo Danubio, a ambos lados del río, y forma parte del
+      Parque Nacional Duna-Dráva. Hasta 1996 fue un espacio protegido independiente.
+    landscape: >-
+      El Danubio de este tramo es un río lento que construye barras de arena y limo y cambia de cauce. La
+      regulación cortó esos meandros y encerró el río entre diques, pero en Béda-Karapancsa queda lo
+      suficiente para entender cómo era. Las orillas de los brazos muertos tienen carrizales y comunidades
+      altas de cárices; en las aguas con vegetación flotante crecen el nenúfar blanco y el limnantemo
+      amarillo, y en mayo florece la cola de caballo de agua sobre la arena de los brazos de Béda. La
+      utricularia, que atrapa insectos, también luce flor.
+
+
+      En los terrenos más secos hay fragmentos de los bosques inundables más ricos en especies, con roble,
+      fresno y olmo, y entre ellos crece el espino negro, endémico del valle del Bajo Danubio, cuya mayor
+      población húngara está aquí. Con él viven plantas submediterráneas que no se encuentran en otro lugar de
+      Hungría, como la madreselva de Jericó, y, en los bosques de galería, la fritilaria.
+    wildlife: >-
+      Esta parte del Bajo Danubio es la de Hungría con más densidad de pigargos y cigüeñas negras. El [pigargo
+      europeo](/especie/haliaeetus_albicilla/) construye un nido enorme en lo alto de un árbol y lo reutiliza
+      durante décadas; por eso hay que dejarle criar sin molestias. La [cigüeña
+      negra](/especie/ciconia_nigra/) tiene aquí su mayor población húngara, y protegerla es prioridad del
+      parque. En los bosques de la isla de Szúnyog anidan además el cuervo, el [halcón
+      sacre](/especie/falco_cherrug/) y el pigargo.
+
+
+      En los carrizales crían la [garceta común](/especie/egretta_garzetta/), la [garceta
+      grande](/especie/egretta_alba/), el [martinete común](/especie/nycticorax_nycticorax/), la [garza
+      imperial](/especie/ardea_purpurea/) y unas pocas parejas de [avetoro
+      común](/especie/botaurus_stellaris/). Los brazos muertos y las llanuras inundables acogen grandes
+      bandadas de garcetas y de [espátulas](/especie/platalea_leucorodia/), y en el lago Riha, en la isla de
+      Mohács, hay una colonia de cría de garcetas comunes y martinetes. La [garza
+      real](/especie/ardea_cinerea/) cría en los bosques de galería. En primavera y en otoño el área es un
+      punto de descanso importante para las aves migratorias, y en el sur el ánsar común aparece solo de forma
+      aislada.
+
+
+      Entre los mamíferos, la [nutria](/especie/lutra_lutra/) es lo más valioso, y en los bosques
+      impenetrables vive el [gato montés](/especie/felis_silvestris/). El [castor
+      europeo](/especie/castor_fiber/) fue reintroducido en Gemenc, al lado, y hoy se reproduce con éxito.
+    visit: >-
+      La forma de entrar es el agua. Las excursiones guiadas en canoa recorren Külső-Béda: salen de la oficina
+      de guardas de Kölked, se hacen en canoas de cuatro y siete plazas con chaleco salvavidas y pala, y
+      quienes participan reman por su cuenta, guiados por un trabajador de la dirección del parque. La ruta
+      dura dos horas y recorre siete kilómetros desde Kölked. En el agua tranquila, con suerte, aparecen
+      milanos negros, garzas reales y [martines pescadores](/especie/alcedo_atthis/).
+
+
+      En tierra, el sendero interpretativo de Nagypartos, en el extremo sur del Bajo Danubio húngaro, explica
+      cómo se gestionan hoy los pastizales de la llanura y cómo funcionaba el antiguo sistema de canales fok.
+      También informa del ciclo de la energía y del papel de los organismos descomponedores.
+    history: >-
+      Hasta finales del siglo XVIII la población local no intentaba frenar las crecidas, sino aprovecharlas:
+      desviaba el agua por canales llamados fok hacia lagos de pesca, depresiones, prados y huertos. La
+      regulación del Danubio y los diques acabaron con esa relación. Hoy el parque nacional conserva lo que
+      queda del sistema natural de llanura aluvial, en una zona que limita con la reserva serbia de Gornje
+      Podunavlje y con el espacio protegido croata de Kopački Rit, donde continúan los hábitats del Bajo
+      Danubio.
+    before: >-
+      Para la canoa, lleva ropa cómoda, gorra, protector solar y protección contra mosquitos y garrapatas. La
+      mejor época va de mayo a octubre; en mayo florecen los brazos muertos.
+    around: >-
+      A un kilómetro está el [Bosque Inundable de Gemenc](/lugar/gemenc-danube---forest-floodplain/), en el
+      mismo tramo del Danubio y del parque nacional, y a dieciocho kilómetros, ya en Croacia, el [Parque
+      Natural Kopački Rit](/lugar/park-prirode-kopacki-rit/), con el que Béda-Karapancsa comparte frontera de
+      hábitats.
+  en:
+    intro: >-
+      There was a time when the calm water you see before you was the main channel of the Danube. In
+      Béda-Karapancsa, the Külső-Béda arm was precisely that, until nineteenth-century river engineering
+      transformed it into a current-free backwater, joined to the active Danube only through a narrow inlet.
+      What survives around it is an untamed realm of water: oxbow lakes, swamps, damp hay meadows, and vast
+      reedbeds encircling the flood channels of Mohács Island.
+
+
+      This is the southernmost sector of the Hungarian Lower Danube, spanning both sides of the border river,
+      and forms part of Duna-Dráva National Park. Until 1996, it was managed as an independent landscape
+      protection reserve.
+    landscape: >-
+      The Danube along this low-lying stretch is a sluggish giant that naturally builds sand and silt bars and
+      shifts its bed across the plains. Systematic river regulation severed those sweeping loops and hemmed
+      the current between artificial flood dykes, yet in Béda-Karapancsa enough wild wetland endures to
+      understand how the river once functioned. The margins of the oxbows support dense reedbeds and towering
+      sedge communities; across calm backwaters with floating vegetation bloom white water lilies and yellow
+      floating hearts, while in May water horsetail flowers above the sandy shallows of the Béda branches.
+      Carnivorous bladderworts also raise yellow floral spikes above the water.
+
+
+      On higher ground stand remnants of the Danube's most floristically diverse hardwood floodplain forests,
+      dominated by pedunculate oak, narrow-leaved ash, and elm. Among them thrives the black hawthorn
+      (*Crataegus nigra*), an endemic shrub of the Lower Danube basin whose largest Hungarian population grows
+      here. Alongside it flourish sub-Mediterranean botanical rarities unknown elsewhere in Hungary, such as
+      Mediterranean honeysuckle, while snake's head fritillaries grace the damp gallery woods in early spring.
+    wildlife: >-
+      This reach of the Lower Danube supports Hungary's greatest nesting density of white-tailed eagles and
+      black storks. The [white-tailed eagle](/especie/haliaeetus_albicilla/) builds a massive stick eyrie high
+      in mature canopy oaks and reuses it for decades, requiring total seclusion during the breeding season.
+      The [black stork](/especie/ciconia_nigra/) maintains its premier national population here, with its
+      protection representing a foremost park priority. Within the secluded woodlands of Szúnyog Island also
+      nest common raven, [saker falcon](/especie/falco_cherrug/), and additional eagle pairs.
+
+
+      In the reed swamps breed [little egret](/especie/egretta_garzetta/), [great
+      egret](/especie/egretta_alba/), [black-crowned night heron](/especie/nycticorax_nycticorax/), [purple
+      heron](/especie/ardea_purpurea/), and scattered pairs of [Eurasian
+      bittern](/especie/botaurus_stellaris/). The oxbows and seasonal flood basins accommodate large foraging
+      flocks of egrets and [Eurasian spoonbills](/especie/platalea_leucorodia/), while Lake Riha on Mohács
+      Island hosts a significant mixed colony of little egrets and night herons. The [grey
+      heron](/especie/ardea_cinerea/) nests colonial in gallery trees. In spring and autumn the reserve serves
+      as a vital staging hub for migrating waterbirds, whereas greylag geese appear only in isolated numbers
+      in the far south.
+
+
+      Among mammals, the [Eurasian otter](/especie/lutra_lutra/) represents the premier aquatic predator,
+      while impenetrable bottomland thickets hide the secretive [European
+      wildcat](/especie/felis_silvestris/). The [Eurasian beaver](/especie/castor_fiber/) was reintroduced in
+      adjacent Gemenc and now breeds successfully throughout the backwaters.
+    visit: >-
+      The natural entry into the reserve is by water. Guided canoe excursions navigate the Külső-Béda arm,
+      setting out from the Kölked ranger station in four- and seven-seat open canoes equipped with paddles and
+      life jackets. Participants paddle under their own power, accompanied by an experienced national park
+      ranger. The tranquil water tour lasts two hours and covers seven kilometers from Kölked. With patience,
+      paddlers frequently spot black kites, grey herons, and darting [common
+      kingfishers](/especie/alcedo_atthis/).
+
+
+      On dry ground, the Nagypartos interpretive trail at the southern terminus of the Hungarian Danube
+      explains modern floodplain pasture stewardship and the historical *fok* canal network. It also
+      highlights ecosystem energy flows and the role of forest decomposers.
+    history: >-
+      Until the late eighteenth century, local villagers did not combat Danube floods but harnessed them: they
+      channeled rising waters through sluice ditches known as *fok* into backswamp fishing lakes, natural
+      depressions, meadows, and orchards. The canalization of the Danube and modern flood levees severed that
+      ecological symbiosis. Today the national park preserves what remains of this dynamic floodplain,
+      contiguous across national borders with Serbia's Gornje Podunavlje Reserve and Croatia's Kopački Rit
+      Nature Park.
+    before: >-
+      For canoeing, wear comfortable clothes, a sun hat, sunscreen, and reliable protection against mosquitoes
+      and ticks. The prime season extends from May to October, with May showcasing the water lily bloom.
+    around: >-
+      One kilometer away lies the [Gemenc Danube Forest
+      Floodplain](/lugar/gemenc-danube---forest-floodplain/), situated in the same national park, while
+      twenty-two kilometers to the south extends [Kopački Rit Nature Park](/lugar/park-prirode-kopacki-rit/)
+      in Croatia.
+  fr:
+    intro: >-
+      Il fut un temps où l'eau calme sous vos yeux formait le chenal principal du Danube. À Béda-Karapancsa,
+      le bras de Külső-Béda l'était jusqu'à ce que les travaux d'endiguement du XIXe siècle en fassent un bras
+      secondaire sans courant, relié au fleuve actif par un canal étroit. Ce qui subsiste alentour est un
+      monde amphibie : bras morts, marécages, prairies humides et roselières ceinturant les chenaux sur l'île
+      de Mohács.
+
+
+      C'est la partie la plus méridionale du tronçon hongrois du Bas-Danube, répartie sur les deux rives du
+      fleuve, intégrée au Parc national Duna-Dráva. Jusqu'en 1996, le secteur constituait une réserve
+      naturelle indépendante.
+    landscape: >-
+      Le Danube de ce secteur est un cours d'eau lent qui édifie bancs de sable et alluvions en déplaçant son
+      lit. Les aménagements ont coupé ses méandres pour l'enfermer entre des digues, mais à Béda-Karapancsa
+      subsiste assez d'espaces sauvages pour comprendre son fonctionnement originel. Les rives des bras morts
+      portent des roselières et de hautes laîches ; sur les eaux calmes s'épanouissent nénuphar blanc et
+      faux-nénuphar jaune, tandis qu'en mai la prêle aquatique fleurit sur les sables de Béda. L'utriculaire
+      carnivore y déploie également ses fleurs jaunes.
+
+
+      Sur les bourrelets plus secs subsistent des lambeaux de forêts alluviales feuillues parmi les plus
+      riches, composées de chênes pédonculés, frênes et ormes. Au sous-bois croît l'aubépine noire (*Crataegus
+      nigra*), endémique du Bas-Danube dont la plus grande population hongroise est ici. Elle s'accompagne
+      d'essences sub-méditerranéennes rarissimes en Hongrie comme le chèvrefeuille de Toscane, ainsi que la
+      fritillaire pintade dans les forêts galeries.
+    wildlife: >-
+      Cette portion du Bas-Danube concentre la plus forte densité hongroise de pygargues à queue blanche et de
+      cigognes noires. Le [pygargue à queue blanche](/especie/haliaeetus_albicilla/) bâtit une aire imposante
+      au sommet des vieux chênes qu'il réutilise des décennies durant, exigeant une quiétude absolue. La
+      [cigogne noire](/especie/ciconia_nigra/) trouve ici son bastion national, dont la sauvegarde est
+      prioritaire pour le parc. Dans les boisements de l'île de Szúnyog nichent également grand corbeau,
+      [faucon sacre](/especie/falco_cherrug/) et pygargue.
+
+
+      Dans les roselières se reproduisent l'[aigrette garzette](/especie/egretta_garzetta/), la [grande
+      aigrette](/especie/egretta_alba/), le [bihoreau gris](/especie/nycticorax_nycticorax/), le [héron
+      pourpré](/especie/ardea_purpurea/) et quelques couples de [butor étoilé](/especie/botaurus_stellaris/).
+      Bras morts et prairies inondées accueillent de grands rassemblements d'aigrettes et de [spatules
+      blanches](/especie/platalea_leucorodia/), tandis que le lac Riha sur l'île de Mohács héberge une colonie
+      mixte d'aigrettes et bihoreaux. Le [héron cendré](/especie/ardea_cinerea/) niche dans les grands arbres
+      de berge. Au printemps et à l'automne, le site forme une halte majeure pour les migrateurs, l'oie
+      cendrée n'apparaissant qu'isolément au sud.
+
+
+      Parmi les mammifères, la [loutre d'Europe](/especie/lutra_lutra/) est l'hôte le plus précieux, tandis
+      que les fourrés impénétrables abritent le [chat forestier](/especie/felis_silvestris/). Le [castor
+      d'Eurasie](/especie/castor_fiber/), réintroduit dans la forêt voisine de Gemenc, s'y reproduit avec
+      succès.
+    visit: >-
+      L'eau constitue la voie royale de découverte. Des sorties accompagnées en canoë explorent le bras de
+      Külső-Béda : partant du poste des gardes de Kölked, elles utilisent des canoës ouverts de quatre et sept
+      places avec gilets et pagaies, les participants pagayant sous la conduite d'un agent du parc national.
+      Le circuit dure deux heures sur sept kilomètres depuis Kölked. Au fil de l'eau calme s'observent milans
+      noirs, hérons cendrés et [martins-pêcheurs d'Europe](/especie/alcedo_atthis/).
+
+
+      À terre, le sentier didactique de Nagypartos, à l'extrémité sud du Danube hongrois, explique la gestion
+      pastorale des prairies inondables et le fonctionnement des anciens canaux fok. Il aborde également les
+      cycles de matière et les organismes décomposeurs.
+    history: >-
+      Jusqu'à la fin du XVIIIe siècle, les riverains ne cherchaient point à contenir les crues mais à les
+      utiliser : ils dérivaient les eaux par des fossés appelés fok vers des étangs piscicoles, dépressions,
+      prés et vergers. La canalisation du fleuve rompit cet équilibre séculaire. Aujourd'hui, le parc national
+      préserve les reliques de cet hydrosystème alluvial, en continuité écologique avec la réserve serbe de
+      Gornje Podunavlje et le parc naturel croate de Kopački Rit.
+    before: >-
+      En canoë, prévoyez une tenue confortable, casquette, crème solaire et protection contre moustiques et
+      tiques. La période propice s'étend de mai à octobre, mai correspondant à la floraison des nénuphars.
+    around: >-
+      À un kilomètre s'étend la [Forêt inondable de Gemenc](/lugar/gemenc-danube---forest-floodplain/), au
+      sein du même parc national, tandis qu'à vingt-deux kilomètres au sud s'ouvre le [Parc naturel de Kopački
+      Rit](/lugar/park-prirode-kopacki-rit/) en Croatie.
+  de:
+    intro: >-
+      Es gab eine Zeit, in der das heute stille Wasser vor deinen Augen der Hauptstrom der Donau war. In
+      Béda-Karapancsa war der Külső-Béda-Arm genau das, bis die Donauregulierung des neunzehnten Jahrhunderts
+      ihn in einen strömungslosen Seitenarm verwandelte, der nur noch über einen schmalen Kanal mit dem Fluss
+      verbunden ist. Was ringsum blieb, ist eine Wasserwildnis: Altwässer, Sümpfe, Feuchtwiesen und Röhrichte
+      rund um die Flussläufe auf der Mohács-Insel.
+
+
+      Es ist der südlichste Abschnitt der ungarischen Unteren Donau beidseits des Stroms und gehört zum
+      Nationalpark Duna-Dráva. Bis 1996 bildete das Areal ein eigenständiges Landschaftsschutzgebiet.
+    landscape: >-
+      Die Donau ist hier ein träger Tieflandstrom, der Sand- und Schlickbänke aufbaut und sein Bett verlagert.
+      Die Flussbegradigung kappte diese Mäander und zwängte den Strom zwischen Deiche, doch in Béda-Karapancsa
+      blieb genug erhalten, um die ursprüngliche Aue zu verstehen. Die Ufer der Altwässer tragen
+      Schilfröhrichte und Großseggenriede; auf den Stillwassern wachsen Weiße Seerose und Seekanne, während im
+      Mai der Wasserschachtelhalm auf den Sandbänken von Béda blüht. Auch der fleischfressende Wasserschlauch
+      zeigt seine Blütenstände.
+
+
+      Auf höherem Grund stocken Reste artenreicher Hartholzauenwälder mit Stieleiche, Esche und Ulme.
+      Dazwischen gedeiht der Schwarze Weißdorn (*Crataegus nigra*), eine im Unteren Donautal endemische
+      Strachart, deren größter ungarischer Bestand hier liegt. Begleitet wird er von submediterranen Pflanzen
+      wie dem Wald-Geißblatt sowie der Schachblume in den Auwäldern.
+    wildlife: >-
+      Dieser Donauabschnitt weist die höchste Siedlungsdichte an Seeadlern und Schwarzstörchen in ganz Ungarn
+      auf. Der [Seeadler](/especie/haliaeetus_albicilla/) errichtet riesige Horste in alten Baumkronen und
+      nutzt sie über Jahrzehnte hinweg, weshalb absolute Ungestörtheit geboten ist. Der
+      [Schwarzstorch](/especie/ciconia_nigra/) besitzt hier sein größtes ungarisches Brutvorkommen. In den
+      Wäldern der Szúnyog-Insel brüten zudem Kolkrabe, [Sakerfalke](/especie/falco_cherrug/) und Seeadler.
+
+
+      In den Schilfzonen ziehen [Seidenreiher](/especie/egretta_garzetta/),
+      [Silberreiher](/especie/egretta_alba/), [Nachtreiher](/especie/nycticorax_nycticorax/),
+      [Purpurreiher](/especie/ardea_purpurea/) und vereinzelte [Rohrdommeln](/especie/botaurus_stellaris/)
+      ihre Jungen auf. Die Altarme und Überschwemmungsflächen versammeln große Trupps von Reihern und
+      [Löfflern](/especie/platalea_leucorodia/), während der Riha-See auf der Mohács-Insel eine gemischte
+      Brutkolonie von Seiden- und Nachtreihern beherbergt. Der [Graureiher](/especie/ardea_cinerea/) nistet in
+      den Galeriewäldern. Zur Zugzeit im Frühjahr und Herbst dient das Gebiet zahllosen Durchzüglern als
+      Rastplatz, während Graugänse im Süden nur vereinzelt rasten.
+
+
+      Unter den Säugetieren ist der [Fischotter](/especie/lutra_lutra/) am wertvollsten, und in dichten
+      Dickichten streift die [Wildkatze](/especie/felis_silvestris/). Der [Biber](/especie/castor_fiber/)
+      wurde im nahen Gemenc wiedereingebürgert und pflanzt sich heute erfolgreich fort.
+    visit: >-
+      Der Zugang erfolgt am eindrucksvollsten über das Wasser. Geführte Kanutouren erschließen den
+      Külső-Béda-Arm: Sie starten an der Rangerstation Kölked in Vierer- und Siebener-Kanus mit Schwimmwesten
+      und Paddeln, wobei die Teilnehmer unter Leitung eines Nationalparkführers selbst paddeln. Die Tour
+      dauert zwei Stunden über sieben Kilometer ab Kölked. Auf dem ruhigen Wasser zeigen sich Schwarzmilane,
+      Graureiher und [Eisvögel](/especie/alcedo_atthis/).
+
+
+      Zu Lande erläutert der Naturlehrpfad Nagypartos am Südende der ungarischen Donau die
+      Wiesenbewirtschaftung und das historische Fok-Kanalsystem. Er informiert zudem über Stoffkreisläufe und
+      Zersetzer.
+    history: >-
+      Bis Ende des achtzehnten Jahrhunderts versuchte die Bevölkerung Hochwässer nicht abzuwehren, sondern zu
+      nutzen: Sie leitete das Donauwasser über Kanäle namens Fok in Fischteiche, Senken, Wiesen und Gärten.
+      Die Flussregulierung beendete diese Wirtschaftsweise. Heute schützt der Nationalpark das verbliebene
+      Auennetzwerk, das grenzüberschreitend an Serbiens Reservat Gornje Podunavlje und Kroatiens Kopački Rit
+      anschließt.
+    before: >-
+      Für Kanutouren empfehlen sich bequeme Kleidung, Sonnenschutz, Kopfbedeckung sowie Mücken- und
+      Zeckenschutz. Die beste Besuchszeit reicht von Mai bis Oktober; im Mai blühen die Altwässer.
+    around: >-
+      Einen Kilometer entfernt liegt der [Auwald von Gemenc](/lugar/gemenc-danube---forest-floodplain/) im
+      selben Nationalpark, während sich zweiundzwanzig Kilometer südlich der [Naturpark Kopački
+      Rit](/lugar/park-prirode-kopacki-rit/) in Kroatien erstreckt.
+  it:
+    intro: >-
+      Ci fu un tempo in cui l'acqua che ora vedi immobile costituiva l'alveo maestro del Danubio. A
+      Béda-Karapancsa, il ramo di Külső-Béda svolgeva quel ruolo, finché le rettifiche idrauliche
+      dell'Ottocento non lo trasformarono in una lanca priva di corrente, unita al corso attivo solo da uno
+      stretto canale. Ciò che resta attorno è un universo d'acque: meandri abbandonati, paludi, prati umidi e
+      canneti che cingono le golene dell'isola di Mohács.
+
+
+      È la porzione più meridionale del tratto ungherese del Basso Danubio, estesa su entrambe le sponde del
+      fiume, compresa nel Parco Nazionale Duna-Dráva. Fino al 1996 fu tutelata come riserva naturale autonoma.
+    landscape: >-
+      In questo tratto il Danubio è un corso d'acqua lento che accumula banchi di sabbia e limi mutando
+      tracciato. Le opere di rettifica tagliarono i meandri rinchiudendo il fiume tra argini maestri, ma a
+      Béda-Karapancsa permane una natura sufficiente a testimoniarne la fisionomia originaria. Le sponde delle
+      lanche accolgono canneti e magnocariceti; sulle acque calme galleggiano ninfee bianche e ninfoidi
+      gialli, mentre a maggio fioriscono gli equiseti acquatici sui fondali sabbiosi di Béda. Anche
+      l'otricolaria carnivora spunta con fiori dorati.
+
+
+      Sui dossi golenali più asciutti sopravvivono lembi di foreste ripariali di querce farnie, frassini e
+      olmi. Vi prospera il biancospino nero (*Crataegus nigra*), arbusto endemico del Basso Danubio la cui
+      popolazione nazionale principale risiede qui. Lo accompagnano entità sub-mediterranee assai rare in
+      Ungheria come il caprifoglio toscano e la fritillaria mezzanella nei boschi a galleria.
+    wildlife: >-
+      Questo comprensorio del Basso Danubio detiene il primato ungherese per densità di aquile di mare e
+      cicogne nere. L'[aquila di mare](/especie/haliaeetus_albicilla/) edifica nidi enormi sulle chiome delle
+      querce vetuste e li riutilizza per decenni, necessitando di assoluto riposo. La [cicogna
+      nera](/especie/ciconia_nigra/) annovera qui la colonia più cospicua del paese. Nelle boscaglie
+      dell'isola di Szúnyog nidificano inoltre corvo imperiale, [falco sacro](/especie/falco_cherrug/) e
+      aquila di mare.
+
+
+      Nei canneti nidificano la [garzetta](/especie/egretta_garzetta/), l'[airone bianco
+      maggiore](/especie/egretta_alba/), la [nitticora](/especie/nycticorax_nycticorax/), l'[airone
+      rosso](/especie/ardea_purpurea/) e sparute coppie di [tarabuso](/especie/botaurus_stellaris/). Lanche e
+      bassure allagate accolgono stormi di aironi e [spatole](/especie/platalea_leucorodia/), mentre il lago
+      Riha sull'isola di Mohács custodisce una garzaia mista di garzette e nitticore. L'[airone
+      cenerino](/especie/ardea_cinerea/) nidifica sugli alberi d'alto fusto. In primavera e autunno l'area è
+      una tappa nodale per l'avifauna migratrice, con l'oca selvatica presente in piccoli gruppi a sud.
+
+
+      Tra i mammiferi spicca la [lontra europea](/especie/lutra_lutra/), mentre le macchie boscose più fitte
+      nascondono il [gatto selvatico](/especie/felis_silvestris/). Il [castoro
+      europeo](/especie/castor_fiber/) è stato reintrodotto nella contigua Gemenc e vi prospera attivamente.
+    visit: >-
+      La via d'accesso privilegiata è l'acqua. Le escursioni guidate in canoa solcano il ramo di Külső-Béda:
+      partono dal posto guardie di Kölked su imbarcazioni aperte da quattro e sette posti complete di pagaie e
+      salvagenti, con i partecipanti che remano guidati da un operatore del parco. L'uscita dura due ore
+      coprendo sette chilometri da Kölked. Nelle insenature silenziose compaiono nibbi bruni, aironi cenerini
+      e veloci [martin pescatori](/especie/alcedo_atthis/).
+
+
+      A terra, il percorso didattico di Nagypartos, all'estremità meridionale del Danubio ungherese, illustra
+      il pascolo golenale e la gestione delle antiche canalizzazioni fok. Approfondisce inoltre il riciclo
+      della materia e gli organismi decompositori.
+    history: >-
+      Fino al tardo Settecento le genti rivierasche non cercavano di arginare le inondazioni ma di trarne
+      vantaggio: deviavano le piene mediante canali detti fok verso bacini ittici, avvallamenti, prati e
+      coltivi. La regimazione del fiume spezzò quell'equilibrio. Oggi il parco nazionale protegge le vestigia
+      di quell'ecosistema golenale, confinante oltrefrontiera con la riserva serba di Gornje Podunavlje e col
+      parco croato di Kopački Rit.
+    before: >-
+      Per le escursioni in canoa indossa abbigliamento comodo, copricapo, crema solare e repellente per
+      zanzare e zecche. Il periodo ideale va da maggio a ottobre, con maggio arricchito dalle fioriture
+      acquatiche.
+    around: >-
+      A un chilometro si estende la [Foresta Alluvionale di
+      Gemenc](/lugar/gemenc-danube---forest-floodplain/), nel medesimo parco nazionale, mentre a ventidue
+      chilometri a sud sorge il [Parco Naturale di Kopački Rit](/lugar/park-prirode-kopacki-rit/) in Croazia.
+  pt:
+    intro: >-
+      Houve um tempo em que as águas paradas que hoje contemplas formavam o canal principal do Danúbio. Em
+      Béda-Karapancsa, o braço de Külső-Béda desempenhava esse papel, até que as obras de engenharia do século
+      XIX o converteram num meandro calmo sem correnteza, comunicado com o rio ativo apenas por um canal
+      estreito. O que subsiste em redor é um império anfíbio: braços mortos, pântanos, prados húmidos e
+      caniçais que abraçam os canais da ilha de Mohács.
+
+
+      Constitui o setor mais meridional do troço húngaro do Baixo Danúbio em ambas as margens, integrando o
+      Parque Nacional Duna-Dráva. Até 1996 funcionou como reserva de paisagem protegida autónoma.
+    landscape: >-
+      O Danúbio neste troço é um gigante lento que deposita bancos de areia e lodo, alternando meandros. A
+      regularização artificial cortou essas voltas e fechou o rio entre diques, mas em Béda-Karapancsa resiste
+      o suficiente para testemunhar a fisionomia original. As margens dos braços mortos acolhem caniçais e
+      tufos densos de grandes ciperáceas; em águas calmas flutuam lírios-d'água brancos e ninfoides amarelos,
+      desabrochando em maio cavalinhas aquáticas nos areais de Béda. As utriculárias carnívoras elevam
+      igualmente as suas hastes floridas.
+
+
+      Nos terrenos mais secos despontam restos de matas ripícolas ricas em folhosas com carvalhos-alvares,
+      freixos e olmos. No sub-bosque vigora o pilriteiro-preto (*Crataegus nigra*), arbusto endémico do Baixo
+      Danúbio cuja principal colónia húngara reside aqui. Coabitam com ele elementos botânicos
+      submediterrânicos raríssimos no país como a madressilva-da-toscana e a fritilária nos bosques de
+      galeria.
+    wildlife: >-
+      Esta várzea do Baixo Danúbio concentra a maior densidade de águias-rabalvas e cegonhas-pretas da
+      Hungria. A [águia-rabalva](/especie/haliaeetus_albicilla/) constrói ninhos maciços na copa dos carvalhos
+      maduros que reaproveita durante décadas, exigindo absoluto sossego. A
+      [cegonha-preta](/especie/ciconia_nigra/) detém aqui a sua principal população nacional. Nos bosques da
+      ilha de Szúnyog nidificam também o corvo-comum, o [falcão-sacre](/especie/falco_cherrug/) e a
+      águia-rabalva.
+
+
+      Nos caniçais criam a [garça-branca-pequena](/especie/egretta_garzetta/), a
+      [garça-branca-grande](/especie/egretta_alba/), o [goraz-comum](/especie/nycticorax_nycticorax/), a
+      [garça-vermelha](/especie/ardea_purpurea/) e alguns casais de [abretouro](/especie/botaurus_stellaris/).
+      Os meandros e várzeas reúnem bandos de garças e [colhereiros](/especie/platalea_leucorodia/), enquanto a
+      lagoa Riha na ilha de Mohács acolhe uma colónia mista de garças e gorazes. O
+      [garça-real](/especie/ardea_cinerea/) nidifica no topo das copas. Na primavera e outono o território
+      converte-se em escala vital para migradores, com o ganso-comum a surgir apenas pontualmente a sul.
+
+
+      Nos mamíferos a [lontra-europeia](/especie/lutra_lutra/) é a espécie de topo, enquanto os matagais
+      espessos acolhem o [gato-bravo](/especie/felis_silvestris/). O [castor-europeu](/especie/castor_fiber/)
+      foi reintroduzido na vizinha floresta de Gemenc e reproduz-se com sucesso.
+    visit: >-
+      A melhor aproximação faz-se pela água. As excursões acompanhadas em canoa exploram o braço de
+      Külső-Béda: partem do posto florestal de Kölked em canoas abertas de quatro e sete lugares com coletes e
+      pagaias, remando os participantes sob a orientação de um técnico do parque nacional. O percurso dura
+      duas horas ao longo de sete quilómetros desde Kölked. Em águas serenas avistam-se milhafres-pretos,
+      garças-reais e velozes [guarda-rios-comum](/especie/alcedo_atthis/).
+
+
+      Em terra, o trilho de Nagypartos, no limite meridional do Danúbio húngaro, ensina a gestão das pastagens
+      alagáveis e a mecânica das antigas valas fok. Ilustra ainda as cadeias alimentares e os decompositores.
+    history: >-
+      Até ao final do século XVIII as populações ribeirinhas não procuravam barrar as cheias, antes
+      aproveitavam-nas: conduziam a água por valas chamadas fok para lagoas piscícolas, baixios, prados e
+      pomares. A regularização do rio desfez essa harmonia secular. Atualmente o parque nacional salvaguarda
+      os remanescentes da planície aluvial, ligando-se além-fronteiras à reserva sérvia de Gornje Podunavlje e
+      ao parque croata de Kopački Rit.
+    before: >-
+      Na canoa veste roupa prática, chapéu, protetor solar e repelente contra melgas e carraças. A melhor
+      época decorre de maio a outubro, mês em que desabrocham as flores aquáticas.
+    around: >-
+      A um quilómetro localiza-se a [Floresta Inundável de Gemenc](/lugar/gemenc-danube---forest-floodplain/),
+      integrada no mesmo parque nacional, enquanto vinte e dois quilómetros para sul se estende o [Parque
+      Natural de Kopački Rit](/lugar/park-prirode-kopacki-rit/) na Croácia.
+fuentes:
+  - url: https://www.ddnp.hu/en/protected_areas/national_park_and_nature_protection_areas/national_park_the_danube_section
+    titulo: 'National park: the Danube section'
+    fecha_consulta: '2026-11-06'
+  - url: https://ddnp.hu/okoturizmus/turalehetosegek/kenuturak_beda-karapancsan
+    titulo: Kenutúrák Béda-Karapancsán
+    fecha_consulta: '2026-11-06'
+  - url: https://hu.wikipedia.org/wiki/B%C3%A9da-Karapancsa
+    titulo: Béda–Karapancsa – Wikipédia
+    fecha_consulta: '2026-11-06'
+  - url: https://hu.wikipedia.org/wiki/Duna%E2%80%93Dr%C3%A1va_Nemzeti_Park
+    titulo: Duna–Dráva Nemzeti Park – Wikipédia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.ddnp.hu/okoturizmus/tanosvenyek/nagypartosi_tanosveny
+    titulo: Nagypartosi Tanösvény | Duna-Dráva Nemzeti Park Igazgatóság
+    fecha_consulta: '2026-11-06'

@@ -1,0 +1,742 @@
+id: parco-nazionale-arcipelago-toscano
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Archipiélago Toscano
+  en: Tuscan Archipelago National Park
+  fr: Parc national de l'archipel toscan
+  de: Nationalpark Toskanischer Archipel
+  it: Parco Nazionale dell'Arcipelago Toscano
+  pt: Parque Nacional do Arquipélago Toscano
+nombre_original: Parco Nazionale dell'Arcipelago Toscano
+alias:
+  - Parco Nazionale dell'Arcipelago Toscano
+paises:
+  - IT
+region:
+  es: Toscana (Elba / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+  en: Tuscany (Elba / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+  fr: Toscane (Elbe / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+  de: Toskana (Elba / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+  it: Toscana (Elba / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+  pt: Toscana (Elba / Capraia / Montecristo / Pianosa / Giglio / Gorgona / Giannutri)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 42.789
+  lon: 10.222
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 32674
+  nombre_en_la_fuente: P N DELL' ARCIPELAGO TOSCANO
+  categoria_uicn: II
+  capa: capas/cdda/parco-nazionale-arcipelago-toscano.geojson
+habitats:
+  - marine
+  - coast
+  - mediterranean_forest
+designaciones:
+  - national_park
+  - iucn_ii
+  - biosphere_reserve
+  - natura2000
+especies:
+  - calonectris_diomedea
+  - puffinus_yelkouan
+  - larus_audouinii
+  - tursiops_truncatus
+  - posidonia_oceanica
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+masificacion: 3
+masificacion_nota:
+  es: Alta en Elba en verano; Montecristo y Pianosa con cupos estrictos
+  en: High on Elba in summer; Montecristo and Pianosa restricted by strict visitor quotas
+  fr: Élevée sur l'île d'Elbe en été ; Montecristo et Pianosa régulées par des quotas stricts
+  de: Hoch auf Elba im Sommer; Montecristo und Pianosa durch strenge Quoten beschränkt
+  it: Alta all'Elba in estate; Montecristo e Pianosa regolate da rigidi contingenti
+  pt: Alta em Elba no verão; Montecristo e Pianosa com quotas restritas de visitantes
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parco Nazionale dell'Arcipelago Toscano
+    url: https://www.islepark.it
+  - titulo: Rutas y mapa — Red de senderos del archipiélago
+    url: https://www.islepark.it/rete-sentieristica/
+  - titulo: Centros de visitantes — Instalaciones del parque
+    url: https://www.islepark.it/centri-visita-e-siti-storico-archeologici/
+  - titulo: Visita y reservas — Oficina de información del parque
+    url: https://www.parcoarcipelago.info
+resumen:
+  es: >-
+    Siete islas entre Toscana y Córcega, desde la turística Elba hasta Montecristo, reserva casi intocada con
+    visitas por cupo.
+  en: >-
+    Seven islands strung between Tuscany and Corsica, ranging from lively Elba to pristine Montecristo, an
+    undisturbed nature reserve visited under strict quotas.
+  fr: >-
+    Sept îles égrenées entre Toscane et Corse, de la vibrante île d'Elbe à l'inaccessible Montecristo,
+    sanctuaire protégé accessible sur quota strict.
+  de: >-
+    Sieben Inseln zwischen Toskana und Korsika, von der lebhaften Insel Elba bis zum unberührten Montecristo,
+    das strengen Besucherkontingenten unterliegt.
+  it: >-
+    Sette isole incastonate tra Toscana e Corsica, dalla vivace Elba alla remota Montecristo, riserva naturale
+    intatta accessibile solo a numero chiuso.
+  pt: >-
+    Sete ilhas dispersas entre a Toscana e a Córsega, da movimentada ilha de Elba até à intocada Montecristo,
+    reserva integral visitável sob rigorosas quotas.
+unico:
+  es: >-
+    Reúne en un solo parque islas tan distintas como un volcán sumergido, una plataforma de caliza y un plutón
+    de granito, y los endemismos que cada una ha guardado.
+  en: >-
+    Unites within a single park vastly contrasting islands—a submerged volcano, a limestone platform and a
+    granite pluton—alongside the unique endemics each has preserved.
+  fr: >-
+    Réunit dans un même parc des îles aussi dissemblables qu'un volcan immergé, une table calcaire et un
+    pluton granitique, avec leurs cortèges d'espèces endémiques.
+  de: >-
+    Vereint in einem einzigen Park gegensätzliche Inseln—einen Unterwasservulkan, eine Kalkplattform und einen
+    Granitpluton—sowie deren endemische Lebensgemeinschaften.
+  it: >-
+    Riunisce in un solo parco isole profondamente diverse—un antico vulcano emerso, una piana calcarea e un
+    plutone granitico—custodendone gli endemismi esclusivi.
+  pt: >-
+    Reúne num único parque ilhas profundamente distintas—um vulcão submarino, uma plataforma calcária e um
+    plutão de granito—com os seus endemismos preservados.
+observaciones:
+  es: >-
+    Montecristo tiene las normas más estrictas. El acceso está rigurosamente regulado en tierra y en mar, con
+    un máximo de 2000 visitantes al año. Está prohibido bañarse y navegar alrededor de la isla hasta
+    aproximadamente 1 km de la costa, y no se puede coger ninguna especie vegetal, animal ni material
+    geológico. No pueden entrar menores de 12 años ni animales de compañía, y la isla no tiene ningún servicio
+    médico. Las visitas se hacen del 1 de marzo al 15 de abril y del 15 de mayo al 31 de octubre; del 16 de
+    abril al 14 de mayo se excluyen para proteger a las aves migratorias. En la playa de Cala Maestra hay que
+    seguir las indicaciones de los guías y de los Carabinieri Forestali, y no se puede ir por libre. Reserva
+    con antelación y comprueba las condiciones con el gestor antes de ir.
+
+
+    En el resto del archipiélago el parque pide llevarse la basura, no coger flores ni plantas, mantener la
+    distancia con los animales, no coger minerales ni fósiles, no encender fuegos y no acampar.
+texto:
+  es:
+    intro: >-
+      Hay islas a las que se llega en ferri, y hay una a la que solo se llega con permiso, por cupo y detrás
+      de un guía. El Parque Nacional del Archipiélago Toscano abarca las dos clases de isla: la Elba de los
+      senderos largos y los centros de visita, y la Montecristo de la que solo salen y entran dos mil
+      visitantes al año. Entre medias, Pianosa, Capraia y Gorgona, cada una con su propia piel: sedimentos
+      marinos, un antiguo volcán, una cárcel en activo. El parque se creó en 1996 y protege 16.856 hectáreas
+      de tierra y 56.766 de mar.
+    landscape: >-
+      Cada isla cuenta un origen distinto. Capraia es la parte emergida de un antiguo edificio volcánico
+      submarino. Pianosa, en cambio, es sedimento puro: sus rocas son sedimentarias, con una capa inferior
+      arcillosa más antigua y calizas del Plioceno repletas de fósiles marinos, el rastro de un fondo marino
+      que fue. Elba tiene por cima el granito del Monte Capanne, de 1.019 metros, el punto más alto del
+      archipiélago.
+
+
+      La vegetación sigue el mismo reparto. En Montecristo domina la garriga costera y un matorral bajo de
+      brezos, romeros y jaras, con pocas encinas agrupadas junto a la cima que lleva su nombre. En Pianosa
+      abundan los arbustos de suelo calizo, como el lentisco, el romero, la sabina fenicia y las jaras. En
+      Capraia hay más de 650 especies de plantas y casi el 3% son endémicas. En Gorgona, a finales de abril,
+      la isla se ve de lejos teñida de azul violáceo: es el romero en flor.
+    wildlife: >-
+      El archipiélago es, sobre todo, un archipiélago de aves marinas. En las costas de Pianosa anidan las
+      pardelas y la [gaviota de Audouin](/especie/larus_audouinii/), que el parque protege con iniciativas de
+      salvaguarda. En Capraia crían el [cormorán moñudo](/especie/phalacrocorax_aristotelis/), las pardelas y
+      esa misma gaviota, ya rara, que debe competir con la gaviota patiamarilla, mucho más numerosa y
+      oportunista.
+
+
+      En primavera hay que mirar hacia el Stagnone de Capraia, el humedal más importante del archipiélago:
+      allí se concentran los migradores y el agua se cubre de ranúnculos en flor. En Pianosa, quien disfrute
+      con las aves verá abejarucos y abubillas, además de rapaces y paseriformes.
+
+
+      En tierra la fauna es discreta. La presencia más vistosa de Montecristo es la cabra de Montecristo, de
+      notable valor científico y cultural. En Capraia hay [muflón](/especie/ovis_gmelini/) introducido y
+      conejos; el único ofidio es la culebra verdiamarilla y el único anfibio, la ranita sarda.
+
+
+      Bajo el agua, las aguas de Capraia esconden praderas de [posidonia](/especie/posidonia_oceanica/) y
+      guaridas de grandes meros, con sargos, dentones, doradas y pez limón nadando cerca. Y más lejos, en alta
+      mar, está el Santuario Pelagos: en verano, la riqueza de plancton atrae a rorcuales comunes, estenelas,
+      cachalotes, calderones, delfines de Risso y [delfines mulares](/especie/tursiops_truncatus/). Si avistas
+      un cetáceo, el parque pide mantener la distancia de seguridad, moderar la velocidad y mantener el rumbo.
+    visit: >-
+      Para empezar con calma, Elba. La Gran Travesía Elbana (GTE) es la columna vertebral de sus senderos: un
+      camino de cresta que parte de Cavo y se divide cerca del Monte Capanne en la GTE norte, hasta Patresi
+      (55 km), y la GTE sur, hasta Pomonte (47 km). Alrededor del macizo, la Via dell'Essenza es un itinerario
+      costero panorámico de unos 67 km en ocho etapas. La llegada a Elba se hace en ferri desde Piombino.
+
+
+      El parque gestiona 16 centros de visita y sitios histórico-arqueológicos repartidos por las islas. Los
+      Centros de Educación Ambiental de Marciana, Rio nell'Elba, Lacona y Capraia Porto explican la
+      biodiversidad y la geodiversidad. Entre los sitios que gestiona están la Fortezza del Volterraio en
+      Elba, la villa romana de Giannutri, la de Gorgona y las catacumbas de Pianosa; en Pianosa hay también un
+      ecomuseo y un museo de ciencias geológicas y arqueológicas.
+
+
+      Montecristo es otra cosa. Las visitas son excursiones de trekking por algunos itinerarios, con grupos de
+      un máximo de 12 personas acompañados por un guía, y los recorridos son auténticos itinerarios de
+      montaña, exigentes, con fuertes pendientes y granito liso resbaladizo. No hay servicio regular de
+      transporte: el parque organiza algunas visitas al año, con salida de Piombino Marittima y escala en
+      Porto Azzurro, en Elba. En la isla hay un museo naturalístico con colección florística. En Pianosa, más
+      allá del muro Dalla Chiesa, que separa el pueblo de la colonia agrícola penal, solo se entra acompañado
+      por un guía.
+    history: >-
+      Montecristo acogió en el siglo V a san Mamiliano, que huía de los vándalos, y tuvo hasta el siglo XVI
+      una comunidad monástica floreciente. Es reserva natural estatal desde 1971 y reserva biogenética
+      diplomada por el Consejo de Europa en 1988. Pianosa vivió otro destino: hasta 1997 buena parte de su
+      suelo lo usó para la agricultura una colonia penal fundada a mediados del siglo XIX, y desde entonces la
+      flora espontánea recoloniza esos terrenos. En Gorgona, el abad Orosio fundó un monasterio en 591.
+
+
+      Todo el territorio del parque está dentro del Santuario Pelagos para mamíferos marinos. En 2003 el
+      programa MAB de la UNESCO reconoció la Reserva de la Biosfera Islas de Toscana, y en 2021 el parque
+      entró en la Lista Verde de la UICN. Entre sus objetivos figuran proteger a la gaviota de Audouin y
+      erradicar especies invasoras: el plan contempla controlar plantas exóticas como la robinia y los perros
+      y gatos asilvestrados.
+    before: >-
+      Montecristo tiene las normas más estrictas. El acceso está rigurosamente regulado en tierra y en mar,
+      con un máximo de 2000 visitantes al año. Está prohibido bañarse y navegar alrededor de la isla hasta
+      aproximadamente 1 km de la costa, y no se puede coger ninguna especie vegetal, animal ni material
+      geológico. No pueden entrar menores de 12 años ni animales de compañía, y la isla no tiene ningún
+      servicio médico. Las visitas se hacen del 1 de marzo al 15 de abril y del 15 de mayo al 31 de octubre;
+      del 16 de abril al 14 de mayo se excluyen para proteger a las aves migratorias. En la playa de Cala
+      Maestra hay que seguir las indicaciones de los guías y de los Carabinieri Forestali, y no se puede ir
+      por libre. Reserva con antelación y comprueba las condiciones con el gestor antes de ir.
+
+
+      En el resto del archipiélago el parque pide llevarse la basura, no coger flores ni plantas, mantener la
+      distancia con los animales, no coger minerales ni fósiles, no encender fuegos y no acampar.
+    around: >-
+      Por sus hábitats y especies, el archipiélago se parece a otros espacios marinos del Mediterráneo. El
+      [Parque Natural de las Islas Lastovo](/lugar/park-prirode-lastovsko-otocje/) comparte con él la gaviota
+      de Audouin y la pardela, y el [Parque Nacional de Port-Cros](/lugar/parc-national-de-port-cros/), la
+      pardela y la posidonia. [La Mola (Formentera)](/lugar/la-mola-formentera/) comparte la gaviota de
+      Audouin y la posidonia, y las [Islas Selvajes](/lugar/islas-selvajes/), el delfín mular y la pardela
+      cenicienta.
+  en:
+    intro: >-
+      There are islands you reach simply by boarding a ferry, and there is one you can only step onto with
+      official authorization, under strict quotas and behind an authorized guide. The Tuscan Archipelago
+      National Park embraces both worlds: Elba with its extensive hiking networks and visitor centres, and
+      Montecristo, welcoming no more than two thousand visitors a year. Between them lie Pianosa, Capraia and
+      Gorgona, each with its distinct geological identity: marine sediment platforms, an ancient volcanic
+      edifice, and an active island prison. Established in 1996, the park safeguards 16,856 hectares of land
+      and 56,766 of sea.
+    landscape: >-
+      Each island tells a distinct geological story. Capraia represents the emerged tip of an ancient
+      submarine volcanic caldera. Pianosa, by contrast, is purely sedimentary: its strata feature an older
+      clay basement overlain by fossiliferous Pliocene limestones, remnants of an ancient seabed. Elba
+      culminates in the granite pluton of Monte Capanne, at 1,019 metres the highest elevation in the
+      archipelago.
+
+
+      Vegetation mirrors these geological origins. Montecristo is cloaked in coastal garrigue and low scrub of
+      tree heath, rosemary and cistus, with holm oak stands clustered near the summit that shares its name.
+      Pianosa is dominated by calcicolous shrubs such as mastic, rosemary, Phoenician juniper and rockroses.
+      Capraia shelters more than 650 plant species, nearly 3% of which are endemic. In Gorgona in late April,
+      the entire island takes on a violet-blue mantle from flowering wild rosemary.
+    wildlife: >-
+      The archipelago is pre-eminently a marine bird sanctuary. Along the rocky coasts of Pianosa nest
+      shearwaters and the rare [Audouin's gull](/especie/larus_audouinii/), strictly protected by targeted
+      conservation initiatives. On Capraia breed the [European shag](/especie/phalacrocorax_aristotelis/),
+      Yelkouan shearwaters and Audouin's gulls, competing for nesting sites with the aggressive yellow-legged
+      gull.
+
+
+      In spring, the Stagnone of Capraia—the only freshwater wetland in the archipelago—becomes a magnet for
+      migrating birds, its waters carpeted in blooming water-crowfoot. On Pianosa, birdwatchers can observe
+      European bee-eaters, hoopoes, migrating raptors and passerines.
+
+
+      Terrestrial fauna is discreet. The most celebrated resident of Montecristo is the wild Montecristo goat,
+      of notable scientific interest. Capraia supports introduced [mouflon](/especie/ovis_gmelini/) and wild
+      rabbits; the green whip snake is its sole ophidian and the Tyrrhenian tree frog its only amphibian.
+
+
+      Underwater, Capraia's depths shelter lush [posidonia](/especie/posidonia_oceanica/) seagrass meadows and
+      caves frequented by dusky groupers, white seabream, dentex, gilthead seabream and amberjacks. Offshore
+      stretches the Pelagos Sanctuary: in summer, rich plankton concentrations attract fin whales, striped
+      dolphins, sperm whales, long-finned pilot whales, Risso's dolphins and [bottlenose
+      dolphins](/especie/tursiops_truncatus/). When encountering cetaceans, maintain a safe distance, moderate
+      speed and hold course.
+    visit: >-
+      Start on Elba. The Grande Traversata Elbana (GTE) forms the backbone of the trail network: a high-ridge
+      trail beginning in Cavo and branching near Monte Capanne into the northern GTE towards Patresi (55 km)
+      and the southern GTE towards Pomonte (47 km). Circling the granite massif, the Via dell'Essenza offers a
+      scenic coastal route of roughly 67 km divided into eight stages. Elba is reached by regular ferry from
+      Piombino.
+
+
+      The park administers 16 visitor centres and archaeological landmarks across the islands. Environmental
+      Education Centres at Marciana, Rio nell'Elba, Lacona and Capraia Porto interpret biodiversity and
+      geology. Heritage sites include the Volterraio Fortress on Elba, Roman villa ruins on Giannutri and
+      Gorgona, and the Pianosa catacombs, alongside an ecomuseum and geological exhibition.
+
+
+      Montecristo requires special planning. Visits consist of guided mountain treks restricted to groups of
+      up to 12 people led by certified guides; paths are steep and slippery across bare granite slabs. There
+      is no scheduled ferry service: the park organizes select excursions annually departing from Piombino
+      Marittima via Porto Azzurro on Elba. On Pianosa, entering beyond the historic Dalla Chiesa prison wall
+      is permitted only when accompanied by an authorized guide.
+    history: >-
+      Montecristo provided refuge in the V century to Saint Mamilian fleeing the Vandals, sustaining a
+      thriving monastic community until the XVI century. It became a state nature reserve in 1971 and received
+      the Council of Europe Biogenetic Diploma in 1988. Pianosa followed a different trajectory: until 1997
+      much of its land was farmed by an agricultural penal colony founded in the mid-XIX century, allowing
+      spontaneous maquis to recolonize abandoned fields. On Gorgona, Abbot Orosius founded a monastery in 591.
+
+
+      The entire marine area lies within the international Pelagos Sanctuary. In 2003, UNESCO designated the
+      Tuscan Islands Biosphere Reserve, and in 2021 the national park earned IUCN Green List certification.
+      Ongoing conservation priorities focus on protecting Audouin's gulls and eradicating invasive black rats,
+      feral cats and exotic plants.
+    before: >-
+      Montecristo enforces the strictest regulations. Land and marine access is restricted to a maximum of
+      2000 visitors per year. Swimming and private boating within roughly 1 km of the coast are banned, and
+      gathering any plant, animal or geological specimen is strictly forbidden. Children under 12 years and
+      pets are not admitted, and no medical facilities exist on the island. Guided visits operate from 1 March
+      to 15 April and from 15 May to 31 October, pausing from 16 April to 14 May during peak bird migration.
+      At Cala Maestra, follow instructions from guides and Carabinieri Forestali; independent exploration is
+      prohibited. Book well in advance through the official portal.
+
+
+      Across the rest of the archipelago, pack out all rubbish, refrain from picking flowers, keep a
+      respectful distance from wildlife, leave minerals and fossils untouched, and do not light fires or camp
+      wild.
+    around: >-
+      Through its coastal habitats and marine wildlife, the archipelago mirrors other Mediterranean island
+      reserves. The [Lastovo Islands Nature Park](/lugar/park-prirode-lastovsko-otocje/) shares Audouin's
+      gulls and shearwaters, while [Port-Cros National Park](/lugar/parc-national-de-port-cros/) shares
+      shearwaters and posidonia beds. [La Mola (Formentera)](/lugar/la-mola-formentera/) shares Audouin's
+      gulls and seagrass, while the [Savage Islands](/lugar/islas-selvajes/) share bottlenose dolphins and
+      Cory's shearwaters.
+  fr:
+    intro: >-
+      Il est des îles que l'on aborde d'un simple coup de ferry, et d'autres que l'on ne découvre que muni
+      d'une autorisation, sur quota et escorté d'un guide officiel. Le parc national de l'archipel toscan
+      embrasse ces deux univers : l'île d'Elbe aux longs chemins balisés et Montecristo qui n'accueille pas
+      plus de deux mille visiteurs par an. Entre les deux, Pianosa, Capraia et Gorgona déclinent chacune leur
+      identité géologique : dépôts marins fossilisés, ancien appareil volcanique et colonie pénitentiaire en
+      activité. Créé en 1996, le parc protège 16 856 hectares terrestres et 56 766 d'espaces marins.
+    landscape: >-
+      Chaque île possède sa propre genèse. Capraia constitue la partie émergée d'un cône volcanique
+      sous-marin. Pianosa est purement sédimentaire : son socle argileux porte des calcaires pliocènes pétris
+      de fossiles marins, mémoire d'un ancien fond marin exhaussé. L'île d'Elbe culmine quant à elle au Monte
+      Capanne, dôme de granite s'élevant à 1 019 mètres, point culminant de l'archipel.
+
+
+      La flore s'accorde à cette variété géologique. Montecristo est couverte d'une garrigue rase de bruyères,
+      romarins et cistes, avec quelques bouquets de chênes verts vers le sommet éponyme. À Pianosa dominent
+      les arbustes calcicoles comme le lentisque, le romarin, le genévrier de Phénicie et les cistes. Capraia
+      abrite plus de 650 espèces végétales dont près de 3 % d'endémiques. À la fin du mois d'avril, Gorgona se
+      teinte d'un bleu violacé sous la floraison des romarins sauvages.
+    wildlife: >-
+      L'archipel est avant tout le royaume des oiseaux de mer. Sur les falaises de Pianosa se reproduisent les
+      puffins et le rare [goéland d'Audouin](/especie/larus_audouinii/), protégé par des programmes de
+      sauvegarde. À Capraia nichent le [cormoran huppé](/especie/phalacrocorax_aristotelis/), les puffins
+      yelkouans et ce même goéland, soumis à la concurrence du goéland leucophée.
+
+
+      Au printemps, le Stagnone de Capraia, unique plan d'eau douce de l'archipel, attire une foule de
+      migrateurs au milieu d'une nappe de renoncules aquatiques. À Pianosa, les ornithologues contemplent
+      guêpiers d'Europe, huppes fasciées et passereaux de passage.
+
+
+      Sur la terre ferme, la faune est discrète. L'hôte le plus renommé de Montecristo est la chèvre sauvage
+      de Montecristo, d'un intérêt patrimonial insigne. Capraia abrite le [mouflon](/especie/ovis_gmelini/)
+      introduit et le lapin de garenne ; la couleuvre verte et jaune est son seul serpent et la rainette sarde
+      son unique amphibien.
+
+
+      Sous la surface, les fonds marins de Capraia recèlent des herbiers de
+      [posidonie](/especie/posidonia_oceanica/) et des tombants fréquentés par mérous bruns, sars, dentis,
+      daurades et sérioles. Plus au large s'étend le sanctuaire Pelagos : l'abondance de plancton y attire
+      rorquals communs, dauphins bleu et blanc, cachalots, globicéphales et [grands
+      dauphins](/especie/tursiops_truncatus/). En cas d'observation, maintenez vos distances et une allure
+      constante.
+    visit: >-
+      Commencez par l'île d'Elbe. La Grande Traversée Elbane (GTE) forme la dorsale des sentiers : partant de
+      Cavo, elle se scinde près du Monte Capanne entre la GTE nord vers Patresi (55 km) et la GTE sud vers
+      Pomonte (47 km). Autour du massif granitique, la Via dell'Essenza déploie un sentier littoral de 67 km
+      en huit étapes. On accourt à Elbe en ferry depuis Piombino.
+
+
+      Le parc administre 16 centres d'accueil et sites historiques. Les centres d'éducation à l'environnement
+      de Marciana, Rio nell'Elba, Lacona et Capraia Porto initient à la géologie. Parmi les sites gérés
+      figurent la forteresse du Volterraio, les villas romaines de Giannutri et de Gorgona, ainsi que les
+      catacombes paléochrétiennes de Pianosa.
+
+
+      Montecristo obéit à d'autres exigences. Les visites consistent en randonnées accompagnées par groupes de
+      12 personnes au maximum ; les sentiers arpentent des dalles de granite abruptes et glissantes. Aucun
+      transport maritime régulier n'y accoste : le parc organise des départs ponctuels depuis Piombino
+      Marittima via Porto Azzurro. À Pianosa, le franchissement du mur d'enceinte de l'ancienne colonie
+      agricole pénitentiaire nécessite un guide assermenté.
+    history: >-
+      Montecristo accueillit au Ve siècle saint Mamilien fuyant les Vandales et abrita jusqu'au XVIe siècle
+      une florissante abbaye bénédictine. Réserve naturelle d'État depuis 1971, elle reçut le diplôme du
+      Conseil de l'Europe en 1988. Pianosa connut un destin singulier : jusqu'en 1997, ses sols furent mis en
+      culture par une colonie pénitentiaire agricole établie au milieu du XIXe siècle, avant que le maquis ne
+      reprenne ses droits. À Gorgona, l'abbé Orose fonda un monastère dès 591.
+
+
+      L'espace marin appartient au sanctuaire international Pelagos. En 2003, l'UNESCO a reconnu la réserve de
+      biosphère des îles toscanes, et en 2021 le parc a rejoint la Liste verte de l'UICN. Les actions se
+      concentrent sur la protection du goéland d'Audouin et l'éradication des mammifères invasifs.
+    before: >-
+      Montecristo applique la réglementation la plus stricte. L'accès terrestre et maritime est limité à 2000
+      visiteurs par an. La baignade et le mouillage à moins de 1 km du rivage sont formellement prohibés, tout
+      comme le prélèvement d'échantillons naturels. Les enfants de moins de 12 ans et les animaux domestiques
+      ne sont pas admis, l'île étant dépourvue de secours médical. Les visites ont lieu du 1er mars au 15
+      avril et du 15 mai au 31 octobre, exclues du 16 avril au 14 mai pour préserver la halte migratoire
+      aviaire. À Cala Maestra, suivez rigoureusement les consignes des gardes forestiers. Réservez très tôt
+      auprès de la direction du parc.
+
+
+      Dans tout l'archipel, remportez vos déchets, préservez la flore, ne touchez ni fossiles ni minéraux,
+      n'allumez aucun feu et ne campez pas dans la nature.
+    around: >-
+      Par ses milieux marins insulaires, l'archipel se rapproche d'autres réserves méditerranéennes. Le [parc
+      naturel des îles Lastovo](/lugar/park-prirode-lastovsko-otocje/) partage le goéland d'Audouin et le
+      puffin, tout comme le [parc national de Port-Cros](/lugar/parc-national-de-port-cros/) partage puffins
+      et herbiers de posidonie. [La Mola (Formentera)](/lugar/la-mola-formentera/) accueille également goéland
+      d'Audouin et posidonies, tandis que les [îles Selvagens](/lugar/islas-selvajes/) abritent grand dauphin
+      et puffin cendré.
+  de:
+    intro: >-
+      Es gibt Inseln, die man mit einer simplen Fähre erreicht, und es gibt eine, die man nur mit
+      Sondergenehmigung, unter strenger Quote und hinter einem zertifizierten Führer betreten darf. Der
+      Nationalpark Toskanischer Archipel vereint beide Inselwelten: Elba mit weiten Höhenwegen und
+      Besucherzentren sowie Montecristo, das jährlich von höchstens zweitausend Menschen betreten wird.
+      Dazwischen liegen Pianosa, Capraia und Gorgona, jede mit eigener geologischer Prägung: marine Sedimente,
+      ein erloschener Vulkan und eine aktive Gefängnisinsel. Der 1996 gegründete Park schützt 16.856 Hektar
+      Land und 56.766 Hektar Meeresfläche.
+    landscape: >-
+      Jedes Eiland erzählt eine eigene Entstehungsgeschichte. Capraia ist die Spitze eines alten submarinen
+      Vulkankegels. Pianosa hingegen besteht rein aus marinen Sedimenten: Auf tonigen Schichten lagern
+      fossilreiche Pliozänkalke, Zeugen eines gehobenen Meeresbodens. Elba gipfelt im Granitmassiv des Monte
+      Capanne, mit 1.019 Metern der höchste Punkt des Archipels.
+
+
+      Die Vegetation spiegelt diesen Untergrund wider. Montecristo wird von Macchie aus Baumheide, Rosmarin
+      und Zistrosen geprägt, mit wenigen Steineichen am Gipfelgrat. Auf Pianosa gedeihen kalkliebende
+      Sträucher wie Mastixstrauch, Rosmarin, Phönizischer Wacholder und Zistrosen. Auf Capraia wachsen mehr
+      als 650 Pflanzenarten, fast 3 % davon endemisch. Ende April erstrahlt Gorgona aus der Ferne in
+      blau-violetten Tönen blühender Rosmarinsträucher.
+    wildlife: >-
+      Der Archipel ist vor allem ein Zufluchtsort für Meeresvögel. An den Klippen von Pianosa brüten
+      Sturmtaucher und die seltene [Korallenmöwe](/especie/larus_audouinii/), die durch Schutzprogramme
+      gefördert wird. Auf Capraia nisten die [Krähenscharbe](/especie/phalacrocorax_aristotelis/),
+      Mittelmeer-Sturmtaucher und dieselbe Möwenart im Wettstreit mit der dominanten Mittelmeermöwe.
+
+
+      Im Frühjahr lohnt ein Blick auf den Stagnone di Capraia, das einzige Süßwasserfeuchtgebiet des
+      Archipels, auf dem Rastvögel zwischen blühendem Wasserhahnenfuß verweilen. Auf Pianosa beobachten
+      Vogelfreunde Bienenfresser, Wiedehopfe und ziehende Singvögel.
+
+
+      An Land ist die Tierwelt unauffällig. Markanteste Erscheinung auf Montecristo ist die verwilderte
+      Montecristo-Ziege. Capraia beherbergt eingeführte [Mufflons](/especie/ovis_gmelini/) und Wildkaninchen;
+      Gelbgrüne Zornnatter und Tyrrhenischer Laubfrosch sind die einzigen Vertreter ihrer Klassen.
+
+
+      Unter Wasser bergen die Riffe von Capraia dichte Bestände von [Neptungras](/especie/posidonia_oceanica/)
+      und Felsspalten voller Zackenbarsche, Brassen und Goldmakrelen. Weiter draußen erstreckt sich das
+      Walschutzgebiet Pelagos: Im Sommer lockt reiches Plankton Finnwale, Streifendelfine, Pottwale, Grindwale
+      und [Große Tümmler](/especie/tursiops_truncatus/) an. Halte bei Walsichtungen stets Sicherheitsabstand
+      und konstanten Kurs.
+    visit: >-
+      Ein guter Ausgangspunkt ist Elba. Die Grande Traversata Elbana (GTE) bildet das Rückgrat der Wanderwege:
+      Ein Höhenweg ab Cavo teilt sich am Monte Capanne in die Nordroute nach Patresi (55 km) und die Südroute
+      nach Pomonte (47 km). Rund um das Granitmassiv führt die Via dell'Essenza auf 67 km in acht Etappen
+      entlang der Küste. Die Überfahrt nach Elba erfolgt per Autofähre ab Piombino.
+
+
+      Der Park unterhält 16 Besucherzentren und archäologische Denkmäler. Umweltbildungszentren in Marciana,
+      Rio nell'Elba, Lacona und Capraia Porto informieren über Natur und Geologie. Zu den betreuten Stätten
+      zählen die Festung Volterraio auf Elba, römische Villen auf Giannutri und Gorgona sowie die
+      frühchristlichen Katakomben auf Pianosa.
+
+
+      Montecristo unterliegt besonderen Regeln. Die geführten Trekkingtouren sind auf Gruppen von maximal 12
+      Personen beschränkt; die Pfade über glatte Granitplatten sind steil und ausgesetzt. Ein Linienverkehr
+      existiert nicht: Der Park bietet vereinzelte Exkursionen ab Piombino Marittima über Porto Azzurro auf
+      Elba an. Auf Pianosa darf der Bereich hinter der Gefängnismauer Dalla Chiesa nur mit Führer betreten
+      werden.
+    history: >-
+      Montecristo bot im V. Jahrhundert dem heiligen Mamilian Zuflucht vor den Vandalen und beherbergte bis
+      ins XVI. Jahrhundert ein wohlhabendes Kloster. Seit 1971 ist es staatliches Naturschutzgebiet und
+      erhielt 1988 das Europadiplom. Pianosa blickt auf eine andere Geschichte zurück: Bis 1997 wurde die
+      Insel von einer landwirtschaftlichen Strafkolonie aus der Mitte des XIX. Jahrhunderts geprägt; seither
+      erobert sich die Macchie die alten Felder zurück. Auf Gorgona gründete Abt Orosius im Jahr 591 ein
+      Kloster.
+
+
+      Der gesamte Archipel gehört zum internationalen Meeressäugerschutzgebiet Pelagos. 2003 erkannte die
+      UNESCO das Biosphärenreservat Toskanische Inseln an, und 2021 wurde der Park auf die Grüne Liste der
+      IUCN aufgenommen.
+    before: >-
+      Montecristo unterliegt strengsten Schutzauflagen. Der Zutritt ist auf 2000 Besucher im Jahr limitiert.
+      Baden und Ankern innerhalb von rund 1 km vor der Küste sind verboten, ebenso das Mitnehmen von Tieren,
+      Pflanzen oder Gesteinen. Kinder unter 12 Jahren und Haustiere haben keinen Zutritt; es gibt keinerlei
+      medizinische Versorgung. Touren finden vom 1. März bis 15. April sowie vom 15. Mai bis 31. Oktober
+      statt; die Phase vom 16. April bis 14. Mai bleibt zum Schutz des Vogelzugs gesperrt. An der Cala Maestra
+      ist den Anweisungen der Carabinieri Forestali Folge zu leisten. Buche weit im Voraus über das
+      Nationalparkportal.
+
+
+      Im gesamten Schutzgebiet gilt: Nimm deinen Müll mit, pflücke keine Blumen, wahre Abstand zu Tieren,
+      schlage keine Steine, entzünde kein Feuer und unterlasse wildes Zelten.
+    around: >-
+      Aufgrund seiner Meereslebensräume ähnelt der Archipel anderen Schutzgebieten des Mittelmeers. Der
+      [Naturpark Lastovo-Inseln](/lugar/park-prirode-lastovsko-otocje/) teilt Korallenmöwe und Sturmtaucher,
+      der [Nationalpark Port-Cros](/lugar/parc-national-de-port-cros/) Sturmtaucher und Neptungraswiesen. [La
+      Mola (Formentera)](/lugar/la-mola-formentera/) beherbergt ebenfalls Korallenmöwen und Neptungras,
+      während die [Ilhas Selvagens](/lugar/islas-selvajes/) Große Tümmler und Gelbschnabel-Sturmtaucher
+      teilen.
+  it:
+    intro: >-
+      Vi sono isole che si raggiungono con un semplice traghetto, e ve n'è una cui si approda unicamente con
+      permesso formale, a numero chiuso e al seguito di una guida autorizzata. Il Parco Nazionale
+      dell'Arcipelago Toscano abbraccia entrambe le realtà: l'Elba delle grandi traversate e dei centri
+      visita, e la solitaria Montecristo aperta a non più di duemila visitatori all'anno. Nel mezzo affiorano
+      Pianosa, Capraia e Gorgona, ciascuna con la propria natura geologica: sedimenti fossili, un antico
+      vulcano e un penitenziario agricolo attivo. Istituito nel 1996, il parco tutela 16.856 ettari a terra e
+      56.766 in mare.
+    landscape: >-
+      Ogni isola racconta una genesi geologica a sé stante. Capraia rappresenta la porzione emersa di un
+      edificio vulcanico sottomarino. Pianosa è al contrario puramente sedimentaria: le sue rocce poggiano su
+      argille mioceniche ricoperte da calcareniti plioceniche zeppe di conchiglie fossili, tracce di un antico
+      fondale sollevato. L'Elba culmina nel massiccio granitico del Monte Capanne che con i suoi 1.019 metri
+      domina l'intero arcipelago.
+
+
+      La copertura vegetale riflette questo mosaico. Su Montecristo prevale la gariga costiera a erica,
+      rosmarino e cisti, con lecci relitti presso la vetta omonima. A Pianosa abbondano essenze pioniere
+      calcicole quali lentisco, rosmarino, ginepro fenicio e cisti. Capraia ospita oltre 650 specie botaniche,
+      di cui quasi il 3% endemiche. A Gorgona, verso la fine di aprile, le scogliere si tingono da lontano di
+      un blu violaceo per la straordinaria fioritura del rosmarino selvatico.
+    wildlife: >-
+      L'arcipelago è anzitutto un santuario ornitico d'alto mare. Sulle falesie di Pianosa nidificano le berte
+      e il raro [gabbiano corso](/especie/larus_audouinii/), tutelato da rigorose misure di salvaguardia. A
+      Capraia nidificano il [marangone dal ciuffo](/especie/phalacrocorax_aristotelis/), la berta minore e lo
+      stesso gabbiano corso, che deve contendersi i posatoi con il gabbiano reale.
+
+
+      In primavera merita una visita lo Stagnone di Capraia, unico bacino d'acqua dolce dell'arcipelago, dove
+      sostano i migratori tra tappeti di ranuncoli acquatici. A Pianosa il birdwatching regala avvistamenti di
+      gruccioni, upupe, rapaci e piccoli passeriformi.
+
+
+      Sulla terraferma la fauna selvatica è sobria. L'animale simbolo di Montecristo è la capra selvatica di
+      Montecristo, d'alto valore faunistico. A Capraia vivono il [muflone](/especie/ovis_gmelini/) introdotto
+      e il coniglio selvatico; il biacco è l'unico ofide e la raganella sarda l'unico anfibio.
+
+
+      Nei fondali di Capraia prosperano praterie di [posidonia](/especie/posidonia_oceanica/) e anfratti
+      rocciosi popolati da cernie brune, saraghi, dentici, orate e ricciole. Più al largo si estende il
+      Santuario Pelagos: in estate l'abbondanza di krill richiama balenottere comuni, stenelle striate,
+      capodogli, globicefali e [tursiopi](/especie/tursiops_truncatus/). In caso di avvistamento, mantieni
+      rotta e velocità costanti a distanza prudente.
+    visit: >-
+      Comincia dall'Elba. La Grande Traversata Elbana (GTE) costituisce la spina dorsale escursionistica:
+      partendo da Cavo, si divide presso il Monte Capanne nella GTE nord verso Patresi (55 km) e nella GTE sud
+      verso Pomonte (47 km). Attorno al blocco granitico si sviluppa la Via dell'Essenza, itinerario costiero
+      panoramico di 67 km in otto tappe. L'Elba si raggiunge in traghetto da Piombino.
+
+
+      L'ente parco gestisce 16 centri visita e siti culturali. I Centri di Educazione Ambientale di Marciana,
+      Rio nell'Elba, Lacona e Capraia Porto approfondiscono natura e geologia. Tra i monumenti tutelati
+      figurano la Fortezza del Volterraio all'Elba, le ville romane di Giannutri e Gorgona, nonché le
+      catacombe paleocristiane di Pianosa con l'annesso museo geologico.
+
+
+      Montecristo segue un protocollo a parte. Le visite prevedono escursioni a piedi su sentieri montani
+      riservate a gruppi di massimo 12 persone con guida; i percorsi sono ripidi e impegnativi su lisce
+      placche di granito. Non vi sono collegamenti di linea: l'ente parco predispone partenze speciali da
+      Piombino Marittima con scalo a Porto Azzurro. A Pianosa, l'accesso oltre il muro carcerario Dalla Chiesa
+      è consentito unicamente con guida del parco.
+    history: >-
+      Montecristo accolse nel V secolo san Mamiliano in fuga dai Vandali e ospitò fino al XVI secolo un
+      fiorente monastero benedettino. È riserva naturale statale dal 1971 e riserva biogenetica insignita del
+      Diploma del Consiglio d'Europa nel 1988. Pianosa visse una storia differente: sino al 1997 gran parte
+      del territorio fu coltivato da una colonia penale agricola istituita a metà Ottocento (secolo XIX),
+      prima che la macchia mediterranea riconquistasse i campi. A Gorgona l'abate Orosio fondò un cenobio nel
+      591.
+
+
+      L'intero perimetro marino rientra nel Santuario internazionale dei mammiferi marini Pelagos. Nel 2003
+      l'UNESCO ha proclamato la Riserva della Biosfera Isole di Toscana, e nel 2021 il parco è entrato nella
+      Green List della IUCN.
+    before: >-
+      Montecristo adotta le norme più severe d'Italia. L'accesso a terra e a mare è contingentato a un tetto
+      di 2000 visitatori all'anno. Balneazione e navigazione sono tassativamente vietate entro circa 1 km
+      dalla costa, così come l'asporto di reperti geologici e campioni biologici. Non sono ammessi minori di
+      12 anni né animali domestici, e l'isola è priva di presidio medico. Le visite si tengono dal 1° marzo al
+      15 aprile e dal 15 maggio al 31 ottobre; l'intervallo dal 16 aprile al 14 maggio è interdetto per
+      proteggere il passo migratorio. A Cala Maestra attieniti alle disposizioni dei Carabinieri Forestali.
+      Prenota con largo anticipo sul portale ufficiale.
+
+
+      Nel resto dell'arcipelago rispetta la natura: riporta a terra i rifiuti, non raccogliere fiori, non
+      prelevare minerali o fossili, non accendere fuochi e non campeggiare.
+    around: >-
+      Per i suoi ecosistemi marini e insulari l'arcipelago dialoga con altre riserve del Mediterraneo. Il
+      [Parco naturale delle isole Lastovo](/lugar/park-prirode-lastovsko-otocje/) condivide gabbiano corso e
+      berta, così come il [Parco nazionale di Port-Cros](/lugar/parc-national-de-port-cros/) tutela berte e
+      praterie di posidonia. [La Mola (Formentera)](/lugar/la-mola-formentera/) ospita gabbiani corsi e
+      posidonie, mentre le [Isole Selvagge](/lugar/islas-selvajes/) accolgono tursiopi e berte maggiori.
+  pt:
+    intro: >-
+      Há ilhas onde se desembarca apanhando um simples ferry, e há uma onde só é possível pisar com
+      autorização especial, por contingente estrito e atrás de um guia oficial. O Parque Nacional do
+      Arquipélago Toscano congrega estas duas realidades: a ilha de Elba com os seus trilhos panorâmicos e
+      centros de acolhimento, e a enigmática Montecristo, onde não entram mais de dois mil visitantes por ano.
+      Pelo meio despontam Pianosa, Capraia e Gorgona, cada qual com a sua assinatura geológica: bancadas
+      marinhas fossilíferas, um antigo cone vulcânico e uma prisão agrícola em atividade. Criado em 1996, o
+      parque protege 16.856 hectares terrestres e 56.766 de domínio marinho.
+    landscape: >-
+      Cada ilha encerra uma história geológica própria. Capraia representa a emersão de um antigo vulcão
+      submarino. Pianosa, em contrapartida, é puramente sedimentar: sobre estratos argilosos assentam
+      calcários pliocénicos repletos de fósseis marinhos, testemunhos de um antigo leito oceânico elevado.
+      Elba coroa o arquipélago com o relevo granítico do Monte Capanne, que atinge 1.019 metros de altitude.
+
+
+      A flora espelha essa multiplicidade rochosa. Em Montecristo predomina o mato costeiro de urzes, alecrim
+      e estevas, com escassos sobreiros e azinheiras no topo da ilha. Em Pianosa prosperam espécies calcícolas
+      como aroeira, alecrim, sabina-da-praia e cistos. Capraia acolhe mais de 650 espécies de plantas, com
+      quase 3% de endemismos. Em Gorgona, em finais de abril, as escarpas adquirem uma coloração azul-violácea
+      com a floração abundante do alecrim bravo.
+    wildlife: >-
+      O arquipélago constitui primordialmente um refúgio de aves marinhas. Nas arribas de Pianosa nidificam
+      pardelas e a rara [gaivota-de-audouin](/especie/larus_audouinii/), alvo de projetos de conservação. Em
+      Capraia criam o [corvo-marinho-de-crista](/especie/phalacrocorax_aristotelis/), pardelas e a
+      gaivota-de-audouin, que enfrenta a concorrência da gaivota-de-patas-amarelas.
+
+
+      Na primavera destaca-se o Stagnone de Capraia, o único charco permanente de água doce do arquipélago,
+      ponto de paragem de aves migradoras coberto por ranúnculos aquáticos. Em Pianosa avistam-se abelharucos,
+      poupas e passeriformes.
+
+
+      Em terra a fauna mamífera é discreta. O animal mais icónico de Montecristo é a cabra-brava de
+      Montecristo, de grande valor científico. Em Capraia ocorrem o [muflão](/especie/ovis_gmelini/)
+      introduzido e o coelho-bravo; a cobra-chicote-verde é o único ofídio e a rela-sarda o único anfíbio.
+
+
+      Submersos nos fundos marinhos de Capraia estendem-se prados de [posidónia](/especie/posidonia_oceanica/)
+      e grutas com meros-escuros, sargos, dentões, douradas e lírios. Mais ao largo abre-se o Santuário
+      Pelagos: no verão a abundância de plâncton atrai baleias-comuns, golfinhos-riscados, cachalotes,
+      baleias-piloto e [roazes-corvineiros](/especie/tursiops_truncatus/). Ao avistar cetáceos, mantém
+      distância e velocidade constante.
+    visit: >-
+      Começa pela ilha de Elba. A Grande Traversata Elbana (GTE) serve de espinha dorsal pedestre: partindo de
+      Cavo, ramifica-se perto do Monte Capanne na GTE norte até Patresi (55 km) e na GTE sul até Pomonte (47
+      km). Contornando o maciço granítico, a Via dell'Essenza compõe uma rota costeira de 67 km dividida em
+      oito etapas. O acesso a Elba faz-se por ferry a partir de Piombino.
+
+
+      O parque gere 16 centros de interpretação e monumentos arqueológicos. Centros de Educação Ambiental em
+      Marciana, Rio nell'Elba, Lacona e Capraia Porto desvendam a geodiversidade. Destacam-se a Fortaleza de
+      Volterraio em Elba, ruínas romanas em Giannutri e Gorgona, e as catacumbas paleocristãs de Pianosa.
+
+
+      Montecristo requer procedimentos próprios. As visitas consistem em caminhadas orientadas para grupos de
+      até 12 pessoas com guias autorizados; os percursos sobre lajes de granito são íngremes e escorregadios.
+      Não existe ligação marítima regular: o parque organiza partidas pontuais de Piombino Marittima com
+      escala em Porto Azzurro. Em Pianosa, a passagem além do muro de Dalla Chiesa exige acompanhamento
+      oficial.
+    history: >-
+      Montecristo acolheu no século V São Mamiliano em fuga aos vândalos e abrigou até ao século XVI um
+      célebre mosteiro beneditino. Constitui reserva natural estatal desde 1971 e reserva biogenética do
+      Conselho da Europa desde 1988. Pianosa seguiu outro percurso: até 1997 parte do solo foi cultivado pela
+      colónia penal agrícola estabelecida em meados do século XIX, após o que a vegetação natural regenerou os
+      campos. Em Gorgona, o abade Orósio fundou um mosteiro em 591.
+
+
+      As águas do arquipélago integram o Santuário internacional Pelagos. Em 2003 a UNESCO declarou a Reserva
+      da Biosfera das Ilhas da Toscana, e em 2021 o parque ingressou na Lista Verde da UICN.
+    before: >-
+      Montecristo impõe as regras de conservação mais rígidas de Itália. O acesso está restrito a 2000
+      visitantes por ano. Os banhos e a navegação particular a menos de 1 km da costa são proibidos, tal como
+      recolher plantas ou minerais. Crianças com menos de 12 anos e animais domésticos não podem entrar,
+      inexistindo apoio médico na ilha. As excursões realizam-se de 1 de março a 15 de abril e de 15 de maio a
+      31 de outubro, cessando de 16 de abril a 14 de maio devido à migração avícola. Em Cala Maestra segue as
+      orientações dos Carabinieri Forestali. Reserva previamente no sítio oficial do parque.
+
+
+      No resto do arquipélago recolhe o lixo, não colhas plantas nem minerais, não acendas fogueiras e não
+      acampes.
+    around: >-
+      Pelos seus ecossistemas insulares, o arquipélago assemelha-se a outras reservas mediterrânicas. O
+      [Parque Natural das Ilhas Lastovo](/lugar/park-prirode-lastovsko-otocje/) partilha a gaivota-de-audouin
+      e a pardela, enquanto o [Parque Nacional de Port-Cros](/lugar/parc-national-de-port-cros/) salvaguarda
+      pardelas e pradarias de posidónia. [La Mola (Formentera)](/lugar/la-mola-formentera/) acolhe
+      gaivotas-de-audouin e posidónia, e as [Ilhas Selvagens](/lugar/islas-selvajes/) albergam
+      roazes-corvineiros e pardelas-de-bico-amarelo.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Arcipelago_Toscano_National_Park
+    titulo: Arcipelago Toscano National Park - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://it.wikipedia.org/wiki/Parco_nazionale_dell%27Arcipelago_Toscano
+    titulo: Parco nazionale dell'Arcipelago Toscano - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcoarcipelago.info/wp-content/uploads/2021/02/vivere_021_completo_pagineseparate.pdf
+    titulo: www.parcoarcipelago.info
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-montecristo/
+    titulo: Isola di Montecristo - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-montecristo/le-regole-di-fruizione/
+    titulo: Le regole di fruizione - Isola di Montecristo - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-montecristo/cosa-si-puo-fare/
+    titulo: Cosa si può fare - Isola di Montecristo - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-montecristo/come-arrivare/
+    titulo: Come arrivare - Isola di Montecristo - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/centri-visita-e-siti-storico-archeologici/
+    titulo: Centri visita e siti storico-archeologici - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-pianosa/
+    titulo: Isola di Pianosa - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-capraia/
+    titulo: Isola di Capraia - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-di-gorgona/
+    titulo: Isola di Gorgona - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/isola-d-elba/
+    titulo: Isola d'Elba - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/rete-sentieristica/
+    titulo: Rete sentieristica - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/la-natura-del-parco/
+    titulo: La natura del Parco - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+  - url: https://www.islepark.it/santuario-dei-mammiferi-marini-pelagos/
+    titulo: Santuario dei Mammiferi Marini Pelagos - Parco Nazionale Arcipelago Toscano
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Isola_di_Montecristo_03.jpg
+    autor: Sansa55
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

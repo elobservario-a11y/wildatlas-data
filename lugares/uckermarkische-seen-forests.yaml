@@ -1,0 +1,642 @@
+id: uckermarkische-seen-forests
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosques del Parque Natural Lagos de Uckermark
+  en: Uckermark Lakes Nature Park Forests
+  fr: Forêts du parc naturel des lacs d’Uckermark
+  de: Wälder des Naturparks Uckermärkische Seen
+  it: Foreste del Parco Naturale dei Laghi dell’Uckermark
+  pt: Florestas do Parque Natural dos Lagos de Uckermark
+nombre_original: Uckermärkische Seen Forests
+alias:
+  - Uckermärkische Seen Forests
+paises:
+  - DE
+region:
+  es: Brandeburgo (Templin / Lychen)
+  en: Brandenburg (Templin / Lychen)
+  fr: Brandebourg (Templin / Lychen)
+  de: Brandenburg (Templin / Lychen)
+  it: Brandeburgo (Templin / Lychen)
+  pt: Brandeburgo (Templin / Lychen)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/18063752
+  nombre_en_la_fuente: Uckermärkische Seen
+  capa: capas/osm/uckermarkische-seen-forests.geojson
+habitats:
+  - mature_forest
+  - lake
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - pandion_haliaetus
+  - castor_fiber
+  - lutra_lutra
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en lagos de baño; baja en bosques del norte
+  en: Moderate around bathing lakes; low across northern woodlands
+  fr: Moyenne autour des lacs de baignade ; faible dans les forêts septentrionales
+  de: Mäßig an Badeseen; gering in den nördlichen Waldgebieten
+  it: Media nei laghi balneabili; bassa nei boschi settentrionali
+  pt: Média junto aos lagos balneares; baixa nas matas do norte
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Naturpark Uckermärkische Seen
+    url: https://www.uckermaerkische-seen-naturpark.de/
+  - titulo: Accesos — Llegar al parque
+    url: https://www.uckermaerkische-seen-naturpark.de/der-naturpark/anreise/
+  - titulo: Rutas — Senderos del parque
+    url: https://www.uckermaerkische-seen-naturpark.de/erleben-lernen/aktiv-in-der-natur/wandern/
+  - titulo: Rutas y normas — Recorridos por el agua
+    url: https://www.uckermaerkische-seen-naturpark.de/erleben-lernen/aktiv-in-der-natur/wasserwandern/
+  - titulo: Mapa — Lagos de Uckermark
+    url: https://www.uckermaerkische-seen-naturpark.de/karte/
+resumen:
+  es: Más de 200 lagos glaciares inmersos en pinares y hayedos del norte de Brandeburgo.
+  en: More than 200 glacial lakes nestled amidst the pine and beech woodlands of northern Brandenburg.
+  fr: Plus de 200 lacs glaciaires nichés au cœur des pinèdes et des hêtraies du nord du Brandebourg.
+  de: Mehr als 200 eiszeitliche Seen eingebettet in Kiefern- und Buchenwälder der nördlichen Mark Brandenburg.
+  it: Oltre 200 laghi glaciali immersi nelle pinete e nelle faggete del nord del Brandeburgo.
+  pt: Mais de 200 lagos glaciares aninhados em pinhais e faiais no norte de Brandeburgo.
+unico:
+  es: >-
+    Aquí el águila pescadora es el animal emblema de un paisaje de 230 lagos, y es la mayor densidad de la
+    especie en Europa central.
+  en: >-
+    The osprey serves as the flagship emblem for a network of 230 lakes, harboring Central Europe’s densest
+    breeding population.
+  fr: >-
+    Le balbuzard pêcheur est l’emblème d’un réseau de 230 lacs abritant la plus forte densité de l’espèce en
+    Europe centrale.
+  de: >-
+    Hier ist der Fischadler das Wappentier einer Landschaft mit 230 Seen, die die größte Brutdichte
+    Mitteleuropas aufweist.
+  it: >-
+    Il falco pescatore è l’emblema di un paesaggio di 230 laghi, che accoglie la maggiore densità riproduttiva
+    dell’Europa centrale.
+  pt: >-
+    A águia-pesqueira é o emblema de uma paisagem de 230 lagos, albergando a maior densidade reprodutora da
+    Europa Central.
+observaciones:
+  es: >-
+    Las rutas acuáticas cruzan en su mayor parte áreas protegidas, y no todas las actividades están permitidas
+    en todas partes.
+texto:
+  es:
+    intro: >-
+      Un águila pescadora cierne en silencio sobre el agua. De pronto se detiene, bate las alas en el sitio, y
+      se deja caer en picado con las garras por delante. Segundos después vuelve a subir con un pez. Así se
+      vive el Parque Natural de los Lagos de Uckermark, en Brandeburgo, porque en ningún otro lugar de Europa
+      central viven las águilas pescadoras tan juntas como aquí: 30 parejas de cría, una densidad poco común,
+      y 230 lagos que las alimentan. El parque cubre 897 km² y se creó el 3 de mayo de 1997.
+    landscape: >-
+      El hielo de la última glaciación, hace unos 15.000 años, dejó un relieve movido, con lagos, arroyos y
+      turberas. El paisaje se reparte por sectores. En el oeste y el sur dominan grandes pinares sobre
+      llanuras de arena; en el norte y el este crecen hayedos sobre las morrenas, y delante hay tierras de
+      cultivo. Con los siglos se formó un mosaico de bosques y prados, brezales secos y turberas húmedas.
+
+
+      Los lagos tienen su propia historia. El hielo muerto quedó bajo la arena al final de la glaciación y, al
+      fundirse, los surcos se llenaron de agua: así nació la cruz de lagos de Lychen. Más de cincuenta de los
+      230 lagos tienen una visibilidad superior a 2,50 metros en verano, y hay lagos de aguas claras con más
+      de ocho metros de visibilidad donde crecen algas carófitas, plantas del género Potamogeton y la Kleine
+      Maräne. El más profundo, el Röddelinsee, tiene 39 metros.
+
+
+      El hombre ha dejado su marca. En el Boitzenburger Tiergarten los campesinos llevaban el ganado al
+      bosque, y ese pastoreo durante siglos dejó robles solitarios de copas imponentes: el parque tiene el
+      mayor bosque de pasto conservado de Alemania. Cerca de Zehdenick, el descubrimiento de enormes
+      yacimientos de arcilla convirtió la región, a comienzos del siglo XX, en el mayor centro ladrillero de
+      Europa. Hoy las más de 60 canteras de arcilla abandonadas, vacías y reverdecidas, llenas de agua, han
+      recuperado nutrias, castores, la Rotbauchunke y el avetoro.
+    wildlife: >-
+      El águila pescadora es la protagonista, y la mejor forma de verla es sobre el agua. Quien reme con
+      atención podrá ver el [águila pescadora](/especie/pandion_haliaetus/) y quizá incluso el [pigargo
+      europeo](/especie/haliaeetus_albicilla/). Con algo de suerte se ve pasar un destello azul brillante: el
+      martín pescador, al que se suele comparar con una piedra preciosa en vuelo.
+
+
+      Entre las especies amenazadas que viven en el parque figuran la grulla, el pigargo y el águila
+      pescadora, la [nutria](/especie/lutra_lutra/), el avetoro, el cangrejo de río europeo, el galápago
+      europeo, la rana de turbera y la Rotbauchunke. El [avetoro](/especie/botaurus_stellaris/) se oculta en
+      los extensos carrizales; en algunos arroyos viven lampreas de arroyo y especies exigentes de mejillones.
+      [Nutrias](/especie/lutra_lutra/) y [castores](/especie/castor_fiber/) habitan casi toda la extensión del
+      parque. En la Zerweliner Heide se sigue viendo sobre todo el gamo. Y en el parque se han registrado 54
+      especies de libélulas y más de 600 de mariposas nocturnas.
+
+
+      Las plantas no se quedan atrás: más de 1.200 especies, algunas muy amenazadas, entre ellas 15 de
+      orquídeas, además de rocío de sol, Sumpfporst, algodón de pantano y Glanzkraut.
+    visit: >-
+      El parque se puede recorrer a pie, en bicicleta y en canoa. Para el agua, hay más de 150 km de rutas
+      acuáticas; la mayoría de las masas de agua son accesibles en canoa y las rutas se pueden hacer con canoa
+      propia, alquilada o con un guía. Siguen antiguos caminos de balsas y de pescadores, hoy en su mayor
+      parte dentro de áreas protegidas.
+
+
+      Si prefieres caminar, hay más de 600 km de senderos señalizados. En Fürstenberg/Havel una caminata parte
+      de la estación y sigue la orilla del Röblinsee y luego el río Havel. En el Boitzenburger Tiergarten, un
+      recorrido circular parte del puente sobre el vertedero del estanque del molino y entra entre los robles.
+      En bicicleta, una vuelta de 16 kilómetros por Fürstenwerder parte del Findlingsgarten, que muestra con
+      claridad cómo se formó el paisaje de morrenas, y sigue sobre todo la ruta «Spur der Steine». Y en
+      Annenwalde, el valle del Ragöser Bach lleva a un dique de castor por una ruta de unos ocho kilómetros
+      señalizada con un punto amarillo.
+
+
+      El centro de visitantes del parque está en el Berliner Tor, en Templin, donde también se puede recorrer
+      a pie todo el casco antiguo siguiendo la muralla medieval.
+    history: >-
+      Annenwalde nació en la primavera de 1754, cuando un vidriero llegado de Mecklenburg empezó a construir
+      una vidriería en el lugar yermo de la antigua aldea de Densow. La reserva Kleine Schorfheide ocupa 7.360
+      hectáreas y abarca parte del alto Havel; sus hábitats van desde el Havel y otras aguas hasta turberas,
+      bosques, brezales secos y arenas de dunas con poca vegetación.
+    before: >-
+      Las rutas acuáticas cruzan en su mayor parte áreas protegidas, y no todas las actividades están
+      permitidas en todas partes.
+    around: >-
+      El parque está rodeado de bosques del atlas. Los [Bosques del Parque Nacional
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) están a unos 2 km. La [Reserva Natural de Heilige
+      Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) queda a unos 6 km, y el [Paisaje Forestal
+      de Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/) a unos 9 km. El [Parque Nacional
+      Müritz - Hayedo Antiguo de Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/) está a unos
+      diez kilómetros, y el [Hayedo Primario de Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) a
+      unos dieciocho.
+
+
+      Más lejos, comparten con estos lagos el avetoro y la nutria el [Parque Nacional
+      Weerribben-Wieden](/lugar/nationaal-park-weerribben-wieden/) y el [Parque Nacional de Hortobágy - La
+      Puszta Húngara](/lugar/hortobagyi-nemzeti-park---puszta/). Con el [Parque Nacional de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/) lo une el águila pescadora, y también el bosque y el
+      lago.
+  en:
+    intro: >-
+      An osprey circles in silence above open water. Suddenly it halts, hovers on rapid wingbeats, and plunges
+      headlong talons-first into the surface. Seconds later it lifts clear gripping a gleaming fish. This
+      spectacle defines the Uckermark Lakes Nature Park in Brandenburg, where ospreys thrive in greater
+      numbers than anywhere else in Central Europe: 30 breeding pairs, an extraordinary density sustained by
+      230 lakes. The park spans 897 km² and was officially inaugurated on 3 May 1997.
+    landscape: >-
+      The retreat of the last continental ice sheet roughly 15,000 years ago sculpted a rippling terrain of
+      lakes, winding brooks, and kettle bogs. The scenery divides into distinct ecological zones. Broad Scots
+      pine forests carpet sandy outwash plains across the west and south, while beech woodlands crown the
+      rolling ground moraines in the north and east, fronted by open farmland. Centuries of low-intensity
+      husbandry created a vibrant mosaic of woods, pastures, dry heaths, and mire hollows.
+
+
+      The lakes hold their own origin story. Buried dead-ice masses melted out following deglaciation, leaving
+      steep water-filled hollows that formed the striking Lychen lake cross. More than fifty of the 230 lakes
+      display water clarity exceeding 2.50 metres in summer, with several transparent marl lakes offering over
+      eight metres of underwater visibility, supporting charophyte stoneworts, Potamogeton beds, and the rare
+      cisco (Kleine Maräne). The deepest basin, Röddelinsee, plunges to 39 metres.
+
+
+      Human history has left indelible marks. In Boitzenburger Tiergarten, medieval farmers drove cattle into
+      the woods for pannage; centuries of woodland grazing shaped monumental solitary oaks with sprawling
+      crowns, preserving Germany’s largest surviving wood-pasture. Near Zehdenick, the discovery of massive
+      clay seams transformed the district into Europe’s premier brickmaking hub by the early XX century.
+      Today, more than 60 flooded and renatured clay pits have evolved into quiet sanctuaries recolonized by
+      otters, beavers, the European fire-bellied toad, and the bittern.
+    wildlife: >-
+      The osprey takes center stage, best observed from a quiet canoe. Paddling attentively brings rewarding
+      sightings of the [osprey](/especie/pandion_haliaetus/) and perhaps even the mighty [white-tailed
+      eagle](/especie/haliaeetus_albicilla/). With luck, a brilliant turquoise streak darts past: the common
+      kingfisher, gleaming like a flying gemstone.
+
+
+      Rare and threatened fauna inhabiting the reserve include common cranes, sea eagles, ospreys, the
+      [Eurasian otter](/especie/lutra_lutra/), the Eurasian bittern, the noble crayfish, the European pond
+      turtle, moor frogs, and the fire-bellied toad. The [Eurasian bittern](/especie/botaurus_stellaris/)
+      keeps hidden within expansive reedbeds; pristine feeder streams harbor brook lampreys and sensitive
+      freshwater mussels. [Eurasian otters](/especie/lutra_lutra/) and [Eurasian
+      beavers](/especie/castor_fiber/) occupy nearly every waterway across the park. In the Zerweliner Heide,
+      fallow deer roam freely. Entomologists have catalogued 54 dragonfly species and over 600 species of
+      nocturnal moths.
+
+
+      Botanical diversity is equally rich, numbering over 1,200 vascular plant species, including 15 native
+      orchids, carnivorous sundews, wild rosemary, cotton grass, and fen orchid (Glanzkraut).
+    visit: >-
+      The park is ideally discovered on foot, by bicycle, or by canoe. On the water, more than 150 km of
+      interconnected paddle trails traverse quiet waterways, accessible via personal canoe, local rental, or
+      guided outings. These follow historic timber-rafting and fishing routes through secluded reserves.
+
+
+      For walkers, the territory features over 600 km of waymarked footpaths. In Fürstenberg/Havel, a pleasant
+      hike sets out from the railway station along the shores of Röblinsee before tracking the Havel. In
+      Boitzenburger Tiergarten, a circular walk departs from the millpond weir bridge and winds through
+      ancient pasture oaks. Cyclists can undertake a 16-kilometre circuit from Fürstenwerder departing the
+      Findlingsgarten boulder park, exploring glacial moraines mainly along the “Spur der Steine” cycleway. At
+      Annenwalde, the Ragöser Bach valley leads toward an active beaver dam along an eight-kilometre route
+      marked by yellow dots.
+
+
+      The park visitor centre occupies the historic Berliner Tor in Templin, where travelers can also complete
+      a walking circuit along the intact medieval town ramparts.
+    history: >-
+      Annenwalde originated in the spring of 1754, when a master glassblower from Mecklenburg established a
+      glassworks amidst the abandoned fields of historic Densow. The Kleine Schorfheide nature reserve covers
+      7,360 hectares across the upper Havel basin, safeguarding riverine meadows, peatlands, pine woods, dry
+      sandy heaths, and shifting dunes.
+    before: >-
+      Water routes mostly traverse strictly protected nature reserves where specific boating and camping
+      restrictions apply.
+    around: >-
+      The park is encircled by adjacent woodlands documented in the atlas. The [Müritz National Park
+      Forests](/lugar/nationalpark-muritz-waldgebiete/) lie roughly 2 km away. The [Heilige Hallen Nature
+      Reserve](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) sits about 6 km distant, and the
+      [Schorfheide-Chorin Forest Landscape](/lugar/schorfheide-chorin-forest-landscape/) roughly 9 km away.
+      [Müritz National Park - Serrahn Ancient Beech
+      Forest](/lugar/nationalpark-muritz---serrahner-buchenurald/) lies about ten kilometres away, and the
+      [Grumsin Ancient Beech Forest](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) about eighteen
+      kilometres.
+
+
+      Further afield, [Weerribben-Wieden National Park](/lugar/nationaal-park-weerribben-wieden/) and
+      [Hortobágy National Park - The Puszta](/lugar/hortobagyi-nemzeti-park---puszta/) share thriving
+      populations of bitterns and otters across extensive wetlands. [Femundsmarka National
+      Park](/lugar/femundsmarka-nasjonalpark/) also hosts ospreys amidst pristine lakes and pine forests.
+  fr:
+    intro: >-
+      Un balbuzard pêcheur plane en silence au-dessus de l’onde. Brusquement, il s’arrête, bat des ailes sur
+      place, puis plonge en piqué, serres en avant. Quelques secondes plus tard, il s’élève avec un poisson
+      frémissant. C’est ainsi que s’exprime le parc naturel des lacs d’Uckermark, en Brandebourg : nulle part
+      ailleurs en Europe centrale les balbuzards ne nichent avec une telle proximité, comptant 30 couples
+      reproducteurs sur un réseau de 230 lacs qui subviennent à leurs besoins. Le parc s’étend sur 897 km² et
+      a été officiellement créé le 3 mai 1997.
+    landscape: >-
+      Le retrait des glaces il y a environ 15 000 ans a modelé un relief accidenté de lacs, de ruisseaux et de
+      tourbières. Le paysage se structure par secteurs : de vastes pinèdes occupent les plaines sableuses à
+      l’ouest et au sud, tandis que des hêtraies couronnent les moraines au nord et à l’est, devancées par des
+      terres agricoles. Au fil des siècles s’est constitué un harmonieux patchwork de forêts, prairies, landes
+      sèches et bas-marais tourbeux.
+
+
+      Chaque plan d’eau a sa genèse. Des blocs de glace morte enfouis sous le sable ont fondu lors du
+      réchauffement postglaciaire, laissant des dépressions devenues la croix des lacs de Lychen. Plus de
+      cinquante des 230 lacs affichent une clarté estivale supérieure à 2,50 mètres, et certains bassins
+      oligotrophes offrent plus de huit mètres de visibilité, accueillant des tapis de characées, des potamots
+      et la petite corégone. Le plus profond, le Röddelinsee, atteint 39 mètres.
+
+
+      L’histoire humaine y a imprimé sa marque. Dans le Boitzenburger Tiergarten, les paysans menaient jadis
+      leurs troupeaux en forêt ; ce pâturage séculaire a façonné de monumentaux chênes isolés aux houppiers
+      étalés, formant la plus vaste forêt pastorale conservée d’Allemagne. Près de Zehdenick, la découverte
+      d’immenses gisements d’argile transforma le pays au début du XXe siècle en premier centre de briqueterie
+      d’Europe. Aujourd’hui, les plus de 60 anciennes carrières inondées et renaturées ont été réoccupées par
+      la loutre, le castor, le sonneur à ventre de feu et le butor étoilé.
+    wildlife: >-
+      Le balbuzard règne en maître et s’observe au mieux au fil de l’eau. Quiconque pagaie silencieusement
+      aura l’opportunité de contempler le [balbuzard pêcheur](/especie/pandion_haliaetus/) et parfois le
+      [pygargue à queue blanche](/especie/haliaeetus_albicilla/). Avec un peu de chance surgit un éclair bleu
+      turquoise : le martin-pêcheur d’Europe, fendant l’air comme un joyau ailé.
+
+
+      Parmi les espèces vulnérables du parc figurent la grue cendrée, le pygargue, la [loutre
+      d’Europe](/especie/lutra_lutra/), le butor étoilé, l’écrevisse à pattes rouges, la cistude d’Europe, la
+      grenouille des champs et le sonneur à ventre de feu. Le [butor étoilé](/especie/botaurus_stellaris/) se
+      tapit dans les roselières denses ; de petits cours d’eau abritent la lamproie de Planer et des moules
+      d’eau douce exigeantes. [Loutres](/especie/lutra_lutra/) et [castors d’Europe](/especie/castor_fiber/)
+      colonisent la quasi-totalité des zones humides. Dans la Zerweliner Heide, le daim s’observe
+      régulièrement. Le parc recense en outre 54 espèces de libellules et plus de 600 papillons nocturnes.
+
+
+      La flore compte plus de 1 200 espèces végétales, dont 15 orchidées indigènes, des droséras carnivores,
+      le lédon des marais, les linaigrettes et le liparis de Loesel.
+    visit: >-
+      Le parc se découvre à pied, à vélo et en canoë. Côté nautique, plus de 150 km de voies navigables
+      sillonnent les lacs et rivières, accessibles en canoë personnel, de location ou avec accompagnateur.
+      Elles empruntent d’anciens chenaux de flottage du bois et de pêche au cœur des réserves.
+
+
+      À pied, le réseau compte plus de 600 km de sentiers balisés. À Fürstenberg/Havel, une belle randonnée
+      quitte la gare pour longer le Röblinsee puis le cours de la Havel. Dans le Boitzenburger Tiergarten, une
+      boucle part du pont déversoir de l’étang du moulin pour cheminer sous les chênes centenaires. À vélo, un
+      circuit de 16 kilomètres au départ de Fürstenwerder visite le Findlingsgarten, illustrant la formation
+      des moraines, en suivant la piste « Spur der Steine ». À Annenwalde, la vallée du Ragöser Bach mène à un
+      barrage de castors par une boucle d’environ huit kilomètres balisée d’un point jaune.
+
+
+      La maison du parc se trouve à la porte de Berlin (Berliner Tor), à Templin, où vous pourrez également
+      effectuer le tour complet des remparts médiévaux.
+    history: >-
+      Annenwalde vit le jour au printemps 1754, lorsqu’un maître verrier venu du Mecklembourg érigea une
+      verrerie sur les terres abandonnées du village de Densow. La réserve de la Kleine Schorfheide couvre 7
+      360 hectares le long de la haute Havel, protégeant des ripisylves, tourbières, pinèdes, landes sableuses
+      et dunes continentales.
+    before: >-
+      Les voies d’eau traversent principalement des espaces protégés où s’appliquent des règles strictes de
+      navigation et de bivouac.
+    around: >-
+      Le parc est ceinturé de massifs forestiers répertoriés dans l’atlas. Les [forêts du parc national de
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) se trouvent à environ 2 km. La [réserve naturelle de
+      Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) se situe à 6 km, et le [paysage
+      forestier de Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/) à 9 km. Le [parc national
+      de Müritz - hêtraie ancienne de Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/) se dresse
+      à une dizaine de kilomètres, et la [hêtraie primaire de
+      Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) à une dix-huitaine de kilomètres.
+
+
+      Plus loin, le [parc national Weerribben-Wieden](/lugar/nationaal-park-weerribben-wieden/) et le [parc
+      national de Hortobágy - la Puszta](/lugar/hortobagyi-nemzeti-park---puszta/) partagent la présence du
+      butor étoilé et de la loutre dans de vastes zones marécageuses. Le [parc national de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/) accueille également le balbuzard pêcheur dans ses
+      forêts claires et ses lacs boréaux.
+  de:
+    intro: >-
+      Lautlos kreist ein Fischadler über der Wasserfläche. Plötzlich hält er inne, rüttelt mit schnellen
+      Flügelschlägen auf der Stelle und stößt im Sturzflug mit vorgestreckten Fängen hinab. Sekunden später
+      steigt er mit silbern blitzender Beute empor. Nirgendwo in Mitteleuropa leben Fischadler so dicht
+      beieinander wie im Naturpark Uckermärkische Seen in Brandenburg: 30 Brutpaare finden in den 230 Seen
+      reichlich Nahrung. Der Naturpark umfasst 897 km² und wurde am 3. Mai 1997 feierlich gestiftet.
+    landscape: >-
+      Das Inlandeis der letzten Weichsel-Kaltzeit hinterließ vor rund 15.000 Jahren ein bewegtes Relief aus
+      Seenrinnen, Bächen und Mooren. Der Naturpark gliedert sich in charakteristische Naturräume. Im Westen
+      und Süden erstrecken sich weite Kiefernforste auf sandigen Sanderflächen; im Norden und Osten wachsen
+      Buchenwälder auf den Endmoränenzügen, vorgelagert liegen Äcker. Über Jahrhunderte entstand ein Mosaik
+      aus Forsten, Feuchtwiesen, Sandheiden und Kesselmooren.
+
+
+      Die Gewässer haben eine faszinierende Entstehungsgeschichte. Verschüttete Toteisblöcke schmolzen am Ende
+      der Eiszeit ab und hinterließen tiefe Einbrüche im Sand: So formte sich das Lychener Seenkreuz. Mehr als
+      fünfzig der 230 Seen weisen im Sommer Sichttiefen von über 2,50 Metern auf, und in extrem klaren
+      Klarwasserseen mit über acht Metern Sichttiefe wachsen Armleuchteralgen, Laichkräuter und lebt die
+      Kleine Maräne. Der tiefste See, der Röddelinsee, misst 39 Meter.
+
+
+      Auch der Mensch prägte die Wälder. Im Boitzenburger Tiergarten trieben Bauern über Jahrhunderte ihr Vieh
+      zur Hutung in den Wald; diese Waldweide schuf monumentale Solitäreichen mit weit ausladenden Kronen im
+      größten erhaltenen Hutewald Deutschlands. Nahe Zehdenick verwandelte die Entdeckung riesiger
+      Tonvorkommen die Region um die Wende zum XX. Jahrhundert in das größte Ziegeleizentrum Europas. Heute
+      haben sich die mehr als 60 aufgelassenen und renaturierten Tonstiche in wertvolle Wasserbiotope für
+      Fischotter, Biber, Rotbauchunken und Rohrdommeln verwandelt.
+    wildlife: >-
+      Der Fischadler ist der unbestrittene Star des Naturparks, am besten zu beobachten vom Boot aus. Wer
+      aufmerksam paddelt, kann den [Fischadler](/especie/pandion_haliaetus/) und bisweilen sogar den
+      imposanten [Seeadler](/especie/haliaeetus_albicilla/) erspähen. Mit etwas Glück blitzt ein leuchtend
+      blauer Funke vorüber: der Eisvogel, der wie ein fliegender Edelstein über das Wasser jagt.
+
+
+      Zu den bedrohten Tierarten des Gebiets zählen Kranich, Seeadler, Fischadler, [Eurasischer
+      Fischotter](/especie/lutra_lutra/), Rohrdommel, Edelkrebs, Europäische Sumpfschildkröte, Moorfrosch und
+      Rotbauchunke. Die heimliche [Rohrdommel](/especie/botaurus_stellaris/) brütet verborgen in weiten
+      Schilfgürteln; naturnahe Fließgewässer beherbergen Bachneunaugen und seltene Flussmuscheln. [Eurasischer
+      Fischotter](/especie/lutra_lutra/) und [Europäischer Biber](/especie/castor_fiber/) besiedeln fast alle
+      Gewässerzüge. In der Zerweliner Heide zieht Damwild seine Fährten. Insgesamt wurden im Park 54
+      Libellenarten und über 600 Nachtfalterarten nachgewiesen.
+
+
+      Die Pflanzenwelt umfasst über 1.200 Farn- und Blütenpflanzenarten mit 15 heimischen Orchideen,
+      Sonnentau, Sumpfporst, Wollgräsern und dem seltenen Glanzkraut.
+    visit: >-
+      Der Naturpark lässt sich ideal zu Fuß, per Rad oder mit dem Kanu erkunden. Wassersportlern stehen über
+      150 km markierte Wasserwanderwege offen, die mit eigenem oder gemietetem Boot sowie auf geführten Touren
+      befahrbar sind. Sie folgen alten Flößer- und Fischerpfaden durch geschützte Zonen.
+
+
+      Wanderer finden über 600 km markierte Wanderwege. In Fürstenberg/Havel startet eine schöne Route am
+      Bahnhof, folgt dem Ufer des Röblinsees und zieht entlang der Havel weiter. Im Boitzenburger Tiergarten
+      beginnt ein Rundweg an der Mühlenbrücke und schlängelt sich durch den uralten Eichenbestand. Für Radler
+      empfiehlt sich eine 16 Kilometer lange Runde ab Fürstenwerder, die am Findlingsgarten der eiszeitlichen
+      Moränenlandschaft beginnt und dem Radweg „Spur der Steine“ folgt. Bei Annenwalde führt das Ragöser
+      Bachtal auf rund acht Kilometern, markiert mit einem gelben Punkt, zu einer Biberburg.
+
+
+      Das Besucherzentrum des Naturparks befindet sich im historischen Berliner Tor in Templin, wo sich auch
+      ein Rundgang entlang der mittelalterlichen Stadtmauer anschließt.
+    history: >-
+      Annenwalde entstand im Frühjahr 1754, als ein mecklenburgischer Glasmachermeister auf der Wüstung des
+      alten Dorfes Densow eine Glashütte anlegte. Das Naturschutzgebiet Kleine Schorfheide umfasst 7.360
+      Hektar entlang der oberen Havel und schützt Flussauen, Kesselmoore, Kiefernwälder, Sandtrockenrasen und
+      Binnendünen.
+    before: >-
+      Die Wasserwanderwege führen größtenteils durch Naturschutzgebiete, in denen strenge Befahrungs- und
+      Rastregeln gelten.
+    around: >-
+      Der Naturpark grenzt an mehrere Waldgebiete des Atlas. Die
+      [Müritz-Nationalpark-Wälder](/lugar/nationalpark-muritz-waldgebiete/) liegen nur etwa 2 km entfernt. Das
+      [Naturschutzgebiet Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) ist etwa 6 km
+      entfernt, und die [Waldlandschaft Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/) rund
+      9 km. Der [Nationalpark Müritz - Serrahner
+      Buchenurwald](/lugar/nationalpark-muritz---serrahner-buchenurald/) liegt etwa zehn Kilometer entfernt,
+      und der [Buchenwald Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) etwa achtzehn Kilometer.
+
+
+      In größerer Ferne teilen der [Nationalpark Weerribben-Wieden](/lugar/nationaal-park-weerribben-wieden/)
+      und der [Nationalpark Hortobágy - Puszta](/lugar/hortobagyi-nemzeti-park---puszta/) Vorkommen von
+      Rohrdommel und Fischotter in weiten Feuchtgebieten. Den
+      [Femundsmarka-Nationalpark](/lugar/femundsmarka-nasjonalpark/) verbinden Fischadler, Waldseen und
+      boreale Nadelwälder mit diesem Park.
+  it:
+    intro: >-
+      Un falco pescatore volteggia silenzioso sullo specchio d’acqua. A un tratto si arresta, fa lo spirito
+      santo agitando le ali sul posto e scende in picchiata ad artigli spianati. Pochi secondi dopo riemerge
+      stringendo un pesce scintillante. È questa l’essenza del Parco Naturale dei Laghi dell’Uckermark, in
+      Brandeburgo: in nessun altro luogo dell’Europa centrale i falchi pescatori nidificano a così stretto
+      contatto, con 30 coppie stabili sostenute da 230 laghi pescosi. Il parco abbraccia 897 km² ed è stato
+      istituito il 3 maggio 1997.
+    landscape: >-
+      La ritirata dell’ultima glaciazione, circa 15.000 anni fa, ha modellato un territorio ondulato fatto di
+      conche lacustri, torrenti e torbiere. La vegetazione si divide per fasce ambientali: a occidente e a
+      meridione dominano vaste pinete su piane sabbiose; a settentrione e a oriente crescono faggete sui dossi
+      morenici, orlate da campi coltivati. Nei secoli è scaturito un mosaico di boschi, praterie, brughiere
+      aride e torbiere umide.
+
+
+      I bacini lacustri racchiudono una storia singolare. Grandi blocchi di ghiaccio fossile rimasero sepolti
+      sotto la sabbia al termine dell’era glaciale; fondendosi lentamente, colmarono d’acqua profonde voragini
+      dando vita alla croce di laghi di Lychen. Più di cinquanta dei 230 laghi vantano in estate una
+      trasparenza superiore a 2,50 metri, e alcuni bacini oligotrofi superano gli otto metri di visibilità,
+      ospitando praterie di carofite, potamogeti e la rara Kleine Maräne. Il bacino più profondo, il
+      Röddelinsee, tocca i 39 metri.
+
+
+      L’uomo ha impresso impronte indelebili. Nel Boitzenburger Tiergarten i coloni conducevano da sempre il
+      bestiame al pascolo brado nel bosco; questa secolare pratica silvopastorale ha plasmato monumentali
+      querce solitarie dalle chiome espanse, salvaguardando il più esteso bosco da pascolo della Germania.
+      Vicino a Zehdenick, la scoperta di ricchi giacimenti di argilla trasformò l’area, all’inizio del XX
+      secolo, nel principale polo laterizio d’Europa. Oggi le oltre 60 cave d’argilla dismesse, allagate e
+      rinaturate sono divenute preziose oasi ripopolate da lontre, castori, ululoni dal ventre rosso e
+      tarabusi.
+    wildlife: >-
+      Il falco pescatore domina incontrastato, e l’osservazione migliore avviene navigando in canoa. Pagaiando
+      con discrezione si avvista con facilità il [falco pescatore](/especie/pandion_haliaetus/) e talvolta la
+      maestosa [aquila di mare](/especie/haliaeetus_albicilla/). Con un pizzico di fortuna sfreccia una
+      scheggia turchese: il martin pescatore, simile a una gemma alata.
+
+
+      Tra le specie a rischio censite nel parco compaiono gru cenerine, aquile di mare, falchi pescatori, la
+      [lontra europea](/especie/lutra_lutra/), il tarabuso, il gambero di fiume europeo, la testuggine
+      palustre europea, la rana di torbiera e l’ululone dal ventre rosso. Il
+      [tarabuso](/especie/botaurus_stellaris/) si cela tra i fitti canneti; i corsi d’acqua limpidi ospitano
+      la lampreda di ruscello e molluschi bivalvi esigenti. [Lontra europea](/especie/lutra_lutra/) e [castoro
+      europeo](/especie/castor_fiber/) popolano pressoché l’intera rete idrografica. Nella Zerweliner Heide
+      pascolano daini allo stato selvatico. Si contano inoltre 54 specie di libellule e oltre 600 specie di
+      falene notturne.
+
+
+      La flora include più di 1.200 specie di piante vascolari, tra cui 15 orchidee spontanee, drosera
+      carnivora, rosmarino selvatico, eriofori e il raro Glanzkraut.
+    visit: >-
+      Il parco si presta a escursioni a piedi, in bicicletta e in canoa. Chi ama l’acqua trova oltre 150 km di
+      itinerari segnalati, percorribili con imbarcazione propria, a noleggio o con guide abilitate, lungo
+      antiche rotte di fluitazione e pesca all’interno delle riserve.
+
+
+      A piedi si contano più di 600 km di sentieri tracciati. A Fürstenberg/Havel un comodo percorso prende
+      avvio dalla stazione costeggiando il lago Röblinsee e il corso del fiume Havel. Nel Boitzenburger
+      Tiergarten un anello escursionistico parte dal ponte della diga del mulino addentrandosi tra le querce
+      secolari. In bicicletta, un anello di 16 chilometri attorno a Fürstenwerder muove dal Findlingsgarten,
+      museo all’aperto sui rilievi morenici, seguendo il percorso «Spur der Steine». Ad Annenwalde, la valle
+      del Ragöser Bach conduce a una diga di castori lungo una traccia di circa otto chilometri segnata da
+      bolli gialli.
+
+
+      La sede del parco è allestita nella storica Berliner Tor a Templin, da cui è possibile compiere l’intero
+      periplo a piedi della cinta muraria medievale.
+    history: >-
+      Annenwalde nacque nella primavera del 1754, quando un mastro vetraio giunto dal Meclemburgo impiantò una
+      fornace sul terreno abbandonato dell’antico villaggio di Densow. La riserva naturale Kleine Schorfheide
+      tutela 7.360 ettari lungo l’alto bacino dell’Havel, comprendendo lanche, torbiere, pinete, lande
+      sabbiose e dune interne.
+    before: >-
+      I canali navigabili attraversano per la maggior parte riserve integrali in cui vigono norme severe su
+      transito e approdo.
+    around: >-
+      Il territorio è circondato da foreste censite nell’atlante. I [Boschi del Parco Nazionale
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) distano circa 2 km. La [Riserva Naturale di Heilige
+      Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) sorge a circa 6 km, e il [Paesaggio
+      Forestale di Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/) a circa 9 km. Il [Parco
+      Nazionale Müritz - Faggeta Vetusta di Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/) si
+      trova a una decina di chilometri, e la [Faggeta Primaria di
+      Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) a circa diciotto chilometri.
+
+
+      Più lontano, il [Parco Nazionale Weerribben-Wieden](/lugar/nationaal-park-weerribben-wieden/) e il
+      [Parco Nazionale di Hortobágy - La Puszta](/lugar/hortobagyi-nemzeti-park---puszta/) accolgono tarabuso
+      e lontra in grandi zone umide. Il [Parco Nazionale di Femundsmarka](/lugar/femundsmarka-nasjonalpark/)
+      condivide falchi pescatori, specchi d’acqua incontaminati e foreste boreali di conifere.
+  pt:
+    intro: >-
+      Uma águia-pesqueira paira em silêncio sobre a água. De repente imobiliza-se, adeja no ar e mergulha em
+      voo picado com as garras estendidas. Segundos depois emerge com um peixe luzidio. Assim pulsa o Parque
+      Natural dos Lagos de Uckermark, no Brandeburgo: em nenhuma outra parte da Europa Central as
+      águias-pesqueiras nidificam tão próximas, somando 30 casais reprodutores sustentados por 230 lagos. O
+      parque cobre 897 km² e foi criado em 3 de maio de 1997.
+    landscape: >-
+      O recuo dos glaciares há cerca de 15.000 anos esculpiu um relevo movimentado de lagos, regatos e
+      turfeiras. A paisagem divide-se em setores ecológicos: a oeste e a sul imperam densos pinhais sobre
+      planícies arenosas; a norte e a leste erguem-se faiais nas moreias, ladeados por campos agrícolas. Com o
+      passar dos séculos compôs-se um mosaico de matas, lameiros, charnecas secas e turfeiras húmidas.
+
+
+      Os lagos guardam uma história geológica própria. Massas de gelo fóssil ficaram soterradas sob as areias
+      no final do degelo; ao derreterem-se, as depressões encheram-se de água dando forma à cruz de lagos de
+      Lychen. Mais de cinquenta dos 230 lagos mantêm visibilidade superior a 2,50 metros no verão, existindo
+      bacias cristalinas com mais de oito metros de transparência onde prosperam carófitas, potamogétons e a
+      rara Kleine Maräne. O mais profundo, o Röddelinsee, alcança 39 metros.
+
+
+      A intervenção humana deixou testemunhos duradouros. No Boitzenburger Tiergarten, os pastores levavam o
+      gado a pastar para o bosque; este pastoreio secular moldou carvalhos monumentais de copas abertas,
+      resguardando a maior floresta de pasto preservada da Alemanha. Perto de Zehdenick, a descoberta de
+      grandes jazidas de argila converteu a comarca, no início do século XX, no maior complexo cerâmico da
+      Europa. Hoje, as mais de 60 barreiras desativadas, cheias de água e renaturalizadas, foram recuperadas
+      por lontras, castores, o bombina-de-barriga-vermelha e o abetouro.
+    wildlife: >-
+      A águia-pesqueira assume o protagonismo, e a melhor forma de a contemplar é a partir da água. Quem remar
+      em silêncio poderá avistar a [águia pescadora](/especie/pandion_haliaetus/) e talvez a imponente
+      [águia-rabalva](/especie/haliaeetus_albicilla/). Com sorte reluz um lampejo azul: o guarda-rios,
+      comparado a uma joia veloz sobre as águas.
+
+
+      Entre as espécies ameaçadas do parque figuram o grou-comum, a águia-rabalva, a águia-pesqueira, a
+      [lontra-europeia](/especie/lutra_lutra/), o abetouro, o lagostim-de-patas-vermelhas, o
+      cágado-de-carapaça-estriada, a rã-dos-campos e o bombina-de-barriga-vermelha. O
+      [abetouro-comum](/especie/botaurus_stellaris/) camufla-se nos extensos caniçais; ribeiros límpidos
+      abrigam lampreias-de-riacho e mexilhões exigentes. [Lontra-europeia](/especie/lutra_lutra/) e
+      [castor-europeu](/especie/castor_fiber/) habitam quase todos os cursos de água. Na Zerweliner Heide
+      avista-se gamo com frequência. O parque contabiliza 54 espécies de libélulas e mais de 600 de borboletas
+      noturnas.
+
+
+      A botânica soma mais de 1.200 espécies de plantas vasculares, incluindo 15 orquídeas autóctones,
+      orvalhinhas insetívoras, falso-chá-de-labrador, linaigretas e a rara orquídea Glanzkraut.
+    visit: >-
+      O parque pode ser percorrido a pé, em bicicleta ou de canoa. Na água existem mais de 150 km de rotas
+      fluviais navegáveis com embarcação própria, alugada ou com guia. Acompanham antigos canais de transporte
+      de madeira e pesca em plena reserva.
+
+
+      A pé, há mais de 600 km de trilhos sinalizados. Em Fürstenberg/Havel, uma caminhada parte da estação
+      ferroviária seguindo a margem do lago Röblinsee e depois o rio Havel. No Boitzenburger Tiergarten, um
+      percurso circular começa na ponte do açude do moinho e embrenha-se pelos carvalhos seculares. De
+      bicicleta, um circuito de 16 quilómetros em Fürstenwerder parte do Findlingsgarten, que expõe a gênese
+      do relevo morenaico, e acompanha a rota «Spur der Steine». Em Annenwalde, o vale do Ragöser Bach conduz
+      a um dique de castores num itinerário de cerca de oito quilómetros assinalado com pontos amarelos.
+
+
+      O centro de interpretação do parque situa-se no Berliner Tor, em Templin, onde é possível percorrer a pé
+      a cintura amuralhada medieval.
+    history: >-
+      Annenwalde nasceu na primavera de 1754, quando um mestre vidreiro chegado de Meclemburgo fundou uma
+      oficina nas terras ermas da antiga aldeia de Densow. A reserva da Kleine Schorfheide ocupa 7.360
+      hectares ao longo do alto Havel, englobando cursos de água, turfeiras, pinhais, charnecas arenosas e
+      dunas interiores.
+    before: >-
+      Os percursos fluviais atravessam essencialmente áreas protegidas onde se aplicam regras estritas de
+      navegação e acampamento.
+    around: >-
+      O parque encontra-se rodeado por maciços florestais do atlas. As [Florestas do Parque Nacional
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) ficam a cerca de 2 km. A [Reserva Natural de Heilige
+      Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) dista cerca de 6 km, e a [Paisagem
+      Florestal de Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/) cerca de 9 km. O [Parque
+      Nacional Müritz - Faial Antigo de Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/) situa-se
+      a cerca de dez quilómetros, e o [Faial Primário de
+      Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) a cerca de dezoito quilómetros.
+
+
+      Mais distante, o [Parque Nacional Weerribben-Wieden](/lugar/nationaal-park-weerribben-wieden/) e o
+      [Parque Nacional de Hortobágy - A Puszta Húngara](/lugar/hortobagyi-nemzeti-park---puszta/) partilham a
+      presença do abetouro e da lontra em vastos pauis. O [Parque Nacional de
+      Femundsmarka](/lugar/femundsmarka-nasjonalpark/) acolhe também a águia-pesqueira por entre florestas e
+      lagos boreais.
+fuentes:
+  - url: https://www.uckermaerkische-seen-naturpark.de/erleben-lernen/unterwegs-im-naturpark/
+    titulo: Unterwegs im Naturpark — Naturpark Uckermärkische Seen
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/Naturpark_Uckermärkische_Seen
+    titulo: Naturpark Uckermärkische Seen – Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Blick_auf_den_Krienkowsee.jpg
+    autor: Axetes
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

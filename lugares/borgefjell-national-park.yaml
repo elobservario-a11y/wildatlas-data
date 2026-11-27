@@ -1,0 +1,683 @@
+id: borgefjell-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Børgefjell
+  en: Børgefjell National Park
+  fr: Parc national de Børgefjell
+  de: Børgefjell-Nationalpark
+  it: Parco Nazionale di Børgefjell
+  pt: Parque Nacional de Børgefjell
+nombre_original: Børgefjell National Park
+alias:
+  - Børgefjell National Park
+paises:
+  - 'NO'
+region:
+  es: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+  en: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+  fr: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+  de: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+  it: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+  pt: Trøndelag / Nordland (Hattfjelldal / Røyrvik)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 65.17
+  lon: 13.9
+  radio_km: 35
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 823
+  nombre_en_la_fuente: Børgefjell/Byrkije
+  categoria_uicn: II
+  capa: capas/cdda/borgefjell-national-park.geojson
+habitats:
+  - high_mountain
+  - wetland
+  - mature_forest
+  - lake
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - vulpes_lagopus
+  - gulo_gulo
+  - salmo_trutta
+temporada_ideal:
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: julio a septiembre
+  en: July to September
+  fr: juillet à septembre
+  de: Juli bis September
+  it: da luglio a settembre
+  pt: julho a setembro
+masificacion: 0
+masificacion_nota:
+  es: Cero infraestructuras humanas ni senderos marcados; salvajismo total
+  en: Zero human infrastructure or waymarked paths; absolute wilderness
+  fr: Zéro infrastructure humaine ni sentiers balisés ; sauvagerie intégrale
+  de: Keinerlei menschliche Infrastruktur oder markierte Pfade; absolute Wildnis
+  it: Nessuna infrastruttura né sentieri segnalati; natura totalmente primordiale
+  pt: Sem qualquer infraestrutura humana nem trilhos balizados; ambiente totalmente bravio
+valoracion: 4
+dias_visita:
+  min: 3
+  max: 7
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Børgefjell
+    url: https://www.nasjonalparkstyre.no/Borgefjell/
+  - titulo: Accesos — Puntos de entrada a Børgefjell
+    url: https://borgefjellnasjonalpark.no/innfallsporter/
+  - titulo: Normas — Børgefjell
+    url: https://borgefjellnasjonalpark.no/regler-forvaltning-og-oppsyn/
+  - titulo: Avisos y mapa — Zonas con acceso restringido
+    url: https://borgefjellnasjonalpark.no/omrader-med-ferdselsforbud/
+  - titulo: Accesos — Puentes en Børgefjell
+    url: https://borgefjellnasjonalpark.no/bruer-i-borgefjell/
+  - titulo: Rutas y actividades — Børgefjell
+    url: https://borgefjellnasjonalpark.no/opplevelser/
+resumen:
+  es: >-
+    Uno de los santuarios de naturaleza salvaje sin marcar más puros de Escandinavia, núcleo de cría del zorro
+    ártico (*Vulpes lagopus*).
+  en: >-
+    One of Scandinavia's purest trail-less wilderness sanctuaries, a core breeding haven for the Arctic fox
+    (*Vulpes lagopus*).
+  fr: >-
+    L'un des sanctuaires sauvages sans balisage les plus purs de Scandinavie, haut lieu de reproduction du
+    renard polaire (*Vulpes lagopus*).
+  de: >-
+    Eines der ursprünglichsten weglosen Wildnisschutzgebiete Skandinaviens, Kernbrutgebiet des Eisfuchses
+    (*Vulpes lagopus*).
+  it: >-
+    Uno dei più puri santuari naturali senza sentieri tracciati della Scandinavia, terra d'elezione della
+    volpe artica (*Vulpes lagopus*).
+  pt: >-
+    Um dos mais puros santuários selvagens sem trilhos marcados da Escandinávia, núcleo reprodutor da
+    raposa-do-ártico (*Vulpes lagopus*).
+unico:
+  es: >-
+    Børgefjell es el parque donde Noruega decidió dejar de poner señales para que lo salvaje siguiera
+    siéndolo.
+  en: >-
+    Børgefjell is the park where Norway chose to stop blazing waymarks so that the wild would remain truly
+    wild.
+  fr: >-
+    Børgefjell est le parc où la Norvège a renoncé à poser des balises pour que la nature demeure pleinement
+    sauvage.
+  de: >-
+    Børgefjell ist der Nationalpark, in dem Norwegen bewusst auf Markierungen verzichtete, damit die Wildnis
+    wild bleibt.
+  it: >-
+    Børgefjell è il parco in cui la Norvegia ha scelto di non installare segnavia affinché la natura restasse
+    autenticamente selvaggia.
+  pt: >-
+    Børgefjell é o parque onde a Noruega optou por não colocar marcas de percurso para que o meio natural
+    permanecesse verdadeiramente selvagem.
+observaciones:
+  es: >-
+    Se puede acampar donde se quiera si es a más de 150 m de una casa o cabaña habitada. Los perros deben ir
+    atados del 1 de abril al 20 de agosto, y no olvides que un reno puede ver a un perro como un depredador.
+    Los vehículos a motor están en principio prohibidos, y también los drones y los aeromodelos con motor. El
+    tiempo cambia de golpe en verano y en invierno, con niebla espesa, mucho viento y ventisca; cruzar ríos
+    exige experiencia porque hay pocos puentes. Si buscas una travesía larga, hacen falta buena forma física y
+    experiencia: Børgefjell no es para todos.
+texto:
+  es:
+    intro: >-
+      En Børgefjell los senderos se acaban. Empiezan bien, marcados y pisados, junto a un aparcamiento o un
+      embarcadero, y poco a poco desaparecen hasta que te quedan el mapa, la brújula y tus piernas. Es lo que
+      quiso la asociación noruega de montañismo en 1932, cuando decidió no construir cabañas ni marcar caminos
+      y conservar este rincón del centro de Noruega como naturaleza silvestre. En 1963 el área se convirtió en
+      parque nacional: el segundo del país, entre Nordland y Trøndelag, con la frontera sueca cerrándolo por
+      el este.
+    landscape: >-
+      El parque se divide en tres franjas, y cada una tiene su carácter. Al oeste, una cadena de picos agudos,
+      valles estrechos y ríos rápidos, con el Kvigtind, de 1699 m, como cima más alta. Al este, otro macizo de
+      montañas más redondeadas, con pedreras sin vegetación y líneas suaves. Y entre ambos, una zona más baja
+      llena de lagos. El terreno va de unos 270 m a esos 1699 m.
+
+
+      Bajo los pies hay una historia antigua. Aquí los pliegues caledonianos están erosionados hasta el
+      basamento, que asoma como una «ventana»; la roca son gneises graníticos precámbricos de unos 1700
+      millones de años. En el oeste, sobre un granito oscuro, el paisaje tiene un aire desolado; allí se alzan
+      también el Jetnamsklumpen, de 1513 m, el más alto de Trøndelag.
+
+
+      El agua es el otro protagonista. Los lagos mayores son el Simskardvatnet y el Orrevatnet, y aquí nacen
+      los sistemas fluviales del Jengelvassdraget, el Vefsna y el Namsen, con grandes cursos de agua, cascadas
+      y ríos como rasgos destacados del paisaje. El bosque es sobre todo de abedul, con algo de pino en las
+      turberas; el límite del arbolado está entre 500 y 600 m y por encima hay monte bajo de carrizos y sauces
+      enanos. El punto más bajo del parque es Namskroken, a unos 330 m, y allí queda mucho bosque viejo de
+      abeto.
+    wildlife: >-
+      Børgefjell es frontera entre la fauna ártica y la más meridional, con un límite norte-sur para varias
+      especies de animales y aves. El más famoso es el [zorro ártico](/especie/vulpes_lagopus/), amenazado,
+      que tiene aquí uno de sus mejores biotopos de Noruega. Entre los grandes depredadores el más numeroso es
+      el [glotón](/especie/gulo_gulo/); también hay [lince](/especie/lynx_lynx/) y [oso
+      pardo](/especie/ursus_arctos/), y con suerte se ve alguna [nutria](/especie/lutra_lutra/).
+
+
+      En el cielo, el busardo calzado es la rapaz más común; crían también el [búho
+      nival](/especie/bubo_scandiacus/) y el [águila real](/especie/aquila_chrysaetos/). El parque es un área
+      importante para patos, limícolas y otras aves de humedal, y entre las aves hay lagópodo común y lagópodo
+      alpino. El reno doméstico es común.
+
+
+      El calendario importa. Julio y agosto son los mejores meses para caminar. Y hay un periodo de veda: en
+      la zona A del parque está prohibido caminar del 20 de junio al 25 de julio, y la prohibición al este del
+      Namsvatnet protege a los gansos mientras mudan la pluma.
+    visit: >-
+      Esto no es un parque de refugios: no hay cabañas turísticas, solo algunas abiertas y de alquiler. Para
+      llegar hay que usar los puntos de entrada oficiales, y casi todos tienen un sendero marcado al
+      principio.
+
+
+      La entrada de la Simskardet es la más cómoda para probar. Desde el aparcamiento el sendero sigue el río
+      Simskardelva, llano y fácil, y a los 3,5 km llega a la cabaña abierta Simskardhytta. La Simskardrunden
+      es un anticipo de Børgefjell sin travesía de varios días con mochila grande: ida por un lado del río y
+      vuelta por el otro, atravesando bosque viejo de coníferas rodeado de montañas, con instalaciones de
+      pastoreo de renos. La subida más usada al Kvigtind parte de allí, por el Bisseggdalen y los lagos
+      Måsskardvatna, y sube por la cara norte.
+
+
+      Por el sur se entra por el Namsvatnet: desde el aparcamiento al final de la carretera 7022 se cruza en
+      barco de transporte, que hay que reservar de antemano. Por el norte, la entrada de Øyum, en Susendal,
+      queda a poco más de 200 m del límite del parque y es el camino más corto para entrar. En Røyrvik hay un
+      punto de información del parque y, cerca, el mirador Viewpoint Børgefjell, de 360 grados.
+    history: >-
+      Los sami han criado renos aquí al menos 500 años, y han dejado asentamientos y puestos de caza dentro y
+      alrededor del parque. Las zonas oeste, este y sur sirven sobre todo de pasto de verano; las del norte,
+      de pasto de todo el año. La crianza meridional sami sigue activa y es parte del paisaje.
+
+
+      El parque debe conservar un gran espacio casi sin intervención técnica, asegurar la biodiversidad con
+      sus especies amenazadas y vulnerables y cuidar las formaciones geológicas y los bienes culturales. Se
+      amplió en 1973 y en 2003 hasta los actuales 1447 km². En 1973 el área se protegió, además, frente a la
+      energía hidroeléctrica con el Plan de protección I de ríos.
+    before: >-
+      Se puede acampar donde se quiera si es a más de 150 m de una casa o cabaña habitada. Los perros deben ir
+      atados del 1 de abril al 20 de agosto, y no olvides que un reno puede ver a un perro como un depredador.
+      Los vehículos a motor están en principio prohibidos, y también los drones y los aeromodelos con motor.
+      El tiempo cambia de golpe en verano y en invierno, con niebla espesa, mucho viento y ventisca; cruzar
+      ríos exige experiencia porque hay pocos puentes. Si buscas una travesía larga, hacen falta buena forma
+      física y experiencia: Børgefjell no es para todos.
+    around: >-
+      Børgefjell no tiene vecinos cercanos en el atlas, pero comparte con el [Parque Nacional de
+      Abisko](/lugar/abisko-national-park/), la [Reserva Natural de
+      Vindelfjällen](/lugar/vindelfjallens-naturreservat/) y el [Parque Nacional de
+      Rago](/lugar/rago-national-park/) el zorro ártico y el glotón en montañas con lagos y bosque.
+  en:
+    intro: >-
+      In Børgefjell trails simply fade away. They begin promisingly, well-trodden and clearly marked beside a
+      car park or boat landing, and then gradually dissolve until you are left with only your map, compass,
+      and legs. That was precisely the intent of the Norwegian Trekking Association in 1932, when it decided
+      against building huts or waymarking routes, resolving to preserve this tract of central Norway as
+      pristine wilderness. In 1963 the area became a national park: Norway's second, straddling Nordland and
+      Trøndelag, with the Swedish border sealing it to the east.
+    landscape: >-
+      The park is partitioned into three zones, each distinct in character. To the west rises a jagged chain
+      of sharp peaks, narrow valleys, and churning torrents, crowned by Kvigtind at 1699 m. To the east lies
+      another massif of rounder domes, bare scree, and flowing contours. Between them stretches a lower,
+      lake-strewn plateau. Elevations range from around 270 m up to that 1699 m summit.
+
+
+      Beneath your boots lies an ancient geological past. Here the Caledonian nappes have eroded down to the
+      basement rock, exposed in a geological "window" of Precambrian granitic gneiss dating back some 1700
+      million years. In the west, atop dark granite, the landscape takes on a stark, desolate feel; there
+      stands Jetnamsklumpen at 1513 m, the highest mountain in Trøndelag.
+
+
+      Water dominates the landscape. The largest lakes are Simskardvatnet and Orrevatnet, and here originate
+      the major river networks of the Jengelvassdraget, the Vefsna, and the Namsen, with vast watercourses,
+      rapids, and falls defining the terrain. Woods are mostly mountain birch, with scattered Scots pine
+      across the peatlands; the treeline sits between 500 and 600 m, yielding above to dwarf birch,
+      reed-grasses, and low willows. The park's lowest point is Namskroken, around 330 m, where extensive
+      old-growth spruce stands survive.
+    wildlife: >-
+      Børgefjell marks the transition between Arctic and southern faunas, creating a north-south threshold for
+      several animal and bird species. Most celebrated is the endangered [Arctic
+      fox](/especie/vulpes_lagopus/), which maintains here one of its premier Norwegian breeding biotopes.
+      Among apex predators the most numerous is the [wolverine](/especie/gulo_gulo/); [Eurasian
+      lynx](/especie/lynx_lynx/) and [brown bear](/especie/ursus_arctos/) also roam the valleys, and patient
+      eyes may spot an [Eurasian otter](/especie/lutra_lutra/).
+
+
+      Overhead, the rough-legged buzzard is the most common raptor; the [snowy owl](/especie/bubo_scandiacus/)
+      and [golden eagle](/especie/aquila_chrysaetos/) also nest across the tundra. The park provides vital
+      staging grounds for diving ducks, waders, and other wetland fowl, alongside willow ptarmigan and rock
+      ptarmigan. Semi-domestic reindeer graze extensively.
+
+
+      Timing matters. July and August offer the best backpacking weather. There is also a seasonal closure: in
+      Zone A hiking is prohibited from 20 June to 25 July, and restrictions east of Namsvatnet protect wild
+      geese during their annual moult.
+    visit: >-
+      This is no park for hut-hopping: there are no serviced trekking lodges, only a handful of basic open
+      shelters and cabins for hire. Entry requires using official trailheads, almost all of which provide a
+      beaten path at the start.
+
+
+      The Simskardet entry point is the gentlest way to sample the terrain. From the car park, the trail
+      traces the Simskardelva river, flat and straightforward, reaching the open Simskardhytta shelter after
+      3.5 km. The Simskardrunden offers a taste of Børgefjell without a multi-day heavy-pack trek: out along
+      one bank and back along the other, through old-growth conifers framed by craggy fells and traditional
+      Sámi reindeer corrals. The standard ascent of Kvigtind also begins here, winding through Bisseggdalen
+      and the Måsskardvatna lakes to attack the northern face.
+
+
+      From the south, access is via Lake Namsvatnet: from the car park at the end of road 7022, a scheduled
+      boat crossing must be booked in advance. To the north, the Øyum trailhead in Susendal lies barely 200 m
+      from the park boundary and offers the shortest route inside. In Røyrvik, a park visitor centre operates
+      nearby, alongside the 360-degree Viewpoint Børgefjell lookout.
+    history: >-
+      The Sámi people have herded reindeer across these fells for at least 500 years, leaving historic
+      encampments and pitfall hunting complexes throughout the park. The western, eastern, and southern
+      sectors serve primarily as summer grazing, while northern ranges provide year-round pasture. South Sámi
+      pastoralism remains fully active and forms an essential cultural dimension of the landscape.
+
+
+      The park was established to preserve a vast tract largely free of technical installations, protect
+      biodiversity and vulnerable species, and safeguard geological features and cultural relics. It was
+      enlarged in 1973 and 2003 to reach its present 1447 km². In 1973 the watercourses gained additional
+      statutory protection against hydroelectric development under Protection Plan I for Watercourses.
+    before: >-
+      Wild camping is permitted anywhere provided you pitch at least 150 m from any inhabited house or hut.
+      Dogs must remain on leash from 1 April to 20 August, remembering that free-running dogs can cause fatal
+      stress to reindeer. Motorised transport is prohibited throughout, as are drones and model aircraft.
+      Mountain weather changes without warning in summer and winter alike, bringing dense fog, gale-force
+      winds, and whiteouts; ford crossings require skill because footbridges are virtually non-existent. A
+      deep wilderness crossing demands high stamina and wilderness navigation skills: Børgefjell is not for
+      everyone.
+    around: >-
+      Børgefjell has no immediate neighbours in the atlas, but shares Arctic fox, wolverine, tundra lakes, and
+      northern boreal forest with [Abisko National Park](/lugar/abisko-national-park/), the [Vindelfjällen
+      Nature Reserve](/lugar/vindelfjallens-naturreservat/), and [Rago National
+      Park](/lugar/rago-national-park/).
+  fr:
+    intro: >-
+      À Børgefjell, les sentiers s'effacent. Ils débutent bien, marqués et foulés, au départ d'un parking ou
+      d'un débarcadère, puis disparaissent peu à peu jusqu'à ne vous laisser que la carte, la boussole et vos
+      jambes. C'est ce que voulut l'association norvégienne de randonnée en 1932, en choisissant de ne bâtir
+      aucun refuge ni de jalonner d'itinéraires, afin de préserver ce coin du centre de la Norvège à l'état
+      brut. En 1963, le secteur est devenu parc national : le deuxième du pays, à cheval sur le Nordland et le
+      Trøndelag, fermé à l'est par la frontière suédoise.
+    landscape: >-
+      Le parc se divise en trois bandes, chacune dotée de son identité propre. À l'ouest s'étire une chaîne de
+      cimes acérées, de vallées encaissées et de torrents tumultueux, dominée par le Kvigtind à 1699 m. À
+      l'est, un autre massif aux formes plus arrondies aligne pierriers dénudés et crêtes douces. Entre les
+      deux s'étend un plateau intermédiaire parsemé de lacs. Le relief s'élève d'environ 270 m jusqu'à ces
+      1699 m d'altitude.
+
+
+      Sous les pas repose une histoire géologique immémoriale. Ici, les nappes calédoniennes ont été décapées
+      jusqu'au socle, qui émerge sous forme de « fenêtre » ; la roche est un gneiss granitique précambrien
+      vieux d'environ 1700 millions d'années. Dans l'ouest, sur un granit sombre, le paysage prend des allures
+      lunaires ; s'y dresse également le Jetnamsklumpen, à 1513 m, point culminant du Trøndelag.
+
+
+      L'eau joue le premier rôle. Les plus vastes lacs sont le Simskardvatnet et l'Orrevatnet, et c'est ici
+      que naissent les bassins du Jengelvassdraget, de la Vefsna et du Namsen, avec de grands cours d'eau,
+      cascades et rapides qui sculptent le décor. La forêt se compose surtout de bouleaux tortueux, avec
+      quelques pins sylvestres sur les tourbières ; la limite des arbres se situe entre 500 et 600 m, relayée
+      plus haut par des landes de roseaux et de saules nains. Le point le plus bas du parc est Namskroken,
+      vers 330 m, où subsiste une vieille forêt d'épicéas.
+    wildlife: >-
+      Børgefjell marque la transition entre la faune arctique et méridionale, dessinant une limite
+      géographique pour plusieurs espèces d'oiseaux et de mammifères. Le plus emblématique est le [renard
+      polaire](/especie/vulpes_lagopus/), menacé, qui conserve ici l'un de ses meilleurs biotopes de
+      reproduction en Norvège. Parmi les grands carnivores, le plus répandu est le
+      [glouton](/especie/gulo_gulo/) ; le [lynx boréal](/especie/lynx_lynx/) et l'[ours
+      brun](/especie/ursus_arctos/) parcourent aussi les lieux, et avec un peu de chance on aperçoit une
+      [loutre d'Europe](/especie/lutra_lutra/).
+
+
+      Dans le ciel, la buse pattue est le rapace le plus fréquent ; nichent également le [harfang des
+      neiges](/especie/bubo_scandiacus/) et l'[aigle royal](/especie/aquila_chrysaetos/). Le parc est une
+      halte majeure pour canards plongeurs, limicoles et oiseaux d'eau, aux côtés du lagopède des saules et du
+      lagopède alpin. Le renne domestique y est omniprésent.
+
+
+      Le calendrier est crucial. Juillet et août offrent les meilleures conditions pour randonner. Il existe
+      aussi une période de quiétude : dans la zone A du parc, toute randonnée est interdite du 20 juin au 25
+      juillet, tandis qu'à l'est du Namsvatnet l'accès est prohibé pour protéger les oies sauvages en pleine
+      mue.
+    visit: >-
+      Ce parc n'est pas fait pour le tourisme de refuge : point de chalets gardés, seulement quelques cabanes
+      ouvertes et louables. Pour pénétrer dans le massif, il faut utiliser les accès officiels, qui proposent
+      presque tous une amorce de sentier battu.
+
+
+      L'accès de Simskardet est le plus accessible pour une découverte. Depuis le parking, le chemin longe la
+      rivière Simskardelva, plat et commode, atteignant après 3,5 km la cabane ouverte Simskardhytta. La
+      boucle Simskardrunden donne un avant-goût de Børgefjell sans exiger un trek de plusieurs jours avec sac
+      lourd : montée d'un côté de la rivière et retour de l'autre, au milieu d'une vieille forêt de conifères
+      entourée de crêtes et d'enclos d'élevage samis. La voie normale du Kvigtind part de là, remontant le
+      Bisseggdalen et les lacs Måsskardvatna par la face nord.
+
+
+      Par le sud, on aborde le parc par le lac Namsvatnet : depuis le parking au bout de la route 7022, la
+      traversée en bateau postal doit être réservée à l'avance. Au nord, l'accès d'Øyum, dans le Susendal, ne
+      se trouve qu'à un peu plus de 200 m de la limite du parc et offre l'itinéraire le plus court. À Røyrvik
+      se tient la maison du parc et, tout près, le belvédère Viewpoint Børgefjell à 360 degrés.
+    history: >-
+      Les Samis élèvent des rennes ici depuis au moins 500 ans, laissant des campements et des fosses de
+      chasse dans et autour du parc. Les secteurs ouest, est et sud servent essentiellement de pâturages d'été
+      ; le nord sert d'estive à l'année. Le pastoralisme sami méridional reste bien vivant et fait partie du
+      paysage.
+
+
+      Le parc vise à préserver une vaste étendue sans aménagement technique, à garantir la biodiversité de ses
+      espèces vulnérables et à veiller sur son patrimoine géologique et culturel. Il a été agrandi en 1973 et
+      2003 pour atteindre ses actuels 1447 km². En 1973, les cours d'eau ont également été préservés des
+      barrages hydroélectriques dans le cadre du Plan de protection I des rivières.
+    before: >-
+      Le bivouac est autorisé partout à plus de 150 m d'une maison ou cabane occupée. Les chiens doivent
+      impérativement être tenus en laisse du 1 avril au 20 août, sachant qu'un renne peut percevoir un chien
+      comme un prédateur. Les engins motorisés sont formellement proscrits, tout comme les drones et modèles
+      réduits. La météo bascule brusquement été comme hiver, avec brouillard épais, tempêtes et tourmentes de
+      neige ; franchir les rivières requiert une solide expérience car les passerelles sont rarissimes. Pour
+      une longue traversée, endurance et sens de l'orientation sont indispensables : Børgefjell ne s'adresse
+      pas à tout le monde.
+    around: >-
+      Børgefjell ne compte pas de voisins immédiats dans l'atlas, mais partage avec le [Parc national
+      d'Abisko](/lugar/abisko-national-park/), la [Réserve naturelle de
+      Vindelfjällen](/lugar/vindelfjallens-naturreservat/) et le [Parc national de
+      Rago](/lugar/rago-national-park/) le renard polaire et le glouton au cœur de massifs boréaux parsemés de
+      lacs.
+  de:
+    intro: >-
+      Im Børgefjell hören die Pfade einfach auf. Sie beginnen vielversprechend, ausgetreten und markiert an
+      einem Parkplatz oder Bootssteg, und verlieren sich allmählich, bis dir nur noch Karte, Kompass und die
+      eigenen Beine bleiben. Genau das wollte der norwegische Wanderverein 1932, als er beschloss, weder
+      Hütten zu bauen noch Wege zu markieren, um diesen Winkel Mittelnorwegens als reine Wildnis zu bewahren.
+      Im Jahr 1963 wurde das Gebiet zum Nationalpark erklärt: der zweite des Landes, zwischen Nordland und
+      Trøndelag gelegen und im Osten von der schwedischen Grenze begrenzt.
+    landscape: >-
+      Der Park gliedert sich in drei Zonen mit jeweils eigenem Charakter. Im Westen ragt eine Kette schroffer
+      Gipfel, enger Täler und reißender Flüsse empor, gekrönt vom Kvigtind mit 1699 m Höhe. Im Osten liegt ein
+      weiteres Massiv mit runderen Formen, kahlen Blockfeldern und weichen Linien. Dazwischen erstreckt sich
+      eine tiefere, seenreiche Hochebene. Das Terrain reicht von etwa 270 m bis zu jenen 1699 m.
+
+
+      Unter den Füßen liegt eine uralte Erdgeschichte. Hier wurden die kaledonischen Decken bis auf das
+      Grundgebirge abgetragen, das als tektonisches Fenster zutage tritt; das Gestein besteht aus
+      präkambrischen Granitgneisen von rund 1700 Millionen Jahren Alter. Im Westen verleiht dunkler Granit der
+      Landschaft ein karges Gepräge; dort erhebt sich auch der Jetnamsklumpen mit 1513 m, der höchste Berg von
+      Trøndelag.
+
+
+      Das Wasser ist das bestimmende Element. Die größten Seen sind Simskardvatnet und Orrevatnet; hier
+      entspringen die Flusssysteme von Jengelvassdraget, Vefsna und Namsen, deren mächtige Wasserläufe,
+      Kaskaden und Stromschnellen das Landschaftsbild prägen. Die Wälder bestehen vorwiegend aus Fjellbirken
+      mit einzelnen Waldkiefern in den Mooren; die Waldgrenze liegt zwischen 500 und 600 m, darüber schließen
+      Zwergbirken, Riedgräser und Weidengebüsche an. Der tiefste Punkt des Parks ist Namskroken auf rund 330 m
+      mit altem Fichtenurwald.
+    wildlife: >-
+      Das Børgefjell bildet eine Übergangszone zwischen arktischer und südlicher Fauna mit einer
+      Verbreitungsgrenze für zahlreiche Tier- und Vogelarten. Berühmtester Bewohner ist der bedrohte
+      [Polarfuchs](/especie/vulpes_lagopus/), der hier eines seiner besten Fortpflanzungsgebiete in ganz
+      Norwegen findet. Unter den großen Beutegreifern ist der [Vielfraß](/especie/gulo_gulo/) am zahlreichsten
+      vertreten; auch [Luchs](/especie/lynx_lynx/) und [Braunbär](/especie/ursus_arctos/) streifen durch die
+      Täler, und mit Glück lässt sich ein [Fischotter](/especie/lutra_lutra/) beobachten.
+
+
+      Am Himmel ist der Raufußbussard der häufigste Greifvogel; auch [Schneeeule](/especie/bubo_scandiacus/)
+      und [Steinadler](/especie/aquila_chrysaetos/) brüten hier. Der Park ist ein wichtiges Rast- und
+      Brutgebiet für Tauchenten, Watvögel und andere Feuchtgebietsarten; Moor- und Alpenschneehühner sind weit
+      verbreitet. Halbzahmes Rentierweidevieh prägt die Hochflächen.
+
+
+      Der Kalender ist entscheidend. Juli und August sind die besten Wandermonate. Es gelten Schutzfristen: In
+      der Zone A des Parks ist Wandern vom 20. Juni bis zum 25. Juli verboten, und östlich des Namsvatnet
+      schützt ein Betretungsverbot die Wildgänse während der Mauser.
+    visit: >-
+      Dies ist kein Park für bequemes Hüttenwandern: Es gibt keine bewirtschafteten DNT-Unterkünfte, nur
+      vereinzelte einfache offene Schutzhütten und Mietkaten. Der Zugang erfolgt über offizielle
+      Einstiegspunkte, an denen fast immer ein kurzer Pfad beginnt.
+
+
+      Der Einstieg am Simskardet ist die leichteste Möglichkeit zum Hineinschnuppern. Vom Parkplatz folgt der
+      Weg flach und unschwer dem Simskardelva-Fluss und erreicht nach 3,5 km die offene Hütte Simskardhytta.
+      Die Simskardrunden vermittelt einen Eindruck des Børgefjell ohne schwere Mehrtagestour: hin auf einer
+      Flussseite, zurück auf der anderen, durch alten Nadelwald vor Gebirgskulisse und samischen
+      Rentiergattern. Der beliebteste Anstieg zum Kvigtind startet ebenfalls hier durch das Bisseggdalen und
+      an den Måsskardvatna-Seen vorbei über die Nordflanke.
+
+
+      Von Süden gelangt man über den Namsvatnet ins Fjell: Vom Parkplatz am Ende der Straße 7022 setzt ein
+      vorab zu buchendes Zubringerboot über. Im Norden liegt der Einstieg Øyum im Susendal nur gut 200 m von
+      der Parkgrenze entfernt und bietet die kürzeste Route ins Schutzgebiet. In Røyrvik informiert das
+      Nationalparkzentrum, nahebei liegt der 360-Grad-Aussichtspunkt Viewpoint Børgefjell.
+    history: >-
+      Die Samen hüten hier seit mindestens 500 Jahren Rentiere und hinterließen Siedlungsspuren und Fanggruben
+      im gesamten Areal. West-, Ost- und Südteil dienen vor allem als Sommerweiden, der Norden als
+      Ganzjahresweide. Die südsamische Rentierwirtschaft ist ungebrochen aktiv und Teil des Fjellökosystems.
+
+
+      Der Nationalpark dient dem Erhalt eines großräumigen Raums ohne nennenswerte technische Eingriffe, dem
+      Schutz der Artenvielfalt und geologischer wie kulturhistorischer Werte. Er wurde 1973 und 2003 auf die
+      heutigen 1447 km² erweitert. Im Jahr 1973 wurden die Flüsse zudem durch den Gewässerschutzplan I vor
+      Wasserkraftausbau bewahrt.
+    before: >-
+      Zelten ist überall erlaubt, sofern mindestens 150 m Abstand zu bewohnten Häusern oder Hütten eingehalten
+      werden. Hunde müssen vom 1. April bis zum 20. August strikt angeleint sein, da Rentiere frei laufende
+      Hunde als Raubfeinde wahrnehmen. Motorfahrzeuge sind grundsätzlich verboten, ebenso Drohnen und
+      Modellflugzeuge. Das Gebirgswetter schlägt im Sommer wie im Winter schlagartig um, mit dichtem Nebel,
+      Sturmböen und Schneetreiben; Flussdurchquerungen fordern Erfahrung, da es kaum Brücken gibt. Lange
+      Durchquerungen verlangen erstklassige Kondition und Orientierungssinn: Børgefjell ist kein Terrain für
+      Anfänger.
+    around: >-
+      Børgefjell hat keine direkten Nachbarn im Atlas, teilt aber mit dem [Nationalpark
+      Abisko](/lugar/abisko-national-park/), dem [Naturreservat
+      Vindelfjällen](/lugar/vindelfjallens-naturreservat/) und dem [Nationalpark
+      Rago](/lugar/rago-national-park/) Eisfuchs, Vielfraß sowie karge Fjellberge mit Tundraseen und Urwald.
+  it:
+    intro: >-
+      A Børgefjell i sentieri svaniscono nel nulla. Cominciano bene, battuti e visibili accanto a un
+      parcheggio o a un molo, per poi dissolversi gradualmente lasciandoti solo con mappa, bussola e le tue
+      gambe. Fu questa la scelta dell'associazione escursionistica norvegese nel 1932, quando decise di non
+      costruire rifugi né tracciare percorsi per preservare questo spicchio della Norvegia centrale allo stato
+      brado. Nel 1963 l'area divenne parco nazionale: il secondo del paese, a cavallo tra Nordland e
+      Trøndelag, chiuso a est dal confine svedese.
+    landscape: >-
+      Il parco si articola in tre fasce, ciascuna con una precisa fisionomia. A ovest corre una catena di
+      vette affilate, valli strette e torrenti impetuosi, culminante nei 1699 m del Kvigtind. A est si
+      sviluppa un altro massiccio dai rilievi più dolci, con pietraie spoglie e profili arrotondati. Tra i due
+      si estende un altipiano costellato di laghi. Le quote oscillano tra circa 270 m e i 1699 m della vetta
+      principale.
+
+
+      Sotto gli scarponi riposa una geologia millenaria. Qui le falde caledoniane sono state erose fino al
+      basamento profondo, che affiora come una «finestra» tettonica; la roccia è formata da gneiss granitici
+      precambriani di circa 1700 milioni di anni fa. A ovest, sul granito scuro, il paesaggio assume un rigore
+      austero; vi si erge anche il Jetnamsklumpen, con i suoi 1513 m la cima più alta del Trøndelag.
+
+
+      L'acqua regna incontrastata. I bacini più estesi sono il Simskardvatnet e l'Orrevatnet, e da qui
+      prendono forma i corsi d'acqua di Jengelvassdraget, Vefsna e Namsen, con fiumi poderose cascate e rapide
+      che dominano l'orizzonte. Il bosco è composto soprattutto da betulla montana con qualche pino silvestre
+      nelle torbiere; il limite della vegetazione arborea si colloca tra 500 e 600 m, oltre il quale si
+      estendono brughiere a cannuccia e salici nani. Il fondovalle più basso è Namskroken, a circa 330 m, dove
+      allignano antichi boschi di abete rosso.
+    wildlife: >-
+      Børgefjell fa da cerniera tra la fauna artica e quella boreale meridionale, segnando il confine
+      settentrionale o meridionale per varie specie. L'animale simbolo è la [volpe
+      artica](/especie/vulpes_lagopus/), minacciata di estinzione, che trova qui uno dei migliori siti
+      riproduttivi di tutta la Norvegia. Tra i grandi carnivori il più comune è il
+      [ghiottone](/especie/gulo_gulo/); solcano le valli anche la [lince europea](/especie/lynx_lynx/) e
+      l'[orso bruno](/especie/ursus_arctos/), mentre lungo i torrenti nuota la [lontra
+      europea](/especie/lutra_lutra/).
+
+
+      In cielo la poiana calzata è il rapace più diffuso; nidificano anche il [gufo delle
+      nevi](/especie/bubo_scandiacus/) e l'[aquila reale](/especie/aquila_chrysaetos/). Il parco costituisce
+      un'area primaria per anatre tuffatrici, trampolieri e uccelli acquatici, a cui si affiancano pernice
+      bianca nordica e pernice bianca svernante. Le renne semidomestiche pascolano ovunque.
+
+
+      Il calendario è determinante. Luglio e agosto offrono le condizioni ideali per camminare. Esiste inoltre
+      una chiusura biologica: nella zona A del parco è proibito inoltrarsi dal 20 giugno al 25 luglio, e a est
+      del Namsvatnet il divieto tutela le oche selvatiche in muta.
+    visit: >-
+      Questo non è un parco per il turismo dei rifugi: non esistono strutture alberghiere d'alta quota, solo
+      qualche baita aperta e capanni in affitto. Per entrare occorre servirsi dei varchi ufficiali, quasi
+      tutti dotati di un breve sentiero iniziale.
+
+
+      L'accesso di Simskardet è il più agevole per familiarizzare col terreno. Dal parcheggio il sentiero
+      costeggia il fiume Simskardelva, pianeggiante e comodo, e dopo 3,5 km giunge alla capanna aperta
+      Simskardhytta. L'anello Simskardrunden offre un assaggio di Børgefjell senza richiedere traversate
+      plurigiornaliere a pieno carico: salita da un lato del torrente e rientro dall'altro, tra conifere
+      secolari e recinti di allevamento sami. La salita normale al Kvigtind parte da qui, risalendo la
+      Bisseggdalen e i laghi Måsskardvatna sul versante settentrionale.
+
+
+      Da sud si accede attraverso il lago Namsvatnet: dal parcheggio al termine della strada 7022 si prende
+      una barca di linea, da prenotare con anticipo. Da nord l'accesso di Øyum, nella Susendal, dista appena
+      poco più di 200 m dai confini del parco ed è la via più diretta. A Røyrvik ha sede il centro visite, con
+      il vicino belvedere Viewpoint Børgefjell a 360 gradi.
+    history: >-
+      I sami praticano la pastorizia della renna in queste valli da almeno 500 anni, lasciando accampamenti
+      tradizionali e buche di caccia dentro e attorno all'area protetta. I quadranti occidentale, orientale e
+      meridionale fungono soprattutto da pascoli estivi; il nord da pascolo perenne. L'allevamento
+      tradizionale sami meridionale è tuttora attivo e parte viva dell'ambiente montano.
+
+
+      Il parco deve custodire un vasto territorio esente da infrastrutture, tutelare la biodiversità e le
+      specie vulnerabili, e proteggere monumenti geologici e testimonianze culturali. Venne ampliato nel 1973
+      e nel 2003 fino a toccare gli attuali 1447 km². Nel 1973 le acque vennero inoltre protette dallo
+      sfruttamento idroelettrico grazie al Piano di protezione I dei fiumi.
+    before: >-
+      Il campeggio libero è consentito ovunque purché a più di 150 m da case o capanni abitati. I cani devono
+      essere tenuti tassativamente al guinzaglio dal 1 aprile al 20 agosto, per evitare che le renne li
+      scambino per predatori. I veicoli a motore sono vietati, così come droni e aeromodelli. Il meteo muta
+      repentinamente sia d'estate sia d'inverno, con fitta nebbia, venti impetuosi e bufere; guadare i corsi
+      d'acqua richiede esperienza per la quasi totale assenza di ponti. Per traversate impegnative servono
+      ottimo allenamento fisico e capacità di orientamento: Børgefjell non è una meta per tutti.
+    around: >-
+      Børgefjell non ha parchi contigui nell'atlas, ma condivide con il [Parco Nazionale di
+      Abisko](/lugar/abisko-national-park/), la [Riserva Naturale di
+      Vindelfjällen](/lugar/vindelfjallens-naturreservat/) e il [Parco Nazionale di
+      Rago](/lugar/rago-national-park/) la volpe artica, il ghiottone e altopiani solcati da laghi e foreste
+      primarie.
+  pt:
+    intro: >-
+      Em Børgefjell os trilhos pura e simplesmente acabam. Começam bem, marcados e pisados junto a um parque
+      de estacionamento ou cais de barcos, desvanecendo-se a pouco e pouco até ficares apenas com o mapa, a
+      bússola e as tuas próprias pernas. Foi exatamente isso que pretendeu a associação norueguesa de
+      montanhismo em 1932, quando decidiu não construir cabanas nem marcar caminhos para preservar este rincão
+      do centro da Noruega como natureza intacta. Em 1963 a área tornou-se parque nacional: o segundo do país,
+      entre Nordland e Trøndelag, delimitado a leste pela fronteira sueca.
+    landscape: >-
+      O parque reparte-se em três faixas, cada qual com feição própria. A oeste ergue-se uma cadeia de picos
+      pontiagudos, vales estreitos e torrentes caudalosas, culminando no Kvigtind com 1699 m de altitude. A
+      leste estende-se outro maciço de cumes mais arredondados, cascalheiras desnudadas e relevo suave. Entre
+      ambos abre-se um planalto mais baixo pejado de lagos. A altitude varia entre cerca de 270 m e esses 1699
+      m.
+
+
+      Sob os pés jaz uma história geológica primordial. Aqui as mantas caledónicas foram erodidas até ao soco
+      basal, que desponta como uma «janela» geológica; a rocha é composta por gnaisses graníticos
+      pré-câmbricos com cerca de 1700 milhões de anos. A oeste, sobre granito escuro, a paisagem ganha
+      contornos desolados; aí eleva-se também o Jetnamsklumpen, com 1513 m, a montanha mais alta de Trøndelag.
+
+
+      A água é o elemento predominante. Os maiores lagos são o Simskardvatnet e o Orrevatnet, e aqui nascem as
+      bacias hidrográficas do Jengelvassdraget, do Vefsna e do Namsen, com grandes linhas de água, cascatas e
+      corredeiras que definem o relevo. O arvoredo é constituído sobretudo por bétulas-das-turfeiras com algum
+      pinheiro-silvestre nas turfeiras; o limite florestal situa-se entre 500 e 600 m, dando lugar acima a
+      matos baixos de ciperáceas e salgueiros-anões. O ponto mais baixo do parque é Namskroken, a cerca de 330
+      m, onde sobrevivem vetustos bosques de espruce.
+    wildlife: >-
+      Børgefjell constitui uma charneira entre a fauna ártica e a meridional, estabelecendo o limite
+      biogeográfico para diversas espécies. A mais célebre é a vulnerável
+      [raposa-do-ártico](/especie/vulpes_lagopus/), que detém aqui um dos seus melhores biótopos de reprodução
+      na Noruega. Entre os grandes predadores o mais abundante é o [glutão](/especie/gulo_gulo/); ocorrem
+      igualmente o [lince-euroasiático](/especie/lynx_lynx/) e o [urso-pardo](/especie/ursus_arctos/), podendo
+      vislumbrar-se com sorte uma [lontra-europeia](/especie/lutra_lutra/).
+
+
+      No céu, o bútio-patudo é a ave de rapina mais vulgar; nidificam também o
+      [bufo-das-neves](/especie/bubo_scandiacus/) e a [águia-real](/especie/aquila_chrysaetos/). O parque é
+      uma área vital para patos-mergulhadores, limícolas e outras aves aquáticas, juntando-se-lhes a
+      perdiz-branca e a lagópode-escocesa. A rena semidoméstica pasta livremente.
+
+
+      O calendário é decisivo. Julho e agosto reúnem as melhores condições meteorológicas para caminhar.
+      Vigora também um período de interdição: na zona A do parque é proibido caminhar de 20 de junho a 25 de
+      julho, e o encerramento a leste do Namsvatnet protege os gansos-selvagens em plena muda da plumagem.
+    visit: >-
+      Este não é um parque de refúgios turísticos: não existem alojamentos com serviços, apenas algumas
+      cabanas abertas de emergência ou para arrendamento. Para aceder deves utilizar as entradas oficiais, que
+      quase sempre oferecem uma vereda inicial batida.
+
+
+      A entrada de Simskardet é a mais amena para uma primeira incursão. A partir do parque de estacionamento,
+      o trilho margeia o rio Simskardelva, plano e acessível, atingindo ao fim de 3,5 km a cabana aberta
+      Simskardhytta. O circuito Simskardrunden proporciona um contacto com Børgefjell sem necessidade de
+      travessias de vários dias com mochila pesada: ida por uma margem e regresso pela outra, cruzando velhas
+      coníferas emolduradas por montanhas e currais tradicionais de renas sami. A subida mais usual ao
+      Kvigtind parte daqui, subindo pelo Bisseggdalen e pelos lagos Måsskardvatna em direção à vertente norte.
+
+
+      A sul entra-se pelo Namsvatnet: do parque de estacionamento no término da estrada 7022 faz-se a
+      travessia em barco de transporte, com reserva prévia obrigatória. A norte, a entrada de Øyum, em
+      Susendal, fica a pouco mais de 200 m do limite do parque e proporciona o acesso mais rápido. Em Røyrvik
+      existe um centro de acolhimento do parque e, na vizinhança, o miradouro Viewpoint Børgefjell com vistas
+      a 360 graus.
+    history: >-
+      O povo sami apascenta renas nestas paragens há pelo menos 500 anos, tendo deixado vestígios de
+      acampamentos e covas de caça por todo o território. Os setores oeste, leste e sul servem
+      prioritariamente de pastagem de verão; o norte acolhe animais todo o ano. A pastorícia tradicional sami
+      meridional mantém-se viva e molda a identidade da paisagem.
+
+
+      O parque destina-se a preservar uma vasta área imune a intervenções técnicas, assegurar a biodiversidade
+      de espécies vulneráveis e zelar pelo património geológico e histórico-cultural. Foi ampliado em 1973 e
+      em 2003 para os atuais 1447 km². Em 1973 as bacias hidrográficas ficaram igualmente protegidas da
+      exploração hidroelétrica pelo Plano de Proteção I dos Rios.
+    before: >-
+      Podes acampar livremente onde quiseres, desde que a mais de 150 m de qualquer casa ou cabana habitada.
+      Os cães devem andar estritamente presos de 1 de abril a 20 de agosto, para evitar que as renas os
+      encarem como predadores. Veículos a motor estão absolutamente interditos, assim como drones e
+      aeromodelos. O estado do tempo muda de repente tanto no verão como no inverno, trazendo nevoeiro
+      cerrado, ventos ciclónicos e nevões; vadear rios exige sólida experiência dada a escassez de pontes. Uma
+      grande travessia requer excelente capacidade física e aptidão em orientação: Børgefjell não é para toda
+      a gente.
+    around: >-
+      Børgefjell não tem vizinhos imediatos no atlas, mas partilha com o [Parque Nacional de
+      Abisko](/lugar/abisko-national-park/), a [Reserva Natural de
+      Vindelfjällen](/lugar/vindelfjallens-naturreservat/) e o [Parque Nacional de
+      Rago](/lugar/rago-national-park/) a raposa-do-ártico e o glutão em cenários de montanha, lagos e taiga.
+fuentes:
+  - url: https://www.nasjonalparkstyre.no/Borgefjell/verneomrader/borgefjell-byrkije-nasjonalpark
+    titulo: Børgefjell nasjonalpark
+    fecha_consulta: '2026-10-24'
+  - url: https://www.nasjonalparkstyre.no/uploads/files_byrkije/Publikasjoner/Brukerundersokelse-i-Borgefjell.pdf
+    titulo: Brukerundersøkelse i Børgefjell nasjonalpark sommeren 2017
+    fecha_consulta: '2026-10-24'
+  - url: https://no.wikipedia.org/wiki/B%C3%B8rgefjell_nasjonalpark
+    titulo: Børgefjell nasjonalpark – Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/B%C3%B8rgefjell_National_Park
+    titulo: Børgefjell National Park – Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://borgefjellnasjonalpark.no/innfallsporter/
+    titulo: Innfallsporter – Børgefjell nasjonalpark
+    fecha_consulta: '2026-10-24'
+  - url: https://borgefjellnasjonalpark.no/bruer-i-borgefjell/
+    titulo: Bruer i Børgefjell – Børgefjell nasjonalpark
+    fecha_consulta: '2026-10-24'
+  - url: https://borgefjellnasjonalpark.no/opplevelser/
+    titulo: Opplevelser – Børgefjell nasjonalpark
+    fecha_consulta: '2026-10-24'
+  - url: https://borgefjellnasjonalpark.no/regler-forvaltning-og-oppsyn/
+    titulo: Regler, forvaltning og oppsyn – Børgefjell nasjonalpark
+    fecha_consulta: '2026-10-24'

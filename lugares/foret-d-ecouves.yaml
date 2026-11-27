@@ -1,0 +1,420 @@
+id: foret-d-ecouves
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Écouves
+  en: Écouves Forest
+  fr: Forêt d’Écouves
+  de: Wald von Écouves
+  it: Foresta di Écouves
+  pt: Floresta de Écouves
+nombre_original: Forêt d'Écouves
+alias:
+  - Écouves Forest
+paises:
+  - FR
+region:
+  es: Normandía (Orne / Alençon)
+  en: Normandy (Orne / Alençon)
+  fr: Normandie (Orne / Alençon)
+  de: Normandie (Orne / Alençon)
+  it: Normandia (Orne / Alençon)
+  pt: Normandia (Orne / Alençon)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.55
+  lon: 0.12
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Sites d'Ecouves
+  capa: capas/natura2000/foret-d-ecouves.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - natural_park
+especies:
+  - cervus_elaphus
+  - capreolus_capreolus
+  - sus_scrofa
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y avisos — ONF, bosque de Écouves
+    url: https://www.onf.fr/onf/actualites-en-foret-domaniale-decouves
+resumen:
+  es: Uno de los macizos forestales más antiguos de Normandía, con robles sésiles y hayas centenarias.
+  en: One of the oldest forest massifs in Normandy, dominated by sessile oaks and veteran beeches.
+  fr: L’un des plus anciens massifs forestiers de Normandie, peuplé de chênes sessiles et de hêtres centenaires.
+  de: Eines der ältesten Waldmassive der Normandie, geprägt von Traubeneichen und jahrhundertealten Rotbuchen.
+  it: Uno dei massicci forestali più antichi della Normandia, con rovere e faggi secolari.
+  pt: Um dos maciços florestais mais antigos da Normandia, povoado por carvalhos-séssil e faias centenárias.
+unico:
+  es: >-
+    Un bosque salvado de la ruina que alterna caducifolios, estanques, turberas y brezales húmedos, con una
+    reserva integral donde nadie interviene desde los años noventa.
+  en: >-
+    A forest rescued from historical devastation, combining broadleaves, ponds, peatlands, and wet heaths with
+    an unmanaged biological reserve.
+  fr: >-
+    Une forêt sauvée de la ruine alternant feuillus, étangs, tourbières et landes humides, avec une réserve
+    intégrale sans intervention humaine depuis les années quatre-vingt-dix.
+  de: >-
+    Ein historisch wiederhergestellter Wald mit Laubmischwäldern, Weihern, Mooren und Heiden, der ein
+    nutzungsfreies Reservat birgt.
+  it: >-
+    Una foresta strappata al degrado storico che alterna latifoglie, stagni, torbiere e brughiere umide, con
+    una riserva integrale intatta.
+  pt: >-
+    Uma mata resgatada da ruína que alterna folhosas, lagoas, turfeiras e charnecas húmidas, com uma reserva
+    biológica estrita intacta.
+observaciones:
+  es: >-
+    Las mejores fechas van de mayo a octubre. Hay circuitos y pistas por todo el macizo, pero no todos están
+    abiertos al tráfico motorizado.
+texto:
+  es:
+    intro: >-
+      Hubo un tiempo en que este bosque estuvo a punto de desaparecer. En el siglo XIII era un bosque real
+      explotado sin descanso para sacar madera, y en 1863 se declaró «completamente arruinado». Aun así, hoy
+      Écouves es uno de los macizos forestales más extensos de Normandía: diez kilómetros al norte de Alençon,
+      con unas 8200 hectáreas de bosque estatal y, sumando las propiedades vecinas, cerca de 15 000 hectáreas.
+      Lo que se ve hoy, robles sésiles y hayas de gran porte, existe porque generaciones de forestales lo
+      replantaron y lo cuidaron.
+    landscape: >-
+      El relieve de Écouves es variado y sus puntos de vista dan a los bocages y a los campos. El Signal
+      d’Écouves culmina a 413 metros, y desde el Canton du Vignage, a 345 metros, el bosque se despliega ante
+      ti. Está en el límite del macizo armoricano.
+
+
+      Los suelos son ácidos y pobres, y sobre ellos aparecen los brezales secos y húmedos y las turberas. Hay
+      estanques, y más de 126 kilómetros de cursos de agua, una red hídrica que favorece la biodiversidad.
+      Entre los árboles se alzan gigantes: robles sésiles y hayas. En el Canton du Vignage hay robles de
+      trescientos años, y en el Canton du Gué d’Ecouflard dominan viejas hayas muertas que se descomponen en
+      el suelo.
+    wildlife: >-
+      Los ungulados abundan en el macizo, y el bosque es conocido por sus [ciervos](/especie/cervus_elaphus/).
+      Los [corzos](/especie/capreolus_capreolus/) y los [jabalíes](/especie/sus_scrofa/) completan el cuadro.
+      Las aves aprovechan las perchas y los nidos que ofrece el bosque, y los hábitats protegidos citan la
+      paloma torcaz, el chotacabras europeo, la [cigüeña negra](/especie/ciconia_nigra/) y el tritón jaspeado.
+
+
+      Entre las plantas destacadas figuran la drosera de hojas redondas y el liquen pulmonar. En el estanque
+      de Goult, cormoranes, somormujos y barnaclas anidan y descansan. Se recomienda ir entre mayo y octubre.
+    visit: >-
+      Para llegar al estanque de Goult, aparca junto a la carretera departamental 908, entre Sées y Carrouges,
+      y continúa a pie por la línea Chambray y, a la izquierda, por la pista forestal del estanque. En el
+      cruce de Rendez-vous hay un sendero de descubrimiento.
+
+
+      Los senderos de gran recorrido GR 22 y GR 36 atraviesan el bosque.
+    history: >-
+      Fue bosque real en el siglo XIII, y la explotación fue tan intensa que, seis siglos después, el macizo
+      estaba arruinado. Para salvarlo se hizo una gran repoblación. En los siglos XVII y XVIII había aldeas de
+      carboneros, y las forjas y vidrierías de Alençon necesitaban mucha madera.
+
+
+      Dentro del bosque está la reserva biológica integral de Écouves, de sesenta hectáreas, donde el ser
+      humano no ha intervenido desde los años noventa y los forestales dejan actuar a la naturaleza. Hay
+      también islotes de bosque viejo de gran valor patrimonial. El bosque forma parte del parque natural
+      regional Normandía-Maine. En el estanque de Goult está prohibida la pesca para preservar el ecosistema.
+    before: >-
+      Las mejores fechas van de mayo a octubre. Hay circuitos y pistas por todo el macizo, pero no todos están
+      abiertos al tráfico motorizado.
+    around: >-
+      El [Bosque de Borecka - Área Natura 2000](/lugar/puszcza-borecka---obszar-natura-2000/) es un lugar
+      lejano que comparte con Écouves el bosque maduro y el liquen pulmonar.
+  en:
+    intro: >-
+      There was a time when this great forest stood on the brink of total destruction. In the XIII century it
+      was a royal domain exploited relentlessly for timber and charcoal, and by 1863 official surveyors
+      declared it completely ruined. Today, however, Écouves constitutes one of Normandy’s grandest forest
+      massifs: lying ten kilometres north of Alençon, it encompasses some 8200 hectares of state-owned forest,
+      swelling to nearly 15,000 hectares when contiguous private woodlands are included. What you admire
+      today—stately sessile oaks and soaring European beeches—stands as a monument to generations of
+      silvicultural restoration.
+    landscape: >-
+      The topography of Écouves is rugged, offering elevated vantage points that sweep across Normandy’s
+      bocage and agricultural plains. The Signal d’Écouves crowns the relief at 413 metres, while from Canton
+      du Vignage at 345 metres the forest canopy unfolds across the western horizon. Geologically, the massif
+      anchors the eastern margin of the ancient Armorican Massif.
+
+
+      Soils are acidic and nutrient-poor, favoring wet and dry ericaceous heaths alongside ombrotrophic peat
+      bogs. Forest ponds and over 126 kilometres of winding streams weave a dense aquatic network that fuels
+      local biodiversity. Veteran trees dominate the canopy: sessile oaks and beeches. Canton du Vignage
+      protects veteran oaks exceeding three hundred years of age, while Canton du Gué d’Ecouflard is renowned
+      for standing deadwood and decaying beech trunks on the forest floor.
+    wildlife: >-
+      Ungulates thrive across the massif, and the forest is celebrated regionally for its [red
+      deer](/especie/cervus_elaphus/). [Roe deer](/especie/capreolus_capreolus/) and [wild
+      boars](/especie/sus_scrofa/) complete the big game guild. The multi-layered canopy provides ideal
+      nesting habitat for common wood pigeons, European nightjars, [black storks](/especie/ciconia_nigra/),
+      and marbled newts in forest pools.
+
+
+      Botanical highlights include carnivorous round-leaved sundews and tree lungwort lichen. At the Étang de
+      Goult, great cormorants, great crested grebes, and brent geese rest and nest. The optimal visiting
+      period spans May to October.
+    visit: >-
+      To reach the Étang de Goult, park along departmental road 908 between Sées and Carrouges, then proceed
+      on foot along the Chambray line and turn left onto the pond’s forest track. At the Carrefour du
+      Rendez-vous, an interpretive discovery path introduces forest history.
+
+
+      Long-distance walking routes GR 22 and GR 36 traverse the heart of the forest.
+    history: >-
+      A royal forest in the XIII century, timber over-exploitation was so severe that six centuries later the
+      forest was devastated. Massive replanting initiatives rescued the woodland. During the XVII and XVIII
+      centuries, charcoal burners populated hidden forest hamlets, feeding insatiable demands from the
+      ironworks and glass furnaces of Alençon.
+
+
+      Within the forest lies the Écouves strict biological reserve, spanning sixty hectares, where human
+      intervention ceased in the nineties, allowing natural dynamics free rein. Mature forest islands protect
+      irreplaceable saproxylic communities. The forest forms part of the Normandie-Maine Regional Natural
+      Park. At Étang de Goult, recreational angling is prohibited to protect fragile freshwater ecology.
+    before: >-
+      The best visiting window extends from May to October. Forest tracks network the massif, though motor
+      vehicles are restricted to designated public roads.
+    around: >-
+      The [Borecka Forest - Natura 2000 Area](/lugar/puszcza-borecka---obszar-natura-2000/) is a distant atlas
+      destination that shares mature old-growth woodland and lungwort lichen with Écouves.
+  fr:
+    intro: >-
+      Il fut un temps où cette forêt faillit disparaître. Forêt royale dès le XIIIe siècle exploitée sans
+      relâche pour le bois, elle fut déclarée en 1863 « complètement ruinée ». Aujourd’hui pourtant, Écouves
+      est l’un des plus grands massifs forestiers de Normandie : située à dix kilomètres au nord d’Alençon,
+      elle s’étend sur environ 8200 hectares de forêt domaniale et approche les 15 000 hectares en comptant
+      les bois limitrophes. Ce que l’on contemple aujourd’hui—chênes sessiles et hêtres élancés—est le fruit
+      de générations de forestiers qui l’ont patiemment replantée.
+    landscape: >-
+      Le relief d’Écouves est accidenté, offrant de beaux belvédères sur le bocage normand et les plaines
+      céréalières. Le Signal d’Écouves culmine à 413 mètres, et depuis le canton du Vignage à 345 mètres, la
+      canopée moutonne à perte de vue. Le massif marque la bordure orientale du Massif armoricain.
+
+
+      Les sols acides et pauvres portent des landes sèches, des landes tourbeuses et des sphaignes. Des étangs
+      forestiers et plus de 126 kilomètres de ruisseaux composent un réseau hydrographique riche favorable à
+      la biodiversité. Parmi les peuplements se dressent des arbres remarquables : le canton du Vignage abrite
+      des chênes de trois cents ans, tandis qu’au Gué d’Ecouflard subsistent de vieux hêtres sénescents se
+      décomposant au sol.
+    wildlife: >-
+      Les grands ongulés abondent dans le massif, réputé pour sa population de [cerfs
+      élaphes](/especie/cervus_elaphus/). Le [chevreuil](/especie/capreolus_capreolus/) et le
+      [sanglier](/especie/sus_scrofa/) complètent ce cortège. Les oiseaux profitent des cavités et branches
+      mortes : pigeon colombin, engoulevent d’Europe, [cigogne noire](/especie/ciconia_nigra/) et triton
+      marbré peuplent les mares forestières.
+
+
+      Côté flore se distinguent la droséra à feuilles rondes et la pulmonaire des chênes. Sur l’étang de Goult
+      se posent cormorans, grèbes et bernaches. La période idéale pour visiter s’étend de mai à octobre.
+    visit: >-
+      Pour rejoindre l’étang de Goult, stationnez le long de la route départementale 908, entre Sées et
+      Carrouges, puis poursuivez à pied par la ligne Chambray avant de bifurquer à gauche vers la piste
+      forestière de l’étang. Au carrefour du Rendez-vous, un sentier pédagogique propose une découverte en
+      famille.
+
+
+      Les sentiers de grande randonnée GR 22 et GR 36 traversent le massif.
+    history: >-
+      Forêt royale au XIIIe siècle, la surexploitation y fut telle que, six siècles plus tard, le massif était
+      dévasté. Une vaste politique d’enrésinement et de régénération sauva les parcelles. Aux XVIIe et XVIIIe
+      siècles, des charbonniers y vivaient en hameaux pour alimenter les forges et verreries d’Alençon.
+
+
+      Au cœur du massif, la réserve biologique intégrale d’Écouves protège soixante hectares où la
+      sylviculture s’est arrêtée dans les années quatre-vingt-dix. Des îlots de sénescence préservent les
+      insectes du bois mort. La forêt est intégrée au parc naturel régional Normandie-Maine. À l’étang de
+      Goult, la pêche est interdite pour préserver les frayères.
+    before: >-
+      La saison privilégiée va de mai à octobre. Les pistes forestières sillonnent tout le massif, mais la
+      circulation des véhicules à moteur est strictement réglementée.
+    around: >-
+      La [forêt de Borecka - zone Natura 2000](/lugar/puszcza-borecka---obszar-natura-2000/) est un site
+      lointain partageant avec Écouves la forêt mature et le lichen pulmonaire.
+  de:
+    intro: >-
+      Es gab eine Zeit, in der dieser Wald beinahe verschwunden wäre. Im XIII. Jahrhundert war er ein
+      königlicher Forst, der für Holzkohle und Bauholz übernutzt wurde; 1863 erklärten Forstbeamte ihn für
+      vollständig ruiniert. Heute jedoch zählt Écouves zu den weitläufigsten Waldmassiven der Normandie: zehn
+      Kilometer nördlich von Alençon gelegen, umfasst er rund 8200 Hektar Staatswald und reicht mit
+      Nachbarwäldern an die 15 000 Hektar heran. Die stattlichen Traubeneichen und Buchen von heute verdanken
+      sich Generationen vorausschauender Förster.
+    landscape: >-
+      Das Relief von Écouves ist abwechslungsreich und bietet Aussichtspunkte über die normannische
+      Bocage-Landschaft. Der Signal d’Écouves erreicht 413 Meter Höhe, während sich am Canton du Vignage auf
+      345 Metern das Waldmeer ausbreitet. Der Höhenzug markiert den Ostrand des Armorikanischen Massivs.
+
+
+      Die sauren Böden tragen trockene und feuchte Heiden sowie Hochmoore. Waldweiher und mehr als 126
+      Kilometer Wasserläufe schaffen ein engmaschiges Gewässernetz für Amphibien und Insekten. Im Altholz
+      ragen Baumriesen auf: Im Canton du Vignage stehen Eichen von über dreihundert Jahren, während im Canton
+      du Gué d’Ecouflard zerfallendes Totholz alter Buchen den Waldboden bereichert.
+    wildlife: >-
+      Huftiere prägen das Massiv; der Wald ist berühmt für sein [Rotwild](/especie/cervus_elaphus/).
+      [Reh](/especie/capreolus_capreolus/) und [Wildschwein](/especie/sus_scrofa/) sind zahlreich vertreten.
+      Vögel nutzen die Kronen zum Brüten: Hohltaube, Ziegenmelker, [Schwarzstorch](/especie/ciconia_nigra/)
+      und Marmormolch finden hier Lebensraum.
+
+
+      Botanisch stechen Rundblättriger Sonnentau und Echte Lungenflechte hervor. Am Goult-Weiher rasten
+      Kormorane, Haubentaucher und Ringelgänse. Die empfehlenswerte Besuchszeit reicht von Mai bis Oktober.
+    visit: >-
+      Zum Goult-Weiher gelangst du über die Departementsstraße 908 zwischen Sées und Carrouges; von dort geht
+      es zu Fuß auf der Ligne Chambray und links auf dem Teichweg weiter. An der Kreuzung Rendez-vous beginnt
+      ein Naturlehrpfad.
+
+
+      Die Fernwanderwege GR 22 und GR 36 durchqueren den Wald.
+    history: >-
+      Als königlicher Forst im XIII. Jahrhundert wurde Écouves über Jahrhunderte ausgebeutet, bis das Massiv
+      sechs Jahrhunderte später am Boden lag. Eine konsequente Wiederaufforstung rettete den Bestand. Im XVII.
+      und XVIII. Jahrhundert lebten Köhler in Waldsiedlungen, um Eisenhütten und Glashütten in Alençon mit
+      Holzkohle zu versorgen.
+
+
+      Im Zentrum liegt das sechzig Hektar große Totalreservat von Écouves, in dem die Forstwirtschaft seit den
+      neunziger Jahren ruht und die Natur sich frei entfaltet. Totholzzellen schützen seltene Urwaldinsekten.
+      Der Wald gehört zum Regionalen Naturpark Normandie-Maine. Am Goult-Weiher ist das Angeln zum Schutz der
+      Laichzonen untersagt.
+    before: >-
+      Die beste Wanderzeit reicht von Mai bis Oktober. Forstwege durchziehen das gesamte Massiv; motorisierter
+      Verkehr ist nur auf ausgewiesenen Straßen gestattet.
+    around: >-
+      Der [Borecka-Urwald - Natura-2000-Gebiet](/lugar/puszcza-borecka---obszar-natura-2000/) teilt als fernes
+      Atlas-Ziel alte Buchen-Eichenwälder und Lungenflechten mit Écouves.
+  it:
+    intro: >-
+      Vi fu un’epoca in cui questo grande bosco rischiò di sparire per sempre. Nel XIII secolo era una foresta
+      reale sfruttata senza sosta per legna e carbone, tanto che nel 1863 venne dichiarata «completamente
+      rovinata». Oggi Écouves è uno dei massicci forestali più vasti della Normandia: situato dieci chilometri
+      a nord di Alençon, racchiude circa 8200 ettari di demanio pubblico e sfiora i 15 000 ettari contando i
+      boschi privati contigui. Quello che si ammira oggi—rovere imponenti e faggi secolari—esiste grazie a
+      generazioni di guardaboschi che lo hanno rimboschito e curato.
+    landscape: >-
+      Il rilievo di Écouves è ondulato e offre scorci sul bocage normanno e sui campi coltivati. Il Signal
+      d’Écouves svetta a 413 metri di quota, mentre dal Canton du Vignage a 345 metri il mare di chiome si
+      apre all’orizzonte. Il massiccio si colloca sul margine orientale del Massiccio Armoricano.
+
+
+      I suoli acidi ospitano brughiere secche e torbiere a sfagni. Stagni forestali e oltre 126 chilometri di
+      ruscelli formano una rete idrica essenziale per la biodiversità. Tra le fustaie spiccano alberi
+      colossali: al Canton du Vignage vivono querce di trecento anni, mentre al Gué d’Ecouflard abbondano
+      faggi morti che arricchiscono il terreno forestale.
+    wildlife: >-
+      Gli ungulati popolano densamente il massiccio, noto per la presenza del [cervo
+      nobile](/especie/cervus_elaphus/). Il [capriolo](/especie/capreolus_capreolus/) e il
+      [cinghiale](/especie/sus_scrofa/) completano il quadro dei grandi mammiferi. L’avifauna include
+      colombelle, succiacapre, la [cicogna nera](/especie/ciconia_nigra/) e il tritone marmorato negli stagni.
+
+
+      Tra i vegetali spiccano la drosera a foglie rotonde e il lichene polmonario. Sulle acque dello stagno di
+      Goult nidificano cormorani, svassi e oche colombaccio. Il periodo raccomandato va da maggio a ottobre.
+    visit: >-
+      Per raggiungere lo stagno di Goult parcheggia lungo la strada dipartimentale 908 tra Sées e Carrouges,
+      proseguendo a piedi sulla Ligne Chambray e imboccando a sinistra la pista forestale. All’incrocio del
+      Rendez-vous si snoda un sentiero didattico.
+
+
+      I percorsi escursionistici a lungo raggio GR 22 e GR 36 attraversano la foresta.
+    history: >-
+      Foresta regia nel XIII secolo, l’intenso prelievo legnoso la condusse a sei secoli di distanza al
+      dissesto. Un vasto piano di rimboschimento salvò il patrimonio boschivo. Nei secoli XVII e XVIII vi
+      sorgevano villaggi di carbonai al servizio delle fonderie e vetrerie di Alençon.
+
+
+      Nel cuore del bosco la riserva biologica integrale di Écouves protegge sessanta ettari in cui l’uomo non
+      interviene dagli anni novanta. Lembi di foresta vetusta custodiscono coleotteri saproxilici rari. La
+      foresta rientra nel Parco Naturale Regionale Normandie-Maine. Nello stagno di Goult la pesca è vietata
+      per proteggere le zone di frega.
+    before: >-
+      I mesi ideali per le escursioni vanno da maggio a ottobre. Tracciati forestali attraversano il
+      massiccio, ma la viabilità motorizzata è rigorosamente limitata alle strade aperte.
+    around: >-
+      La [Foresta di Borecka - Sito Natura 2000](/lugar/puszcza-borecka---obszar-natura-2000/) condivide a
+      grande distanza con Écouves fustaie mature e licheni polmonari.
+  pt:
+    intro: >-
+      Houve um tempo em que este bosque esteve prestes a extinguir-se. No século XIII era uma floresta real
+      sujeita a cortes incessantes de madeira e carvão, e em 1863 foi declarada «completamente arruinada».
+      Contudo, Écouves constitui hoje um dos maiores maciços florestais da Normandia: dez quilómetros a norte
+      de Alençon, abrange cerca de 8200 hectares de mata pública e aproxima-se de 15 000 hectares com as
+      parcelas vizinhas. As faias e carvalhos-séssil corpulentos que hoje vemos devem a sua existência a
+      gerações de guardas florestais.
+    landscape: >-
+      O relevo de Écouves é acidentado, rasgando miradouros sobre o bocage normando e as campinas agrícolas. O
+      Signal d’Écouves culmina a 413 metros de altitude, enquanto do Canton du Vignage a 345 metros o mar de
+      copas se estende no horizonte. O maciço delimita a orla oriental do Maciço Armoricano.
+
+
+      Os solos ácidos acolhem urzais secos, charnecas húmidas e turfeiras. Lagoas florestais e mais de 126
+      quilómetros de linhas de água formam uma rede que potencia a biodiversidade. Entre as árvores erguem-se
+      gigantes: o Canton du Vignage guarda carvalhos com três séculos de idade, enquanto no Gué d’Ecouflard
+      avultam faias senescentes caídas no solo em decomposição.
+    wildlife: >-
+      Os ungulados abundam no maciço, célebre pela sua população de
+      [veados-vermelhos](/especie/cervus_elaphus/). O [corço](/especie/capreolus_capreolus/) e o
+      [javali](/especie/sus_scrofa/) completam a fauna cinegética. As aves encontram abrigo nos velhos ramos:
+      o pombo-bravo, o noitibó-da-europa, a [cegonha-preta](/especie/ciconia_nigra/) e o tritão-marmorado
+      residem nas lagoas.
+
+
+      Nas plantas destacam-se a drósera e o líquen-pulmonar. Na lagoa de Goult descansam corvos-marinhos,
+      mergulhões e gansos-de-faces-brancas. O período aconselhado decorre de maio a outubro.
+    visit: >-
+      Para alcançar a lagoa de Goult, estaciona junto à estrada departamental 908 entre Sées e Carrouges,
+      prosseguindo a pé pela Ligne Chambray e virando à esquerda para o caminho florestal da lagoa. No
+      cruzamento do Rendez-vous existe um trilho pedagógico.
+
+
+      Os percursos de grande rota GR 22 e GR 36 cruzam a floresta.
+    history: >-
+      Mata real no século XIII, a sobre-exploração foi tão intensa que, seis séculos depois, o maciço estava
+      arruinado. Um grande plano de reflorestação recuperou o ecossistema. Nos séculos XVII e XVIII
+      instalaram-se aldeamentos de carvoeiros para abastecer as fundições e fábricas de vidro de Alençon.
+
+
+      No interior do bosque, a reserva biológica integral de Écouves resguarda sessenta hectares onde a
+      intervenção humana cessou nos anos noventa. Núcleos de bosque maduro protegem insetos da madeira morta.
+      A floresta integra o Parque Natural Regional Normandie-Maine. Na lagoa de Goult é interdita a pesca
+      desportiva.
+    before: >-
+      A melhor época para visitas vai de maio a outubro. Veredas florestais cruzam todo o maciço, mas a
+      circulação de veículos a motor está restrita às vias públicas autorizadas.
+    around: >-
+      A [Floresta de Borecka - Sítio Natura 2000](/lugar/puszcza-borecka---obszar-natura-2000/) partilha a
+      longa distância com Écouves matas virgens e líquenes-pulmonares.
+fuentes:
+  - url: https://appliforet.onf.fr/onf/lonf-en-regions/%2B/b4a%3A%3Aen-foret-domaniale-decouves-la-biodiversite-en-eveil-sur-les-reliefs-normands.html
+    titulo: 'En forêt domaniale d’Écouves : la biodiversité en éveil sur les reliefs normands'
+    fecha_consulta: '2026-11-06'
+  - url: https://fr.wikipedia.org/wiki/For%C3%AAt_d%27%C3%89couves
+    titulo: Forêt d'Écouves – Wikipédia
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:For%C3%AAt_Ecouves_1_20251018.jpg
+    autor: Théo Vansteenkeste
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

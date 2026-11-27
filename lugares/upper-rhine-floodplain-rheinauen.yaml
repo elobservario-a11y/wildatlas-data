@@ -1,0 +1,563 @@
+id: upper-rhine-floodplain-rheinauen
+estado_editorial: valoracion-revisada
+nombre:
+  es: Llanura de Inundación del Alto Rin
+  en: Upper Rhine Floodplain
+  fr: Plaine alluviale du Rhin supérieur
+  de: Oberrheinaue
+  it: Piana Alluvionale dell'Alto Reno
+  pt: Planície de Inundação do Alto Reno
+nombre_original: Upper Rhine Floodplain (Rheinauen)
+alias:
+  - Upper Rhine Floodplain (Rheinauen)
+paises:
+  - DE
+  - FR
+region:
+  es: Baden-Wurtemberg (DE) / Alsacia (FR)
+  en: Baden-Württemberg (Ortenaukreis / Rust / Kappel-Grafenhausen)
+  fr: Bade-Wurtemberg (Ortenaukreis / Rust / Kappel-Grafenhausen)
+  de: Baden-Württemberg (Ortenaukreis / Rust / Kappel-Grafenhausen)
+  it: Baden-Württemberg (Ortenaukreis / Rust / Kappel-Grafenhausen)
+  pt: Bade-Vurtemberga (Ortenaukreis / Rust / Kappel-Grafenhausen)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.25
+  lon: 7.7
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Taubergießen, Elz und Ettenbach
+  capa: capas/natura2000/upper-rhine-floodplain-rheinauen.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - natural_reserve
+  - ramsar
+  - natura2000
+especies:
+  - milvus_milvus
+  - castor_fiber
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: primavera a otoño
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en paseos en barca de Taubergießen
+  en: Low along walking paths; medium on traditional wooden punt rides during summer
+  fr: Faible sur les sentiers pédestres ; moyenne lors des promenades estivales en barque traditionnelle
+  de: Gering auf Wanderpfaden; mittel bei traditionellen Kahnfahrten im Sommer
+  it: Bassa sui percorsi pedonali; media durante le escursioni estive sui barconi tradizionali
+  pt: Baixa nos trilhos pedestres; média nos passeios de barco tradicional de madeira no verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y normas — Reserva de Taubergießen
+    url: https://rpf.baden-wuerttemberg.de/abt5/ref56/naturschutzgebiete/naturschutzgebiet-taubergiessen/
+  - titulo: Centro de visitantes y mapa — Estación NABU Taubergießen
+    url: https://www.nabu-taubergiessen.de/
+resumen:
+  es: Complejo de sotos aluviales y brazos muertos del Rin (Taubergießen) entre Alemania y Francia.
+  en: Floodplain wetland complex and oxbows of the Rhine (Taubergießen) between Germany and France.
+  fr: Complexe de forêts alluviales et bras morts du Rhin (Taubergießen) entre France et Allemagne.
+  de: Auenlandschaft und Altrheinarme des Taubergießen zwischen Deutschland und Frankreich.
+  it: Complesso di boschi golenali e rami morti del Reno (Taubergießen) tra Germania e Francia.
+  pt: Complexo de matas ripícolas e meandros mortos do Reno (Taubergießen) entre Alemanha e França.
+unico:
+  es: >-
+    Un trozo de bosque aluvial y aguas subterráneas «sordas», entre el Rin domado y la Selva Negra, de
+    propiedad francesa dentro de Alemania.
+  en: >-
+    A braided river floodplain where crystal-clear subterranean upwellings (*gießen*) nurture lush hardwood
+    riparian jungle beside the channeled Rhine.
+  fr: >-
+    Une plaine alluviale où des résurgences phréatiques cristallines (*gießen*) nourrissent une jungle
+    alluviale luxuriante en marge du Rhin canalisé.
+  de: >-
+    Eine verzweigte Flussauenlandschaft, in der glasklare Grundwasseraufstösse (*gießen*) urwüchsige
+    Hartholzauen neben dem begradigten Rhein speisen.
+  it: >-
+    Una pianura alluvionale a canali intrecciati dove risorgive freatiche limpidissime (*gießen*) alimentano
+    foreste igrofile accanto al Reno incanalato.
+  pt: >-
+    Uma planície fluvial entrelaçada onde ressurgências freáticas cristalinas (*gießen*) alimentam florestas
+    aluviais exuberantes junto ao Reno canalizado.
+observaciones:
+  es: >-
+    Solo hay que seguir los senderos señalizados; navegar fuera del tramo permitido y usar cualquier
+    embarcación como tablas de surf o de paddle está prohibido. En caso de crecida hay peligro de muerte y la
+    reserva puede cerrar temporalmente.
+texto:
+  es:
+    intro: >-
+      Hubo un tiempo en que el Rin no tenía cauce: era un río salvaje de varios kilómetros de ancho, con
+      islas, bancos de arena y grava y brazos que cambiaban cada primavera. En el siglo XIX lo encajaron,
+      según los planes de Tulla, en un lecho de 200 metros. Lo que queda de aquel río suelto está en
+      Taubergießen, una llanura aluvial del Alto Rin entre los Vosgos y la Selva Negra donde el agua sigue
+      formando brazos, bosques inundables y gießen.
+    landscape: >-
+      Taubergießen se extiende más de 12 km de norte a sur y unos 2,5 km en su punto más ancho. Su origen es
+      un rift: hace unos 35 millones de años la tierra se hundió entre Basilea y Fráncfort y subieron los
+      Vosgos y la Selva Negra. Sobre ese hundimiento el Rin buscó su camino, y con el tiempo se formaron las
+      llanuras aluviales.
+
+
+      Lo que da nombre al lugar son los gießen: brazos alimentados por agua subterránea, de agua fría, clara y
+      pobre en nutrientes. Los pescadores la llamaban «tauben», «sorda», y de ahí viene el nombre. En ellos
+      viven algas rojas costrosas raras. Cerca de seis décimas del territorio son bosque: alisos, fresnos,
+      olmos, sauces y robles viejos, con bosques sin gestionar que acumulan madera muerta. Más allá del dique
+      hay praderas secas pobres, praderas de molinia y prados de siega de tierras bajas, y en ellos crecen las
+      orquídeas.
+    wildlife: >-
+      El [martín pescador](/especie/alcedo_atthis/) y el rascón europeo viven en los brazos del Rin, y no
+      faltan patos y gansos: se citan el ánsar campestre, el ánsar careto grande, el [ánsar
+      común](/especie/anser_anser/) y el tarro blanco. Entre las rapaces raras están el [milano
+      real](/especie/milvus_milvus/), el milano negro, el [águila pescadora](/especie/pandion_haliaetus/), la
+      culebrera europea y el alcotán. Seis picos crían aquí, el [pito negro](/especie/dryocopus_martius/)
+      entre ellos, y la oropéndola, ave de bosques aluviales claros, tiene sendero propio. El ave más común de
+      la reserva es la curruca capirotada.
+
+
+      En los brazos viven almejas, peces, cangrejos, ranas, tritones y larvas de libélulas. En las praderas
+      florecen las orquídeas Ophrys holosericea y Ophrys sphegodes, y entre la fauna rara hay una mariposa,
+      Phengaris teleius, y un grillo, Pteronemobius heydenii, ambos al borde de la extinción en
+      Baden-Wurtemberg. La temporada va de primavera a otoño.
+    visit: >-
+      Desde otoño de 2019 hay siete senderos temáticos, cada uno dedicado a una especie, trazados para
+      molestar lo menos posible. El Lachsweg, el del salmón, es un circuito de unos cuatro kilómetros junto al
+      Rin desde el aparcamiento de la estación NABU. El Wasserrallenweg, el del rascón, son tres kilómetros
+      por el bosque hasta el Rin. El Salers-Rinder-Weg, de dos kilómetros, cruza el proyecto de pastos
+      salvajes: sin perros y con vacas sueltas. El Pirolweg, de unos cuatro kilómetros, recorre bosque y
+      prados desde Zuckerbrücke. El Fischadlerweg, el del águila pescadora, y el Schwarzspechtweg, el del pito
+      negro, miden unos seis kilómetros cada uno; el primero sigue el dique y el bosque protegido de
+      Herrenkopf y tiene una torre de observación. El Gänseweg, en parte asfaltado, bordea el canal Leopold,
+      también seis kilómetros.
+
+
+      En barca: se puede navegar de sur a norte río abajo unos 15 km, por tramos si quieres, solo en barcos
+      sin motor y de 8 a 20 horas; casi todas las demás aguas están cerradas todo el año. También hay
+      recorridos en barcas de pescadores tradicionales con guía experto.
+
+
+      El punto de partida es la estación NABU, en la antigua aduana junto al transbordador gratuito a Rhinau:
+      es el punto de información, con visitas guiadas en alemán o francés. En Rust, el Naturzentrum Rheinauen
+      ofrece información y actividades de educación ambiental.
+    history: >-
+      La reserva se declaró en 1979 y con 1.697 hectáreas es una de las mayores de Baden-Wurtemberg. Gran
+      parte de su suelo pertenece al municipio francés de Rhinau, cuyos derechos se reconocen desde 1542. Por
+      eso la cooperación es francoalemana. Forma parte de Natura 2000 y del humedal transfronterizo Ramsar
+      Alto Rin – Rhin supérieur.
+
+
+      La rectificación del Rin redujo las inundaciones de los bosques y cambió la composición de especies. Hoy
+      el proyecto Rhinaissance busca renaturalizar el Rin y sus riberas en Taubergießen y en la isla de
+      Rhinau.
+    before: >-
+      Solo hay que seguir los senderos señalizados; navegar fuera del tramo permitido y usar cualquier
+      embarcación como tablas de surf o de paddle está prohibido. En caso de crecida hay peligro de muerte y
+      la reserva puede cerrar temporalmente.
+    around: >-
+      A veintitrés kilómetros está el [Parque Natural Regional de los Balcones de los
+      Vosgos](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Más lejos, la [Llanura de Inundación del
+      Elster Negro](/lugar/black-elster-floodplain-schwarze-elster/) y el [Parque Nacional de
+      Słowiński](/lugar/slowinski-park-narodowy/) comparten con ella el milano real y el castor europeo.
+  en:
+    intro: >-
+      There was a time when the Rhine had no single channel: it was an untamed braided river several
+      kilometers wide, studded with islands, gravel banks, and channels that shifted every spring. In the
+      nineteenth century, Johann Gottfried Tulla's engineering schemes constricted it into a uniform bed 200
+      meters wide. What survives of that wild river landscape is preserved in Taubergießen, an Upper Rhine
+      floodplain reserve nestled between the Vosges and the Black Forest where water still weaves through
+      backwaters, flooded woodlands, and gießen.
+    landscape: >-
+      Taubergießen stretches more than 12 km from north to south and spans around 2.5 km at its widest point.
+      Its geological genesis is a continental rift: some 35 million years ago the crust foundered between
+      Basel and Frankfurt, while the Vosges and Black Forest ranges rose on either flank. Across this
+      subsidence trough the Rhine carved its shifting course, laying down alluvial gravels over millennia.
+
+
+      The reserve owes its name to the *gießen*: spring-fed groundwater channels carrying cold, crystalline,
+      nutrient-poor waters. Historical fishermen termed these sterile waters *taub* («deaf» or barren), giving
+      rise to the name Taubergießen. Rare encrusting red freshwater algae thrive in their depths. Nearly
+      six-tenths of the reserve is cloaked in forest: alder, ash, elm, willow, and pedunculate oak, with
+      unmanaged wilderness zones accumulating fallen timber. Beyond the flood dykes spread dry gravel steppe
+      pastures, purple moor-grass swards, and lowland hay meadows rich in wild orchids.
+    wildlife: >-
+      The [common kingfisher](/especie/alcedo_atthis/) and water rail inhabit the tranquil backwaters, joined
+      by diverse waterfowl including bean goose, greater white-fronted goose, [greylag
+      goose](/especie/anser_anser/), and common shelduck. Rare birds of prey include the [red
+      kite](/especie/milvus_milvus/), black kite, [osprey](/especie/pandion_haliaetus/), short-toed snake
+      eagle, and Eurasian hobby. Six woodpecker species nest here, among them the [black
+      woodpecker](/especie/dryocopus_martius/), while the Eurasian golden oriole, a specialist of sunlit
+      floodplain canopies, lends its name to a trail. The most widespread songbird in the reserve is the
+      blackcap.
+
+
+      Within the channels thrive freshwater mussels, fish, crayfish, frogs, newts, and dragonfly nymphs.
+      Across the dry meadows bloom orchids such as *Ophrys holosericea* and *Ophrys sphegodes*, while rare
+      insects include the scarce large blue butterfly (*Phengaris teleius*) and the cricket *Pteronemobius
+      heydenii*, both endangered in Baden-Württemberg. Prime wildlife season runs from spring through autumn.
+    visit: >-
+      Since autumn 2019, seven thematic walking loops—each named after a flagship species—guide visitors while
+      minimizing wildlife disturbance. The Lachsweg (Salmon Trail) is an approximate four-kilometer loop
+      flanking the Rhine from the NABU station car park. The Wasserrallenweg (Water Rail Trail) covers three
+      kilometers through forest to the riverbank. The two-kilometer Salers-Rinder-Weg crosses a wild-pasture
+      grazing project: dogs are strictly excluded, and cattle roam freely. The Pirolweg (Oriole Trail) spans
+      about four kilometers through woods and meadows from Zuckerbrücke. The Fischadlerweg (Osprey Trail) and
+      the Schwarzspechtweg (Black Woodpecker Trail) measure roughly six kilometers each; the former follows
+      the flood levee and the Herrenkopf core reserve, featuring a viewing tower. The Gänseweg (Goose Trail),
+      partly paved, traces the Leopold Canal over six kilometers.
+
+
+      By boat: paddlers can travel downstream from south to north along roughly 15 km of designated channels,
+      in legs if desired, strictly in non-motorized craft from 8 to 20 hours; virtually all other watercourses
+      remain closed year-round. Traditional wooden punt tours led by expert local skiffmen are also available.
+
+
+      The main threshold is the NABU nature center at the historic tollhouse beside the free Rhinau vehicle
+      ferry: it provides information and guided tours in German or French. In Rust, the Naturzentrum Rheinauen
+      offers exhibits and environmental education.
+    history: >-
+      The reserve was established in 1979 and, encompassing 1,697 hectares, ranks among the largest in
+      Baden-Württemberg. Remarkably, much of its land is owned by the French municipality of Rhinau across the
+      river, whose historic property rights have been formally acknowledged since 1542, anchoring enduring
+      Franco-German cooperation. The site is protected under Natura 2000 and forms part of the transboundary
+      Ramsar wetland Upper Rhine – Rhin Supérieur.
+
+
+      Nineteenth-century canalization curbed natural forest inundations and altered species composition.
+      Today, the cross-border Rhinaissance restoration project aims to revitalize natural hydrological
+      dynamics along the Rhine banks in Taubergießen and Rhinau Island.
+    before: >-
+      Stay strictly on signposted trails; navigating watercourses outside the permitted leg and utilizing
+      water sports equipment such as stand-up paddleboards or surfboards is strictly prohibited. In the event
+      of flooding, strong currents present mortal danger and the reserve may temporarily close.
+    around: >-
+      Twenty-three kilometers to the west stands the [Ballons des Vosges Regional Natural
+      Park](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Farther afield, the [Black Elster
+      Floodplain](/lugar/black-elster-floodplain-schwarze-elster/) and [Słowiński National
+      Park](/lugar/slowinski-park-narodowy/) share with Taubergießen red kites and Eurasian beavers.
+  fr:
+    intro: >-
+      Il fut un temps où le Rhin ne possédait point de lit unique : c'était un fleuve sauvage large de
+      plusieurs kilomètres, parsemé d'îles, de bancs de graviers et de bras vagabonds à chaque crue
+      printanière. Au XIXe siècle, les travaux de correction conduits selon les plans de Tulla l'enserrèrent
+      dans un chenal de 200 mètres de large. Ce qui subsiste de cette dynamique alluviale se trouve préservé
+      au Taubergießen, une plaine inondable du Rhin supérieur entre Vosges et Forêt-Noire où l'eau continue de
+      façonner bras vifs, forêts inondables et gießen.
+    landscape: >-
+      Le Taubergießen s'étire sur plus de 12 km du nord au sud et mesure environ 2,5 km dans sa plus grande
+      largeur. Son origine remonte à l'effondrement du fossé rhénan il y a quelque 35 millions d'années,
+      tandis que s'élevaient les massifs des Vosges et de la Forêt-Noire. Dans cet affaissement, le Rhin fraya
+      son lit en déposant d'épaisses couches d'alluvions.
+
+
+      Le site tire son appellation des *gießen* : des bras alimentés par la nappe phréatique, aux eaux
+      fraîches, limpides et très pauvres en nutriments. Les pêcheurs d'antan qualifiaient ces eaux stériles de
+      « sourdes » (*taub*), d'où le nom de Taubergießen. Des algues rouges encroûtantes rares y prospèrent.
+      Près des six dixièmes du territoire sont boisés : aulnes, frênes, ormes, saules et chênes pédonculés,
+      avec des îlots laissés en libre évolution riches en bois mort. Au-delà des digues s'étendent des
+      pelouses sèches pionnières, des prairies à molinie et des foins de fauche hébergeant nombre d'orchidées.
+    wildlife: >-
+      Le [martin-pêcheur d'Europe](/especie/alcedo_atthis/) et le râle d'eau animent les bras calmes, côtoyant
+      canards et oies : oie des moissons, oie rieuse, [oie cendrée](/especie/anser_anser/) et tadorne de
+      Belon. Parmi les rapaces remarquables figurent le [milan royal](/especie/milvus_milvus/), le milan noir,
+      le [balbuzard pêcheur](/especie/pandion_haliaetus/), le circaète Jean-le-Blanc et le faucon hobereau.
+      Six espèces de pics nichent sur le site, dont le [pic noir](/especie/dryocopus_martius/), tandis que le
+      loriot d'Europe, emblème des canopées alluviales, donne son nom à un parcours. L'oiseau le plus commun
+      demeure la fauvette à tête noire.
+
+
+      Dans les eaux calmes vivent moules d'eau douce, poissons, écrevisses, grenouilles, tritons et larves
+      d'odonates. Sur les pelouses fleurissent *Ophrys holosericea* et *Ophrys sphegodes*, tandis que la faune
+      rare compte l'azuré des paluds (*Phengaris teleius*) et le grillon des torrents (*Pteronemobius
+      heydenii*), menacés d'extinction dans le Bade-Wurtemberg. La saison s'étend du printemps à l'automne.
+    visit: >-
+      Depuis l'automne 2019, sept sentiers thématiques balisés — chacun dédié à une espèce — canalisent la
+      découverte en ménageant la quiétude animale. Le Lachsweg (sentier du Saumon) forme une boucle d'environ
+      quatre kilomètres le long du Rhin depuis le parking du centre NABU. Le Wasserrallenweg (sentier du Râle
+      d'eau) compte trois kilomètres en forêt jusqu'au fleuve. Le Salers-Rinder-Weg (deux kilomètres) traverse
+      l'enclos de pâturage extensif : chiens interdits, bétail en liberté. Le Pirolweg (sentier du Loriot)
+      parcourt quatre kilomètres de bois et prés depuis le pont Zuckerbrücke. Le Fischadlerweg (Balbuzard) et
+      le Schwarzspechtweg (Pic noir) font environ six kilomètres chacun ; le premier longe la digue et la
+      forêt protégée de Herrenkopf avec une tour d'observation. Le Gänseweg (sentier des Oies), en partie
+      asphalté, côtoie le canal Léopold sur six kilomètres.
+
+
+      En barque : la navigation est autorisée du sud vers le nord sur environ 15 km de cours d'eau désigné,
+      sans moteur, de 8 à 20 heures ; les autres bras restent fermés toute l'année. Des sorties en barque à
+      fond plat traditionnelle avec batelier sont proposées.
+
+
+      Le point d'accueil principal est la station NABU dans l'ancien poste douanier près du bac gratuit de
+      Rhinau, proposant visites guidées en français et allemand. À Rust, le Naturzentrum Rheinauen dispense
+      animations et sensibilisation.
+    history: >-
+      Classée en 1979, la réserve couvre 1 697 hectares et constitue l'une des plus vastes du Bade-Wurtemberg.
+      Fait singulier, une part importante du foncier appartient à la commune française de Rhinau, dont les
+      droits historiques sont reconnus depuis 1542, gage d'une exemplaire coopération transfrontalière. Le
+      site est intégré au réseau Natura 2000 et au complexe Ramsar transfrontalier Rhin supérieur – Oberrhein.
+
+
+      La correction du Rhin a restreint les inondations forestières et modifié la flore. Aujourd'hui, le
+      projet écologique Rhinaissance s'attache à renaturer les berges et la dynamique fluviale du Taubergießen
+      et de l'île de Rhinau.
+    before: >-
+      Restez impérativement sur les sentiers balisés ; la navigation hors du chenal autorisé et l'usage de
+      paddles ou planches sont formellement interdits. En cas de crue subite, le courant présente un danger de
+      mort et la réserve peut être fermée.
+    around: >-
+      À vingt-trois kilomètres s'élève le [Parc naturel régional des Ballons des
+      Vosges](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Plus loin, la [Plaine alluviale de
+      l'Elster Noire](/lugar/black-elster-floodplain-schwarze-elster/) et le [Parc national de
+      Słowiński](/lugar/slowinski-park-narodowy/) partagent milan royal et castor d'Europe.
+  de:
+    intro: >-
+      Es gab eine Zeit, da hatte der Rhein kein festes Flussbett: Er war ein ungezähmter Strom von mehreren
+      Kilometern Breite mit Kiesinseln, Sandbänken und Armen, die sich in jedem Frühjahr verlagerten. Im
+      neunzehnten Jahrhundert schnürte ihn Johann Gottfried Tulla in ein festes Bett von 200 Metern Breite
+      ein. Was von jener urtümlichen Flusslandschaft blieb, bewahrt der Taubergießen, eine Auenlandschaft am
+      Oberrhein zwischen Vogesen und Schwarzwald, in der das Wasser bis heute Altarme, Bruchwälder und Gießen
+      formt.
+    landscape: >-
+      Der Taubergießen erstreckt sich über mehr als 12 km von Nord nach Süd und misst an der breitesten Stelle
+      rund 2,5 km. Seine Entstehung gründet im Oberrheingraben: Vor etwa 35 Millionen Jahren senkte sich die
+      Erdkruste zwischen Basel und Frankfurt ab, während sich Schwarzwald und Vogesen heraushoben. In dieser
+      Senke schuf sich der Rhein sein Flussbett und lagerte über Jahrtausende Kies- und Schlickschichten ab.
+
+
+      Namengebend sind die Gießen: vom Grundwasser gespeiste Flussläufe mit kaltem, klarem und nährstoffarmem
+      Wasser. Die Fischer nannten diese Gewässer früher «taub» (ertraglos), woraus der Name Taubergießen
+      entstand. In ihnen leben seltene krustenförmige Rotalgen. Fast sechs Zehntel des Gebiets sind Wald:
+      Eschen, Erlen, Ulmen, Weiden und Stieleichen mit Altholzinseln und Totholz. Jenseits des Hochwasserdamms
+      breiten sich Trockenrasen, Pfeifengraswiesen und Glatthaferwiesen mit Orchideenreichtum aus.
+    wildlife: >-
+      [Eisvogel](/especie/alcedo_atthis/) und Wasserralle bewohnen die Stillgewässer, begleitet von Enten und
+      Gänsen wie Saatgans, Blässgans, [Graugans](/especie/anser_anser/) und Brandgans. Zu den seltenen
+      Greifvögeln zählen [Rotmilan](/especie/milvus_milvus/), Schwarzmilan,
+      [Fischadler](/especie/pandion_haliaetus/), Schlangenadler und Baumfalke. Sechs Spechtarten brüten im
+      Auwald, darunter der [Schwarzspecht](/especie/dryocopus_martius/), während der Pirol die lichten Kronen
+      bewohnt. Häufigster Brutvogel ist die Mönchsgrasmücke.
+
+
+      In den Gewässern leben Großmuscheln, Fische, Krebse, Lurche und Libellenlarven. Auf den Magerrasen
+      blühen Hummel-Ragwurz (*Ophrys holosericea*) und Spinnen-Ragwurz (*Ophrys sphegodes*), während zu den
+      zoologischen Kostbarkeiten der Helle Wiesenknopf-Ameisenbläuling (*Phengaris teleius*) und die
+      Sumpfgrille (*Pteronemobius heydenii*) gehören. Die Hauptsaison reicht von Frühjahr bis Herbst.
+    visit: >-
+      Seit Herbst 2019 erschließen sieben thematische Rundwanderwege das Gebiet, die zur Schonung der Tierwelt
+      angelegt wurden. Der Lachsweg führt als rund vier Kilometer langer Rundweg entlang des Rheins ab dem
+      Parkplatz der NABU-Station. Der Wasserrallenweg misst drei Kilometer durch den Wald zum Strom. Der
+      Salers-Rinder-Weg (zwei Kilometer) durchquert das Weideprojekt: Hunde sind verboten, Rinder weiden frei.
+      Der Pirolweg umfasst vier Kilometer Wald und Wiesen ab der Zuckerbrücke. Fischadlerweg und
+      Schwarzspechtweg messen je sechs Kilometer; ersterer folgt dem Hochwasserdamm und dem Bannwald
+      Herrenkopf mit Aussichtsturm. Der teilweise asphaltierte Gänseweg begleitet den Leopoldskanal über sechs
+      Kilometer.
+
+
+      Auf dem Wasser: Eine Befahrung von Süd nach Nord ist auf einer rund 15 km langen Strecke im Altrheinzug
+      gestattet, nur stromabwärts, ohne Motor und von 8 bis 20 Uhr; fast alle übrigen Gewässer sind ganzjährig
+      gesperrt. Zudem werden traditionelle Stocherkahnfahrten mit ortskundigen Bootsführern angeboten.
+
+
+      Ausgangspunkt ist die NABU-Station im alten Zollhaus bei der Rheinfähre nach Rhinau mit Führungen auf
+      Deutsch und Französisch. In Rust bietet das Naturzentrum Rheinauen Ausstellungen und Umweltbildung.
+    history: >-
+      Das Naturschutzgebiet wurde 1979 ausgewiesen und zählt mit 1.697 Hektar zu den größten
+      Baden-Württembergs. Ein beträchtlicher Teil der Flächen gehört der französischen Gemeinde Rhinau, deren
+      Eigentumsrechte seit 1542 verbrieft sind—Grundlage einer engen deutsch-französischen Partnerschaft. Das
+      Areal ist Teil des europäischen Schutzgebietsnetzes Natura 2000 und des Ramsar-Gebiets Oberrhein.
+
+
+      Die Rheinkorrektion verringerte regelmäßige Auenüberflutungen. Heute verfolgt das Projekt Rhinaissance
+      die ökologische Wiederbelebung der Flussdynamik am Taubergießen und auf der Rheinauener Insel.
+    before: >-
+      Bleibe stets auf den ausgewiesenen Wegen; das Befahren nicht freigegebener Altarme sowie die Nutzung von
+      Stand-Up-Paddles oder Surfbrettern ist verboten. Bei Hochwasser besteht Lebensgefahr durch Strömungen
+      und das Gebiet kann gesperrt werden.
+    around: >-
+      Dreiundzwanzig Kilometer westlich erheben sich die [Ballons des
+      Vosges](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Weiter entfernt teilen die [Auen der
+      Schwarzen Elster](/lugar/black-elster-floodplain-schwarze-elster/) und der [Slowinzische
+      Nationalpark](/lugar/slowinski-park-narodowy/) Rotmilan und Biber mit dem Schutzgebiet.
+  it:
+    intro: >-
+      Ci fu un tempo in cui il Reno non possedeva un letto unico: era un fiume selvaggio largo vari
+      chilometri, costellato di isole, banchi di ghiaia e rami che mutavano a ogni primavera. Nell'Ottocento
+      le opere di regimazione progettate da Tulla lo costrinsero in un alveo uniforme di 200 metri di
+      larghezza. Quanto sopravvive di quell'antica dinamica fluviale è tutelato nel Taubergießen, una riserva
+      alluvionale dell'Alto Reno tra Vosgi e Foresta Nera dove l'acqua genera tuttora rami vivi, foreste
+      allagate e gießen.
+    landscape: >-
+      Il Taubergießen si estende per oltre 12 km da nord a sud e misura circa 2,5 km nel punto più ampio.
+      L'origine risiede nello sprofondamento della fossa renana circa 35 milioni di anni fa, mentre i rilievi
+      dei Vosgi e della Foresta Nera si sollevavano. Su questo solco il Reno tracciò il proprio alveo
+      accumulando potenti banchi di ghiaie alluvionali.
+
+
+      Il toponimo deriva dai *gießen*: rami sorgivi alimentati dalla falda freatica con acque fredde,
+      trasparenti e poverissime di nutrienti. I pescatori d'un tempo chiamavano queste acque sterili «sorde»
+      (*taub*), da cui il nome Taubergießen. Vi allignano rare alghe rosse incrostanti. Quasi sei decimi del
+      comprensorio sono occupati da boschi di ontani, frassini, olmi, salici e farnie secolari, con settori a
+      libera evoluzione ricchi di legno morto. Oltre gli argini maestri si sviluppano praterie aride,
+      brughiere a molinia e prati da sfalcio ricchi di orchidee.
+    wildlife: >-
+      Il [martin pescatore](/especie/alcedo_atthis/) e il porciglione frequentano i meandri calmi, accanto ad
+      anatidi e oche tra cui oca granaiola, oca lombardella, [oca selvatica](/especie/anser_anser/) e volpoca.
+      Tra i rapaci stazionano [nibbio reale](/especie/milvus_milvus/), nibbio bruno, [falco
+      pescatore](/especie/pandion_haliaetus/), biancone e lodolaio. Nel bosco nidificano sei specie di picchi,
+      compreso il [picchio nero](/especie/dryocopus_martius/), mentre il rigogolo frequenta le chiome
+      alluvionali. L'uccello più comune è la capinera.
+
+
+      Nelle acque vivono bivalvi d'acqua dolce, pesci, gamberi, rane, tritoni e larve di libellula. Nei prati
+      fioriscono *Ophrys holosericea* e *Ophrys sphegodes*, mentre tra gli insetti rari compaiono la farfalla
+      *Phengaris teleius* e il grillo *Pteronemobius heydenii*, minacciati d'estinzione nel Baden-Württemberg.
+      La stagione ideale spazia dalla primavera all'autunno.
+    visit: >-
+      Dall'autunno 2019, sette percorsi tematici segnalati—ciascuno dedicato a una specie—incanalano le visite
+      tutelando la fauna. Il Lachsweg (sentiero del Salmone) è un anello di quattro chilometri lungo il Reno
+      dal parcheggio della stazione NABU. Il Wasserrallenweg (sentiero del Porciglione) misura tre chilometri
+      attraverso il bosco fino al fiume. Il Salers-Rinder-Weg (due chilometri) attraversa il pascolo brado:
+      cani vietati, bovini liberi. Il Pirolweg (sentiero del Rigogolo) tocca boschi e prati per quattro
+      chilometri dal ponte Zuckerbrücke. Il Fischadlerweg (Falco pescatore) e lo Schwarzspechtweg (Picchio
+      nero) misurano ciascuno sei chilometri; il primo costeggia l'argine e la riserva integrale di Herrenkopf
+      con una torre d'avvistamento. Il Gänseweg (sentiero delle Oche), in parte asfaltato, segue il canale
+      Leopold per sei chilometri.
+
+
+      In barca: la navigazione è permessa solo da sud a nord su circa 15 km di corso d'acqua autorizzato,
+      unicamente su scafi privi di motore dalle 8 alle 20; tutti gli altri rami sono interdetti tutto l'anno.
+      Sono disponibili tour guidati sui tradizionali barchini in legno a fondo piatto.
+
+
+      Il punto di ritrovo principale è la stazione NABU nella vecchia dogana presso il traghetto gratuito per
+      Rhinau, con visite guidate in tedesco e francese. A Rust, il Naturzentrum Rheinauen propone percorsi
+      didattici.
+    history: >-
+      Istituita nel 1979, la riserva tutela 1.697 ettari configurandosi come una delle più ampie del
+      Baden-Württemberg. Una porzione consistente dei terreni appartiene al comune francese di Rhinau, i cui
+      diritti storici di proprietà sono riconosciuti sin dal 1542, base di una storica cooperazione
+      transfrontaliera. Il sito ricade nella rete Natura 2000 e nella convenzione di Ramsar per l'Alto Reno.
+
+
+      La canalizzazione del fiume ridusse gli allagamenti periodici. Oggi il progetto Rhinaissance promuove la
+      rinaturazione idrologica del Taubergießen e dell'isola di Rhinau.
+    before: >-
+      Rimani rigorosamente sui tracciati segnalati; navigare al di fuori dei canali autorizzati e impiegare
+      tavole da paddle o surf è vietato. In caso di piena le correnti generano pericolo di morte e la riserva
+      può essere chiusa temporaneamente.
+    around: >-
+      A ventitré chilometri verso ovest si estende il [Parco Naturale Regionale dei Ballons des
+      Vosges](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Più distanti, la [Piana Alluvionale
+      dell'Elster Nero](/lugar/black-elster-floodplain-schwarze-elster/) e il [Parco Nazionale
+      Słowiński](/lugar/slowinski-park-narodowy/) condividono nibbio reale e castoro europeo.
+  pt:
+    intro: >-
+      Houve um tempo em que o Reno não tinha um leito fixo: era um rio bravio com vários quilómetros de
+      largura, salpicado de ilhotas, bancos de saibro e braços que se transfiguravam a cada primavera. No
+      século XIX, as obras de regularização planeadas por Tulla confinaram-no a um canal uniforme de 200
+      metros de largura. O que restou dessa dinâmica selvagem conserva-se em Taubergießen, uma várzea do Alto
+      Reno entre os Vosgues e a Floresta Negra onde a água continua a talhar braços secundários, florestas
+      inundáveis e gießen.
+    landscape: >-
+      Taubergießen estende-se por mais de 12 km de norte a sul e atinge cerca de 2,5 km no ponto mais largo. A
+      sua génese geológica liga-se ao vale de fratura renano: há cerca de 35 milhões de anos a crosta afundou
+      entre Basileia e Frankfurt, enquanto os maciços dos Vosgues e da Floresta Negra se ergueram em redor.
+      Sobre este fosso o Reno abriu o seu curso, sedimentando sucessivas camadas de cascalho e aluviões.
+
+
+      O topónimo provém dos *gießen*: esteiros alimentados pelo lençol freático, com águas frias, límpidas e
+      muito pobres em nutrientes. Os pescadores antigos apelidavam estas águas estéreis de «surdas» (*taub*),
+      dando origem ao nome Taubergießen. Nelas habitam raras algas vermelhas incrustantes. Quase seis décimos
+      da área são floresta: amieiros, freixos, olmos, salgueiros e carvalhos seculares, com matas sem gestão
+      florestal que acumulam madeira morta. Para lá dos diques abrem-se prados secos pioneiros, pastagens de
+      molínia e prados de feno ricos em orquídeas bravas.
+    wildlife: >-
+      O [guarda-rios-comum](/especie/alcedo_atthis/) e o frango-d'água habitam os esteiros calmos,
+      acompanhados por patos e gansos como o ganso-campestre, o ganso-grande-de-testa-branca, o
+      [ganso-comum](/especie/anser_anser/) e o pato-branco. Entre as aves de rapina raras contam-se o
+      [milhafre-real](/especie/milvus_milvus/), o milhafre-preto, a
+      [águia-pesqueira](/especie/pandion_haliaetus/), a águia-cobreira e o órfão. Seis espécies de pica-paus
+      nidificam nas matas, incluindo o [pica-pau-preto](/especie/dryocopus_martius/), enquanto o papa-figos dá
+      nome a um trilho temático. O pássaro mais abundante é a toutinegra-de-barrete-preto.
+
+
+      Nas águas vivem mexilhões de água doce, peixes, lagostins, rãs, tritões e ninfas de libélula. Nas
+      pastagens florescem *Ophrys holosericea* e *Ophrys sphegodes*, enquanto na entomofauna rara destacam-se
+      a borboleta *Phengaris teleius* e o grilo *Pteronemobius heydenii*, em risco crítico no estado de
+      Bade-Vurtemberga. A temporada decorre da primavera ao outono.
+    visit: >-
+      Desde o outono de 2019, sete percursos pedestres temáticos—cada qual consagrado a uma espécie—ordenam as
+      visitas protegendo a tranquilidade da fauna. O Lachsweg (trilho do Salmão) é um circuito de cerca de
+      quatro quilómetros junto ao Reno a partir do parque do posto NABU. O Wasserrallenweg (trilho do
+      Frango-d'água) mede três quilómetros pela mata até ao rio. O Salers-Rinder-Weg (dois quilómetros) cruza
+      o projeto de pastoreio silvestre: cães proibidos, gado em liberdade. O Pirolweg (trilho do Papa-figos)
+      cobre quatro quilómetros de bosque e prados desde a ponte Zuckerbrücke. O Fischadlerweg
+      (Águia-pesqueira) e o Schwarzspechtweg (Pica-pau-preto) somam cerca de seis quilómetros cada; o primeiro
+      acompanha o dique e a reserva integral de Herrenkopf com uma torre de vigia. O Gänseweg (trilho dos
+      Gansos), em parte asfaltado, segue o canal Leopold por seis quilómetros.
+
+
+      De barco: a navegação é autorizada de sul para norte ao longo de cerca de 15 km de esteiro
+      regulamentado, exclusivamente sem motor e das 8 às 20 horas; os demais canais permanecem interditos todo
+      o ano. Organizam-se também passeios em barcas tradicionais de madeira com barqueiros locais experientes.
+
+
+      O ponto de acolhimento principal é a estação NABU na antiga alfândega junto ao batelão gratuito para
+      Rhinau, com visitas em alemão e francês. Em Rust, o Naturzentrum Rheinauen promove educação ambiental.
+    history: >-
+      Criada em 1979, a reserva abrange 1.697 hectares, constituindo uma das maiores de Bade-Vurtemberga.
+      Grande parte do solo pertence ao município francês de Rhinau, cujos direitos fundiários históricos são
+      reconhecidos desde 1542, alicerçando uma estreita cooperação franco-alemã. O território integra a rede
+      Natura 2000 e o sítio Ramsar transfronteiriço do Reno Superior.
+
+
+      A regularização oitocentista do rio diminuiu as cheias naturais nas matas. Hoje, o projeto ecológico
+      Rhinaissance empenha-se em revitalizar a dinâmica fluvial e a biodiversidade ripícola em Taubergießen e
+      na ilha de Rhinau.
+    before: >-
+      Mantém-te estritamente nos trilhos assinalados; navegar fora do troço autorizado e recorrer a pranchas
+      de paddle ou surf é expressamente interdito. Em situação de cheia as correntes impõem perigo de vida e a
+      reserva pode encerrar.
+    around: >-
+      A vinte e três quilómetros para oeste ergue-se o [Parque Natural Regional dos Ballons des
+      Vosges](/lugar/parc-naturel-regional-des-ballons-des-vosges/). Mais distantes, a [Planície de Inundação
+      do Elster Negro](/lugar/black-elster-floodplain-schwarze-elster/) e o [Parque Nacional
+      Słowiński](/lugar/slowinski-park-narodowy/) partilham milhafres-reais e castores-europeus.
+fuentes:
+  - url: https://rp.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_5/Referat_56/Naturschutzgebiete/_DocumentLibraries/nsg-taubergiessen-infoflyer.pdf
+    titulo: Naturschutzgebiet Taubergießen — Regierungspräsidium Freiburg
+    fecha_consulta: '2026-11-06'
+  - url: https://rpf.baden-wuerttemberg.de/abt5/ref56/naturschutzgebiete/naturschutzgebiet-taubergiessen/
+    titulo: Naturschutzgebiet Taubergießen — Regierungspräsidium Freiburg
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Taubergie%C3%9Fen
+    titulo: Taubergießen — Wikipedia (en)
+    fecha_consulta: '2026-11-06'
+  - url: https://www.nabu-taubergiessen.de/
+    titulo: NABU-Naturschutzstation Taubergießen
+    fecha_consulta: '2026-11-06'
+  - url: https://de.wikipedia.org/wiki/Taubergie%C3%9Fen
+    titulo: Taubergießen — Wikipedia (de)
+    fecha_consulta: '2026-11-06'

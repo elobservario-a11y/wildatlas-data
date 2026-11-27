@@ -1,0 +1,372 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/elobservario-a11y/wildatlas-data/schema/lugar.schema.json",
+  "title": "Lugar del Atlas de la Europa Salvaje",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "estado_editorial",
+    "nombre",
+    "paises",
+    "ubicacion",
+    "resumen"
+  ],
+  "$defs": {
+    "multi": {
+      "type": "object",
+      "required": [
+        "es"
+      ],
+      "propertyNames": {
+        "enum": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "pt"
+        ]
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "enlace": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "titulo",
+        "url"
+      ],
+      "properties": {
+        "titulo": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https?://"
+        }
+      }
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+    },
+    "estado_editorial": {
+      "enum": [
+        "pendiente-de-revision",
+        "en-revision",
+        "valoracion-revisada",
+        "desactualizada"
+      ]
+    },
+    "nombre": {
+      "$ref": "#/$defs/multi"
+    },
+    "nombre_original": {
+      "type": "string"
+    },
+    "alias": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "paises": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      }
+    },
+    "region": {
+      "$ref": "#/$defs/multi"
+    },
+    "ubicacion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "precision"
+      ],
+      "properties": {
+        "tipo": {
+          "enum": [
+            "punto",
+            "circulo-orientativo"
+          ]
+        },
+        "lat": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "lon": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        },
+        "radio_km": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "fuente": {
+          "enum": [
+            "estimated",
+            "osm",
+            "manual",
+            "wdpa"
+          ]
+        },
+        "precision": {
+          "enum": [
+            "exacta",
+            "aproximada",
+            "oculta"
+          ]
+        },
+        "calidad": {
+          "enum": [
+            "estimada",
+            "verificada"
+          ]
+        },
+        "capa": {
+          "type": "string"
+        }
+      }
+    },
+    "contorno": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fuente",
+        "capa"
+      ],
+      "properties": {
+        "fuente": {
+          "enum": [
+            "cdda",
+            "natura2000",
+            "osm"
+          ]
+        },
+        "id_externo": {
+          "type": [
+            "integer",
+            "string"
+          ]
+        },
+        "nombre_en_la_fuente": {
+          "type": "string"
+        },
+        "categoria_uicn": {
+          "type": "string"
+        },
+        "capa": {
+          "type": "string"
+        }
+      }
+    },
+    "habitats": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "designaciones": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "especies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "proyectos": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "temporada_ideal": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 12
+      }
+    },
+    "temporada_nota": {
+      "$ref": "#/$defs/multi"
+    },
+    "masificacion": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "masificacion_nota": {
+      "$ref": "#/$defs/multi"
+    },
+    "valoracion": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "dias_visita": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "min": {
+          "type": "number"
+        },
+        "max": {
+          "type": "number"
+        }
+      }
+    },
+    "dificultad_acceso": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "enlaces_oficiales": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/enlace"
+      }
+    },
+    "enlaces_referencia": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/enlace"
+      }
+    },
+    "resumen": {
+      "$ref": "#/$defs/multi"
+    },
+    "unico": {
+      "$ref": "#/$defs/multi"
+    },
+    "observaciones": {
+      "$ref": "#/$defs/multi"
+    },
+    "texto": {
+      "type": "object",
+      "propertyNames": {
+        "enum": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "pt"
+        ]
+      },
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "intro": {
+            "type": "string"
+          },
+          "landscape": {
+            "type": "string"
+          },
+          "wildlife": {
+            "type": "string"
+          },
+          "visit": {
+            "type": "string"
+          },
+          "history": {
+            "type": "string"
+          },
+          "before": {
+            "type": "string"
+          },
+          "around": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "fuentes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "titulo": {
+            "type": "string"
+          },
+          "fecha_consulta": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        }
+      }
+    },
+    "fotos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "pagina_commons",
+          "autor",
+          "licencia"
+        ],
+        "properties": {
+          "pagina_commons": {
+            "type": "string",
+            "pattern": "^https://commons\\.wikimedia\\.org/wiki/File:"
+          },
+          "autor": {
+            "type": "string"
+          },
+          "licencia": {
+            "enum": [
+              "CC0",
+              "Public domain",
+              "CC BY 2.0",
+              "CC BY 2.5",
+              "CC BY 3.0",
+              "CC BY 4.0",
+              "CC BY-SA 2.0",
+              "CC BY-SA 2.0 de",
+              "CC BY-SA 2.5",
+              "CC BY-SA 3.0",
+              "CC BY-SA 3.0 at",
+              "CC BY-SA 3.0 de",
+              "CC BY-SA 3.0 es",
+              "CC BY-SA 3.0 lu",
+              "CC BY-SA 3.0 pl",
+              "CC BY-SA 4.0"
+            ]
+          },
+          "url_licencia": {
+            "type": "string"
+          },
+          "fecha_descarga": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,575 @@
+id: mykines
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Mykines (Islas Feroe)
+  en: Isle of Mykines (Faroe Islands)
+  fr: Île de Mykines (Îles Féroé)
+  de: Insel Mykines (Färöer)
+  it: Isola di Mykines (Isole Fær Øer)
+  pt: Ilha de Mykines (Ilhas Faroé)
+nombre_original: Mykines
+alias:
+  - Mykines
+paises:
+  - FO
+region:
+  es: Islas Feroe (Región de Vágar / Mykines)
+  en: Faroe Islands (Vágar Region / Mykines)
+  fr: Îles Féroé (Région de Vágar / Mykines)
+  de: Färöer (Region Vágar / Mykines)
+  it: Isole Fær Øer (Regione di Vágar / Mykines)
+  pt: Ilhas Faroé (Região de Vágar / Mykines)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/18371785
+  nombre_en_la_fuente: Mykines
+  capa: capas/osm/mykines.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - ramsar
+  - natural_monument
+especies:
+  - fratercula_arctica
+  - morus_bassanus
+  - fulmarus_glacialis
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+temporada_nota:
+  es: junio a agosto (temporada estricta de nidificación del frailecillo atlante)
+  en: June to August (strict Atlantic puffin breeding season)
+  fr: juin à août (période stricte de nidification du macareux moine)
+  de: Juni bis August (strikte Brutzeit des Atlantischen Papageitauchers)
+  it: da giugno ad agosto (stagione rigorosa di nidificazione della pulcinella di mare)
+  pt: junho a agosto (época estrita de nidificação do papagaio-do-mar)
+masificacion: 3
+masificacion_nota:
+  es: Alta en el ferry diurno desde Sørvágur; cupo diario limitado de visitantes
+  en: High on daytime passenger ferries from Sørvágur; daily visitor quotas strictly enforced
+  fr: Forte à bord des ferries diurnes depuis Sørvágur ; quota journalier de visiteurs strictement limité
+  de: Hoch auf den Tagesfähren ab Sørvágur; tägliche Besucherkontingente streng reglementiert
+  it: Alta a bordo dei traghetti diurni da Sørvágur; quota giornaliera di visitatori rigidamente contingentata
+  pt: Alta nos barcos diurnos a partir de Sørvágur; quota diária de visitantes rigidamente controlada
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Administración y visita — Mykines
+    url: https://visitvagar.fo/en/visit-mykines
+  - titulo: Normas y permisos — Preguntas frecuentes de Mykines
+    url: https://visitvagar.fo/en/visit-mykines/plan-your-stay6/faq
+  - titulo: Accesos — Transporte a Mykines
+    url: https://visitvagar.fo/en/visit-mykines/plan-your-stay6/transport-to-mykines
+  - titulo: Mapa — Vágar y Mykines
+    url: https://visitvagar.fo/en/plan-your-stay3/practical-information/map-of-vagar-and-mykines0
+  - titulo: Avisos de acceso — Restricciones de Mykines, transporte público
+    url: https://www.ssl.fo/en/customer-service/please-note-restrictions-on-mykines
+resumen:
+  es: >-
+    La 'Isla de los Frailecillos', el islote más occidental de las Islas Feroe con acantilados basálticos
+    donde anidan cientos de miles de frailecillos atlantes (*Fratercula arctica*).
+  en: >-
+    The "Puffin Island", the westernmost outpost of the Faroe Islands, with sheer basalt sea cliffs where
+    hundreds of thousands of Atlantic puffins (*Fratercula arctica*) nest.
+  fr: >-
+    « L’île aux macareux », l’avant-poste le plus occidental des îles Féroé, aux falaises basaltiques où
+    nichent des centaines de milliers de macareux moines (*Fratercula arctica*).
+  de: >-
+    Die „Papageitaucherinsel“, der westlichste Außenposten der Färöer-Inseln mit Basaltklippen, an denen
+    hunderttausende Papageitaucher (*Fratercula arctica*) nisten.
+  it: >-
+    L’«Isola delle pulcinelle di mare», il lembo più occidentale delle Fær Øer con scogliere basaltiche dove
+    nidificano centinaia di migliaia di pulcinelle (*Fratercula arctica*).
+  pt: >-
+    A «Ilha dos Papagaios-do-mar», o posto mais ocidental das Ilhas Faroé com arribas basálticas onde
+    nidificam centenas de milhares de papagaios-do-mar (*Fratercula arctica*).
+unico:
+  es: >-
+    Es el único lugar de las Islas Feroe donde anida el alcatraz, y tiene además una de las mayores colonias
+    de frailecillos del archipiélago.
+  en: >-
+    It is the only breeding station for the northern gannet in the Faroe Islands, and hosts one of the largest
+    puffin colonies in the entire archipelago.
+  fr: >-
+    C’est le seul lieu des îles Féroé où niche le fou de Bassan, et elle abrite l’une des plus formidables
+    colonies de macareux de tout l’archipel.
+  de: >-
+    Der einzige Brutplatz des Basstölpels auf den Färöern und Heimat einer der gewaltigsten
+    Papageitaucherkolonien des gesamten Archipels.
+  it: >-
+    È l’unico sito di nidificazione della sula bassana nelle Fær Øer e ospita una delle più colossali colonie
+    di pulcinelle di mare dell’arcipelago.
+  pt: >-
+    É o único local das Ilhas Faroé onde nidifica o ganso-patola e acolhe uma das maiores colónias de
+    papagaios-do-mar do arquipélago.
+observaciones:
+  es: >-
+    Fuera del pueblo solo se permite caminar de 10:00 a 17:00, para dar descanso a las aves y a las ovejas.
+    Mantente siempre en el sendero: hay frailecillos anidando bajo tus pies. Hay que ir en silencio y mantener
+    al menos dos metros de distancia con ellos. Está prohibido meter la mano en los nidos, tocar o agarrar
+    frailecillos y fotografiar dentro de los nidos. El sendero al faro está cerrado de mayo a septiembre,
+    porque atraviesa la zona de nidificación. Acampar en el campo abierto sin permiso de los propietarios no
+    está permitido, y la basura que encuentres se devuelve a la isla principal.
+texto:
+  es:
+    intro: >-
+      A mediados de agosto, un frailecillo joven sale por primera vez de la madriguera donde ha pasado sus
+      primeras semanas. Esa escena resume Mykines: una isla de poco más de 10 km², la más occidental de las
+      Islas Feroe, que cada verano se llena de aves marinas y de gente que va a verlas. Hay un único pueblo,
+      también llamado Mykines, con más de cuarenta casas y unos quince habitantes permanentes, y en verano esa
+      cifra aumenta de forma drástica. No hay coches. Y casi todo el mundo viene por lo mismo: por los
+      frailecillos.
+    landscape: >-
+      Mykines es basalto. Junto con Suðuroy, conserva las capas más antiguas del archipiélago. En el este se
+      abren dos grandes valles en forma de U, Borgardalur y Kálvadalur, y al norte el pequeño valle de
+      Korkadalur guarda columnas de basalto conocidas como el bosque de piedra. El fondo de esos valles se
+      pierde en las montañas del centro, donde se alza el Knúkur, de 560 m, la principal elevación de la isla.
+      Desde ahí, el terreno desciende con suavidad hasta la costa oeste, donde está el pueblo.
+
+
+      Al oeste, separado por un estrecho, queda el islote de Mykineshólmur, unido a la isla por una pasarela.
+      Allí está el faro, el monumento más emblemático. No se puede llegar caminando hasta él: el mirador á
+      Rógvu es lo más lejos que se llega.
+    wildlife: >-
+      En Mykines habitan varias decenas de miles de aves marinas, sobre todo
+      [frailecillos](/especie/fratercula_arctica/), [fulmares boreales](/especie/fulmarus_glacialis/), [paíños
+      europeos](/especie/hydrobates_pelagicus/) y [gaviotas tridáctilas](/especie/rissa_tridactyla/). Además
+      anidan alcatraces, araos y alcas. La isla está marcada como zona Ramsar, y entre las pocas especies de
+      mamíferos hay una liebre introducida por los humanos y una subespecie de ratón endémica, el ratón de
+      Mykines.
+
+
+      El calendario lo marca el frailecillo. Puedes verlo desde finales de abril hasta principios de
+      septiembre, y la mejor temporada en tierra va de mediados de mayo a finales de agosto, porque son aves
+      marinas que solo bajan a tierra para criar. A finales de abril o principios de mayo llegan y empiezan a
+      preparar la madriguera, un túnel que puede superar el metro de profundidad. Las crías, llamadas
+      pufflings, nacen en julio, pasan unas semanas dentro y suelen salir a mediados de agosto. Si ves un
+      frailecillo con peces en el pico delante de ti, probablemente lleva comida a su cría: si se queda
+      quieto, estás bloqueando su nido.
+    visit: >-
+      Para entrar en el campo abierto de Mykines, donde se concentran la mayoría de los frailecillos, hay que
+      ir con un guía acreditado y pagar una tasa a los propietarios. Quien se queda en los caminos públicos
+      del campo cercano al pueblo no la necesita. La ruta más habitual sube al área de Óli Rami y al monumento
+      conmemorativo, donde se ven frailecillos de cerca por primera vez. Después llega al mirador á Rógvu, con
+      vistas a la colonia de í Lamba, los acantilados de aves y el faro. La vuelta sigue el borde norte del
+      pueblo, con vistas y acantilados de aves, y termina en el mirador Kumlar, junto a la bahía.
+
+
+      Si buscas menos gente, los guías pueden llevarte más adentro, a los miradores de Norðara Nesgjóv y
+      Knúkur o al bosque de piedra.
+
+
+      Se llega en el transbordador que sale de Sørvágur o en helicóptero desde el aeropuerto de Vágar. El
+      ferry solo tiene servicio regular de mayo a agosto y conexión limitada en septiembre, otoño y abril.
+      Durante seis meses al año, el único transporte de los vecinos es el helicóptero.
+    history: >-
+      Por el polen se sabe que en el año 625 ya había cebada y avena en Mykines, quizá traídas por los
+      primeros pobladores. En 1595 una tormenta repentina mató a todos los hombres que trabajaban en la isla,
+      entre 200 y 300, a bordo de cinco barcos. El faro del islote se construyó en 1909, cuando se inauguró
+      también el primer puente hasta la isla.
+    before: >-
+      Fuera del pueblo solo se permite caminar de 10:00 a 17:00, para dar descanso a las aves y a las ovejas.
+      Mantente siempre en el sendero: hay frailecillos anidando bajo tus pies. Hay que ir en silencio y
+      mantener al menos dos metros de distancia con ellos. Está prohibido meter la mano en los nidos, tocar o
+      agarrar frailecillos y fotografiar dentro de los nidos. El sendero al faro está cerrado de mayo a
+      septiembre, porque atraviesa la zona de nidificación. Acampar en el campo abierto sin permiso de los
+      propietarios no está permitido, y la basura que encuentres se devuelve a la isla principal.
+    around: >-
+      Los [Acantilados Ornitológicos de Vestmanna](/lugar/vestmanna-bird-cliffs/) están a unos veinticinco
+      kilómetros. Más lejos, [St Kilda](/lugar/st-kilda/), [Alderney](/lugar/alderney/), la [Reserva Natural
+      de las Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) y [Skellig Michael](/lugar/skellig-michael/)
+      comparten con Mykines el alcatraz y el frailecillo.
+  en:
+    intro: >-
+      In mid-August, a young puffin ventures for the first time outside the turf burrow where it spent its
+      initial weeks of life. That single moment captures the essence of Mykines: an island measuring just over
+      10 km², the westernmost in the Faroe Islands, which every summer comes alive with seabirds and
+      travellers arriving to admire them. There is a solitary settlement, also called Mykines, featuring over
+      forty houses and around fifteen permanent residents, though that figure swells dramatically in summer.
+      There are no cars. And virtually everyone journeys here for the same reason: the puffins.
+    landscape: >-
+      Mykines is built of solid basalt. Together with Suðuroy, it preserves the oldest geological strata
+      across the archipelago. To the east open two vast U-shaped glacial valleys, Borgardalur and Kálvadalur,
+      while to the north the secluded valley of Korkadalur shelters striking basalt columns celebrated as the
+      stone forest. The heads of these valleys converge into the central uplands, crowned by Knúkur at 560 m,
+      the highest summit on the island. From there, the terrain slopes gently towards the western shoreline,
+      where the village nestles.
+
+
+      To the west, separated by a narrow sound, lies the islet of Mykineshólmur, linked to the main island by
+      a footbridge. Upon it perches the lighthouse, the island’s most iconic landmark. Walking all the way out
+      to the lighthouse is currently prohibited: the á Rógvu viewpoint marks the furthest accessible point.
+    wildlife: >-
+      Mykines is home to tens of thousands of seabirds, predominantly [Atlantic
+      puffins](/especie/fratercula_arctica/), [northern fulmars](/especie/fulmarus_glacialis/), [European
+      storm petrels](/especie/hydrobates_pelagicus/), and [black-legged
+      kittiwakes](/especie/rissa_tridactyla/). In addition, northern gannets, common murres, and razorbills
+      nest along the cliffs. The island is designated as a Ramsar wetland, and among its scant terrestrial
+      mammals are mountain hares introduced by humans and an endemic house mouse subspecies, the Mykines
+      mouse.
+
+
+      The seasonal calendar revolves around the puffins. You can observe them from late April through early
+      September, with the peak onshore viewing window spanning mid-May to late August, as these pelagic
+      wanderers only touch land to rear young. In late April or early May they arrive and begin clearing out
+      burrows, excavation tunnels that can extend more than a metre deep into the grassy slopes. The chicks,
+      known as pufflings, hatch in July, remain underground for several weeks, and generally fledge in
+      mid-August. If you encounter an adult puffin standing before you with small fish crosswise in its bill,
+      it is carrying food to its chick: if it freezes, you are blocking the entrance to its burrow.
+    visit: >-
+      To hike across the open moorland and coastal slopes of Mykines where puffins congregate, visitors must
+      be accompanied by an accredited local guide and pay a conservation hiking fee to landowners. Those who
+      remain within the village public pathways do not require a guide or permit. The most frequented guided
+      route climbs towards Óli Rami and the memorial monument, where hikers encounter puffins at close
+      quarters for the first time. It continues to the á Rógvu viewpoint, opening up panoramic vistas over the
+      í Lamba breeding colony, the outer bird cliffs, and the lighthouse. The return leg skirts the northern
+      edge of the hamlet, overlooking sea cliffs, before concluding at the Kumlar viewpoint beside the bay.
+
+
+      If you prefer quieter walks, guides can lead you further inland towards the Norðara Nesgjóv and Knúkur
+      viewpoints or out towards the basalt stone forest.
+
+
+      Access is via passenger ferry from Sørvágur or by scheduled helicopter service from Vágar airport. The
+      ferry operates regular daily crossings from May to August, with limited autumn, winter, and April
+      connections. For six months of the year, the helicopter represents the residents’ sole link to the
+      outside world.
+    history: >-
+      Fossil pollen analyses indicate that as early as the year 625 barley and oats were cultivated on
+      Mykines, likely brought by the earliest Norse or Celtic settlers. In 1595 a sudden squall claimed the
+      lives of all able-bodied men working offshore from the island, between 200 and 300 souls aboard five
+      fishing boats. The Mykineshólmur lighthouse was constructed in 1909, coinciding with the completion of
+      the first suspension footbridge connecting it to the island.
+    before: >-
+      Outside the village perimeter, hiking is permitted solely between 10:00 and 17:00, allowing seabirds and
+      grazing sheep undisturbed rest. Stay strictly on waymarked trails: puffins nest in subterranean burrows
+      directly beneath your feet. Walk quietly and maintain at least two metres distance from the birds.
+      Reaching into burrows, handling puffins, or pointing camera lenses down into nesting tunnels is strictly
+      outlawed. The footpath connecting to the lighthouse is closed from May to September to protect sensitive
+      breeding areas. Pitching tents across open land without prior permission from landowners is forbidden,
+      and all rubbish must be packed out and returned to the main island.
+    around: >-
+      The [Vestmanna Bird Cliffs](/lugar/vestmanna-bird-cliffs/) lie roughly twenty-five kilometres away.
+      Further afield, [St Kilda](/lugar/st-kilda/), [Alderney](/lugar/alderney/), the [Sept-Îles Nature
+      Reserve](/lugar/reserve-naturelle-des-sept-iles/), and [Skellig Michael](/lugar/skellig-michael/) share
+      northern gannets and Atlantic puffins with Mykines.
+  fr:
+    intro: >-
+      À la mi-août, un jeune macareux quitte pour la première fois le terrier herbeux où il a passé ses
+      premières semaines d’existence. Cette scène résume Mykines : une île d’à peine plus de 10 km², la plus
+      occidentale des îles Féroé, qui se remplit chaque été d’oiseaux de mer et de passionnés venus les
+      contempler. Il n’y a qu’un seul village, également baptisé Mykines, comptant plus de quarante maisons et
+      une quinzaine d’habitants permanents, population qui augmente drastiquement à la belle saison. Aucune
+      voiture n’y circule. Et presque tout le monde s’y rend pour la même raison : les macareux.
+    landscape: >-
+      Mykines est tout de basalte vêtue. De concert avec Suðuroy, elle conserve les strates géologiques les
+      plus vénérables de l’archipel. Vers l’est s’évasent deux amples vallées en U, Borgardalur et Kálvadalur,
+      tandis qu’au nord le vallon encaissé de Korkadalur recèle de remarquables orgues basaltiques surnommées
+      la forêt de pierre. Le fond de ces vallées s’élève vers les hauteurs centrales où culmine le Knúkur, à
+      560 m d’altitude, point culminant de l’île. De là, le relief dévale en pente douce vers le littoral
+      occidental où s’abrite le village.
+
+
+      À l’ouest, séparé par un étroit goulet marin, se dresse l’îlot de Mykineshólmur, relié à l’île
+      principale par une passerelle suspendue. C’est là que se dresse le phare emblématique. Il est interdit
+      de s’y rendre à pied : le belvédère d’á Rógvu constitue le point le plus avancé accessible aux
+      randonneurs.
+    wildlife: >-
+      Plusieurs dizaines de milliers d’oiseaux marins habitent Mykines, au premier rang desquels les [macareux
+      moines](/especie/fratercula_arctica/), les [fulmars boréaux](/especie/fulmarus_glacialis/), les
+      [océanites tempêtes](/especie/hydrobates_pelagicus/) et les [mouettes
+      tridactyles](/especie/rissa_tridactyla/). Y nichent également des fous de Bassan, des guillemots et des
+      petits pingouins. L’île est reconnue site Ramsar, et parmi ses rares mammifères terrestres figurent un
+      lièvre variable introduit par l’homme et une sous-espèce endémique de souris, la souris de Mykines.
+
+
+      Le macareux dicte le rythme des saisons. On peut l’observer de fin avril à début septembre, la meilleure
+      période à terre s’étendant de la mi-mai à la fin août, car ces oiseaux du grand large ne touchent terre
+      que pour se reproduire. Fin avril ou début mai, ils débarquent et aménagent leur terrier, galerie
+      pouvant s’enfoncer à plus d’un mètre de profondeur. Les poussins naissent en juillet, restent quelques
+      semaines à l’abri et prennent généralement leur envol à la mi-août. Si vous voyez un macareux adulte le
+      bec garni de petits poissons immobiles devant vous, il s’apprête à nourrir son jeune : s’il ne bouge
+      pas, c’est que vous obstruez l’entrée de son terrier.
+    visit: >-
+      Pour s’aventurer dans la lande et sur les versants de Mykines où se concentrent les macareux, il est
+      obligatoire d’être accompagné d’un guide local accrédité et de s’acquitter d’une taxe auprès des
+      propriétaires fonciers. Ceux qui se cantonnent aux ruelles publiques du village en sont exemptés.
+      L’itinéraire guidé le plus classique monte vers la zone d’Óli Rami et le monument commémoratif, où l’on
+      approche les macareux pour la première fois. Il atteint ensuite le belvédère d’á Rógvu, embrassant la
+      colonie d’í Lamba, les falaises d’oiseaux et le phare. Le retour longe la lisière nord du village,
+      offrant des panoramas marins somptueux, avant de rejoindre le belvédère de Kumlar près de la baie.
+
+
+      Pour une expérience plus sauvage, les guides peuvent vous conduire vers les belvédères de Norðara
+      Nesgjóv et du Knúkur ou jusqu’à la forêt de pierre.
+
+
+      On y accède en ferry depuis Sørvágur ou en hélicoptère depuis l’aéroport de Vágar. Le bateau n’assure de
+      liaisons régulières que de mai à août, avec un service restreint en automne et en avril. Pendant six
+      mois de l’année, l’hélicoptère constitue l’unique cordon ombilical des insulaires.
+    history: >-
+      L’analyse des pollens atteste qu’en l’an 625 l’orge et l’avoine étaient déjà cultivées à Mykines,
+      probablement apportées par de premiers ermites ou navigateurs. En 1595, une tempête soudaine anéantit la
+      quasi-totalité des hommes valides de l’île, entre 200 et 300 pêcheurs périssant à bord de cinq
+      embarcations. Le phare de Mykineshólmur fut érigé en 1909, année où fut également inaugurée la première
+      passerelle reliant l’îlot.
+    before: >-
+      Hors du village, la marche n’est autorisée que de 10:00 à 17:00, afin de préserver la quiétude des
+      oiseaux et des moutons. Restez scrupuleusement sur les sentiers balisés : les macareux nichent sous vos
+      pas. Avancez en silence et gardez au moins deux mètres de distance avec les animaux. Il est formellement
+      interdit de glisser la main dans les terriers, de toucher les macareux ou de photographier l’intérieur
+      des nids. Le sentier menant au phare est fermé de mai à septembre pour protéger la reproduction. Le
+      bivouac sauvage est interdit sans accord des propriétaires, et tous les déchets doivent être rapportés
+      sur l’île principale.
+    around: >-
+      Les [Falaises ornithologiques de Vestmanna](/lugar/vestmanna-bird-cliffs/) se situent à environ
+      vingt-cinq kilomètres. Plus loin, [St Kilda](/lugar/st-kilda/), [Aurigny](/lugar/alderney/), la [Réserve
+      Naturelle des Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) et [Skellig
+      Michael](/lugar/skellig-michael/) partagent avec Mykines le fou de Bassan et le macareux.
+  de:
+    intro: >-
+      Mitte August wagt sich ein junger Papageitaucher zum ersten Mal aus der Erdhöhle, in der er seine ersten
+      Lebenswochen verbracht hat. Dieser Augenblick fängt den Zauber von Mykines ein: eine Insel von kaum mehr
+      als 10 km², die westlichste der Färöer, die jeden Sommer von Seevögeln und Naturfreunden bevölkert wird.
+      Es gibt nur ein einziges Dorf, ebenfalls Mykines genannt, mit gut vierzig Häusern und etwa fünfzehn
+      ständigen Einwohnern, eine Zahl, die im Sommer sprunghaft ansteigt. Es gibt keine Autos. Und fast jeder
+      reist aus demselben Grund an: wegen der Papageitaucher.
+    landscape: >-
+      Mykines besteht aus purem Basalt. Gemeinsam mit Suðuroy bewahrt die Insel die ältesten geologischen
+      Gesteinsschichten des Archipels. Im Osten öffnen sich zwei mächtige U-förmige Trogtäler, Borgardalur und
+      Kálvadalur, während im Norden das enge Korkadalur markante Basaltsäulen birgt, die als „Steinwald“
+      bekannt sind. Die Täler laufen in den zentralen Höhenzügen zusammen, wo der Knúkur mit 560 m die höchste
+      Erhebung markiert. Von dort fällt das Gelände sanft zur Westküste ab, wo sich das Dorf duckt.
+
+
+      Im Westen, getrennt durch einen engen Sund, liegt das Eiland Mykineshólmur, das über eine
+      Fußgängerbrücke mit der Hauptinsel verbunden ist. Dort steht der Leuchtturm, das bekannteste Wahrzeichen
+      der Insel. Bis zum Turm darf man jedoch nicht mehr wandern: Der Aussichtspunkt á Rógvu ist das weiteste
+      erreichbare Ziel.
+    wildlife: >-
+      Auf Mykines leben mehrere zehntausend Seevögel, allen voran
+      [Papageitaucher](/especie/fratercula_arctica/), [Eissturmvögel](/especie/fulmarus_glacialis/),
+      [Sturmschwalben](/especie/hydrobates_pelagicus/) und [Dreizehenmöwen](/especie/rissa_tridactyla/). Zudem
+      nisten Basstölpel, Trottellummen und Tordalke an den Klippen. Die Insel ist als Ramsar-Gebiet
+      ausgewiesen, und zu den wenigen Landsäugetieren zählen ein vom Menschen eingeführter Schneehase sowie
+      eine endemische Unterart der Hausmaus, die Mykines-Maus.
+
+
+      Der Lebenszyklus des Papageitauchers bestimmt das Jahr. Man kann ihn von Ende April bis Anfang September
+      beobachten; die beste Zeit an Land reicht von Mitte Mai bis Ende August, da diese Meeresvögel nur zur
+      Aufzucht an Land kommen. Ende April oder Anfang Mai treffen sie ein und beginnen mit dem Ausheben ihrer
+      Bruthöhlen, die über einen Meter tief in den Grasboden reichen können. Die Jungvögel schlüpfen im Juli,
+      bleiben einige Wochen im Bau und fliegen meist Mitte August aus. Wenn ein Altvogel mit kleinen Fischen
+      im Schnabel vor dir verharrt, trägt er Futter für sein Junges herbei: Bleibt er regungslos stehen,
+      versperrst du seinen Höhleneingang.
+    visit: >-
+      Um das offene Gelände von Mykines zu betreten, wo sich die meisten Papageitaucher aufhalten, ist die
+      Begleitung durch einen lizenzierten Guide sowie die Entrichtung einer Wandergebühr an die Landbesitzer
+      vorgeschrieben. Wer auf den öffentlichen Wegen im Dorf bleibt, benötigt keine Genehmigung. Die
+      beliebteste geführte Route steigt zum Areal Óli Rami und zum Denkmal auf, wo Wanderer den
+      Papageitauchern erstmals ganz nah kommen. Danach geht es zum Aussichtspunkt á Rógvu mit Ausblick auf die
+      Brutkolonie í Lamba, die Vogelfelsen und den Leuchtturm. Der Rückweg führt am Nordrand des Dorfes
+      entlang und endet am Aussichtspunkt Kumlar nahe der Bucht.
+
+
+      Wer Abgeschiedenheit sucht, kann sich von Guides weiter ins Landesinnere zu den Aussichtspunkten Norðara
+      Nesgjóv und Knúkur oder zum Steinwald führen lassen.
+
+
+      Die Anreise erfolgt mit der Personenfähre ab Sørvágur oder per Helikopter ab Flughafen Vágar. Die Fähre
+      verkehrt nur von Mai bis August fahrplanmäßig, mit eingeschränktem Verkehr im Herbst und April. Sechs
+      Monate im Jahr ist der Hubschrauber die einzige Verkehrsverbindung der Bewohner.
+    history: >-
+      Pollenanalysen belegen, dass auf Mykines bereits im Jahr 625 Gerste und Hafer angebaut wurden,
+      vermutlich durch frühe Siedler oder Mönche. Im Jahr 1595 forderte ein plötzlicher Sturm das Leben aller
+      arbeitsfähigen Männer der Insel: Zwischen 200 und 300 Seeleute starben an Bord von fünf Booten. Der
+      Leuchtturm auf Mykineshólmur wurde 1909 errichtet, als auch die erste Hängebrücke zur Insel eingeweiht
+      wurde.
+    before: >-
+      Außerhalb des Dorfes darf nur zwischen 10:00 und 17:00 gewandert werden, um den Vögeln und Schafen Ruhe
+      zu gönnen. Bleibe strikt auf den Pfaden: Papageitaucher brüten direkt unter deinen Füßen im Erdreich.
+      Verhalte dich ruhig und halte mindestens zwei Meter Abstand zu den Tieren. Es ist verboten, in die
+      Höhlen zu greifen, Vögel anzufassen oder in die Nester zu fotografieren. Der Pfad zum Leuchtturm ist von
+      Mai bis September gesperrt, um Brutgebiete zu schützen. Wildes Campen ohne Erlaubnis ist untersagt, und
+      alle Abfälle müssen wieder auf die Hauptinsel mitgenommen werden.
+    around: >-
+      Die [Vogelfelsen von Vestmanna](/lugar/vestmanna-bird-cliffs/) liegen etwa fünfundzwanzig Kilometer
+      entfernt. Weiter entfernt teilen [St Kilda](/lugar/st-kilda/), [Alderney](/lugar/alderney/), das
+      [Naturschutzgebiet Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) und [Skellig
+      Michael](/lugar/skellig-michael/) Basstölpel und Papageitaucher mit Mykines.
+  it:
+    intro: >-
+      A metà agosto, una giovane pulcinella di mare esce per la prima volta dalla tana scavata nel terreno
+      dove ha trascorso le sue prime settimane. Questa scena riassume Mykines: un’isola di poco più di 10 km²,
+      la più occidentale delle Fær Øer, che ogni estate si popola di uccelli marini e di visitatori venuti ad
+      ammirarli. C’è un unico villaggio, chiamato anch’esso Mykines, con oltre quaranta case e circa quindici
+      residenti permanenti, numero che cresce sensibilmente d’estate. Non vi sono automobili. E quasi tutti
+      arrivano spinti dallo stesso desiderio: le pulcinelle di mare.
+    landscape: >-
+      Mykines è scolpita nel basalto. Assieme a Suðuroy, custodisce gli strati geologici più antichi
+      dell’intero arcipelago. Verso oriente si aprono due grandi valli glaciali a U, Borgardalur e Kálvadalur,
+      mentre a nord la stretta valle di Korkadalur cela imponenti colonne di basalto note come la foresta di
+      pietra. Il fondovalle sale verso i rilievi centrali, dominati dal Knúkur a 560 m di quota, la massima
+      cima isolana. Da qui il territorio scende con pendenze dolci verso la costa occidentale, dove sorge il
+      borgo.
+
+
+      A ovest, separato da uno stretto braccio di mare, sorge l’isolotto di Mykineshólmur, collegato all’isola
+      madre da una passerella. Lì si erge il faro, l’elemento più celebre del paesaggio. Non è consentito
+      raggiungerlo a piedi: il punto panoramico di á Rógvu segna il limite massimo di accesso.
+    wildlife: >-
+      A Mykines dimorano svariate decine di migliaia di uccelli marini, in particolare [pulcinelle di
+      mare](/especie/fratercula_arctica/), [fulmari](/especie/fulmarus_glacialis/), [uccelli delle tempeste
+      europei](/especie/hydrobates_pelagicus/) e [gabbiani tridattili](/especie/rissa_tridactyla/). Vi
+      nidificano inoltre sule bassane, urie e gazze marine. L’isola è designata come zona Ramsar e tra i pochi
+      mammiferi terrestri figurano una lepre introdotta dall’uomo e una sottospecie endemica di topo, il topo
+      di Mykines.
+
+
+      Il ritmo vitale è scandito dalla pulcinella. La si può osservare da fine aprile a inizio settembre, con
+      il periodo ideale a terra che va da metà maggio a fine agosto, trattandosi di uccelli oceanici che
+      toccano la terraferma unicamente per riprodursi. Tra fine aprile e inizio maggio giungono a terra e
+      iniziano a scavare i cunicoli, che possono spingersi a oltre un metro di profondità nel suolo. I pulcini
+      nascono a luglio, restano protetti per alcune settimane ed escono generalmente a metà agosto. Se scorgi
+      una pulcinella adulta con piccoli pesci nel becco ferma davanti a te, sta portando cibo al nido: se non
+      si muove, stai bloccando il suo cunicolo.
+    visit: >-
+      Per inoltrarsi nei pascoli aperti di Mykines dove si raduna la maggior parte delle pulcinelle, è
+      obbligatorio farsi accompagnare da una guida accreditata e corrispondere una tariffa ai proprietari
+      terrieri. Chi rimane sui percorsi pubblici attorno al villaggio non necessita di permessi. L’itinerario
+      guidato più battuto sale verso Óli Rami e il monumento commemorativo, dove si osservano le pulcinelle da
+      vicino per la prima volta. Raggiunge poi il belvedere di á Rógvu, affacciato sulla colonia di í Lamba,
+      le falesie e il faro. Il rientro costeggia il margine settentrionale dell’abitato e termina al punto
+      panoramico di Kumlar, accanto alla baia.
+
+
+      Per percorsi più solitari, le guide possono condurti verso l’interno, ai belvederi di Norðara Nesgjóv e
+      del Knúkur o alla foresta di pietra.
+
+
+      Si arriva con il traghetto passeggeri da Sørvágur o in elicottero dall’aeroporto di Vágar. Il traghetto
+      effettua corse regolari da maggio ad agosto, con collegamenti ridotti in autunno e ad aprile. Per sei
+      mesi all’anno, l’elicottero rappresenta l’unica via di collegamento dei residenti.
+    history: >-
+      Le analisi dei pollini rivelano che già nel 625 si coltivavano orzo e avena a Mykines, introdotti con
+      ogni probabilità dai primi coloni. Nel 1595 una tempesta improvvisa causò la morte di tutti gli uomini
+      validi dell’isola: tra 200 e 300 persone perirono a bordo di cinque imbarcazioni. Il faro di
+      Mykineshólmur venne costruito nel 1909, anno in cui fu inaugurato anche il primo ponte sospeso verso
+      l’isola.
+    before: >-
+      Al di fuori del villaggio è consentito camminare solo tra le 10:00 e le 17:00, per garantire
+      tranquillità agli uccelli e alle pecore. Rimani sempre lungo i sentieri tracciati: le pulcinelle
+      nidificano sotto i tuoi passi. Cammina in silenzio e mantieni almeno due metri di distanza dagli
+      uccelli. È vietato infilare le mani nei nidi, toccare le pulcinelle o fotografare dentro i cunicoli. Il
+      sentiero per il faro è chiuso da maggio a settembre a tutela della nidificazione. Il campeggio libero
+      senza autorizzazione è proibito e tutti i rifiuti vanno riportati sull’isola principale.
+    around: >-
+      Le [Falesie ornitologiche di Vestmanna](/lugar/vestmanna-bird-cliffs/) distano circa venticinque
+      chilometri. Più distanti, [St Kilda](/lugar/st-kilda/), [Alderney](/lugar/alderney/), la [Riserva
+      Naturale delle Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e [Skellig
+      Michael](/lugar/skellig-michael/) condividono con Mykines la sula e la pulcinella di mare.
+  pt:
+    intro: >-
+      A meados de agosto, um jovem papagaio-do-mar sai pela primeira vez da toca subterrânea onde passou as
+      suas semanas iniciais de vida. Essa cena condensa Mykines: uma ilha com pouco mais de 10 km², a mais
+      ocidental das Ilhas Faroé, que todos os verões se enche de aves marinhas e de viajantes que as vêm
+      contemplar. Há uma única aldeia, igualmente chamada Mykines, com mais de quarenta casas e cerca de
+      quinze habitantes permanentes, número que sobe drasticamente no verão. Não há carros. E quase toda a
+      gente viaja pelo mesmo motivo: os papagaios-do-mar.
+    landscape: >-
+      Mykines é puro basalto. Juntamente com Suðuroy, conserva as camadas geológicas mais antigas do
+      arquipélago. A leste abrem-se dois grandes vales glaciares em U, Borgardalur e Kálvadalur, e a norte o
+      vale recortado de Korkadalur guarda colunas de basalto conhecidas como a floresta de pedra. O fundo
+      desses vales conflui nas elevações centrais, onde culmina o Knúkur, a 560 m de altitude, o ponto mais
+      alto da ilha. A partir daí, o relevo desce suavemente até à costa oeste, onde assenta a aldeia.
+
+
+      A oeste, separado por um estreito canal marítimo, ergue-se o ilhéu de Mykineshólmur, ligado à ilha
+      principal por uma ponte pedonal. Ali ergue-se o farol emblemático. Não é permitido caminhar até ele: o
+      miradouro á Rógvu é o ponto mais avançado acessível aos visitantes.
+    wildlife: >-
+      Em Mykines habitam várias dezenas de milhares de aves marinhas, com destaque para os
+      [papagaios-do-mar](/especie/fratercula_arctica/), os [fulmares-glaciais](/especie/fulmarus_glacialis/),
+      os [painhos-de-cauda-quadrada](/especie/hydrobates_pelagicus/) e as
+      [gaivotas-tridáctilas](/especie/rissa_tridactyla/). Além disso, nidificam gansos-patola, airos e
+      tordas-mergulheiras. A ilha está classificada como sítio Ramsar e, entre os escassos mamíferos
+      terrestres, conta com uma lebre introduzida e uma subespécie endémica de rato, o rato-de-mykines.
+
+
+      O calendário é marcado pelo papagaio-do-mar. Podes observá-lo desde o final de abril até ao início de
+      setembro, situando-se o período ideal em terra entre meados de maio e o fim de agosto, já que estas aves
+      pelágicas só vêm a terra para criar. No final de abril ou início de maio chegam e começam a preparar as
+      tocas, galerias que podem ultrapassar um metro de profundidade no solo. As crias nascem em julho, passam
+      algumas semanas abrigadas e abandonam os ninhos geralmente em meados de agosto. Se vires um
+      papagaio-do-mar adulto com peixes no bico parado diante de ti, transporta alimento para a cria: se
+      permanecer imóvel, estás a tapar a entrada da sua toca.
+    visit: >-
+      Para entrar no campo aberto de Mykines, onde se concentra a maioria dos papagaios-do-mar, é obrigatório
+      seguir com um guia credenciado e pagar uma taxa aos proprietários dos terrenos. Quem permanecer nos
+      caminhos públicos da aldeia não necessita de guia ou licença. O percurso guiado mais habitual sobe à
+      área de Óli Rami e ao monumento comemorativo, onde se observam papagaios-do-mar de perto pela primeira
+      vez. Prossegue até ao miradouro á Rógvu, com vistas sobre a colónia de í Lamba, as escarpas e o farol. O
+      regresso contorna a orla norte da povoação e termina no miradouro Kumlar, junto à baía.
+
+
+      Para percursos mais tranquilos, os guias podem conduzir-te até aos miradouros de Norðara Nesgjóv e do
+      Knúkur ou à floresta de pedra.
+
+
+      Chega-se de barco de passageiros a partir de Sørvágur ou de helicóptero a partir do aeroporto de Vágar.
+      O barco só opera ligações regulares de maio a agosto, com serviço limitado no outono e em abril. Durante
+      seis meses por ano, o helicóptero é o único transporte dos residentes.
+    history: >-
+      A análise de pólenes revela que no ano 625 já se cultivava cevada e aveia em Mykines, provavelmente
+      trazidas pelos primeiros povoadores. Em 1595, uma tempestade súbita causou a morte de todos os homens em
+      idade ativa da ilha: entre 200 e 300 pessoas pereceram a bordo de cinco embarcações. O farol de
+      Mykineshólmur foi construído em 1909, ano em que se inaugurou também a primeira ponte suspensa para o
+      ilhéu.
+    before: >-
+      Fora da aldeia só é permitido caminhar entre as 10:00 e as 17:00, para proporcionar descanso às aves e
+      às ovelhas. Mantém-te sempre nos trilhos assinalados: há papagaios-do-mar a nidificar sob os teus pés.
+      Caminha em silêncio e mantém pelo menos dois metros de distância das aves. É proibido introduzir a mão
+      nos nidos, tocar nos animais ou fotografar para dentro das tocas. O trilho até ao farol está encerrado
+      de maio a setembro para salvaguardar a nidificação. Acampar em terreno aberto sem autorização dos
+      proprietários é proibido e todo o lixo deve ser transportado de volta para a ilha principal.
+    around: >-
+      As [Escarpas Ornitológicas de Vestmanna](/lugar/vestmanna-bird-cliffs/) situam-se a cerca de vinte e
+      cinco quilómetros. Mais além, [St Kilda](/lugar/st-kilda/), [Alderney](/lugar/alderney/), a [Reserva
+      Natural das Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e [Skellig
+      Michael](/lugar/skellig-michael/) partilham com Mykines o ganso-patola e o papagaio-do-mar.
+fuentes:
+  - url: https://visitfaroeislands.com/en/see-do/activities/hiking/birdwatching
+    titulo: Birdwatching in the Faroe Islands
+    fecha_consulta: '2026-10-23'
+  - url: https://visitvagar.fo/en/visit-mykines/see-do8/hiking-on-mykines
+    titulo: Hiking on Mykines
+    fecha_consulta: '2026-10-23'
+  - url: https://visitvagar.fo/en/visit-mykines/plan-your-stay6/faq
+    titulo: FAQ
+    fecha_consulta: '2026-10-23'
+  - url: https://visitvagar.fo/en/visit-mykines/plan-your-stay6/guidelines0
+    titulo: Guidelines
+    fecha_consulta: '2026-10-23'
+  - url: https://es.wikipedia.org/wiki/Mykines
+    titulo: Mykines - Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-10-23'
+  - url: https://visitvagar.fo/en/visit-mykines
+    titulo: Visit Mykines - Visit Vágar
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Mykines,_Faroe_Islands_(35494972900).jpg
+    autor: Stefan Wisselink
+    licencia: CC BY 2.0
+    url_licencia: https://creativecommons.org/licenses/by/2.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,783 @@
+id: parque-natural-alto-tajo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Alto Tajo
+  en: Alto Tajo Natural Park
+  fr: Parc naturel du Haut-Tage
+  de: Naturpark Alto Tajo
+  it: Parco naturale dell'Alto Tajo
+  pt: Parque Natural do Alto Tejo
+nombre_original: Parque Natural del Alto Tajo
+paises:
+  - ES
+region:
+  es: Guadalajara y Cuenca (Castilla-La Mancha, España)
+  en: Guadalajara and Cuenca (Castilla-La Mancha, Spain)
+  fr: Guadalajara et Cuenca (Castille-La Manche, Espagne)
+  de: Guadalajara und Cuenca (Kastilien-La Mancha, Spanien)
+  it: Guadalajara e Cuenca (Castiglia-La Mancia, Spagna)
+  pt: Guadalajara e Cuenca (Castela-Mancha, Espanha)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.67863958562799
+  lon: -2.0392850735061216
+  radio_km: 18.484589626459535
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 349169
+  nombre_en_la_fuente: Alto Tajo
+  categoria_uicn: VI
+  capa: capas/cdda/parque-natural-alto-tajo.geojson
+habitats:
+  - karst
+  - gorge_canyon
+  - mediterranean_forest
+designaciones:
+  - natural_park
+especies:
+  - equus_ferus
+proyectos:
+  - rewilding_spain
+valoracion: 3
+enlaces_oficiales:
+  - titulo: Gestor — valores y límites del Parque Natural del Alto Tajo
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo
+  - titulo: Planifica la visita — mapas, rutas, centros y avisos
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo/visita-y-disfruta
+  - titulo: Georuta del Hundido de Armallones — acceso, trazado y restricciones
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo/rutas/sendero-1-georuta-ocentejo-hundido-de-armallones
+  - titulo: Normas y actividades sujetas a autorización
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo/normativa
+resumen:
+  es: Cañones del Tajo y del Hoz Seca entre pinares, bosques de ribera y sabinares de paramera.
+  en: >-
+    Canyons of the Tagus and Hoz Seca rivers among pine forests, riparian woodlands, and highland juniper
+    groves.
+  fr: Canyons du Tage et du Hoz Seca entre pinèdes, forêts riveraines et genévrières de causse.
+  de: Schluchten von Tajo und Hoz Seca zwischen Kiefernwäldern, Auwäldern und Wacholder-Hochebenen.
+  it: Canyon del Tago e dell'Hoz Seca tra pinete, boschi ripariali e gineprai d'altopiano.
+  pt: Desfiladeiros do Tejo e do Hoz Seca entre pinhais, florestas ripícolas e sabinais de planalto.
+unico:
+  es: >-
+    En un mismo paseo puedes leer cómo el agua erosiona la roca, cómo la disuelve y por qué la caliza dura
+    queda arriba mientras el río se hunde en el cañón.
+  en: >-
+    On a single walk you can read how water erodes rock, how it dissolves limestone, and why hard caprock
+    stays on top while the river carves deep into the canyon.
+  fr: >-
+    Au cours d'une même promenade, vous pouvez observer comment l'eau érode la roche, comment elle dissout le
+    calcaire et pourquoi la roche dure reste au sommet tandis que le cours d'eau s'enfonce dans le canyon.
+  de: >-
+    Auf einer einzigen Wanderung kannst du ablesen, wie das Wasser den Fels abträgt, wie es den Kalkstein
+    auflöst und warum der harte Kalk oben stehen bleibt, während sich der Fluss tief in die Schlucht gräbt.
+  it: >-
+    In una sola passeggiata puoi osservare come l'acqua erode la roccia, come scioglie il calcare e perché il
+    calcare duro resta in cima mentre il fiume si inabissa nella gola.
+  pt: >-
+    Num mesmo passeio podes ler como a água desgasta a rocha, como dissolve o calcário e porque é que a rocha
+    dura permanece no cimo enquanto o rio se afunda no desfiladeiro.
+observaciones:
+  es: >-
+    En buena parte del parque, y sobre todo en el cañón del Tajo, no hay cobertura móvil, así que descarga
+    mapas e información antes de salir. Mira los avisos del gestor: los centros de Zaorejas, Orea y Checa
+    abren los fines de semana, festivos y puentes, desde Semana Santa hasta finales de octubre. Está prohibido
+    hacer fuego y arrojar colillas encendidas. No produzcas ruidos que perturben la tranquilidad de la fauna
+    ni molesten al resto de visitantes.
+texto:
+  es:
+    intro: >-
+      Hay ríos que cruzan una montaña y ríos que la parten en dos. El Tajo y el Hoz Seca hacen lo segundo: en
+      el Sistema Ibérico, a caballo entre el sureste de Guadalajara y el noreste de Cuenca, han abierto
+      cañones en la roca y han dejado a ambos lados un país de pinares, parameras y roquedos. El Parque
+      Natural del Alto Tajo es la manera de recorrerlo de arriba abajo, desde los sabinares de las alturas
+      hasta las estrechas franjas verdes que acompañan al agua.
+    landscape: >-
+      Todo empieza con el agua, y aquí el agua trabaja de dos maneras. Erosiona el terreno y, además, disuelve
+      la caliza. Por eso los cañones del Tajo y del Hoz Seca son fluviokársticos, y por eso la comarca está
+      llena de grutas, simas y dolinas: el agua también ha trabajado por dentro. Arriba, en cambio, la caliza
+      resiste. Sus estratos, horizontales o apenas plegados, forman las zonas más altas y las parameras porque
+      es el material que mejor aguanta la erosión. La roca dura se queda en lo alto; el río se hunde.
+
+
+      Si bajas al barranco de la Hoz, el paisaje cambia de piel. Las areniscas y los conglomerados suelen
+      quedar tapados por rocas más duras, como la caliza, y solo asoman en las hoces y los cortados de los
+      ríos: la erosión fluvial los deja a la vista.
+
+
+      La vegetación sigue ese mapa. Los pinares son el hábitat más extendido de todo el parque. Hay extensos
+      pinares de pino silvestre, laricio y resinero, y superficies más reducidas, pero no menos valiosas, de
+      pino carrasco. Entre todos ellos manda el [pino laricio](/especie/pinus_nigra/), que es el que más
+      extensión ocupa: cubre las laderas del cañón del Tajo y las planicies menos elevadas, sobre todo en la
+      parte central y occidental. En el norte, donde la altura es menor y los valles son más abiertos, es más
+      común el pino rodeno, que crece sobre areniscas y conglomerados junto a brezos, jaras y biercolares.
+      Quejigos, encinas y melojos se mezclan con los pinares o forman masas puras.
+
+
+      En las parameras calizas esperan los vastos sabinares de sabina albar. Y junto a los ríos y arroyos, el
+      bosque de ribera dibuja bandas estrechas de vegetación. Donde hay salinas, además, se mantienen plantas
+      halófilas que forman comunidades aisladas por sus condiciones.
+    wildlife: >-
+      Mira hacia arriba. Las paredes rocosas que coronan los cañones albergan rapaces rupícolas: [águila
+      perdicera](/especie/aquila_fasciata/) (en peligro de extinción), [águila
+      real](/especie/aquila_chrysaetos/), [halcón peregrino](/especie/falco_peregrinus/),
+      [alimoche](/especie/neophron_percnopterus/), [buitre leonado](/especie/gyps_fulvus/) y [búho
+      real](/especie/bubo_bubo/). Sus vuelos se ven bien desde los caminos, sin acercarte a los lugares de
+      cría. En los mismos roquedos viven pequeños grupos de [cabra montés](/especie/capra_pyrenaica/).
+
+
+      Bajo el arbolado, la vida cambia de escala. En las numerosas masas de bosque hay excelentes poblaciones
+      de avifauna forestal y refugio para [corzos](/especie/capreolus_capreolus/),
+      [ciervos](/especie/cervus_elaphus/), gamos y [jabalíes](/especie/sus_scrofa/).
+
+
+      El agua guarda lo más delicado. Los cursos conservados albergan una de las mejores poblaciones de
+      [nutria](/especie/lutra_lutra/) de la región, junto a truchas, bogas y barbos. Y en algunos de los
+      cursos más recónditos todavía queda alguna de las últimas poblaciones de cangrejo de río autóctono, una
+      especie en fuerte regresión en la región y en el conjunto del país. La amenaza tiene nombre: el visón
+      americano, que es la especie exótica invasora que afecta negativamente a más especies amenazadas.
+
+
+      El calendario cambia la forma de recorrer el río. Las precipitaciones se concentran en primavera y, con
+      el deshielo, es entonces cuando los ríos llevan más agua. El recorrido del Campillo es bueno para buscar
+      águila real, halcón peregrino, alimoche y buitre en primavera y verano; en invierno, el protagonismo
+      pasa a las garzas reales, los cormoranes y los ánades reales. Los mamíferos se delatan por sus rastros:
+      en el muro de la presa del Campillo se pueden buscar excrementos de nutria, garduña y
+      [gineta](/especie/genetta_genetta/). Al crepúsculo, en la paramera de Villanueva de Alcorón, busca al
+      chotacabras pardo y al gris.
+    visit: >-
+      El parque es grande y se disfruta mejor por sectores. Puedes entrar por el norte desde Molina de Aragón,
+      y desde allí se llega a Orea, Peralejos de las Truchas y Poveda de la Sierra. El centro de Corduente, en
+      Guadalajara, es un buen punto de partida: tiene una exposición interpretativa, informa sobre los
+      recursos naturales del espacio protegido y ayuda a organizar y planificar la visita.
+
+
+      Después, cada centro cuenta una parte de la historia. En Zaorejas, el centro del Río Tajo explica el
+      origen geológico del río, la vegetación de las hoces y los cañones y el papel del río en la cultura. El
+      Sequero de Orea está dedicado a los oficios tradicionales del Alto Tajo, y Checa tiene el Museo de la
+      Ganadería Tradicional.
+
+
+      Para una primera caminata por el cañón, la georuta del Hundido de Armallones empieza en el pueblo de
+      Ocentejo. Hay otras: la ruta de Huertapelayo y Tagüenza, de 7 km con paradas de observación, o la ida y
+      vuelta a la cascada del Campillo, de una hora y media. Y la guía geológica del parque reúne nueve
+      georutas, o itinerarios geológicos, para entender cómo se hizo el paisaje.
+    history: >-
+      La economía se apoyó en la ganadería trashumante, la madera y el caolín. Los gancheros surcaban las
+      aguas del Tajo llevando las maderas hasta Aranjuez y Toledo. De aquel mundo quedan en el paisaje los
+      chozones sabineros y las salinas de Saelices de la Sal y de Armalla, construcciones etnográficas que hoy
+      forman parte del patrimonio del parque.
+
+
+      Hoy el territorio es espacio de la Red Natura 2000 como ZEC y ZEPA Alto Tajo. La protección de las aves
+      explica restricciones como la del acceso a vehículos a motor al Hundido de Armallones, que se limita
+      para evitar molestias. Con la gente pasa algo parecido: en el verano de 2026 el gestor reguló los
+      accesos del cañón por la aglomeración y el riesgo de evacuación ante incendios forestales.
+    before: >-
+      En buena parte del parque, y sobre todo en el cañón del Tajo, no hay cobertura móvil, así que descarga
+      mapas e información antes de salir. Mira los avisos del gestor: los centros de Zaorejas, Orea y Checa
+      abren los fines de semana, festivos y puentes, desde Semana Santa hasta finales de octubre. Está
+      prohibido hacer fuego y arrojar colillas encendidas. No produzcas ruidos que perturben la tranquilidad
+      de la fauna ni molesten al resto de visitantes.
+    around: >-
+      El [Parque Natural de la Serranía de Cuenca](/lugar/parque-natural-serrania-cuenca/) está a unos 2 km y
+      continúa al sur el mismo paisaje de hoces y pinares. En la zona de contacto con el Alto Tajo, Villanueva
+      de Alcorón y los Altos de la Campana, en Checa, acogen caballos de Przewalski del proyecto Iberian
+      Highlands de Rewilding Spain. Para verlos, consulta al proyecto las posibilidades de visita.
+
+
+      Más lejos, el [Parque Natural Hoces del Río Riaza](/lugar/parque-natural-hoces-del-rio-riaza/) comparte
+      con el Alto Tajo los hábitats kársticos y de cañón, y también la sabina albar.
+  en:
+    intro: >-
+      Some rivers cross a mountain range; others slice right through it. The Tagus and the Hoz Seca do the
+      latter: in the Sistema Ibérico, straddling south-eastern Guadalajara and north-eastern Cuenca, they have
+      cut deep gorges into the bedrock, leaving behind a sprawling plateau of pine woodlands, windswept
+      parameras, and sheer cliffs. Alto Tajo Natural Park is how you experience it all from top to bottom,
+      from the high juniper stands down to the narrow green ribbons clinging to the water's edge.
+    landscape: >-
+      Everything begins with water, and here water works in two distinct ways. It erodes the ground surface
+      and dissolves the limestone. That is why the canyons of the Tagus and the Hoz Seca are fluviokarstic,
+      and why the entire district is riddled with caves, chasms, and sinkholes: water has carved it from the
+      inside out. Up on the heights, however, the limestone holds firm. Its horizontal, barely folded strata
+      form the highest ridges and plateaus because it withstands surface weathering far better than softer
+      rock. The hard caprock stays above; the river cuts below.
+
+
+      Drop down into the Hoz ravine and the landscape transforms. Sandstones and conglomerates are usually
+      buried beneath harder layers of limestone, coming into view only in the gorges and river cliffs where
+      flowing water has laid them bare.
+
+
+      The vegetation follows this underlying geology. Pine forests are the most widespread habitat across the
+      entire park. You will find extensive tracts of Scots pine, black pine, and maritime pine, alongside
+      smaller but equally valuable stands of Aleppo pine. Dominating them all is the [European black
+      pine](/especie/pinus_nigra/), which covers the greatest expanse: it blankets the slopes of the Tagus
+      canyon and the lower plateaus, especially through the central and western sectors. In the north, where
+      elevations are lower and valleys widen, maritime pine takes over, thriving on sandstones and
+      conglomerates alongside heathers, rockroses, and gorse. Portuguese oak, holm oak, and Pyrenean oak
+      mingle among the pines or form pure copses.
+
+
+      Across the limestone parameras, vast groves of Spanish juniper stretch toward the horizon. Along streams
+      and riverbanks, riparian woodland traces narrow green ribbons through the stone. Around local salt
+      springs, salt-tolerant halophytic plants survive in isolated enclaves dictated by the saline soil.
+    wildlife: >-
+      Look up. The rock walls crowning the gorges provide nesting habitat for cliff-nesting raptors:
+      [Bonelli's eagle](/especie/aquila_fasciata/) (endangered), [golden eagle](/especie/aquila_chrysaetos/),
+      [peregrine falcon](/especie/falco_peregrinus/), [Egyptian vulture](/especie/neophron_percnopterus/),
+      [griffon vulture](/especie/gyps_fulvus/), and [Eurasian eagle-owl](/especie/bubo_bubo/). You can easily
+      observe their flight from the trails without approaching nesting ledges. Small bands of [Spanish
+      ibex](/especie/capra_pyrenaica/) roam these same rocky bluffs.
+
+
+      Beneath the forest canopy, wildlife operates on another scale. Dense tracts of woodland shelter rich
+      woodland bird communities and provide cover for [roe deer](/especie/capreolus_capreolus/), [red
+      deer](/especie/cervus_elaphus/), fallow deer, and [wild boar](/especie/sus_scrofa/).
+
+
+      The rivers harbour the most vulnerable life. Well-preserved river stretches support one of the region's
+      healthiest populations of [Eurasian otter](/especie/lutra_lutra/), alongside brown trout, bermejuela,
+      and barbel. In remote headwaters, relic populations of native white-clawed crayfish still survive,
+      though severely declining across the region and Spain as a whole. The primary threat is the invasive
+      American mink, which drives declines in multiple threatened native freshwater species.
+
+
+      The seasons reshape how you explore the river. Most rainfall falls in spring, when snowmelt swells river
+      flows to their peak. The Campillo trail is ideal for spotting golden eagles, peregrine falcons, Egyptian
+      vultures, and griffon vultures through spring and summer; by winter, grey herons, cormorants, and
+      mallards take over. Mammals reveal themselves by their tracks and signs: search the Campillo dam wall
+      for droppings left by otter, stone marten, and [common genet](/especie/genetta_genetta/). At dusk, out
+      across the Villanueva de Alcorón plateau, keep an ear and eye out for red-necked and European nightjars.
+    visit: >-
+      The park is expansive and best explored in distinct sectors. You can enter from the north via Molina de
+      Aragón, leading on toward Orea, Peralejos de las Truchas, and Poveda de la Sierra. The visitor centre in
+      Corduente (Guadalajara) makes an ideal starting point: it offers an interpretive exhibition, detailed
+      guidance on the protected area's natural assets, and practical assistance in planning your route.
+
+
+      Further along, local centres explore different facets of the landscape. In Zaorejas, the Tagus River
+      interpretation centre explains the river's geological origins, gorge vegetation, and cultural heritage.
+      The Sequero de Orea focuses on traditional crafts and forest livelihoods of the Alto Tajo, while Checa
+      houses the Museum of Traditional Livestock Farming.
+
+
+      For a first walk into the canyon, the Hundido de Armallones geological trail sets off from the village
+      of Ocentejo. Other rewarding options include the 7 km Huertapelayo and Tagüenza route with designated
+      wildlife observation stops, or the hour-and-a-half return hike to the Campillo waterfall. The park's
+      official geological guide highlights nine distinct georoutes explaining how these landforms took shape
+      over millennia.
+    history: >-
+      Historically, the local economy depended on transhumant pastoralism, timber, and kaolin mining. Rafters
+      known as gancheros guided logs down the Tagus all the way to Aranjuez and Toledo. Remnants of that past
+      still dot the landscape, including stone-walled juniper shelters (chozones sabineros) and historic salt
+      pans at Saelices de la Sal and Armalla, enduring cultural monuments within the park.
+
+
+      Today the area is protected as a Natura 2000 SAC and SPA under the name Alto Tajo. Bird conservation
+      explains motor vehicle restrictions on access tracks down into the Hundido de Armallones, preventing
+      disturbance to nesting cliffs. Visitor pressures are managed similarly: during the summer of 2026, park
+      authorities regulated vehicle entry points along the main canyon to mitigate severe overcrowding and
+      ensure wildfire evacuation routes remained clear.
+    before: >-
+      Mobile signal is absent across much of the park, particularly deep inside the Tagus canyon, so download
+      your maps and route information beforehand. Check visitor centre opening hours: facilities in Zaorejas,
+      Orea, and Checa open on weekends, public holidays, and long weekends from Easter through the end of
+      October. Open fires and discarding cigarette butts are strictly prohibited throughout the park. Keep
+      noise to a minimum so you do not disturb wildlife or other visitors.
+    around: >-
+      The [Serranía de Cuenca Natural Park](/lugar/parque-natural-serrania-cuenca/) lies roughly 2 km away,
+      continuing the same terrain of limestone canyons and extensive pine forests directly to the south. Near
+      the boundary with Alto Tajo, Villanueva de Alcorón and the Altos de la Campana near Checa host
+      free-roaming Przewalski's horses under Rewilding Spain's Iberian Highlands initiative; contact the
+      project in advance to check visiting guidelines.
+
+
+      Further afield, [Hoces del Río Riaza Natural Park](/lugar/parque-natural-hoces-del-rio-riaza/) shares
+      with Alto Tajo similar canyon ecosystems, karst landforms, and Spanish juniper woodlands.
+  fr:
+    intro: >-
+      Il est des rivières qui traversent une montagne, d'autres qui la fendent en deux. Le Tage et le Hoz Seca
+      font partie de la seconde catégorie : dans le Système ibérique, à cheval sur le sud-est de Guadalajara
+      et le nord-est de Cuenca, ils ont taillé des gorges profondes dans la roche et laissé de part et d'autre
+      un territoire de pinèdes, de hauts plateaux et d'escarpements rocheux. Le parc naturel du Haut-Tage
+      permet de le parcourir de haut en bas, depuis les peuplements de genévriers d'altitude jusqu'aux étroits
+      rubans verts qui accompagnent les cours d'eau.
+    landscape: >-
+      Tout commence avec l'eau, et ici elle façonne le relief de deux manières. Elle érode le terrain et
+      dissout le calcaire. C'est pourquoi les canyons du Tage et du Hoz Seca sont fluviokarstiques, et
+      pourquoi la contrée abonde en grottes, gouffres et dolines : l'eau a également sculpté la roche de
+      l'intérieur. En haut, le calcaire résiste. Ses strates horizontales ou à peine plissées couronnent les
+      zones les plus élevées et les plateaux, formant le matériau qui supporte le mieux l'érosion. La roche
+      dure demeure en hauteur, tandis que la rivière creuse le défilé.
+
+
+      En descendant vers le ravin de la Hoz, le décor se transforme. Les grès et conglomérats demeurent
+      habituellement enfouis sous des roches plus dures comme le calcaire, et n'affleurent que dans les
+      défilés et falaises fluviales où l'érosion des cours d'eau les a mis à nu.
+
+
+      La végétation suit cette assise géologique. Les pinèdes représentent l'habitat le plus vaste du parc.
+      Vous y trouvez d'immenses massifs de pin sylvestre, de pin noir et de pin maritime, ainsi que des
+      surfaces plus restreintes mais précieuses de pin d'Alep. Parmi tous, le [pin
+      noir](/especie/pinus_nigra/) domine en superficie : il tapisse les versants du canyon du Tage et les
+      plateaux intermédiaires, principalement dans les secteurs central et occidental. Au nord, à plus basse
+      altitude et dans des vallées plus ouvertes, le pin maritime abonde sur les grès et conglomérats aux
+      côtés des bruyères, cistes et landes. Chênes zéens, chênes verts et chênes tauzins s'entremêlent aux
+      conifères ou constituent des peuplements purs.
+
+
+      Sur les plateaux calcaires s'étendent de vastes peuplements de genévrier thurifère. Au bord des eaux, la
+      ripisylve trace d'étroites bandes de fraîcheur. Autour des sources salées locales subsistent en outre
+      des groupements végétaux halophiles isolés par ces conditions extrêmes.
+    wildlife: >-
+      Levez les yeux vers les falaises. Les parois rocheuses couronnant les gorges abritent une riche
+      communauté de rapaces rupestres : [aigle de Bonelli](/especie/aquila_fasciata/) (en danger
+      d'extinction), [aigle royal](/especie/aquila_chrysaetos/), [faucon pèlerin](/especie/falco_peregrinus/),
+      [percnoptère](/especie/neophron_percnopterus/), [vautour fauve](/especie/gyps_fulvus/) et [hibou
+      grand-duc](/especie/bubo_bubo/). Leurs trajectoires aériennes s'observent aisément depuis les sentiers,
+      sans déranger les aires de nidification. Ces mêmes parois hébergent de petits groupes de [bouquetin
+      d'Espagne](/especie/capra_pyrenaica/).
+
+
+      Sous la futaie, la vie sauvage change d'échelle. Les grands massifs forestiers abritent d'abondantes
+      populations d'oiseaux des bois et servent de refuge au [chevreuil](/especie/capreolus_capreolus/), au
+      [cerf élaphe](/especie/cervus_elaphus/), au daim et au [sanglier](/especie/sus_scrofa/).
+
+
+      L'eau abrite le patrimoine le plus fragile. Les rivières préservées accueillent l'une des populations de
+      [loutre d'Europe](/especie/lutra_lutra/) les plus florissantes de la région, aux côtés de la truite
+      fario, du nase et du barbeau. Dans quelques ruisseaux isolés subsistent encore les ultimes populations
+      d'écrevisse à pattes blanches autochtones, une espèce en fort déclin dans la péninsule. La menace
+      principale est incarnée par le vison d'Amérique, espèce exotique envahissante qui pèse lourdement sur la
+      faune aquatique menacée.
+
+
+      Le fil des saisons rythme la découverte de la rivière. Les précipitations se concentrent au printemps
+      et, avec la fonte des neiges, le débit des cours d'eau atteint son apogée. L'itinéraire du Campillo est
+      propice à l'observation de l'aigle royal, du faucon pèlerin, du percnoptère et du vautour au printemps
+      et en été ; en hiver, les hérons cendrés, cormorans et canards colverts s'approprient les plans d'eau.
+      Les mammifères se repèrent par leurs indices : sur le mur du barrage du Campillo, vous pouvez chercher
+      les épreintes de loutre ainsi que les traces de fouine et de [genette
+      commune](/especie/genetta_genetta/). Au crépuscule, sur le plateau de Villanueva de Alcorón, scrutez
+      l'engoulevent à collier roux et l'engoulevent d'Europe.
+    visit: >-
+      Le parc est vaste et gagne à se visiter par secteurs. Vous pouvez y pénétrer par le nord depuis Molina
+      de Aragón, point de départ vers Orea, Peralejos de las Truchas et Poveda de la Sierra. La maison du parc
+      de Corduente, dans la province de Guadalajara, constitue un excellent point de départ : elle dispose
+      d'un espace muséographique, fournit des informations sur le milieu naturel protégé et vous aide à
+      organiser votre circuit.
+
+
+      Chaque centre d'interprétation éclaire une facette du territoire. À Zaorejas, le centre du Tage expose
+      l'histoire géologique du fleuve, la flore des défilés et la place de l'eau dans la vie locale. Le
+      Sequero d'Orea est consacré aux anciens métiers forestiers du Haut-Tage, tandis que Checa propose le
+      musée de l'élevage traditionnel.
+
+
+      Pour une première immersion pédestre dans le canyon, le géosentier du Hundido de Armallones démarre au
+      village d'Ocentejo. D'autres itinéraires valent le détour : le sentier de Huertapelayo et Tagüenza, long
+      de 7 km et jalonné de haltes d'observation, ou la boucle vers la cascade du Campillo, d'une durée d'une
+      heure et demie. Le guide géologique officiel du parc détaille par ailleurs neuf géoroutes pour
+      comprendre pas à pas la genèse de ce paysage.
+    history: >-
+      L'économie locale s'est longtemps appuyée sur la transhumance pastorale, le bois et l'extraction du
+      kaolin. Les flotteurs de bois, ou gancheros, descendaient les troncs sur les flots du Tage jusqu'à
+      Aranjuez et Tolède. De cette époque subsistent dans le paysage des cabanes pastorales en pierre et
+      genévrier (chozones sabineros) et les salines de Saelices de la Sal et d'Armalla, témoins
+      ethnographiques intégrés au patrimoine du parc.
+
+
+      Le territoire relève aujourd'hui du réseau Natura 2000 en tant que ZSC et ZPS Alto Tajo. La protection
+      de l'avifaune justifie des restrictions comme l'interdiction de circulation motorisée vers le Hundido de
+      Armallones, afin de préserver la tranquillité des oiseaux. La fréquentation humaine fait l'objet d'une
+      vigilance comparable : durant l'été 2026, l'organisme gestionnaire a réglementé les accès motorisés au
+      canyon principal face à la saturation et aux impératifs d'évacuation en cas de feu de forêt.
+    before: >-
+      Le réseau mobile est absent dans une large partie du parc et en particulier au fond du défilé du Tage :
+      veillez à télécharger vos cartes et informations pratiques avant de partir. Surveillez le calendrier des
+      ouvertures : les centres d'accueil de Zaorejas, Orea et Checa ouvrent les week-ends, jours fériés et
+      ponts, de la semaine sainte à la fin octobre. Il est strictement interdit d'allumer du feu ou de jeter
+      des mégots. Veillez à éviter les nuisances sonores afin de ne pas troubler la quiétude de la faune ni
+      celle des autres promeneurs.
+    around: >-
+      Le [Parque Natural de la Serranía de Cuenca](/lugar/parque-natural-serrania-cuenca/) se trouve à environ
+      2 km et prolonge au sud le même ensemble de gorges calcaires et de pinèdes. Dans la zone limitrophe du
+      Haut-Tage, Villanueva de Alcorón et les Altos de la Campana à Checa accueillent des chevaux de
+      Przewalski dans le cadre du projet Iberian Highlands de Rewilding Spain ; renseignez-vous auprès de
+      l'équipe du projet pour connaître les possibilités de visite.
+
+
+      Plus loin, le [Parque Natural Hoces del Río Riaza](/lugar/parque-natural-hoces-del-rio-riaza/) partage
+      avec le Haut-Tage ses milieux karstiques de canyon et ses boisements de genévrier thurifère.
+  de:
+    intro: >-
+      Es gibt Flüsse, die ein Gebirge durchqueren, und Flüsse, die es entzweischneiden. Der Tajo und der Hoz
+      Seca tun Letzteres: Im Iberischen Gebirge, an der Grenze zwischen dem Südosten Guadalajaras und dem
+      Nordosten Cuencas, haben sie tiefe Schluchten in den Fels gegraben und beidseits ein weites Land aus
+      Kiefernwäldern, Hochebenen und Felswänden hinterlassen. Der Naturpark Alto Tajo erschließt diesen Raum
+      von oben bis unten, von den Wacholderheiden der Höhenlagen bis zu den schmalen grünen Bändern entlang
+      des Wassers.
+    landscape: >-
+      Alles beginnt mit dem Wasser, und hier wirkt es auf zweierlei Weise. Es erodiert den Boden und löst
+      zugleich den Kalkstein auf. Deshalb sind die Canyons von Tajo und Hoz Seca fluviokarstisch geprägt und
+      die Region reich an Höhlen, Schlünden und Dolinen: Das Wasser hat auch im Verborgenen gearbeitet. Oben
+      hingegen hält der Kalkstein stand. Seine waagerechten oder kaum gefalteten Schichten bilden die höchsten
+      Grate und Hochebenen, da sie der Verwitterung am besten trotzen. Der harte Fels bleibt oben; der Fluss
+      gräbt sich unten ein.
+
+
+      Steigst du in die Schlucht Barranco de la Hoz hinab, wandelt sich die Landschaft grundlegend. Sandsteine
+      und Konglomerate liegen meist unter härteren Schichten wie Kalkstein verborgen und treten nur in den
+      Schluchten und Steilwänden zutage, wo die Flussströmung sie freigelegt hat.
+
+
+      Die Vegetation folgt diesen geologischen Mustern. Kiefernwälder stellen den am weitesten verbreiteten
+      Lebensraum des Parks dar. Ausgedehnte Bestände von Waldkiefer, Schwarzkiefer und See-Kiefer wechseln mit
+      kleineren, ökologisch wertvollen Flächen der Aleppo-Kiefer ab. Den größten Raum nimmt dabei die
+      [Schwarzkiefer](/especie/pinus_nigra/) ein: Sie bedeckt die Hänge des Tajo-Canyons und die niedrigeren
+      Ebenen, besonders im zentralen und westlichen Teil. Im Norden, wo die Höhen geringer und die Täler
+      weiter sind, dominiert die See-Kiefer auf Sandsteinen und Konglomeraten zusammen mit Heidekraut,
+      Zistrosen und Ginster. Portugiesische Eichen, Steineichen und Pyrenäen-Eichen mischen sich unter die
+      Nadelbäume oder bilden reine Haine.
+
+
+      Auf den Kalkstein-Hochebenen erstrecken sich weite Bestände des Spanischen Wacholders. An den Ufern der
+      Bäche und Flüsse zeichnen Auwälder schmale grüne Streifen in den Stein. In der Nähe von Salzquellen
+      wachsen zudem salzliebende Pflanzen in Gemeinschaften, die durch die besonderen Bodenbedingungen
+      isoliert geblieben sind.
+    wildlife: >-
+      Blicke nach oben. Die Felswände oberhalb der Schluchten bieten Lebensraum für felsbrütende Greifvögel:
+      [Habichtsadler](/especie/aquila_fasciata/) (vom Aussterben bedroht),
+      [Steinadler](/especie/aquila_chrysaetos/), [Wanderfalke](/especie/falco_peregrinus/),
+      [Schmutzgeier](/especie/neophron_percnopterus/), [Gänsegeier](/especie/gyps_fulvus/) und
+      [Uhu](/especie/bubo_bubo/). Ihre Flugbahnen lassen sich von den Wegen aus gut beobachten, ohne die
+      Brutplätze zu stören. In denselben Felswänden leben kleine Gruppen des
+      [Iberiensteinbock](/especie/capra_pyrenaica/).
+
+
+      Unter dem Kronendach wechselt der Maßstab. Die dichten Wälder beherbergen eine reiche Vogelwelt und
+      dienen als Rückzugsgebiet für [Reh](/especie/capreolus_capreolus/),
+      [Rothirsch](/especie/cervus_elaphus/), Damwild und [Wildschwein](/especie/sus_scrofa/).
+
+
+      Das Wasser bewahrt die empfindlichsten Arten. Die intakten Flussläufe zählen zu den bedeutendsten
+      Rückzugsgebieten des [Eurasischer Fischotter](/especie/lutra_lutra/) in der Region, neben Forellen,
+      Bogas und Barben. In abgelegenen Bächen finden sich noch letzte Bestände des heimischen Dohlenkrebses,
+      der spanienweit stark zurückgegangen ist. Die größte Bedrohung stellt der invasive Amerikanische Nerz
+      dar, der gefährdeten einheimischen Wasserbewohnern schwer zusetzt.
+
+
+      Der Jahresverlauf prägt den Besuch am Fluss. Die Niederschläge konzentrieren sich auf das Frühjahr, wenn
+      die Schneeschmelze den Wasserstand ansteigen lässt. Die Campillo-Route eignet sich im Frühling und
+      Sommer hervorragend zur Beobachtung von Steinadler, Wanderfalke, Schmutzgeier und Gänsegeier; im Winter
+      prägen Graureiher, Kormorane und Stockenten das Bild. Säugetiere verraten sich durch Spuren: An der
+      Staumauer von El Campillo lassen sich Losungen von Fischotter, Steinmarder und
+      [Kleinfleck-Ginsterkatze](/especie/genetta_genetta/) entdecken. In der Dämmerung solltest du auf der
+      Hochebene von Villanueva de Alcorón nach Rothals-Ziegenmelker und Ziegenmelker lauschen.
+    visit: >-
+      Der Naturpark ist weitläufig und lässt sich am besten nach Teilgebieten erkunden. Von Norden gelangst du
+      über Molina de Aragón nach Orea, Peralejos de las Truchas und Poveda de la Sierra. Das
+      Informationszentrum in Corduente (Guadalajara) ist ein idealer Ausgangspunkt: Es bietet eine
+      anschauliche Ausstellung, informiert über die Naturwerte des Schutzgebiets und hilft bei der Planung
+      deiner Routen.
+
+
+      Jedes Besucherzentrum beleuchtet ein eigenes Thema. In Zaorejas erklärt das Tajo-Zentrum die geologische
+      Entstehung des Flusses, die Schluchtvegetation und die kulturelle Bedeutung des Wassers. Das Sequero de
+      Orea widmet sich den traditionellen Handwerken des Alto Tajo, während Checa das Museum der
+      traditionellen Wanderviehwirtschaft beherbergt.
+
+
+      Für eine erste Wanderung in die Schlucht empfiehlt sich die Georoute des Hundido de Armallones ab dem
+      Dorf Ocentejo. Weitere Wege sind die 7 km lange Route zwischen Huertapelayo und Tagüenza mit
+      Beobachtungspunkten oder der eineinhalb Stunden dauernde Hin- und Rückweg zum Campillo-Wasserfall. Der
+      geologische Parkführer beschreibt neun Georouten, um die Entstehung dieser Landschaft Schritt für
+      Schritt zu verstehen.
+    history: >-
+      Wirtschaftlich lebte die Region früher von Wanderviehwirtschaft, Holzwirtschaft und Kaolinabbau. Flößer,
+      die sogenannten Gancheros, führten Baumstämme über das Wasser des Tajo flussabwärts bis nach Aranjuez
+      und Toledo. Aus jener Zeit zeugen steinerne Wacholderhütten (Chozones sabineros) und die Salinen von
+      Saelices de la Sal sowie Armalla als ethnografisches Erbe im Park.
+
+
+      Heute ist das Gebiet als Natura-2000-Gebiet (GGB und VOS Alto Tajo) geschützt. Der Vogelschutz begründet
+      Einschränkungen wie das Verbot des motorisierten Verkehrs zum Hundido de Armallones, um Brutreviere
+      nicht zu stören. Auch der Besucherdruck wird gelenkt: Im Sommer 2026 regelte die Parkverwaltung die
+      Zufahrten zur Hauptschlucht, um Überlastung zu vermeiden und Rettungswege im Falle von Waldbränden
+      freizuhalten.
+    before: >-
+      In weiten Teilen des Parks und vor allem in der Tajo-Schlucht gibt es keinen Mobilfunkempfang; lade
+      Karten und Informationen vorab herunter. Beachte die Öffnungszeiten: Die Zentren in Zaorejas, Orea und
+      Checa sind an Wochenenden, Feiertagen und Brückentagen von Ostern bis Ende Oktober geöffnet. Offenes
+      Feuer und das Wegwerfen von Zigarettenkippen sind streng verboten. Vermeide Lärm, um weder die Tierwelt
+      noch andere Besucher zu stören.
+    around: >-
+      Der [Parque Natural de la Serranía de Cuenca](/lugar/parque-natural-serrania-cuenca/) liegt rund 2 km
+      entfernt und setzt die Landschaft aus Schluchten und Kiefernwäldern im Süden unmittelbar fort. Im
+      Übergangsbereich zum Alto Tajo leben bei Villanueva de Alcorón und den Altos de la Campana in Checa
+      Przewalski-Pferde des Projekts Iberian Highlands von Rewilding Spain; erkundige dich beim Projekt nach
+      Besuchsmöglichkeiten.
+
+
+      Weiter entfernt teilt der [Parque Natural Hoces del Río
+      Riaza](/lugar/parque-natural-hoces-del-rio-riaza/) mit dem Alto Tajo ähnliche Karst- und
+      Schluchtlebensräume sowie dichte Bestände des Spanischen Wacholders.
+  it:
+    intro: >-
+      Ci sono fiumi che attraversano una montagna e fiumi che la spaccano in due. Il Tago e l'Hoz Seca fanno
+      la seconda cosa: nel Sistema Iberico, a cavallo tra il sud-est di Guadalajara e il nord-est di Cuenca,
+      hanno scavato profondi canyon nella roccia, lasciando su entrambi i versanti un vasto territorio di
+      pinete, altopiani brulli e balze rocciose. Il Parco naturale dell'Alto Tajo è il modo migliore per
+      esplorarlo da cima a fondo, dai gineprai d'alta quota fino ai sottili nastri verdi che costeggiano
+      l'acqua.
+    landscape: >-
+      Tutto comincia con l'acqua, e qui l'acqua lavora in due modi diversi. Erode il terreno e, al contempo,
+      scioglie il calcare. Per questo i canyon del Tago e dell'Hoz Seca hanno un'origine fluviocarsica, e per
+      questo la zona è ricca di grotte, inghiottitoi e doline: l'acqua ha lavorato anche dall'interno. In
+      alto, invece, il calcare resiste. I suoi strati, orizzontali o appena ondulati, formano le creste più
+      elevate e gli altopiani perché sono il materiale che meglio regge l'erosione. La roccia dura resta in
+      cima; il fiume scava in profondità.
+
+
+      Se scendi nel burrone dell'Hoz, il paesaggio cambia aspetto. Le arenarie e i conglomerati restano di
+      solito sepolti sotto formazioni più dure come il calcare, e affiorano soltanto nelle gole e nelle
+      falesie fluviali dove l'erosione delle correnti li ha portati alla luce.
+
+
+      La vegetazione riflette questa disposizione geologica. Le pinete sono l'habitat più esteso dell'intero
+      parco. Si incontrano vaste distese di pino silvestre, pino nero e pino marittimo, accanto a superfici
+      più ridotte ma preziose di pino d'Aleppo. Tra tutti predomina il [pino nero](/especie/pinus_nigra/), che
+      occupa l'area maggiore: riveste i versanti del canyon del Tago e gli altipiani meno elevati, soprattutto
+      nei settori centrale e occidentale. A nord, dove le quote sono più dolci e le valli più ampie, prevale
+      il pino marittimo su arenarie e conglomerati assieme a eriche, cisti ed erica da scope. Roverelle, lecci
+      e querce dei Pirenei si mescolano ai pini o formano boschi puri.
+
+
+      Sugli altopiani calcarei si estendono sterminati popolamenti di ginepro turifero. Lungo i fiumi e i
+      torrenti, il bosco ripariale disegna sottili fasce di vegetazione. Vicino alle saline locali
+      sopravvivono inoltre piante alofile che formano comunità vegetali isolate da condizioni ambientali
+      estreme.
+    wildlife: >-
+      Guarda verso l'alto. Le pareti rocciose che sormontano le gole accolgono rapaci rupicoli: [aquila di
+      Bonelli](/especie/aquila_fasciata/) (in pericolo di estinzione), [aquila
+      reale](/especie/aquila_chrysaetos/), [falco pellegrino](/especie/falco_peregrinus/),
+      [capovaccaio](/especie/neophron_percnopterus/), [grifone](/especie/gyps_fulvus/) e [gufo
+      reale](/especie/bubo_bubo/). I loro voli si ammirano comodamente dai sentieri, senza disturbare le
+      pareti di nidificazione. Sulle stesse rupi vivono piccoli branchi di [stambecco
+      iberico](/especie/capra_pyrenaica/).
+
+
+      Sotto la volta degli alberi, la fauna cambia registro. I fitti boschi ospitano ricche comunità di
+      uccelli forestali e offrono rifugio a [capriolo](/especie/capreolus_capreolus/), [cervo
+      nobile](/especie/cervus_elaphus/), daino e [cinghiale](/especie/sus_scrofa/).
+
+
+      L'acqua custodisce la vita più delicata. I corsi fluviali ben conservati ospitano una delle popolazioni
+      di [lontra europea](/especie/lutra_lutra/) più floride della regione, assieme a trote, lasche iberiche e
+      barbi. In alcuni torrenti più remoti resistono ancora gli ultimi nuclei di gambero di fiume autoctono,
+      specie in forte declino nell'intera penisola. La minaccia principale è il visone americano, specie
+      alloctona invasiva che danneggia duramente la fauna d'acqua dolce minacciata.
+
+
+      Il ritmo delle stagioni trasforma l'esplorazione del fiume. Le piogge si concentrano in primavera quando
+      il disgelo porta la portata dei fiumi al massimo. L'itinerario del Campillo è ottimo per avvistare
+      aquila reale, falco pellegrino, capovaccaio e grifone in primavera e in estate; d'inverno la scena è
+      dominata da aironi cenerini, cormorani e germani reali. I mammiferi lasciano tracce evidenti: sul muro
+      della diga del Campillo si possono cercare le feci di lontra, faina e [genetta
+      comune](/especie/genetta_genetta/). Al crepuscolo, sull'altopiano di Villanueva de Alcorón, presta
+      attenzione al succiacapre collorosso e al succiacapre europeo.
+    visit: >-
+      Il parco è ampio e si visita al meglio suddividendolo per settori. Puoi entrare da nord passando per
+      Molina de Aragón, da cui si raggiungono Orea, Peralejos de las Truchas e Poveda de la Sierra. Il centro
+      visite di Corduente, a Guadalajara, è un ottimo punto di partenza: ospita un allestimento
+      interpretativo, illustra il patrimonio naturale dell'area protetta e ti aiuta a pianificare
+      l'itinerario.
+
+
+      In seguito, ciascun centro racconta una parte della storia. A Zaorejas, il centro del fiume Tago spiega
+      l'origine geologica del corso d'acqua, la flora delle forre e il ruolo del fiume nella cultura locale.
+      Il Sequero de Orea è dedicato agli antichi mestieri dell'Alto Tajo, mentre Checa custodisce il Museo
+      della Pastorizia Tradizionale.
+
+
+      Per una prima camminata nella gola, il geopercurso dell'Hundido de Armallones parte dal borgo di
+      Ocentejo. Esistono altri percorsi interessanti: il tracciato di Huertapelayo e Tagüenza, di 7 km con
+      punti di osservazione naturalistica, o l'andata e ritorno alla cascata del Campillo, della durata di
+      un'ora e mezza. La guida geologica ufficiale del parco raccoglie inoltre nove georotte per comprendere
+      passo dopo passo la genesi del paesaggio.
+    history: >-
+      L'economia locale si è retta a lungo sulla pastorizia transumante, il legname e l'estrazione di caolino.
+      I conduttori di zattere, o gancheros, facevano scorrere i tronchi sulle acque del Tago fino ad Aranjuez
+      e Toledo. Di quell'antico mondo restano nel paesaggio i chozones sabineros (capanne pastorali in pietra
+      e ginepro) e le saline di Saelices de la Sal e Armalla, testimonianze etnografiche che oggi fanno parte
+      del patrimonio protetto.
+
+
+      Oggi il comprensorio appartiene alla rete Natura 2000 come ZSC e ZPS Alto Tajo. La tutela dell'avifauna
+      giustifica restrizioni come il divieto di transito ai veicoli a motore verso l'Hundido de Armallones,
+      per evitare il disturbo ai nidi. Anche l'afflusso turistico viene regolamentato: nell'estate del 2026
+      l'ente gestore ha disciplinato gli accessi veicolari al canyon principale a causa del sovraffollamento e
+      del rischio di intralcio all'evacuazione in caso di incendi boschivi.
+    before: >-
+      In gran parte del parco, e in particolare sul fondo del canyon del Tago, non c'è copertura per la
+      telefonia mobile: scarica mappe e informazioni pratiche prima di partire. Verifica gli avvisi dell'ente
+      gestore: i centri di Zaorejas, Orea e Checa aprono nei fine settimana, nei giorni festivi e nei ponti,
+      da Pasqua a fine ottobre. È vietato accendere fuochi e gettare mozziconi accesi. Evita rumori molesti
+      per non disturbare la fauna selvatica né gli altri visitatori.
+    around: >-
+      Il [Parque Natural de la Serranía de Cuenca](/lugar/parque-natural-serrania-cuenca/) si trova a circa 2
+      km e prosegue verso sud lo stesso scenario di forre calcaree e pinete. Nella fascia di contatto con
+      l'Alto Tajo, Villanueva de Alcorón e gli Altos de la Campana a Checa ospitano cavalli di Przewalski del
+      progetto Iberian Highlands di Rewilding Spain; informati presso i responsabili del progetto sulle
+      modalità di visita.
+
+
+      Più a distanza, il [Parque Natural Hoces del Río Riaza](/lugar/parque-natural-hoces-del-rio-riaza/)
+      condivide con l'Alto Tajo gli habitat rupestri di canyon e le estese formazioni a ginepro turifero.
+  pt:
+    intro: >-
+      Há rios que atravessam uma cordilheira e rios que a partem ao meio. O Tejo e o Hoz Seca fazem o segundo:
+      no Sistema Ibérico, entre o sudeste de Guadalajara e o nordeste de Cuenca, abriram gargantas fundas na
+      rocha e deixaram de ambos os lados um território de pinhais, planaltos agrestes e escarpas rochosas. O
+      Parque Natural do Alto Tejo é a melhor forma de o percorreres de alto a baixo, desde os sabinais das
+      terras altas até às estreitas orlas verdes que acompanham a água.
+    landscape: >-
+      Tudo começa com a água, e aqui a água molda o terreno de duas formas. Desgasta o solo e, além disso,
+      dissolve o calcário. Por isso os desfiladeiros do Tejo e do Hoz Seca são fluviocársicos, e por isso a
+      comarca está repleta de grutas, algares e dolinas: a água também trabalhou por dentro. No cimo, em
+      contrapartida, o calcário resiste. Os seus estratos, horizontais ou pouco dobrados, formam os relevos
+      mais altos e os planaltos porque é o material que melhor suporta a erosão. A rocha dura permanece no
+      topo; o rio aprofunda o vale.
+
+
+      Se desceres até ao desfiladeiro da Hoz, a paisagem muda de feição. Os arenitos e conglomerados costumam
+      ficar ocultos sob rochas mais duras, como o calcário, e só despontam nas gargantas e arribas dos rios,
+      onde a erosão fluvial os deixou a descoberto.
+
+
+      A vegetação segue essa matriz geológica. Os pinhais constituem o habitat mais vasto de todo o parque.
+      Encontrarás extensas matas de pinheiro-silvestre, pinheiro-larício e pinheiro-bravo, juntamente com
+      áreas menores, mas valiosas, de pinheiro-de-alepo. Entre todos domina o
+      [pinheiro-larício](/especie/pinus_nigra/), que cobre a maior extensão: reveste as encostas do
+      desfiladeiro do Tejo e os planaltos mais baixos, sobretudo nos setores central e ocidental. A norte,
+      onde a altitude é menor e os vales são mais abertos, surge com maior frequência o pinheiro-bravo sobre
+      arenitos e conglomerados, ladeado por urzes, estevas e matos. Carvalho-cerquinho, azinheira e
+      carvalho-negral misturam-se com os pinheiros ou formam bosques puros.
+
+
+      Nos planaltos calcários estendem-se vastos povoamentos de sabina-da-turquia. Junto aos rios e ribeiros,
+      a vegetação ripícola desenha faixas estreitas de verdura. Onde existem salinas, mantêm-se ainda plantas
+      halófitas que formam comunidades vegetais isoladas pelas condições salinas.
+    wildlife: >-
+      Olha para cima. As paredes escarpadas que coroam as gargantas abrigam aves de rapina rupícolas:
+      [águia-de-bonelli](/especie/aquila_fasciata/) (em perigo de extinção),
+      [águia-real](/especie/aquila_chrysaetos/), [falcão-peregrino](/especie/falco_peregrinus/),
+      [abutre-do-egito](/especie/neophron_percnopterus/), [abutre-fouveiro](/especie/gyps_fulvus/) e
+      [bufo-real](/especie/bubo_bubo/). Os seus voos avistam-se com clareza a partir dos caminhos, sem
+      necessidade de perturbar os locais de nidificação. Nas mesmas escarpas habitam pequenos rebanhos de
+      [cabra-montês](/especie/capra_pyrenaica/).
+
+
+      Sob a copa das árvores, a vida decorre noutra escala. As grandes manchas florestais acolhem excelentes
+      comunidades de aves florestais e servem de abrigo a [corça](/especie/capreolus_capreolus/),
+      [veado-vermelho](/especie/cervus_elaphus/), gamo e [javali](/especie/sus_scrofa/).
+
+
+      A água preserva os tesouros mais frágeis. Os troços bem conservados sustentam uma das mais prósperas
+      populações de [lontra-europeia](/especie/lutra_lutra/) da região, ao lado de trutas, bogas e barbos. E
+      em ribeiros mais remotos sobrevivem ainda alguns dos últimos núcleos de lagostim-de-patas-brancas
+      autóctone, espécie em forte regressão em Espanha. A ameaça principal tem rosto: o visão-americano,
+      espécie exótica invasora que afeta criticamente a fauna aquática ameaçada.
+
+
+      O calendário dita a forma de explorar o rio. A pluviosidade concentra-se na primavera quando o degelo
+      faz subir o caudal dos rios. O trilho do Campillo é excelente para procurar a águia-real, o
+      falcão-peregrino, o abutre-do-egito e o abutre-fouveiro na primavera e no verão; no inverno, o
+      protagonismo passa para garças-reais, corvos-marinhos e patos-reais. Os mamíferos revelam-se pelos seus
+      vestígios: no paredão da represa do Campillo podem procurar-se dejetos de lontra, fuinha e
+      [gineta](/especie/genetta_genetta/). Ao crepúsculo, no planalto de Villanueva de Alcorón, tenta escutar
+      o noitibó-de-nuca-vermelha e o noitibó-da-europa.
+    visit: >-
+      O parque é extenso e aproveita-se melhor por setores. Podes aceder pelo norte a partir de Molina de
+      Aragón, seguindo depois para Orea, Peralejos de las Truchas e Poveda de la Sierra. O centro de
+      acolhimento de Corduente, em Guadalajara, é um ponto de partida perfeito: conta com uma exposição
+      interpretativa, dá a conhecer os valores naturais da área protegida e ajuda a organizar e planear o
+      percurso.
+
+
+      Cada centro de interpretação aprofunda uma faceta do território. Em Zaorejas, o centro do Rio Tejo
+      aborda a história geológica do curso de água, a flora dos desfiladeiros e a relevância do rio na cultura
+      local. O Sequero de Orea foca os ofícios tradicionais do Alto Tejo, enquanto Checa reúne o Museu da
+      Pecuária Tradicional.
+
+
+      Para uma primeira caminhada pela garganta, o trilho geológico do Hundido de Armallones começa na aldeia
+      de Ocentejo. Há outros percursos: o trilho de Huertapelayo e Tagüenza, de 7 km com paragens de
+      observação naturalista, ou a ida e volta à cascata do Campillo, com duração de uma hora e meia. O guia
+      geológico do parque reúne ainda nove georrotas para entender a formação desta paisagem ao longo do
+      tempo.
+    history: >-
+      A economia local assentou historicamente na pastorícia transumante, na exploração de madeira e na
+      extração de caulino. Os jangadeiros, ou gancheros, faziam descer os troncos pelas correntes do Tejo até
+      Aranjuez e Toledo. Desse tempo restam na paisagem os chozones sabineros (abrigos de pedra e sabina) e as
+      marinhas de sal de Saelices de la Sal e de Armalla, construções etnográficas que hoje integram o
+      património do parque.
+
+
+      Atualmente o território integra a Rede Natura 2000 como ZEC e ZEPA Alto Tajo. A salvaguarda da avifauna
+      dita restrições como o limite de trânsito a veículos motorizados rumo ao Hundido de Armallones, evitando
+      o incómodo das aves. O afluxo de visitantes exige idêntico cuidado: no verão de 2026, a entidade gestora
+      regulou os acessos rodoviários à garganta principal para combater a sobrelotação e garantir corredores
+      de evacuação contra incêndios florestais.
+    before: >-
+      Em grande parte do parque, sobretudo no fundo do desfiladeiro do Tejo, não há cobertura de telemóvel,
+      pelo que deves descarregar mapas e detalhes do percurso antes de sair. Consulta os horários dos centros
+      de informação: as instalações de Zaorejas, Orea e Checa abrem aos fins de semana, feriados e pontes,
+      desde a Páscoa até ao fim de outubro. É expressamente proibido fazer fogo e atirar beatas acesas. Evita
+      ruídos desnecessários para não perturbar a tranquilidade da fauna nem os restantes visitantes.
+    around: >-
+      O [Parque Natural de la Serranía de Cuenca](/lugar/parque-natural-serrania-cuenca/) fica a cerca de 2 km
+      e prolonga a sul o mesmo relevo de desfiladeiros calcários e pinhais. Na zona de contacto com o Alto
+      Tejo, Villanueva de Alcorón e os Altos de la Campana em Checa acolhem cavalos-de-przewalski do projeto
+      Iberian Highlands da Rewilding Spain; consulta o projeto para saber como agendar uma visita.
+
+
+      Mais distante, o [Parque Natural Hoces del Río Riaza](/lugar/parque-natural-hoces-del-rio-riaza/)
+      partilha com o Alto Tejo os biótopos cársicos de garganta e as densas matas de sabina-da-turquia.
+fuentes:
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo
+    titulo: JCCM — Parque Natural del Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo/visita-y-disfruta
+    titulo: JCCM — Parque Natural del Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo/rutas/sendero-1-georuta-ocentejo-hundido-de-armallones
+    titulo: JCCM — Parque Natural del Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://medionatural.castillalamancha.es/actualidad/regulacion-y-ordenacion-del-uso-acceso-y-aparcamiento-de-vehiculos-en-las-zonas-mas-concurridas-del-parque-natural-del-alto-tajo-verano-2026-26-junio-30-agosto
+    titulo: JCCM — Parque Natural del Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://es.wikipedia.org/wiki/Parque_natural_del_Alto_Tajo
+    titulo: Wikipedia — Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://www.spain.info/es/naturaleza/parque-natural-alto-tajo/
+    titulo: Turespaña — Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://medionatural.castillalamancha.es/sites/default/files/2026-02/pn_alto_tajo_guia_visitante_23_0.pdf
+    titulo: JCCM — Guía del visitante 2023
+    fecha_consulta: '2026-10-19'
+  - url: https://medionatural.castillalamancha.es/sites/default/files/visitas-descargas/donde_ver_aves_en_molina-alto_tajo.pdf
+    titulo: JCCM — Dónde ver aves en Molina-Alto Tajo
+    fecha_consulta: '2026-10-19'
+  - url: https://www.miteco.gob.es/es/ceneam/recursos/materiales/guia-geologica-alto-tajo.html
+    titulo: MITECO — Guía geológica del Alto Tajo
+    fecha_consulta: '2026-10-19'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Hundido_de_Armallones_y_R%C3%ADo_Tajo.jpg
+    autor: Pequeño Santi
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-19'

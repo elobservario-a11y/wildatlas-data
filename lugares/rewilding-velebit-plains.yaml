@@ -1,0 +1,490 @@
+id: rewilding-velebit-plains
+estado_editorial: valoracion-revisada
+nombre:
+  es: Rewilding Llanuras de Lika / Velebit
+  en: Rewilding Lika / Velebit Plains
+  fr: Rewilding Plaines de Lika / Velebit
+  de: Rewilding Lika-Ebenen / Velebit
+  it: Rewilding Piane della Lika / Velebit
+  pt: Rewilding Planícies de Lika / Velebit
+nombre_original: Rewilding Velebit Plains
+alias:
+  - Rewilding Velebit Plains (Lika Plains)
+paises:
+  - HR
+region:
+  es: Condado de Lika-Senj
+  en: Lika-Senj County
+  fr: Comitat de Lika-Senj
+  de: Gespanschaft Lika-Senj
+  it: Regione della Lika e di Segna
+  pt: Condado de Lika-Senj
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 44.6
+  lon: 15.3
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Lička krška polja
+  capa: capas/natura2000/rewilding-velebit-plains.geojson
+habitats:
+  - steppe
+  - karst
+especies:
+  - equus_caballus
+  - bos_taurus
+proyectos:
+  - rewilding_velebit
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 0
+valoracion: 2
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Rewilding Velebit Lika Site
+    url: https://rewilding-velebit.com/
+  - titulo: Visitas y observatorios — Rewilding Velebit
+    url: https://rewilding-velebit.com/velebit-mountains/book-your-experience/
+  - titulo: Visita y precauciones — Preguntas frecuentes del gestor
+    url: https://rewilding-velebit.com/what-is-rewilding/frequently-asked-questions/
+resumen:
+  es: >-
+    Praderas kársticas al pie de Velebit donde manadas de caballos Sayagueses y Tauros sustituyen al ganado
+    extinto.
+  en: >-
+    Karst grasslands at the foot of Velebit where herds of Sayaguesa horses and Tauros replace extinct wild
+    cattle.
+  fr: >-
+    Prairies karstiques au pied du Velebit où des hardes de chevaux Sayaguesa et de Tauros remplacent le
+    bétail disparu.
+  de: >-
+    Karstwiesen am Fuß des Velebit, auf denen Herden von Sayaguesa-Pferden und Tauros-Rindern ausgestorbenes
+    Großvieh ersetzen.
+  it: >-
+    Praterie carsiche ai piedi del Velebit dove mandrie di cavalli Sayaguesa e bovini Tauros sostituiscono il
+    bestiame scomparso.
+  pt: >-
+    Pradarias cársicas ao pé de Velebit onde manadas de cavalos Sayagueses e bovinos Tauros substituem o gado
+    extinto.
+unico:
+  es: >-
+    Aquí el pastoreo de grandes herbívoros sostiene una cadena trófica completa, con
+    [lobos](/especie/canis_lupus/), [osos](/especie/ursus_arctos/) y [linces](/especie/lynx_lynx/) como
+    depredadores.
+  en: >-
+    Here grazing by large herbivores supports a full food web, with [grey wolves](/especie/canis_lupus/),
+    [brown bears](/especie/ursus_arctos/) and [Eurasian lynx](/especie/lynx_lynx/) as predators.
+  fr: >-
+    Ici, le pâturage des grands herbivores soutient une chaîne trophique complète, avec des
+    [loups](/especie/canis_lupus/), des [ours bruns](/especie/ursus_arctos/) et des [lynx
+    boréaux](/especie/lynx_lynx/) comme prédateurs.
+  de: >-
+    Hier trägt die Beweidung durch große Pflanzenfresser eine vollständige Nahrungskette, mit
+    [Wölfen](/especie/canis_lupus/), [Braunbären](/especie/ursus_arctos/) und [Eurasischen
+    Luchsen](/especie/lynx_lynx/) als Beutegreifern.
+  it: >-
+    Qui il pascolo dei grandi erbivori sostiene una catena trofica completa, con [lupi
+    grigi](/especie/canis_lupus/), [orsi bruni](/especie/ursus_arctos/) e [linci
+    eurasiatiche](/especie/lynx_lynx/) come predatori.
+  pt: >-
+    Aqui o pastoreio de grandes herbívoros sustenta uma cadeia trófica completa, com
+    [lobos-cinzentos](/especie/canis_lupus/), [ursos-pardos](/especie/ursus_arctos/) e
+    [linces-euroasiáticos](/especie/lynx_lynx/) como predadores.
+observaciones:
+  es: >-
+    Los hides y las excursiones guiadas son del conjunto de Velebit, y es el safari fotográfico el que lleva a
+    la meseta de Lika. Los mejores meses van de mayo a octubre. Los animales viven en manadas sin gestión
+    humana directa, así que tómalos como fauna salvaje.
+texto:
+  es:
+    intro: >-
+      Una llanura verde al pie de las montañas de Velebit y, sobre ella, manadas que viven en grupo sin que
+      nadie las gestione de forma directa. Unos doscientos grandes herbívoros, entre ellos Tauros y caballos
+      semisalvajes, pastan hoy en las llanuras de Lika, en el condado de Lika-Senj. Es una iniciativa de
+      rewilding: no protege un pedazo de naturaleza intacta, sino que devuelve al paisaje el pastoreo que le
+      faltaba.
+    landscape: >-
+      Las llanuras de Lika son un pastizal en las estribaciones de las montañas de Velebit, un terreno
+      kárstico donde la hierba se extiende hasta la falda de la sierra. Si viajas por la carretera que une
+      Zagreb con la costa sur de Croacia, ya ves una parte del conjunto desde el asfalto.
+
+
+      Lo que cambia el lugar no es la geología sino lo que pasta encima. El pastoreo de los grandes herbívoros
+      crea mosaicos de hábitat dinámicos y biodiversos, y el proyecto asegura que la vuelta del pastoreo ya
+      está transformando el paisaje. La prueba piloto de pastoreo natural se desarrolla dentro del espacio
+      Natura 2000 de Ličko polje.
+    wildlife: >-
+      Por la llanura vagan manadas de Tauros, de caballos Konik y de caballos de montaña bosnios. Los
+      [caballos](/especie/equus_caballus/) y los [bovinos](/especie/bos_taurus/) viven en grupos sociales, sin
+      gestión humana directa, y con el tiempo avanzan hacia la autosuficiencia. Para llegar a ese punto hizo
+      falta un acuerdo sobre derechos de pastoreo, que permitió trasladar los Tauros y los caballos
+      semisalvajes a esta zona.
+
+
+      Detrás de los herbívoros están los carnívoros: lobos, osos y linces los cazan, de modo que la presencia
+      de unos sostiene a los otros. En los hides que el proyecto ha construido en Velebit, dos de ellos con un
+      punto de agua, se espera además al azor y al busardo ratonero. La mejor época de visita va de mayo a
+      octubre.
+    visit: >-
+      La experiencia más directa es el safari fotográfico por la meseta de Lika: dura de dos a tres horas y te
+      acerca a los bovinos y caballos semisalvajes en su ambiente.
+
+
+      Si quieres más tiempo con la fauna, el proyecto ofrece en Velebit cinco hides de observación, tres de
+      ellos pensados para mamíferos. Puedes pasar en ellos una tarde y una noche, una noche entera o varios
+      días con sus noches. También hay excursiones guiadas de uno o varios días, con guías de montaña, en las
+      que aprendes a reconocer huellas y a observar animales salvajes. Se organizan caminatas educativas con
+      regularidad y funcionan mejor en grupos pequeños o en salidas individuales.
+    history: >-
+      Rewilding Europe reintroduce aquí Tauros y caballos semisalvajes. Un acuerdo sobre derechos de pastoreo
+      hizo posible traerlos, y el programa piloto de pastoreo natural arrancó dentro del espacio Natura 2000
+      de Ličko polje. El objetivo es que el paisaje funcione sin manejo constante: que los animales se
+      organicen solos y que, con los años, dependan cada vez menos de las personas.
+    before: >-
+      Los hides y las excursiones guiadas son del conjunto de Velebit, y es el safari fotográfico el que lleva
+      a la meseta de Lika. Los mejores meses van de mayo a octubre. Los animales viven en manadas sin gestión
+      humana directa, así que tómalos como fauna salvaje.
+    around: >-
+      A dos kilómetros queda la [Reserva Estricta de Čorkova
+      Uvala](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/), dentro del Parque Nacional Lagos de
+      Plitvice, y a cinco el [Parque Nacional Paklenica - Altiplano de
+      Velebit](/lugar/nacionalni-park-paklenica---altiplano/). A ocho kilómetros está el [Parque Nacional Una
+      - Curso Alto y Cascadas](/lugar/nacionalni-park-una---gorji-tok/), a diez el [Macizo de
+      Snježnik](/lugar/snjeznik-massif-croatia/) y a quince el [Parque Nacional de Velebit
+      Norte](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Más lejos, [Maashorst](/lugar/de-maashorst/), [Puerta de Güeldres](/lugar/gelderse-poort/) y la [estepa
+      de Bugac](/lugar/kiskunsagi---bugac-puszta/) comparten con Lika el caballo y el bovino que pastan en
+      libertad.
+  en:
+    intro: >-
+      A green plain at the foot of the Velebit mountains and, across it, herds living in social groups without
+      anyone managing them directly. Around two hundred large herbivores, among them Tauros and semi-wild
+      horses, now graze the Lika plains in Lika-Senj County. It is a rewilding initiative: rather than
+      protecting a piece of untouched nature, it restores the grazing the landscape had lost.
+    landscape: >-
+      The Lika plains are a grassland in the foothills of the Velebit mountains, a karst landscape where grass
+      stretches right up to the base of the range. If you drive along the road linking Zagreb with Croatia's
+      southern coast, you can already see part of it from the tarmac.
+
+
+      What changes this place is not the geology, but what grazes on top of it. Grazing by large herbivores
+      creates dynamic, biodiverse habitat mosaics, and the project notes that the return of grazing is already
+      transforming the landscape. The natural grazing pilot is taking place within the Ličko polje Natura 2000
+      site.
+    wildlife: >-
+      Across the plain roam herds of Tauros, Konik horses and Bosnian mountain horses. The [feral
+      horses](/especie/equus_caballus/) and [domestic cattle](/especie/bos_taurus/) live in social groups
+      without direct human management, and over time they are moving towards self-sufficiency. Reaching that
+      point required an agreement on grazing rights, which made it possible to bring the Tauros and semi-wild
+      horses to this area.
+
+
+      Behind the herbivores come the carnivores: wolves, bears and lynx hunt them, so the presence of one
+      group sustains the other. At the hides the project has built in Velebit, two of them with a water point,
+      visitors also watch for northern goshawk and common buzzard. The best time to visit runs from May to
+      October.
+    visit: >-
+      The most direct experience is the photo safari across the Lika plateau: it lasts two to three hours and
+      brings you close to the semi-wild cattle and horses in their environment.
+
+
+      If you want more time with wildlife, the project offers five observation hides in Velebit, three of them
+      designed for mammals. You can spend an afternoon and a night in them, a full night, or several days and
+      nights. There are also guided excursions of one or several days, with mountain guides, where you learn
+      to read tracks and watch wild animals. Educational walks are organised regularly and work best in small
+      groups or on individual outings.
+    history: >-
+      Rewilding Europe is reintroducing Tauros and semi-wild horses here. An agreement on grazing rights made
+      it possible to bring them in, and the natural grazing pilot programme began inside the Ličko polje
+      Natura 2000 site. The goal is for the landscape to function without constant management: for the animals
+      to organise themselves and, over the years, depend less and less on people.
+    before: >-
+      The hides and guided excursions belong to the wider Velebit area, and it is the photo safari that takes
+      you onto the Lika plateau. The best months run from May to October. The animals live in herds without
+      direct human management, so treat them as wild fauna.
+    around: >-
+      Two kilometres away lies [Čorkova Uvala Strict
+      Reserve](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/), inside Plitvice Lakes National
+      Park, and five kilometres away is [Paklenica National Park - Velebit
+      Plateau](/lugar/nacionalni-park-paklenica---altiplano/). Eight kilometres away sits [Una National Park -
+      Upper Course and Waterfalls](/lugar/nacionalni-park-una---gorji-tok/), ten kilometres away is the
+      [Snježnik Massif](/lugar/snjeznik-massif-croatia/), and fifteen kilometres away is [Northern Velebit
+      National Park](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Further afield, [De Maashorst](/lugar/de-maashorst/), [Gelderse Poort](/lugar/gelderse-poort/) and the
+      [Bugac Steppe](/lugar/kiskunsagi---bugac-puszta/) share free-grazing horses and cattle with Lika.
+  fr:
+    intro: >-
+      Une plaine verte au pied des montagnes du Velebit et, dessus, des troupeaux qui vivent en groupe sans
+      que personne ne les gère directement. Environ deux cents grands herbivores, dont des Tauros et des
+      chevaux semi-sauvages, pâturent aujourd'hui dans les plaines de Lika, dans le comitat de Lika-Senj.
+      C'est une initiative de réensauvagement : elle ne protège pas un fragment de nature intacte, elle rend
+      au paysage le pâturage qui lui manquait.
+    landscape: >-
+      Les plaines de Lika sont une prairie au pied des montagnes du Velebit, un terrain karstique où l'herbe
+      s'étend jusqu'au bas de la chaîne. Si vous empruntez la route qui relie Zagreb à la côte sud de la
+      Croatie, vous en voyez déjà une partie depuis l'asphalte.
+
+
+      Ce qui transforme le lieu n'est pas la géologie, mais ce qui y pâture. Le pâturage des grands herbivores
+      crée des mosaïques d'habitats dynamiques et riches en biodiversité, et le projet affirme que le retour
+      du pâturage transforme déjà le paysage. L'essai pilote de pâturage naturel se déroule au sein du site
+      Natura 2000 de Ličko polje.
+    wildlife: >-
+      Dans la plaine errent des hardes de Tauros, de chevaux Konik et de chevaux de montagne bosniaques. Les
+      [chevaux](/especie/equus_caballus/) et les [bovins](/especie/bos_taurus/) vivent en groupes sociaux,
+      sans gestion humaine directe, et progressent avec le temps vers l'autosuffisance. Pour en arriver là, il
+      a fallu un accord sur les droits de pâturage, qui a permis d'amener les Tauros et les chevaux
+      semi-sauvages dans la zone.
+
+
+      Derrière les herbivores viennent les carnivores : loups, ours et lynx les chassent, de sorte que la
+      présence des uns soutient les autres. Dans les affûts que le projet a construits dans le Velebit, dont
+      deux avec un point d'eau, on attend aussi l'autour des palombes et la buse variable. La meilleure
+      période de visite s'étend de mai à octobre.
+    visit: >-
+      L'expérience la plus directe est le safari photo sur le plateau de Lika : il dure deux à trois heures et
+      vous approche des bovins et des chevaux semi-sauvages dans leur milieu.
+
+
+      Si vous souhaitez passer plus de temps avec la faune, le projet propose dans le Velebit cinq affûts
+      d'observation, dont trois conçus pour les mammifères. Vous pouvez y passer une après-midi et une nuit,
+      une nuit entière ou plusieurs jours et nuits. Il existe aussi des excursions guidées d'un ou plusieurs
+      jours, avec des guides de montagne, pour apprendre à reconnaître les traces et observer les animaux
+      sauvages. Des marches éducatives sont organisées régulièrement et fonctionnent mieux en petits groupes
+      ou en sorties individuelles.
+    history: >-
+      Rewilding Europe réintroduit ici des Tauros et des chevaux semi-sauvages. Un accord sur les droits de
+      pâturage a permis de les faire venir, et le programme pilote de pâturage naturel a démarré dans le site
+      Natura 2000 de Ličko polje. L'objectif est que le paysage fonctionne sans intervention constante : que
+      les animaux s'organisent seuls et dépendent de moins en moins des humains au fil des années.
+    before: >-
+      Les affûts et les excursions guidées concernent l'ensemble du Velebit, et c'est le safari photo qui mène
+      sur le plateau de Lika. Les meilleurs mois vont de mai à octobre. Les animaux vivent en hardes sans
+      gestion humaine directe : considérez-les comme de la faune sauvage.
+    around: >-
+      À deux kilomètres se trouve la [Réserve intégrale de Čorkova
+      Uvala](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/), dans le parc national des lacs de
+      Plitvice, et à cinq le [Parc national de Paklenica - Haut plateau du
+      Velebit](/lugar/nacionalni-park-paklenica---altiplano/). À huit kilomètres s'étend le [Parc national de
+      l'Una - Cours supérieur et cascades](/lugar/nacionalni-park-una---gorji-tok/), à dix le [Massif du
+      Snježnik](/lugar/snjeznik-massif-croatia/) et à quinze le [Parc national du Velebit du
+      Nord](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Plus loin, [Maashorst](/lugar/de-maashorst/), la [Porte de Gueldre](/lugar/gelderse-poort/) et la
+      [steppe de Bugac](/lugar/kiskunsagi---bugac-puszta/) partagent avec Lika des chevaux et des bovins
+      pâturant en liberté.
+  de:
+    intro: >-
+      Eine grüne Ebene am Fuß des Velebit-Gebirges und darauf Herden, die im Verband leben, ohne dass sie
+      jemand direkt lenkt. Rund zweihundert große Pflanzenfresser, darunter Tauros-Rinder und halbwild lebende
+      Pferde, weiden heute in den Lika-Ebenen in der Gespanschaft Lika-Senj. Es ist eine Rewilding-Initiative:
+      Sie schützt kein Stück unberührter Natur, sondern gibt der Landschaft die fehlende Beweidung zurück.
+    landscape: >-
+      Die Lika-Ebenen sind ein Grasland am Rand des Velebit-Gebirges, ein Karstgelände, in dem sich das Gras
+      bis zum Fuß des Gebirgszugs erstreckt. Wenn du auf der Straße fährst, die Zagreb mit der kroatischen
+      Südküste verbindet, siehst du bereits einen Teil davon vom Asphalt aus.
+
+
+      Was den Ort verändert, ist nicht die Geologie, sondern das, was darauf weidet. Die Beweidung durch große
+      Pflanzenfresser schafft dynamische, artenreiche Lebensraummosaike, und das Projekt berichtet, dass die
+      Rückkehr der Beweidung die Landschaft bereits umgestaltet. Der Pilotversuch zur natürlichen Beweidung
+      läuft innerhalb des Natura-2000-Gebiets Ličko polje.
+    wildlife: >-
+      Über die Ebene ziehen Herden von Tauros, Konik-Pferden und Bosnischen Gebirgspferden. Die
+      [Pferde](/especie/equus_caballus/) und [Rinder](/especie/bos_taurus/) leben in sozialen Gruppen ohne
+      direkte menschliche Steuerung und entwickeln sich mit der Zeit Richtung Selbstständigkeit. Um dorthin zu
+      gelangen, brauchte es eine Vereinbarung über Weiderechte, die es ermöglichte, die Tauros und halbwilden
+      Pferde in dieses Gebiet zu bringen.
+
+
+      Hinter den Pflanzenfressern stehen die Beutegreifer: Wölfe, Bären und Luchse jagen sie, sodass die
+      Anwesenheit der einen die anderen trägt. In den Beobachtungsverstecken, die das Projekt im Velebit
+      gebaut hat – zwei davon mit Wasserstelle –, wartet man zudem auf Habicht und Mäusebussard. Die beste
+      Besuchszeit reicht von Mai bis Oktober.
+    visit: >-
+      Das direkteste Erlebnis ist die Fotosafari über das Lika-Plateau: Sie dauert zwei bis drei Stunden und
+      bringt dich den halbwilden Rindern und Pferden in ihrer Umgebung nahe.
+
+
+      Wenn du mehr Zeit mit der Tierwelt verbringen willst, bietet das Projekt im Velebit fünf
+      Beobachtungshütten an, drei davon für Säugetiere. Du kannst darin einen Nachmittag und eine Nacht, eine
+      ganze Nacht oder mehrere Tage samt Nächten verbringen. Es gibt auch geführte Touren über einen oder
+      mehrere Tage mit Bergführern, bei denen du lernst, Spuren zu lesen und Wildtiere zu beobachten.
+      Regelmäßig werden geführte Lernwanderungen organisiert, die in kleinen Gruppen oder einzeln am besten
+      funktionieren.
+    history: >-
+      Rewilding Europe siedelt hier wieder Tauros und halbwilde Pferde an. Eine Vereinbarung über Weiderechte
+      machte ihre Ansiedlung möglich, und das Pilotprogramm für natürliche Beweidung startete im
+      Natura-2000-Gebiet Ličko polje. Ziel ist, dass die Landschaft ohne ständigen Eingriff funktioniert: dass
+      sich die Tiere selbst organisieren und über die Jahre immer weniger auf Menschen angewiesen sind.
+    before: >-
+      Die Beobachtungshütten und geführten Touren gehören zum gesamten Velebit, und die Fotosafari führt auf
+      das Lika-Plateau. Die besten Monate sind Mai bis Oktober. Die Tiere leben in Herden ohne direkte
+      menschliche Lenkung, behandle sie also als Wildtiere.
+    around: >-
+      Zwei Kilometer entfernt liegt das [Strenge Reservat Čorkova
+      Uvala](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/) im Nationalpark Plitvicer Seen, und
+      fünf Kilometer entfernt der [Nationalpark Paklenica -
+      Velebit-Hochfläche](/lugar/nacionalni-park-paklenica---altiplano/). Acht Kilometer entfernt liegt der
+      [Nationalpark Una - Oberlauf und Wasserfälle](/lugar/nacionalni-park-una---gorji-tok/), zehn das
+      [Snježnik-Massiv](/lugar/snjeznik-massif-croatia/) und fünfzehn der [Nationalpark Nördlicher
+      Velebit](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Weiter entfernt teilen [Maashorst](/lugar/de-maashorst/), [Gelderse Poort](/lugar/gelderse-poort/) und
+      die [Steppe von Bugac](/lugar/kiskunsagi---bugac-puszta/) mit Lika die frei weidenden Pferde und Rinder.
+  it:
+    intro: >-
+      Una pianura verde ai piedi dei monti del Velebit e, sopra di essa, mandrie che vivono in gruppo senza
+      che nessuno le gestisca direttamente. Circa duecento grandi erbivori, tra cui bovini Tauros e cavalli
+      semiselvatici, pascolano oggi nelle piane della Lika, nella regione della Lika e di Segna. È
+      un'iniziativa di rewilding: non protegge un frammento di natura intatta, ma restituisce al paesaggio il
+      pascolo che gli mancava.
+    landscape: >-
+      Le piane della Lika sono una prateria alle pendici dei monti del Velebit, un terreno carsico dove l'erba
+      si estende fino ai piedi della catena. Se percorri la strada che collega Zagabria alla costa meridionale
+      della Croazia, ne vedi già una parte dall'asfalto.
+
+
+      Ciò che cambia il luogo non è la geologia, ma ciò che vi pascola sopra. Il pascolo dei grandi erbivori
+      crea mosaici di habitat dinamici e ricchi di biodiversità, e il progetto afferma che il ritorno del
+      pascolo sta già trasformando il paesaggio. La sperimentazione pilota di pascolo naturale si svolge
+      all'interno del sito Natura 2000 di Ličko polje.
+    wildlife: >-
+      Nella pianura vagano mandrie di Tauros, cavalli Konik e cavalli di montagna bosniaci. I
+      [cavalli](/especie/equus_caballus/) e i [bovini](/especie/bos_taurus/) vivono in gruppi sociali, senza
+      gestione umana diretta, e col tempo procedono verso l'autosufficienza. Per arrivare a quel punto è stato
+      necessario un accordo sui diritti di pascolo, che ha permesso di trasferire i Tauros e i cavalli
+      semiselvatici in questa zona.
+
+
+      Dietro gli erbivori stanno i carnivori: lupi, orsi e linci li cacciano, così la presenza degli uni
+      sostiene gli altri. Nei capanni che il progetto ha costruito nel Velebit, due dei quali con un punto
+      d'acqua, si attendono anche l'astore e la poiana. Il periodo migliore per la visita va da maggio a
+      ottobre.
+    visit: >-
+      L'esperienza più diretta è il safari fotografico sull'altopiano della Lika: dura da due a tre ore e ti
+      avvicina ai bovini e ai cavalli semiselvatici nel loro ambiente.
+
+
+      Se vuoi più tempo con la fauna, il progetto offre nel Velebit cinque capanni di osservazione, tre dei
+      quali pensati per i mammiferi. Puoi trascorrervi un pomeriggio e una notte, una notte intera oppure più
+      giorni con relative notti. Ci sono anche escursioni guidate di uno o più giorni, con guide alpine, in
+      cui impari a riconoscere le tracce e osservare gli animali selvatici. Si organizzano regolarmente
+      camminate didattiche, che funzionano meglio in piccoli gruppi o uscite individuali.
+    history: >-
+      Rewilding Europe reintroduce qui Tauros e cavalli semiselvatici. Un accordo sui diritti di pascolo ha
+      reso possibile portarli, e il programma pilota di pascolo naturale è partito all'interno del sito Natura
+      2000 di Ličko polje. L'obiettivo è che il paesaggio funzioni senza gestione costante: che gli animali si
+      organizzino da soli e, negli anni, dipendano sempre meno dalle persone.
+    before: >-
+      I capanni e le escursioni guidate riguardano l'insieme del Velebit, ed è il safari fotografico a portare
+      sull'altopiano della Lika. I mesi migliori vanno da maggio a ottobre. Gli animali vivono in mandrie
+      senza gestione umana diretta, quindi trattali come fauna selvatica.
+    around: >-
+      A due chilometri si trova la [Riserva Integrale di Čorkova
+      Uvala](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/), dentro il Parco Nazionale dei Laghi
+      di Plitvice, e a cinque il [Parco Nazionale di Paklenica - Altopiano del
+      Velebit](/lugar/nacionalni-park-paklenica---altiplano/). A otto chilometri c'è il [Parco Nazionale
+      dell'Una - Corso superiore e cascate](/lugar/nacionalni-park-una---gorji-tok/), a dieci il [Massiccio
+      dello Snježnik](/lugar/snjeznik-massif-croatia/) e a quindici il [Parco Nazionale del Velebit
+      Settentrionale](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Più lontano, [Maashorst](/lugar/de-maashorst/), [Gelderse Poort](/lugar/gelderse-poort/) e la [steppa di
+      Bugac](/lugar/kiskunsagi---bugac-puszta/) condividono con la Lika cavalli e bovini al pascolo libero.
+  pt:
+    intro: >-
+      Uma planície verde ao pé das montanhas de Velebit e, sobre ela, manadas que vivem em grupo sem que
+      ninguém as gira diretamente. Cerca de duzentos grandes herbívoros, entre os quais Tauros e cavalos
+      semisselvagens, pastam hoje nas planícies de Lika, no condado de Lika-Senj. É uma iniciativa de
+      rewilding: não protege um pedaço de natureza intacta, mas devolve à paisagem o pastoreio que lhe
+      faltava.
+    landscape: >-
+      As planícies de Lika são uma pastagem no sopé das montanhas de Velebit, um terreno cársico onde a erva
+      se estende até à base da serra. Se viajares pela estrada que liga Zagreb à costa sul da Croácia, já vês
+      uma parte do conjunto a partir do asfalto.
+
+
+      O que muda o lugar não é a geologia, mas o que pasta em cima dela. O pastoreio dos grandes herbívoros
+      cria mosaicos de habitat dinâmicos e biodiversos, e o projeto assegura que o regresso do pastoreio já
+      está a transformar a paisagem. O ensaio-piloto de pastoreio natural decorre dentro do sítio Natura 2000
+      de Ličko polje.
+    wildlife: >-
+      Pela planície vagueiam manadas de Tauros, de cavalos Konik e de cavalos-de-montanha bósnios. Os
+      [cavalos](/especie/equus_caballus/) e os [bovinos](/especie/bos_taurus/) vivem em grupos sociais, sem
+      gestão humana direta, e com o tempo avançam rumo à autossuficiência. Para chegar a esse ponto foi
+      necessário um acordo sobre direitos de pastoreio, que permitiu transferir os Tauros e os cavalos
+      semisselvagens para esta zona.
+
+
+      Atrás dos herbívoros estão os carnívoros: lobos, ursos e linces caçam-nos, de modo que a presença de uns
+      sustenta a dos outros. Nos abrigos de observação que o projeto construiu em Velebit, dois deles com um
+      ponto de água, espera-se também pelo açor e pela águia-de-asa-redonda. A melhor época de visita vai de
+      maio a outubro.
+    visit: >-
+      A experiência mais direta é o safari fotográfico pelo planalto de Lika: dura de duas a três horas e
+      aproxima-te dos bovinos e cavalos semisselvagens no seu ambiente.
+
+
+      Se quiseres mais tempo com a fauna, o projeto oferece em Velebit cinco abrigos de observação, três deles
+      pensados para mamíferos. Podes passar neles uma tarde e uma noite, uma noite inteira ou vários dias com
+      as suas noites. Há também excursões guiadas de um ou vários dias, com guias de montanha, nas quais
+      aprendes a reconhecer pegadas e a observar animais selvagens. Organizam-se caminhadas educativas com
+      regularidade, que funcionam melhor em grupos pequenos ou em saídas individuais.
+    history: >-
+      A Rewilding Europe reintroduz aqui Tauros e cavalos semisselvagens. Um acordo sobre direitos de
+      pastoreio tornou possível trazê-los, e o programa-piloto de pastoreio natural arrancou dentro do sítio
+      Natura 2000 de Ličko polje. O objetivo é que a paisagem funcione sem manejo constante: que os animais se
+      organizem sozinhos e que, com os anos, dependam cada vez menos das pessoas.
+    before: >-
+      Os abrigos e as excursões guiadas pertencem ao conjunto de Velebit, e é o safari fotográfico que leva ao
+      planalto de Lika. Os melhores meses vão de maio a outubro. Os animais vivem em manadas sem gestão humana
+      direta, portanto encara-os como fauna selvagem.
+    around: >-
+      A dois quilómetros fica a [Reserva Estrita de Čorkova
+      Uvala](/lugar/nacionalni-park-plitvicka-jezera-posebni-rezervat/), dentro do Parque Nacional Lagos de
+      Plitvice, e a cinco o [Parque Nacional Paklenica - Planalto de
+      Velebit](/lugar/nacionalni-park-paklenica---altiplano/). A oito quilómetros está o [Parque Nacional Una
+      - Curso Alto e Cascatas](/lugar/nacionalni-park-una---gorji-tok/), a dez o [Maciço de
+      Snježnik](/lugar/snjeznik-massif-croatia/) e a quinze o [Parque Nacional de Velebit
+      Norte](/lugar/nacionalni-park-sjeverni-velebit/).
+
+
+      Mais longe, [Maashorst](/lugar/de-maashorst/), [Porta de Guéldria](/lugar/gelderse-poort/) e a [estepe
+      de Bugac](/lugar/kiskunsagi---bugac-puszta/) partilham com Lika o cavalo e o bovino que pastam em
+      liberdade.
+fuentes:
+  - url: https://rewilding-velebit.com/
+    titulo: Rewilding Velebit
+    fecha_consulta: '2026-11-06'
+  - url: https://rewilding-velebit.com/what-is-rewilding/frequently-asked-questions/
+    titulo: Frequently Asked Questions – Rewilding Velebit
+    fecha_consulta: '2026-11-06'
+  - url: https://rewilding-velebit.com/velebit-mountains/book-your-experience/
+    titulo: Book your experience – Rewilding Velebit
+    fecha_consulta: '2026-11-06'

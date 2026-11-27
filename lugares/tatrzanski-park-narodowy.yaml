@@ -1,0 +1,654 @@
+id: tatrzanski-park-narodowy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de los Tatras (Polonia)
+  en: Tatra National Park (Poland)
+  fr: Parc national des Tatras (Pologne)
+  de: Tatra-Nationalpark (Polen)
+  it: Parco Nazionale dei Tatra (Polonia)
+  pt: Parque Nacional dos Tatras (Polónia)
+nombre_original: Tatrzański Park Narodowy
+alias:
+  - Tatrzański Park Narodowy
+paises:
+  - PL
+region:
+  es: Pequeña Polonia (Zakopane)
+  en: Lesser Poland (Zakopane)
+  fr: Petite-Pologne (Zakopane)
+  de: Kleinpolen (Zakopane)
+  it: Piccola Polonia (Zakopane)
+  pt: Pequena Polónia (Zakopane)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 49.247
+  lon: 19.957
+  radio_km: 8
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 848
+  nombre_en_la_fuente: Tatrzański Park Narodowy
+  capa: capas/cdda/tatrzanski-park-narodowy.geojson
+habitats:
+  - high_mountain
+  - alpine_meadow
+  - mature_forest
+  - glacial
+  - karst
+designaciones:
+  - national_park
+  - iucn_ii
+  - biosphere_reserve
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - marmota_marmota
+  - ursus_arctos
+  - lynx_lynx
+  - aquila_chrysaetos
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: verano para las crestas; septiembre con menos gente
+  en: summer for the ridges; september with fewer crowds
+  fr: été pour les crêtes ; septembre pour éviter la foule
+  de: sommer für die kämme; september mit weniger andrang
+  it: estate per le creste; settembre per evitare la folla
+  pt: verão para as cristas; setembro com menos afluência
+masificacion: 4
+masificacion_nota:
+  es: Muy alta en Morskie Oko y Kasprowy Wierch en verano; baja en los valles occidentales fuera de temporada
+  en: Very high at Morskie Oko and Kasprowy Wierch in summer; low in the western valleys off-season
+  fr: Très élevée à Morskie Oko et au Kasprowy Wierch en été ; faible dans les vallées occidentales hors saison
+  de: >-
+    Sehr hoch am Morskie Oko und Kasprowy Wierch im Sommer; gering in den westlichen Tälern außerhalb der
+    Saison
+  it: Molto alta a Morskie Oko e Kasprowy Wierch in estate; bassa nelle valli occidentali fuori stagione
+  pt: Muito alta em Morskie Oko e Kasprowy Wierch no verão; baixa nos vales ocidentais fora de época
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque nacional de los Tatras, Polonia
+    url: https://tpn.gov.pl
+  - titulo: Rutas — Tatras, sector polaco
+    url: https://tpn.gov.pl/trasy-turystyczne
+  - titulo: Normas y permisos — Tatras, sector polaco
+    url: https://tpn.gov.pl/regulaminy
+  - titulo: Centro de visitantes — Educación de naturaleza en Zakopane
+    url: https://tpn.gov.pl/cep-zakopane
+  - titulo: Accesos — Kuźnice y sede del parque
+    url: https://tpn.gov.pl/dojazd-do-kuznic
+  - titulo: Avisos — Senderos abiertos y cerrados en los Tatras
+    url: https://tpn.gov.pl/komunikat-turystyczny
+enlaces_referencia:
+  - titulo: 'Wikipedia: Tatra National Park (Poland)'
+    url: https://en.wikipedia.org/wiki/Tatra_National_Park,_Poland
+resumen:
+  es: >-
+    La única alta montaña de tipo alpino de los Cárpatos: granito, lagos glaciares, rebeco de los Tatras y oso
+    pardo.
+  en: >-
+    The only alpine-type high-mountain massif in the Carpathians: sharp granite ridges, glacial tarns, Tatra
+    chamois, and brown bear.
+  fr: >-
+    Le seul massif de haute montagne de type alpin des Carpates : granite, lacs glaciaires, chamois des Tatras
+    et ours brun.
+  de: >-
+    Das einzige alpine Hochgebirgsmassiv der Karpaten: schroffe Granitkämme, Karseen, Tatra-Gämse und
+    Braunbär.
+  it: >-
+    L'unico massiccio d'alta montagna di tipo alpino dei Carpazi: creste di granito, laghi glaciali, camoscio
+    dei Tatra e orso bruno.
+  pt: >-
+    A única alta montanha de tipo alpino dos Cárpatos: cristas de granito, lagoas glaciares,
+    camurça-dos-tatras e urso-pardo.
+unico:
+  es: >-
+    Aquí viven juntos el rebeco y la marmota de los Tatras, protegidos desde mediados del siglo XIX, entre
+    cumbres, lagos y cuevas.
+  en: >-
+    Tatra chamois and Tatra marmot live here side by side, strictly protected since the mid-nineteenth century
+    amidst soaring peaks, tarns, and deep caves.
+  fr: >-
+    Ici cohabitent le chamois et la marmotte des Tatras, protégés depuis le milieu du XIXe siècle, entre cimes
+    escarpées, lacs et gouffres.
+  de: >-
+    Hier leben Tatra-Gämse und Tatra-Murmeltier seit Mitte des neunzehnten Jahrhunderts streng geschützt
+    nebeneinander zwischen Felsgipfeln, Karseen und Höhlen.
+  it: >-
+    Qui convivono il camoscio e la marmotta dei Tatra, tutelati sin dalla metà del XIX secolo, tra vette
+    aspre, laghi alpini e abissi.
+  pt: >-
+    Aqui coabitam a camurça e a marmota dos Tatras, protegidas desde meados do século XIX, entre cumes
+    vertiginosos, lagoas e grutas.
+observaciones:
+  es: >-
+    El parque publica cada día un aviso turístico con las normas de visita. Hay un punto de información
+    turística en la calle Chałubińskiego, en Zakopane. En el tramo de carretera entre la rotonda y Kuźnice
+    rige una prohibición de tráfico. Comprueba también qué senderos están abiertos antes de salir.
+texto:
+  es:
+    intro: >-
+      Desde la cumbre de Rysy, 2.499 metros, el techo de Polonia, se ven abajo dos lagos de montaña que
+      cuentan casi todo lo que hay que saber de este parque: el Czarny Staw y Morskie Oko. Rysy está en los
+      Tatras polacos, la única alta montaña de tipo alpino de los Cárpatos, un mundo de cumbres de aristas
+      afiladas, hondonadas con formaciones rocosas, granito y lagos glaciares.
+
+
+      El Parque Nacional de los Tatras es la parte polaca de la cordillera y se divide en dos secciones, los
+      Tatras Altos y los Tatras Occidentales. Junto con el parque eslovaco forma una reserva de la biosfera
+      transfronteriza que la UNESCO declaró en 1992. Es también el parque nacional más visitado de Polonia.
+    landscape: >-
+      El parque sube por pisos. Hasta 1.250 m dominan los bosques de abeto blanco y haya; más arriba, hasta
+      1.550 m, los de pícea, que dan paso a praderas y pastos hasta 1.800 m. De ahí hacia arriba solo queda la
+      flora alpina, con el pino cembro, el edelweiss y la carlina sin tallo. En primavera, el valle de
+      Kościeliska se llena de azafranes. De la superficie del parque, 151,91 km² son bosque y el resto, sobre
+      todo, praderas.
+
+
+      El agua se muestra en más de 30 lagos de montaña, los *stawy*: Morskie Oko y Wielki Staw Polski son los
+      mayores. La cascada más alta es Siklawa, de 70 m, seguida de Czarny Staw, de 40 m, y Siklawica, de 24 m;
+      la de Mickiewicz es de las más visitadas.
+
+
+      Y bajo tierra, hay unas 650 cuevas. El sistema de Wielka Śnieżna es el más largo y profundo, con 23,7 km
+      y 808 m de desnivel, y seis de sus cuevas están abiertas al público.
+    wildlife: >-
+      Entre las especies endémicas y amenazadas del parque están el rebeco y la marmota de los Tatras, el oso
+      pardo, el lince de los Cárpatos, el lobo, la nutria y el águila pomerana. Las zonas de protección
+      estricta suman 115,14 km².
+
+
+      El calendario depende de las crestas y de la gente. El verano es la época de las crestas; septiembre
+      trae menos gente. En julio y agosto Morskie Oko y Kasprowy Wierch se llenan; los valles occidentales,
+      fuera de temporada, quedan tranquilos.
+    visit: >-
+      El parque tiene más de 270 km de senderos de montaña. Empieza por el Centro de Educación Natural de
+      Zakopane: tiene la maqueta de los Tatras más grande de Polonia, con presentación multimedia, una sala de
+      descubrimientos interactiva, salas de cine con películas sobre los Tatras vistos por sus habitantes
+      salvajes (osos, marmotas, rebecos), dioramas de la pradera y el bosque tatrense que muestran el efecto
+      de las personas sobre la naturaleza y una cueva recreada. La visita a la exposición natural es gratuita,
+      pero requiere reserva en línea.
+
+
+      Para caminar, el parque da datos de varias rutas. La clásica es Palenica Białczańska–Morskie Oko y su
+      vuelta, de 11.60 km y pendiente media del 7 %; el parque da 4 h para subir y 1 h 30 min para bajar, y
+      figura como apropiada para principiantes. Una variante de 20.00 km va por Wodogrzmoty Mickiewicza, el
+      valle de los Cinco Lagos Polacos y Świstówka Roztocka, con pendiente media del 25 %. La ruta de Hala
+      Gąsienicowa y Czarny Staw Gąsienicowy hasta Kuźnice mide 14.00 km, con pendiente media del 20 %. Y para
+      los valles occidentales, la de Chochołowska, de Siwa Polana a Polana Chochołowska, tiene 15.00 km y una
+      pendiente suave del 5 %; el circuito de Kiry por Wąwóz Kraków y el refugio Ornak mide 14.00 km; la del
+      valle de Strążyska, 8.20 km.
+    history: >-
+      Las primeras llamadas a proteger los Tatras llegaron a finales del siglo XIX. En 1937 el parque se creó
+      formalmente sobre terrenos de la administración forestal del Estado, y en 1954 el Gobierno polaco creó
+      el parque nacional.
+
+
+      Antes se había explotado la montaña. En verano pastaban cabras, ovejas y vacas en las praderas, lo que
+      contribuyó a la erosión, y en los siglos XVIII y XIX se levantaron minas y ferrerías que consumían mucha
+      madera local. De ese mundo queda la cultura de los górales del Podhale, que conservan su dialecto, su
+      música y oficios tradicionales como la ropa, la arquitectura de madera, el queso y la artesanía.
+
+
+      Hoy las amenazas son la cercanía de Zakopane, en rápido crecimiento, y la contaminación del aire de
+      zonas industriales como Cracovia.
+    before: >-
+      El parque publica cada día un aviso turístico con las normas de visita. Hay un punto de información
+      turística en la calle Chałubińskiego, en Zakopane. En el tramo de carretera entre la rotonda y Kuźnice
+      rige una prohibición de tráfico. Comprueba también qué senderos están abiertos antes de salir.
+    around: >-
+      Pegado a él, sin distancia entre ambos, está el [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/). A quince kilómetros, los [Valles Kársticos de Prosiecka y
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a diecinueve, el [Parque Nacional Pieniny -
+      Garganta del Río Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); a treinta, el [Národný park
+      Slovenský raj](/lugar/narodny-park-slovensky-raj/). Más lejos, el [Parque Nacional de
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) y el [Parque Nacional de Aigüestortes i
+      Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) comparten con los
+      Tatras la marmota, el águila real y la alta montaña.
+  en:
+    intro: >-
+      From the summit of Rysy at 2,499 metres, the highest point in Poland, you look down upon two alpine
+      tarns that reveal almost everything essential about this park: Czarny Staw and Morskie Oko. Rysy rises
+      in the Polish Tatras, the sole alpine-type high-mountain range in the Carpathians, a world of knife-edge
+      granite crests, glacial cirques, and clear mountain lakes.
+
+
+      Tatra National Park preserves the Polish portion of the range, divided into two distinct sections: the
+      High Tatras and the Western Tatras. Together with the adjoining Slovak national park, it forms a UNESCO
+      transboundary biosphere reserve designated in 1992. It is also the most visited national park in Poland.
+    landscape: >-
+      The park ascends through distinct altitudinal zones. Up to 1,250 m, silver fir and European beech
+      dominate the lower montane belt; higher up, to 1,550 m, Norway spruce forests take over before yielding
+      to dwarf pine scrub and subalpine meadows up to 1,800 m. Above that line lies the true alpine tundra,
+      home to Swiss stone pine, edelweiss, and stemless carline thistle. In spring, the Kościeliska Valley
+      turns purple with blooming crocuses. Forest covers 151.91 km² of the park, with the remainder
+      predominantly alpine meadows and rock.
+
+
+      Water manifests in more than 30 alpine lakes, known locally as *stawy*: Morskie Oko and Wielki Staw
+      Polski are the largest. The highest waterfall is Siklawa at 70 m, followed by Czarny Staw waterfall at
+      40 m and Siklawica at 24 m; the Mickiewicz waterfalls are among the most frequented.
+
+
+      Underground, some 650 caves honeycomb the limestone and dolomite. The Wielka Śnieżna cave system is the
+      longest and deepest, extending 23.7 km with a vertical range of 808 m, and six caves in the park are
+      open to visitors.
+    wildlife: >-
+      Endemic and endangered species include the Tatra chamois, Tatra marmot, brown bear, Carpathian lynx,
+      grey wolf, Eurasian otter, and lesser spotted eagle. Strict protection reserves encompass 115.14 km².
+
+
+      Timing depends on terrain and crowds. Summer is the season for traversing the high ridges; September
+      brings thinner crowds. In July and August, Morskie Oko and Kasprowy Wierch become heavily congested,
+      whereas the western valleys remain tranquil out of peak season.
+    visit: >-
+      The park offers over 270 km of marked mountain trails. Begin at the Natural Education Centre in
+      Zakopane: it houses Poland's largest three-dimensional topographical model of the Tatras with multimedia
+      presentations, an interactive discovery room, cinema auditoriums screening films on Tatra fauna from the
+      perspective of native animals (bears, marmots, chamois), dioramas illustrating the human impact on
+      meadows and forests, and a walk-through simulated cave. Admission to the nature exhibition is free,
+      though online reservation is required.
+
+
+      For hiking, the park provides data for classic routes. The standard ascent is Palenica
+      Białczańska–Morskie Oko and back, covering 11.60 km with an average gradient of 7 %; the park indicates
+      4 h for the ascent and 1 h 30 min for the descent, rated suitable for beginners. An extended 20.00 km
+      traverse climbs via Wodogrzmoty Mickiewicza, the Valley of the Five Polish Lakes, and Świstówka
+      Roztocka, averaging a 25 % slope. The loop from Kuźnice via Hala Gąsienicowa and Czarny Staw Gąsienicowy
+      spans 14.00 km with an average incline of 20 %. In the western valleys, the Dolina Chochołowska trail
+      from Siwa Polana to Polana Chochołowska extends 15.00 km with a gentle 5 % grade; the loop from Kiry
+      through Wąwóz Kraków and the Ornak refuge measures 14.00 km; and the Dolina Strążyska trail covers 8.20
+      km.
+    history: >-
+      The first conservation appeals for the Tatras emerged in the late nineteenth century. In 1937 the park
+      was formally established on state forestry land, and in 1954 the Polish government officially created
+      the national park.
+
+
+      Human exploitation long predated conservation. In summer, herds of sheep, goats, and cattle grazed the
+      alpine meadows, exacerbating erosion, while throughout the eighteenth and nineteenth centuries iron
+      mines and smelters consumed vast amounts of timber. From that alpine heritage grew the distinctive
+      culture of the Podhale Gorals, who preserve their regional dialect, folk music, wooden architecture,
+      sheep milk cheeses, and artisan crafts.
+
+
+      Today the primary threats stem from the rapid urban growth of nearby Zakopane and regional air pollution
+      drifting from industrial hubs like Kraków.
+    before: >-
+      The park issues a daily tourist bulletin detailing mountain safety and trail conditions. A visitor
+      information centre is located on Chałubińskiego Street in Zakopane. Motor traffic is banned on the road
+      section between the roundabout and Kuźnice. Always verify trail openings before departing into the high
+      peaks.
+    around: >-
+      Directly adjoining the border without any gap lies the [Tatra National Park
+      (Slovakia)](/lugar/tatransky-narodny-park/). Fifteen kilometres away are the [Prosiecka and Kvačianska
+      Valleys](/lugar/npr-kvacianska-a-prosiecka-dolina/); nineteen kilometres away is [Pieniny National Park
+      - Dunajec River Gorge](/lugar/pieninski-park-narodowy---dunajec-gorge/); and thirty kilometres away lies
+      [Slovenský raj National Park](/lugar/narodny-park-slovensky-raj/). Farther afield, [Retezat National
+      Park](/lugar/parcul-national-retezat---masivul-muntos/) and [Aigüestortes i Estany de Sant Maurici
+      National Park](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) share alpine marmots,
+      golden eagles, and high-mountain granite scenery.
+  fr:
+    intro: >-
+      Depuis le sommet du Rysy, à 2 499 mètres, le point culminant de Pologne, le regard plonge sur deux lacs
+      de montagne qui racontent l'essentiel de ce parc : le Czarny Staw et Morskie Oko. Le Rysy s'élève dans
+      les Tatras polonaises, l'unique haute montagne de type alpin de tout l'arc carpatique, un univers de
+      crêtes de granite ciselées, de cirques rocheux et de lacs glaciaires d'une pureté cristalline.
+
+
+      Le Parc national des Tatras protège le versant polonais du massif et s'articule en deux domaines, les
+      Hautes Tatras et les Tatras occidentales. Conjointement avec le parc slovaque voisin, il compose une
+      réserve de biosphère transfrontalière reconnue par l'UNESCO en 1992. C'est par ailleurs le parc national
+      le plus fréquenté de Pologne.
+    landscape: >-
+      Le parc s'étage en ceintures végétales bien marquées. Jusqu'à 1 250 m dominent les forêts de sapin blanc
+      et de hêtre ; au-dessus, jusqu'à 1 550 m, s'imposent les pessières d'épicéa, relayées jusqu'à 1 800 m
+      par les pinèdes de pin mugo et les pelouses d'altitude. Au-delà ne subsiste que la flore alpine, avec
+      l'arole, l'edelweiss et la carline acaule. Au printemps, la vallée de Kościeliska se couvre d'une marée
+      violette de crocus. Sur l'ensemble du parc, 151,91 km² sont boisés, le reste étant composé de pelouses
+      et d'éboulis.
+
+
+      L'eau se matérialise dans plus de 30 lacs glaciaires, les *stawy* : Morskie Oko et Wielki Staw Polski
+      sont les plus étendus. La cascade la plus haute est Siklawa avec 70 m de chute, suivie par Czarny Staw
+      avec 40 m et Siklawica avec 24 m ; les cascades de Mickiewicz comptent parmi les sites les plus visités.
+
+
+      Sous terre s'ouvrent environ 650 cavités. Le réseau de Wielka Śnieżna est le plus vaste et profond,
+      développant 23,7 km pour 808 m de dénivelé, et six grottes sont aménagées pour le public.
+    wildlife: >-
+      Parmi les espèces endémiques et emblématiques figurent le chamois des Tatras, la marmotte des Tatras,
+      l'ours brun, le lynx des Carpates, le loup, la loutre et l'aigle pomarin. Les zones de protection
+      intégrale couvrent 115,14 km².
+
+
+      Le calendrier dépend de l'altitude et de l'affluence. L'été est idéal pour les crêtes escarpées ;
+      septembre connaît une fréquentation apaisée. En juillet et août, Morskie Oko et le Kasprowy Wierch sont
+      pris d'assaut ; les vallées occidentales, hors saison, retrouvent une grande quiétude.
+    visit: >-
+      Le parc compte plus de 270 km de sentiers balisés. Commencez par le Centre d'éducation à la nature de
+      Zakopane : il abrite la plus grande maquette tridimensionnelle des Tatras de Pologne avec animations
+      multimédias, un espace interactif de découvertes, des salles de projection montrant la faune locale
+      (ours, marmottes, chamois), des dioramas des milieux naturels et une réplique de grotte. La visite de
+      l'exposition est gratuite mais exige une réservation en ligne préalable.
+
+
+      Pour la marche, le parc détaille plusieurs itinéraires majeurs. La classique est l'aller-retour Palenica
+      Białczańska–Morskie Oko, long de 11,60 km avec une pente moyenne de 7 % ; le parc compte 4 h de montée
+      et 1 h 30 min de descente, convenant aux débutants. Une variante de 20,00 km passe par Wodogrzmoty
+      Mickiewicza, la vallée des Cinq Lacs polonais et Świstówka Roztocka, avec une pente moyenne de 25 %.
+      L'itinéraire de Hala Gąsienicowa et Czarny Staw Gąsienicowy vers Kuźnice fait 14,00 km avec une pente
+      moyenne de 20 %. Côté vallées occidentales, la vallée Chochołowska de Siwa Polana à Polana Chochołowska
+      s'étend sur 15,00 km avec une déclivité douce de 5 % ; la boucle de Kiry via Wąwóz Kraków et le refuge
+      d'Ornak compte 14,00 km ; et celle de la vallée de Strążyska, 8,20 km.
+    history: >-
+      Les premiers appels à préserver les Tatras virent le jour à la fin du XIXe siècle. En 1937, une première
+      réserve fut instaurée sur les domaines forestiers de l'État, avant que le gouvernement polonais ne crée
+      officiellement le parc national en 1954.
+
+
+      Auparavant, la montagne connut une intense exploitation. En été, chèvres, moutons et vaches pâturaient
+      les estives, favorisant l'érosion, tandis qu'aux XVIIIe et XIXe siècles forges et mines consommaient
+      d'immenses volumes de bois. De ce passé pastoral est née la culture montagnarde des Gorals du Podhale,
+      perpétuant dialecte, chants, fermes en bois ouvragé, fromages d'alpage et artisanat d'art.
+
+
+      De nos jours, les pressions majeures proviennent de l'urbanisation rapide de Zakopane et de la pollution
+      atmosphérique venue des régions industrielles comme Cracovie.
+    before: >-
+      Le parc édite quotidiennement un bulletin touristique détaillant les conditions météorologiques et
+      l'état des chemins. Un point d'information touristique vous accueille rue Chałubińskiego à Zakopane. La
+      circulation automobile est interdite sur le tronçon reliant le rond-point à Kuźnice. Vérifiez
+      impérativement l'ouverture des sentiers avant de partir en altitude.
+    around: >-
+      Contigu au domaine polonais, le [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/) ne fait qu'un avec lui. À quinze kilomètres se trouvent
+      les [Valles Kársticos de Prosiecka y Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) ; à
+      dix-neuf, le [Parque Nacional Pieniny - Garganta del Río
+      Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/) ; à trente, le [Národný park Slovenský
+      raj](/lugar/narodny-park-slovensky-raj/). Plus loin, le [Parque Nacional de
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) et le [Parque Nacional de Aigüestortes i
+      Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) partagent avec
+      les Tatras marmotte, aigle royal et décor de haute montagne granatique.
+  de:
+    intro: >-
+      Vom Gipfel des Rysy in 2.499 Metern Höhe, dem Dach Polens, blickst du auf zwei Gebirgsseen hinab, die
+      das Wesen dieses Schutzgebiets versinnbildlichen: den Czarny Staw und das Morskie Oko. Der Rysy ragt in
+      der polnischen Tatra auf, dem einzigen Hochgebirge alpinen Charakters der Karpaten – eine Felswelt aus
+      messerscharfen Granitgraten, tiefen Karen und eiszeitlichen Bergseen.
+
+
+      Der Tatra-Nationalpark schützt den polnischen Teil des Gebirges und gliedert sich in zwei Abschnitte:
+      die Hohe Tatra und die Westtatra. Zusammen mit dem slowakischen Nachbarpark bildet er ein 1992 von der
+      UNESCO anerkanntes grenzüberschreitendes Biosphärenreservat. Zugleich ist er der meistbesuchte
+      Nationalpark Polens.
+    landscape: >-
+      Der Park steigt in ausgeprägten Höhenstufen an. Bis 1.250 m dominieren Weißtannen- und Buchenwälder;
+      darüber, bis 1.550 m, Fichtenwälder, die bis 1.800 m in Krummholzkiefern und Hochstaudenfluren
+      übergehen. Oberhalb davon gedeiht reine Alpenflora mit Arve, Edelweiß und Silberdistel. Im Frühling
+      verwandelt sich das Kościeliska-Tal in ein lila Krokusmeer. Von der Parkfläche nehmen Wälder 151,91 km²
+      ein, der Rest besteht vor allem aus Bergmatten und Fels.
+
+
+      Das Element Wasser zeigt sich in über 30 Karseen, den *stawy*: Morskie Oko und Wielki Staw Polski sind
+      die größten. Der höchste Wasserfall ist die Siklawa mit 70 m Fallhöhe, gefolgt vom Czarny-Staw-Fall mit
+      40 m und der Siklawica mit 24 m; die Mickiewicz-Fälle gehören zu den meistbesuchten Zielen.
+
+
+      Im Untergrund verbergen sich rund 650 Höhlen. Das Höhlensystem Wielka Śnieżna ist mit 23,7 km Länge und
+      808 m Höhendifferenz das tiefste und längste; sechs Höhlen sind für Besucher zugänglich.
+    wildlife: >-
+      Zu den endemischen und bedrohten Arten gehören Tatra-Gämse, Tatra-Murmeltier, Braunbär, Karpatenluchs,
+      Wolf, Fischotter und Schreiadler. Die Zonen strengen Schutzes umfassen 115,14 km².
+
+
+      Die beste Besuchszeit richtet sich nach Höhenlage und Andrang. Der Sommer eignet sich für anspruchsvolle
+      Gratwanderungen; der September bringt spürbar mehr Ruhe. Im Juli und August sind Morskie Oko und
+      Kasprowy Wierch überlaufen; die westlichen Täler bieten außerhalb der Hauptsaison stille Rückzugsräume.
+    visit: >-
+      Der Park verfügt über mehr als 270 km markierte Bergwanderwege. Beginne deinen Besuch im
+      Natur-Bildungszentrum in Zakopane: Es beherbergt Polens größtes dreidimensionales Reliefmodell der Tatra
+      mit Multimediashow, einen Entdeckerraum, Kinosäle mit Naturfilmen aus Sicht der Wildtiere (Bären,
+      Murmeltiere, Gämsen), Dioramen zu Alm- und Waldlebensräumen sowie eine nachgebildete Höhle. Der Eintritt
+      zur Naturausstellung ist kostenfrei, erfordert jedoch eine Online-Reservierung.
+
+
+      Für Bergtouren nennt die Verwaltung Richtwerte mehrerer Routen. Der Klassiker ist Palenica
+      Białczańska–Morskie Oko und zurück über 11,60 km mit durchschnittlich 7 % Steigung; angegeben sind 4 h
+      für den Aufstieg und 1 h 30 min für den Abstieg, geeignet für Einsteiger. Eine anspruchsvollere Schleife
+      über 20,00 km führt über die Mickiewicz-Fälle, das Tal der Fünf Polnischen Seen und Świstówka Roztocka
+      mit einer mittleren Steigung von 25 %. Die Tour ab Kuźnice über Hala Gąsienicowa und Czarny Staw
+      Gąsienicowy misst 14,00 km bei 20 % Steigung. In den westlichen Tälern erstreckt sich die
+      Chochołowska-Route von Siwa Polana zur Polana Chochołowska über 15,00 km mit sanften 5 % Anstieg; der
+      Rundweg ab Kiry durch die Kraków-Klamm zur Ornak-Hütte umfasst 14,00 km, und der Weg durch das
+      Strążyska-Tal 8,20 km.
+    history: >-
+      Erste Schutzforderungen für die Tatra wurden Ende des neunzehnten Jahrhunderts laut. Im Jahr 1937 wurde
+      auf Flächen der staatlichen Forstverwaltung ein Schutzgebiet eingerichtet, ehe die polnische Regierung
+      1954 offiziell den Nationalpark gründete.
+
+
+      Zuvor wurde das Gebirge intensiv genutzt. Im Sommer weideten Schafe, Ziegen und Rinder auf den Matten,
+      was die Erosion beschleunigte, während im achtzehnten und neunzehnten Jahrhundert Erzgruben und
+      Eisenhütten enorme Holzmengen verschlangen. Aus dieser Hirtenkultur entwickelte sich das Brauchtum der
+      Goralen von Podhale mit eigenem Dialekt, Volksmusik, kunstvollen Holzbauten, Almkäse und Handwerk.
+
+
+      Heute liegen die Belastungen vor allem im rasanten Wachstum Zakopanes und im Ferneintrag von
+      Luftschadstoffen aus Industriegebieten wie Krakau.
+    before: >-
+      Die Parkverwaltung veröffentlicht täglich aktuelle Hinweise zu Witterung und Wegen. Eine
+      Touristeninformation befindet sich in der Chałubińskiego-Straße in Zakopane. Auf dem Straßenabschnitt
+      zwischen Kreisverkehr und Kuźnice gilt Fahrverbot. Informiere dich vor Antritt anspruchsvoller Touren
+      stets über Wegesperrungen.
+    around: >-
+      Direkt angrenzend liegt der [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/). Fünfzehn Kilometer entfernt liegen die [Valles Kársticos
+      de Prosiecka y Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); neunzehn Kilometer entfernt der
+      [Parque Nacional Pieniny - Garganta del Río Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/);
+      dreißig Kilometer entfernt der [Národný park Slovenský raj](/lugar/narodny-park-slovensky-raj/). Weiter
+      entfernt teilen der [Parque Nacional de Retezat](/lugar/parcul-national-retezat---masivul-muntos/) und
+      der [Parque Nacional de Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) Murmeltier, Steinadler und
+      alpine Felslandschaften mit der Tatra.
+  it:
+    intro: >-
+      Dalla vetta del Rysy, a 2.499 metri, tetto della Polonia, lo sguardo domina due bacini d'alta quota che
+      racchiudono l'essenza di questo parco: il Czarny Staw e Morskie Oko. Il Rysy si innalza nei Tatra
+      polacchi, l'unico rilievo di stampo alpino dell'intero arco carpatico, un regno di creste granitiche
+      affilate, circhi glaciali e limpidi laghi di montagna.
+
+
+      Il Parco Nazionale dei Tatra preserva il versante polacco della catena ed è suddiviso in due settori:
+      gli Alti Tatra e i Tatra Occidentali. Assieme all'attiguo parco slovacco costituisce una riserva della
+      biosfera transfrontaliera riconosciuta dall'UNESCO nel 1992. È inoltre il parco nazionale più
+      frequentato dell'intera Polonia.
+    landscape: >-
+      La montagna si sviluppa lungo piani altimetrici distinti. Fino a 1.250 m dominano i boschi di abete
+      bianco e faggio; più in quota, fino a 1.550 m, prevalgono le peccete di abete rosso, che cedono il passo
+      a mughete e pascoli fino a 1.800 m. Oltre tale soglia sopravvive solo la flora alpina d'alta quota, con
+      pino cembro, stella alpina e carlina zampata. In primavera la valle di Kościeliska si trasforma in una
+      distesa viola di crochi. Sull'intera superficie del parco, 151,91 km² sono coperti da boschi e il resto
+      è costituito da praterie e pareti rocciose.
+
+
+      L'acqua si manifesta in oltre 30 laghi d'alta montagna, detti *stawy*: Morskie Oko e Wielki Staw Polski
+      sono i più ampi. La cascata più alta è Siklawa con 70 m di salto, seguita da Czarny Staw con 40 m e da
+      Siklawica con 24 m; i salti di Mickiewicz figurano tra i punti più visitati.
+
+
+      Nel sottosuolo si aprono circa 650 cavità carsiche. Il sistema di Wielka Śnieżna è il più lungo e
+      profondo, con 23,7 km di sviluppo e 808 m di dislivello, e sei grotte del massiccio sono accessibili al
+      pubblico.
+    wildlife: >-
+      Tra le specie endemiche e protette spiccano il camoscio dei Tatra, la marmotta dei Tatra, l'orso bruno,
+      il lince dei Carpazi, il lupo, la lontra e l'aquila anatraia minore. Le aree a protezione integrale
+      assommano a 115,14 km².
+
+
+      Il periodo di visita dipende dalle quote e dall'affluenza. L'estate è il momento d'elezione per le
+      creste rocciose; settembre offre una frequentazione più tranquilla. Nei mesi di luglio e agosto Morskie
+      Oko e Kasprowy Wierch si affollano; le vallate occidentali, nei periodi di spalla, rimangono oasi di
+      pace.
+    visit: >-
+      Il parco vanta più di 270 km di sentieri d'alta quota. Inizia dal Centro di Educazione Ambientale di
+      Zakopane: espone il più grande plastico tridimensionale dei Tatra in Polonia con percorsi multimediali,
+      una sala didattica interattiva, sale cinematografiche con proiezioni sulla fauna locale (orsi, marmotte,
+      camosci), diorami degli ecosistemi montani e la ricostruzione fedele di una caverna. L'ingresso
+      all'esposizione è gratuito ma richiede la prenotazione online.
+
+
+      Per camminare, l'ente parco documenta diverse opzioni. La classica è Palenica Białczańska–Morskie Oko
+      andata e ritorno, lunga 11,60 km con pendenza media del 7 %; sono stimate 4 h per la salita e 1 h 30 min
+      per la discesa, adatta anche a principianti. Una variante panoramica di 20,00 km sale per le cascate
+      Mickiewicz, la valle dei Cinque Laghi Polacchi e Świstówka Roztocka, con pendenza media del 25 %.
+      L'itinerario tra Hala Gąsienicowa e Czarny Staw Gąsienicowy verso Kuźnice misura 14,00 km con pendenza
+      media del 20 %. Nelle valli occidentali, il tracciato della valle Chochołowska da Siwa Polana a Polana
+      Chochołowska copre 15,00 km con una pendenza modesta del 5 %; l'anello da Kiry per Wąwóz Kraków e il
+      rifugio Ornak misura 14,00 km; quello della valle di Strążyska 8,20 km.
+    history: >-
+      Le prime istanze di salvaguardia dei Tatra presero corpo alla fine del XIX secolo. Nel 1937 fu istituita
+      una riserva sui demani forestali dello Stato, finché nel 1954 il governo polacco costituì formalmente il
+      parco nazionale.
+
+
+      In epoche anteriori la montagna conobbe un intenso sfruttamento. In estate greggi di capre e pecore
+      pascolavano sui declivi favorendo l'erosione, mentre tra il XVIII e il XIX secolo fucine e miniere
+      consumavano ingenti quantitativi di legname. Da quel vissuto montano deriva la cultura tradizionale dei
+      Gorali del Podhale, custodi di dialetto, canti, tipiche costruzioni in legno, formaggi di malga e
+      artigianato.
+
+
+      Oggi le insidie maggiori provengono dalla rapida espansione urbana di Zakopane e dalle polveri
+      trasportate dalle aree industriali di Cracovia.
+    before: >-
+      L'ente parco diffonde quotidianamente un bollettino turistico con le condizioni dei percorsi e del
+      meteo. Un ufficio informativo è attivo in via Chałubińskiego a Zakopane. Sul tratto stradale compreso
+      tra la rotatoria e Kuźnice vige il divieto di transito ai veicoli privati. Verifica l'apertura dei
+      sentieri prima di salire in quota.
+    around: >-
+      Aderente al parco polacco, senza alcuna soluzione di continuità, sorge il [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/). A quindici chilometri si trovano le [Valles Kársticos de
+      Prosiecka y Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a diciannove il [Parque Nacional
+      Pieniny - Garganta del Río Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); a trenta il
+      [Národný park Slovenský raj](/lugar/narodny-park-slovensky-raj/). Più distanti, il [Parque Nacional de
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) e il [Parque Nacional de Aigüestortes i
+      Estany de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) condividono con i
+      Tatra marmotta, aquila reale e paesaggi alpini di granito.
+  pt:
+    intro: >-
+      A partir do cume de Rysy, a 2.499 metros, o teto da Polónia, avistam-se em baixo duas lagoas glaciares
+      que espelham quase tudo sobre este parque: Czarny Staw e Morskie Oko. Rysy ergue-se nos Tatras polacos,
+      a única alta montanha de feição alpina dos Cárpatos, um reino de cristas graníticas escarpadas, circos
+      rochosos e lagoas glaciares cristalinas.
+
+
+      O Parque Nacional dos Tatras abrange a vertente polaca da cordilheira e reparte-se em duas secções: os
+      Altos Tatras e os Tatras Ocidentais. Em conjunto com o parque eslovaco contíguo forma uma reserva da
+      biosfera transfronteiriça aprovada pela UNESCO em 1992. É também o parque nacional com maior número de
+      visitantes na Polónia.
+    landscape: >-
+      O relevo organiza-se em andares bioclimáticos bem vincados. Até aos 1.250 m dominam as matas de
+      abeto-branco e faia; mais acima, até aos 1.550 m, estendem-se os abetais de espruce, dando lugar a
+      matagais de pinheiro-anão e prados de altitude até aos 1.800 m. Acima desse patamar resta apenas a flora
+      alpina, com o pinheiro-suíço, a edelvaisse e a carlina-sem-haste. Na primavera, o vale de Kościeliska
+      transforma-se num manto roxo de açafrão-bravo. Da superfície do parque, 151,91 km² correspondem a
+      floresta e o restante a prados alpinos e rocha nua.
+
+
+      A água afirma-se em mais de 30 lagoas de montanha, os *stawy*: Morskie Oko e Wielki Staw Polski são as
+      maiores. A queda de água mais alta é Siklawa, com 70 m de salto, seguida por Czarny Staw com 40 m e
+      Siklawica com 24 m; as cascatas de Mickiewicz figuram entre os locais mais procurados.
+
+
+      No subsolo foram inventariadas cerca de 650 grutas. O sistema de Wielka Śnieżna é o mais longo e
+      profundo, desenvolvendo-se por 23,7 km com 808 m de desnível, encontrando-se seis cavidades abertas a
+      visitantes.
+    wildlife: >-
+      Entre as espécies endémicas e protegidas contam-se a camurça-dos-tatras, a marmota-dos-tatras, o
+      urso-pardo, o lince-dos-cárpatos, o lobo, a lontra e a águia-pomerana. As áreas de proteção integral
+      totalizam 115,14 km².
+
+
+      O calendário de visitação rege-se pela altitude e pela afluência. O verão é a época recomendada para as
+      cristas montanhosas; setembro traz uma menor concentração de caminhantes. Em julho e agosto Morskie Oko
+      e Kasprowy Wierch enchem-se de visitantes; os vales ocidentais mantêm-se sossegados fora de época.
+    visit: >-
+      O parque disponibiliza mais de 270 km de percursos pedestres balizados. Começa pelo Centro de Educação
+      Ambiental de Zakopane: alberga a maior maquete tridimensional dos Tatras na Polónia com suporte
+      multimédia, uma sala interativa, salas de cinema com produções dedicadas aos animais selvagens (ursos,
+      marmotas, camurças), dioramas sobre os ecossistemas montanhosos e a reconstituição de uma caverna. A
+      visita à exposição ambiental é gratuita, mediante inscrição online prévia.
+
+
+      Para caminhar, a administração faculta dados de vários trilhos emblemáticos. O clássico é o percurso de
+      Palenica Białczańska–Morskie Oko ida e volta, com 11,60 km e pendente média de 7 %; são indicadas 4 h
+      para subir e 1 h 30 min para descer, sendo acessível a principiantes. Uma travessia alternativa de 20,00
+      km sobe pelas cascatas de Mickiewicz, vale das Cinco Lagoas Polacas e Świstówka Roztocka, com pendente
+      média de 25 %. O circuito de Hala Gąsienicowa e Czarny Staw Gąsienicowy até Kuźnice soma 14,00 km e
+      inclinação de 20 %. Nos vales ocidentais, o trilho de Chochołowska entre Siwa Polana e Polana
+      Chochołowska estende-se por 15,00 km com suave inclinação de 5 %; o circuito de Kiry via Wąwóz Kraków e
+      abrigo de Ornak cobre 14,00 km; e o percurso do vale de Strążyska atinge 8,20 km.
+    history: >-
+      Os primeiros apelos à preservação dos Tatras surgiram no final do século XIX. Em 1937 o território foi
+      delimitado em terrenos florestais do Estado, tendo o governo polaco criado formalmente o parque nacional
+      em 1954.
+
+
+      Anteriormente as montanhas sofreram exploração agroflorestal intensiva. No verão o gado pastava nos
+      prados alpinos acentuando a erosão, enquanto nos séculos XVIII e XIX fundições e minas consumiam grandes
+      quantidades de lenha. Desta vivência tradicional brotou a cultura dos Gorais de Podhale, que mantêm
+      dialeto próprio, música, habitações tradicionais de madeira trabalhada, queijos de ovelha e artesanato.
+
+
+      Atualmente as principais pressões resultam do crescimento urbano de Zakopane e da poluição atmosférica
+      proveniente de cidades industriais como Cracóvia.
+    before: >-
+      A administração do parque emite diariamente um boletim turístico com alertas meteorológicos e estado dos
+      trilhos. Existe um posto de acolhimento na rua Chałubińskiego, em Zakopane. No troço viário entre a
+      rotunda e Kuźnice vigora proibição ao trânsito automóvel particular. Confirma sempre os trilhos
+      praticáveis antes de rumar aos cumes.
+    around: >-
+      Contíguo ao setor polaco, sem qualquer intervalo geográfico, ergue-se o [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/). A quinze quilómetros situam-se os [Valles Kársticos de
+      Prosiecka y Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a dezanove o [Parque Nacional
+      Pieniny - Garganta del Río Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); e a trinta o
+      [Národný park Slovenský raj](/lugar/narodny-park-slovensky-raj/). Mais distantes, o [Parque Nacional de
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) e o [Parque Nacional de Aigüestortes i Estany
+      de Sant Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) partilham marmota,
+      águia-real e cenários de alta montanha alpina com os Tatras.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Tatra_National_Park,_Poland
+    titulo: Tatra National Park, Poland - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://tpn.gov.pl/szlaki-turystyczne/palenica-bialczanska-morskie-oko-i-spacer-wokol-morskiego-oka
+    titulo: tpn.gov.pl
+    fecha_consulta: '2026-10-29'
+  - url: https://tpn.gov.pl/trasy-turystyczne
+    titulo: Trasy turystyczne | Tatrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://tpn.gov.pl/cep-zakopane
+    titulo: Centrum Edukacji Przyrodniczej TPN Zakopane
+    fecha_consulta: '2026-10-29'
+  - url: https://tpn.gov.pl/regulaminy
+    titulo: Regulaminy | Tatrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+  - url: https://tpn.gov.pl/dojazd-do-kuznic
+    titulo: Dojazd do Kuźnic | Tatrzański Park Narodowy
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Tatrza%C5%84ski_Park_Narodowy_-_widok_z_podn%C3%B3%C5%BCa_Giewontu.jpg
+    autor: August kazimierz
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-17'

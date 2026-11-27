@@ -1,0 +1,574 @@
+id: nacionalni-park-kopaonik---stare-sume
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Kopaonik - Bosques Antiguos
+  en: Kopaonik National Park – Old Forests
+  fr: Parc national de Kopaonik – Forêts anciennes
+  de: Nationalpark Kopaonik – Alte Bergwälder
+  it: Parco nazionale di Kopaonik – Foreste vetuste
+  pt: Parque Nacional de Kopaonik – Florestas Antigas
+nombre_original: Nacionalni park Kopaonik - Stare šume
+alias:
+  - Kopaonik Old Forests
+paises:
+  - RS
+region:
+  es: Distritos de Raška y Rasina
+  en: Raška and Rasina Districts
+  fr: Districts de Raška et Rasina
+  de: Bezirke Raška und Rasina
+  it: Distretti di Raška e Rasina
+  pt: Distritos de Raška e Rasina
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 43.28
+  lon: 20.8
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 15598
+  nombre_en_la_fuente: Nacionalni park Kopaonik
+  categoria_uicn: II
+  capa: capas/cdda/nacionalni-park-kopaonik---stare-sume.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - canis_lupus
+  - felis_silvestris
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Alta en zona de esquí; baja en reservas naturales estrictas
+  en: High in the ski resort area; low in strict nature reserves
+  fr: Forte dans le domaine skiable ; faible dans les réserves naturelles intégrales
+  de: Hoch im Skigebiet; gering in den strengen Naturreservaten
+  it: Alta nel comprensorio sciistico; bassa nelle riserve naturali integrali
+  pt: Alta na estância de esqui; baixa nas reservas naturais integrais
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Kopaonik
+    url: https://npkopaonik.rs/
+  - titulo: Rutas — Senderos de Kopaonik
+    url: https://npkopaonik.rs/pesacke-ture/
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://npkopaonik.rs/kako-stici/
+  - titulo: Normas — Comportamiento en Kopaonik
+    url: https://npkopaonik.rs/pravila-ponasanja/
+  - titulo: Visita — Información práctica de Kopaonik
+    url: https://npkopaonik.rs/korisne-informacije/
+  - titulo: Permisos y tarifas — Acceso de vehículos
+    url: https://npkopaonik.rs/naknada-za-koriscenje-motornih-vozila/
+resumen:
+  es: La 'Montaña del Sol', con pinedas y piceas de altitud y comunidades florísticas endémicas.
+  en: High-altitude spruce woodlands and ancient peat bogs on Serbia's sunniest mountain massif.
+  fr: Pessières d'altitude et tourbières millénaires sur le massif le plus ensoleillé de Serbie.
+  de: Hochgelegene Fichtenwälder und uralte Hochmoore auf dem sonnenreichsten Gebirgsmassiv Serbiens.
+  it: Pecete d'alta quota e torbiere millenarie sul massiccio montuoso più soleggiato della Serbia.
+  pt: Florestas de abetos de altitude e turfeiras milenares no maciço montanhoso mais ensolarado da Sérvia.
+unico:
+  es: >-
+    Una montaña soleada con turberas de más de mil años, hayedos de 35 metros y tres plantas que no existen en
+    ningún otro lugar.
+  en: >-
+    Ancient peat bogs over a thousand years old, beech woods soaring to 35 metres and three plant species
+    found nowhere else on Earth.
+  fr: >-
+    Des tourbières vieilles de plus de mille ans, des hêtraies s'élevant à 35 mètres et trois espèces
+    végétales uniques au monde.
+  de: >-
+    Über tausend Jahre alte Hochmoore, bis zu 35 Meter hohe Buchenurwälder und drei Pflanzenarten, die
+    nirgendwo sonst auf der Erde wachsen.
+  it: >-
+    Torbiere d'alta quota con oltre mille anni, faggete che svettano a 35 metri e tre specie vegetali uniche
+    al mondo.
+  pt: >-
+    Turfeiras de montanha com mais de mil anos, faiais que atingem 35 metros de altura e três espécies
+    vegetais exclusivas deste maciço.
+observaciones:
+  es: >-
+    Los mejores meses van de junio a octubre; calcula uno o dos días. Hay que ir por los senderos marcados,
+    hacer fuego solo en las zonas habilitadas y acampar solo en zonas habilitadas y con permiso del parque. No
+    se deben recoger ni dañar plantas protegidas o desconocidas ni molestar a los animales. Y quien no sea
+    micólogo experto no debe recolectar setas: casi todas las comestibles tienen dobles tóxicos, algunos
+    mortales. Se llega al parque por tres accesos: por Jošanička Banja, por Raška o por Brzeće.
+texto:
+  es:
+    intro: >-
+      Kopaonik tiene más de 200 días soleados al año, y de ahí su apodo: la Montaña del Sol. Es un macizo del
+      centro de Serbia, entre los ríos Ibar, Sitnica, Lab, Jošanica, Koznička, Rasina y Toplica, donde
+      conviven serpentinitas, granitos, esquistos, mármoles, andesitas y calizas, y donde el nombre mismo
+      viene del mineral: aquí se extrae mena desde tiempos antiguos, con minas de hierro, plomo y zinc y de
+      metales raros como plata y oro. Sobre esa roca crece un parque nacional de bosques antiguos, turberas
+      milenarias, cascadas y crestas con vistas a media península.
+    landscape: >-
+      El relieve actual se ha ido modelando durante mucho tiempo por erosión y escorrentía. Kopaonik no da
+      origen a grandes ríos, pero sí a una red densa de pequeños arroyos que nacen en numerosos manantiales, y
+      en el Zaplaninska cae la cascada de Jelovarnik, de varios niveles y 80 metros de altura total. La nieve
+      suele aparecer desde finales de noviembre hasta mayo y permanece entre ciento ochenta y doscientos
+      treinta días al año.
+
+
+      Las turberas son la otra seña del macizo. Nacen de la fuerte evaporación de arroyos y charcas, y algunas
+      tienen más de mil años. La mayor es Jankova Bara. En altura, el bosque dibuja pisos: entre mil
+      quinientos y mil setecientos cincuenta metros dominan las piceas, intercaladas con hayedos y abetales, y
+      por encima de los mil setecientos cincuenta aparecen el pino de montaña enano y el arándano, antes de
+      los prados alpinos. En la reserva de Jelovarnik crece el hayedo más frondoso de Kopaonik, con árboles de
+      30 a 35 m de altura y más de un metro de grosor.
+    wildlife: >-
+      La flora de alta montaña reúne 825 especies y subespecies, y el parque tiene 91 plantas endémicas y 82
+      subendémicas. Tres son endemismos locales: Sempervivum kopaonikensis, Viola kopaonikensis y Cardamine
+      pancicii. La glaciación apenas afectó a la flora, y por eso hay plantas relictas como la flor de nieve,
+      Acer heldreichii y el tejo. En las crestas de Nebeske Stolice viven la siempreviva y la violeta de
+      Kopaonik y una alondra cornuda.
+
+
+      Entre las aves, el parque registra 173 especies, el 90 % de ellas nidificantes. En el bosque crían el
+      [halcón abejero](/especie/pernis_apivorus/), la culebrera europea y el [cárabo
+      uralense](/especie/strix_uralensis/), y también pico dorsiblanco, pico tridáctilo y grévol. En los
+      pastos de alta montaña y las pedreras viven la perdiz griega, el roquero rojo y el acentor alpino, y en
+      los cantiles y cañones crían el [águila real](/especie/aquila_chrysaetos/), el [halcón
+      peregrino](/especie/falco_peregrinus/) y el [búho real](/especie/bubo_bubo/). Kopaonik entró en la lista
+      de áreas importantes para las aves en 1997.
+
+
+      Entre los mamíferos, el parque destaca entre los de mayor interés de conservación al
+      [lobo](/especie/canis_lupus/) y al lirón avellanero. En el último siglo desaparecieron por la actividad
+      humana el oso, el lince, el rebeco y el ciervo; el oso se ha avistado de forma esporádica, pero se
+      considera de paso, sin hábitat permanente. El parque ha empezado a recuperar al
+      [rebeco](/especie/rupicapra_rupicapra/) balcánico: los primeros ejemplares llegaron desde Tara en dos
+      mil veintiuno y ocupan Kozja Stene. El rebeco cambia de pelaje: marrón oscuro rojizo en verano y pardo
+      grisáceo más claro en invierno. En los cursos de agua fría y rápida vive la [trucha
+      común](/especie/salmo_trutta/) autóctona.
+
+
+      Entre los animales pequeños hay: 138 especies de mariposas, una de las mayores riquezas de los Balcanes,
+      la [salamandra común](/especie/salamandra_salamandra/), tritones y la [víbora
+      cornuda](/especie/vipera_ammodytes/). En Kopaonik se conocen además 219 especies de hongos.
+    visit: >-
+      En verano, el parque organiza caminatas guiadas a distintos destinos de montaña y ofrece excursiones de
+      un día a medida. El parque destaca rutas a Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov
+      Kamen y Jankove Bare, y hay un sendero dedicado a las setas. El sendero de Nebeske Stolice llega a una
+      cresta alta con vistas a Komovi, Durmitor, Bjelasica, Šar y Korab en un día claro. La ruta de Metođe
+      lleva a una reserva con seis comunidades distintas de pícea y haya y muchas plantas raras y relictas.
+
+
+      El mapa turístico georreferenciado se usa con la aplicación Avenza Maps y orienta con GPS sin cobertura
+      móvil ni internet; el parque lo actualiza periódicamente.
+    history: >-
+      El parque trabaja en devolver fauna perdida: ha reintroducido al rebeco y ha iniciado la reintroducción
+      del ciervo en un recinto de cría vallado de 196 hectáreas, tras ver señales de ciervo en las laderas del
+      sur en 2016 y 2017.
+    before: >-
+      Los mejores meses van de junio a octubre; calcula uno o dos días. Hay que ir por los senderos marcados,
+      hacer fuego solo en las zonas habilitadas y acampar solo en zonas habilitadas y con permiso del parque.
+      No se deben recoger ni dañar plantas protegidas o desconocidas ni molestar a los animales. Y quien no
+      sea micólogo experto no debe recolectar setas: casi todas las comestibles tienen dobles tóxicos, algunos
+      mortales. Se llega al parque por tres accesos: por Jošanička Banja, por Raška o por Brzeće.
+  en:
+    intro: >-
+      Kopaonik enjoys more than 200 sunny days a year, earning it the moniker 'Mountain of the Sun'. But above
+      all it is a geological upheaval: an enormous granite massif encircled by serpentinites, schists,
+      andesites and limestones, whose very name derives from mining: ore has been extracted here since ancient
+      times, from iron, lead and zinc to precious silver and gold. Atop this bedrock thrives a national park
+      of ancient forests, millennial peat bogs, tumbling waterfalls and ridge crests overlooking half the
+      Balkan peninsula.
+    landscape: >-
+      The contemporary relief has been sculpted across ages by erosion and runoff. Kopaonik gives rise to no
+      large river, but rather a dense maze of cold mountain brooks fed by countless springs; on the
+      Zaplaninska stream plunges the multi-tiered Jelovarnik waterfall, dropping 80 metres in total height.
+      Snow typically blankets the heights from late November until May, lingering between one hundred and
+      eighty and two hundred and thirty days each year.
+
+
+      Peat bogs constitute another hallmark of the massif. Formed by persistent condensation along chilly
+      hollows, some boast ages exceeding one thousand years. The largest is Jankova Bara. In elevation,
+      woodland arranges in distinct tiers: between one thousand five hundred and one thousand seven hundred
+      and fifty metres spruce dominates, intermingling with beech and fir; above one thousand seven hundred
+      and fifty metres appear dwarf mountain pine and bilberry heaths before yielding to alpine meadows.
+      Within the Jelovarnik reserve thrives the most magnificent beech forest in Kopaonik, with veteran trees
+      reaching 30 to 35 m in height and over a metre in trunk diameter.
+    wildlife: >-
+      High-mountain flora gathers 825 species and subspecies, with the park harbouring 91 endemic and 82
+      subendemic plants. Three are strict local endemics: Sempervivum kopaonikensis, Viola kopaonikensis and
+      Cardamine pancicii. Glacial cycles barely disrupted vegetation here, preserving Tertiary relics such as
+      edelweiss, Balkan maple (*Acer heldreichii*) and yew. Along the Nebeske Stolice ridges live the Kopaonik
+      houseleek, violet and the horned lark.
+
+
+      Bird life features 173 species, 90% of them breeding residents. Forest canopies shelter the [European
+      honey buzzard](/especie/pernis_apivorus/), short-toed snake eagle and [Ural
+      owl](/especie/strix_uralensis/), alongside white-backed woodpecker, three-toed woodpecker and hazel
+      grouse. Alpine grasslands and screes support rock partridge, rufous-tailed rock thrush and alpine
+      accentor; cliff walls harbour the [golden eagle](/especie/aquila_chrysaetos/), [peregrine
+      falcon](/especie/falco_peregrinus/) and [Eurasian eagle-owl](/especie/bubo_bubo/). Kopaonik was
+      designated an Important Bird Area in 1997.
+
+
+      Among mammals, park authorities prioritize the [wolf](/especie/canis_lupus/) and hazel dormouse. Over
+      the past century human pressure extirpated brown bear, lynx, chamois and red deer; bears are
+      occasionally sighted in transit but lack resident status. The park has initiated recovery of the Balkan
+      [chamois](/especie/rupicapra_rupicapra/): the pioneer animals were translocated from Tara in two
+      thousand and twenty-one and inhabit Kozje Stene. The chamois alternates coats: rich dark reddish-brown
+      in summer, transitioning to paler greyish-brown in winter. Cold rushing streams support native [brown
+      trout](/especie/salmo_trutta/).
+
+
+      Smaller wildlife includes 138 butterfly species—one of the richest assemblages in the Balkans—alongside
+      the [fire salamander](/especie/salamandra_salamandra/), alpine newts and the [horned
+      viper](/especie/vipera_ammodytes/). Kopaonik also documents 219 species of fungi.
+    visit: >-
+      In summer, park staff organize guided mountain walks and tailor-made day hikes. Recommended itineraries
+      include trails to Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov Kamen and Jankove Bare,
+      alongside a specialized mycological trail. The Nebeske Stolice path reaches an airy crest unveiling
+      views towards Komovi, Durmitor, Bjelasica, Šar and Korab on clear days. The Metođe trail leads into a
+      reserve preserving six distinct spruce-beech associations with numerous rare botanical relics.
+
+
+      A georeferenced visitor map is compatible with the Avenza Maps smartphone application, facilitating GPS
+      navigation without cellular coverage; park rangers update track files periodically.
+    history: >-
+      The park works actively to restore vanished native fauna: it successfully reintroduced chamois and
+      initiated red deer reintroduction within a 196-hectare breeding enclosure, following positive sightings
+      on southern slopes in 2016 and 2017.
+    before: >-
+      Peak trekking season runs from June to October; plan on one to two days. Stay strictly on marked trails,
+      light campfires only in designated fire pits, and camp only in authorised areas with park permission.
+      Never pick or damage protected plants or disturb wildlife. Unless you are a certified mycologist,
+      refrain from collecting wild mushrooms: almost all edible species have toxic or lethal lookalikes. Park
+      access points are Jošanička Banja, Raška and Brzeće.
+  fr:
+    intro: >-
+      Kopaonik bénéficie de plus de 200 jours d'ensoleillement par an, ce qui lui vaut le surnom de 'Montagne
+      du Soleil'. Mais c'est avant tout un haut lieu géologique : un puissant massif granitique ceinturé de
+      serpentinites, schistes, andésites et calcaires, dont le toponyme dérive de l'exploitation minière : on
+      y extrait du minerai depuis l'Antiquité, du fer au plomb en passant par l'or et l'argent. Sur cette
+      roche s'épanouit un parc national de forêts anciennes, tourbières millénaires, cascades et crêtes
+      ouvertes sur la moitié des Balkans.
+    landscape: >-
+      Le relief s'est sculpté au fil des millénaires sous l'action de l'érosion. Kopaonik ne donne naissance à
+      aucun grand fleuve, mais alimente un réseau dense de torrents froids nés d'innombrables sources ; sur le
+      Zaplaninska dégringole la cascade de Jelovarnik, chute à plusieurs étages haute de 80 mètres au total.
+      La neige s'installe généralement de fin novembre à mai, persistant entre cent quatre-vingts et deux cent
+      trente jours par an.
+
+
+      Les tourbières constituent l'autre joyau du massif. Nées d'une forte condensation dans les combes
+      humides, certaines dépassent mille ans d'âge. La plus vaste est Jankova Bara. En altitude, les arbres
+      s'étagent : entre mille cinq cents et mille sept cent cinquante mètres dominent les épicéas mêlés de
+      hêtres et sapins ; au-delà de mille sept cent cinquante mètres apparaissent le pin couché et les
+      myrtilles avant les pelouses alpines. Dans la réserve de Jelovarnik prospère la plus belle hêtraie de
+      Kopaonik, comptant des arbres de 30 à 35 m de haut et plus d'un mètre de diamètre.
+    wildlife: >-
+      La flore d'altitude réunit 825 espèces et sous-espèces, le parc abritant 91 plantes endémiques et 82
+      sous-endémiques. Trois sont de stricts endémiques locaux : Sempervivum kopaonikensis, Viola
+      kopaonikensis et Cardamine pancicii. Les glaciations n'ayant que peu altéré la couverture végétale, des
+      reliques tertiaires y survivent comme l'edelweiss, l'érable des Balkans et l'if. Les crêtes de Nebeske
+      Stolice hébergent la joubarbe et la violette de Kopaonik ainsi que l'alouette hausse-col.
+
+
+      L'avifaune recense 173 espèces, dont 90 % de nicheuses. En forêt nichent la [bondrée
+      apivore](/especie/pernis_apivorus/), le circaète Jean-le-Blanc et la [chouette de
+      l'Oural](/especie/strix_uralensis/), ainsi que le pic à dos blanc, le pic tridactyle et la gélinotte des
+      bois. Les alpages accueillent la perdrix bartavelle, le monticole de roche et l'accenteur alpin ; les
+      parois abritent l'[aigle royal](/especie/aquila_chrysaetos/), le [faucon
+      pèlerin](/especie/falco_peregrinus/) et le [grand-duc d'Europe](/especie/bubo_bubo/). Kopaonik a été
+      classé Zone importante pour les oiseaux en 1997.
+
+
+      Parmi les mammifères, la priorité va au [loup](/especie/canis_lupus/) et au muscardin. L'ours, le lynx,
+      le chamois et le cerf avaient disparu au siècle dernier sous l'effet de l'homme ; l'ours est parfois
+      signalé de passage. Le parc a initié la réintroduction du [chamois](/especie/rupicapra_rupicapra/) des
+      Balkans : les premiers sujets venus de Tara sont arrivés en deux mille vingt-et-un aux parois de Kozje
+      Stene. Le chamois alterne son pelage : brun foncé en été, gris clair en hiver. Les eaux vives abritent
+      la [truite fario](/especie/salmo_trutta/) autochtone.
+
+
+      La petite faune compte 138 espèces de papillons de jour, la [salamandre
+      tachetée](/especie/salamandra_salamandra/), des tritons et la [vipère
+      ammodite](/especie/vipera_ammodytes/). On recense en outre 219 espèces de champignons.
+    visit: >-
+      En été, le parc propose des randonnées guidées et des excursions thématiques. Les sentiers conseillés
+      mènent à Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov Kamen et Jankove Bare, ainsi qu'un
+      circuit mycologique. Le chemin de Nebeske Stolice atteint une crête dévoilant Komovi, Durmitor,
+      Bjelasica, Šar et Korab par ciel clair. Le tracé de Metođe traverse une réserve protégeant six
+      associations végétales distinctes de hêtres et d'épicéas.
+
+
+      La carte touristique géoréférencée s'utilise avec l'application Avenza Maps et permet l'orientation GPS
+      sans réseau mobile ; le parc en met à jour les données régulièrement.
+    history: >-
+      Le parc œuvre activement à restaurer sa faune originelle : après le chamois, il a lancé la
+      réintroduction du cerf élaphe dans un enclos de reproduction de 196 hectares, suite à des indices
+      observés sur les versants sud en 2016 et 2017.
+    before: >-
+      La période favorable va de juin à octobre ; prévoyez un à deux jours. Restez impérativement sur les
+      sentiers balisés, n'allumez de feu que dans les aires prévues et ne campez qu'avec autorisation. Ne
+      cueillez aucune plante protégée et ne prélevez pas de champignons sans compétence mycologique éprouvée :
+      nombre de taxons toxiques ressemblent aux espèces comestibles. On accède au parc par Jošanička Banja,
+      Raška ou Brzeće.
+  de:
+    intro: >-
+      Der Kopaonik genießt mehr als 200 Sonnentage im Jahr und trägt daher den Beinamen 'Berg der Sonne'.
+      Geologisch ist er ein mächtiges Granitmassiv, umgeben von Serpentiniten, Schiefern, Andesiten und
+      Kalksteinen, dessen Name vom Bergbau herrührt: Seit der Antike wurden hier Erze abgebaut, von Eisen über
+      Blei bis zu Silber und Gold. Auf diesem Felsmassiv gedeiht ein Nationalpark mit Urwäldern, Jahrtausende
+      alten Mooren, Wasserfällen und Weitblicken über die halbe Balkanhalbinsel.
+    landscape: >-
+      Das heutige Relief entstand durch jahrtausendelange Abtragung. Der Kopaonik speist zwar keine Ströme,
+      aber ein dichtes Netz kalter Gebirgsbäche; am Zaplaninska stürzt der Jelovarnik-Wasserfall über mehrere
+      Kaskaden 80 Meter in die Tiefe. Schnee liegt meist von Ende November bis Mai und hält sich zwischen
+      einhundertachtzig und zweihundertdreißig Tagen im Jahr.
+
+
+      Die Hochmoore sind das zweite Wahrzeichen des Gebirges. Sie entstanden durch hohe Kondensation in
+      feuchten Kesseln; einige sind über tausend Jahre alt. Das größte ist Jankova Bara. Höhenstufen gliedern
+      die Wälder: Zwischen eintausendfünfhundert und eintausendsiebenhundertfünfzig Metern dominiert die
+      Fichte mit Buchen und Tannen; oberhalb von eintausendsiebenhundertfünfzig Metern folgen Bergkiefer und
+      Heidelbeeren vor den alpinen Matten. Im Jelovarnik-Reservat gedeiht der üppigste Buchenwald des Massivs
+      mit 30 bis 35 m hohen Bäumen und über einem Meter Stammdurchmesser.
+    wildlife: >-
+      Die Hochgebirgsflora zählt 825 Arten und Unterarten; der Park beherbergt 91 endemische und 82
+      subendemische Pflanzen. Drei sind lokale Endemiten: Sempervivum kopaonikensis, Viola kopaonikensis und
+      Cardamine pancicii. Da die Eiszeiten die Vegetation kaum berührten, überlebten Tertiärrelikte wie
+      Edelweiß, Balkan-Ahorn und Eibe. Auf den Kämmen von Nebeske Stolice wachsen die Kopaonik-Hauswurz, das
+      Kopaonik-Veilchen und brütet die Ohrenlerche.
+
+
+      Die Vogelwelt umfasst 173 Arten, davon 90 % Brutvögel. Im Wald nisten
+      [Wespenbussard](/especie/pernis_apivorus/), Schlangenadler und [Habichtskauz](/especie/strix_uralensis/)
+      sowie Weißrückenspecht, Dreizehenspecht und Haselhuhn. Auf alpinen Matten leben Steinhuhn, Steinrötel
+      und Alpenbraunelle; Felswände beherbergen [Steinadler](/especie/aquila_chrysaetos/),
+      [Wanderfalke](/especie/falco_peregrinus/) und [Uhu](/especie/bubo_bubo/). Kopaonik wurde 1997 zum
+      Important Bird Area erklärt.
+
+
+      Unter den Säugetieren gilt das Schutzinteresse dem [Wolf](/especie/canis_lupus/) und der Haselmaus. Bär,
+      Luchs, Gämse und Hirsch verschwanden im letzten Jahrhundert; Bären werden gelegentlich auf Durchzug
+      gesichtet. Der Park begann mit der Wiederansiedlung der Balkan-[Gämse](/especie/rupicapra_rupicapra/):
+      Die ersten Tiere aus der Tara trafen zweitausendeinundzwanzig ein und leben bei Kozje Stene. Das Fell
+      der Gämse wechselt von rotbraun im Sommer zu hellgraubraun im Winter. In kühlen Bächen lebt die
+      einheimische [Bachforelle](/especie/salmo_trutta/).
+
+
+      Zur Kleintierwelt gehören 138 Tagfalterarten, der [Feuersalamander](/especie/salamandra_salamandra/),
+      Molche und die [Sandotter](/especie/vipera_ammodytes/). Bekannt sind zudem 219 Pilzarten.
+    visit: >-
+      Im Sommer organisiert der Park geführte Bergtouren und Tageswanderungen. Empfohlen werden Routen nach
+      Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov Kamen und Jankove Bare sowie ein
+      Pilzlehrpfad. Der Pfad Nebeske Stolice erreicht einen Panoramakamm mit Fernsicht auf Komovi, Durmitor,
+      Bjelasica, Šar und Korab bei klarem Wetter. Der Metođe-Weg führt durch ein Reservat mit sechs
+      verschiedenen Fichten-Buchen-Waldgesellschaften.
+
+
+      Eine georeferenzierte Wanderkarte lässt sich mit der App Avenza Maps ohne Mobilfunknetz zur
+      GPS-Orientierung nutzen; Ranger aktualisieren die Kartendaten regelmäßig.
+    history: >-
+      Der Park bemüht sich aktiv um die Wiederkehr verschwundener Wildarten: Nach der Gämse wurde die
+      Wiederansiedlung des Rothirsches in einem 196 Hektar großen Zuchtgatter begonnen, nachdem 2016 und 2017
+      Spuren an den Südhängen nachgewiesen wurden.
+    before: >-
+      Wanderzeit ist von Juni bis Oktober; planen Sie ein bis zwei Tage ein. Bleiben Sie auf markierten Wegen,
+      entfachen Sie Feuer nur an Rastplätzen und zelten Sie nur mit Erlaubnis. Schonen Sie Pflanzen und
+      sammeln Sie Pilze nur bei fundierten Kenntnissen: Nahezu alle Speisepilze haben giftige Doppelgänger.
+      Zufahrten bestehen über Jošanička Banja, Raška oder Brzeće.
+  it:
+    intro: >-
+      Kopaonik gode di oltre 200 giorni di sole all'anno, guadagnandosi l'appellativo di 'Montagna del Sole'.
+      Ma è soprattutto un bastione geologico: un possente plutone granitico circondato da serpentiniti,
+      scisti, andesiti e calcari, il cui nome rimanda all'attività estrattiva: vi si estraggono minerali fin
+      dall'antichità, dal ferro al piombo fino all'argento e all'oro. Su questa roccia prospera un parco
+      nazionale fatto di boschi vetusti, torbiere millenarie, cascate e creste aperte su metà della penisola
+      balcanica.
+    landscape: >-
+      Il paesaggio attuale è stato levigato nel tempo dall'erosione superficiale. Kopaonik non dà origine a
+      grandi fiumi, bensì a una fitta rete di torrenti limpidi alimentati da sorgenti montane; sul torrente
+      Zaplaninska scende la cascata di Jelovarnik, salto a più livelli alto 80 metri complessivi. La coltre
+      nevosa compare solitamente da fine novembre a maggio, persistendo tra centottanta e duecentotrenta
+      giorni l'anno.
+
+
+      Le torbiere costituiscono l'altro tratto distintivo del massiccio. Formatesi per accumulo d'umidità in
+      conche fredde, alcune superano i mille anni d'età. La più vasta è Jankova Bara. In quota, il bosco
+      disegna orizzonti chiari: tra millecinquecento e millesettecentocinquanta metri dominano i boschi di
+      abete rosso con faggi e abeti bianchi; oltre i millesettecentocinquanta metri compaiono il pino mugo e i
+      mirtilli prima delle praterie sommitali. Nella riserva di Jelovarnik cresce la faggeta più maestosa del
+      massiccio, con patriarchi arborei da 30 a 35 m di altezza e oltre un metro di diametro.
+    wildlife: >-
+      La flora d'alta quota raduna 825 specie e sottospecie; l'area protegge 91 piante endemiche e 82
+      subendemiche. Tre sono endemismi puntiformi: Sempervivum kopaonikensis, Viola kopaonikensis e Cardamine
+      pancicii. Le glaciazioni hanno risparmiato la vegetazione, preservando relitti terziari come la stella
+      alpina, l'acero di Heldreich e il tasso. Lungo le creste di Nebeske Stolice vivono il semprevivo e la
+      viola di Kopaonik e l'allodola gola-gialla.
+
+
+      L'avifauna registra 173 specie, il 90% delle quali nidificanti. Nei boschi nidificano il [falco
+      pecchiaiolo](/especie/pernis_apivorus/), il biancone e l'[allocco degli
+      Urali](/especie/strix_uralensis/), assieme a picchio dorsobianco, picchio tridattilo e francolino di
+      monte. Sulle praterie d'altitudine vivono la coturnice, il codirossone e il sordone; le pareti rocciose
+      ospitano l'[aquila reale](/especie/aquila_chrysaetos/), il [falco
+      pellegrino](/especie/falco_peregrinus/) e il [gufo reale](/especie/bubo_bubo/). Kopaonik è stato
+      riconosciuto Important Bird Area nel 1997.
+
+
+      Tra i mammiferi spiccano il [lupo](/especie/canis_lupus/) e il moscardino. Orso, lince, camoscio e cervo
+      scomparvero nel corso dell'ultimo secolo; l'orso compie saltuarie apparizioni di passaggio. Il parco ha
+      avviato il recupero del [camoscio](/especie/rupicapra_rupicapra/) balcanico: i primi capi trasferiti dal
+      Tara sono giunti nel duemilaventuno sulle rupi di Kozje Stene. La livrea del camoscio varia dal bruno
+      scuro estivo al bruno-grigiastro invernale. Nelle acque fredde nuota la [trota
+      fario](/especie/salmo_trutta/) autoctona.
+
+
+      La piccola fauna vanta 138 specie di farfalle diurne, la [salamandra
+      pezzata](/especie/salamandra_salamandra/), tritoni e la [vipera dal corno](/especie/vipera_ammodytes/).
+      Nel massiccio si contano inoltre 219 specie di funghi.
+    visit: >-
+      In estate l'ente parco promuove escursioni guidate e trekking giornalieri. Tra gli itinerari
+      raccomandati figurano Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov Kamen e Jankove Bare,
+      oltre a un sentiero didattico micologico. Il sentiero di Nebeske Stolice conduce a una cresta panoramica
+      con vedute su Komovi, Durmitor, Bjelasica, Šar e Korab nelle giornate terse. Il percorso di Metođe
+      attraversa una riserva con sei distinte associazioni forestali di abete rosso e faggio.
+
+
+      La carta escursionistica georeferenziata è fruibile con l'applicazione Avenza Maps e consente
+      l'orientamento GPS senza rete cellulare; i guardaparco ne aggiornano i tracciati periodicamente.
+    history: >-
+      Il parco persegue attivamente il ripristino faunistico: dopo il camoscio, ha inaugurato la
+      reintroduzione del cervo in un'area recintata di 196 ettari, in seguito al rilevamento di tracce sui
+      pendii meridionali nel 2016 e 2017.
+    before: >-
+      La stagione favorevole va da giugno a ottobre; calcolate uno o due giorni. Rispettate i sentieri
+      segnati, accendete fuochi solo nei bracieri predisposti e bivaccate solo con permesso. Evitate la
+      raccolta di funghi se non siete esperti micologi: quasi tutti i commestibili hanno sosia tossici o
+      mortali. Gli accessi stradali fanno capo a Jošanička Banja, Raška o Brzeće.
+  pt:
+    intro: >-
+      Kopaonik desfruta de mais de 200 dias de sol por ano, granjeando o epíteto de 'Montanha do Sol'. Mas é
+      primordialmente um prodígio geológico: um colosso granítico rodeado de serpentinitos, xistos, andesitos
+      e calcários, cujo nome provém da mineração: extraem-se aqui minérios desde tempos ancestrais, do ferro
+      ao chumbo e a metais preciosos como prata e ouro. Sobre este pedestal ergue-se um parque nacional de
+      matas antigas, turfeiras milenares, quedas de água e cristas com horizontes sobre metade da península
+      balcânica.
+    landscape: >-
+      O relevo resultou de prolongada erosão. Kopaonik não alimenta grandes bacias hidrográficas, mas sim uma
+      intrincada malha de regatos alpinos nascidos em centenas de fontes; no ribeiro Zaplaninska despenha-se a
+      cascata de Jelovarnik, com múltiplos socalcos e 80 metros de desnível total. A neve instala-se de finais
+      de novembro a maio, mantendo-se entre cento e oitenta e duzentos e trinta dias por ano.
+
+
+      As turfeiras constituem outro emblema do maciço. Nascidas da condensação em covões húmidos, algumas
+      superam mil anos de antiguidade. A maior é Jankova Bara. Em altitude, a floresta organiza-se em andares:
+      entre mil e quinhentos e mil setecentos e cinquenta metros dominam os abetos-vermelhos com faias e
+      abetos-brancos; acima de mil setecentos e cinquenta metros surgem o pinheiro-das-rochas e os mirtilos
+      antes dos prados de altitude. Na reserva de Jelovarnik floresce o faial mais denso de Kopaonik, com
+      árvores de 30 a 35 m de altura e mais de um metro de diâmetro.
+    wildlife: >-
+      A flora alpina congrega 825 espécies e subespécies, abrigando 91 plantas endémicas e 82 subendémicas.
+      Três são endemismos locais estritos: Sempervivum kopaonikensis, Viola kopaonikensis e Cardamine
+      pancicii. As glaciações pouco perturbaram a vegetação, salvaguardando relíquias terciárias como a
+      edelvaisse, o bordo-dos-balcãs e o teixo. Nas cumeadas de Nebeske Stolice vivem a sempre-noiva e a
+      violeta de Kopaonik e a cotovia-cornuda.
+
+
+      A avifauna acolhe 173 espécies, 90% das quais nidificantes. Nos bosques nidificam o
+      [bútio-vespeiro](/especie/pernis_apivorus/), a águia-cobreira e a
+      [coruja-dos-urais](/especie/strix_uralensis/), bem como o pica-pau-de-dorso-branco, o
+      pica-pau-tridáctilo e a galinha-do-mato. Nas pastagens vivem a perdiz-mourisca, o melro-das-rochas e a
+      ferreirinha-alpina; nas escarpas habitam a [águia-real](/especie/aquila_chrysaetos/), o
+      [falcão-peregrino](/especie/falco_peregrinus/) e o [bufo-real](/especie/bubo_bubo/). Kopaonik foi
+      classificado como Área Importante para as Aves em 1997.
+
+
+      Nos mamíferos salienta-se a conservação do [lobo](/especie/canis_lupus/) e do dganho. O urso, o lince, a
+      camurça e o veado extinguiram-se no século passado; o urso é avistado esporadicamente em trânsito. O
+      parque encetou a recuperação da [camurça](/especie/rupicapra_rupicapra/) balcânica: os primeiros animais
+      oriundos de Tara chegaram em dois mil e vinte e um a Kozje Stene. A pelagem da camurça alterna entre o
+      castanho-escuro no estio e o pardo-acinzentado no inverno. Nas correntes frias sobrevive a
+      [truta-fario](/especie/salmo_trutta/) autóctone.
+
+
+      A fauna miúda conta 138 espécies de borboletas diurnas, a
+      [salamandra-de-pintas](/especie/salamandra_salamandra/), tritões e a
+      [víbora-cornuda](/especie/vipera_ammodytes/). Em Kopaonik inventariam-se ainda 219 espécies de
+      cogumelos.
+    visit: >-
+      No verão organizam-se percursos pedestres guiados e itinerários de montanha. Destacam-se trilhos para
+      Jelovarnik, Metođe, Nebeske Stolice, Samokovska Reka, Markov Kamen e Jankove Bare, além de uma rota
+      micológica. O trilho de Nebeske Stolice alcança uma crista airosa com vistas para Komovi, Durmitor,
+      Bjelasica, Šar e Korab em dias límpidos. A rota de Metođe explora uma reserva que conserva seis
+      associações florestais distintas de faias e abetos.
+
+
+      O mapa turístico georreferenciado é compatível com a aplicação Avenza Maps e permite navegação por GPS
+      sem rede móvel; a administração atualiza os dados periodicamente.
+    history: >-
+      O parque empenha-se na reposição da fauna autóctone: reintroduziu a camurça e lançou o programa de
+      reintrodução do veado num cercado de 196 hectares, após registos de pegadas nas encostas sul em 2016 e
+      2017.
+    before: >-
+      A melhor época vai de junho a outubro; preveja um a dois dias. Mantenha-se nas veredas assinaladas, faça
+      fogueiras apenas nos locais próprios e acampe apenas com autorização. Não colha cogumelos sem formação
+      micológica comprovada: quase todas as espécies comestíveis possuem sósias venenosos ou mortais. O acesso
+      faz-se por Jošanička Banja, Raška ou Brzeće.
+fuentes:
+  - url: https://npkopaonik.rs/en/natural-features/
+    titulo: Natural Features — Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/flora/
+    titulo: Flora — Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/fauna/
+    titulo: Fauna — Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/hiking-trails/
+    titulo: Hiking Trails — Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/mushrooms/
+    titulo: Mushrooms – Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/pesacke-ture/pesacka-staza-nebeske-stolice/
+    titulo: Пешачка стаза НЕБЕСКЕ СТОЛИЦЕ – Национални парк Копаоник
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/pesacke-ture/vodopad-jelovarnik/
+    titulo: Водопад ЈЕЛОВАРНИК – Национални парк Копаоник
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/pesacke-ture/pesacka-staza-metodje/
+    titulo: Пешачка стаза МЕТОЂЕ – Национални парк Копаоник
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/pesacke-ture/pesacka-staza-markov-kamen/
+    titulo: Пешачка стаза МАРКОВ КАМЕН – Национални парк Копаоник
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/rules-of-conduct/
+    titulo: Rules of Conduct – Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+  - url: https://npkopaonik.rs/en/how-to-get-there/
+    titulo: How to get there – Kopaonik National Park
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Kopaonik_-_panoramio_(6).jpg
+    autor: BrsJvnvc
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-21'

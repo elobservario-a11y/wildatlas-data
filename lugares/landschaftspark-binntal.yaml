@@ -1,0 +1,660 @@
+id: landschaftspark-binntal
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Valle de Binn
+  en: Binntal Nature Park
+  fr: Parc naturel de la vallée de Binn
+  de: Landschaftspark Binntal
+  it: Parco Naturale della Valle di Binn
+  pt: Parque Natural do Vale de Binn
+nombre_original: Landschaftspark Binntal
+alias:
+  - Binntal Nature Park (Landschaftspark Binntal)
+paises:
+  - CH
+region:
+  es: Valais (Binn / Ernen)
+  en: Valais (Binn / Ernen)
+  fr: Valais (Binn / Ernen)
+  de: Wallis (Binn / Ernen)
+  it: Vallese (Binn / Ernen)
+  pt: Valais (Binn / Ernen)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2818256
+  nombre_en_la_fuente: Landschaftspark Binntal
+  capa: capas/osm/landschaftspark-binntal.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+designaciones:
+  - natural_park
+especies:
+  - rupicapra_rupicapra
+  - aquila_chrysaetos
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Landschaftspark Binntal Official
+    url: https://www.landschaftspark-binntal.ch/
+  - titulo: Rutas — senderos de verano del Binntal
+    url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aktivitaeten/individuell-unterwegs/sommerwanderungen
+  - titulo: Mapa — itinerarios y servicios del parque
+    url: https://www.landschaftspark-binntal.ch/de/allgemein/karte
+  - titulo: Accesos — llegada al parque Binntal
+    url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aufenthalt/anreise
+  - titulo: Normas — protección de rebaños y perros guardianes
+    url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aufenthalt/infos-vor-ort/herdenschutz
+  - titulo: Protección — espacios protegidos dentro del parque
+    url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/schutzgebiete
+resumen:
+  es: Valle alpino del Valais famoso mundialmente por su extraordinaria diversidad de minerales raros.
+  en: Alpine valley in Valais world-renowned for its extraordinary diversity of rare minerals.
+  fr: Vallée alpine du Valais mondialement réputée pour son extraordinaire diversité de minéraux rares.
+  de: Walliser Alpental, das für seine außergewöhnliche Vielfalt seltener Mineralien weltberühmt ist.
+  it: Valle alpina del Vallese famosa nel mondo per la straordinaria ricchezza di minerali rari.
+  pt: Vale alpino de Valais mundialmente famoso pela sua extraordinária diversidade de minerais raros.
+unico:
+  es: >-
+    En un solo valle se han hallado más de trescientas especies minerales, y en la mina de Lengenbach más de
+    150, de las que más de cuarenta se descubrieron allí por primera vez.
+  en: >-
+    In a single valley more than three hundred mineral species have been found, and in the Lengenbach quarry
+    over 150, of which more than forty were discovered there for the first time.
+  fr: >-
+    Dans une seule vallée, plus de trois cents espèces minérales ont été répertoriées, et dans la carrière de
+    Lengenbach plus de 150, dont plus de quarante y ont été découvertes pour la toute première fois.
+  de: >-
+    In einem einzigen Tal wurden über dreihundert Mineralienarten gefunden, und in der Grube Lengenbach mehr
+    als 150, von denen über vierzig dort erstmals entdeckt wurden.
+  it: >-
+    In una sola valle sono state rinvenute oltre trecento specie minerali, e nella cava di Lengenbach più di
+    150, delle quali oltre quaranta scoperte lì per la prima volta.
+  pt: >-
+    Num único vale foram identificadas mais de trezentas espécies minerais, e na mina de Lengenbach mais de
+    150, das quais mais de quarenta foram aí descobertas pela primeira vez.
+observaciones:
+  es: >-
+    En el parque no se deben llevar plantas, hay que molestar poco a los animales, no dejar basura y no
+    acampar. Ovejas, fauna, perros pastores y personas comparten el mismo hábitat: ante un perro de
+    protección, no corras, no le des la espalda ni lo mires a los ojos, y baja de la bicicleta. Se desaconseja
+    llevar perros domésticos cerca de los rebaños; si los llevas, átalos.
+texto:
+  es:
+    intro: >-
+      En el Binntal las piedras se buscan con tanta paciencia como las flores se miran. Este valle alpino del
+      Valais es famoso por sus minerales, pero también es un punto caliente de la flora y un rincón con una
+      fauna muy rica. En el Binntal y en los yacimientos vecinos se han encontrado más de trescientas especies
+      minerales. Y sobre el valle se extiende un parque natural regional que va desde unos 1000 m hasta las
+      nieves perpetuas y llega al Helsenhorn, de 3 272 m.
+    landscape: >-
+      El valle está hecho de contrastes. Las laderas secas y rocosas del lado soleado contrastan con las
+      laderas boscosas y húmedas de la umbría. La topografía es muy variada: valles en todas direcciones desde
+      900 m dominados por montañas de hasta 3 250 m, con pasos que llevan a distintas zonas florales. Hay
+      turberas bajas, pastos secos, bosques de picea, pastos alpinos, antepaíses glaciares, pinares, lagos de
+      montaña, estepas rocosas y llanuras aluviales alpinas.
+
+
+      Bajo los pies, la piedra cuenta la historia. El Lengenbach es un pequeño valle lateral que sube con
+      pendiente tras el caserío de Fäld, y deja ver una franja de mármol dolomítico blanco de unos 300 m. En
+      esas rocas, depositadas hace unos 240 millones de años, se formaron menas de hierro, plomo, zinc y otros
+      metales, que la formación de los Alpes transformó de una manera muy particular. De ahí salieron
+      minerales raros y exóticos. Cincuenta y seis minerales tienen el Binntal como localidad tipo.
+    wildlife: >-
+      La flora estalla en cuanto llega el buen tiempo. En mayo florece el tulipán de Grengiols, que solo crece
+      aquí, y a principios del verano hay un mar de flores con lirio de los Alpes, martagón, almohadillas de
+      primavera dorada y astrágalos. El tulipán sobrevive porque desde 1996 un grupo de aficionados mantiene
+      el cultivo tradicional del centeno, y está estrictamente protegido. En el sur, sobre gneis, hay amplias
+      zonas de rododendros y sauce suizo en el límite del bosque. En la turbera protegida del paso de Albrun
+      crecen plantas de algodón de pantano, el junco diminuto y dos juncos relictos árticos. Entre las plantas
+      del Binntal figuran también la centaurea plumosa, el heliantemo amarillo y el tragacanto sin tallo, una
+      especie rara.
+
+
+      La fauna también tiene su calendario. En primavera, tras la invernada, la víbora áspid está muy activa
+      porque debe calentarse al sol; el Binntal es su punto caliente. La mariposa apolo, extinguida o
+      amenazada en otros países europeos, aún se ve con frecuencia en casi todas las laderas secas. El avión
+      roquero es muy común y cada vez cría más en los pueblos: en Heiligkreuz y en los demás, busca bajo los
+      tejados sus nidos.
+
+
+      Los grandes mamíferos viajan. Los [rebecos](/especie/rupicapra_rupicapra/) son buenos trepadores y
+      buscan roquedos escarpados para protegerse, sobre todo con crías; los machos se unen a las manadas de
+      hembras solo en la época de celo, en noviembre y diciembre. Un proyecto de investigación mostró que casi
+      todos los [ciervos](/especie/cervus_elaphus/) pasan el invierno en el Binntal y emigran en primavera por
+      el paso de Albrun a Italia, de donde regresan en noviembre y diciembre. Por eso en verano y durante la
+      berrea se ven pocos.
+    visit: >-
+      Para entender la piedra, empieza por el sendero geológico entre Fäld y la mina de Lengenbach: once
+      estaciones, 1,25 km, 150 m de desnivel y unos 30 minutos de marcha. Para ir más allá, el parque ofrece
+      excursiones guiadas de minerales con un buscador de cristales (Strahler) del valle, y rutas con
+      especialistas locales sobre geología, flora, huellas de animales y aves y sus hábitats. Una excursión
+      botánica recorre las praderas de alerce creadas por el pastoreo tradicional.
+
+
+      La red de senderos tiene tres niveles de dificultad señalizados por colores; los senderos alpinos,
+      azules, pasan por terreno sin camino, nieve, glaciares, canchales y pasos de escalada. Un sendero
+      circular de 7,92 km y 2 h 32 min sale de Ausserbinn, con desvíos a la garganta del Binna y el puente
+      romano. La caminata larga de Binn al valle de Leng pasa por Wilere y Heiligkreuz, cruza tres arroyos y
+      dura 7 h 30 min (20,50 km). Otros senderos temáticos descubren los árboles más notables, como uno de
+      4,88 km y 1 h 30 min alrededor de Ernen.
+
+
+      El museo regional de Binn tiene una exposición de minerales, objetos de agricultura, artesanía y turismo
+      y una colección arqueológica.
+    history: >-
+      Los minerales atrajeron a los viajeros: en el siglo XIX, sobre todo turistas ingleses descubrieron el
+      valle, y en 1883 abrió el hotel Ofenhorn. El camino histórico más importante es otro: el viejo camino de
+      mulas por el paso de Albrun, de 2 409 m, la principal ruta histórica, que se usaba ya en la Edad del
+      Hierro.
+
+
+      La protección llegó pronto. En 1964 el municipio de Binn, Pro Natura Valais y el Club Alpino Suizo
+      firmaron un contrato pionero de protección del Binntal, y en él renunciaban a ampliar la energía
+      hidráulica, a segundas residencias y a instalaciones turísticas. El parque obtuvo en 2011 la etiqueta
+      definitiva de parque natural regional. En 2025 el cantón del Valais reconoció la búsqueda y el estudio
+      de minerales como tradición viva y patrimonio cultural inmaterial. La mina de Lengenbach se sigue
+      explotando con fines de investigación.
+    before: >-
+      En el parque no se deben llevar plantas, hay que molestar poco a los animales, no dejar basura y no
+      acampar. Ovejas, fauna, perros pastores y personas comparten el mismo hábitat: ante un perro de
+      protección, no corras, no le des la espalda ni lo mires a los ojos, y baja de la bicicleta. Se
+      desaconseja llevar perros domésticos cerca de los rebaños; si los llevas, átalos.
+    around: >-
+      El [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) está a unos dos kilómetros,
+      y el [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) a unos veintiún
+      kilómetros. El [Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) se solapa en parte con esta
+      zona.
+  en:
+    intro: >-
+      In the Binntal, crystals are searched for with as much patience as mountain blooms are admired. This
+      alpine valley in Valais is famed for its minerals, yet it is also a botanical hotspot and a haven of
+      remarkable wildlife. Across the Binntal and adjoining deposits over three hundred mineral species have
+      been discovered. Spanning the valley is a regional nature park stretching from around 1000 m up to
+      perpetual snows, culminating at the Helsenhorn at 3,272 m.
+    landscape: >-
+      The valley is a tapestry of contrasts. Sun-drenched rocky slopes face north-facing slopes mantled in
+      dense, moist forest. The topography is exceptionally multifaceted: valleys radiating in all directions
+      from 900 m dominated by peaks rising to 3,250 m, with passes opening into distinct floral realms. There
+      are fens, dry pastures, spruce forests, alpine meadows, glacial forelands, pine woods, tarns, rocky
+      steppes and alpine floodplains.
+
+
+      Beneath your boots the bedrock tells the story. Lengenbach is a steep side glen rising behind the hamlet
+      of Fäld, exposing a band of white dolomitic marble about 300 m across. In these rocks, laid down some
+      240 million years ago, ores of iron, lead, zinc and other metals precipitated, subsequently
+      metamorphosed during the alpine orogeny in an extraordinary manner. This process gave birth to exotic
+      and rare minerals. Fifty-six minerals claim the Binntal as their type locality.
+    wildlife: >-
+      Flora erupts the moment warm days arrive. In May the Grengiols tulip blooms, found nowhere else on
+      Earth, and early summer brings a profusion of alpine lilies, martagon lilies, gold-cushion primroses and
+      milkvetches. The tulip survives because since 1996 a local association has maintained traditional rye
+      cultivation, ensuring its strict protection. To the south, on gneiss bedrock, extensive stands of
+      alpenrose and Swiss willow carpet the tree line. In the protected mire of the Albrun Pass thrive bog
+      cottongrasses, least rush and two arctic relict rushes. The Binntal flora also features plumeless
+      knapweed, yellow rockrose and the stemless milkvetch, a rare speciality.
+
+
+      Wildlife follows its own rhythm. In spring, emerging from hibernation, the asp viper is highly active,
+      basking in the sun; the Binntal is a known stronghold. The apollo butterfly, extinct or declining in
+      other European countries, is still regularly seen across dry south-facing slopes. Crag martins are
+      widespread and nest in mountain villages: in Heiligkreuz and neighbouring hamlets, under eaves and
+      overhangs.
+
+
+      Large mammals roam widely. [chamois](/especie/rupicapra_rupicapra/) are adept climbers, seeking steep
+      crags for refuge, especially when tending kids; males only join female herds during the late autumn rut
+      in November and December. A telemetry study revealed that nearly all [red
+      deer](/especie/cervus_elaphus/) winter in the Binntal and migrate across the Albrun Pass into Italy each
+      spring, returning in November and December. Consequently, relatively few are seen in summer during the
+      rutting season.
+    visit: >-
+      To grasp the geology, start with the geological theme trail between Fäld and the Lengenbach mine: eleven
+      stations, 1.25 km, 150 m of ascent and about 30 minutes of walking. To explore further, the park runs
+      guided mineral excursions led by a local crystal hunter (Strahler), alongside tours with regional
+      experts on geology, flora, animal tracks and bird habitats. A botanical walk explores larch pastures
+      shaped by centuries of traditional grazing.
+
+
+      The trail network is color-coded across three difficulty tiers; alpine blue trails cross trackless
+      scree, snowfields, glaciers and exposed scrambling terrain. A 7.92 km circular walk taking 2 h 32 min
+      departs from Ausserbinn, with side trips to the Binna gorge and Roman bridge. The long trek from Binn to
+      the Leng valley traverses Wilere and Heiligkreuz, crossing three torrents and taking 7 h 30 min (20.50
+      km). Further thematic paths introduce notable trees, such as a 4.88 km route taking 1 h 30 min around
+      Ernen.
+
+
+      The regional museum in Binn presents displays of minerals, traditional farming implements, craft history
+      and archaeological findings.
+    history: >-
+      Minerals originally drew travellers here: in the nineteenth century, British visitors first discovered
+      the valley, and in 1883 the historic Hotel Ofenhorn opened. Yet the defining historical artery is older:
+      the historic mule track over the Albrun Pass, at 2,409 m, served as a primary transalpine trade route
+      already in the Iron Age.
+
+
+      Conservation came early. In 1964 the municipality of Binn, Pro Natura Valais and the Swiss Alpine Club
+      signed a pioneering protection agreement for the Binntal, renouncing major hydroelectric expansion,
+      holiday home development and intrusive tourist infrastructure. The area achieved official regional
+      nature park status in 2011. In 2025 the Canton of Valais recognized traditional mineral collecting and
+      study as a living tradition and intangible cultural heritage. The Lengenbach quarry continues to operate
+      exclusively for scientific research.
+    before: >-
+      Within the park you must not pick plants, keep disturbance to wildlife minimal, carry out all waste and
+      refrain from camping. Livestock, wildlife, livestock guarding dogs and visitors share this alpine
+      terrain: when encountering a guard dog, do not run, never turn your back or look it in the eye, and
+      dismount from bicycles. Bringing domestic dogs near herds is strongly discouraged; if accompanying you,
+      keep them strictly leashed.
+    around: >-
+      The [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) lies about two kilometres
+      away, and [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) roughly
+      twenty-one kilometres distant. The [Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) partially
+      overlaps with this territory.
+  fr:
+    intro: >-
+      Dans le Binntal, les cristaux se recherchent avec autant de patience que l'on contemple les fleurs
+      alpines. Cette vallée du Valais est réputée pour ses minéraux, mais constitue également un haut lieu de
+      la flore et un sanctuaire pour une faune abondante. Dans le Binntal et les gisements voisins, plus de
+      trois cents espèces minérales ont été identifiées. La vallée est enchâssée dans un parc naturel régional
+      qui s'élève depuis environ 1000 m jusqu'aux neiges éternelles du Helsenhorn, culminant à 3 272 m.
+    landscape: >-
+      La vallée se caractérise par ses contrastes saisissants. Les versants rocheux et arides de l'adret
+      s'opposent aux pentes boisées et fraîches de l'ubac. La topographie est d'une grande richesse : des
+      vallons orientés dans toutes les directions depuis 900 m, dominés par des cimes atteignant 3 250 m,
+      franchis par des cols ouvrant sur des domaines floristiques variés. On y observe des bas-marais, des
+      pelouses sèches, des pessières, des alpages, des marges glaciaires, des pinèdes, des lacs d'altitude,
+      des steppes rocheuses et des plaines alluviales alpines.
+
+
+      Sous les pas, la roche raconte son épopée. Le Lengenbach est un vallon latéral escarpé s'élevant
+      derrière le hameau de Fäld, mettant au jour une bande de marbre dolomitique blanc d'environ 300 m
+      d'épaisseur. Dans ces sédiments déposés il y a quelque 240 millions d'années se sont concentrés des
+      minerais de fer, de plomb, de zinc et d'autres métaux, métamorphisés de façon singulière par l'orogenèse
+      alpine. C'est de là qu'ont jailli des espèces minérales rarissimes. Cinquante-six minéraux ont le
+      Binntal pour localité type.
+    wildlife: >-
+      La flore s'éveille avec éclat dès les premiers beaux jours. En mai fleurit la tulipe de Grengiols,
+      strictement endémique, et le début de l'été voit éclore une marée de lys des Alpes, de lys martagon, de
+      primevères auricules et d'astragales. La tulipe subsiste grâce à la reprise depuis 1996 de la culture
+      traditionnelle du seigle par des passionnés, assurant sa sauvegarde intégrale. Au sud, sur gneiss,
+      d'immenses landes de rhododendrons et de saule suisse soulignent la limite des arbres. Dans le marais
+      protégé du col d'Albrun poussent des linaigrettes, le jonc nain et deux joncs relictes arctiques. La
+      flore compte aussi la centaurée plumeuse, l'hélianthème jaune et l'astragale sans tige, rareté
+      remarquable.
+
+
+      La faune s'accorde à ce calendrier montagnard. Au printemps, au sortir de l'hivernage, la vipère aspic
+      s'active pour s'échauffer au soleil, le Binntal représentant l'un de ses bastions. Le papillon apollon,
+      disparu ou en déclin dans d'autres pays européens, se rencontre encore fréquemment sur les pentes
+      sèches. L'hirondelle de rochers est très commune et colonise les villages : à Heiligkreuz et ailleurs,
+      elle installe ses nids sous les avant-toits.
+
+
+      Les grands ongulés accomplissent d'amples déplacements. Les [chamois](/especie/rupicapra_rupicapra/)
+      arpentent les couloirs escarpés pour se prémunir des dangers, particulièrement avec leurs cabris ; les
+      mâles ne rejoignent les hardes qu'au moment du rut en novembre et décembre. Un suivi scientifique a
+      révélé que la quasi-totalité des [cerfs élaphes](/especie/cervus_elaphus/) hivernent dans le Binntal
+      puis franchissent le col d'Albrun au printemps vers l'Italie, pour ne revenir qu'en novembre et
+      décembre. C'est pourquoi on en aperçoit peu en été durant le brame.
+    visit: >-
+      Pour appréhender la richesse minéralogique, débutez par le sentier géologique reliant Fäld à la carrière
+      de Lengenbach : onze stations d'observation, 1,25 km, 150 m de dénivelé et environ 30 minutes de marche.
+      Pour approfondir, le parc propose des excursions minéralogiques en compagnie d'un cristallier (Strahler)
+      de la vallée, ainsi que des sorties avec des spécialistes locaux dédiées à la flore, aux traces
+      d'animaux et aux oiseaux. Un sentier botanique sillonne les pâturages boisés de mélèzes façonnés par le
+      pastoralisme.
+
+
+      Le réseau de randonnée obéit à trois niveaux de difficulté ; les itinéraires alpins bleus requièrent de
+      naviguer hors sentier, sur neige, névés, éboulis et passages rocheux. Une boucle de 7,92 km et 2 h 32
+      min part d'Ausserbinn, avec un détour par les gorges de la Binna et le pont romain. La grande traversée
+      de Binn vers la vallée de Leng passe par Wilere et Heiligkreuz, franchit trois torrents et demande 7 h
+      30 min (20,50 km). D'autres sentiers thématiques explorent les arbres remarquables, notamment un
+      parcours de 4,88 km et 1 h 30 min autour d'Ernen.
+
+
+      Le musée régional de Binn rassemble une collection minéralogique, des outils agricoles traditionnels,
+      des témoignages artisanaux et un fonds archéologique.
+    history: >-
+      Les cristaux attirèrent très tôt les voyageurs : au XIXe siècle, les voyageurs britanniques découvrirent
+      la vallée, et en 1883 ouvrit l'hôtel historique Ofenhorn. Mais l'axe patrimonial majeur est plus ancien
+      : le chemin muletier du col d'Albrun, à 2 409 m, représentait déjà une route commerciale transalpine à
+      l'âge du fer.
+
+
+      La protection intervint de bonne heure. En 1964, la commune de Binn, Pro Natura Valais et le Club Alpin
+      Suisse scellèrent une convention pionnière pour le Binntal, renonçant aux grands barrages
+      hydroélectriques, aux résidences secondaires et au tourisme de masse. Le parc a obtenu en 2011 sa
+      labellisation définitive de parc naturel régional. En 2025, le canton du Valais a reconnu la recherche
+      et l'étude des minéraux comme tradition vivante et patrimoine culturel immatériel. La carrière de
+      Lengenbach continue d'être exploitée à des fins de recherche scientifique.
+    before: >-
+      Dans le parc, la cueillette de plantes est proscrite, le dérangement des animaux doit être évité, tout
+      déchet doit être redescendu et le bivouac est interdit. Bétail, faune sauvage, chiens de protection et
+      randonneurs cohabitent : face à un chien de berger, ne courez pas, ne lui tournez pas le dos, évitez de
+      le fixer dans les yeux et descendez de vélo. La présence de chiens domestiques est déconseillée près des
+      troupeaux ; le cas échéant, tenez-les strictement en laisse.
+    around: >-
+      Le [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) se situe à environ deux
+      kilomètres, et le [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) à environ
+      vingt-et-un kilomètres. L'[Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) recoupe partiellement
+      ce périmètre.
+  de:
+    intro: >-
+      Im Binntal werden Kristalle mit derselben Geduld gesucht, mit der alpine Blumen betrachtet werden.
+      Dieses Walliser Hochtal ist berühmt für seine Mineralien, bildet zugleich aber einen floralen Hotspot
+      und einen Lebensraum reichhaltiger Wildtiere. Im Binntal und benachbarten Lagerstätten wurden mehr als
+      dreihundert Mineralienarten nachgewiesen. Über das Tal erstreckt sich ein regionaler Naturpark, der von
+      etwa 1000 m bis zu den ewigen Schneefeldern des Helsenhorns auf 3 272 m reicht.
+    landscape: >-
+      Das Tal lebt von seinen Gegensätzen. Die trockenen, felsigen Hänge der Sonnenseite stehen in starkem
+      Kontrast zu den feuchten Wäldern der Schattseite. Die Topografie ist außerordentlich vielgestaltig:
+      Täler in alle Himmelsrichtungen ab 900 m, überragt von Bergen bis 3 250 m, mit Passübergängen in ganz
+      unterschiedliche Vegetationszonen. Es gibt Flachmoore, Trockenwiesen, Fichtenwälder, Alpweiden,
+      Gletschervorfelder, Föhrenwälder, Bergseen, Felsensteppen und alpine Auen.
+
+
+      Unter den Sohlen erzählt das Gestein Geschichte. Der Lengenbach ist ein steiles Seitental oberhalb des
+      Weilers Fäld und legt ein etwa 300 m breites Band weißen Dolomitmarmors frei. In diesen vor rund 240
+      Millionen Jahren abgelagerten Gesteinen bildeten sich Erze aus Eisen, Blei, Zink und weiteren Metallen,
+      die bei der Alpenbildung auf ganz besondere Weise umgewandelt wurden. Daraus gingen exotische und
+      seltene Mineralien hervor. Sechsundfünfzig Mineralien besitzen das Binntal als Typlokalität.
+    wildlife: >-
+      Die Flora entfaltet sich schlagartig mit dem Frühsommer. Im Mai blüht die nur hier vorkommende
+      Grengiols-Tulpe, und im Frühsommer folgt ein Blütenmeer aus Alpenlilien, Türkenbund, Gold-Primeln und
+      Tragant. Die Tulpe überlebt, weil ein Verein seit 1996 den traditionellen Roggenanbau aufrechterhält;
+      sie steht unter strengem Schutz. Im Süden bedecken auf Gneis weite Bestände von Rostblättriger Alpenrose
+      und Schweizer Weide die Waldgrenze. Im geschützten Moor am Albrunpass gedeihen Schmalblättriges
+      Wollgras, die Zwerg-Binse und zwei arktische Reliktbinsen. Zur Binntaler Flora zählen zudem
+      Feder-Flockenblume, Gelbes Sonnenröschen und der seltene Stängellose Tragant.
+
+
+      Auch die Tierwelt hat ihren festen Jahreslauf. Im Frühjahr nach der Überwinterung ist die Aspisviper
+      besonders aktiv, um sich an der Sonne aufzuwärmen; das Binntal gilt als ihr Verbreitungsschwerpunkt. Der
+      Apollofalter, in vielen Teilen Europas verschwunden oder gefährdet, flattert regelmäßig an sonnigen
+      Trockenhängen. Die Felsenschwalbe ist weit verbreitet und brütet gern an Gebäuden: in Heiligkreuz und
+      Nachbardörfern unter den Dachvorsprüngen.
+
+
+      Die großen Huftiere wandern weit. [Gämsen](/especie/rupicapra_rupicapra/) klettern geschickt in steilen
+      Felswänden, um sich mit ihren Kitzen vor Feinden zu schützen; die Böcke stoßen erst zur herbstlichen
+      Brunft im November und Dezember zu den Weibchenrudeln. Eine Telemetriestudie ergab, dass fast alle
+      [Rothirsche](/especie/cervus_elaphus/) im Binntal überwintern, im Frühjahr über den Albrunpass nach
+      Italien ziehen und erst im November und Dezember zurückkehren. Daher sind sie im Sommer zur Brunftzeit
+      kaum im Tal anzutreffen.
+    visit: >-
+      Für den Einstieg in die Geologie empfiehlt sich der Gesteinslehrpfad zwischen Fäld und der Grube
+      Lengenbach: elf Stationen, 1,25 km, 150 m Höhendifferenz und rund 30 Minuten Gehzeit. Vertiefend bietet
+      der Park geführte Mineralientouren mit einem einheimischen Strahler sowie Exkursionen mit Fachleuten zu
+      Geologie, Flora, Tierspuren und Vogelwelten an. Eine botanische Wanderung führt durch die traditionell
+      beweideten Lärchenwiesen.
+
+
+      Das Wanderwegenetz unterscheidet drei farbcodierte Schwierigkeitsstufen; blaue Alpinwanderwege erfordern
+      Trittsicherheit in wegloser Moräne, Firn, Blockwerk und leichten Kletterstellen. Ein Rundweg von 7,92 km
+      und 2 h 32 min startet in Ausserbinn mit Abstechern zur Twingischlucht und Römerbrücke. Die ausgedehnte
+      Wanderung von Binn ins Lengtal führt über Wilere und Heiligkreuz, quert drei Wildbäche und dauert 7 h 30
+      min (20,50 km). Weitere Themenpfade erschließen markante Bäume, etwa ein Rundkurs von 4,88 km und 1 h 30
+      min um Ernen.
+
+
+      Das Regionalmuseum in Binn zeigt eine Mineralienausstellung, historische Landwirtschaftsgeräte,
+      Zeugnisse des Handwerks sowie archäologische Funde.
+    history: >-
+      Die Mineralien lockten früh Reisende an: Im neunzehnten Jahrhundert entdeckten vor allem britische
+      Touristen das Tal, und 1883 eröffnete das traditionsreiche Hotel Ofenhorn. Der bedeutendste historische
+      Verkehrsweg ist jedoch älter: Der alte Saumpfad über den Albrunpass auf 2 409 m bildete schon in der
+      Eisenzeit eine wichtige transalpine Verbindung.
+
+
+      Der Schutzgedanke griff früh. Im Jahr 1964 unterzeichneten die Gemeinde Binn, Pro Natura Wallis und der
+      Schweizer Alpen-Club einen wegweisenden Schutzvertrag für das Binntal, der auf Wasserkraftausbau,
+      Zweitwohnungen und Großtourismus verzichtete. 2011 erhielt der Park die definitive Anerkennung als
+      regionaler Naturpark. 2025 erhob der Kanton Wallis das Strahlen und die Mineralienforschung zur
+      lebendigen Tradition und zum immateriellen Kulturerbe. Die Grube Lengenbach wird bis heute für
+      wissenschaftliche Zwecke betrieben.
+    before: >-
+      Im Naturpark dürfen keine Pflanzen gepflückt werden; Wildtiere sind nicht zu stören, Abfälle mitzunehmen
+      und wildes Campieren ist untersagt. Weidevieh, Wild, Herdenschutzhunde und Wanderer teilen sich das
+      Gelände: Triffst du auf einen Herdenschutzhund, laufe nicht davon, wende ihm nicht den Rücken zu, schau
+      ihm nicht direkt in die Augen und steige vom Velo ab. Es wird abgeraten, eigene Hunde nahe an Herden
+      heranzuführen; falls unvermeidbar, nimm sie an die kurze Leine.
+    around: >-
+      Das [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) liegt rund zwei Kilometer
+      entfernt, und der [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) etwa
+      einundzwanzig Kilometer. Das [Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) überschneidet sich
+      teilweise mit diesem Raum.
+  it:
+    intro: >-
+      Nella Binntal i cristalli si cercano con la medesima pazienza con cui si contemplano i fiori alpini.
+      Questa valle del Vallese è celebre per i suoi minerali, ma costituisce pure un nodo cruciale per la
+      flora e un rifugio per una fauna ricca. Nella Binntal e nei giacimenti contigui sono state identificate
+      oltre trecento specie minerali. La valle è tutelata da un parco naturale regionale che sale da circa
+      1000 m sino ai ghiacci perenni dell'Helsenhorn, a 3 272 m.
+    landscape: >-
+      La valle vive di marcati contrasti. I versanti aridi e pietrosi dell'adret si contrappongono ai pendii
+      boscosi e umidi dell'ubac. La topografia è assai varia: diramazioni vallive in ogni direzione da quota
+      900 m, dominate da rilievi che toccano i 3 250 m, con valichi che conducono a distretti floristici
+      differenti. Vi si incontrano torbiere basse, prati secchi, peccete, pascoli alpini, fronti glaciali,
+      pinete, laghetti montani, steppe rupestri e piane alluvionali alpine.
+
+
+      Sotto gli scarponi la roccia svela la sua storia. La Lengenbach è una stretta valle laterale che sale
+      ripida alle spalle della frazione di Fäld, mostrando una fascia di marmo dolomitico bianco di circa 300
+      m. In questi sedimenti carbonatici depositatisi circa 240 milioni di anni fa si concentrarono minerali
+      di ferro, piombo, zinco e altri metalli, che l'orogenesi alpina ha metamorfosato in modo unico. Da quel
+      processo sono nati minerali rari ed esotici. Cinquantasei specie minerali hanno la Binntal quale
+      località tipo.
+    wildlife: >-
+      La flora esplode non appena giunge la bella stagione. A maggio fiorisce il tulipano di Grengiols,
+      esclusivo di questo territorio, cui segue a inizio estate una marea fiorita di gigli di San Giovanni,
+      gigli martagoni, primule orecchia d'orso e astragali. Il tulipano resiste poiché dal 1996 un gruppo di
+      appassionati porta avanti la coltivazione tradizionale della segale, garantendone la tutela assoluta.
+      Verso sud, su substrato gneissico, ampie distese di rododendri e salici svizzeri delineano il limite
+      della vegetazione arborea. Nella torbiera protetta del passo di Albrun vegetano eriofori, giunchi nani e
+      due giunchi relitti artici. Tra le specie della Binntal si annoverano la centaurea piumosa, l'eliantemo
+      giallo e il raro astragalo acaule.
+
+
+      Anche la fauna segue i propri ritmi stagionali. In primavera, al termine dell'inverno, la vipera comune
+      è molto attiva per riscaldarsi al sole, e la Binntal ne rappresenta un nucleo vitale. La farfalla
+      apollo, estinta o minacciata in vari paesi europei, volteggia tuttora regolarmente lungo i pendii
+      asciutti. Il rondone montano è assai comune e nidifica nei villaggi: a Heiligkreuz e negli altri borghi
+      edifica i nidi sotto i cornicioni.
+
+
+      I grandi mammiferi compiono ampi spostamenti. I [camosci](/especie/rupicapra_rupicapra/) affrontano
+      pareti scoscese per trovare rifugio, in particolare al seguito dei capretti; i maschi si uniscono ai
+      branchi femminili solo durante il periodo degli amori in novembre e dicembre. Uno studio scientifico ha
+      accertato che quasi tutti i [cervi](/especie/cervus_elaphus/) svernano nella Binntal per poi migrare in
+      primavera attraverso il passo di Albrun verso l'Italia, rientrando solo tra novembre e dicembre. Per
+      questo motivo in estate durante il bramito se ne avvistano pochissimi.
+    visit: >-
+      Per comprendere la geologia del luogo comincia dal sentiero tematico tra Fäld e la miniera di
+      Lengenbach: undici postazioni, 1,25 km, 150 m di dislivello e circa 30 minuti di cammino. Per
+      approfondire, il parco propone escursioni guidate con un cercatore di cristalli (Strahler) della valle,
+      oltre a uscite con specialisti locali dedicate a geologia, flora, tracce animali e avifauna. Un
+      itinerario botanico attraversa i pascoli alberati a larice modellati dalla transumanza.
+
+
+      La rete dei sentieri è contrassegnata da tre livelli di difficoltà; i sentieri alpini blu richiedono
+      orientamento su morene, pietraie, nevai e tratti di arrampicata facile. Un circuito di 7,92 km e 2 h 32
+      min parte da Ausserbinn, con deviazioni verso le gole della Binna e il ponte romano. La lunga traversata
+      da Binn alla valle di Leng tocca Wilere e Heiligkreuz, guada tre torrenti e richiede 7 h 30 min (20,50
+      km). Altri tracciati tematici valorizzano gli alberi monumentali, come il percorso di 4,88 km e 1 h 30
+      min nei dintorni di Ernen.
+
+
+      Il museo regionale di Binn accoglie una collezione di minerali, attrezzi della tradizione agricola,
+      testimonianze artigianali e una sezione archeologica.
+    history: >-
+      I minerali attrassero i primi viaggiatori: nel corso del XIX secolo i turisti inglesi scoprirono la
+      valle, e nel 1883 fu inaugurato l'albergo storico Ofenhorn. La direttrice storica più importante è
+      tuttavia un'altra: la mulattiera del passo di Albrun, a 2 409 m, costituiva un asse commerciale
+      transalpino primario già durante l'età del ferro.
+
+
+      La salvaguardia è scattata per tempo. Nel 1964 il comune di Binn, Pro Natura Valais e il Club Alpino
+      Svizzero siglarono uno storico accordo di tutela per la Binntal, rinunciando a nuovi invasi
+      idroelettrici, seconde case e insediamenti turistici impattanti. Nel 2011 il parco ha ottenuto la
+      qualifica definitiva di parco naturale regionale. Nel 2025 il Canton Vallese ha annoverato la ricerca e
+      lo studio dei minerali tra le tradizioni viventi e il patrimonio culturale immateriale. La miniera di
+      Lengenbach continua a operare per soli fini scientifici.
+    before: >-
+      All'interno del parco è severamente vietato raccogliere piante; occorre limitare il disturbo alla fauna,
+      riportare a valle i rifiuti e non campeggiare. Greggi, fauna selvatica, cani da pastore e visitatori
+      condividono gli stessi spazi: in presenza di un cane da protezione, non correre, non voltargli le
+      spalle, non fissarlo negli occhi e scendi dalla bicicletta. È sconsigliato condurre cani domestici in
+      prossimità delle greggi; qualora presenti, tienili rigorosamente al guinzaglio.
+    around: >-
+      Il [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) dista circa due chilometri,
+      e il [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) circa ventuno
+      chilometri. L'[Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) si sovrappone parzialmente a
+      questa zona.
+  pt:
+    intro: >-
+      No Binntal os cristais são procurados com a mesma paciência com que se contemplam as flores de montanha.
+      Este vale alpino de Valais é afamado pelos seus minerais, constituindo igualmente um núcleo floral de
+      excelência e um reduto de fauna riquíssima. No Binntal e nos jazigos vizinhos foram catalogadas mais de
+      trezentas espécies minerais. Sobre o vale estende-se um parque natural regional que vai desde cerca de
+      1000 m até às neves perpétuas, culminando no Helsenhorn a 3 272 m.
+    landscape: >-
+      O vale define-se pelos seus contrastes expressivos. As encostas secas e rochosas da vertente soalheira
+      contrastam vivamente com as vertentes arborizadas e húmidas da encosta sombria. A topografia é muito
+      heterogénea: vales que se ramificam em todas as direções a partir dos 900 m, dominados por picos de até
+      3 250 m, com passos de montanha que acedem a zonas florísticas distintas. Encontram-se turfeiras baixas,
+      pastagens secas, florestas de abeto-falso, prados alpinos, margens glaciares, pinhais, lagos de
+      altitude, estepes rochosas e planícies aluviais alpinas.
+
+
+      Sob os pés, a pedra relata a história. Lengenbach é um vale lateral alcantilado que sobe atrás do
+      povoado de Fäld, expondo uma faixa de mármore dolomítico branco com cerca de 300 m de espessura. Nessas
+      rochas, depositadas há cerca de 240 milhões de anos, concentraram-se jazigos de ferro, chumbo, zinco e
+      outros metais, metamorfoseados pela orogenia alpina de forma singular. Desse processo resultaram
+      minerais raros e invulgares. Cinquenta e seis minerais têm o Binntal como localidade-tipo.
+    wildlife: >-
+      A flora desperta com grande vigor logo que chegam os primeiros dias quentes. Em maio desabrocha a
+      tulipa-de-grengiols, estritamente endémica, e no início do verão surge um tapete florido de
+      lírios-dos-alpes, lírios-martagão, prímulas-aurículas e astrágalos. A tulipa sobrevive porque desde 1996
+      uma associação local mantém o cultivo tradicional do centeio, garantindo-lhe proteção rigorosa. A sul,
+      sobre rochas gnáissicas, vastas manchas de rododendro e salgueiro-suíço marcam o limite arbóreo. Na
+      turfeira protegida do passo de Albrun crescem espécimes de algodão-dos-pauis, o junco-anão e dois juncos
+      relíquias árcticos. A flora do Binntal integra ainda a centáurea-plumosa, o heliantemo-amarelo e o raro
+      astrágalo-sem-caule.
+
+
+      A fauna pauta-se pelo mesmo ritmo rigoroso. Na primavera, finda a hibernação, a víbora-áspide
+      encontra-se muito ativa para se aquecer ao sol, sendo o Binntal o seu principal reduto. A borboleta
+      apolo, extinta ou vulnerável noutros países europeus, voa com frequência pelas encostas soalheiras. A
+      andorinha-das-rochas é muito abundante e nidifica nos povoados: em Heiligkreuz e aldeias vizinhas,
+      constrói os ninhos sob os beirais dos telhados.
+
+
+      Os grandes ungulados percorrem longas distâncias. As [camurças](/especie/rupicapra_rupicapra/) trepam
+      escarpas abruptas em busca de refúgio, sobretudo quando acompanhadas por crias; os machos só se juntam
+      às manadas na época de acasalamento em novembro e dezembro. Uma investigação revelou que quase todos os
+      [veados-vermelhos](/especie/cervus_elaphus/) passam o inverno no Binntal e migram na primavera pelo
+      passo de Albrun para Itália, regressando apenas em novembro e dezembro. Por isso no verão e durante a
+      brama são raramente avistados.
+    visit: >-
+      Para compreender a mineralogia, começa pelo trilho geológico entre Fäld e a mina de Lengenbach: onze
+      pontos informativos, 1,25 km, 150 m de desnível e cerca de 30 minutos de marcha. Para aprofundar, o
+      parque organiza passeios de prospeção de minerais com um cristalheiro (Strahler) do vale, além de
+      percursos com especialistas locais sobre geologia, flora, rastos de animais e ornitologia. Um passeio
+      botânico descobre os prados de lariços modelados pelo pastoreio secular.
+
+
+      A rede de caminhos pedestres divide-se em três níveis de dificuldade assinalados por cores; os trilhos
+      alpinos, azuis, atravessam cascalheiras sem caminho, neve, glaciares e passos de escalada fácil. Um
+      percurso circular de 7,92 km e 2 h 32 min tem início em Ausserbinn, com derivações para as gargantas do
+      Binna e a ponte romana. A longa travessia de Binn até ao vale de Leng passa por Wilere e Heiligkreuz,
+      cruza três ribeiros e prolonga-se por 7 h 30 min (20,50 km). Outros caminhos temáticos mostram as
+      árvores mais notáveis, como um percurso de 4,88 km e 1 h 30 min ao redor de Ernen.
+
+
+      O museu regional de Binn reúne uma exposição de minerais, alfaias agrícolas tradicionais, artefactos de
+      artesanato e um acervo arqueológico.
+    history: >-
+      A busca de minerais atraiu os primeiros forasteiros: no século XIX, visitantes britânicos exploraram o
+      vale, e em 1883 abriu portas o histórico Hotel Ofenhorn. Contudo, o eixo histórico mais relevante é
+      outro: o antigo caminho de mulas pelo passo de Albrun, a 2 409 m, constituía uma via comercial
+      transalpina fulcral já na Idade do Ferro.
+
+
+      A proteção ambiental consolidou-se cedo. Em 1964 o município de Binn, a Pro Natura Valais e o Clube
+      Alpino Suíço firmaram um convénio pioneiro de salvaguarda do Binntal, abdicando de aproveitamentos
+      hidroelétricos, de segundas habitações e de complexos turísticos massificados. O parque obteve em 2011 o
+      reconhecimento definitivo como parque natural regional. Em 2025 o cantão de Valais declarou a recolha e
+      o estudo de minerais como tradição viva e património cultural imaterial. A mina de Lengenbach permanece
+      ativa unicamente para investigação científica.
+    before: >-
+      No parque é proibido colher plantas, devendo evitar-se perturbar a fauna, recolhendo todo o lixo e
+      abstendo-se de acampar. Gado, fauna selvagem, cães de proteção e visitantes partilham os mesmos pastos:
+      perante um cão de guarda de gado, não corras, não lhe voltes as costas nem o encares de frente, e
+      desmonta da bicicleta. Desaconselha-se levar cães de companhia para perto dos rebanhos; se os levares,
+      mantém-nos estritamente pela trela.
+    around: >-
+      O [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) situa-se a cerca de dois
+      quilómetros, e o [Parque Nacional de la Val Grande](/lugar/parco-nazionale-della-val-grande/) a cerca de
+      vinte e um quilómetros. O [Aletschgebiet](/lugar/aletschgebiet-unspoiled-sectors/) sobrepõe-se em parte
+      a esta região.
+fuentes:
+  - url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/mineralien--geologie/mineralien
+    titulo: Mineralien - Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aktivitaeten/veranstaltungen/offer-detail/von-der-alp-ins-dorf-pflanzenwelt-im-wechsel-52207
+    titulo: Von der Alp ins Dorf – Pflanzenwelt im Wechsel - Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aktivitaeten/gruppenangebote/parkguides
+    titulo: Individuelle Exkursion mit Parkguide - Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/flora--fauna/fauna
+    titulo: Fauna – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://de.wikipedia.org/wiki/Landschaftspark_Binntal
+    titulo: Landschaftspark Binntal – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/flora--fauna/einheimische-flora
+    titulo: Flora – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/mineralien--geologie/geologie
+    titulo: Geologie – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/landschaftspark-binntal/natur-landschaft/schutzgebiete
+    titulo: Schutzgebiete – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aufenthalt/infos-vor-ort/herdenschutz
+    titulo: Herdenschutz – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+  - url: https://www.landschaftspark-binntal.ch/de/entdecken-erleben/aktivitaeten/individuell-unterwegs/sommerwanderungen
+    titulo: Sommerwanderungen – Landschaftspark Binntal
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:WaB_Wanderung_0001.jpg
+    autor: Tnt66
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

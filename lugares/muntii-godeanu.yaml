@@ -1,0 +1,464 @@
+id: muntii-godeanu
+estado_editorial: valoracion-revisada
+nombre:
+  es: Montañas de Godeanu
+  en: Godeanu Mountains
+  fr: Montagnes de Godeanu
+  de: Godeanu-Gebirge
+  it: Monti di Godeanu
+  pt: Montanhas de Godeanu
+nombre_original: Munții Godeanu
+alias:
+  - Godeanu Mountains (Munții Godeanu)
+paises:
+  - RO
+region:
+  es: Județe de Caraș-Severin, Gorj y Mehedinți
+  en: Caraș-Severin, Gorj, and Mehedinți Counties
+  fr: Județe de Caraș-Severin, Gorj et Mehedinți
+  de: Kreise Caraș-Severin, Gorj und Mehedinți
+  it: Distretti di Caraș-Severin, Gorj e Mehedinți
+  pt: Distritos de Caraș-Severin, Gorj e Mehedinți
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.22
+  lon: 22.6
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Retezat
+  capa: capas/natura2000/muntii-godeanu.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - bison_bonasus
+  - ursus_arctos
+  - canis_lupus
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Administración forestal — Romsilva
+    url: https://www.rosilva.ro/
+  - titulo: Rutas — Godeanu y Retezatul Mic (Salvamont Hunedoara)
+    url: https://www.salvamonthd.ro/godeanu/
+resumen:
+  es: Macizo alpino sumamente aislado y salvaje que sirve de puente biológico entre Retezat y Domogled.
+  en: Exceptionally remote and wild alpine massif acting as a biological corridor between Retezat and Domogled.
+  fr: Massif alpin extrêmement sauvage et isolé servant de corridor biologique entre le Retezat et Domogled.
+  de: >-
+    Äußerst abgelegenes, wildes Hochgebirgsmassiv, das als biologische Brücke zwischen Retezat und Domogled
+    fungiert.
+  it: Massiccio alpino remoto e selvaggio che funge da corridoio biologico tra il Retezat e Domogled.
+  pt: Maciço alpino sumamente isolado e selvagem que funciona como corredor biológico entre Retezat e Domogled.
+unico:
+  es: >-
+    Una cresta alpina de suaves plataformas de erosión que enlaza Țarcu, Retezat y Cernei, y donde el turismo
+    consiste en recorrerla durante varios días.
+  en: >-
+    An alpine crest of undulating erosion plateaus linking Țarcu, Retezat, and Cernei, where trekking means
+    multiday wilderness ridge traverses.
+  fr: >-
+    Une crête alpine de hauts plateaux d'érosion reliant Țarcu, Retezat et Cernei, propice aux grandes
+    itinérances de plusieurs jours.
+  de: >-
+    Ein alpiner Gebirgskamm mit sanften Hochflächen, der Țarcu, Retezat und Cernei verbindet und sich für
+    mehrtägige Gratwanderungen eignet.
+  it: >-
+    Una cresta alpina di altipiani d'erosione che raccorda Țarcu, Retezat e Cernei, ideale per traversate
+    d'alta quota di più giorni.
+  pt: >-
+    Uma crista alpina de planaltos de erosão que liga Țarcu, Retezat e Cernei, propícia a travessias de crista
+    de vários dias.
+observaciones:
+  es: >-
+    En el distrito de Caraș-Severin el clima es continental moderado, con influencias submediterráneas. Las
+    rutas largas de cresta piden preparación: son travesías de varios días por altas plataformas. Ve entre
+    junio y octubre.
+texto:
+  es:
+    intro: >-
+      Imagina una cresta que corre de oeste a este, con pastos de altura a ambos lados y las huellas de los
+      glaciares en los flancos. Eso es Godeanu, una unidad de la parte occidental de los Cárpatos Meridionales
+      que, junto con Retezat, forma el nudo orográfico e hidrográfico de ese grupo montañoso. Ocupa unos 330
+      kilómetros cuadrados y sus alturas van de 1.600 a 2.200 metros; Gugu, con 2.291, es la cumbre más alta.
+    landscape: >-
+      Godeanu es un macizo asimétrico. Las laderas que dan a los valles del Lăpușnicul Mare y del Șes son
+      abruptas y rocosas, y resultan difíciles de subir. Entre las cumbres de más de dos mil metros están
+      Godeanu (2.229), Moraru (2.284), Scărișoara (2.245) y Gugu (2.291). La plataforma de erosión Borăscu, en
+      torno a los 2.000-2.200 metros, aplana la cresta principal, y en el monte Borăscu la estructura alpina
+      es de una horizontalidad notable.
+
+
+      Los glaciares cuaternarios actuaron sobre todo en las laderas norte; el más largo, en el valle de
+      Cernea, llegó a cuatro kilómetros en su fase máxima. Quedaron circos glaciares, valles con umbrales,
+      cubetas lacustres y morrenas, y el paisaje combina superficies de nivelación con huellas glaciares, al
+      contrario que el vecino Retezat. Los lagos glaciares son pocos; los principales son el Godeanu y el
+      Scărișoara. Geológicamente es un macizo del manto Getic, de esquistos cristalinos, con calizas jurásicas
+      en los bordes.
+
+
+      Los ríos del macizo vierten a cuatro cuencas: el Cerna al sur y suroeste, el Râul Rece hacia el Timiș al
+      noroeste, el Jiu de Oeste al este y el Lăpușnicul Mare-Râul Mare al norte. Aquí las precipitaciones
+      aumentan con la altitud y alcanzan 1.400 milímetros en Țarcu y Godeanu.
+    wildlife: >-
+      Los pastos alpinos de las cumbres se usan para criar ovejas, y esa tradición dejó muchas majadas,
+      algunas muy elaboradas, aunque hoy el pastoreo retrocede. Es la huella humana más visible de estos
+      montes.
+
+
+      Godeanu es uno de los macizos menos visitados de Rumanía, con extensas mesetas alpinas, grandes
+      pastizales y bosques continuos, y está conectado con los macizos contiguos de Țarcu, Retezat y Cernei.
+      La época para ir es de junio a octubre.
+    visit: >-
+      El turismo en Godeanu consiste en recorrer la cresta principal en varios días. Una ruta de Salvamont
+      Hunedoara recorre la cresta desde el lago Gura Apei por la loma Branu y su refugio, las cumbres Gugu y
+      Moraru, la collada Mâțului y Piatra Scărișoarei. La administración del Parque Nacional Retezat
+      recomienda además la ruta que va de Lăpușnicul Mic al refugio Gugu y a la cumbre Gugu, y regresa por el
+      mismo camino, y remite al sitio de Salvamont Hunedoara para las rutas completas de Retezat, Retezatul
+      Mic y Godeanu.
+    history: >-
+      Godeanu se sitúa en el grupo Retezat-Godeanu, delimitado al este por el Jiu y al oeste por el corredor
+      Timiș-Cerna. Al este conecta con Piule-Iorgovanu y, por él, con Retezat; al oeste y noroeste con Țarcu
+      por Prislop-Corhale, y al suroeste la cresta continúa en los montes Cernei.
+    before: >-
+      En el distrito de Caraș-Severin el clima es continental moderado, con influencias submediterráneas. Las
+      rutas largas de cresta piden preparación: son travesías de varios días por altas plataformas. Ve entre
+      junio y octubre.
+    around: >-
+      Junto a Godeanu, a un kilómetro, está el [Parque Nacional Domogled - Valle del
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A dieciséis kilómetros quedan las [Montañas de
+      Șureanu](/lugar/muntii-sureanu/) y el [Rewilding Meseta de
+      Mehedinți](/lugar/rewilding-mehedinti-plateau/); a veintidós, la [Garganta de
+      Sohodol](/lugar/cheile-sohodolului/), y a veintiséis, el [Parque Nacional Desfiladero del Jiu - Bosque
+      Primario](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+  en:
+    intro: >-
+      Imagine an alpine crest tracking west to east, flanked on both sides by high pastures and scarred along
+      its flanks by ancient glacial cirques. That is Godeanu, an expansive mountain unit in the western sector
+      of the Southern Carpathians that, alongside Retezat, forms the orographic and hydrological hinge of this
+      entire mountain province. It spans roughly 330 square kilometres, with crest elevations ranging between
+      1,600 and 2,200 metres, culminating at Mount Gugu at 2,291 metres.
+    landscape: >-
+      Godeanu is an asymmetrical massif. The slopes plunging into the deep valleys of Lăpușnicul Mare and Șes
+      are rugged, rocky, and notoriously taxing to climb. Among the peaks rising past two thousand metres
+      stand Godeanu (2,229), Moraru (2,284), Scărișoara (2,245), and Gugu (2,291). The Borăscu erosion
+      surface, undulating around 2,000-2,200 metres elevation, bevels the main crest, and on Mount Borăscu the
+      high alpine topography exhibits a strikingly horizontal plateau profile.
+
+
+      Quaternary valley glaciers sculpted primarily the northern flanks; the longest, filling the Cernea
+      valley, reached four kilometres at its maximum extent. They carved glacial cirques, stepped hanging
+      valleys, tarn basins, and lateral moraines, leaving a distinctive landscape combining smooth planation
+      surfaces with sharp glacial scars, in marked contrast to the craggy Retezat. Glacial tarns are few; the
+      principal lakes are Lake Godeanu and Lake Scărișoara. Geologically the massif belongs to the Getic Nappe
+      of crystalline schists, flanked along its margins by Jurassic limestones.
+
+
+      Runoff from the massif feeds four distinct drainage basins: the Cerna to the south and southwest, the
+      Râul Rece toward the Timiș to the northwest, the Western Jiu to the east, and the Lăpușnicul Mare-Râul
+      Mare system to the north. Precipitation increases sharply with altitude, reaching 1,400 millimetres
+      annually across Țarcu and Godeanu.
+    wildlife: >-
+      The high alpine meadows along the crests have supported sheep grazing for centuries, leaving behind
+      numerous traditional shepherd folds, some remarkably elaborate in stone and timber, though pastoralism
+      is steadily waning today. These pastoral settlements represent the only visible human imprint across
+      these heights.
+
+
+      Godeanu ranks among Romania's least visited massifs, characterized by sweeping alpine plateaus, vast
+      wilderness grasslands, and uninterrupted forest belts, seamlessly connected to the adjoining ranges of
+      Țarcu, Retezat, and Cernei. The optimal hiking season runs from June to October.
+    visit: >-
+      Trekking in Godeanu typically entails traversing the main ridge over several days. A route maintained by
+      Salvamont Hunedoara traces the crest from Lake Gura Apei via the Branu ridge and its refuge, Mount Gugu,
+      Mount Moraru, Curmătura Mâțului, and Piatra Scărișoarei. The administration of Retezat National Park
+      also recommends the trail connecting Lăpușnicul Mic to the Gugu refuge and Mount Gugu summit, returning
+      via the same itinerary, referring hikers to Salvamont Hunedoara for complete route details across
+      Retezat, Retezatul Mic, and Godeanu.
+    history: >-
+      Godeanu belongs to the Retezat-Godeanu mountain group, bounded to the east by the Jiu corridor and to
+      the west by the Timiș-Cerna fault trough. To the east it connects with the limestone ridge of
+      Piule-Iorgovanu and thereby with Retezat; to the west and northwest it links to Țarcu via the
+      Prislop-Corhale saddle, while to the southwest the crest continues into the Cernei Mountains.
+    before: >-
+      In Caraș-Severin County, the mountain climate is temperate continental with sub-Mediterranean
+      influences. Long ridge routes demand thorough alpine preparation: these are multiday self-sufficient
+      treks across high exposed plateaus. Visit between June and October.
+    around: >-
+      Just one kilometre away borders [Domogled-Valea Cernei National
+      Park](/lugar/parcul-national-domogled---valea-cernei/). Sixteen kilometres away sit the [Șureanu
+      Mountains](/lugar/muntii-sureanu/) and the [Rewilding Mehedinți
+      Plateau](/lugar/rewilding-mehedinti-plateau/); twenty-two kilometres away lies the [Sohodol
+      Gorge](/lugar/cheile-sohodolului/), and twenty-six kilometres distant extends [Jiu Defile National Park
+      – Ancient Beech Forest](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+  fr:
+    intro: >-
+      Imaginez une crête s'étirant d'ouest en est, flanquée d'alpages d'altitude et marquée sur ses versants
+      par l'empreinte des anciens glaciers. Voilà le Godeanu, une unité occidentale des Carpates méridionales
+      qui forme, avec le Retezat, le nœud orographique et hydrographique de cet ensemble montagneux. Il couvre
+      environ 330 kilomètres carrés avec des altitudes comprises entre 1 600 et 2 200 mètres, le mont Gugu
+      culminant à 2 291 mètres.
+    landscape: >-
+      Le Godeanu est un massif asymétrique. Les versants plongeant vers les vallées du Lăpușnicul Mare et du
+      Șes sont abrupts, rocheux et difficiles d'accès. Parmi les sommets dépassant deux mille mètres figurent
+      le Godeanu (2 229), le Moraru (2 284), la Scărișoara (2 245) et le Gugu (2 291). La surface d'érosion de
+      Borăscu, vers 2 000-2 200 mètres d'altitude, aplanit la crête principale, conférant au mont Borăscu une
+      horizontalité remarquable.
+
+
+      Les glaciers quaternaires ont façonné les versants nord ; le plus étendu, dans la vallée de Cernea,
+      atteignit quatre kilomètres au maximum de la glaciation. Ils ont creusé cirques glaciaires, vallées
+      suspendues, verrous rocheux et moraines, associant surfaces d'aplanissement et modelé glaciaire, à la
+      différence du Retezat voisin plus déchiqueté. Les lacs d'altitude sont rares, les principaux étant le
+      lac Godeanu et le lac Scărișoara. Géologiquement, le massif relève de la nappe gétique de schistes
+      cristallins, ceinturée de calcaires jurassiques.
+
+
+      Les cours d'eau se partagent entre quatre bassins versants : la Cerna au sud et sud-ouest, le Râul Rece
+      vers le Timiș au nord-ouest, le Jiu occidental à l'est et le Lăpușnicul Mare-Râul Mare au nord. Les
+      précipitations croissent avec la hauteur pour atteindre 1 400 millimètres sur le Țarcu et le Godeanu.
+    wildlife: >-
+      Les pelouses alpines des crêtes servent depuis des siècles au pâturage ovin, ayant laissé de nombreuses
+      bergeries de pierre traditionnelles, bien que le pastoralisme recule aujourd'hui. C'est l'empreinte
+      humaine la plus visible de ces solitudes.
+
+
+      Le Godeanu est l'un des massifs les moins fréquentés de Roumanie, caractérisé par d'immenses plateaux
+      d'altitude, de vastes pâturages et de profondes forêts continues, connecté aux massifs voisins de Țarcu,
+      Retezat et Cernei. La période idéale pour y marcher s'étend de juin à octobre.
+    visit: >-
+      La découverte du Godeanu consiste à suivre la crête principale en randonnée itinérante sur plusieurs
+      jours. Un itinéraire balisé par Salvamont Hunedoara parcourt la ligne de crête depuis le lac de Gura
+      Apei via la croupe de Branu et son abri, le mont Gugu, le mont Moraru, le col Curmătura Mâțului et
+      Piatra Scărișoarei. Le parc national Retezat conseille également le sentier reliant Lăpușnicul Mic au
+      refuge de Gugu et au sommet du Gugu en aller-retour, renvoyant au Salvamont pour les traversées
+      intégrales.
+    history: >-
+      Le Godeanu s'inscrit dans l'ensemble montagneux Retezat-Godeanu, encadré à l'est par le couloir du Jiu
+      et à l'ouest par le sillon Timiș-Cerna. Vers l'est, il se raccorde au massif calcaire de Piule-Iorgovanu
+      et au Retezat ; à l'ouest et au nord-ouest, il rejoint le Țarcu par le col de Prislop-Corhale, tandis
+      qu'au sud-ouest la crête se prolonge dans les monts Cernei.
+    before: >-
+      Dans le județ de Caraș-Severin, le climat montagnard subit des influences subméditerranéennes. Les
+      longues traversées de crête réclament une solide préparation alpine en totale autonomie. Randonnez de
+      juin à octobre.
+    around: >-
+      À un kilomètre seulement commence le [parc national Domogled - vallée de la
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). À seize kilomètres se situent les [montagnes de
+      Șureanu](/lugar/muntii-sureanu/) et le [plateau réensauvagé de
+      Mehedinți](/lugar/rewilding-mehedinti-plateau/) ; à vingt-deux kilomètres les [gorges de
+      Sohodol](/lugar/cheile-sohodolului/) et à vingt-six le [parc national des gorges du
+      Jiu](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+  de:
+    intro: >-
+      Stell dir einen mächtigen Gebirgskamm vor, der von West nach Ost zieht, beiderseits von Hochalmen
+      gesäumt und an den Flanken von eiszeitlichen Karen geprägt. Das ist das Godeanu-Gebirge, eine
+      Gebirgsgruppe im Westteil der Südkarpaten, die zusammen mit dem Retezat den orographischen Knotenpunkt
+      dieses Gebirgszugs bildet. Es umfasst rund 330 Quadratkilometer Fläche mit Höhenlagen zwischen 1.600 und
+      2.200 Metern; der Gugu ist mit 2.291 Metern der höchste Gipfel.
+    landscape: >-
+      Das Godeanu-Gebirge ist ein asymmetrisches Massiv. Die Steilhänge zu den Tälern Lăpușnicul Mare und Șes
+      fallen schroff und felsig ab und sind mühsam zu ersteigen. Unter den Gipfeln jenseits der zweitausend
+      Meter ragen Godeanu (2.229), Moraru (2.284), Scărișoara (2.245) und Gugu (2.291) auf. Die Rumpffläche
+      Borăscu ebnet den Hauptkamm auf rund 2.000-2.200 Metern Höhe ein, sodass der Berg Borăscu eine
+      bemerkenswerte horizontale Hochflächenstruktur zeigt.
+
+
+      Eiszeitliche Gletscher wirkten vor allem an den Nordhängen; der längste im Cernea-Tal erreichte in
+      seiner Hochphase vier Kilometer Länge. Sie hinterließen Kare, Hängetäler, Felsriegel und Moränen, sodass
+      die Landschaft Rumpfflächen mit glazialen Formen verbindet – ganz im Gegensatz zum schroffen Retezat.
+      Karseen sind selten; die bedeutendsten sind der Godeanu- und der Scărișoara-See. Geologisch gehört das
+      Massiv zur Getischen Decke aus kristallinen Schiefern mit jurassischen Kalken an den Rändern.
+
+
+      Die Flüsse des Gebirges entwässern in vier Einzugsgebiete: die Cerna nach Süden, der Râul Rece zur Timiș
+      nach Nordwesten, der Westliche Schil nach Osten und das Lăpușnicul-Mare-System nach Norden. Die
+      Niederschläge steigen mit der Höhe und erreichen 1.400 Millimeter in Țarcu und Godeanu.
+    wildlife: >-
+      Die Hochweiden der Kämme werden seit Jahrhunderten für die Schafzucht genutzt, wovon traditionelle
+      steinerne Schafhürden zeugen, auch wenn die Wanderschäferei heute rückläufig ist. Es sind die einzigen
+      menschlichen Spuren in dieser Abgeschiedenheit.
+
+
+      Das Godeanu-Gebirge ist eines der am wenigsten begangenen Gebirge Rumäniens mit weiten alpinen
+      Hochebenen, Bergmatten und geschlossenen Bergwäldern, nahtlos verbunden mit Țarcu, Retezat und Cernei.
+      Die beste Wanderzeit reicht von Juni bis Oktober.
+    visit: >-
+      Bergtouren im Godeanu-Gebirge bedeuten mehrtägige Wanderungen über den Hauptkamm. Eine von Salvamont
+      Hunedoara markierte Route folgt dem Grat ab dem Gura-Apei-See über den Branu-Rücken, die Schutzhütte,
+      den Gugu, den Moraru und die Piatra Scărișoarei. Die Nationalparkverwaltung Retezat empfiehlt zudem den
+      Weg von Lăpușnicul Mic zur Gugu-Hütte und zum Gipfel als Hin- und Rückweg und verweist auf Salvamont für
+      Weitwanderungen.
+    history: >-
+      Das Godeanu-Gebirge liegt in der Retezat-Godeanu-Gruppe, im Osten durch das Schiltal und im Westen durch
+      die Timiș-Cerna-Furche begrenzt. Nach Osten schließt es über den Piule-Iorgovanu-Kalkkamm an den Retezat
+      an, nach Nordwesten über den Prislop-Corhale-Sattel an das Țarcu-Gebirge, während sich der Grat nach
+      Südwesten in die Cernei-Berge fortsetzt.
+    before: >-
+      Im Kreis Caraș-Severin herrscht gemäßigtes Kontinentalklima mit submediterranen Einflüssen. Die langen
+      Gratüberschreitungen erfordern alpine Erfahrung und vollständige Autarkie. Reise zwischen Juni und
+      Oktober.
+    around: >-
+      Nur einen Kilometer entfernt liegt der [Nationalpark Domogled -
+      Cerna-Tal](/lugar/parcul-national-domogled---valea-cernei/). Sechzehn Kilometer entfernt erheben sich
+      das [Șureanu-Gebirge](/lugar/muntii-sureanu/) und die
+      [Mehedinți-Hochebene](/lugar/rewilding-mehedinti-plateau/); zweiundzwanzig Kilometer weit ist die
+      [Sohodol-Klamm](/lugar/cheile-sohodolului/) und sechsundzwanzig der [Nationalpark
+      Schil-Durchbruch](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+  it:
+    intro: >-
+      Immagina una cresta che corre da ovest a est, orlata da pascoli d'altitudine e intagliata sulle pendici
+      da antichi circhi glaciali. Sono i monti di Godeanu, una catena dei Carpazi Meridionali occidentali che
+      forma con il Retezat il nodo orografico e idrografico primario del settore. Copre circa 330 chilometri
+      quadrati con quote comprese tra 1.600 e 2.200 metri; la vetta più alta è il monte Gugu a 2.291 metri.
+    landscape: >-
+      Il Godeanu è un massiccio asimmetrico. I versanti che precipitano verso le valli di Lăpușnicul Mare e
+      dello Șes sono dirupati, rocciosi e faticosi da risalire. Tra le vette che superano i duemila metri
+      spiccano Godeanu (2.229), Moraru (2.284), Scărișoara (2.245) e Gugu (2.291). La piattaforma d'erosione
+      Borăscu, a circa 2.000-2.200 metri di quota, spiana il crinale principale, donando al monte Borăscu un
+      profilo orizzontale insolito.
+
+
+      I ghiacciai quaternari hanno agito soprattutto sui versanti settentrionali; il più lungo, nella valle di
+      Cernea, raggiunse quattro chilometri nella fase culmine. Hanno lasciato circhi, gradini vallivi, conche
+      lacustri e morene, combinando superfici di spianamento e tracce glaciali, a differenza del vicino e
+      tormentato Retezat. I laghetti alpini sono scarsi, tra cui risaltano il lago Godeanu e il lago
+      Scărișoara. Geologicamente appartiene alla falda getica di scisti cristallini con calcari giurassici ai
+      margini.
+
+
+      I corsi d'acqua alimentano quattro bacini: la Cerna a sud, il Râul Rece verso il Timiș a nord-ovest, il
+      Jiu occidentale a est e il sistema del Lăpușnicul Mare a nord. Le piogge aumentano con la quota toccando
+      1.400 millimetri tra Țarcu e Godeanu.
+    wildlife: >-
+      I pascoli alpini sommitali ospitano da secoli greggi di pecore, lasciando caratteristiche baite in
+      pietra tradizionali, benché la pastorizia sia oggi in calo. Rappresentano la sola traccia umana in
+      questo comprensorio.
+
+
+      Il Godeanu è uno dei massicci meno frequentati della Romania, con altopiani solitari, vaste praterie e
+      foreste indisturbate, contiguo ai massicci di Țarcu, Retezat e Cernei. Il periodo ideale per il trekking
+      va da giugno a ottobre.
+    visit: >-
+      Il trekking nel Godeanu consiste nel percorrere la cresta principale per più giorni. Un itinerario
+      tracciato da Salvamont Hunedoara segue il crinale dal lago Gura Apei attraverso la dorsale di Branu e il
+      suo bivacco, il monte Gugu, il monte Moraru e la Piatra Scărișoarei. L'ente del Parco nazionale Retezat
+      consiglia anche l'ascesa da Lăpușnicul Mic al rifugio Gugu e alla cima del Gugu in andata e ritorno,
+      rimandando a Salvamont per le traversate complete.
+    history: >-
+      Il Godeanu appartiene al gruppo Retezat-Godeanu, chiuso a est dalla valle del Jiu e a ovest dal solco
+      Timiș-Cerna. A est si salda al contrafforte calcareo di Piule-Iorgovanu e quindi al Retezat; a
+      nord-ovest si unisce al Țarcu tramite il valico di Prislop-Corhale, mentre a sud-ovest la cresta
+      prosegue nei monti Cernei.
+    before: >-
+      Nel distretto di Caraș-Severin il clima montano presenta influssi submediterranei. Le traversate di
+      cresta richiedono esperienza alpina e autosufficienza. Cammina tra giugno e ottobre.
+    around: >-
+      A un chilometro sorge il [Parco nazionale Domogled - Valle del
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A sedici chilometri si trovano i [Monti di
+      Șureanu](/lugar/muntii-sureanu/) e l'[Altopiano di Mehedinți](/lugar/rewilding-mehedinti-plateau/); a
+      ventidue chilometri le [Gole di Sohodol](/lugar/cheile-sohodolului/) e a ventisei il [Parco nazionale
+      delle Gole del Jiu](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+  pt:
+    intro: >-
+      Imagina uma crista que corre de oeste para leste, orlada de pastagens de altitude e marcada nas
+      vertentes por circos glaciares. São as montanhas de Godeanu, um relevo dos Cárpatos Meridionais
+      ocidentais que forma com Retezat o nó orográfico e hidrográfico principal deste setor. Abrange cerca de
+      330 quilómetros quadrados com altitudes entre 1.600 e 2.200 metros; o monte Gugu, a 2.291 metros, é o
+      cume mais alto.
+    landscape: >-
+      Godeanu é um maciço assimétrico. As vertentes que caem para os vales de Lăpușnicul Mare e do Șes são
+      abruptas, rochosas e árduas de subir. Entre os picos acima dos dois mil metros contam-se Godeanu
+      (2.229), Moraru (2.284), Scărișoara (2.245) e Gugu (2.291). A plataforma de erosão Borăscu, em redor dos
+      2.000-2.200 metros de altitude, nivela a crista principal, conferindo ao monte Borăscu um perfil
+      horizontal notável.
+
+
+      Os glaciares quaternários talharam as encostas norte; o mais longo, no vale de Cernea, alcançou quatro
+      quilómetros no auge glaciar. Deixaram circos, vales suspensos, bacias lacustres e moreias, conjugando
+      superfícies aplanadas com relevo glaciar, ao contrário do escarpado Retezat. As lagoas alpinas são
+      raras, destacando-se a lagoa Godeanu e a lagoa Scărișoara. Geologicamente pertence ao manto gético de
+      xistos cristalinos com orlas calcárias jurássicas.
+
+
+      Os rios drenam para quatro bacias: o Cerna a sul, o Râul Rece para o Timiș a noroeste, o Jiu ocidental a
+      leste e o Lăpușnicul Mare a norte. A precipitação aumenta com a altitude atingindo 1.400 milímetros em
+      Țarcu e Godeanu.
+    wildlife: >-
+      As pastagens alpinas dos cumes acolhem há séculos a criação de ovelhas, deixando malhadas tradicionais
+      em pedra, embora a pastorícia esteja hoje em declínio. Constitui a principal marca humana nestas
+      montanhas.
+
+
+      Godeanu é dos maciços menos visitados da Roménia, ostentando planaltos alpinos desolados, pastagens
+      extensas e matas contínuas, articulado com Țarcu, Retezat e Cernei. A melhor altura para caminhar vai de
+      junho a outubro.
+    visit: >-
+      O pedestrianismo em Godeanu assenta em travessias da crista principal de vários dias. Um trilho
+      sinalizado pelo Salvamont Hunedoara percorre a crista a partir da albufeira de Gura Apei pela lombada de
+      Branu e abrigo, pico Gugu, pico Moraru e Piatra Scărișoarei. O Parque Nacional Retezat sugere ainda o
+      trilho de Lăpușnicul Mic ao refúgio Gugu e cume do Gugu em ida e volta, remetendo para o Salvamont
+      quanto a travessias completas.
+    history: >-
+      Godeanu integra o grupo montanhoso Retezat-Godeanu, delimitado a leste pelo vale do Jiu e a oeste pelo
+      corredor Timiș-Cerna. A leste liga-se à crista calcária de Piule-Iorgovanu e daí a Retezat; a noroeste
+      une-se a Țarcu pela portela de Prislop-Corhale, prosseguindo a crista para sudoeste nos montes Cernei.
+    before: >-
+      No distrito de Caraș-Severin o clima de montanha tem influências submediterrânicas. As travessias de
+      crista exigem preparação e autonomia total. Visita entre junho e outubro.
+    around: >-
+      A apenas um quilómetro situa-se o [Parque Nacional Domogled - Vale do
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A dezasseis quilómetros ficam as [Montanhas de
+      Șureanu](/lugar/muntii-sureanu/) e o [Planalto de Mehedinți](/lugar/rewilding-mehedinti-plateau/); a
+      vinte e dois o [Desfiladeiro de Sohodol](/lugar/cheile-sohodolului/) e a vinte e seis o [Parque Nacional
+      do Desfiladeiro do Jiu](/lugar/parcul-national-defileul-jiului-codrii-seculari/).
+fuentes:
+  - url: https://cs.prefectura.mai.gov.ro/wp-content/uploads/sites/33/2017/12/strategieromi.pdf
+    titulo: Strategia de incluziune — Instituția Prefectului Caraș-Severin
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Retezat-Godeanu_Mountains_group
+    titulo: Retezat-Godeanu Mountains group — Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/List_of_mountains_in_Romania
+    titulo: List of mountains in Romania — Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://retezat.ro/trasee
+    titulo: Trasee — Parcul Național Retezat
+    fecha_consulta: '2026-11-06'
+  - url: https://ro.wikipedia.org/wiki/Mun%C8%9Bii_Godeanu
+    titulo: Munții Godeanu — Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.salvamonthd.ro/godeanu/
+    titulo: Godeanu — Salvamont Hunedoara
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Godeanu_(1).jpg
+    autor: Dezidor
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-17'

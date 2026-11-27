@@ -1,0 +1,752 @@
+id: tatransky-narodny-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de los Tatras (Eslovaquia)
+  en: Tatra National Park (TANAP)
+  fr: Parc national des Tatras (TANAP)
+  de: Tatra-Nationalpark (TANAP)
+  it: Parco nazionale dei Tatra (TANAP)
+  pt: Parque Nacional dos Tatras (TANAP)
+nombre_original: Tatranský národný park (TANAP)
+alias:
+  - Tatranský národný park (TANAP)
+paises:
+  - SK
+region:
+  es: Región de Prešov (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+  en: Prešov Region (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+  fr: Région de Prešov (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+  de: Prešovský kraj (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+  it: Regione di Prešov (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+  pt: Região de Prešov (Štrbské Pleso / Tatranská Lomnica / Ždiar)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 49.19
+  lon: 20.004
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 1975
+  nombre_en_la_fuente: TANAP
+  capa: capas/cdda/tatransky-narodny-park.geojson
+habitats:
+  - high_mountain
+  - alpine_meadow
+  - mature_forest
+  - glacial
+  - lake
+designaciones:
+  - national_park
+  - iucn_ii
+  - biosphere_reserve
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - marmota_marmota
+  - ursus_arctos
+  - lynx_lynx
+  - canis_lupus
+  - tichodroma_muraria
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: las rutas de alta montaña cierran del 1 de noviembre al 15 de junio
+  en: high-mountain trails are closed from 1 November to 15 June
+  fr: les sentiers de haute montagne ferment du 1er novembre au 15 juin
+  de: Hochgebirgswege sind vom 1. November bis 15. Juni geschlossen
+  it: i sentieri d'alta quota sono chiusi dal 1° novembre al 15 giugno
+  pt: os trilhos de alta montanha encerram de 1 de novembro a 15 de junho
+masificacion: 3
+masificacion_nota:
+  es: Alta en Štrbské Pleso y los teleféricos; media o baja en los valles de los Tatras Belianske y occidentales
+  en: High at Štrbské Pleso and cable cars; moderate to low in the Belianske and Western Tatra valleys
+  fr: >-
+    Élevée à Štrbské Pleso et aux téléphériques ; moyenne à faible dans les vallées des Tatras Belianske et
+    occidentales
+  de: Hoch am Štrbské Pleso und an Seilbahnen; mäßig bis gering in den Tälern der Belianske- und Westtatra
+  it: Alta a Štrbské Pleso e presso le funivie; media o bassa nelle valli dei Tatra Belianske e occidentali
+  pt: Alta em Štrbské Pleso e teleféricos; média ou baixa nos vales dos Tatras Belianske e ocidentais
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 5
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional de los Tatras
+    url: https://www.tanap.sk
+  - titulo: Rutas y accesos — Senderismo en los Tatras
+    url: https://www.tanap.sk/pesia-turistika/
+  - titulo: Normas — Reglamento de visita de TANAP
+    url: https://www.tanap.sk/wp-content/uploads/navstevny_poriadok_tanapu.pdf
+  - titulo: Centro de visitantes — Museo TANAP
+    url: https://www.tanap.sk/muzeum/
+  - titulo: Avisos — Condiciones de senderos de los Altos Tatras (HZS)
+    url: https://hzs.sk/vysoke-tatry/
+  - titulo: Contacto — Administración de TANAP
+    url: https://www.tanap.sk/kontakt/
+resumen:
+  es: >-
+    El primer parque nacional de Eslovaquia: la cara sur de los Tatras con sus cumbres más altas, lagos
+    glaciares y rebeco endémico.
+  en: >-
+    Slovakia's first national park: the southern face of the Tatras with their highest summits, glacial tarns
+    and endemic chamois.
+  fr: >-
+    Le premier parc national de Slovaquie : le versant sud des Tatras avec ses plus hauts sommets, ses lacs
+    glaciaires et son chamois endémique.
+  de: >-
+    Der erste Nationalpark der Slowakei: die Südseite der Tatra mit ihren höchsten Gipfeln, Gletscherseen und
+    endemischen Gämsen.
+  it: >-
+    Il primo parco nazionale della Slovacchia: il versante meridionale dei Tatra con le vette più alte, laghi
+    glaciali e il camoscio endemico.
+  pt: >-
+    O primeiro parque nacional da Eslováquia: a vertente sul dos Tatras com os seus picos mais altos, lagos
+    glaciares e camurça endémica.
+unico:
+  es: >-
+    La parte más alta de los Cárpatos: granito pulido por glaciares, con lagos, marmotas que silban y rebecos
+    que solo existen en los Tatras.
+  en: >-
+    The highest part of the Carpathians: glacier-polished granite peaks, alpine lakes, whistling marmots and
+    chamois found only in the Tatras.
+  fr: >-
+    Le point culminant des Carpates : des sommets de granit polis par les glaciers, des lacs alpins, des
+    marmottes siffleuses et des chamois exclusifs aux Tatras.
+  de: >-
+    Der höchste Teil der Karpaten: gletscherpolierter Granit, Bergseen, pfeifende Murmeltiere und Gämsen, die
+    es nur in der Tatra gibt.
+  it: >-
+    La porzione più elevata dei Carpazi: vette granitiche levigate dai ghiacciai, laghi alpini, marmotte e
+    camosci esclusivi dei Tatra.
+  pt: >-
+    O ponto mais elevado dos Cárpatos: granito polido por glaciares, lagos de altitude, marmotas assobiadoras
+    e camurças exclusivas dos Tatras.
+observaciones:
+  es: >-
+    La mayor parte de los senderos está cerrada del 1 de noviembre al 31 de mayo. El servicio de rescate de
+    montaña (HZS) publica las condiciones de la montaña y atiende en el 18 300. El acceso a Popradské pleso
+    desde la parada ferroviaria tiene firme asfaltado; las personas que usan silla de ruedas necesitan
+    acompañante.
+texto:
+  es:
+    intro: >-
+      Hace unos diez mil años, cuando los últimos glaciares se retiraron de los Tatras, dejaron una cordillera
+      de granito con valles profundos, morrenas y más de un centenar de lagos de montaña. Esa es la cara
+      eslovaca de los Tatras: el Parque Nacional de los Tatras, el más antiguo de Eslovaquia, fundado el 1 de
+      enero de 1949. Ocupa 738 km², más otros 307 de zona de amortiguación, y encierra el Gerlachovský štít,
+      la cumbre más alta del país. Aquí la montaña se vive por pisos: bosque de pícea, pino mugo, pedregales y
+      cresta, con una fauna que baja de la tundra y de la taiga.
+    landscape: >-
+      Los Tatras son una cordillera de núcleo cristalino. Su origen se remonta a hace unos 570 millones de
+      años; el granito se elevó en el Terciario reciente, y por eso son montañas geológicamente jóvenes.
+      Después llegaron los glaciares del Cuaternario, que dieron su forma final a la sierra: valles glaciares
+      profundos, morrenas y lagos de montaña. Más de cien lagos salpican el parque; el Veľké Hincovo pleso es
+      el mayor y el más profundo, con 58 m. La cresta principal de los Altos Tatras mide 26,5 km y tiene 25
+      cumbres de más de 2500 m.
+
+
+      El bosque sube por pisos. Domina la pícea, pero en la parte central de los Altos Tatras falta el haya y
+      el abeto es escaso; en cambio abundan el pino silvestre, el pino cembro y el alerce autóctonos. Sobre el
+      bosque llega el pino mugo, el piso más extenso de todos los Cárpatos Occidentales, con unos 200 m de
+      anchura, que además protege contra avalanchas y erosión. Casi dos tercios del parque son bosque, y su
+      composición actual refleja siglos de minería, pastoreo y trashumancia, desde el siglo XIII. Aún quedan
+      bosques primarios, como los de Nefcerka, Trstený žľab y Suchá dolina, con abundante madera muerta.
+
+
+      La flora no es menor: se han descrito en los Tatras cerca de 1650 especies de cianobacterias y algas,
+      1200 de líquenes, más de 720 de musgos y hepáticas y 1400 de plantas vasculares. Varias tienen aquí su
+      único hábitat en Eslovaquia o en los Cárpatos Occidentales, como la amapola de los Tatras.
+    wildlife: >-
+      La fauna de los Tatras es una mezcla de herencias: de las épocas glaciales llegaron descendientes de
+      especies de la taiga y la tundra nórdicas. El emblema es el [rebeco](/especie/rupicapra_rupicapra/) de
+      los Tatras, endémico en Eslovaquia solo del Parque Nacional de los Tatras y del de los Tatras Bajos. El
+      celo ocurre en noviembre y a principios de diciembre, y la hembra suele parir una cría a finales de
+      primavera.
+
+
+      Arriba, entre los roquedos y pedregales sobre el pino mugo, viven las
+      [marmotas](/especie/marmota_marmota/). Los Tatras no serían los Tatras sin su silbido típico. Sus
+      poblaciones han descendido en los últimos años, y por eso su protección es hoy prioritaria. En los
+      prados de alta montaña y los roquedos viven el acentor alpino y el bisbita ribereño alpino, y se ha
+      visto el rarísimo [treparriscos](/especie/tichodroma_muraria/) en unas pocas localidades.
+
+
+      Entre los grandes carnívoros hay una población bastante fuerte de [oso pardo](/especie/ursus_arctos/),
+      además de [lince](/especie/lynx_lynx/) y [lobo](/especie/canis_lupus/). Los machos adultos del oso
+      terminan la hibernación a finales de febrero y principios de marzo; en verano, cuando maduran arándanos
+      y frambuesas, los osos visitan las zonas con frutos de alta montaña. El lobo se concentra donde están el
+      ciervo y el jabalí: en verano en los valles remotos y la zona alpina, en invierno en el piedemonte y las
+      bocas de los valles. Los arroyos son territorio de caza de la [nutria](/especie/lutra_lutra/).
+
+
+      En el bosque, entre las aves típicas de la taiga de montaña están el cascanueces, el camachuelo, el
+      [urogallo](/especie/tetrao_urogallus/), el mochuelo boreal, el [mochuelo
+      chico](/especie/glaucidium_passerinum/) y el [pito tridáctilo](/especie/picoides_tridactylus/). Entre
+      las rapaces, el [águila real](/especie/aquila_chrysaetos/), el [águila
+      pomerana](/especie/aquila_pomarina/) y el [búho real](/especie/bubo_bubo/). Entre las mariposas está el
+      apolo, relicto glacial. En los arroyos domina la [trucha](/especie/salmo_trutta/) común, y el lago de
+      Štrbské pleso guarda una población genéticamente pura de coregono.
+    visit: >-
+      El parque ofrece 600 km de senderos de montaña. Se puede caminar solo de día, salvo la llegada a un
+      refugio o un hotel para alojarse, y hay cierre estacional: del 1 de noviembre al 31 de mayo en la
+      mayoría de los senderos. Los animales de compañía no pueden entrar en zonas con colonias de marmotas,
+      rebecos permanentes o grandes carnívoros. Cuenta con 16 rutas ciclistas señalizadas y mantenidas; los
+      ciclistas son bienvenidos, pero solo en rutas con la marca ciclista normalizada y espacios reservados, y
+      solo de día.
+
+
+      Para entender lo que ves, el Museo TANAP, en Tatranská Lomnica, tiene dioramas de rebeco, marmota,
+      lince, lobo, oso pardo y urogallo, y muestra un crustáceo relicto de la Edad de Hielo que solo sobrevive
+      en un lago de los Tatras. Y la Exposición de la Naturaleza Tatra, el jardín botánico, muestra plantas
+      raras y amenazadas de los Tatras en 3,2 hectáreas, y abre solo en temporada. De unas 300 cuevas, solo la
+      cueva de Belianska está abierta al público.
+    history: >-
+      El parque nació en 1949 como el primero de Eslovaquia. Esa protección ha tenido que convivir con la
+      presión humana: la composición de los bosques ya no es la original, y las marmotas han retrocedido en
+      los últimos años. Hoy el parque ocupa 738 km² y su zona de amortiguación otros 307.
+    before: >-
+      La mayor parte de los senderos está cerrada del 1 de noviembre al 31 de mayo. El servicio de rescate de
+      montaña (HZS) publica las condiciones de la montaña y atiende en el 18 300. El acceso a Popradské pleso
+      desde la parada ferroviaria tiene firme asfaltado; las personas que usan silla de ruedas necesitan
+      acompañante.
+    around: >-
+      El [Parque Nacional de los Tatras (Polonia)](/lugar/tatrzanski-park-narodowy/) está pegado al eslovaco,
+      al otro lado de la frontera. A unos tres kilómetros quedan los [Valles Kársticos de Prosiecka y
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a dieciséis, el [Parque Nacional Pieniny -
+      Garganta del Río Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); a dieciocho, el [Národný
+      park Slovenský raj](/lugar/narodny-park-slovensky-raj/); a veinticinco, los [Bosques Montanos del Beskid
+      Sądecki y Valle del Poprad](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/); y a veintinueve, el
+      [Parque Nacional Muránska Planina - Remanentes de Bosque
+      Virgen](/lugar/narodny-park-muranska-planina---pralesove/). A distancia, comparten treparriscos, marmota
+      y rebeco los [Alpes Marítimos](/lugar/parco-naturale-delle-alpi-marittime/), la
+      [Vanoise](/lugar/parc-national-de-la-vanoise/) y [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/);
+      marmota, rebeco y lince, [Retezat](/lugar/parcul-national-retezat---masivul-muntos/).
+  en:
+    intro: >-
+      Some ten thousand years ago, when the last glaciers retreated from the Tatras, they left behind a
+      granite mountain range carved with deep glacial valleys, moraines and more than a hundred mountain
+      tarns. This is the Slovak side of the Tatras: Tatra National Park, Slovakia's oldest national park,
+      established on 1 January 1949. It spans 738 km², plus an additional 307 km² of buffer zone, and
+      encompasses Gerlachovský štít, the nation's highest summit. Here the mountain is experienced through
+      distinct altitudinal belts: spruce forest, dwarf pine (*mugo*), scree slopes and rugged granite crests,
+      home to wildlife descended from northern tundra and taiga.
+    landscape: >-
+      The Tatras form a mountain range with a crystalline core. Their geological origins date back some 570
+      million years; the granite massif was uplifted during the late Tertiary, making these mountains
+      geologically young. Later, Quaternary glaciation sculpted the final topography: deeply gouged glacial
+      valleys, lateral moraines and mountain tarns. More than a hundred glacial tarns dot the national park;
+      Veľké Hincovo pleso is the largest and deepest, reaching 58 m. The main crest of the High Tatras extends
+      for 26.5 km and features 25 summits exceeding 2500 m.
+
+
+      The forest rises in altitudinal zones. Norway spruce dominates, though beech is absent in the central
+      High Tatras and silver fir is scarce; instead, native Scots pine, Swiss stone pine (*cembra*) and
+      European larch thrive. Above the tree line grows dwarf mountain pine (*Pinus mugo*), forming the most
+      extensive dwarf pine belt in the Western Carpathians at roughly 200 m in vertical width, providing
+      crucial protection against avalanches and slope erosion. Nearly two-thirds of the park consists of
+      forest, whose present composition reflects centuries of mining, grazing and pastoral transhumance since
+      the XIII century. Ancient primary forests still survive in places like Nefcerka, Trstený žľab and Suchá
+      dolina, rich in standing deadwood.
+
+
+      The flora is remarkable: roughly 1650 species of cyanobacteria and algae, 1200 lichens, more than 720
+      mosses and liverworts, and 1400 vascular plant species have been documented. Several find here their
+      sole habitat in Slovakia or the Western Carpathians, such as the Tatra poppy.
+    wildlife: >-
+      The fauna of the Tatras represents a glacial legacy: descendants of northern taiga and tundra species
+      arrived during past ice ages. The park's emblem is the Tatra [chamois](/especie/rupicapra_rupicapra/),
+      an endemic subspecies in Slovakia restricted exclusively to the High and Low Tatra National Parks.
+      Rutting occurs in November and early December, with females typically giving birth to a single kid in
+      late spring.
+
+
+      Higher up, among boulder fields and scree slopes above the dwarf pine zone, live alpine
+      [marmots](/especie/marmota_marmota/). The Tatras would not be the Tatras without their piercing alarm
+      whistles. Their populations have declined in recent decades, making their habitat protection an urgent
+      priority. On alpine meadows and rocky crags dwell the alpine accentor and water pipit, while the elusive
+      [wallcreeper](/especie/tichodroma_muraria/) nests at a few secluded cliff faces.
+
+
+      Among large carnivores, a robust population of [brown bears](/especie/ursus_arctos/) thrives alongside
+      the Eurasian [lynx](/especie/lynx_lynx/) and grey [wolf](/especie/canis_lupus/). Adult male bears emerge
+      from winter dens in late February or early March; in summer, as wild berries ripen, bears frequent
+      high-elevation berry patches. Wolves concentrate where red deer and wild boar roam: in remote valleys
+      and alpine meadows during summer, descending to foothills and valley mouths in winter. Rushing mountain
+      streams provide hunting grounds for the Eurasian [otter](/especie/lutra_lutra/).
+
+
+      Within the forest, characteristic montane taiga birds include the spotted nutcracker, Eurasian
+      bullfinch, [western capercaillie](/especie/tetrao_urogallus/), boreal owl, [Eurasian pygmy
+      owl](/especie/glaucidium_passerinum/) and [Eurasian three-toed
+      woodpecker](/especie/picoides_tridactylus/). Raptors include the [golden
+      eagle](/especie/aquila_chrysaetos/), [lesser spotted eagle](/especie/aquila_pomarina/) and [Eurasian
+      eagle-owl](/especie/bubo_bubo/). Glacial relict insects like the Apollo butterfly grace sunlit screes.
+      Streams are dominated by native brown [trout](/especie/salmo_trutta/), and glacial waters hold an
+      endemic glacial-relict crustacean.
+    visit: >-
+      The park maintains 600 km of waymarked hiking trails. Hiking is permitted only during daylight hours,
+      except when arriving at a recognized mountain hut or hotel for an overnight stay, and seasonal winter
+      closures apply: from 1 November to 31 May across the vast majority of high-altitude trails. Pets are
+      strictly barred from entering zones harbouring marmot colonies, permanent chamois territories or core
+      large carnivore ranges. The park offers 16 signposted and maintained cycling routes; cyclists are
+      welcome, but only on designated paths marked with standard cycle signage and during daylight hours.
+
+
+      To appreciate the landscape, the TANAP Museum in Tatranská Lomnica features dioramas of chamois, marmot,
+      lynx, wolf, brown bear and capercaillie, alongside displays of an Ice Age relict crustacean that
+      survives in only one Tatra tarn. The Tatra Nature Exhibition botanical garden showcases rare and
+      threatened flora across 3.2 hectares and opens seasonally. Out of roughly 300 known caves, only
+      Belianska Cave is accessible to the public.
+    history: >-
+      Founded in 1949 as Slovakia's very first national park, TANAP has long balanced wilderness preservation
+      with human activity: historical timber harvesting altered forest composition, and marmots have
+      experienced population declines in recent years. Today the national park covers 738 km², with an
+      additional 307 km² in its protective buffer zone.
+    before: >-
+      Most high-altitude mountain trails remain closed to hikers from 1 November to 31 May. The Mountain
+      Rescue Service (HZS) publishes regular mountain conditions and can be reached on emergency number 18
+      300. The approach to Popradské pleso from the railway stop is paved with tarmac; wheelchair users
+      require an accompanying person due to steep gradients.
+    around: >-
+      The Polish [Tatra National Park](/lugar/tatrzanski-park-narodowy/) lies directly contiguous across the
+      international border. Around three kilometres away lie the [Prosiecka and Kvačianska Karst
+      Valleys](/lugar/npr-kvacianska-a-prosiecka-dolina/); sixteen kilometres away sits the [Pieniny National
+      Park - Dunajec River Gorge](/lugar/pieninski-park-narodowy---dunajec-gorge/); eighteen kilometres away
+      is the [Slovenský raj National Park](/lugar/narodny-park-slovensky-raj/); twenty-five kilometres away
+      are the [Beskid Sądecki Montane Forests and Poprad
+      Valley](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/); and twenty-nine kilometres away lies the
+      [Muránska Planina National Park - Primeval Forest
+      Remnants](/lugar/narodny-park-muranska-planina---pralesove/). Further afield, wallcreepers, marmots and
+      chamois are shared with the [Maritime Alps](/lugar/parco-naturale-delle-alpi-marittime/),
+      [Vanoise](/lugar/parc-national-de-la-vanoise/) and [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/);
+      marmots, chamois and lynx with [Retezat](/lugar/parcul-national-retezat---masivul-muntos/).
+  fr:
+    intro: >-
+      Il y a environ dix mille ans, lorsque les derniers glaciers se retirèrent des Tatras, ils abandonnèrent
+      un massif granitique ciselé de vallées profondes, de moraines et de plus d'une centaine de lacs de haute
+      montagne. C'est là le versant slovaque des Tatras : le parc national des Tatras, le plus ancien de
+      Slovaquie, fondé le 1er janvier 1949. Il s'étend sur 738 km², complétés par 307 km² de zone tampon, et
+      abrite le Gerlachovský štít, point culminant du pays. Ici, la montagne se découvre par étages de
+      végétation : pessière, pin mugo, pierriers et crêtes déchiquetées, avec une faune issue de la toundra et
+      de la taïga boréales.
+    landscape: >-
+      Les Tatras forment une chaîne de montagnes au socle cristallin. Leur genèse remonte à quelque 570
+      millions d'années ; le massif granitique s'est soulevé au Tertiaire récent, ce qui en fait des reliefs
+      géologiquement jeunes. Plus tard, les glaciations du Quaternaire ont façonné le paysage actuel : auges
+      glaciaires profondes, moraines et lacs d'altitude. Plus de cent lacs glaciaires parsèment le territoire
+      ; le Veľké Hincovo pleso est le plus vaste et le plus profond avec 58 m. L'arête principale des Hautes
+      Tatras s'étire sur 26,5 km et compte 25 sommets dépassant 2500 m d'altitude.
+
+
+      La forêt s'élève en gradins successifs. L'épicéa commun prédomine largement, tandis que le hêtre est
+      absent de la partie centrale et le sapin très rare ; en revanche, le pin sylvestre, le pin cembro et le
+      mélèze indigènes prospèrent. Au-dessus de la limite des arbres s'étend la ceinture de pin mugo, la plus
+      vaste de toutes les Carpates occidentales sur environ 200 m de dénivelé, qui protège efficacement les
+      pentes contre les avalanches et l'érosion. Près des deux tiers du parc sont boisés, et leur composition
+      actuelle porte l'empreinte de plusieurs siècles de mines, d'élevage et de transhumance pastorale depuis
+      le XIIIe siècle. Des forêts primaires intactes subsistent à Nefcerka, Trstený žľab et Suchá dolina,
+      particulièrement riches en bois mort.
+
+
+      La flore est foisonnante : on recense dans les Tatras près de 1650 espèces de cyanobactéries et
+      d'algues, 1200 de lichens, plus de 720 de mousses et hépatiques et 1400 de plantes vasculaires.
+      Plusieurs d'entre elles ont ici leur unique refuge slovaque ou ouest-carpatique, à l'image du pavot des
+      Tatras.
+    wildlife: >-
+      La faune des Tatras constitue un héritage des glaciations : elle compte des descendants d'espèces de la
+      taïga et de la toundra nordiques. L'emblème du parc est le [chamois](/especie/rupicapra_rupicapra/) des
+      Tatras, sous-espèce endémique strictement limitée en Slovaquie aux parcs des Hautes et Basses Tatras. Le
+      rut se déroule en novembre et début décembre, la femelle mettant bas un cabri à la fin du printemps.
+
+
+      Plus haut, parmi les éboulis rocheux au-dessus des pins mugos, vivent les
+      [marmottes](/especie/marmota_marmota/). Les Tatras ne seraient pas les Tatras sans leurs sifflements
+      caractéristiques. Leurs effectifs ayant régressé ces dernières décennies, leur sauvegarde est
+      aujourd'hui prioritaire. Les pelouses alpines et falaises abritent l'accenteur alpin, le pipit
+      spioncelle et le rare [tichodrome échelette](/especie/tichodroma_muraria/) sur quelques parois
+      rocheuses.
+
+
+      Parmi les grands prédateurs, une vigoureuse population d'[ours brun](/especie/ursus_arctos/) cohabite
+      avec le [lynx](/especie/lynx_lynx/) boréal et le [loup](/especie/canis_lupus/). Les mâles adultes
+      sortent d'hibernation fin février ou début mars ; en été, à la maturité des myrtilles et des framboises,
+      les ours gagnent les versants d'altitude. Le loup suit le cerf et le sanglier : en été dans les vallons
+      sauvages et l'étage alpin, en hiver vers le piémont et l'entrée des combes. Les torrents sont le domaine
+      de chasse de la [loutre](/especie/lutra_lutra/) d'Europe.
+
+
+      En forêt, les oiseaux montagnards comptent le cassenoix moucheté, le bouvreuil pivoine, le [grand
+      tétras](/especie/tetrao_urogallus/), la chouette de Tengmalm, la [chevêchette
+      d'Europe](/especie/glaucidium_passerinum/) et le [pic tridactyle](/especie/picoides_tridactylus/). Parmi
+      les rapaces nichent l'[aigle royal](/especie/aquila_chrysaetos/), l'[aigle
+      pomarin](/especie/aquila_pomarina/) et le [grand-duc d'Europe](/especie/bubo_bubo/). Des papillons
+      reliques glaciaires comme l'apollon fréquentent les pierriers. Les eaux vives sont peuplées par la
+      [truite](/especie/salmo_trutta/) fario, tandis que le lac de Štrbské pleso abrite un crustacé relique
+      glaciaire exceptionnel.
+    visit: >-
+      Le parc offre 600 km de sentiers de randonnée balisés. Les déplacements pédestres ne sont autorisés que
+      de jour, hormis pour rejoindre un refuge de montagne ou un hôtel réservé, et une fermeture hivernale
+      s'applique du 1er novembre au 31 mai sur la plupart des itinéraires d'altitude. Les animaux de compagnie
+      sont interdits dans les secteurs abritant des colonies de marmottes, des territoires permanents de
+      chamois ou des grands carnivores. Le parc compte 16 itinéraires cyclables balisés et entretenus ; les
+      cyclistes sont les bienvenus, mais uniquement sur les voies signalées et durant la journée.
+
+
+      Pour enrichir votre visite, le musée TANAP de Tatranská Lomnica présente des dioramas de chamois,
+      marmotte, lynx, loup, ours brun et grand tétras, ainsi qu'un crustacé relique glaciaire endémique d'un
+      seul lac tatraïque. Le jardin botanique de la flore tatraïque expose des plantes rares et menacées sur
+      3,2 hectares en période estivale. Sur quelque 300 cavités répertoriées, seule la grotte de Belianska est
+      aménagée pour le public.
+    history: >-
+      Créé en 1949, premier parc national de Slovaquie, le TANAP a dû composer avec les pressions humaines :
+      la structure des forêts a été altérée par les exploitations passées, et les marmottes ont connu un
+      déclin récent. Le parc protège aujourd'hui 738 km², flanqués de 307 km² de zone tampon.
+    before: >-
+      La majeure partie des sentiers d'altitude est rigoureusement fermée du 1er novembre au 31 mai. Les
+      secours en montagne (HZS) informent sur les conditions nivologiques et répondent au numéro d'urgence 18
+      300. L'accès au Popradské pleso depuis la halte ferroviaire est asphalté ; les personnes en fauteuil
+      roulant requièrent un accompagnateur.
+    around: >-
+      Le [parc national des Tatras en Pologne](/lugar/tatrzanski-park-narodowy/) jouxte directement le parc
+      slovaque par-delà la crête frontière. À trois kilomètres s'étendent les [vallées karstiques de Prosiecka
+      et Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) ; à seize kilomètres, le [parc national des
+      Piénines - gorges du Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/) ; à dix-huit kilomètres,
+      le [parc national du Paradis slovaque](/lugar/narodny-park-slovensky-raj/) ; à vingt-cinq kilomètres,
+      les [forêts montagnardes du Beskid Sądecki et de la vallée du
+      Poprad](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/) ; et à vingt-neuf kilomètres, le [parc
+      national de Muránska Planina - vestiges de forêt
+      primaire](/lugar/narodny-park-muranska-planina---pralesove/). Plus loin, le tichodrome, la marmotte et
+      le chamois se retrouvent dans les [Alpes maritimes](/lugar/parco-naturale-delle-alpi-marittime/), la
+      [Vanoise](/lugar/parc-national-de-la-vanoise/) et le
+      [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/) ; la marmotte, le chamois et le lynx dans le
+      [Retezat](/lugar/parcul-national-retezat---masivul-muntos/).
+  de:
+    intro: >-
+      Vor rund zehntausend Jahren, als sich die letzten Gletscher aus der Tatra zurückzogen, hinterließen sie
+      ein Granitgebirge mit tiefen Tälern, Moränen und über einhundert Gebirgsseen. Das ist die slowakische
+      Seite der Tatra: der Tatra-Nationalpark, der älteste Nationalpark der Slowakei, gegründet am 1. Januar
+      1949. Er erstreckt sich über 738 km², ergänzt durch eine 307 km² große Pufferzone, und birgt mit dem
+      Gerlachovský štít den höchsten Gipfel des Landes. Hier erfährt man das Gebirge in Stufen: Fichtenwald,
+      Krummholz, Blockhalden und schroffe Grate mit einer Tierwelt, die einst aus nordischer Tundra und Taiga
+      einwanderte.
+    landscape: >-
+      Die Tatra ist ein Gebirge mit kristallinem Kern. Ihre Entstehung reicht rund 570 Millionen Jahre zurück;
+      das Granitmassiv hob sich im jüngeren Tertiär empor und ist daher geologisch jung. Später formten die
+      quartären Eiszeiten das heutige Relief: tief eingeschnittene Trogtäler, Moränenwälle und Karseen. Über
+      einhundert Bergseen sprenkeln den Park; der Veľké Hincovo pleso ist mit 58 m der größte und tiefste. Der
+      Hauptkamm der Hohen Tatra erstreckt sich über 26,5 km und zählt 25 Gipfel über 2500 m Höhe.
+
+
+      Der Wald klettert in Vegetationsstufen empor. Gemeine Fichte dominiert, während die Rotbuche im
+      zentralen Teil fehlt und Weißtannen selten sind; heimische Waldkiefer, Zirbelkiefer und Europäische
+      Lärche sind hingegen häufig. Über der Waldgrenze schließt sich die Krummholzzone aus Bergkiefer (*Pinus
+      mugo*) an – die ausgedehnteste der gesamten Westkarpaten mit etwa 200 m vertikaler Spannweite, die
+      wirksam vor Lawinen und Erosion schützt. Fast zwei Drittel des Parks sind bewaldet; ihre heutige
+      Struktur zeugt von Jahrhunderten des Bergbaus, der Beweidung und der Almwirtschaft seit dem XIII.
+      Jahrhundert. Urwälder sind an Orten wie Nefcerka, Trstený žľab und Suchá dolina mit reichem
+      Totholzanteil erhalten geblieben.
+
+
+      Die Pflanzenwelt ist außergewöhnlich vielfältig: Rund 1650 Arten von Cyanobakterien und Algen, 1200
+      Flechten, über 720 Moose und Lebermoose sowie 1400 Gefäßpflanzen wurden erfasst. Mehrere Arten besitzen
+      hier ihr einziges Vorkommen in der Slowakei oder den Westkarpaten, darunter der Tatra-Mohn.
+    wildlife: >-
+      Die Tierwelt der Tatra ist ein Erbe eiszeitlicher Epochen, besiedelt von Nachfahren nordischer Taiga-
+      und Tundra-Arten. Das Wahrzeichen ist die Tatra-[Gämse](/especie/rupicapra_rupicapra/), eine Unterart,
+      die in der Slowakei endemisch auf die Nationalparks der Hohen und Niederen Tatra beschränkt ist. Die
+      Brunft findet im November und Anfang Dezember statt; die Geiß bringt im späten Frühjahr meist ein Kitz
+      zur Welt.
+
+
+      Weiter oben, in den Fels- und Schutthalden oberhalb der Krummholzzone, leben die alpinen
+      [Murmeltiere](/especie/marmota_marmota/). Die Tatra wäre nicht die Tatra ohne ihre durchdringenden
+      Warnpfiffe. Da ihre Bestände in den letzten Jahrzehnten geschrumpft sind, genießt ihr Schutz höchste
+      Priorität. Auf den alpinen Matten leben Bergpieper und Alpendohle, und an wenigen Steilwänden brütet der
+      seltene [Mauerläufer](/especie/tichodroma_muraria/).
+
+
+      Unter den Großraubtieren lebt eine kräftige Population des [Braunbären](/especie/ursus_arctos/) neben
+      Eurasischem [Luchs](/especie/lynx_lynx/) und [Wolf](/especie/canis_lupus/). Ausgewachsene Bärenmännchen
+      erwachen Ende Februar oder Anfang März aus der Winterruhe; im Hochsommer nutzen die Bären die
+      Beerenbestände der Hochlagen. Der Wolf folgt Rothirsch und Wildschwein: im Sommer in abgelegenen Tälern
+      und alpinen Lagen, im Winter am Gebirgsfuß. Klare Gebirgsbäche bilden das Jagdrevier des
+      [Fischotters](/especie/lutra_lutra/).
+
+
+      Im Bergwald leben Tannenhäher, Gimpel, [Auerhuhn](/especie/tetrao_urogallus/), Raufußkauz,
+      [Sperlingskauz](/especie/glaucidium_passerinum/) und [Dreizehenspecht](/especie/picoides_tridactylus/).
+      An Greifvögeln brüten [Steinadler](/especie/aquila_chrysaetos/),
+      [Schreiadler](/especie/aquila_pomarina/) und [Uhu](/especie/bubo_bubo/). Zu den Schmetterlingen zählt
+      der eiszeitliche Apollofalter. In den Bergbächen dominiert die Bach-[Forelle](/especie/salmo_trutta/),
+      und im Štrbské pleso lebt ein Reliktkrebstier der Eiszeit.
+    visit: >-
+      Der Park bietet 600 km markierte Wanderwege. Das Begehen ist nur tagsüber gestattet, ausgenommen der
+      Zustieg zu einer bewirtschafteten Berghütte oder einem Hotel, und es gilt eine saisonale Wintersperre
+      vom 1. November bis zum 31. Mai auf den allermeisten Bergsteigen. Haustiere dürfen Gebiete mit
+      Murmeltierkolonien, Gamsrevieren oder Kernzonen von Großraubtieren nicht betreten. Es gibt 16 markierte
+      und gepflegte Radrouten; Radfahrer sind willkommen, dürfen jedoch ausschließlich auf ausgewiesenen
+      Strecken und nur tagsüber fahren.
+
+
+      Das TANAP-Museum in Tatranská Lomnica bietet Dioramen von Gämse, Murmeltier, Luchs, Wolf, Bär und
+      Auerhuhn sowie ein Krebstier der Eiszeit, das weltweit nur in einem einzigen Tatrasee überlebt hat. Der
+      botanische Alpengarten zeigt seltene Tatrapflanzen auf 3,2 Hektar und öffnet nur im Sommer. Von etwa 300
+      bekannten Höhlen ist einzig die Belianska-Höhle für Besucher zugänglich.
+    history: >-
+      Als ältester Nationalpark der Slowakei 1949 gegründet, musste der TANAP stets Naturschutz mit
+      menschlicher Nutzung vereinbaren: Jahrhundertealte Eingriffe veränderten die Wälder, und Murmeltiere
+      verloren an Lebensraum. Heute umfasst das Schutzgebiet 738 km² sowie 307 km² Pufferzone.
+    before: >-
+      Die meisten Höhenwege sind vom 1. November bis 31. Mai geschlossen. Die Bergwacht (HZS) informiert über
+      Verhältnisse und Notfälle unter 18 300. Der Weg zum Popradské pleso ab der Zughaltestelle ist
+      asphaltiert; Rollstuhlnutzer benötigen eine Begleitperson.
+    around: >-
+      Der polnische [Tatra-Nationalpark](/lugar/tatrzanski-park-narodowy/) schließt direkt jenseits der
+      Staatsgrenze an. Rund drei Kilometer entfernt liegen die [Karsttäler Kvačianska und
+      Prosiecka](/lugar/npr-kvacianska-a-prosiecka-dolina/); sechzehn Kilometer entfernt der [Nationalpark
+      Pieninen - Dunajec-Schlucht](/lugar/pieninski-park-narodowy---dunajec-gorge/); achtzehn Kilometer
+      entfernt das [Slowakische Paradies](/lugar/narodny-park-slovensky-raj/); fünfundzwanzig Kilometer
+      entfernt die [Bergwälder des Beskid Sądecki und
+      Popradtal](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/); und neunundzwanzig Kilometer entfernt
+      der [Nationalpark Muránska Planina - Urwaldreste](/lugar/narodny-park-muranska-planina---pralesove/). In
+      größerer Entfernung teilen Mauerläufer, Murmeltier und Gämse die
+      [Seealpen](/lugar/parco-naturale-delle-alpi-marittime/), [Vanoise](/lugar/parc-national-de-la-vanoise/)
+      und [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/); Murmeltier, Gämse und Luchs das
+      [Retezat-Gebirge](/lugar/parcul-national-retezat---masivul-muntos/).
+  it:
+    intro: >-
+      Circa diecimila anni fa, quando gli ultimi ghiacciai si ritirarono dai Tatra, lasciarono una catena
+      granitica solcata da valli profonde, morene e oltre un centinaio di laghi montani. È questo il versante
+      slovacco dei Tatra: il Parco Nazionale dei Tatra, il più antico della Slovacchia, istituito il 1°
+      gennaio 1949. Si estende su 738 km², cui si sommano altri 307 km² di zona cuscinetto, e racchiude il
+      Gerlachovský štít, la cima più alta del paese. Qui la montagna si articola per fasce altitudinali:
+      peccete, pino mugo, pietraie e creste rocciose, con specie animali derivate dalla tundra e dalla taiga
+      nordiche.
+    landscape: >-
+      I Tatra costituiscono una catena montuosa dal nucleo cristallino. Le loro origini risalgono a circa 570
+      milioni di anni fa; il massiccio granitico si sollevò nel Terziario recente, formando rilievi
+      geologicamente giovani. Successivamente i ghiacciai quaternari ne modellarono la fisionomia: profonde
+      valli a U, cordoni morenici e laghetti glaciali. Oltre cento laghi punteggiano il territorio; il Veľké
+      Hincovo pleso è il più esteso e profondo con i suoi 58 m. La cresta principale degli Alti Tatra misura
+      26,5 km e conta 25 cime oltre i 2500 m d'altitudine.
+
+
+      La copertura arborea sale per gradoni ecologici. Domina l'abete rosso, mentre il faggio è assente nel
+      settore centrale e l'abete bianco risulta molto raro; prosperano invece il pino silvestre, il pino
+      cembro e il larice autoctoni. Sopra il bosco cresce la fascia del pino mugo, la più estesa di tutti i
+      Carpazi Occidentali con una fascia verticale di circa 200 m, che funge da baluardo contro slavine ed
+      erosione. Quasi due terzi del parco sono coperti da boschi la cui struttura risente di secoli di
+      miniere, pascolo e transumanza a partire dal XIII secolo. Lembi di foresta vetusta intatta resistono a
+      Nefcerka, Trstený žľab e Suchá dolina, ricchi di legno morto.
+
+
+      La flora è straordinaria: sono state descritte nei Tatra circa 1650 specie di cianobatteri e alghe, 1200
+      di licheni, oltre 720 di muschi ed epatiche e 1400 di piante vascolari. Numerose entità botaniche hanno
+      qui la loro unica stazione in Slovacchia, come il papavero dei Tatra.
+    wildlife: >-
+      La fauna dei Tatra è una preziosa eredità glaciale che accoglie discendenti della taiga e della tundra
+      boreali. Il simbolo per antonomasia è il [camoscio](/especie/rupicapra_rupicapra/) dei Tatra,
+      sottospecie endemica limitata in Slovacchia ai soli parchi degli Alti e Bassi Tatra. La stagione degli
+      amori avviene tra novembre e inizio dicembre, e le femmine danno alla luce un piccolo a tarda primavera.
+
+
+      Più in alto, tra sfasciumi rocciosi sopra i pini mughi, vivono le [marmotte](/especie/marmota_marmota/).
+      I Tatra non sarebbero tali senza i loro fischi d'allarme. Poiché le popolazioni si sono ridotte nei
+      decenni scorsi, la loro salvaguardia è prioritaria. Sulle praterie d'alta quota e sulle balze rocciose
+      nidificano il sordone e lo spioncello, mentre il rarissimo [picchio
+      muraiolo](/especie/tichodroma_muraria/) abita poche pareti ombrose.
+
+
+      Tra i grandi mammiferi una cospicua popolazione di [orso bruno](/especie/ursus_arctos/) convive con la
+      [lince](/especie/lynx_lynx/) eurasiatica e il [lupo](/especie/canis_lupus/). I maschi adulti d'orso
+      escono dal letargo a fine febbraio o inizio marzo; in estate, quando maturano i mirtilli, gli orsi
+      salgono nei valloni sommitali. Il lupo caccia cervi e cinghiali: d'estate nelle valli remote, d'inverno
+      nei fondovalle. I torrenti ospitano la [lontra](/especie/lutra_lutra/) comune.
+
+
+      Nel bosco montano vivono la nocciolaia, il ciuffolotto, il [gallo cedrone](/especie/tetrao_urogallus/),
+      la civetta capogrosso, la [civetta nana](/especie/glaucidium_passerinum/) e il [picchio
+      tridattilo](/especie/picoides_tridactylus/). Tra i rapaci nidificano l'[aquila
+      reale](/especie/aquila_chrysaetos/), l'[aquila anatraia minore](/especie/aquila_pomarina/) e il [gufo
+      reale](/especie/bubo_bubo/). Tra le farfalle vola l'apollo, relitto glaciale. Nei corsi d'acqua vive la
+      [trota](/especie/salmo_trutta/) fario, e il lago di Štrbské pleso ospita un crostaceo relitto dell'era
+      glaciale.
+    visit: >-
+      Il parco vanta 600 km di sentieri alpini segnalati. Il transito è consentito unicamente durante il
+      giorno, salvo pernottamento in rifugio o albergo, ed è in vigore una chiusura invernale dal 1° novembre
+      al 31 maggio su gran parte delle alte vie. Gli animali domestici non possono accedere nelle aree con
+      colonie di marmotte, territori permanenti di camosci o rifugi dei grandi carnivori. Sono presenti 16
+      percorsi ciclabili segnalati; i ciclisti sono benvenuti, ma soltanto sulle piste autorizzate e nelle ore
+      diurne.
+
+
+      Il Museo TANAP a Tatranská Lomnica illustra la natura locale con diorami di camoscio, marmotta, lince,
+      lupo, orso e gallo cedrone, oltre al minuscolo crostaceo relitto glaciale. L'Orto botanico alpino
+      custodisce specie vegetali rare su 3,2 ettari ed è aperto nei mesi estivi. Di circa 300 grotte
+      conosciute, solo la grotta Belianska è aperta alle visite turistiche.
+    history: >-
+      Nato nel 1949 come primo parco nazionale della Slovacchia, il TANAP ha costantemente cercato un
+      equilibrio con le attività umane: disboscamenti storici alterarono i boschi e le marmotte videro ridursi
+      i propri effettivi. Oggi tutela 738 km², affiancati da 307 km² di fascia protettiva.
+    before: >-
+      La maggior parte dei percorsi d'alta quota è chiusa al transito dal 1° novembre al 31 maggio. Il
+      soccorso alpino (HZS) aggiorna sui bollettini ed è attivo al numero 18 300. Il tratto ferroviario fino a
+      Popradské pleso presenta fondo asfaltato; le persone su sedia a rotelle necessitano di accompagnatore.
+    around: >-
+      Il [Parco nazionale dei Tatra in Polonia](/lugar/tatrzanski-park-narodowy/) confina direttamente sul
+      crinale. A circa tre chilometri si raggiungono le [Valli carsiche di Prosiecka e
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a sedici, il [Parco nazionale dei Pieniny - Gola
+      del fiume Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); a diciotto, il [Parco nazionale del
+      Paradiso Slovacco](/lugar/narodny-park-slovensky-raj/); a venticinque, i [Boschi montani del Beskid
+      Sądecki e valle del Poprad](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/); e a ventinove, il
+      [Parco nazionale di Muránska Planina - Lembi di foresta
+      vergine](/lugar/narodny-park-muranska-planina---pralesove/). A distanza, condividono picchio muraiolo,
+      marmotta e camoscio le [Alpi Marittime](/lugar/parco-naturale-delle-alpi-marittime/), la
+      [Vanoise](/lugar/parc-national-de-la-vanoise/) e il
+      [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/); marmotta, camoscio e lince il
+      [Retezat](/lugar/parcul-national-retezat---masivul-muntos/).
+  pt:
+    intro: >-
+      Há cerca de dez mil anos, quando os últimos glaciares recuaram dos Tatras, deixaram para trás uma
+      cordilheira granítica esculpida com vales profundos, moreias e mais de uma centena de lagos alpinos.
+      Esta é a vertente eslovaca dos Tatras: o Parque Nacional dos Tatras, o mais antigo da Eslováquia,
+      fundado a 1 de janeiro de 1949. Ocupa 738 km², a que se somam outros 307 km² de zona tampão, e alberga o
+      Gerlachovský štít, o cume mais alto do país. Aqui a montanha reparte-se por andares ecológicos: floresta
+      de espruce, pinheiro-mugo, cascalheiras e cristas escarpadas, com uma fauna com afinidades à tundra e à
+      taiga boreais.
+    landscape: >-
+      Os Tatras formam uma cordilheira de núcleo cristalino. As suas origens remontam a cerca de 570 milhões
+      de anos; o maciço de granito ergueu-se no Terciário recente, constituindo montanhas geologicamente
+      jovens. Mais tarde, as glaciações do Quaternário deram a configuração final à paisagem: vales glaciares
+      profundos, moreias laterais e lagos de montanha. Mais de cem lagos salpicam o parque; o Veľké Hincovo
+      pleso é o maior e mais profundo, atingindo 58 m. A crista principal dos Altos Tatras estende-se por 26,5
+      km e conta com 25 picos com mais de 2500 m.
+
+
+      A floresta desenvolve-se por pisos altitudinais. O espruce predomina, enquanto a faia está ausente na
+      zona central e o abeto é escasso; pelo contrário, abundam o pinheiro-silvestre, o pinheiro-cembro e o
+      lariço autóctones. Acima do arvoredo estende-se o pinheiro-anão (*Pinus mugo*), o mais extenso andar
+      deste tipo em todos os Cárpatos Ocidentais, com cerca de 200 m de amplitude vertical, que protege
+      encostas contra avalanches e erosão. Quase dois terços do parque são cobertos por floresta, cuja
+      estrutura reflete séculos de mineração, pastoreio e transumância desde o século XIII. Persistem matas
+      virgens relíquia em Nefcerka, Trstený žľab e Suchá dolina, repletas de madeira morta.
+
+
+      A flora é riquíssima: foram descritas nos Tatras cerca de 1650 espécies de cianobactérias e algas, 1200
+      de líquenes, mais de 720 de musgos e hepáticas e 1400 de plantas vasculares. Várias têm aqui a sua única
+      estação na Eslováquia ou nos Cárpatos Ocidentais, como a papoila dos Tatras.
+    wildlife: >-
+      A fauna dos Tatras é uma herança das épocas glaciares: descendentes de espécies da taiga e da tundra
+      nórdicas que encontraram refúgio nestas serras. O emblema máximo é a
+      [camurça](/especie/rupicapra_rupicapra/) dos Tatras, subespécie endémica limitada na Eslováquia aos
+      Parques Nacionais dos Altos e Baixos Tatras. O cio ocorre em novembro e no início de dezembro, dando a
+      fêmea à luz uma cria no final da primavera.
+
+
+      Mais acima, entre os rochedos e cascalheiras sobre o pinheiro-anão, vivem as
+      [marmotas](/especie/marmota_marmota/). Os Tatras não seriam os mesmos sem os seus assobios de alerta.
+      Como os seus efetivos diminuíram nas últimas décadas, a sua preservação tornou-se prioritária. Nas
+      pastagens alpinas e escarpas habitam a ferreirinha-alpina e a petinha-ribeirinha, enquanto o raríssimo
+      [trepador-dos-muros](/especie/tichodroma_muraria/) surge em algumas escarpas.
+
+
+      Entre os grandes carnívoros destaca-se uma população robusta de [urso-pardo](/especie/ursus_arctos/), a
+      par do [lince](/especie/lynx_lynx/) e do [lobo](/especie/canis_lupus/). Os machos adultos de urso
+      despertam da hibernação no fim de fevereiro ou início de março; no verão, com a maturação dos mirtilos,
+      sobem às encostas de bagas. O lobo segue veados e javalis: no verão nos vales remotos, no inverno nas
+      zonas baixas. Os ribeiros são território de caça da [lontra](/especie/lutra_lutra/).
+
+
+      Nas matas de montanha encontram-se o quebra-nozes, o dom-fafe, o
+      [tetraz-grande](/especie/tetrao_urogallus/), o mocho-de-tengmalm, o
+      [mocho-galego](/especie/glaucidium_passerinum/) e o
+      [pica-pau-tridáctilo](/especie/picoides_tridactylus/). Entre as rapinas nidificam a
+      [águia-real](/especie/aquila_chrysaetos/), a [águia-pomerana](/especie/aquila_pomarina/) e o
+      [bufo-real](/especie/bubo_bubo/). Nas cascalheiras esvoaça a borboleta apolo, relíquia glacial. Nos
+      cursos de água domina a [truta](/especie/salmo_trutta/) de rio, e o Štrbské pleso alberga um crustáceo
+      relíquia da época glacial.
+    visit: >-
+      O parque disponibiliza 600 km de trilhos de montanha sinalizados. As caminhadas só são autorizadas de
+      dia, salvo para pernoita em refúgio alpino ou hotel credenciado, vigorando um encerramento sazonal de
+      inverno de 1 de novembro a 31 de maio na maioria das rotas de altitude. Animais de companhia não podem
+      entrar em áreas com colónias de marmotas, territórios de camurças ou zonas vitais de grandes carnívoros.
+      O parque dispõe de 16 rotas cicláveis sinalizadas; os ciclistas são bem-vindos, mas unicamente nas vias
+      assinaladas e durante o dia.
+
+
+      O Museu TANAP em Tatranská Lomnica oferece dioramas de camurça, marmota, lince, lobo, urso e tetraz,
+      além de um crustáceo relíquia que apenas sobrevive num lago tátrico. A Exposição Botânica da Natureza
+      dos Tatras exibe plantas raras em 3,2 hectares e abre no verão. Das cerca de 300 grutas conhecidas,
+      unicamente a gruta Belianska se encontra aberta ao público.
+    history: >-
+      Nascido em 1949 como primeiro parque nacional da Eslováquia, o TANAP procurou conciliar conservação e
+      uso humano: as florestas sofreram alterações históricas e as marmotas regrediram nas últimas décadas. O
+      parque abrange atualmente 738 km², secundados por 307 km² de zona tampão.
+    before: >-
+      A maioria dos trilhos de alta montanha permanece encerrada de 1 de novembro a 31 de maio. O Serviço de
+      Salvamento de Montanha (HZS) emite informações e atende no número de emergência 18 300. O acesso a
+      Popradské pleso a partir da estação de comboios é asfaltado; pessoas em cadeira de rodas necessitam de
+      acompanhante.
+    around: >-
+      O [Parque Nacional dos Tatras na Polónia](/lugar/tatrzanski-park-narodowy/) confina diretamente com o
+      setor eslovaco. A cerca de três quilómetros ficam os [Vales Cársicos de Prosiecka e
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/); a dezasseis quilómetros situa-se o [Parque
+      Nacional Pieniny - Garganta do Rio Dunajec](/lugar/pieninski-park-narodowy---dunajec-gorge/); a dezoito,
+      o [Parque Nacional do Paraíso Eslovaco](/lugar/narodny-park-slovensky-raj/); a vinte e cinco, as
+      [Florestas Montanas de Beskid Sądecki e Vale do
+      Poprad](/lugar/popradzki-park-krajobrazowy-beskid-sadecki/); e a vinte e nove, o [Parque Nacional
+      Muránska Planina - Remanescentes de Floresta Virgem](/lugar/narodny-park-muranska-planina---pralesove/).
+      A maior distância, partilham o trepador-dos-muros, a marmota e a camurça os [Alpes
+      Marítimos](/lugar/parco-naturale-delle-alpi-marittime/), a
+      [Vanoise](/lugar/parc-national-de-la-vanoise/) e [Gesäuse](/lugar/nationalpark-gesause---enns-gorge/); e
+      marmota, camurça e lince o [Retezat](/lugar/parcul-national-retezat---masivul-muntos/).
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Tatra_National_Park,_Slovakia
+    titulo: Tatra National Park, Slovakia - Wikipedia
+    fecha_consulta: '2026-11-05'
+  - url: https://www.slovenskaves.info/turista/turistika/pesia-turistika/bezbarierove-turisticke-chodniky-v-tanape-119sk.html
+    titulo: Obec Slovenská Ves — senderos sin barreras en TANAP
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/neziva-priroda/
+    titulo: Neživá príroda - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/lesy/
+    titulo: Lesy TANAP-u - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/pralesy/
+    titulo: Pralesy - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/flora/
+    titulo: Flóra - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/priroda/fauna-3/
+    titulo: Fauna - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/muzeum/
+    titulo: Múzeum TANAP-u - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/botanicka-zahrada-expozicia-tatranskej-prirody-etp/
+    titulo: Botanická záhrada – Expozícia tatranskej prírody (ETP) - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/pesia-turistika/
+    titulo: Pešia turistika - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://www.tanap.sk/cykloturistika/
+    titulo: Cykloturistika - Tatranský národný park
+    fecha_consulta: '2026-11-05'
+  - url: https://hzs.sk/vysoke-tatry/
+    titulo: Vysoké Tatry – Horská záchranná služba
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Zadnie_Rycerowe_Garajowe_Kopy.jpg
+    autor: Rafał Kozubek
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-21'

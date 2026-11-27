@@ -1,0 +1,539 @@
+id: kiskunsagi-nemzeti-park---apaji-szikesek
+estado_editorial: valoracion-revisada
+nombre:
+  es: Estepas Salinas de Apaj
+  en: Apaj Saline Steppes
+  fr: Steppes salines d'Apaj
+  de: Salzsteppen von Apaj
+  it: Steppe Salate di Apaj
+  pt: Estepes Salinas de Apaj
+nombre_original: Kiskunsági Nemzeti Park - Apaji-szikesek
+alias:
+  - Apaj Puszta (Apaji-szikesek)
+paises:
+  - HU
+region:
+  es: Pest (Apaj / Dömsöd)
+  en: Pest County (Apaj / Dömsöd)
+  fr: Comitat de Pest (Apaj / Dömsöd)
+  de: Komitat Pest (Apaj / Dömsöd)
+  it: Provincia di Pest (Apaj / Dömsöd)
+  pt: Condado de Pest (Apaj / Dömsöd)
+ubicacion:
+  tipo: punto
+  lat: 47.12
+  lon: 19.08
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Felső-kiskunsági szikes puszta
+  capa: capas/natura2000/kiskunsagi-nemzeti-park---apaji-szikesek.geojson
+habitats:
+  - steppe
+  - wetland
+designaciones:
+  - national_park
+  - ramsar
+  - iucn_ii
+especies:
+  - otis_tarda
+  - charadrius_alexandrinus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y principio de otoño
+  en: spring and early autumn
+  fr: printemps et début d'automne
+  de: Frühling und Frühherbst
+  it: primavera e inizio autunno
+  pt: primavera e início de outono
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Kiskunsági Nemzeti Park - Apaj
+    url: https://www.knp.hu/
+  - titulo: Ruta, observatorios y accesos — Sendero de Apaj
+    url: https://www.knp.hu/en/apaj-duck-study-trail
+  - titulo: Normas — Visitar Kiskunság
+    url: https://www.knp.hu/en/visiting-rules
+resumen:
+  es: Estación de estepa alcalina a solo 50 km al sur de Budapest con cubetas de evaporación salina.
+  en: Alkaline steppe outpost just 50 km south of Budapest with shallow saline evaporation pans.
+  fr: Avant-poste de steppe alcaline à seulement 50 km au sud de Budapest avec cuvettes d'évaporation saline.
+  de: Alkalische Steppenlandschaft nur 50 km südlich von Budapest mit flachen Salzverdunstungsbecken.
+  it: Avamposto di steppa alcalina ad appena 50 km a sud di Budapest con bacini salini di evaporazione.
+  pt: Enclave de estepe alcalina a escassos 50 km a sul de Budapeste com bacias rasas de evaporação salina.
+unico:
+  es: >-
+    Una laguna de aves nacida de unos viejos estanques de peces, rodeada de una puszta salina donde cría una
+    de las poblaciones de avutarda más importantes del país.
+  en: >-
+    A bird sanctuary pond created from former fishponds, enveloped by a saline puszta harboring one of
+    Hungary's premier great bustard breeding grounds.
+  fr: >-
+    Un plan d'eau ornithologique né d'anciens étangs piscicoles, entouré d'une puszta saline où niche l'une
+    des principales populations d'outardes du pays.
+  de: >-
+    Ein Vogelschutzgewässer auf ehemaligen Fischteichen, umgeben von Salzpuszta mit einem der bedeutendsten
+    Großtrappen-Brutvorkommen des Landes.
+  it: >-
+    Una laguna per l'avifauna ricavata da antichi bacini d'itticoltura, cinta da una puszta salata che ospita
+    uno dei principali siti di riproduzione dell'otarda comune.
+  pt: >-
+    Uma lagoa para aves nascida de antigas explorações aquícolas, rodeada por uma estepe salina onde nidifica
+    uma das maiores populações de abetarda do país.
+observaciones:
+  es: >-
+    Por la sensibilidad de la avutarda, la zona solo se visita por el sendero señalizado. Mira desde los
+    miradores y no entres en el terreno.
+texto:
+  es:
+    intro: >-
+      Donde hubo piscifactorías hay hoy un laboratorio de aves. Las lagunas de Apaj nacieron en los años
+      cincuenta para criar peces; de aquello solo queda el nombre. Cuando se abandonó el negocio, el agua se
+      fue y los estanques se cegaron, hasta que el Parque Nacional de Kiskunság recuperó el humedal. Es la
+      parte más conocida de la Felső-Kiskunság, la mayor zona salina del parque y la segunda puszta salina de
+      la Gran Llanura Húngara tras Hortobágy, sobre la antigua llanura de inundación baja del Danubio, junto a
+      Kunszentmiklós.
+    landscape: >-
+      La puszta salina es un mosaico: estepa calcáreo-sódica, prados salinos, pastos, calveros salinos y lomas
+      de loess y arena traídas por el viento. Al drenar el terreno, la salinización se aceleró y el paisaje
+      actual es hijo de aquello. El agua es el gran lujo. Las aguas de principios de primavera se secan hacia
+      comienzos del verano por los canales y la evaporación; la única agua estancada permanente son las
+      lagunas de Apaj, mantenidas artificialmente, con cuatrocientas cincuenta hectáreas. Cada año, desde
+      finales de verano hasta la primavera, unas bombas alimentan el sistema de lagunas.
+
+
+      Los pastos salinos necesitan al ganado. Desde que existe el parque nacional se acabó la agricultura
+      intensiva, y el pastoreo tradicional sigue siendo clave para mantener la vegetación halófila de las
+      pusztas. Además del ganado gris húngaro, se puede ver aquí el rebaño de búfalos, hoy raro.
+    wildlife: >-
+      **En el agua.** El cisne vulgar se ve todo el año; el pato cuchara, de febrero a noviembre; el fumarel
+      cariblanco, de mediados de abril a septiembre; la [cigüeña blanca](/especie/ciconia_ciconia/), desde
+      mediados de marzo hasta mediados de septiembre. La garceta grande se ve desde finales de febrero hasta
+      septiembre y puede pasar el invierno.
+
+
+      **En el carrizal.** El [avetoro](/especie/botaurus_stellaris/) se ve de marzo a octubre y cría desde
+      mediados de abril hasta finales de junio. El [pechiazul](/especie/luscinia_svecica/) llega a finales de
+      marzo y está hasta finales de septiembre. El bigotudo, el escribano palustre y el moscón europeo se
+      quedan todo el año.
+
+
+      **En la puszta.** La [avutarda común](/especie/otis_tarda/) está todo el año y cría desde la última
+      semana de abril hasta finales de junio. La canastera se ve de abril a septiembre, la cigüeñuela de
+      mediados de abril a septiembre y la aguja colinegra de marzo a agosto. En primavera, cuando se celebra
+      el cortejo de la avutarda, grandes bandadas de limícolas migratorias comen en los charcos someros. El
+      cernícalo patirrojo cría de forma regular aunque escasa. Los campos de colza y alfalfa dan alimento a la
+      avutarda en invierno.
+
+
+      Al caer la tarde, junto al dique, se oyen las ranas; durante el día se escucha al sapillo de vientre
+      rojo. En el suelo salino vive la araña lobo húngara, la mayor araña protegida del país, que caza al
+      anochecer.
+    visit: >-
+      Siguiendo el sendero interpretativo Réce, de 1.100 metros, que se recorre a pie todo el año. Se accede
+      desde Apaj por el camino señalizado con cruz roja que sale de la ruta de la banda roja. Sus cinco
+      estaciones siguen la laguna: la laguna misma, la vida de las aves en el agua, las aves del carrizal, el
+      dique y el mundo de las pusztas. En los dos extremos del sendero hay torres de observación desde las que
+      se domina la puszta. La mejor época es la primavera y el principio del verano, y el otoño, cuando hay
+      muchas aves en las charcas.
+
+
+      Para ver avutardas sin molestarlas hay además cinco puntos de observación temáticos en el entorno,
+      accesibles en coche o bicicleta por Bugyi, Apaj, Kunpeszér y Kunszentmiklós. Los miradores están
+      construidos donde se ven avutardas con muchas probabilidades la mayor parte del año, y cada uno tiene un
+      panel informativo. Tres tienen el suelo a cuatro metros de altura y dos a metro y medio, estos últimos
+      accesibles en silla de ruedas. El centro educativo del parque, la Casa de las Estepas, está en
+      Kunszentmiklós-Bösztörpuszta y organiza actividades interactivas, rutas guiadas y demostraciones; cada
+      año en abril se celebra allí la fiesta de la avutarda.
+    history: >-
+      La zona está protegida desde 1975. El proyecto LIFE enterró sesenta kilómetros de líneas eléctricas
+      aéreas de media tensión en la Felső-Kiskunság, porque la colisión con los cables es el primer peligro
+      para las avutardas adultas.
+    before: >-
+      Por la sensibilidad de la avutarda, la zona solo se visita por el sendero señalizado. Mira desde los
+      miradores y no entres en el terreno.
+    around: >-
+      Lejos de Apaj hay lugares que comparten la avutarda y la estepa: el [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/), con avutarda y chorlitejo patinegro, y el [Parque
+      Nacional de Hortobágy - La Puszta Húngara](/lugar/hortobagyi-nemzeti-park---puszta/), con avutarda. Y
+      fuera de Hungría, la [Reserva Natural Lagunas de
+      Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/) y la [Reserva Natural Especial Pastizales
+      de Veliki Rit](/lugar/specijalni-rezervat-prirode-pasnjaci/).
+  en:
+    intro: >-
+      Where commercial fish hatcheries once operated, an open-air avian sanctuary thrives today. The Apaj
+      ponds were excavated in the nineteen-fifties to rear fish; today only the name remains. When commercial
+      aquaculture lapsed, water drained away and the basins choked with vegetation, until Kiskunság National
+      Park restored the wetland. It is the most famous corner of the Upper Kiskunság (Felső-Kiskunság)—the
+      park's largest saline expanse and the second-largest alkaline puszta on the Great Hungarian Plain after
+      Hortobágy, set upon the ancient low floodplain of the Danube near Kunszentmiklós.
+    landscape: >-
+      The saline puszta forms an intricate mosaic: calcareous-sodic steppes, saline meadows, alkaline
+      pastures, salt pans, and windblown loess-sand mounds. Drainage projects in past centuries accelerated
+      surface salinization, forging today's distinctive white crusts. Water is the rarest treasure. Early
+      spring pools evaporate rapidly by early summer through channels and summer heat; the only permanent
+      standing water is the artificially sustained Apaj ponds, covering four hundred and fifty hectares. Each
+      year from late summer through spring, pumps replenish the pond system.
+
+
+      The alkaline pastures depend intimately on grazing livestock. The establishment of the national park
+      phased out intensive farming, and traditional pastoral grazing remains essential to sustain halophytic
+      puszta flora. Alongside Hungarian grey cattle, visitors can observe rare herds of domestic water
+      buffalo.
+    wildlife: >-
+      **On the open water.** Mute swans remain year-round; northern shovelers occur from February to November;
+      whiskered terns from mid-April through September; the [white stork](/especie/ciconia_ciconia/) feeds
+      from mid-March to mid-September. Great white egrets hunt from late February to September and
+      occasionally overwinter.
+
+
+      **In the reedbeds.** The [Eurasian bittern](/especie/botaurus_stellaris/) is present from March to
+      October, breeding from mid-April through late June. The [bluethroat](/especie/luscinia_svecica/) arrives
+      in late March and stays until late September. Bearded reedlings, reed buntings, and Eurasian penduline
+      tits are permanent residents.
+
+
+      **On the open puszta.** The [great bustard](/especie/otis_tarda/) resides year-round, nesting from the
+      final week of April through late June. Collared pratincoles visit from April to September, black-winged
+      stilts from mid-April to September, and black-tailed godwits from March to August. In spring during
+      bustard lekking displays, large migratory wader flocks forage in shallow pans. Red-footed falcons breed
+      regularly in modest numbers. Winter rape and alfalfa fields provide winter sustenance for bustards.
+
+
+      At dusk along the dike, marsh frogs chorus; during the day, European fire-bellied toads call from the
+      shallows. The saline soils shelter the Hungarian wolf spider, the nation's largest protected arachnid,
+      hunting at twilight.
+    visit: >-
+      Follow the Réce nature trail, an interpretive footpath of 1,100 meters open to walkers year-round. It is
+      reached from Apaj along the red-cross blazed track branching from the red-band route. Its five stations
+      trace the wetland: the open pond, aquatic birdlife, reedbed inhabitants, the earthen dike, and the
+      alkaline puszta landscape. Observation towers stand at both trailheads, offering panoramic views across
+      the flats. The prime visiting seasons are spring, early summer, and autumn when migrating waterbirds
+      crowd the pools.
+
+
+      To view great bustards without causing disturbance, five dedicated viewing shelters dot the surrounding
+      terrain, accessible by car or bicycle via Bugyi, Apaj, Kunpeszér, and Kunszentmiklós. Built where
+      bustards regularly forage throughout the year, each hide features interpretive boards. Three platforms
+      rise four meters high, while two stand at one and a half meters, designed for wheelchair access. The
+      park's educational center, the House of Steppes at Kunszentmiklós-Bösztörpuszta, hosts guided walks and
+      exhibitions; each April it organizes the annual Great Bustard Festival.
+    history: >-
+      The territory has been safeguarded since 1975. A LIFE conservation project buried sixty kilometers of
+      medium-voltage aerial power cables across the Upper Kiskunság, eliminating the primary hazard of
+      collision for flying adult bustards.
+    before: >-
+      Owing to the extreme sensitivity of great bustards, visitors must strictly keep to marked trails and
+      viewing hides. Do not venture off-trail into open grasslands.
+    around: >-
+      Further afield, kindred steppes supporting great bustards include [Körös-Maros National
+      Park](/lugar/koros-maros-nemzeti-park/), which also hosts Kentish plovers, and [Hortobágy National Park
+      - The Hungarian Puszta](/lugar/hortobagyi-nemzeti-park---puszta/). Beyond Hungary, the [Lagunas de
+      Villafáfila Nature Reserve](/lugar/reserva-natural-lagunas-de-villafafila/) and the [Veliki Rit Pastures
+      Special Nature Reserve](/lugar/specijalni-rezervat-prirode-pasnjaci/) share similar bustard habitats.
+  fr:
+    intro: >-
+      Là où fonctionnaient autrefois des pêcheries s'étend aujourd'hui un sanctuaire d'oiseaux. Les étangs
+      d'Apaj ont été creusés dans les années cinquante pour la pisciculture ; de cette époque ne subsiste que
+      le nom. À l'abandon de l'exploitation, les bassins se sont asséchés et envasés, jusqu'à ce que le parc
+      national de Kiskunság réhabilite la zone humide. C'est le secteur le plus renommé de la Haute-Kiskunság
+      (Felső-Kiskunság), la plus vaste zone saline du parc et la seconde puszta alcaline de la Grande Plaine
+      hongroise après Hortobágy, établie sur l'ancien lit d'inondation du Danube près de Kunszentmiklós.
+    landscape: >-
+      La puszta saline se présente comme une mosaïque : pelouses alcalines, prairies halophiles, pâturages,
+      cuvettes de sel et buttes de lœss et sable apportées par le vent. Le drainage historique a précipité la
+      salinisation superficielle, façonnant les croûtes blanches actuelles. L'eau y est précieuse. Les laîches
+      printanières s'évaporent dès le début de l'été par les rigoles et la chaleur ; la seule étendue d'eau
+      permanente est le complexe d'étangs d'Apaj, maintenu artificiellement sur quatre cent cinquante
+      hectares. Chaque année, de la fin de l'été au printemps suivant, des pompes réalimentent le réseau
+      d'étangs.
+
+
+      Les pâtures salines nécessitent le bétail. La création du parc national a exclu l'agriculture intensive,
+      et le pâturage traditionnel demeure indispensable à la préservation de la flore halophile des pusztas.
+      Outre le bœuf gris de Hongrie, on y aperçoit des troupeaux de buffles d'eau, aujourd'hui devenus rares.
+    wildlife: >-
+      **Sur les plans d'eau.** Le cygne tuberculé s'observe toute l'année ; le canard souchet de février à
+      novembre ; la guifette moustac de la mi-avril à septembre ; la [cigogne
+      blanche](/especie/ciconia_ciconia/) de la mi-mars à la mi-septembre. La grande aigrette se montre de fin
+      février à septembre et hiverne parfois.
+
+
+      **Dans la roselière.** Le [butor étoilé](/especie/botaurus_stellaris/) est présent de mars à octobre et
+      niche de la mi-avril à la fin juin. La [gorgebleue à miroir](/especie/luscinia_svecica/) arrive fin mars
+      et demeure jusqu'à fin septembre. La panure à moustaches, le bruant des roseaux et la rémiz penduline
+      résident à l'année.
+
+
+      **Sur la puszta.** La [grande outarde](/especie/otis_tarda/) vit ici à demeure et niche de la dernière
+      semaine d'avril à fin juin. La glaréole à collier se rencontre d'avril à septembre, l'échasse blanche de
+      mi-avril à septembre et la barge à queue noire de mars à août. Au printemps, lors des parades nuptiales
+      des outardes, de grands groupes de limicoles en halte se nourrissent dans les flaques saumâtres. Le
+      faucon kobez niche régulièrement en petit nombre. Les cultures de colza et de luzerne fournissent la
+      nourriture hivernale des outardes.
+
+
+      À la tombée du soir résonnent les grenouilles depuis la digue, tandis que le sonneur à ventre rouge
+      chante le jour. Sur les sols salés chasse au crépuscule la tarentule de Hongrie, la plus grande araignée
+      protégée du pays.
+    visit: >-
+      Empruntez le sentier de découverte Réce, long de 1 100 mètres, accessible à pied toute l'année. On y
+      accède depuis Apaj par le chemin balisé d'une croix rouge issu du tracé principal. Ses cinq stations
+      longent l'étang : le plan d'eau, l'avifaune aquatique, les oiseaux de roselière, la digue et
+      l'écosystème des pusztas. À chaque extrémité du sentier se dresse une tour d'observation dominant
+      l'immensité de la plaine. Les périodes les plus favorables sont le printemps, le début de l'été et
+      l'automne lors du passage migratoire.
+
+
+      Pour observer les grandes outardes sans dérangement, cinq observatoires thématiques ont été aménagés aux
+      alentours, accessibles à vélo ou en voiture depuis Bugyi, Apaj, Kunpeszér et Kunszentmiklós. Bâtis là où
+      les outardes se tiennent habituellement, ils comportent des panneaux explicatifs. Trois tours s'élèvent
+      à quatre mètres de hauteur et deux à un mètre et demi, ces dernières accessibles en fauteuil roulant. La
+      Maison des Steppes, centre pédagogique du parc à Kunszentmiklós-Bösztörpuszta, organise visites guidées
+      et démonstrations ; chaque année en avril s'y tient la fête de l'outarde.
+    history: >-
+      Le secteur est sous protection depuis 1975. Un programme européen LIFE a permis d'enterrer soixante
+      kilomètres de lignes électriques moyennes tensions dans la Haute-Kiskunság, supprimant la première cause
+      de mortalité des outardes par collision.
+    before: >-
+      En raison de l'extrême timidité de la grande outarde, la visite s'effectue exclusivement sur le sentier
+      balisé et dans les observatoires. Il est formellement interdit de pénétrer dans les pâturages ouverts.
+    around: >-
+      À distance d'Apaj, d'autres réserves hébergent la grande outarde : le [parc national de
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) et le [parc national de Hortobágy - la puszta
+      hongroise](/lugar/hortobagyi-nemzeti-park---puszta/). Hors de Hongrie, la [réserve naturelle des lagunes
+      de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/) et la [réserve naturelle spéciale des
+      pâturages de Veliki Rit](/lugar/specijalni-rezervat-prirode-pasnjaci/) abritent des biotopes similaires.
+  de:
+    intro: >-
+      Wo einst Zuchtfischereien betrieben wurden, breitet sich heute ein Vogelparadies aus. Die Teiche von
+      Apaj wurden in den fünfziger Jahren zur Fischzucht angelegt; davon blieb nur der Name. Nach Aufgabe des
+      Betriebs verlandeten die Becken, bis der Nationalpark Kiskunság das Feuchtgebiet renaturierte. Es ist
+      der bekannteste Teil der Felső-Kiskunság—des weitesten Salzgebiets des Parks und der zweitgrößten
+      Salzpuszta der Großen Ungarischen Tiefebene nach Hortobágy auf der alten Donauaue bei Kunszentmiklós.
+    landscape: >-
+      Die Salzpuszta bildet ein Mosaik: kalk- und sodahaltige Steppen, Salzwiesen, Weiden, weiße Salzpfannen
+      und vom Wind verfrachtete Löss- und Sandhügel. Die historische Entwässerung beschleunigte die
+      Versalzung, die das heutige Landschaftsbild schuf. Wasser ist das kostbarste Gut. Frühjahrstümpel
+      trocknen bis zum Frühsommer durch Kanäle und Verdunstung aus; das einzige permanente Stillgewässer sind
+      die künstlich gespeisten Teiche von Apaj auf vierhundertfünfzig Hektar. Jeweils vom Spätsommer bis ins
+      Frühjahr versorgen Pumpen das Gewässersystem.
+
+
+      Salzweiden brauchen Beweidung. Mit der Gründung des Nationalparks endete die intensive Landwirtschaft;
+      die traditionelle Weidewirtschaft bleibt der Schlüssel zur Erhaltung der Halophytenflora. Neben dem
+      Ungarischen Steppenrind trifft man hier auch auf die seltene Herde von Wasserbüffeln.
+    wildlife: >-
+      **Auf dem Wasser.** Der Höckerschwan weilt ganzjährig; Löffelenten von Februar bis November;
+      Weißbart-Seeschwalben von Mitte April bis September; der [Weißstorch](/especie/ciconia_ciconia/) von
+      Mitte März bis Mitte September. Silberreiher jagen von Ende Februar bis September und überwintern
+      gelegentlich.
+
+
+      **Im Schilfgürtel.** Die [Rohrdommel](/especie/botaurus_stellaris/) lebt von März bis Oktober im Ried
+      und brütet von Mitte April bis Ende Juni. Das [Blaukehlchen](/especie/luscinia_svecica/) trifft Ende
+      März ein und bleibt bis Ende September. Bartmeise, Rohrammer und Beutelmeise sind Standvögel.
+
+
+      **Auf der Puszta.** Die [Großtrappe](/especie/otis_tarda/) hält sich das ganze Jahr über auf und brütet
+      von der letzten Aprilwoche bis Ende Juni. Brachschwalben zeigen sich von April bis September,
+      Stelzenläufer von Mitte April bis September und Uferschnepfen von März bis August. Im Frühjahr während
+      der Trappenbalz rasten große Züge von Watvögeln an den Flachwasserbecken. Der Rotfußfalke brütet
+      regelmäßig in kleiner Zahl. Winterraps- und Luzernefelder sichern den Trappen das Überleben in der
+      kalten Jahreszeit.
+
+
+      In der Abenddämmerung ertönen Laubfrösche am Deich; tagsüber ruft die Rotbauchunke. Im salzigen Boden
+      jagt in der Dämmerung die Ungarische Wolfsspinne, die größte geschützte Spinne des Landes.
+    visit: >-
+      Folge dem Naturlehrpfad Réce über 1.100 Meter, der ganzjährig zu Fuß begehbar ist. Der Einstieg erfolgt
+      von Apaj über den mit einem roten Kreuz markierten Zubringerweg. Seine fünf Stationen erschließen das
+      Feuchtgebiet: Teichgewässer, Wasservögel, Röhrichtfauna, Dammbauwerk und Puszta-Ökosystem. An beiden
+      Pfadenden erheben sich Beobachtungstürme mit weitem Blick über das Steppenland. Die günstigsten Monate
+      sind Frühjahr, Frühsommer und der Vogelzug im Herbst.
+
+
+      Zur störungsfreien Trappenbeobachtung wurden fünf Beobachtungspunkte im Umland eingerichtet, erreichbar
+      mit Auto oder Fahrrad über Bugyi, Apaj, Kunpeszér und Kunszentmiklós. Jeder Unterstand bietet
+      Informationstafeln. Drei Kanzeln liegen auf vier Metern Plattformhöhe, zwei auf eineinhalb Metern mit
+      rollstuhlgerechtem Zugang. Das Bildungszentrum «Haus der Steppen» in Kunszentmiklós-Bösztörpuszta
+      veranstaltet Führungen; jeden April findet dort das Trappenfest statt.
+    history: >-
+      Das Gebiet steht seit 1975 unter Schutz. Ein LIFE-Projekt verlegte sechzig Kilometer
+      Mittelspannungsfreileitungen in der Felső-Kiskunság unter die Erde, um Trappenanflüge an Stromleitungen
+      zu verhindern.
+    before: >-
+      Wegen der extremen Scheu der Großtrappen darf das Areal nur auf den markierten Wegen und von den
+      Beobachtungstürmen aus erkundet werden. Das Betreten der Freiflächen ist untersagt.
+    around: >-
+      Abseits von Apaj teilen weitere Reservate Trappen und Salzsteppen: der
+      [Körös-Maros-Nationalpark](/lugar/koros-maros-nemzeti-park/) und der [Hortobágy-Nationalpark - Die
+      ungarische Puszta](/lugar/hortobagyi-nemzeti-park---puszta/). Jenseits der Landesgrenzen bieten das
+      [Naturreservat Lagunas de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/) und das
+      [Sonder-Naturreservat Veliki Rit Weiden](/lugar/specijalni-rezervat-prirode-pasnjaci/) vergleichbare
+      Steppenbiotope.
+  it:
+    intro: >-
+      Dove sorgevano impianti d'itticoltura si estende oggi un rifugio naturale per uccelli acquatici. I
+      bacini di Apaj nacquero negli anni Cinquanta per l'allevamento ittico; di quell'epoca resta soltanto il
+      nome. Con l'abbandono dell'attività, l'acqua defluì e le vasche si interrarono, finché il Parco
+      Nazionale di Kiskunság non intraprese il recupero della zona umida. È la frazione più rinomata della
+      Felső-Kiskunság, il più vasto comprensorio salino del parco e la seconda puszta alcalina della Grande
+      Pianura Ungherese dopo Hortobágy, adagiata sull'antica golena del Danubio presso Kunszentmiklós.
+    landscape: >-
+      La puszta salata compone un mosaico: steppa calcico-sodica, prati alofili, pascoli, chiazze saline
+      spoglie e dossi di loess e sabbia modellati dal vento. I drenaggi del passato hanno acuito la
+      salinizzazione superficiale creando le tipiche croste biancastre. L'acqua è un bene prezioso. Gli
+      specchi d'acqua primaverili evaporano a inizio estate per effetto dei canali e del calore; l'unico
+      bacino permanente è il complesso lacustre di Apaj, sostenuto artificialmente su quattrocentocinquanta
+      ettari. Ogni anno, dal termine dell'estate alla primavera successiva, pompe idrauliche alimentano la
+      rete di canali.
+
+
+      I pascoli alofili necessitano del pascolo brado. Con l'istituzione del parco nazionale è cessata
+      l'agricoltura intensiva, e il pascolo tradizionale rimane determinante per mantenere la vegetazione
+      tipica della puszta. Accanto ai bovini grigi ungheresi si incontra qui la mandria di bufali d'acqua,
+      oggi rara.
+    wildlife: >-
+      **Sulle acque.** Il cigno reale è stanziale; il mestolone comune si osserva da febbraio a novembre; il
+      mignattino piombato da metà aprile a settembre; la [cicogna bianca](/especie/ciconia_ciconia/) da metà
+      marzo a metà settembre. L'airone bianco maggiore compare da fine febbraio a settembre e talvolta sverna.
+
+
+      **Nel canneto.** Il [tarabuso](/especie/botaurus_stellaris/) è presente da marzo a ottobre e nidifica da
+      metà aprile a fine giugno. Il [pettazzurro](/especie/luscinia_svecica/) giunge a fine marzo e resta fino
+      a fine settembre. Basettino, migliarino di palude e pendolino sono stanziali.
+
+
+      **Nella puszta.** L' [otarda comune](/especie/otis_tarda/) dimora tutto l'anno e nidifica dall'ultima
+      settimana di aprile a fine giugno. La pernice di mare si osserva da aprile a settembre, il cavaliere
+      d'Italia da metà aprile a settembre e la pittima reale da marzo ad agosto. In primavera, durante le
+      parate nuziali delle otarde, stormi di limicoli si alimentano nei bassifondi salmastri. Il falco cuculo
+      nidifica regolarmente in contingenti ridotti. Le coltivazioni invernali di colza e medica sostentano le
+      otarde nei mesi freddi.
+
+
+      Al crepuscolo gracidano le rane lungo gli argini, mentre di giorno canta l'ululone dal ventre rosso. Nel
+      terreno salino caccia la tarantola ungherese, il più grande ragno protetto d'Ungheria.
+    visit: >-
+      Segui il sentiero didattico Réce, lungo 1.100 metri e percorribile a piedi tutto l'anno. Si imbocca da
+      Apaj lungo la pista contrassegnata da una croce rossa che devia dal tracciato principale. Le sue cinque
+      stazioni costeggiano la laguna: lo specchio d'acqua, gli uccelli acquatici, la vita del canneto,
+      l'argine e il paesaggio delle pusztas. Ai due estremi del percorso sorgono torrette di avvistamento con
+      vista sulla puszta. I momenti migliori coincidono con la primavera, l'inizio dell'estate e l'autunno
+      durante le migrazioni.
+
+
+      Per osservare le otarde senza disturbarle sono allestiti cinque capanni tematici nel comprensorio,
+      raggiungibili in auto o in bicicletta da Bugyi, Apaj, Kunpeszér e Kunszentmiklós. Costruiti dove le
+      otarde sostano abitualmente, includono pannelli didattici. Tre capanni sorgono a quattro metri d'altezza
+      e due a un metro e mezzo, questi ultimi accessibili in sedia a rotelle. La Casa delle Steppe a
+      Kunszentmiklós-Bösztörpuszta accoglie le scolaresche e promuove ogni aprile la festa dell'otarda.
+    history: >-
+      L'area gode di protezione dal 1975. Un progetto europeo LIFE ha interrato sessanta chilometri di linee
+      elettriche a media tensione nella Felső-Kiskunság, azzerando il rischio di collisione per le otarde
+      adulte in volo.
+    before: >-
+      A motivo dell'estrema vulnerabilità dell'otarda, la visita è consentita solo sui tracciati segnalati e
+      dalle torrette. Non uscire nei prati aperti.
+    around: >-
+      Lontano da Apaj altre oasi condividono la steppa e l'otarda: il [Parco Nazionale
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) e il [Parco Nazionale di Hortobágy - La Puszta
+      Ungherese](/lugar/hortobagyi-nemzeti-park---puszta/). Fuori dall'Ungheria, la [Riserva Naturale Lagune
+      di Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/) e la [Riserva Naturale Speciale dei
+      Pascoli di Veliki Rit](/lugar/specijalni-rezervat-prirode-pasnjaci/) conservano ambienti similari.
+  pt:
+    intro: >-
+      Onde outrora funcionavam viveiros piscícolas opera hoje um refúgio de avifauna. As lagoas de Apaj foram
+      escavadas na década de cinquenta para criação de peixe; dessa era resta apenas o nome. Com a cessação da
+      exploração, a água escoou e as bacias assorearam-se, até que o Parque Nacional de Kiskunság recuperou a
+      zona húmida. É o setor mais célebre da Felső-Kiskunság, a maior área salina do parque e a segunda maior
+      estepe alcalina da Grande Planície Húngara a seguir a Hortobágy, sobre o antigo leito de cheia do
+      Danúbio junto a Kunszentmiklós.
+    landscape: >-
+      A puszta salina constitui um mosaico: estepe alcalina, prados salinos, pastagens, lagoas secas cobertas
+      de eflorescências de sal e outeiros arenosos de loesse. As drenagens do passado aceleraram a salinização
+      superficial e forjaram a paisagem atual. A água é o recurso mais escasso. Os charcos da primavera secam
+      no início do verão pela evaporação e drenagem; o único plano de água permanente são as lagoas de Apaj,
+      sustentadas artificialmente ao longo de quatrocentas e cinquenta hectares. Todos os anos, do final do
+      verão à primavera seguinte, sistemas de bombagem abastecem os canais.
+
+
+      As pastagens salinas dependem da presença do gado. Com a instituição do parque nacional foi abolida a
+      agricultura intensiva, e o pastoreio tradicional continua indispensável para manter a vegetação halófila
+      da estepe. A par do gado cinzento húngaro, avista-se aqui uma manada de búfalos-asiáticos, hoje
+      invulgar.
+    wildlife: >-
+      **Na água.** O cisne-mudo observa-se durante todo o ano; o pato-colhereiro de fevereiro a novembro; a
+      gaivina-de-faces-brancas de meados de abril a setembro; a [cegonha-branca](/especie/ciconia_ciconia/) de
+      meados de março a meados de setembro. A garça-branca-grande ocorre do final de fevereiro a setembro e
+      por vezes inverna.
+
+
+      **No caniçal.** O [abcaravão](/especie/botaurus_stellaris/) regista-se de março a outubro e nidifica
+      entre meados de abril e o final de junho. O [pisco-de-peito-azul](/especie/luscinia_svecica/) chega em
+      finais de março e permanece até ao fim de setembro. O chapim-de-bigodes, o escrevedeira-dos-caniços e o
+      chapim-de-faces-pretas são residentes anuais.
+
+
+      **Na estepe.** A [abetarda-comum](/especie/otis_tarda/) está presente todo o ano e nidifica desde a
+      última semana de abril até ao final de junho. A perdiz-do-mar avista-se de abril a setembro, o
+      pernilongo de meados de abril a setembro e o maçarico-de-bico-direito de março a agosto. Na primavera,
+      durante a parada nupcial das abetardas, bandos de limícolas alimentam-se nas poças baixas. O
+      bútio-de-pés-vermelhos reproduz-se em pequenas quantidades. Os campos de colza e luzerna garantem
+      alimento de inverno às abetardas.
+
+
+      Ao entardecer ouvem-se as rãs junto ao dique; de dia escuta-se o bombina-de-barriga-vermelha. No solo
+      salino caça a tarântula-húngara, a maior aranha protegida do país.
+    visit: >-
+      Segue o trilho interpretativo Réce, com 1.100 metros, que se percorre a pé todo o ano. Acede-se a partir
+      de Apaj pelo caminho sinalizado com cruz vermelha que parte da rota principal. As cinco paragens
+      acompanham a lagoa: o plano de água, a vida das aves aquáticas, as espécies do caniçal, o dique e o
+      ambiente da puszta. Nos extremos do trilho erguem-se torres de observação panorâmicas sobre a estepe. A
+      melhor época compreende a primavera, o início do verão e o outono na passagem migratória.
+
+
+      Para avistar abetardas sem perturbação existem cinco postos de observação temáticos no entorno,
+      acessíveis de automóvel ou bicicleta por Bugyi, Apaj, Kunpeszér e Kunszentmiklós. Construídos nos locais
+      habituais das aves, dispõem de painéis didáticos. Três postos elevam-se a quatro metros de altura e dois
+      a metro e meio, adaptados a cadeiras de rodas. O centro educativo do parque, a Casa das Estepes em
+      Kunszentmiklós-Bösztörpuszta, organiza passeios e acolhe em abril a festa anual da abetarda.
+    history: >-
+      A área encontra-se protegida desde 1975. Um projeto LIFE enterrou sessenta quilómetros de cabos
+      elétricos de média tensão na Felső-Kiskunság, afastando o risco de colisão para as abetardas adultas em
+      voo.
+    before: >-
+      Dada a timidez da abetarda, a visita realiza-se exclusivamente nos trilhos marcados e a partir das
+      torres. É proibido pisar a estepe aberta.
+    around: >-
+      Longe de Apaj, outros espaços partilham a estepe e a abetarda: o [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) e o [Parque Nacional de Hortobágy - A Puszta
+      Húngara](/lugar/hortobagyi-nemzeti-park---puszta/). Fora da Hungria, a [Reserva Natural das Lagoas de
+      Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/) e a [Reserva Natural Especial das Pastagens
+      de Veliki Rit](/lugar/specijalni-rezervat-prirode-pasnjaci/) abrigam habitats semelhantes.
+fuentes:
+  - url: https://www.knp.hu/hu/apaj-rece-tanosveny
+    titulo: Apaj, Réce tanösvény — Kiskunsági Nemzeti Park
+    fecha_consulta: '2026-11-06'
+  - url: https://www.knp.hu/hu/felso-kiskunsagi-puszta
+    titulo: Felső-kiskunsági-puszta — Kiskunsági Nemzeti Park
+    fecha_consulta: '2026-11-06'
+  - url: https://www.knp.hu/hu/kilatopontok-a-felso-kiskunsagban
+    titulo: Kilátópontok a Felső-Kiskunságban — Kiskunsági Nemzeti Park
+    fecha_consulta: '2026-11-06'
+  - url: https://www.knp.hu/hu/sztyeppek-haza-oktatokozpont
+    titulo: Sztyeppék Háza Oktatóközpont — Kiskunsági Nemzeti Park
+    fecha_consulta: '2026-11-06'

@@ -1,0 +1,699 @@
+id: parque-nacional-de-donana
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Doñana
+  en: Doñana National Park
+  fr: Parc national de Doñana
+  de: Doñana-Nationalpark
+  it: Parco Nazionale di Doñana
+  pt: Parque Nacional de Doñana
+nombre_original: Parque Nacional de Doñana
+alias:
+  - Parque Nacional de Doñana
+paises:
+  - ES
+region:
+  es: Andalucía (Huelva / Sevilla / Cádiz — El Rocío, Matalascañas, Sanlúcar)
+  en: Andalusia (Huelva / Seville / Cádiz — El Rocío, Matalascañas, Sanlúcar)
+  fr: Andalousie (Huelva / Séville / Cadix — El Rocío, Matalascañas, Sanlúcar)
+  de: Andalusien (Huelva / Sevilla / Cádiz — El Rocío, Matalascañas, Sanlúcar)
+  it: Andalusia (Huelva / Siviglia / Cadice — El Rocío, Matalascañas, Sanlúcar)
+  pt: Andaluzia (Huelva / Sevilha / Cádis — El Rocío, Matalascañas, Sanlúcar)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 36.989
+  lon: -6.404
+  radio_km: 13
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389012
+  nombre_en_la_fuente: Doñana
+  capa: capas/cdda/parque-nacional-de-donana.geojson
+habitats:
+  - wetland
+  - coast
+  - mediterranean_forest
+designaciones:
+  - national_park
+  - iucn_ii
+  - unesco_whs
+  - ramsar
+  - biosphere_reserve
+  - natura2000
+especies:
+  - lynx_pardinus
+  - aquila_adalberti
+  - phoenicopterus_roseus
+  - grus_grus
+  - platalea_leucorodia
+  - porphyrio_porphyrio
+temporada_ideal:
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+temporada_nota:
+  es: invernada de aves acuáticas y paso primaveral; las marismas pueden estar secas en verano
+  en: wintering waterbirds and spring passage; marshes often dry up in summer
+  fr: hivernage des oiseaux d’eau et passage printanier ; les marais peuvent être à sec en été
+  de: Wasservogelüberwinterung und Frühjahrszug; die Marschen trocknen im Sommer oft vollständig aus
+  it: svernamento degli uccelli acquatici e passo primaverile; le paludi possono essere in secca in estate
+  pt: invernada de aves aquáticas e passagem primaveril; os sapais podem secar no verão
+masificacion: 2
+masificacion_nota:
+  es: Alta en El Rocío durante la romería; el interior del parque solo se visita con guía autorizado
+  en: High in El Rocío during the pilgrimage; the park interior is accessible only with certified guides
+  fr: Forte à El Rocío pendant le pèlerinage ; l’intérieur du parc ne se visite qu’avec un guide officiel
+  de: Sehr hoch in El Rocío während der Wallfahrt; das Parkinnere ist nur mit autorisierter Führung zugänglich
+  it: Altissima a El Rocío durante il pellegrinaggio; l’interno del parco si visita solo con guida autorizzata
+  pt: >-
+    Elevadíssima em El Rocío durante a romaria; o interior do parque apenas pode ser visitado com guia
+    credenciado
+valoracion: 2
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Parque Nacional de Doñana (MITECO)
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana.html
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/accesos.html
+  - titulo: Mapa — Cartografía del parque
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/mapa.html
+  - titulo: Rutas — Itinerarios del parque
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/itinerarios.html
+  - titulo: Centros de visitantes — Información y equipamientos
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/centros.html
+  - titulo: Normas — Recomendaciones de visita
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/recomendaciones.html
+enlaces_referencia:
+  - titulo: 'UNESCO: Doñana National Park'
+    url: https://whc.unesco.org/en/list/685
+resumen:
+  es: >-
+    La gran marisma atlántica de Europa: cruce de rutas migratorias entre Europa y África, con lince ibérico y
+    águila imperial.
+  en: >-
+    Europe’s greatest Atlantic wetland: crossroads of intercontinental migratory flyways between Europe and
+    Africa, refuge of Iberian lynx and Spanish imperial eagle.
+  fr: >-
+    Le plus grand marais atlantique d’Europe : carrefour migratoire intercontinental entre Europe et Afrique,
+    sanctuaire du lynx pardelle et de l’aigle ibérique.
+  de: >-
+    Europas größtes atlantisches Feuchtgebiet: Kreuzungspunkt interkontinentaler Zugwege zwischen Europa und
+    Afrika, Zuflucht für Pardelluchs und Spanischen Kaiseradler.
+  it: >-
+    La maggiore palude atlantica d’Europa: crocevia delle rotte migratorie tra Europa e Africa, rifugio per la
+    lince pardina e l’aquila imperiale iberica.
+  pt: >-
+    O maior sapal atlântico da Europa: encruzilhada de rotas migratórias entre Europa e África, reduto do
+    lince-ibérico e da águia-imperial-ibérica.
+unico:
+  es: >-
+    Una marisma de unas 27 000 hectáreas que pasa de lago a desierto de arcilla en un mismo año, pegada a un
+    mar de dunas móviles casi inexistente en el resto de la península.
+  en: >-
+    A vast wetland of some 27,000 hectares that transforms from open lake to parched cracked clay within the
+    same year, bordered by shifting coastal dune systems.
+  fr: >-
+    Un marais d’environ 27 000 hectares passant d’un vaste lac à un désert d’argile craquelée au fil d’une
+    même année, bordé d’un cordon de dunes mobiles.
+  de: >-
+    Ein rund 27 000 Hektar großes Feuchtgebiet, das sich binnen eines Jahres von einer Lagune in eine rissige
+    Tonwüste verwandelt, gesäumt von Wanderdünen.
+  it: >-
+    Una palude di circa 27 000 ettari che si trasforma da lago a deserto d’argilla crepata nell’arco di un
+    solo anno, orlata da cordoni di dune costiere mobili.
+  pt: >-
+    Um sapal com cerca de 27 000 hectares que transita de lago imenso a deserto de argila gretada no mesmo
+    ano, orlado por dunas móveis costeiras.
+observaciones:
+  es: >-
+    El interior del parque solo se visita con guía autorizado. Reserva con antelación los itinerarios guiados,
+    porque las plazas son limitadas. Para ver la fauna casi hacen falta prismáticos. Circula solo por los
+    senderos establecidos, llévate la basura y respeta el silencio. Las marismas pueden estar secas en verano.
+    En El Rocío la afluencia es alta durante la romería.
+texto:
+  es:
+    intro: >-
+      En Doñana el paisaje no se queda quieto. En otoño la marisma se encharca con las primeras lluvias, en
+      invierno se va inundando poco a poco, en primavera las flores de los ranúnculos la cubren y en verano se
+      convierte en un desierto de arcilla rota y polvorienta. Ese vaivén, entre el agua y la sequía, es lo que
+      ha hecho de este rincón de Huelva, Sevilla y Cádiz un lugar de paso, cría e invernada para aves europeas
+      y africanas.
+
+
+      El Parque Nacional de Doñana se creó por decreto en 1969, cuando parte del territorio todavía era
+      privado. Hoy el conjunto suma 122 487 hectáreas: 54 251 de parque nacional y 68 236 de parque natural,
+      el llamado entorno o preparque.
+    landscape: >-
+      La marisma es el corazón: unas 27 000 hectáreas que dependen de los arroyos y de la lluvia, y por eso
+      cambian tanto con las estaciones. No es una sola cosa. En la marisma dulce, más honda, el agua dura más
+      y baja la salinidad, de modo que crece vegetación palustre y se ven grandes bandadas de flamencos y
+      ánsares comunes. En la marisma salada, algo más elevada y con menos agua dulce, hay menos herbáceas y
+      anidan grandes colonias de aves limícolas.
+
+
+      Hacia la costa manda el viento del suroeste, que empuja los llamados trenes de dunas. Son dunas móviles
+      que van enterrando la vegetación, y sobre todo los árboles, que luego emergen muertos cuando la arena
+      sigue su camino. Entre la arena resisten arbustos hechos al viento: el barrón, la camarina y la retama.
+
+
+      Tierra adentro están las arenas estabilizadas, los cotos, que cubren la mayor parte de las zonas secas.
+      Allí se desarrollan alcornocales ácidos, sobre todo al noroeste, y pinares de pino piñonero. Entre las
+      plantas de interés destacan el enebro marítimo y especies amenazadas como Linaria tursica y Vulpia
+      fontquerana. El clima es mediterráneo y suave, con de tres a cinco meses de aridez en verano.
+    wildlife: >-
+      El invierno es la gran temporada de las aves. La marisma acoge a numerosas aves acuáticas que algunos
+      años llegan a los 500 000 individuos, y por su posición entre dos continentes, cerca del estrecho de
+      Gibraltar, se pueden observar más de 400 especies de aves a lo largo del año. Entre ellas hay especies
+      de área muy restringida, como el [águila imperial ibérica](/especie/aquila_adalberti/), la cerceta
+      pardilla, la malvasía cabeciblanca y la focha moruna. En la marisma salada, las colonias de limícolas;
+      en la dulce, el [flamenco común](/especie/phoenicopterus_roseus/) y el [ánsar
+      común](/especie/anser_anser/).
+
+
+      Entre los mamíferos, de los 38 registrados, están el [lince ibérico](/especie/lynx_pardinus/), el
+      meloncillo, la [nutria](/especie/lutra_lutra/), el gato montés, la [gineta](/especie/genetta_genetta/) y
+      doce especies de murciélagos. Doñana tiene además dos razas autóctonas de équidos, el caballo marismeño
+      y el caballo de las retuertas, ambas en peligro de extinción. Están catalogadas 20 especies de peces de
+      agua dulce, 10 de anfibios y 13 de reptiles.
+
+
+      El calendario resume bien el año. Otoño e invierno son la época más propicia: hay menos visitantes, las
+      temperaturas suelen ser muy agradables y se disfruta de las aves invernantes. La primavera trae el paso
+      de aves y la marisma florida; el verano, la marisma seca. Cada estación da una visión distinta de
+      Doñana.
+    visit: >-
+      El parque ofrece tres itinerarios: dos terrestres por el interior, en vehículos todoterreno, y uno
+      fluvial desde Sanlúcar de Barrameda. Son el itinerario Acebuche–La Plancha–Acebuche, el fluvial Sanlúcar
+      de Barrameda–La Plancha–Sanlúcar y el itinerario norte, de El Rocío al centro José Antonio Valverde y
+      vuelta. Las salidas en autobuses 4x4 parten de la aldea de El Rocío o del centro de visitantes de El
+      Acebuche. En los recorridos guiados hay guías que usan al menos español e inglés.
+
+
+      El Acebuche, en un antiguo cortijo, es el punto de partida de las visitas y tiene senderos y
+      observatorios de aves sobre su laguna. Junto a él está el observatorio El Porrón. El parque cuenta
+      además con centros de visitantes en La Rocina, el Palacio del Acebrón, José Antonio Valverde y la
+      Fábrica de Hielo, y en cada uno hay un guía de la administración. Al centro Valverde se llega por pistas
+      sin asfaltar.
+    history: >-
+      El lugar ya fue coto antes de ser parque: en 1255 Alfonso X estableció entre el río Tinto y el
+      Guadalquivir un Cazadero Real en el bosque de Las Rocinas. Con los siglos se introdujeron especies de
+      caza como el gamo y, para proteger el ganado, se eliminó a los lobos. La ciencia llegó en el siglo XX.
+      En 1952 los naturalistas José Antonio Valverde y Francisco Bernis hicieron aquí el primer proyecto de
+      anillamiento de aves, y en 1954 fundaron con González-Gordon la Sociedad Española de Ornitología. El
+      culto a la Virgen del Rocío es inseparable del coto.
+
+
+      El problema más grave hoy es el agua. El acuífero se ha ido agotando por extracciones para regadío,
+      muchas ilegales, para cultivos como algodón, arroz y fresa. La laguna de Santa Olalla, la mayor laguna
+      permanente, se secó por completo en los veranos de 2022, 2023 y 2024. Para el lince, el Centro de Cría
+      de El Acebuche mantiene un programa de cría en cautividad, pero los atropellos de vehículos que entran
+      ilegalmente o circulan por las carreteras del entorno siguen siendo una amenaza.
+    before: >-
+      El interior del parque solo se visita con guía autorizado. Reserva con antelación los itinerarios
+      guiados, porque las plazas son limitadas. Para ver la fauna casi hacen falta prismáticos. Circula solo
+      por los senderos establecidos, llévate la basura y respeta el silencio. Las marismas pueden estar secas
+      en verano. En El Rocío la afluencia es alta durante la romería.
+    around: >-
+      Doñana no tiene vecinos cercanos en el atlas, pero sí parientes lejanos. Los [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), la [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) y la [Reserva Natural de
+      Vendicari](/lugar/riserva-naturale-orientata-vendicari/) comparten con ella el flamenco, la [espátula
+      común](/especie/platalea_leucorodia/) y el [calamón común](/especie/porphyrio_porphyrio/), en humedales
+      de costa. El [Delta del Evros](/lugar/ethniko-parko-delta-evrou/) comparte el flamenco, la espátula y el
+      ánsar común.
+  en:
+    intro: >-
+      In Doñana the landscape never stands still. In autumn the marshlands fill with the first rains, through
+      winter they flood deeply, in spring they are cloaked in white water-crowfoot blooms, and in summer they
+      transform into a cracked, sun-baked clay expanse. This relentless seasonal pulse between flood and
+      drought is what makes this corner of Huelva, Seville, and Cádiz an indispensable breeding, staging, and
+      wintering refuge for European and African birds.
+
+
+      Doñana National Park was established by decree in 1969 when much of the land was still privately owned.
+      Today the protected complex encompasses 122,487 hectares: 54,251 hectares of national park and 68,236
+      hectares of natural park forming its buffer zone.
+    landscape: >-
+      The marshland (*marisma*) is the pulsating core: some 27,000 hectares reliant on seasonal stream inflows
+      and rainfall, changing radically through the seasons. It is not uniform. In the freshwater marshes,
+      deeper water persists longer with lower salinity, supporting lush aquatic vegetation that attracts
+      immense flocks of flamingos and greylag geese. In the brackish marshes, slightly elevated with less
+      freshwater inflow, halophytic scrub dominates and dense colonies of waders nest.
+
+
+      Toward the ocean, prevailing southwesterly winds drive mobile dune trains. These shifting dunes steadily
+      bury pine groves and scrub, which later emerge dead as ghostly trunks when the sand advances.
+      Salt-tolerant and wind-resistant pioneer shrubs anchor the dunes: marram grass, Portuguese crowberry,
+      and white weeping broom.
+
+
+      Inland lie the stabilized sands (*cotos*), covering most dry terrain. Here open cork oak woodlands
+      flourish on acidic soils alongside extensive stone pine forests. Botanical gems include sea juniper and
+      rare endemic flora like Linaria tursica and Vulpia fontquerana. The Mediterranean climate brings mild
+      winters and three to five months of severe summer drought.
+    wildlife: >-
+      Winter represents the pinnacle of bird spectacle. The marshes shelter waterbird gatherings that in peak
+      seasons reach 500,000 individuals, and due to its strategic position near the Strait of Gibraltar, over
+      400 bird species can be recorded across the year. These include rare, endangered endemics like the
+      [Spanish imperial eagle](/especie/aquila_adalberti/), marbled duck, white-headed duck, and red-knobbed
+      coot. Saline flats host breeding waders, while open fresh waters welcome the [greater
+      flamingo](/especie/phoenicopterus_roseus/) and [greylag goose](/especie/anser_anser/).
+
+
+      Among 38 mammal species recorded are the [Iberian lynx](/especie/lynx_pardinus/), Egyptian mongoose,
+      [Eurasian otter](/especie/lutra_lutra/), European wildcat, [common genet](/especie/genetta_genetta/),
+      and twelve bat species. Doñana also sustains two endangered autochthonous feral horse breeds, the
+      Marismeño and Retuertas horses. Surveys catalog 20 freshwater fish species, 10 amphibians, and 13
+      reptiles.
+
+
+      The seasons tell contrasting stories. Autumn and winter are ideal: visitor numbers are low, temperatures
+      pleasant, and waterbird flocks at their peak. Spring brings mass migration and blooming marshes, while
+      summer reveals parched clay plains. Each season presents a fundamentally different face of Doñana.
+    visit: >-
+      Three official guided routes explore the park: two overland circuits in all-terrain vehicles and one
+      boat excursion from Sanlúcar de Barrameda. These comprise the Acebuche–La Plancha–Acebuche route, the
+      Sanlúcar–La Plancha–Sanlúcar river trip, and the northern route from El Rocío to the José Antonio
+      Valverde Centre. Departures in 4x4 buses leave from El Rocío village or El Acebuche Visitor Centre, led
+      by certified guides operating in Spanish and English.
+
+
+      El Acebuche, set around an old estate farmhouse, acts as the primary hub with boardwalk trails and bird
+      hides overlooking the lagoon, alongside the El Porrón hide. Further visitor centres operate at La
+      Rocina, Acebrón Palace, José Antonio Valverde, and Fábrica de Hielo, each staffed by park personnel. The
+      remote Valverde centre is reached via unpaved tracks across the marsh.
+    history: >-
+      The area served as a royal hunting estate long before becoming a park: in 1255 King Alfonso X
+      established a Royal Hunting Ground in the Las Rocinas forest between the Tinto and Guadalquivir rivers.
+      Over centuries fallow deer were introduced and wolves eradicated to protect livestock. Modern science
+      arrived in the twentieth century: in 1952 naturalists José Antonio Valverde and Francisco Bernis
+      organized Spain’s first systematic bird-ringing campaign here, and in 1954 founded the Spanish
+      Ornithological Society with González-Gordon. Religious devotion to the Virgin of El Rocío is deeply
+      intertwined with the landscape.
+
+
+      Today the most critical crisis is water scarcity. The regional aquifer has been overexploited by
+      agricultural boreholes, many illegal, servicing intensive crops like strawberries and rice. The
+      permanent Santa Olalla lagoon dried up entirely in the summers of 2022, 2023, and 2024. For the lynx, El
+      Acebuche manages a vital captive-breeding centre, though road traffic on surrounding highways remains a
+      persistent hazard.
+    before: >-
+      The interior of the national park is accessible exclusively via authorized guided tours. Reserve well in
+      advance due to strict vehicle quotas. High-quality binoculars are indispensable for wildlife viewing.
+      Stay strictly on marked boardwalks, carry out all waste, and maintain silence. Marshes are typically dry
+      in summer. El Rocío experiences massive crowds during the annual Pentecost pilgrimage.
+    around: >-
+      Doñana has distant ecological counterparts. [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/), and [Vendicari Nature
+      Reserve](/lugar/riserva-naturale-orientata-vendicari/) share the greater flamingo, [Eurasian
+      spoonbill](/especie/platalea_leucorodia/), and [western swamphen](/especie/porphyrio_porphyrio/) in
+      Mediterranean coastal wetlands. [Evros Delta National Park](/lugar/ethniko-parko-delta-evrou/) shares
+      the flamingo, spoonbill, and greylag goose.
+  fr:
+    intro: >-
+      À Doñana, le paysage est en constante métamorphose. À l’automne, le marais s’inonde dès les premières
+      averses, en hiver il s’étend à perte de vue, au printemps un tapis de renoncules aquatiques le recouvre,
+      et en été il se meut en un désert de terre craquelée et poudreuse. Cette oscillation perpétuelle entre
+      submersion et aridité a fait de ce carrefour de Huelva, Séville et Cadix une halte incontournable de
+      repos, de reproduction et d’hivernage pour l’avifaune européenne et africaine.
+
+
+      Le parc national de Doñana fut instauré par décret en 1969 alors qu’une part du domaine appartenait
+      encore à des propriétaires privés. L’ensemble protégé couvre aujourd’hui 122 487 hectares : 54 251
+      hectares de parc national et 68 236 hectares de parc naturel formant sa zone tampon périphérique.
+    landscape: >-
+      La lagune marécageuse (la marisma) est le cœur battant du site : quelque 27 000 hectares tributaires des
+      pluies et des cours d’eau temporaires, se transformant au fil des mois. Elle se divise en plusieurs
+      entités. Dans le marais d’eau douce, plus profond, l’eau subsiste longtemps et la salinité baisse,
+      favorisant une dense végétation palustre où s’assemblent flamants roses et oies cendrées. Dans le marais
+      saumâtre, plus haut perché et moins alimenté en eau douce, dominent les buissons halophiles où nidifient
+      d’immenses colonies de limicoles.
+
+
+      Vers l’océan règne le vent du sud-ouest qui pousse les cordons de dunes mobiles. Ces masses de sable
+      ensevelissent les boisements de pins, dont les squelettes blanchis réapparaissent lorsque la dune
+      poursuit sa course. Entre les crêtes sableuses s’accrochent des arbustes adaptés aux embruns : oyat,
+      camérine et genêt blanc.
+
+
+      À l’intérieur des terres s’étendent les sables stabilisés (les cotos), recouvrant l’essentiel des
+      secteurs secs. S’y développent des suberaies acides et de vastes pinèdes de pin pignon. Parmi la flore
+      remarquable figurent le genévrier maritime et des raretés menacées comme Linaria tursica et Vulpia
+      fontquerana. Le climat méditerranéen apporte des hivers doux et de trois à cinq mois de sécheresse
+      estivale.
+    wildlife: >-
+      L’hiver représente le temps fort ornithologique. Le marais accueille des concentrations d’oiseaux d’eau
+      pouvant culminer à 500 000 individus lors des saisons fastes, et sa position aux portes de Gibraltar
+      permet de répertorier plus de 400 espèces d’oiseaux au fil de l’année. Parmi elles nichent de grands
+      trésors ibériques comme l’[aigle ibérique](/especie/aquila_adalberti/), la sarcelle marbrée,
+      l’érismature à tête blanche et la foulque caronculée. Dans le marais d’eau douce abondent le [flamant
+      rose](/especie/phoenicopterus_roseus/) et l’[oie cendrée](/especie/anser_anser/).
+
+
+      Du côté des 38 espèces de mammifères recensées figurent le [lynx pardelle](/especie/lynx_pardinus/), la
+      mangouste ichneumon, la [loutre d’Europe](/especie/lutra_lutra/), le chat sauvage, la [genette
+      commune](/especie/genetta_genetta/) et douze espèces de chauves-souris. Doñana abrite également deux
+      races de chevaux semi-sauvages menacées d’extinction, le cheval marismeño et le cheval des retuertas. On
+      dénombre 20 espèces de poissons d’eau douce, 10 amphibiens et 13 reptiles.
+
+
+      Le calendrier résume bien les saisons. L’automne et l’hiver offrent les meilleures conditions :
+      fréquentation paisible, températures douces et hivernage massif. Le printemps apporte le passage
+      migratoire et les fleurs aquatiques ; l’été dévoile un désert d’argile. Chaque période offre un visage
+      radicalement différent.
+    visit: >-
+      Le parc propose trois circuits guidés officiels : deux terrestres en véhicules tout-terrain et un
+      fluvial depuis Sanlúcar de Barrameda. Il s’agit du circuit Acebuche–La Plancha–Acebuche, de l’excursion
+      fluviale Sanlúcar–La Plancha–Sanlúcar et du circuit nord depuis El Rocío vers le centre José Antonio
+      Valverde. Les départs en minibus 4x4 s’effectuent depuis le village d’El Rocío ou le centre d’accueil
+      d’El Acebuche, avec des guides bilingues espagnol et anglais.
+
+
+      El Acebuche, aménagé dans un ancien corps de ferme traditionnel, constitue le pôle majeur avec sentiers
+      sur pilotis et observatoires surplombant la lagune, flanqué de l’observatoire El Porrón. Le parc dispose
+      d’autres centres d’interprétation à La Rocina, au Palais de l’Acebrón, à José Antonio Valverde et à la
+      Fábrica de Hielo. Le centre Valverde s’atteint par des pistes en terre à travers le marais.
+    history: >-
+      Le site fut un domaine de chasse royal bien avant de devenir parc : dès 1255, le roi Alphonse X instaura
+      un domaine de chasse dans la forêt de Las Rocinas entre le rio Tinto et le Guadalquivir. Au fil des
+      siècles le daim fut introduit et les loups éliminés pour favoriser l’élevage. L’essor scientifique
+      débuta au XXe siècle : en 1952, José Antonio Valverde et Francisco Bernis organisèrent la première
+      campagne de baguage d’oiseaux, avant de fonder en 1954 la Société espagnole d’ornithologie. Le
+      pèlerinage de la Vierge d’El Rocío reste indissociable des lieux.
+
+
+      La menace la plus aiguë réside dans la surexploitation des nappes phréatiques, asséchées par des forages
+      agricoles illégaux alimentant la culture de fraises et de riz. La lagune permanente de Santa Olalla
+      s’est entièrement asséchée durant les étés 2022, 2023 et 2024. Pour le lynx, le centre d’El Acebuche
+      gère un programme de reproduction en captivité, bien que les collisions routières demeurent une cause de
+      mortalité préoccupante.
+    before: >-
+      Le cœur du parc national ne se visite qu’avec des guides accrédités en excursion réservée. Réservez bien
+      à l’avance, les jauges de véhicules étant limitées. Des jumelles de qualité sont indispensables pour
+      apprécier la faune. Restez sur les sentiers balisés, remportez vos déchets et respectez le calme des
+      lieux. Les marais sont souvent asséchés en été. Forte affluence à El Rocío lors du pèlerinage de
+      Pentecôte.
+    around: >-
+      Doñana partage des affinités biogéographiques avec d’autres grands sites littoraux. Les [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), la [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) et la [Réserve naturelle de
+      Vendicari](/lugar/riserva-naturale-orientata-vendicari/) accueillent comme elle le flamant rose, la
+      [spatule blanche](/especie/platalea_leucorodia/) et la [talève sultane](/especie/porphyrio_porphyrio/).
+      Le [Delta de l’Évros](/lugar/ethniko-parko-delta-evrou/) abrite également flamants, spatules et oies
+      cendrées.
+  de:
+    intro: >-
+      In Doñana steht die Landschaft niemals still. Im Herbst füllen die ersten Regenfälle die Marschen, im
+      Winter dehnen sich die Wasserflächen weit aus, im Frühling überzieht ein Teppich weißer
+      Wasser-Hahnenfußblüten die Lagunen, und im Hochsommer verwandelt sich alles in eine staubige, rissige
+      Tonwüste. Dieses stete Pendeln zwischen Überflutung und Dürre hat diesen Winkel Andalusiens zu einem
+      unverzichtbaren Rast-, Brut- und Überwinterungsplatz für Vögel aus Europa und Afrika gemacht.
+
+
+      Der Nationalpark Doñana wurde 1969 per Dekret gegründet, als Teile des Gebiets noch in Privatbesitz
+      waren. Heute umfasst der Schutzkomplex 122 487 Hektar: 54 251 Hektar Nationalpark und 68 236 Hektar
+      Naturpark als vorgelagerte Pufferzone.
+    landscape: >-
+      Das Feuchtgebiet (die Marisma) bildet das Herzstück: rund 27 000 Hektar, abhängig von saisonalen
+      Regenfällen und Zuflüssen. Sie gliedert sich in verschiedene Zonen. In den tieferen Süßwassermarschen
+      hält sich das Wasser länger und die Salinität sinkt, sodass dichte Röhrichte wachsen, die Rosaflamingos
+      und Graugänse anziehen. In den flacheren Brackwassermarschen dominieren salztolerante Quellerfluren, in
+      denen ausgedehnte Kolonien von Watvögeln brüten.
+
+
+      Zur Atlantikküste hin bestimmen Südwestwinde die Dynamik der Wanderdünen. Diese Sandwellen begraben
+      Pinienwälder unter sich, deren abgestorbene Baumstümpfe Jahre später wieder freigelegt werden. Zwischen
+      den Dünenkämmen trotzen salz- und windharte Sträucher: Strandhafer, Krähenbeere und Weißer Ginster.
+
+
+      Im Binnenland erstrecken sich die stabilisierten Sande (Cotos). Hier gedeihen lichte Korkeichenwälder
+      auf sauren Böden sowie ausgedehnte Schirmpinienwälder. Botanische Kostbarkeiten sind der
+      Strand-Wacholder und seltene Endemiten wie Linaria tursica und Vulpia fontquerana. Das mediterrane Klima
+      bringt milde Winter und drei bis fünf Monate sommerliche Trockenheit.
+    wildlife: >-
+      Der Winter markiert den Höhepunkt für Vogelbeobachter. Die Marschen beherbergen Wasservogelschwärme, die
+      in Spitzenjahren 500 000 Individuen erreichen; dank der Lage nahe der Straße von Gibraltar können im
+      Jahreslauf über 400 Vogelarten beobachtet werden. Darunter finden sich seltene Endemiten wie der
+      [Spanische Kaiseradler](/especie/aquila_adalberti/), die Marmelente, die Weißkopfruderente und das
+      Kammblässhuhn. In den offenen Lagunen rasten [Rosaflamingo](/especie/phoenicopterus_roseus/) und
+      [Graugans](/especie/anser_anser/).
+
+
+      Unter den 38 Säugetierarten leben [Pardelluchs](/especie/lynx_pardinus/), Ichneumon, [Eurasischer
+      Fischotter](/especie/lutra_lutra/), Wildkatze, [Kleinfleck-Ginsterkatze](/especie/genetta_genetta/) und
+      zwölf Fledermausarten. Doñana beherbergt zudem zwei bedrohte autochthone Wildpferderassen: das
+      Marismeño- und das Retuertas-Pferd. Erfasst sind 20 Süßwasserfischarten, 10 Amphibien und 13 Reptilien.
+
+
+      Die Jahreszeiten zeigen extreme Gegensätze. Herbst und Winter bieten ideale Bedingungen bei angenehmen
+      Temperaturen und reicher Avifauna. Der Frühling bringt den Vogelzug und blühende Fluten; der Sommer eine
+      karge Tonwüste. Jede Periode offenbart ein völlig anderes Gesicht von Doñana.
+    visit: >-
+      Der Park bietet drei offizielle geführte Routen: zwei Überlandtouren im Geländefahrzeug und eine
+      Bootstour ab Sanlúcar de Barrameda. Dies sind die Routen Acebuche–La Plancha–Acebuche, Sanlúcar–La
+      Plancha–Sanlúcar und die Nordroute von El Rocío zum Besucherzentrum José Antonio Valverde. Die Fahrten
+      im 4x4-Geländebus starten ab El Rocío oder dem Besucherzentrum El Acebuche mit spanisch- und
+      englischsprachigen Führern.
+
+
+      El Acebuche in einem traditionellen Gutshof dient als Hauptanlaufstelle mit Bohlenwegen und
+      Beobachtungshütten an der Lagune sowie der Beobachtungshütte El Porrón. Weitere Besucherzentren befinden
+      sich in La Rocina, im Palast El Acebrón, bei José Antonio Valverde und in der Fábrica de Hielo. Das
+      Zentrum Valverde wird über unbefestigte Pisten durch die Marschen erreicht.
+    history: >-
+      Das Gebiet war königliches Jagdrevier, lange bevor es Nationalpark wurde: 1255 wies König Alfons X. ein
+      Jagdgebiet im Wald von Las Rocinas aus. Über Jahrhunderte wurden Damhirsche ausgesetzt und Wölfe zum
+      Schutz der Rinder erlegt. Die moderne Forschung begann im zwanzigsten Jahrhundert: 1952 organisierten
+      José Antonio Valverde und Francisco Bernis hier die erste Vogelberingung und gründeten 1954 die
+      Spanische Ornithologische Gesellschaft. Die Wallfahrt zur Jungfrau von El Rocío ist eng mit der
+      Landschaft verknüpft.
+
+
+      Die drängendste Krise ist der Grundwassermangel infolge illegaler Brunnenbohrungen für den intensiven
+      Erdbeer- und Reisanbau. Die ehemals perennierende Lagune Santa Olalla trocknete in den Sommern 2022,
+      2023 und 2024 vollständig aus. Das Zuchtzentrum El Acebuche betreibt ein Erhaltungszuchtprogramm für den
+      Pardelluchs, doch Verkehrsunfälle auf angrenzenden Straßen bleiben eine ernste Gefahr.
+    before: >-
+      Das Innere des Nationalparks darf ausschließlich im Rahmen autorisierter Touren betreten werden.
+      Reserviere Führungen frühzeitig, da Fahrzeugplätze limitiert sind. Ein lichtstarkes Fernglas ist
+      unerlässlich. Bleibe auf den Bohlenwegen, nimm Abfälle mit und verhalte dich ruhig. Im Sommer sind die
+      Marschen oft ausgetrocknet. Zur Pfingstwallfahrt ist El Rocío extrem überlaufen.
+    around: >-
+      Doñana teilt typische Feuchtgebietsarten mit anderen Küstenbiotopen. Die [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), die [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) und das [Naturreservat
+      Vendicari](/lugar/riserva-naturale-orientata-vendicari/) beherbergen Rosaflamingo,
+      [Löffler](/especie/platalea_leucorodia/) und [Purpurhuhn](/especie/porphyrio_porphyrio/). Das
+      [Evros-Delta](/lugar/ethniko-parko-delta-evrou/) teilt Flamingo, Löffler und Graugans.
+  it:
+    intro: >-
+      A Doñana il paesaggio non conosce sosta. In autunno la palude si allaga alle prime piogge, d’inverno le
+      acque formano un immenso specchio continuo, in primavera un velo di ranuncoli acquatici la riveste di
+      bianco e in piena estate si muta in una landa riarsa di argilla spaccata dal sole. Questa perpetua
+      alternanza tra piene e siccità ha reso questo lembo di Huelva, Siviglia e Cadice un rifugio vitale per
+      la sosta, nidificazione e svernamento dell’avifauna europea e africana.
+
+
+      Il Parco Nazionale di Doñana venne istituito per decreto nel 1969, quando porzioni del territorio
+      appartenevano ancora a tenute private. Oggi il comprensorio protetto si estende per 122 487 ettari: 54
+      251 ettari di parco nazionale e 68 236 ettari di parco naturale che ne compongono l’area contigua di
+      rispetto.
+    landscape: >-
+      La marisma rappresenta il cuore pulsante: circa 27 000 ettari legati agli apporti pluviali e fluviali
+      temporanei, mutevoli a ogni stagione. Si suddivide in comparti distinti. Nella marisma dolce, più
+      depressa, l’acqua permane a lungo e la salinità scende, favorendo canneti ed elofite dove si concentrano
+      fenicotteri e oche selvatiche. Nella marisma salmastra, leggermente sopraelevata, prevale la vegetazione
+      alofila in cui nidificano dense colonie di limicoli.
+
+
+      Verso l’oceano spirano i venti dominanti di sud-ovest che sospingono i cosiddetti treni di dune mobili.
+      Queste onde di sabbia avanzano inesorabili seppellendo pinete e arbusti, che poi riemergono scheletriti
+      quando il fronte sabbioso prosegue la sua marcia. Tra le dune resistono cespugli pionieri: spartograsso,
+      camerina e ginestra bianca.
+
+
+      All’interno allignano le sabbie stabilizzate (i cotos), che coprono la quasi totalità delle aree
+      asciutte. Vi prosperano sugherete rade su suoli acidi e grandi pinete di pino domestico. Tra i pregi
+      floristici spiccano il ginepro coccolone e rarità minacciate come Linaria tursica e Vulpia fontquerana.
+      Il clima mediterraneo garantisce inverni miti ma comporta da tre a cinque mesi di siccità estiva.
+    wildlife: >-
+      L’inverno coincide con l’apice dell’avifauna acquatica. Le paludi accolgono concentrazioni di uccelli
+      che in annate propizie raggiungono i 500 000 individui; grazie alla vicinanza allo Stretto di Gibilterra
+      si contano oltre 400 specie ornitiche nell’arco dell’anno. Spiccano endemismi iberici vulnerabili come
+      l’[aquila imperiale iberica](/especie/aquila_adalberti/), l’anatra marmorizzata, il gobbo rugginoso e la
+      folaga crestata. Nelle lagune stazionano il [fenicottero](/especie/phoenicopterus_roseus/) e l’[oca
+      selvatica](/especie/anser_anser/).
+
+
+      Tra i 38 mammiferi censiti figurano la [lince pardina](/especie/lynx_pardinus/), la mangusta egiziana,
+      la [lontra europea](/especie/lutra_lutra/), il gatto selvatico, la [*Genetta
+      genetta*](/especie/genetta_genetta/) (genetta comune) e dodici specie di chirotteri. Doñana accoglie
+      inoltre due razze equine autoctone a rischio di estinzione: il cavallo marismeño e il cavallo delle
+      retuertas. Sono state catalogate 20 specie di pesci d’acqua dolce, 10 anfibi e 13 rettili.
+
+
+      Il volgere dei mesi evidenzia atmosfere contrastanti. Autunno e inverno offrono le condizioni ottimali:
+      afflusso contenuto, temperature miti e spettacolo ornitologico. La primavera porta le fioriture
+      acquatiche e il passo; l’estate una distesa polverosa. Ogni stagione rivela una Doñana differente.
+    visit: >-
+      Il parco predispone tre itinerari guidati: due terrestri su mezzi fuoristrada 4x4 e uno fluviale da
+      Sanlúcar de Barrameda. Si tratta del percorso Acebuche–La Plancha–Acebuche, della navigazione
+      Sanlúcar–La Plancha–Sanlúcar e dell’itinerario nord da El Rocío al centro José Antonio Valverde. I tour
+      su minibus fuoristrada partono dal borgo di El Rocío o dal centro visite di El Acebuche, condotti da
+      guide bilingui spagnolo e inglese.
+
+
+      El Acebuche, ricavato in un tipico casale andaluso, è lo snodo cardine con passerelle su palafitte e
+      capanni sulla laguna, completato dall’osservatorio El Porrón. Il parco conta ulteriori centri visita a
+      La Rocina, al Palazzo dell’Acebrón, a José Antonio Valverde e alla Fábrica de Hielo. Il centro Valverde
+      si raggiunge percorrendo piste sterrate tra le paludi.
+    history: >-
+      L’area fungeva da riserva di caccia regale ben prima di diventare parco: nel 1255 re Alfonso X istituì
+      una riserva di caccia reale nella selva de Las Rocinas tra il rio Tinto e il Guadalquivir. Nel corso dei
+      secoli vennero introdotti i daini ed eradicati i lupi per tutelare il bestiame. La ricerca scientifica
+      prese avvio nel Novecento: nel 1952 José Antonio Valverde e Francisco Bernis condussero la prima
+      campagna di inanellamento fondando nel 1954 la Società Ornitologica Spagnola. La devozione alla Vergine
+      del Rocío è indissolubile dalla storia di queste terre.
+
+
+      La minaccia principale è la crisi idrica dovuta ai prelievi d’acqua illegali per irrigare colture
+      intensive di fragole e riso. La laguna permanente di Santa Olalla si è completamente prosciugata nelle
+      estati del 2022, 2023 e 2024. Per la lince il centro di El Acebuche porta avanti un programma di
+      riproduzione in cattività, sebbene gli investimenti sulle strade restino un pericolo concreto.
+    before: >-
+      L’interno del parco nazionale è accessibile esclusivamente tramite tour guidati accreditati. Prenota per
+      tempo poiché i posti sui mezzi sono limitati. Un binocolo è indispensabile per avvistare la fauna.
+      Rispetta i camminamenti su legno, riporta i rifiuti e mantieni il silenzio. Le paludi possono risultare
+      asciutte in estate. Notevole ressa a El Rocío durante la romería di Pentecoste.
+    around: >-
+      Doñana condivide affinità faunistiche con altre grandi zone umide. Gli [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), la [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) e la [Riserva Naturale di
+      Vendicari](/lugar/riserva-naturale-orientata-vendicari/) ospitano fenicotteri, la
+      [spatola](/especie/platalea_leucorodia/) e il [pollo sultano comune](/especie/porphyrio_porphyrio/). Il
+      [Delta dell’Evros](/lugar/ethniko-parko-delta-evrou/) accoglie anch’esso fenicotteri, spatole e oche
+      selvatiche.
+  pt:
+    intro: >-
+      Em Doñana a paisagem nunca permanece estática. No outono o sapal inunda-se com as primeiras chuvas, no
+      inverno transforma-se num espelho de água a perder de vista, na primavera um manto de flores de
+      ranúnculos cobre a superfície e no pico do verão converte-se num deserto árido de argila gretada e
+      poeirenta. Esta oscilação contínua entre água e seca fez deste recanto de Huelva, Sevilha e Cádis um
+      refúgio indispensável de reprodução, escala e invernada para a avifauna europeia e africana.
+
+
+      O Parque Nacional de Doñana foi criado por decreto em 1969, numa altura em que parte dos terrenos
+      pertencia ainda a herdades privadas. Hoje o conjunto protegido totaliza 122 487 hectares: 54 251
+      hectares de parque nacional e 68 236 hectares de parque natural como zona tampão envolvente.
+    landscape: >-
+      O sapal (a marisma) constitui o coração ecológico: cerca de 27 000 hectares dependentes da chuva e de
+      ribeiros efémeros, alterando-se radicalmente com as estações. Divide-se em áreas distintas. No sapal
+      doce, mais fundo, a água perdura e a salinidade decresce, desenvolvendo-se densa vegetação palustre onde
+      se alimentam bandos de flamingos e gansos-bravos. No sapal salgado, ligeiramente sobrelevado e com menor
+      afluxo doce, dominam plantas halófitas onde nidificam colónias de limícolas.
+
+
+      Rumo ao oceano imperam os ventos de sudoeste que empurram os cordões de dunas móveis. Estas massas de
+      areia avançam soterrando pinhais e matos, cujos troncos mortos reaparecem desnudados quando a duna
+      prossegue o seu caminho. Entre as cristas arenosas resistem arbustos adaptados aos ventos marítimos:
+      estorno, camarinha e giesta-branca.
+
+
+      Para o interior estendem-se as areias estabilizadas (os cotos), ocupando a maior parte das áreas secas.
+      Aí vicejam montados de sobro em solos ácidos e pinhais de pinheiro-manso. Entre os valores botânicos
+      sobressaem o zimbro-marítimo e raridades ameaçadas como Linaria tursica e Vulpia fontquerana. O clima é
+      mediterrânico com invernos amenos e três a cinco meses de severa aridez estival.
+    wildlife: >-
+      O inverno representa o apogeu da avifauna aquática. Os sapais acolhem bandos de aves aquáticas que em
+      anos propícios ascendem a 500 000 exemplares; pela sua posição estratégica junto ao Estreito de
+      Gibraltar observam-se mais de 400 espécies de aves ao longo do ano. Destacam-se aves de distribuição
+      restrita como a [águia-imperial-ibérica](/especie/aquila_adalberti/), a pardilheira, o pato-de-bico-azul
+      e o galeirão-cristado. No sapal doce concentram-se o [flamingo-comum](/especie/phoenicopterus_roseus/) e
+      o [ganso-bravo](/especie/anser_anser/).
+
+
+      Entre as 38 espécies de mamíferos registadas contam-se o [lince-ibérico](/especie/lynx_pardinus/), o
+      saca-rabos, a [lontra-europeia](/especie/lutra_lutra/), o gato-bravo, a
+      [gineta](/especie/genetta_genetta/) e doze espécies de morcegos. Doñana conserva ainda duas raças
+      autóctones de cavalos em perigo de extinção: o cavalo marismeño e o cavalo das retuertas. Encontram-se
+      inventariadas 20 espécies de peixes de água doce, 10 anfíbios e 13 répteis.
+
+
+      O calendário ilustra a diversidade dos ecossistemas. O outono e o inverno reúnem as condições ideais:
+      menor afluência de visitantes, temperaturas amenas e bandos invernantes. A primavera traz a migração
+      ativa e o sapal florido; o verão desvenda uma estepe argilosa. Cada época revela uma perspetiva
+      distinta.
+    visit: >-
+      O parque organiza três itinerários guiados oficiais: dois terrestres em veículos todo-o-terreno e um
+      fluvial a partir de Sanlúcar de Barrameda. São os percursos Acebuche–La Plancha–Acebuche, o cruzeiro
+      fluvial Sanlúcar–La Plancha–Sanlúcar e a rota norte desde El Rocío até ao centro José Antonio Valverde.
+      As saídas em veículos 4x4 partem da aldeia de El Rocío ou do centro de visitantes de El Acebuche com
+      guias bilingues em espanhol e inglês.
+
+
+      El Acebuche, instalado num antigo monte andaluz, é a porta principal com passadiços de madeira e abrigos
+      sobre a lagoa, ladeado pelo observatório El Porrón. O parque conta ainda com centros de acolhimento em
+      La Rocina, no Palácio de El Acebrón, em José Antonio Valverde e na Fábrica de Hielo. O centro Valverde
+      alcança-se por caminhos de terra batida através do sapal.
+    history: >-
+      A área serviu de coutada de caça real séculos antes de ser parque: em 1255 o rei Afonso X estabeleceu
+      uma Coutada Real na mata de Las Rocinas entre o rio Tinto e o Guadalquivir. Com o tempo introduziu-se o
+      gamo e erradicaram-se os lobos para salvaguardar o gado. A investigação científica despontou no século
+      XX: em 1952 José Antonio Valverde e Francisco Bernis promoveram as primeiras campanhas de anilhagem,
+      fundando em 1954 a Sociedade Espanhola de Ornitologia com González-Gordon. A devoção à Senhora de El
+      Rocío marca indelevelmente o território.
+
+
+      A questão mais premente prende-se com a escassez de água decorrente da captação intensiva para regadio
+      de morangos e arroz. A lagoa permanente de Santa Olalla secou totalmente nos verões de 2022, 2023 e
+      2024. Para o lince, o Centro de Reprodução de El Acebuche desenvolve um programa de reprodução em
+      cativeiro, embora os atropelamentos nas estradas continuem a ser uma ameaça crítica.
+    before: >-
+      O interior do parque nacional apenas é acessível através de visitas guiadas em veículos autorizados.
+      Reserva antecipadamente dado que as vagas são limitadas. Recomenda-se o uso de binóculos de qualidade
+      para observar a fauna. Permanece exclusivamente nos passadiços marcados, recolhe o lixo e guarda
+      silêncio. No verão os sapais encontram-se frequentemente secos. Elevada afluência em El Rocío durante a
+      romaria de Pentecostes.
+    around: >-
+      Doñana partilha espécies emblemáticas com outros sapais mediterrânicos e atlânticos. Os [Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/), a [Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) e a [Reserva Natural de
+      Vendicari](/lugar/riserva-naturale-orientata-vendicari/) acolhem o flamingo-comum, o
+      [colhereiro-europeu](/especie/platalea_leucorodia/) e o [caimão-comum](/especie/porphyrio_porphyrio/). O
+      [Delta do Evros](/lugar/ethniko-parko-delta-evrou/) partilha o flamingo, o colhereiro e o ganso-bravo.
+fuentes:
+  - url: https://es.wikipedia.org/wiki/Parque_nacional_de_Do%C3%B1ana
+    titulo: Parque nacional y natural de Doñana - Wikipedia
+    fecha_consulta: '2026-11-05'
+  - url: https://en.wikipedia.org/wiki/Do%C3%B1ana_National_Park
+    titulo: Doñana National Park - Wikipedia
+    fecha_consulta: '2026-11-05'
+  - url: https://www.miteco.gob.es/es/red-parques-nacionales/nuestros-parques/donana/guia-visitante/centros.html
+    titulo: 'Doñana: Centros de visitantes y otras instalaciones'
+    fecha_consulta: '2026-11-05'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/accesos.html
+    titulo: 'Doñana: Accesos'
+    fecha_consulta: '2026-11-05'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/itinerarios.html
+    titulo: 'Doñana: Itinerarios'
+    fecha_consulta: '2026-11-05'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/recomendaciones.html
+    titulo: 'Doñana: Recomendaciones'
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Vista_del_R%C3%ADo_Gualdaquivir_desde_el_Parque_Do%C3%B1ana.jpg
+    autor: Gabriela Coronado Hernández
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,669 @@
+id: laguna-di-venezia
+estado_editorial: valoracion-revisada
+nombre:
+  es: Laguna de Venecia (Sectores Naturales y Marismas de la Laguna Norte y Sur)
+  en: Venice Lagoon (Natural Sectors and Salt Marshes of North and South Lagoon)
+  fr: Lagune de Venise (Secteurs naturels et marais salés de la lagune nord et sud)
+  de: Lagune von Venedig (Naturräume und Salzmarschen der Nord- und Südlagune)
+  it: Laguna di Venezia (Settori Naturali e Paludi Salmastre della Laguna Nord e Sud)
+  pt: Laguna de Veneza (Setores Naturais e Marismas da Laguna Norte e Sul)
+nombre_original: Laguna di Venezia
+alias:
+  - Laguna di Venezia (Sectores Naturales y Marismas de la Laguna Norte y Sur)
+paises:
+  - IT
+region:
+  es: Véneto (Venecia / Torcello / Burano / Chioggia)
+  en: Veneto (Venice / Torcello / Burano / Chioggia)
+  fr: Vénétie (Venise / Torcello / Burano / Chioggia)
+  de: Venetien (Venedig / Torcello / Burano / Chioggia)
+  it: Veneto (Venezia / Torcello / Burano / Chioggia)
+  pt: Véneto (Veneza / Torcello / Burano / Chioggia)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.45
+  lon: 12.35
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Laguna di Venezia
+  capa: capas/natura2000/laguna-di-venezia.geojson
+habitats:
+  - wetland
+  - coast
+  - marine
+designaciones:
+  - unesco_whs
+  - ramsar
+  - natura2000
+especies:
+  - phoenicopterus_roseus
+  - egretta_garzetta
+  - tadorna_tadorna
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y otoño
+  en: Spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 3
+masificacion_nota:
+  es: Muy alta en el centro de Venecia; muy baja en los canales salvajes de la Laguna Norte (*barene*)
+  en: Very high in central Venice; very low across the wild channels of the North Lagoon (*barene*)
+  fr: Très forte au centre de Venise ; très faible dans les chenaux sauvages de la lagune nord (*barene*)
+  de: Sehr hoch im Zentrum von Venedig; sehr gering in den wilden Kanälen der Nordlagune (*barene*)
+  it: Molto alta nel centro di Venezia; molto bassa nei canali selvaggi della Laguna Nord (*barene*)
+  pt: Muito alta no centro de Veneza; muito baixa nos canais selvagens da Laguna Norte (*barene*)
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Laguna di Venezia
+    url: https://www.cittametropolitana.ve.it/
+  - titulo: Ruta y mapa — Valle Figheri, Cornio y Zappa (PDF)
+    url: https://ambiente.cittametropolitana.ve.it/sites/default/files/16.ValleFigheriValleCornioValleZappa.pdf
+resumen:
+  es: >-
+    La laguna costera más grande del Mediterráneo (550 km²), con marismas mareales salvajes (*barene* y
+    *velme*) que albergan miles de flamencos.
+  en: >-
+    The Mediterranean's largest coastal lagoon (550 km²), featuring wild tidal salt marshes (*barene* and
+    *velme*) sheltering thousands of flamingos.
+  fr: >-
+    La plus grande lagune côtière de Méditerranée (550 km²), aux marais maritimes sauvages (*barene* et
+    *velme*) abritant des milliers de flamants.
+  de: >-
+    Die größte Küstenlagune des Mittelmeers (550 km²) mit wilden Gezeitensalzmarschen (*barene* und *velme*),
+    die Tausenden von Flamingos Zuflucht bieten.
+  it: >-
+    La più grande laguna costiera del Mediterraneo (550 km²), con paludi tidali incontaminate (*barene* e
+    *velme*) che ospitano migliaia di fenicotteri.
+  pt: >-
+    A maior laguna costeira do Mediterrâneo (550 km²), com marismas mareais selvagens (*barene* e *velme*) que
+    acolhem milhares de flamingos.
+unico:
+  es: >-
+    Una ciudad entera sobre el agua rodeada de marismas vivas, donde las antiguas valli da pesca guardan un
+    gradiente de ambientes que cambia con la salinidad.
+  en: >-
+    An entire city set upon water flanked by living salt marshes, where ancient valli da pesca preserve an
+    ecological gradient shifting with salinity.
+  fr: >-
+    Une cité bâtie sur l'eau ceinte de marais vivants, où les anciennes valli da pesca conservent un gradient
+    écologique évoluant avec la salinité.
+  de: >-
+    Eine Stadt auf dem Wasser, umgeben von lebendigen Marschen, in denen historische Valli da pesca einen
+    ökologischen Salzgehaltsgradienten bewahren.
+  it: >-
+    Una città sorta sulle acque circondata da barene vive, dove le antiche valli da pesca conservano un
+    gradiente ecologico che muta con la salinità.
+  pt: >-
+    Uma cidade erguida sobre a água rodeada por marismas vivas, onde as ancestrais valli da pesca conservam um
+    gradiente que oscila com a salinidade.
+observaciones:
+  es: >-
+    Las valli da pesca son propiedad privada. Solo se accede con las visitas que gestiona el personal de las
+    valli o con guías naturalistas, Los ambientes de la laguna cambian con las mareas y con la estación, así
+    que lo mejor es ir en migración o en invierno para las aves, o en primavera y verano para las garzas y las
+    aves de carrizal.
+texto:
+  es:
+    intro: >-
+      Venecia flota sobre algo más que agua. Alrededor de la ciudad se extiende la mayor laguna del
+      Mediterráneo, unos quinientos cincuenta kilómetros cuadrados de los cuales solo una pequeña parte es
+      tierra firme: alrededor del ochenta por ciento son llanuras de barro, bajíos mareales y marismas
+      saladas. Es el mayor humedal de la cuenca mediterránea, y cuando bajas del puente y te alejas de las
+      islas famosas, se convierte en otra cosa: cañaverales, diques de tierra, garcetas y garzas, y una luz
+      plana sobre aguas que casi nunca pasan del metro de profundidad.
+    landscape: >-
+      La laguna es joven en términos geológicos: se formó hace unos seis mil años, cuando el mar del Holoceno
+      entró en la costa, y durante mucho tiempo su orilla fue inestable. Su aspecto actual lo decidieron
+      después las personas. La gran inundación del año 589 cambió el curso del Brenta y del Sile y
+      probablemente unió las cuatro cuencas en la laguna única que hoy conocemos. Siglos más tarde, para
+      evitar que se convirtiera en marisma, los venecianos desviaron las desembocaduras del Sile, el Piave y
+      el Brenta fuera de la laguna.
+
+
+      Se comunica con el Adriático por tres bocas, Lido, Malamocco y Chioggia, y como está en el extremo de un
+      mar casi cerrado, su nivel oscila mucho. Entre las bocas y la tierra firme hay un laberinto de canales,
+      bajíos de hasta diez metros y unas islas que son casi todas afloramientos más o menos estables de barro,
+      las *barene*, las *motte* y las *velme*. Las grandes islas de la franja costera, Lido, Pellestrina y
+      Treporti, son arenosas.
+
+
+      En el borde interior están las valli da pesca: zonas de laguna cercadas por diques de tierra donde la
+      profundidad casi nunca supera el metro. Aquí es donde mejor se ve el contraste entre agua salada y
+      dulce, y también donde se concentra gran parte de la vida salvaje.
+    wildlife: >-
+      El mejor sitio para entenderlo es Valle Figheri, en Campagna Lupia. Su garzaia está descrita como una de
+      las más importantes de Italia: alberga seis especies de garzas y, entre ellas, la [garza
+      imperial](/especie/ardea_purpurea/) nidifica en un sitio de importancia internacional. En las valli se
+      ven también la [garceta grande](/especie/egretta_alba/), y la [garza real](/especie/ardea_cinerea/); en
+      los censos provinciales, los ánades y las fochas se detectaron casi exclusivamente en las valli.
+
+
+      Las estaciones cambian el cartel. En primavera y verano se observa el [aguilucho
+      lagunero](/especie/circus_aeruginosus/) y las aves de carrizal, y las garzas están en el nido. En
+      migración y en invierno las valli son área de invernada de aves acuáticas, y esas son las mejores épocas
+      para el birdwatching.
+
+
+      Debajo del agua pasa algo parecido. La laguna tiene un número de especies de peces inusual para un fondo
+      arenoso, gracias a su complejidad: desembocaduras, bajíos, barene, canales y bocas. En primavera la
+      anguila, la dorada, la lubina y varios mugílidos entran a la laguna a alimentarse; en otoño, con los
+      primeros fríos, salen al mar por las bocas. Un pez típico de lagunas, *Zosterisessor ophiocephalus*, es
+      hoy raro aquí. De vez en cuando aparece un delfín.
+
+
+      En los ambientes de agua dulce y bosque de ribera hay sapo común, galápago europeo, culebra viperina y
+      rana ágil, y entre los mamíferos, musaraña de agua, ratón espiguero, zorro, tejón y turón.
+    visit: >-
+      El itinerario naturalista de Valle Figheri, Valle Cornio y Valle Zappa es un anillo de unos quince
+      kilómetros, casi todo por caminos blancos y diques, que se puede hacer a pie o, en la mayor parte de los
+      tramos, en bicicleta de montaña. Se hace en sentido antihorario. Sale de la entrada de Valle Figheri,
+      por la carretera estatal 309 Romea, donde se puede aparcar. En algunos tramos, diques estrechos y muy
+      vegetados, no se permite la bicicleta, y por eso el recorrido prevé puntos donde dejarla.
+
+
+      La propuesta incluye torres de observación en el Casone Figheri y en el Casone de Valle Zappa, desde las
+      que se ve el paisaje de la laguna, un puesto de observación en la garzaia y alquiler de canoas para
+      salir a la laguna.
+    history: >-
+      La laguna ha sido siempre un refugio. Desde los siglos V y VI acogió a los pueblos romanos que huían de
+      las invasiones bárbaras. Casiodoro ya describía casas que parecían nidos de aves marinas, levantadas
+      entre cañaverales o flotando sobre el agua; hoy los *casoni*, cabañas de madera y caña de pantano,
+      siguen siendo las viviendas típicas. De Torcello a Chioggia, casi cada isla tuvo su aldea de pescadores
+      y artesanos.
+
+
+      Hoy el desafío es la erosión: desaparecen amplias superficies de *velme* y *barene* y los fondos se
+      rebajan. A cambio, las praderas de fanerógamas marinas empezaron a recolonizar la laguna y restauraron
+      en parte las condiciones originales.
+    before: >-
+      Las valli da pesca son propiedad privada. Solo se accede con las visitas que gestiona el personal de las
+      valli o con guías naturalistas, Los ambientes de la laguna cambian con las mareas y con la estación, así
+      que lo mejor es ir en migración o en invierno para las aves, o en primavera y verano para las garzas y
+      las aves de carrizal.
+    around: >-
+      La laguna no tiene vecinos cercanos registrados, pero sí lugares lejanos con los que comparte aves y
+      paisaje. El [Pequeño Balatón - Parque Nacional de las Alturas del
+      Balatón](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) comparte la garza imperial, la garceta
+      grande y la garceta común. La [Reserva Natural del Humedal de Paúl do
+      Boquilobo](/lugar/reserva-natural-do-paul-do-boquilobo/) comparte la garza imperial y el aguilucho
+      lagunero, y el [Parque Natural de los Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) añade el flamenco. El [Parque Natural de
+      Ses Salines de Ibiza y Formentera](/lugar/parque-natural-de-ses-salines/) tiene también marismas y
+      costa, con el tarro blanco y el flamenco.
+  en:
+    intro: >-
+      Venice floats on far more than open water. Surrounding the city lies the largest lagoon in the
+      Mediterranean, covering roughly five hundred and fifty square kilometers of which only a small fraction
+      is firm land: around eighty percent consists of mudflats, shallow tidal shallows, and salt marshes. It
+      is the greatest wetland in the Mediterranean basin, and once you cross off the bridge and leave the
+      storied islands behind, the world transforms into reedbeds, earthen levees, egrets, herons, and flat
+      silvery light resting over waters that rarely exceed one meter in depth.
+    landscape: >-
+      The lagoon is young in geological terms: it formed some six thousand years ago when Holocene sea levels
+      invaded the coast, and for a long period its shoreline remained unstable. Its current layout was
+      subsequently shaped by human decisions. The great flood of the year 589 altered the courses of the
+      Brenta and Sile rivers, likely uniting four separate basins into the single lagoon known today.
+      Centuries later, to prevent the basin from turning into dry silted marshland, the Venetians diverted the
+      mouths of the Sile, Piave, and Brenta rivers entirely outside the lagoon perimeter.
+
+
+      The basin connects to the Adriatic through three tidal inlets—Lido, Malamocco, and Chioggia—and being
+      situated at the head of an almost enclosed sea, its water levels fluctuate markedly with the tides.
+      Between the seaward inlets and the mainland lies an intricate maze of channels, shoals up to ten meters
+      deep, and islands that are mostly semi-stable silt banks: the *barene*, elevated mounds (*motte*), and
+      intertidal flats (*velme*). The major barrier islands along the coastal strip—Lido, Pellestrina, and
+      Treporti—are sandy.
+
+
+      Along the inner boundary lie the *valli da pesca*: enclosed lagoon sectors bounded by earthen dykes
+      where water depths seldom exceed one meter. Here the contrast between saltwater and freshwater is most
+      pronounced, and here much of the area's wildlife congregates.
+    wildlife: >-
+      The finest setting to experience this ecology is Valle Figheri in Campagna Lupia. Its heronry is
+      documented as one of Italy's most significant: it shelters six species of herons and egrets, with the
+      [purple heron](/especie/ardea_purpurea/) nesting here at a site of international importance. Across the
+      valli one also encounters the [great egret](/especie/egretta_alba/) and the [grey
+      heron](/especie/ardea_cinerea/); in provincial waterfowl censuses, ducks and Eurasian coots were
+      recorded almost exclusively within these brackish valli.
+
+
+      The seasons transform the avian community. In spring and summer, visitors spot the [western marsh
+      harrier](/especie/circus_aeruginosus/) alongside reedbed passerines, while herons occupy their nesting
+      colonies. During migration and winter, the valli become a vital haven for wintering waterbirds, making
+      these the premier months for birdwatching.
+
+
+      Beneath the surface, a parallel richness thrives. The lagoon supports an unusually diverse fish fauna
+      for a sandy basin due to its structural complexity: river mouths, shallows, barene, channels, and tidal
+      inlets. In spring, European eel, gilthead seabream, European seabass, and various grey mullets enter the
+      lagoon to forage; in autumn, with the onset of cold weather, they migrate out to sea through the inlets.
+      A characteristic goby of the lagoon, *Zosterisessor ophiocephalus*, has become rare here today.
+      Bottlenose dolphins occasionally venture inside the tidal channels.
+
+
+      In freshwater marshes and riparian groves dwell common toad, European pond turtle, viperine water snake,
+      and agile frog. Mammals include the Eurasian water shrew, harvest mouse, red fox, European badger, and
+      European polecat.
+    visit: >-
+      The natural history circuit of Valle Figheri, Valle Cornio, and Valle Zappa is a loop of roughly fifteen
+      kilometers, predominantly following white dirt roads and dykes, suitable on foot or, across most
+      sections, by mountain bike. The circuit runs in a counter-clockwise direction, departing from the
+      entrance to Valle Figheri along state road 309 Romea, where parking is available. Along narrow, heavily
+      overgrown dykes, cycling is prohibited, and dedicated bike-parking points are provided.
+
+
+      The excursion features observation towers at Casone Figheri and Casone di Valle Zappa offering sweeping
+      views over the lagoon landscape, a viewing blind at the heronry, and canoe rental facilities to paddle
+      directly into the quiet channels.
+    history: >-
+      The lagoon has always served as a sanctuary. From the fifth and sixth centuries onward, it sheltered
+      mainland Roman communities fleeing barbarian invasions. Cassiodorus famously described huts perched like
+      seabird nests among the reeds or floating on the water; today the *casoni*—traditional cabins made of
+      timber and marsh reeds—remain characteristic vernacular dwellings. From Torcello to Chioggia, nearly
+      every islet once housed its own fishing and artisan community.
+
+
+      Today the primary challenge is erosion: extensive areas of *velme* and *barene* are disappearing as
+      channel floors deepen. In response, underwater seagrass meadows have begun recolonizing the seabed,
+      partially restoring original ecological conditions.
+    before: >-
+      The valli da pesca are private property. Access is permitted solely through guided visits arranged by
+      valli staff or certified nature guides. Lagoon habitats shift with the tides and the seasons: plan your
+      visit during migration or winter for waterbirds, or in spring and summer for heron colonies and reedbed
+      species.
+    around: >-
+      The lagoon has no immediate neighbors recorded in the atlas, but shares bird communities and wetland
+      sceneries with several distant sanctuaries. [Kis-Balaton - Balaton Uplands National
+      Park](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) shares purple heron, great egret, and little
+      egret. [Paul do Boquilobo Nature Reserve](/lugar/reserva-natural-do-paul-do-boquilobo/) shares purple
+      heron and western marsh harrier, while [Aiguamolls de l'Empordà Natural
+      Park](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) adds the greater flamingo. [Ses Salines Natural
+      Park of Ibiza and Formentera](/lugar/parque-natural-de-ses-salines/) also features coastal salt marshes
+      with common shelduck and flamingo.
+  fr:
+    intro: >-
+      Venise repose sur bien plus que de la simple eau. Autour de la ville s'étend la plus vaste lagune de
+      Méditerranée, quelque cinq cent cinquante kilomètres carrés dont une faible part seulement constitue de
+      la terre ferme : environ quatre-vingts pour cent se composent de vasières, de hauts-fonds tidaux et de
+      marais salés. C'est la plus grande zone humide du bassin méditerranéen, et dès que l'on quitte le pont
+      pour s'éloigner des îles célèbres, le paysage se métamorphose : roselières, digues de terre, aigrettes
+      et hérons, sous une lumière étale sur des eaux dépassant rarement un mètre de profondeur.
+    landscape: >-
+      La lagune est jeune à l'échelle géologique : elle s'est formée il y a environ six mille ans lorsque la
+      mer holocène a envahi le littoral, ses rives demeurant longtemps instables. Sa configuration actuelle
+      résulte de décisions humaines ultérieures. La crue majeure de l'an 589 modifia le lit de la Brenta et du
+      Sile, unifiant sans doute quatre bassins distincts en la lagune unique que nous connaissons. Des siècles
+      plus tard, pour éviter l'envasement des chenaux, les Vénitiens dérivèrent les embouchures du Sile, du
+      Piave et de la Brenta hors du périmètre lagunaire.
+
+
+      Le bassin communique avec l'Adriatique par trois passes—Lido, Malamocco et Chioggia—et se trouvant au
+      fond d'une mer presque fermée, son niveau oscille fortement avec les marées. Entre les passes et la
+      terre ferme s'enchevêtrent chenaux navigables, fonds atteignant jusqu'à dix mètres et îlots de vase plus
+      ou moins stabilisés : les *barene*, les buttes (*motte*) et les vasières découvrantes (*velme*). Les
+      grandes îles du cordon littoral—Lido, Pellestrina et Treporti—sont sableuses.
+
+
+      Sur la bordure intérieure s'étendent les *valli da pesca* : des zones lagunaires ceinturées de digues de
+      terre où la profondeur excède rarement un mètre. C'est là que le contraste entre eau salée et eau douce
+      est le plus saisissant, et là que se concentre une part majeure de la faune sauvage.
+    wildlife: >-
+      Le meilleur endroit pour le comprendre est la Valle Figheri, à Campagna Lupia. Sa héronnière est
+      considérée comme l'une des plus remarquables d'Italie : elle héberge six espèces d'ardéidés et le [héron
+      pourpré](/especie/ardea_purpurea/) y niche sur un site d'importance internationale. Dans les valli
+      s'observent également la [grande aigrette](/especie/egretta_alba/) et le [héron
+      cendré](/especie/ardea_cinerea/) ; lors des recensements provinciaux, canards et foulques furent
+      dénombrés presque exclusivement au sein de ces valli.
+
+
+      Les saisons renouvellent le spectacle. Au printemps et en été, on observe le [busard des
+      roseaux](/especie/circus_aeruginosus/) et les passereaux paludicoles, tandis que les hérons sont au nid.
+      En période de migration et en hiver, les valli constituent une zone d'hivernage vitale pour les oiseaux
+      d'eau, représentant les meilleurs moments pour l'observation ornithologique.
+
+
+      Sous l'eau règne une richesse similaire. La lagune abrite une diversité piscicole inhabituelle pour un
+      fond sableux grâce à sa complexité : estuaires, hauts-fonds, barene, chenaux et passes. Au printemps,
+      anguilles, dorades, bars et plusieurs mulets pénètrent dans la lagune pour s'alimenter ; à l'automne,
+      aux premiers froids, ils regagnent la mer par les passes. Un poisson typique des lagunes, *Zosterisessor
+      ophiocephalus*, y est aujourd'hui devenu rare. Des grands dauphins s'aventurent ponctuellement dans les
+      chenaux.
+
+
+      Dans les milieux d'eau douce et les ripisylves vivent crapaud commun, cistude d'Europe, couleuvre
+      vipérine et grenouille agile, accompagnés côté mammifères de la crossope aquatique, du rat des moissons,
+      du renard, du blaireau et du putois.
+    visit: >-
+      Le parcours naturaliste de Valle Figheri, Valle Cornio et Valle Zappa forme une boucle d'environ quinze
+      kilomètres, presque entièrement sur chemins blancs et digues, praticable à pied ou, sur la plupart des
+      tronçons, en VTT. Il s'effectue dans le sens antihoraire au départ de l'entrée de Valle Figheri, le long
+      de la route nationale 309 Romea où l'on peut stationner. Sur certaines digues étroites et très
+      enherbées, le vélo est proscrit et des aires de dépôt sont aménagées.
+
+
+      L'itinéraire comprend des tours d'observation au Casone Figheri et au Casone de Valle Zappa offrant des
+      panoramas sur la lagune, un affût sur la héronnière et la location de canoës pour s'engager sur l'eau.
+    history: >-
+      La lagune a toujours été une terre de refuge. Dès les Ve et VIe siècles, elle accueillit les populations
+      romaines fuyant les invasions barbares. Cassiodore décrivait déjà des habitations semblables à des nids
+      d'oiseaux de mer, érigées au milieu des roseaux ou flottant sur l'eau ; de nos jours, les *casoni*,
+      cabanes traditionnelles de bois et de roseaux des marais, demeurent les édifices emblématiques. De
+      Torcello à Chioggia, presque chaque îlot abrita son village de pêcheurs et d'artisans.
+
+
+      Aujourd'hui, l'érosion constitue le principal défi : de vastes surfaces de *velme* et de *barene*
+      disparaissent tandis que les fonds s'approfondissent. En contrepartie, les herbiers sous-marins ont
+      recommencé à coloniser les fonds lagunaires, restaurant en partie les conditions originelles.
+    before: >-
+      Les valli da pesca sont des propriétés privées. On n'y accède que par des visites encadrées par le
+      personnel ou des guides naturalistes. Les ambiances de la lagune évoluent avec la marée et la saison :
+      privilégiez la migration ou l'hiver pour les oiseaux d'eau, le printemps et l'été pour les hérons et
+      passereaux de roselière.
+    around: >-
+      La lagune n'a pas de voisins immédiats dans l'atlas, mais partage paysages et avifaune avec des sites
+      lointains. Le [Petit Balaton - Parc national des Hautes Terres du
+      Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) partage héron pourpré, grande aigrette et
+      aigrette garzette. La [Réserve naturelle du Paul do
+      Boquilobo](/lugar/reserva-natural-do-paul-do-boquilobo/) partage héron pourpré et busard des roseaux,
+      tandis que le [Parc naturel des Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) y ajoute le flamant rose. Le [Parc naturel
+      de Ses Salines d'Ibiza et Formentera](/lugar/parque-natural-de-ses-salines/) présente également marais
+      littoraux et côtes avec le tadorne de Belon et le flamant rose.
+  de:
+    intro: >-
+      Venedig ruht auf weit mehr als bloßem Wasser. Um die Stadt herum breitet sich die größte Lagune des
+      Mittelmeers aus, rund fünfhundertfünfzig Quadratkilometer, von denen nur ein kleiner Teil festes Land
+      ist: Etwa achtzig Prozent bestehen aus Schlickflächen, Gezeitenwatten und Salzwiesen. Es ist das
+      weitläufigste Feuchtgebiet des Mittelmeerraums, und sobald man die Brücke hinter sich lässt und den
+      berühmten Inseln den Rücken kehrt, wandelt sich das Bild: Schilfgürtel, Erddämme, Reiher und
+      Seidengereiher unter einem weiten Himmel über Gewässern, die kaum je einen Meter Tiefe übersteigen.
+    landscape: >-
+      Geologisch ist die Lagune jung: Sie entstand vor rund sechstausend Jahren beim holozänen
+      Meeresspiegelanstieg, wobei die Küstenlinie lange instabil blieb. Ihre heutige Gestalt formte der
+      Mensch. Das gewaltige Hochwasser des Jahres 589 verlegte die Flussläufe von Brenta und Sile und vereinte
+      vermutlich vier getrennte Becken zur heutigen einheitlichen Lagune. Jahrhunderte später leiteten die
+      Venezianer die Mündungen von Sile, Piave und Brenta aus der Lagune ab, um eine Verlandung zu verhindern.
+
+
+      Über drei Öffnungen kommuniziert die Lagune mit der Adria: Lido, Malamocco und Chioggia. Da sie am Ende
+      eines beinahe geschlossenen Meeres liegt, schwankt ihr Pegel mit den Gezeiten stark. Zwischen den
+      Meeresöffnungen und dem Festland erstreckt sich ein Labyrinth aus Fahrwassern, Flachzonen bis zehn Meter
+      Tiefe und Schlickinseln: den bei Normalwasser trockenen *barene*, Bodenerhebungen (*motte*) und den
+      Gezeitenwatten (*velme*). Die vorgelagerten Küsteninseln—Lido, Pellestrina und Treporti—bestehen aus
+      Sand.
+
+
+      Am Festlandsrand liegen die *valli da pesca*: durch Erddämme abgegrenzte Lagunenteile für die
+      traditionelle Fischzucht mit Tiefen von selten über einem Meter. Hier tritt der Kontrast zwischen Süß-
+      und Salzwasser am deutlichsten zutage und hier ballt sich das Tierleben.
+    wildlife: >-
+      Der beste Ort für Naturbeobachtungen ist Valle Figheri in Campagna Lupia. Die dortige Reiherkolonie gilt
+      als eine der bedeutendsten Italiens: Sie beherbergt sechs Reiherarten, darunter den
+      [Purpurreiher](/especie/ardea_purpurea/) in international bedeutsamer Zahl. In den Valli sind auch
+      [Silberreiher](/especie/egretta_alba/) und [Graureiher](/especie/ardea_cinerea/) heimisch; bei Zählungen
+      wurden Enten und Blässhühner fast ausschließlich in diesen Valli erfasst.
+
+
+      Die Jahreszeiten wechseln die Kulisse. Im Frühjahr und Sommer zeigen sich
+      [Rohrweihe](/especie/circus_aeruginosus/) und Schilfvögel, während die Reiher brüten. Während des
+      Vogelzugs und im Winter dienen die Valli Wasservögeln als wichtiges Überwinterungsquartier—die besten
+      Zeiten für die Vogelbeobachtung.
+
+
+      Unter Wasser herrscht ähnlicher Reichtum. Die Lagune weist dank ihrer Vielfalt an Mündungen, Untiefen,
+      Barene, Kanälen und Meeresöffnungen eine für sandige Böden ungewöhnlich reiche Fischfauna auf. Im
+      Frühling wandern Aale, Goldbrassen, Wolfsbarsche und Meeräschen zur Nahrungssuche ein; im Herbst ziehen
+      sie ins offene Meer. Die für Lagunen typische Grundel *Zosterisessor ophiocephalus* ist heute selten
+      geworden. Gelegentlich tauchen Delfine in den Hauptkanälen auf.
+
+
+      In Süßwasserzonen und Uferwäldern leben Erdkröte, Europäische Sumpfschildkröte, Vipernatter und
+      Springfrosch, unter den Säugetieren Wasserspitzmaus, Zwergmaus, Fuchs, Dachs und Iltis.
+    visit: >-
+      Der naturkundliche Rundweg durch Valle Figheri, Valle Cornio und Valle Zappa umfasst etwa fünfzehn
+      Kilometer, fast vollständig auf Schotterwegen und Deichen, begehbar zu Fuß oder überwiegend mit dem
+      Mountainbike gegen den Uhrzeigersinn. Ausgangspunkt ist der Eingang von Valle Figheri an der
+      Staatsstraße 309 Romea mit Parkmöglichkeiten. Auf schmalen, dicht bewachsenen Dämmen sind Fahrräder
+      untersagt, wofür Abstellplätze bereitstehen.
+
+
+      Zur Route gehören Aussichtstürme am Casone Figheri und am Casone von Valle Zappa mit Weitblick über die
+      Lagune, ein Unterstand an der Reiherkolonie und ein Kanuverleih für Erkundungen auf dem Wasser.
+    history: >-
+      Die Lagune diente seit jeher als Zufluchtsort. Ab dem fünften und sechsten Jahrhundert bot sie Schutz
+      für römische Siedler vor den Einfällen der Völkerwanderung. Cassiodor verglich die Hütten mit
+      Seevogelnestern im Schilf oder auf dem Wasser; noch heute sind die *casoni*, traditionelle Bauten aus
+      Holz und Riedgras, charakteristische Zeugnisse. Von Torcello bis Chioggia besaß fast jedes Eiland seine
+      Fischer- und Handwerkergemeinde.
+
+
+      Heute bedroht Erosion das Ökosystem: Weite Flächen von *velme* und *barene* gehen verloren, während
+      Rinnen vertieft werden. Im Gegenzug haben Seegraswiesen begonnen, den Meeresboden wiederzubesiedeln und
+      die ursprüngliche Wasserqualität zu stabilisieren.
+    before: >-
+      Die Valli da pesca sind Privateigentum. Der Zutritt ist ausschließlich im Rahmen geführter Touren durch
+      das Personal oder Naturführer gestattet. Das Erscheinungsbild wandelt sich mit Gezeiten und Jahreszeit:
+      Wähle den Zug oder Winter für Wasservögel, Frühling und Sommer für Reiher und Schilfbewohner.
+    around: >-
+      Im Atlas hat die Lagune keine direkten Nachbarn, teilt aber Vogelarten und Landschaftstypen mit
+      entfernten Schutzgebieten. Der [Klein-Balaton im Nationalpark
+      Balaton-Oberland](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) teilt Purpurreiher, Silberreiher
+      und Seidenreiher. Das [Naturschutzgebiet Paul do
+      Boquilobo](/lugar/reserva-natural-do-paul-do-boquilobo/) teilt Purpurreiher und Rohrweihe, der
+      [Naturpark Aiguamolls de l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) zusätzlich den
+      Flamingo. Der [Naturpark Ses Salines auf Ibiza und Formentera](/lugar/parque-natural-de-ses-salines/)
+      umfasst ebenfalls Küstenmarschen mit Brandgans und Flamingo.
+  it:
+    intro: >-
+      Venezia galleggia su ben altro che semplice acqua. Attorno alla città si dispiega la maggiore laguna del
+      Mediterraneo, circa cinquecentocinquanta chilometri quadrati dei quali solo una minima frazione è terra
+      emersa: circa l'ottanta per cento è costituito da distese melmose, bassifondi tidali e paludi salmastre.
+      È la più vasta zona umida del bacino mediterraneo, e quando si abbandona il ponte lasciandosi alle
+      spalle le isole celebri, il paesaggio muta: canneti, argini di terra, garzette e aironi, sotto una luce
+      tersa posata su acque che raramente superano il metro di profondità.
+    landscape: >-
+      La laguna è giovane in termini geologici: si formò circa seimila anni fa, quando il mare dell'Olocene
+      invase la costa, mantenendo per secoli un profilo instabile. L'assetto contemporaneo fu deciso
+      dall'ingegno umano. La grande inondazione del 589 deviò l'alveo del Brenta e del Sile, unificando
+      presumibilmente quattro bacini separati nella laguna che conosciamo. Secoli dopo, per scongiurarne
+      l'interrimento, i veneziani allontanarono le foci del Sile, del Piave e del Brenta all'esterno del
+      perimetro lagunare.
+
+
+      Il bacino comunica con l'Adriatico mediante tre bocche di porto—Lido, Malamocco e Chioggia—e trovandosi
+      all'apice di un mare semichiuso, le maree vi determinano oscillazioni sensibili. Tra le bocche e la
+      terraferma si snoda un labirinto di canali, fondali fino a dieci metri e isolotti di fango più o meno
+      consolidati: le *barene*, i dossi emergenti (*motte*) e i bassifondi scoperti dalla bassa marea
+      (*velme*). I cordoni litoranei esterni—Lido, Pellestrina e Treporti—sono sabbiosi.
+
+
+      Lungo il margine interno sorgono le valli da pesca: aree lagunari cinte da argini di terra dove la
+      profondità supera di rado il metro. Qui si coglie al meglio il contrasto tra acqua dolce e salmastra, e
+      qui si concentra gran parte della fauna selvatica.
+    wildlife: >-
+      Il punto privilegiato per osservarla è Valle Figheri, a Campagna Lupia. La sua garzaia è annoverata tra
+      le più insigni d'Italia: ospita sei specie di ardeidi e la [garza imperial / airone
+      rosso](/especie/ardea_purpurea/) vi nidifica in un sito di rilievo internazionale. Nelle valli
+      stazionano pure la [garzetta grande / airone bianco maggiore](/especie/egretta_alba/) e l'[airone
+      cenerino](/especie/ardea_cinerea/); nei censimenti provinciali, anatre e folaghe sono state rilevate
+      quasi esclusivamente all'interno delle valli.
+
+
+      Le stagioni alternano i protagonisti. In primavera ed estate dominano il [falco di
+      palude](/especie/circus_aeruginosus/) e i passeriformi di canneto, mentre gli aironi accudiscono i nidi.
+      Durante i passi migratori e in inverno le valli fungono da rifugio per migliaia di svernanti,
+      rappresentando le stagioni ideali per il birdwatching.
+
+
+      Sott'acqua accade qualcosa di analogo. La laguna vanta un patrimonio ittico insolito per fondali
+      sabbiosi grazie alla sua articolazione: foci, bassifondi, barene, canali e bocche. In primavera
+      anguille, orate, spigole e cefali entrano nella laguna per nutrirsi; in autunno, ai primi freddi,
+      riguadagnano il mare aperto. Un pesce tipico lagunare, *Zosterisessor ophiocephalus*, è oggi divenuto
+      raro. Di tanto in tanto fa la sua comparsa il tursiope.
+
+
+      Nei boschi ripariali e negli specchi d'acqua dolce vivono rospo comune, testuggine palustre europea,
+      biscia tassellata e rana agile; tra i mammiferi spiccano toporagno d'acqua, topolino delle risaie,
+      volpe, tasso e puzzola.
+    visit: >-
+      L'itinerario naturalistico di Valle Figheri, Valle Cornio e Valle Zappa disegna un anello di circa
+      quindici chilometri, sviluppato quasi per intero su carrarecce bianche e argini, fruibile a piedi o in
+      mountain bike in senso antiorario. La partenza è fissata all'ingresso di Valle Figheri lungo la strada
+      statale 309 Romea, dove si parcheggia. Sui tratti arginali più angusti e invasi da vegetazione le
+      biciclette non sono ammesse, con piazzole di sosta apposite.
+
+
+      Il percorso comprende torrette di avvistamento al Casone Figheri e al Casone di Valle Zappa con scorci
+      sulla laguna, un capanno sulla garzaia e noleggio di canoe per addentrarsi tra le acque.
+    history: >-
+      La laguna è da sempre un grembo protettivo. Sin dai secoli V e VI diede ricetto alle popolazioni romane
+      in fuga dalle scorrerie barbariche. Cassiodoro descriveva già dimore simili a nidi di uccelli marini,
+      erette tra i canneti o posate sull'acqua; oggi i *casoni*, capanne di legno e canna palustre, restano le
+      tipiche architetture lagunari. Da Torcello a Chioggia, quasi ogni isola custodiva un borgo di pescatori
+      e maestranze.
+
+
+      Oggi la sfida aperta è l'erosione: vaste superfici di *velme* e *barene* regrediscono mentre i fondali
+      tendono ad approfondirsi. Per converso, le praterie sommerse di fanerogame hanno ripreso a ricolonizzare
+      i fondali, rigenerando in parte le condizioni originarie.
+    before: >-
+      Le valli da pesca sono proprietà privata. L'accesso è consentito unicamente tramite escursioni guidate
+      organizzate dal personale o da guide naturalistiche abilitate. I paesaggi lagunari mutano con le maree e
+      con le stagioni: prediligi i mesi migratori o invernali per gli uccelli acquatici, oppure la primavera e
+      l'estate per aironi e canneti.
+    around: >-
+      La laguna non vanta luoghi vicini censiti nell'atlante, ma condivide avifauna e paesaggi con comprensori
+      remoti. Il [Piccolo Balaton - Parco Nazionale degli Altipiani del
+      Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) condivide airone rosso, airone bianco
+      maggiore e garzetta. La [Riserva Naturale della Palude di Paúl do
+      Boquilobo](/lugar/reserva-natural-do-paul-do-boquilobo/) condivide airone rosso e falco di palude,
+      mentre il [Parco Naturale degli Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) vi aggiunge il fenicottero. Il [Parco
+      Naturale di Ses Salines di Ibiza e Formentera](/lugar/parque-natural-de-ses-salines/) racchiude a sua
+      volta lidi costieri e saline con volpoca e fenicottero rosa.
+  pt:
+    intro: >-
+      Veneza assenta sobre muito mais do que águas navegáveis. Em torno da urbe estende-se a maior laguna do
+      Mediterrâneo, com cerca de quinhentos e cinquenta quilómetros quadrados dos quais apenas uma parcela
+      mínima é terra firme: cerca de oitenta por cento são lodaçais, esteiros mareais e marismas salgadas. É a
+      mais vasta zona húmida da bacia mediterrânica e, quando te afastas das ilhas afamadas, o cenário
+      transfigura-se: caniçais, diques de terra batida, garças e garcetas, sob uma luz horizontal refletida em
+      águas que raramente ultrapassam um metro de profundidade.
+    landscape: >-
+      A laguna é jovem em termos geológicos: formou-se há cerca de seis mil anos quando a subida holocénica do
+      mar invadiu a costa, mantendo margens móveis durante séculos. A fisionomia contemporânea deve-se a
+      escolhas humanas. A grande cheia do ano 589 alterou o percurso dos rios Brenta e Sile, fundindo quatro
+      bacias outrora distintas na laguna coesa de hoje. Séculos depois, para evitar o assoreamento dos
+      esteiros, os venezianos desviaram a foz do Sile, do Piave e do Brenta para fora do perímetro lagunar.
+
+
+      O espelho de água comunica com o Adriático por três barras—Lido, Malamocco e Chioggia—e, situando-se no
+      vértice de um mar quase fechado, as marés geram oscilações consideráveis. Entre as barras e a terra
+      firme entrecruza-se um labirinto de canais navegáveis, baixios de até dez metros e ilhotas de vasa: as
+      *barene* emersas na preia-mar habitual, cabeços terrosos (*motte*) e lodaçais entre marés (*velme*). Os
+      cordões litorais exteriores—Lido, Pellestrina e Treporti—são restingas arenosas.
+
+
+      Na orla interior estendem-se as *valli da pesca*: recintos lagunares compartimentados por diques de
+      terra onde a profundidade raramente excede o metro. É aí que o contacto entre água salgada e doce mais
+      se evidencia, congregando a grande maioria da vida selvagem.
+    wildlife: >-
+      O recanto privilegiado para a observar é a Valle Figheri, em Campagna Lupia. A sua colónia de garças é
+      tida como uma das mais notáveis de Itália: acolhe seis espécies de ardeídeos, nidificando aqui a
+      [garça-vermelha](/especie/ardea_purpurea/) num núcleo de relevância internacional. Nas valli avistam-se
+      igualmente a [garça-branca-grande](/especie/egretta_alba/) e o [garça-real](/especie/ardea_cinerea/);
+      nos censos provinciais, patos e galeirões foram registados quase em exclusivo no interior das valli.
+
+
+      O calendário altera a comunidade faunística. Na primavera e no verão dominam o
+      [tartaranhão-dos-pauis](/especie/circus_aeruginosus/) e as aves palustres, com as garças em plena
+      criação. Na migração e no inverno as valli funcionam como quartel de invernada de aves aquáticas, sendo
+      os períodos mais profícuos para observação ornitológica.
+
+
+      Sob a água a diversidade é equivalente. A laguna suporta uma comunidade piscícola rara para leitos
+      arenosos graças à sua teia de esteiros, canais, barene e barras. Na primavera enguias, douradas, robalos
+      e várias tainhas penetram na laguna para alimentação; no outono, aos primeiros frios, demandam o mar
+      largo através das barras. Um caboz típico lagunar, *Zosterisessor ophiocephalus*, tornou-se aqui raro.
+      Ocasionalmente roazes-corvineiros entram nos canais principais.
+
+
+      Nos prados húmidos e bosques ripícolas vivem o sapo-comum, o cágado-de-carapaça-estriada, a
+      cobra-de-água-viperina e a rã-ágil; entre os mamíferos contam-se o musaranho-de-água, o
+      rato-das-espigas, a raposa, o texugo e a doninha-fedorenta.
+    visit: >-
+      O trilho de interpretação de Valle Figheri, Valle Cornio e Valle Zappa traça um anel de cerca de quinze
+      quilómetros em caminhos de terra batida e diques, acessível a pé ou em bicicleta de montanha em sentido
+      anti-horário. Arranca da entrada de Valle Figheri pela estrada nacional SS 309 Romea, onde há
+      estacionamento. Nos diques mais estreitos com vegetação densa é proibido pedalar, existindo locais para
+      prender as bicicletas.
+
+
+      O percurso oferece torres de observação no Casone Figheri e no Casone de Valle Zappa com panoramas
+      desafogados sobre a laguna, um abrigo junto à garceira e aluguer de canoas para navegar nos canais
+      calmos.
+    history: >-
+      A laguna funcionou desde tempos remotos como um refúgio natural. A partir dos séculos V e VI acolheu as
+      populações romanas em fuga das invasões bárbaras. Cassiodoro retratava já cabanas comparáveis a ninhos
+      de aves marinhas, erguidas no caniçal ou flutuando na água; hoje os *casoni*, cabanas tradicionais de
+      madeira e colmo, mantêm-se como referências arquitetónicas. De Torcello a Chioggia, quase cada ilhéu
+      acolheu o seu povoado de pescadores e mareantes.
+
+
+      Atualmente a erosão impõe-se como o maior repto: vastas áreas de *velme* e *barene* regridem à medida
+      que os fundos se aprofundam. Em contraponto, as pradarias marinhas submersas voltaram a fixar-se nos
+      leitos lagunares, regenerando parcelarmente a integridade ecológica do ecossistema.
+    before: >-
+      As valli da pesca constituem propriedade privada. O acesso só é facultado mediante visitas guiadas pelo
+      pessoal das valli ou por guias de natureza autorizados. O meio lagunar transforma-se com a maré e a
+      época do ano: escolhe o outono ou inverno para as aves aquáticas invernantes, ou a primavera e verão
+      para as colónias de garças.
+    around: >-
+      A laguna não conta com lugares vizinhos inventariados no atlas, mas partilha espécies e cenários com
+      reservas afastadas. O [Pequeno Balaton - Parque Nacional das Terras Altas do
+      Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/) partilha garça-vermelha,
+      garça-branca-grande e garça-branca-pequena. A [Reserva Natural do Paúl do
+      Boquilobo](/lugar/reserva-natural-do-paul-do-boquilobo/) partilha garça-vermelha e
+      tartaranhão-dos-pauis, e o [Parque Natural dos Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/) acrescenta o flamingo-comum. O [Parque
+      Natural de Ses Salines de Ibiza e Formentera](/lugar/parque-natural-de-ses-salines/) reúne igualmente
+      marismas costeiras com o pato-branco e o flamingo.
+fuentes:
+  - url: https://ambiente.cittametropolitana.ve.it/sites/default/files/16.ValleFigheriValleCornioValleZappa.pdf
+    titulo: Itinerario naturalistico Valle Figheri - Valle Cornio - Valle Zappa
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Venetian_Lagoon
+    titulo: Venetian Lagoon - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://es.wikipedia.org/wiki/Laguna_de_Venecia
+    titulo: Laguna de Venecia - Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-11-06'
+  - url: https://it.wikipedia.org/wiki/Laguna_di_Venezia
+    titulo: Laguna di Venezia - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://whc.unesco.org/en/list/394
+    titulo: Venice and its Lagoon - UNESCO World Heritage Centre
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Dese_nella_laguna_di_Venezia.jpg
+    autor: Didier Descouens
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

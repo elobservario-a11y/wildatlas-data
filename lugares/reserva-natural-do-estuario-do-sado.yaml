@@ -1,0 +1,504 @@
+id: reserva-natural-do-estuario-do-sado
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural del Estuario del Sado
+  en: Sado Estuary Nature Reserve
+  fr: Réserve naturelle de l'estuaire du Sado
+  de: Naturreservat Sado-Mündung
+  it: Riserva naturale dell'estuario del Sado
+  pt: Reserva Natural do Estuário do Sado
+nombre_original: Reserva Natural do Estuário do Sado
+alias:
+  - Reserva Natural do Estuário do Sado
+paises:
+  - PT
+region:
+  es: Península de Setúbal / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+  en: Setúbal Peninsula / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+  fr: Péninsule de Setúbal / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+  de: Halbinsel Setúbal / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+  it: Penisola di Setúbal / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+  pt: Península de Setúbal / Alentejo (Setúbal / Alcácer do Sal / Grândola)
+ubicacion:
+  tipo: punto
+  lat: 38.48
+  lon: -8.78
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 4722
+  nombre_en_la_fuente: Estuario do Sado
+  categoria_uicn: IV
+  capa: capas/cdda/reserva-natural-do-estuario-do-sado.geojson
+habitats:
+  - wetland
+  - coast
+  - river_corridor
+designaciones:
+  - natural_reserve
+  - ramsar
+  - natura2000
+especies:
+  - tursiops_truncatus
+  - phoenicopterus_roseus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y otoño
+  en: spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 2
+masificacion_nota:
+  es: Media en los barcos de observación de delfines desde Setúbal
+  en: Moderate on dolphin-watching boats from Setúbal
+  fr: Moyenne sur les vedettes d'observation des dauphins au départ de Setúbal
+  de: Mäßig auf den Delfinbeobachtungsbooten ab Setúbal
+  it: Media sui battelli di avvistamento delfini in partenza da Setúbal
+  pt: Média nos barcos de observação de golfinhos desde Setúbal
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — ICNF
+    url: https://www.icnf.pt/
+  - titulo: Visita y accesos — Reserva Natural do Estuário do Sado (ICNF Natural.PT)
+    url: https://natural.pt/protected-areas/reserva-natural-estuario-sado
+  - titulo: Normas — Código de visita de las áreas protegidas del ICNF
+    url: https://resources.natural.pt/uploads/additional-information/2026/10/13/11/MVFWRS8SS5xDBMC4.pdf
+resumen:
+  es: >-
+    Estuario fluvial con la única población residente sedentaria de delfín mular (*Tursiops truncatus*) en un
+    estuario en Portugal.
+  en: >-
+    River estuary harbouring the only resident, sedentary population of bottlenose dolphins (*Tursiops
+    truncatus*) in an estuarine environment in Portugal.
+  fr: >-
+    Estuaire fluvial abritant la seule population résidente et sédentaire de grand dauphin (*Tursiops
+    truncatus*) en milieu estuarien au Portugal.
+  de: >-
+    Flussmündung mit der einzigen standorttreuen, sesshaften Population des Großen Tümmlers (*Tursiops
+    truncatus*) in einem Ästuar in Portugal.
+  it: >-
+    Estuario fluviale con l'unica popolazione stanziale e residente di tursiope (*Tursiops truncatus*) in
+    ambiente d'estuario in Portogallo.
+  pt: >-
+    Estuário fluvial com a única população residente sedentária de roaz-corvineiro (*Tursiops truncatus*) num
+    estuário em Portugal.
+unico:
+  es: >-
+    Un estuario con la única comunidad residente de delfines mulares de Portugal, rodeado de salinas, marismas
+    y aves.
+  en: >-
+    An estuary holding Portugal's sole resident community of bottlenose dolphins, encircled by salt pans,
+    marshes and rich birdlife.
+  fr: >-
+    Un estuaire hébergeant l'unique communauté résidente de grands dauphins du Portugal, ceinturé de salines,
+    marais et oiseaux d'eau.
+  de: >-
+    Ein Ästuar mit Portugals einziger sesshafter Tümmler-Gemeinschaft, umgeben von Salinen, Wattflächen und
+    reicher Vogelwelt.
+  it: >-
+    Un estuario che ospita l'unica comunità residente di tursiopi del Portogallo, contornato da saline, paludi
+    e avifauna acquatica.
+  pt: >-
+    Um estuário com a única comunidade residente de roazes-corvineiros de Portugal, rodeado de salinas, sapais
+    e aves.
+observaciones:
+  es: Puedes dedicarle entre uno y dos días.
+texto:
+  es:
+    intro: >-
+      En el estuario del Sado hay delfines que no se van. Es la única comunidad residente de delfines mulares
+      de Portugal, y comparte espacio con barcos de carga, astilleros, pesca y un ferry que cruza entre
+      orillas. Es reserva natural desde el 1 de octubre de 1980. El estuario se abre aguas abajo de Alcácer do
+      Sal, separado del océano por la península de Tróia, y la reserva se reparte entre los municipios de
+      Setúbal, Alcácer do Sal, Grândola y Palmela.
+    landscape: >-
+      El Sado recorre 180 kilómetros antes de desembocar en el Atlántico cerca de Setúbal, y es uno de los
+      pocos ríos portugueses que fluyen de sur a norte. Su estuario ocupa unos 160 km², con 8 metros de
+      profundidad media y hasta 50 de máxima, y el flujo lo mueve sobre todo la marea. Se desarrolló al abrigo
+      de la península de Tróia, una restinga arenosa de más de 25 kilómetros de largo entre el Atlántico y el
+      estuario, formada en los últimos 5000 años de sur a norte, desde Comporta hasta Tróia, frente a Setúbal.
+
+
+      La reserva cubre unas 23.971 hectáreas y su zona de protección de aves, 25.231. Reúne dunas, playas,
+      marismas, carrizales y bancos de fango intermareal; también hay bosques de sauce, alcornocales y pinares
+      marítimos.
+    wildlife: >-
+      El estuario es un criadero. Es importante para el desove, el desarrollo y el crecimiento de varios peces
+      y del [delfín mular](/especie/tursiops_truncatus/), y en la reserva se han registrado 261 especies de
+      vertebrados, entre ellas 211 de aves y 31 de mamíferos.
+
+
+      Para las aves es lugar de cría, descanso o invernada. Entre las que destacan están el [aguilucho
+      lagunero](/especie/circus_aeruginosus/), la [avoceta común](/especie/recurvirostra_avosetta/), el
+      [flamenco común](/especie/phoenicopterus_roseus/), la serreta mediana, el [zarapito
+      real](/especie/numenius_arquata/), la [aguja colinegra](/especie/limosa_limosa/) y el ostrero
+      euroasiático. También lo frecuentan la cuchara común, la cigüeñuela común, el correlimos común y el
+      chorlito gris. Las mejores épocas son la primavera y el otoño.
+
+
+      Los delfines mulares habitan el estuario y han resistido la presión del tráfico marítimo, la pesca y el
+      ferry entre orillas. Un grupo puede avistarse en el estuario del Sado, frente a Setúbal.
+    visit: >-
+      Entre los sitios propuestos para observar aves están las Salinas da Mitrena y las Praias do Sado.
+      También se proponen las zonas de Gâmbia y de la Herdade do Zambujal, y otros puntos recomendados
+      incluyen Carrasqueira, Comporta y Tróia.
+
+
+      Para entender el estuario, el Moinho de Maré da Mourisca funciona como centro de interpretación del
+      itinerario naturalista. Es un molino de marea en una zona de marismas, salinas y antiguos arrozales, y
+      una inscripción en piedra del interior da la fecha de 1601. La reserva lo recuperó y hoy funciona en él
+      un ecomuseo, centro de educación ambiental, con una exposición permanente sobre la reserva, información
+      sobre la molienda, el pan y la sal, y una sala audiovisual.
+
+
+      En el norte de la península de Tróia se visitan las ruinas romanas de un vasto complejo de salazón de
+      pescado, activo entre los siglos I y VI.
+    history: >-
+      La reserva se creó por decreto-ley ante la contaminación que afectaba al estuario y el riesgo de dañar
+      su patrimonio natural de interés botánico y faunístico. Sigue siendo un estuario con actividad
+      industrial: en él están los astilleros navales de Mitrena.
+    before: Puedes dedicarle entre uno y dos días.
+    around: >-
+      A veintiséis kilómetros queda la [Reserva Natural del Estuario del
+      Tajo](/lugar/reserva-natural-do-estuario-do-tejo/). Por flamencos y delfines mulares, el estuario se
+      parece al [Parque Natural de Ses Salines de Ibiza y Formentera](/lugar/parque-natural-de-ses-salines/),
+      al [Parque Natural Marítimo-Terrestre del Cabo de
+      Gata-Níjar](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) y, solo por flamencos, al
+      [Parque Nacional del Delta del Evros](/lugar/ethniko-parko-delta-evrou/).
+  en:
+    intro: >-
+      In the Sado estuary there are dolphins that never leave. This is Portugal's only resident community of
+      bottlenose dolphins, sharing open water with cargo freighters, shipyards, fishing smacks and cross-river
+      car ferries. It has been a nature reserve since 1 October 1980. The estuary opens downstream from
+      Alcácer do Sal, separated from the open Atlantic by the Tróia Peninsula, with the protected area
+      distributed across the municipalities of Setúbal, Alcácer do Sal, Grândola and Palmela.
+    landscape: >-
+      The Sado flows for 180 kilometres before emptying into the Atlantic near Setúbal, one of the few
+      Portuguese rivers running south to north. Its estuary spans roughly 160 km², with an average depth of 8
+      metres and maximums reaching 50 metres, its hydrology governed primarily by tidal exchange. It formed in
+      the lee of the Tróia Peninsula, a sandy spit over 25 kilometres long separating ocean from estuary,
+      accumulated over the past 5,000 years from south to north, between Comporta and Tróia opposite Setúbal.
+
+
+      The reserve encompasses some 23,971 hectares, with its special protection area for birds covering 25,231
+      hectares. It unites sand dunes, beaches, saltmarshes, reedbeds and intertidal mudflats; riparian willow
+      galleries, cork oak stands and maritime pine forests line the edges.
+    wildlife: >-
+      The estuary functions as a marine nursery. It is vital for the spawning, larval development and growth
+      of multiple fish species and the [bottlenose dolphin](/especie/tursiops_truncatus/); the reserve records
+      261 vertebrate species, including 211 bird species and 31 mammals.
+
+
+      For avifauna it offers breeding, moulting, staging and wintering habitat. Highlighted species include
+      the [western marsh harrier](/especie/circus_aeruginosus/), [pied
+      avocet](/especie/recurvirostra_avosetta/), [greater flamingo](/especie/phoenicopterus_roseus/),
+      red-breasted merganser, [Eurasian curlew](/especie/numenius_arquata/), [black-tailed
+      godwit](/especie/limosa_limosa/) and Eurasian oystercatcher. Northern shovelers, black-winged stilts,
+      dunlins and grey plovers also frequent the marshes. Peak viewing windows are spring and autumn.
+
+
+      The bottlenose dolphins inhabit the estuary year-round, coping with shipping traffic, fishing activity
+      and regular ferry crossings. A resident pod can often be observed in the Sado estuary opposite Setúbal.
+    visit: >-
+      Top recommended birdwatching locales include the Salinas da Mitrena and Praias do Sado. The natural
+      sectors of Gâmbia and Herdade do Zambujal are also prime sites, alongside Carrasqueira, Comporta and
+      Tróia.
+
+
+      To understand the estuary, the Moinho de Maré da Mourisca serves as the natural interpretive hub. It is
+      a historic tidal mill set amidst saltmarshes, salt pans and former rice paddies; an interior stone
+      inscription preserves the date 1601. Restored by the reserve, it now houses an ecomuseum and
+      environmental education centre featuring permanent exhibits on reserve ecosystems, traditional milling,
+      bread and salt making, and an audiovisual auditorium.
+
+
+      On the northern tip of the Tróia Peninsula, visitors can tour the Roman ruins of a vast fish-salting
+      industrial complex that operated between the I and VI centuries.
+    history: >-
+      The reserve was established by decree-law to combat industrial water pollution threatening the estuary
+      and preserve its rich botanical and faunal heritage. It remains an active working estuary, hosting the
+      Mitrena naval shipyards.
+    before: Allow one or two days for your visit.
+    around: >-
+      Twenty-six kilometres to the north lies the [Tagus Estuary Nature
+      Reserve](/lugar/reserva-natural-do-estuario-do-tejo/). In its flamingos and bottlenose dolphins, the
+      estuary mirrors [Ses Salines d'Eivissa i Formentera Natural
+      Park](/lugar/parque-natural-de-ses-salines/), [Cabo de Gata-Níjar Natural
+      Park](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) and, for flamingos alone, the
+      [Evros Delta National Park](/lugar/ethniko-parko-delta-evrou/).
+  fr:
+    intro: >-
+      Dans l'estuaire du Sado résident des dauphins qui ne partent jamais. C'est l'unique communauté
+      sédentaire de grands dauphins du Portugal, partageant les flots avec cargos, chantiers navals,
+      chalutiers et bacs réguliers. Le site est érigé en réserve naturelle depuis le 1er octobre 1980.
+      L'estuaire s'évase en aval d'Alcácer do Sal, isolé de l'océan par la péninsule de Tróia, et s'étend sur
+      les communes de Setúbal, Alcácer do Sal, Grândola et Palmela.
+    landscape: >-
+      Le Sado parcourt 180 kilomètres avant d'atteindre l'Atlantique près de Setúbal, formant l'un des rares
+      fleuves portugais s'écoulant du sud au nord. Son estuaire couvre environ 160 km², avec une profondeur
+      moyenne de 8 mètres pouvant atteindre 50 mètres, sous le contrôle dynamique des marées. Il s'est
+      développé à l'abri du cordon sableux de Tróia, une flèche littorale de plus de 25 kilomètres séparant
+      mer et estuaire, édifiée au cours des 5 000 dernières années du sud vers le nord, entre Comporta et
+      Tróia face à Setúbal.
+
+
+      La réserve protège 23 971 hectares et sa zone de protection spéciale pour les oiseaux atteint 25 231
+      hectares. Elle réunit dunes vives, plages, vasières, roselières et bancs de slikke intertidale, flanqués
+      de saulaies, subéraies et pinèdes maritimes.
+    wildlife: >-
+      L'estuaire constitue une nourricerie majeure. Il est capital pour le frai, l'alevinage et la croissance
+      de nombreuses espèces marines et du [grand dauphin](/especie/tursiops_truncatus/) ; on y recense 261
+      vertébrés, dont 211 espèces d'oiseaux et 31 mammifères.
+
+
+      Pour l'avifaune, il offre halte migratoire, mue et hivernage. Parmi les oiseaux majeurs figurent le
+      [busard des roseaux](/especie/circus_aeruginosus/), l'[avocette
+      élégante](/especie/recurvirostra_avosetta/), le [flamant rose](/especie/phoenicopterus_roseus/), le
+      harle huppé, le [courlis cendré](/especie/numenius_arquata/), la [barge à queue
+      noire](/especie/limosa_limosa/) et l'huîtrier pie. S'y ajoutent canards souchets, échasses blanches,
+      bécasseaux variables et pluviers argentés. Les saisons d'élection sont le printemps et l'automne.
+
+
+      Les grands dauphins sillonnent l'estuaire à l'année, accoutumés aux navires marchands et au trafic
+      maritime. Un groupe régulier s'observe aisément au large de Setúbal.
+    visit: >-
+      Parmi les postes d'observation d'oiseaux figurent les salines de Mitrena et les Praias do Sado. Les
+      secteurs naturels de Gâmbia et de la Herdade do Zambujal sont réputés, de même que Carrasqueira,
+      Comporta et Tróia.
+
+
+      Pour saisir le fonctionnement de l'estuaire, le moulin à marée de Mourisca abrite le centre
+      d'interprétation. Érigé au cœur des marais et anciens rizières, une pierre gravée intérieure porte la
+      date de 1601. Réhabilité par la réserve, il accueille aujourd'hui un écomusée et un centre d'éducation à
+      l'environnement, détaillant l'histoire meunière, le sel, le pain et les milieux humides.
+
+
+      Au nord de la presqu'île de Tróia, visitez les ruines romaines d'un immense complexe de salaison de
+      poisson actif du Ier au VIe siècle.
+    history: >-
+      La réserve fut créée par décret-loi face aux pollutions industrielles qui menaçaient l'estuaire afin de
+      sauver son patrimoine botanique et faunistique. L'activité industrielle y persiste avec les chantiers
+      navals de Mitrena.
+    before: Comptez un ou deux jours de visite.
+    around: >-
+      À vingt-six kilomètres au nord se trouve la [Réserve naturelle de l'estuaire du
+      Tage](/lugar/reserva-natural-do-estuario-do-tejo/). Par ses flamants et dauphins, le Sado évoque le
+      [Parc naturel des Salines d'Ibiza et Formentera](/lugar/parque-natural-de-ses-salines/), le [Parc
+      naturel de Cabo de Gata-Níjar](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) et,
+      pour les flamants, le [Parc national du delta de l'Évros](/lugar/ethniko-parko-delta-evrou/).
+  de:
+    intro: >-
+      In der Sado-Mündung leben Delfine, die das Gewässer nie verlassen. Es ist Portugals einzige ortsfeste
+      Population Großer Tümmler, die sich den Lebensraum mit Frachtschiffen, Werften, Fischkuttern und
+      Autofähren teilt. Seit dem 1. Oktober 1980 steht das Gebiet als Naturreservat unter Schutz. Das Ästuar
+      öffnet sich unterhalb von Alcácer do Sal, durch die Halbinsel Tróia vom Atlantik getrennt, und verteilt
+      sich auf die Gemeinden Setúbal, Alcácer do Sal, Grândola und Palmela.
+    landscape: >-
+      Der Sado legt 180 Kilometer zurück, bevor er bei Setúbal in den Atlantik mündet—als einer der wenigen
+      Flüsse Portugals mit Süd-Nord-Richtung. Seine Mündung bedeckt rund 160 km² bei 8 Metern mittlerer und
+      bis zu 50 Metern maximaler Wassertiefe, hydraulisch von den Gezeiten gesteuert. Sie entstand im Schutz
+      der Halbinsel Tróia, einer über 25 Kilometer langen Sandnehrung, die in den vergangenen 5.000 Jahren von
+      Süd nach Nord zwischen Comporta und Tróia gegenüber Setúbal aufgeweht wurde.
+
+
+      Das Reservat erstreckt sich über 23.971 Hektar, sein Vogelschutzgebiet über 25.231 Hektar. Es birgt
+      Dünen, Sandstrände, Salzwiesen, Röhrichte und Wattflächen, gesäumt von Weidenauen, Korkeichenwäldern und
+      Strandkiefern.
+    wildlife: >-
+      Das Ästuar dient als marine Kinderstube. Es ist Laich- und Aufwuchsgebiet für Fische und den [Großen
+      Tümmler](/especie/tursiops_truncatus/); im Schutzgebiet wurden 261 Wirbeltierarten erfasst, darunter 211
+      Vogelarten und 31 Säugetiere.
+
+
+      Für die Avifauna dient es als Brut-, Rast- und Überwinterungsquartier. Herausragende Arten sind
+      [Rohrweihe](/especie/circus_aeruginosus/), [Säbelschnäbler](/especie/recurvirostra_avosetta/),
+      [Rosaflamingo](/especie/phoenicopterus_roseus/), Mittelsäger, [Großer
+      Brachvogel](/especie/numenius_arquata/), [Uferschnepfe](/especie/limosa_limosa/) und Austernfischer.
+      Auch Löffelente, Stelzenläufer, Alpenstrandläufer und Kiebitzregenpfeifer rasten zahlreich.
+      Hauptreisezeiten sind Frühling und Herbst.
+
+
+      Die Großen Tümmler bewohnen das Ästuar dauerhaft und trotzen dem Schiffsverkehr und Fährbetrieb. Eine
+      Gruppe lässt sich regelmäßig vor Setúbal beobachten.
+    visit: >-
+      Gute Beobachtungspunkte für Vögel sind die Salinas da Mitrena und Praias do Sado. Auch Gâmbia und die
+      Herdade do Zambujal bieten sich an, ergänzt durch Carrasqueira, Comporta und Tróia.
+
+
+      Zum Verständnis des Ökosystems dient die Gezeitenmühle Moinho de Maré da Mourisca als Besucherzentrum.
+      Sie liegt inmitten von Salzwiesen und ehemaligen Reisfeldern; eine Steininschrift im Inneren trägt die
+      Jahreszahl 1601. Das renovierte Mühlengebäude beherbergt ein Ökomuseum und Umweltbildungszentrum mit
+      Ausstellungen zu Salinen, Mühlenwesen, Brotbereitung und Naturraum.
+
+
+      An der Nordspitze der Halbinsel Tróia lohnen die römischen Ruinen einer Fischsalzungsfabrik aus dem I.
+      bis VI. Jahrhundert einen Abstecher.
+    history: >-
+      Das Reservat wurde per Gesetzesdekret geschaffen, um drohende Industrieverschmutzungen abzuwenden und
+      botanische sowie zoologische Schätze zu sichern. Industrielle Aktivitäten wie die Mitrena-Werften
+      bestehen im Umland fort.
+    before: Für den Besuch kannst du ein bis zwei Tage einplanen.
+    around: >-
+      Sechsundzwanzig Kilometer nördlich liegt das [Naturreservat
+      Tejo-Mündung](/lugar/reserva-natural-do-estuario-do-tejo/). Mit Flamingos und Tümmlern ähnelt der Sado
+      dem [Naturpark Ses Salines](/lugar/parque-natural-de-ses-salines/), dem [Naturpark Cabo de
+      Gata-Níjar](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) und, bezüglich Flamingos,
+      dem [Nationalpark Evros-Delta](/lugar/ethniko-parko-delta-evrou/).
+  it:
+    intro: >-
+      Nell'estuario del Sado vivono delfini stanziali. È l'unica comunità residente di tursiopi del
+      Portogallo, che condivide lo specchio acqueo con mercantili, cantieri navali, pescherecci e traghetti.
+      L'area è riserva naturale dal 1° ottobre 1980. L'estuario si sviluppa a valle di Alcácer do Sal,
+      separato dall'oceano dalla penisola di Tróia, ripartito tra i comuni di Setúbal, Alcácer do Sal,
+      Grândola e Palmela.
+    landscape: >-
+      Il Sado scorre per 180 chilometri prima di sfociare nell'Atlantico vicino a Setúbal, uno dei rari fiumi
+      portoghesi con direzione sud-nord. Il suo estuario copre circa 160 km², con 8 metri di profondità media
+      e punte di 50 metri, mosso dall'escursione di marea. Si è formato al riparo della penisola di Tróia, una
+      freccia sabbiosa lunga oltre 25 chilometri accumulatasi negli ultimi 5000 anni da sud a nord, tra
+      Comporta e Tróia di fronte a Setúbal.
+
+
+      La riserva tutela 23.971 ettari e la zona di protezione speciale per gli uccelli copre 25.231 ettari.
+      Mette assieme dune, lidi sabbiosi, barene salmastre, canneti e piane di marea, orlati da saliceti,
+      sugherete e pinete costiere.
+    wildlife: >-
+      L'estuario costituisce una nursery marina d'eccellenza. Risulta fondamentale per fregola, sviluppo e
+      accrescimento ittico e del [tursiope](/especie/tursiops_truncatus/); si contano 261 specie di
+      vertebrati, tra cui 211 uccelli e 31 mammiferi.
+
+
+      Per l'avifauna rappresenta area di cova, sosta e svernamento. Spiccano il [falco di
+      palude](/especie/circus_aeruginosus/), l'[avocetta](/especie/recurvirostra_avosetta/), il
+      [fenicottero](/especie/phoenicopterus_roseus/), lo smergo minore, il [chiurlo
+      maggiore](/especie/numenius_arquata/), la [pittima reale](/especie/limosa_limosa/) e la beccaccia di
+      mare. Numerosi sono mestoloni, cavalieri d'Italia, piovanelli pancianera e pivieresse. I periodi clou
+      sono primavera e autunno.
+
+
+      I tursiopi frequentano l'estuario stabilmente, convivendo con la navigazione commerciale e i traghetti.
+      Un gruppo si avvista regolarmente al largo di Setúbal.
+    visit: >-
+      Tra le postazioni consigliate figurano le saline di Mitrena e le Praias do Sado. Rilevanti sono pure
+      Gâmbia e l'Herdade do Zambujal, oltre a Carrasqueira, Comporta e Tróia.
+
+
+      Per interpretare l'estuario, il mulino a marea di Mourisca funge da polo didattico. Edificato tra barene
+      e antiche risaie, un'iscrizione lapidea ne attesta la costruzione nel 1601. Recuperato dalla riserva,
+      ospita un ecomuseo e centro di educazione ambientale con allestimenti sulla macinazione tradizionale,
+      sale, pane e habitat lagunari.
+
+
+      All'estremità nord della penisola di Tróia si visitano le rovine romane di un colossale stabilimento per
+      la salagione del pesce attivo tra i secoli I e VI.
+    history: >-
+      La riserva fu istituita con decreto-legge per frenare l'inquinamento industriale e salvaguardare il
+      pregio biologico dell'estuario. Attività industriali e cantieri navali a Mitrena convivono ai margini
+      dell'area.
+    before: Puoi dedicare alla visita uno o due giorni.
+    around: >-
+      A ventisei chilometri a nord si estende la [Riserva naturale dell'estuario del
+      Tago](/lugar/reserva-natural-do-estuario-do-tejo/). Per fenicotteri e tursiopi il bacino richiama il
+      [Parco naturale di Ses Salines](/lugar/parque-natural-de-ses-salines/), il [Parco naturale di Cabo de
+      Gata-Níjar](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) e, per i fenicotteri, il
+      [Parco nazionale del Delta dell'Evros](/lugar/ethniko-parko-delta-evrou/).
+  pt:
+    intro: >-
+      No estuário do Sado há golfinhos que não partem. É a única comunidade residente de roazes-corvineiros de
+      Portugal, partilhando o plano de água com cargueiros, estaleiros, pesca e o ferry entre margens. É
+      reserva natural desde 1 de outubro de 1980. O estuário abre-se a jusante de Alcácer do Sal, separado do
+      oceano pela península de Tróia, distribuindo-se a reserva pelos municípios de Setúbal, Alcácer do Sal,
+      Grândola e Palmela.
+    landscape: >-
+      O Sado percorre 180 quilómetros antes de desaguar no Atlântico junto a Setúbal, sendo um dos escassos
+      rios portugueses a correr de sul para norte. O seu estuário ocupa cerca de 160 km², com 8 metros de
+      profundidade média e até 50 de máxima, governado pelas marés. Formou-se ao abrigo da restinga de Tróia,
+      um cordão arenoso com mais de 25 quilómetros entre o Atlântico e o estuário, acumulado nos últimos 5000
+      anos de sul para norte, entre a Comporta e Tróia em frente a Setúbal.
+
+
+      A reserva cobre cerca de 23.971 hectares e a sua zona de proteção especial para aves 25.231. Congrega
+      dunas, praias, sapais, caniçais e lodaçais intertidais, ladeados por salgueirais, montados de sobro e
+      pinhais bravos.
+    wildlife: >-
+      O estuário opera como maternidade marinha. É determinante na desova e refúgio de várias espécies de
+      peixes e do [roaz-corvineiro](/especie/tursiops_truncatus/); registam-se 261 espécies de vertebrados,
+      incluindo 211 aves e 31 mamíferos.
+
+
+      Para a avifauna faculta alimentação, nidificação e invernada. Entre as aves de destaque contam-se o
+      [tarrambola-cinzenta](/especie/circus_aeruginosus/) (tartaranhão-dos-pauis), o
+      [alfaiate](/especie/recurvirostra_avosetta/), o [flamingo-comum](/especie/phoenicopterus_roseus/), o
+      merganso-de-poupa, o [maçarico-real](/especie/numenius_arquata/), o
+      [milherango](/especie/limosa_limosa/) e o ostreiro. Acorrem também patos-trombeteiros, pernilongos,
+      pilritos-comuns e tarambolas-cinzentas. As épocas de eleição são a primavera e o outono.
+
+
+      Os roazes residem em permanência no estuário, convivendo com a navegação comercial. É habitual avistar
+      um grupo frente a Setúbal.
+    visit: >-
+      Entre os pontos propostos para birdwatching contam-se as Salinas da Mitrena e as Praias do Sado.
+      Recomendam-se também os setores da Gâmbia e da Herdade do Zambujal, bem como Carrasqueira, Comporta e
+      Tróia.
+
+
+      Para interpretar o estuário, o Moinho de Maré da Mourisca funciona como centro de acolhimento. Trata-se
+      de um moinho de maré inserido em sapais e antigas marinhas de sal; uma inscrição lapidar assinala o ano
+      de 1601. Restaurado pela reserva, alberga um ecomuseu e centro de educação ambiental focado na moagem
+      tradicional, sal, pão e biodiversidade.
+
+
+      No topo norte de Tróia visitam-se as ruínas romanas de um complexo fabril de salga de peixe ativo entre
+      os séculos I e VI.
+    history: >-
+      A reserva foi criada por decreto-lei face à pressão poluente industrial, visando resguardar o património
+      botânico e faunístico. A faina industrial subsiste em estaleiros como a Mitrena.
+    before: Podes dedicar entre um e dois dias à visita.
+    around: >-
+      A vinte e seis quilómetros fica a [Reserva Natural do Estuário do
+      Tejo](/lugar/reserva-natural-do-estuario-do-tejo/). Pelos flamingos e roazes, assemelha-se ao [Parque
+      Natural de Ses Salines](/lugar/parque-natural-de-ses-salines/), ao [Parque Natural do Cabo de
+      Gata-Níjar](/lugar/parque-natural-maritimo-terrestre-del-cabo-de-gata-nijar/) e, apenas pelos flamingos,
+      ao [Parque Nacional do Delta do Evros](/lugar/ethniko-parko-delta-evrou/).
+fuentes:
+  - url: https://www.icnf.pt/api/file/doc/05c6375422dd5e62
+    titulo: Estudos de caracterização da Reserva Natural do Estuário do Sado — ICNF
+    fecha_consulta: '2026-11-05'
+  - url: https://www.icnf.pt/api/file/doc/273b242eabd23762
+    titulo: Observação de aves em Portugal — ICNF
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Reserva_Natural_do_Estu%C3%A1rio_do_Sado
+    titulo: Reserva Natural do Estuário do Sado – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Rio_Sado
+    titulo: Rio Sado – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Roaz-corvineiro
+    titulo: Roaz-corvineiro – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Pen%C3%ADnsula_de_Tr%C3%B3ia
+    titulo: Península de Troia – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Moinho_de_Mar%C3%A9_da_Mourisca
+    titulo: Moinho de Maré da Mourisca – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Sado_Estuary_and_Pen%C3%ADnsula_de_Tr%C3%B3ia.jpg
+    autor: Arseniop
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

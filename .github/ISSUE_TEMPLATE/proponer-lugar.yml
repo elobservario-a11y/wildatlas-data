@@ -1,0 +1,23 @@
+name: Proponer un lugar
+description: Un espacio que cumple los criterios de selección y falta en el atlas
+labels: [lugar-nuevo]
+body:
+  - type: markdown
+    attributes:
+      value: "Antes de proponerlo, lee los [criterios de selección](https://wildatlas.eu/criterios/). Proponerlo no significa que entre automáticamente."
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre y país
+    validations: { required: true }
+  - type: input
+    id: fuente
+    attributes:
+      label: Enlace oficial o científico que lo describe
+    validations: { required: true }
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por qué encaja
+      description: Conservación, hábitats y procesos naturales destacados.
+    validations: { required: true }

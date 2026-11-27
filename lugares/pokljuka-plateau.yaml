@@ -1,0 +1,605 @@
+id: pokljuka-plateau
+estado_editorial: valoracion-revisada
+nombre:
+  es: Meseta de Pokljuka
+  en: Pokljuka Plateau
+  fr: Plateau de Pokljuka
+  de: Pokljuka-Hochebene
+  it: Altopiano di Pokljuka
+  pt: Planalto de Pokljuka
+nombre_original: Pokljuka Plateau
+alias:
+  - Pokljuka Plateau (Pokljuka)
+paises:
+  - SI
+region:
+  es: Alta Carniola (Bled / Bohinj)
+  en: Upper Carniola (Bled / Bohinj)
+  fr: Haute-Carniole (Bled / Bohinj)
+  de: Oberkrain (Bled / Bohinj)
+  it: Alta Carniola (Bled / Bohinj)
+  pt: Alta Carniola (Bled / Bohinj)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.33
+  lon: 13.97
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 2517
+  nombre_en_la_fuente: Triglavski narodni park
+  capa: capas/cdda/pokljuka-plateau.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+  - wetland
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - tetrao_urogallus
+  - lynx_lynx
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en el centro de Biatlón de Rudno Polje
+  en: Moderate around the Rudno Polje Biathlon Centre
+  fr: Moyenne au centre de biathlon de Rudno Polje
+  de: Mäßig um das Biathlonzentrum Rudno Polje
+  it: Media presso il centro di biathlon di Rudno Polje
+  pt: Média junto ao centro de biatlo de Rudno Polje
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Triglav, sector de Pokljuka
+    url: https://www.tnp.si/
+  - titulo: Rutas — Sendero de la turbera de Goreljek
+    url: https://www.tnp.si/sl/obisk-parka/aktivnosti/pohodnistvo/ucna-pot-goreljek/
+  - titulo: Mapa y guía — Meseta de Pokljuka
+    url: https://www.tnp.si/media/4764/zlozenka_tnp_vrh_julijcev_pokljuka_2022.pdf
+  - titulo: Normas — Sector de Pokljuka en Triglav
+    url: https://www.tnp.si/sl/obisk-parka/informacije-za-obiskovalce/pravila-obnasanja/
+  - titulo: Avisos — Estado de senderos del parque, incluido Pokljuka
+    url: https://www.tnp.si/sl/obisk-parka/aktualno/razmere-v-parku/
+resumen:
+  es: Meseta kárstica cubierta de densos abetales de montaña con turberas elevadas glaciares protegidas.
+  en: Karst plateau mantled in montane spruce taiga with protected glacial raised bogs.
+  fr: Plateau karstique tapissé de pessières d'altitude abritant des tourbières bombées glaciaires protégées.
+  de: Karst-Hochebene mit dichten Bergfichtenwäldern und geschützten eiszeitlichen Hochmooren.
+  it: Altopiano carsico rivestito da fitte peccete montane con torbiere alte d'origine glaciale protette.
+  pt: Planalto cársico recoberto por densos abetais montanos com turfeiras altas glaciares protegidas.
+unico:
+  es: Un bosque de abetos que flota sobre un karst y esconde turberas altas de las más meridionales de Europa.
+  en: >-
+    A spruce forest floating atop a karst labyrinth, concealing some of the southernmost raised peat bogs in
+    Europe.
+  fr: >-
+    Une vaste forêt d'épicéas flottant sur un socle karstique et dissimulant des tourbières hautes parmi les
+    plus méridionales d'Europe.
+  de: Ein dichter Fichtenwald auf Karstgrund, der einige der südlichsten Hochmoore Europas verbirgt.
+  it: >-
+    Una foresta di abeti che galleggia su un labirinto carsico celando alcune delle torbiere alte più
+    meridionali d'Europa.
+  pt: >-
+    Uma densa floresta de abetos sobre relevo cársico, abrigando algumas das turfeiras altas mais meridionais
+    da Europa.
+observaciones:
+  es: >-
+    El sendero de Goreljek se recorre mejor en la estación seca y con calzado de senderismo. Muchas pistas
+    forestales están cerradas con barreras, pero hay aparcamientos habilitados para visitantes. Las planinas
+    conservan cabañas de madera cubiertas de tejuelas, colocadas con cuidado en el paisaje.
+texto:
+  es:
+    intro: >-
+      A primera vista, Pokljuka no parece kárstica. Es un mar de abetos rojos sobre una meseta de los Alpes
+      Julianos, con prados, turberas y charcas. Pero el karst está ahí, escondido: lo delata la falta de agua
+      en superficie y un laberinto subterráneo que guarda agua potable. Es el mayor bloque de bosque continuo
+      del Parque Nacional de Triglav, de unos 20 kilómetros de largo y casi otros tantos de ancho, con unas
+      6300 hectáreas de monte entre los 1000 y los 1400 metros.
+    landscape: >-
+      Piensa primero en la piedra. Gran parte de Pokljuka es caliza y dolomía del Triásico, con capas menos
+      permeables, como margas y esquistos, donde sí corren arroyos de superficie. Encima pasó el hielo: los
+      glaciares de Bohinj y Radovna taponaron el desagüe en varios puntos y dejaron pequeñas charcas, que con
+      los milenios se rellenaron de plantas y se convirtieron en turberas. De ahí el relieve de simas ocultas,
+      dolinas y depresiones cubiertas de vegetación.
+
+
+      El río Ribšica excavó en la caliza, cerca de Zatrnik, el desfiladero de Pokljuška Luknja, con paredes
+      verticales. Y en el fondo, la meseta guarda su secreto húmedo: las turberas altas de Šijec, Veliko
+      Blejsko barje, Goreljek y Mlake pod Javorovim vrhom, las mayores, además de otra docena menores. Las que
+      se conservan están sobre todo en la parte baja de la planina de Goreljek y bajo Grajska planina.
+
+
+      El clima lo explica todo. Mucha precipitación, vegetación corta, nieve duradera y grandes extremos
+      térmicos, con heladeros en las depresiones. La lluvia decrece de oeste a este y alcanza los 3000
+      milímetros anuales al pie de Debela peč.
+    wildlife: >-
+      El abeto rojo es el 97 por ciento de los árboles; abeto blanco, alerce y frondosas se reparten el 3 por
+      ciento restante. Crece despacio y da una madera de resonancia muy valiosa, y el bosque se regenera casi
+      del todo por sí solo. El pino enano aparece en el límite del bosque y en las dolinas frías, y en las
+      turberas crece una vegetación de altura propia.
+
+
+      Esa turbera es el lugar para detenerse. En sus aguas y musgos viven tres plantas carnívoras: drosera,
+      utricularia y grasilla alpina. Entre los matorrales, siete ericáceas, entre ellas el brezo común, el
+      arándano y el arándano rojo. En primavera los anfibios bajan de los bosques cercanos a las charcas para
+      poner huevos; la rana común y el sapo común son los más frecuentes. En invierno, las liebres de montaña
+      comen eriófori, la planta de turbera.
+
+
+      Por los bosques pasan desde hace siglos rutas de paso del [oso pardo](/especie/ursus_arctos/), sobre
+      todo por Zgornji y Spodnji Pokljuški rovti, bajo Debela peč y en la planina Klek. Se citan además el
+      [lobo](/especie/canis_lupus/), el zorro, el armiño, la garduña, el ciervo, el corzo y el
+      [rebeco](/especie/rupicapra_rupicapra/). Entre las aves aparecen el azor, el gavilán, el ratonero, el
+      [águila real](/especie/aquila_chrysaetos/), el cernícalo, el grévol y el
+      [urogallo](/especie/tetrao_urogallus/): Pokljuka figura entre las zonas más importantes para este
+      último, que se alimenta de las ericáceas.
+
+
+      El año marca el ritmo. De junio a septiembre algunas planinas vuelven a tener ganado. En invierno la
+      nieve cubre la meseta y las carreteras de acceso desde Bled y Bohinj se despejan pronto.
+    visit: >-
+      Empieza por el sendero de Goreljek, un paseo corto y fácil por el bosque y sobre pasarelas de madera
+      junto a la turbera. Tiene puntos de información sobre flora, fauna, la Pokljuka de hoy y la de antes, y
+      actividad humana. Se puede llegar en transporte público hasta la estación de Goreljek, y el parque
+      ofrece visitas guiadas bajo petición.
+
+
+      Para quien quiera caminar más, Pokljuka es punto de partida de muchas rutas hacia la alta montaña de los
+      Alpes Julianos. Hay una ruta señalizada de Koprivnik a la planina Lipanca y a la planina Klek. En
+      invierno, entre los abetales discurren pistas de esquí de fondo preparadas.
+    history: >-
+      En el siglo XVI, cuando la siderurgia alcanzó su apogeo, se extraía y fundía mineral de hierro en
+      Pokljuka, con mucha leña; el haya fue sustituida poco a poco por el abeto rojo. En 1837 se redactó el
+      primer plan forestal para reparar los bosques devastados. Hoy el carboneo en pilas tradicionales se
+      recrea como recuerdo de la tradición del siglo XIX, cuando el carbón vegetal era la principal fuente de
+      energía de las fundiciones.
+
+
+      En Eslovenia solo quedan 20 turberas altas bien conservadas, con 150 hectáreas en total, y pueden
+      alterarse por drenaje, extracción de turba, gestión forestal, pastoreo, infraestructuras o turismo. Las
+      turberas altas de Pokljuka forman parte de la red Natura 2000, y el parque usa el sendero de Goreljek
+      para canalizar a los visitantes y así proteger las demás. La turba más profunda medida en Pokljuka llega
+      a 9 metros.
+    before: >-
+      El sendero de Goreljek se recorre mejor en la estación seca y con calzado de senderismo. Muchas pistas
+      forestales están cerradas con barreras, pero hay aparcamientos habilitados para visitantes. Las planinas
+      conservan cabañas de madera cubiertas de tejuelas, colocadas con cuidado en el paisaje.
+    around: >-
+      A unos tres kilómetros queda la [Meseta de Jelovica](/lugar/jelovica-plateau/) y a cuatro el [Bosque de
+      Tarvisio y Alpes Julianos Italianos](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). A seis, la
+      [Cordillera de Karavanke / Karawanken](/lugar/karavanke---karawanken/), y a dieciséis, la [Meseta
+      Kárstica de Nanos](/lugar/kraska-planota-nanos/).
+  en:
+    intro: >-
+      Pokljuka is a vast green sea of spruce at the threshold of Mount Triglav, forming the largest continuous
+      forest tract in the National Park. It is a karst plateau roughly 20 kilometres long and nearly as wide,
+      suspended between 1000 and 1400 metres in the Julian Alps. Beneath its 6,300 hectares of dense woods,
+      surface streams are virtually absent, yet its cold hollows preserve pristine raised peat bogs that act
+      as true biological islands.
+    landscape: >-
+      The bedrock of Pokljuka consists of Triassic limestone and dolomite, layered with less permeable marls
+      and schists where small surface brooks manage to run. Quaternary glaciers shaped its surface: tongues of
+      ice from Bohinj and Radovna blocked drainage outlets, leaving depressions that gradually filled with
+      vegetation over millennia to become peat bogs. Hence the characteristic topography of hidden sinkholes,
+      dolines, and moss-choked depressions.
+
+
+      Near Zatrnik, the Ribšica stream gouged the dramatic Pokljuška Luknja gorge through vertical limestone
+      walls. In its interior basins, the plateau conceals its damp secret: the raised bogs of Šijec, Veliko
+      Blejsko barje, Goreljek, and Mlake pod Javorovim vrhom—the largest of the complex—alongside another
+      dozen smaller peat pockets. The best-preserved mires lie in the lower parts of the Goreljek alpine
+      pasture and beneath Grajska planina.
+
+
+      Climate explains the unique ecology. High precipitation, a short growing season, persistent winter snow,
+      and sharp thermal extremes characterize the plateau, with frost hollows enduring in deep depressions.
+      Rainfall decreases from west to east, still reaching 3000 millimetres annually at the foot of Debela
+      peč.
+    wildlife: >-
+      Norway spruce accounts for 97 percent of the canopy, with silver fir, larch, and hardwoods sharing the
+      remaining 3 percent. Trees grow slowly in the thin alpine soil, yielding prized resonant tonewood, and
+      the forest regenerates almost entirely through natural succession. Mountain pine crowns the upper tree
+      line and fills frosty sinkholes, while the peat bogs sustain their own specialized cold-adapted flora.
+
+
+      The peat bogs reward close inspection. In their damp mosses live three carnivorous plants: sundew,
+      bladderwort, and alpine butterwort. Ericaceous dwarf shrubs count seven species, including common
+      heather, bilberry, and cowberry. In spring, amphibians migrate from nearby forest stands to lay eggs in
+      bog pools, with the common frog and common toad being most widespread. In winter, mountain hares browse
+      on cottongrass tussocks.
+
+
+      For centuries, migratory corridors of the [brown bear](/especie/ursus_arctos/) have traversed these
+      woods, especially across Zgornji and Spodnji Pokljuški rovti, below Debela peč, and on Planina Klek. The
+      forest also shelters the [grey wolf](/especie/canis_lupus/), red fox, stoat, pine marten, red deer, roe
+      deer, and [chamois](/especie/rupicapra_rupicapra/). Avian residents include the northern goshawk,
+      Eurasian sparrowhawk, common buzzard, [golden eagle](/especie/aquila_chrysaetos/), common kestrel, hazel
+      grouse, and [western capercaillie](/especie/tetrao_urogallus/): Pokljuka ranks as a national stronghold
+      for the capercaillie, which forages extensively on bilberry bushes.
+
+
+      Seasonal rhythms set the pace. From June to September, livestock return to traditional mountain
+      pastures. In winter, heavy snow blankets the plateau, though access roads from Bled and Bohinj are
+      cleared promptly.
+    visit: >-
+      Begin with the Goreljek peat bog nature trail, a short and easy family loop through spruce woods and
+      along raised timber boardwalks over the mire. It features interpretive stations explaining bog ecology,
+      forest flora, past land use, and present conservation. Public buses connect to the Goreljek stop, and
+      national park rangers offer guided tours upon advance request.
+
+
+      For longer hikes, Pokljuka serves as the primary springboard for high-altitude ascents into the Julian
+      Alps. Marked paths climb from Koprivnik to Planina Lipanca and Planina Klek. In winter, an extensive
+      network of groomed cross-country ski trails winds through the quiet spruce woods.
+    history: >-
+      In the sixteenth century, during the peak of regional metallurgy, iron ore was mined and smelted
+      directly on Pokljuka, consuming vast quantities of charcoal; native beech was gradually replaced by
+      fast-growing spruce. In 1837, foresters drafted the first comprehensive forest management plan to
+      restore devastated timberlands. Today, traditional charcoal burning in earthen kilns is revived as a
+      cultural display reflecting nineteenth-century heritage, when charcoal was the primary industrial energy
+      source.
+
+
+      Only 20 well-preserved raised bogs survive in Slovenia, covering 150 hectares in total, constantly
+      vulnerable to drainage, peat cutting, forestry, grazing, and tourism. Pokljuka's raised bogs are
+      protected within the Natura 2000 network, and the park utilizes the Goreljek boardwalk to channel
+      visitors and protect sensitive peat surfaces. The deepest peat profile recorded on Pokljuka measures 9
+      metres.
+    before: >-
+      The Goreljek boardwalk trail is best walked in dry conditions wearing sturdy walking shoes. Many
+      interior forest tracks are gated to vehicle traffic, but designated visitor car parks are provided. High
+      pastures preserve historic shingle-roofed wooden huts placed harmoniously across the terrain.
+    around: >-
+      Roughly three kilometres away lies the [Jelovica Plateau](/lugar/jelovica-plateau/), and four kilometres
+      distant is the [Tarvisio Forest and Italian Julian
+      Alps](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). Six kilometres away rises the [Karavanke /
+      Karawanken Range](/lugar/karavanke---karawanken/), and sixteen kilometres south sits the [Nanos Karst
+      Plateau](/lugar/kraska-planota-nanos/).
+  fr:
+    intro: >-
+      Pokljuka est un océan vert d'épicéas aux portes du mont Triglav, constituant le plus grand massif boisé
+      d'un seul tenant du parc national. C'est un plateau karstique d'environ 20 kilomètres de long sur
+      presque autant de large, suspendu entre 1000 et 1400 mètres dans les Alpes juliennes. Sous ses 6 300
+      hectares de forêt, les cours d'eau superficiels sont presque absents, mais ses cuvettes froides abritent
+      des tourbières hautes qui forment de véritables îlots biologiques.
+    landscape: >-
+      Le socle de Pokljuka est constitué de calcaires et dolomies triasiques entrecoupés de couches marneuses
+      imperméables où s'écoulent de rares ruisseaux. Les glaciers quaternaires de Bohinj et de Radovna ont
+      façonné le relief en barrant l'évacuation des eaux, laissant de petites dépressions qui se sont comblées
+      de sphaignes au fil des millénaires pour former des tourbières. D'où ce paysage ponctué de dolines et de
+      cuvettes tourbeuses dissimulées sous les bois.
+
+
+      Le ruisseau Ribšica a creusé dans le calcaire, près de Zatrnik, les gorges escarpées de Pokljuška
+      Luknja. Au cœur du plateau dorment ses trésors humides : les tourbières bombées de Šijec, Veliko Blejsko
+      barje, Goreljek et Mlake pod Javorovim vrhom, accompagnées d'une douzaine de poches secondaires. Les
+      mieux conservées s'étendent au pied de l'alpage de Goreljek et sous Grajska planina.
+
+
+      Le climat régit cet équilibre : fortes précipitations, courte saison végétative, enneigement prolongé et
+      inversions thermiques marquées dans les combes. La pluviométrie décroît d'ouest en est, atteignant
+      encore 3000 millimètres annuels au pied de Debela peč.
+    wildlife: >-
+      L'épicéa commun représente 97 pour cent du peuplement forestier, le sapin blanc, le mélèze et les
+      feuillus se partageant les 3 pour cent restants. Il croît lentement et fournit un bois de résonance
+      recherché, la forêt se régénérant naturellement. Le pin mugo colonise les combes froides et la limite
+      supérieure des arbres, tandis que les tourbières hébergent une flore spécialisée.
+
+
+      Ces tourbières méritent une attention particulière. Dans les sphaignes vivent trois plantes carnivores :
+      droséra, utriculaire et grassette alpine. Sept espèces d'éricacées tapissent le sous-bois, notamment la
+      callune, la myrtille et l'airelle rouge. Au printemps, grenouille rousse et crapaud commun rejoignent
+      les mares tourbeuses pour pondre. En hiver, les lièvres variables consomment les linaigrettes.
+
+
+      Depuis des siècles, l'[ours brun](/especie/ursus_arctos/) traverse ces futaies lors de ses déplacements
+      saisonniers, particulièrement vers Zgornji et Spodnji Pokljuški rovti, sous Debela peč et sur l'alpage
+      de Klek. On y recense aussi le [loup](/especie/canis_lupus/), le renard, l'hermine, la martre, le cerf,
+      le chevreuil et le [chamois](/especie/rupicapra_rupicapra/). Parmi les oiseaux nichent l'autour des
+      palombes, l'épervier, la buse variable, l'[aigle royal](/especie/aquila_chrysaetos/), le faucon
+      crécerelle, la gélinotte et le [grand tétras](/especie/tetrao_urogallus/) : Pokljuka constitue l'un des
+      bastions majeurs du tétras, friand de myrtilles.
+
+
+      Le calendrier dicte les activités : de juin à septembre, les troupeaux regagnent les alpages. En hiver,
+      la neige recouvre le plateau et les routes d'accès depuis Bled et Bohinj sont rapidement déneigées.
+    visit: >-
+      Commencez par le sentier pédagogique de Goreljek, une boucle facile sur caillebotis en bois longeant la
+      tourbière. Des panneaux didactiques présentent la flore, la faune, l'histoire de Pokljuka et les
+      activités pastorales. Des bus desservent Goreljek, et le parc propose des visites guidées sur demande.
+
+
+      Pour de plus longues excursions, Pokljuka est le point de départ privilégié des ascensions vers les
+      hauts sommets des Alpes juliennes. Un sentier balisé monte de Koprivnik aux alpages de Lipanca et de
+      Klek. En hiver, un réputé réseau de pistes de ski de fond sillonne les forêts d'épicéas.
+    history: >-
+      Au seizième siècle, lors de l'essor de la sidérurgie, le minerai de fer était extrait et fondu sur
+      Pokljuka au moyen d'intenses coupes de bois ; la hêtraie fut progressivement supplantée par l'épicéa. En
+      1837, un premier plan d'aménagement forestier fut établi pour régénérer les massifs surexploités.
+      Aujourd'hui, le charbonnage traditionnel en meules est reconstitué pour commémorer le dix-neuvième
+      siècle.
+
+
+      Il ne reste en Slovénie que 20 tourbières hautes bien conservées totalisant 150 hectares, très
+      vulnérables au drainage, à l'extraction de tourbe et au surpâturage. Les tourbières de Pokljuka sont
+      protégées par le réseau Natura 2000, et le parc canalise les randonneurs sur les passerelles de Goreljek
+      pour préserver les sites vierges. L'épaisseur maximale de tourbe mesurée atteint 9 mètres.
+    before: >-
+      Le sentier de Goreljek se parcourt de préférence par temps sec avec de bonnes chaussures de marche. De
+      nombreuses pistes forestières sont fermées par des barrières, mais des parkings aménagés accueillent les
+      véhicules. Les alpages conservent de pittoresques chalets en bois couverts de bardeaux.
+    around: >-
+      À trois kilomètres s'étend le [plateau de Jelovica](/lugar/jelovica-plateau/), et à quatre kilomètres la
+      [forêt de Tarvisio et les Alpes juliennes
+      italiennes](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). À six kilomètres se dressent les
+      [Karavanke / Karawanken](/lugar/karavanke---karawanken/), et à seize kilomètres au sud le [plateau
+      karstique de Nanos](/lugar/kraska-planota-nanos/).
+  de:
+    intro: >-
+      Pokljuka ist ein grünes Meer aus Fichten vor den Toren des Triglav, das größte zusammenhängende
+      Waldgebiet im Nationalpark. Es ist ein rund 20 Kilometer langes und fast ebenso breites Karstplateau,
+      das zwischen 1000 und 1400 Metern in den Julischen Alpen liegt. Unter seinen 6.300 Hektar Bergwald gibt
+      es kaum oberirdisches Wasser, doch in kühlen Mulden liegen intakte Hochmoore, die biologische Inseln
+      bilden.
+    landscape: >-
+      Der Untergrund von Pokljuka besteht aus triassischem Kalkstein und Dolomit mit wasserstauenden Mergel-
+      und Schiefereinlagerungen, wo kleinere Bäche fließen. Die eiszeitlichen Gletscher von Bohinj und Radovna
+      stauten den Abfluss, sodass kleine Senken entstanden, die im Laufe der Jahrtausende verlandeten und zu
+      Hochmooren wurden. Daher das typische Relief aus versteckten Klüften, Dolinen und Moormulden.
+
+
+      Die Ribšica schnitt bei Zatrnik die steile Klamm Pokljuška Luknja in den Kalk. Im Inneren birgt die
+      Hochebene ihr feuchtes Geheimnis: die Hochmoore Šijec, Veliko Blejsko barje, Goreljek und Mlake pod
+      Javorovim vrhom als größte Komplexe sowie rund ein Dutzend kleinerer Moore. Die besterhaltenen liegen
+      unterhalb der Alm Goreljek und unter der Grajska planina.
+
+
+      Das Klima prägt die Ökologie: hohe Niederschläge, kurze Vegetationsperiode, lange Schneelage und
+      Kaltluftseen in den Senken. Die Niederschlagsmenge nimmt von West nach Ost ab und erreicht am Fuß der
+      Debela peč immer noch 3000 Millimeter im Jahr.
+    wildlife: >-
+      Die Gemeine Fichte stellt 97 Prozent des Baumbestands; Weißtanne, Lärche und Laubhölzer teilen sich die
+      restlichen 3 Prozent. Sie wächst langsam und liefert begehrtes Resonanzholz, wobei sich der Wald
+      überwiegend natürlich verjüngt. Die Bergkiefer wächst an der Baumgrenze und in Kaltluftdolinen, während
+      die Hochmoore eine spezialisierte Moorflora beherbergen.
+
+
+      Die Moore sind botanische Schatzkammern. Im Torfmoos leben drei fleischfressende Pflanzen: Sonnentau,
+      Wasserschlauch und Alpen-Fettkraut. Sieben Heidekrautgewächse wachsen hier, darunter Besenheide,
+      Heidelbeere und Preiselbeere. Im Frühjahr wandern Grasfrosch und Erdkröte aus den Wäldern in die
+      Moortümpel zum Laichen. Im Winter fressen Schneehasen Wollgras.
+
+
+      Seit Jahrhunderten ziehen [Braunbären](/especie/ursus_arctos/) durch diese Forste, vor allem über
+      Zgornji und Spodnji Pokljuški rovti, unterhalb der Debela peč und auf der Alm Klek. Zudem leben hier
+      [Wolf](/especie/canis_lupus/), Fuchs, Hermelin, Baummarder, Rothirsch, Reh und
+      [Gämse](/especie/rupicapra_rupicapra/). Bei den Vögeln kommen Habicht, Sperber, Mäusebussard,
+      [Steinadler](/especie/aquila_chrysaetos/), Turmfalke, Haselhuhn und
+      [Auerhuhn](/especie/tetrao_urogallus/) vor: Pokljuka ist eines der wichtigsten Auerhuhngebiete
+      Sloweniens.
+
+
+      Der Jahreslauf setzt Akzente: Von Juni bis September weidet auf einigen Almen Vieh. Im Winter bedeckt
+      hoher Schnee das Plateau; die Zufahrtsstraßen von Bled und Bohinj werden verlässlich geräumt.
+    visit: >-
+      Beginne mit dem Moorlehrpfad Goreljek, einem einfachen Rundweg durch Fichtenwald und über Holzstege am
+      Hochmoor. Informationstafeln erläutern Flora, Fauna und traditionelle Waldnutzung. Öffentliche Busse
+      bedienen die Haltestelle Goreljek; die Nationalparkverwaltung bietet Führungen auf Anfrage an.
+
+
+      Für Bergwanderer ist Pokljuka das Tor zu den Hochgipfeln der Julischen Alpen. Markierte Steige führen
+      von Koprivnik zur Alm Lipanca und zur Alm Klek. Im Winter ziehen sich gespurte Langlaufloipen durch die
+      verschneiten Wälder.
+    history: >-
+      Im sechzehnten Jahrhundert, auf dem Höhepunkt der Eisengewinnung, wurde auf Pokljuka Erz verhüttet, was
+      enorme Holzmengen verschlang; Buchen wurden nach und nach durch Fichten ersetzt. 1837 entstand der erste
+      Forstwirtschaftsplan zur Rettung der übernutzten Wälder. Heute wird das traditionelle Köhlern in Meilern
+      als Brauchtum gepflegt und erinnert an das neunzehnte Jahrhundert.
+
+
+      In ganz Slowenien existieren nur noch 20 intakte Hochmoore mit insgesamt 150 Hektar Fläche, gefährdet
+      durch Entwässerung, Torfabbau und Tourismus. Die Moore von Pokljuka sind Teil von Natura 2000; der Steg
+      von Goreljek lenkt die Besucher, um unberührte Moorkerne zu schonen. Die tiefste gemessene Torfschicht
+      erreicht 9 Meter.
+    before: >-
+      Der Holzsteg von Goreljek lässt sich am besten bei trockenem Wetter mit festen Wanderschuhen begehen.
+      Viele Forststraßen sind durch Schranken gesperrt; Besucherparkplätze stehen zur Verfügung. Auf den Almen
+      stehen traditionelle Holzschindel-Hütten harmonisch in der Landschaft.
+    around: >-
+      Rund drei Kilometer entfernt liegt die [Jelovica-Hochebene](/lugar/jelovica-plateau/), und vier
+      Kilometer weit ist der [Wald von Tarvisio und die italienischen Julischen
+      Alpen](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). Sechs Kilometer nördlich steigen die
+      [Karawanken](/lugar/karavanke---karawanken/) an, und sechzehn Kilometer südlich liegt das
+      [Nanos-Karstplateau](/lugar/kraska-planota-nanos/).
+  it:
+    intro: >-
+      Pokljuka è un immenso mare verde di abeti rossi alle porte del monte Triglav, costituendo la più vasta
+      copertura forestale continua del Parco nazionale. Si tratta di un altopiano carsico lungo circa 20
+      chilometri e quasi altrettanto largo, sospeso tra 1000 e 1400 metri nelle Alpi Giulie. Sotto i suoi
+      6.300 ettari di foresta le acque di superficie sono quasi assenti, ma nelle sue conche fredde
+      sopravvivono torbiere alte che fungono da vere e proprie isole biologiche.
+    landscape: >-
+      Il substrato di Pokljuka è costituito da calcari e dolomie del Triassico intervallati da lenti
+      impermeabili di marne e scisti dove scorrono brevi torrenti. I ghiacciai quaternari di Bohinj e Radovna
+      ostruirono i canali di scolo, lasciando pozzanghere che nei millenni si colmarono di vegetazione
+      trasformandosi in torbiere. Ne deriva una morfologia di inghiottitoi, doline e bassure acquitrinose
+      coperte da muschi.
+
+
+      Il torrente Ribšica ha intagliato nella roccia, vicino a Zatrnik, la profonda forra di Pokljuška Luknja
+      con pareti verticali. Nel cuore dell'altopiano giace il suo segreto umido: le torbiere alte di Šijec,
+      Veliko Blejsko barje, Goreljek e Mlake pod Javorovim vrhom, le maggiori del gruppo, affiancate da
+      un'altra dozzina di conche minori. Le meglio preservate si trovano nella parte bassa della malga di
+      Goreljek e sotto Grajska planina.
+
+
+      Il clima detta le condizioni ecologiche: abbondanti precipitazioni, breve stagione vegetativa, neve
+      persistente ed escursioni termiche estreme con sacche d'aria gelida nelle depressioni. Le piogge calano
+      da ovest verso est, raggiungendo comunque i 3000 millimetri annui ai piedi di Debela peč.
+    wildlife: >-
+      L'abete rosso rappresenta il 97 per cento della copertura arborea; abete bianco, larice e latifoglie si
+      ripartiscono il restante 3 per cento. Cresce lentamente fornendo pregiato legno di risonanza, e il bosco
+      si rinnova quasi interamente per via naturale. Il pino mugo compare al limite della vegetazione e nelle
+      doline fredde, mentre le torbiere ospitano una flora microtermica relitta.
+
+
+      Le torbiere costituiscono un micromondo affascinante. Negli sfagni vivono tre piante carnivore: drosera,
+      utricularia e pinguicola alpina. Tra i cespugli crescono sette ericacee, tra cui il brugo, il mirtillo
+      nero e il mirtillo rosso. A primavera rane rosse e rospi comuni scendono dai boschi negli specchi
+      d'acqua per deporre le uova. In inverno la lepre variabile si nutre di eriofori.
+
+
+      Da secoli i corridoi montani dell'[orso bruno](/especie/ursus_arctos/) attraversano queste foreste,
+      specie lungo Zgornji e Spodnji Pokljuški rovti, sotto Debela peč e sull'alpeggio Klek. Sono segnalati
+      anche il [lupo grigio](/especie/canis_lupus/), la volpe, l'ermellino, la faina, il cervo, il capriolo e
+      il [camoscio alpino](/especie/rupicapra_rupicapra/). Tra i volatili figurano astore, sparviero, poiana,
+      [aquila reale](/especie/aquila_chrysaetos/), gheppio, francolino di monte e [gallo
+      cedrone](/especie/tetrao_urogallus/): Pokljuka è un santuario primario per il cedrone, che si ciba delle
+      ericacee.
+
+
+      Il ritmo delle stagioni governa la vita locale: da giugno a settembre gli alpeggi tornano ad accogliere
+      le mandrie. D'inverno la coltre bianca sommerge l'altopiano e le strade da Bled e Bohinj vengono pulite
+      regolarmente.
+    visit: >-
+      Il percorso didattico della torbiera di Goreljek è il miglior punto di partenza: un anello agevole nel
+      bosco su passerelle di legno lungo la torbiera. Pannelli illustrativi descrivono flora, fauna e vita
+      pastorale. I trasporti pubblici raggiungono Goreljek, e i guardaparco organizzano visite guidate su
+      richiesta.
+
+
+      Per escursioni più ampie, Pokljuka è la base classica per le ascensioni d'alta quota nelle Giulie. Una
+      traccia segnalata sale da Koprivnik verso malga Lipanca e malga Klek. In inverno gli abetali accolgono
+      piste da sci di fondo perfettamente battute.
+    history: >-
+      Nel sedicesimo secolo, all'apice dell'industria siderurgica, a Pokljuka si estraeva e fondeva ferro
+      consumando ingenti volumi di legna; il faggio fu gradualmente soppiantato dall'abete rosso. Nel 1837
+      venne redatto il primo piano forestale per rimediare al disboscamento. Oggi la tradizionale carbonaia a
+      cumulo viene riproposta a scopo culturale in memoria del diciannovesimo secolo.
+
+
+      In tutta la Slovenia sopravvivono solo 20 torbiere alte integre per un totale di 150 ettari, minacciate
+      da bonifiche, estrazione e turismo. Le torbiere di Pokljuka ricadono nella rete Natura 2000, e il parco
+      canalizza i turisti sulle passerelle di Goreljek per preservare i bacini più fragili. Il deposito di
+      torba più profondo raggiunge 9 metri.
+    before: >-
+      Il sentiero su passerelle di Goreljek si percorre comodamente con calzature da cammino con tempo
+      asciutto. Parecchie piste interne sono chiuse da sbarre, ma sono predisposti parcheggi per i visitatori.
+      Gli alpeggi conservano baite in legno scandole disposte con armonia nel paesaggio.
+    around: >-
+      A circa tre chilometri si trova l'[Altopiano di Jelovica](/lugar/jelovica-plateau/), e a quattro la
+      [Foresta di Tarvisio e Alpi Giulie Italiane](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). A sei
+      chilometri svettano le [Karavanke / Karawanken](/lugar/karavanke---karawanken/), e a sedici chilometri a
+      sud l'[Altopiano carsico di Nanos](/lugar/kraska-planota-nanos/).
+  pt:
+    intro: >-
+      Pokljuka é um oceano verde de espruces aos pés do monte Triglav, constituindo a maior mancha florestal
+      contínua do Parque Nacional. É um planalto cársico com cerca de 20 quilómetros de comprimento e quase
+      outro tanto de largura, alcandorado entre os 1000 e os 1400 metros nos Alpes Julianos. Sob os seus 6.300
+      hectares de arvoredo escasseia a água à superfície, mas nas suas depressões frias conservam-se turfeiras
+      altas que formam autênticas ilhas biológicas.
+    landscape: >-
+      O substrato de Pokljuka é formado por calcários e dolomitos do Triásico com intercalações margosas
+      impermeáveis por onde correm ribeiros superficiais. Os glaciares quaternários de Bohinj e Radovna
+      bloquearam as saídas de drenagem, originando pequenas lagoas que ao longo dos milénios se encheram de
+      vegetação e evoluíram para turfeiras. Daí resulta o relevo característico de algares, dolinas e covas
+      turfas.
+
+
+      O ribeiro Ribšica escavou no calcário, junto a Zatrnik, o desfiladeiro vertical de Pokljuška Luknja. No
+      interior do planalto oculta-se a sua riqueza húmida: as turfeiras altas de Šijec, Veliko Blejsko barje,
+      Goreljek e Mlake pod Javorovim vrhom, as mais extensas, a par de mais uma dúzia de turfeiras menores. As
+      mais intactas situam-se na base da pastagem de Goreljek e sob Grajska planina.
+
+
+      O clima molda o ecossistema: precipitação abundante, estação vegetativa curta, neve duradoura e
+      inversões térmicas nas covas. A pluviosidade diminui de oeste para leste, atingindo ainda 3000
+      milímetros anuais no sopé de Debela peč.
+    wildlife: >-
+      O abeto-falso constitui 97 por cento do arvoredo; abeto-branco, lariço e folhosas repartem os restantes
+      3 por cento. Cresce devagar originando madeira de ressonância cotada, com o arvoredo a regenerar-se de
+      forma natural. O pinheiro-anão vegeta no limite da floresta e nas dolinas gélidas, enquanto as turfeiras
+      albergam plantas adaptadas ao frio.
+
+
+      As turfeiras são ecossistemas fascinantes. Nos tapetes de musgo vivem três plantas carnívoras: drósera,
+      utriculária e pinguícula alpina. Nos matos contam-se sete ericáceas, incluindo urze-vulgar, mirtilo e
+      arando-vermelho. Na primavera, rãs-castanhas e sapos-comuns descem para desovar nas lagoas. No inverno,
+      as lebres-árcticas pastam os tufos de algodão-dos-pauis.
+
+
+      Por estes bosques cruzam há séculos rotas de passagem do [urso-pardo](/especie/ursus_arctos/), em
+      particular por Zgornji e Spodnji Pokljuški rovti, sob Debela peč e na planina Klek. Ocorrem ainda o
+      [lobo-cinzento](/especie/canis_lupus/), raposa, arminho, marta, veado, corço e
+      [camurça](/especie/rupicapra_rupicapra/). Na avifauna observam-se açor, gavião, bútio-comum,
+      [águia-real](/especie/aquila_chrysaetos/), peneireiro, galinha-do-mato e
+      [tetraz-grande](/especie/tetrao_urogallus/): Pokljuka representa um bastião vital para o tetraz.
+
+
+      O ciclo anual comanda a rotina: de junho a setembro algumas pastagens recebem gado. No inverno a neve
+      acumula-se e as estradas de acesso desde Bled e Bohinj são desimpedidas com rapidez.
+    visit: >-
+      Inicia a visita pelo trilho interpretativo de Goreljek, um circuito suave pela floresta e sobre
+      passadiços de madeira na turfeira. Disponibiliza painéis sobre botânica, fauna e tradições rurais.
+      Autocarros públicos ligam à paragem de Goreljek, e os guardas do parque realizam visitas guiadas
+      mediante marcação.
+
+
+      Para percursos mais longos, Pokljuka serve de base às grandes travessias dos picos dos Alpes Julianos.
+      Um caminho marcado sobe de Koprivnik até à planina Lipanca e planina Klek. No inverno abrem-se pistas de
+      esqui de fundo no meio dos abetais.
+    history: >-
+      No século dezasseis, durante o apogeu da siderurgia, extraía-se e fundia-se minério em Pokljuka com
+      grande consumo de lenha; as faias deram gradualmente lugar aos abetos. Em 1837 elaborou-se o primeiro
+      plano de gestão florestal para recompor as matas degradadas. Hoje, as carvoarias tradicionais em pilha
+      são reencenadas como testemunho do século dezanove.
+
+
+      Na Eslovénia restam somente 20 turfeiras altas bem conservadas num total de 150 hectares, fragilizadas
+      por drenagens e turismo. As turfeiras de Pokljuka integram a rede Natura 2000, canalizando o parque os
+      visitantes para os passadiços de Goreljek para salvaguardar os setores intocados. O estrato de turfa
+      mais profundo medido atinge 9 metros.
+    before: >-
+      O passadiço de Goreljek percorre-se comodamente em tempo seco com calçado de caminhada. Várias vias
+      florestais estão vedadas com cancelas, existindo parques de estacionamento para visitantes. As pastagens
+      exibem cabanas de madeira com telhados de ripas inseridas de forma equilibrada no relevo.
+    around: >-
+      A cerca de três quilómetros situa-se o [Planalto de Jelovica](/lugar/jelovica-plateau/), e a quatro a
+      [Floresta de Tarvisio e Alpes Julianos Italianos](/lugar/foresta-di-tarvisio---alpi-giulie-italiane/). A
+      seis quilómetros ergue-se a cordilheira de [Karavanke / Karawanken](/lugar/karavanke---karawanken/), e a
+      dezasseis a sul o [Planalto Cársico de Nanos](/lugar/kraska-planota-nanos/).
+fuentes:
+  - url: https://www.tnp.si/en/visiting-park/activities/hiking/goreljek-educational-trail/
+    titulo: Goreljek Peat Bog Educational Trail | Triglav National Park
+    fecha_consulta: '2026-11-06'
+  - url: https://sl.wikipedia.org/wiki/Pokljuka
+    titulo: Pokljuka - Wikipedija
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Scenic_landscape_in_the_Julian_Alps_near_the_Pokljuka_biathlon_center,_Slovenia_(52340425486).jpg
+    autor: Jernej Furman from Slovenia
+    licencia: CC BY 2.0
+    url_licencia: https://creativecommons.org/licenses/by/2.0
+    fecha_descarga: '2026-10-17'

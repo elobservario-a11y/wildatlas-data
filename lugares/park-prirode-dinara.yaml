@@ -1,0 +1,562 @@
+id: park-prirode-dinara
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Dinara
+  en: Dinara Nature Park
+  fr: Parc naturel de la Dinara
+  de: Naturpark Dinara
+  it: Parco Naturale del Dinara
+  pt: Parque Natural do Dinara
+nombre_original: Park prirode Dinara
+alias:
+  - Dinara Massif (Park prirode Dinara)
+paises:
+  - HR
+  - BA
+region:
+  es: Condados de Šibenik-Knin y Split-Dalmacia (Knin / Sinj)
+  en: Šibenik-Knin and Split-Dalmatia Counties (Knin / Sinj)
+  fr: Comtés de Šibenik-Knin et de Split-Dalmatie (Knin / Sinj)
+  de: Gespanschaften Šibenik-Knin und Split-Dalmatien (Knin / Sinj)
+  it: Contee di Sebenico e Tenin e di Spalato-Dalmazia (Knin / Sinj)
+  pt: Condados de Šibenik-Knin e Split-Dalmácia (Knin / Sinj)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 44.05
+  lon: 16.38
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555700730
+  nombre_en_la_fuente: Dinara
+  capa: capas/cdda/park-prirode-dinara.geojson
+habitats:
+  - high_mountain
+  - karst
+  - steppe
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - ursus_arctos
+  - canis_lupus
+  - vipera_ursinii
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Administración — Institución pública del Parque Natural de Dinara
+    url: https://mzozt.gov.hr/print.aspx?id=10636&url=print
+  - titulo: Visita — Parque Natural de Dinara, oficina de turismo de Šibenik
+    url: https://www.visitsibenik.hr/en/destinacije/park-prirode-dinara
+  - titulo: Mapa y senderos — Dinara back to LIFE, BIOM
+    url: https://dinarabacktolife.eu/projektno-podrucje/
+resumen:
+  es: >-
+    El macizo que da nombre a todos los Alpes Dináricos y alberga la cumbre más alta de Croacia (Dinara 1.831
+    m).
+  en: >-
+    The massif that gives its name to the entire Dinaric Alps and hosts Croatia’s highest peak (Dinara 1,831
+    m).
+  fr: >-
+    Le massif qui donne son nom à l’ensemble des Alpes dinariques et abrite le point culminant de la Croatie
+    (Dinara 1 831 m).
+  de: >-
+    Das namensgebende Massiv der gesamten Dinarischen Alpen mit dem höchsten Gipfel Kroatiens (Dinara 1.831
+    m).
+  it: >-
+    Il massiccio che dà il nome all’intera catena delle Alpi Dinariche e ospita la vetta più alta della
+    Croazia (Dinara 1.831 m).
+  pt: O maciço que dá o nome a todos os Alpes Dináricos e abriga o cume mais alto da Croácia (Dinara 1.831 m).
+unico:
+  es: >-
+    Un macizo sin un solo pueblo, con pastos de verano que llevan siglos pastoreados, donde vive hasta el 95 %
+    de la población croata de la víbora de pradera balcánica.
+  en: >-
+    A wild mountain massif without a single village, with centuries-old summer pastures sustaining up to 95%
+    of Croatia’s meadow viper population.
+  fr: >-
+    Un massif d’altitude sans un seul village, aux estives séculaires abritant jusqu’à 95 % de la population
+    croate de la vipère des steppes.
+  de: >-
+    Ein siedlungsfreies Hochgebirge mit jahrhundertealten Sommerweiden, die bis zu 95 % des kroatischen
+    Bestands der Wiesenotter beherbergen.
+  it: >-
+    Un massiccio privo di centri abitati, con pascoli estivi secolari che accolgono fino al 95% della
+    popolazione croata di vipera dell’Orsini.
+  pt: >-
+    Um maciço montanhoso sem povoações, com pastagens estivais que acolhem até 95% da população croata da
+    víbora-das-estepes.
+observaciones:
+  es: >-
+    No hay núcleos habitados en la montaña: la presencia humana se reduce a cabañas de pastores de los valles
+    cercanos, así que prepara tu ruta y lleva lo necesario. Dentro de Dinara hay once espacios Natura 2000:
+    dos designados para aves y nueve para especies y hábitats.
+texto:
+  es:
+    intro: >-
+      Es la montaña que da nombre a toda una cordillera. Los Alpes Dináricos se llaman así por la Dinara, y en
+      su cima, Sinjal, de 1831 m, un pilar geodésico marca el techo de Croacia con una frase sencilla: «cima
+      de Croacia». El Parque Natural Dinara, el más joven de los parques de Croacia, desde febrero de 2021,
+      protege 63.052 hectáreas del macizo de la Dinara, el Troglav y el Kamešnica, el nacimiento y el alto
+      Cetina, el nacimiento del Krka y los campos de Hrvace, Paško y Vrlika, en la frontera con Bosnia y
+      Herzegovina. Es, tras el del Velebit, el segundo parque natural más grande de Croacia.
+    landscape: >-
+      El rasgo más llamativo de la Dinara son sus acantilados casi verticales, de estratos marcados. Es caliza
+      jurásica y cretácica, el karst típico, con formas como dolinas, campos, mesetas y cuevas. Por eso en la
+      propia montaña casi no hay agua en superficie. El agua corre por dentro, por una red subterránea que va
+      sobre todo a la cuenca del Cetina y en menor medida a la del Krka, y reaparece en numerosos manantiales
+      al pie de la Dinara. A veces inunda los campos kársticos, y esos prados húmedos son hábitats valiosos
+      para la biodiversidad.
+
+
+      El contraste es la clave: de un lado el karst de alta montaña, con poca agua, acantilados inaccesibles y
+      pastos enormes; del otro el Cetina y sus campos fértiles. Cerca de Vrlika están las tres mayores fuentes
+      del Cetina, y el arroyo Rumin es su segundo mayor afluente. En el Krčić, un río de unos 10,5 km, se
+      suceden tres cascadas, la última con una barrera de travertino de 22 metros. Y en el curso alto del Krka
+      el cañón, el travertino y las cascadas completan el paisaje. Las temperaturas medias anuales en las
+      cumbres están entre 2 y 4 °C: es uno de los lugares más fríos de Croacia.
+    wildlife: >-
+      Los pedregales bajo los acantilados desarrollan comunidades vegetales propias, entre ellas algunas
+      endémicas. En la montaña hay unas 750 especies de plantas, más de 110 estrictamente protegidas y 55
+      endémicas. La biodiversidad tiene una explicación: la zona fue refugio de especies europeas durante la
+      glaciación, y el endemismo se nota sobre todo en la fauna de cuevas.
+
+
+      La reina es la víbora de pradera balcánica, endémica de los Dináricos. Los mamíferos de la zona incluyen
+      el [oso pardo](/especie/ursus_arctos/), el [lobo](/especie/canis_lupus/), el [lince
+      boreal](/especie/lynx_lynx/) y el [gato montés](/especie/felis_silvestris/); un roedor endémico, el
+      topillo nival balcánico, vive aquí. Entre las aves figuran el [águila real](/especie/aquila_chrysaetos/)
+      y la culebrera europea, y los pastos albergan aves como la terrera común y el escribano hortelano, que
+      se cuentan por unidades en todo el macizo. Entre los reptiles y anfibios hay culebra lisa, [víbora
+      chata](/especie/vipera_ammodytes/), [salamandra común](/especie/salamandra_salamandra/), lución, tritón
+      alpino y la víbora de pradera del karst.
+
+
+      El año de la Dinara se vive de mayo a octubre. En verano los ganaderos suben el ganado a la meseta y se
+      quedan allí hasta el otoño y la primera nieve: es la trashumancia que ha modelado el paisaje.
+    visit: >-
+      La Dinara es sobre todo senderismo. Sinjal, de 1831 m, se alcanza con relativa facilidad frente a otras
+      cumbres europeas, y hay muchos senderos y refugios para pasar la noche. En la cima, el pilar geodésico
+      dice «1831, cima de Croacia».
+
+
+      Los valles ofrecen otra forma de explorarla: las fuentes del Cetina, el Rumin, el Krčić y el curso alto
+      del Krka. En el Grab, un puente y sus molinos de arquitectura tradicional están protegidos como
+      patrimonio cultural y tres siguen en uso.
+    history: >-
+      El nombre viene probablemente de la tribu ilíria de los Dindari, que usaba la montaña para pastorear.
+      Los ilirios la consideraban sagrada y la llamaban Troura o Triget. En su falda nació el primer Estado
+      croata: Knin fue la capital de los gobernantes medievales y Biskupija la sede de su obispo. Junto a la
+      fuente del Cetina se conserva la iglesia croata antigua del Santo Salvador, del siglo IX, y a lo largo
+      del Cetina hay unos 800 yacimientos arqueológicos, del Neolítico a la época romana y cristiana temprana.
+
+
+      Los pastos de la Dinara son obra del pastoreo. De los ocho tipos de hábitat prioritarios, tres son
+      pastizales, y si dejan de usarse se cubren de especies dominantes y pierden su riqueza biológica. Cerca
+      de las cumbres, además, hay pastos de montaña nacidos del retroceso del pino mugo y de los bosques de
+      montaña.
+    before: >-
+      No hay núcleos habitados en la montaña: la presencia humana se reduce a cabañas de pastores de los
+      valles cercanos, así que prepara tu ruta y lleva lo necesario. Dentro de Dinara hay once espacios Natura
+      2000: dos designados para aves y nueve para especies y hábitats.
+    around: >-
+      A veinticinco kilómetros queda el [Parque Nacional Una - Curso Alto y
+      Cascadas](/lugar/nacionalni-park-una---gorji-tok/). Más lejos, otros macizos de karst comparten con la
+      Dinara la víbora de pradera y los grandes carnívoros: el [Parque Nacional de los Montes
+      Sibilinos](/lugar/parco-nazionale-dei-monti-sibillini/) y el [Parque Nacional
+      Vikos-Aoös](/lugar/vikos---aoos-national-park/).
+  en:
+    intro: >-
+      This is the mountain that lends its name to an entire alpine mountain chain. The Dinaric Alps take their
+      title from Dinara, and at its summit, Sinjal, at 1831 m, a geodetic pillar marks the roof of Croatia
+      with a simple inscription: «peak of Croatia». Dinara Nature Park, Croatia’s newest nature park
+      established in February 2021, safeguards 63,052 hectares spanning the Dinara, Troglav and Kamešnica
+      massifs, the upper reaches and headwaters of the Cetina river, the source of the Krka, and the karst
+      poljes of Hrvace, Paško and Vrlika along the border with Bosnia and Herzegovina. After Velebit, it is
+      Croatia’s second-largest nature park.
+    landscape: >-
+      The defining feature of Dinara is its sheer limestone walls with pronounced horizontal bedding planes.
+      Built from Jurassic and Cretaceous karst limestones, the mountain displays classic sinkholes, uvalas,
+      plateaus and caves, leaving the high ridges almost devoid of surface running water. Rain sinks into a
+      subterranean hydrological network primarily draining toward the Cetina basin and partly toward the Krka,
+      re-emerging at powerful karst springs at the foot of the mountain. Seasonal floods inundate low-lying
+      poljes, creating rich wet meadow habitats.
+
+
+      Contrasting topography defines the landscape: harsh waterless upland karst, formidable cliffs and vast
+      summer pastures on one side; the fertile Cetina valley on the other. Near Vrlika lie the three principal
+      karst springs of the Cetina, while the Rumin brook constitutes its second-largest tributary. Along the
+      Krčić river, spanning some 10.5 km, three waterfalls tumble in succession, the final drop framed by a 22
+      metre travertine barrier. In the upper Krka valley, canyons, tuff barriers and cascades shape the scene.
+      Average annual summit temperatures hover between 2 and 4 °C, making it one of the coldest regions in
+      Croatia.
+    wildlife: >-
+      The scree slopes beneath the precipices support specialized plant communities rich in endemic taxa.
+      Dinara harbours roughly 750 plant species, with over 110 strictly protected and 55 endemics. This floral
+      diversity reflects its role as a glacial refuge for European species, mirrored in the rich subterranean
+      fauna.
+
+
+      The flagship resident is the Karst meadow viper, an endemic viper of the Dinaric ranges. Local mammals
+      include the [brown bear](/especie/ursus_arctos/), [wolf](/especie/canis_lupus/), [Eurasian
+      lynx](/especie/lynx_lynx/) and [wildcat](/especie/felis_silvestris/), alongside an endemic rodent, the
+      Balkan snow vole. Birds of prey feature the [golden eagle](/especie/aquila_chrysaetos/) and short-toed
+      snake eagle, while open pastures provide scarce nesting grounds for the greater short-toed lark and
+      ortolan bunting. Herpetofauna includes the smooth snake, [nose-horned
+      viper](/especie/vipera_ammodytes/), [fire salamander](/especie/salamandra_salamandra/), slow worm and
+      alpine newt.
+
+
+      The pastoral cycle spans May to October. In summer, shepherds drive livestock up to the high plateau,
+      remaining until autumn frosts and early snow: an ancient transhumance tradition that has sculpted these
+      expansive grasslands.
+    visit: >-
+      Dinara is fundamentally a hiker’s mountain. Sinjal, at 1831 m, is comparatively accessible relative to
+      other European high summits, supported by a network of waymarked trails and mountain huts. On the crest,
+      the historic survey marker reads « 1831, peak of Croatia ».
+
+
+      The valleys offer rewarding explorations: the turquoise karst springs of the Cetina, the Rumin and Krčić
+      riverbeds, and the upper Krka. Along the Grab river, an ancient stone bridge and traditional watermills
+      are preserved as cultural heritage, with three still operating today.
+    history: >-
+      The name likely derives from the ancient Illyrian Dindari tribe, who pastured their flocks across these
+      heights. The Illyrians held the mountain sacred, naming it Troura or Triget. Along its base the early
+      Croatian state took shape: Knin served as the medieval royal capital and Biskupija as the episcopal
+      seat. Near the Cetina spring stands the pre-Romanesque Church of Holy Salvation from the ninth century,
+      and the Cetina valley concentrates around 800 archaeological sites spanning Neolithic, Roman and early
+      Christian periods.
+
+
+      The highland pastures are an anthropogenic landscape maintained by continuous grazing. Of the park’s
+      eight priority habitat types, three are semi-natural grasslands that degrade and lose botanical
+      diversity if abandoned. Near the summits, subalpine grasslands evolved from the historical retreat of
+      mountain pine scrub and high woodlands.
+    before: >-
+      There are no permanent villages on the mountain: human shelter is limited to scattered shepherds’
+      bothies and mountaineering huts, so plan your expedition thoroughly and carry all necessary provisions.
+      Dinara encompasses eleven Natura 2000 designated sites: two for bird protection and nine for habitat and
+      species conservation.
+    around: >-
+      About twenty-five kilometres away lies [Una National Park - Upper Reaches and
+      Waterfalls](/lugar/nacionalni-park-una---gorji-tok/). Farther afield, other dramatic karst massifs
+      sharing the meadow viper and large carnivores include [Monti Sibillini National
+      Park](/lugar/parco-nazionale-dei-monti-sibillini/) and [Vikos-Aoös National
+      Park](/lugar/vikos---aoos-national-park/).
+  fr:
+    intro: >-
+      C’est la montagne qui a donné son nom à toute une chaîne alpine. Les Alpes dinariques tirent leur
+      appellation de la Dinara, et sur sa cime, Sinjal, à 1831 m, une borne géodésique marque le point
+      culminant de la Croatie par une sobre mention : « sommet de la Croatie ». Le parc naturel de la Dinara,
+      plus récent des parcs naturels croates depuis février 2021, protège 63 052 hectares couvrant les massifs
+      de la Dinara, du Troglav et de la Kamešnica, les sources et le haut cours de la Cetina, les sources de
+      la Krka et les poljés de Hrvace, Paško et Vrlika, le long de la frontière bosnienne. C’est, après le
+      Velebit, le deuxième plus vaste parc naturel du pays.
+    landscape: >-
+      Le trait saillant de la Dinara réside dans ses falaises étagées. Taillées dans des calcaires jurassiques
+      et crétacés, elles déploient un karst typique criblé de dolines, de poljés et de cavités, ne laissant
+      presque aucun écoulement d’eau en surface. L’eau s’infiltre dans un réseau souterrain tributaire des
+      bassins de la Cetina et de la Krka, pour ressurgir au pied du massif en de puissantes résurgences
+      karstiques. Ces crues temporaires inondent les poljés, modelant de précieuses prairies humides.
+
+
+      Ce contraste géologique est saisissant : d’une part le karst d’altitude aride, sans eau courante, aux
+      falaises sévères et aux immenses pelouses ; de l’autre la vallée fertile de la Cetina. Près de Vrlika
+      jaillissent les trois principales sources de la Cetina, et le torrent Rumin forme son deuxième affluent
+      majeur. Sur le Krčić, cours d’eau d’environ 10,5 km, se succèdent trois cascades dont la dernière
+      franchit une barrière de tuf de 22 mètres. En amont de la Krka, gorges et cascades complètent ce décor.
+      Les températures moyennes annuelles aux sommets oscillent entre 2 et 4 °C : c’est l’un des secteurs les
+      plus froids de Croatie.
+    wildlife: >-
+      Les pierriers au pied des parois accueillent des communautés végétales spécialisées et plusieurs
+      endémismes. On recense sur la montagne environ 750 espèces de plantes, dont plus de 110 strictement
+      protégées et 55 endémiques. Cette biodiversité s’explique par le rôle de refuge glaciaire joué par le
+      massif.
+
+
+      L’espèce emblématique est la vipère des steppes des Balkans, sous-espèce endémique inféodée aux hauts
+      plateaux dinariques. La faune mammalienne rassemble l’[ours brun](/especie/ursus_arctos/), le
+      [loup](/especie/canis_lupus/), le [lynx boréal](/especie/lynx_lynx/) et le [chat
+      forestier](/especie/felis_silvestris/), avec le campagnol des neiges des Balkans. Parmi les oiseaux
+      nichent l’[aigle royal](/especie/aquila_chrysaetos/) et le circaète Jean-le-Blanc, tandis que les
+      pelouses ouvertes hébergent l’alouette calandrelle et le bruant ortolan. Les reptiles et amphibiens
+      comprennent la coronelle lisse, la [vipère ammodyte](/especie/vipera_ammodytes/), la [salamandre
+      tachetée](/especie/salamandra_salamandra/) et le triton alpestre.
+
+
+      La montagne vit de mai à octobre. En été, les éleveurs mènent les troupeaux sur les hauts plateaux
+      pastoraux jusqu’aux premières neiges d’automne : une tradition de transhumance qui a façonné le paysage
+      végétal.
+    visit: >-
+      La Dinara se découvre avant tout à pied. Sinjal, culminant à 1831 m, s’atteint sans difficulté alpine
+      majeure en comparaison d’autres hauts sommets européens, balisé par de multiples chemins et des refuges
+      gardés. Au sommet, la borne porte l’inscription « 1831, sommet de la Croatie ».
+
+
+      Les vallées offrent d’autres perspectives : les sources vauclusiennes de la Cetina, le canyon du Rumin,
+      le lit du Krčić et les gorges de la Krka. Sur la Grab, un pont historique et ses moulins à eau
+      traditionnels sont classés monuments historiques et trois d'entre eux restent en activité.
+    history: >-
+      Le nom découle vraisemblablement de la tribu illyrienne des Dindari qui y menait ses bêtes. Les
+      Illyriens vénéraient cette montagne sacrée qu’ils appelaient Troura. C’est à ses pieds qu’émergea le
+      premier royaume croate : Knin fut la capitale médiévale et Biskupija son siège épiscopal. Près de la
+      source de la Cetina se dresse l’église préromane du Saint-Sauveur, datant du IXe siècle, et la vallée
+      concentre environ 800 gisements archéologiques s’étirant du Néolithique aux époques romaine et
+      paléochrétienne.
+
+
+      Les estives sont l'œuvre du pastoralisme. Sur huit habitats prioritaires, trois sont des pelouses qui se
+      ferment et s’appauvrissent si le pâturage cesse.
+    before: >-
+      Aucun village ne subsiste sur la montagne : l’abri humain se limite aux cabanes pastorales et aux
+      refuges, préparez votre itinéraire et emportez tout votre équipement. Le massif compte onze sites Natura
+      2000 : deux dédiés aux oiseaux et neuf aux habitats et espèces.
+    around: >-
+      À vingt-cinq kilomètres s’étend le [Parc national de l'Una - Haut cours et
+      cascades](/lugar/nacionalni-park-una---gorji-tok/). Plus loin, d’autres massifs karstiques abritent
+      vipères des steppes et grands prédateurs : le [Parc national des Monts
+      Sibyllins](/lugar/parco-nazionale-dei-monti-sibillini/) et le [Parc national de
+      Vikos-Aoös](/lugar/vikos---aoos-national-park/).
+  de:
+    intro: >-
+      Es ist der Berg, der einem ganzen europäischen Hochgebirge den Namen gab. Die Dinarischen Alpen sind
+      nach der Dinara benannt, und auf ihrem Gipfel Sinjal auf 1831 m markiert eine Steinsäule das Dach
+      Kroatiens mit schlichten Worten: «Spitze Kroatiens». Der Naturpark Dinara, Kroatiens jüngster Naturpark
+      seit Februar 2021, schützt 63.052 Hektar über das Dinara-, Troglav- und Kamešnica-Massiv, die
+      Quellflüsse der Cetina und der Krka sowie die Karstbecken von Hrvace, Paško und Vrlika an der bosnischen
+      Grenze. Nach dem Velebit ist er der zweitgrößte Naturpark des Landes.
+    landscape: >-
+      Auffälligstes Merkmal der Dinara sind ihre fast senkrechten Kalksteinfelsen mit scharfer Schichtung. Der
+      Jura- und Kreidekalk weist typische Karstformen wie Dolinen, Poljen und Höhlen auf, weshalb es im
+      Gebirge kaum oberirdisches Wasser gibt. Die Niederschläge versickern im unterirdischen Karstnetz der
+      Einzugsgebiete von Cetina und Krka und treten am Gebirgsfuß in starken Karstquellen zutage. Periodische
+      Überschwemmungen der Poljen schaffen artenreiche Feuchtwiesen.
+
+
+      Der landschaftliche Kontrast ist markant: Einerseits trockenes, schroffes Hochkarstland mit weiten
+      Matten; andererseits das fruchtbare Cetina-Tal. Bei Vrlika liegen die drei mächtigen Karstquellen der
+      Cetina, während der Rumin ihr zweitgrößter Zufluss ist. Entlang des 10,5 km langen Flusses Krčić stürzen
+      drei Kaskaden zu Tal, die letzte über eine 22 Meter hohe Travertinbarriere. Die Jahresmitteltemperaturen
+      auf den Graten liegen zwischen 2 und 4 °C: ein Kältepol Kroatiens.
+    wildlife: >-
+      Der Felsschutt unter den Wänden beherbergt spezialisierte Pflanzengemeinschaften mit vielen Endemiten.
+      Im Gebirge wachsen rund 750 Pflanzenarten, über 110 streng geschützte und 55 endemische Taxa. Die Dinara
+      diente während der Eiszeiten als wichtiges europäisches Rückzugsgebiet.
+
+
+      Das zoologische Aushängeschild ist die Karst-Wiesenotter, eine dinarische Endemitin. Zur Großsäugerfauna
+      zählen [Braunbär](/especie/ursus_arctos/), [Wolf](/especie/canis_lupus/), [Eurasischer
+      Luchs](/especie/lynx_lynx/) und [Wildkatze](/especie/felis_silvestris/), begleitet von der endemischen
+      Balkan-Schneemaus. Unter den Vögeln nisten [Steinadler](/especie/aquila_chrysaetos/) und Schlangenadler,
+      während Kurzzehenlerche und Ortolan die offenen Weiden nutzen. Bei den Reptilien kommen Schlingnatter,
+      [Europäische Hornotter](/especie/vipera_ammodytes/) und
+      [Feuersalamander](/especie/salamandra_salamandra/) vor.
+
+
+      Die Almsaison dauert von Mai bis Oktober. Im Sommer treiben die Viehzüchter ihre Herden auf das
+      Hochplateau, wo sie bis zum ersten Schnee bleiben: eine traditionelle Wanderviehwirtschaft, die diese
+      Landschaft schuf.
+    visit: >-
+      Die Dinara ist ein Paradies für Wanderer. Der Sinjal auf 1831 m Höhe ist im Vergleich zu anderen
+      europäischen Hochgipfeln gut über markierte Wege und Schutzhütten erreichbar. Auf der Kuppe trägt die
+      Vermessungssäule die Gravur « 1831, Spitze Kroatiens ».
+
+
+      Die Täler eröffnen weitere Entdeckungen: die türkisfarbenen Cetina-Quellen, die Flusstäler von Rumin und
+      Krčić sowie die oberen Krka-Schluchten. Am Fluss Grab sind eine historische Brücke und traditionelle
+      Wassermühlen als Baudenkmäler geschützt, von denen drei noch in Betrieb stehen.
+    history: >-
+      Der Name geht vermutlich auf den illyrischen Stamm der Dindari zurück. Am Gebirgsfuß entstand der frühe
+      kroatische Staat: Knin war mittelalterliche Königsstadt und Biskupija Bischofssitz. Nahe der
+      Cetina-Quelle steht die altkroatische Erlöserkirche aus dem neunten Jahrhundert, und das Cetina-Tal
+      zählt rund 800 archäologische Fundstätten von der Steinzeit bis in die Antike.
+
+
+      Die Weiden der Dinara sind ein Werk extensiver Beweidung. Von acht prioritären Lebensraumtypen sind drei
+      Weidegesellschaften, die verbuschen, wenn die Beweidung nachlässt.
+    before: >-
+      Es gibt keine Ortschaften im Gebirge; Unterkünfte beschränken sich auf Alm- und Berghütten. Plane deine
+      Tour sorgfältig und nimm alle Verpflegung mit. Die Dinara umfasst elf Natura 2000 Gebiete: zwei
+      Vogelschutz- und neun FFH-Gebiete.
+    around: >-
+      Rund fünfundzwanzig Kilometer entfernt liegt der [Nationalpark Una - Oberlauf und
+      Wasserfälle](/lugar/nacionalni-park-una---gorji-tok/). Weiter entfernt teilen der [Nationalpark Monti
+      Sibillini](/lugar/parco-nazionale-dei-monti-sibillini/) und der [Nationalpark
+      Vikos-Aoös](/lugar/vikos---aoos-national-park/) ähnliche Karsthabitate.
+  it:
+    intro: >-
+      È la montagna che ha dato il proprio nome a un'intera dorsale alpina. Le Alpi Dinariche prendono il nome
+      dal Dinara, e sulla sua cima Sinjal, a quota 1831 m, un pilastro geodetico segnala il tetto della
+      Croazia con una dedica essenziale: «cima della Croazia». Il Parco Naturale Dinara, istituito nel
+      febbraio 2021 come il più giovane dei parchi naturali croati, tutela 63.052 ettari comprendenti i
+      massicci del Dinara, del Troglav e del Kamešnica, le sorgenti e l'alto corso della Cetina, le sorgenti
+      della Krka e i polje di Hrvace, Paško e Vrlika lungo la frontiera con la Bosnia ed Erzegovina. Dopo il
+      Velebit, è il secondo parco naturale per estensione del paese.
+    landscape: >-
+      La caratteristica più imponente del Dinara è rappresentata dalle sue pareti rocciose verticali a marcata
+      stratificazione. Composte da calcari giurassici e cretacei, mostrano le classiche morfologie carsiche
+      con doline, polje e inghiottitoi, lasciando i crinali privi di acque superficiali. L'acqua penetra in
+      una rete sotterranea tributaria della Cetina e della Krka, per risorgere al piede dei rilievi in
+      spettacolari sorgenti carsiche. Gli allagamenti temporanei dei polje alimentano preziose praterie umide.
+
+
+      Il contrasto morfologico è netto: da un lato l'arido carso d'alta quota, le pareti aspre e gli immensi
+      pascoli; dall'altro la valle fertile della Cetina. Vicino a Vrlika scaturiscono le tre maggiori sorgenti
+      della Cetina, e il torrente Rumin è il suo secondo affluente principale. Lungo il Krčić, corso d'acqua
+      di circa 10,5 km, si susseguono tre cascate, l'ultima delle quali supera una barriera di travertino alta
+      22 metri. Nell'alto corso della Krka, forre e cascate completano il paesaggio. Le temperature medie
+      annue sulle vette si attestano fra 2 e 4 °C: è una delle zone più fredde della Croazia.
+    wildlife: >-
+      Le pietraie ai piedi delle pareti ospitano comunità vegetali pioniere con molte entità endemiche. Si
+      stimano circa 750 specie botaniche, di cui oltre 110 rigorosamente protette e 55 endemiche. Questa
+      ricchezza deriva dalla funzione di rifugio biogeografico svolta dal monte durante le glaciazioni.
+
+
+      La specie simbolo è la vipera dell'Orsini delle Dinaridi. Tra i mammiferi si annoverano l'[orso
+      bruno](/especie/ursus_arctos/), il [lupo](/especie/canis_lupus/), la [lince
+      eurasiatica](/especie/lynx_lynx/) e il [gatto selvatico](/especie/felis_silvestris/), insieme
+      all'endemica arvicola delle nevi balcanica. Tra gli uccelli nidificano l'[aquila
+      reale](/especie/aquila_chrysaetos/) e il biancone, mentre le praterie steppiche ospitano calandrelle e
+      ortolani. Tra i rettili figurano il colubro liscio, la [vipera dal corno](/especie/vipera_ammodytes/) e
+      la [salamandra pezzata](/especie/salamandra_salamandra/).
+
+
+      La montagna si vive da maggio a ottobre. In estate i pastori guidano le mandrie sui pascoli alti fino ai
+      primi freddi autunnali: una transumanza millenaria che ha plasmato questo paesaggio.
+    visit: >-
+      Il Dinara è una meta d'eccellenza per l'escursionismo. La cima Sinjal a 1831 m si raggiunge agevolmente
+      rispetto ad altre vette alpine europee, grazie a sentieri segnati e rifugi. Sulla vetta, il cippo recita
+      « 1831, cima della Croazia ».
+
+
+      Le valli permettono altre esplorazioni: le sorgenti azzurre della Cetina, il corso del Rumin, la forra
+      del Krčić e l'alto corso della Krka. Lungo il fiume Grab, un ponte storico e i suoi mulini ad acqua
+      tradizionali sono tutelati come bene culturale, e tre risultano ancora attivi.
+    history: >-
+      Il toponimo risale alla tribù illirica dei Dindari. Ai piedi della montagna nacque il primo regno
+      croato: Knin fu capitale regia medievale e Biskupija sede episcopale. Presso la sorgente della Cetina si
+      conserva la chiesa preromanica del Santo Salvatore, eretta nel nono secolo, e la vallata conta circa 800
+      siti archeologici dal Neolitico all'epoca romana.
+
+
+      I pascoli sommitali sono frutto del pascolo continuativo. Su otto habitat prioritari, tre sono praterie
+      che tendono a imboschire se abbandonate.
+    before: >-
+      Non vi sono centri abitati sul massiccio; i punti d'appoggio si limitano a bivacchi pastorali e rifugi,
+      pianifica bene la scorta d'acqua e i viveri. L'area include undici siti Natura 2000: due per l'avifauna
+      e nove per habitat e specie.
+    around: >-
+      A circa venticinque chilometri si trova il [Parco Nazionale dell'Una - Alto Corso e
+      Cascate](/lugar/nacionalni-park-una---gorji-tok/). Più lontani, condividono habitat carsici affini il
+      [Parco Nazionale dei Monti Sibillini](/lugar/parco-nazionale-dei-monti-sibillini/) e il [Parco Nazionale
+      di Vikos-Aoös](/lugar/vikos---aoos-national-park/).
+  pt:
+    intro: >-
+      É a montanha que batizou toda uma cordilheira alpina. Os Alpes Dináricos herdaram o seu nome do Dinara,
+      e no seu cimo, Sinjal, a 1831 m de altitude, um marco geodésico assinala o teto da Croácia com palavras
+      singelas: «cume da Croácia». O Parque Natural do Dinara, o mais jovem dos parques naturais croatas
+      criado em fevereiro de 2021, protege 63.052 hectares abrangendo os maciços do Dinara, Troglav e
+      Kamešnica, as cabeceiras e nascentes do rio Cetina, as fontes do Krka e os campos de Hrvace, Paško e
+      Vrlika, junto à fronteira bósnia. A seguir ao Velebit, é o segundo maior parque natural da Croácia.
+    landscape: >-
+      O traço visual dominante do Dinara são as suas escarpas verticais de calcários jurássicos e cretácicos.
+      O relevo exibe o carste clássico pontilhado de dolinas, poljes e algares, deixando os planaltos quase
+      desprovidos de cursos de água à superfície. As chuvas infiltram-se numa rede subterrânea alimentando as
+      bacias do Cetina e do Krka, ressurgindo na base em imponentes exsurgências cársticas. As inundações
+      periódicas dos poljes originam prados húmidos de grande interesse ecológico.
+
+
+      O contraste de relevos é vincado: de um lado o carste desolado de altitude, escarpas agrestes e
+      pastagens infinitas; do outro o vale verdejante do Cetina. Perto de Vrlika brotam as três principais
+      fontes do Cetina, sendo a ribeira de Rumin o seu segundo maior afluente. No Krčić, rio de cerca de 10,5
+      km, sucedem-se três quedas de água, a última das quais vence uma barreira de travertino de 22 metros. No
+      curso alto do Krka, desfiladeiros e cascatas enriquecem a paisagem. As temperaturas médias anuais nos
+      cumes oscilam entre 2 e 4 °C: uma das áreas mais gélidas da Croácia.
+    wildlife: >-
+      Os depósitos de cascalho sob as falésias albergam comunidades vegetais singulares com muitos endemismos.
+      Estimam-se na montanha cerca de 750 espécies botânicas, mais de 110 estritamente protegidas e 55
+      endémicas. O maciço atuou como refúgio biogeográfico durante as glaciações.
+
+
+      A espécie emblemática é a víbora-das-estepes balcânica. Entre os mamíferos residentes contam-se o
+      [urso-pardo](/especie/ursus_arctos/), o [lobo](/especie/canis_lupus/), o
+      [lince-euroasiático](/especie/lynx_lynx/) e o [gato-bravo](/especie/felis_silvestris/), além do roedor
+      endémico rato-das-neves-balcânico. Nas aves nidificam a [águia-real](/especie/aquila_chrysaetos/) e a
+      águia-cobreira, acolhendo as pastagens a calhandrinha-comum e a sombria. Entre os répteis encontram-se a
+      cobra-lisa-austríaca, a [víbora-cornuda](/especie/vipera_ammodytes/) e a
+      [salamandra-de-pintas-amarelas](/especie/salamandra_salamandra/).
+
+
+      O ciclo de montanha desenrola-se de maio a outubro. No verão os criadores conduzem o gado para os pastos
+      altos até às primeiras neves de outono: uma transumância secular que modelou a paisagem.
+    visit: >-
+      O Dinara vocaciona-se sobretudo para o pedestrianismo. O cume Sinjal a 1831 m atinge-se sem dificuldades
+      alpinas extremas, dispondo de caminhos sinalizados e abrigos de montanha. No topo, o marco assinala «
+      1831, cume da Croácia ».
+
+
+      Os vales proporcionam belos itinerários: as nascentes azul-turquesa do Cetina, o desfiladeiro do Rumin,
+      o leito do Krčić e o alto Krka. Junto ao rio Grab, uma ponte histórica e os seus moinhos de água
+      tradicionais estão classificados como património cultural, três dos quais continuam a moer cereal.
+    history: >-
+      O nome terá origem na tribo ilíria dos Dindari. Na sua base nasceu o primeiro reino croata: Knin foi a
+      capital dos soberanos medievais e Biskupija a sua diocese. Perto da nascente do Cetina conserva-se a
+      igreja pré-românica do Santo Salvador, do nono século, e ao longo do vale identificam-se cerca de 800
+      sítios arqueológicos desde o Neolítico até à época romana.
+
+
+      As pastagens do Dinara resultam de séculos de pastoreio. Dos oito tipos de habitats prioritários, três
+      são prados que perdem biodiversidade se o pastoreio for abandonado.
+    before: >-
+      Não existem aldeias habitadas na serra: o abrigo humano resume-se a cabanas pastoris e refúgios de
+      montanha; prepara a rota com antecedência e leva água e mantimentos suficientes. O Dinara engloba onze
+      sítios Natura 2000: dois para aves e nove para habitats e espécies.
+    around: >-
+      A cerca de vinte e cinco quilómetros situa-se o [Parque Nacional do Una - Curso Alto e
+      Cascatas](/lugar/nacionalni-park-una---gorji-tok/). Mais longe, outros maciços cársticos com habitats
+      semelhantes são o [Parque Nacional dos Montes Sibilinos](/lugar/parco-nazionale-dei-monti-sibillini/) e
+      o [Parque Nacional de Vikos-Aoös](/lugar/vikos---aoos-national-park/).
+fuentes:
+  - url: https://www.parkovihrvatske.hr/en/nature-park-dinara
+    titulo: Nature Park Dinara — Parkovi Hrvatske
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parkovihrvatske.hr/park-prirode-dinara
+    titulo: Park prirode Dinara — Parkovi Hrvatske
+    fecha_consulta: '2026-10-30'
+  - url: https://dinarabacktolife.eu/projektno-podrucje/
+    titulo: Projektno područje - Dinara back to LIFE
+    fecha_consulta: '2026-10-30'
+  - url: https://hr.wikipedia.org/wiki/Park_prirode_Dinara
+    titulo: Park prirode Dinara – Wikipedija
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Dinara
+    titulo: Dinara — Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Zalazak_na_Dinari.jpg
+    autor: Ivan Vid
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,686 @@
+id: parque-natural-bardenas-reales-de-navarra
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural Bardenas Reales de Navarra
+  en: Bardenas Reales de Navarra Natural Park
+  fr: Parc naturel des Bardenas Reales de Navarre
+  de: Naturpark Bardenas Reales de Navarra
+  it: Parco naturale Bardenas Reales de Navarra
+  pt: Parque Natural Bardenas Reales de Navarra
+nombre_original: Parque Natural Bardenas Reales de Navarra
+alias:
+  - Parque Natural Bardenas Reales de Navarra
+paises:
+  - ES
+region:
+  es: Navarra (Tudela / Arguedas / Valtierra)
+  en: Navarra (Tudela / Arguedas / Valtierra)
+  fr: Navarre (Tudela / Arguedas / Valtierra)
+  de: Navarra (Tudela / Arguedas / Valtierra)
+  it: Navarra (Tudela / Arguedas / Valtierra)
+  pt: Navarra (Tudela / Arguedas / Valtierra)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 42.18
+  lon: -1.45
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 151237
+  nombre_en_la_fuente: Bardenas Reales
+  categoria_uicn: II
+  capa: capas/cdda/parque-natural-bardenas-reales-de-navarra.geojson
+habitats:
+  - steppe
+  - karst
+  - gorge_canyon
+designaciones:
+  - natural_park
+  - biosphere_reserve
+  - natura2000
+  - iucn_v
+especies:
+  - gyps_fulvus
+  - neophron_percnopterus
+  - otis_tarda
+temporada_ideal:
+  - 10
+  - 11
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+temporada_nota:
+  es: otoño a primavera (evitar el calor sofocante del verano)
+  en: autumn to spring (avoid the suffocating summer heat)
+  fr: automne au printemps (éviter la chaleur étouffante de l'été)
+  de: Herbst bis Frühjahr (sommerliche Gluthitze meiden)
+  it: dall'autunno alla primavera (evitare la calura soffocante dell'estate)
+  pt: outono a primavera (evitar o calor sufocante do verão)
+masificacion: 3
+masificacion_nota:
+  es: Alta alrededor del cabezo de Castildetierra
+  en: High around the Castildetierra butte
+  fr: Élevée autour de la butte témoin de Castildetierra
+  de: Hoch rund um den Tafelberg Castildetierra
+  it: Alta attorno al rilievo di Castildetierra
+  pt: Elevada em redor do cabeço de Castildetierra
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Parque Natural Bardenas Reales Sitio Oficial
+    url: https://www.bardenasreales.es/
+  - titulo: Rutas — Senderos de Bardenas Reales
+    url: https://bardenasreales.es/turismo/que-ver/
+  - titulo: Normas — Uso turístico de Bardenas Reales
+    url: https://bardenasreales.es/turismo/normativa-de-uso-turistico/
+  - titulo: Avisos — Cierres y recomendaciones actuales
+    url: https://bardenasreales.es/avisos-y-recomendaciones/
+  - titulo: Centro de visitantes — Información y contacto
+    url: https://bardenasreales.es/comunidad/sede-centro-de-informacion-punto-de-ocio/
+resumen:
+  es: >-
+    Paisaje desértico y badlands de 42.000 ha esculpido en arcilla, yesos y areniscas con cabezos icónicos
+    como Castildetierra.
+  en: >-
+    Desert and badlands landscape of 42,000 ha carved into clays, gypsum, and sandstones, crowned by iconic
+    isolated buttes like Castildetierra.
+  fr: >-
+    Paysage désertique et badlands de 42 000 ha sculpté dans l'argile, les gypses et les grès, hérissé de
+    buttes témoins emblématiques comme Castildetierra.
+  de: >-
+    Wüsten- und Badland-Landschaft von 42.000 ha, geformt aus Tonen, Gips und Sandsteinen mit markanten
+    Inselbergen wie Castildetierra.
+  it: >-
+    Paesaggio desertico e calanchi di 42.000 ha scolpito in argille, gessi e arenarie con pinnacoli iconici
+    come Castildetierra.
+  pt: >-
+    Paisagem desértica e badlands de 42.000 ha esculpida em argilas, gessos e arenitos com relevos residuais
+    icónicos como Castildetierra.
+unico:
+  es: >-
+    Aquí el suelo blando se deshace bajo una capa dura y la erosión esculpe, ante tus ojos, cerros como
+    Castildetierra, bajo un cielo de rapaces y esteparias entre las más ricas de Europa.
+  en: >-
+    Here fragile clay melts beneath a protective caprock while ongoing erosion sculpts stark buttes before
+    your eyes, beneath skies sheltering exceptional steppe and raptor communities.
+  fr: >-
+    Ici, le sol tendre se désagrège sous une cuirasse de grès et l'érosion façonne sous vos yeux des collines
+    insolites, sous un ciel abritant des peuplements de rapaces et d'oiseaux steppiques parmi les plus riches
+    d'Europe.
+  de: >-
+    Hier weicht weicher Lehmboden unter widerständigen Deckschichten und die Erosion formt vor deinen Augen
+    bizarre Tafelberge unter einem Himmel mit bemerkenswerten Steppen- und Greifvogelbeständen.
+  it: >-
+    Qui il terreno soffice si disgrega sotto una piastra dura e l'erosione modella davanti ai tuoi occhi
+    rilievi singolari, sotto un cielo popolato da rapaci e uccelli steppici tra i più ricchi d'Europa.
+  pt: >-
+    Aqui o solo brando desfaz-se sob uma carapaça dura e a erosão molda perante os teus olhos cabeços
+    espetaculares, sob um céu acolhedor de rapinas e aves estepárias entre as mais ricas da Europa.
+observaciones:
+  es: >-
+    Camina solo por las rutas habilitadas, pistas y caminos del parque, y no molestes a la fauna al
+    fotografiar o grabar. Las sesiones del Hide del Muladar Mainate están suspendidas.
+texto:
+  es:
+    intro: >-
+      Hace unos diez millones de años, la cuenca del Ebro era un mar interior. Un día se abrió al
+      Mediterráneo, el mar se vació, nació el río Ebro y empezó una erosión que no ha parado desde entonces.
+      Lo que ves hoy en las Bardenas Reales de Navarra es el resultado: mesetas, cerros solitarios y barrancos
+      tallados en materiales blandos, en el sureste de Navarra. Es Parque Natural y Reserva de la Biosfera,
+      declarada el 7 de noviembre de 2000, y abarca 39.285,30 ha. Pese a estar en el norte, tiene clima
+      semiárido, paisajes muy erosionados y altitudes de entre 280 y 659 m. La mitad del territorio se cultiva
+      y el resto es vegetación baja de pseudoestepa.
+    landscape: >-
+      La receta es sencilla: dominan los materiales blandos (margas, arcillas, limos y yesos), en capas casi
+      horizontales, y por eso la erosión actúa rápida e intensamente. En la erosión tabular, la capa dura de
+      arriba aguanta mientras la blanda de abajo se desgasta, hasta que cae el borde superior. Así nacen las
+      mesetas, llamadas planas, y los cabezos, entre los que destacan El Rallón, Pisquerra, Cortinas y
+      Castildetierra. El agua hace el resto: crea el efecto piel de elefante, o bad lands, y cava barrancos y
+      oquedades.
+
+
+      El territorio se divide en tres. La Blanca es una gran depresión, enmarcada por El Plano al norte y por
+      las planas escalonadas de La Negra al sur. En La Blanca encontrarás estepas, espartales, ontinares y
+      sisallares; La Negra, en cambio, conserva pinares de pino carrasco, que crecen con sabina negral,
+      coscoja, lentisco y escambrón.
+
+
+      La vegetación más valiosa está en los saladares de los barrancos y zonas llanas de La Blanca: solo
+      sobreviven unas pocas especies en suelos con tanta sal, y por eso agrupan las comunidades vegetales más
+      interesantes para la botánica y la conservación.
+
+
+      El clima completa el cuadro. La estación seca es muy larga, con veranos cálidos e inviernos muy fríos;
+      la primavera es efímera y el otoño suele ser la estación más agradable si no sopla el cierzo, un viento
+      frío y seco del noroeste que sopla a entre 20 y 30 km/h.
+    wildlife: >-
+      Las Bardenas son, sobre todo, un lugar de aves. Solo las que anidan aquí superan el centenar de
+      especies, y sus comunidades de rapaces y esteparias figuran entre las más ricas de Europa. El
+      [alimoche](/especie/neophron_percnopterus/), el [buitre leonado](/especie/gyps_fulvus/) y el [búho
+      real](/especie/bubo_bubo/) son las rapaces características. En el Rincón del Bú, una pequeña zona de 460
+      ha, abundan el [águila real](/especie/aquila_chrysaetos/) y el alimoche, junto con el alcaraván y la
+      alondra de Dupont, y destaca por la cría del búho real.
+
+
+      Entre las esteparias, la [avutarda](/especie/otis_tarda/) está casi desaparecida, el
+      [sisón](/especie/tetrax_tetrax/) tiene unas veinte parejas, el
+      [alcaraván](/especie/burhinus_oedicnemus/) es muy abundante y la [alondra de
+      Dupont](/especie/chersophilus_duponti/) suma unas 250 parejas. En las Caídas de la Negra abundan
+      águilas, buitres, búhos, avutardas, zorros, [gatos monteses](/especie/felis_silvestris/),
+      [jinetas](/especie/genetta_genetta/), anfibios y reptiles; entre estos, el galápago leproso, el lagarto
+      ocelado, la lagartija ibérica y la lagartija colilarga.
+
+
+      La temporada pide ir con el tiempo en la cabeza: la primavera es efímera y el otoño, sin cierzo, es la
+      estación más agradable.
+    visit: >-
+      El Centro de Información de Bardenas, en la finca Los Aguilares, está a las puertas del parque natural
+      desde el verano de 2010. Se entra al centro de información y a la reserva desde la NA-134, en el km 15,1
+      (Tudela-Arguedas).
+
+
+      Las rutas habilitadas se hacen a pie y en bici. A pie, el Barranco de las Cortinas, el Cabezo de las
+      Cortinillas y El Fraile; en bicicleta de montaña, El Plano, la vuelta al embalse del Ferial y la Plana
+      de la Negra. La normativa permite caminar por las rutas de senderismo habilitadas, además de por pistas
+      y caminos del parque, y observar la naturaleza a pie en los caminos abiertos, respetando las
+      limitaciones de cada zona. También permite la fotografía y la grabación de naturaleza, recreativas o
+      educativas, siempre que no molesten a la fauna. En el Hide del Muladar Mainate se ofrecían sesiones de
+      fotografía de aves con acompañamiento del personal de guardería, pero están suspendidas temporalmente
+      tras la destrucción del muladar en un incendio.
+    history: >-
+      Las Bardenas tuvieron su esplendor en la Edad del Bronce, hace cuatro mil años, y llevan unos veinte
+      siglos sin poblaciones estables. Pero nunca estuvieron vacías: el Valle de Roncal recibió en el año 882
+      el primer derecho de uso, y con él empezó el pastoreo trashumante bardenero. Los rebaños llegaban al
+      comienzo del otoño y se quedaban hasta mediados o finales de la primavera, cuando la nieve liberaba los
+      pastos de montaña. En 1.705, una Real Cédula de Felipe V reconoció a perpetuidad los derechos de
+      veintidós entidades: diecinueve pueblos, dos valles pirenaicos y un monasterio cisterciense.
+
+
+      El Rincón del Bú y las Caídas de la Negra son reservas naturales desde 1986, y desde 1999 casi todo el
+      territorio es parque natural. El valor más destacable del medio natural es su alto grado de naturalidad,
+      y veintisiete especies de aves necesitan medidas de conservación de su hábitat. Dentro de Bardenas,
+      fuera de la reserva, hay un polígono de tiro del Ejército del Aire, activo desde 1.951. Los distritos
+      agroganaderos buscan acuerdos entre agricultores y ganaderos que además mejoren las condiciones para la
+      fauna silvestre.
+    before: >-
+      Camina solo por las rutas habilitadas, pistas y caminos del parque, y no molestes a la fauna al
+      fotografiar o grabar. Las sesiones del Hide del Muladar Mainate están suspendidas.
+    around: >-
+      Entre los lugares lejanos, la [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) comparte hábitat de estepa, con alondra
+      ricotí, sisón y ganga ibérica; la [Réserve Naturelle Nationale de la Coussoul de
+      Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) comparte sisón y ganga ibérica; y el
+      [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/) reúne alimoche,
+      búho real y buitre leonado entre cañones y karst.
+  en:
+    intro: >-
+      Roughly ten million years ago, the Ebro basin was an immense inland lake. Eventually it breached to the
+      Mediterranean, the lake drained, the modern Ebro formed, and unrelenting erosion commenced. What you see
+      today in the Bardenas Reales de Navarra is the breathtaking outcome: flat-topped plateaus, solitary
+      buttes, and deeply incised ravines carved from soft sediments in southeastern Navarra. It is a Natural
+      Park and Biosphere Reserve, designated on 7 November 2000, spanning 39,285.30 ha. Despite its northern
+      latitude, it features a semi-arid climate, heavily eroded badlands, and elevations between 280 and 659
+      m. About half the expanse is farmed, with the remainder supporting low pseudo-steppe scrub.
+    landscape: >-
+      The geomorphology is straightforward: weak sediments (marls, clays, silts, and gypsum) lie in
+      near-horizontal strata, leaving them vulnerable to rapid, fierce erosion. In tabular erosion, the hard
+      upper caprock resists while the soft underlying layers undermine, until the rim suddenly shears away.
+      This process yields elevated plateaus, known as planas, and tabular buttes (cabezos), among which El
+      Rallón, Pisquerra, Cortinas, and Castildetierra stand out. Runoff finishes the task: it flutes clay
+      banks into elephant-skin badlands and bores out sinkholes and dry gully canyons.
+
+
+      The territory divides into three distinct zones. La Blanca is a vast central depression, framed by El
+      Plano to the north and the stepped plateaus of La Negra to the south. In La Blanca you will encounter
+      dry steppes, esparto grasslands, wormwood, and saltwort; La Negra, by contrast, preserves Aleppo pine
+      woodlands growing alongside Phoenician juniper, kermes oak, lentisc, and hawthorn.
+
+
+      The most delicate flora thrives in the salt flats of the ravines and saline basins of La Blanca: only
+      specialized halophytes endure such saline soils, representing the most botanically significant plant
+      communities in the park.
+
+
+      Climate completes this desert tableau. The dry season is prolonged, marked by scorching summers and
+      freezing winters; spring is ephemeral, while autumn is generally the pleasantest season provided the
+      cierzo is quiet—a cold, dry northwesterly wind that typically blows between 20 and 30 km/h.
+    wildlife: >-
+      The Bardenas are above all a sanctuary for birds. Breeding species alone exceed one hundred, with raptor
+      and steppe bird guilds ranking among the richest in Europe. The [Egyptian
+      vulture](/especie/neophron_percnopterus/), [griffon vulture](/especie/gyps_fulvus/), and [Eurasian
+      eagle-owl](/especie/bubo_bubo/) are hallmark raptors. In the Rincón del Bú, a compact reserve of 460 ha,
+      the [golden eagle](/especie/aquila_chrysaetos/) and Egyptian vulture nest alongside the stone-curlew and
+      Dupont's lark, famed for its eagle-owl breeding population.
+
+
+      Among steppe specialists, the [great bustard](/especie/otis_tarda/) is nearly extinct here, the [little
+      bustard](/especie/tetrax_tetrax/) numbers around twenty pairs, the [Eurasian
+      stone-curlew](/especie/burhinus_oedicnemus/) remains abundant, and [Dupont's
+      lark](/especie/chersophilus_duponti/) totals roughly 250 pairs. The Caídas de la Negra escarpment
+      shelters eagles, vultures, owls, bustards, red foxes, [European wildcats](/especie/felis_silvestris/),
+      [common genets](/especie/genetta_genetta/), amphibians, and reptiles; among the latter are the Spanish
+      terrapin, ocellated lizard, Iberian wall lizard, and large psammodromus.
+
+
+      Plan your journey around the seasons: spring passes swiftly, and autumn without cierzo winds offers the
+      most comfortable excursion conditions.
+    visit: >-
+      The Bardenas Information Centre, located at Los Aguilares estate, has stood at the threshold of the park
+      since summer 2010. Access to both the visitor centre and the reserve begins off the NA-134 highway at km
+      15.1 (Tudela-Arguedas route).
+
+
+      Designated tracks are explored on foot or by mountain bike. On foot, highlights include the Barranco de
+      las Cortinas, Cabezo de las Cortinillas, and El Fraile; by mountain bike, routes loop across El Plano,
+      around the Ferial reservoir, and over Plana de la Negra. Park regulations permit walking along approved
+      hiking itineraries as well as vehicle-grade dirt roads and trails, observing wildlife along open routes
+      while respecting zoned restrictions. Nature photography and filming are welcome for recreation or
+      education, provided wildlife is not disturbed. Supervised bird photography sessions previously held at
+      the Mainate scavenger feeding station are temporarily suspended following damage in a brush fire.
+
+
+      Follow posted rules and keep your exploration within designated boundaries.
+    history: >-
+      Human presence in the Bardenas peaked during the Bronze Age four thousand years ago, followed by some
+      twenty centuries devoid of permanent settlements. Yet the territory was never vacant: in the year 882
+      the Roncal Valley was granted the first recorded royal grazing concession, inaugurating historic
+      seasonal transhumance. Flocks arrived in early autumn and stayed until late spring, when snow melted
+      from high Pyrenean pastures. In 1,705, a royal decree issued by Philip V ratified perpetual communal
+      rights for twenty-two governing entities: nineteen towns, two Pyrenean valleys, and a Cistercian
+      monastery.
+
+
+      Rincón del Bú and Caídas de la Negra were established as strict nature reserves in 1986, and in 1999
+      nearly the entire territory became a natural park. Its wilderness value lies in its high degree of
+      naturalness, with twenty-seven bird species depending on strict habitat management. Within the
+      perimeter, outside reserve zones, an air force firing range has operated since 1,951. Traditional
+      agro-pastoral communities work together to balance farming and wildlife conservation.
+    before: >-
+      Walk only along designated trails, dirt tracks, and open roadways, and do not disturb wildlife when
+      taking photographs or video. Photographic sessions at the Mainate hide remain suspended.
+    around: >-
+      Further afield, [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) shares steppe habitats with Dupont's lark,
+      little bustard, and black-bellied sandgrouse; [Réserve Naturelle Nationale de la Coussoul de
+      Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) shares the little bustard and
+      sandgrouse; and [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/)
+      gathers Egyptian vultures, eagle-owls, and griffon vultures among rocky gorges.
+  fr:
+    intro: >-
+      Il y a une dizaine de millions d'années, le bassin de l'Èbre était une vaste mer intérieure. Un jour,
+      une brèche s'ouvrit vers la Méditerranée, le lac s'assécha, le fleuve Èbre naquit et une érosion
+      continue se mit à l'œuvre. Ce que vous observez aujourd'hui dans les Bardenas Reales de Navarre en est
+      l'impressionnant résultat : plateaux tabulaires, buttes solitaires et ravines découpées dans des roches
+      tendres, au sud-est de la Navarre. Classé parc naturel et réserve de biosphère le 7 novembre 2000, le
+      site couvre 39 285,30 ha. Malgré sa situation septentrionale, il présente un climat semi-aride, des
+      badlands ravinés et des altitudes étagées entre 280 et 659 m. La moitié du territoire est cultivée, le
+      reste étant occupé par une végétation basse de pseudo-steppe.
+    landscape: >-
+      Le relief repose sur un mécanisme précis : la dominance de matériaux tendres (marnes, argiles, limons et
+      gypses) disposés en couches presque horizontales permet une érosion rapide et puissante. Dans l'érosion
+      tabulaire, la couche supérieure résistante protège le sol jusqu'à ce que la base érodée s'effondre.
+      C'est ainsi que naissent les plateaux appelés « planas » et les buttes témoins (cabezos), parmi lesquels
+      El Rallón, Pisquerra, Cortinas et Castildetierra. Les pluies torrentielles font le reste : elles créent
+      un ravinement en peau d'éléphant (badlands) et creusent des abîmes d'effondrement.
+
+
+      Le territoire s'articule en trois entités. La Blanca forme une immense dépression centrale, encadrée par
+      El Plano au nord et par les terrasses étagées de La Negra au sud. Dans La Blanca dominent steppes
+      arides, spartéines et chénopodiacées ; La Negra, en revanche, conserve des pinèdes de pin d'Alep
+      associées au genévrier rouge, au chêne kermès et au lentisque.
+
+
+      La végétation la plus précieuse s'épanouit dans les salines et dépressions de La Blanca : seules
+      quelques espèces végétales supportent une telle salinité, constituant des habitats de haute valeur
+      conservatoire.
+
+
+      Le climat accentue l'aridité. La saison sèche est longue, marquée par des étés brûlants et des hivers
+      rigoureux ; le printemps est fugace et l'automne offre la période la plus agréable lorsque ne souffle
+      pas le cierzo, un vent violent et sec de nord-ouest soufflant couramment entre 20 et 30 km/h.
+    wildlife: >-
+      Les Bardenas sont un haut lieu ornithologique. Plus d'une centaine d'espèces d'oiseaux y nichent,
+      formant des communautés de rapaces et d'oiseaux steppiques exceptionnelles. Le
+      [percnoptère](/especie/neophron_percnopterus/), le [vautour fauve](/especie/gyps_fulvus/) et le [hibou
+      grand-duc](/especie/bubo_bubo/) sont les rapaces emblématiques. Dans le Rincón del Bú, une réserve de
+      460 ha, prospèrent l'[aigle royal](/especie/aquila_chrysaetos/) et le percnoptère, aux côtés de
+      l'alouette de Dupont et du grand-duc.
+
+
+      Parmi les oiseaux steppiques, la [grande outarde](/especie/otis_tarda/) est devenue rarissime,
+      l'[outarde canepetière](/especie/tetrax_tetrax/) compte une vingtaine de couples, l'[œdicnème
+      criard](/especie/burhinus_oedicnemus/) abonde et l'[alouette de Dupont](/especie/chersophilus_duponti/)
+      rassemble environ 250 couples. Les Caídas de la Negra hébergent aigles, vautours, hiboux, renards,
+      [chats sauvages](/especie/felis_silvestris/), [genettes communes](/especie/genetta_genetta/), ainsi que
+      le lézard ocellé et la cistude ibérique.
+
+
+      Planifiez votre séjour selon le calendrier : le printemps passe très vite et l'automne, à l'abri du
+      cierzo, reste la saison la plus douce.
+    visit: >-
+      Le centre d'information des Bardenas, sur le domaine de Los Aguilares, accueille les visiteurs à
+      l'entrée du parc depuis l'été 2010. On accède au centre et à la réserve par la route NA-134 au km 15,1
+      (axe Tudela-Arguedas).
+
+
+      Les parcours aménagés se découvrent à pied ou à VTT. À pied, vous parcourrez le ravin des Cortinas, le
+      Cabezo de las Cortinillas et El Fraile ; à vélo, vous sillonnerez El Plano, le tour du lac du Ferial et
+      la Plana de la Negra. La réglementation autorise la marche sur les sentiers balisés ainsi que sur les
+      pistes carrossables ouvertes, en observant la nature dans le respect des zonages. La photographie et la
+      vidéo naturalistes sont autorisées tant qu'elles n'occasionnent aucun dérangement faunistique. Les
+      séances d'affût photographique au charnier du Muladar Mainate sont temporairement suspendues après un
+      incendie.
+    history: >-
+      Les Bardenas connurent une intense fréquentation à l'âge du bronze, il y a quatre mille ans, avant deux
+      millénaires sans habitat sédentaire. Mais la contrée ne fut jamais déserte : en 882, la vallée de Roncal
+      reçut le premier privilège d'usage, inaugurant la transhumance pastorale bardenera. Les troupeaux
+      pyrénéens descendaient au début de l'automne et regagnaient les cimes au printemps. En 1 705, une
+      ordonnance royale de Philippe V confirma à perpétuité les droits de vingt-deux communautés : dix-neuf
+      villages, deux vallées pyrénéennes et un monastère cistercien.
+
+
+      Le Rincón del Bú et les Caídas de la Negra sont classés réserves naturelles depuis 1986, et en 1999 la
+      quasi-totalité de l'espace est devenue parc naturel. Le site présente une haute valeur de naturalité où
+      vingt-sept espèces d'oiseaux font l'objet de plans de gestion. Hors de la réserve, un champ de tir de
+      l'armée de l'air fonctionne depuis 1 951.
+    before: >-
+      Marchez exclusivement sur les sentiers balisés, pistes et routes autorisées, et veillez à ne pas
+      perturber la faune lors de prises de vue. Les affûts photographiques du Muladar Mainate sont suspendus.
+    around: >-
+      Plus loin, la [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) partage des habitats steppiques avec
+      l'alouette ricoti, l'outarde canepetière et le ganga unibande ; la [Réserve Naturelle Nationale de la
+      Coussoul de Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) partage canepetière et
+      ganga cata ; et le [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/)
+      réunit percnoptère, grand-duc et vautour fauve au creux de falaises calcaires.
+  de:
+    intro: >-
+      Vor rund zehn Millionen Jahren war das Ebro-Becken ein Binnenmeer. Als es zum Mittelmeer durchbrach,
+      floss das Wasser ab, der Fluss Ebro entstand und eine bis heute andauernde Erosion setzte ein. Was du
+      heute in den Bardenas Reales de Navarra siehst, ist das Ergebnis: Hochebenen, isolierte Zeugenberge und
+      tief eingeschnittene Canyons in weichen Sedimenten im Südosten Navarras. Das Gebiet ist Naturpark und
+      UNESCO-Biosphärenreservat, ausgewiesen am 7. November 2000, und umfasst 39.285,30 ha. Trotz der Lage im
+      Norden herrscht semi-arides Klima mit intensiver Zertalung zwischen 280 und 659 m Höhe. Die Hälfte der
+      Fläche wird agrarisch genutzt, der Rest von niedriger Steppenvegetation eingenommen.
+    landscape: >-
+      Die Geomorphologie folgt klaren Gesetzmäßigkeiten: Weiche Gesteine (Mergel, Tone, Schluff und Gips)
+      lagern horizontal, sodass Niederschläge rasch erodieren. Bei der Schichtstufenerosion schützt die harte
+      Deckschicht das Relief, bis der weiche Unterbau nachgibt und die Abbruchkante nachstürzt. So entstehen
+      Hochebenen (planas) und Zeugenberge (cabezos) wie El Rallón, Pisquerra, Cortinas und Castildetierra.
+      Regengüsse tun ein Übriges: Sie schaffen zerfurchte Badlands (Elefantenhaut-Effekt) und graben Röhren
+      und Höhlen in den Ton.
+
+
+      Das Territorium gliedert sich in drei Räume. La Blanca ist eine weite Senke, begrenzt von El Plano im
+      Norden und den Schichtstufen von La Negra im Süden. In La Blanca begegnest du Wermutfluren, Espartogras
+      und Salzkrautsteppen; La Negra birgt dagegen Aleppo-Kiefernwälder zusammen mit Phönizischem Wacholder,
+      Kermeseiche und Mastixstrauch.
+
+
+      Die botanisch wertvollste Vegetation besiedelt die Salzpfannen in Senken von La Blanca: Nur
+      hochspezialisierte Halophyten überleben auf derart salzreichen Böden, weshalb sie vorrangigen Schutz
+      genießen.
+
+
+      Das Wüstenklima vollendet das Landschaftsbild. Die Trockenperiode ist lang mit heißen Sommern und
+      frostigen Wintern; das Frühjahr ist kurz, und der Herbst erweist sich meist als angenehmste Reisezeit,
+      sofern nicht der Cierzo weht – ein schneidender Nordwestwind mit 20 bis 30 km/h.
+    wildlife: >-
+      Die Bardenas sind zuallererst ein Refugium der Avifauna. Über hundert Vogelarten brüten hier;
+      Greifvogel- und Steppenvogelgemeinschaften zählen zu den reichsten Europas.
+      [Schmutzgeier](/especie/neophron_percnopterus/), [Gänsegeier](/especie/gyps_fulvus/) und
+      [Uhu](/especie/bubo_bubo/) sind die Charakterarten. Im Rincón del Bú, einem 460 ha großen Reservat,
+      brüten [Steinadler](/especie/aquila_chrysaetos/) und Schmutzgeier neben Trielen und Dupontlerchen,
+      bekannt für seine hohe Uhu-Dichte.
+
+
+      Unter den Steppenarten ist die [Großtrappe](/especie/otis_tarda/) fast verschwunden, die
+      [Zwergtrappe](/especie/tetrax_tetrax/) zählt rund zwanzig Paare, der
+      [Triel](/especie/burhinus_oedicnemus/) ist häufig und die [Dupontlerche](/especie/chersophilus_duponti/)
+      umfasst etwa 250 Brutpaare. In den Caídas de la Negra leben Adler, Geier, Eulen, Trappen, Füchse,
+      [Wildkatzen](/especie/felis_silvestris/), [Kleinfleck-Ginsterkatzen](/especie/genetta_genetta/) und
+      Perleidechsen.
+
+
+      Passe deine Tour der Jahreszeit an: Das Frühjahr vergeht rasch, während der Herbst ohne Cierzo ideale
+      Bedingungen bietet.
+    visit: >-
+      Das Informationszentrum der Bardenas auf dem Gut Los Aguilares empfängt Besucher seit Sommer 2010. Die
+      Zufahrt zum Zentrum und in das Reservat erfolgt über die NA-134 bei km 15,1 (Strecke Tudela-Arguedas).
+
+
+      Die freigegebenen Routen werden zu Fuß oder per Mountainbike erkundet. Zu Fuß lohnen der Barranco de las
+      Cortinas, Cabezo de las Cortinillas und El Fraile; per Mountainbike locken El Plano, die Umrundung des
+      Ferial-Stausees und die Plana de la Negra. Wanderungen sind auf ausgewiesenen Wegen und Fahrpisten
+      gestattet, ebenso Naturbeobachtungen unter Wahrung des Zonenschutzes. Naturfotografie ist für private
+      Zwecke erlaubt, solange keine Störungen der Tierwelt entstehen. Die Fototouren am Geierfütterungsplatz
+      Muladar Mainate sind nach einem Brandschaden vorübergehend ausgesetzt.
+    history: >-
+      Die Bardenas erlebten in der Bronzezeit vor vier tausend Jahren eine dichte Besiedlung, worauf rund
+      zwanzig Jahrhunderte ohne feste Ortschaften folgten. Dennoch war das Land stets genutzt: Im Jahr 882
+      erhielt das Roncal-Tal das erste Weiderecht, was den Beginn der Wanderweidewirtschaft markierte.
+      Schafherden zogen im Frühherbst ein und blieben bis zum Frühjahr. 1.705 bestätigte König Philipp V. in
+      einer Urkunde die ewigen Nutzungsrechte von zweiundzwanzig Gemeinschaften: neunzehn Dörfer, zwei
+      Pyrenäentäler und ein Zisterzienserkloster.
+
+
+      Rincón del Bú und Caídas de la Negra sind seit 1986 Naturschutzgebiete; 1999 wurde fast das gesamte
+      Areal zum Naturpark erhoben. Siebenundzwanzig Vogelarten bedürfen strenger Schutzmaßnahmen. Außerhalb
+      der Kernzonen besteht seit 1.951 ein militärischer Luftwaffenübungsplatz.
+    before: >-
+      Bewege dich ausschließlich auf den ausgewiesenen Wanderwegen und Fahrpisten und vermeide Störungen der
+      Tierwelt beim Fotografieren. Die Fotoverstecke am Muladar Mainate bleiben gesperrt.
+    around: >-
+      Weiter entfernt teilt die [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) Steppenlebensräume mit Dupontlerche,
+      Zwergtrappe und Spießflughuhn; die [Réserve Naturelle Nationale de la Coussoul de
+      Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) teilt Zwergtrappe und Flughuhn; der
+      [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/) vereint
+      Schmutzgeier, Uhu und Gänsegeier in Felsklammen.
+  it:
+    intro: >-
+      Circa dieci milioni di anni fa, il bacino dell'Ebro era un mare interno. Un giorno trovò sfogo verso il
+      Mediterraneo, il lago si prosciugò, nacque il fiume Ebro e si innescò un'erosione incessante. Quanto
+      vedi oggi nelle Bardenas Reales de Navarra ne è il grandioso esito: altipiani tabulari, rilievi isolati
+      e forre scavate nei sedimenti incoerenti nel sud-est della Navarra. È Parco Naturale e Riserva della
+      Biosfera, proclamata il 7 novembre 2000, estesa su 39.285,30 ha. Malgrado la latitudine settentrionale,
+      vanta clima semiarido, badlands erosi e quote comprese tra 280 e 659 m. Metà della superficie è
+      coltivata, mentre il resto è coperto da pseudo-steppa.
+    landscape: >-
+      La dinamica è lineare: prevalgono sedimenti teneri (marne, argille, limi e gessi) disposti in strati
+      orizzontali, soggetti a rapida degradazione. Nell'erosione tabulare, la piastra rocciosa superiore
+      protegge il substrato friabile finché quest'ultimo cede, provocando il crollo dei bordi. Nascono così
+      gli altipiani (planas) e i testimoni d'erosione (cabezos) come El Rallón, Pisquerra, Cortinas e
+      Castildetierra. Le piogge violente completano l'opera: modellano calanchi a pelle d'elefante e aprono
+      voragini sotterranee.
+
+
+      Il comprensorio si divide in tre settori. La Blanca è un'ampia conca centrale, racchiusa da El Plano a
+      nord e dalle gradonate di La Negra a sud. Nella Blanca si incontrano steppe, sparti e chenopodiacee; La
+      Negra conserva pinete di pino d'Aleppo miste a ginepro licio, quercia spinosa e lentisco.
+
+
+      La flora più preziosa si concentra nelle saline e nelle aree basse della Blanca: poche specie vegetali
+      tollerano una salinità così elevata, formando comunità di eccezionale interesse botanico.
+
+
+      Il clima desertico esaspera l'aridità. La stagione secca è lunga, con estati torride e inverni rigidi;
+      la primavera è brevissima e l'autunno è la stagione più mite a patto che non soffi il cierzo, un vento
+      asciutto e gelido da nord-ovest con raffiche tra 20 e 30 km/h.
+    wildlife: >-
+      Le Bardenas sono soprattutto un paradiso per l'avifauna. Oltre cento specie vi nidificano stabilmente,
+      costituendo comunità di rapaci e uccelli steppici tra le più dense d'Europa. Il
+      [capovaccaio](/especie/neophron_percnopterus/), il [grifone](/especie/gyps_fulvus/) e il [gufo
+      reale](/especie/bubo_bubo/) sono i rapaci d'elezione. Nel Rincón del Bú, riserva di 460 ha, abbondano
+      l'[aquila reale](/especie/aquila_chrysaetos/) e il capovaccaio, accanto a occhioni e allodole di Dupont,
+      rinomato per la riproduzione del gufo reale.
+
+
+      Tra gli uccelli steppici, l'[otarda](/especie/otis_tarda/) è quasi estinta, la [gallina
+      prataiola](/especie/tetrax_tetrax/) conta circa venti coppie,
+      l'[occhione](/especie/burhinus_oedicnemus/) è comune e l'[allodola di
+      Dupont](/especie/chersophilus_duponti/) assomma circa 250 coppie. Nelle Caídas de la Negra vivono
+      aquile, avvoltoi, gufi, volpi, [gatti selvatici](/especie/felis_silvestris/),
+      [genette](/especie/genetta_genetta/), lucertole ocellate e testuggini palustri iberiche.
+
+
+      Scegli con attenzione il periodo di visita: la primavera svanisce presto e l'autunno, in assenza di
+      cierzo, offre le giornate migliori.
+    visit: >-
+      Il Centro Informazioni delle Bardenas, nella tenuta di Los Aguilares, presidia l'ingresso al parco
+      dall'estate 2010. Si accede alla struttura e alla riserva dalla strada NA-134 al km 15,1 (asse
+      Tudela-Arguedas).
+
+
+      I percorsi segnalati si affrontano a piedi o in mountain bike. A piedi si esplorano il Barranco de las
+      Cortinas, il Cabezo de las Cortinillas e El Fraile; in bici si percorrono El Plano, il periplo
+      dell'invaso del Ferial e la Plana de la Negra. La normativa consente di camminare lungo i sentieri
+      allestiti e sulle piste aperte, osservando la fauna nel rispetto delle limitazioni zonali. La fotografia
+      naturalistica è autorizzata purché non arrechi disturbo. Le sessioni fotografiche presso l'osservatorio
+      del Muladar Mainate sono provvisoriamente sospese dopo un incendio.
+    history: >-
+      Le Bardenas conobbero una rilevante frequentazione nell'Età del Bronzo, quattro mila anni fa, cui
+      seguirono circa venti secoli senza centri stabili. Ma il territorio fu sempre vissuto: nell'anno 882 la
+      Valle del Roncal ottenne il primo diritto di pascolo, inaugurando la transumanza bardenera. Le greggi
+      arrivavano a inizio autunno e ripartivano in primavera verso i Pirenei. Nel 1.705 un decreto reale di
+      Filippo V sancì in perpetuo i diritti di ventidue comunità: diciannove borghi, due valli montane e
+      un'abbazia cistercense.
+
+
+      Il Rincón del Bú e le Caídas de la Negra sono riserve naturali dal 1986, e dal 1999 quasi l'intero
+      comprensorio è parco naturale. Ventisette specie di volatili richiedono specifiche tutele ambientali.
+      All'interno delle Bardenas opera dal 1.951 un poligono di tiro militare dell'aeronautica.
+    before: >-
+      Cammina unicamente lungo i tracciati autorizzati e le piste aperte, evitando ogni disturbo alla fauna
+      durante fotografie e riprese video. I capanni del Muladar Mainate restano non agibili.
+    around: >-
+      Più distante, la [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) condivide ambienti di steppa con allodola di
+      Dupont e gallina prataiola; la [Réserve Naturelle Nationale de la Coussoul de
+      Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) condivide gallina prataiola e
+      grandule; e il [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/)
+      riunisce capovaccaio, gufo reale e grifone in gole rocciose.
+  pt:
+    intro: >-
+      Há cerca de dez milhões de anos, a bacia do Ebro era um mar interior. Um dia abriu-se caminho para o
+      Mediterrâneo, a água escoou, nasceu o rio Ebro e começou uma erosão que perdura até hoje. Aquilo que
+      contemplas atualmente nas Bardenas Reales de Navarra é o resultado: planaltos tabulares, cabeços
+      isolados e barrancos rasgados em materiais brandos no sudeste de Navarra. É Parque Natural e Reserva da
+      Biosfera, classificada a 7 de novembro de 2000, cobrindo 39.285,30 ha. Apesar de se situar no norte,
+      apresenta clima semiárido, ravinamentos pronunciados e cotas entre 280 e 659 m. Metade da área é
+      cultivada e a restante ocupada por vegetação rasteira de pseudoestepe.
+    landscape: >-
+      A geomorfologia assenta num princípio nítido: prevalecem materiais brandos (margas, argilas, siltes e
+      gessos) dispostos em camadas horizontais, sujeitos a rápida erosão. Na erosão tabular, a bancada dura
+      superior resiste enquanto a base friável se desgasta, até colapsar a bordadura. Deste modo formam-se os
+      planaltos (planas) e os cabeços testemunhos, destacando-se El Rallón, Pisquerra, Cortinas e
+      Castildetierra. As enxurradas completam o modelado: criam badlands em pele de elefante e escavam algares
+      e fendas no solo.
+
+
+      O território divide-se em três setores. La Blanca é uma imensa depressão delimitada por El Plano a norte
+      e pelas escarpas de La Negra a sul. Na Blanca encontram-se estepes áridas, espartais e tomilhais; La
+      Negra, pelo contrário, conserva pinhais de pinheiro-de-alepo associados a zimbro-negral, carrasco e
+      lentisco.
+
+
+      A vegetação mais singular desenvolve-se nos salgados e fundos de vale da Blanca: poucas espécies
+      sobrevivem em solos tão salinos, formando habitats de grande valor botânico.
+
+
+      O clima desértico acentua o quadro. A estação seca é prolongada, com verões tórridos e invernos gelados;
+      a primavera é efémera e o outono revela-se a estação mais amena caso não sopre o cierzo, vento frio e
+      seco de noroeste com rajadas habituais entre 20 e 30 km/h.
+    wildlife: >-
+      As Bardenas constituem primordialmente um reduto para a avifauna. Mais de uma centena de espécies
+      nidificam no local, integrando comunidades de rapinas e aves estepárias de topo na Europa. O
+      [abutre-do-egito](/especie/neophron_percnopterus/), o [abutre-fouveiro](/especie/gyps_fulvus/) e o
+      [bufo-real](/especie/bubo_bubo/) são as rapinas emblemáticas. No Rincón del Bú, uma reserva de 460 ha,
+      nidificam a [águia-real](/especie/aquila_chrysaetos/) e o abutre-do-egito, junto com alcaravões e
+      calhandras-de-dupont, destacando-se pela reprodução do bufo-real.
+
+
+      Nas aves de estepe, a [abetarda-comum](/especie/otis_tarda/) está quase extinta, o
+      [sisão](/especie/tetrax_tetrax/) conta cerca de vinte casais, o
+      [alcaravão](/especie/burhinus_oedicnemus/) é numeroso e a
+      [calhandra-de-dupont](/especie/chersophilus_duponti/) reúne cerca de 250 casais. Nas Caídas de la Negra
+      proliferam águias, abutres, bufos, raposas, [gatos-bravos](/especie/felis_silvestris/),
+      [ginetas](/especie/genetta_genetta/), sardões e cágados-mediterrânicos.
+
+
+      A visitação exige planeamento: a primavera é breve e o outono, sem cierzo, proporciona a melhor janela
+      climática.
+    visit: >-
+      O Centro de Informação das Bardenas, na herdade Los Aguilares, acolhe os visitantes à entrada do parque
+      desde o verão de 2010. O acesso ao centro e à reserva efetua-se pela estrada NA-134 ao km 15,1 (ligação
+      Tudela-Arguedas).
+
+
+      Os percursos autorizados realizam-se a pé ou em bicicleta de montanha. A pé sobressaem o Barranco de las
+      Cortinas, o Cabezo de las Cortinillas e El Fraile; em bicicleta destacam-se El Plano, a volta à
+      albufeira do Ferial e a Plana de la Negra. As normas consentem caminhar pelas rotas balizadas e estradas
+      abertas, permitindo a observação da natureza com respeito pelo zoneamento. A fotografia e o registo de
+      vídeo amador são permitidos desde que não perturbem a fauna. As sessões fotográficas no abrigo do
+      Muladar Mainate encontram-se temporariamente suspensas devido a um incêndio.
+    history: >-
+      As Bardenas conheceram ocupação intensa na Idade do Bronze, há quatro mil anos, seguindo-se cerca de
+      vinte séculos sem povoamento estável. Contudo, o espaço manteve-se vivo: no ano 882 o Vale de Roncal
+      obteve o primeiro foral de pastoreio, dando início à transumância bardenera. Os rebanhos chegavam no
+      outono e regressavam aos Pirenéus na primavera. Em 1.705, um alvará real de Filipe V consagrou a
+      perpetuidade dos direitos de vinte e duas entidades: dezanove vilas, dois vales pirenaicos e um mosteiro
+      de Cister.
+
+
+      Rincón del Bú e Caídas de la Negra são reservas naturais desde 1986, e em 1999 quase toda a área foi
+      classificada como parque natural. Vinte e sete espécies de aves carecem de medidas ativas de
+      conservação. No interior das Bardenas funciona desde 1.951 um polígono militar de tiro da Força Aérea.
+    before: >-
+      Circula exclusivamente pelos trilhos assinalados, pistas e caminhos autorizados, abstendo-te de
+      incomodar a fauna ao fotografar. Os abrigos fotográficos do Muladar Mainate mantêm-se inativos.
+    around: >-
+      Mais longe, a [Reserva Natural Dirigida de la Laguna de
+      Gallocanta](/lugar/reserva-natural-laguna-de-gallocanta/) partilha habitats de estepe com a
+      calhandra-de-dupont e o sisão; a [Réserve Naturelle Nationale de la Coussoul de
+      Crau](/lugar/reserve-naturelle-nationale-de-la-coussoul-de-crau/) partilha o sisão e o cortiçol; e o
+      [Parque Natural Hoces del Río Duratón](/lugar/parque-natural-hoces-del-rio-duraton/) reúne
+      abutre-do-egito, bufo-real e abutre-fouveiro em gargantas calcárias.
+fuentes:
+  - url: https://bardenasreales.es/turismo/espacio-natural/
+    titulo: Espacio Natural Protegido — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://bardenasreales.es/vegetacion-y-flora/
+    titulo: Vegetación y Flora — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://bardenasreales.es/fauna/
+    titulo: Fauna — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://bardenasreales.es/medio-fisico-geologia/
+    titulo: El Medio Físico y Geología — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://bardenasreales.es/turismo/normativa-de-uso-turistico/
+    titulo: Normativa de uso turístico — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://bardenasreales.es/turismo/birding-fotografia/
+    titulo: Birding y normas Muladar Mainate — Bardenas Reales
+    fecha_consulta: '2026-10-23'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/reservas-biosfera-mab/programa-mab-espana/nuestras-reservas-de-la-biosfera/bardenasrealesnavarra.html
+    titulo: Bardenas Reales de Navarra — Reserva de la Biosfera (MITECO)
+    fecha_consulta: '2026-10-23'
+  - url: https://es.wikipedia.org/wiki/Bardenas_Reales
+    titulo: Bardenas Reales — Wikipedia
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Bardenas_Reales_de_Navarra._(8180228119).jpg
+    autor: Miguel Ángel García. from Ólvega., España
+    licencia: CC BY 2.0
+    url_licencia: https://creativecommons.org/licenses/by/2.0
+    fecha_descarga: '2026-10-03'

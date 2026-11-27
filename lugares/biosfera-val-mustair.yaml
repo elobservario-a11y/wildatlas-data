@@ -1,0 +1,760 @@
+id: biosfera-val-mustair
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva de la Biosfera del Val Müstair
+  en: Val Müstair Biosphere Reserve
+  fr: Réserve de biosphère du Val Müstair
+  de: Biosphärenreservat Val Müstair
+  it: Riserva della biosfera della Val Müstair
+  pt: Reserva da Biosfera do Val Müstair
+nombre_original: Biosfera Val Müstair
+alias:
+  - Val Müstair Mountains (Biosfera Val Müstair)
+paises:
+  - CH
+region:
+  es: Grisones (Santa Maria Val Müstair)
+  en: Graubünden (Santa Maria Val Müstair)
+  fr: Grisons (Santa Maria Val Müstair)
+  de: Graubünden (Santa Maria Val Müstair)
+  it: Grigioni (Santa Maria Val Müstair)
+  pt: Grisões (Santa Maria Val Müstair)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2818268
+  nombre_en_la_fuente: Biosfera Val Müstair
+  capa: capas/osm/biosfera-val-mustair.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+designaciones:
+  - biosphere_reserve
+  - natural_park
+especies:
+  - cervus_elaphus
+  - gyps_fulvus
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Biosfera Val Müstair Official
+    url: https://www.biosfera.ch/
+  - titulo: Rutas — senderismo en Biosfera Val Müstair
+    url: https://www.val-muestair.ch/de/erleben/wandern
+  - titulo: Accesos — llegada a Val Müstair
+    url: https://www.val-muestair.ch/de/aktuelles-service/anreise-mobilitaet-ort/anreise
+  - titulo: Normas — convivencia con fauna y ganado en Val Müstair
+    url: https://www.val-muestair.ch/de/aktuelles-service/service/nutz-wildtiere-val-muestair
+  - titulo: Gestor — presentación del parque Biosfera Val Müstair
+    url: https://www.val-muestair.ch/de/naturpark/portrait/biosfera-val-muestair
+resumen:
+  es: Valle alpino virgen adyacente al Parque Nacional Suizo preservado de carreteras masivas.
+  en: Pristine alpine valley bordering the Swiss National Park preserved from heavy transit routes.
+  fr: Vallée alpine préservée contiguë au Parc national suisse, exempte de grands axes de transit.
+  de: >-
+    Unberührtes alpines Hochtal direkt am Schweizerischen Nationalpark, verschont von überregionalem
+    Transitverkehr.
+  it: Valle alpina intatta contigua al Parco Nazionale Svizzero preservata dal traffico pesante di transito.
+  pt: Vale alpino intacto confinante com o Parque Nacional Suíço resguardado de estradas de grande tráfego.
+unico:
+  es: >-
+    Un valle seco de los Alpes donde la frontera con Italia es también la del romanche, y donde en 2005 llegó
+    un oso y se dejó ver.
+  en: >-
+    An arid inner-Alpine valley where the Italian border marks the frontier of the Romansh language, and where
+    in 2005 a wild brown bear arrived and showed itself to residents.
+  fr: >-
+    Une vallée intra-alpine sèche où la frontière italienne marque également celle de la langue romanche, et
+    où en 2005 un ours brun fit son apparition remarquée.
+  de: >-
+    Ein trockenes inneralpines Hochtal, in dem die italienische Grenze zugleich Sprachgrenze des
+    Rätoromanischen ist und 2005 ein Braunbär einwanderte und gesichtet wurde.
+  it: >-
+    Una valle alpina arida dove il confine italiano coincide con quello della lingua romancia, e dove nel 2005
+    giunse un orso bruno facendosi ammirare dai villeggianti.
+  pt: >-
+    Um vale interior seco dos Alpes onde a fronteira com a Itália assinala o limite da língua romanche, e onde
+    em 2005 um urso-pardo surgiu avistado por visitantes.
+observaciones:
+  es: >-
+    Estás en tierra de pastos y de grandes carnívoros, así que las normas son sencillas. Haz las actividades
+    en caminos y zonas señalizadas, respeta el hábitat de la fauna y no dejes restos de comida, porque la
+    basura atrae a los animales. Si un lobo advierte tu presencia, lo normal es que se retire o huya. En
+    territorio de oso, quédate en los senderos y lleva al perro con correa.
+
+
+    El parque publica mapas con la ubicación de las vacas nodrizas y de los perros guardianes: míralos antes
+    de salir. Y comprueba por tu cuenta cómo llegar al valle, que se accede por el Ofenpass desde el Engadin o
+    desde el Vinschgau italiano.
+texto:
+  es:
+    intro: >-
+      Hay valles que se cruzan y valles que se bajan. El Val Müstair se baja: empiezas en el puerto de
+      Ofenpass y, escalón a escalón, el terreno te va soltando hasta Müstair, con el Vinschgau italiano
+      esperando justo al otro lado de la frontera. Son unos 25 km de valle y 199 km² de parque natural que
+      coinciden con todo el término del municipio, en el extremo oriental de Suiza, donde se alza el Piz
+      Chavalatsch, su punto más oriental. Junto al Parque Nacional Suizo forma la primera reserva de la
+      biosfera de alta montaña del país.
+    landscape: >-
+      El valle desciende en tres escalones. Arriba están Tschierv y Fuldera; en el medio, Valchava y Santa
+      Maria; abajo, Müstair. Entre el puerto y el pueblo final se pierde altura de forma gradual, y en el
+      término del municipio se pasa de los 1225 a los 3180 metros.
+
+
+      La roca explica el fondo del valle. Gran parte de los sedimentos son esquistosos y se deshacen con
+      facilidad, así que los torrentes laterales arrastran mucho material y lo dejan en el fondo en forma de
+      conos de derrubios. Esos conos cubren casi todo el suelo del valle, y por eso la agricultura encuentra
+      aquí buenos emplazamientos. Más arriba, a 2400 m, el lago de circo Lai da Rims conserva el repertorio
+      glaciar completo: rocas aborregadas y umbrales pulidos por el hielo.
+
+
+      El clima completa el cuadro. Es la zona seca interior de los Alpes, con una ligera influencia
+      mediterránea, y llueve menos que casi en cualquier otro punto alpino: solo el vecino Vinschgau, el
+      Valais central y el valle de Aosta reciben menos. Esa sequedad pinta un paisaje de contrastes. En
+      primavera florecen prados espléndidos junto a bosques viejos de alerce y pino cembro.
+
+
+      Hay un detalle que cambia la geografía de un vistazo: aquí se parten las aguas. El Rom lleva el agua del
+      valle al Adigio y al Adriático; el Aua da Val Mora, en el Val Mora despoblado, la manda por el Inn y el
+      Danubio hacia el Mar Negro.
+    wildlife: >-
+      Si quieres ver animales, empieza por los roquedos. Las actividades de observación con prismáticos y
+      telescopio buscan [cabra montés](/especie/capra_ibex/) y [rebeco](/especie/rupicapra_rupicapra/) y
+      explican su hábitat. Más abajo, los prados secos de Müstair y Santa Maria son un foco de biodiversidad
+      para dos mariposas de importancia nacional, el Felsenfalter (*Chazara briseis*) y el Kleine
+      Schlehenzipfelfalter (*Satyrium acaciae*).
+
+
+      Los grandes carnívoros han vuelto. Según el gestor, en el valle viven ahora
+      [osos](/especie/ursus_arctos/) y [lobos](/especie/canis_lupus/), y el parque trabaja también sobre el
+      [lince](/especie/lynx_lynx/). La memoria del oso es reciente: en el verano de 2005 un oso pardo llegó
+      desde el Tirol del Sur y se dejó ver por los turistas; lo llamaron Lumpaz. Ese mismo año, en el cercano
+      valle de Uina, en el Engadin, reapareció el primer oso en Suiza en casi cien años.
+
+
+      El verano añade otra capa a la fauna: pastan vacas nodrizas con sus terneros y perros guardianes vigilan
+      los rebaños de ovejas. Así, la primavera es de las flores y el verano de los alpes y sus animales.
+    visit: >-
+      El valle se recorre bien a pie, y casi todo se organiza en torno a sus senderos temáticos.
+
+
+      La travesía más completa es la Senda Val Müstair: una caminata de altura que sale del Ofenpass, pasa por
+      la Alp Champatsch y llega a Lü, un pueblo de montaña donde parar antes de bajar hasta Müstair. Si
+      prefieres una historia de frontera, hay dos rutas de contrabandistas. Una sube al Piz Chavalatsch, donde
+      queda en ruinas una casa de aduanas; la otra va del paso de Umbrail a la Dreisprachenspitze por caminos
+      militares de la Primera Guerra Mundial.
+
+
+      Para seguir el agua, el sendero A la riva dal Rom recorre catorce kilómetros desde el nacimiento del
+      Rombach, en Süsom-Tschierv, hasta Müstair. Son unas tres horas y media, con 110 metros de subida y 620
+      de bajada. Pasa junto a turberas, salva escalones del arroyo y atraviesa en el curso bajo bosques de
+      ribera. Una guía ilustrada cuenta la historia, los hábitats y las leyendas del Rombach.
+
+
+      Con niños, el Senda da l'uors es un paseo tranquilo por el fondo del valle donde cuatro osos tallados a
+      mano cuentan la historia del oso. Y si te gustan los topónimos, la Senda da las linguas es un recorrido
+      sonoro de unos 8 km alrededor de Valchava, con once estaciones de audio sobre nombres de lugar
+      romanches.
+
+
+      Si buscas algo más largo, el Drei Pärke Weg dura cuatro días y cruza la Biosfera Val Müstair, el Parque
+      Nacional Suizo y el Parque Nacional del Stelvio. Hay además salidas con la ranger del parque hasta la
+      zona de alpes para conocer la vida del lobo, el oso y el lince y hablar con los pastores, y excursiones
+      de un día a la zona de Buffalora.
+    history: >-
+      Este valle fue frontera mucho antes de ser parque. El 22 de mayo de 1499 fue escenario de la batalla de
+      Calven, en la que los grisones frenaron la anexión habsburgo. Hoy la frontera entre Suiza e Italia sigue
+      coincidiendo con la lingüística entre romanche y alemán: es el único valle meridional de los Grisones
+      donde se habla romanche, en la variante local llamada jauer. En Müstair se alza además el monasterio
+      benedictino de San Juan, Patrimonio Mundial de la UNESCO.
+
+
+      La protección vino después. En 2011 el parque recibió la etiqueta de parque de importancia nacional, un
+      reconocimiento que se renueva cada diez años a partir de una carta de objetivos; la vigente cubre
+      2021-30. Su perímetro incluye el Val Nüglia, que pertenece al Parque Nacional Suizo, y su lema es
+      Armonia jaura: que sociedad, cultura, naturaleza, ecología y economía funcionen juntas.
+    before: >-
+      Estás en tierra de pastos y de grandes carnívoros, así que las normas son sencillas. Haz las actividades
+      en caminos y zonas señalizadas, respeta el hábitat de la fauna y no dejes restos de comida, porque la
+      basura atrae a los animales. Si un lobo advierte tu presencia, lo normal es que se retire o huya. En
+      territorio de oso, quédate en los senderos y lleva al perro con correa.
+
+
+      El parque publica mapas con la ubicación de las vacas nodrizas y de los perros guardianes: míralos antes
+      de salir. Y comprueba por tu cuenta cómo llegar al valle, que se accede por el Ofenpass desde el Engadin
+      o desde el Vinschgau italiano.
+    around: >-
+      El [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) comparte límite con el parque y
+      lo une a esta ruta: el Drei Pärke Weg cruza ambos y el Parque Nacional Suizo en cuatro etapas diarias.
+  en:
+    intro: >-
+      There are valleys you cross and valleys you descend. Val Müstair is descended: you begin at the crest of
+      the Fuorn Pass (Ofenpass) and, tier by tier, the descending topography releases you toward Müstair, with
+      Italy's Vinschgau waiting immediately beyond the international frontier. The valley stretches roughly 25
+      km and its 199 km² regional nature park coincides precisely with the municipal territory at
+      Switzerland's easternmost fringe, where Piz Chavalatsch marks the country's easternmost point. Linked to
+      the adjacent Swiss National Park, it constitutes the nation's inaugural high-alpine UNESCO biosphere
+      reserve.
+    landscape: >-
+      The valley steps down in three distinct morphological terraces. Highest up lie Tschierv and Fuldera; in
+      the middle tier, Valchava and Santa Maria; at the lowest level, Müstair. Between the pass summit and the
+      border village elevation falls steadily, spanning altitudes from 1225 to 3180 meters across the
+      municipal boundary.
+
+
+      The underlying geology explains the valley floor. Most bedrock consists of fragile crystalline schists
+      that weather easily; lateral torrents dislodge immense volumes of gravel and detritus, depositing them
+      in vast alluvial fans across the main trench. These debris cones mantle virtually the entire valley
+      bottom, creating fertile pockets for local agriculture. Higher up at 2400 m, the glacial cirque lake of
+      Lai da Rims preserves a complete suite of glacial landforms: roche moutonnée surfaces and polished
+      bedrock sills smoothed by former glaciers.
+
+
+      The climate completes the picture. Lying in the inner-Alpine rain shadow with mild Mediterranean
+      influences, it receives less annual precipitation than almost anywhere else in the Alps: only the
+      adjacent Vinschgau, central Valais, and Aosta Valley are drier. This arid regime fosters stark
+      contrasts. In spring, luxuriant meadow flowers burst into bloom alongside ancient stands of European
+      larch and Swiss stone pine.
+
+
+      A hydrological divide splits the terrain at a glance. The Rom carries valley waters eastward toward the
+      Adige and the Adriatic; meanwhile the Aua da Val Mora, in the uninhabited Val Mora basin, drains
+      northward toward the Inn and Danube system bound for the Black Sea.
+    wildlife: >-
+      For wildlife encounters, begin on high alpine screes and crags. Guided spotting walks equipped with
+      binoculars and spotting scopes target the [Alpine ibex](/especie/capra_ibex/) and
+      [chamois](/especie/rupicapra_rupicapra/), interpreting their survival adaptations. Further down, dry
+      calcareous grasslands around Müstair and Santa Maria form biodiversity hotspots for two nationally
+      notable butterflies: the hermit (*Chazara briseis*) and the sloe hairstreak (*Satyrium acaciae*).
+
+
+      Apex carnivores have returned. According to park authorities, the valley regularly hosts [brown
+      bear](/especie/ursus_arctos/) and [grey wolf](/especie/canis_lupus/), alongside monitoring initiatives
+      for the [Eurasian lynx](/especie/lynx_lynx/). The memory of the bear is fresh: during the summer of 2005
+      a young brown bear crossed from South Tyrol and roamed in plain sight of tourists, christened Lumpaz.
+      That same year, in the nearby Uina Valley in the Lower Engadine, the first wild bear in Switzerland in
+      nearly a century made headlines.
+
+
+      Summer introduces domestic grazing herds: suckler cattle graze with their calves while livestock
+      guardian dogs watch over sheep flocks across high alpine pastures. Spring celebrates wildflower blooms,
+      while summer belongs to the alpine pastures and their wildlife.
+    visit: >-
+      The valley is best explored on foot, structured around a network of thematic trails.
+
+
+      The premier high-altitude trek is the Senda Val Müstair: a scenic traverse departing from the Ofenpass,
+      crossing Alp Champatsch, and arriving at Lü, an unspoilt hamlet perched high above the valley, before
+      descending to Müstair. For frontier history, choose between two smugglers' trails: one ascends to Piz
+      Chavalatsch, passing ruined border customs huts; the other links the Umbrail Pass to the
+      Dreisprachenspitze along First World War military mule tracks.
+
+
+      To trace the watercourse, the A la riva dal Rom path covers fourteen kilometers from the headwaters of
+      the Rombach at Süsom-Tschierv down to Müstair. The walk requires about three and a half hours, with 110
+      meters of ascent and 620 meters of descent, skirting alpine peat bogs, tumbling cascades, and downstream
+      riparian alder groves. An interpretive booklet relates local stream ecology, folklore, and habitats.
+
+
+      Families with children enjoy the Senda da l'uors, a gentle valley-bottom stroll where four hand-carved
+      wooden bears narrate the natural history of bears. Language enthusiasts appreciate the Senda da las
+      linguas, an 8 km audio walk around Valchava featuring eleven interpretive listening stations exploring
+      Romansh place names.
+
+
+      For an ambitious multi-day trek, the four-day Drei Pärke Weg links the Val Müstair Biosphere, Swiss
+      National Park, and Stelvio National Park. Park rangers also lead interpretive summer hikes to alpine
+      pastures to discuss cohabitation with wolves, bears, and lynx, as well as day excursions into the
+      Buffalora Wilderness.
+    history: >-
+      This valley was a contested borderland long before becoming a regional nature park. On 22 May 1499 it
+      witnessed the Battle of Calven, where Graubünden forces decisively repelled Habsburg expansion. Today
+      the Swiss-Italian frontier continues to mirror the linguistic boundary between Romansh and German: it
+      remains the sole southern valley in Graubünden where Romansh is spoken, in the distinctive local dialect
+      called Jauer. In Müstair stands the Carolingian Benedictine Convent of Saint John, a UNESCO World
+      Heritage site.
+
+
+      Formal conservation followed decades later. In 2011 the territory earned the federal label of a Regional
+      Nature Park of National Importance, renewed every ten years under a binding charter; the current charter
+      spans 2021-30. Its boundaries encompass Val Nüglia, part of the Swiss National Park, operating under the
+      Romansh philosophy of Armonia jaura: harmonious balance between society, culture, nature, ecology, and
+      economy.
+    before: >-
+      You are travelling through working pastures and large-carnivore habitat, where basic rules apply. Stay
+      on marked tracks, respect wildlife resting areas, and pack out all food waste, as scraps habituate wild
+      animals. If a wolf detects your presence, it will typically retreat or flee. In bear country, remain on
+      designated trails and keep dogs on leashes.
+
+
+      The park publishes online maps detailing locations of suckler cow herds and guardian dogs: consult them
+      before departing. Plan your journey carefully, as road access is via the Ofenpass from the Engadine or
+      across the Italian border from Vinschgau.
+    around: >-
+      [Parco Nazionale dello Stelvio](/lugar/parco-nazionale-dello-stelvio/) adjoins the reserve along the
+      alpine crest, joined by the multi-day Drei Pärke Weg connecting both parks and the Swiss National Park.
+  fr:
+    intro: >-
+      Il y a des vallées que l'on traverse et des vallées que l'on descend. Le Val Müstair se descend : on
+      franchit le col de l'Ofenpass et, palier après palier, le relief s'ouvre progressivement jusqu'à
+      Müstair, le val Venosta italien s'ouvrant juste au-delà de la ligne frontière. Ce sont près de 25 km de
+      sillon alpin et 199 km² de parc naturel régional qui épousent fidèlement les limites de la commune, à
+      l'extrémité orientale de la Suisse, couronnée par le Piz Chavalatsch. Conjointement avec le Parc
+      national suisse, il forme la première réserve de biosphère de haute montagne du pays.
+    landscape: >-
+      La vallée s'étage en trois terrasses distinctes. En haut se situent Tschierv et Fuldera ; au niveau
+      médian, Valchava et Santa Maria ; en bas, Müstair. Entre le col et le village frontalier, l'altitude
+      décroît régulièrement, s'échelonnant de 1225 à 3180 mètres à travers le territoire communal.
+
+
+      La géologie éclaire la configuration du fond de vallée. La majeure partie des roches est constituée de
+      schistes friables facilement affouillés par l'érosion ; les torrents latéraux charrient des volumes
+      considérables de débris qu'ils accumulent en vastes cônes de déjection. Ces dépôts alluviaux tapissent
+      presque tout le talweg, offrant des assises fertiles à l'agriculture montagnarde. Plus haut, à 2400 m,
+      le lac de cirque Lai da Rims déploie un ensemble glaciaire complet : roches moutonnées et verrous polis
+      par les anciens glaciers.
+
+
+      Le climat accentue cette singularité. Situé dans l'abri orographique des Alpes centrales avec de
+      discrètes influences méridionales, le val reçoit moins de précipitations que la quasi-totalité des
+      massifs alpins : seuls le val Venosta voisin, le Valais central et le val d'Aoste s'avèrent plus secs.
+      Cette aridité façonne des paysages contrastés. Au printemps, de superbes prairies fleuries s'étendent en
+      lisière de forêts anciennes de mélèzes et d'aroles.
+
+
+      Une ligne de partage des eaux scinde le territoire en deux bassins : le Rom draine les eaux de la vallée
+      vers l'Adige et la mer Adriatique, tandis que l'Aua da Val Mora, dans le Val Mora inhabité, s'écoule
+      vers l'Inn et le Danube à destination de la mer Noire.
+    wildlife: >-
+      Pour observer la faune, tournez le regard vers les corniches rocheuses. Des sorties accompagnées à la
+      longue-vue permettent d'observer le [bouquetin des Alpes](/especie/capra_ibex/) et le
+      [chamois](/especie/rupicapra_rupicapra/) en détaillant leur écologie. Plus bas, les pelouses sèches de
+      Müstair et de Santa Maria constituent des réservoirs de biodiversité pour deux papillons d'intérêt
+      national : l'hermite (*Chazara briseis*) et la thécla de l'amarel (*Satyrium acaciae*).
+
+
+      Les grands carnivores ont réinvesti les lieux. Selon le gestionnaire, le val héberge désormais l'[ours
+      brun](/especie/ursus_arctos/) et le [loup](/especie/canis_lupus/), tandis que le parc suit également le
+      [lynx boréal](/especie/lynx_lynx/). Le souvenir de l'ours est récent : au cours de l'été 2005, un ours
+      brun gagna le val depuis le Tyrol du Sud et se laissa apercevoir par les promeneurs, baptisé Lumpaz.
+      Cette même année, dans le val d'Uina en Basse-Engadine, réapparaissait le premier ours en Suisse depuis
+      près d'un siècle.
+
+
+      L'été ajoute la vie des alpages : vaches allaitantes et chiens de protection veillent sur les troupeaux
+      de brebis. Le printemps célèbre la flore et l'été la vie pastorale et sauvage.
+    visit: >-
+      La vallée se découvre admirablement à pied, rythmée par un maillage d'itinéraires thématiques bien
+      balisés.
+
+
+      La traversée la plus spectaculaire est la Senda Val Müstair : une randonnée d'altitude partant de
+      l'Ofenpass, passant par l'Alp Champatsch pour gagner Lü, magnifique village belvédère, avant de
+      descendre vers Müstair. Deux sentiers des contrebandiers explorent l'histoire frontière : l'un grimpe au
+      Piz Chavalatsch le long d'anciens postes de douane ; l'autre relie le col de l'Umbrail à la
+      Dreisprachenspitze par des sentiers muletiers de la Première Guerre mondiale.
+
+
+      Pour suivre le fil de l'eau, le sentier A la riva dal Rom parcourt quatorze kilomètres depuis les
+      sources du Rombach à Süsom-Tschierv jusqu'à Müstair. Il requiert environ trois heures et demie, comptant
+      110 mètres de montée et 620 mètres de descente, côtoyant tourbières, cascades et ripisylves d'aulnes. Un
+      livret didactique décrit faune aquatique, géologie et légendes locales.
+
+
+      En famille, la Senda da l'uors propose une promenade paisible en fond de vallée où quatre sculptures
+      d'ours content l'épopée du plantigrade. Les passionnés de toponymie apprécieront la Senda da las
+      linguas, boucle sonore d'environ 8 km autour de Valchava dotée de onze bornes d'écoute consacrées aux
+      toponymes romanches.
+
+
+      Pour les longues itinérances, le Drei Pärke Weg parcourt en quatre étapes la réserve de biosphère du Val
+      Müstair, le Parc national suisse et le parc national du Stelvio. Des sorties guidées avec les gardes
+      mènent aux alpages pour évoquer la coexistence avec les prédateurs, complétées par des randonnées à
+      Buffalora.
+    history: >-
+      Ce val fut un secteur frontière bien avant de devenir parc régional. Le 22 mai 1499 s'y déroula la
+      bataille de Calven, où les ligues grisonnes stoppèrent l'expansion habsbourgeoise. De nos jours la
+      frontière italo-suisse coïncide toujours avec la frontière linguistique entre le romanche et l'allemand
+      : c'est l'unique vallée méridionale des Grisons où s'exprime le romanche, sous son idiome local le
+      jauer. À Müstair s'élève le couvent bénédictin Saint-Jean, classé au patrimoine mondial de l'UNESCO.
+
+
+      La protection formelle s'est structurée ultérieurement. En 2011, le territoire a obtenu le label de Parc
+      naturel régional d'importance nationale, renouvelé tous les dix ans au vu d'une charte d'objectifs ; la
+      charte en cours couvre 2021-30. Le périmètre englobe le Val Nüglia, réserve intégrale du Parc national
+      suisse, sous la devise Armonia jaura : unir harmonieusement société, culture, nature, écologie et
+      économie.
+    before: >-
+      Vous évoluez au sein d'alpages d'élevage et de territoires fréquentés par les grands prédateurs. Restez
+      sur les chemins tracés, respectez la quiétude des animaux et ne laissez aucun déchet alimentaire. Si un
+      loup croise votre regard, il s'éloignera généralement. En zone d'ours, gardez vos distances et tenez les
+      chiens en laisse.
+
+
+      Le parc diffuse la cartographie actualisée des troupeaux avec chiens de protection : consultez-la avant
+      votre départ. Assurez-vous des accès routiers, la vallée étant accessible par l'Ofenpass depuis
+      l'Engadine ou depuis le val Venosta.
+    around: >-
+      Le [Parco Nazionale dello Stelvio](/lugar/parco-nazionale-dello-stelvio/) jouxte directement la réserve
+      sur les crêtes : l'itinéraire Drei Pärke Weg unit les deux parcs et le Parc national suisse en quatre
+      étapes alpines.
+  de:
+    intro: >-
+      Es gibt Täler, die man quert, und Täler, die man hinabsteigt. Das Val Müstair steigt man hinab: Du
+      startest auf der Passhöhe des Ofenpasses und Talstufe um Talstufe öffnet sich das Panorama bis Müstair,
+      während jenseits der Grenze das italienische Vinschgau anschließt. Auf rund 25 km Tallänge erstreckt
+      sich der 199 km² große Naturpark über das gesamte Gemeindegebiet am östlichsten Zipfel der Schweiz,
+      überragt vom Piz Chavalatsch, dem östlichsten Geländepunkt des Landes. Zusammen mit dem Schweizerischen
+      Nationalpark bildet das Tal das erste hochalpine UNESCO-Biosphärenreservat der Eidgenossenschaft.
+    landscape: >-
+      Das Tal gliedert sich in drei morphologische Talstufen: Oben liegen Tschierv und Fuldera, in der
+      mittleren Stufe Valchava und Santa Maria, zuunterst Müstair. Vom Pass bis zum Talort fällt das Gelände
+      stetig ab, wobei das Gemeindegebiet Höhenlagen von 1225 bis 3180 Metern umfasst.
+
+
+      Die Geologie prägt den Talboden. Weite Teile des Untergrunds bestehen aus leicht verwitternden
+      Bündnerschiefern; die Seitenbäche schwemmten enorme Schuttmassen talwärts und lagerten sie in mächtigen
+      Schwemmkegeln ab. Diese Schuttfächer überziehen fast den gesamten Talboden und bieten der
+      Berglandwirtschaft fruchtbare Böden. Weiter oben auf 2400 m Höhe bewahrt der Karkarbsee Lai da Rims ein
+      vollständiges Glazialrelief mit Rundhöckern und gletscherschliffenen Schwellen.
+
+
+      Das Lokalklima vervollständigt den Naturraum. Im Regenschatten der Zentralalpen gelegen und von
+      mediterraner Milde berührt, fällt hier weniger Niederschlag als fast überall sonst im Alpenraum: Nur das
+      Vinschgau, das Mittelwallis und das Aostatal sind noch trockener. Diese Trockenheit schafft markante
+      Gegensätze: Im Frühjahr erblühen prachtvolle Bergwiesen neben uralten Arven- und Lärchenwäldern.
+
+
+      Eine kontinentale Wasserscheide teilt das Gebiet: Der Rom entwässert das Haupttal über die Etsch in die
+      Adria, während die Aua da Val Mora im unbesiedelten Val Mora ihr Wasser über Inn und Donau dem Schwarzen
+      Meer zuführt.
+    wildlife: >-
+      Wer Wildtiere beobachten möchte, blickt am besten in die Felsflanken. Geführte Exkursionen mit Fernglas
+      und Spektiv suchen nach [Alpensteinbock](/especie/capra_ibex/) und
+      [Gämse](/especie/rupicapra_rupicapra/) und vermitteln Einblicke in alpine Lebensweisen. Talabwärts
+      bilden die Trockenwiesen von Müstair und Santa Maria Refugien für zwei Schmetterlingsarten von
+      nationaler Bedeutung: den Berghexfalter (*Chazara briseis*) und den Pflaumenzipfelfalter (*Satyrium
+      acaciae*).
+
+
+      Die großen Beutegreifer sind heimgekehrt. Nach Angaben der Parkverwaltung streifen
+      [Braunbär](/especie/ursus_arctos/) und [Wolf](/especie/canis_lupus/) regelmäßig durchs Tal, flankiert
+      von Untersuchungen zum [Eurasischen Luchs](/especie/lynx_lynx/). Die Bärenerinnerung ist lebendig: Im
+      Sommer 2005 wanderte ein Braunbär aus Südtirol ein und zeigte sich Wanderern; er erhielt den Kosenamen
+      Lumpaz. Im selben Jahr wurde im nahen Val d'Uina im Unterengadin der erste Bär der Schweiz nach fast
+      hundert Jahren nachgewiesen.
+
+
+      Der Sommer belebt die Almwirtschaft: Mutterkühe mit ihren Kälbern weiden auf den Hochalpen, während
+      Herdenschutzhunde Schafherden bewachen. Der Frühling gehört den Bergblumen, der Sommer den Almen und
+      ihrer Tierwelt.
+    visit: >-
+      Das Tal erschließt sich ideal zu Fuß entlang eines Netzes markierter Themenwege.
+
+
+      Die klassische Panoramawanderung ist die Senda Val Müstair: Sie führt von der Ofenpasshöhe über die Alp
+      Champatsch nach Lü, einem sonnigen Hochdorf, ehe sie nach Müstair abfällt. Für Grenzhistorie stehen zwei
+      Schmugglerpfade bereit: Einer steigt zum Piz Chavalatsch empor, vorbei an verfallenen Zollhütten; der
+      andere verbindet das Umbrail-Joch über Saumpfade des Ersten Weltkriegs mit der Dreisprachenspitze.
+
+
+      Dem Wasserlauf folgt der Weg A la riva dal Rom über vierzehn Kilometer von der Quelle des Rombachs in
+      Süsom-Tschierv bis Müstair. Für die Strecke benötigt man etwa dreieinhalb Stunden bei 110 Metern
+      Aufstieg und 620 Metern Abstieg; sie passiert Hochmoore, Stufenkaskaden und Auwälder. Ein Naturführer
+      erläutert Gewässerbiotope und Sagen.
+
+
+      Für Familien bietet die Senda da l'uors einen leichten Spaziergang im Talboden, auf dem vier geschnitzte
+      Bärenfiguren vom Leben der Braunbären erzählen. Sprachinteressierte wählen die Senda da las linguas: ein
+      rund 8 km langer Hörweg um Valchava mit elf Audiostationen zur rätoromanischen Namenskunde.
+
+
+      Als Mehrtagestour verbindet der viertägige Drei Pärke Weg die Biosfera Val Müstair, den Schweizerischen
+      Nationalpark und den Nationalpark Stilfserjoch. Parkranger bieten zudem Exkursionen zu Almen an, um über
+      das Zusammenleben mit Wolf, Bär und Luchs zu informieren, sowie Tageswanderungen nach Buffalora.
+    history: >-
+      Das Tal war Grenzland, lange bevor es Schutzgebiet wurde. Am 22. Mai 1499 fand hier die Schlacht an der
+      Calven statt, bei der die Bündner Truppen die habsburgische Expansion stoppten. Bis heute deckt sich die
+      schweizerisch-italienische Staatsgrenze mit der Sprachgrenze zwischen Rätoromanisch und Deutsch: Es ist
+      das einzige Südtal Graubündens, in dem Rätoromanisch im Idiom Jauer gesprochen wird. In Müstair steht
+      das karolingische Benediktinerinnenkloster St. Johann, UNESCO-Weltkulturerbe.
+
+
+      Der Schutzstatus folgte später: 2011 erhielt das Tal das Bundeslabel als Regionaler Naturpark von
+      nationaler Bedeutung, das alle zehn Jahre per Parkcharta erneuert wird; die aktuelle gilt für 2021-30.
+      Das Gebiet schließt das Val Nüglia des Schweizerischen Nationalparks ein und folgt dem Leitbild Armonia
+      jaura: Kultur, Natur, Wirtschaft und Gesellschaft im Einklang.
+    before: >-
+      Du bewegst dich in beweidetem Almgelände und im Lebensraum großer Raubtiere. Bleibe auf den markierten
+      Wegen, halte Abstand zu Weidetieren und nimm Abfälle wieder mit. Wenn ein Wolf Menschen bemerkt, weicht
+      er in der Regel aus. Führe Hunde im Bärengebiet stets an der Leine.
+
+
+      Der Park veröffentlicht aktuelle Karten mit Standorten von Mutterkuhherden und Herdenschutzhunden: Vor
+      der Wanderung prüfen. Die Anreise erfolgt über den Ofenpass aus dem Engadin oder aus dem Vinschgau.
+    around: >-
+      Der [Parco Nazionale dello Stelvio](/lugar/parco-nazionale-dello-stelvio/) grenzt unmittelbar an den
+      Parkkamm an und verbindet beide Gebiete über den Drei Pärke Weg mit dem Schweizerischen Nationalpark.
+  it:
+    intro: >-
+      Ci sono valli che si attraversano e valli che si scendono. La Val Müstair si scende: si valica il Passo
+      del Forno (Ofenpass) e, gradone dopo gradone, i versanti si allargano fino a Müstair, con la Val Venosta
+      italiana che attende subito oltre la linea di confine. Sono circa 25 km di solco vallivo e 199 km² di
+      parco naturale regionale che abbracciano l'intero territorio comunale, all'estremità orientale della
+      Svizzera dominata dal Piz Chavalatsch. Insieme al contiguo Parco Nazionale Svizzero costituisce la prima
+      riserva della biosfera d'alta quota del paese.
+    landscape: >-
+      La valle è scandita da tre gradoni morfologici: in alto sorgono Tschierv e Fuldera; al piano intermedio
+      Valchava e Santa Maria; in basso Müstair. Dal valico al fondovalle terminale la quota cala dolcemente,
+      spaziando dai 1225 ai 3180 metri compresi entro i confini comunali.
+
+
+      La geologia chiarisce l'aspetto del fondovalle. Buona parte del substrato è formata da scisti teneri
+      facilmente erodibili; i torrenti tributari trasportano imponenti volumi detritici riversandoli in ampi
+      conoidi alluvionali. Questi depositi fasciano quasi tutto il fondo vallivo, offrendo suoli fertili alle
+      coltivazioni alpine. Più in alto, a 2400 m, il lago glaciale Lai da Rims mostra un modellamento
+      completo: dossi montonati e soglie levigate dall'azione delle antiche calotte glaciali.
+
+
+      Il microclima completa l'ambiente. Protetta dall'ombra pluviometrica delle Alpi e lambita da influssi
+      meridionali, la valle riceve scarse precipitazioni rispetto al resto dell'arco alpino: soltanto la Val
+      Venosta, il Vallese centrale e la Valle d'Aosta risultano più asciutti. Quest'aridità genera suggestivi
+      contrasti: a primavera praterie ricche di fioriture costeggiano boschi secolari di larice e pino cembro.
+
+
+      Lo spartiacque segna la geografia a colpo d'occhio: il torrente Rom convoglia le acque vallive verso
+      l'Adige e l'Adriatico, mentre l'Aua da Val Mora, nell'inabitata Val Mora, defluisce nell'Inn e nel
+      Danubio verso il Mar Nero.
+    wildlife: >-
+      Per avvistare la fauna alpina, scruta le balze rocciose. Escursioni guidate con cannocchiali consentono
+      di osservare lo [stambecco alpino](/especie/capra_ibex/) e il [camoscio
+      alpino](/especie/rupicapra_rupicapra/), approfondendone l'adattamento. A quote inferiori, i prati magri
+      di Müstair e Santa Maria accolgono due farfalle di rilevanza nazionale: l'eremita (*Chazara briseis*) e
+      la tecla del prugnolo (*Satyrium acaciae*).
+
+
+      I grandi predatori sono rientrati. Stando ai dati dell'ente parco, la valle ospita regolarmente l'[orso
+      bruno](/especie/ursus_arctos/) e il [lupo grigio](/especie/canis_lupus/), mentre si monitora anche la
+      [lince eurasiatica](/especie/lynx_lynx/). Il ricordo dell'orso è recente: nell'estate del 2005 un orso
+      bruno salì dall'Alto Adige e si fece scorgere dai turisti; fu ribattezzato Lumpaz. Nello stesso anno,
+      nella vicina Val d'Uina in Bassa Engadina, ricomparve il primo orso in territorio elvetico dopo quasi un
+      secolo.
+
+
+      L'estate schiude il pascolo alpino: vacche nutrici con vitelli e cani da guardiania sorvegliano le
+      greggi ovine. La primavera appartiene ai fiori, l'estate agli alpeggi e alla fauna selvatica.
+    visit: >-
+      La valle si presta a splendidi itinerari pedonali, incardinati su una fitta trama di percorsi tematici.
+
+
+      La traversata panoramica per eccellenza è la Senda Val Müstair: escursione d'alta quota che muove
+      dall'Ofenpass, attraversa l'Alp Champatsch e approda a Lü, caratteristico borgo montano, prima di
+      scendere a Müstair. Per la memoria storica, due sentieri dei contrabbandieri salgono tra antichi
+      valichi: uno raggiunge il Piz Chavalatsch tra i ruderi dei posti di guardia; l'altro collega il Passo
+      dell'Umbrail alla Dreisprachenspitze lungo mulattiere della prima guerra mondiale.
+
+
+      Lungo il corso d'acqua, l'itinerario A la riva dal Rom si allunga per quattordici chilometri dalle
+      sorgenti del torrente a Süsom-Tschierv fino a Müstair. Richiede circa tre ore e mezza, con 110 metri di
+      salita e 620 di discesa, lambendo torbiere, salti di roccia e boschi di ontano. Una guida illustrata ne
+      svela la natura fluviale e le tradizioni popolari.
+
+
+      Per i più piccoli, la Senda da l'uors propone una rilassante passeggiata sul fondovalle dove quattro
+      sagome d'orso scolpite nel legno raccontano la vita del plantigrado. Per i cultori della toponomastica,
+      la Senda da las linguas forma un anello di circa 8 km attorno a Valchava con undici postazioni audio
+      dedicate ai nomi di luogo in lingua romancia.
+
+
+      Per escursioni a tappe, il trekking di quattro giorni Drei Pärke Weg unisce la riserva di biosfera Val
+      Müstair, il Parco Nazionale Svizzero e il Parco Nazionale dello Stelvio. Le guide del parco conducono
+      uscite sugli alpeggi dedicate alla coesistenza con i grandi carnivori ed escursioni giornaliere a
+      Buffalora.
+    history: >-
+      Questo territorio fu aspro confine molto prima di trasformarsi in parco. Il 22 maggio 1499 fu teatro
+      della battaglia della Calven, in cui i Grigionesi respinsero le mire asburgiche. Ancora oggi il confine
+      di Stato svizzero-italiano ricalca la linea linguistica tra romancio e tedesco: è l'unica valle
+      meridionale dei Grigioni in cui si parla la lingua romancia, nel dialetto locale jauer. A Müstair sorge
+      inoltre il monastero benedettino di San Giovanni, Patrimonio Mondiale dell'UNESCO.
+
+
+      La tutela paesaggistica è giunta in seguito. Nel 2011 il parco ha ottenuto il riconoscimento federale di
+      Parco naturale regionale d'importanza nazionale, confermato ogni dieci anni tramite apposita
+      convenzione; quella in vigore copre il periodo 2021-30. Il comprensorio include la Val Nüglia,
+      appartenente al Parco Nazionale Svizzero, guidato dal principio Armonia jaura: concordia tra società,
+      tradizioni, natura ed economia rurale.
+    before: >-
+      Ti trovi in alpeggi attivi e nel territorio dei grandi carnivori. Cammina lungo i sentieri marcati,
+      rispetta il riposo della fauna e non lasciare residui di cibo per evitare l'abituazione degli animali.
+      Se un lupo si accorge della tua presenza, in genere si ritira spontaneamente. In zona d'orso tieni i
+      cani sempre al guinzaglio.
+
+
+      L'ente parco diffonde mappe aggiornate con la dislocazione delle mandrie e dei cani da guardiania:
+      consultale prima dell'uscita. Verifica le condizioni della viabilità, con accessi dall'Ofenpass
+      attraverso l'Engadina o dalla Val Venosta.
+    around: >-
+      Il [Parco Nazionale dello Stelvio](/lugar/parco-nazionale-dello-stelvio/) lambisce la dorsale del parco
+      unendosi a questo comprensorio: il Drei Pärke Weg li attraversa entrambi assieme al Parco Nazionale
+      Svizzero in quattro frazioni montane.
+  pt:
+    intro: >-
+      Há vales que se cruzam e vales que se descem. O Val Müstair desce-se: inicia-se a rota no colo do Fuorn
+      (Ofenpass) e, degrau a degrau, o relevo desdobra-se até Müstair, com o Vinschgau italiano a estender-se
+      logo após a linha de fronteira. São perto de 25 km de vale e 199 km² de parque natural que coincidem
+      exatamente com o termo municipal no extremo oriental da Suíça, dominado pelo Piz Chavalatsch. Articulado
+      com o Parque Nacional Suíço contíguo, constitui a primeira reserva da biosfera de alta montanha da
+      federação.
+    landscape: >-
+      O vale desce em três patamares morfológicos: no patamar cimeiro localizam-se Tschierv e Fuldera; no
+      escalão intermédio Valchava e Santa Maria; no fundo do vale Müstair. Do colo à povoação fronteiriça a
+      perda de altitude é gradual, oscilando o município entre 1225 e 3180 metros.
+
+
+      A geologia elucida a configuração do vale. Grande parte do substrato rochoso é composto por xistos
+      tenros facilmente desagregáveis; os torrentes afluentes desprendem abundante material detrítico que
+      depositam na veiga principal sob a forma de extensos cones de dejeção. Esses leques aluviais alcatifam
+      quase todo o fundo do vale, facultando solos férteis para a agricultura alpina. Mais acima, a 2400 m de
+      altitude, a lagoa de circo Lai da Rims exibe um modelado glaciar exemplar: rochas aborregadas e soleiras
+      rochosas polidas pelo gelo quaternário.
+
+
+      O clima remata o quadro ecológico. Enquadrado na sombra orográfica interior dos Alpes com ténues
+      influências mediterrânicas, regista precipitações escassas para o padrão alpino: unicamente o vizinho
+      Vinschgau, o Valais central e o vale de Aosta são mais secos. Tal aridez origina paisagens de vivo
+      contraste: na primavera florescem prados viçosos ladeando matas seculares de lariço e pinheiro-suíço.
+
+
+      A linha divisória de águas reparte a hidrografia de relance: o Rom drena as águas do vale rumo ao Ádige
+      e ao Adriático, enquanto o Aua da Val Mora, no vale desabitado de Val Mora, corre em direção ao Inn e
+      Danúbio com destino ao Mar Negro.
+    wildlife: >-
+      Para avistar fauna bravia, perscruta as escarpas rochosas. Sessões de observação com telescópio permitem
+      rastrear o [íbex](/especie/capra_ibex/) e a [camurça](/especie/rupicapra_rupicapra/), descodificando os
+      seus hábitos. Em cotas baixas, os prados secos de Müstair e Santa Maria formam núcleos de biodiversidade
+      para duas borboletas de interesse nacional: o eremita (*Chazara briseis*) e a tecla-da-amieira
+      (*Satyrium acaciae*).
+
+
+      Os grandes predadores reconquistaram o território. Conforme a gestão do parque, vagueiam hoje pelo vale
+      o [urso-pardo](/especie/ursus_arctos/) e o [lobo-cinzento](/especie/canis_lupus/), desenvolvendo o
+      parque iniciativas de acompanhamento do [lince-euroasiático](/especie/lynx_lynx/). A memória do urso é
+      viva: no verão de 2005 um urso-pardo jovem entrou a partir do Tirol do Sul e deixou-se avistar pelos
+      caminhantes, sendo apelidado de Lumpaz. Nesse mesmo ano, no vale vizinho de Uina no Engadin, reapareceu
+      o primeiro urso na Suíça em quase um século.
+
+
+      O verão traz a pecuária extensiva: vacas aleitantes pastam com vitelos e cães de proteção guardam os
+      rebanhos de ovelhas. A primavera coroa as flores silvestres, enquanto o verão pertence às pastagens de
+      montanha e à sua vida selvagem.
+    visit: >-
+      O vale desfruta-se idealmente a pé, estruturado em redor de uma ampla rede de percursos pedestres.
+
+
+      A travessia de altitude mais emblemática é a Senda Val Müstair: parte do Ofenpass, atravessa a Alp
+      Champatsch e atinge Lü, uma aldeia de montanha panorâmica, antes de descer para Müstair. Para reviver a
+      história fronteiriça existem duas rotas de contrabandistas: uma trepa ao Piz Chavalatsch, onde restam
+      ruínas de postos alfandegários; a outra liga o colo de Umbrail ao pico Dreisprachenspitze por veredas
+      militares da Primeira Guerra Mundial.
+
+
+      Para seguir as águas, o trilho A la riva dal Rom percorre catorze quilómetros desde a nascente do
+      Rombach em Süsom-Tschierv até Müstair. Demora cerca de três horas e meia, vencendo 110 metros de subida
+      e 620 de descida, marginando turfeiras, cascatas e amiais ripícolas. Um guia ilustrado explica os
+      habitats e tradições ribeirinhas.
+
+
+      Com crianças, a Senda da l'uors oferece um passeio acessível no fundo do vale onde quatro esculturas de
+      urso em madeira talhada relatam a vida do mamífero. Os apreciadores de toponímia podem seguir a Senda da
+      las linguas: um percurso sonoro de 8 km ao redor de Valchava com onze estações áudio sobre nomes locais
+      em língua romanche.
+
+
+      Para caminhadas de vários dias, o circuito Drei Pärke Weg cumpre-se em quatro etapas unindo a Reserva da
+      Biosfera Val Müstair, o Parque Nacional Suíço e o Parque Nacional do Stelvio. São ainda promovidas
+      saídas acompanhadas pelos guardas aos pastos alpinos para debater a convivência com grandes carnívoros,
+      e incursões a Buffalora.
+    history: >-
+      Este vale foi terra de fronteira séculos antes de se consagrar parque. A 22 de maio de 1499 acolheu a
+      batalha de Calven, onde as hostes dos Grisões travaram o expansionismo dos Habsburgos. Até aos dias de
+      hoje a fronteira helvético-italiana sobrepõe-se à fronteira linguística entre o romanche e o alemão: é o
+      único vale meridional dos Grisões onde se conserva o romanche, na variante local jauer. Em Müstair
+      destaca-se o Mosteiro Beneditino de São João, Património Mundial da UNESCO.
+
+
+      A tutela consolidou-se mais tarde. Em 2011 o território obteve o selo federal de Parque Natural Regional
+      de Importância Nacional, renovável decenalmente através de carta de objetivos; a atual vigora para
+      2021-30. Abrange o Val Nüglia, integrado no Parque Nacional Suíço, sob o lema Armonia jaura: equilíbrio
+      concertado entre sociedade, património, natureza e economia.
+    before: >-
+      Caminhas em pastagens ativas e em território de grandes predadores. Permanece nos trilhos balizados,
+      respeita a fauna e não abandones sobras de comida que habituem os animais ao contacto humano. Se um lobo
+      detetar a tua presença, afastar-se-á habitualmente. Em zona de urso mantém os cães sempre com trela.
+
+
+      O parque disponibiliza cartografia atualizada com a localização de manadas e cães de proteção:
+      consulta-a antes da partida. O acesso rodoviário faz-se pelo Ofenpass a partir do Engadin ou pelo
+      Vinschgau italiano.
+    around: >-
+      O [Parco Nazionale dello Stelvio](/lugar/parco-nazionale-dello-stelvio/) confina com as cristas do
+      parque e une-se neste itinerário: o Drei Pärke Weg cruza ambos os parques e o Parque Nacional Suíço em
+      quatro etapas de montanha.
+fuentes:
+  - url: https://www.val-muestair.ch/sites/valmuestair/files/2021-01/charta_2021-30_0.pdf
+    titulo: Charta 2021–2030, Teil C Managementplan - Biosfera Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/sites/valmuestair/files/2023-11/Broschuere_VM_2023_Web.pdf
+    titulo: Biosfera Val Müstair - Natur und Landschaft
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/de/winterwanderungen/a-la-riva-dal-rom
+    titulo: A la riva dal Rom - Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/de/erleben/wandern/themenwege
+    titulo: Themenwege - Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/de/spezialexkursion-grosse-beutegreifer
+    titulo: Spezialexkursion Grosse Beutegreifer - Biosfera Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/sites/valmuestair/files/2025-04/2025_Erlebnisse%20f%C3%BCr%20Schulklassen.pdf
+    titulo: Erlebnisse für Schulklassen 2025 - Biosfera Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/M%C3%BCnstertal_(Alpental)
+    titulo: Münstertal (Alpental) – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/Biosfera_Val_M%C3%BCstair
+    titulo: Biosfera Val Müstair – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/de/naturpark/portrait/biosfera-val-muestair
+    titulo: Der Naturpark stellt sich vor – Val Müstair
+    fecha_consulta: '2026-10-29'
+  - url: https://www.val-muestair.ch/de/aktuelles-service/service/nutz-wildtiere-val-muestair
+    titulo: Nutz- und Wildtiere in Val Müstair
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lai_da_Rims_mit_Alpenastern_und_Hauswurz_im_Vordergrund.jpg
+    autor: Ariocarpusandroides
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

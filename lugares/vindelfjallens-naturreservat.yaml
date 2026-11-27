@@ -1,0 +1,796 @@
+id: vindelfjallens-naturreservat
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de Vindelfjällen
+  en: Vindelfjällen Nature Reserve
+  fr: Réserve naturelle de Vindelfjällen
+  de: Naturreservat Vindelfjällen
+  it: Riserva Naturale di Vindelfjällen
+  pt: Reserva Natural de Vindelfjällen
+nombre_original: Vindelfjällens naturreservat
+alias:
+  - Vindelfjällens naturreservat
+paises:
+  - SE
+region:
+  es: Västerbotten (Ammarnäs / Tärnaby)
+  en: Västerbotten (Ammarnäs / Tärnaby)
+  fr: Västerbotten (Ammarnäs / Tärnaby)
+  de: Västerbotten (Ammarnäs / Tärnaby)
+  it: Västerbotten (Ammarnäs / Tärnaby)
+  pt: Västerbotten (Ammarnäs / Tärnaby)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 65.92
+  lon: 15.856
+  radio_km: 42
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555732682
+  nombre_en_la_fuente: Vindelfjällen
+  capa: capas/cdda/vindelfjallens-naturreservat.geojson
+habitats:
+  - high_mountain
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - gulo_gulo
+  - rangifer_tarandus
+  - aquila_chrysaetos
+  - lagopus_muta
+  - vulpes_lagopus
+  - pluvialis_apricaria
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 3
+  - 4
+temporada_nota:
+  es: esquí de travesía en marzo-abril
+  en: ski touring in march-april
+  fr: ski de randonnée en mars-avril
+  de: skitouren im märz-april
+  it: sci escursionistico a marzo-aprile
+  pt: esqui de travessia em março-abril
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 3
+  max: 7
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor y normas — Reserva de Vindelfjällen
+    url: https://www.lansstyrelsen.se/vasterbotten/besoksmal/naturreservat/vindelfjallen.html
+  - titulo: Rutas y refugios — Vindelfjällen
+    url: https://www.vindelfjallen.se/vandra/hitta-leder-stugor/
+  - titulo: Centro de visitantes — Naturum Vindelfjällen Ammarnäs
+    url: https://www.vindelfjallen.se/besok-naturum-vindelfjallen/naturum-vindelfjallen-ammarnas/
+  - titulo: Avisos — Estado de refugios, senderos y puentes
+    url: https://www.vindelfjallen.se/naturreservatet/aktuellt-om-stugor-leder-och-broar/
+  - titulo: Centro de visitantes — Naturum Vindelfjällen Hemavan
+    url: https://www.vindelfjallen.se/besok-naturum-vindelfjallen/naturum-vindelfjallen-hemavan/
+enlaces_referencia:
+  - titulo: Wikipedia — Reserva de Vindelfjällen
+    url: https://en.wikipedia.org/wiki/Vindelfj%C3%A4llen_Nature_Reserve
+resumen:
+  es: >-
+    Una de las mayores reservas naturales de Europa: montañas, valles de abedul y el río Vindel, que baja
+    libre hasta el Báltico.
+  en: >-
+    One of the largest nature reserves in Europe: high-alpine massifs, birch valleys, and the free-flowing
+    Vindel River running wild to the Baltic.
+  fr: >-
+    L'une des plus grandes réserves naturelles d'Europe : massifs alpins, vallées de bouleaux et la rivière
+    Vindel coulant libre jusqu'à la Baltique.
+  de: >-
+    Eines der größten Naturreservate Europas: alpine Gebirgsmassive, Birkenurwälder und der unregulierte
+    Vindelälven, der frei zur Ostsee strömt.
+  it: >-
+    Una delle riserve naturali più vaste d'Europa: montagne alpine, vallate di betulle e il fiume Vindel, che
+    scorre intatto fino al Baltico.
+  pt: >-
+    Uma das maiores reservas naturais da Europa: montanhas alpinas, vales de bétulas e o rio Vindel, que corre
+    desimpedido até ao Báltico.
+unico:
+  es: >-
+    Es una cordillera entera que sigue funcionando como siempre: del glaciar a la taiga, con un río sin presas
+    y el zorro ártico como emblema.
+  en: >-
+    An entire Scandinavian mountain chain operating as it always has: from glaciers to taiga, with an undammed
+    wild river and the arctic fox as its emblem.
+  fr: >-
+    Une chaîne de montagnes entière qui fonctionne comme à l'origine : du glacier à la taïga, avec une rivière
+    sans barrages et le renard polaire pour emblème.
+  de: >-
+    Ein gesamter skandinavischer Gebirgszug, der ungestört funktioniert: vom Gletscher bis zur Taiga, mit
+    einem unverbauten Fluss und dem Polarfuchs als Wappentier.
+  it: >-
+    Un'intera catena montuosa scandinava che vive come alle origini: dai ghiacciai alla taiga, con un fiume
+    senza dighe e la volpe artica per simbolo.
+  pt: >-
+    Uma cordilheira inteira que funciona como nas origens: do glaciar à taiga, com um rio sem barragens e a
+    raposa-do-ártico por emblema.
+observaciones:
+  es: >-
+    De mediados de abril a finales de junio las renas paren en Artfjället, y el gestor pide visitar otros
+    lugares durante ese tiempo. El valle de Marsivagge, zona de protección de aves, está prohibido del 15 de
+    mayo al 1 de agosto. Está prohibido molestar a la fauna y a la cría de renos y circular con vehículos a
+    motor fuera de vías y zonas señaladas, salvo para el pastoreo de renos. En las zonas de bosque primario
+    protegidas después no se puede estar a menos de 100 metros de un nido de rapaz, una madriguera o una
+    guarida. Comprueba el estado de los senderos, los puentes y las cabañas antes de salir.
+texto:
+  es:
+    intro: >-
+      En Vindelfjällen cabe un país entero. Es la mayor reserva natural de Suecia y uno de los mayores
+      espacios protegidos de Europa, y dentro caben cumbres alpinas con glaciares, abedulares que se extienden
+      hasta donde alcanza la vista, turberas inmensas y bosques de taiga que nunca se han talado. En el
+      municipio de Sorsele y en el de Storuman, en la Laponia sueca, las montañas se abren a los valles de la
+      cuenca del Ume, y entre ellos corre el río que da nombre a la reserva, el Vindel, que baja libre, sin
+      una sola presa.
+    landscape: >-
+      Las montañas son escandinavas, de origen caledonio, y nacieron de la colisión de las placas Laurentia y
+      Báltica hace entre 420 y 400 millones de años. Después el hielo las pulió. Los glaciares abrieron valles
+      en U, como el de Syterskalet, que parte en dos el Norra Storfjället, el corazón alpino de la reserva. Se
+      compara con el Lapporten por su perfil simétrico. A su alrededor se levantan Artfjället, Ammarfjället y
+      Björkfjället, y entre ellos corren los valles del Vindel y sus afluentes.
+
+
+      La reserva es grande y el clima cambia de una punta a otra. Ammarnäs queda en sombra de lluvia y recibe
+      menos de 600 mm al año, mientras que Hemavan, al oeste del Norra Storfjället, recibe unos 750 mm.
+
+
+      Los números dan idea de la variedad: unos 500 km² de bosque primario de coníferas, más de 1600 km² de
+      abedulares (el mayor bosque de abedul protegido de Suecia), casi 1600 km² de brezal alpino y casi 300
+      km² de turbera. Los abedulares empiezan donde acaban las coníferas y llegan hasta el límite del
+      arbolado, hacia los 800 m. En Tärnasjön, uno de los dos mayores lagos, el tercio sur es un mosaico de
+      agua y bosque lleno de islas pequeñas.
+
+
+      En Artfjället, rica en caliza, la flora es famosa: el nombre se traduce como «montaña de muchas
+      especies», y crecen no menos de 11 especies de orquídeas. La más rara de Vindelfjällen, *Gymnadenia
+      runei*, vive donde acaba el arbolado y la montaña queda pelada; es de un rojo purpúreo. Entre Artfjället
+      y Övre Ältsvattnet hay incluso relieve kárstico, con sumideros, arroyos subterráneos y algunas de las
+      mayores cuevas de Suecia.
+    wildlife: >-
+      El símbolo de la reserva es el [zorro ártico](/especie/vulpes_lagopus/), en peligro crítico en
+      Escandinavia. Su suerte depende de otro animal más pequeño: cría casi solo en los años en que se
+      disparan los lemmings, algo que ocurre de media cada cuatro años.
+
+
+      Los renos que pastan por aquí son domésticos: pertenecen a aldeas sámis y viven en semilibertad, y se ha
+      llegado a contar más de 20.000 en la cordillera. En los bosques de los grandes valles vive el
+      [alce](/especie/alces_alces/), el [glotón](/especie/gulo_gulo/) está bien asentado y el oso pardo, antes
+      abundante en el valle del Vindel, sigue presente pero en números muy reducidos. El río Tärnaån fue uno
+      de los primeros lugares de Suecia donde se reintrodujo el castor, en 1924, después de que la especie
+      desapareciera por completo en 1871.
+
+
+      Para las aves, mira a los humedales. El valle de Marsivagge es zona de cría de unas 120 especies. En los
+      brezales cercanos hay [chorlito dorado](/especie/pluvialis_apricaria/) y chorlito carambolo, y el
+      colimbo ártico y el [águila pescadora](/especie/pandion_haliaetus/) anidan junto a los lagos. En los
+      abedulares de Tjulträsk anidan entre 400 y 500 parejas por km², la mitad de ellas mosquiteros musicales.
+      Arriba, el [águila real](/especie/aquila_chrysaetos/), el [búho nival](/especie/bubo_scandiacus/), el
+      halcón gerifalte y el [halcón peregrino](/especie/falco_peregrinus/) cazan en las montañas.
+
+
+      Cada estación abre una reserva distinta. Entre mediados de abril y finales de junio, las renas paren en
+      Artfjället. En el Kungsleden, la nieve dura mucho y por lo general no se puede caminar hasta pasada la
+      fiesta de San Juan, como pronto.
+    visit: >-
+      La reserva es inmensa y se puede abordar desde muchos lados, pero lo más habitual es empezar en Hemavan
+      o en Ammarnäs. En los dos pueblos hay un naturum, el centro de visitantes de Vindelfjällen: explica los
+      animales y plantas, la geología y la historia cultural que dieron forma al lugar, tiene exposiciones y
+      visitas guiadas, y allí te aconsejan rutas. Abren en primavera y en verano, así que comprueba las fechas
+      antes de ir. El de Hemavan está en el inicio del Kungsleden, el Drottningleden y el Lapplandsleden, y
+      junto a él está el Jardín Botánico de Montaña, uno de los más altos de Suecia y de los más
+      septentrionales del mundo.
+
+
+      La ruta más conocida es el Kungsleden entre Ammarnäs y Hemavan: pasa por cinco cabañas de la STF, con
+      guarda, tienda de comida y, en algunas, sauna. La etapa de Viterskalsstugan a Hemavan es fácil. El
+      Drottningleden, de nueve kilómetros entre Laisaliden y Hemavan, es relativamente fácil y tiene vistas a
+      cumbres y glaciares noruegos. El Vindelvaggileden sigue el valle del Vindelälven hacia la frontera
+      noruega, en buena parte por abedular de montaña.
+
+
+      Los bosques de Matsorliden, Kirjesålandet y Giertsbäcksdalen carecen en gran medida de senderos. Ahí
+      necesitas experiencia.
+    history: >-
+      Los primeros humanos llegaron hace unos 9000 años, cuando se retiró el hielo. Dejaron fosas para cazar
+      renos en los pasos de sus migraciones. Las leyendas sámis atribuyen a un stallo, un gigante malvado,
+      ciertos cimientos anchos junto a las trampas; los estudios dicen que son el asentamiento sámi más
+      antiguo conocido. En el siglo XIX, los norgefarare iban de Ammarnäs a Noruega por el valle del Vindel
+      con cargas cercanas a 50 kg. Y la iglesia de Viktoriakyrkan, levantada en 1938 sin carretera, se hizo
+      con madera cortada en el lugar.
+
+
+      El Vindel es uno de los cuatro «ríos nacionales» de Suecia, protegidos de presas y sin regular. Las
+      protestas de mediados del siglo XX evitaron que se aprovechara para hidroelectricidad. La reserva se
+      creó en 1974 y se amplió el 25 de enero de 1988 con los bosques primarios de Kirjesålandet, Matsorliden
+      y Giertsbäcksdalen. Además de la reserva, forma parte de Natura 2000.
+    before: >-
+      De mediados de abril a finales de junio las renas paren en Artfjället, y el gestor pide visitar otros
+      lugares durante ese tiempo. El valle de Marsivagge, zona de protección de aves, está prohibido del 15 de
+      mayo al 1 de agosto. Está prohibido molestar a la fauna y a la cría de renos y circular con vehículos a
+      motor fuera de vías y zonas señaladas, salvo para el pastoreo de renos. En las zonas de bosque primario
+      protegidas después no se puede estar a menos de 100 metros de un nido de rapaz, una madriguera o una
+      guarida. Comprueba el estado de los senderos, los puentes y las cabañas antes de salir.
+    around: >-
+      Vindelfjällen no tiene vecinos cercanos en el atlas, pero comparte hábitats de alta montaña y fauna con
+      otros espacios nórdicos. Con el [Parque Nacional
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) la une el lagópodo alpino, el chorlito
+      dorado y el zorro ártico, y los humedales. Con el [Parque Nacional de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/), el lagópodo alpino, el glotón y el
+      reno, y los ríos. Con el [Parque Nacional de Reinheimen](/lugar/reinheimen-national-park/), el chorlito
+      dorado, el glotón y el reno. Y con el [Parque Nacional Urho
+      Kekkonen](/lugar/urho-kekkonen-national-park/), el glotón, el reno y el águila real, además de la alta
+      montaña y los humedales.
+  en:
+    intro: >-
+      In Vindelfjällen an entire country could find room. It is the largest nature reserve in Sweden and one
+      of the most expansive protected wildernesses in Europe, holding glacier-crowned alpine peaks, montane
+      birch woodlands that stretch to the horizon, vast peat mires, and primeval taiga forests that have never
+      known the axe. Across the municipalities of Sorsele and Storuman in Swedish Lapland, the mountains open
+      into the glacial valleys of the Ume River catchment, traversed by the undammed, free-flowing Vindel
+      River, which runs without a single hydroelectric dam to the sea.
+    landscape: >-
+      These are the Scandinavian Scandes, of Caledonian origin, formed by the continental collision of
+      Laurentia and Baltica between 420 and 400 million years ago. Glaciers later smoothed and carved the
+      topography into monumental U-shaped troughs, such as Syterskalet, which bisects Norra Storfjället—the
+      high-alpine heart of the reserve. Its symmetrical parabolic profile is often compared to Lapporten.
+      Flanking it rise Artfjället, Ammarfjället, and Björkfjället, cradling the river valleys of the Vindel
+      and its tributaries.
+
+
+      Due to its sheer scale, climate varies markedly across the reserve. Ammarnäs sits in a rain shadow,
+      receiving less than 600 mm of annual precipitation, whereas Hemavan west of Norra Storfjället records
+      roughly 750 mm.
+
+
+      The spatial metrics reflect the astounding diversity: roughly 500 km² of primeval coniferous taiga, over
+      1600 km² of subalpine birch woodland (the largest protected birch forest in Sweden), nearly 1600 km² of
+      alpine tundra heath, and nearly 300 km² of peat mire. Birch woods begin where conifers peter out,
+      ascending to the tree line around 800 m. At Lake Tärnasjön, one of the two largest waterbodies, the
+      southern third forms a labyrinthine archipelago of wooded islets and shallow channels.
+
+
+      Artfjället, rich in limestone, is celebrated for its botanical wealth: its name translates as "mountain
+      of many species", harboring no fewer than 11 species of wild orchids. The rarest plant in Vindelfjällen,
+      *Gymnadenia runei*, blooms with deep purple florets right at the tree line on barren schist slopes.
+      Between Artfjället and Övre Ältsvattnet, genuine karst topography develops, featuring sinkholes,
+      subterranean streams, and some of the largest cave passages in Sweden.
+    wildlife: >-
+      The emblematic symbol of the reserve is the [arctic fox](/especie/vulpes_lagopus/), critically
+      endangered in Scandinavia. Its breeding success is tied intimately to small rodents: it litters almost
+      exclusively during peak lemming years, which occur roughly once every four years.
+
+
+      The reindeer roaming these fells are domesticated: belonging to indigenous Sámi communities, they range
+      in semi-liberty, with tallies exceeding 20,000 animals across the mountain plateau. In the broad
+      forested valleys roams the [moose](/especie/alces_alces/), the [wolverine](/especie/gulo_gulo/)
+      maintains an established population, and brown bear, while historically abundant along the Vindel,
+      persists in reduced numbers. The Tärnaån River was among the earliest sites in Sweden where the beaver
+      was reintroduced in 1924, following its total extirpation in 1871.
+
+
+      For avifauna, wetlands offer prime habitats. The Marsivagge valley serves as a breeding ground for
+      around 120 bird species. The adjoining fell heaths support [European golden
+      plover](/especie/pluvialis_apricaria/) and Eurasian dotterel, while black-throated diver and
+      [osprey](/especie/pandion_haliaetus/) nest on pristine lakes. In the birch woods of Tjulträsk, breeding
+      density reaches between 400 and 500 pairs per km², half of them willow warblers. Higher up, [golden
+      eagle](/especie/aquila_chrysaetos/), [snowy owl](/especie/bubo_scandiacus/), gyrfalcon, and [peregrine
+      falcon](/especie/falco_peregrinus/) hunt over the windswept tundra.
+
+
+      Each season unfolds a different wilderness. Between mid-April and late June, female reindeer calve on
+      Artfjället. Along the Kungsleden trail, deep snow lingers well into summer, with foot travel rarely
+      practicable before Midsummer at the earliest.
+    visit: >-
+      Because the reserve is colossal, approaches are numerous, but the standard gateways are Hemavan and
+      Ammarnäs. Both villages feature a Naturum visitor centre: interpreting fauna, flora, geology, and
+      cultural history, offering exhibits, guided excursions, and trail counsel. They open in spring and
+      summer, so verify opening schedules beforehand. The Hemavan Naturum sits at the common trailhead of the
+      Kungsleden, Drottningleden, and Lapplandsleden, adjoining the Mountain Botanical Garden, one of the
+      highest in Sweden and among the most northerly in the world.
+
+
+      The most famous trek is the Kungsleden between Ammarnäs and Hemavan: served by five STF mountain huts
+      staffed by wardens, offering provisions and saunas. The stage from Viterskalsstugan to Hemavan is
+      straightforward. The Drottningleden spans nine kilometres between Laisaliden and Hemavan, offering
+      panoramic views of Norwegian peaks and glaciers. The Vindelvaggileden traces the upper Vindelälven
+      valley toward the Norwegian frontier, mainly through subalpine birch.
+
+
+      The remote forests of Matsorliden, Kirjesålandet, and Giertsbäcksdalen lack marked trails entirely,
+      demanding true wilderness navigation experience.
+    history: >-
+      The earliest human hunters arrived roughly 9000 years ago as the continental ice receded, leaving
+      pitfall systems along reindeer migration bottlenecks. Sámi traditions attribute stone foundations near
+      these traps to the Stallo, legendary giants; archaeological research identifies them as the earliest
+      known Sámi settlements. In the nineteenth century, seasonal traders known as norgefarare traversed the
+      Vindel valley between Ammarnäs and Norway carrying loads close to 50 kg. The remote timber church
+      Viktoriakyrkan was constructed in 1938 without road access, built entirely with local hand-hewn logs.
+
+
+      The Vindel River is one of Sweden's four designated "National Rivers", legally protected against dams
+      and regulation; conservation battles in the mid-twentieth century prevented hydroelectric damming. The
+      nature reserve was established in 1974 and significantly expanded on 25 January 1988 with the old-growth
+      forests of Kirjesålandet, Matsorliden, and Giertsbäcksdalen. It is also designated within Natura 2000.
+    before: >-
+      From mid-April to late June, reindeer calve on Artfjället; the management requests that hikers choose
+      alternative areas during this sensitive period. The Marsivagge valley bird sanctuary is strictly closed
+      to entry from 15 May to 1 August. Disturbing wildlife or reindeer herding and driving motorized vehicles
+      off designated routes are strictly banned. In the later-added primeval forest zones, approaching within
+      100 metres of raptor eyries, dens, or burrows is prohibited. Check the operational status of trails,
+      bridges, and huts before departure.
+    around: >-
+      Vindelfjällen has no adjacent entries in the atlas, but shares high-alpine habitats and arctic fauna
+      with other northern reserves. It is linked to [Pallas-Yllästunturi National
+      Park](/lugar/pallas-yllastunturi-national-park/) by rock ptarmigan, golden plover, arctic fox, and
+      mires; to [Saltfjellet-Svartisen National Park](/lugar/saltfjellet-svartisen-nasjonalpark/) by rock
+      ptarmigan, wolverine, reindeer, and wild rivers; to [Reinheimen National
+      Park](/lugar/reinheimen-national-park/) by golden plover, wolverine, and wild reindeer; and to [Urho
+      Kekkonen National Park](/lugar/urho-kekkonen-national-park/) by wolverine, reindeer, golden eagle,
+      alpine fells, and peatlands.
+  fr:
+    intro: >-
+      Dans le Vindelfjällen pourrait tenir un pays entier. C'est la plus vaste réserve naturelle de Suède et
+      l'un des plus grands espaces protégés d'Europe, abritant cimes alpines englacées, forêts de bouleaux
+      s'étendant à perte de vue, tourbières immenses et massifs de taïga primaire qui n'ont jamais connu la
+      hache. Sur les communes de Sorsele et de Storuman, en Laponie suédoise, les reliefs s'ouvrent sur les
+      vallées du bassin de l'Ume, parcourues par la rivière qui donne son nom à la réserve, le Vindel, qui
+      s'écoule libre sans le moindre barrage hydroélectrique.
+    landscape: >-
+      Ces montagnes calédoniennes sont nées de la collision continentale entre Laurentia et Baltica il y a
+      entre 420 et 400 millions d'années. Les glaciers ont ensuite poli et façonné le relief. Ils ont ouvert
+      des vallées en auge caractéristiques, comme celle de Syterskalet qui entaille en deux le Norra
+      Storfjället, cœur alpin de la réserve, souvent comparé au Lapporten pour son profil symétrique. Autour
+      se dressent l'Artfjället, l'Ammarfjället et le Björkfjället, encadrant les vallées du Vindel et de ses
+      affluents.
+
+
+      En raison de son étendue, le climat varie grandement d'une extrémité à l'autre. Ammarnäs se trouve sous
+      l'effet d'ombre pluviométrique et reçoit moins de 600 mm par an, tandis qu'Hemavan, à l'ouest du Norra
+      Storfjället, enregistre environ 750 mm.
+
+
+      Les dimensions illustrent cette prodigieuse variété : environ 500 km² de taïga primaire de résineux,
+      plus de 1600 km² de bétulaies subalpines (la plus grande forêt de bouleaux protégée de Suède), près de
+      1600 km² de toundra alpine et presque 300 km² de tourbières. Les bouleaux succèdent aux conifères et
+      s'élèvent jusqu'à la limite des arbres vers 800 m. Au lac Tärnasjön, l'un des deux plus grands plans
+      d'eau, le tiers sud forme un lacis d'îlots boisés et de chenaux peu profonds.
+
+
+      Sur l'Artfjället, riche en calcaire, la flore est réputée : son nom signifie « montagne aux multiples
+      espèces » et l'on y recense pas moins de 11 espèces d'orchidées. La plus rare de Vindelfjällen,
+      *Gymnadenia runei*, fleurit d'un pourpre éclatant à la limite des arbres sur les schistes dénudés. Entre
+      l'Artfjället et Övre Ältsvattnet se développe même un relief karstique avec dolines, pertes et certaines
+      des plus vastes grottes de Suède.
+    wildlife: >-
+      Le symbole de la réserve est le [renard polaire](/especie/vulpes_lagopus/), en danger critique en
+      Scandinavie. Sa reproduction dépend étroitement des pullulations de lemmings, qui surviennent en moyenne
+      tous les quatre ans.
+
+
+      Les rennes qui parcourent ces solitudes sont domestiques : appartenant aux communautés sames, ils vivent
+      en semi-liberté et leur cheptel a déjà dépassé les 20 000 têtes sur les plateaux. Dans les grandes
+      vallées boisées évolue l'[élan](/especie/alces_alces/), le [glouton](/especie/gulo_gulo/) est solidement
+      implanté et l'ours brun, jadis abondant dans la vallée du Vindel, subsiste en faible effectif. La
+      rivière Tärnaån fut l'un des premiers cours d'eau suédois où le castor fut réintroduit en 1924, après
+      son extinction totale en 1871.
+
+
+      Côté avifaune, les zones humides concentrent une vie intense. La vallée de Marsivagge accueille la
+      nidification d'environ 120 espèces d'oiseaux. Sur les landes voisines nichent le [pluvier
+      doré](/especie/pluvialis_apricaria/) et le pluvier guignard, tandis que le plongeon arctique et le
+      [balbuzard pêcheur](/especie/pandion_haliaetus/) s'installent au bord des lacs. Dans les bétulaies du
+      Tjulträsk nichent entre 400 et 500 couples au km², dont la moitié de pouillots fittis. Plus haut,
+      l'[aigle royal](/especie/aquila_chrysaetos/), le [harfang des neiges](/especie/bubo_scandiacus/), le
+      faucon gerfaut et le [faucon pèlerin](/especie/falco_peregrinus/) chassent sur les crêtes dénudées.
+
+
+      Chaque saison révèle un visage différent. De la mi-avril à la fin juin, les rennes mettent bas sur
+      l'Artfjället. Sur le Kungsleden, les névés persistent longtemps et la randonnée pédestre n'est guère
+      praticable avant la Saint-Jean au plus tôt.
+    visit: >-
+      L'immensité de la réserve autorise de multiples approches, mais les portes traditionnelles restent
+      Hemavan et Ammarnäs. Chaque localité dispose de son naturum : il éclaire faune, flore, géologie et
+      histoire pastorale à travers expositions et visites commentées, et prodigue des conseils d'itinéraires.
+      Ils ouvrent au printemps et en été, vérifiez donc les périodes d'ouverture avant de partir. Celui de
+      Hemavan se trouve au départ du Kungsleden, du Drottningleden et du Lapplandsleden, jouxtant le Jardin
+      botanique de montagne, l'un des plus élevés de Suède et des plus septentrionaux au monde.
+
+
+      Le parcours le plus réputé est la section du Kungsleden entre Ammarnäs et Hemavan : elle s'appuie sur
+      cinq refuges de la STF gardés, avec ravitaillement et parfois sauna. L'étape de Viterskalsstugan à
+      Hemavan est aisée. Le Drottningleden relie sur neuf kilomètres Laisaliden à Hemavan avec des vues
+      splendides sur les glaciers norvégiens. Le Vindelvaggileden remonte la haute vallée du Vindelälven vers
+      la frontière norvégienne en forêt de bouleaux.
+
+
+      Les forêts sauvages de Matsorliden, Kirjesålandet et Giertsbäcksdalen sont totalement dépourvues de
+      sentiers balisés, exigeant une solide expérience de l'orientation en milieu hostile.
+    history: >-
+      Les premiers chasseurs nomades arrivèrent il y a environ 9000 ans après le retrait des glaces, laissant
+      des fosses de piégeage du renne le long des goulets d'étranglement naturels. Les récits sames attribuent
+      les structures en pierre bordant ces fosses au Stallo, un géant mythologique ; les fouilles y
+      reconnaissent les plus anciens campements sames répertoriés. Au XIXe siècle, les marchands norgefarare
+      ralliaient Ammarnäs à la Norvège par la vallée du Vindel avec des charges avoisinant 50 kg. L'église
+      isolée de Viktoriakyrkan fut édifiée en 1938 sans route carrossable, construite en madriers débités sur
+      place.
+
+
+      Le Vindel est l'un des quatre « fleuves nationaux » de Suède, protégés par la loi contre tout
+      aménagement hydroélectrique grâce aux grandes mobilisations du milieu du XXe siècle. La réserve a été
+      instituée en 1974 et étendue le 25 janvier 1988 aux massifs forestiers primaires de Kirjesålandet,
+      Matsorliden et Giertsbäcksdalen. Elle est également intégrée au réseau Natura 2000.
+    before: >-
+      De la mi-avril à la fin juin les rennes mettent bas sur l'Artfjället ; l'administration demande aux
+      visiteurs d'éviter ce massif durant cette période sensible. La vallée de Marsivagge, réserve
+      ornithologique, est strictement interdite d'accès du 15 mai au 1er août. Déranger la faune ou l'élevage
+      des rennes et circuler en véhicule à moteur hors des axes désignés sont formellement prohibés. Dans les
+      secteurs de forêts primaires ajoutés ultérieurement, il est interdit de s'approcher à moins de 100
+      mètres d'un nid de rapace, d'une tanière ou d'un terrier. Vérifiez l'état des ponts suspendus et des
+      refuges avant de partir.
+    around: >-
+      Vindelfjällen ne compte aucun site voisin immédiat dans l'atlas mais partage ses milieux alpins et sa
+      faune nordique avec de grands parcs boréaux : avec le [Parc national de
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) par le lagopède alpin, le pluvier doré,
+      le renard polaire et les tourbières ; avec le [Parc national de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) par le lagopède, le glouton, le renne
+      et les rivières sauvages ; avec le [Parc national de Reinheimen](/lugar/reinheimen-national-park/) par
+      le pluvier doré, le glouton et le renne sauvage ; et avec le [Parc national Urho
+      Kekkonen](/lugar/urho-kekkonen-national-park/) par le glouton, le renne, l'aigle royal, la haute toundra
+      et les tourbières immenses.
+  de:
+    intro: >-
+      Im Vindelfjällen fände ein ganzes Land Platz. Es ist das größte Naturreservat Schwedens und eines der
+      ausgedehntesten Schutzgebiete Europas – mit gletschergekrönten Alpingipfeln, endlosen Birkenwäldern,
+      riesigen Hochmooren und Primärtaiga, die nie forstlich genutzt wurde. In den Gemeinden Sorsele und
+      Storuman im schwedischen Lappland öffnen sich die Berge zu den Tälern des Ume-Einzugsgebiets,
+      durchflossen vom namengebenden Fluss Vindelälven, der ohne eine einzige Staustufe frei zum Meer strömt.
+    landscape: >-
+      Die Berge gehören zum Kaledonischen Gebirge und entstanden durch die Kontinentalkollision von Laurentia
+      und Baltica vor 420 bis 400 Millionen Jahren. Später schliffen Gletscher das Relief zu monumentalen
+      Trogtälern wie dem Syterskalet aus, das das Norra Storfjället – das hochalpine Herzstück des Reservats –
+      teilt. Wegen seiner symmetrischen Troggestalt wird es oft mit dem Lapporten verglichen. Ringsum erheben
+      sich Artfjället, Ammarfjället und Björkfjället, umschlossen von den Flusstälern des Vindelälven und
+      seiner Nebenflüsse.
+
+
+      Aufgrund der gewaltigen Fläche variiert das Klima beträchtlich. Ammarnäs liegt im Regenschatten und
+      verzeichnet unter 600 mm Jahresniederschlag, während Hemavan westlich des Norra Storfjället rund 750 mm
+      misst.
+
+
+      Die Ausmaße verdeutlichen die landschaftliche Vielfalt: rund 500 km² unberührter Nadelwald, über 1600
+      km² subalpiner Birkenwald (der größte geschützte Birkenwald Schwedens), fast 1600 km² alpine Tundraheide
+      und beinahe 300 km² Moorflächen. Die Birkenbestände beginnen am Ende der Nadelholzzone und reichen bis
+      zur Baumgrenze um 800 m. Am See Tärnasjön bildet das südliche Drittel ein Inselmosaik aus seichten
+      Buchten und bewaldeten Holmen.
+
+
+      Das kalkreiche Artfjället ist berühmt für seine Pflanzenwelt: Der Name bedeutet „Berg der vielen Arten“,
+      und hier gedeihen nicht weniger als 11 Orchideenarten. Die seltenste Pflanze von Vindelfjällen,
+      *Gymnadenia runei*, blüht purpurrot an der Baumgrenze auf kargen Schieferhängen. Zwischen Artfjället und
+      Övre Ältsvattnet entwickelt sich sogar Karstrelief mit Dolinen, Höhlensystemen und unterirdischen
+      Wasserläufen.
+    wildlife: >-
+      Das Wappentier des Reservats ist der [Polarfuchs](/especie/vulpes_lagopus/), der in Skandinavien vom
+      Aussterben bedroht ist. Sein Fortpflanzungserfolg hängt eng an den Lemmingjahren, die im Schnitt alle
+      vier Jahre auftreten.
+
+
+      Die Rentiere auf den Hochflächen gehören samischen Gemeinschaften und weiden in Halbwildheit; auf den
+      Kämmen wurden schon über 20.000 Tiere gezählt. In den großen Tälern lebt der
+      [Elch](/especie/alces_alces/), der [Vielfraß](/especie/gulo_gulo/) besitzt einen stabilen Bestand, und
+      der Braunbär kommt in geringer Dichte vor. Der Tärnaån war 1924 einer der ersten Flüsse Schwedens, an
+      denen der Biber nach seiner Ausrottung 1871 wieder angesiedelt wurde.
+
+
+      Für Vogelbeobachter sind die Feuchtgebiete das Herzstück. Das Marsivagge-Tal dient rund 120 Vogelarten
+      als Brutrevier. Auf den Heiden brüten [Goldregenpfeifer](/especie/pluvialis_apricaria/) und
+      Mornellregenpfeifer, während Prachttaucher und [Fischadler](/especie/pandion_haliaetus/) an den Bergseen
+      nisten. In den Birkenwäldern am Tjulträsk brüten 400 bis 500 Paare pro km², überwiegend Fitislaubsänger.
+      Darüber jagen [Steinadler](/especie/aquila_chrysaetos/), [Schnee-Eule](/especie/bubo_scandiacus/),
+      Gerfalke und [Wanderfalke](/especie/falco_peregrinus/) über der Tundra.
+
+
+      Jede Jahreszeit offenbart eine eigene Wildnis. Von Mitte April bis Ende Juni kalben die Rentiere am
+      Artfjället. Auf dem Kungsleden liegt der Schnee lange, sodass Wanderungen zu Fuß frühestens nach
+      Mittsommer ratsam sind.
+    visit: >-
+      Wegen der Weitläufigkeit gibt es viele Zugänge, traditionelle Ausgangsorte sind jedoch Hemavan und
+      Ammarnäs. Beide Dörfer besitzen ein Naturum-Besucherzentrum: Sie vermitteln Tierwelt, Geologie und
+      Kulturgeschichte, bieten Ausstellungen und Tourenberatung. Beide öffnen im Frühjahr und Sommer. Das
+      Naturum in Hemavan liegt an den Einstiegen von Kungsleden, Drottningleden und Lapplandsleden, neben dem
+      Alpinen Botanischen Garten, einem der höchstgelegenen Schwedens.
+
+
+      Die bekannteste Route ist der Kungsleden zwischen Ammarnäs und Hemavan mit fünf bewirtschafteten
+      STF-Hütten samt Proviant und teils Sauna. Die Etappe von Viterskalsstugan nach Hemavan ist unschwer. Der
+      Drottningleden verläuft über neun Kilometer zwischen Laisaliden und Hemavan mit Panorama auf norwegische
+      Gletscher. Der Vindelvaggileden folgt dem oberen Flusstal zur norwegischen Grenze durch lichte
+      Birkenbestände.
+
+
+      Die Urwälder von Matsorliden, Kirjesålandet und Giertsbäcksdalen sind weglos und erfordern fundierte
+      Wildniserfahrung.
+    history: >-
+      Die ersten Jäger erreichten das Gebiet vor etwa 9000 Jahren nach dem Eisrückzug und hinterließen
+      Fanggrubensysteme an Rentierwechseln. Samische Legenden schrieben die Steinreste den mythischen
+      Stallo-Riesen zu; Ausgrabungen identifizieren sie als die ältesten bekannten Samensiedlungen. Im
+      neunzehnten Jahrhundert zogen die Norgefarare mit Lasten von fast 50 kg über den Pass nach Norwegen. Die
+      Holzkirche Viktoriakyrkan entstand 1938 ohne Zufahrtsstraße aus lokal geschlagenem Holz.
+
+
+      Der Vindelälven ist einer der vier unverbauten Nationalflüsse Schwedens; Proteste Mitte des zwanzigsten
+      Jahrhunderts verhinderten den Bau von Staudämmen. Das Naturreservat wurde 1974 ausgewiesen und am 25.
+      Januar 1988 um die Urwälder Kirjesålandet, Matsorliden und Giertsbäcksdalen erweitert. Es ist zugleich
+      Teil von Natura 2000.
+    before: >-
+      Von Mitte April bis Ende Juni kalben die Rentiere am Artfjället; die Reservatsleitung bittet darum, das
+      Massiv in dieser Zeit zu meiden. Das Vogelschutzgebiet im Marsivagge-Tal darf vom 15. Mai bis zum 1.
+      August nicht betreten werden. Wildtiere und Rentierherden dürfen nicht gestört werden, Kraftfahrzeuge
+      sind abseits der Straßen verboten. In den nachträglich geschützten Urwaldzonen ist die Annäherung an
+      Horste und Bauten auf unter 100 Meter untersagt. Prüfe Brücken und Hüttenöffnungszeiten vor Tourantritt.
+    around: >-
+      Vindelfjällen hat keine unmittelbaren Nachbarn im Atlas, teilt aber alpine Tundren und boreale Tierarten
+      mit fernen Schutzgebieten: Mit dem [Nationalpark
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) teilt es Alpenschneehuhn,
+      Goldregenpfeifer, Polarfuchs und Moore; mit dem [Nationalpark
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) Alpenschneehuhn, Vielfraß, Rentier
+      und Wildflüsse; mit dem [Nationalpark Reinheimen](/lugar/reinheimen-national-park/) Goldregenpfeifer,
+      Vielfraß und Wildrentier; und mit dem [Urho-Kekkonen-Nationalpark](/lugar/urho-kekkonen-national-park/)
+      Vielfraß, Rentier, Steinadler und weite Hochmoore.
+  it:
+    intro: >-
+      Nel Vindelfjällen potrebbe trovare posto un intero stato. È la più vasta riserva naturale della Svezia e
+      uno dei più grandi spazi protetti d'Europa, racchiudendo vette alpine con ghiacciai, boschi di betulle
+      che si perdono all'orizzonte, torbiere sterminate e foreste di taiga primaria mai toccate dal taglio.
+      Nei comuni di Sorsele e Storuman, nella Lapponia svedese, i massicci montuosi si aprono sulle valli del
+      bacino dell'Ume, solcate dal corso d'acqua che dà il nome all'area protetta, il fiume Vindel, che scorre
+      libero verso il mare senza una sola diga.
+    landscape: >-
+      Le montagne appartengono alla catena caledoniana, formatesi dalla collisione tettonica tra le zolle
+      Laurentia e Baltica tra 420 e 400 milioni di anni fa. Successivamente i ghiacci ne hanno plasmato i
+      profili. I ghiacciai hanno modellato ampie valli a U, come quella di Syterskalet che divide in due il
+      Norra Storfjället, il cuore d'alta quota della riserva, paragonato al celebre Lapporten per la sua
+      perfetta sezione a trogolo. Attorno sorgono Artfjället, Ammarfjället e Björkfjället, intercalati dalle
+      vallate del Vindel e dei suoi affluenti.
+
+
+      Data la vastità del territorio, il clima varia sensibilmente da una zona all'altra. Ammarnäs si colloca
+      nell'ombra pluviometrica registrando meno di 600 mm annui, mentre Hemavan a ovest del Norra Storfjället
+      riceve circa 750 mm.
+
+
+      Le dimensioni illustrano la straordinaria varietà ambientale: circa 500 km² di taiga primaria di
+      conifere, oltre 1600 km² di betuleti montani (la più grande foresta di betulle protetta di Svezia),
+      quasi 1600 km² di brughiera alpina d'alta quota e quasi 300 km² di torbiere. I boschi di betulle
+      prendono avvio al termine delle conifere e salgono fino al limite degli alberi attorno a 800 m. Sul lago
+      Tärnasjön, uno dei due maggiori bacini, il terzo meridionale si frammenta in un labirinto di isolotti
+      boscosi e canali poco profondi.
+
+
+      Sull'Artfjället, ricco di substrati calcarei, la vegetazione è rinomata: il toponimo significa «montagna
+      delle molte specie» e vi allignano ben 11 specie di orchidee selvatiche. La più rara di Vindelfjällen,
+      *Gymnadenia runei*, fiorisce di un vivo color porpora al limite della vegetazione arborea sui pendii
+      scistosi denudati. Tra l'Artfjället e l'Övre Ältsvattnet si sviluppa persino un paesaggio carsico, con
+      inghiottitoi, ruscelli sotterranei e alcune delle cavità più grandi di Svezia.
+    wildlife: >-
+      L'emblema della riserva è la [Volpe artica](/especie/vulpes_lagopus/), minacciata di estinzione in
+      Scandinavia. Il suo successo riproduttivo è legato a doppio filo alle annate di proliferazione dei
+      lemming, che si verificano mediamente ogni quattro anni.
+
+
+      Le renne che pascolano su questi altopiani appartengono alle comunità indigene sámi e vivono in
+      semilibertà, con censimenti storici che hanno superato i 20.000 capi lungo la dorsale. Nei boschi dei
+      fondovalle vive l'[alce](/especie/alces_alces/), il [Ghiottone](/especie/gulo_gulo/) è ben insediato e
+      l'orso bruno, un tempo abbondante nella valle del Vindel, resiste con presenze stabili benché ridotte.
+      Il fiume Tärnaån è stato uno dei primi siti in Svezia in cui il castoro è stato reintrodotto nel 1924,
+      dopo l'estinzione completa avvenuta nel 1871.
+
+
+      Per l'avifauna, le zone umide costituiscono un formidabile polo riproduttivo. La conca di Marsivagge
+      ospita la nidificazione di circa 120 specie di uccelli. Sulle brughiere vicine nidificano il [Piviere
+      dorato](/especie/pluvialis_apricaria/) e il piviere tortolino, mentre la strolaga mezzana e il [Falco
+      pescatore](/especie/pandion_haliaetus/) nidificano sulle rive dei laghi. Nelle betuleti attorno al
+      Tjulträsk si contano tra 400 e 500 coppie per km², per metà costituite da luì grossi. Sulle creste,
+      l'[Aquila reale](/especie/aquila_chrysaetos/), il [Gufo delle nevi](/especie/bubo_scandiacus/), il
+      girfalco e il [Falco pellegrino](/especie/falco_peregrinus/) cacciano negli spazi aperti.
+    visit: >-
+      Data la vastità del comprensorio, i punti di partenza sono molteplici, ma gli accessi consueti fanno
+      capo a Hemavan o ad Ammarnäs. In entrambi i paesi si trova un naturum: illustra fauna, flora, geologia
+      ed evoluzione pastorale attraverso allestimenti didattici ed escursioni guidate, dispensando consigli
+      sui tracciati. Aprono in primavera e in estate, pertanto è opportuno verificare le aperture prima di
+      mettersi in viaggio. Quello di Hemavan sorge all'inizio del Kungsleden, del Drottningleden e del
+      Lapplandsleden, affiancato dal Giardino Botanico Alpino, uno dei più alti di Svezia.
+
+
+      L'itinerario di riferimento è il tratto del Kungsleden tra Ammarnäs ed Hemavan: tocca cinque rifugi
+      custoditi della STF provvisti di viveri e talora di sauna. La tappa da Viterskalsstugan a Hemavan è
+      agevole. Il Drottningleden misura nove chilometri tra Laisaliden e Hemavan regalando splendidi scorci
+      sui ghiacciai norvegesi. Il Vindelvaggileden risale la valle del Vindelälven verso il confine con la
+      Norvegia tra le betulle montane.
+
+
+      Le selve primordiali di Matsorliden, Kirjesålandet e Giertsbäcksdalen sono prive di tracciati segnati e
+      richiedono autentica esperienza di navigazione in ambiente selvaggio.
+    history: >-
+      I primi cacciatori nomadi giunsero circa 9000 anni fa al ritirarsi dei ghiacci, realizzando fosse di
+      cattura delle renne lungo i corridoi naturali di migrazione. I miti sámi ascrivevano i cordoli in pietra
+      delle trappole allo Stallo, un gigante fantastico; le indagini archeologiche li riconoscono come i più
+      remoti insediamenti sámi documentati. Nel XIX secolo i mercanti ambulanti norgefarare collegavano
+      Ammarnäs alla Norvegia attraverso la valle del Vindel trasportando carichi vicini a 50 kg. La remota
+      chiesetta in legno di Viktoriakyrkan fu eretta nel 1938 senza strade carrabili, impiegando tronchi
+      squadrati sul posto.
+
+
+      Il Vindel è uno dei quattro «fiumi nazionali» della Svezia, tutelati contro gli sbarramenti
+      idroelettrici grazie a memorabili battaglie ambientali di metà del XX secolo. La riserva è stata
+      istituita nel 1974 e ampliata il 25 gennaio 1988 con le foreste primordiali di Kirjesålandet,
+      Matsorliden e Giertsbäcksdalen. Rientra inoltre nella rete europea Natura 2000.
+    before: >-
+      Da metà aprile a fine giugno le renne femmine partoriscono sull'Artfjället; l'ente gestore richiede di
+      non frequentare quel settore in tale fase delicata. La valle di Marsivagge, oasi di protezione
+      dell'avifauna, è interdetta alle visite dal 15 maggio al 1° agosto. È severamente proibito disturbare la
+      fauna o il pascolo delle renne e guidare mezzi a motore fuori dai percorsi designati. Nelle aree di
+      bosco primario aggiunte in seguito è vietato avvicinarsi a meno di 100 metri da nidi di rapaci o tane.
+      Verifica lo stato di sentieri, ponti e rifugi prima della partenza.
+    around: >-
+      Vindelfjällen non presenta riserve limitrofe immediate nell'atlas ma condivide ambienti d'alta quota e
+      fauna boreale con altri grandi parchi nordici: con il [Parco Nazionale
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) condivide pernice bianca, piviere
+      dorato, volpe artica e torbiere; con il [Parco Nazionale di
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) pernice bianca, ghiottone, renna e
+      fiumi intatti; con il [Parco Nazionale di Reinheimen](/lugar/reinheimen-national-park/) piviere dorato,
+      ghiottone e renne selvatiche; e con il [Parco Nazionale Urho
+      Kekkonen](/lugar/urho-kekkonen-national-park/) ghiottone, renna, aquila reale, fjellet aperti e
+      acquitrini sterminati.
+  pt:
+    intro: >-
+      Em Vindelfjällen caberia um país inteiro. É a maior reserva natural da Suécia e uma das maiores áreas
+      protegidas da Europa, congregando cumes alpinos glaciares, bétulas que se perdem no horizonte, turfeiras
+      incomensuráveis e matas de taiga virgem que nunca sofreram cortes florestais. Nos municípios de Sorsele
+      e Storuman, na Lapónia sueca, as montanhas abrem-se aos vales da bacia do Ume, percorridas pelo rio que
+      confere o nome à reserva, o Vindel, que corre sem uma única barragem até ao mar.
+    landscape: >-
+      As montanhas pertencem à cadeia Caledoniana, formadas pela colisão tectónica entre a Laurentia e a
+      Báltica há entre 420 e 400 milhões de anos. Mais tarde os glaciares poliram as formas de relevo, abrindo
+      vales em U marcantes como o de Syterskalet, que divide em dois o Norra Storfjället, o coração alpino da
+      reserva. É frequentemente comparado ao Lapporten pela sua secção em calha simétrica. Em redor erguem-se
+      Artfjället, Ammarfjället e Björkfjället, enquadrando os vales do Vindel e dos seus tributários.
+
+
+      Dada a imensidão territorial, o clima oscila bastante entre extremos. Ammarnäs situa-se em sombra de
+      chuva e regista menos de 600 mm anuais, enquanto Hemavan a oeste do Norra Storfjället recebe cerca de
+      750 mm.
+
+
+      Os valores espaciais espelham a diversidade: cerca de 500 km² de taiga virgem de coníferas, mais de 1600
+      km² de florestas de bétula subalpina (o maior bosque protegido de bétula da Suécia), quase 1600 km² de
+      tundra alpina e quase 300 km² de turfeiras. As bétulas iniciam-se onde terminam as coníferas e
+      prolongam-se até ao limite das árvores por volta dos 800 m. No lago Tärnasjön, um dos dois maiores
+      corpos de água, o terço meridional constitui um mosaico labiríntico de canais pouco profundos e ilhéus
+      arborizados.
+
+
+      Em Artfjället, rica em calcários, a flora é afamada: o topónimo significa «montanha de muitas espécies»,
+      abrigando nada menos do que 11 espécies de orquídeas bravias. A planta mais rara de Vindelfjällen,
+      *Gymnadenia runei*, exibe flores de um púrpura intenso no limite da floresta em vertentes de xisto
+      desnudado. Entre Artfjället e Övre Ältsvattnet ocorre até modelado cársico com sumidouros, cursos de
+      água subterrâneos e algumas das maiores grutas da Suécia.
+    wildlife: >-
+      O emblema da reserva é a [raposa-do-ártico](/especie/vulpes_lagopus/), criticamente em perigo na
+      Escandinávia. O seu sucesso reprodutor depende estritamente das explosões demográficas de lemingues, que
+      acontecem em média a cada quatro anos.
+
+
+      As renas que pastam nestes planaltos pertencem às comunidades sámis e vivem em regime de semiliberdade,
+      tendo sido contabilizadas mais de 20.000 cabeças na cordilheira. Nas florestas dos vales principais
+      habita o [alce](/especie/alces_alces/), o [glutão](/especie/gulo_gulo/) encontra-se perfeitamente
+      estabelecido e o urso-pardo, outrora frequente ao longo do Vindel, mantém presenças pontuais. O rio
+      Tärnaån foi um dos primeiros locais na Suécia onde o castor foi reintroduzido em 1924, após a sua
+      extinção total em 1871.
+
+
+      Para as aves, as zonas húmidas constituem um polo fulcral. O vale de Marsivagge é área de nidificação
+      para cerca de 120 espécies de aves. Nas charnecas circundantes criam a
+      [tarambola-dourada-europeia](/especie/pluvialis_apricaria/) e o borrelho-ruivo, enquanto a
+      mobelha-árctica e a [águia pescadora](/especie/pandion_haliaetus/) nidificam junto às lagoas. Nos
+      bosques de bétula de Tjulträsk nidificam entre 400 e 500 casais por km², metade deles felosas-musicais.
+      Nos cumes escarpados, a [águia-real](/especie/aquila_chrysaetos/), a
+      [coruja-das-neves](/especie/bubo_scandiacus/), o falcão-gerifalte e o
+      [falcão-peregrino](/especie/falco_peregrinus/) caçam nos planaltos abertos.
+
+
+      Cada estação descortina uma reserva diferente. Entre meados de abril e finais de junho as renas fêmeas
+      parem em Artfjället. No Kungsleden a neve resiste até tarde, não sendo habitual caminhar a pé antes do
+      São João.
+    visit: >-
+      Sendo a reserva colossal, existem múltiplos pontos de aproximação, mas as portas clássicas são Hemavan e
+      Ammarnäs. Ambas as povoações contam com um naturum: elucida a fauna, a geologia e a vivência pastoril
+      através de mostras e visitas orientadas, prestando aconselhamento técnico sobre os percursos. Abrem na
+      primavera e no verão, pelo que convém confirmar os períodos de funcionamento antes da visita. O de
+      Hemavan localiza-se no início do Kungsleden, do Drottningleden e do Lapplandsleden, contíguo ao Jardim
+      Botânico de Montanha, um dos mais altos da Suécia.
+
+
+      O trilho mais célebre é o troço do Kungsleden entre Ammarnäs e Hemavan: atravessa cinco refúgios de
+      montanha da STF com guarda, abastecimento e por vezes sauna. A etapa de Viterskalsstugan a Hemavan é
+      acessível. O Drottningleden cobre nove quilómetros entre Laisaliden e Hemavan facultando perspetivas
+      sobre os glaciares noruegueses. O Vindelvaggileden acompanha o vale do Vindelälven em direção à
+      fronteira com a Noruega entre matas de bétula montanas.
+
+
+      As florestas virgens de Matsorliden, Kirjesålandet e Giertsbäcksdalen carecem totalmente de caminhos
+      assinalados, exigindo competências sólidas de orientação em isolamento.
+    history: >-
+      Os primeiros caçadores coletores chegaram há cerca de 9000 anos após a recessão do manto de gelo,
+      deixando armadilhas de fojo para a captura de renas em passagens estratégicas. As lendas sámis atribuíam
+      as fundações de pedra junto aos fossos aos Stallo, gigantes míticos; a arqueologia documenta-os como os
+      mais antigos povoados sámis conhecidos. No século XIX os almocreves norgefarare ligavam Ammarnäs à
+      Noruega pelo vale do Vindel transportando cargas que rondavam os 50 kg. A capela remota de madeira de
+      Viktoriakyrkan foi erigida em 1938 sem vias rodoviárias de acesso, utilizando toros talhados no próprio
+      sítio.
+
+
+      O rio Vindel é um dos quatro «rios nacionais» da Suécia, legalmente blindado contra barragens e
+      regularizações graças a intensas manifestações ambientalistas em meados do século XX. O parque natural
+      foi constituído em 1974 e substancialmente ampliado a 25 de janeiro de 1988 integrando as florestas
+      primárias de Kirjesålandet, Matsorliden e Giertsbäcksdalen. Integra igualmente a rede Natura 2000.
+    before: >-
+      De meados de abril ao fim de junho as renas fêmeas parem em Artfjället; a entidade gestora solicita que
+      os visitantes escolham outros itinerários nesta fase sensível. O vale de Marsivagge, área de reserva
+      integral para aves, está expressamente interdito de 15 de maio a 1 de agosto. É proibido perturbar a
+      fauna selvagem ou o pastoreio de renas e circular com viaturas motorizadas fora das vias assinaladas.
+      Nas áreas de floresta virgem adicionadas posteriormente não é permitido aproximar-se a menos de 100
+      metros de ninhos de rapinas, tocas ou abrigos. Confirma o estado de pontes e cabanas antes de qualquer
+      marcha.
+    around: >-
+      Vindelfjällen não tem vizinhos imediatos no atlas, mas partilha ecossistemas de alta montanha e fauna
+      com outros redutos boreais: com o [Parque Nacional
+      Pallas-Yllästunturi](/lugar/pallas-yllastunturi-national-park/) partilha lagópode-branco,
+      tarambola-dourada, raposa-do-ártico e turfeiras; com o [Parque Nacional de
+      Saltfjellet-Svartisen](/lugar/saltfjellet-svartisen-nasjonalpark/) lagópode, glutão, rena e rios
+      selvagens; com o [Parque Nacional de Reinheimen](/lugar/reinheimen-national-park/) tarambola-dourada,
+      glutão e renas selvagens; e com o [Parque Nacional Urho Kekkonen](/lugar/urho-kekkonen-national-park/)
+      glutão, rena, águia-real, planaltos desérticos e pauis imensos.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Vindelfj%C3%A4llen_Nature_Reserve
+    titulo: Vindelfjällen Nature Reserve - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.naturkartan.se/en/vasterbottens-lan/vindelfjallen
+    titulo: Länsstyrelsen Västerbotten en Naturkartan — Vindelfjällen
+    fecha_consulta: '2026-10-29'
+  - url: https://www.naturkartan.se/en/vasterbottens-lan/viterskalsstugan-hemavan-kungsleden
+    titulo: Länsstyrelsen Västerbotten — etapa Viterskalsstugan–Hemavan en Naturkartan
+    fecha_consulta: '2026-10-29'
+  - url: https://www.vindelfjallen.se/besok-naturum-vindelfjallen/naturum-vindelfjallen-hemavan/
+    titulo: Naturum Vindelfjällen Hemavan
+    fecha_consulta: '2026-10-29'
+  - url: https://www.lansstyrelsen.se/vasterbotten/besoksmal/naturreservat/vindelfjallen.html
+    titulo: Vindelfjällen – Länsstyrelsen Västerbotten
+    fecha_consulta: '2026-10-29'
+  - url: https://www.vindelfjallen.se/vandra/hitta-leder-stugor/
+    titulo: Hitta leder & stugor – Vindelfjällen
+    fecha_consulta: '2026-10-29'
+  - url: https://www.vindelfjallen.se/besok-naturum-vindelfjallen/naturum-vindelfjallen-ammarnas/
+    titulo: Naturum Vindelfjällen Ammarnäs
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Vindelfj%C3%A4llens_naturreservat.jpg
+    autor: Emilia
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

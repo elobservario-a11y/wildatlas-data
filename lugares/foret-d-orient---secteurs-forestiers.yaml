@@ -1,0 +1,559 @@
+id: foret-d-orient---secteurs-forestiers
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Orient - Sectores Forestales
+  en: Orient Forest - Woodland Sectors
+  fr: Forêt d'Orient - Secteurs forestiers
+  de: Orient-Wald – Waldgebiete
+  it: Foresta d'Orient - Settori Forestali
+  pt: Floresta de Orient - Setores Florestais
+nombre_original: Forêt d'Orient - Secteurs forestiers
+alias:
+  - Forêt d'Orient – Sectores forestales
+paises:
+  - FR
+region:
+  es: Gran Este (Aube / Troyes)
+  en: Grand Est (Aube / Troyes)
+  fr: Grand Est (Aube / Troyes)
+  de: Grand Est (Aube / Troyes)
+  it: Grand Est (Aube / Troyes)
+  pt: Grand Est (Aube / Troyes)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.28
+  lon: 4.35
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 181691
+  nombre_en_la_fuente: Forêt D\'Orient
+  categoria_uicn: IV
+  capa: capas/cdda/foret-d-orient---secteurs-forestiers.geojson
+habitats:
+  - mature_forest
+  - lake
+  - wetland
+designaciones:
+  - natural_park
+  - ramsar
+especies:
+  - cervus_elaphus
+  - grus_grus
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 3
+  - 4
+  - 5
+  - 10
+  - 11
+temporada_nota:
+  es: paso de grullas en primavera u otoño
+  en: crane migration in spring or autumn
+  fr: passage des grues au printemps ou à l'automne
+  de: Kranichzug im Frühjahr oder Herbst
+  it: passo delle gru in primavera o autunno
+  pt: passagem de grous na primavera ou no outono
+masificacion: 2
+masificacion_nota:
+  es: Media en embalses de baño; baja en sectores de bosque estricto
+  en: Moderate around bathing reservoirs; low within strictly protected forest sectors
+  fr: Moyenne sur les plages des lacs de baignade ; faible dans les secteurs forestiers stricts
+  de: Mäßig an den Badeseen; gering in den eigentlichen Waldgebieten
+  it: Media sui laghi balneabili; bassa nei settori di foresta integrale
+  pt: Média nas praias das albufeiras balneares; baixa nos setores florestais estritos
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Parc Naturel Régional de la Forêt d'Orient
+    url: https://www.pnr-foret-orient.fr/
+resumen:
+  es: Bosque frondoso rodean embalses artificiales convertidos en parada vital para aves migratorias.
+  en: >-
+    Lush deciduous forests encircling artificial reservoir lakes that have become a crucial migration stopover
+    for waterfowl.
+  fr: >-
+    Massifs forestiers denses ceinturant des lacs-réservoirs artificiels devenus une escale vitale pour
+    l'avifaune migratrice.
+  de: >-
+    Ausgedehnte Laubwälder rund um künstliche Stauseen, die zu einem lebenswichtigen Rastplatz für Zugvögel
+    geworden sind.
+  it: >-
+    Foreste planiziali rigogliose attorno a bacini artificiali divenuti tappa cruciale per gli uccelli
+    migratori.
+  pt: >-
+    Florestas frondosas contornando albufeiras artificiais que se tornaram numa paragem crucial para aves
+    migradoras.
+unico:
+  es: >-
+    Es un bosque húmedo y un archipiélago de lagos a la vez, en pleno eje de migración de las grandes aves
+    viajeras.
+  en: >-
+    It is simultaneously a damp oak forest and a lake archipelago, positioned directly on the European flyway
+    of large migratory birds.
+  fr: >-
+    C'est à la fois une forêt humide et un archipel lacustre, situé en plein sur le couloir de migration des
+    grands oiseaux voiliers.
+  de: >-
+    Ein feuchter Eichenwald und eine Seenlandschaft zugleich, mitten auf der Hauptzugroute großer europäischer
+    Zugvögel.
+  it: >-
+    Un bosco igrofilo e un arcipelago di laghi al contempo, posto direttamente lungo la rotta migratoria dei
+    grandi veleggiatori.
+  pt: >-
+    É simultaneamente uma floresta húmida e um arquipélago lacustre, posicionado em pleno corredor de migração
+    de grandes aves planadoras.
+observaciones:
+  es: >-
+    Los observatorios de aves pueden cerrar por razones de seguridad: comprueba su estado en la web del parque
+    antes de ir. Los lagos cambian de nivel con las estaciones, así que lo que ves en otoño no es lo que verás
+    en primavera.
+texto:
+  es:
+    intro: >-
+      Hace dos milenios, un inmenso bosque se extendía del valle del Sena al del Marne. Los siglos lo fueron
+      desbrozando, con calzadas romanas y grandes explotaciones agrícolas, y señoríos y órdenes religiosas lo
+      salpicaron de más de cien estanques en la Edad Media, y después de la Segunda Guerra Mundial se llenaron
+      los grandes lagos-embalse. De todo ese vaivén salió el Parque Natural Regional del Bosque de Orient, en
+      la Champaña húmeda: un mosaico de bosques, lagos, estanques, ríos y praderas húmedas que se encuentra en
+      pleno eje de migración de las grandes aves viajeras. Y esa artificialización, paradójicamente, aumentó
+      la biodiversidad.
+    landscape: >-
+      Aquí manda el agua, y el suelo lo explica. Hace millones de años el mar dejó como herencia un subsuelo
+      arcilloso, y la omnipresencia del agua dio forma a la Champaña húmeda: praderas húmedas, bosques sobre
+      arcilla, bosques aluviales, zonas de marisma y charcas. Alrededor, la Champaña calcárea, el Barrois y
+      los valles aluviales completan un mosaico de ambientes.
+
+
+      Los lagos grandes, Orient, Temple y Amance, forman parte del sistema que regula el caudal del Sena desde
+      mediados de los años sesenta. En el bosque, los grandes robles han crecido en la arcilla de la Champaña
+      húmeda. El territorio se inscribe en una red ecológica reconocida a nivel internacional, con el sitio
+      Ramsar de los Estanques de la Champaña húmeda, a nivel europeo, con casi la mitad del territorio en la
+      red Natura, y nacional, con dos reservas naturales, una nacional y una regional.
+    wildlife: >-
+      El gran espectáculo son las aves. Con las estaciones y las variaciones de nivel de los lagos, las
+      migratorias se detienen a comer donde el agua se ha retirado, y los grandes zancudos —la [cigüeña
+      negra](/especie/ciconia_nigra/), la [grulla común](/especie/grus_grus/), la espátula, el avetoro, las
+      garzas— aprovechan las bolsas de agua con peces atrapados. Avefrías, agujas, zarapitos, archibebes,
+      becadas y gaviotas hurgan en el barro. Se han registrado más de 250 especies de aves, y los puntos
+      fuertes del año son la migración de otoño con sus bandadas de grullas, la invernada con entre 20.000 y
+      40.000 aves según el clima, y la época de cría. El parque sugiere buscar la cigüeña negra y el [pigargo
+      europeo](/especie/haliaeetus_albicilla/).
+
+
+      En el bosque, el [ciervo](/especie/cervus_elaphus/) es el rey de los grandes bosques húmedos. En otoño
+      se oye su berrea junto a los [picos negros](/especie/dryocopus_martius/), que tamborilean en los
+      árboles. De noche, se conocen unos cuarenta árboles refugio de murciélagos. En primavera los anfibios
+      migran a sus charcas de cría: la [salamandra común](/especie/salamandra_salamandra/), sapos, ranas y
+      tritones, y junto a la Fontaine Colette, en el lago de Orient, la «Route des Salamandres» ve pasar
+      varios miles al año. El Sonneur à ventre jaune vive en las rodadas y los revolcaderos que crean los
+      jabalíes.
+
+
+      Hay más de 650 especies de insectos, con más de 250 de mariposas y casi 60 de libélulas y caballitos del
+      diablo, y más de 400 de hongos.
+    visit: >-
+      Empieza por los observatorios y los puntos de observación repartidos por playas, diques y penínsulas de
+      los tres lagos. El observatorio del lago de Orient da sobre la parte en reserva: en invierno se ve el
+      paisaje lunar de miles de tocones de un bosque sumergido para hacer el lago, y quizá grullas que lo usan
+      como dormidero, patos y jabalíes al caer la noche. No es accesible para personas con movilidad reducida,
+      porque está a varios metros del suelo. La herramienta en línea del parque muestra qué aves se han visto
+      en cada punto y cuándo.
+
+
+      Para caminar, una treintena de itinerarios balizados cruza el parque por bosques, praderas, lagos y
+      pueblos. El sendero pedagógico del palacio del rey Roble recorre las «estancias» del mundo forestal y es
+      accesible a todos los públicos, y el circuito Colosse aux pieds d'argile recorre siete kilómetros por el
+      suelo arcilloso de la Champaña húmeda. En bici, la vía verde de los Lagos da la vuelta al lago de Orient
+      y sigue las orillas del Temple y de Amance.
+    history: >-
+      La Edad Media dejó cadenas de estanques, y la última gran transformación fueron los lagos-embalse. La
+      plataforma J’observe mon Parc invita al público a aportar observaciones naturalistas a un observatorio
+      de la biodiversidad que lista y localiza todas las especies del territorio.
+    before: >-
+      Los observatorios de aves pueden cerrar por razones de seguridad: comprueba su estado en la web del
+      parque antes de ir. Los lagos cambian de nivel con las estaciones, así que lo que ves en otoño no es lo
+      que verás en primavera.
+    around: >-
+      A treinta kilómetros está el [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Más lejos, la
+      [Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/),
+      [Ķemeri](/lugar/kemeru-nacionalais-parks/), los bosques del [Parque Nacional de
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) y [Store Mosse](/lugar/store-mosse-national-park/)
+      comparten con el Bosque de Orient la grulla común y el pigargo europeo.
+  en:
+    intro: >-
+      Two millennia ago, an unbroken primeval woodland blanketed the country between the Seine and Marne
+      valleys. Over subsequent centuries human clearance for Roman roads and large agricultural estates opened
+      the canopy; medieval monasteries and feudal lords dotted the clay depressions with more than a hundred
+      fishponds, and following the Second World War massive reservoir lakes were flooded. From this dynamic
+      history emerged the Orient Forest Regional Nature Park in wet Champagne: a mosaic of deep woods,
+      reservoirs, ponds, meandering rivers, and wet meadows lying directly along the great migration corridor
+      of western Europe. Paradoxically, this artificial hydraulic creation significantly boosted biodiversity.
+    landscape: >-
+      Here water dictates ecology, rooted in the underlying soil. Millions of years ago an ancient sea laid
+      down impermeable clay layers, and this persistent wetness defined wet Champagne: damp grasslands, heavy
+      oakwoods over clay, riparian woodlands, and woodland pools. Around this damp heartland, the dry chalk
+      Champagne, the Barrois limestone plateau, and alluvial floodplains complete a diverse regional tapestry.
+
+
+      The three large artificial reservoirs—Orient, Temple, and Amance—form part of the engineering system
+      regulating Seine flood levels since the mid-sixties. In the forests, stately pedunculate oaks thrive on
+      the waterlogged clays. The territory enjoys multi-tiered ecological protection: recognized
+      internationally as a Ramsar Wetland of International Importance, integrated into the Natura network
+      across nearly half its surface, and protected nationally through two nature reserves, one national and
+      one regional.
+    wildlife: >-
+      The supreme natural spectacle belongs to the birds. Following seasonal water drawdowns across the
+      reservoirs, migratory waders forage where receding shorelines expose nutrient-rich mud, while large
+      wading birds—including the [black stork](/especie/ciconia_nigra/), [common crane](/especie/grus_grus/),
+      Eurasian spoonbill, bittern, and herons—feast on fish stranded in shallow pools. Northern lapwings,
+      black-tailed godwits, curlews, greenshanks, woodcocks, and gulls probe the shoreline margins. More than
+      250 bird species have been recorded; annual highlights include the autumn migration with huge flocks of
+      cranes, wintering flocks numbering between 20,000 and 40,000 waterfowl depending on frost conditions,
+      and the spring breeding season. The park authority highlights the black stork and [white-tailed
+      eagle](/especie/haliaeetus_albicilla/) as marquee species.
+
+
+      Within the woodland, the [red deer](/especie/cervus_elaphus/) reigns supreme across the deep, damp
+      forest blocks. In autumn its resonant rutting bellows echo alongside the drumming of [black
+      woodpeckers](/especie/dryocopus_martius/) echoing through the trees. At night, around forty veteran
+      cavity trees host maternity bat colonies. In spring amphibians migrate towards their breeding ponds: the
+      [fire salamander](/especie/salamandra_salamandra/), toads, agile frogs, and newts, with several thousand
+      individuals crossing the designated Route des Salamandres near Fontaine Colette by Lake Orient each
+      year. The yellow-bellied toad thrives in water-filled ruts and wallows carved out by wild boars.
+
+
+      Invertebrate diversity exceeds 650 insect species, encompassing more than 250 species of butterflies and
+      moths and nearly 60 dragonflies and damselflies, complemented by over 400 species of macrofungi.
+    visit: >-
+      Begin your exploration at the observatories and bird hides distributed across beaches, dikes, and
+      peninsulas around the three lakes. The hide at Lake Orient commands views across the nature reserve: in
+      winter it reveals a surreal drowned forest of thousands of tree stumps, often populated by roosting
+      common cranes, ducks, and wild boars emerging at dusk. It is not wheelchair-accessible as it is elevated
+      several metres above ground level. The park's online portal records which birds have been logged at each
+      station and when.
+
+
+      For walking, around thirty waymarked trails criss-cross the park through woodlands, meadows, lakeshores,
+      and historic villages. The interpretive trail at the palace of King Oak explains the structural chambers
+      of a forest ecosystem and is fully accessible to all visitors, while the Colosse aux pieds d'argile
+      trail spans seven kilometres across the heavy clay soils of wet Champagne. For cyclists, the Vélovoie
+      des Lacs loops around Lake Orient and follows the shores of Temple and Amance.
+    history: >-
+      The Middle Ages bequeathed chains of aquaculture ponds, while the twentieth century added the massive
+      flood-control reservoirs. The digital platform J'observe mon Parc invites local residents and visitors
+      to contribute natural history records to a comprehensive biodiversity observatory mapping all species
+      across the territory.
+    before: >-
+      Bird hides can temporarily close for structural safety reasons: check their operational status on the
+      park website before setting out. Lake water levels fluctuate drastically between seasons, meaning that
+      autumn vistas look entirely different from spring conditions.
+    around: >-
+      Thirty kilometres away lies [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Further afield,
+      [Schorfheide-Chorin Forest Landscape](/lugar/schorfheide-chorin-forest-landscape/), [Ķemeri National
+      Park](/lugar/kemeru-nacionalais-parks/), the woodlands of [Müritz National
+      Park](/lugar/nationalpark-muritz-waldgebiete/), and [Store Mosse National
+      Park](/lugar/store-mosse-national-park/) share common cranes and white-tailed eagles with the Orient
+      Forest.
+  fr:
+    intro: >-
+      Il y a deux millénaires, une immense forêt s'étendait de la vallée de la Seine à celle de la Marne. Les
+      siècles l'ont peu à peu défrichée pour ouvrir voies romaines et grands domaines agricoles ; ordres
+      religieux et seigneurs l'ont constellée de plus de cent étangs au Moyen Âge, et après la Seconde Guerre
+      mondiale furent mis en eau les grands lacs-réservoirs. De ce long façonnage est né le parc naturel
+      régional de la Forêt d'Orient en Champagne humide : un ensemble de boisements, de lacs, d'étangs, de
+      rivières et de prairies inondables situé sur l'axe majeur de migration des grands oiseaux européens. Cet
+      aménagement hydraulique a, paradoxalement, décuplé la biodiversité.
+    landscape: >-
+      Ici l'eau commande la nature, sous la dictée du sol. Il y a des millions d'années, la mer a déposé un
+      sous-sol argileux imperméable, et l'omniprésence de l'eau a façonné la Champagne humide : prairies
+      marécageuses, chênaies sur argile, forêts alluviales et mares temporaires. Autour, la Champagne
+      crayeuse, le Barrois et les vallées alluviales complètent cette marqueterie d'écosystèmes.
+
+
+      Les grands lacs-réservoirs, Orient, Temple et Amance, participent à la régulation du débit de la Seine
+      depuis le milieu des années soixante. En forêt, de vénérables chênes pédonculés s'épanouissent sur les
+      argiles. Le territoire s'inscrit dans un réseau écologique d'envergure internationale, avec le site
+      Ramsar des étangs de la Champagne humide, européenne, avec près de la moitié du territoire en réseau
+      Natura, et nationale, avec deux réserves naturelles, l'une nationale et l'autre régionale.
+    wildlife: >-
+      Le spectacle majeur réside dans les oiseaux. Au fil des saisons et de la vidange des lacs, les
+      migrateurs s'alimentent sur les vasières exondées, et les grands échassiers — la [cigogne
+      noire](/especie/ciconia_nigra/), la [grue cendrée](/especie/grus_grus/), la spatule blanche, le butor,
+      les hérons — profitent des poches d'eau poissonneuses. Vanneaux, barges, courlis, chevaliers, bécassines
+      et mouettes fouillent les limons. Plus de 250 espèces d'oiseaux ont été inventoriées ; les temps forts
+      de l'année sont la migration automnale avec ses vols de grues, l'hivernage avec 20 000 à 40 000 oiseaux
+      d'eau selon la rigueur hivernale, et la période de reproduction. Le parc suggère de rechercher la
+      cigogne noire et le [pygargue à queue blanche](/especie/haliaeetus_albicilla/).
+
+
+      En forêt, le [cerf élaphe](/especie/cervus_elaphus/) est le seigneur des grands massifs humides. À
+      l'automne retentit son brame tandis que les [pics noirs](/especie/dryocopus_martius/) tambourinent sur
+      les troncs. La nuit, une quarantaine d'arbres-gîtes abritent des chauves-souris. Au printemps, les
+      amphibiens migrent vers les frayères : la [salamandre tachetée](/especie/salamandra_salamandra/),
+      crapauds, grenouilles et tritons, la « Route des Salamandres » près de la Fontaine Colette voyant passer
+      plusieurs milliers d'individus par an. Le sonneur à ventre jaune peuple les ornières et souilles créées
+      par les sangliers.
+
+
+      On répertorie plus de 650 espèces d'insectes, dont plus de 250 de papillons et près de 60 d'odonates,
+      ainsi que plus de 400 espèces de champignons.
+    visit: >-
+      Commencez par les observatoires et points de vue aménagés sur les digues et presqu'îles des trois lacs.
+      L'observatoire du lac d'Orient donne sur la zone en réserve : en hiver se révèle le paysage lunaire de
+      milliers de souches d'arbres ennoyées lors de la mise en eau, servant de dortoir aux grues, aux canards
+      et aux hardes de sangliers au crépuscule. Il n'est pas accessible aux personnes à mobilité réduite en
+      raison de sa hauteur. L'outil numérique du parc répertorie les oiseaux observés en temps réel sur chaque
+      site.
+
+
+      Côté marche, une trentaine d'itinéraires balisés sillonnent forêts, rivages et villages. Le sentier
+      didactique du palais du roi Chêne décrypte l'étagement forestier et est accessible à tous, tandis que le
+      circuit Colosse aux pieds d'argile parcourt sept kilomètres sur les argiles de la Champagne humide. À
+      vélo, la vélovoie des Lacs fait le tour du lac d'Orient et longe les berges du Temple et d'Amance.
+    history: >-
+      Le Moyen Âge nous a légué les chaînes d'étangs monastiques, tandis que l'époque contemporaine a modelé
+      les lacs-réservoirs. La plateforme J’observe mon Parc invite le public à consigner ses observations au
+      sein d'un observatoire participatif de la biodiversité cartographiant toutes les espèces locales.
+    before: >-
+      Certains observatoires peuvent être fermés temporairement pour des raisons de sécurité : consultez leur
+      accessibilité sur le site internet du parc avant votre venue. Le niveau des lacs fluctuant selon les
+      saisons, le paysage automnal est radicalement différent de celui du printemps.
+    around: >-
+      À trente kilomètres se trouve le [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Plus loin,
+      [Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/),
+      [Ķemeri](/lugar/kemeru-nacionalais-parks/), les forêts du [Parc national de
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) et [Store Mosse](/lugar/store-mosse-national-park/)
+      partagent la grue cendrée et le pygargue avec la forêt d'Orient.
+  de:
+    intro: >-
+      Vor zwei Jahrtausenden dehnte sich ein gigantischer Urwald von der Seine bis zur Marne aus. Römische
+      Straßen und herrschaftliche Rodungen lichteten das Kronendach; Klöster und Feudalherren legten im
+      Mittelalter über hundert Fischteiche in den Lehmböden an, und nach dem Zweiten Weltkrieg wurden die
+      großen Rückhaltebecken geflutet. Aus diesem Wandel entstand der Regionale Naturpark Forêt d'Orient in
+      der feuchten Champagne: ein Mosaik aus Wäldern, Seen, Teichen, Flüssen und Feuchtwiesen direkt auf der
+      Migrationsachse wandernder Großvögel. Diese Landschaftsgestaltung hat die Artenvielfalt paradoxerweise
+      vervielfacht.
+    landscape: >-
+      Hier regiert das Wasser, gesteuert durch den Boden. Vor Jahrmillionen hinterließ das Meer tonige,
+      wasserundurchlässige Schichten, und das Wasser prägte die feuchte Champagne: Feuchtwiesen,
+      Stieleichenwälder auf Ton, Auwälder und Tümpel. Ringsum ergänzen die trockene Kreide-Champagne, das
+      Barrois und flache Flusstäler diese Vielfalt.
+
+
+      Die großen Speicherseen Orient, Temple und Amance dienen seit Mitte der sechziger Jahre der
+      Hochwasserregulierung der Seine. Im Wald gedeihen alte Stieleichen auf feuchten Lehmböden. Das Gebiet
+      genießt internationalen Rang als Ramsar-Feuchtgebiet der Teiche der feuchten Champagne, europäischen
+      Schutz mit fast der Hälfte der Fläche im Natura-Netzwerk sowie nationalen Schutz durch zwei
+      Naturschutzgebiete, eines auf staatlicher und eines auf regionaler Ebene.
+    wildlife: >-
+      Das eindrucksvollste Schauspiel bieten die Vögel. Mit den Jahreszeiten und dem Absinken des
+      Wasserspiegels der Stauseen rasten Watvögel auf den Schlammflächen, während Großschreitvögel —
+      [Schwarzstorch](/especie/ciconia_nigra/), [Kranich](/especie/grus_grus/), Löffler, Rohrdommel und Reiher
+      — in verbleibenden Senken nach Fischen suchen. Kiebitze, Uferschnepfen, Brachvögel, Wasserläufer,
+      Schnepfen und Möwen stochern im Schlamm. Über 250 Vogelarten wurden dokumentiert; Höhepunkte sind der
+      Herbstzug mit riesigen Kranichschwärmen, die Überwinterung mit 20.000 bis 40.000 Wasservögeln je nach
+      Witterung und die Brutzeit. Die Parkverwaltung empfiehlt die Beobachtung von Schwarzstorch und
+      [Seeadler](/especie/haliaeetus_albicilla/).
+
+
+      Im Wald ist der [Rothirsch](/especie/cervus_elaphus/) der unbestrittene Herrscher der Feuchtwälder. Im
+      Herbst hallt seine Brunft durch den Forst, während [Schwarzspechte](/especie/dryocopus_martius/) an den
+      Bäumen trommeln. Nachts dienen rund vierzig Höhlenbäume als Fledermausquartiere. Im Frühjahr wandern
+      Amphibien zu ihren Laichgewässern: [Feuersalamander](/especie/salamandra_salamandra/), Erdkröten,
+      Frösche und Molche, wobei die Route des Salamandres nahe der Fontaine Colette am Orient-See alljährlich
+      mehrere Tausend Tiere verzeichnet. Die Gelbbauchunke besiedelt wassergefüllte Fahrspuren und Suhlen der
+      Wildschweine.
+
+
+      Über 650 Insektenarten sind nachgewiesen, darunter mehr als 250 Schmetterlingsarten und fast 60
+      Libellenarten, ergänzt durch über 400 Pilzarten.
+    visit: >-
+      Beginne deinen Rundgang an den Beobachtungshütten und Aussichtspunkten auf Dämmen und Halbinseln der
+      drei Seen. Die Hütte am Orient-See blickt auf die Ruhezone: Im Winter zeigt sich dort die surreale
+      Kulisse tausender versunkener Baumstümpfe, die Kranichen als Schlafplatz dienen, begleitet von Enten und
+      Wildschweinen in der Dämmerung. Sie ist wegen ihrer erhöhten Bauweise nicht barrierefrei zugänglich. Ein
+      digitales Portal des Parks zeigt tagesaktuell, welche Vögel wo beobachtet wurden.
+
+
+      Zum Wandern queren rund dreißig markierte Routen Wälder, Ufer und Dörfer. Der Lehrpfad am Palast des
+      Königs Eiche veranschaulicht die Stockwerke des Waldes und ist für alle Besucher barrierefrei, während
+      der Rundweg Colosse aux pieds d'argile sieben Kilometer über die Lehmböden der feuchten Champagne führt.
+      Radler nutzen die Vélovoie des Lacs um den Orient-See und entlang der Ufer von Temple und Amance.
+    history: >-
+      Das Mittelalter hinterließ Ketten historischer Teiche, während die Moderne die Speicherbecken schuf. Die
+      Plattform J'observe mon Parc lädt Naturbegeisterte ein, eigene Sichtungen in eine gemeinsame
+      Biodiversitätsdatenbank einzuspeisen, die alle Arten des Naturparks erfasst.
+    before: >-
+      Beobachtungshütten können aus Sicherheitsgründen zeitweise gesperrt sein: Prüfe den aktuellen Status
+      vorab auf der Website des Naturparks. Die Wasserstände der Seen schwanken jahreszeitlich stark, sodass
+      sich im Herbst ein völlig anderes Bild als im Frühjahr bietet.
+    around: >-
+      Dreißig Kilometer entfernt liegt der [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Weiter
+      entfernt teilen [Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/), der
+      [Ķemeri-Nationalpark](/lugar/kemeru-nacionalais-parks/), die Wälder des
+      [Müritz-Nationalparks](/lugar/nationalpark-muritz-waldgebiete/) und der [Nationalpark Store
+      Mosse](/lugar/store-mosse-national-park/) Kranich und Seeadler mit dem Orient-Wald.
+  it:
+    intro: >-
+      Due millenni fa un'immensa foresta primigenia si stendeva ininterrotta tra le valli della Senna e della
+      Marna. I secoli ne hanno disboscato ampie porzioni per aprire strade romane e grandi poderi agricoli;
+      ordini monastici e signorie feudali la punteggiarono di oltre cento stagni nel Medioevo, e dopo la
+      seconda guerra mondiale furono allagati i grandi bacini artificiali. Da questa evoluzione è scaturito il
+      Parco naturale regionale della Foresta d'Orient nella Champagne umida: una combinazione di boschi,
+      laghi, stagni, fiumi e prati alluvionali posta sull'asse migratorio dei grandi uccelli veleggiatori.
+      Questa matrice artificiale ha, paradossalmente, moltiplicato la biodiversità.
+    landscape: >-
+      Qui l'acqua governa gli equilibri naturali, modellata dal substrato. Milioni di anni fa il mare depositò
+      potenti coltri argillose impermeabili e la saturazione idrica plasmò la Champagne umida: prati
+      inondabili, querceti su argilla, boschi ripariali e pozze stagionali. Attorno, la Champagne gessosa, il
+      Barrois e le valli alluvionali completano la compagine ambientale.
+
+
+      I grandi laghi artificiali di Orient, Temple e Amance regolano la portata della Senna dalla metà degli
+      anni sessanta. Nella foresta vegetano querce farnie imponenti ancorate ai suoli argillosi. Il
+      comprensorio vanta riconoscimenti ecologici internazionali, con il sito Ramsar degli Stagni della
+      Champagne umida, europei, con quasi metà territorio nella rete Natura, e nazionali, con due riserve
+      naturali, una statale e una regionale.
+    wildlife: >-
+      Il fascino primario appartiene agli uccelli. Con l'avvicendarsi delle stagioni e il calo del livello
+      idrico dei bacini, i migratori sostano sulle distese fangose scoperte, e i grandi trampolieri — la
+      [cicogna nera](/especie/ciconia_nigra/), la [gru cenerina](/especie/grus_grus/), la spatola, il
+      tarabuso, gli aironi — approfittano delle buche d'acqua ricche di pesci intrappolati. Pavoncelle,
+      pittime, chiurli, pettegole, beccacce e gabbiani scandagliano i limi. Sono state censite oltre 250
+      specie di uccelli; gli apici dell'anno sono il passo autunnale con stormi oceanici di gru, lo
+      svernamento con 20.000-40.000 uccelli acquatici a seconda del gelo, e la riproduzione primaverile. Il
+      parco invita a ricercare la cicogna nera e l'[aquila di mare](/especie/haliaeetus_albicilla/).
+
+
+      Nel fitto, il [cervo nobile](/especie/cervus_elaphus/) domina i grandi boschi umidi. In autunno
+      riecheggia il bramito, a cui fa eco il tambureggiare dei [picchi neri](/especie/dryocopus_martius/) sui
+      fusti. Di notte si contano una quarantina di alberi-rifugio utilizzati dai pipistrelli. In primavera
+      migrano gli anfibi verso i siti di riproduzione: la [salamandra
+      pezzata](/especie/salamandra_salamandra/), rospi, rane e tritoni, con la «Route des Salamandres» presso
+      la Fontaine Colette che registra migliaia di esemplari l'anno. L'ululone dal ventre giallo vive nelle
+      pozzanghere delle piste forestali scavate dai cinghiali.
+
+
+      Si contano più di 650 specie di insetti, con oltre 250 farfalle e quasi 60 libellule, insieme a più di
+      400 macromiceti.
+    visit: >-
+      Muoviti dai capanni d'avvistamento e dai punti panoramici collocati lungo dighe e penisole dei tre
+      laghi. L'osservatorio del lago d'Orient si affaccia sul settore a riserva: in inverno mostra la
+      suggestiva distesa di ceppaie sommerse durante la creazione del bacino, rifugio serale per gru, anatre e
+      cinghiali. Non è accessibile a persone con disabilità motoria per via del dislivello. L'applicativo
+      digitale del parco segnala le specie osservate in tempo reale in ciascun punto.
+
+
+      A piedi, una trentina di sentieri segnati attraversa foreste, rive e borghi rurali. Il percorso
+      didattico del palazzo del re Quercia illustra le dinamiche forestali ed è pienamente accessibile a
+      tutti, mentre il circuito Colosse aux pieds d'argile si sviluppa per sette chilometri sui suoli
+      argillosi della Champagne umida. In bicicletta, la pista ciclabile Vélovoie des Lacs compie il periplo
+      del lago d'Orient costeggiando Temple e Amance.
+    history: >-
+      Il Medioevo ha lasciato la trama degli stagni monastici, mentre il Novecento ha introdotto i grandi
+      bacini idrici. La piattaforma J’observe mon Parc coinvolge residenti e turisti nell'inserimento delle
+      osservazioni faunistiche in un archivio condiviso per mappare tutte le specie dell'area protetta.
+    before: >-
+      Gli osservatori ornitologici possono essere temporaneamente interdetto per interventi manutentivi:
+      verifica lo stato sul sito web del parco prima di partire. Il livello dei bacini muta profondamente con
+      le stagioni, generando paesaggi autunnali radicalmente diversi da quelli primaverili.
+    around: >-
+      A trenta chilometri sorge il [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Più lontani,
+      [Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/), il [Parco nazionale di
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), i boschi del [Parco nazionale di
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) e il [Parco nazionale Store
+      Mosse](/lugar/store-mosse-national-park/) condividono gru cenerina e aquila di mare con la foresta
+      d'Orient.
+  pt:
+    intro: >-
+      Há dois milénios uma floresta colossal estendia-se da bacia do Sena à do Marne. Os séculos foram
+      desbravando o arvoredo com vias romanas e explorações agrícolas; mosteiros e senhorios salpicaram as
+      depressões argilosas de mais de cem lagoas na Idade Média, e após a Segunda Guerra Mundial encheram-se
+      as grandes albufeiras de retenção. Desta sucessão nasceu o Parque Natural Regional da Floresta de Orient
+      na Champagne húmida: um mosaico de bosques, lagos, lagoas, rios e prados inundáveis situado no próprio
+      eixo migratório das grandes aves europeias. Esta engenharia hidráulica traduziu-se, paradoxalmente, num
+      incremento notável da biodiversidade.
+    landscape: >-
+      Aqui a água dita as regras, comandada pelo subsolo. Há milhões de anos o mar depositou substratos
+      argilosos impermeáveis, e a presença hídrica constante desenhou a Champagne húmida: prados encharcados,
+      carvalhais sobre argila, matas ripícolas e charcos florestais. Em redor, a Champagne calcária, o Barrois
+      e os vales aluviais completam a matriz biogeográfica.
+
+
+      As três grandes albufeiras, Orient, Temple e Amance, integram o sistema de amortecimento de cheias do
+      Sena desde meados dos anos sessenta. Na floresta, carvalhos-robles centenários prosperam sobre solos
+      argilosos. O território beneficia de proteção a múltiplos níveis: reconhecido internacionalmente como
+      sítio Ramsar das Lagoas da Champagne Húmida, a nível europeu com quase metade da área integrada na rede
+      Natura, e no plano nacional através de duas reservas naturais, uma nacional e outra regional.
+    wildlife: >-
+      O espetáculo primordial cabe à avifauna. Conforme as épocas do ano e as variações do nível das
+      albufeiras, os migradores procuram alimento nos lodaçais desnudados, e as grandes aves pernaltas — a
+      [cegonha-preta](/especie/ciconia_nigra/), o [grou-comum](/especie/grus_grus/), o colhereiro, o abcaravão
+      e as garças — tiram partido das poças com peixes encurralados. Abibes, maçaricos, fuselos,
+      perna-vermelhas, galinholas e gaivotas revolvem a vasa. Estão recenseadas mais de 250 espécies de aves;
+      os pontos culminantes do ano são a migração de outono com os seus bandos de grous, o inverno reunindo
+      entre 20.000 e 40.000 aves aquáticas segundo a intensidade do frio, e o período reprodutivo. O parque
+      sugere a observação da cegonha-preta e da [águia-rabalva](/especie/haliaeetus_albicilla/).
+
+
+      No arvoredo, o [veado](/especie/cervus_elaphus/) reina nos grandes maciços húmidos. No outono ressoa a
+      brama, cruzada com o tamborilar dos [pica-paus-pretos](/especie/dryocopus_martius/) nos troncos. De
+      noite identificam-se cerca de quarenta árvores-abrigo de morcegos. Na primavera os anfíbios migram para
+      as charcas de reprodução: a [salamandra-de-pintas-amarelas](/especie/salamandra_salamandra/), sapos, rãs
+      e tritões, com a «Route des Salamandres» junto à Fontaine Colette a registar a passagem de milhares de
+      indivíduos por ano. O bombina-de-ventre-amarelo coloniza os rodados encharcados e lameiros formados
+      pelos javalis.
+
+
+      Contam-se mais de 650 espécies de insetos, com mais de 250 de borboletas e quase 60 de libélulas e
+      donzelinhas, a par de mais de 400 espécies de cogumelos.
+    visit: >-
+      Começa pelos observatórios e miradouros instalados em diques e penínsulas em torno das três albufeiras.
+      O observatório do lago de Orient debruça-se sobre a zona de reserva integral: no inverno desvenda a
+      paisagem impressionante de milhares de cepos da floresta submersa no enchimento, servindo de dormitório
+      a grous, patos e javalis ao anoitecer. Não é acessível a pessoas com mobilidade reduzida devido à sua
+      estrutura sobrelevada. O portal digital do parque informa as aves observadas em tempo real em cada
+      ponto.
+
+
+      A pé, cerca de trinta percursos pedestres cruzam bosques, margens e aldeias. O trilho interpretativo do
+      palácio do rei Carvalho aborda os estratos florestais e é acessível a todos os públicos, enquanto o
+      circuito Colosse aux pieds d'argile percorre sete quilómetros pelas argilas da Champagne húmida. De
+      bicicleta, a ciclovia dos Lagos contorna o lago de Orient e acompanha as margens de Temple e Amance.
+    history: >-
+      A Idade Média legou as cadeias de lagoas piscatórias, ao passo que o século XX implantou as albufeiras
+      de retenção. O portal J’observe mon Parc convida a comunidade a registar dados naturalistas numa base
+      partilhada que cataloga e georreferencia todas as espécies do território.
+    before: >-
+      Os observatórios podem encerrar temporariamente por motivos de segurança: confirma o seu estado no sítio
+      web do parque antes da deslocação. Os níveis das albufeiras sofrem fortes oscilações estacionais, pelo
+      que o cenário de outono difere substancialmente do aspeto primaveril.
+    around: >-
+      A trinta quilómetros situa-se o [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/). Mais distantes,
+      [Schorfheide-Chorin](/lugar/schorfheide-chorin-forest-landscape/),
+      [Ķemeri](/lugar/kemeru-nacionalais-parks/), as matas do [Parque Nacional de
+      Müritz](/lugar/nationalpark-muritz-waldgebiete/) e [Store Mosse](/lugar/store-mosse-national-park/)
+      partilham o grou-comum e a águia-rabalva com a floresta de Orient.
+fuentes:
+  - url: https://www.pnr-foret-orient.fr/decouvrir/la-biodiversite/
+    titulo: La biodiversité - PNR Forêt d'Orient
+    fecha_consulta: '2026-10-30'
+  - url: https://www.pnr-foret-orient.fr/experimenter/observer-les-oiseaux/
+    titulo: Où observer les oiseaux ? - PNR Forêt d'Orient
+    fecha_consulta: '2026-10-30'
+  - url: https://www.pnr-foret-orient.fr/experimenter/balades/
+    titulo: Les balades à pied ou à vélo - PNR Forêt d'Orient
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Parc_naturel_r%C3%A9gional_de_la_For%C3%AAt_d%27Orient
+    titulo: Parc naturel régional de la Forêt d'Orient - Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.pnr-foret-orient.fr/patrimoine-naturel/observatoire-du-lac-dorient/
+    titulo: Observatoire du Lac d'Orient - PNR de la Forêt d'Orient
+    fecha_consulta: '2026-10-30'

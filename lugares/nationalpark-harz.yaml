@@ -1,0 +1,739 @@
+id: nationalpark-harz
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Harz
+  en: Harz National Park
+  fr: Parc national du Harz
+  de: Nationalpark Harz
+  it: Parco Nazionale dello Harz
+  pt: Parque Nacional de Harz
+nombre_original: Nationalpark Harz
+alias:
+  - Harz Wilderness & Brocken Subalpine Plateau (Nationalpark Harz)
+paises:
+  - DE
+region:
+  es: Baja Sajonia / Sajonia-Anhalt (Wernigerode / Bad Harzburg)
+  en: Lower Saxony / Saxony-Anhalt (Wernigerode / Bad Harzburg)
+  fr: Basse-Saxe / Saxe-Anhalt (Wernigerode / Bad Harzburg)
+  de: Niedersachsen / Sachsen-Anhalt (Wernigerode / Bad Harzburg)
+  it: Bassa Sassonia / Sassonia-Anhalt (Wernigerode / Bad Harzburg)
+  pt: Baixa Saxónia / Saxónia-Anhalt (Wernigerode / Bad Harzburg)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 51.8
+  lon: 10.62
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 103142
+  nombre_en_la_fuente: Harz
+  categoria_uicn: II
+  capa: capas/cdda/nationalpark-harz.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+  - primary_forest
+  - wetland
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - lynx_lynx
+  - cervus_elaphus
+  - felis_silvestris
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en el pico Brocken (1.141 m) y tren de vapor; baja en turberas y senderos del sur
+  en: High on Brocken peak (1,141 m) and steam train; low across southern mires and trails
+  fr: Forte au mont Brocken (1 141 m) et au train à vapeur ; faible dans les tourbières et sentiers du sud
+  de: Hoch auf dem Brocken (1.141 m) und an der Brockenbahn; gering in Mooren und Südtälern
+  it: >-
+    Alta sulla cima del Brocken (1.141 m) e sul treno a vapore; bassa nelle torbiere e sui sentieri
+    meridionali
+  pt: Alta no cume do Brocken (1.141 m) e no comboio a vapor; baixa nas turfeiras e trilhos do sul
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Nationalpark Harz Official
+    url: https://www.nationalpark-harz.de/
+  - titulo: Conservación — Proyecto del lince del Harz
+    url: https://www.luchsprojekt-harz.de/
+  - titulo: Avisos — Cierres actuales de senderos
+    url: https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell.php
+  - titulo: Normas — Comportamiento en el parque
+    url: https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark.php
+  - titulo: Rutas — Senderismo en el Harz
+    url: https://www.nationalpark-harz.de/de/natur-erleben/wandern/
+  - titulo: Centros de visitantes — Instalaciones del parque
+    url: https://www.nationalpark-harz.de/de/besucherzentren/
+resumen:
+  es: >-
+    La cordillera más septentrional de Alemania, culminando en la legendaria cumbre mítica del Brocken
+    envuelta en brumas.
+  en: Germany's northernmost mountain range, culminating in the legendary mist-shrouded summit of the Brocken.
+  fr: >-
+    Le massif montagneux le plus septentrional d’Allemagne, culminant au mythique sommet du Brocken enveloppé
+    de brumes.
+  de: Deutschlands nördlichstes Mittelgebirge, gekrönt vom sagenumwobenen, nebelverhangenen Brocken.
+  it: >-
+    La catena montuosa più settentrionale della Germania, culminante nella leggendaria vetta del Brocken
+    avvolta dalle nebbie.
+  pt: >-
+    A cordilheira montanhosa mais setentrional da Alemanha, culminando no lendário cume do Brocken envolto em
+    brumas.
+unico:
+  es: Aquí se encuentran bosques que recuperan su dinámica natural y la historia del regreso del lince al Harz.
+  en: >-
+    Here you find mountain forests reclaiming their natural dynamics and the celebrated conservation saga of
+    the lynx's return.
+  fr: >-
+    Ici se rencontrent des forêts qui retrouvent leur dynamique naturelle et l’épopée du retour du lynx dans
+    le Harz.
+  de: >-
+    Hier erlebst du Bergwälder auf dem Weg zurück zur Wildnis und die Erfolgsgeschichte der Rückkehr des
+    Luchses in den Harz.
+  it: >-
+    Qui si incontrano foreste che riscoprono la dinamica naturale e l’epopea del ritorno della lince nello
+    Harz.
+  pt: >-
+    Aqui encontram-se florestas que recuperam a dinâmica natural e a saga conservacionista do regresso do
+    lince a Harz.
+observaciones:
+  es: >-
+    En el parque rige la obligación absoluta de no salirse de los senderos señalizados. Cada año se recogen
+    más de mil sacos de basura que ponen en peligro a la fauna: llévate tus residuos. Consulta los avisos de
+    cierre de senderos antes de salir y respeta las barreras. En las alturas el clima de montaña es duro, así
+    que lleva calzado robusto y ropa para un cambio brusco de tiempo.
+texto:
+  es:
+    intro: >-
+      Durante décadas, la frontera que partía Alemania en dos cruzó el Harz, y grandes zonas de la sierra
+      quedaron cerradas al público. El acceso quedó restringido y, desde agosto de 1961, ni siquiera se podía
+      subir al Brocken. Parte de aquel territorio acabó convertido en parque nacional: dos parques, uno a cada
+      lado de la antigua línea, que desde 2006 son uno solo y forman el primero de Alemania que abarca dos
+      estados federados.
+
+
+      Hoy el Parque Nacional del Harz ocupa unas 24.700 hectáreas, cerca de una décima parte de todo el
+      macizo, entre Wernigerode e Ilsenburg al norte y Herzberg y Bad Lauterberg al sur.
+    landscape: >-
+      El Harz se sube por escalones. En el borde el terreno anda por los 240 m en el norte y los 270 m en el
+      sur; desde ahí trepa hasta los 1.141 m de la cima del Brocken, la más alta del parque, y cada franja de
+      altura tiene su propio bosque. Por debajo de unos 600 m mandan los árboles caducifolios y, más arriba,
+      la pícea. En la zona subalpina hay árboles de más de 250 años doblados por el viento, y entre ellos se
+      abren turberas altas que tienen valor internacional por su singularidad y su flora.
+
+
+      La abundancia de pícea tiene una historia humana. La minería y las fundiciones consumieron tanta madera
+      que se sobreexplotaron los bosques. Desde comienzos del siglo XVIII, las repoblaciones favorecieron la
+      pícea, de crecimiento rápido, y acabaron extendiendo rodales uniformes. En las cotas más altas, en
+      cambio, sí hay bosques naturales de pícea, acompañada de serbal de cazadores.
+
+
+      El agua también tiene historia. En el parque nacen ríos, y el estanque del Oderteich, terminado en 1722,
+      recogía el agua del Oder para abastecer las minas de Sankt Andreasberg.
+    wildlife: >-
+      El animal que da fama al parque es el [lince](/especie/lynx_lynx/). El último del Harz cayó en una
+      cacería; en 1999 se decidió reintroducirlo y, entre 2000 y 2004, se soltaron 19 criados en zoos. Desde
+      2002 nacen camadas en libertad. Verlo en el monte lleva suerte, y por eso hay un recinto en Rabenklippe,
+      cerca de Bad Harzburg, donde puedes mirar a los linces tumbados al sol, trepando a los árboles o
+      recorriendo su territorio. La alimentación pública, muy popular, se hace los miércoles y sábados por la
+      tarde.
+
+
+      No todos los regresos salieron bien. Del [urogallo](/especie/tetrao_urogallus/), extinguido en el Harz,
+      se criaron unos mil ejemplares para soltarlos, pero la población no resultó estable y el proyecto se
+      cerró. Aun así hay un recinto de urogallo cerca de Lonau.
+
+
+      Hay más fauna que mirar. El Harz es hoy uno de los hábitats más importantes de Alemania para el [gato
+      montés](/especie/felis_silvestris/), y el [ciervo rojo](/especie/cervus_elaphus/) y el
+      [corzo](/especie/capreolus_capreolus/) son especies importantes del parque. Entre los animales raros
+      están el [mirlo acuático](/especie/cinclus_cinclus/), la [cigüeña negra](/especie/ciconia_nigra/) y el
+      [halcón peregrino](/especie/falco_peregrinus/). En flora, la anémona del Brocken crece en Alemania solo
+      en la meseta del Brocken; el Jardín del Brocken, un jardín botánico en la cumbre, se dedica a proteger
+      plantas y a restaurar la cima.
+
+
+      Para llegar al recinto del lince puedes caminar desde Bad Harzburg; consulta el recorrido y el horario
+      de temporada del autobús 875 antes de organizar la visita. En otoño hay salidas guiadas con forestales y
+      rangers del parque. En invierno, las estaciones del WaldWandelWeg se desmontan.
+    visit: >-
+      Empieza por un centro de visitantes, que en el Harz son varios y cada uno cuenta algo distinto. El
+      Brockenhaus, en la cima, ofrece una exposición sin barreras en tres plantas sobre la historia y la fauna
+      de la montaña, y conserva la cúpula con las grandes antenas de la época comunista y una plataforma
+      panorámica. En TorfHaus, la exposición sin barreras recorre el Cinturón Verde, con un cine donde puedes
+      seguir una excursión hasta el Brocken o encontrarte linces y ciervos. El de Sankt Andreasberg explica la
+      geología del parque y cómo la minería marcó el bosque actual, y la HarzWaldHaus de Bad Harzburg es una
+      exposición interactiva sobre la fauna y la flora del Harz, con el mayor hormiguero visible de Alemania.
+
+
+      Para caminar hay unos 600 kilómetros de senderos señalizados. Una primera salida corta es el
+      WaldWandelWeg, de 180 metros y diez minutos, casi todo por estrechas pasarelas de madera, que enseña el
+      bosque del futuro: el escarabajo de la corteza, los troncos caídos y árboles pioneros como serbales,
+      abedules y sauces. Se llega desde TorfHaus en una caminata de unos 1,5 kilómetros. Si quieres subir al
+      Brocken, el recorrido por el Eckerloch desde Schierke mide 10 km, ida y vuelta, lleva de cuatro a cinco
+      horas y supera unos 500 metros de subida por terreno pedregoso y con raíces. Y para ver fauna, las dos
+      estaciones de observación están junto al Molkenhaus, cerca de Bad Harzburg, y en el valle del Oder,
+      entre Oderhaus y Rinderstall; la segunda no tiene barreras. Hay que ir con paciencia: los animales no
+      aparecen cuando uno quiere.
+
+
+      La Harzer Wandernadel reparte unas 30 estaciones de sellado por el parque para quien quiera coleccionar
+      la insignia WildnisEntdecker.
+    history: >-
+      La parte oriental del parque nació el 1 de octubre de 1990, dos días antes de la reunificación alemana;
+      la occidental, en Baja Sajonia, en 1994, con 15.800 ha. La antigua frontera mantuvo grandes zonas
+      cerradas al público durante décadas, aunque tuvo también fortificaciones y usos militares.
+
+
+      Hoy más de 10.000 especies de animales, plantas y hongos viven en el parque, pero el bosque sufre. El
+      escarabajo de la corteza avanza por el cambio climático y ha dejado manchas de pícea muerta. Es una
+      amenaza para los monocultivos, aunque también la ocasión de que el bosque se renueve por sí solo.
+    before: >-
+      En el parque rige la obligación absoluta de no salirse de los senderos señalizados. Cada año se recogen
+      más de mil sacos de basura que ponen en peligro a la fauna: llévate tus residuos. Consulta los avisos de
+      cierre de senderos antes de salir y respeta las barreras. En las alturas el clima de montaña es duro,
+      así que lleva calzado robusto y ropa para un cambio brusco de tiempo.
+  en:
+    intro: >-
+      For decades, the border dividing Germany severed the Harz, leaving vast sectors of the range strictly
+      off-limits to the public. Access was severely restricted, and from August 1961 nobody was even permitted
+      atop the Brocken. Portions of that closed landscape were ultimately protected as a national park:
+      originally two sister parks on either side of the former divide, which merged in 2006 into a single
+      entity, becoming Germany's first cross-state national park.
+
+
+      Today Harz National Park encompasses some 24,700 hectares—roughly a tenth of the entire mountain
+      massif—spanning from Wernigerode and Ilsenburg in the north to Herzberg and Bad Lauterberg in the south.
+    landscape: >-
+      The Harz rises in marked topographic steps. Around the perimeter the terrain begins around 240 m in the
+      north and 270 m in the south, climbing up to the 1,141 m peak of the Brocken, the highest point in
+      northern Germany, with each elevation tier supporting distinct woodland types. Below roughly 600 m
+      deciduous hardwoods prevail, yielding to Norway spruce higher up. In the harsh subalpine zone gnarled
+      spruces aged over 250 years endure wind and frost, interspersed with open raised peat bogs of
+      international conservation significance.
+
+
+      The historical dominance of spruce reflects centuries of human industry. Local silver and copper mining
+      and smelters consumed vast amounts of timber, depleting native mixed forests. Beginning in the
+      eighteenth century, reforestation heavily prioritized fast-growing spruce, creating uniform stands. On
+      the highest windswept summits, however, original natural spruce taiga accompanied by rowan trees
+      naturally persisted.
+
+
+      Water also carries historical resonance. Numerous mountain streams rise within the park, and the
+      historic Oderteich reservoir, completed in 1722, collected the headwaters of the Oder to drive
+      waterwheels for the mines of Sankt Andreasberg.
+    wildlife: >-
+      The creature that defines the park is the [Eurasian lynx](/especie/lynx_lynx/). The last indigenous lynx
+      of the Harz was killed in a hunt; in 1999 authorities launched a reintroduction programme, releasing 19
+      zoo-bred cats between 2000 and 2004. Wild litters have been born regularly since 2002. Spotting a lynx
+      in the vast woods requires immense luck, which is why an observation enclosure operates at Rabenklippe
+      near Bad Harzburg, allowing you to watch lynx basking on rocky ledges or patrolling their wooded run.
+      Public feeding demonstrations on Wednesday and Saturday afternoons are very popular.
+
+
+      Not every reintroduction succeeded. For the [western capercaillie](/especie/tetrao_urogallus/), once
+      extinct across the Harz, around one thousand captive-bred birds were released, yet the population failed
+      to establish self-sustaining numbers and the effort ended. A capercaillie aviary remains accessible near
+      Lonau.
+
+
+      Other wildlife abounds. The Harz represents one of Germany's premier strongholds for the [European
+      wildcat](/especie/felis_silvestris/), while [red deer](/especie/cervus_elaphus/) and [roe
+      deer](/especie/capreolus_capreolus/) are prominent large herbivores. Rare native fauna includes the
+      [white-throated dipper](/especie/cinclus_cinclus/), [black stork](/especie/ciconia_nigra/), and
+      [peregrine falcon](/especie/falco_peregrinus/). Among flora, the endemic Brocken anemone grows in
+      Germany exclusively across the high plateau; the Brockengarten alpine botanical garden on the summit is
+      dedicated to preserving rare plants and restoring the peak.
+
+
+      To reach the lynx enclosure you can hike up from Bad Harzburg; check the seasonal schedule for bus line
+      875 beforehand. In autumn rangers and foresters conduct guided rutting and ecology walks. In winter,
+      interpretive stations along the WaldWandelWeg are temporarily dismantled.
+    visit: >-
+      Begin at one of the visitor centres, each focusing on a distinct theme. The Brockenhaus atop the peak
+      houses a barrier-free exhibition over three storeys exploring mountain history, climate, and wildlife,
+      preserving the Cold War radar dome and an open-air observation deck. At TorfHaus, a barrier-free
+      exhibition showcases the European Green Belt, featuring an interactive cinema where you can simulate
+      hikes or encounters with wildlife. The Sankt Andreasberg centre explains mountain geology and mining
+      history, while the HarzWaldHaus in Bad Harzburg presents woodland ecology, featuring Germany’s largest
+      indoor observation anthill.
+
+
+      Over 600 kilometres of waymarked paths crisscross the terrain. An easy introductory stroll is the
+      WaldWandelWeg, spanning 180 metres and ten minutes mostly on wooden boardwalks, which demonstrates
+      forest change: bark beetle dynamics, standing deadwood, and pioneering rowans and birches. It is reached
+      via a 1.5-kilometre walk from TorfHaus. For ascending the Brocken, the rocky Eckerloch trail from
+      Schierke measures 10 km round trip, requires four to five hours, and tackles some 500 metres of stony
+      climb. For wildlife watching, two public hides are located beside Molkenhaus near Bad Harzburg and in
+      the Oder valley between Oderhaus and Rinderstall (barrier-free). Patience is essential.
+
+
+      The Harzer Wandernadel hiking network maintains roughly 30 stamp checkpoints distributed throughout the
+      park for collecting the coveted WildnisEntdecker badge.
+    history: >-
+      The eastern national park in Saxony-Anhalt was gazetted on 1 October 1990, just two days prior to German
+      reunification; the western sector in Lower Saxony was established in 1994, spanning 15,800 ha. Decades
+      of Iron Curtain border closure shielded core wilderness habitats from development, despite military
+      perimeter fencing.
+
+
+      Today over 10,000 species of animals, plants, and fungi inhabit the park, though woodlands face severe
+      stress. Climate-driven drought and native bark beetle outbreaks have left extensive stands of gray
+      spruce deadwood. While challenging for spruce monocultures, this process facilitates an organic rebirth
+      into resilient mixed natural forest.
+    before: >-
+      A strict rule to remain on marked trails applies throughout the park. Each year over one thousand sacks
+      of discarded litter are collected, posing grave threats to wildlife: please carry out all trash. Check
+      trail closure advisories before setting out and respect seasonal diversions. High-elevation conditions
+      are notoriously harsh and unpredictable; wear sturdy footwear and pack weatherproof layers.
+  fr:
+    intro: >-
+      Pendant des décennies, la frontière scindant l’Allemagne en deux traversa le Harz, soustrayant de vastes
+      pans de montagne à la fréquentation publique. Les accès étaient sévèrement contrôlés et, dès août 1961,
+      il fut formellement interdit de gravir le Brocken. Une partie de cet espace interdit devint par la suite
+      parc national : deux parcs distincts de part et d’autre de l’ancienne frontière, réunis en 2006 en une
+      seule entité, formant le premier parc national interrégional d’Allemagne.
+
+
+      Aujourd’hui, le Parc national du Harz s’étend sur environ 24 700 hectares, soit près d’un dixième du
+      massif montagneux, entre Wernigerode et Ilsenburg au nord et Herzberg et Bad Lauterberg au sud.
+    landscape: >-
+      Le Harz s’élève par gradins successifs. En bordure, le relief s’étage vers 240 m au nord et 270 m au
+      sud, avant de s’élever jusqu’aux 1 141 m d’altitude du Brocken, le point culminant du parc, chaque
+      horizon d’altitude hébergeant son propre écosystème forestier. En dessous de 600 m environ règnent les
+      feuillus, relayés plus haut par l’épicéa. Dans l’étage subalpin se dressent des épicéas de plus de 250
+      ans torturés par le vent, entre lesquels s’étendent des tourbières bombées d’intérêt international pour
+      leur flore remarquable.
+
+
+      L’abondance de l’épicéa porte une empreinte humaine séculaire. L’exploitation minière et les fonderies
+      consommèrent jadis tant de bois que les forêts d’origine furent surexploitées. Dès le dix-huitième
+      siècle, les reboisements favorisèrent l’épicéa à croissance rapide, créant des peuplements
+      monospécifiques. En revanche, sur les plus hauts sommets subsistent d’authentiques pessières naturelles
+      boréo-alpines mêlées de sorbiers des oiseleurs.
+
+
+      L’eau a aussi façonné l’histoire : le parc donne naissance à de nombreuses rivières, et la retenue d’eau
+      de l’Oderteich, achevée en 1722, captait les eaux de l’Oder pour actionner les machines minières de
+      Sankt Andreasberg.
+    wildlife: >-
+      L’animal emblématique du parc est sans conteste le [lynx boréal](/especie/lynx_lynx/). Le dernier lynx
+      autochtone du Harz périt lors d’une chasse ; en 1999 fut prise la décision de le réintroduire et, entre
+      2000 et 2004 ce sont 19 individus nés en captivité qui furent relâchés. Dès 2002 naquirent les premières
+      portées sauvages. L’apercevoir en liberté exige une chance inouïe, d’où l’aménagement d’un enclos
+      d’observation à Rabenklippe, près de Bad Harzburg, où l’on peut observer les félins allongés sur les
+      rochers ou arpentant leur domaine boisé. Les séances publiques de nourrissage le mercredi et le samedi
+      après-midi sont très courues.
+
+
+      Toutes les réintroductions ne furent pas couronnées de succès : pour le [grand
+      tétras](/especie/tetrao_urogallus/), éteint dans le Harz, près de mille spécimens d’élevage furent
+      relâchés sans que la population ne parvienne à s’auto-suffire, scellant la fin du projet. Un enclos
+      pédagogique reste néanmoins visible près de Lonau.
+
+
+      La faune réserve bien d’autres observations. Le Harz est aujourd’hui un sanctuaire majeur pour le [chat
+      sauvage](/especie/felis_silvestris/), tandis que le [cerf élaphe](/especie/cervus_elaphus/) et le
+      [chevreuil](/especie/capreolus_capreolus/) sont des ongulés très représentés. Parmi les oiseaux
+      remarquables figurent le [cincle plongeur](/especie/cinclus_cinclus/), la [cigogne
+      noire](/especie/ciconia_nigra/) et le [faucon pèlerin](/especie/falco_peregrinus/). Côté flore,
+      l’anémone du Brocken ne pousse en Allemagne que sur les crêtes de ce sommet ; le jardin botanique
+      d’altitude du Brockengarten y veille sur les plantes endémiques alpines.
+
+
+      Pour rejoindre l’enclos des lynx, vous pouvez cheminer à pied depuis Bad Harzburg ; vérifiez les
+      horaires de saison de la ligne de bus 875 avant votre départ. En automne, des sorties accompagnées sont
+      organisées par les rangers. En hiver, les bornes du WaldWandelWeg sont démontées pour la saison froide.
+    visit: >-
+      Commencez par l’un des centres d’accueil, chacun développant une thématique originale. La Brockenhaus,
+      au sommet, propose une exposition accessible sur trois niveaux consacrée à l’histoire et à la nature du
+      massif, coiffée de la coupole d’antennes de l’époque de la guerre froide et d’une terrasse panoramique.
+      À TorfHaus, l’espace accessible explore la Ceinture verte avec un cinéma simulant l’ascension du mont ou
+      des face-à-face avec la faune. La maison de Sankt Andreasberg explicite la géologie et l’héritage
+      minier, tandis que la HarzWaldHaus de Bad Harzburg présente la biodiversité et abrite la plus grande
+      fourmilière visible d’Allemagne.
+
+
+      Près de 600 kilomètres de sentiers balisés quadrillent le parc. Une première sortie idéale est le
+      WaldWandelWeg : 180 mètres et dix minutes, presque entièrement sur caillebotis de bois, dévoilant la
+      métamorphose forestière entre scolytes, chablis et repousses de sorbiers et de bouleaux. On y accède
+      depuis TorfHaus par une marche d’environ 1,5 kilomètre. Pour gravir le Brocken, le sentier rocailleux de
+      l’Eckerloch depuis Schierke fait 10 km aller-retour, requiert quatre à cinq heures et gravit environ 500
+      mètres de dénivelé sur un terrain caillouteux. Pour contempler la grande faune, deux postes d’affût sont
+      aménagés au Molkenhaus près de Bad Harzburg et dans la vallée de l’Oder entre Oderhaus et Rinderstall
+      (accessible aux fauteuils). La patience s’impose.
+
+
+      Le réseau de randonnée Harzer Wandernadel compte environ 30 stations de poinçonnage réparties dans le
+      parc pour valider le badge WildnisEntdecker.
+    history: >-
+      Le secteur oriental du parc naquit le 1 octobre 1990, deux jours avant la réunification allemande ; le
+      secteur occidental, en Basse-Saxe, fut fondé en 1994 avec 15 800 ha. L’ancien no man’s land frontalier
+      préserva de vastes espaces des atteintes urbaines, malgré la présence de clôtures et de dispositifs
+      militaires.
+
+
+      Aujourd’hui, plus de 10 000 espèces animales, végétales et fongiques peuplent le parc, bien que la forêt
+      subisse de fortes pressions. Le scolyte typographe prolifère sous l’effet du dérèglement climatique,
+      laissant de vastes nécropoles d’épicéas secs. Un défi pour les anciennes plantations industrielles, mais
+      aussi l’amorce d’une vigoureuse renaissance forestière naturelle.
+    before: >-
+      Le respect scrupuleux des sentiers balisés est obligatoire dans l’ensemble du parc. Chaque année, plus
+      de mille sacs de détritus souillant la nature sont ramassés, menaçant la faune : emportez tous vos
+      déchets. Consultez les avis de fermeture d’itinéraires avant de partir et respectez les barrières. Sur
+      les crêtes, le climat de montagne est rigoureux : prévoyez de bonnes chaussures et des vêtements
+      coupe-vent étanches.
+  de:
+    intro: >-
+      Jahrzehntelang verlief die innerdeutsche Grenze mitten durch den Harz, und weite Hochlagen blieben für
+      die Bevölkerung hermetisch abgeriegelt. Der Zutritt war streng untersagt, und ab August 1961 durfte
+      niemand mehr auf den Brocken steigen. Aus Teilen dieses Sperrgebiets gingen schließlich Nationalparke
+      hervor: zwei Schwesterparke beiderseits der früheren Demarkationslinie, die 2006 zu einem einzigen
+      Schutzgebiet fusionierten und Deutschlands ersten länderübergreifenden Nationalpark bilden.
+
+
+      Heute umfasst der Nationalpark Harz rund 24.700 Hektar—etwa ein Zehntel des gesamten
+      Gebirgsstockes—zwischen Wernigerode und Ilsenburg im Norden sowie Herzberg und Bad Lauterberg im Süden.
+    landscape: >-
+      Der Harz steigt in markanten Höhenstufen an. An den Gebirgsrändern liegt das Gelände bei 240 m im Norden
+      und 270 m im Süden; von dort zieht es sich bis auf 1.141 m am Gipfel des Brockens hinauf, wobei jede
+      Höhenzone ihren eigenen Waldcharakter trägt. Unterhalb von rund 600 m dominieren Laubhölzer, darüber
+      übernimmt die Fichte. In der subalpinen Krummholzzone trotzen über 250 Jahre alte Fichten Wind und
+      Wetter, unterbrochen von offenen Hochmooren von internationalem Rang.
+
+
+      Die weite Verbreitung der Fichte hat historische Ursachen: Bergbau und Hüttenwesen verbrauchten
+      ungeheure Holzmengen, sodass die Urwälder kahlgeschlagen wurden. Ab dem achtzehnten Jahrhundert setzten
+      Aufforstungen auf die schnellwüchsige Fichte und begründeten Reinbestände. Auf den höchsten Kammlagen
+      hingegen existieren autochthone montane Fichtenwälder mit Ebereschen von Natur aus.
+
+
+      Auch das Wasser blickt auf eine lange Nutzungsgeschichte zurück: Im Park entspringen viele
+      Gebirgsflüsse, und der 1722 vollendete Oderteich staute einst das Wasser der Oder für den Sankt
+      Andreasberger Bergbau.
+    wildlife: >-
+      Das Symboltier des Parks ist der [Eurasische Luchs](/especie/lynx_lynx/). Der letzte Luchs des Altharzes
+      wurde einst erlegt; 1999 beschloss man die Wiederansiedlung und wilderte zwischen 2000 und 2004
+      insgesamt 19 Gehegetiere aus. Seit 2002 werden regelmäßig Jungtiere in freier Wildbahn geboren. Da eine
+      Begegnung im dichten Wald Glückssache bleibt, bietet das Luchsgehege an den Rabenklippen bei Bad
+      Harzburg Gelegenheit, die Tiere auf Felskanzeln zu beobachten. Die Schaufütterungen mittwochs und
+      samstags nachmittags erfreuen sich großer Beliebtheit.
+
+
+      Nicht jede Auswilderung glückte: Für das im Harz ausgestorbene [Auerhuhn](/especie/tetrao_urogallus/)
+      wurden rund tausend Tiere nachgezüchtet und freigelassen, doch der Bestand stabilisierte sich nicht und
+      das Projekt wurde beendet. Ein Schaugehege besteht nahe Lonau.
+
+
+      Die Tierwelt hält weitere Höhepunkte bereit: Der Harz zählt zu den bedeutendsten Rückzugsräumen für die
+      [Wildkatze](/especie/felis_silvestris/) in Deutschland; [Rothirsch](/especie/cervus_elaphus/) und
+      [Reh](/especie/capreolus_capreolus/) sind weit verbreitet. Zu den seltenen Vögeln gehören
+      [Wasseramsel](/especie/cinclus_cinclus/), [Schwarzstorch](/especie/ciconia_nigra/) und
+      [Wanderfalke](/especie/falco_peregrinus/). Botanisch ist die Brocken-Anemone hervorzuheben, die in
+      Deutschland nur auf dieser Hochfläche wächst; der Brockengarten am Gipfel widmet sich dem Florenschutz.
+
+
+      Zum Luchsgehege gelangst du zu Fuß ab Bad Harzburg; prüfe vorab Fahrplan und Saisonzeiten des Busses
+      875. Im Herbst bieten Ranger Brunft- und Pilzwanderungen an. Im Winter werden die Tafeln des
+      WaldWandelWegs wetterbedingt abgebaut.
+    visit: >-
+      Beginne deinen Besuch in einem der Besucherzentren, die jeweils eigene Themenschwerpunkte setzen. Das
+      Brockenhaus auf der Kuppe bietet eine barrierefreie Schau auf drei Etagen zu Berggeschichte, Klima und
+      Natur sowie die historische Radarkuppel samt Aussichtsplattform. Im Nationalpark-Besucherzentrum
+      TorfHaus veranschaulicht eine barrierefreie Ausstellung das Grüne Band samt Erlebniskino. Die Station
+      Sankt Andreasberg widmet sich Geologie und Bergbaugeschichte, während das HarzWaldHaus in Bad Harzburg
+      den größten sichtbaren Ameisenhaufen Deutschlands präsentiert.
+
+
+      Rund 600 Kilometer markierte Wanderwege erschließen das Schutzgebiet. Ein idealer Einstieg ist der
+      WaldWandelWeg: 180 Meter lang, Gehzeit zehn Minuten auf Holzstegen, der den Wandel durch Borkenkäfer,
+      Totholz und Pionierbaumarten zeigt. Du erreichst ihn von TorfHaus nach etwa 1,5 Kilometern Fußweg. Für
+      den Brockenaufstieg verlangt der Eckerlochstieg ab Schierke auf 10 km Hin- und Rückweg vier bis fünf
+      Stunden und rund 500 Höhenmeter über Wurzeln und Blockwerk. Zur Wildtierbeobachtung stehen zwei
+      Beobachtungsstationen am Molkenhaus bei Bad Harzburg und im Odertal zwischen Oderhaus und Rinderstall
+      (barrierefrei) bereit.
+
+
+      Die Harzer Wandernadel hält rund 30 Stempelstellen im Park bereit, um das WildnisEntdecker-Abzeichen zu
+      erwandern.
+    history: >-
+      Der östliche Nationalparkteil wurde am 1. Oktober 1990, zwei Tage vor der Wiedervereinigung, gegründet;
+      der westliche in Niedersachsen 1994 mit 15.800 ha. Die frühere Grenzlage bewahrte wertvolle Kernbereiche
+      vor Zersiedelung, war aber auch militärisch überformt.
+
+
+      Heute leben über 10.000 Tier-, Pflanzen- und Pilzarten im Park, doch die Fichtenwälder stehen unter
+      Druck: Durch den Klimawandel breitet sich der Borkenkäfer rasant aus und hinterlässt Totholzflächen. Für
+      Fichtenforste eine Krise, für die Natur die Chance, einen standortgerechten Mischwald selbstständig
+      aufzubauen.
+    before: >-
+      Im gesamten Nationalpark gilt ein striktes Wegegebot zum Schutz der Natur. Jährlich werden mehr als
+      tausend Müllsäcke gesammelt, die Wildtiere gefährden: Nimm alle Abfälle ausnahmslos wieder mit. Beachte
+      Wegesperrungen und Hinweise auf Gefahren. In den Hochlagen herrscht raues Gebirgsklima; festes Schuhwerk
+      und wetterfeste Kleidung sind Pflicht.
+  it:
+    intro: >-
+      Per decenni il confine che divideva la Germania tagliò in due lo Harz, isolando vaste porzioni montane
+      dall’accesso pubblico. La frequentazione era interdetta e dall’agosto 1961 fu impossibile perfino salire
+      sul Brocken. Parte di quel territorio di frontiera venne infine trasformata in parco nazionale: due
+      riserve gemelle ai due lati della linea che nel 2006 si fusero in un’unica realtà, dando vita al primo
+      parco nazionale tedesco esteso su due Länder.
+
+
+      Oggi il Parco Nazionale dello Harz tutela circa 24.700 ettari, pari a un decimo dell’intero massiccio,
+      tra Wernigerode e Ilsenburg a nord e Herzberg e Bad Lauterberg a sud.
+    landscape: >-
+      Lo Harz sale per gradoni morfologici: ai margini il terreno si trova a quota 240 m a nord e 270 m a sud,
+      innalzandosi fino ai 1.141 m della vetta del Brocken, la più alta del parco, dove ciascuna fascia
+      altitudinale ospita boschi peculiari. Al di sotto dei 600 m dominano le latifoglie decidue, sostituite
+      più in alto dall’abete rosso. Nella fascia subalpina resistono abeti rossi vetusti di oltre 250 anni
+      piegati dal vento, alternati a torbiere alte d’importanza internazionale per rarità e composizione
+      floristica.
+
+
+      La massiccia presenza dell’abete rosso affonda le radici nella storia industriale: miniere e fonderie
+      consumarono tale abbondanza di legname da impoverire i boschi originari. A partire dal diciottesimo
+      secolo i rimboschimenti privilegiarono l’abete rosso, a crescita rapida, creando popolamenti omogenei.
+      Sulle creste culminali più aspre, invece, sopravvivono peccete naturali primarie miste a sorbo degli
+      uccellatori.
+
+
+      Anche l’acqua vanta una storia secolare: nel parco sgorgano numerosi fiumi e il bacino montano
+      dell’Oderteich, terminato nel 1722, convogliava le acque dell’Oder per azionare i macchinari idraulici
+      delle miniere di Sankt Andreasberg.
+    wildlife: >-
+      Il signore incontrastato dello Harz è la [lince eurasiatica](/especie/lynx_lynx/). L’ultimo esemplare
+      autoctono venne abbattuto durante una battuta di caccia; nel 1999 ne fu decretata la reintroduzione e
+      tra il 2000 e il 2004 vennero liberati 19 individui nati in cattività. Dal 2002 si registrano
+      regolarmente cucciolate selvatiche. Scorgerla nel bosco richiede eccezionale fortuna, motivo per cui è
+      stato creato un recinto a Rabenklippe, vicino a Bad Harzburg, dove è possibile ammirare le linci
+      sdraiate sulle rocce o tra gli alberi. Le sessioni pubbliche di alimentazione il mercoledì e sabato
+      pomeriggio sono molto frequentate.
+
+
+      Non tutte le reintroduzioni hanno avuto esito positivo: per il [gallo
+      cedrone](/especie/tetrao_urogallus/), estinto nello Harz, furono rilasciati circa mille esemplari
+      d’allevamento, ma la colonia non raggiunse l’autosufficienza e il progetto fu interrotto. Un recinto
+      didattico sorge tuttora vicino a Lonau.
+
+
+      La fauna riserva altre meraviglie: lo Harz costituisce oggi uno dei rifugi principali in Germania per il
+      [gatto selvatico](/especie/felis_silvestris/), mentre il [cervo nobile](/especie/cervus_elaphus/) e il
+      [capriolo](/especie/capreolus_capreolus/) popolano diffusamente le valli. Tra i volatili di pregio
+      spiccano il [merlo acquaiolo](/especie/cinclus_cinclus/), la [cicogna nera](/especie/ciconia_nigra/) e
+      il [falco pellegrino](/especie/falco_peregrinus/). Tra le piante, l’anemone del Brocken cresce in
+      Germania unicamente sulla sommità del massiccio; il Brockengarten sulla cima si dedica alla tutela delle
+      specie alpine d’alta quota.
+
+
+      Per raggiungere il recinto delle linci si cammina da Bad Harzburg; controlla gli orari stagionali della
+      linea bus 875 prima di organizzare la gita. In autunno i guardaparco guidano escursioni sul bramito dei
+      cervi. In inverno i pannelli del sentiero WaldWandelWeg vengono smontati per proteggerli dal gelo.
+    visit: >-
+      Inizia la scoperta da un centro visitatori, ciascuno orientato a un tema differente. La Brockenhaus in
+      vetta offre una mostra priva di barriere su tre piani su storia, clima e fauna alpina, preservando la
+      cupola radar della guerra fredda con terrazza panoramica. A TorfHaus l’allestimento illustra la Cintura
+      Verde con un cinema immersivo. Il centro di Sankt Andreasberg approfondisce geologia e attività
+      mineraria, mentre la HarzWaldHaus di Bad Harzburg presenta la vita del bosco con il più grande formicaio
+      visibile della Germania.
+
+
+      Circa 600 chilometri di sentieri segnati attraversano l’area protetta. Un primo tracciato accessibile è
+      il WaldWandelWeg: 180 metri percorribili in dieci minuti su passerelle di legno, che illustra il
+      rinnovamento spontaneo del bosco tra bostrico, tronchi caduti e giovani sorbi e betulle. Si raggiunge da
+      TorfHaus con una camminata di 1,5 chilometri. Per salire sul Brocken, il sentiero dell’Eckerloch da
+      Schierke misura 10 km andata e ritorno, richiede da quattro a cinque ore e supera circa 500 metri di
+      dislivello su fondo pietroso. Per osservare gli ungulati, due postazioni d’avvistamento si trovano
+      presso il Molkenhaus a Bad Harzburg e nella valle dell’Oder tra Oderhaus e Rinderstall (accessibile ai
+      disabili).
+
+
+      Il circuito Harzer Wandernadel distribuisce circa 30 punti timbro nel parco per conquistare il
+      distintivo WildnisEntdecker.
+    history: >-
+      Il settore orientale del parco è nato il 1 ottobre 1990, due giorni prima della riunificazione tedesca;
+      quello occidentale, in Bassa Sassonia, nel 1994 con 15.800 ha. La presenza dell’ex confine ha protetto
+      vaste aree per decenni, pur comportando opere di sbarramento militare.
+
+
+      Oggi oltre 10.000 specie di animali, piante e funghi dimorano nel parco, benché le peccete attraversino
+      una fase critica: il bostrico tipografo prolifera per i cambiamenti climatici lasciando estese aree di
+      legno secco. Una crisi per i vecchi rimboschimenti, ma anche l’occasione per il bosco di rigenerarsi in
+      modo naturale.
+    before: >-
+      Vige il divieto assoluto di abbandonare i tracciati segnalati. Ogni anno vengono raccolti più di mille
+      sacchi di rifiuti abbandonati che mettono in pericolo gli animali: riporta a valle qualsiasi scarto.
+      Verifica gli avvisi di chiusura dei percorsi e rispetta le barriere. In quota il meteo alpino è severo:
+      calza scarponi robusti e porta abbigliamento per repentini cali termici.
+  pt:
+    intro: >-
+      Durante décadas, a fronteira que retalhou a Alemanha cortou a serra de Harz, mantendo vastos setores de
+      montanha vedados ao público. O trânsito era rigorosamente interdito e, a partir de agosto de 1961,
+      tornou-se impossível subir ao Brocken. Frações desse território fronteiriço acabaram por ser protegidas
+      como parque nacional: dois parques vizinhos em cada margem da antiga linha, fundidos em 2006 num único
+      espaço, constituindo o primeiro parque nacional interestadual da Alemanha.
+
+
+      Atualmente o Parque Nacional de Harz abrange cerca de 24.700 hectares—aproximadamente um décimo de todo
+      o maciço montanhoso—entre Wernigerode e Ilsenburg a norte e Herzberg e Bad Lauterberg a sul.
+    landscape: >-
+      O maciço de Harz ascende em patamares sucessivos: nos limites exteriores o relevo situa-se pelos 240 m a
+      norte e 270 m a sul, alcantilando-se até aos 1.141 m no cume do Brocken, o ponto mais alto do parque,
+      ostentando cada faixa altitudinal comunidades florestais próprias. Abaixo de cerca de 600 m predominam
+      folhosas caducifólias e, acima dessa cota, o espruce. Na faixa subalpina sobrevivem espruces com mais de
+      250 anos retorcidos pelo vento, entremeados por turfeiras altas de relevância internacional pela sua
+      flora especializada.
+
+
+      A abundância de espruces decorre de causas históricas: a mineração e as fundições locais consumiram
+      volumes brutais de lenha, delapidando o coberto vegetal primitivo. A partir do século XVIII as
+      rearborizações privilegiaram o espruce de crescimento rápido, uniformizando as encostas. Nas cotas
+      culminantes, contudo, medram matas naturais de espruce acompanhadas pela tramazeira.
+
+
+      A água transporta também séculos de história: no parque brotam vários rios, e a albufeira de retenção de
+      Oderteich, concluída em 1722, represava as águas do rio Oder para movimentar os engenhos mineiros de
+      Sankt Andreasberg.
+    wildlife: >-
+      O animal emblema da serra é o [lince-euroasiático](/especie/lynx_lynx/). O derradeiro lince nativo de
+      Harz sucumbiu numa caçada; em 1999 foi aprovado o programa de reintrodução e, entre 2000 e 2004,
+      soltaram-se 19 espécimes criados em cativeiro. Desde 2002 registam-se ninhadas selvagens no terreno.
+      Como avistá-lo na floresta requer rara fortuna, foi construído um cercado em Rabenklippe, perto de Bad
+      Harzburg, onde podes contemplar os linces repousando nas penhas ou rondando o recinto. As sessões
+      públicas de alimentação às quartas-feiras e sábados à tarde são muito concorridas.
+
+
+      Nem todas as tentativas vingaram: para o [tetraz-grande](/especie/tetrao_urogallus/), extinto na
+      cordilheira, criaram-se cerca de mil aves em cativeiro, mas a população não consolidou autonomia
+      reprodutora e o projeto foi encerrado. Subsiste um cercado pedagógico junto a Lonau.
+
+
+      A diversidade faunística oferece mais surpresas: Harz é hoje um dos santuários mais cruciais da Alemanha
+      para o [gato-bravo](/especie/felis_silvestris/), sendo o [veado-vermelho](/especie/cervus_elaphus/) e o
+      [corço](/especie/capreolus_capreolus/) ungulados muito representativos. Nas aves notáveis avultam o
+      [melro-d'água](/especie/cinclus_cinclus/), a [cegonha-preta](/especie/ciconia_nigra/) e o
+      [falcão-peregrino](/especie/falco_peregrinus/). Na flora, a anémona-do-brocken ocorre na Alemanha
+      unicamente no planalto do Brocken; o jardim botânico alpino Brockengarten no cume dedica-se à
+      salvaguarda da flora culminal.
+
+
+      Para alcançar o cercado dos linces podes subir a pé desde Bad Harzburg; confirma previamente o
+      itinerário e os horários da linha de autocarro 875. No outono realizam-se percursos interpretativos
+      guiados por guardas florestais. No inverno os painéis pedagógicos do WaldWandelWeg são recolhidos.
+    visit: >-
+      Começa por um dos centros de acolhimento, abordando cada qual uma temática distinta. A Brockenhaus no
+      cume alberga uma exposição sem barreiras arquitetónicas em três pisos sobre história e fauna alpina,
+      preservando a cúpula de radar da época da guerra fria e um terraço panorâmico. Em TorfHaus a mostra
+      explora a Faixa Verde europeia num pavilhão com cinema interativo. O polo de Sankt Andreasberg desvenda
+      a geologia e o legado mineiro, ao passo que a HarzWaldHaus de Bad Harzburg exibe o maior formigueiro
+      visitável da Alemanha.
+
+
+      Cerca de 600 quilómetros de trilhos pedestres assinalados cruzam o parque. Um percurso introdutório
+      recomendável é o WaldWandelWeg: 180 metros e dez minutos sobre passadiços de madeira, que revela o
+      rejuvenescimento florestal entre ataques do escaravelho-da-casca, madeira morta e bétulas pioneiras.
+      Alcança-se a partir de TorfHaus após 1,5 quilómetros de caminhada. Para ascender ao Brocken, o trilho de
+      Eckerloch desde Schierke totaliza 10 km de ida e volta, exigindo de quatro a cinco horas e transpondo
+      cerca de 500 metros de subida por piso pedregoso. Para observação de animais existem postos abrigados em
+      Molkenhaus junto a Bad Harzburg e no vale do Oder entre Oderhaus e Rinderstall (acessível a cadeiras de
+      rodas).
+
+
+      A rede pedestre Harzer Wandernadel distribui cerca de 30 postos de carimbos pelo parque para quem deseje
+      obter o distintivo WildnisEntdecker.
+    history: >-
+      A porção oriental do parque foi oficializada a 1 de outubro de 1990, dois dias antes da reunificação
+      alemã; o setor ocidental, na Baixa Saxónia, em 1994, com 15.800 ha. A anterior condição fronteiriça
+      preservou amplos setores florestais de pressões urbanísticas durante décadas, apesar da presença de
+      vedações militares.
+
+
+      Atualmente mais de 10.000 espécies de animais, plantas e fungos povoam o território, embora a floresta
+      enfrente forte pressão climática: o escaravelho-da-casca prolifera com os verões secos, provocando
+      mortalidade de espruces. Representa um revés para os antigos monocultivos, mas simultaneamente o
+      catalisador para que a floresta renasça em equilíbrio natural.
+    before: >-
+      No parque vigora a proibição absoluta de sair dos trilhos marcados. Todos os anos recolhem-se mais de
+      mil sacos de lixo que ameaçam a fauna silvestre: transporta contigo todos os resíduos. Verifica os
+      alertas de corte de caminhos e respeita as vedações. Nas cotas elevadas o clima alpino é agreste,
+      exigindo calçado robusto e roupa impermeável.
+fuentes:
+  - url: https://www.nationalpark-harz.de/en/start/
+    titulo: Welcome
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/natur-erleben/natur-erlebnispfade/wildnisentdeckerstationen-torfhaus/
+    titulo: Wildnis-Entdeckerstationen Torfhaus
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/natur-erleben/natur-erlebnispfade/waldwandelweg/
+    titulo: Der WaldWandelWeg Torfhaus
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/downloads/Durch-das-Eckerloch-zum-Brocken?download=barrierearm&js=false
+    titulo: Durch das Eckerloch zum Brocken
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/experiencing_nature/lynx_enclosure/?show=false%3Fjs%3Dtrue
+    titulo: The lynx enclosure near Rabenklippe
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/?js=false&openNav=move-left
+    titulo: Wegesperrungen und Beeinträchtigungen
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/experiencing_nature/animal_watching/?js=false&show=false%3FopenNav%3Dmove-left
+    titulo: Animal watching
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/visitor_centres/?openNav=move-left
+    titulo: National Park Visitor Centres
+    fecha_consulta: '2026-10-23'
+  - url: https://en.wikipedia.org/wiki/Harz_National_Park
+    titulo: Harz National Park - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://de.wikipedia.org/wiki/Nationalpark_Harz
+    titulo: Nationalpark Harz - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/downloads/allgemein/Waldentwicklung.pdf
+    titulo: Waldentwicklung im Nationalpark Harz
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/visitor_centres/
+    titulo: National Park Visitor Centres
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/natur-erleben/wandern/
+    titulo: Wanderempfehlungen
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/experiencing_nature/animal_watching/
+    titulo: Animal watching
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/en/experiencing_nature/lynx_enclosure/
+    titulo: The lynx enclosure near Rabenklippe
+    fecha_consulta: '2026-10-23'
+  - url: https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark.php
+    titulo: Verhaltensregeln im Nationalpark Harz
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_Harz_mit_den_Ilsef%C3%A4llen_im_Ilsetal.jpg
+    autor: Matthias Trusheim
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

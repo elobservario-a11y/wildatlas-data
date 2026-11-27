@@ -1,0 +1,558 @@
+id: javorniski-gozdovi-karstna-planota-javorniki
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosques y Meseta Kárstica de Javorniki
+  en: Javorniki Forests and Karst Plateau
+  fr: Forêts et plateau karstique de Javorniki
+  de: Wälder und Karsthochfläche von Javorniki
+  it: Boschi e altopiano carsico di Javorniki
+  pt: Florestas e Planalto Cárstico de Javorniki
+nombre_original: Javorniški gozdovi (Karstna planota Javorniki)
+alias:
+  - Javorniki Plateau & Forest (Javorniki gozdovi)
+paises:
+  - SI
+region:
+  es: Carniola Interior (Postojna / Cerknica)
+  en: Inner Carniola (Postojna / Cerknica)
+  fr: Carniole-Intérieure (Postojna / Cerknica)
+  de: Innerkrain (Postojna / Cerknica)
+  it: Carniola interna (Postojna / Cerknica)
+  pt: Carniola Interior (Postojna / Cerknica)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.72
+  lon: 14.3
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 395174
+  nombre_en_la_fuente: Javorniki - Snežnik
+  capa: capas/cdda/javorniski-gozdovi-karstna-planota-javorniki.geojson
+habitats:
+  - mature_forest
+  - karst
+designaciones:
+  - natura2000
+especies:
+  - ursus_arctos
+  - canis_lupus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor forestal — Zavod za gozdove Slovenije
+    url: https://www.zgs.si/
+  - titulo: Visita — Bosques de Javorniki (Notranjski park)
+    url: https://notranjski-park.si/en/discover/natural-landmarks/javorniki
+  - titulo: Normas — Sector de Javorniki en Notranjski park
+    url: https://notranjski-park.si/nacrtujte/pravila-vedenja
+resumen:
+  es: Meseta boscosa kárstica sin asentamientos humanos continuos contigua al lago intermitente de Cerknica.
+  en: Forested karst plateau without continuous human settlements adjoining the intermittent lake of Cerknica.
+  fr: Plateau karstique boisé sans peuplement humain permanent, contigu au lac intermittent de Cerknica.
+  de: >-
+    Bewaldete Karsthochfläche ohne dauerhafte menschliche Siedlungen, unmittelbar an den periodischen See von
+    Cerknica angrenzend.
+  it: >-
+    Altopiano carsico boscato privo di insediamenti umani continui, a ridosso del lago intermittente di
+    Cerknica.
+  pt: Planalto cárstico florestal sem povoamento humano permanente contíguo ao lago intermitente de Cerknica.
+unico:
+  es: >-
+    Es el lugar donde un bosque de hayas y abetos esconde, bajo sus raíces, el agua que alimenta los lagos
+    intermitentes de Cerknica y Pivka.
+  en: >-
+    It is the place where a beech and fir forest conceals, beneath its roots, the water feeding the
+    intermittent lakes of Cerknica and Pivka.
+  fr: >-
+    C'est l'endroit où une forêt de hêtres et de sapins dissimule, sous ses racines, l'eau qui alimente les
+    lacs intermittents de Cerknica et de Pivka.
+  de: >-
+    Es ist der Ort, an dem ein Buchen-Tannen-Wald unter seinen Wurzeln das Wasser verbirgt, das die
+    periodischen Seen von Cerknica und Pivka speist.
+  it: >-
+    È il luogo in cui una foresta di faggi e abeti custodisce, sotto le radici, le acque che alimentano i
+    laghi intermittenti di Cerknica e Pivka.
+  pt: >-
+    É o local onde um bosque de faias e abetos oculta, sob as suas raízes, a água que alimenta os lagos
+    intermitentes de Cerknica e Pivka.
+observaciones:
+  es: >-
+    Los vehículos a motor solo pueden circular por carreteras oficiales y no está permitido encender fuego.
+    Hay que quedarse en los senderos marcados y no molestar a la fauna. Comprueba el estado de los accesos y
+    de los senderos antes de salir.
+texto:
+  es:
+    intro: >-
+      Entre el lago que desaparece y las cuencas del Pivka se levanta un muro de bosque. Las colinas de
+      Javorniki forman la parte baja y boscosa de la meseta kárstica que cuelga del Snežnik, y aunque están a
+      un paso de la capital de Eslovenia, siguen siendo salvajes y misteriosas. Aquí el hayedo y el abetal
+      cubren casi todo, las lluvias son enormes y las personas son invitados bienvenidos.
+    landscape: >-
+      Las Javorniki se extienden desde el paso de Postojnska vrata y la colina de Mali Javornik, al noroeste,
+      hasta la colina de Mašun y el valle de Leskova, al sureste, entre 600 y 1200 m de altitud. La vertiente
+      norte, empinada, se alza sobre el lago de Cerknica hasta una meseta kárstica de colinas redondeadas,
+      valles profundos, dolinas, simas y cuevas de hielo. Son sobre todo calizas cretácicas, y sobre ellas
+      crece el hayedo.
+
+
+      El macizo detiene el aire cálido y húmedo del Adriático que sube hacia el norte, y eso da al clima del
+      centro de Eslovenia su carácter. De ahí las lluvias de entre 2000 y 3000 mm al año que alimentan los
+      lagos de Cerknica, Palško y Petelinjsko, y las fuentes del Pivka y del Reka. El agua de arriba no se
+      queda: baja por dentro, y por eso al pie de las colinas hay valles como Rakov Škocjan, formado por el
+      hundimiento del techo de una cueva. Lo prueban los puentes naturales, el Pequeño, de 42 m, y el Grande,
+      de 37 m. Allí el río Rak sale de las cuevas de Zelške jame y desaparece en la de Tkalca.
+
+
+      El bosque no acaba en las colinas. Los bosques de Javorniki continúan en los del Snežnik y Gorski Kotar
+      y forman juntos el mayor complejo forestal ininterrumpido de esta parte de Europa. Sirven de hogar a la
+      fauna salvaje, de fuente de madera y leña y de reserva de agua, y frenan la erosión del suelo.
+    wildlife: >-
+      La razón de que los bosques se conserven es sencilla: son difíciles de alcanzar y se gestionan con
+      cuidado. Por eso aquí viven los tres grandes carnívoros de Eslovenia. El [lobo](/especie/canis_lupus/) y
+      el [lince](/especie/lynx_lynx/) evitan a las personas, pero los encuentros con el
+      [oso](/especie/ursus_arctos/) son casi cotidianos. El lobo es el verdadero amo del bosque: caza
+      ungulados en mal estado, heridos o enfermos y así mantiene el equilibrio natural. El lince, el mayor de
+      todos los linces, puede abatir un ciervo cuatro veces más pesado que él. Al caer la tarde, en lo
+      profundo del bosque se oye el ulular profundo de los [cárabos uralenses](/especie/strix_uralensis/).
+
+
+      En el valle de Rakov Škocjan, el bosque de abeto y haya figura entre los más diversos de Europa. Sus
+      mejores escenas llegan en primavera, cuando las hayas verdean y las flores animan el sotobosque, y en
+      otoño, con sus tonos cálidos. En las cuevas vive el coleóptero cavernícola de cuello estrecho, el primer
+      escarabajo cavernícola descrito en el mundo.
+    visit: >-
+      Dos senderos marcados llevan a Veliki Javornik, de 1268 m: uno sale de Dolenja vas y el otro del valle
+      de Rakov Škocjan. Los dos van por bosque, así que también puedes subir con calor; hay menos sol que en
+      el Slivnica. Desde Dolenja vas, el mirador de Cvinger da vistas al lago de Cerknica, y se puede bajar a
+      la cueva de Velika Karlovica. Tras cuatro kilómetros, el camino se vuelve empinado, y bajo la cima hay
+      una vista hermosa del lago y del Slivnica.
+
+
+      Más larga es la ruta de Javorniška baba, un pico de 1.085 m que pide entre cinco y seis horas por
+      bosques y caminos forestales. No es peligrosa, pero necesita buena forma para las laderas empinadas, y
+      desde arriba se ven la cuenca del Pivka, el Snežnik, la colina de Sveta Trojica, el Nanos, el Triglav y
+      la cresta de Javornik. Es una ruta especialmente adecuada si te interesan la karstología y la
+      biodiversidad: por el camino oyes aves y el viento entre las copas.
+    history: >-
+      El bosque ha sido fuente de madera y de leña durante siglos. En los bosques de la región se
+      desarrollaron la carbonería, la fabricación de objetos de vidrio y la quema de cal, y en épocas
+      posteriores se extrajo sílex en Slivnica y se llevó a los talleres de vidrio de las colinas de
+      Javorniki. Rakov Škocjan fue el primer parque regional de Eslovenia, en 1949, y tiene un sendero
+      educativo.
+    before: >-
+      Los vehículos a motor solo pueden circular por carreteras oficiales y no está permitido encender fuego.
+      Hay que quedarse en los senderos marcados y no molestar a la fauna. Comprueba el estado de los accesos y
+      de los senderos antes de salir.
+    around: >-
+      El [lago de Cerknica](/lugar/cerknisko-jezero/) queda a 1 km, y el agua que él recibe viene de debajo de
+      Javorniki. A unos 7 km está el [Complejo Forestal de Kočevsko](/lugar/kocevski-gozdni-kompleks/); a 9,
+      la [Meseta Kárstica de Nanos](/lugar/kraska-planota-nanos/) y el [Parque Nacional
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/); a unos 14, el [Macizo de
+      Snježnik](/lugar/snjeznik-massif-croatia/), y a dieciséis las [Cuevas de
+      Škocjan](/lugar/park-skocjanske-jame/). El [Macizo Forestal de
+      Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) y el [Karst Clásico y Sistema Subterráneo
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) se solapan con estas colinas.
+  en:
+    intro: >-
+      Between the disappearing lake and the Pivka basins rises an unbroken wall of forest. The Javorniki hills
+      form the lower, densely wooded section of the karst plateau attached to Mount Snežnik, and though they
+      lie just a short distance from Slovenia's capital, they remain untamed and enigmatic. Here beech and fir
+      drape almost everything, rainfall is immense, and human visitors are welcome guests.
+    landscape: >-
+      The Javorniki range extends from the Postojnska vrata pass and Mali Javornik hill in the northwest to
+      the Mašun hill and Leskova valley in the southeast, between 600 and 1200 m in altitude. The steep
+      northern flank looms over Lake Cerknica, leading up to a karst plateau of rounded domes, blind valleys,
+      sinkholes, chasms, and ice caves. The rock is predominantly Cretaceous limestone, cloaked in continuous
+      beechwoods.
+
+
+      The massif intercepts warm, humid Adriatic air flowing northward, giving central Slovenia's climate its
+      distinct damp temperament. Hence precipitation reaches between 2000 and 3000 mm annually, nourishing
+      Lake Cerknica, Lake Palško, Lake Petelinjsko, and the headwaters of the Pivka and Reka. Surface water
+      does not linger: it plunges underground, creating collapsed-cave valleys at the foot of the hills such
+      as Rakov Škocjan. The iconic natural bridges—the Little Bridge (42 m) and Big Bridge (37 m)—testify to
+      this subterranean work. There the Rak River emerges from Zelške jame caves and sinks into Tkalca cave.
+
+
+      The forest does not stop at the hills. Javorniki's woods connect with those of Snežnik and Gorski Kotar,
+      jointly forming the largest contiguous forest complex in this part of Europe. They provide sanctuary for
+      wildlife, sustainable timber, and an invaluable water reservoir, halting soil erosion.
+    wildlife: >-
+      The reason these forests have survived is simple: they are remote and managed with patience. Hence
+      Slovenia's three large carnivores thrive here. The [grey wolf](/especie/canis_lupus/) and [Eurasian
+      lynx](/especie/lynx_lynx/) shy away from humans, while encounters with the [brown
+      bear](/especie/ursus_arctos/) are a routine part of local life. The wolf is the forest's true regulator,
+      culling diseased or injured ungulates and maintaining natural balance. The lynx, largest of European
+      felids, can take down deer four times its own weight. At dusk, the deep hooting of the [Ural
+      owl](/especie/strix_uralensis/) reverberates through old timber.
+
+
+      In the Rakov Škocjan valley, the fir-beech forest ranks among Europe's most diverse. Its finest displays
+      unfold in spring, when new beech leaves unfurl and flowers carpet the forest floor, and in autumn with
+      radiant foliage. The caves shelter the slender-necked cave beetle (*Leptodirus hochenwartii*), the first
+      troglobitic insect described by science.
+    visit: >-
+      Two marked trails lead up to Veliki Javornik (1268 m): one departs from Dolenja vas and the other from
+      Rakov Škocjan valley. Both wind through deep forest canopy, offering shelter even on hot days and much
+      more shade than Mount Slivnica. From Dolenja vas, the Cvinger viewpoint looks out over Lake Cerknica,
+      with a side trail down to Velika Karlovica cave. After four kilometres, the path climbs steeply,
+      offering lovely panoramas of the lake and Slivnica just below the crest.
+
+
+      A longer trek ascends Javorniška baba (1,085 m), taking five to six hours along forest tracks and
+      footpaths. It is not technically perilous but demands good stamina for steep gradients, rewarding you at
+      the summit with sweeping vistas over the Pivka basin, Snežnik, Sveta Trojica hill, Nanos, Triglav, and
+      the Javornik ridge. It is especially recommended if you are drawn to karstology and biodiversity,
+      walking with bird calls and the rustle of canopy breeze.
+    history: >-
+      The forest has served as a timber and fuelwood resource for centuries. Traditional charcoal burning,
+      glassmaking, and lime production flourished across the region; later, chert quarried at Slivnica
+      supplied the glassworks of the Javorniki hills. Rakov Škocjan became Slovenia's first designated
+      landscape park in 1949 and features an educational nature trail.
+    before: >-
+      Motor vehicles are restricted strictly to official roadways, and lighting open fires is prohibited. Stay
+      on marked paths and avoid disturbing wildlife. Check route conditions and trail status before setting
+      off.
+    around: >-
+      [Lake Cerknica](/lugar/cerknisko-jezero/) lies just 1 km away, receiving subterranean water from beneath
+      Javorniki. About 7 km away is the [Kočevsko Forest Complex](/lugar/kocevski-gozdni-kompleks/); at 9 km,
+      the [Nanos Karst Plateau](/lugar/kraska-planota-nanos/) and [Risnjak National
+      Park](/lugar/nacionalni-park-risnjak---sumski-kompleks/); roughly 14 km away, the [Snježnik
+      Massif](/lugar/snjeznik-massif-croatia/); and sixteen kilometres away, the [Škocjan
+      Caves](/lugar/park-skocjanske-jame/). The [Snežnik Forest
+      Massif](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) and the [Classical Karst and Postojna-Planina
+      Cave System](/lugar/postonjska-jama---planinsko-polje/) directly overlap with these hills.
+  fr:
+    intro: >-
+      Entre le lac qui s'efface et les bassins de la Pivka s'élève une muraille de verdure. Les collines de
+      Javorniki forment la section basse et boisée du plateau karstique adossé au Snežnik ; bien qu'elles
+      soient à deux pas de la capitale slovène, elles demeurent sauvages et mystérieuses. Ici, la
+      hêtraie-sapinière recouvre la quasi-totalité des reliefs, les précipitations sont abondantes et les
+      promeneurs des hôtes bienvenus.
+    landscape: >-
+      Le massif de Javorniki s'étire depuis le col de Postojnska vrata et la colline de Mali Javornik au
+      nord-ouest jusqu'au mont Mašun et la vallée de Leskova au sud-est, entre 600 et 1200 m d'altitude. Le
+      versant nord, abrupt, domine le lac de Cerknica avant de déboucher sur un plateau karstique jalonné de
+      dômes arrondis, de vallons encaissés, de dolines, d'avens et de glacières naturelles. Ce sont
+      principalement des calcaires crétacés portant de vastes hêtraies.
+
+
+      Ce relief fait écran à l'air tiède et humide venu de l'Adriatique, forgeant le climat très arrosé de la
+      Slovénie centrale. Les précipitations y oscillent entre 2000 et 3000 mm par an, alimentant les lacs
+      intermittents de Cerknica, Palško et Petelinjsko, ainsi que les sources de la Pivka et de la Reka. L'eau
+      ne stagne pas en surface : elle s'engouffre dans le réseau souterrain, façonnant au pied des collines
+      des vallées d'effondrement comme Rakov Škocjan. Les ponts naturels, le Petit (42 m) et le Grand (37 m),
+      en sont les témoins spectaculaires. C'est là que la rivière Rak s'échappe des cavités de Zelške jame
+      pour s'engouffrer dans la grotte de Tkalca.
+
+
+      La forêt dépasse largement les collines. Les massifs de Javorniki rejoignent ceux du Snežnik et du
+      Gorski Kotar pour former le plus vaste ensemble forestier ininterrompu de cette partie de l'Europe,
+      refuge de grande faune, réserve de bois et régulateur hydrologique majeur.
+    wildlife: >-
+      La préservation de ces boisements tient à leur accessibilité malaisée et à une gestion rigoureuse. C'est
+      pourquoi les trois grands carnivores de Slovénie y prospèrent. Le [loup gris](/especie/canis_lupus/) et
+      le [lynx boréal](/especie/lynx_lynx/) évitent l'homme, tandis que les croisements avec l'[ours
+      brun](/especie/ursus_arctos/) font partie du quotidien local. Le loup est le maître régulateur : en
+      prélevant les ongulés affaiblis ou malades, il garantit l'équilibre écologique. Le lynx, plus grand
+      félin d'Europe, est capable d'abattre un cerf quatre fois plus lourd que lui. Au crépuscule, le
+      hululement grave de la [chouette de l'Oural](/especie/strix_uralensis/) résonne sous les frondaisons.
+
+
+      Dans la vallée de Rakov Škocjan, la hêtraie-sapinière compte parmi les plus riches d'Europe,
+      resplendissante au printemps lorsque les feuilles débourrent et en automne sous les teintes dorées. Dans
+      les cavernes vit le leptodire de Hochenwart, premier insecte cavernicole décrit par la science.
+    visit: >-
+      Deux sentiers balisés mènent au Veliki Javornik (1268 m) : l'un part de Dolenja vas, l'autre de la
+      vallée de Rakov Škocjan. Tous deux cheminent sous le couvert forestier, ce qui permet de monter même par
+      temps chaud, bien plus ombragés que le mont Slivnica. Depuis Dolenja vas, le belvédère de Cvinger domine
+      le lac de Cerknica, avec une ramification vers la grotte de Velika Karlovica. Après quatre kilomètres,
+      la pente se raidit et dévoile sous le sommet un splendide panorama sur le lac et le Slivnica.
+
+
+      Plus exigeant, le circuit de Javorniška baba (1 085 m) demande cinq à six heures à travers chemins et
+      sentes forestières. Sans danger technique, il requiert une bonne condition physique pour gravir les
+      raidillons, offrant au sommet une vue circulaire sur le bassin de la Pivka, le Snežnik, la colline de
+      Sveta Trojica, le Nanos, le Triglav et l'arête de Javornik. Une escapade idéale pour les amateurs de
+      karstologie et de grande nature.
+    history: >-
+      La forêt a fourni bois d'œuvre et de chauffe pendant des siècles. Le charbonnage, la verrerie et les
+      fours à chaux ont animé ces collines ; plus tard, du silex extrait au Slivnica alimentait les ateliers
+      verriers de Javorniki. Rakov Škocjan est devenu le premier parc régional de Slovénie en 1949 et dispose
+      d'un sentier pédagogique.
+    before: >-
+      Les véhicules motorisés ne peuvent circuler que sur le réseau routier ouvert et les feux sont
+      formellement interdits. Restez sur les sentiers balisés et ne dérangez pas la faune. Vérifiez la
+      praticabilité des pistes et sentiers avant le départ.
+    around: >-
+      Le [lac de Cerknica](/lugar/cerknisko-jezero/) n'est qu'à 1 km, alimenté par les eaux souterraines de
+      Javorniki. À environ 7 km s'étend le [complexe forestier de Kočevsko](/lugar/kocevski-gozdni-kompleks/)
+      ; à 9 km, le [plateau karstique de Nanos](/lugar/kraska-planota-nanos/) et le [parc national de
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/) ; à environ 14 km, le [massif de
+      Snježnik](/lugar/snjeznik-massif-croatia/), et à seize kilomètres, les [grottes de
+      Škocjan](/lugar/park-skocjanske-jame/). Le [massif forestier de
+      Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) et le [karst classique et réseau souterrain de
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) chevauchent directement ces collines.
+  de:
+    intro: >-
+      Zwischen dem verschwindenden See und den Becken der Pivka erhebt sich eine geschlossene Waldwand. Die
+      Javorniki-Hügel bilden den tieferen, dicht bewaldeten Abschnitt der an den Snežnik anschließenden
+      Karsthochfläche; obwohl sie nur einen Katzensprung von Sloweniens Hauptstadt entfernt liegen, sind sie
+      wild und geheimnisvoll geblieben. Buchen und Tannen bedecken fast alles, die Niederschläge sind gewaltig
+      und Besucher willkommene Gäste.
+    landscape: >-
+      Das Javorniki-Gebirge zieht sich von der Passhöhe Postojnska vrata und dem Hügel Mali Javornik im
+      Nordwesten bis zum Mašun-Hügel und dem Leskova-Tal im Südosten zwischen 600 und 1200 m Höhe hin. Die
+      steile Nordflanke ragt über dem Cerknica-See auf und geht in ein Karstplateau aus Kuppen, Blindtälern,
+      Dolinen, Schlucklöchern und Eishöhlen über. Vorherrschend sind kreidezeitliche Kalke mit durchgehendem
+      Buchenwald.
+
+
+      Das Massiv fängt die warme, feuchte Adrialuft auf dem Weg nach Norden ab und prägt das regenreiche Klima
+      Zentralsloweniens. Daher rühren die 2000 bis 3000 mm Jahresniederschlag, die den Cerknica-See, den
+      Palško- und den Petelinjsko-See sowie die Quellen von Pivka und Reka speisen. Das Wasser bleibt nicht
+      oben: Es versickert rasch im Karst und bildet am Fuß der Hügel Einsturztäler wie Rakov Škocjan. Die
+      Naturbrücken—die Kleine (42 m) und die Große (37 m)—zeugen davon. Dort tritt der Fluss Rak aus den
+      Zelške-jame-Höhlen hervor und verschwindet in der Tkalca-Höhle.
+
+
+      Der Wald endet nicht an den Kämmen. Die Wälder von Javorniki setzen sich in jenen des Snežnik und Gorski
+      Kotar fort und bilden gemeinsam den größten zusammenhängenden Waldkomplex dieses Teils von Europa, der
+      Tieren Raum gibt, Holz liefert und den Boden schützt.
+    wildlife: >-
+      Dass die Wälder so gut erhalten sind, verdankt sich ihrer Unzugänglichkeit und vorsichtigen
+      Bewirtschaftung. Deshalb leben hier alle drei großen Raubtiere Sloweniens. [Wolf](/especie/canis_lupus/)
+      und [Eurasischer Luchs](/especie/lynx_lynx/) meiden Menschen, während Begegnungen mit dem
+      [Braunbären](/especie/ursus_arctos/) fast alltäglich sind. Der Wolf ist der Regulator: Indem er
+      geschwächte Beutetiere schlägt, wahrt er das biologische Gleichgewicht. Der Luchs vermag Beute zu
+      schlagen, die viermal schwerer ist als er selbst. In der Dämmerung hallt der tiefe Ruf des
+      [Habichtskauzes](/especie/strix_uralensis/) durch die Althölzer.
+
+
+      Im Rakov-Škocjan-Tal gehört der Tannen-Buchen-Wald zu den artenreichsten Europas, besonders prächtig im
+      Frühling beim Austrieb und im Herbst im Farbenspiel. In den Höhlen lebt der Schmalhalskäfer (*Leptodirus
+      hochenwartii*), der weltweit erste wissenschaftlich beschriebene Höhlenkäfer.
+    visit: >-
+      Zwei markierte Pfade führen auf den 1268 m hohen Veliki Javornik: einer von Dolenja vas, der andere aus
+      dem Rakov-Škocjan-Tal. Beide verlaufen schattig im Wald und lassen sich auch an warmen Tagen angenehm
+      begehen. Von Dolenja vas bietet der Aussichtspunkt Cvinger Blicke auf den Cerknica-See, mit Abzweig zur
+      Höhle Velika Karlovica. Nach vier Kilometern steigt der Pfad kräftig an und eröffnet unter dem Gipfel
+      eine weite Schau über See und Slivnica.
+
+
+      Länger ist die Tour auf die Javorniška baba (1.085 m), die fünf bis sechs Stunden über Waldwege in
+      Anspruch nimmt. Sie ist technisch unschwierig, verlangt aber Kondition für die Steilanstiege und belohnt
+      mit Rundblicken auf Pivka-Becken, Snežnik, Sveta Trojica, Nanos, Triglav und den Javornik-Kamm. Eine
+      ideale Route für Freunde von Karstphänomenen und stillen Waldstimmungen.
+    history: >-
+      Der Wald diente über Jahrhunderte als Holz- und Energiequelle. Köhlerei, Glaserzeugung und Kalkbrennerei
+      prägten die Hügel; später wurde am Slivnica Feuerstein gebrochen und zu Glashütten in Javorniki
+      gebracht. Rakov Škocjan wurde 1949 zum ersten Landschaftspark Sloweniens erklärt und besitzt einen
+      Naturlehrpfad.
+    before: >-
+      Motorfahrzeuge dürfen nur auf ausgewiesenen Straßen verkehren; offenes Feuer ist verboten. Bleib auf
+      markierten Wegen und störe das Wild nicht. Informiere dich vorab über den Zustand der Wege.
+    around: >-
+      Der [Cerknica-See](/lugar/cerknisko-jezero/) liegt nur 1 km entfernt und empfängt sein Karstwasser aus
+      dem Untergrund der Javorniki. In etwa 7 km Entfernung liegt der
+      [Kočevsko-Waldkomplex](/lugar/kocevski-gozdni-kompleks/); in 9 km die
+      [Nanos-Karsthochfläche](/lugar/kraska-planota-nanos/) und der [Nationalpark
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/); rund 14 km entfernt das
+      [Snježnik-Massiv](/lugar/snjeznik-massif-croatia/) und sechzehn Kilometer die [Höhlen von
+      Škocjan](/lugar/park-skocjanske-jame/). Das
+      [Snežnik-Waldmassiv](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) und der [Klassische Karst mit dem
+      Höhlensystem Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) überlagern diese Höhenzüge
+      unmittelbar.
+  it:
+    intro: >-
+      Tra il lago che scompare e i bacini del Pivka si erge una muraglia compatta di boschi. I rilievi di
+      Javorniki costituiscono la porzione basale e boscata dell'altopiano carsico ancorato al monte Snežnik;
+      benché sorgano a breve distanza dalla capitale slovena, conservano un'aura selvatica e misteriosa.
+      Faggete e abetine rivestono ogni pendenza, le piogge sono abbondanti e l'uomo vi è ospite discreto.
+    landscape: >-
+      La dorsale di Javorniki si sviluppa dal valico di Postojnska vrata e dalla collina di Mali Javornik a
+      nord-ovest fino al colle di Mašun e alla valle di Leskova a sud-est, tra 600 e 1200 m di altitudine. Il
+      versante settentrionale, acclive, si impenna sopra il lago di Cerknica raggiungendo un altopiano carsico
+      costellato di dossi arrotondati, valli cieche, doline, inghiottitoi e cavità ghiacciate. La litologia è
+      dominata da calcari cretacei colonizzati dalla faggeta.
+
+
+      Il rilievo sbarra l'aria mite e umida proveniente dall'Adriatico, conferendo al clima della Slovenia
+      centrale la sua fisionomia piovosa. Ne scaturiscono tra 2000 e 3000 mm di pioggia all'anno che
+      alimentano i laghi di Cerknica, Palško e Petelinjsko nonché le sorgenti del Pivka e del Reka. L'acqua
+      non ristagna in quota: si inabissa nei condotti carsici originando ai piedi delle colline valli di
+      crollo come Rakov Škocjan. I celebri ponti naturali, il Piccolo (42 m) e il Grande (37 m), ne sono prova
+      tangibile. Lì il fiume Rak esce dalle grotte di Zelške jame per reimmergersi nella grotta di Tkalca.
+
+
+      La foresta non si arresta sui crinali. I boschi di Javorniki si saldano a quelli di Snežnik e Gorski
+      Kotar, formando la più vasta compagine forestale continua di questa parte d'Europa, preziosa per la
+      fauna, la produzione legnosa e la regolazione idrogeologica.
+    wildlife: >-
+      La straordinaria integrità di queste selve deriva dall'asperità degli accessi e da una selvicoltura
+      accorta. Per questo vi risiedono i tre grandi carnivori sloveni. Il [lupo](/especie/canis_lupus/) e la
+      [lince eurasiatica](/especie/lynx_lynx/) sfuggono l'uomo, mentre gli avvistamenti dell'[orso
+      bruno](/especie/ursus_arctos/) sono all'ordine del giorno. Il lupo è il grande equilibratore: predando
+      ungulati deboli o malati assicura la salute dell'ecosistema. La lince può sopraffare prede quattro volte
+      più pesanti della sua taglia. All'imbrunire il canto profondo dell'[allocco degli
+      Urali](/especie/strix_uralensis/) risuona tra i tronchi secolari.
+
+
+      Nella valle di Rakov Škocjan, l'abetina-faggeta è tra le più diversificate d'Europa, magnifica a
+      primavera con il verde tenero dei faggi e in autunno con il fogliame dorato. Nelle profondità delle
+      grotte vive il coleottero cavernicolo collo-sottile (*Leptodirus hochenwartii*), il primo insetto
+      troglobio censito al mondo.
+    visit: >-
+      Due sentieri segnati salgono al Veliki Javornik (1268 m): uno prende le mosse da Dolenja vas e l'altro
+      dalla valle di Rakov Škocjan. Entrambi salgono sotto la volta ombrosa del bosco, consentendo l'ascesa
+      anche nei mesi caldi, al riparo dal sole battente del monte Slivnica. Da Dolenja vas il belvedere di
+      Cvinger domina il lago di Cerknica, con una deviazione verso la grotta di Velika Karlovica. Dopo quattro
+      chilometri la traccia diventa ripida, aprendosi sotto la cima su un arioso panorama sul lago e sullo
+      Slivnica.
+
+
+      Più esteso è l'itinerario della Javorniška baba (1.085 m), che impegna per cinque-sei ore su carrarecce
+      e sentieri montani. Non presenta pericoli tecnici ma esige discreto allenamento per i dislivelli,
+      ripagando in quota con vedute sul bacino del Pivka, lo Snežnik, la collina di Sveta Trojica, il Nanos,
+      il Triglav e la dorsale di Javornik. Una meta perfetta per chi ama il carsismo e la solitudine
+      silvestre.
+    history: >-
+      Il bosco è stato fonte di legname e carbone per secoli. Nelle selve locali fiorirono carbonaie, vetrerie
+      e fornaci da calce; successivamente la selce estratta a Slivnica approvvigionò i laboratori vetrari di
+      Javorniki. Rakov Škocjan divenne il primo parco regionale della Slovenia nel 1949 ed è percorso da un
+      sentiero didattico.
+    before: >-
+      I veicoli a motore possono circolare esclusivamente sulle strade carrabili aperte; è vietato accendere
+      fuochi. Resta sui tracciati segnati e non disturbare la fauna selvatica. Verifica l'agibilità delle
+      piste prima dell'escursione.
+    around: >-
+      Il [lago di Cerknica](/lugar/cerknisko-jezero/) dista solo 1 km, alimentato dalle acque sotterranee di
+      Javorniki. A circa 7 km si trova il [complesso forestale di Kočevsko](/lugar/kocevski-gozdni-kompleks/);
+      a 9 km l'[altopiano carsico di Nanos](/lugar/kraska-planota-nanos/) e il [Parco nazionale di
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/); a circa 14 km il [massiccio di
+      Snježnik](/lugar/snjeznik-massif-croatia/), e a sedici chilometri le [grotte di San Canziano
+      (Škocjan)](/lugar/park-skocjanske-jame/). Il [massiccio forestale di
+      Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) e il [carso classico e sistema sotterraneo
+      Postumia-Planina](/lugar/postonjska-jama---planinsko-polje/) si sovrappongono direttamente a queste
+      alture.
+  pt:
+    intro: >-
+      Entre o lago que desaparece e as bacias do Pivka ergue-se uma muralha espessa de arvoredo. As colinas de
+      Javorniki formam o setor basal e florestado do planalto cárstico ligado ao Snežnik; apesar de ficarem a
+      curta distância da capital da Eslovénia, continuam selvagens e misteriosas. Aqui o faial e o abetal
+      cobrem quase tudo, as chuvas são copiosas e os forasteiros hóspedes bem-vindos.
+    landscape: >-
+      A cadeia de Javorniki estende-se desde o desfiladeiro de Postojnska vrata e a colina de Mali Javornik a
+      noroeste até à colina de Mašun e ao vale de Leskova a sudeste, entre 600 e 1200 m de altitude. A
+      vertente norte alcantilada debruça-se sobre o lago de Cerknica, culminando num planalto cárstico de
+      cumes boleados, vales cegos, dolinas, sumidouros e grutas de gelo. São rochas predominantemente
+      calcárias do Cretácico revestidas por faiais vigorosos.
+
+
+      O relevo barra o ar tépido e húmido do Adriático que ascende para norte, determinando o clima chuvoso da
+      Eslovénia central. Daí resultam precipitações entre 2000 e 3000 mm anuais que alimentam os lagos de
+      Cerknica, Palško e Petelinjsko e as cabeceiras do Pivka e do Reka. A água pluvial não permanece à
+      superfície: escoa pelos sumidouros subterrâneos, criando no sopé vales de colapso como Rakov Škocjan. As
+      pontes naturais, a Pequena (42 m) e a Grande (37 m), comprovam essa erosão espeleológica. Ali o rio Rak
+      surge das grutas de Zelške jame e desaparece no abismo de Tkalca.
+
+
+      A floresta não termina nas colinas. As matas de Javorniki prolongam-se pelas do Snežnik e Gorski Kotar,
+      formando em conjunto o maior bloco florestal contínuo desta parte da Europa, salvaguarda de fauna,
+      manancial de madeira e filtro hidrológico.
+    wildlife: >-
+      A razão da excelente conservação florestal assenta na orografia difícil e num ordenamento cuidadoso. Por
+      isso habitam aqui os três grandes carnívoros da Eslovénia. O [lobo-ibérico](/especie/canis_lupus/) e o
+      [lince-euroasiático](/especie/lynx_lynx/) evitam as pessoas, enquanto os encontros com o
+      [urso-pardo](/especie/ursus_arctos/) fazem parte do quotidiano local. O lobo é o mestre do equilíbrio:
+      ao abater ungulados debilitados ou doentes preserva a robustez das populações. O lince pode caçar veados
+      quatro vezes mais pesados do que o seu corpo. Ao cair da noite ecoa o chamamento cavernoso do
+      [coruja-dos-urales](/especie/strix_uralensis/).
+
+
+      No vale de Rakov Škocjan, o bosque misto de faia e abeto figura entre os mais biodiversos da Europa,
+      encantador na primavera com o rebentar das faias e no outono com matizes dourados. No interior das
+      grutas sobrevive o escaravelho-cavernícola-de-pescoço-fino (*Leptodirus hochenwartii*), o primeiro
+      inseto troglóbio descrito no mundo.
+    visit: >-
+      Dois trilhos sinalizados conduzem ao Veliki Javornik (1268 m): um arranca de Dolenja vas e o outro do
+      vale de Rakov Škocjan. Ambos decorrem sob a sombra da mata, facultando uma subida fresca mesmo no estio.
+      A partir de Dolenja vas, o miradouro de Cvinger proporciona vistas panorâmicas sobre o lago de Cerknica,
+      com desvio para a gruta de Velika Karlovica. Após quatro quilómetros a rota empina, revelando sob o cume
+      uma vista airosa sobre o lago e a Slivnica.
+
+
+      Mais extensa é a caminhada da Javorniška baba (1.085 m), que ocupa entre cinco e seis horas por caminhos
+      e veredas florestais. Não encerra perigo técnico mas requer boa forma física para as rampas,
+      descortinando no alto horizontes sobre a bacia do Pivka, o Snežnik, a colina de Sveta Trojica, o Nanos,
+      o Triglav e a crista de Javornik. Uma proposta recomendada para quem aprecia carstologia e silêncio
+      vegetal.
+    history: >-
+      A mata funcionou como fonte de lenha e madeira durante séculos. Carvoarias, vidrarias e fornos de cal
+      desenvolveram-se na região; em épocas posteriores explorou-se sílex na Slivnica para os fornos de vidro
+      de Javorniki. Rakov Škocjan foi consagrado como primeiro parque paisagístico da Eslovénia em 1949,
+      possuindo um trilho interpretativo.
+    before: >-
+      Os veículos motorizados só podem circular nas vias públicas abertas e é estritamente proibido fazer
+      fogo. Mantém-te nos trilhos balizados e não perturbes a fauna bravia. Informa-te sobre a
+      transitabilidade dos caminhos antes de partires.
+    around: >-
+      O [lago de Cerknica](/lugar/cerknisko-jezero/) fica a apenas 1 km, alimentado pelas águas subterrâneas
+      de Javorniki. A cerca de 7 km situa-se o [Complexo Florestal de
+      Kočevsko](/lugar/kocevski-gozdni-kompleks/); a 9 km, o [Planalto Cárstico de
+      Nanos](/lugar/kraska-planota-nanos/) e o [Parque Nacional
+      Risnjak](/lugar/nacionalni-park-risnjak---sumski-kompleks/); a cerca de 14 km, o [Maciço de
+      Snježnik](/lugar/snjeznik-massif-croatia/), e a dezasseis quilómetros, as [Grutas de
+      Škocjan](/lugar/park-skocjanske-jame/). O [Maciço Florestal de
+      Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) e o [Carso Clássico e Sistema Subterrâneo
+      Postojna-Planina](/lugar/postonjska-jama---planinsko-polje/) sobrepõem-se diretamente a estas serras.
+fuentes:
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/javorniki
+    titulo: Javorniki — Notranjska Park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/activities/hiking/mount-veliki-javornik-trail
+    titulo: Mount Veliki Javornik Trail — Notranjska Park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/activities/hiking/javorniska-baba-trail
+    titulo: Mount Javorniška baba — Notranjska Park
+    fecha_consulta: '2026-10-29'
+  - url: https://sl.wikipedia.org/wiki/Javorniki
+    titulo: Javorniki – Wikipedija
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/animal-world
+    titulo: Animal world – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/rakov-skocjan
+    titulo: Rakov Škocjan – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/natural-landmarks/slivnica
+    titulo: Slivnica – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/discover/culture
+    titulo: Culture – Notranjski park
+    fecha_consulta: '2026-10-29'
+  - url: https://notranjski-park.si/en/plan-your-trip/rules-of-conduct
+    titulo: Rules of conduct – Notranjski park
+    fecha_consulta: '2026-10-29'

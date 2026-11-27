@@ -1,0 +1,709 @@
+id: parc-natural-del-cap-de-creus
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Cap de Creus
+  en: Cap de Creus Natural Park
+  fr: Parc naturel de Cap de Creus
+  de: Naturpark Cap de Creus
+  it: Parco Naturale di Cap de Creus
+  pt: Parque Natural do Cap de Creus
+nombre_original: Parc Natural del Cap de Creus
+alias:
+  - Parc Natural del Cap de Creus
+paises:
+  - ES
+region:
+  es: Cataluña (Girona / Cadaqués / El Port de la Selva / Roses)
+  en: Catalonia (Girona / Cadaqués / El Port de la Selva / Roses)
+  fr: Catalogne (Gérone / Cadaqués / El Port de la Selva / Roses)
+  de: Katalonien (Girona / Cadaqués / El Port de la Selva / Roses)
+  it: Catalogna (Girona / Cadaqués / El Port de la Selva / Roses)
+  pt: Catalunha (Girona / Cadaqués / El Port de la Selva / Roses)
+ubicacion:
+  tipo: punto
+  lat: 42.32
+  lon: 3.25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389006
+  nombre_en_la_fuente: Cap de Creus
+  categoria_uicn: Ia
+  capa: capas/cdda/parc-natural-del-cap-de-creus.geojson
+habitats:
+  - coast
+  - marine
+  - steppe
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - puffinus_yelkouan
+  - falco_peregrinus
+  - tursiops_truncatus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño (evitar las masificaciones turísticas de julio y agosto)
+  en: spring and autumn (avoid peak summer crowds in July and August)
+  fr: printemps et automne (éviter la surfréquentation touristique de juillet et août)
+  de: Frühling und Herbst (den Massentourismus im Juli und August meiden)
+  it: primavera e autunno (evitare il sovraffollamento turistico di luglio e agosto)
+  pt: primavera e outono (evitar a sobrelotação turística de julho e agosto)
+masificacion: 3
+masificacion_nota:
+  es: Alta en verano en el faro del Cap de Creus y Cadaqués
+  en: High in summer at Cap de Creus lighthouse and Cadaqués
+  fr: Forte en été au phare du Cap de Creus et à Cadaqués
+  de: Hoch im Sommer am Leuchtturm Cap de Creus und in Cadaqués
+  it: Alta in estate al faro di Cap de Creus e a Cadaqués
+  pt: Alta no verão no farol do Cap de Creus e em Cadaqués
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Información oficial del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/inici/
+  - titulo: Mapa — Cartografía del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/el-parc/mapa-del-parc/
+  - titulo: Rutas — Senderos e itinerarios
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+  - titulo: Centros y equipamientos — Información para la visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/equipaments-i-itineraris/
+  - titulo: Normas — Consejos y restricciones de visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/consells/
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/com-accedir-hi/
+resumen:
+  es: >-
+    El punto más oriental de la península ibérica, donde los Pirineos se hunden en el mar en un laberinto de
+    esquistos metamórficos esculpidos por la tramontana.
+  en: >-
+    The easternmost point of the Iberian Peninsula, where the Pyrenees plunge into the sea in a labyrinth of
+    metamorphic schists sculpted by the tramontana.
+  fr: >-
+    Le point le plus oriental de la péninsule Ibérique, où les Pyrénées plongent dans la mer au milieu d'un
+    dédale de schistes métamorphiques sculptés par la tramontane.
+  de: >-
+    Der östlichste Punkt der Iberischen Halbinsel, an dem die Pyrenäen in einem von der Tramontana geformten
+    Labyrinth metamorpher Schiefer ins Meer abfallen.
+  it: >-
+    Il punto più orientale della penisola iberica, dove i Pirenei sprofondano nel mare in un labirinto di
+    scisti metamorfici modellati dalla tramontana.
+  pt: >-
+    O ponto mais oriental da Península Ibérica, onde os Pirenéus mergulham no mar num labirinto de xistos
+    metamórficos esculpidos pela tramontana.
+unico:
+  es: Aquí crece el Seseli farreny, una planta que no existe en ningún otro lugar del mundo.
+  en: Here grows Seseli farrenyi, a plant found nowhere else in the world.
+  fr: Ici pousse Seseli farrenyi, une plante qui n'existe nulle part ailleurs dans le monde.
+  de: Hier wächst Seseli farrenyi, eine Pflanzenart, die an keinem anderen Ort der Erde vorkommt.
+  it: Qui vegeta Seseli farrenyi, una pianta che non esiste in nessun altro luogo del pianeta.
+  pt: Aqui medra a Seseli farrenyi, uma planta que não existe em nenhum outro lugar do mundo.
+observaciones:
+  es: >-
+    El acceso en coche y moto a la Punta de Cap de Creus se restringe con videovigilancia en días señalados;
+    en 2026, a diario en julio y agosto, de 9:30 a 21:30 h, en la carretera entre Cadaqués y el faro. Los días
+    de restricción hay un aparcamiento gratuito en el Corral d'en Morell, en Cadaqués, desde donde salen
+    lanzaderas hasta la Punta. También se regula el acceso de vehículos de cuatro o más ruedas a las calas de
+    Roses, entre el 1 de julio y el 31 de agosto, en la carretera de Montjoi y Jóncols. Con el nivel 4 del
+    Plan Alfa de peligro de incendio se cierran los accesos al parque natural. Esas fechas son las de 2026;
+    consulta las del año en que vayas. La primavera y el otoño evitan, además, las masificaciones de julio y
+    agosto.
+texto:
+  es:
+    intro: >-
+      En el Cap de Creus el viento es un personaje más. La tramontana modela con su persistencia a las
+      plantas, seca el aire y llena el suelo de sal, y donde sopla más fuerte la costa se ha quedado en
+      acantilados desnudos. Es el punto más al noreste de la península ibérica, y el Parque Natural del Cap de
+      Creus, creado en 1998, fue el primer parque marítimo-terrestre de Cataluña: suma 13.886 hectáreas,
+      10.813 de tierra y 3.073 de mar.
+    landscape: >-
+      La sierra de Rodes, o de Verdera, se levanta entre Roses y Llançà y termina en una franja litoral de
+      acantilados que el mar y la tramontana han modelado. Tierra adentro, la mayor parte de la superficie
+      está cubierta de brezales y prados secos, un contraste con la desnudez de la costa.
+
+
+      La causa está en la era paleozoica. El cabo de Creus forma parte de la zona axial de los Pirineos, con
+      el Canigó, la Pica d'Estats, la Val d'Aran y la Cerdanya, y guarda algunas de las rocas más antiguas del
+      eje de la cordillera. En la orogenia herciniana se formaron esquistos, gneis y mármoles, y se intruyeron
+      las granodioritas de Roses. Mucho más tarde, el vulcanismo de La Garrotxa dejó aquí los basaltos del
+      Puig Ferral y del cabo Norfeu.
+
+
+      La mano humana pesa. Buena parte del terreno es una inmensa viña abandonada sobre bancales de piedra, y
+      el pastoreo ha causado incendios repetidos que han marcado el paisaje. Hoy dominan las máquias y
+      brollas, con lentisco, cadec, brezo arbóreo, jaras y argelaga negra. Los árboles ocupan poco espacio: el
+      pino carrasco y el alcornoque son los más frecuentes, y en los lugares umbríos aparecen la encina y el
+      roble martinenc.
+
+
+      El parque se extiende también bajo el mar. Las praderas de posidonia, el algueró y la Zostera crecen
+      sobre fondos arenosos o fangosos y están protegidas. El área marina protegida ocupa unas 3.000
+      hectáreas, el 22 % del parque, y va de la cala Tamariua, en El Port de la Selva, a la punta Falconera,
+      en Roses.
+    wildlife: >-
+      Si vas a mirar aves, ve en primavera o en otoño, cuando pasan los movimientos migratorios: el Cap de
+      Creus es un lugar privilegiado para observarlas. En los acantilados se ven el [águila
+      perdicera](/especie/aquila_fasciata/), el [halcón peregrino](/especie/falco_peregrinus/) y el [búho
+      real](/especie/bubo_bubo/). Entre las aves marinas hay gaviotas, el [cormorán
+      moñudo](/especie/phalacrocorax_aristotelis/), pardelas, charranes y alcatraz atlántico.
+
+
+      En tierra, los anfibios están muy bien representados, de la ranita meridional al sapo común. Hay
+      [tortuga mediterránea](/especie/testudo_hermanni/) y galápago leproso, aunque escasos, y es más fácil
+      ver el lagarto común y la salamanquesa común. Entre los invertebrados protegidos destaca un caracol
+      endémico del Cap de Creus, el Mastigophallus rangianus.
+
+
+      Bajo el agua, el fondo es muy rico gracias a la poca contaminación: coral rojo y gorgonias, langosta y
+      peces como el sargo, la oblada, la salema, el cabracho y el mero. El [delfín
+      mular](/especie/tursiops_truncatus/) frecuenta también las aguas cercanas a la costa.
+    visit: >-
+      El parque propone itinerarios a pie. El circular de la Punta del Cap de Creus mide 2,1 km, con 100
+      metros de desnivel y 45 minutos, y es fácil. El de Cap Norfeu es otro circuito fácil: 4,6 km, 180 m de
+      desnivel y 1 h 45 min. Para más esfuerzo, la subida al Puig Ferral es moderada, de 6,9 km y 220 m de
+      desnivel, y la travesía de Cadaqués al Cap de Creus tiene 9,2 km, 235 m de subida y 165 de bajada. La
+      más dura es la travesía de Roses a Cadaqués: 20,4 km, 695 m de subida y unas 8 horas.
+
+
+      La Punta de Cap de Creus y Cap Norfeu son reservas naturales integrales, la figura de máxima protección
+      por sus valores geológicos, botánicos y paisajísticos, y en ellas es obligatorio andar solo por los
+      itinerarios señalizados. El mirador del faro, orientado al suroeste, tiene vistas a las Illes d'en
+      Forcat, Cap Norfeu, Cadaqués y el Pení, y muestra la vegetación de brolla.
+
+
+      El mar se visita con inmersión ligera en Cala Murtra, Cala Tamariua y Cala Es Caials, con material para
+      identificar y marcar las especies que encuentres; el parque propone también itinerarios de submarinismo.
+    history: >-
+      La sierra de Rodes y el cabo de Creus estuvieron poblados desde el Paleolítico. El patrimonio incluye
+      ermitas, muros de piedra seca, cabañas de pastor y restos arqueológicos con dólmenes. El paisaje actual
+      hereda los campos que se empezaron a abrir al acabar el primer milenio, y Cadaqués y Portlligat son la
+      huella de Dalí, que atrajo a Federico García Lorca, Buñuel, Magritte y Eluard.
+
+
+      La creación del parque puso bajo protección un paisaje con antiguas canteras, reforestaciones,
+      instalaciones militares en el Pení y urbanizaciones de segunda residencia. Esas huellas se suman a los
+      bancales y a los caminos que hoy atraviesas.
+    before: >-
+      El acceso en coche y moto a la Punta de Cap de Creus se restringe con videovigilancia en días señalados;
+      en 2026, a diario en julio y agosto, de 9:30 a 21:30 h, en la carretera entre Cadaqués y el faro. Los
+      días de restricción hay un aparcamiento gratuito en el Corral d'en Morell, en Cadaqués, desde donde
+      salen lanzaderas hasta la Punta. También se regula el acceso de vehículos de cuatro o más ruedas a las
+      calas de Roses, entre el 1 de julio y el 31 de agosto, en la carretera de Montjoi y Jóncols. Con el
+      nivel 4 del Plan Alfa de peligro de incendio se cierran los accesos al parque natural. Esas fechas son
+      las de 2026; consulta las del año en que vayas. La primavera y el otoño evitan, además, las
+      masificaciones de julio y agosto.
+    around: >-
+      En el entorno está el [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Más lejos, el [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) y el [Park prirode
+      Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) comparten con el Cap de Creus especies como el
+      delfín mular.
+  en:
+    intro: >-
+      At Cap de Creus, the wind is an ever-present force. The relentless tramontana shapes the vegetation,
+      dries the air, and saturates the soil with salt; where it blows hardest, the coast has been stripped
+      down to bare rock cliffs. It marks the northeasternmost point of the Iberian Peninsula, and the Cap de
+      Creus Natural Park, established in 1998, was the first maritime-terrestrial park in Catalonia: spanning
+      13,886 hectares, with 10,813 on land and 3,073 at sea.
+    landscape: >-
+      The Rodes or Verdera mountain range rises between Roses and Llançà, dropping into a coastal ribbon of
+      cliffs sculpted by the sea and the tramontana. Inland, most of the terrain is carpeted in heathlands and
+      dry grasslands, contrasting sharply with the bareness of the shoreline.
+
+
+      The origin dates to the Paleozoic era. Cap de Creus belongs to the axial zone of the Pyrenees, along
+      with the Canigó, Pica d'Estats, Val d'Aran, and Cerdanya, safeguarding some of the oldest rocks of the
+      mountain range's backbone. During the Hercynian orogeny, schists, gneisses, and marbles took shape,
+      alongside granodiorite intrusions around Roses. Much later, volcanic activity from La Garrotxa left the
+      basalt formations of Puig Ferral and Cap Norfeu.
+
+
+      Human intervention has left a deep mark. Much of the land consists of vast abandoned vineyards terraced
+      with dry-stone walls, while grazing and recurring wildfires have shaped the open landscape. Today,
+      Mediterranean maquis and scrubland dominate, featuring mastic, prickly juniper, tree heath, rockroses,
+      and black gorse. Trees occupy little space: Aleppo pine and cork oak are most common, while holm oak and
+      downy oak appear in shaded hollows.
+
+
+      The park also reaches underwater. Meadows of Posidonia, Cymodocea, and Zostera flourish over sandy and
+      muddy sea bottoms and are strictly protected. The marine protected area spans some 3,000 hectares,
+      representing 22 % of the park, extending from Cala Tamariua in El Port de la Selva to Punta Falconera in
+      Roses.
+    wildlife: >-
+      If you want to observe birds, visit in spring or autumn during seasonal migration: Cap de Creus is an
+      exceptional vantage point. Along the cliffs you can spot [Bonelli's eagle](/especie/aquila_fasciata/),
+      the [peregrine falcon](/especie/falco_peregrinus/), and the [Eurasian eagle-owl](/especie/bubo_bubo/).
+      Marine birds include gulls, the [European shag](/especie/phalacrocorax_aristotelis/), shearwaters,
+      terns, and northern gannets.
+
+
+      On land, amphibians thrive, from the Mediterranean tree frog to the common toad. [Hermann's
+      tortoise](/especie/testudo_hermanni/) and the Spanish pond turtle inhabit the area, though scarce, while
+      the Iberian green lizard and common wall gecko are seen more easily. Among protected invertebrates, an
+      endemic land snail, Mastigophallus rangianus, stands out.
+
+
+      Beneath the surface, marine life flourishes thanks to clean waters: red coral, gorgonian sea fans, spiny
+      lobsters, and fish such as white seabream, saddled seabream, salema, red scorpionfish, and dusky
+      grouper. The [common bottlenose dolphin](/especie/tursiops_truncatus/) also frequents coastal waters.
+    visit: >-
+      The park features walking itineraries. The circular Punta del Cap de Creus trail covers 2.1 km, with 100
+      metres of elevation change taking 45 minutes, rated easy. The Cap Norfeu circuit is another easy option:
+      4.6 km, 180 m of elevation gain, taking 1 h 45 min. For greater effort, the hike up Puig Ferral is
+      moderate, spanning 6.9 km and 220 m of ascent, while the crossing from Cadaqués to Cap de Creus covers
+      9.2 km with 235 m of ascent and 165 m of descent. The most challenging route runs from Roses to
+      Cadaqués: 20.4 km, 695 m of ascent, taking roughly 8 hours.
+
+
+      Punta de Cap de Creus and Cap Norfeu are integral natural reserves—the highest tier of legal protection
+      for geological, botanical, and scenic wealth—where walking is restricted exclusively to signposted
+      trails. The lighthouse viewpoint, facing southwest, commands vistas toward Illes d'en Forcat, Cap
+      Norfeu, Cadaqués, and El Pení, overlooking coastal scrub.
+
+
+      The sea can be experienced through snorkelling at Cala Murtra, Cala Tamariua, and Cala Es Caials,
+      supported by identification sheets; the park also designates scuba diving routes.
+    history: >-
+      The Serra de Rodes and Cap de Creus have been inhabited since the Paleolithic. Heritage includes
+      chapels, dry-stone walls, shepherd shelters, and archaeological remains with dolmens. Today's landscape
+      inherits agricultural clearings begun at the end of the first millennium, while Cadaqués and Portlligat
+      bear the indelible mark of Salvador Dalí, who attracted Federico García Lorca, Buñuel, Magritte, and
+      Éluard.
+
+
+      The park's establishment protected a landscape scarred by disused quarries, reforestations, military
+      barracks on El Pení, and secondary holiday homes. These traces intermingle with ancient terraces and the
+      footpaths you tread today.
+    before: >-
+      Motor vehicle access (cars and motorbikes) to Punta de Cap de Creus is restricted with video monitoring
+      on designated days; in 2026, daily in July and August from 9:30 to 21:30 h along the road between
+      Cadaqués and the lighthouse. During restriction days, free parking is available at Corral d'en Morell in
+      Cadaqués, from where shuttle buses run to the Punta. Vehicle access with four or more wheels to the
+      coves of Roses is also regulated between 1 July and 31 August along the Montjoi and Jóncols road. Under
+      Level 4 of the Alfa Plan for wildfire risk, access to the natural park is shut. These dates apply to
+      2026; check regulations for the year of your trip. Visiting in spring or autumn also avoids the
+      midsummer crowds of July and August.
+    around: >-
+      Nearby lies the [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Further away, [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) and [Park prirode
+      Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) share species like the bottlenose dolphin with
+      Cap de Creus.
+  fr:
+    intro: >-
+      Au Cap de Creus, le vent est un protagoniste à part entière. La tramontane modèle obstinément la flore,
+      assèche l'atmosphère et charge le sol d'embruns salés ; là où elle souffle le plus fort, le littoral se
+      réduit à des falaises dénudées. Point le plus au nord-est de la péninsule Ibérique, le parc naturel de
+      Cap de Creus, institué en 1998, fut le premier parc maritime-terrestre de Catalogne : il totalise 13 886
+      hectares, dont 10 813 terrestres et 3 073 marins.
+    landscape: >-
+      La serra de Rodes, ou de Verdera, s'élève entre Roses et Llançà pour s'achever en un front de falaises
+      littorales façonnées par la mer et la tramontane. Vers l'intérieur, l'essentiel des terres se couvre de
+      landes et de pelouses sèches, contrastant avec l'aridité minérale du rivage.
+
+
+      L'explication réside dans l'ère paléozoïque. Le cap de Creus appartient à la zone axiale des Pyrénées,
+      avec le Canigó, la Pica d'Estats, le Val d'Aran et la Cerdagne, et recèle certaines des roches les plus
+      anciennes de l'épine dorsale pyrénéenne. Durant l'orogenèse hercynienne se formèrent schistes, gneiss et
+      marbres, ainsi que les intrusions granodioritiques de Roses. Bien plus tard, le volcanisme de La
+      Garrotxa y déposa les basaltes du Puig Ferral et du cap Norfeu.
+
+
+      L'action humaine a profondément marqué les lieux. Une grande partie du territoire est un vaste vignoble
+      abandonné étagé sur des murets de pierre sèche, tandis que le pastoralisme et les feux répétés ont
+      dessiné ce paysage ouvert. Aujourd'hui dominent maquis et garrigues, peuplés de lentisque, genévrier
+      cade, bruyère arborescente, cistes et ajonc d'Espagne. Les arbres restent rares : pin d'Alep et
+      chêne-liège dominent, tandis que chêne vert et chêne pubescent occupent les versants ombragés.
+
+
+      Le parc s'étend également sous les eaux. Les herbiers de posidonie, de cymodocée et de zostère tapissent
+      les fonds sableux ou vaseux et bénéficient d'une stricte protection. La réserve marine couvre environ 3
+      000 hectares, soit 22 % du parc, depuis la cala Tamariua à El Port de la Selva jusqu'à la pointe
+      Falconera à Roses.
+    wildlife: >-
+      Pour observer les oiseaux, privilégiez le printemps ou l'automne au moment des passages migratoires : le
+      Cap de Creus constitue un poste d'observation exceptionnel. Sur les falaises nichent l'[aigle de
+      Bonelli](/especie/aquila_fasciata/), le [faucon pèlerin](/especie/falco_peregrinus/) et le [hibou
+      grand-duc](/especie/bubo_bubo/). Parmi les oiseaux de mer figurent goélands, [cormoran
+      huppé](/especie/phalacrocorax_aristotelis/), puffins, sternes et fou de Bassan.
+
+
+      À terre, les amphibiens sont bien établis, de la rainette méridionale au crapaud commun. On rencontre la
+      [tortue d'Hermann](/especie/testudo_hermanni/) et l'émyde lépreuse, bien que rares, tandis que le lézard
+      ocellé et la tarente commune s'observent plus facilement. Parmi les invertébrés protégés s'illustre un
+      gastéropode endémique du Cap de Creus, Mastigophallus rangianus.
+
+
+      Sous l'eau, les fonds foisonnent grâce à une faible pollution : corail rouge et gorgones, langoustes et
+      poissons tels que le sar commun, l'oblade, la saupe, la rascasse et le mérou brun. Le [grand
+      dauphin](/especie/tursiops_truncatus/) visite aussi régulièrement les eaux côtières.
+    visit: >-
+      Le parc propose des circuits pédestres balisés. La boucle de la Punta del Cap de Creus s'étend sur 2,1
+      km avec 100 mètres de dénivelé en 45 minutes, d'accès facile. Le circuit du Cap Norfeu offre une autre
+      balade accessible : 4,6 km, 180 m de dénivelé et 1 h 45 min. Pour un effort supérieur, l'ascension du
+      Puig Ferral est modérée, affichant 6,9 km et 220 m de montée, tandis que la traversée de Cadaqués au Cap
+      de Creus compte 9,2 km, 235 m de montée et 165 m de descente. Le parcours le plus exigeant relie Roses à
+      Cadaqués : 20,4 km, 695 m de dénivelé positif et environ 8 heures de marche.
+
+
+      La Punta de Cap de Creus et le Cap Norfeu sont classés réserves naturelles intégrales — le degré suprême
+      de protection légale pour leurs valeurs géologiques, botaniques et paysagères —, où cheminer en dehors
+      des sentiers aménagés est strictement interdit. Le belvédère du phare, tourné vers le sud-ouest,
+      embrasse les Illes d'en Forcat, le Cap Norfeu, Cadaqués et le Pení au-dessus des garrigues rases.
+
+
+      La mer s'explore en randonnée palmée à Cala Murtra, Cala Tamariua et Cala Es Caials grâce à des fiches
+      d'identification ; le parc propose également des parcours de plongée sous-marine.
+    history: >-
+      La serra de Rodes et le cap de Creus sont habités depuis le Paléolithique. Le patrimoine réunit
+      chapelles, murets de pierre sèche, cabanes de berger et dolmens mégalithiques. Le paysage actuel hérite
+      des terroirs mis en culture au terme du premier millénaire, tandis que Cadaqués et Portlligat portent la
+      mémoire de Dalí, qui y attira Federico García Lorca, Buñuel, Magritte et Éluard.
+
+
+      La création du parc a sanctuarisé un milieu marqué par d'anciennes carrières, des reboisements, des
+      installations militaires sur le Pení et des lotissements de villégiature. Ces traces se superposent aux
+      restanques et aux chemins que vous parcourez aujourd'hui.
+    before: >-
+      L'accès motorisé (voitures et motos) à la Punta de Cap de Creus fait l'objet de restrictions avec
+      vidéosurveillance lors des périodes de pointe ; en 2026, quotidiennement en juillet et août de 9:30 à
+      21:30 h sur la route reliant Cadaqués au phare. Durant ces périodes, un parking gratuit est aménagé au
+      Corral d'en Morell à Cadaqués, d'où partent des navettes jusqu'à la Punta. L'accès des véhicules à
+      quatre roues ou plus vers les criques de Roses est également réglementé entre le 1 juillet et le 31 août
+      sur la piste de Montjoi et Jóncols. En cas d'activation du niveau 4 du plan Alfa de risque d'incendie,
+      les accès au parc naturel sont fermés. Ces dates valent pour 2026 ; vérifiez les dispositions de l'année
+      de votre visite. Le printemps et l'automne évitent en outre l'affluence estivale de juillet et août.
+    around: >-
+      Dans les environs immédiats se trouve le [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Plus loin, le [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) et le [Park prirode
+      Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) partagent avec le Cap de Creus des espèces
+      comme le grand dauphin.
+  de:
+    intro: >-
+      Am Cap de Creus ist der Wind ein ständiger Begleiter. Die unerbittliche Tramontana formt die
+      Pflanzenwelt, dörrt die Luft aus und reichert den Boden mit Salz an; dort, wo sie am heftigsten weht,
+      besteht die Küste nur noch aus kargen Felswänden. Es ist der nordöstlichste Punkt der Iberischen
+      Halbinsel, und der 1998 gegründete Naturpark Cap de Creus war der erste maritim-terrestrische Park
+      Kataloniens: Er umfasst 13.886 Hektar, davon 10.813 an Land und 3.073 auf See.
+    landscape: >-
+      Die Sierra de Rodes, auch Verdera genannt, ragt zwischen Roses und Llançà empor und mündet in ein Band
+      von Steilklippen, die Meer und Tramontana modelliert haben. Im Landesinneren ist der Großteil der Fläche
+      von Heidelandschaften und Trockenrasen bedeckt, ein deutlicher Gegensatz zur Kahlheit des Ufers.
+
+
+      Die Ursachen liegen im Paläozoikum. Das Cap de Creus gehört zur Axialzone der Pyrenäen, gemeinsam mit
+      Canigó, Pica d'Estats, Val d'Aran und Cerdanya, und birgt einige der ältesten Gesteine des Gebirgskamms.
+      Während der variszischen Orogenese bildeten sich Schiefer, Gneise und Marmore, begleitet von
+      Granodiorit-Intrusionen bei Roses. Weitaus später hinterließ der Vulkanismus der Garrotxa die Basalte
+      des Puig Ferral und des Cap Norfeu.
+
+
+      Der menschliche Einfluss wiegt schwer. Große Teile des Geländes bestehen aus verlassenen
+      Weinbergterrassen aus Trockenmauerwerk, und die Beweidung mit wiederholten Bränden hat die Landschaft
+      geprägt. Heute dominieren Macchie und Garrigue mit Mastixstrauch, Stechwacholder, Baumheide, Zistrosen
+      und Schwarzer Ginster. Bäume nehmen wenig Raum ein: Aleppo-Kiefern und Korkeichen sind am häufigsten,
+      während an schattigen Hängen Steineichen und Flaumeichen gedeihen.
+
+
+      Der Park reicht auch unter die Meeresoberfläche. Seegraswiesen aus Posidonia, Cymodocea und Zostera
+      wachsen auf Sand- oder Schlickböden und sind geschützt. Das Meeresschutzgebiet umfasst rund 3.000
+      Hektar, was 22 % des Parks ausmacht, und reicht von der Cala Tamariua in El Port de la Selva bis zur
+      Punta Falconera bei Roses.
+    wildlife: >-
+      Wenn du Vögel beobachten möchtest, wähle das Frühjahr oder den Herbst während des Vogelzugs: Das Cap de
+      Creus bietet ideale Voraussetzungen. An den Klippen nisten der
+      [Habichtsadler](/especie/aquila_fasciata/), der [Wanderfalke](/especie/falco_peregrinus/) und der
+      [Uhu](/especie/bubo_bubo/). Unter den Meeresvögeln finden sich Möwen, die
+      [Krähenscharbe](/especie/phalacrocorax_aristotelis/), Sturmtaucher, Seeschwalben und Basstölpel.
+
+
+      An Land sind Amphibien reich vertreten, vom Mittelmeer-Laubfrosch bis zur Erdkröte. Die [Griechische
+      Landschildkröte](/especie/testudo_hermanni/) und die Maurische Bachschildkröte kommen vor, wenngleich
+      selten, während Perleidechsen und Mauergeckos leichter zu entdecken sind. Unter den geschützten
+      Wirbellosen ragt eine endemische Landschnecke des Kaps heraus: Mastigophallus rangianus.
+
+
+      Unter Wasser herrscht dank geringer Verschmutzung eine reiche Fauna: Rote Korallen, Gorgonien, Langusten
+      sowie Fische wie Geißbrasse, Brandbrasse, Goldstrieme, Drachenkopf und Brauner Zackenbarsch. Auch der
+      [Große Tümmler](/especie/tursiops_truncatus/) zieht regelmäßig durch die küstennahen Gewässer.
+    visit: >-
+      Der Park bietet markierte Wanderrouten. Der Rundweg Punta del Cap de Creus misst 2,1 km mit 100
+      Höhenmetern und 45 Minuten Gehzeit, eingestuft als leicht. Die Runde um Cap Norfeu ist ein weiterer
+      einfacher Rundkurs: 4,6 km, 180 m Höhenunterschied und 1 h 45 min Dauer. Wer mehr Anstrengung sucht,
+      wählt den moderaten Aufstieg zum Puig Ferral über 6,9 km und 220 m Aufstieg, während die Querung von
+      Cadaqués zum Cap de Creus 9,2 km lang ist und 235 m Aufstieg sowie 165 m Abstieg aufweist. Die
+      anspruchsvollste Tour führt von Roses nach Cadaqués: 20,4 km, 695 m Anstieg und rund 8 Stunden Gehzeit.
+
+
+      Die Punta de Cap de Creus und Cap Norfeu sind integrale Naturschutzgebiete — die strengste
+      Schutzkategorie aufgrund geologischer, botanischer und landschaftlicher Werte —, in denen das Verlassen
+      der markierten Pfade untersagt ist. Der nach Südwesten ausgerichtete Leuchtturmaussichtspunkt bietet
+      Blicke auf die Illes d'en Forcat, das Cap Norfeu, Cadaqués und den El Pení über niedriger
+      Felsvegetation.
+
+
+      Die Unterwasserwelt lässt sich beim Schnorcheln in der Cala Murtra, Cala Tamariua und Cala Es Caials mit
+      Bestimmungstafeln erkunden; der Park weist zudem Tauchrouten aus.
+    history: >-
+      Die Sierra de Rodes und das Cap de Creus sind seit der Altsteinzeit besiedelt. Das Kulturgut umfasst
+      Kapellen, Trockensteinmauern, Hirtenhütten und archäologische Dolmenstätten. Das gegenwärtige
+      Landschaftsbild wurzelt in der Rodung von Kulturland gegen Ende des ersten Jahrtausends. Cadaqués und
+      Portlligat tragen die unverkennbaren Spuren Salvador Dalís, der Federico García Lorca, Buñuel, Magritte
+      und Éluard anzog.
+
+
+      Mit der Parkausweisung wurde eine Landschaft unter Schutz gestellt, die von alten Steinbrüchen,
+      Aufforstungen, Militärbauten auf dem Pení und Ferienhaussiedlungen gezeichnet war. Diese Spuren
+      verbinden sich mit Terrassen und Wegen, die du heute durchwanderst.
+    before: >-
+      Die Zufahrt mit Autos und Motorrädern zur Punta de Cap de Creus wird an ausgewählten Tagen per
+      Videoüberwachung reglementiert; im Jahr 2026 täglich im Juli und August von 9:30 bis 21:30 h auf der
+      Straße zwischen Cadaqués und dem Leuchtturm. An Sperrtagen steht am Corral d'en Morell in Cadaqués ein
+      kostenloser Parkplatz zur Verfügung, von dem Pendelbusse zur Punta verkehren. Zudem wird die Zufahrt für
+      Fahrzeuge mit vier oder mehr Rädern zu den Buchten von Roses zwischen dem 1. Juli und dem 31. August auf
+      der Piste nach Montjoi und Jóncols beschränkt. Bei Waldbrand-Warnstufe 4 des Pla Alfa bleiben die
+      Zugänge zum Naturpark geschlossen. Diese Daten gelten für 2026; prüfe die Fristen im Jahr deiner Reise.
+      Frühling und Herbst meiden überdies den Hochsommerandrang von Juli und August.
+    around: >-
+      In der näheren Umgebung liegt der [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Weiter entfernt teilen der [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) und der
+      [Park prirode Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) Arten wie den Großen Tümmler mit
+      dem Cap de Creus.
+  it:
+    intro: >-
+      A Cap de Creus il vento è un protagonista assoluto. La tramontana modella con costanza la vegetazione,
+      asciuga l'aria e permea il terreno di salsedine; dove spira più violenta, la linea costiera si riduce a
+      scogliere spoglie. È il punto più nord-orientale della penisola iberica, e il Parco Naturale di Cap de
+      Creus, istituito nel 1998, è stato il primo parco marittimo-terrestre della Catalogna: copre 13.886
+      ettari complessivi, di cui 10.813 terrestri e 3.073 marini.
+    landscape: >-
+      La sierra de Rodes, o di Verdera, si erge tra Roses e Llançà per terminare in una fascia costiera di
+      falesie scolpite dal moto ondoso e dalla tramontana. Verso l'interno, la maggior parte dell'estensione è
+      occupata da brughiere e prati aridi, in contrasto con l'austerità nuda del litorale.
+
+
+      La ragione rimonta all'era paleozoica. Cap de Creus rientra nella zona assiale dei Pirenei, insieme al
+      Canigó, alla Pica d'Estats, alla Val d'Aran e alla Cerdanya, custodendo alcune delle rocce più antiche
+      della dorsale montuosa. Nell'orogenesi ercinica presero forma scisti, gneiss e marmi, accompagnati dalle
+      intrusioni granodioritiche di Roses. Molto tempo dopo, il vulcanismo della Garrotxa depositò i basalti
+      di Puig Ferral e di Cap Norfeu.
+
+
+      L'intervento umano è evidente. Ampie porzioni di territorio sono un vasto vigneto abbandonato retto da
+      terrazzamenti in pietra a secco, mentre la pastorizia e i frequenti incendi hanno forgiato il paesaggio.
+      Oggi dominano macchie e garighe composte da lentisco, ginepro rosso, erica arborea, cisti e ginestra
+      spinosa. Gli alberi occupano poco spazio: il pino d'Aleppo e la sughera sono i più diffusi, mentre nelle
+      gole ombrose compaiono il leccio e la roverella.
+
+
+      Il parco si allunga anche sotto la superficie marina. Le praterie di posidonia, di cimodocea e di
+      zostera prosperano su fondali sabbiosi o fangosi e sono rigidamente protette. L'area marina protetta
+      racchiude circa 3.000 ettari, pari al 22 % del parco, estendendosi da Cala Tamariua a El Port de la
+      Selva fino a Punta Falconera a Roses.
+    wildlife: >-
+      Se desideri osservare gli uccelli, visitalo in primavera o in autunno durante i passaggi migratori: Cap
+      de Creus è un punto di avvistamento straordinario. Sulle pareti a picco sul mare nidificano l'[aquila di
+      Bonelli](/especie/aquila_fasciata/), il [falco pellegrino](/especie/falco_peregrinus/) e il [gufo
+      reale](/especie/bubo_bubo/). Tra gli uccelli marini si contano gabbiani, il [marangone dal
+      ciuffo](/especie/phalacrocorax_aristotelis/), berte, sterne e la sula bassana.
+
+
+      Sulla terraferma gli anfibi prosperano, dalla raganella meridionale al rospo comune. Sono presenti la
+      [testuggine di Hermann](/especie/testudo_hermanni/) e la testuggine palustre iberica, per quanto rare,
+      mentre la lucertola ocellata e il geco comune si scorgono più agevolmente. Tra gli invertebrati protetti
+      merita menzione una chiocciola terrestre endemica di Cap de Creus, Mastigophallus rangianus.
+
+
+      Sott'acqua i fondali pullulano di vita grazie al basso inquinamento: corallo rosso, gorgonie, aragoste e
+      pesci quali sarago, occhiata, salpa, scorfano e cernia bruna. Il
+      [tursiope](/especie/tursiops_truncatus/) frequenta con assiduità le acque costiere.
+    visit: >-
+      Il parco predispone vari percorsi escursionistici. L'anello di Punta del Cap de Creus si sviluppa per
+      2,1 km con 100 metri di dislivello in 45 minuti, classificato facile. L'itinerario di Cap Norfeu è un
+      altro anello agevole: 4,6 km, 180 m di dislivello e 1 h 45 min di durata. Per un impegno maggiore, la
+      salita al Puig Ferral è di difficoltà media, con 6,9 km e 220 m di ascesa, mentre la traversata da
+      Cadaqués a Cap de Creus misura 9,2 km con 235 m di salita e 165 m di discesa. Il tracciato più
+      impegnativo unisce Roses a Cadaqués: 20,4 km, 695 m di dislivello positivo e circa 8 ore di cammino.
+
+
+      Punta de Cap de Creus e Cap Norfeu costituiscono riserve naturali integrali — il regime massimo di
+      tutela per valenze geologiche, botaniche e paesaggistiche —, dove è imperativo muoversi unicamente lungo
+      i percorsi tracciati. Il belvedere del faro, rivolto a sud-ovest, regala scorci sulle Illes d'en Forcat,
+      Cap Norfeu, Cadaqués e il Pení tra la rada vegetazione costiera.
+
+
+      Il mare si può esplorare praticando snorkeling a Cala Murtra, Cala Tamariua e Cala Es Caials con schede
+      di riconoscimento; il parco segnala anche itinerari per immersioni subacquee.
+    history: >-
+      La serra de Rodes e Cap de Creus conobbero insediamenti fin dal Paleolitico. Il patrimonio racchiude
+      eremi, muretti a secco, capanni di pastori e testimonianze archeologiche con dolmen. Il paesaggio rurale
+      attuale discende dai disboscamenti intrapresi sul finire del primo millennio, mentre Cadaqués e
+      Portlligat conservano l'eredità di Salvador Dalí, che qui radunò Federico García Lorca, Buñuel, Magritte
+      ed Éluard.
+
+
+      L'istituzione del parco ha salvaguardato un territorio segnato da vecchie cave, rimboschimenti, presidi
+      militari sul Pení e lottizzazioni turistiche. Queste tracce si fondono con i terrazzamenti e i sentieri
+      che oggi attraversi a piedi.
+    before: >-
+      L'accesso in automobile e moto a Punta de Cap de Creus è limitato da varchi elettronici nei periodi di
+      massimo afflusso; nel 2026, quotidianamente in luglio e agosto dalle 9:30 alle 21:30 h sulla strada fra
+      Cadaqués e il faro. Nelle giornate di blocco è disponibile un parcheggio gratuito presso Corral d'en
+      Morell a Cadaqués, da cui partono navette dirette alla Punta. È inoltre regolamentato l'accesso dei
+      veicoli a quattro o più ruote verso le calette di Roses tra il 1 luglio e il 31 agosto sulla pista di
+      Montjoi e Jóncols. In caso di livello 4 del Plan Alfa per pericolo di incendi boschivi gli accessi al
+      parco naturale vengono sbarrati. Tali disposizioni valgono per il 2026; accertati delle norme in vigore
+      nell'anno della visita. La primavera e l'autunno evitano peraltro le congestioni di luglio e agosto.
+    around: >-
+      Nei paraggi si estende il [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Più lontano, il [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) e il [Park prirode
+      Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) condividono con Cap de Creus specie marine come
+      il tursiope.
+  pt:
+    intro: >-
+      No Cap de Creus o vento é um elemento permanente. A persistência da tramontana molda a vegetação, seca o
+      ar e impregna o solo de salitre; onde sopra com maior fúria, o litoral ficou reduzido a escarpas
+      despidas. É o ponto mais a nordeste da Península Ibérica, e o Parque Natural do Cap de Creus, criado em
+      1998, foi o primeiro parque marítimo-terrestre da Catalunha: abrange 13.886 hectares, dos quais 10.813
+      terrestres e 3.073 marítimos.
+    landscape: >-
+      A serra de Rodes, ou de Verdera, eleva-se entre Roses e Llançà e culmina numa orla costeira de falésias
+      esculpidas pelo mar e pela tramontana. Pelo interior, a maior parte da área está revestida por urzais e
+      prados secos, num vivo contraste com a aridez mineral da costa.
+
+
+      A explicação remonta à era paleozoica. O cabo de Creus integra a zona axial dos Pirenéus, em conjunto
+      com o Canigó, a Pica d'Estats, o Val d'Aran e a Cerdanha, conservando algumas das rochas mais antigas da
+      cordilheira. Na orogenia hercínica formaram-se xistos, gnaisses e mármores, e deram-se as intrusões de
+      granodioritos em Roses. Muito mais tarde, o vulcanismo de La Garrotxa depositou os basaltos do Puig
+      Ferral e do cabo Norfeu.
+
+
+      A intervenção humana foi marcante. Grande parte do terreno é uma imensa vinha abandonada em socalcos de
+      pedra solta, enquanto o pastoreio e os fogos reiterados moldaram a paisagem aberta. Hoje predominam
+      charnecas e matagais, pontuados por aroeira, zimbro-galego, urze-molar, estevas e tojo. As árvores
+      ocupam uma fração diminuta: o pinheiro-de-alepo e o sobreiro são os mais frequentes, ao passo que nas
+      encostas sombrias surgem a azinheira e o carvalho-negral.
+
+
+      O parque prolonga-se igualmente pelo mar adentro. As pradarias de posidónia, de seba e de Zostera
+      estendem-se sobre fundos de areia ou lodo e estão sob rigorosa proteção. A reserva marinha protegida
+      perfaz cerca de 3.000 hectares, correspondendo a 22 % do parque, indo da cala Tamariua, em El Port de la
+      Selva, até à ponta Falconera, em Roses.
+    wildlife: >-
+      Se pretendes observar aves, escolhe a primavera ou o outono durante as passagens migratórias: o Cap de
+      Creus é um local privilegiado de observação. Nas escarpas avistam-se a
+      [águia-de-bonelli](/especie/aquila_fasciata/), o [falcão-peregrino](/especie/falco_peregrinus/) e o
+      [bufo-real](/especie/bubo_bubo/). De entre as aves marinhas encontram-se gaivotas, o
+      [corvo-marinho-de-crista](/especie/phalacrocorax_aristotelis/), pardelas, andorinhas-do-mar e o
+      ganso-patola.
+
+
+      Em terra os anfíbios estão bem representados, desde a rela-meridional até ao sapo-comum. Ocorrem a
+      [tartaruga-de-hermann](/especie/testudo_hermanni/) e o cágado-mediterrânico, embora escassos, sendo mais
+      acessível vislumbrar o sardão e a osga-comum. Nos invertebrados protegidos sobressai um caracol
+      terrestre endémico do Cap de Creus, a Mastigophallus rangianus.
+
+
+      Em meio subaquático o leito marinho é riquíssimo graças aos reduzidos níveis de poluição:
+      coral-vermelho, gorgónias, lagostas e peixes como sargo, dobradiça, salema, rascasso e mero. O
+      [golfinho-comum](/especie/tursiops_truncatus/) também frequenta assiduamente as águas costeiras.
+    visit: >-
+      O parque dispõe de percursos pedestres assinalados. O circuito da Punta del Cap de Creus tem 2,1 km, com
+      100 metros de desnível e 45 minutos de duração, considerado fácil. O trilho do Cap Norfeu é outra rota
+      acessível: 4,6 km, 180 m de desnível e 1 h 45 min. Para um esforço mais acentuado, a subida ao Puig
+      Ferral é moderada, totalizando 6,9 km e 220 m de subida, enquanto a travessia de Cadaqués ao Cap de
+      Creus compreende 9,2 km com 235 m de ascensão e 165 m de descida. A mais exigente é a travessia de Roses
+      a Cadaqués: 20,4 km, 695 m de subida e cerca de 8 horas de caminhada.
+
+
+      A Punta de Cap de Creus e o Cap Norfeu são reservas naturais integrais — a categoria de proteção máxima
+      pelas suas qualidades geológicas, botânicas e cénicas —, onde é estritamente obrigatório caminhar apenas
+      pelos trilhos marcados. O miradouro do farol, voltado a sudoeste, descortina vistas para as Illes d'en
+      Forcat, Cap Norfeu, Cadaqués e o Pení sobre o mato rasteiro.
+
+
+      O fundo marinho pode ser explorado em snorkeling na Cala Murtra, Cala Tamariua e Cala Es Caials com
+      guias de identificação; o parque sugere ainda itinerários de mergulho com garrafa.
+    history: >-
+      A serra de Rodes e o cabo de Creus foram povoados desde o Paleolítico. O património histórico engloba
+      ermidas, muros de pedra seca, abrigos de pastores e vestígios megalíticos com dólmenes. A paisagem rural
+      atual resulta das clareiras abertas no termo do primeiro milénio, e Cadaqués e Portlligat guardam a
+      memória indelével de Salvador Dalí, que atraiu Federico García Lorca, Buñuel, Magritte e Éluard.
+
+
+      A instituição do parque colocou sob salvaguarda uma paisagem outrora marcada por antigas pedreiras,
+      reflorestações, instalações militares no Pení e urbanizações de veraneio. Estes vestígios misturam-se
+      com os socalcos e caminhos que hoje percorres a pé.
+    before: >-
+      O acesso rodoviário (automóveis e motociclos) à Punta de Cap de Creus é restringido com recurso a
+      videovigilância em períodos específicos; em 2026, diariamente em julho e agosto das 9:30 às 21:30 h no
+      troço entre Cadaqués e o farol. Nos dias de restrição existe estacionamento gratuito no Corral d'en
+      Morell em Cadaqués, de onde partem vaivéns até à Punta. Encontra-se também regulado o acesso de veículos
+      com quatro ou mais rodas às calas de Roses entre 1 de julho e 31 de agosto na estrada para Montjoi e
+      Jóncols. Sob o nível 4 do Plano Alfa de risco de incêndio os acessos ao parque natural são encerrados.
+      Estas datas correspondem a 2026; confirma as normas no ano da tua deslocação. A primavera e o outono
+      permitem ainda escapar à afluência excessiva de julho e agosto.
+    around: >-
+      Nas redondezas situa-se o [Parc Natural dels Aiguamolls de
+      l'Empordà](/lugar/parc-natural-dels-aiguamolls-de-l-emporda/).
+
+
+      Mais longe, o [Parc national de Port-Cros](/lugar/parc-national-de-port-cros/) e o [Park prirode
+      Lastovsko otočje](/lugar/park-prirode-lastovsko-otocje/) partilham com o Cap de Creus espécies marinhas
+      como o golfinho-comum.
+fuentes:
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/el-parc/patrimoni-natural-i-cultural/hidrologia-i-geologia/
+    titulo: Hidrología y geología — Cap de Creus
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+    titulo: Itinerarios terrestres — Cap de Creus
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/el-parc/patrimoni-natural-i-cultural/fauna/
+    titulo: Fauna — Cap de Creus
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/cap_de_creus/gaudeix-parc/equipaments-i-itineraris/itineraris-terrestres/Roses_lw.pdf
+    titulo: Roses — itinerario Cap de Creus
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/equipaments-i-itineraris/Itinerarios-marinos/
+    titulo: Itinerarios marinos — Cap de Creus
+    fecha_consulta: '2026-10-23'
+  - url: https://ca.wikipedia.org/wiki/Parc_Natural_del_Cap_de_Creus
+    titulo: Parc Natural del Cap de Creus - Viquipèdia
+    fecha_consulta: '2026-10-23'
+  - url: https://es.wikipedia.org/wiki/Parque_natural_del_Cabo_de_Creus
+    titulo: Parque natural del Cabo de Creus - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/com-accedir-hi/
+    titulo: Consejos - Cap de Creus
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Cap_de_Creus_Pla_Tudela_2.jpg
+    autor: Mikipons
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,653 @@
+id: bukki-nemzeti-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Bükk
+  en: Bükk National Park
+  fr: Parc national de Bükk
+  de: Bükk-Nationalpark
+  it: Parco nazionale del Bükk
+  pt: Parque Nacional de Bükk
+nombre_original: Bükki Nemzeti Park
+alias:
+  - Bükki Nemzeti Park
+paises:
+  - HU
+region:
+  es: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+  en: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+  fr: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+  de: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+  it: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+  pt: Heves / Borsod-Abaúj-Zemplén (Eger / Miskolc / Szilvásvárad)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.049
+  lon: 20.519
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 680
+  nombre_en_la_fuente: Bükki Nemzeti Park
+  capa: capas/cdda/bukki-nemzeti-park.geojson
+habitats:
+  - mature_forest
+  - karst
+  - steppe
+designaciones:
+  - national_park
+  - iucn_ii
+  - natura2000
+especies:
+  - aquila_heliaca
+  - falco_cherrug
+  - dendrocopos_leucotos
+  - strix_uralensis
+  - rosalia_alpina
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: otoño de hayedos en octubre
+  en: beech autumn colors in October
+  fr: couleurs d'automne des hêtraies en octobre
+  de: Buchen-Herbstfärbung im Oktober
+  it: autunno delle faggete in ottobre
+  pt: outono dos faiais em outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en Szilvásvárad los fines de semana
+  en: Moderate in Szilvásvárad on weekends
+  fr: Moyenne à Szilvásvárad les week-ends
+  de: Mäßig in Szilvásvárad an Wochenenden
+  it: Media a Szilvásvárad nei fine settimana
+  pt: Média em Szilvásvárad aos fins de semana
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Bükki Nemzeti Park
+    url: https://www.bnpi.hu
+  - titulo: Normas — Visita responsable del parque de Bükk
+    url: https://www.bnpi.hu/hu/viselkedesi-kisokos
+  - titulo: Mapa — Cartografía del gestor de Bükk
+    url: https://www.bnpi.hu/hu/interaktiv-terkep
+  - titulo: Ruta y mapa — Sendero Jávorkút, meseta de Bükk
+    url: https://www.bnpi.hu/hu/tura/bukk-fennsik-javorkuti-tanosveny
+resumen:
+  es: >-
+    La meseta kárstica más extensa de Hungría, cubierta de hayedos, con cuevas prehistóricas y el águila
+    imperial en sus bordes.
+  en: >-
+    Hungary's most extensive karst plateau, clothed in beech forests, featuring prehistoric caves and imperial
+    eagles soaring along its cliff edges.
+  fr: >-
+    Le plus vaste plateau karstique de Hongrie, couvert de hêtraies, jalonné de grottes préhistoriques et
+    survolé par l'aigle impérial.
+  de: >-
+    Ungarns weitläufigste Karst-Hochebene, dicht mit Buchenwäldern bestockt, mit eiszeitlichen Höhlen und
+    Kaiseradlern an den Abbruchkanten.
+  it: >-
+    Il più vasto altopiano carsico d'Ungheria, ammantato di faggete, con caverne preistoriche e l'aquila
+    imperiale in volo lungo i costoni.
+  pt: >-
+    O mais extenso planalto cársico da Hungria, atapetado por faiais, com cavernas pré-históricas e a
+    águia-imperial sobrevoando as escarpas.
+unico:
+  es: >-
+    Una montaña de roca marina, no volcánica, con una meseta de caliza, cuevas que habitaron los neandertales
+    y un bosque primigenio donde nadie hace silvicultura desde hace más de 150 años.
+  en: >-
+    A mountain massif born of marine sedimentary rocks, crowned by a limestone plateau riddled with
+    Neanderthal caves and an old-growth beechwood unmanaged for over 150 years.
+  fr: >-
+    Un massif sédimentaire d'origine marine, couronné d'un plateau calcaire criblé de grottes néandertaliennes
+    et d'une forêt primaire exempte de sylviculture depuis plus de 150 ans.
+  de: >-
+    Ein Gebirge aus marinem Kalkstein, gekrönt von einem Hochplateau mit Neandertaler-Höhlen und einem
+    Buchen-Urwald, der seit über 150 Jahren ohne Holznutzung gedeiht.
+  it: >-
+    Un massiccio di rocce sedimentarie marine incoronato da un altopiano calcareo ricco di grotte abitate dai
+    neandertaliani e da una faggeta vergine indisturbata da oltre 150 anni.
+  pt: >-
+    Um maciço de rochas sedimentares marinhas, coroado por um planalto calcário perfurado de cavernas
+    neandertais e um bosque primário sem intervenção silvícola há mais de 150 anos.
+observaciones:
+  es: >-
+    En las zonas estrictamente protegidas de Három-kő, Tar-kő y Dédesi Kisvár está prohibido salir de los
+    senderos marcados, y en general toda actividad en una zona estrictamente protegida requiere permiso, salvo
+    cruzarla a pie por el sendero marcado. En el área protegida solo se puede montar a caballo por caminos
+    señalados y el pastoreo requiere permiso. El valle de Szalajka es más concurrido los fines de semana; si
+    buscas calma, evítalos.
+texto:
+  es:
+    intro: >-
+      Casi todas las montañas del norte de Hungría nacieron del fuego de los volcanes. El Bükk no: lo
+      construyen rocas sedimentarias marinas, y por eso su aspecto es otro, con una meseta de caliza y dolomía
+      rodeada de escarpes a los que llaman kő, piedra, y un subsuelo agujereado por más de 1100 cuevas. El
+      Parque Nacional del Bükk ocupa esta montaña entre Szilvásvárad y Lillafüred, cerca de Miskolc, y es un
+      parque de bosque casi continuo: el 94 % de su superficie es arbolado.
+    landscape: >-
+      En la meseta del Bükk afloran dolomías y calizas de la era mesozoica, rodeadas de escarpes. El arroyo
+      Garadna la parte en la Meseta Grande y la Pequeña. Bajo esas calizas la roca se disuelve: hay cuevas,
+      sumideros y dolinas, y de ellas el agua sale en manantiales. El Szalajka es un buen ejemplo: sus fuentes
+      brotan donde la caliza de la meseta se encuentra con la arcilla esquistosa, la lluvia que cae sobre la
+      meseta tarda uno o dos días en aparecer en los manantiales, y el caudal de la fuente Szikla varía entre
+      0 y 10 000 litros por minuto, hasta secarse durante meses cuando llueve poco. Al pie, el agua deposita
+      toba calcárea: la cascada Fátyol cae 17 metros sobre presas de toba.
+
+
+      Istállós-kő, de 959 m, es la segunda cima del Bükk y bajo ella se abre la cueva de Istállós-kő, famosa
+      por sus hallazgos de la Prehistoria. Entre las cuevas del parque hay 45 estrictamente protegidas; se
+      pueden visitar las acondicionadas Anna y Szent István en Lillafüred y la Tavasbarlang en Miskolctapolca,
+      y las de Szeleta y Balla son de libre acceso.
+
+
+      Y cubriéndolo todo, el bosque. Dominan el roble cerris y el roble, luego el carpe y el roble y, por
+      encima de unos 400 metros, el hayedo de montaña. En el Őserdő, el bosque primigenio, las hayas más
+      viejas superan los 200 años.
+    wildlife: >-
+      Si buscas el otoño de los hayedos, el mes es octubre. Entre las plantas, en el parque viven 53 especies
+      de orquídeas, y la más amenazada es el zapatito de dama, Cypripedium calceolus. En los prados de montaña
+      pastoreados destaca la carlina acaule, que figura en el emblema del parque.
+
+
+      De los animales, los números hablan: se conocen al menos 22 mil especies. El
+      [lince](/especie/lynx_lynx/) vive de forma estable en los bosques del Bükk y el [gato
+      montés](/especie/felis_silvestris/) tiene una población más numerosa. Entre los grandes mamíferos son
+      frecuentes el [ciervo](/especie/cervus_elaphus/), el muflón y el [jabalí](/especie/sus_scrofa/), y en la
+      meseta pasta el famoso rebaño de caballos lipizzanos. A comienzos del siglo XXI apareció el
+      [lobo](/especie/canis_lupus/) y empezó a reproducirse.
+
+
+      El [halcón sacre](/especie/falco_cherrug/) es una rareza que se recuperó gracias a un programa de
+      protección de casi dos décadas. En rocas y canteras abandonadas se ve el roquero rojo, y en esas
+      canteras cría el [búho real](/especie/bubo_bubo/). Entre las rapaces diurnas más valiosas están el
+      [águila imperial oriental](/especie/aquila_heliaca/), el [águila pomerana](/especie/aquila_pomarina/) y
+      la culebrera europea. En el bosque de montaña vive el [pico
+      dorsiblanco](/especie/dendrocopos_leucotos/). Casi todas las especies de murciélagos de Hungría se han
+      registrado en el Bükk. Y en los arroyos del Szalajka, el pequeño caracol Sadleriana pannonica, una
+      especie relicta; en el alisal viven la [salamandra común](/especie/salamandra_salamandra/) y la rana
+      bermeja, y de otoño a primavera acuden en masa los lúganos, que se alimentan de las semillas del aliso.
+    visit: >-
+      El valle de Szalajka, en Szilvásvárad, es la parte más visitada del Bükk: un paseo junto a un arroyo
+      donde los paneles explican la fundación del parque, los manantiales kársticos, la vida del valle, el
+      manantial Szikla, la toba de la cascada Fátyol y los hallazgos de la cueva de Istállós-kő. Desde el
+      aparcamiento solo se puede seguir a pie, y a cinco minutos está la Casa de Información del parque, con
+      una exposición de conservación. Desde 1974 funciona en la boca del valle de Horotna el Museo Forestal al
+      Aire Libre, con las cabañas de leñadores, caleros y carboneros y un horno de cal.
+
+
+      Más arriba, en la meseta, el sendero educativo de Jávorkút es un circuito de 3 km que vuelve al punto de
+      partida y se puede visitar libremente todo el año. Sus paradas llevan a la pared de Kis-Csipkés, el
+      límite entre el Bükk Norte y el Sur, y a una hilera de dolinas. Allí está también el Ősfenyves, un
+      bosque de 8 hectáreas de abeto rojo (78 %) y haya (22 %); los abetos viejos se secan y caen, y la luz
+      que entra por los claros deja nacer hayas jóvenes.
+
+
+      El Camino Nacional Azul pasa por la mayoría de las cumbres.
+    history: >-
+      Se han hallado herramientas y restos de neandertales en varias cuevas del macizo. Con el tiempo, la caza
+      dio paso a la minería de caliza y la quema de cal; la madera de los bosques sirvió para carbón vegetal y
+      la ceniza para fabricar vidrio.
+
+
+      El valle de Szalajka se declaró área protegida en 1957 y forma parte de las zonas estrictamente
+      protegidas desde el 1 de enero de 1977.
+    before: >-
+      En las zonas estrictamente protegidas de Három-kő, Tar-kő y Dédesi Kisvár está prohibido salir de los
+      senderos marcados, y en general toda actividad en una zona estrictamente protegida requiere permiso,
+      salvo cruzarla a pie por el sendero marcado. En el área protegida solo se puede montar a caballo por
+      caminos señalados y el pastoreo requiere permiso. El valle de Szalajka es más concurrido los fines de
+      semana; si buscas calma, evítalos.
+    around: >-
+      Lejos del Bükk hay lugares con los que comparte especies y hábitats: el [Bosque Primario de
+      Krokar](/lugar/pragozd-krokar/), el cárabo uralense, el pico dorsiblanco y la rosalia alpina, y el
+      [Parque Nacional Körös-Maros](/lugar/koros-maros-nemzeti-park/), el águila imperial oriental y el halcón
+      sacre.
+  en:
+    intro: >-
+      Almost all the mountain ranges of northern Hungary owe their origin to volcanic fires. The Bükk does
+      not: it was built entirely from marine sedimentary rocks, giving it a unique morphology of limestone and
+      dolomite plateaus girdled by dramatic crags locally known as *kő* (stones), and a labyrinthine
+      subterranean realm of more than 1100 caves. Bükk National Park safeguards this massif between
+      Szilvásvárad and Lillafüred near Miskolc, encompassing a virtually unbroken forested expanse where 94 %
+      of the terrain is tree-covered.
+    landscape: >-
+      The Bükk plateau exposes Mesozoic limestones and dolomites bounded by sheer scarps. The Garadna brook
+      cleaves the upland into the Great and Little Plateaus. Rain dissolves the calcareous bedrock from
+      within, carving sinkholes, swallets, and blind dolines that funnel groundwater into copious karst
+      springs. The Szalajka Valley offers an exquisite textbook example: its resurgence springs burst where
+      plateau limestone meets impermeable shale clays; rainfall on the plateau takes one to two days to
+      reappear at the springs, and the discharge of the Szikla spring fluctuates between 0 and 10,000 litres
+      per minute, even drying up during prolonged droughts. At its foot the mineral-rich water precipitates
+      freshwater limestone, and Fátyol Waterfall cascades 17 metres over terraced travertine dams.
+
+
+      Istállós-kő (959 m) forms the second-highest peak of the Bükk, sheltering underneath the famous
+      Istállós-kő cave celebrated for Paleolithic archaeological discoveries. Among the park's caves, 45 are
+      strictly protected; visitors can explore illuminated showcaves like Anna and Szent István in Lillafüred,
+      alongside the lake cave Tavasbarlang in Miskolctapolca, while Szeleta and Balla caves remain open for
+      self-guided exploration.
+
+
+      Dense woodland blankets every contour. Turkey oak and sessile oak dominate lower slopes, yielding to
+      hornbeam-oak and, above 400 metres, lush montane beech forests. Within the Őserdő primeval forest
+      reserve, veteran beeches exceed 200 years of age.
+    wildlife: >-
+      October brings peak autumn foliage across the beech canopy. Botanically, 53 orchid species grace the
+      park, headed by the critically endangered lady's slipper orchid (*Cypripedium calceolus*). Upland
+      pastures feature stemless carline thistle (*Carlina acaulis*), commemorated in the park's official
+      emblem.
+
+
+      Faunal numbers are staggering: at least 22 thousand animal species are recorded. The [Eurasian
+      lynx](/especie/lynx_lynx/) maintains a permanent resident population in the Bükk forests, while the
+      [European wildcat](/especie/felis_silvestris/) is widespread. Large herbivores include [red
+      deer](/especie/cervus_elaphus/), European mouflon, and [wild boar](/especie/sus_scrofa/), alongside a
+      celebrated herd of Lipizzaner horses grazing the highland plateau. Early in the twenty-first century the
+      [grey wolf](/especie/canis_lupus/) recolonised the massif and resumed breeding.
+
+
+      The [Saker falcon](/especie/falco_cherrug/) represents a conservation triumph, recovered through nearly
+      two decades of intensive nest safeguarding. Escarpments and abandoned quarries host common rock thrush
+      and nesting [Eurasian eagle-owls](/especie/bubo_bubo/). Outstanding raptors include the [Eastern
+      imperial eagle](/especie/aquila_heliaca/), [lesser spotted eagle](/especie/aquila_pomarina/), and
+      short-toed snake eagle. Deep montane stands harbor the [white-backed
+      woodpecker](/especie/dendrocopos_leucotos/). Nearly all of Hungary's bat species inhabit the Bükk.
+      Szalajka brook supports the endemic relic snail *Sadleriana pannonica*; streamside alder carrs shelter
+      the [fire salamander](/especie/salamandra_salamandra/) and European common frog, attracting large
+      wintering flocks of Eurasian siskins feeding on alder catkins.
+    visit: >-
+      Szalajka Valley at Szilvásvárad is the primary gateway: an accessible riverside path lined with
+      educational panels detailing the park's establishment, karst hydrology, stream ecology, the Szikla
+      spring, Fátyol Waterfall's travertine terraces, and the prehistoric finds of Istállós-kő cave. From the
+      car park onward only foot traffic is allowed; five minutes away stands the Park Information House
+      featuring conservation displays. Since 1974 an Open-Air Forestry Museum has operated at the mouth of
+      Horotna Valley, showcasing historic huts of woodcutters, lime-burners, and charcoal-makers with an
+      authentic lime kiln.
+
+
+      Up on the plateau, the Jávorkút educational trail provides a 3 km loop open year-round. Waypoints lead
+      to the Kis-Csipkés scarp, the boundary between the North and South Bükk, and a chain of dolines. Here
+      lies the Ősfenyves, an 8-hectare relict stand of Norway spruce (78 %) and European beech (22 %); as
+      ancient spruces die and fall, sunlight penetrating the gaps fosters vigorous young beech regeneration.
+
+
+      The National Blue Trail traverses most of the principal crests.
+    history: >-
+      Mousterian stone tools and Neanderthal remains have been excavated across several caves. Over the
+      centuries, hunting gave way to limestone quarrying and lime kilns; dense forests supplied timber for
+      charcoal burning and potash for regional glassworks.
+
+
+      Szalajka Valley was declared a protected area in 1957, integrated into strictly protected nature
+      reserves on 1 January 1977.
+    before: >-
+      In strictly protected core areas such as Három-kő, Tar-kő, and Dédesi Kisvár, leaving marked paths is
+      prohibited. Off-trail entry across core zones requires written permission, with transit permitted only
+      along designated blazed paths. Horse riding is restricted to marked bridleways, and grazing requires
+      special permits. Szalajka Valley sees heavy weekend traffic; choose weekdays for tranquility.
+    around: >-
+      Distant reserves share species and habitats with the Bükk: [Bosque Primario de
+      Krokar](/lugar/pragozd-krokar/) shares Ural owls, white-backed woodpeckers, and Rosalia longicorns;
+      [Körös-Maros National Park](/lugar/koros-maros-nemzeti-park/) shares imperial eagles and Saker falcons.
+  fr:
+    intro: >-
+      La quasi-totalité des massifs du nord de la Hongrie est née des feux du volcanisme. Pas le Bükk : il est
+      entièrement bâti de roches sédimentaires marines. De là son profil singulier : un haut plateau de
+      calcaire et de dolomie ceinturé de falaises abruptes appelées *kő* (pierres), et un sous-sol perforé de
+      plus de 1100 cavités souterraines. Le parc national de Bükk englobe cette montagne entre Szilvásvárad et
+      Lillafüred, près de Miskolc, formant un ensemble forestier quasi ininterrompu où 94 % de la superficie
+      est couverte d'arbres.
+    landscape: >-
+      Le plateau du Bükk expose des dolomies et calcaires mésozoïques bordés d'escarpements vertigineux. Le
+      ruisseau Garadna le scinde en Grand et Petit Plateau. Sous les bancs calcaires, l'eau dissout la roche :
+      gouffres, pertes et dolines canalisent les infiltrations vers de puissantes résurgences vauclusiennes.
+      La vallée de Szalajka en offre un exemple frappant : ses sources jaillissent au contact du calcaire et
+      des argiles imperméables ; les pluies tombées sur le plateau mettent un ou deux jours à réapparaître, et
+      le débit de la source de Szikla oscille entre 0 et 10 000 litres par minute, se tarissant parfois lors
+      des sécheresses prolongées. En aval, l'eau dépose du travertin : la cascade Fátyol franchit 17 mètres
+      sur des gradins de tuf calcaire.
+
+
+      Istállós-kő (959 m) est le deuxième sommet du Bükk, abritant la célèbre grotte d'Istállós-kő, renommée
+      pour ses gisements paléolithiques. Parmi les grottes du massif, 45 sont classées en réserve intégrale ;
+      les cavités aménagées d'Anna et Szent István à Lillafüred ainsi que la Tavasbarlang de Miskolctapolca se
+      visitent, tandis que Szeleta et Balla restent en accès libre.
+
+
+      La forêt tapisse chaque versant. Le chêne chevelu et le chêne rouvre dominent l'étage collinéen, relayés
+      par la chênaie-charmaie puis, au-delà de 400 mètres, par la hêtraie montagnarde. Dans la réserve
+      intégrale de l'Őserdő, les plus vénérables hêtres dépassent 200 ans.
+    wildlife: >-
+      Le mois d'octobre sublime la hêtraie dans sa parure d'automne. Côté flore, le parc réunit 53 espèces
+      d'orchidées sauvages, dont le rarissime sabot de Vénus (*Cypripedium calceolus*). Les prairies de fauche
+      d'altitude accueillent la carline acaule, fleur emblématique figurant sur le logo du parc.
+
+
+      La faune rassemble un effectif prodigieux : au moins 22 mille espèces y sont recensées. Le [lynx
+      boréal](/especie/lynx_lynx/) réside de manière permanente dans les massifs forestiers, et le [chat
+      sauvage](/especie/felis_silvestris/) y prospère. Parmi les ongulés abondent le [cerf
+      élaphe](/especie/cervus_elaphus/), le mouflon et le [sanglier](/especie/sus_scrofa/), tandis que sur le
+      plateau pâture une harde réputée de chevaux lipizzans. Au début du XXIe siècle, le
+      [loup](/especie/canis_lupus/) a recolonisé le massif pour y élever ses portées.
+
+
+      Le [faucon sacre](/especie/falco_cherrug/) représente une grande victoire de la conservation après deux
+      décennies de protection de ses aires de nidification. Les escarpements rocheux et carrières désaffectées
+      abritent le monticole merle-de-roche et le [hibou grand-duc](/especie/bubo_bubo/). Parmi les rapaces
+      diurnes les plus prestigieux figurent l'[aigle impérial](/especie/aquila_heliaca/), l'[aigle
+      pomarin](/especie/aquila_pomarina/) et le circaète Jean-le-Blanc. Les boisements d'altitude abritent le
+      [pic à dos blanc](/especie/dendrocopos_leucotos/). La quasi-totalité des chauves-souris de Hongrie
+      fréquente le massif. Dans les eaux du Szalajka vit le minuscule gastéropode relique *Sadleriana
+      pannonica* ; les aulnaies riveraines abritent la [salamandre tachetée](/especie/salamandra_salamandra/)
+      et la grenouille rousse, accueillant en hiver d'importants vols de tarins des aulnes.
+    visit: >-
+      La vallée de Szalajka à Szilvásvárad est le secteur le plus couru : une promenade au fil de l'eau
+      ponctuée de panneaux expliquant le réseau karstique, les sources, la cascade Fátyol et les fouilles de
+      la grotte d'Istállós-kő. Du parking, la circulation est réservée aux piétons ; à cinq minutes se dresse
+      la Maison du parc et son exposition naturaliste. Depuis 1974, l'écomusée forestier de la vallée de
+      Horotna présente d'anciennes cabanes de bûcherons et charbonniers avec un four à chaux traditionnel.
+
+
+      Sur le plateau, le sentier didactique de Jávorkút forme une boucle de 3 km accessible en toute saison.
+      Ses étapes mènent à la falaise de Kis-Csipkés et à un chapelet de dolines. Là s'étend l'Ősfenyves, un
+      boisement relique de 8 hectares d'épicéa commun (78 %) et de hêtre (22 %) ; les vieux conifères
+      dépérissent et la lumière des trouées favorise la régénération spontanée du hêtre.
+
+
+      Le Sentier bleu national traverse les principales crêtes du massif.
+    history: >-
+      Des outillages moustériens et ossements de néandertaliens ont été mis au jour dans plusieurs cavités du
+      massif. Au fil des siècles, la chasse a fait place à l'extraction de la pierre à chaux ; le bois des
+      forêts alimentait la production de charbon de bois et la potasse des verreries.
+
+
+      La vallée de Szalajka fut classée site protégé dès 1957, intégrée aux zones de protection stricte le 1er
+      janvier 1977.
+    before: >-
+      Dans les zones de réserve intégrale comme Három-kő, Tar-kő et Dédesi Kisvár, il est strictement interdit
+      de quitter les sentiers balisés. Toute activité hors sentier y requiert une autorisation écrite.
+      L'équitation est cantonnée aux pistes équestres et le pâturage est soumis à autorisation. La vallée de
+      Szalajka étant très fréquentée le week-end, préférez les jours de semaine pour le calme.
+    around: >-
+      Plusieurs sites partagent des cortèges biologiques avec le Bükk : le [Bosque Primario de
+      Krokar](/lugar/pragozd-krokar/) pour la chouette de l'Oural, le pic à dos blanc et la rosalie des Alpes
+      ; le [Parque Nacional Körös-Maros](/lugar/koros-maros-nemzeti-park/) pour l'aigle impérial et le faucon
+      sacre.
+  de:
+    intro: >-
+      Nahezu alle Gebirge Nordungarns entstanden aus vulkanischen Kräften. Das Bükk nicht: Es besteht
+      vollständig aus marinen Sedimentgesteinen. Daher rührt sein charakteristisches Erscheinungsbild: Ein
+      Hochplateau aus Kalkstein und Dolomit, umkränzt von steilen Felsabbrüchen namens *kő* (Stein), und ein
+      unterirdisches Karstnetz mit mehr als 1100 Höhlen. Der Bükk-Nationalpark umfasst das Bergland zwischen
+      Szilvásvárad und Lillafüred nahe Miskolc – ein geschlossenes Waldmassiv, dessen Fläche zu 94 % von Wald
+      bedeckt ist.
+    landscape: >-
+      Das Bükk-Plateau besteht aus mesozoischen Kalken und Dolomiten, gesäumt von schroffen Felswänden. Der
+      Garadna-Bach trennt die Hochfläche in das Große und das Kleine Plateau. Das Niederschlagswasser löst den
+      Kalkstein auf: Karsttrichter, Höhlen und Dolinen leiten das Wasser in unterirdische Gerinne. Das
+      Szalajka-Tal bietet ein ideales Anschauungsbeispiel: Seine Karstquellen entspringen am Kontakt von
+      Kalkstein und wasserstauenden Tonschiefern; Regen auf dem Plateau benötigt ein bis zwei Tage, bis er in
+      den Quellen austritt, und die Schüttung der Szikla-Quelle schwankt zwischen 0 und 10 000 Litern pro
+      Minute, bis hin zum Trockenfallen in Dürreperioden. Talabwärts scheidet das Wasser Kalktuff ab: Der
+      Fátyol-Wasserfall stürzt über 17 Meter über terrassierte Travertinbarren hinab.
+
+
+      Der Istállós-kő (959 m) ist der zweithöchste Gipfel des Bükk; an seinem Hang liegt die berühmte
+      Istállós-kő-Höhle mit altsteinzeitlichen Funden. Unter den Höhlen des Nationalparks stehen 45 unter
+      strengstem Schutz; Schauhöhlen wie Anna und Szent István in Lillafüred sowie die Höhlentherme
+      Tavasbarlang in Miskolctapolca sind erschlossen, während Szeleta- und Balla-Höhle frei zugänglich sind.
+
+
+      Wälder kleiden das gesamte Relief ein: Zerreichen und Traubeneichen dominieren die Tallagen, gefolgt von
+      Eichen-Hainbuchenwäldern und oberhalb von 400 Metern von montanen Buchenwäldern. Im Urwaldreservat
+      Őserdő erreichen die ältesten Buchen ein Alter von über 200 Jahren.
+    wildlife: >-
+      Im Oktober erstrahlen die Buchenwälder in leuchtender Herbstfärbung. Botanisch zeichnet sich das Gebiet
+      durch 53 Orchideenarten aus, darunter der streng geschützte Frauenschuh (*Cypripedium calceolus*). Auf
+      den beweideten Bergwiesen wächst die Silberdistel (*Carlina acaulis*), die das Wappen des Nationalparks
+      ziert.
+
+
+      Die Tierwelt ist außerordentlich artenreich: Mindestens 22 Tausend Tierarten sind nachgewiesen. Der
+      [Eurasische Luchs](/especie/lynx_lynx/) lebt als fester Standvogel in den Wäldern, und die
+      [Wildkatze](/especie/felis_silvestris/) ist weit verbreitet. Unter den Huftieren kommen
+      [Rothirsch](/especie/cervus_elaphus/), Mufflon und [Wildschwein](/especie/sus_scrofa/) vor, während auf
+      dem Plateau Lipizzaner-Pferde weiden. Zu Beginn des einundzwanzigsten Jahrhunderts kehrte der
+      [Wolf](/especie/canis_lupus/) zurück und zog wieder Welpen auf.
+
+
+      Der [Sakerfalke](/especie/falco_cherrug/) erholte sich dank intensiver Schutzprogramme. An Felsen und
+      aufgelassenen Steinbrüchen brüten Steinrötel und der [Uhu](/especie/bubo_bubo/). Zu den wertvollsten
+      Greifvögeln zählen [Östlicher Kaiseradler](/especie/aquila_heliaca/),
+      [Schreiadler](/especie/aquila_pomarina/) und Schlangenadler. Im Bergwald nistet der
+      [Weißrückenspecht](/especie/dendrocopos_leucotos/). Fast alle Fledermausarten Ungarns wurden im Bükk
+      festgestellt. Im Szalajka-Bach lebt die winzige Reliktschnecke *Sadleriana pannonica*; in den Erlenauen
+      hausen [Feuersalamander](/especie/salamandra_salamandra/) und Grasfrosch, während im Winter Erlenzeisige
+      die Samenstände abernten.
+    visit: >-
+      Das Szalajka-Tal bei Szilvásvárad ist der Hauptanziehungspunkt: Ein Spazierweg entlang des Baches
+      erläutert Geologie, Quellen, den Fátyol-Wasserfall und die Ausgrabungen der Istállós-kő-Höhle. Ab dem
+      Großparkplatz ist nur Fußgängerverkehr gestattet; fünf Minuten entfernt liegt das Informationshaus des
+      Nationalparks. Seit 1974 besteht am Eingang des Horotna-Tals das Freilicht-Forstmuseum mit historischen
+      Hütten von Holzfällern, Köhlern und einem Kalkbrennofen.
+
+
+      Auf der Hochfläche bietet der Lehrpfad Jávorkút einen ganzjährig begehbaren 3 km langen Rundweg. Er
+      führt zur Felswand Kis-Csipkés und entlang einer Dolinenkette. Dort befindet sich der Ősfenyves, ein 8
+      Hektar großes Relikt-Waldstück aus Fichten (78 %) und Buchen (22 %); absterbende Altfichten schaffen
+      Lichtungen für junge Buchen.
+
+
+      Der Nationale Blaue Wanderweg verläuft über die meisten Hauptkämme.
+    history: >-
+      In mehreren Höhlen wurden Steinwerkzeuge und Skelettreste von Neandertalern geborgen. Über Jahrhunderte
+      folgten Kalkabbau und Kalkbrennerei; die Buchenwälder lieferten Holzkohle und Pottasche für lokale
+      Glashütten.
+
+
+      Das Szalajka-Tal wurde 1957 unter Naturschutz gestellt und ist seit dem 1. Januar 1977 Bestandteil der
+      Kernzone des Nationalparks.
+    before: >-
+      In streng geschützten Kernzonen wie Három-kő, Tar-kő und Dédesi Kisvár darf der markierte Pfad nicht
+      verlassen werden. Jedes Betreten abseits der Wege bedarf einer Genehmigung. Reiten ist nur auf Reitwegen
+      gestattet. An Wochenenden herrscht im Szalajka-Tal reger Ausflugsverkehr; Werktage bieten mehr Ruhe.
+    around: >-
+      Entfernte Schutzgebiete teilen Arten und Lebensräume mit dem Bükk: Der [Bosque Primario de
+      Krokar](/lugar/pragozd-krokar/) teilt Habichtskauz, Weißrückenspecht und Alpenbock; der [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) teilt Kaiseradler und Sakerfalken.
+  it:
+    intro: >-
+      Quasi tutti i rilievi montuosi dell'Ungheria settentrionale sorsero dal vulcanismo. Il Bükk no: è
+      costituito interamente da rocce sedimentarie d'origine marina. Da ciò discende la sua fisionomia
+      peculiare: un vasto altopiano calcareo e dolomitico orlato da bastionate rupestri chiamate localmente
+      *kő* (pietre), con un sottosuolo traforato da oltre 1100 cavità carsiche. Il Parco Nazionale del Bükk
+      tutela questo massiccio tra Szilvásvárad e Lillafüred, vicino a Miskolc, in un manto boscoso quasi
+      ininterrotto dove il 94 % del suolo è coperto da foreste.
+    landscape: >-
+      Sull'altopiano del Bükk affiorano calcari e dolomie mesozoiche circondati da balze dirupate. Il torrente
+      Garadna divide l'altopiano in Grande e Piccolo Plateau. Nelle viscere calcaree l'acqua scava
+      inghiottitoi, voragini e doline che alimentano copiose sorgenti carsiche. La valle di Szalajka ne offre
+      un esempio emblematico: le risorgenze sgorgano dove il calcare incontra argille scistose impermeabili;
+      le precipitazioni cadute sul pianoro impiegano uno o due giorni per riaffiorare, e la portata della
+      sorgente Szikla varia tra 0 e 10 000 litri al minuto, prosciugandosi nei periodi siccitosi. A valle
+      l'acqua deposita travertino: la cascata Fátyol compie un salto di 17 metri su gradinate di tufo
+      calcareo.
+
+
+      L'Istállós-kő (959 m) è la seconda vetta del Bükk e accoglie alla base la celebre grotta di Istállós-kő,
+      nota per i ritrovamenti del Paleolitico. Tra le grotte del parco, 45 sono tutelate come riserva
+      integrale; si possono visitare le cavità attrezzate di Anna e Szent István a Lillafüred e la grotta
+      lacustre Tavasbarlang a Miskolctapolca, mentre le grotte di Szeleta e Balla sono ad accesso libero.
+
+
+      La foresta avvolge ogni versante: cerro e rovere dominano la fascia collinare, seguiti da querceti misti
+      a carpino e, sopra i 400 metri, da dense faggete montane. Nell'Őserdő, la foresta primigenia, i faggi
+      più antichi superano i 200 anni d'età.
+    wildlife: >-
+      Ottobre regala la magia del foliage nelle faggete. La flora raccoglie 53 specie di orchidee selvatiche,
+      su cui spicca la pianella di Venere (*Cypripedium calceolus*). Sui pascoli montani fiorisce la carlina
+      bianca (*Carlina acaulis*), effigiata nel simbolo del parco.
+
+
+      Il patrimonio faunistico conta cifre ragguardevoli: almeno 22 mila specie animali censite. La [lince
+      eurasiatica](/especie/lynx_lynx/) abita stabilmente le foreste del Bükk e il [gatto
+      selvatico](/especie/felis_silvestris/) vanta una solida popolazione. Tra gli ungulati sono frequenti il
+      [cervo](/especie/cervus_elaphus/), il muflone e il [cinghiale](/especie/sus_scrofa/), mentre sui pascoli
+      dell'altopiano pascola una mandria di cavalli lipizzani. Ai primi del XXI secolo è ricomparso il [lupo
+      grigio](/especie/canis_lupus/), tornando a riprodursi stabilmente.
+
+
+      Il [sacro](/especie/falco_cherrug/) costituisce un successo di salvaguardia dopo un programma ventennale
+      di tutela dei nidi. Tra pareti rocciose e cave abbandonate nidificano il codirossone e il [gufo
+      reale](/especie/bubo_bubo/). Tra i rapaci diurni svettano l'[aquila
+      imperiale](/especie/aquila_heliaca/), l'[aquila anatraia minore](/especie/aquila_pomarina/) e il
+      biancone. Nelle faggete montane vive il [picchio dorsobianco](/especie/dendrocopos_leucotos/). Quasi
+      tutte le specie di pipistrelli ungheresi frequentano le cavità del Bükk. Nelle acque del torrente
+      Szalajka vive la lumachina relitta *Sadleriana pannonica*; negli ontaneti trovano rifugio la [salamandra
+      pezzata](/especie/salamandra_salamandra/) e la rana temporaria, attirando d'inverno stormi di lucarini.
+    visit: >-
+      La valle di Szalajka a Szilvásvárad è il settore più frequentato: una piacevole passeggiata fluviale con
+      pannelli che illustrano la geologia carsica, la cascata Fátyol e la grotta di Istállós-kő. Dal
+      parcheggio si prosegue solo a piedi; a cinque minuti sorge la Casa del Parco con mostre naturalistiche.
+      Dal 1974 all'imbocco della valle di Horotna opera il Museo Forestale all'Aperto con capanne di boscaioli
+      e una fornace da calce.
+
+
+      Sull'altopiano, il sentiero didattico di Jávorkút compie un anello di 3 km aperto tutto l'anno. Conduce
+      alla rupe di Kis-Csipkés e a una sequenza di doline. Qui si estende l'Ősfenyves, bosco relitto di 8
+      ettari ad abete rosso (78 %) e faggio (22 %); gli abeti maturi crollano lasciando varchi di luce per i
+      giovani faggi.
+
+
+      Il Sentiero Blu Nazionale attraversa gran parte delle creste principali.
+    history: >-
+      Nelle grotte del massiccio sono stati rinvenuti manufatti neandertaliani. Nel corso dei secoli l'uomo si
+      dedicò all'estrazione del calcare e alla combustione della calce; le faggete fornivano carbone vegetale
+      e potassa per le vetrerie.
+
+
+      La valle di Szalajka fu dichiarata area protetta nel 1957 ed è inserita tra le zone a riserva integrale
+      dal 1° gennaio 1977.
+    before: >-
+      Nelle zone di riserva integrale come Három-kő, Tar-kő e Dédesi Kisvár è fatto divieto di allontanarsi
+      dai percorsi tracciati. Ogni attività fuori sentiero esige apposita autorizzazione. Si può andare a
+      cavallo solo sui percorsi ippici segnalati. La valle di Szalajka è molto affollata nei fine settimana;
+      prediligi i giorni feriali.
+    around: >-
+      Aree lontane condividono specie ed ecosistemi con il Bükk: il [Bosque Primario de
+      Krokar](/lugar/pragozd-krokar/) condivide allocco degli Urali, picchio dorsobianco e rosalia alpina; il
+      [Parque Nacional Körös-Maros](/lugar/koros-maros-nemzeti-park/) l'aquila imperiale e il falco sacro.
+  pt:
+    intro: >-
+      Quase todas as cordilheiras do norte da Hungria brotaram do fogo dos vulcões. O Bükk não: foi edificado
+      por rochas sedimentares marinhas. Daí provém a sua fisionomia singular: um planalto de calcário e
+      dolomite cingido por fragas alcantiladas chamadas *kő* (pedras), e um subsolo cavado por mais de 1100
+      grutas. O Parque Nacional de Bükk resguarda este maciço entre Szilvásvárad e Lillafüred, perto de
+      Miskolc, formando uma mancha florestal contínua em que 94 % do solo é arborizado.
+    landscape: >-
+      No planalto do Bükk afloram calcários e dolomites da era mesozóica ladeados por escarpas abruptas. O
+      ribeiro Garadna reparte o relevo no Grande e no Pequeno Planalto. Sob os estratos calcários a água
+      dissolve o maciço: abrem-se algares, sumidouros e dolinas que alimentam nascentes cársicas. O vale de
+      Szalajka constitui um exemplo notável: as suas fontes brotam no contacto do calcário com argilas
+      xistosas impermeáveis; as chuvas caídas no planalto demoram um a dois dias a surgir nas exsurgências, e
+      o caudal da fonte Szikla varia entre 0 e 10 000 litros por minuto, secando em estiagens prolongadas. A
+      jusante a água precipita travertino: a cascata Fátyol despenha-se 17 metros sobre represas de tufo
+      calcário.
+
+
+      Istállós-kő (959 m) é o segundo cume do Bükk, acolhendo na base a gruta de Istállós-kő, célebre pelos
+      achados paleolíticos. Das grutas do parque, 45 gozam de proteção estrita; visitam-se as grutas
+      turísticas de Anna e Szent István em Lillafüred e a gruta lacustre Tavasbarlang em Miskolctapolca,
+      mantendo-se Szeleta e Balla em acesso livre.
+
+
+      A floresta veste todas as encostas: carvalho-negral e carvalho-roble dominam a base, cedendo lugar ao
+      carvalhal com carpe e, acima dos 400 metros, ao faial montano. No bosque primário de Őserdő, as faias
+      seculares ultrapassam 200 anos de idade.
+    wildlife: >-
+      Em outubro o faial resplandece nas tonalidades outonais. Na flora catalogam-se 53 espécies de orquídeas
+      bravias, destacando-se o sapatinho-de-vénus (*Cypripedium calceolus*). Nos prados de montanha sobressai
+      a carlina-acaule (*Carlina acaulis*), símbolo no emblema do parque.
+
+
+      A fauna atinge números expressivos: registam-se pelo menos 22 mil espécies animais. O
+      [lince-euroasiático](/especie/lynx_lynx/) vive de forma estável nas matas do Bükk e o
+      [gato-bravo](/especie/felis_silvestris/) apresenta uma população abundante. Entre os grandes ungulados
+      contam-se o [veado-vermelho](/especie/cervus_elaphus/), o muflão e o [javali](/especie/sus_scrofa/),
+      pastando no planalto uma afamada coudelaria de cavalos lipizzanos. No dealbar do século XXI o
+      [lobo-cinzento](/especie/canis_lupus/) regressou e voltou a criar crias no maciço.
+
+
+      O [falcão-sacre](/especie/falco_cherrug/) constitui um sucesso de recuperação graças a programas
+      conservacionistas de duas décadas. Nas fragas nidificam o melro-das-rochas e o
+      [bufo-real](/especie/bubo_bubo/). Entre as aves de rapina destacam-se a
+      [águia-imperial-oriental](/especie/aquila_heliaca/), a [águia-pomarina](/especie/aquila_pomarina/) e o
+      búteo-vespeiro. Nas matas maduras habita o [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/).
+      Quase todas as espécies de morcegos da Hungria habitam o Bükk. Nas águas do Szalajka vive o caracol
+      relíquia *Sadleriana pannonica*; nos amiais abrigam-se a
+      [salamandra-de-pintas-amarelas](/especie/salamandra_salamandra/) e a rã-castanha, acorrendo no inverno
+      bandos de pintassilgos-verdes.
+    visit: >-
+      O vale de Szalajka em Szilvásvárad é o setor mais procurado: um passeio ribeirinho com painéis sobre a
+      hidrologia cársica, a cascata Fátyol e as escavações da gruta de Istállós-kő. A partir do estacionamento
+      a circulação faz-se exclusivamente a pé; a cinco minutos situa-se o Posto Informativo do parque com
+      exposições didáticas. Desde 1974 funciona na entrada do vale de Horotna o Museu Florestal ao Ar Livre
+      com cabanas de carvoeiros e um forno de cal.
+
+
+      No planalto, o percurso pedestre de Jávorkút desenha um anel de 3 km praticável todo o ano. Conduz à
+      escarpa de Kis-Csipkés e a um alinhamento de dolinas. Aí medra o Ősfenyves, mancha relíquia de 8
+      hectares de abeto-falso (78 %) e faia (22 %); o derrube natural de abetos vetustos rasga clareiras onde
+      brotam faias jovens.
+
+
+      O Trilho Azul Nacional percorre grande parte das cumeadas principais.
+    history: >-
+      Nas cavernas do maciço foram encontrados artefactos e restos osteológicos de neandertais. Ao longo dos
+      tempos a caça deu lugar à lavra de calcário e fornos de cal; a madeira abastecia o fabrico de carvão
+      vegetal e a potassa para vidrarias.
+
+
+      O vale de Szalajka foi classificado área protegida em 1957, passando a integrar as reservas integrais a
+      1 de janeiro de 1977.
+    before: >-
+      Nas reservas de proteção estrita como Három-kő, Tar-kő e Dédesi Kisvár é proibido sair dos trilhos
+      marcados. Qualquer atividade fora de vereda requer autorização expressa. Só é permitido cavalgar nos
+      trilhos equestres marcados e o pastoreio carece de licença. O vale de Szalajka acolhe muitos visitantes
+      ao fim de semana; opta pelos dias úteis para fruir da tranquilidade.
+    around: >-
+      Sítios distantes partilham espécies com o Bükk: o [Bosque Primario de Krokar](/lugar/pragozd-krokar/)
+      acolhe coruja-dos-urales, pica-pau-de-dorso-branco e rosalia-alpina; o [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) acolhe a águia-imperial-oriental e o falcão-sacre.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/B%C3%BCkk_National_Park
+    titulo: Bükk National Park - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.bnpi.hu/hu/tura/szalajka-volgyi-tanosveny
+    titulo: BNPI — Szalajka-völgyi természetvédelmi bemutatóösvény
+    fecha_consulta: '2026-10-30'
+  - url: https://hu.wikipedia.org/wiki/B%C3%BCkki_Nemzeti_Park
+    titulo: Bükki Nemzeti Park – Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.bnpi.hu/hu/tura/bukk-fennsik-javorkuti-tanosveny
+    titulo: Bükk-fennsík, Jávorkúti tanösvény — Bükki Nemzeti Park Igazgatóság
+    fecha_consulta: '2026-10-30'
+  - url: https://www.bnpi.hu/hu/viselkedesi-kisokos
+    titulo: Viselkedési kisokos — Bükki Nemzeti Park Igazgatóság
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Gloriette_meadow_and_B%C3%BCkk_hills,_Szilv%C3%A1sv%C3%A1rad,_2016_Hungary.jpg
+    autor: Globetrotter19
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

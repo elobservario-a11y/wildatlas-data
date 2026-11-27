@@ -1,0 +1,515 @@
+id: monumento-natural-monte-santiago
+estado_editorial: valoracion-revisada
+nombre:
+  es: Monumento Natural Monte Santiago y Salto del Nervión
+  en: Monte Santiago Natural Monument and Nervión Waterfall
+  fr: Monument naturel de Monte Santiago et cascade du Nervión
+  de: Naturdenkmal Monte Santiago und Nervión-Wasserfall
+  it: Monumento naturale di Monte Santiago e cascata del Nervión
+  pt: Monumento Natural de Monte Santiago e Salto do Nervión
+nombre_original: Monumento Natural Monte Santiago & Salto del Nervión
+alias:
+  - Monumento Natural Monte Santiago & Salto del Nervión
+paises:
+  - ES
+region:
+  es: Castilla y León / País Vasco (Burgos / Álava / Berberana)
+  en: Castile and León / Basque Country (Burgos / Álava / Berberana)
+  fr: Castille-et-León / Pays basque (Burgos / Álava / Berberana)
+  de: Kastilien und León / Baskenland (Burgos / Álava / Berberana)
+  it: Castiglia e León / Paesi Baschi (Burgos / Álava / Berberana)
+  pt: Castela e Leão / País Basco (Burgos / Álava / Berberana)
+ubicacion:
+  tipo: punto
+  lat: 42.93
+  lon: -3
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 19119
+  nombre_en_la_fuente: Monte Santiago
+  categoria_uicn: III
+  capa: capas/cdda/monumento-natural-monte-santiago.geojson
+habitats:
+  - gorge_canyon
+  - karst
+  - mature_forest
+designaciones:
+  - natural_monument
+  - natura2000
+especies:
+  - gyps_fulvus
+  - falco_peregrinus
+temporada_ideal:
+  - 3
+  - 4
+  - 5
+  - 10
+  - 11
+temporada_nota:
+  es: primavera (tras deshielo o fuertes lluvias para ver el salto del Nervión de 222 m) y otoño
+  en: spring (following snowmelt or heavy rains to witness the 222 m Salto del Nervión) and autumn
+  fr: >-
+    printemps (après la fonte des neiges ou de fortes pluies pour voir la cascade du Nervión de 222 m) et
+    automne
+  de: Frühjahr (nach Schneeschmelze oder Starkregen zur Beobachtung des 222 m hohen Wasserfalls) und Herbst
+  it: primavera (dopo disgelo o piogge per vedere la cascata del Nervión di 222 m) e autunno
+  pt: primavera (após degelo ou chuvas fortes para contemplar o salto do Nervión com 222 m) e outono
+masificacion: 2
+masificacion_nota:
+  es: Media en el mirador del salto del Nervión cuando el río lleva agua
+  en: Moderate at the Salto del Nervión viewpoint when the river is flowing
+  fr: Moyenne au belvédère du salto del Nervión lorsque la cascade coule
+  de: Mäßig an der Aussichtsplattform des Salto del Nervión bei Wasserführung
+  it: Moderata al belvedere del salto del Nervión quando la cascata è attiva
+  pt: Média no miradouro do salto do Nervión quando a cascata tem caudal
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Patrimonio Natural Castilla y León Monte Santiago
+    url: https://patrimonionatural.org/
+  - titulo: Gestor, mapa y normas — Monumento Natural Monte Santiago
+    url: https://patrimonionatural.org/espacios-naturales/monumento-natural/monumento-natural-monte-santiago
+  - titulo: Centro de visitantes — Casa del Parque Monte Santiago
+    url: https://patrimonionatural.org/casas-del-parque/casas-del-parque/casa-del-parque-monte-santiago
+resumen:
+  es: >-
+    El cortado kárstico del salto del Nervión (el salto de agua más alto de España con 222 m de caída libre) y
+    el espeso hayedo de Monte Santiago.
+  en: >-
+    The dramatic karst precipice of the Salto del Nervión (Spain's highest waterfall with a 222 m freefall)
+    and the dense beech forest of Monte Santiago.
+  fr: >-
+    Le vertigineux cirque calcaire du salto del Nervión (plus haute cascade d'Espagne avec 222 m de chute
+    libre) et la hêtraie de Monte Santiago.
+  de: >-
+    Der imposante Karstabbruch des Salto del Nervión (Spaniens höchster Wasserfall mit 222 m freiem Fall) und
+    der Buchenurwald von Monte Santiago.
+  it: >-
+    La forra carsica del salto del Nervión (la cascata più alta di Spagna con 222 m di salto libero) e la
+    fitta faggeta di Monte Santiago.
+  pt: >-
+    A escarpa cárstica do salto do Nervión (a mais alta queda de água de Espanha com 222 m de queda livre) e o
+    denso faial de Monte Santiago.
+unico:
+  es: >-
+    Un hayedo atlántico que termina en un cortado kárstico, y un río que solo se despeña cuando la montaña,
+    empapada, lo suelta.
+  en: >-
+    An Atlantic beechwood terminating abruptly at a sheer karst amphitheatre, where a river plunges only when
+    saturated limestone fissures release their waters.
+  fr: >-
+    Une hêtraie atlantique butant sur un gouffre karstique où la rivière ne plonge que lorsque la montagne
+    gorgée d'eau la libère.
+  de: >-
+    Ein atlantischer Buchenwald bricht an einer senkrechten Karstwand ab, wo sich der Fluss nur nach
+    ergiebigen Regengüssen in die Tiefe stürzt.
+  it: >-
+    Una faggeta atlantica che si arresta sull'orlo di un anfiteatro carsico, dove il fiume precipita solo
+    quando la montagna satura rilascia le acque.
+  pt: >-
+    Um faial atlântico que desemboca numa escarpa cárstica, onde o rio só se despenha quando a montanha
+    encharcada liberta as águas.
+observaciones:
+  es: >-
+    El salto depende de la lluvia: sin agua reciente, la cascada no cae. Mira el tiempo antes de subir y
+    comprueba el horario de la Casa del Parque. Las personas con movilidad reducida pueden hacer el sendero en
+    vehículo si solicitan autorización en la Casa del Parque.
+texto:
+  es:
+    intro: >-
+      Primero el bosque, después el vacío. Monte Santiago es un hayedo espeso y umbrío que, en su extremo
+      nororiental, llega de pronto al borde de un anfiteatro de roca: las cresterías calizas de la Sierra
+      Salvada, fuertemente karstificadas, que caen sobre el cañón de Délika. Allí, en un rincón apartado,
+      cuelga el mirador desde el que se contempla el salto del Nervión. Este monumento natural ocupa el
+      extremo nororiental de la provincia de Burgos, justo en el límite con el País Vasco, y se declaró por
+      decreto de la Junta de Castilla y León el 14 de marzo de 1996.
+    landscape: >-
+      Todo se explica por la caliza y la lluvia. Un paquete de calizas compactas descansa sobre margas más
+      blandas: donde la roca es dura, se forman escarpes verticales; donde es blanda, laderas suaves. El salto
+      del Nervión nace de esa diferencia de erosión y de una zona de rocas especialmente fracturada,
+      consecuencia de la estructura diapírica de Orduña. Como el terreno es kárstico, el cauce es estacional:
+      solo cae agua por la cascada unos meses al año, con las lluvias o el deshielo; el resto del tiempo el
+      agua del sistema kárstico aflora en el valle, cerca de Orduña. Pasado el salto, el río Délica pasa a
+      llamarse Nervión.
+
+
+      Por eso el momento importa. El salto se ve tras días de lluvia, fuertes tormentas o nevadas, cuando el
+      karst desagua por numerosas surgencias que brotan de los acantilados.
+
+
+      La vegetación sigue el mapa de la altura. El monumento pertenece al dominio biogeográfico atlántico,
+      cuyo árbol clímax es el haya, pero está en una zona de transición hacia la España mediterránea: en las
+      laderas medias y bajas hay encinares y quejigares y el hayedo ocupa las cotas más altas. Los matorrales
+      mezclan brezos, jaras, aulagas, enebros, sabinas, boj, gayubas y espino albar. Sobre el suelo kárstico,
+      el hayedo está sembrado de dolinas y lapiaces.
+    wildlife: >-
+      Se han catalogado 20 especies de mamíferos, entre ellas el [gato montés](/especie/felis_silvestris/), el
+      tejón, la marta, la garduña y un jabalí cada vez más abundante. De unas 60 especies de aves destaca por
+      su abundancia el buitre común, junto a otras más escasas como la [chova
+      piquirroja](/especie/pyrrhocorax_pyrrhocorax/) y el águila calzada. Desde el mirador del Salto del
+      Nervión se ve el cañón desde la misma perspectiva que los buitres que pasan planeando.
+
+
+      El hayedo, además, tiene su propia estación. Algunas hayas conservan forma de candelabro por las cortas
+      que antaño se hacían para producir carbón vegetal, y en la Casa del Parque hay un haya monumental de 21
+      metros, recogida en el catálogo de especímenes vegetales singulares de Castilla y León. En los brezales
+      y pastos de la entrada pastan vacas y yeguas en semilibertad.
+    visit: >-
+      Se accede desde Berberana: a 3 km sale la pista forestal que llega hasta Monte Santiago. El sendero que
+      lleva al mirador del Salto del Nervión empieza en el aparcamiento de Hoyalante, a la entrada, y se hace
+      por una pista ancha, sin desnivel apreciable y cerrada a vehículos a motor salvo usos autorizados. En el
+      camino aparecen las calzadas de gigante, un lapiaz que parece cincelado por una persona, y la Lobera de
+      Santiago, una trampa para lobos de muros y empalizadas que llevaban a un pozo ciego; hoy grandes
+      esculturas recrean la escena.
+
+
+      Para ir más lejos hay dos circulares. La Senda del Bosque recorre 6,67 km en unas dos horas y media, con
+      dificultad moderada, y pasa por un tramo tan umbrío que envuelve el camino como un túnel vegetal. La
+      Senda de los Miradores une el mirador del Salto del Nervión con el de Esquina Rubén en 6,28 km. En
+      Esquina Rubén se ven los cantiles de Sierra Salvada, el valle de Orduña y los relieves del Gorbea.
+
+
+      La Casa del Parque, junto a la surgencia de Fuente Santiago, tiene un espacio de acogida donde un
+      monitor informa y ayuda a planificar la visita, y un patio interior que representa los anfibios de la
+      zona. La surgencia brota al fondo de una dolina de colapso y el arroyo corre apenas unos 50 metros antes
+      de perderse por un sumidero.
+    history: >-
+      La Casa del Parque ocupa el lugar del monasterio medieval de Santiago de Langrériz, levantado junto a la
+      única fuente permanente de la zona. También se llega al salto desde Álava, por un camino a pie que sale
+      de la barrera situada después del pueblo de Untza y bordea el cañón.
+    before: >-
+      El salto depende de la lluvia: sin agua reciente, la cascada no cae. Mira el tiempo antes de subir y
+      comprueba el horario de la Casa del Parque. Las personas con movilidad reducida pueden hacer el sendero
+      en vehículo si solicitan autorización en la Casa del Parque.
+  en:
+    intro: >-
+      First the dense shade of the forest, then absolute void. Monte Santiago is a lush, shadowed beech forest
+      whose northeastern boundary suddenly meets the lip of a colossal limestone amphitheatre: the heavily
+      karstified crests of the Sierra Salvada, dropping vertically into the Délika canyon. Cantilevered over
+      the abyss stands the panoramic viewpoint overlooking the Salto del Nervión. This natural monument
+      occupies the northeastern tip of Burgos province on the border with the Basque Country, designated by
+      regional decree on 14 March 1996.
+    landscape: >-
+      Karst geology and Atlantic precipitation explain this dramatic topography. A thick layer of massive
+      Cretaceous limestone rests upon softer underlying marls: where the rock resists, vertical battlements
+      form; where it erodes, gentle slopes develop. The Salto del Nervión owes its origins to this
+      differential erosion and intense tectonic fracturing associated with the Orduña diapir. Because the
+      plateau is porous karst, the watercourse is ephemeral: water plunges over the cliff face only a few
+      months each year following heavy rain or spring snowmelt; otherwise, drainage flows entirely through
+      underground caves, resurging downstream near Orduña. Below the waterfall, the Délica river takes the
+      name Nervión.
+
+
+      Timing is everything. The waterfall is best witnessed following consecutive rainy days, violent storms,
+      or thaw, when subterranean aquifers overflow through hanging cliff face springs.
+
+
+      Vegetation mirrors altitude and aspect. The monument belongs to the Atlantic biogeographic domain,
+      dominated by European beech, but borders Mediterranean Iberia: holm oaks and gall oaks occupy lower
+      sunny slopes, while beeches crown high elevations. The understorey intermingles heathers, rockroses,
+      gorse, junipers, box, and bearberry. Atop the limestone table, the beechwood floor is pitted with
+      sinkholes and clint-and-grike lapiés.
+    wildlife: >-
+      Surveys record 20 mammal species, including the [wildcat](/especie/felis_silvestris/), badger, pine
+      marten, stone marten, and thriving wild boars. Among some 60 bird species, griffon vultures dominate the
+      skies, joined by scarcer breeders like the [red-billed chough](/especie/pyrrhocorax_pyrrhocorax/) and
+      booted eagle. The Salto del Nervión viewing platform grants eye-level vistas of soaring vultures
+      circling the canyon.
+
+
+      The beech forest bears intriguing historical hallmarks. Pollard beeches exhibit candelabra branch shapes
+      from historical charcoal coppicing, while the park visitor centre showcases a monumental veteran beech
+      of 21 metres, catalogued among Castile and León's singular trees. Semi-feral horses and cattle graze the
+      open pastures near the park entrance.
+    visit: >-
+      Access begins from Berberana: 3 km along, a forest road leads into Monte Santiago. The walking trail to
+      the Salto del Nervión viewpoint departs from the Hoyalante car park at the entrance, following a wide,
+      level gravel track closed to unauthorized motor vehicles. Along the way lie the Calzadas de
+      Gigante—fluted limestone pavements resembling hand-chiselled stone—and the Lobera de Santiago, an
+      ancient funnel-walled wolf trap ending in a pitfall, today brought to life by life-sized sculptures.
+
+
+      For longer hikes, two circular routes branch out. The Senda del Bosque covers 6.67 km in about two hours
+      and a half of moderate walking, threading a dense canopy so enclosed it forms a living tunnel. The Senda
+      de los Miradores connects the Salto del Nervión with the Esquina Rubén lookout over 6.28 km, revealing
+      sweeping panoramas of the Sierra Salvada cliffs, the Orduña valley, and Mount Gorbea.
+
+
+      The visitor centre beside the Fuente Santiago spring features displays on local ecology and an inner
+      courtyard dedicated to native amphibians. The spring emerges at the base of a collapse sinkhole, its
+      stream flowing barely some 50 metres before vanishing into a subterranean swallow hole.
+    history: >-
+      The park visitor centre occupies the grounds of the medieval monastery of Santiago de Langrériz, founded
+      beside the plateau's solitary perennial freshwater spring. The waterfall can also be approached on foot
+      from Álava via a cliff-edge path starting past the village of Untza.
+    before: >-
+      The waterfall is strictly seasonal: without recent rainfall or active thaw, the precipice remains dry.
+      Check weather forecasts and visitor centre opening hours before travelling. Visitors with reduced
+      mobility may drive to the viewpoint upon prior authorization at the visitor centre.
+  fr:
+    intro: >-
+      D'abord la pénombre de la forêt, puis le vide absolu. Monte Santiago est une hêtraie dense et ombragée
+      qui débouche soudain sur un amphithéâtre calcaire vertigineux : les crêtes de la Sierra Salvada,
+      profondément karstifiées, plongeant à pic sur le canyon de Délika. Suspendu au-dessus du gouffre, un
+      belvédère offre une vue saisissante sur le salto del Nervión. Ce monument naturel occupe l'extrémité
+      nord-est de la province de Burgos, à la limite du Pays basque, classé par décret régional le 14 mars
+      1996.
+    landscape: >-
+      Tout s'explique par la combinaison du calcaire et des pluies océaniques. D'épaisses couches de calcaires
+      reposent sur des marnes tendres : la roche dure forme des falaises verticales tandis que la roche meuble
+      dessine des versants adoucis. Le salto del Nervión résulte de cette érosion différentielle et d'une
+      fracturation tectonique liée au diapir d'Orduña. Le sous-sol étant karstique, l'écoulement est
+      temporaire : l'eau ne se précipite dans la cascade que quelques mois par an, lors des averses ou de la
+      fonte des neiges ; le reste du temps, le réseau souterrain résurge en contrebas dans la vallée. Après la
+      cascade, la rivière prend le nom de Nervión.
+
+
+      Le choix du moment est primordial. La cascade ne s'anime qu'après des journées d'averses, d'orages ou de
+      redoux, quand les cavités karstiques débordent par les résurgences de la paroi.
+
+
+      La flore reflète l'étagement altitudinal. Le site relève du domaine atlantique dominé par le hêtre, en
+      transition vers l'Espagne méditerranéenne : chênes verts et chênes faginés occupent les pentes moyennes,
+      tandis que la hêtraie coiffe les hauteurs. Les buissons mêlent bruyères, ajoncs, genévriers, buis et
+      busseroles. Sur le plateau karstique, le sous-bois est parsemé de dolines et de lapiés.
+    wildlife: >-
+      L'inventaire compte 20 espèces de mammifères, dont le [chat forestier](/especie/felis_silvestris/), le
+      blaireau, la martre, la fouine et le sanglier. Parmi environ 60 espèces d'oiseaux nicheurs abonde le
+      vautour fauve, aux côtés du [grave-bec à bec rouge](/especie/pyrrhocorax_pyrrhocorax/) et de l'aigle
+      botté. Depuis le belvédère du Salto del Nervión, le visiteur contemple le canyon au milieu des vautours
+      planant dans les ascendances.
+
+
+      La hêtraie porte les traces du pastoralisme historique. Des hêtres taillés en candélabre rappellent la
+      production de charbon de bois, tandis que la maison du parc abrite un hêtre remarquable haut de 21
+      mètres. Des troupeaux de vaches et de juments paissent en liberté sur les pelouses de l'entrée.
+    visit: >-
+      L'accès s'effectue depuis Berberana : à 3 km, une piste forestière gagne Monte Santiago. Le sentier vers
+      le belvédère du salto del Nervión débute au parking d'Hoyalante, empruntant une piste large et plane
+      interdite aux véhicules motorisés non autorisés. En chemin apparaissent les « chaussées des géants »,
+      lapiés calcaires semblant sculptés par l'homme, et la Lobera de Santiago, piège à loups séculaire muni
+      de palissades menant à une fosse aveugle aujourd'hui mis en scène par des sculptures.
+
+
+      Deux boucles complètent la visite. La Senda del Bosque parcourt 6,67 km en environ deux heures et demie
+      de marche modérée, sous une voûte d'arbres si dense qu'elle forme un tunnel végétal. La Senda de los
+      Miradores relie la cascade au belvédère d'Esquina Rubén en 6,28 km, embrassant la Sierra Salvada et le
+      mont Gorbea.
+
+
+      La maison du parc, près de la source de Fuente Santiago, propose des expositions et des conseils de
+      randonnée. La résurgence jaillit au fond d'une doline, son ruisseau s'écoulant sur à peine 50 mètres
+      avant de s'engouffrer sous terre.
+    history: >-
+      La maison du parc s'élève sur l'ancien monastère médiéval de Santiago de Langrériz, bâti près de la
+      seule source permanente du plateau. On peut aussi accéder au belvédère depuis l'Álava par un sentier
+      longeant le bord du canyon depuis Untza.
+    before: >-
+      Le débit de la cascade dépend directement des précipitations : par temps sec prolongé, la falaise reste
+      muette. Consultez la météo et les horaires de la maison du parc. Les personnes à mobilité réduite
+      peuvent solliciter un accès véhiculé à la maison du parc.
+  de:
+    intro: >-
+      Zuerst dichter Waldschatten, dann gähnende Tiefe. Monte Santiago ist ein dichter, schattiger Buchenwald,
+      der unvermittelt an den Rand eines riesigen Felsamphitheaters stößt: die verkarsteten Kalkfelsen der
+      Sierra Salvada, die steil in die Schlucht von Délika abfallen. Hoch über dem Abgrund schwebt die
+      Aussichtsplattform über dem Salto del Nervión. Dieses Naturdenkmal liegt im äußersten Nordosten der
+      Provinz Burgos an der Grenze zum Baskenland und wurde am 14. März 1996 unter Schutz gestellt.
+    landscape: >-
+      Das Landschaftsbild erklärt sich aus Kalkgestein und atlantischen Niederschlägen. Harte
+      Kalksteinschichten lagern auf weicheren Mergeln: Wo der Fels widersteht, ragen Steilwände auf; wo er
+      weich ist, entstanden sanfte Hänge. Der Salto del Nervión verdankt sich dieser Verwitterung und einer
+      tektonischen Störungszone des Diapirs von Orduña. Da der Untergrund verkarstet ist, fließt das Wasser
+      unregelmäßig: Der Wasserfall stürzt nur wenige Monate im Jahr nach Starkregen oder Schneeschmelze herab;
+      sonst versickert das Wasser vollständig und tritt erst im Tal bei Orduña zutage. Unterhalb der Kaskade
+      heißt der Fluss Nervión.
+
+
+      Der Zeitpunkt des Besuchs entscheidet. Der Wasserfall erwacht erst nach Regentagen oder Schneeschmelze,
+      wenn das Wasser aus Karsthöhlen der Steilwand hervorquillt.
+
+
+      Die Vegetation spiegelt die Höhenlage. Das Schutzgebiet liegt im atlantischen Buchenwaldgürtel mit
+      Übergang zur mediterranen Flora: Steineichen und Portugiesische Eichen säumen tiefere Lagen, während
+      Rotbuchen die Hochlagen krönen. Im Unterholz wachsen Heidekraut, Ginster, Wacholder, Buchsbaum und
+      Bärentraube. Karren und Dolinen prägen den Waldboden.
+    wildlife: >-
+      Es sind 20 Säugetierarten nachgewiesen, darunter [Wildkatze](/especie/felis_silvestris/), Dachs,
+      Baummarder, Steinmarder und Wildschweine. Unter rund 60 Vogelarten dominieren Gänsegeier, begleitet von
+      [Alpenkrähe](/especie/pyrrhocorax_pyrrhocorax/) und Zwergadler. Vom Aussichtspunkt blickt man auf
+      Augenhöhe mit den kreisenden Geiern in den Canyon.
+
+
+      Der Buchenwald trägt kulturhistorische Züge. Alte Kopfbuchen zeugen von historischer Köhlerei, während
+      am Besucherzentrum eine 21 Meter hohe monumentale Buche steht. Auf den Magerrasen weiden Kühe und Pferde
+      halbw旷.
+    visit: >-
+      Die Zufahrt erfolgt ab Berberana: Nach 3 km zweigt der Waldweg zum Monte Santiago ab. Der Wanderweg zum
+      Aussichtspunkt beginnt am Parkplatz Hoyalante und verläuft als breiter, ebener Schotterweg ohne
+      nennenswerte Steigung. Unterwegs passiert man Karrenfelder und die historische Wolfsfalle Lobera de
+      Santiago mit Steinmauern und Grube, heute durch Skulpturen veranschaulicht.
+
+
+      Für Ausflüge bieten sich zwei Rundwege an. Die Senda del Bosque misst 6,67 km und dauert rund
+      zweieinhalb Stunden auf bequemen Pfaden unter einem grünen Blätterdach. Die Senda de los Miradores
+      verbindet den Wasserfall mit dem Aussichtspunkt Esquina Rubén über 6,28 km mit Panoramablick auf Sierra
+      Salvada und Gorbea.
+
+
+      Das Besucherzentrum an der Quelle Fuente Santiago informiert über Routen und Geologie. Die Karstquelle
+      entspringt in einer Einsturzdoline, fließt etwa 50 Meter weit und verschwindet wieder im Schluckloch.
+    history: >-
+      Das Besucherzentrum steht an der Stelle des mittelalterlichen Klosters Santiago de Langrériz an der
+      einzigen dauerhaften Quelle der Hochebene. Ein alternativer Fußweg führt von Álava ab Untza an der
+      Schlucht entlang zum Wasserfall.
+    before: >-
+      Der Wasserfall ist wetterabhängig: Ohne vorangegangene Niederschläge bleibt das Felsbett trocken. Prüfe
+      Wetterberichte und Öffnungszeiten vorab. Mobilitätseingeschränkte Besucher können am Besucherzentrum
+      eine Fahrerlaubnis für den Weg beantragen.
+  it:
+    intro: >-
+      Dapprima la fitta penombra del bosco, poi il vuoto totale. Monte Santiago è una faggeta cupa che, al suo
+      margine nord-orientale, sbuca improvvisamente sul ciglio di un anfiteatro rupestre: le creste calcaree
+      della Sierra Salvada, profondamente carsificate, che precipitano nella forra di Délika. Sospeso
+      sull'abisso sorge il belvedere dal quale si ammira il salto del Nervión. Questo monumento naturale
+      occupa l'estremità nord-orientale della provincia di Burgos, al confine con i Paesi Baschi, istituito il
+      14 marzo 1996.
+    landscape: >-
+      La morfologia nasce dall'interazione tra calcari massicci e piogge atlantiche. Banchi calcarei poggiano
+      su marne tenere: dove la roccia è dura si formano pareti verticali, dove è tenera si raccordano pendii
+      dolci. Il salto del Nervión scaturisce da questa erosione differenziale e da una fitta fratturazione
+      legata al diapiro di Orduña. Essendo il terreno carsico, il flusso è stagionale: l'acqua si getta nel
+      baratro solo pochi mesi all'anno, con le piogge o il disgelo; nel resto dell'anno le acque circolano nel
+      sottosuolo riemergendo nella valle presso Orduña. A valle del salto il torrente Délica assume il nome di
+      Nervión.
+
+
+      Il momento della visita è fondamentale. La cascata si ammira dopo giorni di pioggia insistente o
+      disgelo, quando il reticolo sotterraneo tracima dalle pareti rocciose.
+
+
+      La flora segue le fasce di quota. Il sito appartiene al dominio atlantico dominato dal faggio, a
+      contatto con la Spagna mediterranea: lecci e roverelle occupano le balze inferiori, mentre il faggio
+      domina in quota. Il sottobosco accoglie brugo, ginestre, ginepri, bosso e uva ursina. Sul suolo carsico
+      la faggeta è costellata di doline e campi carreggiati.
+    wildlife: >-
+      Sono censite 20 specie di mammiferi, tra cui il [gatto selvatico](/especie/felis_silvestris/), il tasso,
+      la martora, la faina e il cinghiale. Tra circa 60 specie di uccelli primeggia il grifone comune,
+      affiancato dal [gracchio corallino](/especie/pyrrhocorax_pyrrhocorax/) e dall'aquila minore. Dal
+      belvedere del Salto del Nervión si osserva la forra all'altezza degli occhi dei grifoni in volo.
+
+
+      La faggeta reca testimonianze storiche. I faggi a candelabro ricordano i tagli per la produzione del
+      carbone di legna, e presso il centro visite vegeta un faggio monumentale alto 21 metri. Bovini e cavalli
+      pascolano sui prati dell'ingresso.
+    visit: >-
+      L'accesso muove da Berberana: dopo 3 km si imbocca la pista per Monte Santiago. Il cammino verso il
+      belvedere parte dal parcheggio di Hoyalante, lungo un'ampia carrareccia pianeggiante chiusa al traffico
+      non autorizzato. Lungo il tragitto affiorano le calzadas de gigante, lapiés calcarei levigati, e la
+      Lobera de Santiago, antica trappola per lupi con muraglioni e fossa cieca illustrata da sculture.
+
+
+      Per camminare a lungo vi sono due anelli. La Senda del Bosque misura 6,67 km e richiede circa due ore e
+      mezza di cammino tra faggi ombrosi. La Senda de los Miradores collega il salto al belvedere di Esquina
+      Rubén in 6,28 km, spaziando sulla Sierra Salvada e sul massiccio del Gorbea.
+
+
+      Il centro visite accoglie gli escursionisti illustrando la geologia locale. La sorgente Fuente Santiago
+      scaturisce da una dolina, scorre per circa 50 metri e sparisce in un inghiottitoio.
+    history: >-
+      Il centro visite sorge sul sito del monastero medievale di Santiago de Langrériz, eretto accanto
+      all'unica sorgente perenne della zona. Si accede alla cascata anche dall'Álava tramite un sentiero che
+      parte dopo il borgo di Untza.
+    before: >-
+      La cascata è stagionale: in assenza di precipitazioni recenti il salto resta asciutto. Controlla il
+      meteo e gli orari del centro visite prima di salire. Le persone a mobilità ridotta possono richiedere il
+      permesso di transito veicolare.
+  pt:
+    intro: >-
+      Primeiro a sombra densa da mata, depois o abismo absoluto. Monte Santiago é um faial frondoso que, no
+      seu extremo nordeste, alcança de súbito o bordo de um anfiteatro calcário: as cristas da Sierra Salvada,
+      intensamente carsificadas, caindo a pique sobre o desfiladeiro de Délika. Suspenso sobre o despenhadeiro
+      projeta-se o miradouro do salto do Nervión. Este monumento natural situa-se no nordeste de Burgos, junto
+      à fronteira com o País Basco, criado por decreto a 14 de março de 1996.
+    landscape: >-
+      Tudo decorre do calcário e das chuvas atlânticas. Uma bancada de calcários compactos assenta sobre
+      margas brandas: onde a rocha é dura erguem-se escarpas verticais, onde é macia formam-se encostas
+      suaves. O salto do Nervión resulta desta erosão diferencial e de fraturas ligadas ao diápiro de Orduña.
+      Sendo o relevo cárstico, o curso é temporário: a água só desaba na cascata alguns meses por ano com
+      chuvadas ou degelo; no restante tempo corre subterraneamente ressurgindo no vale junto a Orduña. A
+      jusante do salto, o rio Délica passa a chamar-se Nervión.
+
+
+      A época da visita é crucial. A cascata contempla-se após dias de chuva forte ou nevões, quando o
+      aquífero transborda em ressurgências na parede rochosa.
+
+
+      A flora acompanha a altitude. O monumento integra o domínio atlântico dominado pela faia, em transição
+      para a Iberia mediterrânica: azinheiras e carvalhos-portugueses povoam as encostas médias, enquanto o
+      faial ocupa as cotas cimeiras. O mato combina urzes, estevas, zimbros, buxo e uva-ursina. No solo
+      calcário abrem-se dolinas e campos de lapiás.
+    wildlife: >-
+      Estão inventariadas 20 espécies de mamíferos, incluindo o [gato-bravo](/especie/felis_silvestris/), o
+      texugo, a marta, a fuinha e o javali. Entre cerca de 60 espécies de aves destaca-se o grifo, a par da
+      [gralha-de-bico-vermelho](/especie/pyrrhocorax_pyrrhocorax/) e da águia-calçada. Do miradouro avistam-se
+      os grifos planando ao nível dos olhos sobre o desfiladeiro.
+
+
+      O faial guarda marcas históricas. As faias em candelabro recordam as podas para fabrico de carvão
+      vegetal, e na Casa do Parque subsiste uma faia monumental de 21 metros de altura. Vacas e éguas pastam
+      nos lameiros da entrada.
+    visit: >-
+      O acesso faz-se a partir de Berberana: a 3 km arranca a pista florestal para Monte Santiago. O percurso
+      pedonal até ao miradouro principia no parque de Hoyalante, seguindo uma pista plana fechada ao trânsito
+      automóvel. Pelo caminho surgem campos de lapiás esculpidos na rocha e a Lobera de Santiago, antiga
+      armadilha com muros convergentes para capturar lobos num fojo, hoje recriada com esculturas.
+
+
+      Para percursos mais longos há duas rotas circulares. A Senda del Bosque perfaz 6,67 km em cerca de duas
+      horas e meia de marcha fácil sob um túnel vegetal cerrado. A Senda de los Miradores liga o salto ao
+      miradouro de Esquina Rubén em 6,28 km, com vistas panorâmicas sobre a Sierra Salvada e o maciço de
+      Gorbea.
+
+
+      A Casa do Parque, junto à nascente de Fuente Santiago, presta apoio informativo aos visitantes. A
+      nascente brota no fundo de uma dolina, correndo o ribeiro apenas cerca de 50 metros antes de se sumir
+      num algar.
+    history: >-
+      A Casa do Parque ocupa o solar do mosteiro medieval de Santiago de Langrériz, erguido junto à única
+      nascente perene do planalto. Também se acede ao salto a partir de Álava por um trilho que parte após a
+      aldeia de Untza.
+    before: >-
+      A cascata depende da meteorologia: em períodos secos o salto fica sem água. Consulta as previsões e os
+      horários da Casa do Parque antes de viajar. Pessoas com mobilidade reduzida podem solicitar autorização
+      de acesso automóvel.
+fuentes:
+  - url: https://patrimonionatural.org/espacios-naturales/monumento-natural/monumento-natural-monte-santiago
+    titulo: Monumento natural Monte Santiago — Patrimonio Natural
+    fecha_consulta: '2026-10-29'
+  - url: https://patrimonionatural.org/senderos/senda-circular-del-bosque
+    titulo: Senda circular del Bosque — Patrimonio Natural
+    fecha_consulta: '2026-10-29'
+  - url: https://patrimonionatural.org/senderos/senda-circular-de-los-miradores
+    titulo: Senda circular de los Miradores — Patrimonio Natural
+    fecha_consulta: '2026-10-29'
+  - url: https://patrimonionatural.org/casas-del-parque/casas-del-parque/casa-del-parque-monte-santiago
+    titulo: Casa del Parque Monte Santiago — Patrimonio Natural
+    fecha_consulta: '2026-10-29'
+  - url: https://es.wikipedia.org/wiki/Salto_del_Nervi%C3%B3n
+    titulo: Salto del Nervión – Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-10-29'
+  - url: https://patrimonionatural.org/senderos/senda-del-mirador-del-salto-del-nervion
+    titulo: Patrimonio Natural de Castilla y León | Senda del Mirador del Salto del Nervión
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Salto_nervion2023.jpg
+    autor: Centenoyespelta
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

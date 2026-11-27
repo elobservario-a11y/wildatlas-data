@@ -1,0 +1,569 @@
+id: parque-natural-da-serra-da-estrela
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de la Serra da Estrela
+  en: Serra da Estrela Natural Park
+  fr: Parc naturel de la Serra da Estrela
+  de: Naturpark Serra da Estrela
+  it: Parco naturale della Serra da Estrela
+  pt: Parque Natural da Serra da Estrela
+nombre_original: Parque Natural da Serra da Estrela
+alias:
+  - Parque Natural da Serra da Estrela
+paises:
+  - PT
+region:
+  es: Centro de Portugal (Guarda / Castelo Branco / Manteigas / Covilhã)
+  en: Central Portugal (Covilhã / Manteigas / Seia / Gouveia / Guarda / Celorico da Beira)
+  fr: Portugal central (Covilhã / Manteigas / Seia / Gouveia / Guarda / Celorico da Beira)
+  de: Zentralportugal (Covilhã / Manteigas / Seia / Gouveia / Guarda / Celorico da Beira)
+  it: Portogallo centrale (Covilhã / Manteigas / Seia / Gouveia / Guarda / Celorico da Beira)
+  pt: Região Centro (Covilhã / Manteigas / Seia / Gouveia / Guarda / Celorico da Beira)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.32
+  lon: -7.6
+  radio_km: 35
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 1338
+  nombre_en_la_fuente: Serra da Estrela
+  categoria_uicn: V
+  capa: capas/cdda/parque-natural-da-serra-da-estrela.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - karst
+  - mature_forest
+designaciones:
+  - natural_park
+  - ramsar
+  - geopark
+  - natura2000
+  - iucn_v
+especies:
+  - canis_lupus
+  - aquila_chrysaetos
+proyectos:
+  - rewilding_geopark_estrela
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en la Torre (1.993 m, techo del Portugal continental) y valle glaciar de Zêzere
+  en: High at Torre (1,993 m, highest peak in mainland Portugal) and Zêzere glacial valley
+  fr: Forte à la Torre (1 993 m, point culminant du Portugal continental) et dans la vallée glaciaire du Zêzere
+  de: Hoch am Torre (1.993 m, Dach des portugiesischen Festlands) und im Zêzere-Trogtal
+  it: Alta alla Torre (1.993 m, vetta del Portogallo continentale) e nella valle glaciale dello Zêzere
+  pt: Alta na Torre (1.993 m, teto do Portugal continental) e vale glaciar do Zêzere
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — ICNF
+    url: https://www.icnf.pt/
+  - titulo: Estrela UNESCO Global Geopark
+    url: https://www.geoparkestrela.pt/
+  - titulo: Visita y accesos — Parque Natural da Serra da Estrela (ICNF Natural.PT)
+    url: https://natural.pt/protected-areas/parque-natural-serra-estrela
+  - titulo: Normas — Código de visita de las áreas protegidas del ICNF
+    url: https://resources.natural.pt/uploads/additional-information/2026/10/13/11/MVFWRS8SS5xDBMC4.pdf
+resumen:
+  es: >-
+    La mayor cordillera del Portugal continental (Torre 1.993 m), el valle glaciar en 'U' de Zêzere (13 km) y
+    el Geoparque UNESCO Estrela.
+  en: >-
+    Mainland Portugal's highest mountain range (Torre 1,993 m), the 13 km U-shaped Zêzere glacial valley and
+    Estrela UNESCO Global Geopark.
+  fr: >-
+    La plus haute chaîne du Portugal continental (Torre 1 993 m), la vallée glaciaire en 'U' du Zêzere (13 km)
+    et le géoparc mondial UNESCO Estrela.
+  de: >-
+    Höchster Gebirgszug des portugiesischen Festlands (Torre 1.993 m), 13 km langes Zêzere-Trogtal und
+    UNESCO-Geopark Estrela.
+  it: >-
+    La catena montuosa più elevata del Portogallo continentale (Torre 1.993 m), la valle glaciale a 'U' dello
+    Zêzere (13 km) e il Geoparco UNESCO Estrela.
+  pt: >-
+    A maior cordilheira do Portugal continental (Torre 1.993 m), o vale glaciar em 'U' do Zêzere (13 km) e o
+    Geopark Mundial da UNESCO Estrela.
+unico:
+  es: >-
+    La montaña más alta del Portugal continental, modelada por glaciares, de la que nacen el Mondego, el
+    Zêzere, el Alva y el Alvoco.
+  en: >-
+    Mainland Portugal's highest peak, sculpted by glaciers, feeding the headwaters of the Mondego, Zêzere,
+    Alva and Alvoco rivers.
+  fr: >-
+    Le point culminant du Portugal continental, façonné par les glaciers, d'où sourdent le Mondego, le Zêzere,
+    l'Alva et l'Alvoco.
+  de: >-
+    Höchster Berg des portugiesischen Festlands, eiszeitlich geformt, Quellgebiet von Mondego, Zêzere, Alva
+    und Alvoco.
+  it: >-
+    La cima più alta del Portogallo continentale, plasmata dai ghiacciai, da cui sgorgano i fiumi Mondego,
+    Zêzere, Alva e Alvoco.
+  pt: >-
+    A montanha mais alta do Portugal continental, modelada por glaciares, de onde nascem o Mondego, o Zêzere,
+    o Alva e o Alvoco.
+observaciones:
+  es: >-
+    La Torre y el valle glaciar son los puntos de mayor afluencia. Para disfrutar del resto de la sierra,
+    cuenta con entre dos y cuatro días. Lleva abrigo: las temperaturas en la cima pueden bajar de los -20
+    grados en invierno, y la nieve puede aparecer fuera de la estación estival.
+texto:
+  es:
+    intro: >-
+      Hay un sitio en el que puedes llegar en coche a lo más alto de Portugal continental. Se llama Torre,
+      tiene 1993 metros y una carretera asfaltada que sube hasta la cima, con un gran mirador. Desde allí, en
+      verano y con el cielo despejado, la vista puede llegar hasta el mar, hacia Figueira da Foz. Pero Torre
+      es solo la puerta de la Serra da Estrela, una sierra de granito y esquisto donde nacen cuatro ríos y
+      donde el hielo dejó valles, lagunas y rocas pulidas. Es la mayor área protegida de Portugal, repartida
+      entre seis municipios.
+    landscape: >-
+      El macizo es de granito, esquisto y grauvacas, con restos de antiguos glaciares. Su altitud y su
+      situación lo convierten en uno de los lugares más lluviosos y nevados del Portugal continental. Más de
+      la mitad del parque está por encima de los 700 metros, y en la cima se registran las temperaturas más
+      bajas del país, con mínimas de hasta -20 grados en invierno. Puede nevar todo el año salvo en verano.
+
+
+      Durante el Cuaternario toda la región sufrió la acción del hielo, y al desaparecer dejó su firma: valles
+      en forma de herradura, barrancos, rocas pulidas y lagos de origen glaciar. La meseta central, dominada
+      por Torre y los Cântaros, alberga el valle glaciar del Zêzere. Hay más valles glaciares: los de Loriga y
+      Manteigas, el Covão do Urso y el Covão Grande. En contraste con esa meseta de piedra, la de Videmonte,
+      en el cauce inicial del Mondego, se llena de granjas aisladas entre campos de centeno y pastos donde se
+      cría ganado. Al suroeste, los pueblos de Loriga y Alvoco se levantan sobre espolones rocosos al pie de
+      la Penha dos Abutres.
+
+
+      También el agua cuenta su historia. Se pueden seguir los grandes ríos desde su origen: el Mondego en
+      Mondeguinho, el Zêzere en Covão de Ametade y el Alva en el valle de Rossim.
+    wildlife: >-
+      La vegetación se ordena por pisos. Entre unos 800-900 metros y 1600 metros domina el roble negro; a
+      partir de 1600 metros aparecen el enebro y los pastos de altura, donde crece la genciana, una planta en
+      peligro de extinción. En la flora de la sierra aparecen el cervuno (Nardus stricta), el rocío de sol
+      (Drosera rotundifolia) y el Echinospartum ibericum, llamado caldoneira.
+
+
+      Entre los animales destacan el [lobo](/especie/canis_lupus/), el jabalí, la [nutria
+      europea](/especie/lutra_lutra/), el zorro, la lagartija de montaña, la
+      [gineta](/especie/genetta_genetta/) y el conejo de monte. El lobo recorre la sierra solo de forma
+      esporádica. También hay tejones, gatos monteses, topillos de agua y sapos parteros. Entre las aves
+      figuran la collalba rubia, la chova piquirroja, el martín pescador y la lavandera cascadeña.
+
+
+      Las estaciones se notan. En los meses cálidos, la Rota das 25 lagoas guía por espacios frescos de la
+      sierra; en invierno, la nieve cubre las alturas. La época recomendada va de mayo a octubre.
+    visit: >-
+      El parque tiene unos 375 kilómetros de senderos marcados, de distintos niveles de dificultad, para
+      recorrer a pie, a caballo o en bicicleta, y cuatro recorridos pedestres señalizados. Entre las
+      actividades que contempla el plan del parque están la observación de fauna y flora y las expediciones
+      fotográficas. Además, hay un centro de interpretación.
+
+
+      Una manera de empezar es seguir los ríos hasta su origen o asomarse a los valles glaciares de Loriga y
+      Manteigas. Otra, subir hasta la Torre en coche y mirar desde su mirador la sierra de valles encajados
+      entre esquisto y granito. En la cima hay además un monumento grabado en la roca en honor de Nossa
+      Senhora da Boa Estrela, patrona de los pastores.
+    history: >-
+      Se cree que la sierra es lo que los autores romanos llamaban Montes Hermínios. Los hallazgos
+      arqueológicos permiten imaginar a pastores neolíticos que pasaban los meses cálidos en los pastos altos
+      y el invierno en los valles; la misma trashumancia, junto a la renovación de pastos con fuego, forma
+      parte del pastoreo tradicional de la oveja bordaleira. Restos de la calzada romana que unía Mérida con
+      Braga cruzan la sierra en Famalicão y Folgosinho.
+
+
+      El perro de la Serra da Estrela es una raza de perros guardianes ligada a ese pastoreo. Hoy el abandono
+      de la profesión de pastor y el despoblamiento amenazan las prácticas tradicionales de la sierra.
+    before: >-
+      La Torre y el valle glaciar son los puntos de mayor afluencia. Para disfrutar del resto de la sierra,
+      cuenta con entre dos y cuatro días. Lleva abrigo: las temperaturas en la cima pueden bajar de los -20
+      grados en invierno, y la nieve puede aparecer fuera de la estación estival.
+    around: >-
+      A veintiséis kilómetros queda la [Reserva Natural de la Sierra de
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/).
+  en:
+    intro: >-
+      There is a place where you can drive all the way to the highest point of mainland Portugal. It is called
+      Torre, rises to 1993 metres, and features a paved road climbing right to the summit plateau, complete
+      with a grand viewing platform. From there on clear summer days, the gaze can reach all the way to the
+      Atlantic Ocean towards Figueira da Foz. Yet Torre is merely the doorway to the Serra da Estrela, a
+      granite and schist range giving birth to four rivers, where Quaternary glaciers sculpted valleys, tarns
+      and polished domes. It is Portugal's largest protected area, spread across six municipalities.
+    landscape: >-
+      The massif is built of ancient granites, schists and greywackes, bearing the imprint of Pleistocene
+      glaciations. Its elevation and position make it one of the wettest and snowiest massifs in mainland
+      Portugal. Over half of the park lies above 700 metres, and the summit records the lowest temperatures in
+      the country, plunging to -20 degrees in winter storms. Snow can fall in any month outside midsummer.
+
+
+      During the Quaternary, ice sheets enveloped the heights, leaving horseshoe valleys, gorges, polished
+      roche moutonnée rocks and tarns. The central plateau, dominated by Torre and the Cântaros pinnacles,
+      cradles the magnificent Zêzere glacial trough. Other glacial troughs include Loriga, Manteigas, Covão do
+      Urso and Covão Grande. In contrast with the stony high plateau, the Videmonte plateau on the upper
+      Mondego is dotted with remote granite farmsteads amid rye fields and summer pastures. To the southwest,
+      the villages of Loriga and Alvoco cling to rocky spurs beneath the Penha dos Abutres.
+
+
+      Waters tell their own story. One can trace large rivers directly from their headwaters: the Mondego at
+      Mondeguinho, the Zêzere at Covão de Ametade, and the Alva in the Rossim valley.
+    wildlife: >-
+      Vegetation arranges in distinct altitudinal tiers. Between roughly 800-900 metres and 1600 metres
+      Pyrenean oak dominates; above 1600 metres juniper scrub and high-altitude pastures take over, home to
+      the endangered yellow marsh gentian. Characteristic flora includes mat-grass (Nardus stricta),
+      round-leaved sundew (Drosera rotundifolia) and the spiny endemic Echinospartum ibericum, known as
+      caldoneira.
+
+
+      Fauna features the [wolf](/especie/canis_lupus/), wild boar, [Eurasian otter](/especie/lutra_lutra/),
+      red fox, Iberian rock lizard, [common genet](/especie/genetta_genetta/) and European rabbit. The wolf
+      traverses the range only sporadically. Badgers, wildcats, Southwestern water voles and midwife toads
+      also inhabit the valleys. Birdlife includes black-eared wheatear, red-billed chough, common kingfisher
+      and grey wagtail.
+
+
+      Seasons set the rhythm. In warm months, the Rota das 25 lagoas leads across cool high-altitude cirques;
+      in winter, snow blankets the plateaus. The recommended season runs from May to October.
+    visit: >-
+      The park maintains around 375 kilometres of marked trails of diverse difficulty for hiking, horse riding
+      and mountain biking, complemented by four designated pedestrian circuits. The park plan promotes
+      wildlife watching and photography outings. A dedicated interpretation centre welcomes visitors.
+
+
+      A great way to begin is tracking rivers to their source springs or admiring the Loriga and Manteigas
+      glacial valleys. Another is driving up to Torre to gaze across schist and granite chasms. At the summit,
+      a rock-hewn bas-relief honours Our Lady of the Good Star, patroness of mountain shepherds.
+    history: >-
+      Scholars believe the range corresponds to what Roman authors called the Montes Herminios. Archaeological
+      sites reveal Neolithic pastoralists spending summer months on high pastures and retreating to valleys in
+      winter; this seasonal transhumance, alongside controlled burning, forms the bedrock of the Bordaleira
+      sheep pastoral tradition. Traces of the Roman highway linking Mérida to Braga cross the range at
+      Famalicão and Folgosinho.
+
+
+      The Estrela Mountain Dog is an ancestral livestock guardian breed tied to this pastoral world. Today,
+      rural abandonment and shepherd depopulation threaten these traditional heritage practices.
+    before: >-
+      Torre and the Zêzere glacial valley experience high visitor concentrations. To explore the broader
+      mountain range, allow two to four days. Dress warmly: summit temperatures can plunge below -20 degrees
+      in winter, and snowfall occurs outside summer.
+    around: >-
+      Twenty-six kilometres away lies the [Serra da Malcata Nature
+      Reserve](/lugar/reserva-natural-da-serra-da-malcata/).
+  fr:
+    intro: >-
+      Il existe un sommet où l'on peut accéder en voiture au point culminant du Portugal continental. Il
+      s'appelle Torre, s'élève à 1993 mètres et dispose d'une route goudronnée grimpant jusqu'au faîte,
+      assortie d'un belvédère panoramique. De là, en été par temps clair, le regard porte jusqu'à l'océan
+      Atlantique vers Figueira da Foz. Mais Torre n'est que l'antichambre de la Serra da Estrela, un massif de
+      granite et de schiste où naissent quatre cours d'eau et où les glaciers ont façonné cirques, lagunes et
+      roches moutonnées. C'est la plus grande aire protégée du Portugal, partagée entre six municipalités.
+    landscape: >-
+      Le massif est bâti de granites, de schistes et de grauwackes, portant la marque des glaciations
+      quaternaires. Son altitude et sa position en font l'un des secteurs les plus arrosés et enneigés du
+      pays. Plus de la moitié du parc dépasse 700 mètres, et le sommet enregistre les froids les plus vifs du
+      Portugal, avec des pointes à -20 degrés en hiver. Les chutes de neige surviennent presque toute l'année
+      hors saison estivale.
+
+
+      Durant le Quaternaire, la calotte glaciaire a sculpté des vallées en auge, des verrous rocheux et des
+      lacs de surcreusement. Le plateau central, dominé par Torre et les Cântaros, abrite la vallée glaciaire
+      du Zêzere. D'autres auges glaciaires s'étirent à Loriga, Manteigas, Covão do Urso et Covão Grande.
+      Contrastant avec ce chaos minéral, le plateau de Videmonte sur le haut Mondego déploie de paisibles
+      métairies entre champs de seigle et pacages. Au sud-ouest, Loriga et Alvoco s'accrochent à des éperons
+      au pied de la Penha dos Abutres.
+
+
+      L'eau raconte aussi son histoire. On peut remonter aux sources des grands fleuves : le Mondego à
+      Mondeguinho, le Zêzere à Covão de Ametade et l'Alva au lac de Rossim.
+    wildlife: >-
+      La végétation s'étage en gradins. Entre 800-900 mètres et 1600 mètres domine le chêne tauzin ; au-delà
+      de 1600 mètres prennent le relais le genévrier nain et les pelouses d'altitude où pousse la gentiane
+      jaune menacée. La flore compte le nard raide (Nardus stricta), la droséra à feuilles rondes (Drosera
+      rotundifolia) et le genêt épineux Echinospartum ibericum, nommé caldoneira.
+
+
+      La faune sauvage comprend le [loup](/especie/canis_lupus/), le sanglier, la [loutre
+      d'Europe](/especie/lutra_lutra/), le renard roux, le lézard des montagnes, la
+      [genette](/especie/genetta_genetta/) et le lapin de garenne. Le loup ne parcourt le massif que de façon
+      épisodique. On observe aussi blaireau, chat sauvage, campagnol amphibie et crapaud accoucheur. Les
+      oiseaux comptent le traquet oreillard, le crave à bec rouge, le martin-pêcheur et la bergeronnette des
+      ruisseaux.
+
+
+      Les saisons rythment la visite. Durant les mois chauds, la Rota das 25 lagoas mène aux combes fraîches ;
+      l'hiver, le manteau neigeux recouvre les crêtes. La période recommandée va de mai à octobre.
+    visit: >-
+      Le parc dispose de quelque 375 kilomètres de sentiers balisés pour la randonnée pédestre, équestre et le
+      VTT, complétés par quatre circuits pédestres aménagés. Le plan de gestion promeut les sorties
+      naturalistes et la photographie. Un centre d'interprétation accueille le public.
+
+
+      Une belle approche consiste à remonter aux sources des fleuves ou à admirer les auges glaciaires de
+      Loriga et Manteigas. Une autre consiste à monter à Torre pour contempler les défilés rocheux. Au sommet,
+      un bas-relief taillé dans la roche rend hommage à Nossa Senhora da Boa Estrela, sainte patronne des
+      bergers.
+    history: >-
+      La tradition assimile le massif aux Montes Herminios des auteurs antiques. Les vestiges néolithiques
+      attestent d'une transhumance millénaire, les pasteurs montant aux alpages l'été et descendant aux
+      vallées l'hiver, pratique liée à l'élevage de la brebis bordaleira. La voie romaine reliant Mérida à
+      Braga franchit la sierra à Famalicão et Folgosinho.
+
+
+      Le chien de la Serra da Estrela est une race de protection ancestrale issue de ce pastoralisme. De nos
+      jours, l'abandon du pastoralisme et l'exode rural menacent ce patrimoine vivant.
+    before: >-
+      La Torre et la haute vallée du Zêzere sont les secteurs les plus fréquentés. Pour arpenter le reste de
+      la sierra, prévoyez deux à quatre jours. Équipez-vous chaudement : le thermomètre au sommet peut plonger
+      sous les -20 degrés en hiver, et les flocons tombent hors été.
+    around: >-
+      À vingt-six kilomètres se trouve la [Réserve naturelle de la Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/).
+  de:
+    intro: >-
+      Es gibt einen Ort, an dem man mit dem Auto bis zum höchsten Punkt des portugiesischen Festlands fahren
+      kann. Er heißt Torre, ragt 1993 Meter hoch auf und besitzt eine asphaltierte Bergstraße bis zum
+      Gipfelplateau mit Aussichtsplattform. Von dort reicht der Blick an klaren Sommertagen bis zum
+      Atlantischen Ozean bei Figueira da Foz. Doch der Torre ist nur das Portal zur Serra da Estrela, einem
+      Granit- und Schiefergebirge, dem vier Flüsse entspringen und wo Gletscher Täler, Seen und Rundhöcker
+      hinterließen. Es ist das größte Schutzgebiet Portugals, verteilt auf sechs Gemeinden.
+    landscape: >-
+      Das Massiv besteht aus Graniten, Schiefern und Grauwacken mit markanten Eiszeitspuren. Höhe und Lage
+      machen es zu einem der niederschlagsreichsten und schneereichsten Gebiete Portugals. Über die Hälfte des
+      Parks liegt oberhalb von 700 Metern, und der Gipfel verzeichnet die tiefsten Temperaturen des Landes mit
+      bis zu -20 Grad im Winter. Schneefall ist fast ganzjährig außerhalb des Hochsommers möglich.
+
+
+      Im Quartär überformten Talgletscher das Gebirge und hinterließen Trogtäler, Kare, Rundhöcker und
+      Karseen. Das zentrale Plateau um den Torre und die Cântaros-Felsnadeln birgt das markante
+      Zêzere-Trogtal. Weitere Gletschertäler sind jene von Loriga, Manteigas, Covão do Urso und Covão Grande.
+      Im Kontrast zum Felsplateau liegt die Hochebene von Videmonte am oberen Mondego mit einsamen Granithöfen
+      zwischen Roggenfeldern und Weideland. Im Südwesten klammern sich Loriga und Alvoco an Felssporne
+      unterhalb der Penha dos Abutres.
+
+
+      Auch die Gewässer erzählen ihre Geschichte. Große Flüsse lassen sich zu ihren Ursprüngen verfolgen: der
+      Mondego bei Mondeguinho, der Zêzere im Covão de Ametade und der Alva im Rossim-Tal.
+    wildlife: >-
+      Die Vegetation staffelt sich in Höhenstufen. Zwischen 800-900 Metern und 1600 Metern dominiert die
+      Pyrenäen-Eiche; oberhalb von 1600 Metern übernehmen Zwergwacholder und Almatten, wo der seltene Gelbe
+      Enzian gedeiht. Zur Hochlandflora zählen Borstgras (Nardus stricta), Rundblättriger Sonnentau (Drosera
+      rotundifolia) und der Stechginster Echinospartum ibericum, lokal Caldoneira genannt.
+
+
+      Unter den Tieren leben [Wolf](/especie/canis_lupus/), Wildschwein, [Fischotter](/especie/lutra_lutra/),
+      Rotfuchs, Iberische Gebirgseidechse, [Ginsterkatze](/especie/genetta_genetta/) und Wildkaninchen. Der
+      Wolf streift nur noch sporadisch durch das Massiv. Dachse, Wildkatzen, Schermäuse und
+      Geburtshelferkröten bewohnen die Täler. Bei den Vögeln finden sich Mittelmeer-Steinschmätzer,
+      Alpenkrähe, Eisvogel und Gebirgsstelze.
+
+
+      Die Jahreszeiten bestimmen den Rhythmus. In den warmen Monaten führt die Rota das 25 lagoas zu kühlen
+      Bergseen; im Winter liegt Schnee auf den Höhen. Die beste Reisezeit reicht von Mai bis Oktober.
+    visit: >-
+      Der Park verfügt über rund 375 Kilometer markierte Wander-, Reit- und Mountainbikewege sowie vier
+      ausgewiesene Rundwanderwege. Die Parkverwaltung fördert Naturbeobachtungen und Fototouren. Ein
+      Informationszentrum steht Besuchern offen.
+
+
+      Ein lohnender Einstieg ist das Aufsuchen der Flussquellen oder der Blick in die Trogtäler von Loriga und
+      Manteigas. Beliebt ist die Auffahrt zum Torre mit Rundblick über die Schluchten. Am Gipfel ehrt ein
+      Felsrelief Nossa Senhora da Boa Estrela, die Schutzpatronin der Hirten.
+    history: >-
+      Die Forschung identifiziert das Massiv mit den Montes Herminios der Antike. Archäologische Funde belegen
+      neolithische Wanderhirten, die den Sommer auf Hochweiden und den Winter im Tal verbrachten – eine
+      Tradition, die eng mit der Zucht des Bordaleira-Schafs verknüpft ist. Reste der Römerstraße von Mérida
+      nach Braga queren das Gebirge bei Famalicão und Folgosinho.
+
+
+      Der Cão da Serra da Estrela ist eine alte Herdenschutzhundrasse dieser Hirtenkultur. Heute bedrohen
+      Höfesterben und Entvölkerung die althergebrachten Weidebräuche.
+    before: >-
+      Der Torre und das Gletschertal sind am stärksten besucht. Für das übrige Gebirge sollten Sie zwei bis
+      vier Tage einplanen. Warme Kleidung ist ratsam: Die Temperaturen am Gipfel können im Winter unter -20
+      Grad fallen, und Schnee tritt auch außerhalb des Sommers auf.
+    around: >-
+      Sechsundzwanzig Kilometer entfernt liegt das [Naturreservat Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/).
+  it:
+    intro: >-
+      C'è un luogo dove è possibile salire in automobile fino al punto più alto del Portogallo continentale.
+      Si chiama Torre, tocca i 1993 metri e vanta una strada asfaltata che sale fino alla cima, provvista di
+      un ampio belvedere panoramico. Da lassù, nelle limpide giornate estive, la vista può spingersi fino
+      all'Oceano Atlantico verso Figueira da Foz. Ma la Torre è solo l'anticamera della Serra da Estrela, una
+      dorsale di granito e scisto in cui nascono quattro fiumi e dove i ghiacciai hanno lasciato valli, lagune
+      e cupole levigate. È la più vasta area protetta del Portogallo, distribuita su sei municipi.
+    landscape: >-
+      Il massiccio è composto da graniti, scisti e grovacche modellati dalle glaciazioni pleistoceniche.
+      L'altitudine e la posizione ne fanno uno dei settori più piovosi e nevosi del paese. Più della metà del
+      parco supera i 700 metri, e la sommità sperimenta le temperature più rigide del Portogallo, scendendo
+      fino a -20 gradi in inverno. Nevicate possono verificarsi per gran parte dell'anno eccetto in piena
+      estate.
+
+
+      Durante il Quaternario i ghiacciai modellarono vallate a ferro di cavallo, forre e laghetti d'alta
+      quota. L'altopiano centrale, dominato dalla Torre e dai pinnacoli dei Cântaros, custodisce la maestosa
+      valle glaciale dello Zêzere. Altri solchi glaciali si snodano a Loriga, Manteigas, Covão do Urso e Covão
+      Grande. In contrasto con l'aspro altopiano roccioso, quello di Videmonte sull'alto corso del Mondego
+      mostra fattorie isolate tra campi di segale e pascoli. A sud-ovest i villaggi di Loriga e Alvoco sorgono
+      su speroni rocciosi ai piedi della Penha dos Abutres.
+
+
+      Anche le acque raccontano la propria vicenda geologica. Si possono seguire i corsi d'acqua dai loro
+      alvei sorgivi: il Mondego a Mondeguinho, lo Zêzere a Covão de Ametade e l'Alva nella conca di Rossim.
+    wildlife: >-
+      La vegetazione si struttura per fasce altitudinali. Tra 800-900 metri e 1600 metri predomina il rovere
+      dei Pirenei; sopra i 1600 metri subentrano il ginepro nano e le praterie sommitali in cui vive la rara
+      genziana gialla. La flora include il falasco (Nardus stricta), la drosera a foglie rotonde (Drosera
+      rotundifolia) e la ginestra spinosa Echinospartum ibericum, detta caldoneira.
+
+
+      Tra i mammiferi si segnalano il [lupo](/especie/canis_lupus/), il cinghiale, la
+      [lontra](/especie/lutra_lutra/), la volpe, la lucertola montana, la [genetta](/especie/genetta_genetta/)
+      e il coniglio selvatico. Il lupo percorre il massiccio solo saltuariamente. Nei fondovalle vivono tassi,
+      gatti selvatici, arvicole acquatiche e rospi ostetrici. L'avifauna comprende la monachella, il gracchio
+      corallino, il martin pescatore e la ballerina gialla.
+
+
+      Le stagioni scandiscono la visita. Nei mesi miti la Rota das 25 lagoas conduce tra conche lacustri
+      fresche; in inverno la neve ricopre i rilievi. Il periodo suggerito va da maggio a ottobre.
+    visit: >-
+      Il parco vanta circa 375 chilometri di sentieri tracciati per escursionismo a piedi, a cavallo e in
+      mountain bike, integrati da quattro itinerari pedonali segnalati. Il regolamento promuove uscite per
+      l'osservazione naturalistica e fotografica. Un centro di interpretazione è a disposizione del pubblico.
+
+
+      Un ottimo approccio consiste nel risalire alle sorgenti fluviali o nell'affacciarsi sulle valli glaciali
+      di Loriga e Manteigas. Un'altra opzione classica è salire in auto alla Torre per ammirare i valloni
+      scavati tra granito e scisto. In vetta un bassorilievo scolpito nella viva roccia celebra la Madonna
+      della Buona Stella, protettrice dei pastori.
+    history: >-
+      Gli storici identificano il rilievo con i Montes Herminios delle fonti classiche. Testimonianze
+      neolitiche confermano una pastorizia transumante millenaria che conduceva le greggi in quota d'estate e
+      a valle d'inverno, legata alla razza ovina bordaleira. Tratti dell'antica consolare romana che univa
+      Mérida a Braga valicano la serra a Famalicão e Folgosinho.
+
+
+      Il cane da pastore della Serra da Estrela è un'antica razza da difesa legata a questa tradizione.
+      Oggigiorno l'abbandono delle attività pastorali e lo spopolamento montano minacciano questo patrimonio
+      rurale.
+    before: >-
+      La Torre e la valle dello Zêzere concentrano il maggior flusso turistico. Per esplorare il resto del
+      massiccio mettete in conto due-quattro giorni. Copritevi con cura: sul crinale le temperature invernali
+      possono scendere sotto i -20 gradi, e nevicate sono possibili fuori dall'estate.
+    around: >-
+      A ventisei chilometri si trova la [Riserva naturale della Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/).
+  pt:
+    intro: >-
+      Há um sítio onde é possível subir de automóvel até ao ponto mais alto de Portugal continental. Chama-se
+      Torre, atinge 1993 metros e dispõe de uma estrada alcatroada que conduz até ao planalto cimeiro, coroado
+      por um amplo miradouro. De lá, no verão e com o céu límpido, o olhar alcança o oceano Atlântico junto à
+      Figueira da Foz. Mas a Torre é apenas a porta de entrada para a Serra da Estrela, uma cordilheira de
+      granito e xisto onde nascem quatro rios e onde os glaciares talharam vales, lagoas e moreias. É a maior
+      área protegida de Portugal, estendendo-se por seis municípios.
+    landscape: >-
+      O maciço assenta em granitos, xistos e grauvaques que preservam marcas da glaciação quaternária. A sua
+      altitude e situação geográfica conferem-lhe os índices de pluviosidade e nevadas mais elevados de
+      Portugal continental. Mais de metade do parque situa-se acima dos 700 metros, e o cume regista as
+      temperaturas mais baixas do país, descendo aos -20 graus no inverno. A neve pode cair em praticamente
+      qualquer época fora do pico estival.
+
+
+      Durante o Quaternário os mantos de gelo moldaram vales em ferradura, covões, rochas polidas e lagoas de
+      altitude. O planalto central, encimado pela Torre e pelos Cântaros, alberga o vale glaciar do Zêzere.
+      Outros vales glaciares estendem-se por Loriga, Manteigas, Covão do Urso e Covão Grande. Em contraste com
+      este pedestal rochoso, o planalto de Videmonte, no curso inicial do Mondego, pontilha-se de quintas de
+      cantaria entre campos de centeio e lameiros. A sudoeste, as aldeias de Loriga e Alvoco empoleiram-se em
+      esporões sob a Penha dos Abutres.
+
+
+      Também a água traça percursos notáveis. Podem seguir-se os grandes rios até às suas origens: o Mondego
+      no Mondeguinho, o Zêzere no Covão de Ametade e o Alva no vale do Rossim.
+    wildlife: >-
+      A vegetação organiza-se em pisos de altitude. Entre cerca de 800-900 metros e 1600 metros predomina o
+      carvalho-negral; acima dos 1600 metros instalam-se o zimbro-anão e os cervunais, onde vegeta a rara
+      genciana-amarela. A flora inclui o cervum (Nardus stricta), a orvalhinha (Drosera rotundifolia) e a
+      caldoneira (Echinospartum ibericum).
+
+
+      Entre a fauna destacam-se o [lobo](/especie/canis_lupus/), o javali, a
+      [lontra-europeia](/especie/lutra_lutra/), a raposa, a lagartixa-da-montanha, a
+      [gineta](/especie/genetta_genetta/) e o coelho-bravo. O lobo percorre a serra apenas de modo esporádico.
+      Ocorrem igualmente texugos, gatos-bravos, ratos-de-água e sapos-parteiros. Entre as aves figuram o
+      chasco-ruivo, a gralha-de-bico-vermelho, o guarda-rios e a alvéola-cinzenta.
+
+
+      O ciclo anual comanda as visitas. Nos meses quentes, a Rota das 25 lagoas conduz por recantos frescos da
+      serra; no inverno a neve cobre as cumeadas. A época recomendada decorre de maio a outubro.
+    visit: >-
+      O parque oferece cerca de 375 quilómetros de trilhos marcados para percorrer a pé, a cavalo ou de
+      bicicleta de montanha, além de quatro percursos pedestres balizados. As diretrizes do parque promovem
+      passeios de observação e fotografia de natureza. Um centro de interpretação apoia os visitantes.
+
+
+      Uma excelente forma de começar é procurar as nascentes dos rios ou contemplar os vales glaciares de
+      Loriga e Manteigas. Outra é subir à Torre de carro e observar o horizonte de vales entalhados. No cume
+      encontra-se um monumento esculpido na rocha em honra de Nossa Senhora da Boa Estrela, padroeira dos
+      pastores.
+    history: >-
+      A tradição identifica a serra com os Montes Hermínios dos autores clássicos. Vestígios neolíticos
+      comprovam uma transumância milenar de pastores que ocupavam as pastagens altas no verão e desciam aos
+      vales no inverno, costume associado à ovelha bordaleira. Troços da calçada romana entre Mérida e Braga
+      cruzam a serra em Famalicão e Folgosinho.
+
+
+      O cão da Serra da Estrela é uma raça canina ancestral guardiã deste pastoreio. Hoje, o abandono da
+      pastorícia e a desertificação humana ameaçam estas práticas tradicionais.
+    before: >-
+      A Torre e o vale glaciar registam grande afluência de visitantes. Para percorrer o restante maciço
+      reserve dois a quatro dias. Leve agasalho: as temperaturas no cume podem descer dos -20 graus no
+      inverno, e a neve ocorre fora do verão.
+    around: >-
+      A vinte e seis quilómetros fica a [Reserva Natural da Serra da
+      Malcata](/lugar/reserva-natural-da-serra-da-malcata/).
+fuentes:
+  - url: https://www.icnf.pt/conservacao/rnapareasprotegidas/parquesnaturais/pnserradaestrela
+    titulo: Parque Natural da Serra da Estrela — ICNF
+    fecha_consulta: '2026-11-05'
+  - url: https://www.icnf.pt/api/file/doc/8ee0925d51922e65
+    titulo: Plano de Ordenamento do Parque Natural da Serra da Estrela — ICNF
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Parque_Natural_da_Serra_da_Estrela
+    titulo: Parque Natural da Serra da Estrela – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Serra_da_Estrela
+    titulo: Serra da Estrela – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Torre_(Serra_da_Estrela)
+    titulo: Torre (Serra da Estrela) – Wikipédia, a enciclopédia livre
+    fecha_consulta: '2026-11-05'
+  - url: https://en.wikipedia.org/wiki/Serra_da_Estrela_Natural_Park
+    titulo: Serra da Estrela Natural Park – Wikipedia
+    fecha_consulta: '2026-11-05'
+  - url: https://es.wikipedia.org/wiki/Parque_natural_de_la_Sierra_de_la_Estrella
+    titulo: Parque natural de la Sierra de la Estrella – Wikipedia, la enciclopedia libre
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:2026-05-24_Serra_da_Estrela_Natural_Park_23.jpg
+    autor: Alexkom000
+    licencia: CC BY 4.0
+    url_licencia: https://creativecommons.org/licenses/by/4.0
+    fecha_descarga: '2026-10-17'

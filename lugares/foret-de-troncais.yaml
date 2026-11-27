@@ -1,0 +1,568 @@
+id: foret-de-troncais
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Tronçais
+  en: Tronçais Forest
+  fr: Forêt de Tronçais
+  de: Tronçais-Wald
+  it: Foresta di Tronçais
+  pt: Floresta de Tronçais
+nombre_original: Forêt de Tronçais
+alias:
+  - Forêt de Tronçais
+paises:
+  - FR
+region:
+  es: Auvernia-Ródano-Alpes (Allier / Cérilly)
+  en: Auvergne-Rhône-Alpes (Allier / Cérilly)
+  fr: Auvergne-Rhône-Alpes (Allier / Cérilly)
+  de: Auvergne-Rhône-Alpes (Allier / Cérilly)
+  it: Alvernia-Rodano-Alpi (Allier / Cérilly)
+  pt: Auvérnia-Ródano-Alpes (Allier / Cérilly)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.65
+  lon: 2.7
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: way/44523633
+  nombre_en_la_fuente: Forêt de Tronçais
+  capa: capas/osm/foret-de-troncais.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - natural_reserve
+especies:
+  - cervus_elaphus
+  - felis_silvestris
+  - lucanus_cervus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en estanques turísticos; baja en parcelas protegidas de robles centenarios
+  en: Moderate around recreational ponds; low within strictly protected veteran oak parcels
+  fr: Moyenne autour des étangs touristiques ; faible dans les parcelles protégées de chênes centenaires
+  de: Mäßig an den Badeseen; gering in den streng geschützten Alt-Eichenparzellen
+  it: Media attorno agli stagni turistici; bassa nelle parcelle protette di querce secolari
+  pt: Média nas lagoas balneares; baixa nas parcelas protegidas de carvalhos centenários
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y rutas — ONF, bosque de Tronçais
+    url: https://www.onf.fr/onf/+/bf6::vivre-la-foret-de-troncais-lhistoire-de-la-sylviculture-grandeur-nature.html
+  - titulo: Ruta accesible — Senderos de Tronçais
+    url: https://www.onf.fr/onf/recherche/+/1f1::en-foret-de-troncais-des-sentiers-accessibles-tous.html
+resumen:
+  es: >-
+    El robledal sésil más afamado de Europa, plantado en época de Colbert y conservando árboles de más de 400
+    años.
+  en: >-
+    The most celebrated sessile oak forest in Europe, planted in the era of Colbert and preserving veteran
+    trees over 400 years old.
+  fr: >-
+    La chênaie sessiliflore la plus réputée d'Europe, plantée sous Colbert et conservant des arbres de plus de
+    400 ans.
+  de: >-
+    Der berühmteste Traubeneichen-Hochwald Europas, angelegt unter Colbert, mit Baumriesen von über 400 Jahren
+    Alter.
+  it: >-
+    La più celebre fustaia di rovere d'Europa, impiantata all'epoca di Colbert e custode di alberi con oltre
+    400 anni.
+  pt: >-
+    O mais conceituado carvalhal de carvalho-séssil da Europa, mandado plantar na época de Colbert e guardando
+    árvores com mais de 400 anos.
+unico:
+  es: >-
+    Un robledal de catedral, con robles de más de 40 metros, que debe su grandeza a dos siglos de ordenación
+    forestal.
+  en: >-
+    A cathedral oak forest, with trees soaring over 40 metres, owing its majesty to two centuries of
+    disciplined silvicultural management.
+  fr: >-
+    Une chênaie cathédrale aux fûts de plus de 40 mètres, qui doit sa majesté à deux siècles de sylviculture
+    rigoureuse.
+  de: >-
+    Ein kathedralenartiger Eichenwald mit über 40 Meter hohen Stämmen, dessen Erhabenheit zwei Jahrhunderten
+    planvoller Forstwirtschaft zu verdanken ist.
+  it: >-
+    Una cattedrale di querce con fusti che superano i 40 metri, tributaria della sua imponenza a due secoli di
+    rigorosa pianificazione forestale.
+  pt: >-
+    Um carvalhal catedralício com troncos de mais de 40 metros de altura, que deve a sua imponência a dois
+    séculos de ordenamento silvícola contínuo.
+observaciones:
+  es: >-
+    La reserva de la Futaie Colbert está cerrada al público; no entres. Los árboles muertos o frágiles se
+    dejan en libre evolución y el acceso se limita por el riesgo de caída de ramas.
+texto:
+  es:
+    intro: >-
+      En el siglo XVII, el bosque que hoy se considera una de las mayores y más bellas futaies de Europa
+      estaba casi arruinado. Se había talado sin pensar en el futuro y lo que quedaba eran landas con animales
+      pastando. Entonces apareció Colbert, y con su ordenanza de 1669 empezó una historia de siglos que ha
+      dado el Tronçais de hoy, en el corazón del bocage bourbonnais, en el Allier: un bosque de robles de más
+      de cuarenta metros, de los que algunos han pasado de los doscientos años.
+    landscape: >-
+      Tronçais no tiene grandes accidentes. La orientación general del macizo es noroeste, con pendientes
+      suaves salvo en el macizo de la Bouteille y en los vallecillos de los ríos, y se reparte en cuatro
+      partes: l'Armenanche al este, la Réserve en el centro, las Landes blanches al noroeste y la Bouteille al
+      suroeste. Entre sus paisajes están el valle de la Aumance, de laderas suaves, con el pueblo de Hérisson,
+      muchos puntos de agua y estanques, jóvenes futaies, linderos y viejos rodales. Dos ríos cruzan el
+      macizo, la Marmande y la Sologne, y hay cinco estanques; en el bosque hay cerca de un centenar de
+      fuentes, muchas con protección de mampostería.
+
+
+      La masa actual mezcla robles (81 %), haya (10 %) y pino silvestre (7 %). La razón del dominio del roble
+      es histórica: los forestales lo han favorecido durante siglos por su madera, y el roble sésil de grano
+      fino es muy apreciado para la tonelería, que exigió doscientos años de saber forestal. La haya, relegada
+      al segundo plano, recupera terreno donde las lluvias son abundantes, y en Nantigny los
+      hayedos-robledales dominan de forma natural.
+    wildlife: >-
+      Los árboles viejos son la clave. Allí viven 21 especies de murciélagos, escondidos de día, como el
+      [murciélago de Bechstein](/especie/myotis_bechsteinii/), el de Natterer y el orejudo marrón, y nueve
+      especies de aves ligadas a los árboles viejos, entre ellas el [pico negro](/especie/dryocopus_martius/),
+      la [cigüeña negra](/especie/ciconia_nigra/), el papamoscas cerrojillo y el mosquitero silbador. En
+      Nantigny se suman el pico mediano, el cano, el águila calzada y el azor. De los coleópteros, el [ciervo
+      volante](/especie/lucanus_cervus/), el gran capricornio y el rarísimo Bupreste du chêne son los más
+      famosos, y la Futaie Colbert tiene interés internacional por sus escarabajos saproxílicos.
+
+
+      En Nantigny hay también murciélagos como la barbastela, el cangrejo de patas blancas y el chabot en el
+      arroyo de la Bouteille, y una población local importante de [ciervo](/especie/cervus_elaphus/). Los
+      hongos son otra riqueza: se encontraron 375 especies de hongos lignícolas, 24 de ellas patrimoniales.
+      Entre las plantas, la osmunda real crece en las alisedas pantanosas.
+    visit: >-
+      El mejor paseo es el sendero Colbert II. Abierto en 2019 en la futaie Buffévent, recorre casi 900 metros
+      por un viejo robledal y tiene siete talleres pedagógicos sobre el suelo, el uso de los recursos y cómo
+      los forestales del siglo XIX reconstruyeron el bosque. Para paseos a caballo o en bici se puede bordear
+      el sitio por el camino transversal.
+
+
+      Para caminar con facilidad, el sendero accesible de Saint-Bonnet pasa junto al estanque, entre
+      carrizales, bosques y zonas abiertas, y tiene un «fil d'Ariane» de madera que guía a las personas con
+      discapacidad visual hasta un mirador, y una barandilla para quien va en silla de ruedas. También se
+      puede ver el Chêne Stebbing, un roble sésil clasificado entre los «árboles notables» del bosque. Y el
+      ONF recomienda la antigua presa del estanque de Saint-Bonnet-Tronçais para ver el vuelo de las aves.
+    history: >-
+      Colbert delimitó el bosque con mojones y los forestales evaluaron sus recursos, pero en el siglo XVIII
+      las forjas de Tronçais y el pastoreo deshicieron su trabajo. En 1832 Joseph Louis de Buffévent lanzó un
+      gran programa de repoblación con técnicas de corta más respetuosas, y es considerado el padre de la
+      ordenación moderna del bosque. Desde 1835 se gestiona como futaie regular de forma continua. En 2018
+      recibió la etiqueta Forêt d'Exception.
+
+
+      Dos reservas protegen los árboles más viejos. La Futaie Colbert procede de una antigua serie artística
+      creada en 1943 y se convirtió en reserva biológica integral en los años 2010 y permanece cerrada al
+      público por peligro de caída de ramas y árboles. La reserva integral de Nantigny, creada en 2004, la
+      completa: se detuvo toda gestión forestal en una centena de hectáreas para observar la naturaleza en
+      libre evolución, y no se ha intervenido desde 1994, salvo por seguridad de la carretera y las
+      propiedades vecinas. Todo el bosque forma parte de una ZNIEFF de tipo 1.
+    before: >-
+      La reserva de la Futaie Colbert está cerrada al público; no entres. Los árboles muertos o frágiles se
+      dejan en libre evolución y el acceso se limita por el riesgo de caída de ramas.
+    around: >-
+      Lejos de allí, el [bosque de Soignes](/lugar/foret-de-soignes---zonienwoud---zones/) y el [Parque
+      Nacional Cozia - Bosques seculares](/lugar/parcul-national-cozia---codrii-seculari/) comparten con
+      Tronçais el ciervo volante y la vida de los bosques maduros.
+  en:
+    intro: >-
+      In the seventeenth century, the forest hailed today as one of Europe's grandest and finest high oak
+      woodlands lay in utter ruin. Indiscriminate felling without regard for the future had reduced it to
+      degraded heaths grazed by livestock. Then entered Colbert: with his landmark forestry ordinance of 1669,
+      he launched a multi-century management programme that created the Tronçais of today, nestled in the
+      heart of the Bourbonnais bocage in the Allier: a magnificent forest of sessile oaks rising over forty
+      metres, with veterans exceeding two hundred years of age.
+    landscape: >-
+      Tronçais exhibits gentle topography without dramatic relief. The overall aspect of the massif slopes
+      northwestward with mild inclines, except around the Bouteille massif and along entrenched stream
+      gullies. The territory is divided into four sectors: l'Armenanche in the east, la Réserve in the centre,
+      the Landes blanches in the northwest, and la Bouteille in the southwest. Varied landscapes encompass the
+      gently rolling Aumance valley, the historic village of Hérisson, numerous streams and recreational
+      ponds, young high forest stands, edges, and venerable veteran groves. Two rivers traverse the massif,
+      the Marmande and the Sologne, accompanied by five ponds; across the woodland dwell nearly a hundred
+      springs, many protected by historical stone masonry.
+
+
+      The current timber composition comprises sessile oak (81%), European beech (10%), and Scots pine (7%).
+      Oak dominance is deliberate: foresters favoured it systematically over centuries for timber, and
+      fine-grained Tronçais sessile oak remains world-renowned for cooperage, a pedigree demanding two hundred
+      years of silvicultural expertise. Beech, kept secondary, reclaims ground in moister sectors, naturally
+      dominating mixed beech-oak stands around Nantigny.
+    wildlife: >-
+      Ancient cavity trees are the ecological cornerstone. They shelter 21 bat species, roosting by day,
+      including [Bechstein's bat](/especie/myotis_bechsteinii/), Natterer's bat, and the brown long-eared bat,
+      alongside nine specialist bird species tied to veteran timber, notably the [black
+      woodpecker](/especie/dryocopus_martius/), [black stork](/especie/ciconia_nigra/), European pied
+      flycatcher, and wood warbler. At Nantigny, middle spotted woodpeckers, grey-headed woodpeckers, booted
+      eagles, and northern goshawks join the community. Among coleopterans, the [stag
+      beetle](/especie/lucanus_cervus/), great capricorn beetle, and extraordinarily rare jewel beetle
+      Eurythyrea quercus stand out, endowing the Futaie Colbert with international importance for saproxylic
+      invertebrates.
+
+
+      Nantigny also protects barbastelle bats, white-clawed crayfish and European bullhead in the Bouteille
+      brook, alongside a substantial local population of [red deer](/especie/cervus_elaphus/). Mycological
+      wealth is extraordinary: 375 species of lignicolous wood-decay fungi have been identified, 24 of which
+      possess high heritage conservation status. Among flora, royal fern flourishes in boggy alder carrs.
+    visit: >-
+      The premier walking experience is the Colbert II trail. Inundated with character, opened in 2019 within
+      the Buffévent high forest, it winds for almost 900 metres through veteran oakwood with seven
+      interpretive stations explaining soils, resource history, and how nineteenth-century foresters restored
+      the forest. Cyclists and equestrians can skirt the site via designated transverse forest roadways.
+
+
+      For effortless access, the accessible Saint-Bonnet path borders the pond through reedbeds, open glades,
+      and woods, featuring a wooden tactile guide rope assisting visually impaired visitors toward a
+      viewpoint, alongside wheelchair-compliant guardrails. Visitors can also admire the Chêne Stebbing, a
+      monumental sessile oak designated among the forest's notable trees. Forestry rangers additionally
+      recommend the historic dam at Saint-Bonnet-Tronçais pond for observing bird flight.
+    history: >-
+      Colbert surveyed the bounds with boundary stones while foresters inventoried timber stock, though
+      eighteenth-century iron forges and peasant grazing undermined early gains. In 1832 Joseph Louis de
+      Buffévent instituted an ambitious regeneration programme employing sustainable shelterwood logging,
+      earning him recognition as the founding father of modern Tronçais forestry. Since 1835 it has been
+      managed continuously as regular high forest. In 2018 it was formally designated a Forêt d'Exception.
+
+
+      Two integral biological reserves protect the most ancient groves. The Futaie Colbert derives from a
+      historical artistic plot created in 1943, converted into an integral biological reserve in the 2010s; it
+      remains closed to the public due to falling timber hazards. The Nantigny integral reserve, established
+      in 2004, complements it: all silvicultural intervention ceased across one hundred hectares to monitor
+      natural succession, remaining untouched since 1994 save for roadside safety pruning. The entire forest
+      is designated as a Type 1 ZNIEFF inventory area.
+    before: >-
+      The Futaie Colbert reserve is closed to the public; do not enter. Dead and decaying trees evolve under
+      natural dynamics, and entry is restricted due to dangerous deadwood fall.
+    around: >-
+      Far away, the [Sonian Forest](/lugar/foret-de-soignes---zonienwoud---zones/) and [Cozia National Park -
+      Ancient Beeches](/lugar/parcul-national-cozia---codrii-seculari/) share the stag beetle and old-growth
+      forest dynamics with Tronçais.
+  fr:
+    intro: >-
+      Au XVIIe siècle, ce massif tenu aujourd'hui pour l'une des plus belles et plus vastes futaies d'Europe
+      était presque ruiné. Des coupes inconsidérées sans souci de l'avenir l'avaient mué en landes livrées au
+      pâturage. C'est alors qu'intervint Colbert : par son ordonnance de 1669 débuta une épopée séculaire qui
+      façonna le Tronçais actuel, au cœur du bocage bourbonnais, dans l'Allier : une forêt de chênes dressant
+      leurs fûts à plus de quarante mètres, dont certains ont franchi les deux cents ans.
+    landscape: >-
+      Tronçais ne présente pas de relief accidenté. L'orientation générale s'incline doucement vers le
+      nord-ouest, avec de faibles pentes hormis sur le massif de la Bouteille et les vallons encaissés. Le
+      domaine se répartit en quatre ensembles : l'Armenanche à l'est, la Réserve au centre, les Landes
+      blanches au nord-ouest et la Bouteille au sud-ouest. Le paysage s'enrichit de la vallée de l'Aumance, du
+      village de Hérisson, de jeunes futaies, de lisières et de vieux peuplements. Deux rivières drainent le
+      massif, la Marmande et la Sologne, assorties de cinq étangs ; la forêt abrite près d'une centaine de
+      fontaines maçonnées.
+
+
+      Le peuplement actuel associe chêne sessile (81 %), hêtre (10 %) et pin sylvestre (7 %). La prépondérance
+      du chêne est historique : les forestiers l'ont favorisé au fil des siècles pour son bois, ce chêne au
+      grain fin étant prisé pour la méranderie, fruit de deux cents ans de savoir sylvicole. Le hêtre reprend
+      l'avantage dans les stations fraîches, notamment vers Nantigny où la hêtraie-chênaie domine
+      naturellement.
+    wildlife: >-
+      Les vieux arbres constituent le pivot écologique du massif. Ils hébergent 21 espèces de chauves-souris
+      qui y gîtent le jour, dont le [murin de Bechstein](/especie/myotis_bechsteinii/), le murin de Natterer
+      et l'oreillard roux, ainsi que neuf espèces d'oiseaux cavicoles spécialisés, parmi lesquels le [pic
+      noir](/especie/dryocopus_martius/), la [cigogne noire](/especie/ciconia_nigra/), le gobe-mouche noir et
+      le pouillot siffleur. À Nantigny s'ajoutent pic mar, pic cendré, aigle botté et autour des palombes.
+      Chez les coléoptères, le [lucane cerf-volant](/especie/lucanus_cervus/), le grand capricorne et le
+      rarissime bupreste du chêne confèrent à la Futaie Colbert une renommée internationale pour les insectes
+      saproxyliques.
+
+
+      Le secteur de Nantigny abrite aussi la barbastelle, l'écrevisse à pattes blanches et le chabot dans le
+      ruisseau de la Bouteille, ainsi qu'une belleHard de [cerfs élaphes](/especie/cervus_elaphus/). Les
+      champignons forment un autre patrimoine : on a recensé 375 espèces de champignons lignicoles, dont 24
+      patrimoniales. Côté flore, l'osmonde royale s'épanouit dans les aulnaies tourbeuses.
+    visit: >-
+      La promenade reine emprunte le sentier Colbert II. Aménagé en 2019 au sein de la futaie Buffévent, il
+      sillonne près de 900 mètres de vieille chênaie et propose sept ateliers didactiques sur le sol,
+      l'exploitation des ressources et la restauration du massif par les forestiers du XIXe siècle. Les
+      cavaliers et cyclistes contournent le secteur par les laies transversales.
+
+
+      Pour une découverte accessible, le parcours adapté de Saint-Bonnet longe l'étang entre roselières,
+      boisements et ouvertures, doté d'un fil d'Ariane en bois guidant les personnes malvoyantes vers un
+      belvédère et de garde-corps pour fauteuils roulants. On peut y admirer le Chêne Stebbing, spécimen
+      remarquable classé. L'ONF recommande par ailleurs la digue de l'étang de Saint-Bonnet-Tronçais pour
+      observer le vol des oiseaux.
+    history: >-
+      Colbert borna la forêt et inventoria ses ressources, mais au XVIIIe siècle les forges de Tronçais et le
+      surpâturage entravèrent ce renouveau. En 1832, Joseph Louis de Buffévent engagea un vaste plan de
+      régénération par coupes progressives, s'imposant comme le père de la sylviculture moderne de Tronçais.
+      Depuis 1835, la gestion en futaie régulière s'est poursuivie sans rupture. En 2018, le massif a reçu le
+      label Forêt d'Exception.
+
+
+      Deux réserves préservent les plus vieux peuplements. La Futaie Colbert est issue d'une ancienne série
+      artistique de 1943 devenue réserve biologique intégrale dans les années 2010 ; elle est fermée au public
+      en raison des chutes de branches. La réserve intégrale de Nantigny, créée en 2004, la complète : toute
+      sylviculture y a cessé sur une centaine d'hectares pour observer la libre évolution, sans intervention
+      depuis 1994 hors sécurisation de voirie. L'ensemble s'inscrit dans une ZNIEFF de type 1.
+    before: >-
+      La réserve de la Futaie Colbert est interdite au public ; n'y pénétrez pas. Les bois sénescents évoluent
+      en libre dynamique et l'accès est proscrit pour prévenir les risques de chutes de bois mort.
+    around: >-
+      Plus au nord, la [forêt de Soignes](/lugar/foret-de-soignes---zonienwoud---zones/) et le [parc national
+      Cozia - Forêts séculaires](/lugar/parcul-national-cozia---codrii-seculari/) partagent avec Tronçais le
+      lucane cerf-volant et la richesse des forêts anciennes.
+  de:
+    intro: >-
+      Im siebzehnten Jahrhundert lag der Wald, der heute als einer der prachtvollsten Hochwälder Europas gilt,
+      beinahe am Boden. Raubbau ohne Weitblick hatte ihn in weidewirtschaftlich genutztes Ödland verwandelt.
+      Da trat Colbert auf den Plan: Mit seiner berühmten Forstordnung von 1669 begann eine jahrhundertelange
+      Waldgeschichte, die den heutigen Tronçais im Herzen der Bourbonnais-Heckenlandschaft im Département
+      Allier schuf: ein Hochwald aus Traubeneichen von über vierzig Metern Höhe, von denen manche über
+      zweihundert Jahre alt sind.
+    landscape: >-
+      Tronçais weist keine schroffen Geländeformen auf. Das Massiv neigt sich sanft nach Nordwesten, abgesehen
+      vom Hügelzug der Bouteille und kleineren Bachtälern. Es gliedert sich in vier Teile: l'Armenanche im
+      Osten, la Réserve im Zentrum, die Landes blanches im Nordwesten und la Bouteille im Südwesten. Zur
+      Landschaft gehören das sanfte Aumance-Tal mit dem Dorf Hérisson, Weiher, Jungbestände, Waldränder und
+      Altholzinseln. Zwei Flüsse, Marmande und Sologne, durchziehen das Areal, begleitet von fünf Teichen; im
+      Wald entspringen an die hundert Quellen, viele mit historischem Mauerwerk gefasst.
+
+
+      Der heutige Baumbestand setzt sich aus Eiche (81 %), Buche (10 %) und Waldkiefer (7 %) zusammen. Die
+      Eichendominanz ist menschengemacht: Förster begünstigten sie über Jahrhunderte, da das feinporige
+      Eichenholz weltweiten Ruf für den Fassbau genießt – ein Ergebnis zweihundertjähriger waldbaulicher
+      Tradition. Die Buche gewinnt auf feuchteren Standorten Raum, etwa bei Nantigny, wo natürliche
+      Buchen-Eichen-Mischwälder vorherrschen.
+    wildlife: >-
+      Altholzinseln bilden das ökologische Fundament. Hier leben 21 Fledermausarten, die tagsüber Baumhöhlen
+      aufsuchen, darunter die [Bechsteinfledermaus](/especie/myotis_bechsteinii/), die Fransenfledermaus und
+      das Braune Langohr, sowie neun an Altbäume gebundene Vogelarten wie
+      [Schwarzspecht](/especie/dryocopus_martius/), [Schwarzstorch](/especie/ciconia_nigra/), Trauerschnäpper
+      und Waldlaubsänger. Bei Nantigny treten Mittelspecht, Grauspecht, Zwergadler und Habicht hinzu. Unter
+      den Käfern sind [Hirschkäfer](/especie/lucanus_cervus/), Großer Eichenbock und der seltene
+      Eichenprachtkäfer hervorzuheben; die Futaie Colbert besitzt weltweite Bedeutung für Totholzkäfer.
+
+
+      Nantigny schützt zudem Mopsfledermaus, Steinkrebs und Groppe im Bach la Bouteille sowie ein beachtliches
+      Vorkommen des [Rothirsches](/especie/cervus_elaphus/). Die Pilzwelt ist herausragend: 375 holzbewohnende
+      Pilzarten wurden nachgewiesen, davon 24 von hohem naturschutzfachlichem Wert. Unter den Pflanzen gedeiht
+      der Königsfarn in moorigen Erlenbrüchen.
+    visit: >-
+      Der lohnendste Rundgang ist der Lehrpfad Colbert II. Er wurde 2019 im Hochwald Buffévent angelegt, führt
+      über fast 900 Meter durch uralten Eichenwald und vermittelt an sieben Stationen Wissenswertes über
+      Böden, Holznutzung und die Waldregeneration durch Förster des neunzehnten Jahrhunderts. Reiter und
+      Radfahrer umrunden das Areal auf den transversalen Forststraßen.
+
+
+      Einen barrierefreien Zugang bietet der Weg bei Saint-Bonnet: Er führt am Seeufer entlang durch Schilf
+      und Wald, ausgestattet mit einem hölzernen Tastseil für Sehbehinderte zu einem Aussichtspunkt sowie
+      Rampen für Rollstühle. Unterwegs begegnet dir die Stebbing-Eiche, eine als bemerkenswerter Baum
+      eingestufte Traubeneiche. Die Forstverwaltung empfiehlt zudem den historischen Teichdamm von
+      Saint-Bonnet-Tronçais zur Vogelbeobachtung.
+    history: >-
+      Colbert ließ den Wald vermessen und Grenzsteine setzen, doch im achtzehnten Jahrhundert führten die
+      Eisenhütten von Tronçais und Waldweide zu erneuter Übernutzung. Im Jahr 1832 leitete Joseph Louis de
+      Buffévent eine geregelte Verjüngung durch Schirmschlagverfahren ein und gilt als Vater des modernen
+      Forstes. Seit 1835 wird Tronçais kontinuierlich als schlagweiser Hochwald bewirtschaftet. Im Jahr 2018
+      erhielt er das Qualitätslabel Forêt d'Exception.
+
+
+      Zwei Totalreservate schützen die ältesten Bäume. Die Futaie Colbert geht auf eine historische
+      Kunstreserve von 1943 zurück, wurde in den 2010er Jahren zum Totalreservat erklärt und ist wegen
+      Totholzgefahr für Besucher gesperrt. Das 2004 eingerichtete Totalreservat Nantigny ergänzt sie: Auf etwa
+      hundert Hektar ruht jede forstliche Nutzung, seit 1994 unberührt bis auf Verkehrssicherung. Das gesamte
+      Massiv ist als ZNIEFF-Typ 1 erfasst.
+    before: >-
+      Das Totalreservat Futaie Colbert ist für die Öffentlichkeit gesperrt; betrete es nicht. Totholz
+      entwickelt sich ungestört, weshalb wegen herabstürzender Äste striktes Betretungsverbot gilt.
+    around: >-
+      Weiter entfernt teilen der [Sonienwald](/lugar/foret-de-soignes---zonienwoud---zones/) und der
+      [Nationalpark Cozia - Urwälder](/lugar/parcul-national-cozia---codrii-seculari/) Hirschkäfer und
+      Urwalddynamik mit Tronçais.
+  it:
+    intro: >-
+      Nel Seicento, la foresta celebrata oggi come una delle più ampie e mirabili fustaie d'Europa versava in
+      rovina. Tagli sconsiderati l'avevano ridotta a lande degradate solcate dal pascolo brado. Fu allora che
+      intervenne Colbert: con l'ordinanza del 1669 inaugurò una gestione secolare da cui è scaturita la
+      Tronçais contemporanea, nel cuore del bocage del Bourbonnais nell'Allier: una compagine di roveri
+      protese oltre i quaranta metri d'altezza, con esemplari che superano i duecento anni.
+    landscape: >-
+      Tronçais presenta un andamento orografico dolce. L'inclinazione generale digrada verso nord-ovest con
+      deboli pendenze, eccetto attorno al rilievo della Bouteille e nei valloncelli fluviali. Il demanio si
+      suddivide in quattro settori: l'Armenanche a est, la Réserve al centro, le Landes blanches a nord-ovest
+      e la Bouteille a sud-ovest. Il mosaico paesaggistico unisce la valle dell'Aumance, il borgo di Hérisson,
+      giovani fustaie, margini e parcelle vetuste. Due fiumi solcano la foresta, la Marmande e la Sologne,
+      affiancati da cinque stagni; si contano inoltre quasi un centinaio di sorgenti protette da manufatti in
+      pietra.
+
+
+      Il soprassuolo attuale raggruppa rovere (81%), faggio (10%) e pino silvestre (7%). Il predominio della
+      quercia è frutto di una precisa scelta storica: i forestali l'hanno privilegiata nei secoli per la
+      pregevolezza del legname a grana fine ricercato per la bottaia, frutto di duecento anni di disciplina
+      silvana. Il faggio si riserva le stazioni più fresche, dominando naturalmente nei consorzi misti di
+      Nantigny.
+    wildlife: >-
+      Gli alberi vetusti costituiscono il fulcro ecologico dell'ecosistema. Vi trovano rifugio diurno 21
+      specie di pipistrelli, fra cui il [vespertilio di Bechstein](/especie/myotis_bechsteinii/), il
+      vespertilio di Natterer e il serotino bruno, e nove specie ornitiche legate alle cavità del legno
+      maturo, in primis il [picchio nero](/especie/dryocopus_martius/), la [cicogna
+      nera](/especie/ciconia_nigra/), la balia nera e il luì verde. A Nantigny si associano picchio rosso
+      mezzano, picchio cenerino, aquila minore e astore. Fra i coleotteri risaltano il [cervo
+      volante](/especie/lucanus_cervus/), il cerambice delle querce e il rarissimo bupreste della quercia,
+      conferendo alla Futaie Colbert rilievo mondiale per l'entomofauna saproxilica.
+
+
+      A Nantigny compaiono inoltre la barbastella, il gambero di fiume europeo e lo scazzone nel torrente
+      Bouteille, oltre a un significativo nucleo di [cervo nobile](/especie/cervus_elaphus/). I funghi
+      rappresentano un'altra ricchezza: sono state censite 375 specie di macromiceti lignicoli, di cui 24 di
+      elevato valore conservazionistico. Tra le piante, la felce regale cresce rigogliosa negli ontaneti
+      palustri.
+    visit: >-
+      Il percorso più rappresentativo è il sentiero Colbert II. Inaugurato nel 2019 nella fustaia Buffévent,
+      si snoda per quasi 900 metri nel querceto maturo con sette stazioni didattiche dedicate a suolo, cicli
+      del legno e rinascita silvana promossa dai forestali dell'Ottocento. Cavalieri e cicloturisti possono
+      costeggiare il comparto tramite le piste forestali trasversali.
+
+
+      Per un itinerario privo di barriere, il tracciato attrezzato di Saint-Bonnet costeggia lo specchio
+      d'acqua tra canneti e radure, munito di un corrimano tattile in legno che conduce i non vedenti a una
+      terrazza panoramica e di parapetti per sedie a rotelle. Si può ammirare il Chêne Stebbing, rovere
+      monumentale classificata tra gli alberi notevoli. L'ONF consiglia inoltre la storica diga dello stagno
+      di Saint-Bonnet-Tronçais per osservare il volo degli uccelli.
+    history: >-
+      Colbert delimitò la foresta con cippi di confine e ne censì la biomassa, ma nel Settecento le ferriere
+      di Tronçais e il pascolo indiscriminato ne compromisero i frutti. Nel 1832 Joseph Louis de Buffévent
+      avviò un piano sistematico di rigenerazione con tagli successivi, venendo ricordato come il padre della
+      moderna gestione di Tronçais. Dal 1835 la foresta è governata ininterrottamente a fustaia coetanea. Nel
+      2018 ha conseguito il prestigioso marchio Forêt d'Exception.
+
+
+      Due riserve tutelano i nuclei più antichi. La Futaie Colbert deriva da una storica riserva artistica del
+      1943, trasformata in riserva biologica integrale negli anni 2010 e chiusa al transito per caduta rami.
+      La riserva integrale di Nantigny, istituita nel 2004, la affianca: ogni intervento è cessato su circa
+      cento ettari per osservare la dinamica naturale, senza alterazioni dal 1994 salvo la messa in sicurezza
+      dei margini stradali. L'intero massiccio è classificato ZNIEFF di tipo 1.
+    before: >-
+      La riserva integrale della Futaie Colbert è interdetta al pubblico; non accedervi. Gli alberi deperienti
+      evolvono liberamente e il divieto di transito tutela dai crolli di legname morto.
+    around: >-
+      A distanza ragguardevole, la [foresta di Soignes](/lugar/foret-de-soignes---zonienwoud---zones/) e il
+      [Parco nazionale di Cozia - Faggete secolari](/lugar/parcul-national-cozia---codrii-seculari/)
+      condividono con Tronçais cervo volante e dinamiche delle foreste vetuste.
+  pt:
+    intro: >-
+      No século XVII, a floresta considerada hoje um dos mais nobres altos-favais e carvalhais da Europa
+      encontrava-se à beira da ruína. Abates indiscriminados sem critério de futuro haviam-na transformado em
+      charnecas degradadas pastoreadas por gado. Foi então que surgiu Colbert: com a sua célebre portaria de
+      1669 deu início a uma epopeia de séculos que ergueu o Tronçais de hoje, no coração do bocage de
+      Bourbonnais no Allier: um carvalhal denso erguendo-se a mais de quarenta metros, onde alguns exemplares
+      ultrapassam os duzentos anos.
+    landscape: >-
+      Tronçais não possui acidentes orográficos abruptos. A inclinação geral descai em pendente suave para
+      noroeste, à exceção da elevação da Bouteille e dos vales dos ribeiros. A mata reparte-se em quatro
+      setores: l'Armenanche a leste, la Réserve no centro, as Landes blanches a noroeste e la Bouteille a
+      sudoeste. O cenário compõe-se do vale da Aumance, da aldeia de Hérisson, de jovens fustes, orlas e
+      parcelas vetustas. Dois rios cruzam a mancha, o Marmande e o Sologne, complementados por cinco lagoas;
+      no interior da floresta contam-se perto de uma centena de nascentes muradas.
+
+
+      A composição arbórea atual conjuga carvalho-séssil (81%), faia (10%) e pinheiro-silvestre (7%). O
+      predomínio do carvalho reflete opções históricas: os silvicultores privilegiaram-no continuadamente pelo
+      valor da sua madeira de veio fino para tanoaria, fruto de duzentos anos de ciência florestal. A faia
+      recupera terreno nas encostas húmidas, assumindo em Nantigny o domínio natural nos carvalhais-favais.
+    wildlife: >-
+      As árvores senescentes assumem papel biológico determinante. Nelas habitam 21 espécies de morcegos
+      abrigados durante o dia, como o [morcego-de-Bechstein](/especie/myotis_bechsteinii/), o
+      morcego-de-franja e o morcego-orelhudo-castanho, a par de nove espécies de aves florestais dependentes
+      de madeira madura, destacando-se o [pica-pau-preto](/especie/dryocopus_martius/), a
+      [cegonha-preta](/especie/ciconia_nigra/), o papa-moscas-preto e a felosa-assobiadeira. Em Nantigny
+      somam-se pica-pau-médio, pica-pau-cinzento, águia-calçada e açor. Nos escaravelhos, a presença do
+      [vaca-loura](/especie/lucanus_cervus/), do grande-capricórnio e do raríssimo bupreste-do-carvalho
+      atribui à Futaie Colbert notoriedade mundial na conservação saproxílica.
+
+
+      Nantigny conserva também a barbastela, o lagostim-de-patas-brancas e o escorpião-de-água no ribeiro da
+      Bouteille, juntamente com uma manada expressiva de [veados](/especie/cervus_elaphus/). Os cogumelos
+      formam outro tesouro: inventariaram-se 375 espécies de fungos lignícolas, 24 das quais de elevado valor
+      patrimonial. Na flora, o feto-real viceja nos amiais pantanosos.
+    visit: >-
+      O percurso mais emblemático é o trilho Colbert II. Aberto em 2019 na parcela Buffévent, percorre cerca
+      de 900 metros de carvalhal antigo e dispõe de sete painéis pedagógicos dedicados ao solo, ao ciclo da
+      madeira e à regeneração pelos silvicultores do século XIX. Cavaleiros e ciclistas contornam o perímetro
+      através dos caminhos florestais transversais.
+
+
+      Para caminhadas acessíveis, o trilho adaptado de Saint-Bonnet bordeja a lagoa entre caniçais e bosques,
+      apresentando um corrimão táctil em madeira que encaminha pessoas com deficiência visual a um miradouro e
+      resguardos para cadeiras de rodas. Vale a pena contemplar o Chêne Stebbing, exemplar notável
+      classificado. O ONF sugere igualmente o antigo paredão da albufeira de Saint-Bonnet-Tronçais para
+      avistar o voo das aves.
+    history: >-
+      Colbert demarcou a floresta com marcos de pedra e calculou o arvoredo, mas no século XVIII a indústria
+      de forjas de Tronçais e o pastoreio desordenado delapidaram a herança. Em 1832 Joseph Louis de Buffévent
+      instaurou um modelo de regeneração por talhadia composta e cortes suaves, sendo lembrado como o pai da
+      gestão moderna de Tronçais. Desde 1835 a mata tem sido gerida continuamente como alto-fuste regular. Em
+      2018 foi galardoada com a distinção Forêt d'Exception.
+
+
+      Duas reservas salvaguardam as parcelas mais veneráveis. A Futaie Colbert provém de uma reserva artística
+      de 1943 tornada reserva biológica integral nos anos 2010, fechada ao público por risco de queda de
+      ramos. A reserva integral de Nantigny, estabelecida em 2004, complementa-a: qualquer abate silvícola
+      cessou numa centena de hectares para acompanhar a dinâmica espontânea, intocada desde 1994 exceto por
+      segurança das estradas. O maciço integra uma área ZNIEFF de tipo 1.
+    before: >-
+      A reserva integral da Futaie Colbert está vedada ao público; não entres. A madeira morta evolui em
+      dinâmica livre e o acesso é interdito para prevenir acidentes com ramos secos.
+    around: >-
+      Mais a norte, o [bosque de Soignes](/lugar/foret-de-soignes---zonienwoud---zones/) e o [Parque Nacional
+      de Cozia - Florestas seculares](/lugar/parcul-national-cozia---codrii-seculari/) partilham com Tronçais
+      a vaca-loura e a vida das florestas maduras.
+fuentes:
+  - url: https://www.onf.fr/vivre-la-foret/forets-de-france/%2B/2445%3A%3Ala-reserve-biologique-dirigee-de-la-futaie-colbert.html
+    titulo: Réserve biologique dirigée de la Futaie Colbert | ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/aux-cotes-des-territoires/%2B/bf6%3A%3Avivre-la-foret-de-troncais-lhistoire-de-la-sylviculture-grandeur-nature.html
+    titulo: En forêt de Tronçais, l’histoire de la sylviculture grandeur nature | ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/vivre-la-foret/%2B/1e59%3A%3Areserve-biologique-integrale-de-nantigny.html?lang=fr
+    titulo: Réserve biologique intégrale de Nantigny | ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/onf/%2B/bf6%3A%3Avivre-la-foret-de-troncais-lhistoire-de-la-sylviculture-grandeur-nature.html
+    titulo: En forêt de Tronçais, l’histoire de la sylviculture grandeur nature | ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/onf/+/bf6::vivre-la-foret-de-troncais-lhistoire-de-la-sylviculture-grandeur-nature.html
+    titulo: Vivre la forêt de Tronçais - ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/vivre-la-foret/forets-de-france/+/2445::la-reserve-biologique-dirigee-de-la-futaie-colbert.html
+    titulo: La réserve biologique de la Futaie Colbert - ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/vivre-la-foret/+/1e59::reserve-biologique-integrale-de-nantigny.html?lang=fr
+    titulo: Réserve biologique intégrale de Nantigny - ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/onf/recherche/+/1f1::en-foret-de-troncais-des-sentiers-accessibles-tous.html
+    titulo: En forêt de Tronçais, des sentiers accessibles à tous - ONF
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/For%C3%AAt_de_Tron%C3%A7ais
+    titulo: Forêt de Tronçais - Wikipédia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:For%C3%AAt_de_Tron%C3%A7ais_Etang_de_PIROT.jpg
+    autor: Gérard JOYON
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-03'

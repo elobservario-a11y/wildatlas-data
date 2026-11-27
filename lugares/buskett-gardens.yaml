@@ -1,0 +1,479 @@
+id: buskett-gardens
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Buskett y Acantilados de Dingli
+  en: Buskett Gardens and Dingli Cliffs
+  fr: Bois de Buskett et falaises de Dingli
+  de: Buskett-Gärten und Dingli-Klippen
+  it: Boschi di Buskett e Scogliere di Dingli
+  pt: Bosques de Buskett e Arribas de Dingli
+nombre_original: Buskett Gardens
+alias:
+  - Buskett Gardens & Dingli Cliffs
+paises:
+  - MT
+region:
+  es: República de Malta (Dingli / Siġġiewi / Rabat)
+  en: Republic of Malta (Dingli / Siġġiewi / Rabat)
+  fr: République de Malte (Dingli / Siġġiewi / Rabat)
+  de: Republik Malta (Dingli / Siġġiewi / Rabat)
+  it: Repubblica di Malta (Dingli / Siġġiewi / Rabat)
+  pt: República de Malta (Dingli / Siġġiewi / Rabat)
+ubicacion:
+  tipo: punto
+  lat: 35.85
+  lon: 14.4
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 11706
+  nombre_en_la_fuente: Il-Buskett
+  categoria_uicn: IV
+  capa: capas/cdda/buskett-gardens.geojson
+habitats:
+  - mature_forest
+  - coast
+  - karst
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - pernis_apivorus
+  - falco_tinnunculus
+temporada_ideal:
+  - 3
+  - 4
+  - 5
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y migración de otoño
+  en: spring and autumn migration
+  fr: printemps et migration d’automne
+  de: Frühling und Herbstzug
+  it: primavera e migrazione autunnale
+  pt: primavera e migração de outono
+masificacion: 2
+masificacion_nota:
+  es: Media en los acantilados de Dingli al atardecer
+  en: Moderate at Dingli Cliffs around sunset
+  fr: Moyenne sur les falaises de Dingli au coucher du soleil
+  de: Mäßig an den Dingli-Klippen zum Sonnenuntergang
+  it: Media sulle scogliere di Dingli al tramonto
+  pt: Média nas arribas de Dingli ao pôr do sol
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Ambjent Malta
+    url: https://ambjentmalta.gov.mt/
+  - titulo: Ruta y centro educativo — Recorrido de Buskett
+    url: https://ambjentmalta.gov.mt/buskett-medium-walking-path/
+  - titulo: Centro educativo — Contactos de Ambjent Malta y Buskett
+    url: https://ambjentmalta.gov.mt/contact/
+enlaces_referencia:
+  - titulo: Wikipedia — Jardines de Buskett
+    url: https://en.wikipedia.org/wiki/Buskett_Gardens
+resumen:
+  es: >-
+    El único bosque arbolado real de la isla de Malta (plantado históricamente por los Caballeros de San Juan)
+    vecino de las paredes de 250 m de los acantilados de Dingli.
+  en: >-
+    The only authentic woodland on the island of Malta (historically planted by the Knights of St John),
+    neighbouring the 250 m sheer drop of Dingli Cliffs.
+  fr: >-
+    Le seul véritable boisement de l’île de Malte (planté historiquement par les chevaliers de Saint-Jean),
+    voisin du tombant de 250 m des falaises de Dingli.
+  de: >-
+    Das einzige echte Waldgebiet der Insel Malta (historisch von den Johanniterrittern gepflanzt) neben den
+    250 m hohen Steilwänden der Dingli-Klippen.
+  it: >-
+    L’unico vero bosco alberato dell’isola di Malta (piantato storicamente dai Cavalieri di San Giovanni) a
+    ridosso dei 250 m a strapiombo delle scogliere di Dingli.
+  pt: >-
+    O único bosque arbóreo autêntico da ilha de Malta (plantado historicamente pelos Cavaleiros de São João),
+    vizinho da queda a pique de 250 m das arribas de Dingli.
+unico:
+  es: >-
+    Un bosque plantado por los caballeros que es hoy el único bosque seminatural de Malta y un gran lugar para
+    ver rapaces en migración.
+  en: >-
+    A woodland planted by the Knights that stands today as Malta’s only semi-natural forest and a premier
+    bottleneck for migrating raptors.
+  fr: >-
+    Un bois planté par les chevaliers qui constitue aujourd’hui l’unique forêt semi-naturelle de Malte et un
+    couloir majeur pour les rapaces migrateurs.
+  de: >-
+    Ein von den Rittern begründetes Gehölz, das heute Maltas einziger naturnaher Wald und ein zentraler
+    Rastplatz für Zugvögel ist.
+  it: >-
+    Un bosco impiantato dai cavalieri che rappresenta l’unica foresta seminaturale di Malta e una sosta
+    cruciale per i rapaci migratori.
+  pt: >-
+    Uma mata plantada pelos cavaleiros que constitui a única floresta seminatural de Malta e um ponto de
+    paragem de topo para rapinas em migração.
+observaciones:
+  es: >-
+    Buskett es un lugar de paseo corto y de afluencia media en los acantilados de Dingli al atardecer. El
+    palacio de Verdala no es visitable salvo ocasiones especiales.
+texto:
+  es:
+    intro: >-
+      En una isla donde los bosques se talaron para hacer barcos y ganar campos, Buskett es la excepción: una
+      mancha de árboles en el valle de Wied il-Luq, en Siġġiewi, que ocupa unas 30 ha entre el pueblo y los
+      acantilados de Dingli. Es el único bosque seminatural de Malta, y justo por eso funciona como refugio y
+      zona de alimentación para las aves que cruzan el archipiélago en sus migraciones.
+    landscape: >-
+      Los bosques autóctonos que cubrían Malta se talaron para construir barcos y para la agricultura, y los
+      Caballeros Hospitalarios plantaron Buskett como coto de caza. De ese origen salió un paisaje mezclado:
+      bosque caducifolio de hoja ancha, coníferas autóctonas, garriga y maquia esclerófilas y huertos de
+      frutales. Entre los árboles hay encinas, pinos carrascos, olivos, chopos blancos y carrizos, y el
+      recorrido pasa por uno de los cuatro fragmentos relictos de encinar silvestre nativo que quedan en
+      Malta.
+
+
+      Y alrededor, el contraste: el bosque linda con los acantilados de Dingli, el punto más alto de Malta, a
+      unos 250 m sobre el mar. En el estanque artificial vive la rana pintada, el único anfibio autóctono de
+      Malta. Es de los lugares más verdes de la isla: luce más en primavera, da sombra en verano y sirve para
+      pasear en invierno.
+    wildlife: >-
+      Aquí el calendario lo marcan las aves. En otoño, durante la migración, se ven con regularidad [abejeros
+      europeos](/especie/pernis_apivorus/) y [aguiluchos laguneros](/especie/circus_aeruginosus/), que suelen
+      dormir en bandadas. Con menos frecuencia pasan por Buskett el [aguilucho
+      cenizo](/especie/circus_pygargus/), el [cernícalo patirrojo](/especie/falco_vespertinus/) y el culebrero
+      europeo.
+
+
+      En primavera cambia el plantel. Pueden verse [cernícalos vulgares](/especie/falco_tinnunculus/),
+      alcotanes, tórtolas europeas, cucos, abubillas y abejarucos, y en el bosque crían el gorrión moruno, el
+      buitrón, el papamoscas gris, el ruiseñor bastardo y la curruca cabecinegra. Junto al estanque, los
+      barqueros, las libélulas y los caballitos del diablo tienen sus adultos en los meses cálidos y sus
+      larvas acuáticas todo el año. Entre las flores, las orquídeas pardas y el alkanet azul grande.
+
+
+      Los meses más recomendados para ir son marzo, abril, mayo, septiembre y octubre, es decir, la primavera
+      y la migración de otoño.
+    visit: >-
+      El sendero circular medio de Buskett recorre aproximadamente un kilómetro y medio y lleva unos cuarenta
+      minutos. Es un paseo corto, pensado para mirar. El centro educativo de Buskett ofrece información y
+      actividades ambientales, como plantar semillas, y BirdLife Malta organiza visitas de campo al lugar.
+      Buskett está abierto a visitantes a cualquier hora y dispone de aparcamiento en el lugar.
+    history: >-
+      Buskett forma parte de la red Natura 2000 como zona especial de conservación, y BirdLife Malta lo define
+      como Área Importante para las Aves. El lugar guarda además capas de historia. Junto al bosque se pueden
+      visitar catacumbas púnicas y rodadas de carros de la Edad del Bronce, y en junio de 1557 el gran maestre
+      Claude de la Sengle se retiró aquí cuando su salud empeoró. El palacio de Verdala, residencia oficial
+      del presidente de Malta, se alza en el borde de los jardines.
+
+
+      Cada 29 de junio los jardines acogen la fiesta de Imnarja, con música tradicional y feria agrícola.
+    before: >-
+      Buskett es un lugar de paseo corto y de afluencia media en los acantilados de Dingli al atardecer. El
+      palacio de Verdala no es visitable salvo ocasiones especiales.
+    around: >-
+      A veintisiete kilómetros, en la isla de Gozo, está [Bahía de Dwejra y Mar Interior (Isla de
+      Gozo)](/lugar/dwejra/), el otro gran paraje natural del atlas en Malta.
+  en:
+    intro: >-
+      On an arid island where prehistoric forests were cleared for timber, shipbuilding, and agriculture,
+      Buskett is the green exception: a dense belt of trees nestled in the fertile valley of Wied il-Luq in
+      Siġġiewi, covering roughly 30 ha between the inland plateau and Dingli Cliffs. It constitutes Malta’s
+      only semi-natural woodland, functioning as a vital oasis and feeding staging post for migrating birds
+      crossing the central Mediterranean.
+    landscape: >-
+      The ancient indigenous forests that once blanketed Malta were stripped over millennia, prompting the
+      Knights Hospitaller to plant Buskett as an aristocratic hunting reserve. That history produced an
+      eclectic arboreal mosaic: native broadleaf woodlands, Aleppo pines, Mediterranean maquis and garrigue,
+      and citrus orchards. Holm oaks, stone pines, olive trees, white poplars, and giant reeds shade the
+      valley, including one of the four surviving relic fragments of native holm oak climax forest on Malta.
+
+
+      The immediate surroundings offer a stark topographic contrast: the shaded valley borders Dingli Cliffs,
+      the highest elevation on Malta, plunging some 250 m down into the open sea. In an artificial valley pool
+      lives the painted frog, Malta’s sole indigenous amphibian. Buskett is among the greenest retreats on the
+      island, flourishing in spring, providing cool shade in summer, and offering peaceful walking in winter.
+    wildlife: >-
+      The ecological rhythm is dictated by avian migrations. In autumn, birders regularly observe passage
+      [European honey-buzzards](/especie/pernis_apivorus/) and [western marsh
+      harriers](/especie/circus_aeruginosus/), which assemble into communal evening roosts in the woodland
+      canopy. In lesser numbers pass [Montagu’s harriers](/especie/circus_pygargus/), [red-footed
+      falcons](/especie/falco_vespertinus/), and short-toed snake-eagles.
+
+
+      Spring brings an influx of [common kestrels](/especie/falco_tinnunculus/), Eurasian hobbies, European
+      turtle-doves, common cuckoos, Eurasian hoopoes, and European bee-eaters. Resident breeders include
+      Spanish sparrows, zitting cisticolas, spotted flycatchers, Cetti’s warblers, and Sardinian warblers.
+      Along the freshwater pond, dragonflies, damselflies, and water boatmen thrive during warm months.
+      Woodland flora features brown bee-orchids and large blue alkanet.
+
+
+      The most rewarding months to visit are March, April, May, September, and October, spanning the spring
+      and autumn migratory windows.
+    visit: >-
+      The standard circular trail through Buskett covers approximately one and a half kilometres and takes
+      about forty minutes. It is a leisurely stroll designed for birdwatching and botany. The Buskett
+      educational centre provides interpretive information and conservation activities, while BirdLife Malta
+      organises guided field excursions. The gardens are freely accessible year-round and offer on-site
+      parking.
+
+
+      From the woodland floor, paths ascend directly onto Dingli Cliffs to take in sunset views across the
+      open sea and the uninhabited islet of Filfla.
+    history: >-
+      Buskett is protected as a Special Area of Conservation within the European Natura 2000 network and is
+      recognized by BirdLife Malta as an Important Bird Area. Antiquities punctuate the grounds: Punic burial
+      chambers and enigmatic Bronze Age cart ruts scar the limestone pavements. In June 1557, Grand Master
+      Claude de la Sengle retired here during ill health, while Verdala Palace, the official country residence
+      of the President of Malta, presides over the upper edge of the gardens.
+
+
+      Every 29 June, the grounds host the traditional agrarian feast of Imnarja, featuring folk music and
+      harvest shows.
+    before: >-
+      Buskett is ideal for a gentle stroll, with moderate evening crowds gathering at Dingli Cliffs to watch
+      the sunset. Verdala Palace is closed to the public except on designated ceremonial days.
+    around: >-
+      Twenty-seven kilometres away on the island of Gozo lies [Dwejra Bay and Inland Sea (Gozo
+      Island)](/lugar/dwejra/), Malta’s other primary coastal wilderness entry in the atlas.
+  fr:
+    intro: >-
+      Sur une île où les forêts originelles furent défrichées pour bâtir des navires et cultiver la terre,
+      Buskett fait figure d’exception : un écrin boisé logé dans la vallée de Wied il-Luq à Siġġiewi, couvrant
+      environ 30 ha entre le village et les falaises de Dingli. C’est la seule forêt semi-naturelle de Malte,
+      jouant un rôle de refuge et de halte trophique pour les oiseaux migrateurs traversant l’archipel.
+    landscape: >-
+      Les boisements primitifs de Malte ayant disparu sous l’impact des cultures et des chantiers navals, les
+      chevaliers hospitaliers aménagèrent Buskett comme réserve de chasse. Cette origine a engendré un paysage
+      composite : feuillus indigènes, pins d’Alep, maquis méditerranéen et vergers d’agrumes. Chênes verts,
+      oliviers, peupliers blancs et roseaux se mêlent dans le fond de vallée, abritant l’un des quatre
+      lambeaux reliques de chênaie verte indigène subsistant à Malte.
+
+
+      Le contraste avec les environs est saisissant : le vallon ombragé jouxte les falaises de Dingli, point
+      culminant de Malte s’élevant à 250 m au-dessus de la mer. Dans le bassin artificiel vit le discoglosse
+      peint, unique amphibien indigène de l’île. Buskett est l’un des sites les plus verts de Malte, éclatant
+      au printemps, ombragé en été et propice aux promenades hivernales.
+    wildlife: >-
+      Le calendrier est rythmé par les migrations d’oiseaux. En automne font escale la [bondrée
+      apivore](/especie/pernis_apivorus/) et le [busard des roseaux](/especie/circus_aeruginosus/), qui
+      forment de réguliers dortoirs arborés. Plus sporadiquement sont observés le [busard
+      cendré](/especie/circus_pygargus/), le [faucon kobez](/especie/falco_vespertinus/) et le circaète
+      Jean-le-Blanc.
+
+
+      Le printemps apporte son cortège de [faucons crécerelles](/especie/falco_tinnunculus/), faucons
+      hobereaux, tourterelles des bois, coucous gris, huppes fasciées et guêpiers. En sous-bois nichent
+      moineau espagnol, cisticole des joncs, gobe-mouche gris, bouscarle de Cetti et fauvette mélanocéphale.
+      Autour des pièces d’eau s’activent libellules et demoiselles. La flore compte des orchidées sauvages et
+      l’alcanette d’Italie.
+
+
+      Les mois les plus propices s’étendent de mars à mai et de septembre à octobre, aux temps forts de la
+      migration.
+    visit: >-
+      La boucle principale de Buskett mesure environ un kilomètre et demi et se parcourt en quarante minutes.
+      C’est une promenade paisible dédiée à la botanique et à l’observation aviaire. Le centre pédagogique de
+      Buskett propose des animations environnementales, tandis que BirdLife Malta y organise des visites
+      guidées. L’accès aux jardins est libre et un parking est disponible sur place.
+
+
+      Des sentiers rejoignent les falaises de Dingli pour admirer le coucher du soleil face à l’îlot inhabité
+      de Filfla.
+    history: >-
+      Buskett est intégré au réseau européen Natura 2000 comme zone spéciale de conservation et classé zone
+      importante pour la conservation des oiseaux par BirdLife Malta. Les abords recèlent des sépultures
+      puniques et d’énigmatiques ornières de l’âge du bronze. En juin 1557, le grand maître Claude de la
+      Sengle s’y retira pour des raisons de santé. Le palais de Verdala, résidence officielle de la présidence
+      maltaise, domine le haut du domaine.
+
+
+      Chaque 29 juin, les jardins accueillent la fête populaire de l’Imnarja, marquée par des chants
+      traditionnels et des concours agricoles.
+    before: >-
+      Buskett est adapté aux courtes promenades, avec une fréquentation modérée sur les falaises de Dingli en
+      fin d’après-midi. Le palais de Verdala ne se visite que lors d’événements exceptionnels.
+    around: >-
+      À vingt-sept kilomètres, sur l’île de Gozo, s’étend la [baie de Dwejra et mer intérieure (île de
+      Gozo)](/lugar/dwejra/), l’autre grand espace naturel du pays dans l’atlas.
+  de:
+    intro: >-
+      Auf einer Insel, deren Urwälder für Schiffsbau und Ackerbau gerodet wurden, bildet Buskett eine grüne
+      Ausnahme: ein dichter Baumbestand im Tal Wied il-Luq bei Siġġiewi, der rund 30 ha zwischen der Ortschaft
+      und den Dingli-Klippen einnimmt. Es ist der einzige naturnahe Wald Maltas und dient als unersetzlicher
+      Trittstein für Zugvögel bei der Mittelmeerüberquerung.
+    landscape: >-
+      Die historischen Wälder Maltas fielen der Landwirtschaft und dem Holzbedarf zum Opfer; die Johanniter
+      legten Buskett als herrschaftliches Jagdrevier an. Daraus entstand ein reizvoller Mischbestand:
+      mediterrane Laubbäume, Aleppo-Kiefern, Macchie, Garrigue und Obstgärten. Steineichen, Olivenbäume,
+      Silber-Pappeln und Schilfrohr prägen das Tal, das eines der vier letzten Reliktvorkommen autochthoner
+      Steineichenwälder Maltas schützt.
+
+
+      Die Umgebung bietet schroffe Kontraste: Der Wald grenzt an die Dingli-Klippen, Maltas höchste Erhebung,
+      die rund 250 m steil ins Meer abfällt. Im künstlichen Wasserbecken lebt der Gemalte Scheibenzüngler,
+      Maltas einzige einheimische Amphibienart. Buskett gehört zu den grünsten Ecken der Insel: blühend im
+      Frühling, schattig im Sommer und mild im Winter.
+    wildlife: >-
+      Der Vogelzug bestimmt den Rhythmus. Im Herbst rasten regelmäßig
+      [Wespenbussard](/especie/pernis_apivorus/) und [Rohrweihe](/especie/circus_aeruginosus/), die in den
+      Baumkronen Schlafgemeinschaften bilden. Seltener ziehen [Wiesenweihe](/especie/circus_pygargus/),
+      [Rotfußfalke](/especie/falco_vespertinus/) und Schlangenadler durch.
+
+
+      Im Frühling erscheinen [Turmfalke](/especie/falco_tinnunculus/), Baumfalke, Turteltaube, Kuckuck,
+      Wiedehopf und Bienenfresser. Im Wald brüten Weidensperling, Zistensänger, Grauschnäpper, Seidensänger
+      und Samtkopf-Grasmücke. Am Teich schwirren Libellen und Wasserwanzen. Die Flora zeigt seltene Ragwurzen
+      und den Hohen Ochsenkopf.
+
+
+      Empfehlenswert sind März, April, Mai, September und Oktober zur Zeit des Frühjahrs- und Herbstzugs.
+    visit: >-
+      Der Rundweg durch Buskett misst rund eineinhalb Kilometer und dauert etwa vierzig Minuten. Es ist ein
+      kurzer, beschaulicher Spaziergang. Das Informationszentrum bietet Naturvermittlung, während BirdLife
+      Malta vogelkundliche Exkursionen durchführt. Die Gärten sind frei zugänglich und verfügen über
+      Parkplätze vor Ort.
+
+
+      Vom Wald führen Pfade auf die Dingli-Klippen, um den Sonnenuntergang über dem Meer und der Felseninsel
+      Filfla zu genießen.
+    history: >-
+      Buskett ist Teil des europäischen Schutzgebietsnetzes Natura 2000 als Besonderes Erhaltungsgebiet und
+      von BirdLife Malta als Important Bird Area eingestuft. Auf dem Plateau liegen punische Gräber und
+      vorgeschichtliche Karrenspuren. Im Juni 1557 zog sich Großmeister Claude de la Sengle hierher zurück.
+      Der Verdala-Palast, Sommersitz des maltesischen Staatspräsidenten, überragt den oberen Parkrand.
+
+
+      Jedes Jahr am 29. Juni feiern die Malteser hier das Imnarja-Fest mit traditioneller Musik und
+      Landwirtschaftsschau.
+    before: >-
+      Buskett eignet sich für kurze Spaziergänge; an den Dingli-Klippen herrscht abends mäßiger Andrang. Der
+      Verdala-Palast ist bis auf Sonderanlässe nicht öffentlich zugänglich.
+    around: >-
+      Siebenundzwanzig Kilometer entfernt auf Gozo liegt die [Dwejra-Bucht und Binnenmeer (Insel
+      Gozo)](/lugar/dwejra/), Maltas zweites herausragendes Naturgebiet im Atlas.
+  it:
+    intro: >-
+      Su un’isola in cui le antiche foreste vennero rase al suolo per costruire navi ed estendere i campi,
+      Buskett rappresenta l’eccezione: una macchia alberata nella valle di Wied il-Luq a Siġġiewi, che si
+      estende per circa 30 ha tra il centro abitato e le scogliere di Dingli. È l’unico bosco seminaturale di
+      Malta, e proprio per questo funge da rifugio e area di sosta vitale per l’avifauna in migrazione.
+    landscape: >-
+      Le foreste autoctone di Malta scomparvero per i disboscamenti agricoli e navali; i Cavalieri Ospitalieri
+      piantarono Buskett come riserva di caccia. Da questa genesi è scaturito un mosaico ricco: latifoglie
+      decidue, pini d’Aleppo, macchia mediterranea e frutteti. Lecci, pini, ulivi, pioppi bianchi e canneti
+      ombreggiano il vallone, che custodisce uno dei quattro lembi superstiti di lecceta spontanea a Malta.
+
+
+      Il contrasto con i dintorni è netto: il bosco confina con le scogliere di Dingli, punto più elevato
+      dell’arcipelago a circa 250 m sul livello del mare. Nella vasca artificiale vive il discoglosso dipinto,
+      unico anfibio autoctono maltese. È uno dei luoghi più verdi dell’isola, spettacolare in primavera,
+      fresco in estate e ideale per passeggiate invernali.
+    wildlife: >-
+      Il calendario è scandito dalle rotte migratorie. In autunno sostano regolarmente il [falco
+      pecchiaiolo](/especie/pernis_apivorus/) e il [falco di palude](/especie/circus_aeruginosus/), che
+      formano dormitori serali tra i rami. Con minore frequenza compaiono [l’albanella
+      pirpignana](/especie/circus_pygargus/), il [falco cuculo](/especie/falco_vespertinus/) e il biancone.
+
+
+      In primavera arrivano [gheppi](/especie/falco_tinnunculus/), lodolai, tortore selvatiche, cuculi, upupe
+      e gruccioni. Nel bosco nidificano passera sarda, beccamoschino, pigliamosche, usignolo di fiume e
+      occhiocotto. Nello stagno abbondano libellule e insetti acquatici. La flora annovera orchidee spontanee
+      e l’alchechengi azzurro.
+
+
+      I mesi raccomandati sono marzo, aprile, maggio, settembre e ottobre, in coincidenza con i passaggi
+      migratori.
+    visit: >-
+      Il tracciato circolare di Buskett misura circa un chilometro e mezzo e richiede una quarantina di
+      minuti. È una passeggiata breve e rilassante. Il centro didattico offre informazioni ambientali e
+      BirdLife Malta programma visite guidate. I giardini sono liberamente accessibili con parcheggio
+      disponibile.
+
+
+      Dal bosco sentieri panoramici raggiungono le scogliere di Dingli per osservare il tramonto sul mare
+      verso l’isolotto di Filfla.
+    history: >-
+      Buskett è tutelato come Zona Speciale di Conservazione della rete Natura 2000 e classificato da BirdLife
+      Malta come Important Bird Area. Nei pressi si trovano sepolture puniche e solchi preistorici dell’età
+      del bronzo. Nel giugno 1557 vi risiedette il gran maestro Claude de la Sengle. Il Palazzo Verdala,
+      residenza estiva della presidenza della Repubblica di Malta, sovrasta i giardini.
+
+
+      Ogni 29 giugno si celebra la festa di Imnarja con canti folcloristici e fiere agricole.
+    before: >-
+      Buskett si presta a facili passeggiate; sulle scogliere di Dingli si registra affluenza al tramonto. Il
+      Palazzo Verdala è chiuso al pubblico salvo ricorrenze speciali.
+    around: >-
+      A ventisette chilometri, sull’isola di Gozo, si estende la [Baia di Dwejra e Mare Interno (Isola di
+      Gozo)](/lugar/dwejra/), l’altro importante santuario naturale maltese nell’atlas.
+  pt:
+    intro: >-
+      Numa ilha árida onde as florestas primitivas foram desbravadas para estaleiros navais e agricultura,
+      Buskett representa a exceção: um reduto florestal no vale de Wied il-Luq em Siġġiewi, cobrindo cerca de
+      30 ha entre a povoação e as arribas de Dingli. É o único bosque seminatural de Malta, funcionando como
+      refúgio e paragem de alimentação para as aves que cruzam o Mediterrâneo central nas suas migrações.
+    landscape: >-
+      O arvoredo autóctone de Malta desapareceu com os cortes históricos; os Cavaleiros Hospitalários
+      plantaram Buskett como coutada nobre de caça. Dessa génese resultou um mosaico arbóreo invulgar:
+      folhosas nativas, pinheiros-de-alepo, garrigue mediterrânica e pomares. Azinheiras, pinheiros,
+      oliveiras, choupos-brancos e caniços marginam o vale, que acolhe um dos quatro núcleos relíquia de
+      azinheira silvestre sobreviventes em Malta.
+
+
+      O contraste geográfico é deslumbrante: a mata confina com as arribas de Dingli, o ponto mais alto de
+      Malta, despenhando-se cerca de 250 m sobre o mar. No tanque artificial habita o discoglosso-pintado, o
+      único anfíbio nativo maltês. É dos recantos mais verdes do país: viçoso na primavera, fresco no verão e
+      aprazível no inverno.
+    wildlife: >-
+      O calendário é pautado pela migração. No outono pousam regularmente o
+      [bútio-vespeiro](/especie/pernis_apivorus/) e o [tartaranhão-dos-pauis](/especie/circus_aeruginosus/),
+      formando dormitórios nos ramos altos. Em menor número ocorrem o
+      [tartanhao-caçador](/especie/circus_pygargus/), o [falcão-vespeiro](/especie/falco_vespertinus/) e a
+      águia-cobreira.
+
+
+      Na primavera chegam [peneireiros-vulgares](/especie/falco_tinnunculus/), óstrégas, rolas-bravas, cucos,
+      poupas e abelharucos. No bosque procriam o pardal-espanhol, a fuinha-dos-juncos, o papa-moscas-cinzento,
+      o rouxinol-bravo e a toutinegra-de-cabeça-preta. Nos tanques abundam libélulas e alfaiates aquáticos. A
+      flora conta com orquídeas bravas e o alcachofrão.
+
+
+      Os meses mais recomendados são março, abril, maio, setembro e outubro, cobrindo a primavera e a passagem
+      outonal.
+    visit: >-
+      O trilho circular principal de Buskett percorre aproximadamente um quilómetro e meio e cumpre-se em
+      quarenta minutos. É um percurso curto e descontraído. O centro pedagógico organiza atividades ambientais
+      e a BirdLife Malta promove saídas de campo. Os jardins estão permanentemente abertos ao público e
+      dispõem de estacionamento.
+
+
+      Caminhos pedestres ligam a mata às arribas de Dingli para contemplar o poente virado para o ilhéu
+      desabitado de Filfla.
+    history: >-
+      Buskett integra a rede europeia Natura 2000 como Zona Especial de Conservação e está classificado pela
+      BirdLife Malta como Área Importante para as Aves. O local preserva catacumbas púnicas e sulcos
+      pré-históricos da Idade do Bronze. Em junho de 1557 o grão-mestre Claude de la Sengle recolheu-se aqui
+      por motivos de saúde. O Palácio de Verdala, residência presidencial de verão, domina o topo dos jardins.
+
+
+      A 29 de junho os jardins acolhem a festividade tradicional da Imnarja com feira agrária e folclore.
+    before: >-
+      Buskett é indicado para caminhadas fáceis, registando afluência moderada nas arribas de Dingli ao
+      entardecer. O Palácio de Verdala não é visitável exceto em eventos oficiais.
+    around: >-
+      A vinte e sete quilómetros, na ilha de Gozo, situa-se a [Baía de Dwejra e Mar Interior (Ilha de
+      Gozo)](/lugar/dwejra/), a outra grande área natural de Malta no atlas.
+fuentes:
+  - url: https://birdlifemalta.org/nature-reserves/buskett/
+    titulo: Buskett — BirdLife Malta
+    fecha_consulta: '2026-10-30'
+  - url: https://ambjentmalta.gov.mt/buskett-medium-walking-path/
+    titulo: Buskett Medium Walking Path — Ambjent Malta
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Buskett_Gardens
+    titulo: Buskett Gardens - Wikipedia
+    fecha_consulta: '2026-10-30'

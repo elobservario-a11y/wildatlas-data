@@ -1,0 +1,461 @@
+id: monte-dirfys
+estado_editorial: valoracion-revisada
+nombre:
+  es: Monte Dirfys
+  en: Mount Dirfys
+  fr: Mont Dirfys
+  de: Dirfys-Gebirge
+  it: Monte Dirfys
+  pt: Monte Dirfys
+nombre_original: Monte Dirfys
+alias:
+  - Monte Dirfys
+paises:
+  - GR
+region:
+  es: Isla de Eubea (Steni Dirfyos / Chalkida)
+  en: Euboea Island (Steni Dirfyos / Chalkida)
+  fr: Île d'Eubée (Steni Dirfyos / Chalkida)
+  de: Insel Euböa (Steni Dirfyos / Chalkida)
+  it: Isola di Eubea (Steni Dirfyos / Chalkida)
+  pt: Ilha de Eubeia (Steni Dirfyos / Chalkida)
+ubicacion:
+  tipo: punto
+  lat: 38.62
+  lon: 23.83
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: ORI KENTRIKIS EVVOIAS, PARAKTIA ZONI KAI NISIDES
+  capa: capas/natura2000/monte-dirfys.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+  - karst
+designaciones:
+  - natura2000
+especies:
+  - aquila_chrysaetos
+  - falco_peregrinus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Media en Steni Dirfyos en fines de semana
+  en: Moderate in Steni Dirfyos on weekends
+  fr: Moyenne à Steni Dirfyos les week-ends
+  de: Mäßig in Steni Dirfyos an Wochenenden
+  it: Media a Steni Dirfyos nei fine settimana
+  pt: Média em Steni Dirfyos aos fins de semana
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Rutas y accesos — Monte Dirfys desde Steni, Organismo Nacional de Turismo
+    url: https://www.visitgreece.gr/en/experiences/nature/volcanoes/hiking-in-the-village-of-steni-in-evia
+  - titulo: Gestor — Espacios protegidos de Eubea, NECCA
+    url: https://www.necca.gov.gr/mdpp/m-d-prostatevomenon-periochon-skyrou-kai-evvoias/
+resumen:
+  es: >-
+    La cumbre más alta de la isla de Eubea (1.743 m), una pirámide de caliza y castañares centenarios con la
+    garganta de Agali.
+  en: >-
+    The highest summit on the island of Euboea (1,743 m), a limestone pyramid surrounded by ancient chestnut
+    groves and the Agali Gorge.
+  fr: >-
+    Le plus haut sommet de l'île d'Eubée (1 743 m), une pyramide calcaire entourée de châtaigneraies
+    séculaires et des gorges d'Agali.
+  de: >-
+    Höchster Gipfel der Insel Euböa (1.743 m), eine Kalksteinpyramide umgeben von uralten Kastanienhainen und
+    der Agali-Schlucht.
+  it: >-
+    La vetta più alta dell'isola di Eubea (1.743 m), una piramide calcarea circondata da castagneti secolari e
+    dalla gola di Agali.
+  pt: >-
+    O cume mais alto da ilha de Eubeia (1.743 m), uma pirâmide calcária ladeada por soutos seculares e pela
+    garganta de Agali.
+unico:
+  es: Un monte de 1.743 metros en una isla, con abetares, castañares y gargantas en un solo bosque protegido.
+  en: >-
+    A mountain rising 1,743 metres on an island, blending fir woods, chestnut groves, and deep ravines within
+    a single protected forest.
+  fr: >-
+    Un mont de 1 743 mètres sur une île, réunissant sapinières, châtaigneraies et gorges au cœur d'une même
+    forêt protégée.
+  de: >-
+    Ein 1.743 Meter hoher Berg auf einer Insel, der Tannenwälder, Kastanienhaine und Schluchten in einem
+    Schutzwald vereint.
+  it: >-
+    Un monte di 1.743 metri su un'isola, che raccoglie abetaie, castagneti e forre in un'unica foresta
+    protetta.
+  pt: >-
+    Um monte de 1.743 metros numa ilha, conjugando abetais, soutos e desfiladeiros numa única floresta
+    protegida.
+observaciones:
+  es: >-
+    La S1 es la más exigente de las rutas de Dirfys. Si la haces, sigue después la S2 para bajar. Y recuerda
+    que en invierno la nieve es abundante.
+texto:
+  es:
+    intro: >-
+      En una isla griega hay una montaña que en invierno se cubre de nieve y de escarcha. Dirfys, hoy más
+      conocida como Dirfi, es una cordillera importante del centro-este de Eubea, y su cumbre más alta, Delfi,
+      llega a 1.743 metros: salvo las montañas de Creta, el monte más alto de la Grecia insular. Es empinada,
+      sobre todo por el este, y por el oeste tiene forma de cono. En sus faldas hay bosques de abetos,
+      castaños y plátanos, y en la ladera sur, el bosque estético de Steni, con gargantas y manantiales.
+    landscape: >-
+      El relieve es marcado. En invierno nieva con fuerza, porque queda expuesto a las corrientes frías del
+      nordeste, y en las laderas bajas hay bosque, mientras que la mayor parte de la montaña es pastizal que
+      en invierno cubren la escarcha y la nieve.
+
+
+      Los pueblos se reparten por las faldas. Steni Dirfyos está en el borde oeste; Stropones queda en la
+      ladera este, sobre la carretera hacia la playa de Chiliadou, y Metochi también cae en la ladera este. La
+      cumbre se encuentra a cuatro kilómetros al oeste de Stropones, a cinco al norte de Steni y a veintiocho
+      al nordeste de Calcis.
+
+
+      En las laderas sur se extiende el bosque estético de Steni, que destaca por la diversidad de su flora,
+      sus numerosas fuentes y una geomorfología atractiva. Steni está a 450 metros, entre abetos, plátanos y
+      arroyos, y en las laderas se ven gargantas destacadas.
+    wildlife: >-
+      Aquí manda el bosque. A gran altitud hay abetares importantes y, más abajo, castaños, robles, plátanos,
+      pinos y otros árboles de hoja caduca. Son bosques extensos de abeto de Cefalonia, robles, castaños y
+      pinos, que se mezclan con el matorral mediterráneo abajo y con la vegetación alpina en las cumbres. En
+      los barrancos crecen plátanos enormes, arces y álamos.
+
+
+      Entre los endémicos destacan la fritilaria de Eubea, el té de Eubea, la silene, las violetas, la
+      asperula y el orégano; también hay peonías, lirios, campanillas, candilillos y eléboros.
+
+
+      Toda la zona es importante para las aves, sobre todo como área de cría de muchas rapaces y aves
+      forestales. En el monte y sus bosques viven águilas culebreras,
+      [cernícalos](/especie/falco_tinnunculus/), [halcones peregrinos](/especie/falco_peregrinus/), búhos,
+      cuervos, perdices, becadas, tórtolas y zorzales.
+    visit: >-
+      La puerta de entrada es Steni, con una red de rutas numeradas. La S1 es la más difícil: sale del
+      estadio, pasa por el manantial de Sykamino y el bosque de Elatia, y llega al refugio Michalis Nikolaou y
+      a la cima de Delfi. Para volver, la S2, marcada y más suave, baja del refugio a Steni entre castaños y
+      plátanos. La S3 une Steni con Xirovouni por la vieja carretera hacia Metochi. La red incluye además la
+      S4 a Stropones, la S5 al refugio y la S6 de Steni a Stropones.
+
+
+      Para llegar hay autobuses regulares entre Steni, Calcis y otros puntos de Eubea, adecuados para
+      excursiones de un día.
+    history: >-
+      En la Antigüedad hubo en la cima un santuario de Hera Dirfia. Hoy el bosque estético de Steni está
+      protegido por Natura.
+    before: >-
+      La S1 es la más exigente de las rutas de Dirfys. Si la haces, sigue después la S2 para bajar. Y recuerda
+      que en invierno la nieve es abundante.
+    around: >-
+      Dirfys queda aislado en el atlas: no tiene vecinos cercanos ni lugares lejanos con los que comparta
+      especies y hábitats.
+  en:
+    intro: >-
+      On a Greek island rises a mountain wrapped in deep snow and frost throughout the winter. Dirfys, widely
+      known today as Dirfi, is the central-eastern mountain massif of Euboea, culminating at Delfi peak at
+      1,743 metres: outside the massifs of Crete, it is the highest peak in insular Greece. It is particularly
+      steep to the east, whereas from the west it appears as a sharp cone. Its lower flanks host forests of
+      fir, chestnut, and plane trees, with the aesthetic forest of Steni, gorges, and springs below.
+    landscape: >-
+      The relief is dramatic. Winter brings heavy snowfall as the peak lies directly exposed to cold
+      northeasterly Aegean winds; lower slopes remain forested, while the upper mass consists of windswept
+      alpine scrub and scree coated in frost and snow in winter.
+
+
+      Traditional villages cluster around the foothills. Steni Dirfyos sits at the western foot; Stropones
+      lies on the eastern slopes along the road to Chiliadou beach, and Metochi also occupies the eastern
+      flank. The summit rises four kilometres west of Stropones, five north of Steni, and twenty-eight
+      northeast of Chalcis.
+
+
+      Along the southern slopes lies the aesthetic forest of Steni, renowned for its diverse plant life,
+      numerous cold springs, and striking geomorphology. Steni rests at 450 metres amidst firs, plane trees,
+      and mountain streams, surrounded by rugged gorges.
+    wildlife: >-
+      Forests dominate the lower and middle zones. At higher elevations extensive Grecian fir woods thrive,
+      transitioning below into chestnut, oak, oriental plane, pine, and mixed deciduous stands. These
+      woodlands blend Greek fir, deciduous oaks, sweet chestnut, and Aleppo pine, merging into Mediterranean
+      maquis below and alpine dwarf vegetation along high ridges. Huge plane trees, maples, and poplars
+      flourish in deep ravines.
+
+
+      Endemic plants include the Euboean fritillary, Greek mountain tea, campion, violets, woodruff, and wild
+      oregano; wild peonies, irises, bellflowers, arums, and hellebores also bloom.
+
+
+      The entire range is critical for avifauna, serving as breeding territory for birds of prey and woodland
+      species. Resident raptors and birds include short-toed snake eagles, [common
+      kestrels](/especie/falco_tinnunculus/), [peregrine falcons](/especie/falco_peregrinus/), owls, ravens,
+      chukar partridges, woodcocks, turtle doves, and thrushes.
+    visit: >-
+      The main gateway is Steni, with an established network of numbered trails. The S1 is the most
+      challenging: departing from the sports ground, it ascends via Sykamino spring and Elatia forest to the
+      Michalis Nikolaou refuge and Delfi summit. To return, the easier waymarked S2 descends from the refuge
+      to Steni through chestnut and plane woodlands. Trail S3 links Steni to Xirovouni along the old Metochi
+      road. The network also includes S4 to Stropones, S5 to the refuge, and S6 connecting Steni and
+      Stropones.
+
+
+      Regular buses connect Steni with Chalcis and other towns on Euboea, ideal for day trips.
+    history: >-
+      In antiquity a mountain sanctuary dedicated to Hera Dirfya crowned the summit. Today the aesthetic
+      forest of Steni is protected within Natura.
+    before: >-
+      The S1 is the most strenuous route on Dirfys. If climbing it, descend via S2. Remember that heavy snow
+      covers the upper mountain in winter.
+    around: >-
+      Dirfys stands isolated in the atlas: it has no close neighbouring sites or distant mountain matches with
+      shared species.
+  fr:
+    intro: >-
+      Sur une île grecque se dresse une montagne qui se couvre en hiver de neige et de givre. Le Dirfys, plus
+      couramment appelé Dirfi, constitue le relief majeur du centre-est de l'Eubée, et sa cime principale,
+      Delfi, s'élève à 1 743 mètres : en dehors des sommets de Crète, c'est le point culminant de la Grèce
+      insulaire. Très abrupte à l'est, elle prend une forme conique à l'ouest. Ses versants portent des forêts
+      de sapins, châtaigniers et platanes, et au sud s'étend la forêt esthétique de Steni.
+    landscape: >-
+      Le relief est très accusé. En hiver, les chutes de neige sont abondantes car la montagne subit
+      directement les flux froids du nord-est ; les pentes inférieures portent des boisements denses, tandis
+      que les hauteurs sont occupées par des pelouses alpines blanchies par le givre.
+
+
+      Des villages ponctuent le piémont. Steni Dirfyos occupe le flanc ouest ; Stropones se dresse sur le
+      versant est, sur la route de la plage de Chiliadou, tout comme Metochi. Le sommet s'élève à quatre
+      kilomètres à l'ouest de Stropones, cinq au nord de Steni et vingt-huit au nord-est de Chalcis.
+
+
+      Sur les pentes sud s'étire la forêt esthétique de Steni, remarquable pour la richesse de sa flore, ses
+      sources et sa géomorphologie. Steni se niche à 450 mètres parmi les sapins, platanes et ruisseaux,
+      dominé par des gorges impressionnantes.
+    wildlife: >-
+      La forêt règne en maîtresse des lieux. En altitude s'étendent de belles sapinières de Céphalonie,
+      relayées plus bas par des châtaigniers, chênes, platanes, pins et autres feuillus. Ces boisements se
+      mêlent au maquis méditerranéen vers le bas et à la végétation alpine sur les crêtes. Dans les ravins
+      prospèrent de vieux platanes d'Orient, des érables et des peupliers.
+
+
+      Parmi les endémiques se distinguent la fritillaire d'Eubée, le thé de montagne d'Eubée, la silène, des
+      violettes, l'aspérule et l'origan ; on note aussi pivoines, iris, campanules, arums et ellébores.
+
+
+      L'ensemble du massif sert de zone de nidification pour de nombreux rapaces et oiseaux forestiers. On y
+      croise le circaète Jean-le-Blanc, des [crécerelles](/especie/falco_tinnunculus/), des [faucons
+      pèlerins](/especie/falco_peregrinus/), hiboux, corbeaux, perdrix choukar, bécasses, tourterelles et
+      grives.
+    visit: >-
+      La porte d'accès est Steni, pourvue d'un réseau de sentiers numérotés. Le S1 est le plus rude : partant
+      du stade, il franchit la source de Sykamino et le bois d'Elatia pour rallier le refuge Michalis Nikolaou
+      et le sommet de Delfi. Pour le retour, le sentier balisé S2 descend du refuge à Steni parmi châtaigniers
+      et platanes. Le S3 relie Steni à Xirovouni. Le réseau compte aussi le S4 vers Stropones, le S5 vers le
+      refuge et le S6 unissant Steni à Stropones.
+
+
+      Des cars réguliers relient Steni à Chalcis et à d'autres localités d'Eubée, permettant des excursions
+      aisées d'une journée.
+    history: >-
+      Dans l'Antiquité s'élevait au sommet un sanctuaire dédié à Héra Dirphya. Aujourd'hui, la forêt
+      esthétique de Steni est intégrée à Natura.
+    before: >-
+      Le S1 est le sentier le plus rude du Dirfys. Si vous le gravissez, redescendez par le S2. N'oubliez pas
+      qu'en hiver la neige recouvre la cime.
+    around: >-
+      Le Dirfys demeure isolé dans l'atlas : il ne possède aucun voisin proche ni site distant partageant ses
+      espèces et habitats.
+  de:
+    intro: >-
+      Auf einer griechischen Insel erhebt sich ein Gebirge, das im Winter tief verschneit und von Reif
+      überzogen ist. Der Dirfys, heute meist Dirfi genannt, ist der Hauptkamm im östlichen Zentral-Euböa; sein
+      höchster Gipfel, der Delfi, erreicht 1.743 Meter: abgesehen von den Bergen Kretas der höchste Berg der
+      griechischen Inselwelt. Im Osten bricht er steil ab, von Westen erscheint er als markanter Kegel. An
+      seinen Hängen wachsen Tannen-, Kastanien- und Platanenwälder, südlich liegt der Bannwald von Steni.
+    landscape: >-
+      Das Relief ist ausgeprägt schroff. Im Winter schneit es ergiebig, da der Berg den kalten Nordostwinden
+      der Ägäis ausgesetzt ist; die unteren Hänge tragen dichte Wälder, während die Gipfelzone aus Karstmatten
+      und Schuttfluren besteht, die im Winter Reif und Schnee bedecken.
+
+
+      Dörfer säumen den Fuß des Gebirges. Steni Dirfyos liegt am Westrand; Stropones schmiegt sich an den
+      Osthang an der Straße zum Chiliadou-Strand, ebenso wie Metochi. Der Gipfel liegt vier Kilometer westlich
+      von Stropones, fünf nördlich von Steni und achtundzwanzig nordöstlich von Chalkida.
+
+
+      An den Südhängen breitet sich der Ästhetische Wald von Steni aus, berühmt für botanischen Reichtum,
+      kalte Bergquellen und wilde Formen. Steni liegt auf 450 Metern inmitten von Tannen, Platanen und
+      Gebirgsbächen, umrahmt von tiefen Schluchten.
+    wildlife: >-
+      Hier herrscht der Wald. In höheren Lagen wachsen ausgedehnte Bestände der Griechischen Tanne, darunter
+      Kastanien, Eichen, Platanen, Kiefern und Mischwälder. Diese Bestände verbinden Tannen, Edelkastanien und
+      Kiefern, die nach unten in Macchia und oben in alpine Zwergstrauchheiden übergehen. In den Schluchten
+      gedeihen gewaltige Morgenländische Platanen, Ahorne und Pappeln.
+
+
+      Zu den Endemiten gehören die Euböa-Schachblume, Euböa-Bergtee, Leimkraut, Veilchen, Waldmeister und
+      wilder Oregano; auch Pfingstrosen, Schwertlilien, Glockenblumen, Aronstab und Nieswurz blühen hier.
+
+
+      Das Massiv ist ein wertvolles Vogelschutzgebiet für Greifvögel und Waldvögel. Hier leben Schlangenadler,
+      [Turmfalken](/especie/falco_tinnunculus/), [Wanderfalken](/especie/falco_peregrinus/), Eulen, Kolkraben,
+      Chukarhühner, Waldschnepfen, Turteltauben und Drosseln.
+    visit: >-
+      Ausgangsort ist Steni mit einem markierten Wegenetz. Der S1 ist der anspruchsvollste Steig: Er beginnt
+      am Sportplatz, führt über die Sykamino-Quelle und den Elatia-Wald zur Michalis-Nikolaou-Hütte und zum
+      Delfi-Gipfel. Für den Rückweg steigt der sanftere Weg S2 von der Hütte nach Steni durch Kastanien- und
+      Platanenwälder ab. Der S3 verbindet Steni mit dem Xirovouni. Das Netz umfasst zudem den S4 nach
+      Stropones, den S5 zur Hütte und den S6 von Steni nach Stropones.
+
+
+      Linienbusse verkehren regelmäßig zwischen Steni, Chalkida und anderen Orten Euböas für Tagesausflüge.
+    history: >-
+      In der Antike stand auf dem Gipfel ein Heiligtum der Hera Dirphya. Heute ist der Schutzwald von Steni
+      Teil des Natura-Netzwerks.
+    before: >-
+      Der S1 ist der steilste Pfad am Dirfys. Wähle für den Abstieg den S2. Beachte, dass im Winter viel
+      Schnee auf den Kämmen liegt.
+    around: >-
+      Der Dirfys steht isoliert im Atlas: Er hat keine nahen Nachbarn oder fernen Berggebiete mit gemeinsamen
+      Arten und Lebensräumen.
+  it:
+    intro: >-
+      Su un'isola greca si erge una montagna che in inverno si ricopre di neve e galaverna. Il Dirfys, oggi
+      noto perlopiù come Dirfi, è la dorsale cardine dell'Eubea centro-orientale, e la sua vetta maggiore,
+      Delfi, raggiunge 1.743 metri: al di fuori di Creta, è la cima più elevata della Grecia insulare. Molto
+      ripida a est, assume da ovest il profilo di un cono regolare. Sui versanti allignano boschi di abeti,
+      castagni e platani, e a sud la foresta estetica di Steni.
+    landscape: >-
+      Il rilievo è marcato. D'inverno le nevicate sono abbondanti a causa dell'esposizione ai venti gelidi di
+      nord-est; le pendici inferiori sono ammantate da fitti boschi, mentre la porzione sommitale è dominata
+      da pascoli alpini e ghiaioni imbiancati dal gelo.
+
+
+      I villaggi sorgono alla base del massiccio. Steni Dirfyos si distende sul fianco occidentale; Stropones
+      si affaccia sul versante orientale, lungo la strada per la spiaggia di Chiliadou, al pari di Metochi. La
+      vetta si trova a quattro chilometri a ovest di Stropones, a cinque a nord di Steni e a ventotto a
+      nord-est di Calcide.
+
+
+      Sulle pendici meridionali si estende la foresta estetica di Steni, rinomata per la flora endemica, le
+      sorgenti copiose e l'aspra morfologia. Steni giace a 450 metri tra abeti, platani e torrenti, serrato da
+      imponenti valloni rocciosi.
+    wildlife: >-
+      Qui la foresta regna sovrana. Alle quote elevate si estendono abetaie di abete greco, cui subentrano più
+      in basso castagni, querce, platani, pini e altre latifoglie. Questa fascia arborea sfuma in basso nella
+      macchia mediterranea e in alto nei cespuglieti alpini. Nei profondi canaloni prosperano maestosi platani
+      orientali, aceri e pioppi.
+
+
+      Tra gli endemismi spiccano la fritillaria di Eubea, il tè montano di Eubea, sileni, viole, asperule e
+      origano selvatico; fioriscono anche peonie, iris, campanule, aridi e ellebori.
+
+
+      L'area montuosa costituisce un sito essenziale per l'avifauna nidificante. Vi trovano rifugio il
+      biancone, [gheppi](/especie/falco_tinnunculus/), [falchi pellegrini](/especie/falco_peregrinus/), gufi,
+      corvi imperiali, coturnici, beccacce, tortore e tordi.
+    visit: >-
+      Il centro d'accesso è Steni, dotato di una rete di percorsi numerati. L'itinerario S1 è il più severo:
+      parte dal campo sportivo, tocca la sorgente Sykamino e la foresta di Elatia fino al rifugio Michalis
+      Nikolaou e alla vetta Delfi. Per la discesa, il più agevole sentiero S2 scende dal rifugio a Steni tra
+      castagni e platani. Il tracciato S3 collega Steni a Xirovouni. La rete include l'S4 per Stropones, l'S5
+      per il rifugio e l'S6 tra Steni e Stropones.
+
+
+      Pullman di linea collegano con regolarità Steni a Calcide e ad altri centri di Eubea, facilitando gite
+      in giornata.
+    history: >-
+      In epoca classica la sommità ospitava un santuario sacro a Era Dirfia. Oggi la foresta estetica di Steni
+      è protetta nella rete Natura.
+    before: >-
+      L'S1 è l'itinerario più impegnativo del Dirfys. Per scendere percorri l'S2. Tieni presente che in
+      inverno la neve ricopre la montagna.
+    around: >-
+      Il Dirfys resta isolato nell'atlante: non ha vicini prossimi né riserve distanti con cui condivida
+      specie e habitat.
+  pt:
+    intro: >-
+      Numa ilha grega ergue-se uma montanha que no inverno se cobre de neve espessa e geada. O Dirfys,
+      atualmente mais conhecido por Dirfi, é a cordilheira central de Eubeia, cujo pico cimeiro, Delfi,
+      ascende a 1.743 metros: à exceção das serras de Creta, é o cume mais elevado da Grécia insular.
+      Apresenta vertentes abruptas a leste e um recorte cónico a oeste. Nas faldas vicejam matas de abeto,
+      castanheiro e plátano, sobressaindo a sul a floresta estética de Steni.
+    landscape: >-
+      O relevo é vigoroso e acidentado. No inverno a neve cai com abundância devido à exposição aos ventos
+      frios de nordeste; as encostas inferiores albergam florestas densas, enquanto o topo é ocupado por
+      pastagens de montanha fustigadas pelo frio.
+
+
+      As povoações distribuem-se pela base. Steni Dirfyos implanta-se na vertente poente; Stropones situa-se
+      na encosta nascente, junto à estrada da praia de Chiliadou, bem como Metochi. O cume dista quatro
+      quilómetros a oeste de Stropones, cinco a norte de Steni e vinte e oito a nordeste de Cálcis.
+
+
+      Nas encostas meridionais estende-se a floresta estética de Steni, afamada pela sua variedade vegetal,
+      nascentes cristalinas e desfiladeiros escarpados. Steni repousa a 450 metros entre abetos, plátanos e
+      ribeiros.
+    wildlife: >-
+      A cobertura florestal domina a paisagem. Em altitude vicejam expressivos abetais de abeto-grego,
+      sucedendo-se encosta abaixo castanheiros, carvalhos, plátanos e pinheiros. Estes bosques mesclam-se com
+      o matagal mediterrânico nas cotas baixas e com charnecas alpinas nas cristas. Nas ravinas fundas
+      erguem-se plátanos-orientais seculares, bordos e choupos.
+
+
+      Entre a flora endémica salientam-se a fritilária de Eubeia, o chá-de-montanha de Eubeia, silenes,
+      violetas, aspérulas e orégãos bravos; despontam também peónias, íris, campainhas e heléboros.
+
+
+      A cordilheira é um refúgio fulcral para a avifauna de montanha. Aqui nidificam a águia-cobreira,
+      [peneireiros-de-dorso-malhado](/especie/falco_tinnunculus/),
+      [falcões-peregrinos](/especie/falco_peregrinus/), mochos, corvos, perdizes-chucar, galinholas, rolas e
+      tordos.
+    visit: >-
+      O ponto de acesso é Steni, dotado de uma rede de percursos balizados. O trilho S1 é o mais exigente:
+      parte do recinto desportivo, cruza a nascente de Sykamino e o bosque de Elatia em direção ao refúgio
+      Michalis Nikolaou e ao cume Delfi. Para descer, a rota balizada S2 regressa do refúgio a Steni por entre
+      soutos e plátanos. O percurso S3 liga Steni a Xirovouni. O conjunto integra ainda o S4 para Stropones, o
+      S5 para o refúgio e o S6 de Steni a Stropones.
+
+
+      Carreiras regulares de autocarro ligam Steni a Cálcis e outras vilas de Eubeia, viabilizando passeios de
+      um dia.
+    history: >-
+      Na Antiguidade existiu no cume um santuário devotado a Hera Dirphia. Atualmente a floresta estética de
+      Steni beneficia do estatuto Natura.
+    before: >-
+      O trilho S1 é o percurso mais íngreme de Dirfys. Na descida segue pelo S2. Lembra-te de que no inverno a
+      neve cobre os cumes.
+    around: >-
+      O Dirfys surge isolado no atlas: não possui vizinhos contíguos nem sítios distantes com os quais
+      partilhe espécies e habitats.
+fuentes:
+  - url: https://www.visitgreece.gr/en/experiences/happenings/sport-events/hiking-in-the-village-of-steni-in-evia
+    titulo: Hiking around Steni village in Evia — Visit Greece
+    fecha_consulta: '2026-11-06'
+  - url: https://el.wikipedia.org/wiki/%CE%94%CE%AF%CF%81%CF%86%CF%85%CF%82
+    titulo: Δίρφυς - Βικιπαίδεια
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Dirfi
+    titulo: Dirfi - Wikipedia
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Greece_Ktiponissi_Dirfys.jpg
+    autor: Jebulon
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/elobservario-a11y/wildatlas-data/schema/especie.schema.json",
+  "title": "Especie del Atlas de la Europa Salvaje",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "nombre_cientifico", "nombre"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_]*$" },
+    "nombre_cientifico": { "type": "string", "minLength": 3 },
+    "nombre": { "type": "object", "required": ["es"], "propertyNames": { "enum": ["es", "en", "fr", "de", "it", "pt"] }, "additionalProperties": { "type": "string", "minLength": 1 } },
+    "alias": { "type": "array", "items": { "type": "string" } },
+    "descripcion": { "type": "object", "propertyNames": { "enum": ["es", "en", "fr", "de", "it", "pt"] }, "additionalProperties": { "type": "string", "minLength": 1 } }
+  }
+}

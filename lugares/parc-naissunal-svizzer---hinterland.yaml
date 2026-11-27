@@ -1,0 +1,725 @@
+id: parc-naissunal-svizzer---hinterland
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Suizo - Zona Central
+  en: Swiss National Park - Core Zone
+  fr: Parc national suisse - Zone centrale
+  de: Schweizerischer Nationalpark - Kernzone
+  it: Parco nazionale svizzero - Zona centrale
+  pt: Parque Nacional Suíço - Zona Central
+nombre_original: Parc Naissunal Svizzer - Hinterland
+alias:
+  - Swiss National Park Hinterland (Parc Naissunal Svizzer)
+paises:
+  - CH
+region:
+  es: Grisones (Zernez / Engadina)
+  en: Grisons (Zernez / Engadin)
+  fr: Grisons (Zernez / Engadine)
+  de: Graubünden (Zernez / Engadin)
+  it: Grigioni (Zernez / Engadina)
+  pt: Grisões (Zernez / Engadina)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.67
+  lon: 10.18
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 915
+  nombre_en_la_fuente: Nationalpark
+  capa: capas/cdda/parc-naissunal-svizzer---hinterland.geojson
+habitats:
+  - high_mountain
+  - primary_forest
+  - glacial
+designaciones:
+  - national_park
+  - strict_reserve
+  - biosphere_reserve
+especies:
+  - cervus_elaphus
+  - rupicapra_rupicapra
+  - gyps_fulvus
+proyectos:
+  - swiss_national_park
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre (espectacular en octubre por el alerce dorado)
+  en: June to October (spectacular in October for golden larches)
+  fr: juin à octobre (spectaculaire en octobre pour les mélèzes dorés)
+  de: Juni bis Oktober (spektakulär im Oktober zur Lärchengoldfärbung)
+  it: da giugno a ottobre (spettacolare a ottobre per i larici dorati)
+  pt: junho a outubro (espetacular em outubro pelas tonalidades douradas dos lariços)
+masificacion: 2
+masificacion_nota:
+  es: Media en el paso del del Ofenpass; prohibido salir de los senderos señalizados
+  en: Moderate at the Ofenpass; leaving designated trails is strictly prohibited
+  fr: Moyenne au col de l'Ofenpass ; interdiction formelle de quitter les sentiers balisés
+  de: Mittel am Ofenpass; Verlassen der markierten Wege strikt verboten
+  it: Media al passo dell'Ofenpass; divieto assoluto di uscire dai sentieri tracciati
+  pt: Média no colo de Ofenpass; expressamente proibido sair dos trilhos balizados
+valoracion: 5
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Schweizerischer Nationalpark Official
+    url: https://www.nationalpark.ch/
+  - titulo: Rutas — itinerarios y condiciones en el Parque Nacional Suizo
+    url: https://nationalpark.ch/besuchen/routen/
+  - titulo: Normas — restricciones de protección del parque
+    url: https://nationalpark.ch/schutzbestimmungen/
+  - titulo: Centro de visitantes — Nationalparkzentrum de Zernez
+    url: https://nationalpark.ch/besuchen/nationalparkzentrum/
+  - titulo: Mapa — límites y recorridos del parque
+    url: https://nationalpark.ch/park/
+  - titulo: Accesos — llegada y puntos de entrada
+    url: https://nationalpark.ch/besuchen/unterkunft/
+enlaces_referencia:
+  - titulo: Wikipedia — Parque Nacional Suizo
+    url: https://en.wikipedia.org/wiki/Swiss_National_Park
+resumen:
+  es: >-
+    El Parque Nacional más antiguo de los Alpes (fundado en 1914), Reserva de Protección Estricta donde está
+    prohibida toda intervención humana.
+  en: >-
+    The oldest National Park in the Alps (founded in 1914), a Strict Nature Reserve where all human
+    intervention is forbidden.
+  fr: >-
+    Le plus ancien parc national des Alpes (créé en 1914), réserve naturelle intégrale où toute intervention
+    humaine est strictement bannie.
+  de: >-
+    Der älteste Nationalpark der Alpen (gegründet 1914), ein strenges Naturreservat, in dem jeder menschliche
+    Eingriff verboten ist.
+  it: >-
+    Il più antico Parco Nazionale delle Alpi (fondato nel 1914), Riserva Naturale Integrale in cui è vietato
+    ogni intervento umano.
+  pt: >-
+    O Parque Nacional mais antigo dos Alpes (criado em 1914), Reserva de Proteção Integral onde é interdita
+    qualquer intervenção humana.
+unico:
+  es: Aquí la montaña se deja en paz desde 1914, y se nota en cada ladera.
+  en: Here the mountains have been left in complete peace since 1914, and it shows on every slope.
+  fr: Ici, la montagne est laissée en paix absolue depuis 1914, et cela se ressent sur chaque versant.
+  de: Hier wird die Gebirgswelt seit 1914 vollständig in Ruhe gelassen, und das spürt man an jedem Hang.
+  it: Qui la montagna viene lasciata in totale pace dal 1914, e lo si percepisce lungo ogni versante.
+  pt: Aqui a montanha repousa em paz absoluta desde 1914, o que transparece em cada encosta.
+observaciones:
+  es: >-
+    El parque cierra en invierno y la entrada queda prohibida. Los perros no están permitidos, ni siquiera
+    atados. Antes de salir, mira la normativa de protección y el estado de los senderos: el gestor insiste en
+    que los visitantes las conozcan. Se llega en transporte público o en coche, aunque el parque recomienda
+    encarecidamente tren y autobús por el medio ambiente.
+texto:
+  es:
+    intro: >-
+      En el Parque Nacional Suizo los procesos naturales no se gestionan: se protegen. Un árbol que cae se
+      queda donde cae, y lo que pase después es asunto del bosque. Esa es la idea con la que abrió el 1 de
+      agosto de 1914, y hoy es el parque nacional más antiguo de los Alpes y una reserva de la categoría Ia de
+      la UICN, la más estricta. Se extiende por la Engadina, en el cuadrilátero que dibujan Zernez, S-chanf,
+      el Ofenpass y Scuol, y tú lo recorres como invitado: por senderos señalizados, sin perros y sin salirte
+      de la línea.
+    landscape: >-
+      La piedra viene de lejos. La dolomía de las laderas procede de sedimentos que se acumularon al borde de
+      un océano hace más de 200 millones de años; el verrucano nació de la erosión de los macizos hercínicos o
+      variscos centroeuropeos; y el gneis es granito transformado por el calor y la presión. Tres rocas, tres
+      historias, y todas a la vista en una misma jornada de marcha.
+
+
+      Las cotas dan la medida del desnivel: de los 1400 m de Clemgia, junto a Scuol, a los 3174 m del Piz
+      Pisoc. Entre uno y otro el parque se reparte casi en tres mundos. Los bosques cubren un 32% de la
+      superficie, los pastizales alpinos un 20% y los roquedos y canchales nada menos que un 47%. Es decir,
+      casi la mitad del parque es piedra.
+
+
+      El clima es seco y riguroso, con mucha radiación solar y poca humedad, y el bosque lo refleja. El pino
+      cembro busca los lugares umbríos, los pinos de montaña florecen en junio y entre los árboles del parque
+      figura el abeto rojo. En los claros, el ramoneo de los herbívoros puede frenar el crecimiento de los
+      árboles jóvenes. Arriba, entre los 2000 y los 3000 m, llega la fiesta de las flores: la mayoría florece
+      en la segunda mitad de julio, y entre las especies que cita el gestor están el zueco de dama y la
+      clemátide alpina.
+    wildlife: >-
+      Casi cualquier hora sirve para ver bichos, pero cada especie tiene su sitio.
+
+
+      Las [marmotas](/especie/marmota_marmota/) están en prácticamente todos los pastos y praderas subalpinas,
+      por ejemplo en Alp Grimmels, Alp Stabelchod o en el área de descanso de Val Mela, en Val Trupchun; mejor
+      evitar las horas más calurosas. Los [rebecos](/especie/rupicapra_rupicapra/) se buscan durante toda la
+      temporada, a cualquier hora, en Murtaröl, Val Cluozza y Margunet, sobre el límite forestal. Los
+      [ciervos](/especie/cervus_elaphus/) salen de día a los espacios abiertos entre y por encima de los
+      bosques: Val Trupchun, Val Mingèr e Il Fuorn son sus escenarios, de junio a mediados de octubre. El
+      [íbice](/especie/capra_ibex/) completa el reparto de grandes animales, junto al zorro y el [águila
+      real](/especie/aquila_chrysaetos/), y es sensible al calor.
+
+
+      Para las aves grandes, espera al mediodía. El [quebrantahuesos](/especie/gypaetus_barbatus/) y el águila
+      real aprovechan las corrientes ascendentes que se forman durante el día, así que la tarde es su hora.
+      También hay vida pequeña a ras de suelo: el gestor registra 35 especies de hormigas en el parque.
+
+
+      El calendario ordena la visita. La temporada va de junio a octubre; a finales de julio, hasta las rutas
+      más altas son practicables, siempre que lleves el equipo adecuado, y octubre luce el dorado de los
+      alerces.
+    visit: >-
+      Empieza en Zernez. El Nationalparkzentrum tiene como hilo conductor lo salvaje, ofrece una mediaguía en
+      cinco idiomas (alemán, francés, italiano, romanche e inglés) y presta prismáticos. Es accesible sin
+      barreras, según la evaluación que cita el gestor. Si llegas en autobús, la parada se llama Zernez,
+      Center dal Parc Naziunal.
+
+
+      La red suma 100 km de senderos y 21 rutas para caminar y observar animales. Para ir con alguien que
+      sepa, el parque ofrece visitas guiadas. La excursión por Val Trupchun recorre 10 km con 450 m de subida
+      y bajada, y la de Margunet, 7 km con 500 m: dos jornadas que llevan justo a los sitios de ciervos y
+      rebecos. Si buscas altura, el Piz Quattervals, de 3165 m, es el punto más alto accesible del parque, y
+      solo para caminantes con experiencia.
+
+
+      De principios de julio a mediados de octubre hay también un punto móvil de información en Fuorn o en Val
+      Trupchun. Y en S-charl, el antiguo edificio de administración de las minas de plomo y plata alberga el
+      museo Schmelzra, dedicado a la minería y a los osos.
+    history: >-
+      El paisaje que ves hoy tuvo una infancia dura: la intensa explotación forestal del siglo XIX transformó
+      radicalmente la zona del actual parque. Desde 1914 el camino ha sido el contrario, dejar que el bosque y
+      la fauna sigan su curso. El gestor ya observa los efectos del cambio climático en el parque.
+
+
+      El entorno es también cultural. La reserva de la biosfera Engiadina Val Müstair, que incluye el parque,
+      está en una de las últimas regiones donde se habla romanche.
+    before: >-
+      El parque cierra en invierno y la entrada queda prohibida. Los perros no están permitidos, ni siquiera
+      atados. Antes de salir, mira la normativa de protección y el estado de los senderos: el gestor insiste
+      en que los visitantes las conozcan. Se llega en transporte público o en coche, aunque el parque
+      recomienda encarecidamente tren y autobús por el medio ambiente.
+    around: >-
+      El [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) es el vecino inmediato en el
+      atlas, a 0 km,.
+  en:
+    intro: >-
+      In the Swiss National Park, natural processes are not managed: they are protected. A fallen tree stays
+      exactly where it drops, and whatever follows is the forest's business. That was the core philosophy when
+      it opened on 1 August 1914, and today it remains the oldest national park in the Alps and an IUCN
+      Category Ia strict nature reserve, the most rigorous conservation status. It spans the Engadin within
+      the quadrilateral outlined by Zernez, S-chanf, the Ofenpass, and Scuol, and you explore it strictly as a
+      guest: on signposted paths, without dogs, and without stepping off the trail.
+    landscape: >-
+      The bedrock has ancient origins. The dolomite forming the crags originated as marine sediments
+      accumulating on the margins of an ocean more than 200 million years ago; the Verrucano sandstones arose
+      from the weathering of Central Europe's Variscan massifs; and the gneiss represents granite transformed
+      under intense heat and tectonic pressure. Three rocks, three geological epochs, all visible during a
+      single day's hike.
+
+
+      Elevations underline the dramatic vertical relief: from 1400 m along the Clemgia gorge near Scuol up to
+      3174 m on Piz Pisoc. Between the two, the park divides almost equally into three distinct realms.
+      Forests occupy 32% of the territory, alpine meadows cover 20%, and screes and rocky crags claim fully
+      47%. In other words, almost half the park is bare stone.
+
+
+      The climate is continental and demanding, characterized by intense solar radiation and low atmospheric
+      humidity, and the woods reflect these constraints. Swiss stone pine seeks cool northern aspects,
+      mountain pines bloom in June, and Norway spruce features prominently in the canopy. In forest clearings,
+      browsing wild ungulates can suppress young tree saplings. Higher up, between 2000 and 3000 m, an alpine
+      floral spectacle unfolds: most species bloom in late July, with park botanists recording treasures such
+      as lady's slipper orchid and alpine clematis.
+    wildlife: >-
+      Almost any hour yields wildlife sightings, but each creature keeps to its own habitat.
+
+
+      [Alpine marmot](/especie/marmota_marmota/) colonies inhabit virtually every subalpine pasture, such as
+      Alp Grimmels, Alp Stabelchod, or the Val Mela rest area in Val Trupchun; it is best to avoid the hottest
+      midday hours. [Chamois](/especie/rupicapra_rupicapra/) can be spotted throughout the entire season, at
+      any hour, on Murtaröl, in Val Cluozza, and around Margunet above the tree line. [Red
+      deer](/especie/cervus_elaphus/) emerge during daylight into open meadows between and above the tree
+      line: Val Trupchun, Val Mingèr, and Il Fuorn are their classic arenas from June through mid-October. The
+      [Alpine ibex](/especie/capra_ibex/) rounds out the ungulate cast alongside red foxes and the [golden
+      eagle](/especie/aquila_chrysaetos/), and retreats high to avoid midday heat.
+
+
+      For large raptors, scan the skies from midday onwards. The [bearded
+      vulture](/especie/gypaetus_barbatus/) and golden eagle ride powerful thermals that build during sunny
+      afternoons. Small wildlife thrives equally well close to the ground: park researchers have documented 35
+      species of ants across the territory.
+
+
+      The seasonal calendar dictates your visit. The trekking season runs from June to October; by late July
+      even the highest alpine passes become easily practicable provided you carry suitable mountain gear,
+      while October bathes the valleys in the golden needles of turning larches.
+    visit: >-
+      Begin your journey in Zernez. The Nationalparkzentrum centres its permanent exhibition on genuine
+      wilderness, offering a multimedia guide in five languages (German, French, Italian, Romansh, and
+      English) alongside binocular rentals. The visitor centre is fully barrier-free. If arriving by postbus,
+      alight at the Zernez, Center dal Parc Naziunal stop.
+
+
+      The trail network encompasses 100 km of paths and 21 official hiking itineraries designed for wildlife
+      observation. To hike with local experts, the park offers regular guided tours. The classic Val Trupchun
+      day hike covers 10 km with 450 m of ascent and descent, while the Margunet trail spans 7 km with 500 m
+      of climbing: two day-walks that lead straight into prime deer and chamois territory. For peak-baggers,
+      Piz Quattervals at 3165 m represents the highest accessible summit in the park, reserved exclusively for
+      sure-footed alpine hikers.
+
+
+      From early July through mid-October, seasonal mobile information points operate at Il Fuorn or within
+      Val Trupchun. In S-charl, the historic administrative building of the former lead and silver mines
+      houses the Museum Schmelzra, exploring local mining history and Alpine brown bears.
+    history: >-
+      The wild landscape you see today endured a turbulent past: intensive nineteenth-century timber
+      harvesting heavily altered the forests before park creation. Since 1914 the policy has been the absolute
+      opposite: leaving woodland and wildlife entirely to their natural succession. Park scientists are
+      already tracking the local impacts of ongoing climate change.
+
+
+      The surrounding cultural landscape is equally precious. The Engiadina Val Müstair Biosphere Reserve,
+      which encompasses the national park, preserves one of the last bastions of the Romansh language.
+    before: >-
+      The national park closes completely during winter, and entry is strictly illegal. Dogs are prohibited
+      under all circumstances, even on a leash. Check park regulations and current trail status before setting
+      out: authorities require all visitors to respect these strict rules. You can reach trailheads by public
+      transport or private car, though the park strongly advocates train and postbus travel to minimize
+      ecological impact.
+    around: >-
+      [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) is the immediate neighbor in the
+      atlas, at 0 km,.
+  fr:
+    intro: >-
+      Au Parc national suisse, les dynamiques naturelles ne se gèrent pas : elles se protègent. Un arbre qui
+      tombe demeure là où il s'est abattu, et ce qui advient ensuite relève des lois de la forêt. Telle est
+      l'idée fondatrice qui a présidé à son ouverture le 1er août 1914, faisant de lui le doyen des parcs
+      nationaux des Alpes et une réserve intégrale de catégorie Ia de l'UICN, le statut le plus rigoureux. Il
+      s'étend en Engadine dans le quadrilatère dessiné par Zernez, S-chanf, l'Ofenpass et Scuol, et vous le
+      parcourez en simple invité : sur les sentiers balisés, sans chien et sans jamais dévier de la trace.
+    landscape: >-
+      La roche témoigne d'un passé immémorial. La dolomie des escarpements est issue de sédiments marins
+      accumulés en bordure d'un océan il y a plus de 200 millions d'années ; le verrucano provient de
+      l'érosion des massifs hercyniens d'Europe centrale ; et le gneiss est un granite métamorphisé sous
+      l'effet conjugué de la chaleur et de la pression. Trois roches, trois épopées géologiques, visibles au
+      cours d'une même journée de randonnée.
+
+
+      Les dénivelés témoignent de la puissance du relief : des 1400 m de la gorge de la Clemgia près de Scuol
+      aux 3174 m du Piz Pisoc. Entre ces extrêmes, le parc se partage en trois univers distincts. Les forêts
+      couvrent 32% de la surface, les pelouses alpines 20%, tandis que les éboulis et parois rocheuses
+      occupent pas moins de 47%. Autrement dit, près de la moitié du territoire est faite de pierre nue.
+
+
+      Le climat est continental et sec, marqué par un ensoleillement intense et une faible humidité
+      atmosphérique, ce dont témoigne la végétation. Le pin cembro recherche les ubacs frais, les pins de
+      montagne fleurissent en juin et l'épicéa commun participe au peuplement forestier. Dans les trouées,
+      l'abroutissement des ongulés régule naturellement la régénération arbustive. Plus haut, entre 2000 et
+      3000 m, s'épanouit une flore alpine éclatante : la plupart des espèces fleurissent fin juillet, les
+      botanistes y recensant notamment le sabot de Vénus et la clématite des Alpes.
+    wildlife: >-
+      Toutes les heures conviennent à l'observation animale, mais chaque espèce possède son biotope de
+      prédilection.
+
+
+      La [marmotte des Alpes](/especie/marmota_marmota/) colonise la quasi-totalité des pelouses subalpines,
+      notamment à l'Alp Grimmels, l'Alp Stabelchod ou sur l'aire de repos de Val Mela dans le Val Trupchun ;
+      privilégiez les heures fraîches du matin ou du soir. Le [chamois](/especie/rupicapra_rupicapra/)
+      s'observe tout au long de la saison, à toute heure, sur le Murtaröl, dans le Val Cluozza et au Margunet
+      au-dessus de la limite des arbres. Le [cerf élaphe](/especie/cervus_elaphus/) sort en plein jour dans
+      les clairières et au-dessus des forêts : le Val Trupchun, le Val Mingèr et Il Fuorn constituent ses
+      théâtres privilégiés de juin à la mi-octobre. Le [bouquetin des Alpes](/especie/capra_ibex/) complète ce
+      prestigieux cortège avec le renard roux et l'[aigle royal](/especie/aquila_chrysaetos/), fuyant la
+      chaleur estivale dans les parois sommitales.
+
+
+      Pour les grands voiliers du ciel, attendez le milieu du jour. Le [gypaète
+      barbu](/especie/gypaetus_barbatus/) et l'aigle royal exploitent les puissants courants ascendants de
+      l'après-midi. Une riche micromonde peuple également le sol : les entomologistes ont identifié 35 espèces
+      de fourmis dans le parc.
+
+
+      Le rythme des saisons guide la découverte. La saison d'ouverture s'étend de juin à octobre ; fin
+      juillet, tous les sentiers d'altitude deviennent praticables pour peu que vous disposiez d'un équipement
+      adapté, tandis qu'octobre flamboie sous les teintes dorées des mélèzes.
+    visit: >-
+      Commencez votre visite à Zernez. Le Nationalparkzentrum s'articule autour de la vie sauvage, proposant
+      un audioguide en cinq langues (allemand, français, italien, romanche et anglais) ainsi que le prêt de
+      jumelles. Les installations sont entièrement accessibles aux personnes à mobilité réduite. En car
+      postal, descendez à l'arrêt Zernez, Center dal Parc Naziunal.
+
+
+      Le réseau compte 100 km de sentiers balisés et 21 itinéraires thématiques dédiés à l'observation de la
+      nature. Pour cheminer avec un spécialiste, le parc organise des randonnées accompagnées. Le circuit
+      pédestre du Val Trupchun totalise 10 km pour 450 m de dénivelé positif et négatif, tandis que la boucle
+      de Margunet offre 7 km et 500 m d'ascension : deux circuits majeurs menant au plus près des hardes de
+      cerfs et de chamois. Pour les amateurs de sommets, le Piz Quattervals culmine à 3165 m, représentant le
+      plus haut sommet accessible du parc, réservé aux marcheurs chevronnés.
+
+
+      De début juillet à la mi-octobre, un stand d'information mobile s'installe à Il Fuorn ou dans le Val
+      Trupchun. À S-charl, l'ancien bâtiment administratif des mines de plomb et d'argent abrite le musée
+      Schmelzra, consacré au passé minier et à l'ours brun.
+    history: >-
+      Le paysage préservé d'aujourd'hui a connu des heures sombres : l'exploitation forestière intensive du
+      XIXe siècle avait profondément dégradé la contrée avant l'instauration du parc. Depuis 1914, la démarche
+      a été radicalement inversée, laissant la forêt et la faune reprendre leurs droits sans ingérence. Les
+      scientifiques documentent déjà les premiers effets du dérèglement climatique sur les écosystèmes.
+
+
+      Le patrimoine culturel environnant est tout aussi précieux : la réserve de biosphère Engiadina Val
+      Müstair, englobant le parc national, constitue l'un des ultimes bastions où résonne la langue romanche.
+    before: >-
+      Le parc national ferme entièrement ses portes durant l'hiver, l'accès étant alors rigoureusement
+      proscrit. Les chiens sont formellement interdits, même tenus en laisse. Avant votre excursion, consultez
+      les consignes de protection et la praticabilité des itinéraires : l'autorité gestionnaire exige leur
+      strict respect. L'accès s'effectue en transports publics ou en voiture, bien que le parc recommande
+      vivement le train et le car postal par souci environnemental.
+    around: >-
+      Le [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) constitue le voisin immédiat
+      dans l'atlas, à 0 km,.
+  de:
+    intro: >-
+      Im Schweizerischen Nationalpark werden Naturprozesse nicht gesteuert: Sie werden geschützt. Ein
+      umstürzender Baum bleibt genau dort liegen, wo er hinfällt, und alles Folgende ist allein Sache des
+      Waldes. Mit diesem Grundgedanken wurde das Schutzgebiet am 1. August 1914 eröffnet. Heute ist es der
+      älteste Nationalpark der Alpen und ein strenges Naturreservat der IUCN-Kategorie Ia. Es erstreckt sich
+      im Engadin im Viereck zwischen Zernez, S-chanf, dem Ofenpass und Scuol, und du bewegst dich darin als
+      Gast: auf markierten Wegen, ohne Hund und ohne von der Route abzuweichen.
+    landscape: >-
+      Das Gestein blickt auf eine Jahrmillionen alte Geschichte zurück. Der Dolomit der Steilhänge ging aus
+      Meeressedimenten hervor, die sich vor über 200 Millionen Jahren an einem Ozeanrand ablagerten; der
+      Verrucano entstand durch die Abtragung variszischer Rumpfgebirge; und der Gneis ist durch Druck und
+      Hitze umgewandelter Granit. Drei Gesteinsarten, drei Erdzeitalter, vereint auf einer einzigen Tagestour.
+
+
+      Die Höhenlagen verdeutlichen die gewaltigen Höhendifferenzen: von 1400 m in der Clemgia-Schlucht bei
+      Scuol bis auf 3174 m am Piz Pisoc. Dazwischen gliedert sich das Schutzgebiet in drei Zonen. Wälder
+      bedecken 32% der Fläche, alpine Rasen 20% und Felsfluren sowie Schutthalden nicht weniger als 47%. Fast
+      die Hälfte des Parks besteht demnach aus nacktem Stein.
+
+
+      Das Klima ist inneralpin trocken und rau, mit starker Sonneneinstrahlung und geringer Luftfeuchtigkeit,
+      was sich in der Vegetation widerspiegelt. Die Arve bevorzugt schattige Nordhänge, Bergkiefern blühen im
+      Juni und Gemeine Fichten bereichern den Baumbestand. In Lichtungen dämpft der Verbiss wilder Huftiere
+      den Aufwuchs junger Bäume. Weiter oben, zwischen 2000 und 3000 m Höhe, entfaltet sich die alpine
+      Blütenpracht: Die meisten Arten blühen Ende Juli, darunter seltene botanische Kostbarkeiten wie
+      Frauenschuh und Alpen-Waldrebe.
+    wildlife: >-
+      Nahezu jede Tageszeit eignet sich für Tierbeobachtungen, doch jede Art besitzt ihren bevorzugten
+      Aufenthaltsort.
+
+
+      Das [Alpenmurmeltier](/especie/marmota_marmota/) besiedelt fast alle subalpinen Matten, etwa auf Alp
+      Grimmels, Alp Stabelchod oder am Rastplatz Val Mela im Val Trupchun; meide am besten die heiße
+      Mittagssonne. Die [Gämse](/especie/rupicapra_rupicapra/) lässt sich die gesamte Saison hindurch zu jeder
+      Stunde beobachten, insbesondere am Murtaröl, im Val Cluozza und am Margunet oberhalb der Waldgrenze. Der
+      [Rothirsch](/especie/cervus_elaphus/) zieht tagsüber auf die offenen Lichtungen und Hochweiden: Val
+      Trupchun, Val Mingèr und Il Fuorn sind von Juni bis Mitte Oktober seine klassischen Schauplätze. Der
+      [Alpensteinbock](/especie/capra_ibex/) ergänzt das Großwild neben dem Rotfuchs und dem
+      [Steinadler](/especie/aquila_chrysaetos/) und meidet die sommerliche Hitze in hohen Felslagen.
+
+
+      Große Greifvögel zeigen sich vor allem ab den Mittagsstunden. Der
+      [Bartgeier](/especie/gypaetus_barbatus/) und der Steinadler nutzen die im Tagesverlauf entstehende
+      Thermik für weite Gleitflüge. Auch am Boden herrscht reges Leben: Forscher weisen 35 Ameisenarten im
+      Parkgebiet nach.
+
+
+      Der Jahreskalender bestimmt das Besuchserlebnis. Die Wandersaison dauert von Juni bis Oktober; ab Ende
+      Juli sind auch hochalpine Routen mit passender Bergausrüstung problemlos begehbar, während der Oktober
+      mit golden leuchtenden Lärchenwäldern verzaubert.
+    visit: >-
+      Beginne deinen Besuch in Zernez. Das Nationalparkzentrum stellt das Thema Wildnis in den Mittelpunkt,
+      bietet einen Mediaguide in fünf Sprachen (Deutsch, Französisch, Italienisch, Rätoromanisch und Englisch)
+      sowie einen Fernglasverleih. Das Zentrum ist barrierefrei zugänglich. Bei Anreise mit dem Postauto
+      lautet die Haltestelle Zernez, Center dal Parc Naziunal.
+
+
+      Das Wegenetz umfasst 100 km Wanderwege und 21 Routen zur Natur- und Wildbeobachtung. Wer eine
+      fachkundige Begleitung schätzt, nutzt geführte Exkursionen. Die Talwanderung ins Val Trupchun misst 10
+      km bei 450 m Auf- und Abstieg, die Tour über Margunet 7 km bei 500 m Steigung: zwei Wanderklassiker zu
+      den Haupteinständen von Hirsch und Gämse. Für Gipfelstürmer ragt der Piz Quattervals mit 3165 m als
+      höchster wanderbarer Punkt empor, erfordert jedoch alpine Erfahrung und Trittsicherheit.
+
+
+      Von Anfang Juli bis Mitte Oktober informiert ein mobiler Infostand bei Il Fuorn oder im Val Trupchun. In
+      S-charl beherbergt das historische Bergwerksgebäude das Museum Schmelzra, das Bergbaugeschichte und den
+      Braunbären beleuchtet.
+    history: >-
+      Die Landschaft blickt auf eine bewegte Nutzungsgeschichte zurück: Intensive Holznutzung im neunzehnten
+      Jahrhundert veränderte die Wälder vor Parkgründung grundlegend. Seit 1914 gilt das gegenteilige
+      Schutzprinzip: Wald und Tierwelt ungestört sich selbst zu überlassen. Die Forschung dokumentiert heute
+      die spürbaren Einflüsse des Klimawandels auf die Schutzgebietsökologie.
+
+
+      Auch der kulturelle Rahmen ist bemerkenswert: Das Biosphärenreservat Engiadina Val Müstair, das den
+      Nationalpark einschließt, bildet eines der letzten Rückzugsgebiete der rätoromanischen Sprache.
+    before: >-
+      Im Winter ist der Nationalpark vollständig geschlossen und das Betreten verboten. Hunde dürfen zu keiner
+      Jahreszeit mitgeführt werden, auch nicht an der Leine. Informiere dich vorab über Schutzbestimmungen und
+      Wegzustände: Die Parkwacht achtet strikt auf deren Einhaltung. Die Anreise ist mit öffentlichen
+      Verkehrsmitteln oder Pkw möglich, wobei der Park aus Umweltschutzgründen Bahn und Postauto empfiehlt.
+    around: >-
+      Der [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) ist der direkte Nachbar im
+      Atlas, in 0 km,.
+  it:
+    intro: >-
+      Nel Parco Nazionale Svizzero i processi naturali non vengono regolati dall'uomo: vengono protetti. Un
+      albero che cade rimane esattamente dove si è schiantato, e ciò che accade in seguito appartiene alle
+      dinamiche del bosco. Con questo spirito il parco fu inaugurato il 1° agosto 1914, affermandosi oggi come
+      il più antico parco nazionale delle Alpi e una riserva integrale di categoria Ia IUCN, il livello di
+      protezione più rigoroso. Si sviluppa in Engadina all'interno del quadrilatero compreso tra Zernez,
+      S-chanf, l'Ofenpass e Scuol, e vi si accede da semplici ospiti: camminando sui sentieri segnati, senza
+      cani e senza mai abbandonare il tracciato.
+    landscape: >-
+      La matrice geologica racchiude epoche antichissime. La dolomia delle pareti deriva da sedimenti marini
+      accumulati sul bordo di un oceano oltre 200 milioni di anni fa; il verrucano scaturisce dall'erosione
+      dei massicci ercinici centroeuropei; e lo gneiss è granito rimodellato da calore e forti pressioni
+      tettoniche. Tre rocce, tre vicende geologiche, osservabili nell'arco di una singola escursione.
+
+
+      Le quote testimoniano l'aspra verticalità del territorio: dai 1400 m della forra di Clemgia vicino a
+      Scuol fino ai 3174 m del Piz Pisoc. Tra questi estremi il parco si articola in tre paesaggi distinti. I
+      boschi ricoprono il 32% della superficie, i pascoli alpini il 20% e le pietraie e balze rocciose ben il
+      47%. In pratica, quasi metà del parco è costituita da roccia pura.
+
+
+      Il clima è continentale e asciutto, con forte insolazione e ridotta umidità, e la vegetazione riflette
+      queste condizioni montane. Il pino cembro predilige gli ombrosi versanti settentrionali, i pini montani
+      fioriscono in giugno e l'abete rosso arricchisce la volta forestale. Nelle radure, il pascolo degli
+      ungulati selvatici frena naturalmente la crescita delle giovani piantine. Più in alto, tra i 2000 e i
+      3000 m, esplode la fioritura alpina: la maggior parte delle specie sboccia a fine luglio, tra cui il
+      pianella della Madonna e la clematide alpina.
+    wildlife: >-
+      Ogni ora della giornata riserva incontri faunistici, ma ogni animale frequenta ambienti ben precisi.
+
+
+      Le colonie di [marmotta](/especie/marmota_marmota/) popolano pressoché tutte le praterie subalpine, come
+      all'Alp Grimmels, all'Alp Stabelchod o presso l'area di sosta di Val Mela in Val Trupchun; conviene
+      evitare i momenti più caldi della giornata. Il [camoscio alpino](/especie/rupicapra_rupicapra/) si
+      osserva durante l'intera stagione su Murtaröl, in Val Cluozza e a Margunet oltre il limite del bosco. Il
+      [cervo](/especie/cervus_elaphus/) frequenta durante il giorno le radure aperte tra i boschi e sopra la
+      vegetazione arborea: la Val Trupchun, la Val Mingèr e Il Fuorn offrono avvistamenti costanti da giugno a
+      metà ottobre. Lo [stambecco alpino](/especie/capra_ibex/) arricchisce la comunità degli erbivori assieme
+      alla volpe rossa e all'[aquila reale](/especie/aquila_chrysaetos/), rifugiandosi in quota per sfuggire
+      alla calura.
+
+
+      Per osservare i grandi rapaci in volo, attendi le ore centrali del giorno. Il
+      [gipeto](/especie/gypaetus_barbatus/) e l'aquila reale approfittano delle termiche ascensionali che si
+      sviluppano nei pomeriggi soleggiati. Anche a terra pullula la vita: gli studiosi hanno censito 35 specie
+      di formiche nel territorio protetto.
+
+
+      Il calendario stagionale scandisce i periodi di visita. La stagione si protrae da giugno a ottobre;
+      verso fine luglio anche i valichi più elevati sono agevolmente accessibili con attrezzatura da montagna,
+      mentre ottobre regala la suggestiva livrea dorata dei lariceti.
+    visit: >-
+      Inizia il tuo itinerario da Zernez. Il Nationalparkzentrum incentra la sua esposizione sulla wilderness
+      alpina, mettendo a disposizione audioguide multimediali in cinque lingue (tedesco, francese, italiano,
+      romancio e inglese) e noleggio binocoli. La struttura è priva di barriere architettoniche. Arrivando con
+      il postale, la fermata è Zernez, Center dal Parc Naziunal.
+
+
+      La rete escursionistica vanta 100 km di sentieri e 21 percorsi destinati all'osservazione naturalistica.
+      Per farsi accompagnare da esperti, il parco programma escursioni con guida. La camminata in Val Trupchun
+      misura 10 km con 450 m di salita e discesa, mentre l'anello di Margunet richiede 7 km e 500 m di
+      dislivello: due itinerari classici che conducono direttamente negli areali di cervi e camosci. Per gli
+      amanti delle quote elevate, il Piz Quattervals con i suoi 3165 m è la cima più alta raggiungibile a
+      piedi, riservata a escursionisti esperti.
+
+
+      Da inizio luglio a metà ottobre è attivo un presidio mobile informativo a Il Fuorn o in Val Trupchun. A
+      S-charl, la storica palazzina amministrativa delle antiche miniere ospita il museo Schmelzra, dedicato
+      all'attività estrattiva e alla presenza dell'orso bruno.
+    history: >-
+      L'ambiente che oggi ammiri ha attraversato un passato difficile: gli intensi disboscamenti del
+      diciannovesimo secolo avevano impoverito profondamente il territorio prima dell'istituzione del parco.
+      Dal 1914 la rotta è stata diametralmente opposta, consentendo a bosco e fauna di seguire la loro
+      evoluzione spontanea. Gli scienziati rilevano già oggi i primi segnali del cambiamento climatico sugli
+      ecosistemi.
+
+
+      Notevole è anche la dimensione culturale: la riserva della biosfera Engiadina Val Müstair, che include
+      il parco, costituisce una delle ultime culle della lingua romancia.
+    before: >-
+      In inverno il parco rimane interamente chiuso ed è vietato accedervi. I cani non sono ammessi in nessun
+      caso, nemmeno al guinzaglio. Prima di partire, consulta il regolamento di protezione e la praticabilità
+      dei sentieri: i guardiaparco esigono il rispetto assoluto delle norme. Si può giungere con mezzi
+      pubblici o in auto, benché il parco raccomandi vivamente treno e autobus per ragioni ecologiche.
+    around: >-
+      Il [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) è il vicino immediato
+      nell'atlas, a 0 km,.
+  pt:
+    intro: >-
+      No Parque Nacional Suíço a dinâmica natural não é gerida: é estritamente protegida. Uma árvore que tomba
+      permanece no chão onde caiu, e a evolução posterior compete exclusivamente à floresta. Esta foi a
+      premissa com que abriu portas a 1 de agosto de 1914, sendo hoje o mais antigo parque nacional de todo o
+      arco alpino e uma reserva estrita de Categoria Ia da UICN. Ocupa a Engadina no quadrilátero balizado por
+      Zernez, S-chanf, o colo de Ofenpass e Scuol, e visitas este santuário na condição de mero convidado: por
+      trilhos balizados, sem cães e sem nunca abandonar a rota demarcada.
+    landscape: >-
+      A ossatura geológica possui raízes remotas. O dolomite das escarpas teve origem em sedimentos marinhos
+      depositados na orla de um oceano há mais de 200 milhões de anos; o arenito verrucano resultou da erosão
+      de antigos relevos hercínicos; e o gnaisse traduz granito transformado pelo calor e pelas pressões
+      tectónicas. Três rochas, três eras, visíveis no decurso de um mesmo dia de caminhada.
+
+
+      As cotas ilustram a pujança do relevo alpino: dos 1400 m no desfiladeiro de Clemgia junto a Scuol até
+      aos 3174 m no Piz Pisoc. Entre ambos, o parque reparte-se praticamente em três mundos. As florestas
+      ocupam 32% do território, as pastagens alpinas 20%, e as escarpas e canchais rochosos absorvem nada
+      menos que 47%. Significa isto que quase metade do parque é rocha nua.
+
+
+      O clima é continental e rigoroso, caracterizado por intensa radiação solar e reduzida humidade
+      atmosférica, o que se espelha na floresta. O pinheiro-cembra procura as encostas umbrias, os
+      pinheiros-da-montanha florescem em junho e o espruce-comum marca presença no coberto arbóreo. Nas
+      clareiras, o pastoreio dos ungulados selvagens modela a regeneração natural. Mais acima, entre os 2000 e
+      os 3000 m de altitude, desdobra-se uma exuberante floração alpina: a maioria das plantas floresce em
+      finais de julho, destacando os relatórios botânicos o sapatinho-de-vénus e a clematite-alpina.
+    wildlife: >-
+      Praticamente qualquer hora proporciona avistamentos, mas cada animal detém o seu habitat de eleição.
+
+
+      A colónia de [marmota](/especie/marmota_marmota/) estabelece-se em quase todos os prados subalpinos,
+      como em Alp Grimmels, Alp Stabelchod ou na zona de descanso de Val Mela no Val Trupchun; convém contudo
+      evitar as horas de maior calor. A [camurça](/especie/rupicapra_rupicapra/) avista-se ao longo de toda a
+      temporada, a qualquer hora, em Murtaröl, Val Cluozza e Margunet acima da orla florestal. O
+      [veado-vermelho](/especie/cervus_elaphus/) surge durante o dia em pastagens abertas entre e acima dos
+      bosques: Val Trupchun, Val Mingèr e Il Fuorn são os seus territórios emblemáticos de junho a meados de
+      outubro. O [íbex](/especie/capra_ibex/) completa a fauna de montanha a par da raposa e da
+      [águia-real](/especie/aquila_chrysaetos/), resguardando-se nas escarpas elevadas nos dias quentes.
+
+
+      Para avistar as grandes aves planadoras, aguarda pelo meio-dia. O
+      [quebra-ossos](/especie/gypaetus_barbatus/) e a águia-real tiram partido das correntes térmicas que se
+      erguem ao sol da tarde. Junto ao solo pulula a pequena fauna: os cientistas catalogaram 35 espécies de
+      formigas no parque.
+
+
+      As estações do ano determinam o acesso. A época de visita decorre de junho a outubro; em finais de julho
+      até os trilhos de altitude se tornam transitáveis com calçado de montanha adequado, enquanto outubro se
+      veste com o brilho dourado dos lariços.
+    visit: >-
+      Inicia a visita em Zernez. O Nationalparkzentrum explora como tema central a natureza selvagem,
+      disponibilizando um audioguia em cinco idiomas (alemão, francês, italiano, romanche e inglês) e aluguer
+      de binóculos. A infraestrutura não tem barreiras arquitetónicas. Chegando de autocarro postal, a paragem
+      é Zernez, Center dal Parc Naziunal.
+
+
+      A rede balizada soma 100 km de caminhos e 21 percursos pedestres orientados para a observação de fauna.
+      Para caminhar acompanhado por especialistas, o parque promove saídas guiadas. O percurso pelo Val
+      Trupchun cobre 10 km com 450 m de subida e descida, e o trilho de Margunet tem 7 km com 500 m de
+      desnível: dois circuitos que conduzem aos habitats principais de veados e camurças. Para os adeptos de
+      altitude, o Piz Quattervals ergue-se a 3165 m, sendo o ponto acessível mais elevado do parque, reservado
+      a caminhantes experientes.
+
+
+      Desde o início de julho até meados de outubro funciona um posto móvel de informação em Il Fuorn ou no
+      Val Trupchun. Em S-charl, o edifício administrativo das antigas minas de prata e chumbo alberga o museu
+      Schmelzra, focado no passado mineiro e no urso-pardo.
+    history: >-
+      A paisagem que hoje se observa conheceu tempos de forte degradação: o corte intensivo de madeira no
+      século XIX descaracterizou a região antes da fundação do parque. Desde 1914 seguiu-se a via oposta,
+      permitindo que a floresta e os animais retomassem a sua dinâmica natural. Os cientistas já monitorizam
+      os efeitos do aquecimento global nos ecossistemas do parque.
+
+
+      O contexto cultural envolvente é igualmente rico: a Reserva da Biosfera Engiadina Val Müstair, que
+      acolhe o parque nacional, representa um dos últimos santuários da língua romanche.
+    before: >-
+      O parque encerra integralmente no inverno, sendo proibida qualquer entrada. A presença de cães é
+      interdita em qualquer circunstância, mesmo com trela. Antes de partir, informa-te sobre as normas e o
+      estado dos percursos: a administração zela com rigor pelo seu cumprimento. O acesso pode ser feito de
+      transportes públicos ou de carro particular, encorajando vivamente a gestão o recurso ao comboio e ao
+      autocarro postal por imperativos ecológicos.
+    around: >-
+      O [Parque Nacional del Stelvio](/lugar/parco-nazionale-dello-stelvio/) é o vizinho direto no atlas, a 0
+      km,.
+fuentes:
+  - url: https://nationalpark.ch/en/visit/
+    titulo: Visit — Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/nature/animals/
+    titulo: Animals — Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/nature/habitats-seasons/summer/
+    titulo: Summer — Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark
+    titulo: Schweizerischer Nationalpark — Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/about/national-park/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://www.val-muestair.ch/en/naturpark/portrait/biosfera-val-muestair
+    titulo: Biosfera Val Müstair — entidad pública municipal
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/dolomite/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/verrucano/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/gneiss/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9312367/
+    titulo: Gilgado et al. 2022 — Six groups of ground-dwelling arthropods
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/cembra-pine/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/mountain-pine/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/norway-spruce/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/nature/natural-processes/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://en.wikipedia.org/wiki/Swiss_National_Park
+    titulo: Swiss National Park — Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/nature/habitats-seasons/alpine-mixed-forests/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://www.unesco.org/en/mab/biosfera-engiadina-val-mustair?hub=66369
+    titulo: Biosfera Engiadina Val Müstair — UNESCO
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/nature/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/visit/national-park-centre/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/besuchen/exkursionen/trupchun/
+    titulo: Tagesexkursion Val Trupchun — SNP
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/wp-content/uploads/2026/04/2026_Exkursionsangebote_k.pdf
+    titulo: Infos zu den Tagesexkursionen — SNP 2026
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/protection-regulations/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/besuchen/nationalparkzentrum/
+    titulo: Nationalparkzentrum — SNP
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/visit/schmelzra-museum/
+    titulo: Swiss National Park
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/fr/wp-content/uploads/sites/6/2025/04/2025_SNP_Basisprospekt_F.pdf
+    titulo: Folleto SNP 2025 — Infomobile
+    fecha_consulta: '2026-10-22'
+  - url: https://nationalpark.ch/en/flora-and-fauna/wood-ants/
+    titulo: Wood ants — Swiss National Park
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_Zernez.jpg
+    autor: WillYs Fotowerkstatt
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,638 @@
+id: nationalpark-bayerischer-wald
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Bosque Baviera
+  en: Bavarian Forest National Park
+  fr: Parc national de la forêt de Bavière
+  de: Nationalpark Bayerischer Wald
+  it: Parco Nazionale della Foresta Bavarese
+  pt: Parque Nacional da Floresta da Baviera
+nombre_original: Nationalpark Bayerischer Wald
+alias:
+  - Bavarian Forest Wilderness
+paises:
+  - DE
+region:
+  es: Baviera (Baja Baviera / Grafenau)
+  en: Bavaria (Lower Bavaria / Grafenau)
+  fr: Bavière (Basse-Bavière / Grafenau)
+  de: Bayern (Niederbayern / Grafenau)
+  it: Baviera (Bassa Baviera / Grafenau)
+  pt: Baviera (Baixa Baviera / Grafenau)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.95
+  lon: 13.4
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 667
+  nombre_en_la_fuente: Bayerischer Wald
+  categoria_uicn: II
+  capa: capas/cdda/nationalpark-bayerischer-wald.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+  - primary_forest
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - lynx_lynx
+  - canis_lupus
+  - tetrao_urogallus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en Lusen y Rachel; baja en la zona de reserva salvaje
+  en: Moderate around Lusen and Rachel; low across the core wilderness zone
+  fr: Moyenne au Lusen et au Rachel ; faible dans la zone de nature sauvage
+  de: Mäßig an Lusen und Rachel; gering in der Kernzone der Wildnis
+  it: Media sul Lusen e sul Rachel; bassa nella riserva di natura selvaggia
+  pt: Média em Lusen e Rachel; baixa na zona de reserva selvagem
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Nationalpark Bayerischer Wald Official
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/
+  - titulo: Rutas — Senderismo en el Bosque Bávaro
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/wandern/index.htm
+  - titulo: Normas — Recomendaciones de visita
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/verhaltenstipps/index.htm
+  - titulo: Avisos — Estado de los senderos
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/service/wegeservice/index.htm
+  - titulo: Accesos — Transporte público y llegada
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/service/anreise/index.htm
+  - titulo: Centros de visitantes — Instalaciones del parque
+    url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/einrichtungen/index.htm
+resumen:
+  es: >-
+    El primer Parque Nacional de Alemania (1970), que forma junto a Šumava la mayor masa boscosa no
+    interrumpida de Europa Central.
+  en: >-
+    Germany's first National Park (1970), forming alongside Šumava the largest unbroken forest tract in
+    Central Europe.
+  fr: >-
+    Le premier parc national d’Allemagne (1970), formant avec la Šumava le plus grand massif forestier continu
+    d’Europe centrale.
+  de: >-
+    Der erste Nationalpark Deutschlands (1970), der zusammen mit Šumava das größte zusammenhängende Waldgebiet
+    Mitteleuropas bildet.
+  it: >-
+    Il primo Parco Nazionale della Germania (1970), che forma insieme alla Šumava la più vasta copertura
+    forestale continua dell’Europa centrale.
+  pt: >-
+    O primeiro Parque Nacional da Alemanha (1970), formando junto a Šumava o maior maciço florestal contínuo
+    da Europa Central.
+unico:
+  es: El bosque de producción de ayer es el bosque primario de mañana.
+  en: Yesterday's timber plantation is tomorrow's primeval wilderness.
+  fr: La forêt de production d’hier est la forêt primaire de demain.
+  de: Der Wirtschaftswald von gestern ist der Urwald von morgen.
+  it: Il bosco di produzione di ieri è la foresta primaria di domani.
+  pt: A floresta de produção de ontem é a floresta primária de amanhã.
+observaciones:
+  es: >-
+    En los entornos sensibles, como las cumbres y las turberas, hay que seguir los caminos para proteger
+    especies amenazadas. Solo se puede ir en bici por las rutas marcadas, aparcar en los aparcamientos
+    señalizados, y están prohibidos el tabaco y el fuego, y los perros sueltos. Caen árboles y ramas muertas,
+    y con viento fuerte se debe salir del bosque; el uso de los caminos es siempre bajo propio riesgo. El
+    parque recibe 1,3 millones de visitantes al año.
+texto:
+  es:
+    intro: >-
+      El 1 de agosto de 1983 una tormenta derribó unos 70.000 m³ de madera y el ministro Hans Eisenmann tomó
+      una decisión que cambiaría la idea de bosque en Alemania: no intervenir más. Que crezca un «bosque
+      primario para nuestros hijos y nietos», dijo. El Parque Nacional del Bosque Bávaro, el primero de
+      Alemania, abierto el 7 de octubre de 1970, se extiende junto a la frontera checa entre Bayerisch
+      Eisenstein y Mauth, y desde entonces vive con un lema: dejar que la naturaleza sea naturaleza. Junto con
+      el vecino Šumava forma el mayor espacio forestal protegido de Europa central.
+    landscape: >-
+      Las rocas son paragneis y granito, y en las glaciaciones las cumbres estuvieron cubiertas de hielo. Hoy
+      el bosque cubre el 98 % de la superficie, con turberas abiertas, las Filze, y antiguas dehesas de monte,
+      los Schachten. Las cumbres más marcadas son el Großer Rachel (1453 m), el Lusen (1373 m) y el Großer
+      Falkenstein (1315 m), y el lago de montaña natural es el Rachelsee.
+
+
+      La altura reparte tres bosques. En las cumbres, desde unos 1200 m, crece la pícea de montaña; en las
+      laderas más cálidas, un bosque mixto de pícea, abeto, haya y arce; y en las hondonadas húmedas, donde el
+      aire frío se estanca de noche, la pícea de valle. En las cumbres la temperatura media anual es de dos a
+      cinco grados, llueve entre 830 y 2280 mm al año y la nieve dura de siete a ocho meses.
+
+
+      Lo que se ve no es lo que había. Entre 1910 y 1950 se arrasaron casi todos los restos de bosque primario
+      de montaña. En los años noventa muchas píceas del Lusen murieron por el escarabajo de la corteza, y
+      desde entonces el bosque se regenera solo. Los restos que quedan, como Mittelsteighütte, hoy se pueden
+      visitar.
+    wildlife: >-
+      Lince, nutria, urogallo y cárabo uralense vuelven a tener casa aquí. El [lince](/especie/lynx_lynx/)
+      desapareció en el siglo XIX por persecución, igual que el oso y el lobo, y volvió gracias a un proyecto
+      checo de suelta en la década de 1980. El [lobo](/especie/canis_lupus/) es otra vez un habitante, y viven
+      también [gato montés](/especie/felis_silvestris/), [nutria](/especie/lutra_lutra/) y
+      [castor](/especie/castor_fiber/).
+
+
+      El ave del Bosque Bávaro es el [urogallo](/especie/tetrao_urogallus/), y su cortejo se observa a finales
+      del invierno. Se recuperó gracias a medidas de protección, sobre todo la obligación de no salirse de los
+      caminos. El [cárabo uralense](/especie/strix_uralensis/) volvió con un proyecto de reintroducción y
+      ahora cría sobre todo en árboles viejos muertos. Otras aves especiales son el papamoscas papirrojo, el
+      mirlo capiblanco y el [pico tridáctilo](/especie/picoides_tridactylus/).
+
+
+      Y luego están los pequeños. Se han contado más de 1.600 especies de escarabajos, entre ellas 16 reliquia
+      de bosque primario, como Tragosoma depsarium, que sobrevivieron en restos como Mittelsteighütte o
+      Rachelseewand y se expanden de nuevo. La madera muerta alimenta y da hogar a cientos de insectos, hongos
+      y aves, y los árboles caídos por el viento se quedan donde están.
+    visit: >-
+      Empieza por uno de los dos centros. El del Lusen, junto a Neuschönau, tiene la Hans-Eisenmann-Haus,
+      recintos de animales, plantas y rocas y un sendero entre las copas de los árboles. El del Falkenstein,
+      cerca de Ludwigsthal, tiene la Haus zur Wildnis, un recinto de animales y una cueva de la Edad de
+      Piedra. En los recintos de Neuschönau y Ludwigsthal se ven en grandes cercados los habitantes actuales y
+      pasados del bosque. Hay también puntos de información en Bayerisch Eisenstein, Zwiesel, Frauenau,
+      Spiegelau, Mauth y Freyung, y el parque programa visitas guiadas durante todo el año.
+
+
+      La red tiene unos 350 km de senderos señalizados: los circulares se marcan con un animal sobre fondo
+      amarillo y los lineales con una planta sobre fondo blanco. Por el parque pasan los senderos de larga
+      distancia Goldsteig y E6. Hay senderos cortos de descubrimiento: Seelensteig bajo el Rachel,
+      Windwurf-Erlebnispfad en el Falkenstein, Schachten y Filze cerca de Frauenau y el bosque primario
+      Hans-Watzlik-Hain. Un mirador muy popular está en la capilla del Rachel, con vistas al Rachelsee. En
+      algunos tramos, como Mittelsteighütte, se vive un resto de bosque primario, y pasarelas de madera cruzan
+      turberas y bosques de ribera frágiles. Hay más de 200 km de rutas ciclistas y unos 80 km de pistas de
+      esquí de fondo. En invierno hay una red de senderos allanados o despejados, sobre todo en las zonas
+      bajas, y también se puede ir con raquetas.
+    history: >-
+      En el siglo XIII se asentaron vidrieros, y pueblos como Riedlhütte, Neuschönau y Weidhütte nacieron de
+      las vidrierías. Después vino la tala intensiva. El parque se amplió el 1 de agosto de 1997 con la zona
+      Falkenstein-Rachel y el 23 de junio de 2022 con una zona al noreste de Finsterau, hasta unas 24.945 ha.
+      Las zonas naturales, sin ninguna intervención, cubren el 75,37 % de la superficie.
+    before: >-
+      En los entornos sensibles, como las cumbres y las turberas, hay que seguir los caminos para proteger
+      especies amenazadas. Solo se puede ir en bici por las rutas marcadas, aparcar en los aparcamientos
+      señalizados, y están prohibidos el tabaco y el fuego, y los perros sueltos. Caen árboles y ramas
+      muertas, y con viento fuerte se debe salir del bosque; el uso de los caminos es siempre bajo propio
+      riesgo. El parque recibe 1,3 millones de visitantes al año.
+    around: >-
+      El [Parque Nacional de Šumava](/lugar/narodni-park-sumava/) está a solo 1 km y continúa el mismo bosque
+      al otro lado de la frontera. A unos 15 km se encuentra el [Bosque Virgen de
+      Boubín](/lugar/boubinsky-prales/), un resto de bosque primario.
+  en:
+    intro: >-
+      On 1 August 1983 a violent storm felled roughly 70,000 m³ of timber, and Bavarian minister Hans
+      Eisenmann made a decision that would transform the concept of forests in Germany: no salvage logging.
+      Let a «primeval forest grow for our children and grandchildren», he declared. Bavarian Forest National
+      Park, Germany’s very first national park inaugurated on 7 October 1970, stretches along the Czech border
+      between Bayerisch Eisenstein and Mauth, guided ever since by a simple philosophy: let nature be nature.
+      Conjoined with neighbouring Šumava, it constitutes Central Europe’s largest contiguous protected forest
+      wilderness.
+    landscape: >-
+      The bedrock consists of paragneiss and granite, and during the Ice Ages the crests were smothered in
+      ice. Today forest blankets 98 % of the surface, punctuated by open raised bogs, the Filze, and
+      high-altitude pastures, the Schachten. The most prominent peaks are Großer Rachel (1453 m), Lusen (1373
+      m), and Großer Falkenstein (1315 m), while the solitary natural glacial lake is Rachelsee.
+
+
+      Altitude separates three distinct forest zones. On mountain summits above 1200 m grows montane spruce
+      taiga; across warmer slopes extends mixed mountain forest of spruce, fir, beech, and sycamore; and along
+      damp frosty hollows where nocturnal cold air settles pools valley spruce. On the summits mean annual
+      temperatures linger between two and five degrees, annual precipitation ranges from 830 to 2280 mm, and
+      snow cover persists for seven to eight months.
+
+
+      What meets the eye is not what once stood here. Between 1910 and 1950, almost every surviving relic of
+      montane primeval forest was logged. In the nineties, millions of spruces across Lusen succumbed to the
+      spruce bark beetle, and since then the woodland has been regenerating entirely under its own momentum.
+      Precious remnants such as Mittelsteighütte can be visited today.
+    wildlife: >-
+      Lynx, otter, capercaillie, and Ural owl have reclaimed their home here. The [Eurasian
+      lynx](/especie/lynx_lynx/) vanished in the nineteenth century due to ruthless persecution, alongside
+      bear and wolf, returning thanks to a Czech reintroduction project in the 1980 decade. The
+      [wolf](/especie/canis_lupus/) is once again an established resident, joined by [European
+      wildcat](/especie/felis_silvestris/), [Eurasian otter](/especie/lutra_lutra/), and [Eurasian
+      beaver](/especie/castor_fiber/).
+
+
+      The quintessential bird of the Bavarian Forest is the [western
+      capercaillie](/especie/tetrao_urogallus/), whose courtship displays occur in late winter. Its population
+      rebounded thanks to strict conservation measures, above all the imperative to remain on waymarked paths.
+      The [Ural owl](/especie/strix_uralensis/) returned following a successful reintroduction initiative and
+      now nests predominantly in decaying veteran trees. Other avian specialties include red-breasted
+      flycatcher, ring ouzel, and [three-toed woodpecker](/especie/picoides_tridactylus/).
+
+
+      Then come the smaller creatures. Over 1,600 beetle species have been documented, including 16 primeval
+      forest relict species such as Tragosoma depsarium, which held out in refugia like Mittelsteighütte or
+      Rachelseewand and are expanding again. Deadwood provides nourishment and habitat for hundreds of
+      insects, fungi, and birds, and windthrown trunks remain exactly where they fall.
+    visit: >-
+      Begin at one of the two visitor centres. The Lusen centre near Neuschönau features the
+      Hans-Eisenmann-Haus, large open-air animal, plant, and geological enclosures, and a tree-top walk. The
+      Falkenstein centre near Ludwigsthal houses the Haus zur Wildnis, an animal enclosure, and a Stone Age
+      cave. In the spacious enclosures of Neuschönau and Ludwigsthal you can observe past and present forest
+      denizens. Additional information points operate in Bayerisch Eisenstein, Zwiesel, Frauenau, Spiegelau,
+      Mauth, and Freyung, and the park organises guided ranger walks throughout the year.
+
+
+      The trail network encompasses around 350 km of marked footpaths: circular trails are signified by an
+      animal silhouette on a yellow background, while linear routes carry a plant icon on a white background.
+      Long-distance routes Goldsteig and E6 cross the park. Popular themed nature trails include the
+      Seelensteig beneath the Rachel, the Windwurf-Erlebnispfad at Falkenstein, the Schachten und Filze loop
+      near Frauenau, and the primeval grove Hans-Watzlik-Hain. A classic viewpoint crowns the Rachel chapel
+      overlooking Rachelsee. In certain sections, such as Mittelsteighütte, you encounter old-growth relics,
+      while boardwalks traverse fragile mires and riparian woodlands. More than 200 km of cycling routes and
+      some 80 km of cross-country ski trails are maintained. In winter a network of groomed winter walking
+      tracks is kept clear in lower elevations, and snowshoeing is widespread.
+    history: >-
+      In the thirteenth century glassmakers settled in these valleys, and settlements like Riedlhütte,
+      Neuschönau, and Weidhütte arose around forest glass foundries. Intensive commercial logging followed.
+      The national park was enlarged on 1 August 1997 with the Falkenstein-Rachel sector and on 23 June 2022
+      with an area northeast of Finsterau, reaching roughly 24,945 ha. Strict natural zones, entirely free
+      from human intervention, encompass 75.37 % of the park area.
+    before: >-
+      In sensitive habitats, particularly mountain crests and peat mires, you must stick strictly to
+      designated trails to shield endangered species from disturbance. Cycling is restricted to marked tracks,
+      vehicles must use official car parks, and smoking, open campfires, and free-running dogs are prohibited.
+      Dead standing trees and branches can shed without warning, and visitors must leave the woods during high
+      winds; trail use is strictly at your own risk. The park welcomes around 1.3 million visitors annually.
+    around: >-
+      The [Šumava National Park](/lugar/narodni-park-sumava/) is just 1 km away, extending the exact same
+      continuous forest massif across the Czech border. Roughly 15 km away lies the [Boubín Primeval
+      Forest](/lugar/boubinsky-prales/), a famed old-growth forest reserve.
+  fr:
+    intro: >-
+      Le 1 août 1983, une violente tempête jeta à terre près de 70 000 m³ de bois et le ministre bavarois Hans
+      Eisenmann prit une décision qui allait révolutionner la conception de la forêt en Allemagne : ne plus
+      déblayer. Laissons croître une « forêt primaire pour nos enfants et petits-enfants », déclara-t-il. Le
+      Parc national de la forêt de Bavière, premier parc national d’Allemagne inauguré le 7 octobre 1970,
+      longe la frontière tchèque entre Bayerisch Eisenstein et Mauth, guidé depuis lors par une devise
+      immuable : laisser la nature être nature. Uni à la Šumava voisine, il compose le plus vaste sanctuaire
+      forestier protégé d’Europe centrale.
+    landscape: >-
+      Le socle se compose de paragneiss et de granite, et les crêtes furent coiffées de glaciers lors des
+      périodes glaciaires. Aujourd’hui la forêt recouvre 98 % de l’espace, ponctuée de tourbières ouvertes,
+      les Filze, et d’anciens pâturages d’estive boisés, les Schachten. Les sommets les plus emblématiques
+      sont le Großer Rachel (1453 m), le Lusen (1373 m) et le Großer Falkenstein (1315 m), tandis que le
+      Rachelsee constitue l’unique lac glaciaire naturel.
+
+
+      L’altitude étage trois formations forestières. Sur les crêtes sommitales, au-delà de 1200 m, s’épanouit
+      la pessière montagnarde ; sur les pentes plus douces et tempérées s’étend la forêt mixte d’épicéa,
+      sapin, hêtre et érable ; et dans les combes humides où stagne l’air nocturne glacial végète la pessière
+      de fond de vallée. Sur les sommets, la température moyenne annuelle oscille entre deux et cinq degrés,
+      les précipitations atteignent 830 à 2280 mm par an et le manteau neigeux persiste de sept à huit mois.
+
+
+      Ce que l’on observe aujourd’hui n’est pas la forêt originelle. Entre 1910 et 1950, presque tous les
+      lambeaux résiduels de vieille forêt furent coupés. Dans les années quatre-vingt-dix, de nombreux épicéas
+      du Lusen dépérirent sous les assauts du scolyte typographe, et depuis lors la régénération s’opère
+      d’elle-même. De précieux vestiges tels que Mittelsteighütte peuvent être explorés aujourd’hui.
+    wildlife: >-
+      Lynx, loutre, grand tétras et chouette de l’Oural ont retrouvé un asile ici. Le [lynx
+      boréal](/especie/lynx_lynx/) avait disparu au dix-neuvième siècle sous la pression de la chasse, tout
+      comme l’ours et le loup, avant de revenir à la faveur d’un programme de réintroduction tchèque dans la
+      décennie 1980. Le [loup](/especie/canis_lupus/) est de nouveau présent, côtoyant le [chat
+      sauvage](/especie/felis_silvestris/), la [loutre d’Europe](/especie/lutra_lutra/) et le [castor
+      d’Europe](/especie/castor_fiber/).
+
+
+      L’oiseau emblématique de la forêt bavaroise est le [grand tétras](/especie/tetrao_urogallus/), dont les
+      parades nuptiales animent la fin de l’hiver. Il a pu se rétablir grâce à des mesures de protection
+      strictes, au premier rang desquelles l’interdiction formelle de quitter les sentiers. La [chouette de
+      l’Oural](/especie/strix_uralensis/) a été réintroduite avec succès et niche principalement dans les gros
+      arbres morts sénescents. Parmi les autres oiseaux remarquables figurent le gobe-mouche nain, le merle à
+      plastron et le [pic tridactyle](/especie/picoides_tridactylus/).
+
+
+      Enfin foisonne le micromonde. Plus de 1 600 espèces de coléoptères y sont recensées, dont 16 reliques
+      strictes de forêts primaires, à l’image de Tragosoma depsarium, qui ont subsisté dans des sanctuaires
+      comme Mittelsteighütte ou le Rachelseewand et recolonisent le massif. Le bois mort nourrit et abrite des
+      centaines d’insectes, de champignons et d’oiseaux, et les chablis demeurent intacts sur place.
+    visit: >-
+      Commencez par l’un des deux centres d’accueil. Celui du Lusen, près de Neuschönau, abrite la
+      Hans-Eisenmann-Haus, de vastes enclos fauniques, botaniques et géologiques ainsi qu’un sentier suspendu
+      dans la canopée. Celui du Falkenstein, près de Ludwigsthal, propose la Haus zur Wildnis, un enclos
+      animalier et une caverne préhistorique. Dans les parcs de vision de Neuschönau et de Ludwigsthal, vous
+      observerez dans de grands espaces naturels les hôtes historiques et contemporains de la forêt. Des
+      points d’information accueillent les visiteurs à Bayerisch Eisenstein, Zwiesel, Frauenau, Spiegelau,
+      Mauth et Freyung, et le parc organise des sorties accompagnées toute l’année.
+
+
+      Le réseau compte environ 350 km de sentiers balisés : les circuits en boucle sont signalés par un animal
+      sur fond jaune et les tracés linéaires par une plante sur fond blanc. Les sentiers de grande randonnée
+      Goldsteig et E6 traversent le parc. Des itinéraires thématiques méritent le détour : le Seelensteig sous
+      le Rachel, le Windwurf-Erlebnispfad au Falkenstein, la boucle des Schachten et Filze près de Frauenau et
+      le lambeau forestier remarquable Hans-Watzlik-Hain. La chapelle du Rachel offre un belvédère très couru
+      sur le Rachelsee. Dans certains secteurs comme Mittelsteighütte, vous découvrirez des reliques de forêt
+      primaire, et des platelages de bois franchissent les tourbières délicates. Plus de 200 km de pistes
+      cyclables et près de 80 km de pistes de ski de fond complètent l’offre. En hiver, un réseau de chemins
+      damés est entretenu dans les vallées et la raquette à neige se pratique largement.
+    history: >-
+      Au treizième siècle, des maîtres verriers s’établirent dans les vallons, et des bourgs comme Riedlhütte,
+      Neuschönau et Weidhütte naquirent autour des verreries forestières. Une exploitation intensive
+      s’ensuivit. Le parc national fut étendu le 1 août 1997 au secteur Falkenstein-Rachel, puis le 23 juin
+      2022 à une zone au nord-est de Finsterau, pour atteindre environ 24 945 ha. Les zones de protection
+      intégrale, exemptes de toute intervention, couvrent 75,37 % de la superficie.
+    before: >-
+      Dans les milieux vulnérables tels que les crêtes et les tourbières, il est impératif de rester sur les
+      chemins balisés pour préserver les espèces fragiles. La bicyclette n’est admise que sur les itinéraires
+      dédiés, le stationnement est réservé aux parkings prévus, et le feu, le tabac et les chiens non tenus en
+      laisse sont rigoureusement proscrits. Des arbres morts ou des branches peuvent chuter à tout instant, et
+      il convient de quitter les sous-bois par vent fort ; l’accès s’effectue toujours à vos risques et
+      périls. Le parc enregistre 1,3 million de visiteurs par an.
+    around: >-
+      Le [Parc national de Šumava](/lugar/narodni-park-sumava/) se trouve à seulement 1 km et prolonge le même
+      massif forestier de l’autre côté de la frontière. À environ 15 km s’étend la [Forêt primaire de
+      Boubín](/lugar/boubinsky-prales/), vestige réputé de vieille forêt montagnarde.
+  de:
+    intro: >-
+      Am 1. August 1983 warf ein Sturm rund 70.000 m³ Holz zu Boden, und Umweltminister Hans Eisenmann traf
+      eine richtungsweisende Entscheidung für den Naturschutz in Deutschland: kein Aufräumen mehr. Es solle
+      ein «Urwald für unsere Kinder und Enkel» entstehen, verfügte er. Der Nationalpark Bayerischer Wald, der
+      erste Nationalpark Deutschlands, feierlich eröffnet am 7. Oktober 1970, erstreckt sich entlang der
+      tschechischen Grenze zwischen Bayerisch Eisenstein und Mauth nach einem einfachen Leitbild: Natur Natur
+      sein lassen. Gemeinsam mit dem benachbarten Šumava bildet er das größte geschützte Waldgebiet
+      Mitteleuropas.
+    landscape: >-
+      Das Grundgebirge besteht aus Paragneis und Granit, und in den Eiszeiten trugen die Kämme Firnkappen.
+      Heute bedeckt der Wald 98 % der Parkfläche, durchsetzt von offenen Hochmooren, den Filzen, und
+      historischen Waldweiden, den Schachten. Die markantesten Gipfel sind der Große Rachel (1453 m), der
+      Lusen (1373 m) und der Große Falkenstein (1315 m); einziger natürlicher Karsee ist der Rachelsee.
+
+
+      Die Höhenstufen gliedern drei Waldtypen. Auf den Kämmen ab etwa 1200 m wächst der Aufichtenwald; an den
+      sonnigen Hängen gedeiht Bergmischwald aus Fichte, Tanne, Buche und Bergahorn; und in frostigen
+      Muldenlagen sammelt sich nachts kalte Luft im Talspichtenwald. Auf den Berggipfeln liegt die
+      Jahresmitteltemperatur zwischen zwei und fünf Grad, die Niederschläge erreichen 830 bis 2280 mm im Jahr
+      und der Schnee bleibt sieben bis acht Monate liegen.
+
+
+      Das heutige Waldbild entspricht nicht dem Urzustand: Zwischen 1910 und 1950 wurden fast alle Reste
+      montanen Urwalds kahlgeschlagen. In den neunziger Jahren starben am Lusen weite Fichtenforste durch den
+      Borkenkäfer ab; seither regeneriert sich der Wald aus eigener Kraft. Historische Relikte wie die
+      Mittelsteighütte lassen sich heute erwandern.
+    wildlife: >-
+      Luchs, Fischotter, Auerhuhn und Habichtskauz haben hier wieder ein Zuhause gefunden. Der [Eurasische
+      Luchs](/especie/lynx_lynx/) war im neunzehnten Jahrhundert durch Bejagung ausgerottet worden, ebenso wie
+      Bär und Wolf, und kehrte dank tschechischer Auswilderungen in den 1980er Jahren zurück. Der
+      [Wolf](/especie/canis_lupus/) ist wieder fest etabliert, flankiert von
+      [Wildkatze](/especie/felis_silvestris/), [Fischotter](/especie/lutra_lutra/) und
+      [Biber](/especie/castor_fiber/).
+
+
+      Das Wappentier des Bayerischen Waldes ist das [Auerhuhn](/especie/tetrao_urogallus/), dessen Balz im
+      Spätwinter stattfindet. Es erholte sich dank strenger Schutzmaßnahmen, vor allem des konsequenten
+      Wegegebots. Der [Habichtskauz](/especie/strix_uralensis/) kehrte über Wiederansiedlungsprojekte zurück
+      und brütet bevorzugt in morschen Baumhöhlen. Weitere Besonderheiten sind Zwergschnäpper, Ringdrossel und
+      [Dreizehenspecht](/especie/picoides_tridactylus/).
+
+
+      Beeindruckend ist auch die Kleintierwelt: Über 1.600 Käferarten wurden gezählt, darunter 16
+      Urwaldreliktarten wie der Zottenbock (Tragosoma depsarium), die in Refugien wie der Mittelsteighütte
+      oder der Rachelseewand überdauerten und sich wieder ausbreiten. Totholz bietet Nahrung und Nistplätze
+      für hunderte Insekten, Pilze und Vögel; Windwurfflächen bleiben gänzlich unberührt liegen.
+    visit: >-
+      Beginne deinen Besuch in einem der beiden Besucherzentren. Das Hans-Eisenmann-Haus am Lusen bei
+      Neuschönau bietet Tierfreigehege, ein Pflanzen- und Gesteinsfreigelände sowie einen Baumwipfelpfad. Das
+      Haus zur Wildnis am Falkenstein bei Ludwigsthal umfasst ein Tierfreigehege und eine Steinzeithöhle. In
+      den weitläufigen Gehegen bei Neuschönau und Ludwigsthal lassen sich einstige und gegenwärtige
+      Waldbewohner beobachten. Infostellen bestehen in Bayerisch Eisenstein, Zwiesel, Frauenau, Spiegelau,
+      Mauth und Freyung; ganzjährig werden Führungen angeboten.
+
+
+      Das Wegenetz umfasst rund 350 km markierte Wanderwege: Rundwege sind mit einem Tiersymbol auf gelbem
+      Grund gekennzeichnet, Streckenwege mit einer Pflanze auf weißem Grund. Die Weitwanderwege Goldsteig und
+      E6 queren das Schutzgebiet. Lohnende Themenwege sind der Seelensteig unterhalb des Rachels, der
+      Windwurf-Erlebnispfad am Falkenstein, die Rundtour über Schachten und Filze bei Frauenau und der
+      Urwaldrest Hans-Watzlik-Hain. Ein beliebter Rastplatz ist die Rachelkapelle über dem Rachelsee. Auf
+      Holzstegen querst du empfindliche Moore. Über 200 km Radwege und etwa 80 km Loipen stehen bereit. Im
+      Winter wird ein Netz geräumter Winterwanderwege gepflegt, und Schneeschuhtouren sind möglich.
+    history: >-
+      Im dreizehnten Jahrhundert ließen sich Glasmacher nieder, und Siedlungen wie Riedlhütte, Neuschönau und
+      Weidhütte entstanden um Glashütten. Später folgte intensiver Holzeinschlag. Am 1. August 1997 wurde der
+      Nationalpark um das Gebiet Falkenstein-Rachel erweitert und am 23. Juni 2022 um Flächen nordöstlich von
+      Finsterau auf rund 24.945 ha vergrößert. Die Naturzonen ohne jegliche forstliche Eingriffe nehmen 75,37
+      % der Fläche ein.
+    before: >-
+      In sensiblen Zonen wie den Gipfelbereichen und Mooren gilt zum Schutz gefährdeter Arten ein striktes
+      Wegegebot. Radfahren ist nur auf freigegebenen Wegen gestattet, Parken auf ausgewiesenen Plätzen; Feuer,
+      Rauchen und freilaufende Hunde sind verboten. Morsche Bäume und Totholz können unvorhersehbar
+      herabstürzen; bei Sturm sollte man den Wald verlassen. Das Betreten erfolgt auf eigene Gefahr. Jährlich
+      zählt der Park rund 1,3 Millionen Gäste.
+    around: >-
+      Der [Nationalpark Šumava](/lugar/narodni-park-sumava/) liegt nur 1 km entfernt und führt dasselbe
+      Waldgebiet jenseits der Grenze fort. Rund 15 km entfernt ragt der [Urwald
+      Boubín](/lugar/boubinsky-prales/) als historischer Bergurwald auf.
+  it:
+    intro: >-
+      Il 1 agosto 1983 una furiosa tempesta abbatté circa 70.000 m³ di legname e il ministro bavarese Hans
+      Eisenmann prese una decisione che avrebbe rivoluzionato la concezione di foresta in Germania: non
+      sgomberare più i tronchi. Che cresca una «foresta primaria per i nostri figli e nipoti», stabilì. Il
+      Parco Nazionale della Foresta Bavarese, il primo della Germania istituito il 7 ottobre 1970, si estende
+      lungo il confine ceco tra Bayerisch Eisenstein e Mauth, fedele da allora a un motto essenziale: lasciare
+      che la natura sia natura. Insieme alla confinante Šumava forma la più estesa area forestale protetta
+      dell’Europa centrale.
+    landscape: >-
+      La roccia è costituita da paragneiss e granito, e durante le glaciazioni le cime montane erano ammantate
+      di ghiaccio. Oggi il bosco riveste il 98 % del territorio, interrotto da torbiere alte, le Filze, e
+      antichi pascoli montani alberati, gli Schachten. Le vette più pronunciate sono il Großer Rachel (1453
+      m), il Lusen (1373 m) e il Großer Falkenstein (1315 m), mentre il lago glaciale naturale per eccellenza
+      è il Rachelsee.
+
+
+      L’altitudine disegna tre fasce boschive distinte. Sulle creste culminali, oltre i 1200 m, prospera la
+      pecceta montana; sui versanti più riparati si estende il bosco misto di abete rosso, abete bianco,
+      faggio e acero; e negli avvallamenti umidi dove di notte ristagna l’aria gelida alligna la pecceta di
+      fondovalle. Sulle cime la temperatura media annua si colloca tra due e cinque gradi, le precipitazioni
+      toccano tra 830 e 2280 mm annui e la neve resiste da sette a otto mesi.
+
+
+      Il paesaggio visibile oggi non è quello originario: tra il 1910 e il 1950 quasi tutti i residui di bosco
+      vergine montano vennero rasi al suolo. Negli anni novanta vaste abetaie del Lusen perirono per via del
+      bostrico tipografo, e da allora il bosco si rinnova a ciclo naturale. I frammenti storici superstiti,
+      come Mittelsteighütte, sono oggi visitabili.
+    wildlife: >-
+      Lince, lontra, gallo cedrone e allocco degli Urali hanno ritrovato rifugio qui. La [lince
+      eurasiatica](/especie/lynx_lynx/) si era estinta nel diciannovesimo secolo per la persecuzione
+      venatoria, al pari di orso e lupo, ed è tornata grazie a un progetto di reintroduzione ceco nel decennio
+      1980. Il [lupo](/especie/canis_lupus/) è nuovamente presente in pianta stabile, affiancato da [gatto
+      selvatico](/especie/felis_silvestris/), [lontra europea](/especie/lutra_lutra/) e [castoro
+      europeo](/especie/castor_fiber/).
+
+
+      Il volatile simbolo della Foresta Bavarese è il [gallo cedrone](/especie/tetrao_urogallus/), le cui
+      parate nuziali hanno luogo sul finire dell’inverno. È tornato a espandersi grazie a severe norme di
+      tutela, prima fra tutte l’obbligo inderogabile di non lasciare i sentieri tracciati. L’[allocco degli
+      Urali](/especie/strix_uralensis/) è tornato attraverso progetti di rilascio e nidifica negli alberi cavi
+      senescenti. Tra le altre specie avicole di spicco si contano il pigliamosche pettirosso, il merlo dal
+      collare e il [picchio tridattilo](/especie/picoides_tridactylus/).
+
+
+      Infine abbonda la microfauna. Si contano oltre 1.600 specie di coleotteri, tra cui 16 relitti esclusivi
+      di foresta primaria come Tragosoma depsarium, sopravvissuti in oasi come Mittelsteighütte o la parete
+      del Rachelsee. Il legno morto nutre e ripara centinaia di insetti, funghi e uccelli, e gli alberi
+      sradicati dal vento restano dove cadono.
+    visit: >-
+      Inizia l’esplorazione da uno dei due centri visitatori. Quello del Lusen, vicino a Neuschönau, vanta la
+      Hans-Eisenmann-Haus, ampi recinti faunistici, botanici e geologici e una passerella tra le chiome degli
+      alberi. Quello del Falkenstein, presso Ludwigsthal, ospita la Haus zur Wildnis, un recinto per la fauna
+      e una grotta dell’età della pietra. Nelle ampie riserve di Neuschönau e Ludwigsthal si ammirano in
+      ambienti naturali gli animali storici e attuali della foresta. Punti informativi sono aperti a Bayerisch
+      Eisenstein, Zwiesel, Frauenau, Spiegelau, Mauth e Freyung, e il parco propone escursioni guidate tutto
+      l’anno.
+
+
+      La rete sentieristica offre circa 350 km di itinerari segnalati: i percorsi ad anello recano la sagoma
+      di un animale su sfondo giallo e i tracciati lineari una pianta su sfondo bianco. I cammini a lunga
+      percorrenza Goldsteig ed E6 attraversano il parco. Percorsi tematici raccomandati sono il Seelensteig
+      sotto il Rachel, il Windwurf-Erlebnispfad al Falkenstein, il circuito di Schachten e Filze vicino a
+      Frauenau e il bosco vetusto Hans-Watzlik-Hain. Un belvedere celebre è la cappella del Rachel con
+      affaccio sul Rachelsee. In tratti come Mittelsteighütte si scoprono relitti di bosco antico e passerelle
+      lignee attraversano torbiere fragili. Sono disponibili più di 200 km di piste ciclabili e circa 80 km di
+      tracciati per lo sci di fondo. In inverno viene battuta una rete di percorsi pedonali nel fondovalle e
+      si organizzano uscite con le ciaspole.
+    history: >-
+      Nel tredicesimo secolo si insediarono maestri vetrai, e villaggi come Riedlhütte, Neuschönau e Weidhütte
+      sorsero attorno alle fornaci del vetro. Seguì un’epoca di disboscamento intensivo. Il parco è stato
+      ingrandito il 1 agosto 1997 con l’area di Falkenstein-Rachel e il 23 giugno 2022 con un settore a
+      nord-est di Finsterau, raggiungendo circa 24.945 ha. Le zone naturali di riserva integrale senza
+      interventi umani coprono il 75,37 % della superficie.
+    before: >-
+      Nelle aree ecologiche sensibili, come creste sommitali e torbiere, è tassativo rimanere lungo i sentieri
+      per tutelare le specie a rischio. La bicicletta è ammessa solo sui percorsi autorizzati, la sosta solo
+      nei parcheggi dedicati, ed è severamente vietato accendere fuochi, fumare o lasciare i cani liberi. Rami
+      e alberi secchi possono crollare improvvisamente; con vento forte occorre uscire dal bosco e i percorsi
+      si affrontano sotto la propria responsabilità. Il parco accoglie circa 1,3 milioni di visitatori
+      all’anno.
+    around: >-
+      Il [Parco Nazionale di Šumava](/lugar/narodni-park-sumava/) dista appena 1 km e prosegue la medesima
+      foresta oltreconfine. A circa 15 km si trova la [Foresta Vergine di Boubín](/lugar/boubinsky-prales/),
+      rinomato relitto di bosco primario.
+  pt:
+    intro: >-
+      A 1 de agosto de 1983 uma violenta tempestade deitou por terra cerca de 70.000 m³ de madeira e o
+      ministro bávaro Hans Eisenmann tomou uma decisão que revolucionaria o conceito de floresta na Alemanha:
+      não intervir mais. Que cresça uma «floresta primária para os nossos filhos e netos», ordenou. O Parque
+      Nacional da Floresta da Baviera, o primeiro da Alemanha, inaugurado a 7 de outubro de 1970, estende-se
+      junto à fronteira checa entre Bayerisch Eisenstein e Mauth, sob um lema perene: deixar que a natureza
+      seja natureza. Em comunhão com a contígua Šumava, compõe o maior espaço florestal contínuo protegido da
+      Europa Central.
+    landscape: >-
+      O substrato rochoso é formado por paragnaisse e granito, e durante as glaciações as cumeadas estiveram
+      cobertas por gelo. Atualmente o arvoredo reveste 98 % da superfície, intercalado por turfeiras altas
+      abertas, as Filze, e antigas pastagens de montanha arborizadas, os Schachten. Os picos mais pronunciados
+      são o Großer Rachel (1453 m), o Lusen (1373 m) e o Großer Falkenstein (1315 m), e a lagoa glacial de
+      montanha por excelência é o Rachelsee.
+
+
+      A altitude distribui três comunidades arbóreas. Nas cristas acima dos 1200 m medra a floresta montanhosa
+      de espruce; nas encostas mais temperadas floresce o bosque misto de espruce, abeto, faia e ácer; e nos
+      fundos húmidos de vale onde o ar frio estagna à noite espalha-se o esprucial de vale. Nos cumes a
+      temperatura média anual varia entre dois e cinco graus, a precipitação atinge entre 830 e 2280 mm anuais
+      e o manto de neve perdura de sete a oito meses.
+
+
+      O que hoje se contempla não é a floresta primordial intacta: entre 1910 e 1950 foram abatidos quase
+      todos os redutos de floresta virgem de montanha. Nos anos noventa muitos espruces do Lusen morreram
+      devido a surtos do escaravelho-da-casca, e desde então a floresta regenera-se pelos seus próprios
+      processos. Relíquias preservadas como Mittelsteighütte podem ser visitadas hoje.
+    wildlife: >-
+      O lince, a lontra, o tetraz e a coruja-dos-urais voltaram a ter morada aqui. O
+      [lince-euroasiático](/especie/lynx_lynx/) desapareceu no século XIX devido à perseguição direta, tal
+      como o urso e o lobo, e regressou graças a um projeto checo de reintrodução na década de 1980. O
+      [lobo](/especie/canis_lupus/) voltou a estabelecer-se, convivendo com o
+      [gato-bravo](/especie/felis_silvestris/), a [lontra-europeia](/especie/lutra_lutra/) e o
+      [castor-europeu](/especie/castor_fiber/).
+
+
+      A ave rainha da Floresta Bávara é o [tetraz-grande](/especie/tetrao_urogallus/), cujas paradas nupciais
+      ocorrem no final do inverno. A sua população recuperou graças a medidas rigorosas de conservação,
+      sobretudo a obrigação estrita de não sair dos trilhos assinalados. A
+      [coruja-dos-urais](/especie/strix_uralensis/) regressou através de um projeto de solta e nidifica agora
+      prioritariamente em árvores velhas senescentes. Entre as outras aves notáveis contam-se o
+      papa-moscas-pequeno, o melro-de-peito-branco e o [pica-pau-tridáctilo](/especie/picoides_tridactylus/).
+
+
+      Depois surge o universo diminuto: catalogaram-se mais de 1.600 espécies de escaravelhos, incluindo 16
+      relíquias estritas de floresta virgem como Tragosoma depsarium, que sobreviveram em núcleos como
+      Mittelsteighütte ou Rachelseewand e voltam a expandir-se. A madeira morta sustenta centenas de insetos,
+      fungos e aves, e as árvores tombadas pelo vento permanecem no local.
+    visit: >-
+      Inicia a visita por um dos dois centros principais. O do Lusen, junto a Neuschönau, possui a
+      Hans-Eisenmann-Haus, amplos cercados de fauna, flora e geologia ao ar livre e um passadiço suspenso no
+      dossel das árvores. O do Falkenstein, próximo de Ludwigsthal, alberga a Haus zur Wildnis, um cercado de
+      animais e uma gruta da Idade da Pedra. Nos amplos cercados de Neuschönau e Ludwigsthal avistam-se em
+      ambiente natural os habitantes pretéritos e presentes da mata. Existem postos de informação em Bayerisch
+      Eisenstein, Zwiesel, Frauenau, Spiegelau, Mauth e Freyung, e o parque organiza passeios interpretativos
+      guiados ao longo de todo o ano.
+
+
+      A rede dispõe de cerca de 350 km de trilhos sinalizados: os percursos circulares exibem a silhueta de um
+      animal sobre fundo amarelo e os lineares uma planta sobre fundo branco. Os percursos de longo curso
+      Goldsteig e E6 atravessam o parque. Destacam-se trilhos temáticos como o Seelensteig sob o Rachel, o
+      Windwurf-Erlebnispfad no Falkenstein, o percurso de Schachten e Filze perto de Frauenau e o bosque
+      virgem Hans-Watzlik-Hain. Um miradouro afamado situa-se na capela do Rachel, sobre a lagoa de Rachelsee.
+      Em setores como Mittelsteighütte contacta-se com relíquias de bosque primário, e passadiços de madeira
+      transpõem turfeiras frágeis. Estão disponíveis mais de 200 km de rotas de bicicleta e cerca de 80 km de
+      pistas de esqui de fundo. No inverno é mantida uma rede de caminhos limpos nos vales, sendo também
+      habitual o uso de raquetes de neve.
+    history: >-
+      No século XIII instalaram-se vidreiros na região, e povoações como Riedlhütte, Neuschönau e Weidhütte
+      nasceram em torno das fábricas de vidro florestais. Sucedeu-se um período de corte intensivo de
+      arvoredo. O parque nacional foi alargado a 1 de agosto de 1997 com o setor Falkenstein-Rachel e a 23 de
+      junho de 2022 com uma área a nordeste de Finsterau, alcançando cerca de 24.945 ha. As zonas naturais de
+      proteção integral, totalmente isentas de intervenção, ocupam 75,37 % da área total.
+    before: >-
+      Nos biótopos sensíveis, como cumes montanhosos e turfeiras, é mandatório caminhar pelos trilhos para
+      proteger espécies ameaçadas. As bicicletas só circulam em pistas autorizadas, o estacionamento só é
+      permitido nos parques oficiais e é proibido foguear, fumar ou soltar cães. Árvores e ramos mortos podem
+      tombar inopinadamente; sob ventania forte deves afastar-te da floresta e os trilhos percorrem-se sob tua
+      própria responsabilidade. O parque acolhe cerca de 1,3 milhões de visitantes por ano.
+    around: >-
+      O [Parque Nacional de Šumava](/lugar/narodni-park-sumava/) dista apenas 1 km e dá continuidade à mesma
+      massa florestal do outro lado da fronteira. A cerca de 15 km ergue-se a [Floresta Virgem de
+      Boubín](/lugar/boubinsky-prales/), afamado reduto de floresta primária.
+fuentes:
+  - url: https://www.nationalpark-bayerischer-wald.bayern.de/ueber_uns/steckbrief/index.htm
+    titulo: Der Nationalpark Bayerischer Wald im Porträt — Nationalparkverwaltung
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Nationalpark_Bayerischer_Wald
+    titulo: Nationalpark Bayerischer Wald – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.nationalpark-bayerischer-wald.bayern.de/natur/tiere/index.htm
+    titulo: Tiere — Nationalparkverwaltung Bayerischer Wald
+    fecha_consulta: '2026-10-22'
+  - url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/einrichtungen/index.htm
+    titulo: Besuchereinrichtungen im Nationalpark Bayerischer Wald
+    fecha_consulta: '2026-10-22'
+  - url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/wandern/index.htm
+    titulo: Wandern im Nationalpark Bayerischer Wald
+    fecha_consulta: '2026-10-22'
+  - url: https://www.nationalpark-bayerischer-wald.bayern.de/besucher/verhaltenstipps/index.htm
+    titulo: Verhaltenstipps im Nationalpark Bayerischer Wald
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_Bayerischer_Wald_1.jpg
+    autor: JakobRei
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

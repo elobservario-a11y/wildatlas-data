@@ -1,0 +1,597 @@
+id: muntii-parang
+estado_editorial: valoracion-revisada
+nombre:
+  es: Montañas de Parâng
+  en: Parâng Mountains
+  fr: Montagnes de Parâng
+  de: Parâng-Gebirge
+  it: Monti di Parâng
+  pt: Montanhas de Parâng
+nombre_original: Munții Parâng
+alias:
+  - Parâng Mountains (Munții Parâng)
+paises:
+  - RO
+region:
+  es: Județe de Gorj, Hunedoara y Vâlcea (Petroșani)
+  en: Gorj, Hunedoara and Vâlcea Counties (Petroșani)
+  fr: Județe de Gorj, Hunedoara et Vâlcea (Petroșani)
+  de: Kreise Gorj, Hunedoara und Vâlcea (Petroșani)
+  it: Distretti di Gorj, Hunedoara e Vâlcea (Petroșani)
+  pt: Distritos de Gorj, Hunedoara e Vâlcea (Petroșani)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.35
+  lon: 23.55
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Parâng
+  capa: capas/natura2000/muntii-parang.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - mature_forest
+designaciones:
+  - natura2000
+especies:
+  - ursus_arctos
+  - rupicapra_rupicapra
+  - canis_lupus
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la carretera Transalpina; baja en el circo glaciar de Mija
+  en: Moderate along the Transalpina highway; low in the Mija glacial cirque
+  fr: Moyenne sur la route Transalpina ; faible dans le cirque glaciaire de Mija
+  de: Mäßig entlang der Transalpina-Hochstraße; gering im Mija-Gletscherkar
+  it: Media lungo la strada Transalpina; bassa nel circo glaciale di Mija
+  pt: Média na estrada Transalpina; baixa no circo glaciar de Mija
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Rutas y accesos — Munții Parâng (Salvamont Gorj)
+    url: https://www.salvamontgorj.ro/muntii-parang/
+resumen:
+  es: >-
+    El segundo macizo más alto de Rumanía (Parângul Mare 2.519 m), atravesado por la panorámica carretera
+    Transalpina.
+  en: The second highest massif in Romania (Parângul Mare 2,519 m), traversed by the scenic Transalpina highway.
+  fr: >-
+    Le deuxième plus haut massif de Roumanie (Parângul Mare 2 519 m), traversé par la route panoramique
+    Transalpina.
+  de: >-
+    Das zweithöchste Massiv Rumäniens (Parângul Mare 2.519 m), durchquert von der aussichtsreichen
+    Transalpina-Hochstraße.
+  it: >-
+    Il secondo massiccio più alto della Romania (Parângul Mare 2.519 m), attraversato dalla panoramica strada
+    Transalpina.
+  pt: >-
+    O segundo maciço mais alto da Roménia (Parângul Mare 2.519 m), atravessado pela panorâmica estrada
+    Transalpina.
+unico:
+  es: >-
+    Un macizo de circos glaciares y cumbres de más de 2.400 metros, atravesado por la panorámica carretera
+    Transalpina.
+  en: A massif of glacial cirques and summits over 2,400 metres, traversed by the scenic Transalpina highway.
+  fr: >-
+    Un massif de cirques glaciaires et de sommets de plus de 2 400 mètres, traversé par la route panoramique
+    Transalpina.
+  de: >-
+    Ein Massiv aus Karwannen und über 2.400 Meter hohen Gipfeln, durchquert von der aussichtsreichen
+    Transalpina-Hochstraße.
+  it: >-
+    Un massiccio di circhi glaciali e vette di oltre 2.400 metri, attraversato dalla panoramica strada
+    Transalpina.
+  pt: >-
+    Um maciço de circos glaciares e cumes com mais de 2.400 metros, atravessado pela panorâmica estrada
+    Transalpina.
+observaciones:
+  es: >-
+    Las rutas altas se hacen con la nieve en mente: a gran altitud la nieve dura unos doscientos días al año.
+    Los mejores meses son de junio a octubre.
+texto:
+  es:
+    intro: >-
+      En 1900 se levantó en el Parâng la primera cabaña de montaña. Ardió tres veces, y por eso la llamaron la
+      cabaña quemada, *Cabana arsă*. La historia resume bien este macizo del sur de los Cárpatos: una montaña
+      de cumbres altas y circos glaciares a la que se venía a caminar desde hace más de un siglo. Parângul
+      Mare, con 2.519 metros, es la cumbre más alta; cuatro más superan los 2.400: Gemănarea, Stoinița, Slivei
+      y Cârja. El macizo mide unos 50 kilómetros de este a oeste y unos 25 de norte a sur.
+    landscape: >-
+      El Valle del Jiu limita el macizo al oeste, los ríos Olteț y Lotru al este, los montes Șureanu al norte
+      y las depresiones de Novaci y Baia de Fier al sur. La cresta principal tiene un sector occidental más
+      alto, dominado por el relieve glaciar, y un sector oriental de menor altitud.
+
+
+      Los circos glaciares más espectaculares están entre Cârja y Mija, entre Gemănarea y Silveiu, y al sur de
+      Setea Mare. Los valles glaciares se extienden sobre todo por la ladera norte; uno de los más largos es
+      el del Jieț, de unos ocho kilómetros. La mayor concentración de lagos glaciares está en el complejo de
+      Roșiile. En la reserva de Căldarea Gâlcescu, el circo glaciar fue excavado por los glaciares
+      cuaternarios en granito y granodiorita; allí el lago Gâlcescu tiene 3,2 hectáreas y 9,3 metros de
+      profundidad, y la reserva contiene además los lagos glaciares Pencu, Vidal y Paserii, con morrenas y
+      grandes acumulaciones de bloques en Căldarea Dracilor.
+
+
+      En el borde sur las calizas dan cuevas, gargantas y dolinas. Las más espectaculares son las cuevas
+      Muierii y Polovraci y las gargantas del Olteț y del Galben. En la del Olteț, la distancia entre paredes
+      es de tres a cuatro metros abajo y de diez a veinte arriba. El arroyo Galben excavó la cueva de la
+      Muierii, de unos 3.600 metros de longitud y cuatro niveles. Las gargantas del Jieț miden siete
+      kilómetros y medio y son las más interesantes del norte del macizo.
+    wildlife: >-
+      Los bosques de hoja ancha del pie del macizo son de roble común, carpe, abedul y sobre todo haya. El
+      límite del arbolado se sitúa entre 1.600 y 1.800 metros de altitud; por encima crecen matorrales de pino
+      cembro, alerce, pino mugo y sauce reticulado, además de arándano rojo, aliso verde y arándano. En la
+      reserva de Căldarea Gâlcescu hay matorrales de *Pinus mugo* y *Rhododendron* y praderas alpinas con
+      *Nardus*; entre las plantas de interés están *Gentiana lutea* y *Trollius europaeus*, y también crecen
+      relictos glaciares como *Pinus cembra*. En las zonas calizas puede encontrarse edelweiss.
+
+
+      Entre los mamíferos viven el [lobo](/especie/canis_lupus/), el zorro, el jabalí, el [oso
+      pardo](/especie/ursus_arctos/), el [lince boreal](/especie/lynx_lynx/) y el ciervo; la reserva de
+      Căldarea Gâlcescu busca conservar al oso pardo, al lobo, al [rebeco](/especie/rupicapra_rupicapra/) y al
+      [urogallo](/especie/tetrao_urogallus/).
+
+
+      El invierno es largo: a gran altitud la nieve está presente unos doscientos días al año, y la
+      precipitación media anual va de 900 a 1.200 milímetros. De ahí que la temporada de excursiones sea de
+      junio a octubre.
+    visit: >-
+      Hay rutas marcadas en el macizo. El mantenimiento corresponde a Salvamont Hunedoara en el oeste y a
+      Salvamont Gorj en el este, y la ladera occidental tiene once rutas, cinco de ellas desde Petroșani o la
+      zona turística Petroșani-Parâng.
+
+
+      Desde la estación superior del telesilla de Petroșani-Parâng, una ruta de banda roja lleva en una hora y
+      cuarto al pico Parângul Mic, y otra, de punto amarillo y banda roja, al lago Mija en dos o tres horas.
+      La ruta hasta el Parângul Mare, de banda roja, requiere de cuatro a cinco horas. Desde la cabaña Obârșia
+      Lotrului, un sendero de cruz roja pasa por el lago Câlcescu hasta la collada Piatra Tăiată en cuatro o
+      cinco horas, y de ahí al Parângul Mare por banda roja en hora y media.
+
+
+      Por el sur, Salvamont Gorj describe subidas al Parângul Mare desde Lainici por el pico Recii y el pico
+      Țapul, y desde Stăncești por la collada Izvorul Cald; otra ruta sube de Baia de Fier por la cueva de la
+      Muierii y el pico Ogorul hasta la collada Florile Albe. A la reserva de Căldarea Gâlcescu se entra por
+      el valle del Lotru siguiendo una ruta de cruz roja, o por la cresta principal con banda roja.
+    history: >-
+      El turismo de montaña en Parâng nació unido a la Asociación de los Cárpatos Transilvanos (SKV), fundada
+      en Sibiu en 1893; en 1900 levantó la primera cabaña. La zona de Căldarea Gâlcescu se consideraba desde
+      1932 para ser el primer territorio protegido de los montes Parâng, y la reserva se estableció en 1983
+      con 190,10 hectáreas.
+    before: >-
+      Las rutas altas se hacen con la nieve en mente: a gran altitud la nieve dura unos doscientos días al
+      año. Los mejores meses son de junio a octubre.
+    around: >-
+      Pegado al Parâng queda el [Parque Nacional Desfiladero del Jiu - Bosque
+      Primario](/lugar/parcul-national-defileul-jiului-codrii-seculari/). A diez kilómetros está el [Parque
+      Natural de Cindrel](/lugar/parcul-natural-cindrel/), a doce las [Montañas de
+      Șureanu](/lugar/muntii-sureanu/) y a catorce la [Reserva forestal de
+      Latorița](/lugar/codrul-secular-latorita/). Y más lejos, el [Parque Nacional Montañas de
+      Rodna](/lugar/parcul-national-muntii-rodnei/) comparte con el Parâng el pino cembro, el rebeco y el oso
+      pardo en un paisaje de alta montaña y glaciares.
+  en:
+    intro: >-
+      In 1900, the first alpine hut was built in the Parâng. It burned down three times, earning the name of
+      the burnt hut, *Cabana arsă*. This story encapsulates this southern Carpathian massif: a mountain of
+      lofty summits and glacial cirques frequented by walkers for well over a century. Parângul Mare, at 2,519
+      metres, is the highest peak; four others surpass 2,400 metres: Gemănarea, Stoinița, Slivei, and Cârja.
+      The massif spans roughly 50 kilometres east to west and about 25 north to south.
+    landscape: >-
+      The Jiu Valley borders the massif to the west, the Olteț and Lotru rivers to the east, the Șureanu
+      Mountains to the north, and the Novaci and Baia de Fier depressions to the south. The main crest
+      features a higher western sector sculpted by glacial landforms and a gentler, lower eastern sector.
+
+
+      The most dramatic cirques lie between Cârja and Mija, between Gemănarea and Silveiu, and south of Setea
+      Mare. Glacial troughs open primarily across the northern flank, with the Jieț valley extending for about
+      eight kilometres. The highest concentration of tarns sits within the Roșiile basin. In the Căldarea
+      Gâlcescu reserve, the cirque was gouged out by Quaternary glaciers in granite and granodiorite; Lake
+      Gâlcescu spans 3.2 hectares with a depth of 9.3 metres, alongside tarns Pencu, Vidal, and Paserii,
+      surrounded by moraines and extensive blockfields in Căldarea Dracilor.
+
+
+      Along the southern fringe, limestone strata yield caves, gorges, and sinkholes, notably Muierii and
+      Polovraci caves and the gorges of the Olteț and Galben rivers. In the Olteț gorge, the canyon walls
+      narrow to three to four metres at the base and ten to twenty above. The Galben stream carved Muierii
+      Cave across four subterranean levels spanning some 3,600 metres. The Jieț gorge stretches for seven and
+      a half kilometres, representing the most striking defile of the northern slopes.
+    wildlife: >-
+      Broadleaf woodlands at the foot of the range consist of English oak, hornbeam, silver birch, and
+      predominantly European beech. The treeline lies between 1,600 and 1,800 metres; above it spread dense
+      dwarf pine, larch, Swiss pine, and net-veined willow thickets alongside lingonberry, green alder, and
+      bilberry. Within the Căldarea Gâlcescu reserve, krummholz of *Pinus mugo* and *Rhododendron* alternates
+      with alpine *Nardus* grasslands; notable flora includes *Gentiana lutea* and *Trollius europaeus*,
+      alongside glacial relicts such as *Pinus cembra*. Edelweiss blooms on limestone ledges.
+
+
+      Mammals include the [grey wolf](/especie/canis_lupus/), red fox, wild boar, [brown
+      bear](/especie/ursus_arctos/), [Eurasian lynx](/especie/lynx_lynx/), and red deer; the Căldarea Gâlcescu
+      reserve protects the brown bear, wolf, [chamois](/especie/rupicapra_rupicapra/), and [western
+      capercaillie](/especie/tetrao_urogallus/).
+
+
+      Winter is prolonged: high elevations remain snow-covered for around two hundred days per year, with
+      average annual precipitation between 900 and 1,200 millimetres. Consequently, the prime hiking season
+      runs from June to October.
+    visit: >-
+      Waymarked hiking paths cross the massif, maintained by Salvamont Hunedoara in the west and Salvamont
+      Gorj in the east. The western slopes offer eleven trails, five starting from Petroșani or the
+      Petroșani-Parâng resort.
+
+
+      From the top station of the Petroșani-Parâng chairlift, a red-band path reaches Parângul Mic peak in an
+      hour and a quarter, while a yellow-dot and red-band route leads to Lake Mija in two to three hours. The
+      red-band trail to Parângul Mare requires four to five hours. From Obârșia Lotrului hut, a red-cross
+      trail ascends past Lake Câlcescu to Piatra Tăiată pass in four to five hours, continuing along the red
+      band to Parângul Mare in an hour and a half.
+
+
+      From the south, Salvamont Gorj marks ascents to Parângul Mare from Lainici via Recii and Țapul peaks,
+      and from Stăncești via Izvorul Cald pass; another path ascends from Baia de Fier past Muierii cave and
+      Ogorul peak to Florile Albe pass. Căldarea Gâlcescu reserve is accessed from the Lotru valley on a
+      red-cross route or along the main ridgeline following red-band markings.
+    history: >-
+      Alpine tourism in Parâng developed alongside the Transylvanian Carpathian Association (SKV), established
+      in Sibiu in 1893; in 1900 it built the first mountain cabin. The Căldarea Gâlcescu area was proposed as
+      the range's first protected territory as early as 1932, and the reserve was formally established in 1983
+      over 190.10 hectares.
+    before: >-
+      Alpine itineraries must account for persisting snowpack: high elevations retain snow for some two
+      hundred days each year. Best months run from June to October.
+    around: >-
+      Adjoining Parâng is [Jiu Gorge National Park - Primeval
+      Forest](/lugar/parcul-national-defileul-jiului-codrii-seculari/). Ten kilometres away lies [Cindrel
+      Natural Park](/lugar/parcul-natural-cindrel/), twelve kilometres away are the [Șureanu
+      Mountains](/lugar/muntii-sureanu/), and fourteen kilometres away is the [Latorița Forest
+      Reserve](/lugar/codrul-secular-latorita/). Farther north, [Rodna Mountains National
+      Park](/lugar/parcul-national-muntii-rodnei/) shares with Parâng its Swiss pine, chamois, and brown bear
+      populations amidst glaciated peaks.
+  fr:
+    intro: >-
+      En 1900 fut érigé dans le Parâng le premier refuge de montagne. Il brûla trois fois, ce qui lui valut le
+      nom de cabane incendiée, *Cabana arsă*. Cette histoire illustre la vocation de ce massif méridional des
+      Carpates : une montagne de hauts sommets et de cirques glaciaires arpentée par les randonneurs depuis
+      plus d'un siècle. Le Parângul Mare, avec 2 519 mètres, en est le point culminant ; quatre autres
+      dépassent 2 400 mètres : Gemănarea, Stoinița, Slivei et Cârja. Le massif s'étend sur 50 kilomètres d'est
+      en ouest et sur 25 du nord au sud.
+    landscape: >-
+      La vallée du Jiu délimite le massif à l'ouest, les rivières Olteț et Lotru à l'est, les monts Șureanu au
+      nord et les dépressions de Novaci et Baia de Fier au sud. L'arête faîtière comprend un secteur
+      occidental culminant, sculpté par le relief glaciaire, et un secteur oriental plus bas.
+
+
+      Les cirques les plus spectaculaires se nichent entre Cârja et Mija, entre Gemănarea et Silveiu, et au
+      sud de Setea Mare. Les vallées glaciaires s'épanouissent surtout sur le versant nord ; l'une des plus
+      étendues est celle du Jieț, longue d'environ huit kilomètres. La plus forte densité de lacs glaciaires
+      se trouve dans le complexe de Roșiile. Dans la réserve de Căldarea Gâlcescu, le cirque a été creusé par
+      les glaciers quaternaires dans le granite et la granodiorite ; le lac Gâlcescu y couvre 3,2 hectares
+      avec 9,3 mètres de profondeur, côtoyant les lacs Pencu, Vidal et Paserii, au milieu de moraines et de
+      chaos de blocs à Căldarea Dracilor.
+
+
+      Sur la bordure méridionale, les calcaires façonnent grottes, gorges et dolines. Les plus remarquables
+      sont les grottes Muierii et Polovraci ainsi que les gorges de l'Olteț et du Galben. Dans le défilé de
+      l'Olteț, la distance entre les parois varie de trois à quatre mètres en bas et de dix à vingt au sommet.
+      Le torrent Galben a creusé la grotte Muierii sur environ 3 600 mètres et quatre niveaux superposés. Les
+      gorges du Jieț courent sur sept kilomètres et demi, formant le défilé majeur du nord du massif.
+    wildlife: >-
+      Les forêts feuillues du piémont rassemblent chêne pédonculé, charme, bouleau et surtout hêtre. La limite
+      des arbres s'établit entre 1 600 et 1 800 mètres d'altitude ; au-delà prospèrent des fourrés de pin
+      cembro, mélèze, pin mugo et saule réticulé, ainsi que l'airelle rouge, l'aulne vert et la myrtille. Dans
+      la réserve de Căldarea Gâlcescu s'étendent des landes à *Pinus mugo* et *Rhododendron* et des pelouses
+      alpines à *Nardus* ; la flore comprend *Gentiana lutea* et *Trollius europaeus*, avec des reliques
+      glaciaires telles que *Pinus cembra*. L'edelweiss pousse sur les falaises calcaires.
+
+
+      Parmi les mammifères figurent le [loup gris](/especie/canis_lupus/), le renard, le sanglier, l'[ours
+      brun](/especie/ursus_arctos/), le [lynx boréal](/especie/lynx_lynx/) et le cerf ; la réserve de Căldarea
+      Gâlcescu vise la conservation de l'ours brun, du loup, du [chamois](/especie/rupicapra_rupicapra/) et du
+      [grand tétras](/especie/tetrao_urogallus/).
+
+
+      L'hiver est rigoureux : en haute altitude la neige persiste environ deux cents jours par an, et les
+      précipitations annuelles moyennes vont de 900 à 1 200 millimètres. La saison propice s'étend ainsi de
+      juin à octobre.
+    visit: >-
+      Le massif compte de nombreux itinéraires balisés, entretenus par Salvamont Hunedoara à l'ouest et
+      Salvamont Gorj à l'est ; le flanc occidental compte onze parcours, dont cinq débutent à Petroșani ou
+      dans la zone touristique de Petroșani-Parâng.
+
+
+      Depuis la gare supérieure du télésiège de Petroșani-Parâng, un tracé bande rouge conduit en une heure et
+      quart au pic Parângul Mic, tandis qu'un sentier point jaune et bande rouge gagne le lac Mija en deux ou
+      trois heures. La voie menant au Parângul Mare en bande rouge demande quatre à cinq heures. Depuis le
+      refuge Obârșia Lotrului, un chemin balisé croix rouge monte par le lac Câlcescu au col Piatra Tăiată en
+      quatre ou cinq heures, puis rejoint le Parângul Mare par la bande rouge en une heure et demie.
+
+
+      Au sud, Salvamont Gorj balise l'accès au Parângul Mare depuis Lainici par les pics Recii et Țapul, et
+      depuis Stăncești par le col Izvorul Cald ; un autre parcours s'élève de Baia de Fier par la grotte
+      Muierii et le pic Ogorul jusqu'au col Florile Albe. On entre dans la réserve de Căldarea Gâlcescu depuis
+      la vallée du Lotru en suivant la croix rouge, ou par la crête en bande rouge.
+    history: >-
+      Le tourisme alpin dans le Parâng est lié à l'Association des Carpates de Transylvanie (SKV), fondée à
+      Sibiu en 1893 ; elle y bâtit la première cabane en 1900. Le secteur de Căldarea Gâlcescu fut pressenti
+      dès 1932 comme premier espace protégé des monts Parâng, et la réserve fut créée en 1983 sur 190,10
+      hectares.
+    before: >-
+      Les randonnées d'altitude tiennent compte de l'enneigement : la neige perdure deux cents jours par an
+      sur les crêtes. Les mois idéaux vont de juin à octobre.
+    around: >-
+      Attenant au Parâng s'étend le [parc national des gorges du Jiu - forêt
+      primaire](/lugar/parcul-national-defileul-jiului-codrii-seculari/). À dix kilomètres s'ouvre le [parc
+      naturel de Cindrel](/lugar/parcul-natural-cindrel/), à douze les [montagnes de
+      Șureanu](/lugar/muntii-sureanu/) et à quatorze la [réserve forestière de
+      Latorița](/lugar/codrul-secular-latorita/). Plus au nord, le [parc national des monts
+      Rodna](/lugar/parcul-national-muntii-rodnei/) partage avec le Parâng ses pins cembros, chamois et ours
+      bruns dans un décor alpin glaciaire.
+  de:
+    intro: >-
+      Im Jahr 1900 entstand im Parâng die erste Berghütte. Sie brannte dreimal nieder, weshalb sie den Namen
+      'verbrannte Hütte', *Cabana arsă*, erhielt. Diese Geschichte kennzeichnet das Gebirge in den
+      Südkarpaten: eine Hochgebirgslandschaft mit Karen und Graten, die seit über einem Jahrhundert erwandert
+      wird. Der Parângul Mare ist mit 2.519 Metern der höchste Punkt; vier weitere Gipfel übertreffen 2.400
+      Meter: Gemănarea, Stoinița, Slivei und Cârja. Das Massiv misst rund 50 Kilometer von Ost nach West und
+      etwa 25 von Nord nach Süd.
+    landscape: >-
+      Das Jiu-Tal begrenzt das Massiv im Westen, die Flüsse Olteț und Lotru im Osten, das Șureanu-Gebirge im
+      Norden sowie die Senken von Novaci und Baia de Fier im Süden. Der Hauptkamm weist einen höheren Westteil
+      auf, geprägt von alpinen Glazialformen, sowie einen niedrigeren Ostkamm.
+
+
+      Die markantesten Karseen liegen zwischen Cârja und Mija, zwischen Gemănarea und Silveiu sowie südlich
+      der Setea Mare. Trogtäler prägen vor allem die Nordhänge; das Jieț-Tal misst etwa acht Kilometer. Die
+      größte Dichte an Karseen findet sich im Roșiile-Kessel. Im Reservat Căldarea Gâlcescu schliffen
+      eiszeitliche Gletscher das Kar in Granit und Granodiorit; der Gâlcescu-See bedeckt 3,2 Hektar bei 9,3
+      Metern Tiefe, umgeben von den Seen Pencu, Vidal und Paserii sowie von Moränenwällen und Blockfeldern in
+      der Căldarea Dracilor.
+
+
+      Am Südrand bilden Kalksteine Höhlen, Schluchten und Dolinen aus. Berühmt sind die Höhlen Muierii und
+      Polovraci sowie die Olteț- und Galben-Schluchten. In der Olteț-Klamm verengt sich die Kluft auf drei bis
+      vier Meter unten und zehn bis zwanzig oben. Der Galben grub die Muierii-Höhle auf 3.600 Metern Länge und
+      vier Etagen aus. Die Jieț-Klamm erstreckt sich über siebeneinhalb Kilometer und ist die eindrucksvollste
+      Schlucht im Norden.
+    wildlife: >-
+      Die Laubwälder der Tallagen bestehen aus Stieleiche, Hainbuche, Birke und vor allem Rotbuche. Die
+      Waldgrenze liegt zwischen 1.600 und 1.800 Metern Höhe; darüber gedeihen dichte Bestände aus
+      Zirbelkiefer, Lärche, Latsche und Netz-Weide sowie Preiselbeere, Grünerle und Heidelbeere. Im Reservat
+      Căldarea Gâlcescu wachsen Krummholzzonen aus *Pinus mugo* und *Rhododendron* neben Borstgrasmatten mit
+      *Nardus*; botanische Kostbarkeiten sind *Gentiana lutea* und *Trollius europaeus* sowie glaziale Relikte
+      wie *Pinus cembra*. Edelweiß besiedelt Kalkbänder.
+
+
+      Unter den Säugetieren leben der [Wolf](/especie/canis_lupus/), Rotfuchs, das Wildschwein, der
+      [Braunbär](/especie/ursus_arctos/), der [Luchs](/especie/lynx_lynx/) und Rothirsch; das Reservat
+      Căldarea Gâlcescu schützt Braunbär, Wolf, [Gämse](/especie/rupicapra_rupicapra/) und
+      [Auerhuhn](/especie/tetrao_urogallus/).
+
+
+      Der Winter währt lange: In Kammlagen liegt an rund zweihundert Tagen im Jahr Schnee, und die jährlichen
+      Niederschläge betragen 900 bis 1.200 Millimeter. Daher reicht die Wandersaison von Juni bis Oktober.
+    visit: >-
+      Zahlreiche markierte Steige erschließen das Massiv, betreut von Salvamont Hunedoara im Westen und
+      Salvamont Gorj im Osten. Die Westflanke bietet elf Wege, fünf davon ab Petroșani oder dem Skigebiet
+      Petroșani-Parâng.
+
+
+      Von der Bergstation des Sessellifts Petroșani-Parâng führt ein roter Streifenweg in einer Stunde und
+      fünfzehn Minuten zum Parângul Mic, ein Pfad mit gelbem Punkt und rotem Streifen in zwei bis drei Stunden
+      zum Mija-See. Der Anstieg zum Parângul Mare über die rote Markierung dauert vier bis fünf Stunden. Ab
+      der Obârșia-Lotrului-Hütte führt ein roter Kreuzweg über den Câlcescu-See zum Piatra-Tăiată-Sattel in
+      vier bis fünf Stunden, von wo der Parângul Mare in anderthalb Stunden erreicht wird.
+
+
+      Von Süden markiert Salvamont Gorj Aufstiege zum Parângul Mare ab Lainici über Recii- und Țapul-Gipfel
+      sowie ab Stăncești über den Izvorul-Cald-Sattel; ein Pfad zieht von Baia de Fier über die Muierii-Höhle
+      und den Ogorul-Gipfel zum Florile-Albe-Pass. Das Reservat Căldarea Gâlcescu betritt man aus dem
+      Lotru-Tal auf dem roten Kreuzweg oder über den Hauptkamm mit rotem Streifen.
+    history: >-
+      Der alpine Bergtourismus im Parâng entwickelte sich mit dem 1893 in Sibiu gegründeten Siebenbürgischen
+      Karpatenverein (SKV), der 1900 die erste Schutzhütte baute. Das Areal der Căldarea Gâlcescu wurde
+      bereits 1932 als erstes Schutzgebiet des Gebirges vorgeschlagen und 1983 mit 190,10 Hektar offiziell als
+      Reservat ausgewiesen.
+    before: >-
+      Höhentouren erfordern Beachtung der Schneelage: Auf den Kämmen hält sich der Schnee rund zweihundert
+      Tage im Jahr. Beste Monate sind Juni bis Oktober.
+    around: >-
+      Direkt an das Parâng-Gebirge schließt der [Nationalpark Jiu-Schlucht –
+      Urwald](/lugar/parcul-national-defileul-jiului-codrii-seculari/) an. Zehn Kilometer entfernt liegt der
+      [Naturpark Cindrel](/lugar/parcul-natural-cindrel/), zwölf Kilometer entfernt das
+      [Șureanu-Gebirge](/lugar/muntii-sureanu/) und vierzehn Kilometer der [Urwald
+      Latorița](/lugar/codrul-secular-latorita/). Weiter nördlich teilt der [Nationalpark
+      Rodna-Gebirge](/lugar/parcul-national-muntii-rodnei/) mit dem Parâng Zirbelkiefern, Gämsen und
+      Braunbären.
+  it:
+    intro: >-
+      Nel 1900 fu costruito nel Parâng il primo rifugio alpino. Bruciò tre volte, guadagnandosi il nome di
+      capanna bruciata, *Cabana arsă*. Questa vicenda illustra la vocazione escursionistica del massiccio dei
+      Carpazi Meridionali: una montagna di creste ardite e circhi glaciali frequentata da oltre un secolo. Il
+      Parângul Mare, con 2.519 metri, è la vetta più alta; altre quattro superano i 2.400 metri: Gemănarea,
+      Stoinița, Slivei e Cârja. Il massiccio si sviluppa per circa 50 chilometri da est a ovest e per 25 da
+      nord a sud.
+    landscape: >-
+      La valle del Jiu cinge il massiccio a ovest, i fiumi Olteț e Lotru a est, i monti Șureanu a nord e le
+      depressioni di Novaci e Baia de Fier a sud. La cresta principale presenta un settore occidentale
+      elevato, dominato dal modellamento glaciale, e un settore orientale di quota più modesta.
+
+
+      I circhi più spettacolari si trovano tra Cârja e Mija, tra Gemănarea e Silveiu, e a sud di Setea Mare.
+      Le valli glaciali scendono soprattutto sul versante settentrionale; una delle più estese è quella dello
+      Jieț, lunga circa otto chilometri. La maggiore concentrazione di laghetti glaciali appartiene al bacino
+      di Roșiile. Nella riserva di Căldarea Gâlcescu, il circo è stato scavato dai ghiacciai quaternari nel
+      granito e nella granodiorite; il lago Gâlcescu vi misura 3,2 ettari per 9,3 metri di profondità,
+      affiancato dai laghi Pencu, Vidal e Paserii, tra morene e caotiche pietraie a Căldarea Dracilor.
+
+
+      Lungo il margine meridionale i calcari generano grotte, forre e doline. Celebri sono le grotte Muierii e
+      Polovraci e le gole dell'Olteț e del Galben. Nelle gole dell'Olteț, la distanza tra le pareti è di
+      tre-quattro metri alla base e di dieci-venti in alto. Il torrente Galben ha scavato la grotta Muierii
+      per circa 3.600 metri su quattro livelli sovrapposti. Le gole dello Jieț misurano sette chilometri e
+      mezzo e rappresentano la forra principale a nord.
+    wildlife: >-
+      I boschi basali di latifoglie sono composti da farnia, carpino, betulla e soprattutto faggio. Il limite
+      del bosco si attesta tra 1.600 e 1.800 metri di altitudine; al di sopra crescono mughete e popolamenti
+      di cembro, larice e salice reticolato, assieme a mirtillo rosso, ontano verde e mirtillo nero. Nella
+      riserva di Căldarea Gâlcescu si alternano formazioni a *Pinus mugo* e *Rhododendron* e pascoli alpini a
+      *Nardus*; tra le piante d'interesse spiccano *Gentiana lutea* e *Trollius europaeus*, oltre a relitti
+      glaciali quali *Pinus cembra*. La stella alpina fiorisce sulle cenge calcaree.
+
+
+      Tra i mammiferi popolano il massiccio il [lupo](/especie/canis_lupus/), la volpe, il cinghiale, l'[orso
+      bruno](/especie/ursus_arctos/), la [lince boreale](/especie/lynx_lynx/) e il cervo nobile; la riserva di
+      Căldarea Gâlcescu tutela orso bruno, lupo, [camoscio](/especie/rupicapra_rupicapra/) e [gallo
+      cedrone](/especie/tetrao_urogallus/).
+
+
+      L'inverno è prolungato: in quota la coltre nevosa permane circa duecento giorni all'anno, con
+      precipitazioni medie annue tra 900 e 1.200 millimetri. Per questo la stagione escursionistica va da
+      giugno a ottobre.
+    visit: >-
+      Numerosi sentieri segnati attraversano il massiccio, curati da Salvamont Hunedoara a ovest e da
+      Salvamont Gorj a est; il versante occidentale conta undici tracciati, cinque dei quali partono da
+      Petroșani o dalla zona di Petroșani-Parâng.
+
+
+      Dalla stazione a monte della seggiovia Petroșani-Parâng, un percorso a banda rossa porta in un'ora e un
+      quarto al Parângul Mic, mentre un sentiero a punto giallo e banda rossa conduce al lago Mija in due o
+      tre ore. L'ascesa al Parângul Mare su banda rossa impegna quattro o cinque ore. Dal rifugio Obârșia
+      Lotrului, un sentiero a croce rossa tocca il lago Câlcescu salendo al valico Piatra Tăiată in quattro o
+      cinque ore, proseguendo su banda rossa per il Parângul Mare in un'ora e mezza.
+
+
+      Da sud, Salvamont Gorj descrive salite al Parângul Mare da Lainici per le cime Recii e Țapul, e da
+      Stăncești per la sella Izvorul Cald; un altro itinerario sale da Baia de Fier per la grotta Muierii e la
+      cima Ogorul al colle Florile Albe. Si accede alla riserva di Căldarea Gâlcescu dalla valle del Lotru su
+      traccia a croce rossa, o lungo la cresta primaria su banda rossa.
+    history: >-
+      Il turismo alpino nel Parâng nacque assieme all'Associazione dei Carpazi Transilvani (SKV), fondata a
+      Sibiu nel 1893; nel 1900 eresse la prima capanna. Il bacino di Căldarea Gâlcescu fu proposto già nel
+      1932 quale primo territorio protetto del gruppo, e la riserva venne formalizzata nel 1983 su 190,10
+      ettari.
+    before: >-
+      Gli itinerari d'alta quota richiedono prudenza per l'innevamento: in cresta la neve dura circa duecento
+      giorni all'anno. I mesi migliori vanno da giugno a ottobre.
+    around: >-
+      Aderente al Parâng si estende il [Parco Nazionale Gole del Jiu - Foresta
+      Primaria](/lugar/parcul-national-defileul-jiului-codrii-seculari/). A dieci chilometri sorge il [Parco
+      Naturale di Cindrel](/lugar/parcul-natural-cindrel/), a dodici i [Monti di
+      Șureanu](/lugar/muntii-sureanu/) e a quattordici la [Riserva forestale di
+      Latorița](/lugar/codrul-secular-latorita/). Più a nord, il [Parco Nazionale Monti
+      Rodna](/lugar/parcul-national-muntii-rodnei/) condivide pini cembri, camosci e orsi bruni in un ambiente
+      glaciale alpino.
+  pt:
+    intro: >-
+      Em 1900 ergueu-se no Parâng o primeiro refúgio de montanha. Ardeu três vezes, ganhando a alcunha de
+      cabana queimada, *Cabana arsă*. Esta história sintetiza este maciço dos Cárpatos Meridionais: uma serra
+      de altos cumes e circos glaciares procurada por caminhantes há mais de um século. O Parângul Mare, com
+      2.519 metros, é o ponto culminante; quatro outros cumes ultrapassam os 2.400 metros: Gemănarea,
+      Stoinița, Slivei e Cârja. O maciço mede cerca de 50 quilómetros de este a oeste e cerca de 25 de norte a
+      sul.
+    landscape: >-
+      O vale do Jiu limita a cordilheira a oeste, os rios Olteț e Lotru a este, as montanhas de Șureanu a
+      norte e as depressões de Novaci e Baia de Fier a sul. A crista principal apresenta um setor ocidental
+      culminante, dominado pelo relevo glaciar, e um setor oriental de menor altitude.
+
+
+      Os circos mais impressionantes situam-se entre Cârja e Mija, entre Gemănarea e Silveiu, e a sul de Setea
+      Mare. Os vales glaciares estendem-se sobretudo pela vertente setentrionale; um dos mais longos é o do
+      Jieț, com cerca de oito quilómetros. A maior concentração de lagoas glaciares localiza-se na bacia de
+      Roșiile. Na reserva de Căldarea Gâlcescu, o circo foi escavado por glaciares quaternários em granito e
+      granodiorito; a lagoa Gâlcescu atinge 3,2 hectares e 9,3 metros de profundidade, vizinha das lagoas
+      Pencu, Vidal e Paserii, rodeadas de moreias e blocos rochosos em Căldarea Dracilor.
+
+
+      Na bordadura meridional, os calcários originam grutas, gargantas e dolinas. Destacam-se as grutas
+      Muierii e Polovraci e os desfiladeiros do Olteț e do Galben. No desfiladeiro do Olteț, o vão entre as
+      paredes mede três a quatro metros na base e dez a vinte no topo. A ribeira do Galben esculpiu a gruta
+      Muierii ao longo de 3.600 metros em quatro galerias sobrepostas. O desfiladeiro do Jieț estende-se por
+      sete quilómetros e meio, sendo a garganta mais relevante do norte.
+    wildlife: >-
+      As matas caducifólias na base do maciço reúnem carvalho-roble, carpa, bétula e sobretudo faia. O limite
+      da vegetação arbórea situa-se entre 1.600 e 1.800 metros de altitude; acima vicejam matagais de
+      pinheiro-suíço, lariço, pinheiro-raso e salgueiro-reticulado, a par de mirtilo-vermelho, amieiro-verde e
+      mirtilo. Na reserva de Căldarea Gâlcescu surgem urzais e tojais alpinos com *Pinus mugo* e
+      *Rhododendron*, além de prados com *Nardus*; entre a flora botânica destacam-se *Gentiana lutea* e
+      *Trollius europaeus*, bem como relíquias glaciares como *Pinus cembra*. A edelvaisse floresce nas
+      escarpas calcárias.
+
+
+      Entre a fauna bravia contam-se o [lobo](/especie/canis_lupus/), a raposa, o javali, o
+      [urso-pardo](/especie/ursus_arctos/), o [lince-boreal](/especie/lynx_lynx/) e o veado; a reserva de
+      Căldarea Gâlcescu visa proteger o urso-pardo, o lobo, a [camurça](/especie/rupicapra_rupicapra/) e o
+      [tetraz-grande](/especie/tetrao_urogallus/).
+
+
+      O inverno é rigoroso: nos cumes a neve mantém-se cerca de duzentos dias por ano, e a precipitação média
+      anual oscila entre 900 e 1.200 milímetros. Daí que a época propícia a caminhadas decorra de junho a
+      outubro.
+    visit: >-
+      Existem percursos pedestres balizados no maciço, mantidos pelo Salvamont Hunedoara a oeste e pelo
+      Salvamont Gorj a este; o flanco ocidental apresenta onze trilhos, cinco com saída de Petroșani ou do
+      complexo de Petroșani-Parâng.
+
+
+      Da estação superior do teleférico de Petroșani-Parâng, um trilho com fita vermelha conduz em uma hora e
+      um quarto ao pico Parângul Mic, e outro com ponto amarelo e fita vermelha leva à lagoa Mija em duas a
+      três horas. A ascensão ao Parângul Mare em fita vermelha exige quatro a cinco horas. A partir do refúgio
+      Obârșia Lotrului, um percurso de cruz vermelha passa pela lagoa Câlcescu até ao colo Piatra Tăiată em
+      quatro a cinco horas, prosseguindo por fita vermelha ao Parângul Mare em hora e meia.
+
+
+      A sul, o Salvamont Gorj marca subidas ao Parângul Mare a partir de Lainici pelos cumes Recii e Țapul, e
+      desde Stăncești pelo colo Izvorul Cald; outro itinerário sobe de Baia de Fier pela gruta Muierii e pico
+      Ogorul ao colo Florile Albe. A entrada na reserva de Căldarea Gâlcescu faz-se pelo vale do Lotru por
+      trilho de cruz vermelha ou pela crista principal em fita vermelha.
+    history: >-
+      O montanhismo no Parâng nasceu ligado à Associação dos Cárpatos Transilvanos (SKV), criada em Sibiu em
+      1893; em 1900 construiu o primeiro abrigo. A zona de Căldarea Gâlcescu foi indicada em 1932 para
+      primeiro espaço protegido do maciço, sendo classificada em 1983 com 190,10 hectares.
+    before: >-
+      As travessias de altitude devem acautelar a presença de neve: nos cumes a neve dura cerca de duzentos
+      dias por ano. Os melhores meses vão de junho a outubro.
+    around: >-
+      Junto ao Parâng encontra-se o [Parque Nacional do Desfiladeiro do Jiu - Floresta
+      Virgem](/lugar/parcul-national-defileul-jiului-codrii-seculari/). A dez quilómetros situa-se o [Parque
+      Natural de Cindrel](/lugar/parcul-natural-cindrel/), a doze as [Montanhas de
+      Șureanu](/lugar/muntii-sureanu/) e a catorze a [Reserva florestal de
+      Latorița](/lugar/codrul-secular-latorita/). Mais a norte, o [Parque Nacional das Montanhas de
+      Rodna](/lugar/parcul-national-muntii-rodnei/) partilha com o Parâng pinheiros-suíços, camurças e ursos
+      num cenário de alta montanha.
+fuentes:
+  - url: https://saptamanaverde.edu.ro/ro/rezervatia-caldarea-galcescu
+    titulo: Rezervația Căldarea Gâlcescu — Mediu
+    fecha_consulta: '2026-11-06'
+  - url: https://ro.wikipedia.org/wiki/Mun%C8%9Bii_Par%C3%A2ng
+    titulo: Munții Parâng — Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Par%C3%A2ng_Mountains
+    titulo: Parâng Mountains — Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.salvamontgorj.ro/muntii-parang/
+    titulo: Munții Parâng — Salvamont Gorj
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Iarna_%C3%AEn_Par%C3%A2ng_-_panoramio_-_Cioboata_Andrei_(5).jpg
+    autor: Cioboata Andrei
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-17'

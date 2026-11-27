@@ -1,0 +1,467 @@
+id: gelderse-poort
+estado_editorial: valoracion-revisada
+nombre:
+  es: Puerta de Güeldres / Corredor del Rin
+  en: Gelderse Poort / Rhine Corridor
+  fr: Gelderse Poort / Couloir du Rhin
+  de: Gelderse Poort / Rheinkorridor
+  it: Gelderse Poort / Corridoio del Reno
+  pt: Gelderse Poort / Corredor do Reno
+nombre_original: Gelderse Poort
+alias:
+  - Gelderse Poort
+paises:
+  - NL
+  - DE
+region:
+  es: Güeldres (NL) / Renania del Norte-Westfalia (DE)
+  en: Gelderland (NL) / North Rhine-Westphalia (DE)
+  fr: Gueldre (NL) / Rhénanie-du-Nord-Westphalie (DE)
+  de: Gelderland (NL) / Nordrhein-Westfalen (DE)
+  it: Gheldria (NL) / Renania Settentrionale-Vestfalia (DE)
+  pt: Gueldres (NL) / Renânia do Norte-Vestefália (DE)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 51.85
+  lon: 6
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: relation/10377542
+  nombre_en_la_fuente: Gelderse Poort
+  capa: capas/osm/gelderse-poort.geojson
+habitats:
+  - river_corridor
+  - wetland
+designaciones:
+  - natura2000
+especies:
+  - equus_caballus
+  - bos_taurus
+proyectos:
+  - millingerwaard
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Gelderse Poort, Staatsbosbeheer
+    url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort
+  - titulo: Normas y accesos — Información de visita de Gelderse Poort
+    url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort/toegankelijkheid
+  - titulo: Rutas y visitas — Actividades de Gelderse Poort
+    url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort/activiteiten
+resumen:
+  es: El proyecto pionero de renaturalización de llanuras de inundación en Europa con caballos Konik libres.
+  en: The pioneering European floodplain rewilding project grazed by free-roaming Konik horses and wild cattle.
+  fr: >-
+    Le projet pionnier de renaturation des plaines d'inondation en Europe pâturé par des chevaux Konik et des
+    bovins libres.
+  de: Das europäische Pionierprojekt zur Auen-Renaturierung mit freilebenden Konik-Pferden und Wildrindern.
+  it: Il progetto pioniere di rinaturalizzazione golenale in Europa con cavalli Konik e bovini allo stato brado.
+  pt: >-
+    O projeto pioneiro de renaturalização de várzeas fluviais na Europa pastado por cavalos Konik e bovinos em
+    liberdade.
+unico:
+  es: En verano, las dunas fluviales de Gelderse Poort se cubren de flores.
+  en: In summer, the dynamic river dunes of the Gelderse Poort burst into colourful wildflower bloom.
+  fr: En été, les dunes fluviales de la Gelderse Poort se couvrent d'un tapis fleuri.
+  de: Im Sommer verwandeln sich die Flussdünen der Gelderse Poort in ein blühendes Blumenmeer.
+  it: In estate, le dune fluviali della Gelderse Poort si rivestono di una magnifica fioritura.
+  pt: No verão, as dunas fluviais de Gelderse Poort cobrem-se de flores silvestres.
+observaciones:
+  es: >-
+    La mayor parte de la Gelderse Poort se puede visitar durante todo el año. Los perros entran atados, salvo
+    que las señales digan otra cosa, así que mira los paneles en las entradas. Las mejores fechas van de mayo
+    a septiembre.
+texto:
+  es:
+    intro: >-
+      Aquí el río volvió a entrar en su casa. En la Gelderse Poort se devolvieron muchos kilómetros de
+      llanuras inundables al Waal y al Rin y a los procesos naturales, y lo que apareció es un área ruda,
+      llena de caballos y bovinos asilvestrados, castores y miles de gansos. Se extiende entre Nimega, Kleve,
+      Arnhem y Emmerich, a orillas del Waal, y es uno de los referentes de la renaturalización fluvial en
+      Europa.
+    landscape: >-
+      El Rin y el Waal hicieron este terreno: dunas fluviales, canales secundarios y llanuras inundables que
+      forman un mosaico de praderas, vegetación alta y bosques de ribera. Para que el río volviera a actuar
+      con libertad se reabrieron antiguos cauces, de modo que, además del canal de navegación, la corriente
+      natural vuelve a tener su sitio. La inundación forma parte del carácter de la reserva.
+
+
+      El espacio Natura 2000 ocupa 6105 hectáreas en territorio neerlandés. Dentro de él, la Millingerwaard, a
+      orillas del Waal, mide unas cuatrocientas hectáreas y conserva una de las pocas dunas fluviales «vivas»
+      de los Países Bajos.
+    wildlife: >-
+      Los animales que dan imagen al lugar llegaron soltados: [caballos](/especie/equus_caballus/) Konik y
+      [vacas](/especie/bos_taurus/) Galloway pastan en la Millingerwaard desde 1992 y mantienen la vegetación
+      corta y abierta. También se soltaron [castores](/especie/castor_fiber/), y les va estupendamente.
+
+
+      El año tiene su calendario. En verano, las dunas florecen. En otoño, las espátulas y las garcetas se
+      posan en los diques del río; en invierno, el dique junto al Waal funciona como una gran tribuna para ver
+      los gansos que pasan allí la estación. Los castores se buscan al atardecer, y sus huellas en las orillas
+      se notan sobre todo en otoño e invierno. En los Rijnstrangen crían el
+      [avetoro](/especie/botaurus_stellaris/) y el carricero tordal, aves de carrizal poco comunes.
+
+
+      Entre las aves vistas están la [cigüeña negra](/especie/ciconia_nigra/), la [garceta
+      grande](/especie/egretta_alba/), el [águila pigargo](/especie/haliaeetus_albicilla/) y el águila
+      pescadora, y el área se ha convertido en el principal lugar de cría del fumarel común en los Países
+      Bajos.
+    visit: >-
+      Gran parte del espacio permite caminar libremente fuera de los senderos señalizados.
+
+
+      La Millingerwaard es accesible solo a pie y en bicicleta. Para los gansos, sube al dique junto al Waal
+      en invierno; para las aves de otoño, recórrelo cuando llegan las espátulas y las garcetas. Si buscas
+      castores, sal al atardecer.
+    history: >-
+      La Millingerwaard fue la primera zona en recibir este trato de devolución al río. La idea es dejar que
+      el río inunde y que los grandes herbívoros mantengan abierta la vegetación.
+    before: >-
+      La mayor parte de la Gelderse Poort se puede visitar durante todo el año. Los perros entran atados,
+      salvo que las señales digan otra cosa, así que mira los paneles en las entradas. Las mejores fechas van
+      de mayo a septiembre.
+    around: >-
+      A veintidós kilómetros está la [Reserva Natural De Maashorst](/lugar/de-maashorst/), otro espacio donde
+      pastan caballos y bovinos. Dentro de la Gelderse Poort se encuentra la
+      [Millingerwaard](/lugar/millingerwaard/).
+
+
+      Con una mezcla parecida de ríos, humedales, caballos y bovinos en libertad hay otros lugares más
+      lejanos: el [Parque Natural Lonjsko Polje](/lugar/park-prirode-lonjsko-polje/), la [Reserva Natural
+      Borkener Paradies](/lugar/naturschutzgebiet-borkener-paradies/) y la [Reserva Natural Slikken van de
+      Heen](/lugar/slikken-van-de-heen/).
+  en:
+    intro: >-
+      Here the river was welcomed back into its natural home. Across the Gelderse Poort, many kilometres of
+      floodplains were returned to the natural dynamics of the Waal and Rhine rivers, giving rise to an
+      untamed expanse populated by wild-living horses and cattle, thriving beavers and thousands of migrating
+      geese. Stretching between Nijmegen, Kleve, Arnhem and Emmerich along the banks of the Waal, it stands as
+      an international benchmark for riverine rewilding in Europe.
+    landscape: >-
+      The Rhine and the Waal shaped this shifting landscape: inland river dunes, dynamic secondary channels
+      and wide floodplains forming an ever-changing mosaic of grasslands, tall reedbeds and willow-poplar
+      riparian forests. To allow the river to express its natural power, silted-up channels were reopened,
+      creating free-flowing side arms alongside the busy commercial navigation waterway. Seasonal flooding
+      forms the foundational character of the reserve.
+
+
+      The Natura 2000 protected area spans 6,105 hectares on Dutch territory. Within it, the Millingerwaard
+      along the Waal covers roughly four hundred hectares and preserves one of the few living, migrating river
+      dunes remaining in the Netherlands.
+    wildlife: >-
+      The animals that define the scenery were introduced to restore ancient natural processes: free-roaming
+      Konik [horses](/especie/equus_caballus/) and Galloway [cattle](/especie/bos_taurus/) have grazed the
+      Millingerwaard since 1992, browsing woody growth and maintaining a permeable open mosaic. Reintroduced
+      [Eurasian beavers](/especie/castor_fiber/) have also prospered exceptionally well.
+
+
+      The year follows a seasonal rhythm. In summer, the sandy river dunes blossom with pioneer flora. In
+      autumn, spoonbills and egrets rest along river groynes and dykes; in winter, the elevated embankment
+      along the Waal serves as an expansive natural grandstand for viewing wintering geese. Beavers are best
+      spotted at twilight, with their feeding signs and tracks lining the shore in autumn and winter. The reed
+      wetlands of Rijnstrangen host breeding [Eurasian bitterns](/especie/botaurus_stellaris/) and great reed
+      warblers.
+
+
+      Bird sightings include the [black stork](/especie/ciconia_nigra/), [great
+      egret](/especie/egretta_alba/), [white-tailed eagle](/especie/haliaeetus_albicilla/) and osprey, and the
+      river corridor has developed into the premier nesting stronghold for black terns in the Netherlands.
+    visit: >-
+      Much of the reserve allows visitors to roam freely off designated footpaths.
+
+
+      The Millingerwaard is accessible solely on foot and by bicycle. To observe wintering geese, climb the
+      river embankment along the Waal; for autumn migratory birds, walk the floodbanks when spoonbills and
+      egrets gather. If you hope to see beavers, venture out towards dusk.
+    history: >-
+      The Millingerwaard was the pioneering tract where river-restoration principles were first implemented.
+      The core philosophy is to allow seasonal river inundation while large herbivores keep woody scrub in
+      check.
+    before: >-
+      Most of the Gelderse Poort can be visited year-round. Dogs must be kept on a lead unless signs indicate
+      otherwise, so check information boards at access points. The most pleasant visiting window runs from May
+      to September.
+    around: >-
+      Twenty-two kilometres away lies [De Maashorst Nature Reserve](/lugar/de-maashorst/), another expanse
+      grazed by free-roaming horses and cattle. Within the Gelderse Poort lies the core
+      [Millingerwaard](/lugar/millingerwaard/) tract.
+
+
+      Further away, other reserves share this dynamic combination of rivers, wetlands and free-ranging
+      herbivores: [Lonjsko Polje Nature Park](/lugar/park-prirode-lonjsko-polje/), [Borkener Paradies Nature
+      Reserve](/lugar/naturschutzgebiet-borkener-paradies/) and [Slikken van de Heen Nature
+      Reserve](/lugar/slikken-van-de-heen/).
+  fr:
+    intro: >-
+      Ici, le fleuve a retrouvé son lit originel. Dans la Gelderse Poort, de nombreux kilomètres de plaines
+      inondables ont été rendus aux dynamiques naturelles du Waal et du Rhin, laissant éclore un espace
+      sauvage parcouru par des troupeaux de chevaux et de bovins rustiques, des castors prospères et des
+      milliers d'oies. S'étendant entre Nimègue, Clèves, Arnhem et Emmerich le long du Waal, c'est l'une des
+      références du réensauvagement fluvial en Europe.
+    landscape: >-
+      Le Rhin et le Waal ont façonné ce milieu : dunes fluviales vives, chenaux secondaires et prairies
+      alluviales composent une mosaïque d'herbages, de cariçaies et de ripisylves. Pour redonner au fleuve sa
+      liberté de divagation, d'anciens bras ont été recreusés, offrant au courant un lit naturel à côté du
+      chenal commercial. La crue périodique forge l'identité de la réserve.
+
+
+      Le site Natura 2000 couvre 6 105 hectares en territoire néerlandais. En son sein, la Millingerwaard, au
+      bord du Waal, s'étend sur environ quatre cents hectares et abrite l'une des rares dunes fluviales «
+      vivantes » des Pays-Bas.
+    wildlife: >-
+      Les grands herbivores emblématiques des lieux ont été réintroduits pour ouvrir le milieu : des
+      [chevaux](/especie/equus_caballus/) Konik et des [vaches](/especie/bos_taurus/) Galloway pâturent la
+      Millingerwaard depuis 1992, maintenant la végétation rase. Des [castors
+      d'Europe](/especie/castor_fiber/) ont également été réintroduits et s'y développent remarquablement.
+
+
+      Les saisons rythment la vie du fleuve. En été, les sables dunaires se parent de fleurs pionnières. En
+      automne, spatules et aigrettes se posent sur les épis rocheux ; en hiver, la digue du Waal se transforme
+      en tribune panoramique pour observer les vols d'oies hivernantes. Les castors s'observent au crépuscule,
+      trahissant leur présence par des traces le long des berges. Dans les Rijnstrangen nichent le [butor
+      étoilé](/especie/botaurus_stellaris/) et la rousserolle turdoïde.
+
+
+      Le site accueille la [cigogne noire](/especie/ciconia_nigra/), la [grande
+      aigrette](/especie/egretta_alba/), le [pygargue à queue blanche](/especie/haliaeetus_albicilla/) et le
+      balbuzard pêcheur, devenant la principale zone de nidification de la guifette noire aux Pays-Bas.
+    visit: >-
+      Une large partie de la réserve autorise la déambulation libre hors des sentiers balisés.
+
+
+      La Millingerwaard est accessible exclusivement à pied et à vélo. Pour observer les oies, gagnez la digue
+      du Waal en hiver ; pour les haltes migratoires automnales, parcourez les berges lorsque stationnent
+      spatules et aigrettes. Pour pister le castor, privilégiez le crépuscule.
+    history: >-
+      La Millingerwaard fut le premier secteur d'expérimentation de cette restitution au fleuve. L'ambition
+      était de laisser la crue s'épandre et de confier aux grands herbivores le soin de contrôler les ligneux.
+    before: >-
+      La majeure partie de la Gelderse Poort se visite toute l'année. Les chiens doivent être tenus en laisse
+      sauf indication contraire sur les panneaux d'accès. La période la plus favorable court de mai à
+      septembre.
+    around: >-
+      À vingt-deux kilomètres se trouve la [réserve naturelle De Maashorst](/lugar/de-maashorst/), autre
+      espace pâturé par des chevaux et des bovins en liberté. Au cœur de la Gelderse Poort s'étend la
+      [Millingerwaard](/lugar/millingerwaard/).
+
+
+      Plus loin, d'autres réserves déclinent cette alliance d'eaux vives, de zones humides et de grands
+      herbivores libres : le [parc naturel de Lonjsko Polje](/lugar/park-prirode-lonjsko-polje/), la [réserve
+      naturelle de Borkener Paradies](/lugar/naturschutzgebiet-borkener-paradies/) et la [réserve naturelle de
+      Slikken van de Heen](/lugar/slikken-van-de-heen/).
+  de:
+    intro: >-
+      Hier durfte der Fluss wieder in sein altes Bett zurückkehren. In der Gelderse Poort wurden viele
+      Kilometer Überschwemmungsauen der natürlichen Dynamik von Waal und Rhein zurückgegeben. Entstanden ist
+      eine urtümliche Flusslandschaft, durchstreift von freilebenden Pferden und Rindern, Bibern und Tausenden
+      arktischen Gänsen. Zwischen Nijmegen, Kleve, Arnheim und Emmerich am Waalufer gelegen, gilt das Gebiet
+      als Meilenstein der Fluss-Renaturierung in Europa.
+    landscape: >-
+      Rhein und Waal formten diesen Boden: Wanderdünen, Sekundärrinnen und Auen bilden ein lebendiges Mosaik
+      aus Magerrasen, Röhrichten und Weichholz-Auenwäldern. Um dem Strom Raum zu geben, wurden verlandete
+      Rinnen wieder geöffnet, sodass neben der Fahrrinne natürliche Nebenarme strömen können. Die periodische
+      Überflutung prägt den Charakter des Schutzgebiets.
+
+
+      Das Natura 2000-Areal umfasst 6.105 Hektar auf niederländischem Staatsgebiet. Darin misst die
+      Millingerwaard am Waalufer rund vierhundert Hektar und bewahrt eine der wenigen aktiven Flussdünen der
+      gesamten Niederlande.
+    wildlife: >-
+      Die landschaftsprägenden Tiere wurden gezielt angesiedelt: Freilebende
+      Konik-[Pferde](/especie/equus_caballus/) und Galloway-[Rinder](/especie/bos_taurus/) weiden seit 1992 in
+      der Millingerwaard und halten den Bewuchs halboffen. Auch [Europäische Biber](/especie/castor_fiber/)
+      wurden erfolgreich ausgewildert und haben sich glänzend etabliert.
+
+
+      Das Jahr folgt jahreszeitlichen Zyklen. Im Sommer blühen die Dünen. Im Herbst rasten Löffler und Reiher
+      auf den Buhnen; im Winter wird der Waaldeich zur Aussichtstribüne für Tausende überwinternde Gänse.
+      Biber zeigen sich in der Dämmerung, ihre Fraßspuren sind im Herbst und Winter am Ufer allgegenwärtig. In
+      den Schilfzonen der Rijnstrangen brüten [Rohrdommel](/especie/botaurus_stellaris/) und
+      Drosselrohrsänger.
+
+
+      Zu den beobachteten Vogelarten zählen [Schwarzstorch](/especie/ciconia_nigra/),
+      [Silberreiher](/especie/egretta_alba/), [Seeadler](/especie/haliaeetus_albicilla/) und Fischadler; zudem
+      entwickelte sich das Areal zum wichtigsten Brutgebiet der Trauerseeschwalbe in den Niederlanden.
+    visit: >-
+      Große Teile des Geländes dürfen abseits der Pfade frei begangen werden.
+
+
+      Die Millingerwaard ist ausschließlich zu Fuß oder mit dem Fahrrad zugänglich. Um Gänse zu beobachten,
+      steigst du im Winter auf den Deich; im Herbst lohnt der Weg zu den Buhnen, wenn Löffler und Reiher
+      rasten. Biberbeobachtungen gelingen am besten in der Abenddämmerung.
+    history: >-
+      Die Millingerwaard war der Ausgangspunkt für diese Rückgabe an die Naturkräfte. Das Leitprinzip lautete,
+      dem Hochwasser Raum zu geben und Gehölze durch Großherbivoren regulieren zu lassen.
+    before: >-
+      Der überwiegende Teil der Gelderse Poort ist ganzjährig zugänglich. Hunde sind an der Leine zu führen,
+      sofern Hinweisschilder keine Ausnahmen gestatten. Die angenehmste Reisezeit reicht von Mai bis
+      September.
+    around: >-
+      Zweiundzwanzig Kilometer entfernt liegt das [Naturschutzgebiet De Maashorst](/lugar/de-maashorst/), in
+      dem ebenfalls Wildpferde und Rinder grasen. In der Gelderse Poort selbst liegt das Kerngebiet
+      [Millingerwaard](/lugar/millingerwaard/).
+
+
+      Ähnliche dynamische Fluss- und Weidelandschaften bieten aus der Ferne der [Naturpark Lonjsko
+      Polje](/lugar/park-prirode-lonjsko-polje/), das [Naturschutzgebiet Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/) und das [Naturschutzgebiet Slikken van de
+      Heen](/lugar/slikken-van-de-heen/).
+  it:
+    intro: >-
+      Qui il fiume è tornato a padroneggiare i suoi spazi. Nella Gelderse Poort molti chilometri di golene
+      allagabili sono stati restituiti ai cicli naturali del Waal e del Reno, creando un ambiente selvaggio
+      popolato da cavalli e bovini allo stato brado, castori ed enormi stormi di oche. Disteso tra Nimega,
+      Kleve, Arnhem ed Emmerich sulle sponde del Waal, è un modello europeo di ripristino fluviale.
+    landscape: >-
+      Il Reno e il Waal hanno forgiato questi luoghi: dune fluviali mobili, lanche e piane inondabili che
+      compongono un mosaico di prati, canneti e foreste golenali. Per consentire al fiume di esprimersi
+      liberamente sono stati riattivati vecchi bracci, affiancando alla navigazione commerciale corsi d'acqua
+      naturali. Le esondazioni periodiche costituiscono il cuore dell'area protetta.
+
+
+      Il sito Natura 2000 si estende su 6.105 ettari nei Paesi Bassi. Al suo interno, la Millingerwaard sul
+      Waal misura circa quattrocento ettari e tutela una delle pochissime dune fluviali ancora attive del
+      paese.
+    wildlife: >-
+      I grandi mammiferi che caratterizzano il paesaggio sono stati reintrodotti per ripristinare il pascolo
+      naturale: [cavalli](/especie/equus_caballus/) Konik e [bovini](/especie/bos_taurus/) Galloway pascolano
+      nella Millingerwaard dal 1992, mantenendo aperta la vegetazione. Anche i
+      [castori](/especie/castor_fiber/) sono stati reintrodotti con eccellenti risultati riproduttivi.
+
+
+      Le stagioni scandiscono la fauna. In estate le sabbie si coprono di fioriture spontanee. In autunno
+      spatole e garzette sostano sui pennelli fluviali; in inverno l'argine maestro del Waal diventa una
+      tribuna naturale per osservare le oche svernanti. I castori si avvistano all'imbrunire, lasciando tracce
+      visibili in autunno e inverno. Nei canneti di Rijnstrangen nidificano il
+      [tarabuso](/especie/botaurus_stellaris/) e il cannareccione.
+
+
+      Tra i volatili censiti figurano la [cicogna nera](/especie/ciconia_nigra/), l'[airone bianco
+      maggiore](/especie/egretta_alba/), l'[aquila di mare](/especie/haliaeetus_albicilla/) e il falco
+      pescatore, e il comprensorio è divenuto la principale colonia riproduttiva di mignattino comune nei
+      Paesi Bassi.
+    visit: >-
+      Ampie porzioni della riserva consentono di camminare liberamente fuori dai percorsi segnati.
+
+
+      La Millingerwaard è accessibile soltanto a piedi e in bicicletta. Per ammirare le oche sali sull'argine
+      del Waal in inverno; per l'avifauna autunnale percorri le rive quando compaiono spatole e garzette. Per
+      il castoro muoviti sul far della sera.
+    history: >-
+      La Millingerwaard è stata la prima area a sperimentare questa restituzione alla dinamica delle acque. Il
+      principio cardine prevede di accogliere le piene e affidare ai grandi erbivori il controllo della
+      vegetazione arbustiva.
+    before: >-
+      La maggior parte della Gelderse Poort è accessibile durante tutto l'anno. I cani devono essere tenuti al
+      guinzaglio salvo diversa indicazione sui cartelli. I mesi più favorevoli vanno da maggio a settembre.
+    around: >-
+      A ventidue chilometri si trova la [Riserva Naturale De Maashorst](/lugar/de-maashorst/), altro
+      territorio con cavalli e bovini al pascolo libero. Nel cuore della Gelderse Poort è racchiusa la
+      [Millingerwaard](/lugar/millingerwaard/).
+
+
+      Con un assetto simile di golene, acque correnti e grandi pascolatori figurano a distanza il [Parco
+      Naturale di Lonjsko Polje](/lugar/park-prirode-lonjsko-polje/), la [Riserva Naturale Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/) e la [Riserva Naturale Slikken van de
+      Heen](/lugar/slikken-van-de-heen/).
+  pt:
+    intro: >-
+      Aqui o rio voltou a reinar no seu domínio. Na Gelderse Poort devolveram-se muitos quilómetros de
+      planícies inundáveis à dinâmica natural do Waal e do Reno, originando uma paisagem agreste povoada por
+      cavalos e bovinos em regime bravio, castores prósperos e milhares de gansos. Estendendo-se entre Nimega,
+      Kleve, Arnhem e Emmerich nas margens do Waal, é um dos modelos de renaturalização fluvial na Europa.
+    landscape: >-
+      O Reno e o Waal forjaram esta terra: dunas fluviais ativas, canais secundários e várzeas aluviais que
+      compõem um mosaico de prados, caniçais densos e matas ripícolas. Para devolver ao rio a sua liberdade
+      foram desobstruídos braços antigos, permitindo à corrente correr sem entraves ao lado do canal
+      navegável. A inundação sazonal molda a identidade desta reserva.
+
+
+      O sítio Natura 2000 abrange 6.105 hectares em território neerlandês. No seu interior, a Millingerwaard,
+      junto ao Waal, ocupa cerca de quatrocentas hectares e alberga uma das raras dunas fluviais ativas dos
+      Países Baixos.
+    wildlife: >-
+      Os animais emblemáticos do local foram introduzidos para restaurar processos naturais:
+      [cavalos](/especie/equus_caballus/) Konik e [vacas](/especie/bos_taurus/) Galloway pastam na
+      Millingerwaard desde 1992, travando o avanço do mato. Também foram soltos
+      [castores-europeus](/especie/castor_fiber/), com excelente fixação e reprodução.
+
+
+      O ano obedece a um ritmo próprio. No verão, as dunas arenosas florescem. No outono, colhereiros e garças
+      pousam nos esporões; no inverno, o dique do Waal serve de miradouro privilegiado para observar as vagas
+      de gansos invernantes. Os castores procuram-se ao entardecer, com vestígios evidentes no outono e
+      inverno. Nos caniçais de Rijnstrangen nidificam o [abetouro-comum](/especie/botaurus_stellaris/) e o
+      rouxinol-grande-dos-caniços.
+
+
+      Entre as aves registadas constam a [cegonha-preta](/especie/ciconia_nigra/), a
+      [garça-branca-grande](/especie/egretta_alba/), a [águia-rabalva](/especie/haliaeetus_albicilla/) e a
+      águia-pesqueira, tendo a área evoluído para o principal núcleo reprodutor de gaivina-preta nos Países
+      Baixos.
+    visit: >-
+      Grande parte da reserva permite caminhar livremente fora dos trilhos balizados.
+
+
+      A Millingerwaard é acessível unicamente a pé e de bicicleta. Para os gansos, sobe ao dique do Waal no
+      inverno; para as aves de outono, caminha junto às margens na época dos colhereiros. Se procuras
+      castores, percorre a zona ao crepúsculo.
+    history: >-
+      A Millingerwaard foi a primeira área a adotar esta estratégia de devolução ao rio. O conceito visa
+      permitir que o caudal inunde as margens e que os grandes herbívoros mantenham os matos sob controlo.
+    before: >-
+      A maior parte da Gelderse Poort pode ser visitada durante todo o ano. Os cães devem circular com trela,
+      salvo sinalização em contrário nos acessos. O período mais agradável decorre de maio a setembro.
+    around: >-
+      A vinte e dois quilómetros situa-se a [Reserva Natural De Maashorst](/lugar/de-maashorst/), outro
+      território onde pastam cavalos e bovinos em liberdade. No coração de Gelderse Poort encontra-se a
+      [Millingerwaard](/lugar/millingerwaard/).
+
+
+      Mais distantes, outros espaços combinam rios, pauis e grandes herbívoros: o [Parque Natural Lonjsko
+      Polje](/lugar/park-prirode-lonjsko-polje/), a [Reserva Natural Borkener
+      Paradies](/lugar/naturschutzgebiet-borkener-paradies/) e a [Reserva Natural Slikken van de
+      Heen](/lugar/slikken-van-de-heen/).
+fuentes:
+  - url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort
+    titulo: Gelderse Poort – Staatsbosbeheer
+    fecha_consulta: '2026-11-06'
+  - url: https://nl.wikipedia.org/wiki/Gelderse_Poort_(natuurgebied)
+    titulo: Gelderse Poort (natuurgebied) – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://nl.wikipedia.org/wiki/Millingerwaard
+    titulo: Millingerwaard – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort/toegankelijkheid
+    titulo: Toegankelijkheid Gelderse Poort – Staatsbosbeheer
+    fecha_consulta: '2026-11-06'
+  - url: https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/gelderse-poort/activiteiten
+    titulo: Activiteiten Gelderse Poort – Staatsbosbeheer
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:River_forelands_in_Haalderen.jpg
+    autor: Industrees
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,650 @@
+id: park-prirode-kopacki-rit
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural Kopački Rit
+  en: Kopački Rit Nature Park
+  fr: Parc naturel de Kopački Rit
+  de: Naturpark Kopački Rit
+  it: Parco Naturale di Kopački Rit
+  pt: Parque Natural de Kopački Rit
+nombre_original: Park prirode Kopački rit
+alias:
+  - Kopački Rit Nature Park
+paises:
+  - HR
+region:
+  es: Condado de Osijek-Baranja (Desembocadura del Drava en el Danubio)
+  en: Osijek-Baranja County (Confluence of the Drava and Danube)
+  fr: Comitat d'Osijek-Baranja (Confluent de la Drave et du Danube)
+  de: Gespanschaft Osijek-Baranja (Mündung der Drau in die Donau)
+  it: Regione di Osijek e della Baranja (Confluenza della Drava nel Danubio)
+  pt: Condado de Osijek-Baranja (Confluência do Drava no Danúbio)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.63
+  lon: 18.78
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 15602
+  nombre_en_la_fuente: Kopački rit
+  capa: capas/cdda/park-prirode-kopacki-rit.geojson
+habitats:
+  - wetland
+  - river_corridor
+  - mature_forest
+designaciones:
+  - natural_park
+  - ramsar
+  - natura2000
+  - iucn_v
+especies:
+  - haliaeetus_albicilla
+  - cervus_elaphus
+  - sus_scrofa
+proyectos:
+  - danubeparks
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: da aprile a ottobre
+  pt: abril a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la pasarela de excursión; baja en canales interiores navegables
+  en: Moderate on the visitor boardwalk; low in navigable inner channels
+  fr: Moyenne sur la passerelle de visite ; faible dans les canaux navigables intérieurs
+  de: Mäßig auf dem Bohlensteg; gering in den schiffbaren Innenkanälen
+  it: Media sulla passerella escursionistica; bassa nei canali navigabili interni
+  pt: Média no passadiço de visita; baixa nos canais interiores navegáveis
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Park prirode Kopački rit
+    url: https://pp-kopacki-rit.hr/
+  - titulo: Visita y accesos — Preparar la visita a Kopački rit
+    url: https://pp-kopacki-rit.hr/posjet-parku/
+  - titulo: Normas — Kopački rit
+    url: https://pp-kopacki-rit.hr/pravila-ponasanja/
+  - titulo: Ruta — Pasarela Bijeli Lopoč
+    url: https://pp-kopacki-rit.hr/setnja-setnicom-bijelog-lopoca/
+  - titulo: Centro de visitantes — Tikveš
+    url: https://pp-kopacki-rit.hr/prezentacijsko-edukacijski-centar-tikves/
+resumen:
+  es: >-
+    El 'Amazonas de Europa Central', la mayor llanura de inundación fluvial intacta de la cuenca del Danubio y
+    el Drava.
+  en: The 'Amazon of Central Europe', the largest intact river floodplain in the Danube and Drava basin.
+  fr: >-
+    L'« Amazone d'Europe centrale », la plus vaste plaine d'inondation fluviale intacte du bassin du Danube et
+    de la Drave.
+  de: Der 'Amazonas Mitteleuropas', die größte intakte Flussauelandschaft im Einzugsgebiet von Donau und Drau.
+  it: >-
+    L'«Amazzonia dell'Europa centrale», la maggiore pianura alluvionale intatta del bacino idrografico del
+    Danubio e della Drava.
+  pt: >-
+    O 'Amazonas da Europa Central', a maior planície de inundação fluvial intacta da bacia do Danúbio e do
+    Drava.
+unico:
+  es: >-
+    Una delta interior del Danubio donde el agua dibuja el paisaje, y donde anida la mayor población de
+    pigargo europeo de toda la cuenca del Danubio.
+  en: >-
+    An inland delta of the Danube where water sculpts the landscape and where the largest white-tailed eagle
+    breeding population in the Danube basin nests.
+  fr: >-
+    Un delta intérieur du Danube où l'eau dessine le paysage et où niche la plus importante population de
+    pygargues à queue blanche de tout le bassin danubien.
+  de: >-
+    Ein Binnendelta der Donau, in dem das Wasser die Landschaft formt und die dichteste Seeadlerpopulation des
+    Donauraums brütet.
+  it: >-
+    Un delta interno del Danubio dove l'acqua plasma il paesaggio e dove nidifica la popolazione di aquila di
+    mare più densa dell'intero bacino danubiano.
+  pt: >-
+    Um delta interior do Danúbio onde a água molda a paisagem e onde nidifica a maior população de
+    águia-rabalva de toda a bacia danubiana.
+observaciones:
+  es: >-
+    Los visitantes solo pueden moverse por las zonas y sendas señaladas, y está prohibido recoger o dañar
+    plantas y hongos y molestar a los animales. Los barcos regulares salen del centro de recepción de
+    Kopačevo; sus horarios cambian con la temporada. La salida guiada para escuchar la berrea no se ofrece
+    todos los años.
+texto:
+  es:
+    intro: >-
+      Un río que se hace delta sin llegar al mar. En su curso medio, el Danubio, con ayuda del Drava, crea una
+      «delta interior», y eso da a Kopački Rit una importancia mundial. El resultado es un humedal que el
+      propio parque describe como una de las llanuras de inundación mejor conservadas de Europa: lagos,
+      canales, charcas, bosques inundables, carrizales y prados húmedos que cambian de forma cada año según
+      suba o baje el agua. Ocupa 231 km², con una reserva zoológica especial de 71 km², y está protegido desde
+      1967.
+    landscape: >-
+      La vida del Rit depende de las inundaciones. La inundación empieza a finales de febrero o principios de
+      marzo y dura hasta mediados de julio o principios de agosto; el periodo seco va de agosto a febrero. El
+      mayor lago es el Kopačko y el más profundo, el Sakadaško, y una red de canales naturales los une entre
+      sí y con el Danubio y el Drava.
+
+
+      El relieve lo dan las aguas: dejan charcas (depresiones) y lomas (elevaciones) estrechas y largas, de
+      cientos de metros, que se curvan. Ese mosaico decide quién crece dónde. La mayor parte de la llanura
+      inundable está cubierta de bosques de sauce blanco; en terreno algo más alto hay sauce blanco y chopo
+      negro, y en el más alto, robledales de roble pedunculado. En las zonas inundadas de forma temporal
+      dominan los carrizales y los cárices altos. En el parque hay 25 tipos de hábitat, cinco de ellos
+      amenazados a escala europea. Entre las plantas, el nenúfar blanco y el lirio Iris variegata, y la lista
+      de flora suma más de 500 especies.
+    wildlife: >-
+      Hasta ahora se han registrado más de 2.300 especies, muchas amenazadas a escala europea y mundial. Las
+      aves mandan: 300 especies, el 80 % de las registradas en Croacia, y más de 140 anidan con regularidad o
+      de forma ocasional. Kopački Rit tiene el mayor nido de [pigargo europeo](/especie/haliaeetus_albicilla/)
+      de esta parte de Europa y las mayores colonias de cormorán y [garza real](/especie/ardea_cinerea/) de
+      Croacia. Entre las que anidan en grandes colonias están la garza real, el fumarel cariblanco, el
+      cormorán grande y la gaviota reidora, y anidan también la [cigüeña blanca](/especie/ciconia_ciconia/) y
+      la [cigüeña negra](/especie/ciconia_nigra/).
+
+
+      El año marca el ritmo. El mayor número de especies se ve en las migraciones de primavera y otoño; en
+      invierno se pueden ver decenas de miles de gansos y patos de Siberia occidental. En una visita se ve
+      cerca del 70 % de las especies, es decir, entre 35 y 63 al día; el máximo en una jornada fue de 93.
+
+
+      Entre los mamíferos, 55 especies, más de la mitad de las de Croacia: [ciervo](/especie/cervus_elaphus/),
+      corzo, [jabalí](/especie/sus_scrofa/), [gato montés](/especie/felis_silvestris/),
+      [nutria](/especie/lutra_lutra/), [castor](/especie/castor_fiber/) y tejón. La berrea del ciervo dura
+      desde principios hasta mediados de septiembre y se oye a gran distancia; los ciervos nadan muy bien, a
+      veces incluso a través del Danubio, y en verano pasan horas en el agua para protegerse de mosquitos y
+      tábanos. Es el mayor criadero de peces de este tramo del Danubio, con más de 50 especies de agua dulce,
+      y hay 12 especies de anfibios y 10 de reptiles; junto al sendero del nenúfar blanco toman el sol las
+      tortugas de agua.
+    visit: >-
+      Se puede visitar todo el año; los mejores periodos son de abril a junio y de agosto a octubre. El
+      sendero educativo del nenúfar blanco mide unos 1200 m y va del centro de recepción al embarcadero de
+      Sakadaš, en unos 20 minutos de paseo tranquilo; los paneles muestran plantas y animales, y hay varias
+      zonas de descanso.
+
+
+      En época de inundación se organiza una salida en barca por la reserva zoológica especial; en época seca,
+      una visita a los bosques viejos de la llanura inundable. La excursión oficial en barco dura unos 45
+      minutos y se reserva con el parque, igual que el recorrido en canoa desde Sakadaš, de una o dos horas.
+      Las rutas ciclistas internacionales «Pannonian Peace Route» y «Danube Route» cruzan Kopački Rit, y en el
+      centro de visitantes se alquilan bicicletas.
+    history: >-
+      En 1699 el príncipe Eugenio de Saboya recibió el señorío de Belje, que incluía Kopački Rit, y construyó
+      un palacio de caza en Bilje. Los palacios de Tikveš, del siglo XIX, los construyó la rama Teschen de los
+      Habsburgo, en el corazón de Baranja; hoy el Centro de Presentación y Educación de Tikveš ocupa los
+      antiguos palacios, con un centro de interpretación de la naturaleza interactivo y programas educativos.
+
+
+      En 1941 el príncipe Albrecht de Habsburgo fundó la estación biológica «Albertina»; en 1967 Kopački Rit
+      pasó a ser reserva natural gestionada, y en 1997 se creó la institución pública del parque. Está en la
+      lista de Áreas Importantes para las Aves desde 1986 y en la de humedales Ramsar desde 1993, y forma
+      parte de la reserva de la biosfera transfronteriza Mura-Drava-Danubio, que la UNESCO proclamó en 2012.
+    before: >-
+      Los visitantes solo pueden moverse por las zonas y sendas señaladas, y está prohibido recoger o dañar
+      plantas y hongos y molestar a los animales. Los barcos regulares salen del centro de recepción de
+      Kopačevo; sus horarios cambian con la temporada. La salida guiada para escuchar la berrea no se ofrece
+      todos los años.
+    around: >-
+      [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) queda a 2 km, y el [Dráva River &
+      Floodplain](/lugar/drava-river---floodplain/) a 19 km. El [Kiskunsági Nemzeti Park -
+      Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/), lejos de aquí, comparte el fumarel
+      cariblanco y el humedal.
+  en:
+    intro: >-
+      A river forming a delta without ever reaching the sea. In its middle reaches, the Danube, joined by the
+      Drava, crafts an «inland delta», giving Kopački Rit global conservation significance. The result is a
+      wetland described by the park as one of the best-preserved floodplains in Europe: lakes, canals, pools,
+      flooded forests, reedbeds, and wet meadows that morph each year depending on the rise and fall of the
+      water. It covers 231 km², featuring a 71 km² special zoological reserve protected since 1967.
+    landscape: >-
+      Life in the Rit hinges entirely on water pulses. Flooding begins in late February or early March and
+      lasts until mid-July or early August; the dry period runs from August to February. The largest lake is
+      Kopačko and the deepest is Sakadaško, bound together and linked to the Danube and Drava by a network of
+      natural channels.
+
+
+      Water carves the topography: leaving depressions (sloughs) and narrow, curving ridges (crests)
+      stretching hundreds of metres. This mosaic dictates what grows where. Most of the floodplain is
+      blanketed by white willow woodlands; slightly higher ground supports white willow and black poplar, and
+      the highest ground bears pedunculate oak forests. Seasonally flooded zones are dominated by reedbeds and
+      tall sedges. The park contains 25 habitat types, five of which are endangered across Europe. Notable
+      plants include white water lilies and Iris variegata, within a flora list exceeding 500 species.
+    wildlife: >-
+      More than 2,300 species have been recorded to date, many threatened in Europe and worldwide. Birds reign
+      supreme: 300 species, representing 80 % of all birds recorded in Croatia, with over 140 nesting
+      regularly or occasionally. Kopački Rit boasts the highest concentration of nesting [white-tailed
+      eagle](/especie/haliaeetus_albicilla/) in this part of Europe and Croatia's largest colonies of
+      cormorants and [grey heron](/especie/ardea_cinerea/). Other birds nesting in massive colonies include
+      grey herons, whiskered terns, great cormorants, and black-headed gulls, alongside both [white
+      stork](/especie/ciconia_ciconia/) and [black stork](/especie/ciconia_nigra/).
+
+
+      The seasons set the tempo. The highest diversity occurs during spring and autumn migrations; in winter,
+      tens of thousands of geese and ducks arrive from western Siberia. During a single visit you can
+      typically see around 70 % of the species present, between 35 and 63 per day; the record for a single day
+      stands at 93.
+
+
+      Mammals number 55 species, more than half of Croatia's total: [red deer](/especie/cervus_elaphus/), roe
+      deer, [wild boar](/especie/sus_scrofa/), [European wildcat](/especie/felis_silvestris/), [Eurasian
+      otter](/especie/lutra_lutra/), [Eurasian beaver](/especie/castor_fiber/), and badgers. The deer rut runs
+      from early to mid-September, echoing far across the floodplains; deer swim exceptionally well, at times
+      crossing the Danube, and spend summer hours wading to fend off insects. It is the greatest fish spawning
+      ground in this stretch of the Danube, harbouring over 50 freshwater fish species, alongside 12 amphibian
+      and 10 reptile species; European pond turtles bask on logs beside the water lily boardwalk.
+    visit: >-
+      You can visit year-round, though the best periods are from April to June and from August to October. The
+      educational White Water Lily boardwalk spans about 1200 m from the visitor centre to the Sakadaš boat
+      landing, offering an easy 20-minute stroll with interpretive panels on local plants and animals and
+      several rest stops.
+
+
+      During high-water periods, boat excursions venture into the special zoological reserve; during drier
+      months, tours focus on the ancient floodplain forests. The official boat tour lasts about 45 minutes and
+      requires booking with the park, as does the canoe tour from Sakadaš lasting one or two hours. The
+      international «Pannonian Peace Route» and «Danube Route» cycle ways cross Kopački Rit, and bicycles can
+      be hired at the visitor centre.
+    history: >-
+      In 1699, Prince Eugene of Savoy was granted the Belje estate, which encompassed Kopački Rit, and built a
+      hunting manor in Bilje. The nineteenth century Tikveš complex was constructed by the Teschen branch of
+      the Habsburgs in the heart of Baranja; today the Tikveš Presentation and Education Centre occupies the
+      renovated palaces, housing an interactive nature interpretation centre and educational spaces.
+
+
+      In 1941, Prince Albrecht of Habsburg founded the «Albertina» biological station; in 1967 Kopački Rit was
+      designated a managed nature reserve, and in 1997 the public institution running the park was founded. It
+      has been on the Important Bird Areas list since 1986, became a Ramsar wetland in 1993, and forms part of
+      the transboundary Mura-Drava-Danube Biosphere Reserve proclaimed by UNESCO in 2012.
+    before: >-
+      Visitors may only move along designated trails and zones; picking or damaging plants and fungi or
+      disturbing wildlife is prohibited. Regular excursion boats depart from the Kopačevo reception centre;
+      departure schedules vary with the season. Guided evening outings to listen to the deer rut are not
+      offered every year.
+    around: >-
+      [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) lies 2 km away, and the [Dráva River &
+      Floodplain](/lugar/drava-river---floodplain/) is 19 km away. Further afield, [Kiskunsági Nemzeti Park -
+      Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/) shares whiskered terns and expansive
+      wetland dynamics.
+  fr:
+    intro: >-
+      Un fleuve qui se déploie en delta sans rejoindre la mer. Dans son cours moyen, le Danube, renforcé par
+      la Drave, façonne un « delta intérieur » conférant à Kopački Rit une envergure internationale. Le site
+      forme une zone humide que le parc présente comme l'une des plaines alluviales les mieux préservées
+      d'Europe : lacs, canaux, bras morts, forêts inondables, roselières et prairies humides changeant de
+      visage au fil des crues. Il s'étend sur 231 km², dont une réserve zoologique spéciale de 71 km²,
+      protégée depuis 1967.
+    landscape: >-
+      La dynamique du Rit est dictée par les crues. Les hautes eaux débutent fin février ou début mars pour
+      durer jusqu'à la mi-juillet ou début août ; la période sèche s'étire d'août à février. Le lac Kopačko
+      est le plus vaste et le lac Sakadaško le plus profond, tous deux reliés entre eux, au Danube et à la
+      Drave par un dédale de chenaux naturels.
+
+
+      Les eaux sculptent le relief : elles creusent des dépressions marécageuses et déposent de longues crêtes
+      ondulées de plusieurs centaines de mètres. Cette mosaïque décide de la végétation. La majorité de la
+      plaine alluviale est tapissée de saulaies blanches ; sur les buttes émergent saules blancs et peupliers
+      noirs, tandis que les points hauts portent des chênaies pédonculées. Les secteurs temporairement
+      submergés accueillent roselières et cariçaies. Le parc compte 25 types d'habitats, dont cinq menacés à
+      l'échelle européenne. Parmi les plantes remarquables figurent le nénuphar blanc et l'iris panaché, sur
+      plus de 500 espèces répertoriées.
+    wildlife: >-
+      Plus de 2 300 espèces ont été répertoriées à ce jour, nombre d'entre elles menacées à l'échelle
+      continentale. Les oiseaux dominent : 300 espèces, soit 80 % de l'avifaune croate, et plus de 140 y
+      nichent régulièrement ou occasionnellement. Kopački Rit abrite la plus importante colonie de
+      reproduction du [pygargue à queue blanche](/especie/haliaeetus_albicilla/) de cette région d'Europe et
+      les plus grands rassemblements de cormorans et de [hérons cendrés](/especie/ardea_cinerea/) de Croatie.
+      Parmi les nicheurs coloniaux figurent également la guifette moustac et la mouette rieuse, aux côtés de
+      la [cigogne blanche](/especie/ciconia_ciconia/) et de la [cigogne noire](/especie/ciconia_nigra/).
+
+
+      Le rythme varie au fil des saisons. La plus grande richesse s'observe lors des migrations du printemps
+      et de l'automne ; en hiver affluent des dizaines de milliers d'oies et de canards de Sibérie
+      occidentale. Une visite permet d'observer environ 70 % des espèces présentes, soit entre 35 et 63 par
+      jour ; le record atteint en une journée s'élève à 93.
+
+
+      Les mammifères comptent 55 espèces, plus de la moitié de la faune croate : [cerf
+      élaphe](/especie/cervus_elaphus/), chevreuil, [sanglier](/especie/sus_scrofa/), [chat
+      sauvage](/especie/felis_silvestris/), [loutre d'Europe](/especie/lutra_lutra/), [castor
+      d'Europe](/especie/castor_fiber/) et blaireau. Le brame du cerf retentit du début à la mi-septembre ;
+      les cerfs nagent remarquablement bien, traversant parfois le Danube, et s'immergent de longues heures en
+      été pour fuir les insectes. C'est la plus grande frayère de ce tronçon du Danube, avec plus de 50
+      espèces de poissons d'eau douce, ainsi que 12 espèces d'amphibiens et 10 de reptiles ; le long du
+      sentier des nénuphars, les cistudes d'Europe prennent le soleil.
+    visit: >-
+      Le site est accessible toute l'année, mais les meilleures périodes s'étendent d'avril à juin et d'août à
+      octobre. Le sentier pédagogique du nénuphar blanc mesure environ 1200 m, reliant le centre d'accueil à
+      l'embarcadère de Sakadaš en une promenade aisée de 20 minutes jalonnée de panneaux explicatifs et
+      d'aires de repos.
+
+
+      En période de crue, des excursions en barque sillonnent la réserve zoologique spéciale ; en période
+      sèche, les visites explorent les forêts alluviales anciennes. La promenade officielle en bateau dure
+      environ 45 minutes et se réserve auprès du parc, tout comme les balades en canoë depuis Sakadaš, d'une
+      ou deux heures. Les véloroutes internationales « Pannonian Peace Route » et « Danube Route » traversent
+      Kopački Rit, et des bicyclettes sont louées au centre d'accueil.
+    history: >-
+      En 1699, le prince Eugène de Savoie reçut le domaine de Belje, englobant Kopački Rit, et y fit ériger un
+      pavillon de chasse à Bilje. Les châteaux de Tikveš, du XIXe siècle, furent édifiés par la branche
+      Teschen des Habsbourg au cœur de la Baranja ; le centre d'interprétation de Tikveš occupe désormais ces
+      édifices restaurés avec des espaces interactifs.
+
+
+      En 1941, le prince Albert de Habsbourg fonda la station biologique « Albertina » ; en 1967, Kopački Rit
+      devint une réserve naturelle gérée et l'institution publique gestionnaire fut instaurée en 1997. Inscrit
+      parmi les zones importantes pour la conservation des oiseaux dès 1986 et zone Ramsar en 1993, il fait
+      partie de la réserve de biosphère transfrontalière Mura-Drave-Danube proclamée par l'UNESCO en 2012.
+    before: >-
+      Vous ne devez circuler que sur les sentiers et zones signalés ; il est interdit de cueillir ou
+      d'endommager végétaux et champignons ainsi que de déranger les animaux. Les départs réguliers de bateaux
+      s'effectuent depuis le centre d'accueil de Kopačevo ; les horaires évoluent selon la saison. Les sorties
+      guidées pour écouter le brame ne sont pas assurées chaque année.
+    around: >-
+      [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) se trouve à 2 km et [Dráva River &
+      Floodplain](/lugar/drava-river---floodplain/) à 19 km. Plus distant, le [Kiskunsági Nemzeti Park -
+      Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/) partage la guifette moustac et les
+      paysages de marais.
+  de:
+    intro: >-
+      Ein Fluss, der ein Delta bildet, ohne das Meer zu erreichen. Im Mittellauf formt die Donau zusammen mit
+      der Drau ein «Binnendelta», das Kopački Rit weltweite Bedeutung verleiht. Es entsteht ein Feuchtgebiet,
+      das die Parkverwaltung als eine der besterhaltenen Flussauen Europas beschreibt: Seen, Kanäle,
+      Altwasser, Auwälder, Schilfflächen und Feuchtwiesen, die je nach Wasserstand ihr Gesicht wandeln. Es
+      umfasst 231 km² mit einem 71 km² großen zoologischen Sonderreservat, das seit 1967 geschützt ist.
+    landscape: >-
+      Das Leben im Rit wird vom Wasser bestimmt. Die Überschwemmung setzt Ende Februar oder Anfang März ein
+      und währt bis Mitte Juli oder Anfang August; die Trockenphase dauert von August bis Februar. Der größte
+      See ist der Kopačko und der tiefste der Sakadaško, verbunden untereinander sowie mit Donau und Drau über
+      ein Netz natürlicher Kanäle.
+
+
+      Das Wasser gestaltet das Relief: Es hinterlässt Senken und schmale, geschwungene Geländerücken von
+      mehreren hundert Metern Länge. Dieses Mosaik bestimmt die Baumarten. Der Großteil der Flussaue ist von
+      Silberweidenwäldern bedeckt; etwas höher stocken Silberweiden und Schwarzpappeln, auf den höchsten
+      Flächen Stieleichenwälder. Zeitweilig überflutete Zonen beherrschen Röhrichte und Großseggenriede. Im
+      Park gibt es 25 Habitattypen, fünf davon europaweit gefährdet. Zu den Pflanzen zählen Weiße Seerose und
+      Bunte Schwertlilie bei einer Gesamtflora von über 500 Arten.
+    wildlife: >-
+      Bislang wurden über 2.300 Arten nachgewiesen, viele davon europaweit gefährdet. Die Vögel dominieren:
+      300 Arten, rund 80 % der gesamten Avifauna Kroatiens, und mehr als 140 brüten regelmäßig oder
+      gelegentlich. Kopački Rit beherbergt die dichteste Brutpopulation des
+      [Seeadlers](/especie/haliaeetus_albicilla/) in diesem Teil Europas und Kroatiens größte Kolonien von
+      Kormoranen und [Graureihern](/especie/ardea_cinerea/). In Großkolonien brüten zudem Weißbart-Seeschwalbe
+      und Lachmöwe, ergänzt durch [Weißstorch](/especie/ciconia_ciconia/) und
+      [Schwarzstorch](/especie/ciconia_nigra/).
+
+
+      Die Jahreszeiten bestimmen den Rhythmus. Die höchste Artenvielfalt zeigt sich auf dem Frühjahrs- und
+      Herbstzug; im Winter rasten zehntausende Gänse und Enten aus Westsibirien. Bei einem Besuch sieht man
+      meist rund 70 % der anwesenden Arten, also zwischen 35 und 63 pro Tag; der Tagesrekord lag bei 93.
+
+
+      Unter den Säugetieren leben 55 Arten, mehr als die Hälfte des Bestands Kroatiens:
+      [Rothirsch](/especie/cervus_elaphus/), Reh, [Wildschwein](/especie/sus_scrofa/),
+      [Wildkatze](/especie/felis_silvestris/), [Eurasischer Fischotter](/especie/lutra_lutra/), [Europäischer
+      Biber](/especie/castor_fiber/) und Dachs. Die Hirschbrunft dauert von Anfang bis Mitte September;
+      Hirsche schwimmen ausgezeichnet, queren teils die Donau und stehen im Sommer stundenlang im Wasser gegen
+      Insekten. Es ist der bedeutendste Laichplatz an diesem Donauabschnitt mit über 50 Süßwasserfischarten
+      sowie 12 Amphibien- und 10 Reptilienarten; am Seerosen-Lehrpfad sonnen sich Europäische
+      Sumpfschildkröten.
+    visit: >-
+      Ein Besuch lohnt ganzjährig; die reizvollsten Phasen reichen von April bis Juni sowie von August bis
+      Oktober. Der Seerosen-Holzsteg misst rund 1200 m vom Empfangszentrum zum Anleger Sakadaš und bietet
+      einen bequemen 20-minütigen Spaziergang mit Infotafeln und Rastplätzen.
+
+
+      Bei Hochwasser werden Bootsfahrten in das zoologische Sonderreservat angeboten; bei Niedrigwasser Touren
+      in die alten Auwälder. Die offizielle Schifffahrt dauert rund 45 Minuten und erfordert eine
+      Voranmeldung, ebenso wie Kanutouren ab Sakadaš von ein oder zwei Stunden Dauer. Die internationalen
+      Fernradwege «Pannonian Peace Route» und «Danube Route» queren Kopački Rit, und am Besucherzentrum lassen
+      sich Fahrräder leihen.
+    history: >-
+      1699 erhielt Prinz Eugen von Savoyen die Herrschaft Belje, zu der Kopački Rit gehörte, und errichtete
+      ein Jagdschloss in Bilje. Die Schlösser von Tikveš aus dem neunzehnten Jahrhundert erbaute die Teschener
+      Linie der Habsburger im Herzen der Baranja; heute beherbergt das renovierte Bildungszentrum Tikveš
+      interaktive Ausstellungen.
+
+
+      1941 gründete Prinz Albrecht von Habsburg die biologische Station «Albertina»; 1967 wurde Kopački Rit
+      zum kontrollierten Naturreservat und 1997 entstand die öffentliche Parkverwaltung. Seit 1986 ist es
+      Important Bird Area, seit 1993 Ramsar-Gebiet und seit 2012 Teil des UNESCO-Biosphärenreservats
+      Mur-Drau-Donau.
+    before: >-
+      Besucher dürfen sich ausschließlich auf ausgewiesenen Wegen bewegen; das Sammeln oder Beschädigen von
+      Pflanzen und Pilzen sowie das Stören von Wildtieren ist untersagt. Die Rundfahrtschiffe legen am
+      Besucherzentrum in Kopačevo ab; die Fahrpläne wechseln saisonal. Geführte Brunftexkursionen finden nicht
+      in jedem Jahr statt.
+    around: >-
+      Das Schutzgebiet [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) liegt 2 km entfernt,
+      die [Dráva River & Floodplain](/lugar/drava-river---floodplain/) 19 km. Der ferne [Kiskunsági Nemzeti
+      Park - Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/) teilt Weißbart-Seeschwalben und
+      offene Feuchtbiotope.
+  it:
+    intro: >-
+      Un fiume che genera un delta senza sfociare nel mare. Nel suo corso medio il Danubio, con l'apporto
+      della Drava, crea un «delta interno» che conferisce a Kopački Rit un valore naturalistico globale. Ne
+      scaturisce una zona umida descritta dal parco come una delle pianure alluvionali meglio conservate
+      d'Europa: laghi, canali, lanche, boschi golenali, canneti e prati umidi che mutano forma col variare
+      delle acque. Copre 231 km², con una riserva zoologica speciale di 71 km² protetta dal 1967.
+    landscape: >-
+      La vita nel Rit è scandita dalle inondazioni. La piena comincia a fine febbraio o inizio marzo e si
+      protrae fino a metà luglio o inizio agosto; la fase secca va da agosto a febbraio. Lo specchio lacustre
+      maggiore è il Kopačko e il più profondo è il Sakadaško, uniti tra loro e collegati al Danubio e alla
+      Drava da canali naturali.
+
+
+      Le acque modellano la morfologia: lasciano depressioni paludose e cordoni rilevati stretti e allungati
+      di varie centinaia di metri. Questo mosaico determina la vegetazione. La massima parte della golena è
+      coperta da boschi di salice bianco; sui rilievi intermedi compaiono salice bianco e pioppo nero, e sui
+      dossi più alti quercoleti di farnia. Nelle aree periodicamente sommerse dominano canneti e cariceti. Il
+      parco ospita 25 tipologie di habitat, cinque delle quali minacciate a livello europeo. Tra le specie
+      floristiche spiccano la ninfea bianca e l'Iris variegata, su oltre 500 piante censite.
+    wildlife: >-
+      Finora sono state catalogate oltre 2.300 specie viventi, molte delle quali minacciate a livello europeo.
+      Gli uccelli sono i protagonisti: 300 specie, pari all'80 % di quelle registrate in Croazia, e più di 140
+      vi nidificano con regolarità o sporadicamente. Kopački Rit ospita la maggiore concentrazione nidificante
+      di [aquila di mare](/especie/haliaeetus_albicilla/) di questo settore europeo e le colonie più grandi di
+      cormorani e [airone cenerino](/especie/ardea_cinerea/) della Croazia. Tra le specie coloniali nidificano
+      mignattino piombato e gabbiano comune, oltre a [cicogna bianca](/especie/ciconia_ciconia/) e [cicogna
+      nera](/especie/ciconia_nigra/).
+
+
+      Le stagioni scandiscono il ciclo vitale. Il picco di presenze coincide con le migrazioni primaverili e
+      autunnali; d'inverno svernano decine di migliaia di oche e anatre siberiane. Durante una visita si
+      osserva circa il 70 % delle specie presenti, ossia tra 35 e 63 al giorno; il primato giornaliero è stato
+      di 93.
+
+
+      Tra i mammiferi si contano 55 specie, più della metà di quelle croate:
+      [cervo](/especie/cervus_elaphus/), capriolo, [cinghiale](/especie/sus_scrofa/), [gatto
+      selvatico](/especie/felis_silvestris/), [lontra europea](/especie/lutra_lutra/), [castoro
+      europeo](/especie/castor_fiber/) e tasso. Il bramito del cervo dura da inizio a metà settembre e si
+      propaga a grandi distanze; i cervi nuotano abilmente, attraversando talvolta il Danubio, e d'estate
+      stazionano nell'acqua per sottrarsi agli insetti. È la principale area di riproduzione ittica di questo
+      tratto danubiano con oltre 50 specie d'acqua dolce, oltre a 12 specie di anfibi e 10 di rettili; lungo
+      la passerella delle ninfee le testuggini palustri prendono il sole.
+    visit: >-
+      Il parco è accessibile tutto l'anno; i periodi più favorevoli vanno da aprile a giugno e da agosto a
+      ottobre. La passerella didattica delle ninfee misura circa 1200 m dal centro accoglienza all'imbarcadero
+      di Sakadaš, percorribile in 20 minuti di passeggiata tranquilla tra pannelli descrittivi e piazzole di
+      sosta.
+
+
+      In fase di piena si organizzano uscite in battello nella riserva zoologica speciale; nei periodi
+      asciutti visite alle foreste golenali vetuste. L'escursione ufficiale in battello dura circa 45 minuti e
+      si prenota con il parco, così come il noleggio di canoe da Sakadaš per una o due ore. Gli itinerari
+      cicloturistici internazionali «Pannonian Peace Route» e «Danube Route» attraversano Kopački Rit, e al
+      centro visite si possono noleggiare biciclette.
+    history: >-
+      Nel 1699 il principe Eugenio di Savoia ottenne il feudo di Belje, comprendente Kopački Rit, ed edificò
+      una residenza di caccia a Bilje. I complessi di Tikveš, del XIX secolo, furono voluti dal ramo Teschen
+      degli Asburgo nel cuore della Baranja; oggi il centro didattico di Tikveš occupa gli antichi palazzi
+      restaurati con percorsi interattivi.
+
+
+      Nel 1941 il principe Albrecht d'Asburgo istituì la stazione biologica «Albertina»; nel 1967 Kopački Rit
+      divenne riserva naturale controllata e nel 1997 nacque l'ente parco. È inserito tra le Important Bird
+      Areas dal 1986, designato zona Ramsar nel 1993 e parte della Riserva della Biosfera transfrontaliera
+      Mura-Drava-Danubio istituita dall'UNESCO nel 2012.
+    before: >-
+      I visitatori devono muoversi esclusivamente lungo percorsi e passerelle indicati; è vietato raccogliere
+      o danneggiare piante e funghi o disturbare la fauna. I battelli di linea salpano dal centro visite di
+      Kopačevo con orari variabili a seconda della stagione. Le visite guidate serali per il bramito del cervo
+      non si svolgono ogni anno.
+    around: >-
+      [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) dista 2 km e [Dráva River &
+      Floodplain](/lugar/drava-river---floodplain/) dista 19 km. A maggiore distanza, il [Kiskunsági Nemzeti
+      Park - Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/) condivide il mignattino
+      piombato e gli scenari di palude.
+  pt:
+    intro: >-
+      Um rio que cria um delta sem desaguar no mar. No seu curso médio, o Danúbio, alimentado pelo Drava,
+      forma um «delta interior» conferindo a Kopački Rit relevância internacional. Trata-se de uma zona húmida
+      descrita pelo próprio parque como uma das planícies de inundação mais bem conservadas da Europa: lagos,
+      canais, lagoas, matas ripícolas, caniçais e prados alagados que mudam de feição anualmente consoante o
+      caudal. Ocupa 231 km², integrando uma reserva zoológica especial de 71 km² protegida desde 1967.
+    landscape: >-
+      A dinâmica do Rit depende intrinsecamente das cheias. A subida das águas principia no final de fevereiro
+      ou início de março e prolonga-se até meados de julho ou início de agosto; o período seco vai de agosto a
+      fevereiro. O maior lago é o Kopačko e o mais profundo o Sakadaško, ligados entre si e ao Danúbio e ao
+      Drava por uma rede de esteiros naturais.
+
+
+      As águas talham o relevo: esculpem depressões e cristas estreitas e curvilíneas de várias centenas de
+      metros. Esse mosaico seleciona as espécies vegetais. A maior fatia da planície de inundação está coberta
+      por salgueirais de salgueiro-branco; em terrenos ligeiramente elevados surgem salgueiro-branco e
+      choupo-negro, e nas cotas superiores carvalhais de carvalho-roble. Nas zonas periodicamente submersas
+      dominam caniçais e grandes tufos de ciperáceas. O parque contabiliza 25 tipos de habitat, cinco dos
+      quais ameaçados à escala europeia. Entre as plantas destacam-se o lírio-de-água-branco e o lírio Iris
+      variegata, integrados numa flora com mais de 500 espécies.
+    wildlife: >-
+      Até ao momento foram identificadas mais de 2.300 espécies, muitas delas ameaçadas na Europa e no mundo.
+      As aves lideram o ecossistema: 300 espécies, o equivalente a 80 % das registadas na Croácia, com mais de
+      140 a nidificar habitual ou esporadicamente. Kopački Rit concentra o maior núcleo reprodutor de
+      [águia-rabalva](/especie/haliaeetus_albicilla/) desta região europeia e as maiores colónias de
+      corvos-marinhos e [garça-real-europeia](/especie/ardea_cinerea/) da Croácia. Em colónias densas
+      nidificam ainda a gaivina-dos-pauis e o guincho-comum, acompanhados pela
+      [cegonha-branca](/especie/ciconia_ciconia/) e pela [cegonha-preta](/especie/ciconia_nigra/).
+
+
+      As estações ditam o ritmo. A maior abundância coincide com as migrações da primavera e do outono; no
+      inverno congregam-se dezenas de milhares de gansos e patos da Sibéria ocidental. Numa visita observa-se
+      habitualmente perto de 70 % das espécies presentes, oscilando entre 35 e 63 por dia; o recorde num só
+      dia fixou-se em 93.
+
+
+      Entre os mamíferos somam-se 55 espécies, mais de metade da fauna croata:
+      [veado-vermelho](/especie/cervus_elaphus/), corço, [javali](/especie/sus_scrofa/),
+      [gato-bravo](/especie/felis_silvestris/), [lontra-europeia](/especie/lutra_lutra/),
+      [castor-europeu](/especie/castor_fiber/) e texugo. A brama do veado prolonga-se do início a meados de
+      setembro e escuta-se ao longe; os veados nadam com destreza, cruzando por vezes o Danúbio, e no verão
+      passam horas na água para escapar aos insetos. É o maior berçário de peixes deste troço do Danúbio, com
+      mais de 50 espécies de água doce, bem como 12 espécies de anfíbios e 10 de répteis; junto ao passadiço
+      dos lírios-de-água apanham sol os cágados-de-carapaça-estriada.
+    visit: >-
+      Pode ser visitado todo o ano; as épocas mais propícias vão de abril a junho e de agosto a outubro. O
+      passadiço educativo dos lírios-de-água estende-se por cerca de 1200 m entre o centro de receção e o cais
+      de Sakadaš, proporcionando um passeio descontraído de 20 minutos com painéis interpretativos e áreas de
+      descanso.
+
+
+      Na época de cheia organizam-se passeios de barco pela reserva zoológica especial; no período seco,
+      percursos pelas florestas aluviais antigas. O circuito oficial de barco demora cerca de 45 minutos e
+      requer marcação com o parque, tal como os passeios de canoa a partir de Sakadaš, com uma ou duas horas
+      de duração. As ciclovias internacionais «Pannonian Peace Route» e «Danube Route» atravessam Kopački Rit,
+      e no centro de visitantes alugam-se bicicletas.
+    history: >-
+      Em 1699 o príncipe Eugénio de Saboia recebeu o senhorio de Belje, que englobava Kopački Rit, e ergueu um
+      pavilhão de caça em Bilje. Os palácios de Tikveš, do século XIX, foram mandados construir pelo ramo
+      Teschen dos Habsburgo no coração de Baranja; atualmente o Centro de Apresentação e Educação de Tikveš
+      ocupa os edifícios recuperados com módulos interativos.
+
+
+      Em 1941 o príncipe Albrecht de Habsburgo fundou a estação biológica «Albertina»; em 1967 Kopački Rit
+      tornou-se reserva natural gerida e em 1997 foi constituída a instituição pública gestora. Integra a
+      lista de Áreas Importantes para as Aves desde 1986, é sítio Ramsar desde 1993 e compõe a Reserva da
+      Biosfera transfronteiriça Mura-Drava-Danúbio instituída pela UNESCO em 2012.
+    before: >-
+      Os visitantes apenas podem circular pelas zonas e trilhos assinalados; é interdito colher ou danificar
+      plantas e cogumelos, bem como perturbar os animais. As embarcações regulares partem do centro de
+      acolhimento de Kopačevo com horários sazonais. A saída noturna com guia para ouvir a brama não é
+      disponibilizada em todos os anos.
+    around: >-
+      [Béda-Karapancsa Floodplain](/lugar/beda-karapancsa-floodplain/) situa-se a 2 km e [Dráva River &
+      Floodplain](/lugar/drava-river---floodplain/) a 19 km. Mais distante, [Kiskunsági Nemzeti Park -
+      Apaji-szikesek](/lugar/kiskunsagi-nemzeti-park---apaji-szikesek/) partilha gaivinas-dos-pauis e zonas
+      húmidas preservadas.
+fuentes:
+  - url: https://pp-kopacki-rit.hr
+    titulo: JU PP Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/zivotinjski-svijet/
+    titulo: Životinjski svijet – JU PP Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/wp-content/uploads/2023/10/20230927_PU008_cisto.pdf
+    titulo: Plan upravljanja Parka prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/plovidba-brodom/
+    titulo: Boat tour – JU PP Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/boat-tour/?lang=en
+    titulo: Boat tour – JU PP Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/kanu-izleti/
+    titulo: Kanu izleti – JU PP Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/poplavno-podrucje/
+    titulo: Poplavno područje - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/raznolikost-stanista/
+    titulo: Raznolikost staništa - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/biljni-svijet/
+    titulo: Biljni svijet - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/promatranje-ptica-2/
+    titulo: Promatranje ptica - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/rika-jelena/
+    titulo: Rika jelena - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/setnja-setnicom-bijelog-lopoca/
+    titulo: Šetnja Šetnicom bijelog lopoča - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/kopacki-rit-kroz-povijest/
+    titulo: Kopački rit kroz povijest - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/prezentacijsko-edukacijski-centar-tikves/
+    titulo: Prezentacijsko edukacijski centar Tikveš - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/radno-vrijeme-2/
+    titulo: Radno vrijeme - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://pp-kopacki-rit.hr/pravila-ponasanja/
+    titulo: Pravila ponašanja - Park prirode Kopački rit
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Kopa%C4%8Dki_Rit
+    titulo: Kopački Rit - Wikipedia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Kopa%C4%8Dki_rit_water_lilies_and_reeds.JPG
+    autor: Misalalic
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,688 @@
+id: naturpark-karwendel
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Karwendel
+  en: Karwendel Nature Park
+  fr: Parc naturel du Karwendel
+  de: Naturpark Karwendel
+  it: Parco Naturale del Karwendel
+  pt: Parque Natural de Karwendel
+nombre_original: Naturpark Karwendel
+alias:
+  - Karwendel Massif (Naturpark Karwendel)
+paises:
+  - AT
+  - DE
+region:
+  es: Tirol (Innsbruck / Scharnitz) (AT) / Baviera (Mittenwald) (DE)
+  en: Tyrol (Innsbruck / Scharnitz) (AT) / Bavaria (Mittenwald) (DE)
+  fr: Tyrol (Innsbruck / Scharnitz) (AT) / Bavière (Mittenwald) (DE)
+  de: Tirol (Innsbruck / Scharnitz) (AT) / Bayern (Mittenwald) (DE)
+  it: Tirolo (Innsbruck / Scharnitz) (AT) / Baviera (Mittenwald) (DE)
+  pt: Tirol (Innsbruck / Scharnitz) (AT) / Baviera (Mittenwald) (DE)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.42
+  lon: 11.45
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555513727
+  nombre_en_la_fuente: Karwendel
+  categoria_uicn: V
+  capa: capas/cdda/naturpark-karwendel.geojson
+habitats:
+  - high_mountain
+  - karst
+  - mature_forest
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - aquila_chrysaetos
+  - rupicapra_rupicapra
+  - capra_ibex
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en el bosque de arces Ahornboden en otoño
+  en: Moderate in the Ahornboden maple forest in autumn
+  fr: Moyenne dans la forêt d'érables d'Ahornboden en automne
+  de: Mäßig im Ahornboden im Herbst
+  it: Media nel bosco di aceri dell'Ahornboden in autunno
+  pt: Média no bosque de bordos de Ahornboden no outono
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Naturpark Karwendel Official
+    url: https://www.karwendel.org/
+  - titulo: Centro de visitantes — Naturparkhaus Hinterriß
+    url: https://www.naturparke.tirol/naturparkhaeuser/naturparkhaeuser-karwendel/naturparkhaus-hinterriss/
+resumen:
+  es: >-
+    El Parque Natural más extenso de Tirol, con 4 cadenas calizas paralelas cortadas a picados y el famoso
+    robledal-mapledal antiguo Großer Ahornboden.
+  en: >-
+    Tyrol's largest Nature Park, with 4 parallel limestone ranges plunging sheer into gorges and the famous
+    ancient sycamore-maple wood-pasture Großer Ahornboden.
+  fr: >-
+    Le plus vaste parc naturel du Tyrol, avec 4 chaînons calcaires parallèles abrupts et le célèbre pâturage
+    boisé d'érables anciens du Großer Ahornboden.
+  de: >-
+    Tirols größter Naturpark mit 4 parallelen Kalkgebirgsketten, schroffen Wänden und dem berühmten
+    historischen Bergahorn-Hutewald Großer Ahornboden.
+  it: >-
+    Il Parco Naturale più esteso del Tirolo, con 4 catene calcaree parallele a picco e lo storico pascolo
+    alberato di aceri secolari Großer Ahornboden.
+  pt: >-
+    O maior Parque Natural do Tirol, com 4 cordilheiras calcárias paralelas escarpadas e o famoso montado
+    histórico de bordos seculares Großer Ahornboden.
+unico:
+  es: El Gran Ahornboden es la mayor concentración de pastos de arces de monte de todo el arco alpino.
+  en: >-
+    The Großer Ahornboden is the largest concentration of mountain sycamore maple wood-pastures in the entire
+    Alpine arc.
+  fr: >-
+    Le Großer Ahornboden constitue la plus grande concentration de pâturages d'érables sycomores de tout l'arc
+    alpin.
+  de: Der Große Ahornboden ist die größte Konzentration von Bergahorn-Weidewäldern im gesamten Alpenraum.
+  it: >-
+    Il Gran Ahornboden ospita la maggiore concentrazione di pascoli alberati di acero montano dell'intero arco
+    alpino.
+  pt: >-
+    O Gran Ahornboden constitui a maior concentração de pastagens arborizadas de bordo-da-montanha de todo o
+    arco alpino.
+observaciones:
+  es: >-
+    Se pide ser un observador silencioso: no recoger setas, bayas ni plantas, no hacer ruido, no dejar basura
+    y llevar a los perros atados. Del 15 de abril al 15 de agosto está prohibido navegar por el Rißbach entre
+    Hagelhütten y Neunerbrücke y salirse de las vías en el Rißtal, para proteger al andarríos bastardo.
+    Acampar fuera de campings está prohibido, incluso en el Karwendel: no se puede dormir en tienda, vivac ni
+    en vehículo.
+texto:
+  es:
+    intro: >-
+      Durante la guerra de los Treinta Años el ganado dejó de subir a la Eng, quizá por miedo a los saqueos o
+      por el hambre. Los arces jóvenes crecieron sin que nadie los mordisqueara, y hoy son más de 2.200
+      árboles en el Ahornboden. Ese bosque de arces es el icono de un parque enorme: el Naturpark Karwendel
+      abarca casi todo el macizo del Karwendel y la reserva de Arnspitze, con 739 km², y es el mayor parque
+      natural de Austria y el espacio protegido más grande y antiguo del Tirol.
+    landscape: >-
+      El Karwendel es una pared de caliza. El macizo, de los Alpes calizos septentrionales, tiene cuatro
+      grandes cadenas de oeste a este, unos 45 km en esa dirección y casi 30 de norte a sur. Es de caliza de
+      Wetterstein y dolomía, plegadas hacia el sur: en las Laliderer Wände, la cara norte forma muros
+      verticales de hasta 1.000 m, mientras la cara sur, más suave, la excavaron los glaciares en amplios
+      circos separados por crestas poderosas. Los paredones que rodean el Ahornboden cuentan la historia de
+      antiguos mares tropicales y masas de hielo.
+
+
+      El agua completa el cuadro. El Isar nace en el Hinterautal, y su sistema fluvial tiene en el parque un
+      grado de naturalidad muy alto para Europa central. En las orillas de grava del Rißbach y del alto Isar
+      viven la tamariz alemana, la langosta de matorral manchada y el andarríos bastardo.
+
+
+      El Ahornboden tiene también su causa. El Rissbach inundó el pastizal durante siglos y arrastró un suelo
+      arenoso y pobre, ideal para el arce y malo para abetos y piceas. De ahí que los arces de la Eng, algunos
+      de hasta 600 años, crezcan donde crecen.
+    wildlife: >-
+      Es un parque de águilas. El [águila real](/especie/aquila_chrysaetos/) ocupa roquedos sin molestias para
+      criar y zonas abiertas sobre el límite del bosque, y se aspira a un mínimo de 14 parejas; por eso se
+      pide evitar molestias en torno a los nidos, regular las vías de escalada en las paredes de cría y
+      prohibir la munición de plomo. El [pico dorsiblanco](/especie/dendrocopos_leucotos/) necesita bosques
+      naturales con muchos árboles muertos o moribundos, y se busca mantener más de 50 parejas, en Bächental,
+      el norte del Achental y del Rißtal, el Stallental y el Vomper Loch. En total, en el lado austriaco se
+      han contado 96 especies de aves reproductoras, cerca de dos tercios de las del Tirol.
+
+
+      En los altos circos se ven a menudo grandes manadas de [rebecos](/especie/rupicapra_rupicapra/). El
+      [íbice](/especie/capra_ibex/) se reintrodujo en la zona del Sonnjoch y en la Nordkette y se ha adaptado
+      bien; también se observa en los circos del macizo de Mondscheinspitze. Con las
+      [marmotas](/especie/marmota_marmota/) y las águilas, completan una postal de prados floridos. Por encima
+      de los lagos Soiern se encuentra con frecuencia la salamandra alpina cuando hay humedad.
+
+
+      El zueco de dama es la mayor orquídea autóctona, de hasta 60 cm; depende de hongos simbiontes del suelo
+      y no debe cogerse ni arrancarse. La temporada recomendada va de junio a octubre, y el bosque de arces
+      del Ahornboden recibe una afluencia media en otoño.
+    visit: >-
+      La puerta es Hinterriß, la única población permanente del macizo. De allí, el Enger Grund es la
+      excursión fácil: desde el aparcamiento del Alpengasthof Eng, el sendero temático lleva a la Engalm, a
+      1.227 m, la majada más antigua del Tirol, y un camino ancho y casi llano sigue hasta el fondo del valle.
+      Se tarda una hora y media, es suave y apto para ir con niños, con un parque infantil en la Engalm. El
+      sendero natural de la Eng explica el arce de monte, los esfuerzos por conservar el Ahornboden y la
+      ganadería de montaña de ayer y de hoy. Desde Bad Tölz y Lenggries salen autobuses de verano hasta el
+      aparcamiento.
+
+
+      Para saber más, el Naturparkhaus de Hinterriß y el centro de información de Scharnitz explican el
+      territorio, su historia y sus habitantes. Y hay exposiciones, museos y senderos temáticos como el
+      rundumTHAUR, el Museum Holzerhütte o el Naturraum Karwendel en la Umbrüggler Alm. En el Ahornboden se
+      ofrecen también observaciones guiadas de estrellas. Los guardas del parque trabajan desde 2010 y vigilan
+      las especies objetivo y sus hábitats.
+
+
+      Para los que quieren más, el Adlerweg del Tirol atraviesa el parque: tiene 33 etapas, 413 km y 31.000 m
+      de desnivel, y siete etapas pasan por el Karwendel. Son de dificultad media a alta y piden experiencia
+      alpina, pie seguro y ausencia de vértigo.
+    history: >-
+      La majada de la Eng tiene una historia milenaria: el documento más antiguo que se conoce es de 1460, y
+      el pastoreo podría remontarse al Neolítico. El alpinismo empezó en la segunda mitad del siglo XIX, y hoy
+      hay más de 50 refugios y majadas con servicio.
+
+
+      El parque nace de una zona protegida de 1928, una de las más antiguas de los Alpes orientales. La parte
+      tirolesa es una de las mayores reservas de los Alpes orientales, con 727 km².
+    before: >-
+      Se pide ser un observador silencioso: no recoger setas, bayas ni plantas, no hacer ruido, no dejar
+      basura y llevar a los perros atados. Del 15 de abril al 15 de agosto está prohibido navegar por el
+      Rißbach entre Hagelhütten y Neunerbrücke y salirse de las vías en el Rißtal, para proteger al andarríos
+      bastardo. Acampar fuera de campings está prohibido, incluso en el Karwendel: no se puede dormir en
+      tienda, vivac ni en vehículo.
+    around: >-
+      El [Montañas de Rofan y Alpes de Brandenberg](/lugar/rofangebirge---brandenberger-alpen/) se solapa en
+      parte con el parque. Entre los lugares lejanos que comparten íbice, águila real y rebeco están el
+      [Parque Nacional del Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), el [Grupo Schober - Altos
+      Tauern](/lugar/schobergruppe---hohe-tauern/), el [Parque Nacional Hohe Tauern - Valle de Umbal y
+      Cabecera del Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) y el [Parque Nacional de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  en:
+    intro: >-
+      During the Thirty Years' War, livestock ceased ascending to the Eng, perhaps out of fear of plunder or
+      because of famine. Young sycamore maples grew untouched by grazing teeth, and today more than 2,200
+      trees grace the Ahornboden. That maple forest is the emblem of a colossal protected landscape: Naturpark
+      Karwendel spans almost the entire Karwendel massif and the Arnspitze reserve, covering 739 km², making
+      it Austria's largest nature park and Tyrol's oldest and most extensive protected area.
+    landscape: >-
+      The Karwendel is a sheer wall of limestone. Belonging to the Northern Limestone Alps, the massif
+      consists of four major east-west chains, stretching some 45 km lengthwise and nearly 30 km from north to
+      south. It is sculpted from Wetterstein limestone and dolomite, folded toward the south: on the Laliderer
+      Wände, the northern face forms vertical precipices plunging up to 1,000 m, whereas the gentler southern
+      flanks were gouged by glaciers into broad cirques flanked by formidable ridges. The colossal rock faces
+      framing the Ahornboden tell the story of ancient tropical seas and towering sheets of ice.
+
+
+      Water completes this dramatic canvas. The Isar rises in the Hinterautal, and its dynamic gravel-bed
+      river system retains an exceptionally high degree of naturalness for Central Europe. Along the gravel
+      banks of the Rißbach and upper Isar thrive German tamarisk, the spotted bush-cricket and the common
+      sandpiper.
+
+
+      The Ahornboden owes its existence to distinct geological processes. For centuries, the Rißbach inundated
+      the valley floor, depositing gravelly, nutrient-poor alluvium ideal for mountain maple but inhospitable
+      to fir and spruce. That is why the sycamores of the Eng, some reaching up to 600 years of age, flourish
+      right where they stand.
+    wildlife: >-
+      This is a realm of eagles. The [golden eagle](/especie/aquila_chrysaetos/) claims undisturbed cliffs for
+      eyries and hunts across open alpine terrain above tree line, with park management aiming for a baseline
+      of at least 14 breeding pairs; this entails safeguarding nesting cliffs, managing rock climbing routes
+      and banning lead ammunition. The [white-backed woodpecker](/especie/dendrocopos_leucotos/) depends on
+      natural, deadwood-rich deciduous stands, with conservation targeting more than 50 pairs across the
+      Bächental, northern Achental and Rißtal, Stallental and Vomper Loch. In total, 96 breeding bird species
+      have been recorded on the Austrian side, roughly two-thirds of Tyrol's entire avifauna.
+
+
+      High cirques regularly host large herds of [chamois](/especie/rupicapra_rupicapra/). The [Alpine
+      ibex](/especie/capra_ibex/) was successfully reintroduced around the Sonnjoch and the Nordkette; it is
+      also seen in the rugged cirques of the Mondscheinspitze range. Alongside [Alpine
+      marmots](/especie/marmota_marmota/) and soaring eagles, they complete a quintessential scene of alpine
+      meadows. Above the Soiern lakes, the Alpine salamander is frequently encountered during damp conditions.
+
+
+      The lady's slipper orchid is the largest native orchid, growing up to 60 cm tall; dependent on
+      mycorrhizal soil fungi, it must never be picked or uprooted. The ideal visiting window runs from June to
+      October, with moderate autumn visitor numbers drawn to the turning foliage of the Ahornboden.
+    visit: >-
+      The main gateway is Hinterriß, the sole year-round settlement within the massif. From there, the Enger
+      Grund is the classic family excursion: from the car park at Alpengasthof Eng, a themed nature path leads
+      to the Engalm at 1,227 m, Tyrol's oldest mountain dairy pasture, while a wide, gentle trail continues to
+      the head of the valley. It takes an hour and a half, is easy and suitable for children, with a
+      playground at the Engalm. The Eng nature trail explains mountain sycamores, conservation efforts at the
+      Ahornboden and alpine pastoralism past and present. Summer bus shuttles run from Bad Tölz and Lenggries
+      to the car park.
+
+
+      To learn more, the Naturparkhaus in Hinterriß and the information centre in Scharnitz illuminate the
+      landscape, history and wildlife. Further museums and educational routes include rundumTHAUR, Museum
+      Holzerhütte and the Naturraum Karwendel display at Umbrüggler Alm. Guided stargazing sessions are also
+      offered in the dark skies of the Ahornboden. Park rangers have been active since 2010, monitoring
+      indicator species and vulnerable habitats.
+
+
+      For seasoned mountain trekkers, the Adlerweg (Eagle Walk) traverses Tyrol through the park: featuring 33
+      stages, 413 km and 31,000 m of cumulative ascent, with seven stages crossing the Karwendel. These routes
+      demand alpine experience, sure-footedness and a head for heights.
+    history: >-
+      Alpine farming in the Eng boasts ancient origins: the earliest known deed dates to 1460, while pastoral
+      grazing likely reaches back to the Neolithic. Mountaineering took off in the second half of the
+      nineteenth century, and today more than 50 staffed alpine huts and rustic dairy pastures welcome
+      visitors.
+
+
+      The park traces its roots to a 1928 nature conservation decree, among the earliest in the Eastern Alps.
+      The Tyrolean sector represents one of the largest protected wilderness tracts in the Eastern Alps,
+      encompassing 727 km².
+    before: >-
+      Visitors are urged to be quiet observers: do not harvest mushrooms, berries or wild plants, avoid
+      excessive noise, leave no litter and keep dogs on a leash. From 15 April to 15 August, paddling or
+      boating on the Rißbach between Hagelhütten and Neunerbrücke and stepping off marked tracks in the Rißtal
+      are forbidden to safeguard nesting common sandpipers. Wild camping is strictly prohibited everywhere
+      outside designated commercial campsites, including throughout the Karwendel: sleeping in tents, bivouacs
+      or vehicles is forbidden.
+    around: >-
+      The [Rofangebirge - Brandenberger Alpen](/lugar/rofangebirge---brandenberger-alpen/) partially borders
+      the park. Further afield, destinations sharing ibex, golden eagle and chamois include [Parco Nazionale
+      Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), [Schobergruppe - Hohe
+      Tauern](/lugar/schobergruppe---hohe-tauern/), [Nationalpark Hohe Tauern - Umbaltal &
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) and [Parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  fr:
+    intro: >-
+      Pendant la guerre de Trente Ans, le bétail cessa de monter à l'Eng, sans doute par crainte des pillages
+      ou sous l'effet des disettes. Les jeunes érables poussèrent sans que les dents des herbivores ne les
+      broutent, et l'on compte aujourd'hui plus de 2 200 arbres sur l'Ahornboden. Cette érablière est
+      l'emblème d'un parc gigantesque : le Naturpark Karwendel englobe la quasi-totalité du massif du
+      Karwendel et la réserve d'Arnspitze sur 739 km², formant le plus grand parc naturel d'Autriche ainsi que
+      la plus vaste et ancienne zone protégée du Tyrol.
+    landscape: >-
+      Le Karwendel est une muraille calcaire. Issu des Préalpes orientales septentrionales, le massif aligne
+      quatre grands chaînons d'ouest en est, s'étirant sur 45 km de longueur et près de 30 km du nord au sud.
+      Il est sculpté dans le calcaire du Wetterstein et la dolomie, plissés vers le sud : aux parois des
+      Laliderer Wände, le versant nord dresse des précipices verticaux hauts de jusqu'à 1 000 m, tandis que le
+      versant sud, plus doux, a été affouillé par les glaciers en de vastes cirques séparés par de puissantes
+      arêtes. Les remparts rocheux ceinturant l'Ahornboden content l'épopée de mers tropicales disparues et de
+      masses glaciaires colossales.
+
+
+      L'eau parachève ce tableau. L'Isar prend sa source dans le Hinterautal, et son réseau hydrographique
+      conserve dans le parc un niveau de naturalité exceptionnel pour l'Europe centrale. Sur les bancs de
+      galets du Rißbach et du haut Isar vivent la petite massette (tamaris d'Allemagne), la dectique tachetée
+      et le chevalier guignette.
+
+
+      L'Ahornboden s'explique aussi par la géologie. Pendant des siècles, le Rißbach a inondé le pâturage,
+      déposant un alluvionnement sableux et pauvre, parfait pour l'érable sycomore mais impropre aux sapins et
+      épicéas. C'est pourquoi les érables de l'Eng, dont certains atteignent 600 ans, prospèrent là où ils
+      s'élèvent.
+    wildlife: >-
+      C'est le royaume des aigles. L'[aigle royal](/especie/aquila_chrysaetos/) s'approprie des falaises
+      calmes pour nicher et chasse sur les espaces ouverts au-dessus de la limite des arbres, avec un objectif
+      d'au moins 14 couples reproducteurs ; cela requiert d'éviter les perturbations autour des aires,
+      d'encadrer l'escalade et de bannir les munitions au plomb. Le [pic à dos
+      blanc](/especie/dendrocopos_leucotos/) réclame des forêts naturelles riches en bois mort et sénescent,
+      avec une cible de plus de 50 couples dans le Bächental, le nord de l'Achental et du Rißtal, le
+      Stallental et le Vomper Loch. Au total, 96 espèces d'oiseaux nicheurs ont été dénombrées côté
+      autrichien, soit près des deux tiers de l'avifaune tyrolienne.
+
+
+      Dans les hauts cirques paissent souvent d'imposantes hardes de [chamois](/especie/rupicapra_rupicapra/).
+      Le [bouquetin des Alpes](/especie/capra_ibex/) a été réintroduit avec succès autour du Sonnjoch et sur
+      la Nordkette ; il s'observe également dans les cirques du massif de la Mondscheinspitze. Avec les
+      [marmottes des Alpes](/especie/marmota_marmota/) et les aigles royaux, ils composent un décor alpin
+      pastoral éclatant. Au-dessus des lacs de Soiern, la salamandre noire se rencontre fréquemment par temps
+      humide.
+
+
+      Le sabot de Vénus est la plus grande orchidée indigène, s'élevant jusqu'à 60 cm ; inféodé à des
+      champignons symbiotiques du sol, il ne doit en aucun cas être cueilli. La période recommandée court de
+      juin à octobre, l'érablière d'Ahornboden connaissant une affluence modérée à l'automne.
+    visit: >-
+      La porte d'entrée est Hinterriß, seule localité habitée à l'année au cœur du massif. De là, le vallon
+      Enger Grund offre la balade familiale idéale : depuis le parking de l'Alpengasthof Eng, un sentier
+      thématique mène à l'Engalm, à 1 227 m, le plus ancien alpage du Tyrol, puis un large chemin presque plat
+      s'enfonce jusqu'au fond du vallon. La promenade demande une heure et demie, s'avère très douce et
+      adaptée aux enfants, avec une aire de jeux à l'Engalm. Le sentier d'interprétation de l'Eng explique
+      l'érable sycomore, la sauvegarde de l'Ahornboden et l'agropastoralisme alpin d'hier et d'aujourd'hui.
+      Des cars de montagne relient Bad Tölz et Lenggries au parking en été.
+
+
+      Pour approfondir, la Naturparkhaus d'Hinterriß et le centre de Scharnitz présentent l'histoire et les
+      écosystèmes du massif. S'y ajoutent musées et sentiers thématiques comme rundumTHAUR, le Museum
+      Holzerhütte ou l'espace Naturraum Karwendel à l'alpage Umbrüggler Alm. L'Ahornboden propose aussi des
+      veillées d'observation astronomique sous un ciel préservé. Les gardes du parc veillent depuis 2010 sur
+      les espèces et les milieux sensibles.
+
+
+      Pour les montagnards aguerris, le grand itinéraire de l'Adlerweg traverse le Tyrol à travers le parc :
+      il compte 33 étapes, 413 km et 31 000 m de dénivelé positif, dont sept étapes franchissent le Karwendel.
+      Ces sections réclament expérience de la haute montagne, pied sûr et absence de vertige.
+    history: >-
+      L'alpage de l'Eng plonge ses racines dans une histoire millénaire : l'archive connue la plus ancienne
+      remonte à 1460, et le pastoralisme pourrait dater du Néolithique. L'alpinisme s'est développé dans la
+      seconde moitié du XIXe siècle, et l'on compte aujourd'hui plus de 50 refuges et auberges d'alpage
+      ouverts aux randonneurs.
+
+
+      Le parc tire son origine d'une mesure de protection prise en 1928, parmi les plus anciennes des Alpes
+      orientales. La portion tyrolienne forme l'une des plus vastes réserves naturelles des Alpes orientales
+      avec 727 km².
+    before: >-
+      Il est demandé d'être un observateur silencieux : ne pas cueillir champignons, baies ni fleurs, éviter
+      les bruits excessifs, remporter ses déchets et tenir les chiens en laisse. Du 15 avril au 15 août, la
+      navigation sur le Rißbach entre Hagelhütten et Neunerbrücke ainsi que les sorties hors sentier dans le
+      Rißtal sont interdites afin de protéger le chevalier guignette nicheur. Le camping sauvage est
+      rigoureusement interdit partout hors des terrains de camping aménagés, y compris dans tout le Karwendel
+      : interdiction de dormir sous tente, en bivouac ou en véhicule.
+    around: >-
+      Le secteur [Rofangebirge - Brandenberger Alpen](/lugar/rofangebirge---brandenberger-alpen/) jouxte en
+      partie le parc. Parmi les massifs lointains partageant bouquetin, aigle royal et chamois figurent le
+      [Parco Nazionale Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), le [Schobergruppe - Hohe
+      Tauern](/lugar/schobergruppe---hohe-tauern/), le [Nationalpark Hohe Tauern - Umbaltal &
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) et le [Parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  de:
+    intro: >-
+      Im Dreißigjährigen Krieg trieb niemand Vieh in die Eng, wohl aus Furcht vor Plünderungen oder wegen
+      Hungersnöten. Die jungen Bergahorne wuchsen unverbissen heran – heute stehen über 2.200 Bäume auf dem
+      Ahornboden. Dieser Bergahornbestand ist das Wahrzeichen eines riesigen Schutzgebiets: Der Naturpark
+      Karwendel umfasst mit 739 km² fast das gesamte Karwendelmassiv und das Naturschutzgebiet Arnspitze; er
+      ist der größte Naturpark Österreichs und das älteste und weitläufigste Schutzgebiet Tirols.
+    landscape: >-
+      Das Karwendel ist eine gewaltige Kalkmauer. Das Massiv der Nördlichen Kalkalpen gliedert sich in vier
+      große Gebirgsketten von West nach Ost über rund 45 km Länge und fast 30 km Breite von Nord nach Süd. Es
+      besteht aus Wettersteinkalk und Hauptdolomit, nach Süden überkippt: An den Laliderer Wänden stürzen die
+      Nordabstürze bis zu 1.000 m senkrecht ab, während die sanftere Südseite von eiszeitlichen Gletschern zu
+      weiten Karen mit mächtigen Graten ausgeschliffen wurde. Die Steilwände um den Ahornboden erzählen von
+      urzeitlichen tropischen Meeren und mächtigen Eisströmen.
+
+
+      Das Wasser vollendet das Landschaftsbild. Im Hinterautal entspringt die Isar, deren Wildflusssystem im
+      Park für Mitteleuropa eine außergewöhnlich hohe Naturnähe bewahrt. Auf den Umlagerungsstrecken von
+      Rißbach und oberer Isar leben Deutsche Tamariske, Gefleckte Schnarrschrecke und Flussuferläufer.
+
+
+      Auch der Ahornboden hat geologische Ursachen. Über Jahrhunderte überschwemmte der Rißbach den Weideboden
+      und lagerte sandig-kargen Schotter ab – ideal für den Bergahorn, aber ungünstig für Tannen und Fichten.
+      Deshalb wachsen die bis zu 600 Jahre alten Bergahorne der Eng genau dort, wo sie heute stehen.
+    wildlife: >-
+      Es ist ein Reich der Adler. Der [Steinadler](/especie/aquila_chrysaetos/) nutzt störungsarme Felswände
+      zur Brut und jagt über den waldfreien Hochlagen; angestrebt wird ein Mindestbestand von 14 Brutpaaren,
+      weshalb Kletterrouten an Brutwänden reguliert und Bleimunition verboten werden. Der
+      [Weißrückenspecht](/especie/dendrocopos_leucotos/) braucht totholzreiche Laub- und Bergmischwälder; Ziel
+      sind über 50 Paare in Bächental, Nord-Achental, Rißtal, Stallental und Vomper Loch. Auf Tiroler Seite
+      brüten 96 Vogelarten – rund zwei Drittel aller Brutvogelarten Tirols.
+
+
+      In den Hochkaren weiden regelmäßig große [Gämsen](/especie/rupicapra_rupicapra/)-Rudel. Der
+      [Alpensteinbock](/especie/capra_ibex/) wurde am Sonnjoch und an der Nordkette erfolgreich
+      wiederangesiedelt und breitet sich auch um die Mondscheinspitze aus. Zusammen mit
+      [Alpenmurmeltieren](/especie/marmota_marmota/) und Steinadlern prägen sie alpine Matten. Oberhalb der
+      Soiernseen begegnet man bei feuchter Witterung häufig dem Alpensalamander.
+
+
+      Der Frauenschuh ist mit bis zu 60 cm Höhe die stattlichste heimische Orchidee; er lebt in Symbiose mit
+      Bodenpilzen und darf keinesfalls gepflückt oder ausgegraben werden. Die empfohlene Besuchszeit reicht
+      von Juni bis Oktober; der Ahornboden verzeichnet im Herbst mäßigen Besucherandrang.
+    visit: >-
+      Hauptzugang ist Hinterriß, die einzige Dauersiedlung des Massivs. Von dort führt die beliebte Tour in
+      den Enger Grund: Vom Parkplatz am Alpengasthof Eng leitet ein Themenweg zur Engalm auf 1.227 m, dem
+      ältesten Almdorf Tirols, und ein breiter, ebener Schotterweg weiter zum Talschluss. Die Wanderung dauert
+      etwa eineinhalb Stunden, ist leicht, kinderwagentauglich und bietet einen Spielplatz an der Engalm. Der
+      Naturlehrpfad Eng erläutert Bergahorne, Ahornbodenschutz und Almwirtschaft gestern und heute. Im Sommer
+      verkehren Bergbusse ab Bad Tölz und Lenggries.
+
+
+      Zur Vertiefung informieren das Naturparkhaus in Hinterriß und das Infozentrum Scharnitz. Ausstellungen
+      und Themenwege wie rundumTHAUR, Museum Holzerhütte und der Naturraum Karwendel auf der Umbrüggler Alm
+      bieten Einblicke. Am Ahornboden gibt es Sternenbeobachtungen unter dunklem Nachthimmel. Die
+      Naturpark-Ranger betreuen seit 2010 die Schutzgüter vor Ort.
+
+
+      Für erfahrene Alpinisten quert der Tiroler Adlerweg das Massiv: 33 Etappen, 413 km und 31.000
+      Höhenmeter, davon sieben anspruchsvolle Etappen im Karwendel. Sie verlangen Trittsicherheit,
+      Schwindelfreiheit und alpine Erfahrung.
+    history: >-
+      Die Almwirtschaft in der Eng blickt auf eine lange Tradition zurück: Die älteste bekannte Urkunde stammt
+      aus dem Jahr 1460, die Weidenutzung reicht womöglich bis in die Jungsteinzeit zurück. Der Alpinismus
+      setzte in der zweiten Hälfte des neunzehnten Jahrhunderts ein; heute stehen über 50 bewirtschaftete
+      Schutzhütten und Almen offen.
+
+
+      Der Naturpark geht auf Schutzbestimmungen von 1928 zurück, eine der ältesten Ausweisungen der Ostalpen.
+      Der Tiroler Teil bildet mit 727 km² eines der größten zusammenhängenden Schutzgebiete der Ostalpen.
+    before: >-
+      Verhalte dich als stiller Beobachter: Pflücke keine Blumen, Beeren oder Pilze, vermeide Lärm, nimm
+      Abfälle mit und führe Hunde an der Leine. Vom 15. April bis 15. August ist das Befahren des Rißbachs
+      zwischen Hagelhütten und Neunerbrücke sowie das Verlassen der Wege im Rißtal zum Schutz des
+      Flussuferläufers verboten. Wildcampen und freies Stehen sind im gesamten Karwendel verboten –
+      Übernachten im Zelt, Biwak oder Fahrzeug ist außerhalb offizieller Campingplätze untersagt.
+    around: >-
+      Das Gebiet [Rofangebirge - Brandenberger Alpen](/lugar/rofangebirge---brandenberger-alpen/) grenzt an
+      den Park an. Unter den Gebieten mit Steinbock, Steinadler und Gämse finden sich der [Parco Nazionale
+      Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), die [Schobergruppe - Hohe
+      Tauern](/lugar/schobergruppe---hohe-tauern/), der [Nationalpark Hohe Tauern - Umbaltal &
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) und der [Parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  it:
+    intro: >-
+      Durante la Guerra dei Trent'anni il bestiame smise di salire alla Eng, forse per timore dei saccheggi o
+      per le carestie. I giovani aceri crebbero indisturbati dal pascolo e oggi oltre 2.200 esemplari popolano
+      l'Ahornboden. Quel bosco di aceri è il simbolo di un'area protetta imponente: il Naturpark Karwendel
+      abbraccia quasi tutto il massiccio del Karwendel e la riserva dell'Arnspitze su 739 km², rappresentando
+      il più grande parco naturale d'Austria e la più antica ed estesa area protetta del Tirolo.
+    landscape: >-
+      Il Karwendel è una bastionata calcarea. Parte delle Alpi Calcaree Settentrionali, il massiccio allinea
+      quattro grandi catene da ovest a est, sviluppandosi per circa 45 km di lunghezza e quasi 30 km da nord a
+      sud. È forgiato nel calcare del Wetterstein e nella dolomia, inclinati verso sud: sulle pareti delle
+      Laliderer Wände il versante settentrionale precipita per 1.000 m con salti verticali, mentre il lato
+      meridionale, più dolce, è stato modellato dai ghiacciai in ampi circhi orlati da creste possenti. Le
+      pareti rocciose attorno all'Ahornboden raccontano l'origine da antichi mari tropicali ed enormi masse
+      glaciali.
+
+
+      L'acqua completa il paesaggio. L'Isar nasce nella Hinterautal e il suo corso a canali intrecciati
+      conserva nel parco un grado di naturalità eccezionale per l'Europa centrale. Sulle sponde ghiaiose del
+      Rißbach e dell'alto Isar vivono la miricaria germanica, il grillo maculato e il piro-piro piccolo.
+
+
+      Anche l'Ahornboden ha una genesi idrologica. Per secoli il Rißbach ha inondato il fondovalle depositando
+      alluvioni sabbiose e magre, ideali per l'acero montano ma sfavorevoli per abeti bianchi e rossi. Per
+      questo gli aceri della Eng, alcuni con oltre 600 anni, prosperano dove li vediamo oggi.
+    wildlife: >-
+      È una roccaforte di aquile. L'[aquila reale](/especie/aquila_chrysaetos/) sceglie pareti impervie per
+      nidificare e caccia sulle praterie alpine oltre il limite del bosco, con l'obiettivo di mantenere almeno
+      14 coppie nidificanti; ciò richiede tutela dei siti riproduttivi, regolamentazione dell'arrampicata e
+      bando delle munizioni al piombo. Il [picchio dorsobianco](/especie/dendrocopos_leucotos/) necessita di
+      boschi maturi ricchi di alberi deperienti, con un target di oltre 50 coppie tra Bächental, Achental
+      settentrionale, Rißtal, Stallental e Vomper Loch. Sul versante austriaco sono state censite 96 specie di
+      uccelli nidificanti, circa due terzi dell'avifauna del Tirolo.
+
+
+      Nei circhi d'alta quota pascolano branchi numerosi di [camosci alpini](/especie/rupicapra_rupicapra/).
+      Lo [stambecco](/especie/capra_ibex/) è stato reintrodotto sul Sonnjoch e sulla Nordkette; si osserva
+      anche nei circhi della catena della Mondscheinspitze. Insieme a [marmotte
+      alpine](/especie/marmota_marmota/) e aquile reali, animano un ambiente pastorale maestoso. Sopra i laghi
+      di Soiern si rinviene facilmente la salamandra alpina con tempo piovoso.
+
+
+      La pianella della Madonna è l'orchidea spontanea più appariscente, alta fino a 60 cm; legata a funghi
+      microscopici del suolo, non deve mai essere colta. Il periodo ideale va da giugno a ottobre, con
+      affluenza moderata all'Ahornboden durante il foliage autunnale.
+    visit: >-
+      La porta d'ingresso è Hinterriß, l'unico villaggio abitato tutto l'anno nel massiccio. Da lì l'Enger
+      Grund è l'escursione ideale: dal parcheggio dell'Alpengasthof Eng un sentiero tematico conduce alla
+      Engalm a 1.227 m, il più antico alpeggio del Tirolo, e un tracciato ampio e pianeggiante prosegue verso
+      il fondovalle. Dura un'ora e mezza, è agevole e adatto ai bambini, con parco giochi alla Engalm. Il
+      sentiero didattico della Eng illustra l'acero montano, la tutela dell'Ahornboden e l'alpeggio montano
+      ieri e oggi. Bus estivi collegano Bad Tölz e Lenggries al parcheggio.
+
+
+      Per approfondire, la Naturparkhaus di Hinterriß e il centro di Scharnitz raccontano fauna e storia
+      dell'area. Musei e percorsi tematici come rundumTHAUR, Museum Holzerhütte e lo spazio Naturraum
+      Karwendel alla malga Umbrüggler Alm arricchiscono la visita. All'Ahornboden si svolgono serate di
+      osservazione astronomica. I ranger del parco operano dal 2010 monitorando gli ecosistemi.
+
+
+      Per gli escursionisti esperti l'Adlerweg tirolese attraversa il parco: 33 tappe, 413 km e 31.000 m di
+      dislivello, di cui sette tappe nel Karwendel. Richiedono passo sicuro, assenza di vertigini ed
+      esperienza d'alta quota.
+    history: >-
+      L'alpeggio della Eng vanta radici antichissime: la pergamena più antica risale al 1460 e il pascolo
+      potrebbe risalire al Neolitico. L'alpinismo si affermò nella seconda metà dell'Ottocento; oggi oltre 50
+      rifugi e malghe alpine accolgono i visitatori.
+
+
+      Il parco discende da una prima tutela istituita nel 1928, tra le più precoci delle Alpi Orientali. La
+      porzione tirolese forma una delle riserve naturali più vaste delle Alpi Orientali con 727 km².
+    before: >-
+      Sii un osservatore silenzioso: non raccogliere fiori, funghi o frutti di bosco, evita rumori, riporta a
+      valle i rifiuti e tieni i cani al guinzaglio. Dal 15 aprile al 15 agosto la navigazione sul Rißbach tra
+      Hagelhütten e Neunerbrücke e l'uscita dai sentieri nella Rißtal sono vietate a tutela del piro-piro
+      piccolo. Il campeggio libero è severamente vietato ovunque fuori dai campeggi autorizzati, compreso
+      tutto il Karwendel: è vietato pernottare in tenda, bivacco o veicolo.
+    around: >-
+      Il massiccio [Rofangebirge - Brandenberger Alpen](/lugar/rofangebirge---brandenberger-alpen/) è in parte
+      contiguo al parco. Tra le mete montane che ospitano stambecco, aquila reale e camoscio spiccano il
+      [Parco Nazionale Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), il gruppo [Schobergruppe - Hohe
+      Tauern](/lugar/schobergruppe---hohe-tauern/), il [Nationalpark Hohe Tauern - Umbaltal &
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) e il [Parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+  pt:
+    intro: >-
+      Durante a Guerra dos Trinta Anos o gado deixou de subir à Eng, talvez por receio de saques ou pela fome.
+      Os bordos jovens cresceram sem que nenhum herbívoro os pastasse, existindo hoje mais de 2.200 árvores no
+      Ahornboden. Esse bosque de bordos é o símbolo de um parque colossal: o Naturpark Karwendel engloba quase
+      todo o maciço do Karwendel e a reserva de Arnspitze, com 739 km², assumindo-se como o maior parque
+      natural da Áustria e o espaço protegido mais antigo e extenso do Tirol.
+    landscape: >-
+      O Karwendel é uma formidável muralha de calcário. Integrando os Alpes Calcários Setentrionais, o maciço
+      desdobra-se em quatro grandes cristas de oeste a este, estendendo-se por 45 km nessa direção e quase 30
+      km de norte a sul. É talhado em calcário de Wetterstein e dolomia dobrados para sul: nas Laliderer Wände
+      a vertente norte precipita-se em paredes verticais de até 1.000 m, enquanto a vertente sul, mais suave,
+      foi esculpida pelos glaciares em anfiteatros amplos separados por cristas imponentes. Os paredões
+      rochosos que cercam o Ahornboden narram a génese a partir de mares tropicais e glaciares gigantescos.
+
+
+      A água remata a paisagem. O rio Isar nasce no Hinterautal e o seu regime torrencial retém no parque um
+      nível de naturalidade invulgar na Europa Central. Nos bancos de cascalho do Rißbach e do alto Isar
+      subsistem a tamargueira-alemã, a esperança-malhada e o maçarico-das-rochas.
+
+
+      O Ahornboden tem igualmente uma explicação aluvial. Ao longo de séculos o Rißbach inundou o vale,
+      depositando sedimentos arenosos e pobres, perfeitos para o bordo mas desfavoráveis a abetos e espruces.
+      É por essa razão que os bordos da Eng, alguns com até 600 anos, vicejam no local onde se encontram.
+    wildlife: >-
+      É uma fortaleza de águias. A [águia-real](/especie/aquila_chrysaetos/) apropria-se de escarpas
+      sossegadas para nidificar e caça nos descampados acima do limite da floresta, visando-se um limiar
+      mínimo de 14 casais reprodutores; daí a necessidade de evitar perturbações junto aos ninhos, condicionar
+      a escalada e banir munições de chumbo. O [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/)
+      carece de matas maduras com muita madeira morta, procurando-se manter mais de 50 casais no Bächental,
+      norte de Achental e Rißtal, Stallental e Vomper Loch. No setor austríaco foram recenseadas 96 espécies
+      de aves nidificantes, cerca de dois terços de toda a avifauna tirolesa.
+
+
+      Nos circos glaciares cimeiros avistam-se frequentemente manadas de
+      [camurças](/especie/rupicapra_rupicapra/). O [íbex](/especie/capra_ibex/) foi reintroduzido no Sonnjoch
+      e na Nordkette com sucesso; observa-se também nos circos da cadeia de Mondscheinspitze. Com as
+      [marmotas](/especie/marmota_marmota/) e as águias-reais, compõem um cenário alpino florido soberbo.
+      Acima dos lagos Soiern depara-se amiúde a salamandra-alpina em dias húmidos.
+
+
+      O sapatinho-de-vénus é a maior orquídea autóctone, alcançando até 60 cm; dependendo de fungos
+      micorrízicos, nunca deve ser colhido. A época ideal vai de junho a outubro, registando o bosque de
+      bordos de Ahornboden afluência moderada no outono.
+    visit: >-
+      O acesso principal faz-se por Hinterriß, a única povoação permanente do maciço. De lá, o Enger Grund é o
+      passeio de eleição: do estacionamento do Alpengasthof Eng um trilho interpretativo conduz à Engalm, a
+      1.227 m, a aldeia de pastoreio alpino mais antiga do Tirol, prosseguindo um caminho largo e plano até ao
+      fundo do vale. Demora uma hora e meia, é suave e acessível a crianças, dispondo de parque infantil na
+      Engalm. O percurso didático da Eng explica o bordo-da-montanha, a conservação do Ahornboden e a
+      pastorícia de montanha de ontem e de hoje. No verão operam autocarros a partir de Bad Tölz e Lenggries.
+
+
+      Para aprofundar, a Naturparkhaus em Hinterriß e o centro de Scharnitz revelam a história e a vida
+      selvagem da região. Diversos museus e itinerários temáticos como rundumTHAUR, o Museum Holzerhütte e o
+      espaço Naturraum Karwendel na cabana Umbrüggler Alm completam a estadia. No Ahornboden decorrem sessões
+      de observação das estrelas sob céu escuro. Os guardas do parque trabalham desde 2010 no terreno.
+
+
+      Para caminhantes de montanha, o trilho Adlerweg atravessa o Tirol pelo parque: reúne 33 etapas, 413 km e
+      31.000 m de desnível acumulado, com sete etapas no Karwendel. Exigem destreza técnica, ausência de
+      vertigens e experiência alpina.
+    history: >-
+      A exploração pastoral da Eng possui raízes seculares: o documento mais recuado conhecido data de 1460,
+      podendo o pastoreio remontar ao Neolítico. O montanhismo arrancou na segunda metade do século XIX; hoje
+      encontram-se abertos mais de 50 refúgios e cabanas de montanha.
+
+
+      O parque descende de uma reserva criada em 1928, das mais antigas dos Alpes Orientais. A vertente
+      tirolesa constitui uma das maiores reservas dos Alpes Orientais com 727 km².
+    before: >-
+      Pede-se uma atitude de observação discreta: não colher cogumelos, bagas ou flores, não fazer ruído,
+      recolher o lixo e conduzir os cães com trela. De 15 de abril a 15 de agosto é proibido navegar no
+      Rißbach entre Hagelhütten e Neunerbrücke e afastar-se dos trilhos no Rißtal para salvaguardar o
+      maçarico-das-rochas. O campismo livre é expressamente proibido fora de parques de campismo autorizados
+      em todo o Karwendel: não é permitido pernoitar em tenda, bivaque ou viatura.
+    around: >-
+      O maciço [Rofangebirge - Brandenberger Alpen](/lugar/rofangebirge---brandenberger-alpen/) confina em
+      parte com o parque. Entre os destinos de altitude que acolhem íbex, águia-real e camurça destacam-se o
+      [Parco Nazionale Gran Paradiso](/lugar/parco-nazionale-gran-paradiso/), a [Schobergruppe - Hohe
+      Tauern](/lugar/schobergruppe---hohe-tauern/), o [Nationalpark Hohe Tauern - Umbaltal &
+      Isel](/lugar/nationalpark-hohe-tauern---umbaltal-isel/) e o [Parc national de la
+      Vanoise](/lugar/parc-national-de-la-vanoise/).
+fuentes:
+  - url: https://www.karwendel.org/grosser-ahornboden/
+    titulo: Großer Ahornboden - Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/kategorie/ahornboden/
+    titulo: Ahornboden - Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/10-enger-grund/
+    titulo: Enger Grund - Wanderung Hinterriss - Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/adlerweg/
+    titulo: Tiroler Adlerweg - Weitwandern - Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Karwendel
+    titulo: Karwendel — Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/naturpark-karwendel/gebietsgrenzen/
+    titulo: Gebietsgrenzen — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/naturpark-karwendel/
+    titulo: Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/top10/
+    titulo: Top 10 — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/naturpark-ranger/
+    titulo: Naturpark Ranger — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/steinadler/
+    titulo: Steinadler — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/weissrueckenspecht/
+    titulo: Weißrückenspecht — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/die-frauenschuh-orchidee/
+    titulo: Die Frauenschuh-Orchidee — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/verhaltensregeln/
+    titulo: Verhaltensregeln — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+  - url: https://www.karwendel.org/uebernachtung-und-einkehr/
+    titulo: Übernachtung und Einkehr — Naturpark Karwendel
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Naturpark_Karwendel_-_VI.jpg
+    autor: Haeferl
+    licencia: CC BY-SA 3.0 at
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0/at/deed.en
+    fecha_descarga: '2026-10-03'

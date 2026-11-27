@@ -1,0 +1,562 @@
+id: isle-of-handa
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de la Isla de Handa
+  en: Handa Island Nature Reserve
+  fr: Réserve naturelle de l'île de Handa
+  de: Naturschutzgebiet Handa Island
+  it: Riserva naturale dell'isola di Handa
+  pt: Reserva Natural da Ilha de Handa
+nombre_original: Isle of Handa
+alias:
+  - Isle of Handa
+paises:
+  - GB
+region:
+  es: Escocia (Sutherland / Scourie / Tarbet)
+  en: Scotland (Sutherland / Scourie / Tarbet)
+  fr: Écosse (Sutherland / Scourie / Tarbet)
+  de: Schottland (Sutherland / Scourie / Tarbet)
+  it: Scozia (Sutherland / Scourie / Tarbet)
+  pt: Escócia (Sutherland / Scourie / Tarbet)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: way/417926365
+  nombre_en_la_fuente: Handa Island
+  capa: capas/osm/isle-of-handa.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - natural_reserve
+especies:
+  - stercorarius_skua
+  - uria_aalge
+  - fratercula_arctica
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+temporada_nota:
+  es: mayo a agosto
+  en: May to August
+  fr: mai à août
+  de: Mai bis August
+  it: maggio ad agosto
+  pt: maio a agosto
+masificacion: 2
+masificacion_nota:
+  es: Media en el pequeño bote trasbordador desde Tarbet
+  en: Moderate on the small passenger ferry boat from Tarbet
+  fr: Moyenne dans le petit bateau transbordeur depuis Tarbet
+  de: Mittel auf dem kleinen Passagierboot von Tarbet
+  it: Media nel piccolo battello passeggeri da Tarbet
+  pt: Média no pequeno bote trasbordador desde Tarbet
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Scottish Wildlife Trust Handa Island Official
+    url: https://scottishwildlifetrust.org.uk/reserve/handa-island/
+  - titulo: Visita y normas — Folleto de Handa
+    url: https://scottishwildlifetrust.org.uk/wp-content/uploads/2025/05/Handa-Island-leaflet-2026-1.pdf
+  - titulo: Mapa — Senderos de Handa
+    url: https://scottishwildlifetrust.org.uk/wp-content/uploads/2016/09/002__200__maps__HAI_Map_for_Visitors__1354037998.pdf
+resumen:
+  es: >-
+    Reserva del Scottish Wildlife Trust de arenisca de Torridon con la gran pared de The Stack of Handa
+    acogiendo a 100.000 aves marineras.
+  en: >-
+    Torridonian sandstone Scottish Wildlife Trust island sanctuary with the sheer ramparts of The Stack of
+    Handa sheltering 100,000 seabirds.
+  fr: >-
+    Sanctuaire insulaire en grès torridonien du Scottish Wildlife Trust dont le grand piton The Stack of Handa
+    accueille 100 000 oiseaux marins.
+  de: >-
+    Schutzgebiet des Scottish Wildlife Trust auf torridonischem Sandstein mit der Steilwand des Stack of Handa
+    als Heimat von 100.000 Seevögeln.
+  it: >-
+    Riserva in arenaria torridoniana dello Scottish Wildlife Trust con la muraglia del Great Stack of Handa
+    che accoglie 100.000 uccelli marini.
+  pt: >-
+    Santuário insular em arenito de Torridon do Scottish Wildlife Trust com a muralha do Great Stack of Handa
+    a acolher 100.000 aves marinhas.
+unico:
+  es: >-
+    La roca de Handa tiene más de mil millones de años, y sobre sus repisas anida una de las mayores colonias
+    de arao común del Reino Unido.
+  en: >-
+    The Torridonian sandstone of Handa is over a billion years old, and across its rock ledges breeds one of
+    the largest common guillemot colonies in the United Kingdom.
+  fr: >-
+    Le grès torridonien de Handa a plus d'un milliard d'années, et ses corniches portent l'une des plus
+    grandes colonies de guillemots de Troïl du Royaume-Uni.
+  de: >-
+    Das torridonische Sandsteingestein von Handa ist über eine Milliarde Jahre alt und trägt auf seinen
+    Felsbändern eine der größten Trottellummenkolonien Großbritanniens.
+  it: >-
+    L'arenaria torridoniana di Handa supera il miliardo di anni d'età, e sui suoi cornicioni nidifica una
+    delle più vaste colonie di urie del Regno Unito.
+  pt: >-
+    O arenito torridoniano de Handa ultrapassa os mil milhões de anos, e nas suas plataformas rochosas
+    nidifica uma das maiores colónias de airo do Reino Unido.
+observaciones:
+  es: >-
+    No se permiten perros en la isla, por el gran número de aves que anidan en el suelo, y el ferry tampoco
+    los admite. Con viento fuerte y mar de fondo el barco no sale y la isla queda sin visitantes; no circula
+    los domingos y funciona a criterio del operador cuando hace mal tiempo. Comprueba con el operador y con el
+    gestor las condiciones de visita y los sectores abiertos.
+texto:
+  es:
+    intro: >-
+      Cada primavera, decenas de miles de aves marinas llegan a un único tramo de costa: los acantilados de
+      arenisca de Torridon que emergen del océano en el noroeste de Handa. La isla, de 309 hectáreas y 123
+      metros de altura máxima, está en Eddrachillis Bay, frente al oeste de Sutherland, y se cruza en un ferry
+      de pasajeros desde Tarbet. Es una reserva del Scottish Wildlife Trust de importancia internacional para
+      araos, alcas y págalos grandes.
+    landscape: >-
+      La arenisca torridoniana forma el sustrato de la isla. Al norte y al oeste cae en acantilados de unos
+      100 metros; al sur y al este hay playas. En el norte se alza una colina con dos picos, y el resto es más
+      bajo. Los salientes de la arenisca ofrecen repisas donde nidifican las aves.
+
+
+      El Great Stac of Handa, uno de los farallones más altos de Escocia, tiene su propia historia. En 1876
+      Donald McDonald, nativo de St Kilda, lo escaló cruzando un hueco de 24 metros agarrado a una cuerda.
+
+
+      En los cantiles expuestos aguantan la sal la armeria, el llantén de mar y la festuca roja; en las zonas
+      más resguardadas hay praderas con campanillas azules y apio de monte.
+    wildlife: >-
+      La temporada de las aves marinas va de abril a julio. Los [frailecillos](/especie/fratercula_arctica/)
+      se ven mejor de mediados de mayo a julio, alrededor del Great Stack. Los acantilados albergan grandes
+      colonias de [araos comunes](/especie/uria_aalge/), [fulmares](/especie/fulmarus_glacialis/),
+      [alcas](/especie/alca_torda/) y [gaviotas tridáctilas](/especie/rissa_tridactyla/), y las poblaciones de
+      págalo parásito y de gaviota tridáctila tienen importancia nacional.
+
+
+      Tierra adentro mandan los [págalos grandes](/especie/stercorarius_skua/), los bonxies. El equipo de la
+      reserva vigila sus parejas y ha visto descensos importantes en los últimos años, en buena parte por la
+      gripe aviar. Dos pequeños lagos acogen [colimbos chicos](/especie/gavia_stellata/), que se ven desde la
+      pasarela.
+
+
+      Desde la costa se ven rorcuales aliblancos, delfines mulares y de Risso, [focas
+      grises](/especie/halichoerus_grypus/) y, de forma ocasional, [orcas](/especie/orcinus_orca/) o tiburones
+      peregrinos. En Boulder Bay, en la costa sur, se ven a menudo focas y [nutrias](/especie/lutra_lutra/).
+    visit: >-
+      Un ferry de pasajeros a pie cruza desde Tarbet, en tierra firme, durante la temporada de visitas, que va
+      de principios de abril a finales de agosto o principios de septiembre. La travesía dura unos 10 minutos
+      con buen tiempo, pero puede ser muy húmeda: lleva ropa de abrigo e impermeable incluso en pleno verano,
+      y calzado resistente con buen agarre para los senderos. Al llegar, un voluntario te recibe con una breve
+      charla sobre la reserva.
+
+
+      Un guarda vive en la isla en temporada alta, con apoyo de voluntarios que reparan la pasarela y vigilan
+      las aves marinas. Si quieres implicarte, hay voluntariado, desde una semana hasta puestos de ayudante de
+      guarda de 8 a 21 semanas.
+    history: >-
+      Handa se usó como cementerio: quedan restos de una capilla, y se cree que se enterraba aquí porque los
+      lobos desenterraban las tumbas en tierra firme. En 1841 vivían 65 personas; tras la hambruna de 1847 los
+      habitantes emigraron a Nueva Escocia. Tenían un parlamento que se reunía a diario, y a la viuda más
+      anciana la llamaban «reina».
+
+
+      Scourie Estate es propietaria de la isla y la gestiona junto con el Scottish Wildlife Trust. Handa es
+      reserva, SSSI y ZEPA.
+    before: >-
+      No se permiten perros en la isla, por el gran número de aves que anidan en el suelo, y el ferry tampoco
+      los admite. Con viento fuerte y mar de fondo el barco no sale y la isla queda sin visitantes; no circula
+      los domingos y funciona a criterio del operador cuando hace mal tiempo. Comprueba con el operador y con
+      el gestor las condiciones de visita y los sectores abiertos.
+    around: >-
+      Handa comparte aves marinas con otras islas del atlas. Con [Fair Isle - Santuario Ornitológico
+      Insular](/lugar/fair-isle/) coincide en el págalo grande, el arao común y el frailecillo; con la
+      [Reserva Natural Nacional de la Isla de Noss](/lugar/noss-national-nature-reserve/), la [Reserva Natural
+      de las Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) y los [Acantilados Ornitológicos de
+      Vestmanna](/lugar/vestmanna-bird-cliffs/), en el arao común y el frailecillo.
+  en:
+    intro: >-
+      Each spring, tens of thousands of pelagic seabirds converge on a single dramatic stretch of coast: the
+      Torridonian sandstone sea cliffs towering from the Atlantic in northwest Handa. The island, covering 309
+      hectares with an elevation of 123 metres, sits in Eddrachillis Bay off west Sutherland, reached by an
+      open passenger ferry from Tarbet. It is a Scottish Wildlife Trust nature reserve of international
+      importance for guillemots, razorbills, and great skuas.
+    landscape: >-
+      Ancient Torridonian sandstone forms the bedrock of the island. To the north and west, it drops sheer
+      into ocean cliffs of some 100 metres; to the south and east lie sheltered sandy beaches. A modest hill
+      with two summits rises in the north, while the remainder comprises rolling coastal moorland. Horizontal
+      sandstone ledges provide ideal natural nesting shelves for seabirds.
+
+
+      The Great Stack of Handa, among Scotland's most dramatic sea pillars, boasts its own mountaineering
+      legend. In 1876 Donald McDonald, a native of St Kilda, completed the first climb by bridging a 24-metre
+      void lashed to a rope.
+
+
+      On exposed cliff brows, sea pink, sea plantain, and red fescue withstand salt spray, while sheltered
+      maritime swards burst with bluebells and Scots lovage.
+    wildlife: >-
+      The breeding seabird season runs from April to July. [Atlantic puffins](/especie/fratercula_arctica/)
+      are best observed from mid-May to July around the Great Stack. The sea cliffs host teeming colonies of
+      [common murres](/especie/uria_aalge/), [northern fulmars](/especie/fulmarus_glacialis/),
+      [razorbills](/especie/alca_torda/), and [black-legged kittiwakes](/especie/rissa_tridactyla/), with
+      nationally significant numbers of Arctic skuas.
+
+
+      Inland moorlands belong to the [great skuas](/especie/stercorarius_skua/), or bonxies. Reserve wardens
+      monitor breeding pairs closely and have noted serious recent population declines, largely attributable
+      to avian influenza. Two small peat lochans host nesting pairs of [red-throated
+      divers](/especie/gavia_stellata/), visible from the timber boardwalk.
+
+
+      From the coastal trail, observers regularly spot minke whales, bottlenose and Risso's dolphins, [grey
+      seals](/especie/halichoerus_grypus/), and occasionally [killer whales](/especie/orcinus_orca/) or
+      basking sharks. In Boulder Bay on the south shore, seals and [Eurasian otters](/especie/lutra_lutra/)
+      are frequently encountered.
+    visit: >-
+      A passenger foot-ferry operates from Tarbet on the mainland during the visitor season, running from
+      early April to late August or early September. The crossing takes around 10 minutes in calm seas, but
+      can be wind-swept: wear waterproofs and sturdy walking shoes with solid tread for the timber boardwalks
+      and rocky paths. On arrival, a resident volunteer welcomes you with an introductory briefing about the
+      reserve.
+
+
+      A full-time ranger resides on the island through peak season, supported by volunteers who maintain the
+      boardwalk and carry out bird counts. Volunteer placements range from one week to longer assistant warden
+      internships spanning 8 to 21 weeks.
+    history: >-
+      Handa was long used as a burial isle: ruins of an ancient chapel survive, chosen because mainland wolves
+      were known to exhume graves. In 1841 the island had 65 inhabitants; following the potato famine of 1847,
+      the community emigrated to Nova Scotia. They had an egalitarian council meeting daily, where the eldest
+      widow was respectfully called the "Queen".
+
+
+      The Scourie Estate owns the island and manages it in partnership with the Scottish Wildlife Trust. Handa
+      is designated an SSSI and an SPA.
+    before: >-
+      Dogs are strictly prohibited on the island to safeguard vulnerable ground-nesting birds, and the ferry
+      will not carry them. During gale-force winds and heavy ocean swells, the boat cannot sail and the island
+      remains closed; no ferry runs on Sundays, and sailings operate at the skipper's discretion in unsettled
+      weather. Contact the reserve ranger or ferry operator for daily conditions before travelling.
+    around: >-
+      Handa shares bustling seabird colonies with other renowned isles across the atlas. With [Fair Isle Bird
+      Sanctuary](/lugar/fair-isle/) it shares great skuas, common guillemots, and puffins; with [Noss National
+      Nature Reserve](/lugar/noss-national-nature-reserve/), the [Sept-Îles Nature
+      Reserve](/lugar/reserve-naturelle-des-sept-iles/), and the [Vestmanna Bird
+      Cliffs](/lugar/vestmanna-bird-cliffs/), it shares teeming cliffs of common guillemots and Atlantic
+      puffins.
+  fr:
+    intro: >-
+      Chaque printemps, des dizaines de milliers d'oiseaux pélagiques rallient un secteur côtier spectaculaire
+      : les falaises de grès torridonien qui émergent de l'Atlantique au nord-ouest de Handa. L'île, d'une
+      superficie de 309 hectares pour 123 mètres d'altitude maximale, est nichée dans la baie d'Eddrachillis
+      face aux côtes occidentales du Sutherland, accessible par une navette maritime depuis Tarbet. C'est une
+      réserve du Scottish Wildlife Trust d'importance internationale pour les guillemots, les petits pingouins
+      et les grands labbes.
+    landscape: >-
+      Le grès torridonien compose le socle géologique de l'île. Au nord et à l'ouest, il plonge en à-pics
+      vertigineux d'environ 100 mètres ; au sud et à l'est s'étendent de douces anses de sable. Au nord se
+      dresse une colline dotée de deux sommets, tandis que le reste du territoire s'aplanit en lande côtière.
+      Les strates horizontales de grès offrent d'admirables corniches de nidification.
+
+
+      Le Great Stack of Handa, l'un des pitons marins les plus impressionnants d'Écosse, possède son histoire
+      héroïque. En 1876, Donald McDonald, originaire de Saint-Kilda, en réussit la première ascension en
+      franchissant une brèche de 24 mètres suspendu à une corde.
+
+
+      Sur les corniches battues par les embruns résistent l'œillet marin, le plantain maritime et la fétuque
+      rouge ; dans les vallons abrités s'épanouissent les jacinthes des bois et le livèche écossaise.
+    wildlife: >-
+      La grande saison des oiseaux marins bat son plein d'avril à juillet. Les [macareux
+      moines](/especie/fratercula_arctica/) s'observent au mieux de la mi-mai à juillet autour du Great Stack.
+      Les falaises abritent d'immenses colonies de [guillemots de Troïl](/especie/uria_aalge/), de [fulmars
+      boréaux](/especie/fulmarus_glacialis/), de [petits pingouins](/especie/alca_torda/) et de [mouettes
+      tridactyles](/especie/rissa_tridactyla/), complétées par des effectifs d'importance nationale de labbes
+      parasites.
+
+
+      Dans l'intérieur des terres règnent les [grands labbes](/especie/stercorarius_skua/), les célèbres
+      bonxies. L'équipe du sanctuaire suit de près leurs couples et note des déclins récents notables liés à
+      l'influenza aviaire. Deux petits lochs tourbeux accueillent des [plongeons
+      catmarins](/especie/gavia_stellata/) nicheurs, visibles depuis le platelage en bois.
+
+
+      Depuis la côte, on aperçoit régulièrement petits rorquals, grands dauphins, dauphins de Risso, [phoques
+      gris](/especie/halichoerus_grypus/) et parfois des [orques](/especie/orcinus_orca/) ou des requins
+      pèlerins. À Boulder Bay, sur la rive sud, les phoques et les [loutres d'Europe](/especie/lutra_lutra/)
+      sont fréquents.
+    visit: >-
+      Un petit bac pour piétons assure la traversée depuis Tarbet sur le continent durant la saison des
+      visites, qui s'étend de début avril à fin août ou début septembre. La traversée dure environ 10 minutes
+      par mer calme mais peut être très humide : prévoyez des vêtements chauds et imperméables même au cœur de
+      l'été, ainsi que de solides chaussures de marche pour arpenter les sentiers et platelages. Dès le
+      débarquement, un bénévole vous accueille avec une courte présentation des consignes.
+
+
+      Un garde réside sur l'île en haute saison, épaulé par des bénévoles qui entretiennent les passerelles et
+      recensent les colonies. Pour s'engager, des missions de volontariat sont proposées, allant d'une semaine
+      à des postes d'assistant-garde de 8 à 21 semaines.
+    history: >-
+      Handa servit longtemps de lieu d'inhumation : on y voit encore les ruines d'une chapelle, et l'on
+      suppose que les morts y étaient enterrés pour éviter que les loups ne profanent les tombes sur le
+      continent. En 1841 y vivaient 65 personnes ; après la famine de 1847, les insulaires émigrèrent en
+      Nouvelle-Écosse. Ils disposaient d'un parlement réuni quotidiennement où la plus âgée des veuves portait
+      le titre de « reine ».
+
+
+      Le domaine de Scourie possède l'île et en confie la gestion au Scottish Wildlife Trust. Handa est
+      classée réserve naturelle, SSSI et ZPS.
+    before: >-
+      Les chiens sont rigoureusement interdits sur l'île en raison des oiseaux nichant au sol, et le
+      transbordeur ne les accepte pas. Par fort vent et grosse houle, le bateau reste à quai et l'île est
+      inaccessible ; la navette ne circule pas le dimanche et navigue au jugement du pilote en cas de mauvais
+      temps. Vérifiez les conditions et les horaires auprès de l'opérateur avant de venir.
+    around: >-
+      Handa partage ses colonies d'oiseaux avec d'autres îles de l'atlas. Avec [Fair Isle - Sanctuaire
+      ornitologique insulaire](/lugar/fair-isle/) elle a en commun le grand labbe, le guillemot et le macareux
+      ; avec la [Réserve naturelle nationale de l'île de Noss](/lugar/noss-national-nature-reserve/), la
+      [Réserve naturelle des Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) et les [Falaises
+      ornithologiques de Vestmanna](/lugar/vestmanna-bird-cliffs/), elle partage le guillemot de Troïl et le
+      macareux moine.
+  de:
+    intro: >-
+      Jedes Frühjahr steuern Zehntausende pelagischer Seevögel einen spektakulären Küstenabschnitt an: die
+      torridonischen Sandsteinkliffs, die im Nordwesten von Handa aus dem tosenden Nordatlantik ragen. Die
+      Insel mit 309 Hektar Fläche und einer Maximalhöhe von 123 Metern liegt in der Eddrachillis Bay vor
+      West-Sutherland und wird mit einem Passagierboot von Tarbet erreicht. Sie ist ein Schutzgebiet des
+      Scottish Wildlife Trust von internationalem Rang für Trottellummen, Tordalke und Raubmöwen.
+    landscape: >-
+      Uralter torridonischer Sandstein bildet das Fundament der Insel. Nach Norden und Westen bricht er in
+      steilen Kliffs von etwa 100 Metern Höhe zum Meer ab; im Süden und Osten erstrecken sich geschützte
+      Sandstrände. Im Norden ragt ein Hügel mit zwei Kuppen auf, während der Rest der Insel sanfter gewellt
+      ist. Die horizontalen Felssimse des Sandsteins bieten ideale Brutbänder für Seevögel.
+
+
+      Der Great Stack of Handa, einer der kühnsten Brandungspfeiler Schottlands, besitzt eine legendäre
+      Klettergeschichte. Im Jahr 1876 bezwang Donald McDonald von St. Kilda den Turm, indem er an einem Seil
+      eine 24 Meter breite Kluft überwand.
+
+
+      Auf den gischtumtosten Kanten trotzen Grasnelke, Meer-Wegerich und Rotschwingel dem Salz; in geschützten
+      Senken blühen Hasenglöckchen und Schottische Liebstöckel.
+    wildlife: >-
+      Die Hochsaison der Seevögel währt von April bis Juli. [Papageitaucher](/especie/fratercula_arctica/)
+      lassen sich am besten von Mitte Mai bis Juli rund um den Great Stack beobachten. Die Klippenwände
+      beherbergen gewaltige Kolonien von [Trottellummen](/especie/uria_aalge/),
+      [Eissturmvögeln](/especie/fulmarus_glacialis/), [Tordalken](/especie/alca_torda/) und
+      [Dreizehenmöwen](/especie/rissa_tridactyla/), ergänzt durch landesweit bedeutende Bestände der
+      Schmarotzerraubmöwe.
+
+
+      Im Inselinneren dominieren die [Großen Raubmöwen](/especie/stercorarius_skua/), die Shetland-Bonxies.
+      Die Ranger überwachen die Brutpaare und verzeichneten jüngst Einbrüche infolge der Vogelgrippe. Zwei
+      kleine Moortümpel beherbergen brütende [Sterntaucher](/especie/gavia_stellata/), die sich vom Bohlenweg
+      aus sichten lassen.
+
+
+      Vom Küstenpfad aus zeigen sich Zwergwale, Große Tümmler, Rundkopfdelfine,
+      [Kegelrobben](/especie/halichoerus_grypus/) und vereinzelt [Schwertwale](/especie/orcinus_orca/) oder
+      Riesenhaie. In der Boulder Bay an der Südküste ruhen Robben, und gelegentlich streifen
+      [Fischotter](/especie/lutra_lutra/) am Ufer.
+    visit: >-
+      Ein kleines Fährboot für Fußgänger verkehrt während der Besuchersaison von Anfang April bis Ende August
+      oder Anfang September ab Tarbet vom Festland. Die Überfahrt dauert bei ruhiger See etwa 10 Minuten, kann
+      aber rau sein: Nimm winddichte Kleidung und feste Wanderschuhe mit griffiger Sohle für die
+      Holzbohlenwege und Pfade mit. Nach der Landung begrüßt ein ehrenamtlicher Mitarbeiter die Besucher mit
+      einer Einführung.
+
+
+      Ein hauptamtlicher Ranger lebt in der Hauptsaison auf der Insel, unterstützt von Freiwilligen, die Stege
+      instand halten und Vögel zählen. Freiwilligeneinsätze reichen von einer Woche bis zu mehrmonatigen
+      Assistentenstellen von 8 bis 21 Wochen.
+    history: >-
+      Handa diente über Jahrhunderte als Begräbnisinsel: Überreste einer alten Kapelle sind erhalten, und man
+      begrub die Toten hier, um sie vor Festlandswölfen zu schützen. Im Jahr 1841 lebten 65 Menschen auf der
+      Insel; infolge der Hungersnot von 1847 wanderten alle Bewohner nach Nova Scotia aus. Sie pflegten einen
+      täglichen Inselrat, dessen älteste Witwe respektvoll als „Königin“ bezeichnet wurde.
+
+
+      Die Scourie Estate besitzt das Eiland und verwaltet es partnerschaftlich mit dem Scottish Wildlife
+      Trust. Handa ist Naturschutzgebiet, SSSI und EU-Vogelschutzgebiet.
+    before: >-
+      Hunde sind auf der Insel wegen der bodenbrütenden Vogelkolonien streng verboten und werden auch auf dem
+      Boot nicht befördert. Bei starkem Wind und Dünung entfällt der Fährverkehr, und die Insel bleibt
+      gesperrt; sonntags ruht der Bootsbetrieb, und der Skipper entscheidet nach Wetterlage. Informiere dich
+      vorab beim Betreiber über Fahrten und Bedingungen.
+    around: >-
+      Handa teilt Seevogelkolonien mit weiteren Inseln des Atlas. Mit dem [Fair Isle –
+      Insel-Vogelschutzgebiet](/lugar/fair-isle/) teilt sie Raubmöwen, Lummen und Papageitaucher; mit dem
+      [Nationalen Naturschutzgebiet Noss](/lugar/noss-national-nature-reserve/), dem [Naturschutzgebiet
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) und den [Vogelfelsen von
+      Vestmanna](/lugar/vestmanna-bird-cliffs/) verbinden sie Trottellummen und Papageitaucher.
+  it:
+    intro: >-
+      Ogni primavera decine di migliaia di uccelli pelagici raggiungono una spettacolare muraglia costiera: le
+      falesie di arenaria torridoniana che salgono dall'oceano nel nordovest di Handa. L'isola, estesa su 309
+      ettari per un'altezza massima di 123 metri, sorge nella baia di Eddrachillis al largo del Sutherland
+      occidentale, collegata da un battello passeggeri da Tarbet. È una riserva naturale dello Scottish
+      Wildlife Trust di rango internazionale per urie, gazze marine e stercorari maggiori.
+    landscape: >-
+      L'arenaria torridoniana costituisce il basamento geologico dell'isola. A nord e a ovest precipita in
+      falesie di circa 100 metri a picco sui flutti; a sud e a est si aprono spiagge sabbiose. A nord svetta
+      una collina sormontata da due cime, mentre il resto del territorio digrada in brughiera litoranea. I
+      ripiani orizzontali dell'arenaria offrono perfetti ballatoi di nidificazione.
+
+
+      Il Great Stack of Handa, tra i più imponenti pinnacoli marini di Scozia, vanta una celebre impresa
+      alpinistica. Nel 1876 Donald McDonald, originario di St Kilda, ne compì la prima scalata superando una
+      fessura di 24 metri appeso a una fune.
+
+
+      Sui crinali esposti agli spruzzi salmastri resistono lo spillone marino, il piantaggine marittimo e la
+      festuca rossa; nelle conche riparate fioriscono le campanule e il sedano montano.
+    wildlife: >-
+      La grande stagione dell'avifauna marina si concentra da aprile a luglio. Le [pulcinelle di
+      mare](/especie/fratercula_arctica/) si ammirano al meglio da metà maggio a luglio intorno al Great
+      Stack. I dirupi ospitano immense colonie di [urie](/especie/uria_aalge/),
+      [fulmari](/especie/fulmarus_glacialis/), [gazze marine](/especie/alca_torda/) e [gabbiani
+      tridattili](/especie/rissa_tridactyla/), con numeri di rilievo nazionale per il labbo codalunga.
+
+
+      L'interno dell'isola è regno dello [stercorario maggiore](/especie/stercorarius_skua/), il bonxie. I
+      guardaparco monitorano le coppie e hanno riscontrato sensibili cali negli ultimi anni a causa
+      dell'influenza aviaria. Due piccoli laghetti torbosi accolgono coppie di [strolaghe
+      minori](/especie/gavia_stellata/), visibili dalla passerella in legno.
+
+
+      Dalla costa si avvistano regolarmente balenottere minori, tursiopi, grampi, [foche
+      grigie](/especie/halichoerus_grypus/) e sporadicamente [orche](/especie/orcinus_orca/) o squali
+      elefante. A Boulder Bay, sulla riva meridionale, sostano foche e [lontre
+      europee](/especie/lutra_lutra/).
+    visit: >-
+      Un battello passeggeri pedonale garantisce la spola da Tarbet sulla terraferma durante la stagione di
+      visita, da inizio aprile a fine agosto o inizio settembre. La traversata dura circa 10 minuti con mare
+      calmo, ma le condizioni possono essere molto umide: indossa abiti caldi e impermeabili anche in piena
+      estate e calzature robuste con ottima aderenza per passerelle e scogli. Allo sbarco un volontario
+      accoglie i visitatori con una breve introduzione.
+
+
+      Un guardaparco risiede sull'isola in alta stagione, affiancato da volontari che curano i passaggi e
+      contano gli uccelli. I soggiorni di volontariato spaziano da una singola settimana fino a incarichi di
+      assistente guardiano da 8 a 21 settimane.
+    history: >-
+      Handa fu a lungo impiegata come cimitero insulare: restano le vestigia di un'antica cappella, e si
+      presume che vi si seppellissero i defunti per impedire ai lupi del continente di disseppellire le tombe.
+      Nel 1841 vi risiedevano 65 persone; a seguito della carestia del 1847 la popolazione emigrò in Nuova
+      Scozia. Avevano un parlamento che si riuniva ogni giorno, e la vedova più anziana era chiamata la
+      «Regina».
+
+
+      La Scourie Estate detiene la proprietà dell'isola e la cogestisce con lo Scottish Wildlife Trust. Handa
+      è riserva, SSSI e ZPS.
+    before: >-
+      I cani non sono assolutamente ammessi sull'isola per non disturbare le covate al suolo, e il traghetto
+      non li imbarca. Con mare mosso e forte risacca il battello non salpa e l'isola resta chiusa; il servizio
+      è sospeso la domenica e opera a discrezione del comandante con meteo incerto. Consulta l'ente gestore
+      per conoscere le condizioni giornaliere.
+    around: >-
+      Handa condivide colonie di uccelli marini con altre isole dell'atlante. Con [Fair Isle - Santuario
+      ornitologico insulare](/lugar/fair-isle/) condivide lo stercorario maggiore, l'uria e la pulcinella; con
+      la [Riserva naturale nazionale dell'isola di Noss](/lugar/noss-national-nature-reserve/), la [Riserva
+      naturale delle Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e le [Falesie ornitologiche di
+      Vestmanna](/lugar/vestmanna-bird-cliffs/), l'uria e la pulcinella di mare.
+  pt:
+    intro: >-
+      A cada primavera, dezenas de milhares de aves pelágicas rumam a uma faixa costeira grandiosa: as
+      escarpas de arenito de Torridon que emergem do Atlântico no noroeste de Handa. A ilha, com 309 hectares
+      de extensão e 123 metros de altitude máxima, situa-se na baía de Eddrachillis frente ao oeste de
+      Sutherland, acedida através de um barco de passageiros a partir de Tarbet. É uma reserva do Scottish
+      Wildlife Trust de relevância internacional para airos, tordas e moleiros-grandes.
+    landscape: >-
+      O arenito torridoniano forma a ossatura geológica da ilha. A norte e a oeste tomba em alcantilados
+      abissais com cerca de 100 metros; a sul e a leste estendem-se praias arenosas. A norte ergue-se uma
+      colina com dois cumes, ao passo que o restante planalto forma uma charneca litoral suave. As bancadas
+      estratificadas de arenito criam socalcos naturais ideais para as aves.
+
+
+      O Great Stack of Handa, um dos mais espetaculares farilhões da Escócia, tem a sua própria façanha
+      histórica. Em 1876, Donald McDonald, nativo de St Kilda, escalou-o transpondo uma brecha de 24 metros
+      suspenso por uma corda.
+
+
+      Nas escarpas batidas pelo salitre prosperam a relva-do-olimpo, a tanchagem-marítima e a
+      festuca-vermelha; nas zonas abrigadas vicejam prados floridos com campainhas e aipo-da-montanha.
+    wildlife: >-
+      A época das aves marinhas estende-se de abril a julho. Os [fradinhos](/especie/fratercula_arctica/)
+      avistam-se com maior facilidade entre meados de maio e julho em redor do Great Stack. Os penhascos
+      albergam colónias compactas de [airos](/especie/uria_aalge/),
+      [fulmares-glaciais](/especie/fulmarus_glacialis/), [tordas-comuns](/especie/alca_torda/) e
+      [gaivotas-tridáctilas](/especie/rissa_tridactyla/), além de contingentes de moleiro-parasítico de valor
+      nacional.
+
+
+      No interior da charneca governam os [moleiros-grandes](/especie/stercorarius_skua/), os bonxies. Os
+      guardas monitorizam os casais e têm assinalado quebras recentes ligadas à gripe aviária. Dois pequenos
+      lagos na turfeira acolhem casais de [mobelhas-pequenas](/especie/gavia_stellata/), visíveis a partir do
+      passadiço.
+
+
+      A partir da costa avistam-se baleias-de-minke, roazes, golfinhos-de-risso,
+      [focas-cinzentas](/especie/halichoerus_grypus/) e pontualmente [orcas](/especie/orcinus_orca/) ou
+      tubarões-frade. Na Boulder Bay, na margem sul, descansam focas e surgem
+      [lontras-europeias](/especie/lutra_lutra/).
+    visit: >-
+      Um pequeno barco de passageiros liga Tarbet, no continente, à ilha durante a temporada de visitas, que
+      decorre do início de abril ao final de agosto ou princípios de setembro. A travessia demora cerca de 10
+      minutos com bom tempo, mas as vagas podem salpicar: leva roupa quente e impermeável mesmo em pleno
+      verão, e botas com boa aderência para os caminhos de madeira e pedra. À chegada, um voluntário dá-te as
+      boas-vindas com uma breve palestra sobre a reserva.
+
+
+      Um guarda reside na ilha durante o pico do verão, apoiado por voluntários que reparam as passadeiras e
+      contam as aves marinhas. Existem programas de voluntariado, desde estadas de uma semana a estágios de
+      ajudante de guarda de 8 a 21 semanas.
+    history: >-
+      Handa funcionou durante séculos como ilha-cemitério: subsistem ruínas de uma capela, crismando-se que os
+      defuntos eram trazidos para cá para impedir que os lobos do continente desenterrassem as sepulturas. Em
+      1841 residiam aqui 65 pessoas; após a fome de 1847 os habitantes emigraram para a Nova Escócia.
+      Mantinham um parlamento diário cuja viúva mais velha assumia o título de «rainha».
+
+
+      A Scourie Estate detém a propriedade da ilha e gere-a em estreita parceria com o Scottish Wildlife
+      Trust. Handa é reserva natural, SSSI e ZEPA.
+    before: >-
+      Os cães são totalmente proibidos na ilha para proteger as aves que nidificam no chão, e o barco não os
+      transporta. Com ventos fortes e ondulação marítima a embarcação não navega e a ilha fica encerrada; não
+      há transporte aos domingos e a ligação depende do critério do mestre do barco com mau tempo. Confirma as
+      condições com a entidade gestora antes da travessia.
+    around: >-
+      Handa partilha aves marinhas com outras ilhas do atlas. Com [Fair Isle - Santuário Ornitológico
+      Insular](/lugar/fair-isle/) partilha o moleiro-grande, o airo e o fradinho; com a [Reserva Natural
+      Nacional da Ilha de Noss](/lugar/noss-national-nature-reserve/), a [Reserva Natural das
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e as [Escarpas de Aves de
+      Vestmanna](/lugar/vestmanna-bird-cliffs/) partilha o airo e o fradinho.
+fuentes:
+  - url: https://scottishwildlifetrust.org.uk/wp-content/uploads/2016/02/v1-2955-Handa-leaflet.pdf
+    titulo: Handa Island Wildlife Reserve — Visitor information
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Handa_Island
+    titulo: Handa Island
+    fecha_consulta: '2026-10-30'
+  - url: https://scottishwildlifetrust.org.uk/reserve/handa-island/
+    titulo: Handa Island Wildlife Reserve | Scottish Wildlife Trust
+    fecha_consulta: '2026-10-30'
+  - url: https://scottishwildlifetrust.org.uk/2026/01/bonxies-and-boardwalks-a-visit-to-handa/
+    titulo: Bonxies and boardwalks - a visit to Handa | Scottish Wildlife Trust
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:The_path_to_the_Great_Stack_on_Handa_Island_-_geograph.org.uk_-_4555811.jpg
+    autor: David Purchase
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,556 @@
+id: parcul-national-bucegi---vertientes-occidentales
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Bucegi - Ladera Occidental
+  en: Bucegi National Park - Western Slopes
+  fr: Parc naturel de Bucegi - Versant occidental
+  de: Naturpark Bucegi - Westhänge
+  it: Parco Naturale Bucegi - Versante Occidentale
+  pt: Parque Natural de Bucegi - Vertente Ocidental
+nombre_original: Parcul Național Bucegi - Vertientes Occidentales
+alias:
+  - Bucegi Mountains Western Sector (Munții Bucegi – Vertientes Occidentales)
+paises:
+  - RO
+region:
+  es: Județe de Dâmbovița, Argeș y Prahova
+  en: Dâmbovița, Argeș, and Prahova Counties
+  fr: Județe de Dâmbovița, Argeș et Prahova
+  de: Kreise Dâmbovița, Argeș und Prahova
+  it: Distretti di Dâmbovița, Argeș e Prahova
+  pt: Distritos de Dâmbovița, Argeș e Prahova
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.38
+  lon: 25.4
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 20678
+  nombre_en_la_fuente: Parcul Natural Bucegi
+  categoria_uicn: V
+  capa: capas/cdda/parcul-national-bucegi---vertientes-occidentales.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+  - karst
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - rupicapra_rupicapra
+  - lynx_lynx
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Alta en la meseta de las Esfinges; muy baja en los valles del oeste (Valle del Ialomița)
+  en: High on the Sphinx plateau; very low in the western valleys (Ialomița Valley)
+  fr: Forte sur le plateau des Sphinx ; très faible dans les vallées occidentales (vallée de l'Ialomița)
+  de: Hoch auf dem Sphinx-Plateau; sehr gering in den Westtälern (Ialomița-Tal)
+  it: Alta sull'altopiano delle Sfingi; molto bassa nelle valli occidentali (Valle dello Ialomița)
+  pt: Alta no planalto das Esfinges; muito baixa nos vales ocidentais (Vale do Ialomița)
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Natural Bucegi
+    url: https://www.bucegipark.ro/
+  - titulo: Mapa y rutas — Bucegi
+    url: https://map.bucegipark.ro/
+  - titulo: Normas — Reglamento de Bucegi
+    url: https://www.bucegipark.ro/ro/park-rules
+  - titulo: Visita y tarifas — Entrada al parque
+    url: https://www.bucegipark.ro/ro/ticket-information
+  - titulo: Accesos — Circulación de vehículos
+    url: https://www.bucegipark.ro/ro/access_and_rules/allowed-vehicles/
+resumen:
+  es: Paredes conglomerates dramáticas emergiendo en la meseta de los monumentos eólicos Babele y la Esfinge.
+  en: >-
+    Dramatic conglomerate cliffs rising toward the plateau of the Babele and Sphinx wind-sculpted rock
+    formations.
+  fr: >-
+    Parois de conglomérats spectaculaires émergeant sur le plateau des monuments éoliens des Babele et du
+    Sphinx.
+  de: >-
+    Dramatische Konglomeratwände, die sich zum Hochplateau der windgeformten Felsmonumente Babele und Sphinx
+    erheben.
+  it: >-
+    Spettacolari pareti di conglomerato emergenti verso l'altopiano dei monumenti eolici di Babele e della
+    Sfinge.
+  pt: >-
+    Paredes dramáticas de conglomerados que se erguem em direção ao planalto dos monumentos eólicos Babele e
+    Esfinge.
+unico:
+  es: >-
+    Un altiplano de caliza esculpido en setas, esfinges y cascadas, con más de 1200 especies de plantas y un
+    centenar de endemismos.
+  en: >-
+    A limestone and conglomerate plateau carved into rock mushrooms, sphinxes, and waterfalls, sheltering more
+    than 1200 plant species and a hundred endemics.
+  fr: >-
+    Un plateau de calcaires et conglomérats sculpté en champignons, sphinx et cascades, abritant plus de 1200
+    espèces végétales et une centaine d'endémiques.
+  de: >-
+    Ein Kalk- und Konglomeratplateau, skulptiert zu Felspilzen, Sphinxen und Kaskaden, mit über 1200
+    Pflanzenarten und hundert Endemiten.
+  it: >-
+    Un altopiano di calcare e conglomerati scolpito in funghi, sfingi e cascate, con oltre 1200 specie
+    vegetali e un centinaio di endemismi.
+  pt: >-
+    Um planalto de calcário e conglomerados esculpido em cogumelos, esfinges e cascatas, albergando mais de
+    1200 espécies botânicas e uma centena de endemismos.
+observaciones:
+  es: >-
+    La página de rutas temáticas muestra actividades de todo el parque y no indica cuáles corresponden a la
+    vertiente occidental, así que mira el mapa antes de salir. Si vas en invierno, ten en cuenta que el centro
+    de visitantes de Bușteni cierra de noviembre a abril.
+texto:
+  es:
+    intro: >-
+      Dos formas de roca que cualquiera reconoce: unas rocas con forma de seta, los Babele, y una cabeza
+      humana de piedra, la Esfinge. Las dos están en los Bucegi, un macizo que sube de 800 a 2505 m, hasta el
+      Vârful Omu, y cuyo parque cubre 32.520 hectáreas entre varios condados, entre ellos Dâmbovița y Prahova.
+      Un lado cae en escarpes de más de 1000 m sobre el valle de Prahova; el otro se abre hacia la planicie
+      lisa del altiplano.
+    landscape: >-
+      Los Bucegi mezclan calizas y esquistos cristalinos, y por eso su relieve es tan variado. De esa mezcla
+      salen las formas más singulares: los Babele, con silueta de seta; la Esfinge, con perfil de cabeza
+      humana; y torres, agujas y repisas. Debajo, el karst abre cuevas y gargantas: las cuevas Ialomiței y
+      Rătei, y las gargantas Zănoagei, Urșilor, Orzei y Tătarului, además del cañón de Horoabei y la cascada
+      Urlătoarea.
+
+
+      Arriba, el altiplano es una planicie lisa; abajo, hacia Prahova, el macizo se corta en escarpes de más
+      de 1000 m. En la cima del Omu hay una estación meteorológica. En el pico Caraiman, a 2291 m, se alza la
+      Cruz de los Héroes de la Nación, dedicada a los caídos de la Primera Guerra Mundial y visible desde
+      lejos.
+
+
+      En Plaiul Hoților hay un lugar fosilífero de 6 ha con depósitos de fauna y flora fósiles, y cerca de
+      Lăptici una turbera oligotrófica de 14,90 ha, protegida por la rareza de sus elementos florísticos
+      boreales relictos.
+    wildlife: >-
+      El mapa del parque indica más de 1200 especies de flora y 100 endémicas. Entre las flores raras están la
+      flor de nieve, el zapatito de dama, el rododendro Kotschy, Daphne blagayana y Dryas octopetala; la
+      página oficial de flora cita además el tejo, Dianthus glacialis, el abeto, la violeta alpina, el lirio
+      martagón y Gentiana acaulis. Hay bosques alpinos de alerce y pino cembro, hayedos dacios y bosques de
+      picea del sureste de los Cárpatos.
+
+
+      Entre los mamíferos figuran el [oso pardo](/especie/ursus_arctos/), el [lince](/especie/lynx_lynx/), el
+      [lobo](/especie/canis_lupus/), el [ciervo](/especie/cervus_elaphus/), el [gato
+      montés](/especie/felis_silvestris/), el [rebeco](/especie/rupicapra_rupicapra/), el
+      [corzo](/especie/capreolus_capreolus/) y la [marta](/especie/martes_martes/), además de varios
+      murciélagos. Entre las aves, el [urogallo](/especie/tetrao_urogallus/), el [cárabo
+      uralense](/especie/strix_uralensis/), el [águila real](/especie/aquila_chrysaetos/), el [buitre
+      leonado](/especie/gyps_fulvus/) y el pito negro. Y entre los anfibios, el [tritón de
+      Montandon](/especie/triturus_montandoni/), el tritón alpino, la rana bermeja y la víbora.
+    visit: >-
+      El mapa del parque indica 316 kilómetros de rutas marcadas y accesibles. La administración lista diez
+      rutas temáticas, casi todas de dificultad fácil o media; solo unas pocas son exigentes, con pendientes
+      fuertes y terreno rocoso. El recorrido The Flying Dragon es un recorrido fácil de 1,25 km que dura media
+      hora. El itinerario del lago Scropoasa por Cheile Zănoagei hasta Zănoaga mide 2,51 km, lleva hora y
+      media y es de dificultad media. La ruta temática de la turbera de Lăptici mide 0,56 km, dura quince
+      minutos y es fácil. En Lăptici hay un sendero de madera, y la administración pide usarlo para no pisar
+      los montículos de Sphagnum, sensibles al peso.
+
+
+      El centro de visitantes de Bușteni abre los fines de semana de mayo a octubre y cierra de noviembre a
+      abril. El acceso principal es la carretera nacional DN1 por Comarnic, Sinaia, Azuga y Bușteni. En
+      Prahova el parque llega a los municipios de Azuga, Bușteni, Comarnic y Sinaia.
+    history: >-
+      El parque natural se fundó en 1974 y se declaró área protegida por una ley del 6 de marzo de 2000.
+      Dentro hay reservas como el Abruptul prahovean Bucegi y los Colții lui Barbeș. El reglamento del parque
+      regula todas las actividades humanas en el parque natural y en las áreas protegidas que incluye. Entre
+      los edificios históricos cercanos está el monasterio de Sinaia, del siglo XVII, fundado por el spătar
+      Mihai Cantacuzino.
+    before: >-
+      La página de rutas temáticas muestra actividades de todo el parque y no indica cuáles corresponden a la
+      vertiente occidental, así que mira el mapa antes de salir. Si vas en invierno, ten en cuenta que el
+      centro de visitantes de Bușteni cierra de noviembre a abril.
+    around: >-
+      A unos 5 km, en la misma sierra, queda el [Parque Nacional Piatra
+      Craiului](/lugar/parcul-national-piatra-craiului/), y a trece kilómetros las [Montañas de
+      Iezer-Păpușa](/lugar/muntii-iezer-papusa/). Las [Montañas de Leaota](/lugar/muntii-leaota/) se solapan
+      con el parque.
+  en:
+    intro: >-
+      Two rock forms that anyone recognizes: mushroom-shaped rocks, the Babele, and a stone human head, the
+      Sphinx. Both stand in the Bucegi, a massif rising from 800 to 2505 m at Vârful Omu, whose park
+      encompasses 32,520 hectares across several counties, including Dâmbovița and Prahova. One flank drops in
+      sheer scarps of over 1000 m towards the Prahova valley; the other unfolds onto the smooth plateau
+      tableland.
+    landscape: >-
+      The Bucegi intertwine limestones and crystalline schists, lending the relief its remarkable variety.
+      From this blend spring the most striking formations: the Babele, resembling mushrooms; the Sphinx,
+      displaying a human profile; and towers, needles, and ledges. Below, karst hollows out caves and ravines:
+      the Ialomiței and Rătei caves, and the Zănoagei, Urșilor, Orzei, and Tătarului gorges, alongside the
+      Horoabei canyon and Urlătoarea waterfall.
+
+
+      Above, the plateau forms an open rolling plain; below, facing Prahova, the massif drops in sheer
+      escarpments of over 1000 m. A weather station crowns the summit of Omu. On Caraiman peak, at 2291 m,
+      stands the Heroes' Cross, commemorating the fallen of the First World War and visible from afar.
+
+
+      At Plaiul Hoților lies a 6 ha fossil site rich in petrified flora and fauna, and near Lăptici rests a
+      14.90 ha oligotrophic peat bog, protected for the rarity of its relict boreal floristic elements.
+    wildlife: >-
+      The park map indicates over 1200 species of flora and 100 endemics. Rare blooms include edelweiss,
+      lady's slipper orchid, Kotschy's rhododendron, Daphne blagayana, and Dryas octopetala; the official
+      botanical survey further notes yew, Dianthus glacialis, silver fir, alpine violet, martagon lily, and
+      Gentiana acaulis. Subalpine woodlands feature larch and Swiss pine, Dacian beech woods, and southeastern
+      Carpathian spruce forests.
+
+
+      Mammals include the [brown bear](/especie/ursus_arctos/), the [Eurasian lynx](/especie/lynx_lynx/), the
+      [grey wolf](/especie/canis_lupus/), the [red deer](/especie/cervus_elaphus/), the [European
+      wildcat](/especie/felis_silvestris/), the [chamois](/especie/rupicapra_rupicapra/), the [roe
+      deer](/especie/capreolus_capreolus/), and the [European pine marten](/especie/martes_martes/), along
+      with diverse bats. Birds feature the [western capercaillie](/especie/tetrao_urogallus/), the [Ural
+      owl](/especie/strix_uralensis/), the [golden eagle](/especie/aquila_chrysaetos/), the [griffon
+      vulture](/especie/gyps_fulvus/), and the black woodpecker. Amphibians encompass [Montandon's
+      newt](/especie/triturus_montandoni/), the alpine newt, the common frog, and the common viper.
+    visit: >-
+      The park map details 316 kilometres of marked, accessible trails. The administration outlines ten
+      thematic itineraries, mostly easy to moderate; only a few prove strenuous, with steep grades and rocky
+      ground. The Flying Dragon route is an easy 1.25 km stroll taking half an hour. The Lake Scropoasa
+      itinerary through Cheile Zănoagei to Zănoaga measures 2.51 km, requires an hour and a half, and has
+      moderate difficulty. The Lăptici peat bog thematic trail spans 0.56 km, lasts fifteen minutes, and is
+      easy. A wooden boardwalk crosses Lăptici, and park managers ask visitors to use it to avoid trampling
+      sensitive Sphagnum hummocks.
+
+
+      The Bușteni visitor centre opens on weekends from May to October and closes from November to April.
+      Primary road access is the DN1 national road via Comarnic, Sinaia, Azuga, and Bușteni. In Prahova
+      County, the park touches the municipalities of Azuga, Bușteni, Comarnic, and Sinaia.
+    history: >-
+      The natural park was created in 1974 and formally declared a protected area by law on 6 March 2000.
+      Within its borders lie reserves such as Abruptul prahovean Bucegi and Colții lui Barbeș. Park
+      regulations govern all human activities within the natural park and its nested protected areas. Historic
+      buildings nearby include Sinaia Monastery, dating from the seventeenth century and founded by spătar
+      Mihai Cantacuzino.
+    before: >-
+      The thematic trail guide shows routes across the entire park without distinguishing those on the western
+      slopes, so consult the trail map before setting out. If visiting in winter, note that the Bușteni
+      visitor centre remains closed from November to April.
+    around: >-
+      Roughly 5 km away in the same range lies [Piatra Craiului National
+      Park](/lugar/parcul-national-piatra-craiului/), and thirteen kilometres away the [Iezer-Păpușa
+      Mountains](/lugar/muntii-iezer-papusa/). The [Leaota Mountains](/lugar/muntii-leaota/) overlap with the
+      park.
+  fr:
+    intro: >-
+      Deux silhouettes minérales que chacun identifie : des rochers en forme de champignon, les Babele, et une
+      tête humaine de pierre, le Sphinx. Toutes deux se dressent dans les Bucegi, un massif qui s'élève de 800
+      à 2505 m jusqu'au Vârful Omu, et dont le parc couvre 32 520 hectares partagés entre plusieurs județe,
+      notamment Dâmbovița et Prahova. Un versant plonge en falaises de plus de 1000 m sur la vallée de la
+      Prahova ; l'autre s'ouvre sur le vaste plateau sommital ondulé.
+    landscape: >-
+      Les Bucegi associent calcaires et schistes cristallins, ce qui confère au relief toute sa variété. De
+      cette combinaison naissent les formes les plus singulières : les Babele aux allures de champignons, le
+      Sphinx au profil de visage humain, ainsi que des tours, aiguilles et corniches. En contrebas, le karst
+      creuse grottes et défilés : les grottes Ialomiței et Rătei, les gorges Zănoagei, Urșilor, Orzei et
+      Tătarului, ainsi que le canyon de Horoabei et la cascade Urlătoarea.
+
+
+      En haut, le plateau déroule une plaine dégagée ; en bas, vers la Prahova, le massif se rompt en
+      escarpements de plus de 1000 m. Au sommet de l'Omu se dresse une station météorologique. Sur le pic
+      Caraiman, à 2291 m, se dresse la Croix des Héros de la Nation, dédiée aux combattants de la Première
+      Guerre mondiale et visible de très loin.
+
+
+      À Plaiul Hoților s'étend un site fossilifère de 6 ha riche en gisements de faune et flore fossiles, et
+      près de Lăptici repose une tourbière oligotrophe de 14,90 ha, protégée pour la rareté de ses reliques
+      floristiques boréales.
+    wildlife: >-
+      La carte du parc signale plus de 1200 espèces de flore et 100 endémiques. Parmi les fleurs remarquables
+      figurent l'edelweiss, le sabot de Vénus, le rhododendron de Kotschy, Daphne blagayana et Dryas
+      octopetala ; le répertoire officiel mentionne aussi l'if, Dianthus glacialis, le sapin, la violette
+      alpine, le lis martagon et Gentiana acaulis. On trouve des boisements d'altitude de mélèze et pin
+      cembro, des hêtraies daces et des pessières du sud-est des Carpates.
+
+
+      Les mammifères comptent l'[ours brun](/especie/ursus_arctos/), le [lynx boréal](/especie/lynx_lynx/), le
+      [loup](/especie/canis_lupus/), le [cerf élaphe](/especie/cervus_elaphus/), le [chat
+      sauvage](/especie/felis_silvestris/), le [chamois](/especie/rupicapra_rupicapra/), le
+      [chevreuil](/especie/capreolus_capreolus/) et la [martre des pins](/especie/martes_martes/), ainsi que
+      diverses chauves-souris. Côté oiseaux nichent le [grand tétras](/especie/tetrao_urogallus/), la
+      [chouette de l'Oural](/especie/strix_uralensis/), l'[aigle royal](/especie/aquila_chrysaetos/), le
+      [vautour fauve](/especie/gyps_fulvus/) et le pic noir. Chez les amphibiens se distinguent le [triton de
+      Montandon](/especie/triturus_montandoni/), le triton alpestre, la grenouille rousse et la vipère.
+    visit: >-
+      La carte du parc indique 316 kilomètres d'itinéraires balisés et accessibles. La direction répertorie
+      dix sentiers thématiques, presque tous de niveau facile ou moyen ; seuls quelques-uns sont exigeants
+      avec de fortes pentes et un terrain rocailleux. Le circuit The Flying Dragon est une promenade facile de
+      1,25 km durant une demi-heure. L'itinéraire du lac Scropoasa par Cheile Zănoagei jusqu'à Zănoaga fait
+      2,51 km, demande une heure et demie et présente une difficulté moyenne. La boucle thématique de la
+      tourbière de Lăptici fait 0,56 km, dure quinze minutes et est facile. À Lăptici court une passerelle en
+      bois, que les gardes invitent à emprunter pour éviter de piétiner les coussins de sphaignes vulnérables
+      au tassement.
+
+
+      Le centre de visiteurs de Bușteni ouvre les week-ends de mai à octobre et ferme de novembre à avril.
+      L'accès routier principal s'effectue par la route nationale DN1 via Comarnic, Sinaia, Azuga et Bușteni.
+      En Prahova, le parc englobe des portions des communes d'Azuga, Bușteni, Comarnic et Sinaia.
+    history: >-
+      Le parc naturel a été fondé en 1974 puis déclaré aire protégée par une loi du 6 mars 2000. Il englobe
+      des réserves telles que l'Abruptul prahovean Bucegi et les Colții lui Barbeș. Le règlement du parc
+      encadre toutes les activités humaines au sein du parc naturel et des espaces protégés inclus. Parmi les
+      édifices historiques voisins figure le monastère de Sinaia, du XVIIe siècle, fondé par le spătar Mihai
+      Cantacuzino.
+    before: >-
+      Le guide des circuits thématiques présente les activités de l'ensemble du parc sans préciser celles qui
+      correspondent au versant occidental : étudiez la carte avant de vous mettre en route. Si vous venez en
+      hiver, sachez que le centre de visiteurs de Bușteni reste fermé de novembre à avril.
+    around: >-
+      À environ 5 km dans le même massif s'étend le [parc national de Piatra
+      Craiului](/lugar/parcul-national-piatra-craiului/), et à treize kilomètres les [monts
+      Iezer-Păpușa](/lugar/muntii-iezer-papusa/). Les [monts Leaota](/lugar/muntii-leaota/) chevauchent le
+      territoire du parc.
+  de:
+    intro: >-
+      Zwei Felsgestalten, die jeder kennt: pilzförmige Felsen, die Babele, und ein steinerner Menschenkopf,
+      die Sphinx. Beide erheben sich im Bucegi-Massiv, das von 800 bis auf 2505 m am Vârful Omu aufsteigt und
+      dessen Park 32.520 Hektar über mehrere Kreise, darunter Dâmbovița und Prahova, umfasst. Eine Flanke
+      bricht in Steilwänden von über 1000 m zum Prahova-Tal ab; die andere öffnet sich zur sanften Hochfläche
+      des Altiplano.
+    landscape: >-
+      Das Bucegi-Gebirge verbindet Kalksteine und kristalline Schiefer, weshalb sein Relief so
+      abwechslungsreich ist. Aus diesem Zusammenspiel erwachsen markante Formationen: die Babele in Pilzform,
+      die Sphinx mit dem Profil eines menschlichen Hauptes sowie Türme, Nadeln und Felsbänder. Darunter höhlt
+      der Karst Grotten und Schlünde aus: die Höhlen Ialomiței und Rătei sowie die Schluchten Zănoagei,
+      Urșilor, Orzei und Tătarului, dazu der Horoabei-Canyon und der Wasserfall Urlătoarea.
+
+
+      Oben bildet das Plateau eine weite Hochebene; unten zur Prahova hin fällt das Massiv in Steilabbrüchen
+      von über 1000 m ab. Auf dem Omu-Gipfel arbeitet eine Wetterstation. Auf dem Caraiman-Gipfel in 2291 m
+      Höhe ragt das Heldenkreuz empor, den Gefallenen des Ersten Weltkriegs gewidmet und weithin sichtbar.
+
+
+      Bei Plaiul Hoților liegt eine 6 ha große Fossillagerstätte mit reichen Versteinerungen, und nahe Lăptici
+      ruht ein 14,90 ha großes oligotrophes Hochmoor, geschützt wegen seiner seltenen borealen Reliktflora.
+    wildlife: >-
+      Die Parkkarte verzeichnet über 1200 Pflanzenarten und 100 Endemiten. Zu den seltenen Blüten zählen
+      Edelweiß, Frauenschuh, Kotschys Almrausch, Daphne blagayana und Dryas octopetala; das amtliche
+      Florenverzeichnis nennt zudem Eibe, Dianthus glacialis, Weiß-Tanne, Alpen-Veilchen, Türkenbund-Lilie und
+      Gentiana acaulis. Es wachsen subalpine Lärchen- und Zirbenwälder, dakische Buchenwälder sowie
+      Fichtenwälder der Südostkarpaten.
+
+
+      Unter den Säugetieren leben [Braunbär](/especie/ursus_arctos/), [Eurasischer
+      Luchs](/especie/lynx_lynx/), [Wolf](/especie/canis_lupus/), [Rothirsch](/especie/cervus_elaphus/),
+      [Wildkatze](/especie/felis_silvestris/), [Gämse](/especie/rupicapra_rupicapra/),
+      [Reh](/especie/capreolus_capreolus/) und [Baummarder](/especie/martes_martes/) sowie verschiedene
+      Fledermausarten. Bei den Vögeln brüten [Auerhuhn](/especie/tetrao_urogallus/),
+      [Habichtskauz](/especie/strix_uralensis/), [Steinadler](/especie/aquila_chrysaetos/),
+      [Gänsegeier](/especie/gyps_fulvus/) und Schwarzspecht. Die Amphibienwelt umfasst den
+      [Karpatenmolch](/especie/triturus_montandoni/), den Bergmolch, den Grasfrosch und die Kreuzotter.
+    visit: >-
+      Die Parkkarte weist 316 Kilometer markierte und begehbare Wege aus. Die Verwaltung führt zehn Themenwege
+      auf, fast durchweg von leichtem oder mittlerem Anspruch; nur wenige Pfade fordern mit steilem
+      Geröllgelände heraus. Die Runde The Flying Dragon ist ein bequemer Spaziergang von 1,25 km und einer
+      halben Stunde Dauer. Die Tour vom Scropoasa-See durch die Cheile Zănoagei nach Zănoaga misst 2,51 km,
+      dauert anderthalb Stunden und ist mittelschwer. Der Themenpfad im Hochmoor von Lăptici umfasst 0,56 km,
+      beansprucht fünfzehn Minuten und ist leicht. In Lăptici verläuft ein Holzsteg, dessen Nutzung
+      vorgeschrieben ist, um die trittempfindlichen Torfmoospolster zu schonen.
+
+
+      Das Besucherzentrum in Bușteni öffnet an Wochenenden von Mai bis Oktober und schließt von November bis
+      April. Die wichtigste Zufahrtsstraße ist die Nationalstraße DN1 über Comarnic, Sinaia, Azuga und
+      Bușteni. Im Kreis Prahova berührt der Park die Gemeinden Azuga, Bușteni, Comarnic und Sinaia.
+    history: >-
+      Der Naturpark wurde 1974 gegründet und durch ein Gesetz vom 6. März 2000 zum Schutzgebiet erklärt. Im
+      Inneren liegen Reservate wie das Abruptul prahovean Bucegi und die Colții lui Barbeș. Die Parkordnung
+      regelt sämtliche menschlichen Aktivitäten im Naturpark und den eingebetteten Schutzgebieten. Zu den
+      historischen Bauwerken der Umgebung gehört das Kloster Sinaia aus dem siebzehnten Jahrhundert, gestiftet
+      vom Spătar Mihai Cantacuzino.
+    before: >-
+      Die Themenwegübersicht listet Routen des gesamten Parks auf und trennt nicht nach Westhängen; prüfe
+      daher vorab die Wanderkarte. Bei winterlichen Touren ist zu beachten, dass das Besucherzentrum in
+      Bușteni von November bis April geschlossen bleibt.
+    around: >-
+      Rund 5 km entfernt im selben Gebirgszug liegt der [Nationalpark Piatra
+      Craiului](/lugar/parcul-national-piatra-craiului/) und dreizehn Kilometer entfernt das
+      [Iezer-Păpușa-Gebirge](/lugar/muntii-iezer-papusa/). Das [Leaota-Gebirge](/lugar/muntii-leaota/)
+      überschneidet sich mit dem Parkgebiet.
+  it:
+    intro: >-
+      Due conformazioni rocciose note a chiunque: blocchi a forma di fungo, i Babele, e una testa umana di
+      pietra, la Sfinge. Entrambe sorgono nei Bucegi, un massiccio che sale da 800 a 2505 m fino al Vârful
+      Omu, il cui parco tutela 32.520 ettari ripartiti tra vari distretti, fra cui Dâmbovița e Prahova. Un
+      versante precipita con balze di oltre 1000 m sulla valle di Prahova; l'altro si distende nella morbida
+      pianura dell'altopiano.
+    landscape: >-
+      I Bucegi combinano calcari e scisti cristallini, dando origine a una morfologia straordinariamente
+      variegata. Da questo connubio scaturiscono le forme più bizzarre: i Babele, con sagoma fungiforme; la
+      Sfinge, dal profilo di volto umano; nonché torrioni, aghi e cenge. Più in basso il carso scava caverne e
+      gole: le grotte Ialomiței e Rătei, le forre Zănoagei, Urșilor, Orzei e Tătarului, oltre al canyon di
+      Horoabei e alla cascata Urlătoarea.
+
+
+      In quota, l'altopiano si sviluppa come una placca uniforme; verso valle, in direzione di Prahova, il
+      massiccio sprofonda in falesie di oltre 1000 m. Sulla cima dell'Omu è operativa una stazione
+      meteorologica. Sul picco Caraiman, a 2291 m, campeggia la Croce degli Eroi della Nazione, consacrata ai
+      caduti della Prima Guerra Mondiale e visibile a grande distanza.
+
+
+      A Plaiul Hoților si estende un sito fossilifero di 6 ha ricco di reperti fossili, e presso Lăptici
+      riposa una torbiera oligotrofica di 14,90 ha, tutelata per la rarità dei suoi elementi floristici
+      boreali relitti.
+    wildlife: >-
+      La cartografia del parco registra oltre 1200 specie floristiche e 100 endemismi. Tra le fioriture
+      preziose figurano stella alpina, scarpetta di Venere, rododendro di Kotschy, Daphne blagayana e Dryas
+      octopetala; il catalogo ufficiale annovera inoltre tasso, Dianthus glacialis, abete bianco, ciclamino
+      alpino, giglio martagone e Gentiana acaulis. Prosperano formazioni d'alta quota di larice e pino cembro,
+      faggete daciche e abetine dei Carpazi sud-orientali.
+
+
+      Tra i mammiferi compaiono l'[orso bruno](/especie/ursus_arctos/), la [lince](/especie/lynx_lynx/), il
+      [lupo grigio](/especie/canis_lupus/), il [cervo](/especie/cervus_elaphus/), il [gatto
+      selvatico](/especie/felis_silvestris/), il [camoscio alpino](/especie/rupicapra_rupicapra/), il
+      [capriolo](/especie/capreolus_capreolus/) e la [martora](/especie/martes_martes/), affiancati da
+      svariati pipistrelli. L'avifauna comprende l'[urogallo](/especie/tetrao_urogallus/), l'[allocco degli
+      Urali](/especie/strix_uralensis/), l'[aquila reale](/especie/aquila_chrysaetos/), il
+      [grifone](/especie/gyps_fulvus/) e il picchio nero. Tra gli anfibi figurano il [tritone dei
+      Carpazi](/especie/triturus_montandoni/), il tritone alpino, la rana temporaria e il marasso.
+    visit: >-
+      La mappa del parco riporta 316 chilometri di sentieri tracciati e fruibili. L'ente gestore elenca dieci
+      percorsi tematici, quasi tutti di difficoltà facile o media; solo pochi presentano pendenze aspre e
+      fondo pietroso. Il circuito The Flying Dragon è una comoda passeggiata di 1,25 km che impegna mezz'ora.
+      L'itinerario dal lago Scropoasa attraverso Cheile Zănoagei fino a Zănoaga copre 2,51 km, richiede un'ora
+      e mezza ed è di media difficoltà. Il percorso tematico della torbiera di Lăptici misura 0,56 km, dura
+      quindici minuti ed è elementare. A Lăptici si sviluppa una passerella lignea, di cui è raccomandato
+      l'uso per evitare di calpestare i cuscinetti di sfagno vulnerabili al calpestio.
+
+
+      Il centro visite di Bușteni apre nei fine settimana da maggio a ottobre e chiude da novembre ad aprile.
+      La direttrice viaria d'accesso primaria è la strada statale DN1 attraverso Comarnic, Sinaia, Azuga e
+      Bușteni. Nel distretto di Prahova il parco interessa i comuni di Azuga, Bușteni, Comarnic e Sinaia.
+    history: >-
+      Il parco naturale nacque nel 1974 e fu proclamato area protetta con legge del 6 marzo 2000. Al suo
+      interno racchiude riserve quali Abruptul prahovean Bucegi e Colții lui Barbeș. Il regolamento disciplina
+      tutte le attività antropiche nel parco naturale e nelle riserve correlate. Tra i monumenti storici
+      limitrofi spicca il monastero di Sinaia, del XVII secolo, istituito dallo spătar Mihai Cantacuzino.
+    before: >-
+      La guida dei percorsi tematici raggruppa proposte dell'intero massiccio senza precisare quali ricadano
+      sul versante occidentale: esamina attentamente la carta prima di metterti in marcia. Se intendi compiere
+      un'escursione in inverno, considera che il centro visite di Bușteni rimane chiuso da novembre ad aprile.
+    around: >-
+      A circa 5 km nella medesima catena si trova il [Parco Nazionale Piatra
+      Craiului](/lugar/parcul-national-piatra-craiului/), e a tredici chilometri i [Monti
+      Iezer-Păpușa](/lugar/muntii-iezer-papusa/). I [Monti di Leaota](/lugar/muntii-leaota/) si sovrappongono
+      parzialmente al comprensorio del parco.
+  pt:
+    intro: >-
+      Duas formas rochosas que qualquer pessoa reconhece: blocos em forma de cogumelo, os Babele, e uma cabeça
+      humana pétrea, a Esfinge. Ambas se encontram nos Bucegi, um maciço que sobe de 800 a 2505 m até ao
+      Vârful Omu, e cujo parque abrange 32.520 hectares repartidos por vários distritos, entre eles Dâmbovița
+      e Prahova. Uma das vertentes despenha-se em escarpas de mais de 1000 m sobre o vale de Prahova; a outra
+      abre-se na planura suave do altiplano.
+    landscape: >-
+      Os Bucegi combinam calcários e xistos cristalinos, o que explica o seu relevo tão diversificado. Dessa
+      mescla resultam formações invulgares: os Babele, assemelhados a cogumelos; a Esfinge, com perfil
+      fisionómico humano; e ainda torres, agulhas e bancadas rochosas. Em baixo, o relevo cárstico escava
+      grutas e gargantas: as cavernas Ialomiței e Rătei, e os desfiladeiros Zănoagei, Urșilor, Orzei e
+      Tătarului, além do canhão de Horoabei e da cascata Urlătoarea.
+
+
+      No topo, o planalto forma uma planície desimpedida; em baixo, voltado para Prahova, o relevo quebra-se
+      em falésias abruptas de mais de 1000 m. No cume de Omu funciona uma estação meteorológica. No pico
+      Caraiman, a 2291 m, ergue-se a Cruz dos Heróis da Nação, consagrada aos combatentes da Primeira Guerra
+      Mundial e visível a grande distância.
+
+
+      Em Plaiul Hoților localiza-se uma jazida fossilífera de 6 ha com depósitos de fauna e flora fósseis, e
+      junto a Lăptici estende-se uma turfeira oligotrófica de 14,90 ha, classificada pela raridade dos seus
+      elementos florísticos boreais relictos.
+    wildlife: >-
+      O mapa do parque regista mais de 1200 espécies de flora e 100 endemismos. Entre as plantas raras
+      contam-se a flor-dos-alpes, o sapatinho-de-vênus, o rododendro-de-kotschy, Daphne blagayana e Dryas
+      octopetala; o levantamento oficial assinala ainda o teixo, Dianthus glacialis, o abeto-branco, a
+      violeta-alpina, o lírio-martagão e Gentiana acaulis. Desenvolvem-se bosques alpinos de lariço e
+      pinheiro-suíço, fagetos dácicos e povoamentos de espruce do sudeste dos Cárpatos.
+
+
+      Entre os mamíferos registam-se o [urso-pardo](/especie/ursus_arctos/), o
+      [lince-euroasiático](/especie/lynx_lynx/), o [lobo-cinzento](/especie/canis_lupus/), o
+      [veado-vermelho](/especie/cervus_elaphus/), o [gato-bravo](/especie/felis_silvestris/), a
+      [camurça](/especie/rupicapra_rupicapra/), a [corça](/especie/capreolus_capreolus/) e a [marta do
+      pinheiro europeia](/especie/martes_martes/), a par de múltiplos morcegos. Entre as aves destacam-se o
+      [tetraz-grande](/especie/tetrao_urogallus/), a [coruja-dos-urais](/especie/strix_uralensis/), a
+      [águia-real](/especie/aquila_chrysaetos/), o [abutre-fouveiro](/especie/gyps_fulvus/) e o
+      pica-pau-preto. Entre os anfíbios ocorrem o [Triturus montandoni](/especie/triturus_montandoni/), o
+      tritão-alpino, a rã-castanha e a víbora-comum.
+    visit: >-
+      A cartografia do parque indica 316 quilómetros de trilhos sinalizados e acessíveis. A administração
+      lista dez rotas temáticas, na sua maioria fáceis ou de dificuldade média; apenas algumas são exigentes,
+      com declives acentuados e chão pedregoso. O percurso The Flying Dragon é um passeio fácil de 1,25 km que
+      dura meia hora. O trajeto da lagoa Scropoasa por Cheile Zănoagei até Zănoaga soma 2,51 km, demora hora e
+      meia e é de grau médio. A rota pedagógica da turfeira de Lăptici atinge 0,56 km, consome quinze minutos
+      e é fácil. Em Lăptici existe um passadiço de madeira, solicitando os vigilantes o seu uso para evitar
+      pisar os tufos de esfagno sensíveis à compressão.
+
+
+      O centro de interpretação de Bușteni abre aos fins de semana de maio a outubro e encerra de novembro a
+      abril. O acesso rodoviário faz-se pela estrada nacional DN1 através de Comarnic, Sinaia, Azuga e
+      Bușteni. Em Prahova o parque estende-se pelos municípios de Azuga, Bușteni, Comarnic e Sinaia.
+    history: >-
+      O parque natural foi estabelecido em 1974 e classificado como área protegida por diploma legal de 6 de
+      março de 2000. Abrange no seu seio reservas como o Abruptul prahovean Bucegi e os Colții lui Barbeș. O
+      regulamento rege todas as atividades humanas no parque e nas zonas protegidas adjacentes. Entre os
+      monumentos históricos vizinhos sobressai o mosteiro de Sinaia, do século XVII, fundado pelo spătar Mihai
+      Cantacuzino.
+    before: >-
+      O guia de percursos temáticos agrupa itinerários de todo o maciço sem distinguir os da vertente
+      ocidental, pelo que deves consultar o mapa antes da marcha. Se visitares a região no inverno, lembra-te
+      de que o centro de interpretação de Bușteni encerra de novembro a abril.
+    around: >-
+      A cerca de 5 km, na mesma cadeia montanhosa, ergue-se o [Parque Nacional Piatra
+      Craiului](/lugar/parcul-national-piatra-craiului/), e a treze quilómetros as [Montanhas de
+      Iezer-Păpușa](/lugar/muntii-iezer-papusa/). As [Montanhas de Leaota](/lugar/muntii-leaota/) sobrepõem-se
+      parcialmente aos limites do parque.
+fuentes:
+  - url: https://map.bucegipark.ro/
+    titulo: Hartă Interactivă — Parcul Natural Bucegi
+    fecha_consulta: '2026-10-29'
+  - url: https://bucegipark.ro/ro/theme-trails
+    titulo: Trasee Tematice — Parcul Natural Bucegi
+    fecha_consulta: '2026-10-29'
+  - url: https://bucegipark.ro/en/announcements/theme-trail-restored-in-laptici-peatbog/
+    titulo: Theme trail restored in Lăptici Peatbog — Bucegi Natural Park
+    fecha_consulta: '2026-10-29'
+  - url: https://bucegipark.ro/ro/flora
+    titulo: Floră — Parcul Natural Bucegi
+    fecha_consulta: '2026-10-29'
+  - url: https://bucegipark.ro/ro/wildlife
+    titulo: Faună — Parcul Natural Bucegi
+    fecha_consulta: '2026-10-29'
+  - url: https://ro.wikipedia.org/wiki/Parcul_Natural_Bucegi
+    titulo: Parcul Natural Bucegi — Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.bucegipark.ro/ro/park-rules
+    titulo: Park rules — Bucegi
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Bucegi_Natural_Park
+    titulo: Bucegi Natural Park — Wikipedia
+    fecha_consulta: '2026-10-29'

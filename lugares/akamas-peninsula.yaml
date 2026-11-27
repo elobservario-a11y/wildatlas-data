@@ -1,0 +1,714 @@
+id: akamas-peninsula
+estado_editorial: valoracion-revisada
+nombre:
+  es: Península de Akamas
+  en: Akamas Peninsula
+  fr: Péninsule d'Akamas
+  de: Akamas-Halbinsel
+  it: Penisola di Akamas
+  pt: Península de Akamas
+nombre_original: Χερσόνησος Ακάμα
+alias:
+  - Akamas
+paises:
+  - CY
+region:
+  es: Chipre (Pafos — Polis / Latchi)
+  en: Cyprus (Paphos — Polis / Latchi)
+  fr: Chypre (Paphos — Polis / Latchi)
+  de: Zypern (Paphos — Polis / Latchi)
+  it: Cipro (Pafo — Polis / Latchi)
+  pt: Chipre (Pafos — Polis / Latchi)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 35.011
+  lon: 32.32
+  radio_km: 5
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555596186
+  nombre_en_la_fuente: Akamas (FD)
+  capa: capas/cdda/akamas-peninsula.geojson
+habitats:
+  - coast
+  - mediterranean_forest
+  - marine
+designaciones:
+  - natura2000
+especies:
+  - caretta_caretta
+  - chelonia_mydas
+  - monachus_monachus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: puesta de tortugas en verano
+  en: turtle nesting in summer
+  fr: ponte des tortues en été
+  de: Schildkröten-Eiablage im Sommer
+  it: deposizione delle tartarughe in estate
+  pt: desova de tartarugas no verão
+masificacion: 2
+masificacion_nota:
+  es: Alta en la Laguna Azul en verano
+  en: High around the Blue Lagoon in summer
+  fr: Forte autour du Blue Lagoon en été
+  de: Hoch an der Blauen Lagune im Sommer
+  it: Alta attorno alla Laguna Blu in estate
+  pt: Alta na Lagoa Azul no verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+enlaces_oficiales:
+  - titulo: Gestor — Departamento Forestal de Chipre
+    url: https://www.moa.gov.cy/moa/fd/fd.nsf
+  - titulo: Ruta — circuito Adonis en la península de Akamas
+    url: https://www.visitcyprus.com/discover-cyprus/rural/nature-trails/adonis-circular-pafos-paphos-district-akamas-forest-nature-trail-2/
+enlaces_referencia:
+  - titulo: 'Wikipedia: Akamas'
+    url: https://en.wikipedia.org/wiki/Akamas
+resumen:
+  es: >-
+    Matorral y bosque mediterráneo, gargantas y playas de puesta de tortuga verde y boba en el noroeste de
+    Chipre.
+  en: >-
+    Mediterranean scrub and woodland, rugged gorges, and vital nesting beaches for green and loggerhead sea
+    turtles in northwestern Cyprus.
+  fr: >-
+    Maquis et pinèdes méditerranéennes, gorges sauvages et plages de ponte de tortues vertes et caouannes dans
+    le nord-ouest de Chypre.
+  de: >-
+    Mediterrane Wälder, Garrigue, wilde Schluchten und bedeutende Eiablagestrände für Grüne Meeresschildkröte
+    und Unechte Karettschildkröte im Nordwesten Zyperns.
+  it: >-
+    Macchia e pinete mediterranee, gole selvagge e spiagge di deposizione per tartarughe verdi e comuni nel
+    nord-ovest di Cipro.
+  pt: >-
+    Mato e pinhais mediterrânicos, desfiladeiros bravios e praias de desova de tartaruga-verde e
+    tartaruga-comum no noroeste de Chipre.
+unico:
+  es: >-
+    En una misma península conviven plantas que solo existen en las gargantas de Akamas y playas donde ponen
+    sus huevos la [tortuga boba](/especie/caretta_caretta/) y la [tortuga verde](/especie/chelonia_mydas/).
+  en: >-
+    Brings together plants strictly endemic to the gorges of Akamas alongside pristine beaches where the
+    [loggerhead sea turtle](/especie/caretta_caretta/) and [green turtle](/especie/chelonia_mydas/) lay their
+    eggs.
+  fr: >-
+    Associe sur une même péninsule des plantes strictement endémiques des gorges d'Akamas et des plages
+    sableuses où la [tortue caouanne](/especie/caretta_caretta/) et la [tortue
+    verte](/especie/chelonia_mydas/) déposent leurs pontes.
+  de: >-
+    Vereint auf engstem Raum Schlucht-Endemiten der Akamas-Schluchten mit geschützten Naturstränden, an denen
+    [Unechte Karettschildkröte](/especie/caretta_caretta/) und [Grüne
+    Meeresschildkröte](/especie/chelonia_mydas/) ihre Eier ablegen.
+  it: >-
+    Accoglie su una sola penisola specie vegetali esclusive delle forre di Akamas e spiagge intatte dove la
+    [tartaruga comune](/especie/caretta_caretta/) e la [tartaruga verde](/especie/chelonia_mydas/) depongono
+    le loro uova.
+  pt: >-
+    Reúne numa mesma península endemismos florísticos estritos das gargantas de Akamas e praias arenosas onde
+    a [tartaruga-comum](/especie/caretta_caretta/) e a [tartaruga-verde](/especie/chelonia_mydas/) desovam.
+observaciones:
+  es: >-
+    Comprueba los accesos con el Departamento de Bosques: en octubre de 2026 la pista Aspros Potamos–Toxeftra
+    estaba cerrada. La información municipal describe una entrada desde Ineia, siguiendo las señales por
+    Pittokopos hacia la carretera costera Pegeia–Lara. Comprueba también la apertura de los centros y respeta
+    sobre el terreno la señalización de las playas y de los espacios de conservación. No conduzcas por la
+    arena ni plantes sombrilla en la reserva: ambas cosas están prohibidas.
+texto:
+  es:
+    intro: >-
+      Hasta el año 2000, en el extremo noroccidental de Chipre se oían los disparos del ejército británico,
+      que usaba la península de Akamas como zona de maniobras y campo de tiro. Pasado ese ruido, lo que ha
+      quedado a la vista es un mosaico: bosque mediterráneo, matorral bajo, gargantas, acantilados y playas
+      donde anidan las tortugas marinas. Con Pegeia al sur y Polis en el flanco nororiental, Akamas se recorre
+      de dentro afuera, de las plantas del interior a la arena donde, en verano, empieza la vida de las crías.
+    landscape: >-
+      Para entender Akamas hay que empezar por la roca, porque ella manda sobre todo lo demás. En el noroeste
+      predominan los complejos ofiolíticos y las formaciones volcánicas de lavas almohadilladas y
+      metabasaltos, con diabasas y serpentinas colándose como intrusiones. En otras partes cambia el decorado:
+      conglomerados pleistocenos y depósitos calcáreos en terrazas cubren buena parte de la península. De ahí
+      que el paisaje no se repita. Cambia el suelo y cambia lo que crece encima: bosque, matorral bajo,
+      acantilados y playas arenosas.
+
+
+      Los pinares de pino de Chipre se concentran casi exclusivamente en terrenos forestales públicos. En el
+      lado norte se abren las gargantas de Androlykou y Petratis. Y en la costa, detrás de las dunas primarias
+      de Lara, hay dunas estabilizadas, sujetas por lentisco y sabina. Todo ello lo suaviza la influencia del
+      clima marítimo sobre la vegetación mediterránea. No es un descubrimiento reciente: Ptolomeo ya describió
+      Akamas como un promontorio densamente arbolado.
+
+
+      Si quieres leer la península como un libro de piedra, en Pano Arodes está el centro de Geología y
+      Paleontología. Explica las rocas y los fósiles, el origen de Chipre y la geomorfología de Akamas, además
+      de las características sísmicas y la historia de las explotaciones minerales del área.
+    wildlife: >-
+      Aquí lo pequeño importa tanto como lo grande. De la flora endémica de Chipre, Akamas guarda una parte
+      notable: ciclámenes, el tulipán de Chipre, muchas orquídeas, el Alyssum akamasicum, que es endémico de
+      Akamas, y especies como Cyclamen cyprium, Gagea juliae o Gladiolus triphyllus. Entre las plantas de la
+      lista figuran también Centaurea veneris, Ophrys kotschyi y Tulipa cypria.
+
+
+      Una de ellas, Centaurea akamantis, vive en paredes calizas húmedas de las gargantas, dentro del bosque
+      estatal de Akamas y del espacio Natura 2000. Florece de mayo a noviembre y madura sus frutos de julio a
+      diciembre. Es una planta tan localizada que su futuro depende de que esas paredes sigan intactas:
+      obsérvala sin acercarte. En la ruta de Afrodita puedes conocer además Onosma fruticosa y la salvia
+      chipriota Phlomis cypria.
+
+
+      Entre los animales terrestres hay zorros y erizos, y se citan la curruca chipriota y el autillo
+      chipriota. Entre las especies vulnerables figuran los murciélagos, la [foca
+      monje](/especie/monachus_monachus/) y las tortugas marinas, y estas últimas son las grandes
+      protagonistas del verano.
+
+
+      En Lara, el calendario municipal sitúa la puesta de la tortuga boba entre finales de mayo y principios
+      de agosto. La tortuga verde empieza a anidar unas dos semanas después, y las crías eclosionan unas siete
+      semanas después de cada puesta. En la bahía de Lara los huevos se protegen en una zona de incubación.
+      Esa playa tiene enemigos discretos: los plásticos, la contaminación lumínica y acústica y la erosión.
+      Mantén la distancia y sigue las indicaciones de protección.
+    visit: >-
+      El punto de partida natural son los Baños de Afrodita, cerca de Polis, donde la tradición sitúa los
+      baños de la diosa. De allí sale el circuito de Afrodita, de 7,5 kilómetros. Junto a ellos, el jardín
+      botánico del Departamento de Bosques presenta las plantas y los hábitats de Akamas a pequeña escala, con
+      senderos, estanques y hábitats naturales conservados. Es una buena forma de aprender qué mirar antes de
+      lanzarte al monte.
+
+
+      Si prefieres caminatas más cortas, Smigies ofrece un circuito de 2,5 kilómetros y otro de 6, y desde la
+      misma área Pissouromoutti recorre 3 kilómetros.
+
+
+      Para las tortugas, Ineia es el sitio. Allí funciona desde 2023 el Museo Innia–Lara, dedicado a las
+      tortugas marinas, y un centro educativo con programas escolares y aprendizaje digital. El centro de
+      información de la ruta temática de Afrodita, frente a la capilla de Archangelos Michail, facilita mapas
+      y audiovisuales (no es el mismo circuito que el de los Baños de Afrodita). Y en Ammoudi, la bahía norte
+      de Lara, hay un centro del Departamento de Pesca dedicado a la protección de las tortugas; sus dunas,
+      formadas por el viento y el agua, se mantienen sujetas por arbustos.
+    history: >-
+      Tras los años de campo de tiro, hoy dos playas de puesta son Lugares de Importancia Comunitaria y la
+      península es ZEPA. La protección, sin embargo, es menos amplia de lo que se propuso: de la superficie
+      terrestre propuesta en 2003 para Natura 2000, el gobierno solo designó el 50 % en 2009.
+
+
+      Las amenazas no han desaparecido. El desarrollo turístico y la autopista A7 prevista entre Polis y Pafos
+      presionan el área, y la circulación no autorizada degrada la franja de dunas primarias de Toxeftra. Por
+      eso el folleto oficial de Lara–Toxeftra prohíbe conducir vehículos por las playas, y el de la reserva de
+      Lara prohíbe colocar tumbonas y sombrillas.
+    before: >-
+      Comprueba los accesos con el Departamento de Bosques: en octubre de 2026 la pista Aspros
+      Potamos–Toxeftra estaba cerrada. La información municipal describe una entrada desde Ineia, siguiendo
+      las señales por Pittokopos hacia la carretera costera Pegeia–Lara. Comprueba también la apertura de los
+      centros y respeta sobre el terreno la señalización de las playas y de los espacios de conservación. No
+      conduzcas por la arena ni plantes sombrilla en la reserva: ambas cosas están prohibidas.
+    around: >-
+      Akamas no tiene vecinos cercanos en el atlas, pero sí parientes lejanos. El [Parque Nacional Marino de
+      Zakynthos (Zante)](/lugar/zakynthos-national-marine-park/) comparte con él la tortuga boba y la foca
+      monje, y los dos son espacios de costa y mar. La [Meseta Kárstica y Acantilados de La
+      Mola](/lugar/la-mola-formentera/) también comparte la tortuga boba, y la [Reserva Natural Marina de
+      Rocha do Navio](/lugar/reserva-natural-da-rocha-do-navio/) la foca monje. Con el [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) coincide en el lentisco y la sabina de las costas.
+  en:
+    intro: >-
+      Until the year 2000, gunfire from the British armed forces frequently echoed across the northwestern tip
+      of Cyprus, where the Akamas Peninsula served as an active military training and firing range. With that
+      turmoil subsided, what stands revealed is a pristine mosaic: dense pine groves, arid garrigue, limestone
+      ravines, sea cliffs, and secluded coves where marine turtles nest. Bordered by Pegeia to the south and
+      Polis to the northeast, Akamas unfolds from the inside out: from ancient botanical refuges down to
+      golden sandspits where, each summer, new turtle hatchlings begin life.
+    landscape: >-
+      To grasp Akamas one must begin with its bedrock, which dictates every habitat. The northwest is
+      dominated by ophiolitic complexes and volcanic pillow lavas mingled with metabasalts, diabases, and
+      serpentine intrusions. Elsewhere the geological palette shifts: Pleistocene marine conglomerates and
+      stepped calcarenite terraces cover much of the plateau. Soil conditions dictate the vegetation mantle:
+      Aleppo and Calabrian pine woods, garrigue scrub, coastal scarps, and sandy coves.
+
+
+      Stands of Turkish pine (*Pinus brutia*) occur almost exclusively on state forest land. On the northern
+      flanks yawn the impressive defiles of Androlykou and Petratis. Along the coast behind the embryonic
+      foredunes of Lara, stabilised fossil dunes are anchored by mastic bushes and Phoenician juniper.
+      Maritime air tempers the Mediterranean aridity. This fertility is ancient knowledge: Ptolemy described
+      Akamas as a densely wooded headland.
+
+
+      To read the peninsula like a stone archive, visit the Geology and Paleontology Information Centre in
+      Pano Arodes. It interprets regional strata, fossil assemblages, Cyprus's tectonic emergence,
+      geomorphology, seismicity, and the history of copper mining.
+    wildlife: >-
+      Endemic micro-flora rivals charismatic megafauna in significance. Akamas safeguards an extraordinary
+      share of Cyprus's endemic plants: wild cyclamens, the Cyprus tulip, rare terrestrial orchids, the
+      exclusive local endemic Alyssum akamasicum, alongside Cyclamen cyprium, Gagea juliae, and Gladiolus
+      triphyllus. Species of special conservation interest include Centaurea veneris, Ophrys kotschyi, and
+      Tulipa cypria.
+
+
+      Among them, Centaurea akamantis clings exclusively to damp, shaded limestone gorge walls within the
+      Akamas State Forest and Natura 2000 site. It flowers from May to November and fruits from July to
+      December. Its existence relies entirely on these cliff faces remaining pristine: observe it from trails
+      without disturbing the rock. Along the Aphrodite Trail look out for Onosma fruticosa and Cyprus sage
+      (*Phlomis cypria*).
+
+
+      Terrestrial fauna includes red fox and long-eared hedgehog, alongside the Cyprus warbler and Cyprus
+      scops owl. Vulnerable species feature cave-roosting bats, the [Mediterranean monk
+      seal](/especie/monachus_monachus/), and marine turtles—the stars of the summer season.
+
+
+      At Lara, municipal monitoring tracks loggerhead sea turtle nesting between late May and early August.
+      Green turtles begin depositing clutches roughly two weeks later, with hatchlings emerging approximately
+      seven weeks after laying. In Lara Bay clutches are protected within a wire-cage hatchery. The dunes face
+      stealthy pressures: marine plastics, light and acoustic disturbance, and beach erosion. Keep your
+      distance and respect protective measures.
+    visit: >-
+      The natural springboard is the Baths of Aphrodite near Polis, where mythological lore situates the
+      goddess's pool. The 7.5-kilometer Aphrodite Trail begins here. Adjacent to the spring, the Department of
+      Forests botanical garden showcases regional habitats in miniature, with nature paths, aquatic pools, and
+      preserved scrub. It serves as an informative orientation point before setting out onto open trails.
+
+
+      For shorter loops, Smigies features a 2.5-kilometer trail and a 6-kilometer route, while Pissouromoutti
+      spans 3 kilometers from the same recreation site.
+
+
+      For turtle education, head to Ineia. Since 2023 the village has hosted the Innia–Lara Turtle Museum,
+      dedicated to chelonian ecology, alongside an environmental education centre offering digital exhibits.
+      The Aphrodite Cultural Route information point, facing Archangelos Michail chapel, supplies orientation
+      maps and multimedia (distinct from the Baths trail). At Ammoudi, in northern Lara Bay, the Department of
+      Fisheries operates a research station dedicated to turtle preservation amid wind-sculpted sand dunes.
+    history: >-
+      Following its military firing range era, two prime nesting beaches were designated as Sites of Community
+      Importance and the peninsula became a Special Protection Area. Protection remains narrower than
+      proposed: of the terrestrial surface nominated in 2003 for Natura 2000, authorities formally designated
+      barely 50 % in 2009.
+
+
+      Threats persist: commercial tourism expansion and the planned A7 motorway between Polis and Paphos
+      generate heavy encroachment, while unauthorised off-road driving damages coastal foredunes at Toxeftra.
+      Consequently, official regulations at Lara–Toxeftra ban motor vehicles from beaches, and the Lara Nature
+      Reserve prohibits beach umbrellas and sunbeds.
+    before: >-
+      Check trail accessibility with the Department of Forests before setting out: in October 2026 the Aspros
+      Potamos–Toxeftra track was closed. Municipal signage directs access from Ineia via Pittokopos to the
+      Pegeia–Lara coastal road. Check centre operating hours and obey beach sanctuary notices: driving on sand
+      and planting beach umbrellas are strictly forbidden.
+    around: >-
+      Akamas has no immediate neighbors in the atlas, but several distant parallels. [Zakynthos National
+      Marine Park](/lugar/zakynthos-national-marine-park/) shares loggerhead turtles and Mediterranean monk
+      seals across marine habitats. The [Meseta Kárstica y Acantilados de La Mola](/lugar/la-mola-formentera/)
+      also shares loggerheads, while the [Reserva Natural Marina de Rocha do
+      Navio](/lugar/reserva-natural-da-rocha-do-navio/) shelters monk seals. With [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) it shares coastal mastic and juniper scrub.
+  fr:
+    intro: >-
+      Jusqu'en l'an 2000, l'extrémité nord-ouest de Chypre résonnait des tirs de l'armée britannique, qui
+      exploitait la péninsule d'Akamas comme champ de manœuvre et de tir. Une fois ce fracas dissipé, le
+      paysage révèle une mosaïque remarquable : pinèdes méditerranéennes, garrigues rases, gorges escarpées,
+      falaises vives et criques de sable où nichent les tortues marines. Encadrée par Pegeia au sud et Polis
+      au nord-est, Akamas se découvre de l'intérieur vers le littoral : des sanctuaires floraux des hauteurs
+      jusqu'aux sables où, chaque été, s'éveillent les nouveau-nés.
+    landscape: >-
+      Pour appréhender Akamas, il convient d'interroger sa géologie. Le nord-ouest est dominé par des
+      complexes ophiolitiques et des laves en coussins métamorphisées, sillonnées d'intrusions de diabases et
+      de serpentines. Ailleurs le tableau se métamorphose : conglomérats pléistocènes et terrasses de
+      calcarénites sculptées d'étagements recouvrent de vastes plateaux. De là découle la diversité des
+      biotopes : forêts de pins, maquis à genévriers, corniches rocheuses et anses de sable blond.
+
+
+      Les peuplements de pin de Calabre se concentrent presque exclusivement sur les terres domaniales. Sur le
+      versant septentrional s'ouvrent les gorges sauvages d'Androlykou et de Petratis. En front de mer, en
+      retrait des cordons dunaires embryonnaires de Lara, des dunes fossiles stabilisées sont fixées par le
+      lentisque et le genévrier de Phénicie. La brise marine adoucit l'ambiance méditerranéenne. Cette
+      richesse est millénaire : Ptolémée qualifiait déjà Akamas de promontoire densément boisé.
+
+
+      Pour déchiffrer la péninsule, le centre d'information de géologie et de paléontologie de Pano Arodes
+      présente les roches, les fossiles, l'orogenèse chypriote, la géomorphologie locale, ainsi que les
+      risques sismiques et l'histoire minière du cuivre.
+    wildlife: >-
+      La flore endémique rivalise ici avec les espèces marines emblématiques. Akamas héberge un patrimoine
+      botanique exceptionnel : cyclamens, tulipe de Chypre, nombreuses orchidées sauvages, l'alysson d'Akamas
+      (*Alyssum akamasicum*), endémique strict de la péninsule, aux côtés de Cyclamen cyprium, Gagea juliae et
+      Gladiolus triphyllus. Figurent également sur les listes de protection Centaurea veneris, Ophrys kotschyi
+      et Tulipa cypria.
+
+
+      Parmi elles, la centaurée d'Akamas (*Centaurea akamantis*) vit suspendue aux falaises calcaires humides
+      et ombragées des gorges, au sein de la forêt domaniale d'Akamas et du site Natura 2000. Elle fleurit de
+      mai à novembre et fructifie de juillet à décembre. Sa pérennité dépendant de l'intégrité de ces parois,
+      il convient de l'observer sans s'approcher des à-pics. Le sentier d'Aphrodite permet aussi d'observer
+      l'orcanette arbustive et la sauge de Chypre (*Phlomis cypria*).
+
+
+      Parmi la faune terrestre s'observent le renard roux, le hérisson oreillard, la fauvette de Chypre et le
+      petit-duc de Chypre. Les espèces vulnérables comptent des chauves-souris cavernicoles, le [phoque moine
+      de Méditerranée](/especie/monachus_monachus/) et les tortues marines, reines incontestées de la saison
+      estivale.
+
+
+      À Lara, le calendrier municipal observe les pontes de tortues caouannes entre fin mai et début août. Les
+      tortues vertes entament leur nidification environ deux semaines plus tard, et les éclosions surviennent
+      environ sept semaines après la ponte. Dans la baie de Lara, les nids sont protégés sous des cages
+      grillagées. Le littoral subit toutefois des pressions insidieuses : déchets plastiques, pollution
+      lumineuse, bruit et érosion dunaire. Restez à distance et respectez scrupuleusement les consignes de
+      sauvegarde.
+    visit: >-
+      Le point d'accès naturel se situe aux Bains d'Aphrodite près de Polis, où la tradition situe la source
+      sacrée de la déesse. De là s'élance le circuit d'Aphrodite, long de 7,5 kilomètres. À proximité
+      immédiate, le jardin botanique du Département des forêts présente la flore et les écosystèmes d'Akamas à
+      échelle réduite, avec sentiers, mares et fourrés indigènes préservés. C'est une excellente étape
+      d'initiation avant de s'aventurer sur les sentiers de crête.
+
+
+      Pour des marches plus courtes, Smigies propose une boucle de 2,5 kilomètres et une autre de 6
+      kilomètres, tandis que depuis la même aire Pissouromoutti propose une boucle de 3 kilomètres.
+
+
+      Pour comprendre les tortues, Ineia constitue l'étape incontournable. Depuis 2023 y est installé le musée
+      Innia–Lara consacré aux tortues marines, complété par un centre pédagogique doté d'outils numériques. Le
+      point d'information de la route culturelle d'Aphrodite, face à la chapelle Archangelos Michail, fournit
+      cartes et projections (distinct du circuit des Bains d'Aphrodite). À Ammoudi, au nord de Lara, une
+      station du Département des pêches veille sur la reproduction des tortues au milieu de dunes fixées par
+      les buissons.
+    history: >-
+      Après les décennies de servitude militaire, deux plages de ponte majeures ont été classées sites
+      d'importance communautaire et la péninsule érigée en zone de protection spéciale. La protection demeure
+      cependant plus restreinte que les projets initiaux : des zones terrestres proposées en 2003 pour
+      intégrer Natura 2000, le gouvernement n'a retenu que 50 % en 2009.
+
+
+      Les pressions n'ont pas faibli : le développement touristique et le projet d'autoroute A7 reliant Polis
+      à Paphos menacent l'arrière-pays, tandis que les véhicules tout-terrain dégradent les dunes de Toxeftra.
+      Les arrêtés municipaux de Lara–Toxeftra interdisent donc la circulation motorisée sur le sable, et la
+      réserve naturelle de Lara proscrit parasols et chaises longues.
+    before: >-
+      Renseignez-vous auprès du Département des forêts sur l'état des pistes : en octobre 2026 la liaison
+      Aspros Potamos–Toxeftra était fermée. Les panneaux municipaux recommandent l'accès par Ineia via
+      Pittokopos vers la route côtière Pegeia–Lara. Vérifiez l'ouverture des musées et observez les
+      interdictions : rouler sur le sable ou planter un parasol dans la réserve sont formellement prohibés.
+    around: >-
+      Akamas ne possède pas de voisin contigu dans l'atlas, mais des analogies manifestes. Le [Parque Nacional
+      Marino de Zakynthos (Zante)](/lugar/zakynthos-national-marine-park/) partage la tortue caouanne et le
+      phoque moine en milieu littoral. La [Meseta Kárstica y Acantilados de La
+      Mola](/lugar/la-mola-formentera/) partage également la tortue caouanne, et la [Reserva Natural Marina de
+      Rocha do Navio](/lugar/reserva-natural-da-rocha-do-navio/) le phoque moine. Avec le [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) il partage les maquis côtiers à lentisque et genévrier.
+  de:
+    intro: >-
+      Bis zum Jahr 2000 hallten Geschützfeuer der britischen Streitkräfte über die Nordwestspitze Zyperns, wo
+      die Akamas-Halbinsel als Militärübungsgelände und Schießplatz diente. Nach dem Ende der Manöver trat
+      eine unberührte Naturlandschaft zutage: Kiefernwälder, Zwergstrauchheiden, Felsenschluchten, Kliffs und
+      Sandstrände, an denen Meeresschildkröten nisten. Begrenzt von Pegeia im Süden und Polis im Nordosten,
+      erschließt sich Akamas vom Landesinneren zur Küste: von verborgenen Schluchtbiotopen hinunter zum
+      Ufersand, wo im Sommer das Leben der Schlüpflinge beginnt.
+    landscape: >-
+      Wer Akamas verstehen will, muss bei den Gesteinen ansetzen, die jedes Habitat bestimmen. Im Nordwesten
+      dominieren ophiolithische Komplexe und Kissenlaven vergesellschaftet mit Metabasalten, Diabasen und
+      Serpentinit-Gängen. Andernorts wechselt das Bild: Pleistozäne Konglomerate und gestufte
+      Kalkarenit-Terrassen prägen weite Hochflächen. Daraus resultiert der Facettenreichtum: Kalabrische
+      Kiefernwälder, dornige Garrigue, Klippen und einsame Buchten.
+
+
+      Die Bestände der Kalabrischen Kiefer (*Pinus brutia*) wachsen fast ausschließlich in staatlichen
+      Forstgebieten. Im Norden schneiden die tiefen Schluchten von Androlykou und Petratis ein. An der Küste
+      hinter den Vordünen von Lara sind fossile Wanderdünen durch Mastixsträucher und Phönizischen Wacholder
+      verankert. Die Meeresbrise mildert das trockene Mittelmeerklima. Schon in der Antike rühmte Ptolemäus
+      Akamas als dicht bewaldetes Vorgebirge.
+
+
+      Wer die Geologie der Halbinsel erkunden möchte, findet im Informationszentrum für Geologie und
+      Paläontologie in Pano Arodes Schautafeln zu Mineralien, Fossilien, Zyperns Plattentektonik,
+      Geomorphologie und zur Geschichte des Kupfererzabbaus.
+    wildlife: >-
+      Die endemische Flora ist von herausragender Bedeutung. Akamas beherbergt einen bedeutenden Teil der
+      zyprischen Endemiten: Alpenveilchen, Zypern-Tulpe, zahlreiche wilde Orchideenarten, das streng an Akamas
+      gebundene Steinkraut *Alyssum akamasicum*, sowie Cyclamen cyprium, Gagea juliae und Gladiolus
+      triphyllus. Weitere floristische Kostbarkeiten sind Centaurea veneris, Ophrys kotschyi und Tulipa
+      cypria.
+
+
+      Eine besondere Rarität, *Centaurea akamantis*, wächst ausschließlich an feuchten, schattigen Kalkfelsen
+      der Schluchten im Staatsforst Akamas und dem Natura-2000-Gebiet. Sie blüht von Mai bis November und
+      fruchtet von Juli bis Dezember. Da ihr Fortbestand von unversehrten Felswänden abhängt, sollte sie nur
+      vom Weg aus betrachtet werden. Entlang des Aphrodite-Wegs lassen sich zudem Strauchige Lotwurz und
+      Zypern-Brandkraut beobachten.
+
+
+      Zur Landfauna zählen Rotfuchs und Weißbauchigel sowie Zyperngrasmücke und Zypernzwergohreule. Zu den
+      bedrohten Arten gehören Höhlenfledermäuse, die [Mittelmeer-Mönchsrobbe](/especie/monachus_monachus/) und
+      die Meeresschildkröten als Leitarten des Sommers.
+
+
+      In Lara dokumentieren Fachleute die Eiablage der Unechten Karettschildkröte zwischen Ende Mai und Anfang
+      August. Die Grüne Meeresschildkröte folgt etwa zwei Wochen später, und die Jungtiere schlüpfen rund
+      sieben Wochen nach der Eiablage. In der Lara-Bucht werden Gelege in einer Drahtkäfig-Schutzzone bewacht.
+      Gefahren drohen durch Plastikmüll, Licht- und Lärmbelastung sowie Stranderosion. Halte Abstand und
+      beachte Schutzregeln.
+    visit: >-
+      Natürlicher Ausgangspunkt sind die Bäder der Aphrodite bei Polis, wo der Mythos die Badestätte der
+      Göttin verortet. Hier beginnt der 7,5 Kilometer lange Aphrodite-Rundweg. Direkt daneben zeigt der
+      Botanische Garten der Forstverwaltung Pflanzen und Lebensräume von Akamas im Kleinformat mit
+      Spazierwegen, Teichen und mediterranen Gehölzen. Eine ideale Vorbereitung vor Bergtouren.
+
+
+      Für kürzere Wanderungen bieten sich bei Smigies ein 2,5-Kilometer-Rundweg und eine 6-Kilometer-Schleife
+      an, während Pissouromoutti vom selben Rastplatz über 3 Kilometer führt.
+
+
+      Für Informationen zu Meeresschildkröten empfiehlt sich Ineia: Seit 2023 informiert dort das
+      Innia–Lara-Schildkrötenmuseum mit digitalem Umweltzentrum. Die Infostelle der Aphrodite-Themenroute
+      gegenüber der Kapelle Archangelos Michail hält Karten bereit (nicht identisch mit dem Wanderweg an den
+      Bädern). In Ammoudi an der Nordbucht von Lara unterhält das Fischereiamt eine Forschungs- und
+      Schutzstation in den buschbewachsenen Sanddünen.
+    history: >-
+      Nach der militärischen Nutzung wurden zwei Hauptniststrände als Gebiete von gemeinschaftlicher Bedeutung
+      ausgewiesen und die Halbinsel zum Vogelschutzgebiet erklärt. Der Flächenschutz blieb jedoch hinter den
+      Empfehlungen zurück: Von den 2003 für Natura 2000 vorgeschlagenen Landflächen wies die Regierung
+      lediglich 50 % im Jahr 2009 aus.
+
+
+      Die Gefahren dauern an: Tourismusprojekte und die geplante Autobahn A7 zwischen Polis und Paphos erhöhen
+      den Nutzungsdruck, während illegale Geländefahrten die Vordünen bei Toxeftra schädigen. Die offizielle
+      Strandordnung von Lara–Toxeftra verbietet das Befahren mit Fahrzeugen, und im Naturschutzgebiet Lara
+      sind Sonnenschirme und Liegen untersagt.
+    before: >-
+      Erkundige dich beim Forstamt nach dem Pistenzustand: Im Oktober 2026 war die Piste Aspros
+      Potamos–Toxeftra gesperrt. Zufahrten sind von Ineia über Pittokopos zur Küstenstraße Pegeia–Lara
+      ausgeschildert. Öffnungszeiten beachten und Schutzbestimmungen einhalten: Strandfahrten und das
+      Aufstellen von Sonnenschirmen sind verboten.
+    around: >-
+      Akamas besitzt keine direkten Nachbarn im Atlas, jedoch bemerkenswerte Parallelen. Der [Zakynthos
+      National Marine Park](/lugar/zakynthos-national-marine-park/) teilt Unechte Karettschildkröte und
+      Mönchsrobbe im Meeresraum. Die [Meseta Kárstica y Acantilados de La Mola](/lugar/la-mola-formentera/)
+      teilt ebenfalls die Karettschildkröte, während die [Reserva Natural Marina de Rocha do
+      Navio](/lugar/reserva-natural-da-rocha-do-navio/) Mönchsrobben beherbergt. Mit dem [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) stimmen Küstenheiden aus Mastix und Wacholder überein.
+  it:
+    intro: >-
+      Fino all'anno 2000 l'estremo settore nord-occidentale di Cipro rimbombava dei colpi dell'esercito
+      britannico, che sfruttava la penisola di Akamas come poligono di tiro e campo per esercitazioni
+      militari. Cessate le manovre belliche, si è svelato un mosaico integro: boschi di conifere, garighe,
+      forre calcaree, falesie e lidi sabbiosi dove nidificano le tartarughe marine. Racchiusa da Pegeia a sud
+      e da Polis a nord-est, Akamas si svela dall'interno verso il litorale: dai rifugi botanici delle gole
+      sino ai lidi dove in estate prende forma la vita dei piccoli.
+    landscape: >-
+      Per comprendere Akamas occorre esaminare il substrato roccioso, arbitro di ogni assetto biologico. Nel
+      quadrante nord-occidentale prevalgono complessi ofiolitici e lave a cuscino metamorfosate associate a
+      metabasalti, diabasi e intrusioni serpentinitiche. Verso l'interno lo scenario muta: conglomerati
+      pleistocenici e gradonate calcarenitiche ammantano gli altipiani. Ne scaturisce una variegata
+      alternanza: pinete di pino bruzio, boscaglie a ginepro, precipizi e cale sabbiose.
+
+
+      I boschi di pino calabro (*Pinus brutia*) vegetano quasi unicamente all'interno del demanio forestale
+      statale. Sul versante nord si aprono le suggestive gole di Androlykou e Petratis. Sulla fascia costiera,
+      alle spalle delle dune primarie di Lara, cordoni dunari fossili sono consolidati da lentisco e ginepro
+      fenicio. Le brezze marine stemperano l'aridità estiva. Si tratta di una ricchezza nota sin
+      dall'antichità: Tolomeo descriveva Akamas come un promontorio fitto di selve.
+
+
+      Per leggere la penisola come un libro geologico, a Pano Arodes merita una sosta il centro informativo di
+      geologia e paleontologia. Illustra minerali, fossili, l'orogenesi di Cipro, la geomorfologia locale, il
+      profilo sismico e l'antica estrazione del rame.
+    wildlife: >-
+      La flora endemica vanta una rilevanza non inferiore alla fauna marina. Akamas ospita una quota
+      straordinaria di endemismi botanici ciprioti: ciclamini, il tulipano di Cipro, orchidee selvatiche e
+      l'alissum di Akamas (*Alyssum akamasicum*), endemismo puntiforme della penisola, affiancati da Cyclamen
+      cyprium, Gagea juliae e Gladiolus triphyllus. Tra le rarità spiccano inoltre Centaurea veneris, Ophrys
+      kotschyi e Tulipa cypria.
+
+
+      Tra queste, la centaurea di Akamas (*Centaurea akamantis*) vegeta esclusivamente abbarbicata alle umide
+      pareti calcaree delle gole all'interno della foresta demaniale e del sito Natura 2000. Fiorisce da
+      maggio a novembre e matura i semi da luglio a dicembre. Dipendendo strettamente dall'integrità di queste
+      balze, va osservata a distanza senza calpestare la roccia. Lungo il sentiero di Afrodite si notano anche
+      l'onòsma arbustiva e il salvione cipriota (*Phlomis cypria*).
+
+
+      Tra gli animali terrestri compaiono la volpe, il riccio orientale, la silvia di Cipro e l'assiolo
+      cipriota. Le specie più vulnerabili comprendono chirotteri cavernicoli, la [foca
+      monaca](/especie/monachus_monachus/) e le tartarughe marine, protagoniste indiscusse della bella
+      stagione.
+
+
+      A Lara il calendario municipale registra la deposizione delle uova di tartaruga comune tra fine maggio e
+      inizio agosto. La tartaruga verde avvia i nidi circa due settimane dopo, con le schiuse che
+      sopraggiungono circa sette settimane dopo la deposizione. Nella baia di Lara le covate sono protette in
+      gabbie metalliche contro i predatori. La spiaggia deve fronteggiare insidie diffuse: plastiche marine,
+      inquinamento acustico e luminoso ed erosione. Mantieni le distanze e rispetta le norme di tutela.
+    visit: >-
+      Il recapito ideale d'ingresso sono i Bagni di Afrodite presso Polis, dove la leggenda colloca le
+      abluzioni della dea. Da qui muove l'anello di Afrodite, lungo 7,5 chilometri. Accanto alla sorgente,
+      l'orto botanico del Dipartimento Forestale illustra la vegetazione di Akamas con sentieri didattici,
+      specchi d'acqua e macchia spontanea. È un'ottima introduzione prima delle salite.
+
+
+      Per itinerari più brevi, Smigies prevede un circuito di 2,5 chilometri e uno di 6 chilometri, mentre
+      dalla medesima area sosta Pissouromoutti si snoda per 3 chilometri.
+
+
+      Per approfondire le tartarughe, la meta è Ineia. Dal 2023 il borgo accoglie il Museo Innia–Lara dedicato
+      ai cheloni marini, affiancato da un centro didattico digitale. Il punto informativo dell'itinerario
+      culturale di Afrodite, di fronte alla cappella di Archangelos Michail, fornisce carte e documentari
+      (separato dal sentiero escursionistico dei Bagni). Ad Ammoudi, cala a nord di Lara, il Dipartimento
+      della Pesca presidia una stazione di ricerca tra dune sabbiose modellate dai venti.
+    history: >-
+      Dismesso il poligono militare, due spiagge principali di deposizione sono state istituite come Siti di
+      Interesse Comunitario e la penisola elevata a Zona di Protezione Speciale. La tutela copre tuttavia una
+      superficie inferiore a quella auspicata: delle aree terrestri proposte nel 2003 per Natura 2000, il
+      governo ne ha formalmente designato appena il 50 % nel 2009.
+
+
+      Le minacce persistono: lo sviluppo alberghiero e la progettata autostrada A7 tra Polis e Pafo esercitano
+      pressioni sull'entroterra, mentre i fuoristrada abusivi danneggiano le dune primarie a Toxeftra. Per
+      questo l'ordinanza ufficiale di Lara–Toxeftra vieta il transito di veicoli sulla spiaggia e l'oasi di
+      Lara proibisce sdraio e ombrelloni.
+    before: >-
+      Verifica lo stato delle piste con il Dipartimento Forestale: nell'ottobre 2026 il tracciato Aspros
+      Potamos–Toxeftra era interdetto al transito. L'accesso è segnalato dal borgo di Ineia attraverso
+      Pittokopos verso la litoranea Pegeia–Lara. Verifica gli orari dei musei e attieniti ai divieti: guidare
+      sulla sabbia e piantare ombrelloni nella riserva sono azioni tassativamente vietate.
+    around: >-
+      Akamas non possiede vicini a ridosso nell'atlante, ma svariate affinità a lungo raggio. Il [Zakynthos
+      National Marine Park](/lugar/zakynthos-national-marine-park/) tutela tartarughe comuni e foche monache
+      in ambiente marino. La [Meseta Kárstica y Acantilados de La Mola](/lugar/la-mola-formentera/) condivide
+      la tartaruga marina, e la [Reserva Natural Marina de Rocha do
+      Navio](/lugar/reserva-natural-da-rocha-do-navio/) la foca monaca. Con il [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) concorda per le garighe litoranee a lentisco e ginepro.
+  pt:
+    intro: >-
+      Até ao ano 2000, o extremo noroeste de Chipre ecoava disparos do exército britânico, que utilizava a
+      península de Akamas como campo de manobras e carreiras de tiro. Cessado o ruído bélico, revelou-se um
+      mosaico virgem: pinhais mediterrânicos, charnecas rasteiras, gargantas, arribas e enseadas de areia onde
+      desovam as tartarugas marinhas. Delimitada por Pegeia a sul e Polis a nordeste, Akamas percorre-se do
+      interior até à costa: dos redutos botânicos dos barrancos até ao areal onde, no verão, desponta a vida
+      das pequenas crias.
+    landscape: >-
+      Para interpretar Akamas importa começar pela rocha, matriz de todo o mosaico biológico. No noroeste
+      sobressaem complexos ofiolíticos e lavas em almofada associadas a metabasaltos, com intrusões de diábase
+      e serpentinitos. Noutros setores o cenário transmuta-se: conglomerados plistocénicos e bancadas
+      calcárias terraceadas cobrem grande parte do planalto. Daí resulta uma notável variedade: pinhais de
+      pinheiro-de-chipre, matagais baixos, escarpas litorais e praias arenosas.
+
+
+      Os povoamentos de pinheiro-da-calábria concentram-se quase exclusivamente no perímetro florestal
+      público. Na vertente setentrional rasgam-se as impressionantes gargantas de Androlykou e Petratis. Junto
+      à orla costeira, a tardoz das dunas primárias de Lara, dunas estabilizadas encontram-se fixadas por
+      aroeira e sabina-da-praia. A brisa marítima ameniza o clima mediterrânico. Trata-se de um património
+      ancestral: já Ptolomeu descrevia Akamas como um promontório densamente arborizado.
+
+
+      Para explorar a geologia peninsular, o centro de informação geológica e paleontológica de Pano Arodes
+      expõe amostras de rochas, fósseis, a formação tectónica de Chipre, a geomorfologia e o passado da
+      mineração de cobre.
+    wildlife: >-
+      A flora endémica apresenta um valor tão excecional quanto a megafauna marinha. Akamas concentra uma
+      parcela marcante dos endemismos vegetais de Chipre: ciclames, a tulipa-de-chipre, diversas orquídeas
+      raras e o Alyssum akamasicum, exclusivo da península, a par de Cyclamen cyprium, Gagea juliae e
+      Gladiolus triphyllus. Das listas botânicas constam ainda Centaurea veneris, Ophrys kotschyi e Tulipa
+      cypria.
+
+
+      Entre elas, a Centaurea akamantis habita apenas fendas em paredes calcárias húmidas nas gargantas, sob a
+      Mata Estatal de Akamas e o sítio Natura 2000. Floresce de maio a novembro e matura os frutos entre julho
+      e dezembro. A sua sobrevivência depende da conservação intocada destas escarpas: contempla-a dos trilhos
+      sem tocar na rocha. No trilho de Afrodite assinalam-se também a Onosma fruticosa e o salvião-do-chipre
+      (*Phlomis cypria*).
+
+
+      A fauna terrestre congrega a raposa, o ouriço-orelhudo, a toutinegra-do-chipre e o
+      mocho-d'orelhas-do-chipre. Entre as espécies vulneráveis contam-se morcegos cavernícolas, a
+      [foca-monge-do-mediterrâneo](/especie/monachus_monachus/) e as tartarugas marinhas, símbolos do estio.
+
+
+      Em Lara, o calendário municipal regista as posturas da tartaruga-comum entre o final de maio e o início
+      de agosto. A tartaruga-verde principia as desovas cerca de duas semanas mais tarde, eclodindo as crias
+      cerca de sete semanas após a postura. Na baía de Lara os ninhos são salvaguardados em viveiros aramados.
+      A praia sofre pressões difusas: detritos plásticos, poluição luminosa e sonora e erosão marinha. Mantém
+      a distância e acata as normas de conservação.
+    visit: >-
+      O ponto de partida predileto são os Banhos de Afrodite perto de Polis, onde o mito localiza as termas da
+      deusa. Daqui arranca o percurso pedestre de Afrodite, com 7,5 quilómetros. Junto à nascente, o jardim
+      botânico dos Serviços Florestais ilustra a flora e os habitats em escala reduzida, com veredas, lagoas e
+      matas nativas. Constitui uma paragem didática ideal antes de rumar aos trilhos.
+
+
+      Para caminhadas curtas, Smigies oferece um trilho de 2,5 quilómetros e outro de 6 quilómetros, ao passo
+      que a partir da mesma zona de merendas Pissouromoutti desenha 3 quilómetros.
+
+
+      Para descobrir as tartarugas, o destino é Ineia. Desde 2023 funciona na localidade o Museu Innia–Lara,
+      dedicado aos répteis marinhos, acompanhado por um centro pedagógico multimédia. O posto informativo da
+      rota temática de Afrodite, em frente à capela de Archangelos Michail, fornece cartografia e audiovisuais
+      (distinto do trilho dos Banhos). Em Ammoudi, enseada norte de Lara, o Departamento de Pescas opera uma
+      estação de proteção e investigação nas dunas arenosas.
+    history: >-
+      Concluído o período de uso militar, dois areais chave de desova foram classificados como Sítios de
+      Importância Comunitária e a península decretada Zona de Proteção Especial. A área classificada ficou
+      todavia aquém do plano inicial: da superfície terrestre proposta em 2003 para a rede Natura 2000, o
+      governo ratificou formalmente apenas 50 % em 2009.
+
+
+      As pressões não cessaram: o avanço turístico e o projeto da autoestrada A7 entre Polis e Pafos
+      pressionam a envolvente, enquanto a circulação todo-o-terreno desregrada afeta as dunas de Toxeftra. Por
+      esse motivo, o regulamento oficial de Lara–Toxeftra interdita viaturas motorizadas nas praias, e o da
+      reserva de Lara proíbe chapéus-de-sol e espreguiçadeiras.
+    before: >-
+      Informa-te junto dos Serviços Florestais sobre a circulação nas pistas: em outubro de 2026 o caminho
+      Aspros Potamos–Toxeftra encontrava-se cortado. O acesso sinalizado faz-se a partir de Ineia via
+      Pittokopos rumo à estrada Pegeia–Lara. Verifica o horário dos centros e respeita as sinalizações:
+      conduzir no areal ou colocar chapéus-de-sol na reserva são atos expressamente proibidos.
+    around: >-
+      Akamas não possui reservas limítrofes no atlas, mas partilha afinidades evidentes. O [Zakynthos National
+      Marine Park](/lugar/zakynthos-national-marine-park/) partilha tartarugas-comuns e focas-monge em meio
+      pelágico. A [Meseta Kárstica y Acantilados de La Mola](/lugar/la-mola-formentera/) partilha a
+      tartaruga-comum, e a [Reserva Natural Marina de Rocha do
+      Navio](/lugar/reserva-natural-da-rocha-do-navio/) a foca-monge. Com o [Parque Natural de
+      Mondragó](/lugar/parque-natural-de-mondrago/) coincide nos matagais costeiros de aroeira e sabina.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Akamas
+    titulo: Akamas - Wikipedia
+    fecha_consulta: '2026-10-19'
+  - url: https://www.moa.gov.cy/moa/environment/environmentnew.nsf/all/825E6DC5EFF93104C225848D003781B5/%24file/CY4000010.pdf?openelement=
+    titulo: Natura 2000 — CY4000010 Akamas
+    fecha_consulta: '2026-10-19'
+  - url: https://www.visitcyprus.com/discover-cyprus/rural/nature-trails/aphrodite-circular-pafos-paphos-district-akamas-forest-nature-trail-2/
+    titulo: Deputy Ministry of Tourism — Aphrodite Trail
+    fecha_consulta: '2026-10-19'
+  - url: https://iucn-mpsg.org/species/21/pdf
+    titulo: IUCN Mediterranean Plant Specialist Group — Centaurea akamantis
+    fecha_consulta: '2026-10-19'
+  - url: https://www.moa.gov.cy/moa/fd/fd.nsf/fd59_en/fd59_en
+    titulo: Department of Forests — Akamas Botanical Garden
+    fecha_consulta: '2026-10-19'
+  - url: https://panoarodes.com/akamas-geology-and-paleontology-information-center/
+    titulo: Pano Arodes — Geology and Paleontology Information Center
+    fecha_consulta: '2026-10-19'
+  - url: https://www.visitcyprus.com/wp-content/uploads/2026/03/Hiking-Map-Nature-Trails.pdf
+    titulo: Deputy Ministry of Tourism — Nature Trails 2026
+    fecha_consulta: '2026-10-19'
+  - url: https://ineia-akamas.com.cy/en/lara_en/
+    titulo: Municipio de Akamas, Ineia — Lara y tortugas
+    fecha_consulta: '2026-10-19'
+  - url: https://ineia-akamas.com.cy/en/home-en/
+    titulo: Municipio de Akamas, Ineia — Centros de interpretación
+    fecha_consulta: '2026-10-19'
+  - url: https://www.moa.gov.cy/moa/dfmr/dfmr.nsf/All/3A83645E42F28B5342257FF5002D02E8/%24file/TURTLES.pdf?OpenElement=
+    titulo: Departamento de Pesca e Investigación Marina — Turtles and Turtle Conservation in Cyprus
+    fecha_consulta: '2026-10-19'
+  - url: https://www.moa.gov.cy/moa/fd/fd.nsf/0/703e94758af34d82c22589b7002dd745?Click=&OpenDocument=
+    titulo: Departamento de Bosques — Avisos de acceso a Akamas
+    fecha_consulta: '2026-10-19'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:A_double_rainbow_in_Akamas_Peninsula,_Cyprus.jpg
+    autor: Michal Klajban
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,713 @@
+id: foret-d-irati---selva-de-irati
+estado_editorial: valoracion-revisada
+nombre:
+  es: Selva de Irati
+  en: Irati Forest
+  fr: Forêt d'Iraty
+  de: Irati-Wald
+  it: Foresta di Irati
+  pt: Floresta de Irati
+nombre_original: Forêt d'Irati / Selva de Irati
+alias:
+  - Forêt d'Irati / Selva de Irati (Francia / España)
+paises:
+  - FR
+  - ES
+region:
+  es: Pirineos Atlánticos (FR) / Comunidad Foral de Navarra (ES)
+  en: Pyrénées-Atlantiques (FR) / Chartered Community of Navarre (ES)
+  fr: Pyrénées-Atlantiques (FR) / Communauté Forale de Navarre (ES)
+  de: Pyrénées-Atlantiques (FR) / Foralgemeinschaft Navarra (ES)
+  it: Pirenei Atlantici (FR) / Comunità Forale di Navarra (ES)
+  pt: Pirenéus Atlânticos (FR) / Comunidade Foral de Navarra (ES)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 43
+  lon: -1.08
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Roncesvalles-Selva de Irati
+  capa: capas/natura2000/foret-d-irati---selva-de-irati.geojson
+habitats:
+  - mature_forest
+  - high_mountain
+designaciones:
+  - natura2000
+especies:
+  - cervus_elaphus
+  - dendrocopos_leucotos
+  - tetrao_urogallus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a noviembre (espectacular en otoño)
+  en: May to November (spectacular in autumn)
+  fr: mai à novembre (spectaculaire en automne)
+  de: Mai bis November (spektakulär im Herbst)
+  it: da maggio a novembre (spettacolare in autunno)
+  pt: maio a novembro (espetacular no outono)
+masificacion: 3
+masificacion_nota:
+  es: Alta en fin de semana de otoño en Casas de Irati; baja en senderos interiores
+  en: High on autumn weekends around Casas de Irati; low on interior trails
+  fr: Forte le week-end d'automne à Casas de Irati ; faible sur les sentiers intérieurs
+  de: Hoch an Herbstwochenenden in Casas de Irati; gering auf den Innenpfaden
+  it: Alta nei fine settimana d'autunno a Casas de Irati; bassa sui sentieri interni
+  pt: Elevada nos fins de semana de outono em Casas de Irati; baixa nos trilhos interiores
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestores — Irati, cooperación de sus cuatro valles
+    url: https://www.irati.org/
+  - titulo: Mapa y rutas — Cartografía de Irati
+    url: https://www.irati.org/editado-un-nuevo-mapa-turistico-de-irati/
+  - titulo: Normas y accesos — Tasas de mantenimiento de Irati
+    url: https://www.irati.org/wp-content/uploads/2026/04/Tasa-de-mantenimiento-de-Irati-2026.pdf
+resumen:
+  es: Hayedos y abetales pirenaicos, regatas y pastos comunales entre los valles navarros y franceses de Irati.
+  en: >-
+    Pyrenean beech and silver fir forests, mountain torrents, and communal summer pastures spanning the
+    Navarrese and French valleys of Irati.
+  fr: >-
+    Hêtraies-sapinières pyrénéennes, torrents vifs et estives communales entre les vallées navarraises et
+    françaises d'Iraty.
+  de: >-
+    Pyrenäen-Buchen- und Tannenwälder, Bergbäche und Gemeinschaftsweiden zwischen den navarresischen und
+    französischen Irati-Tälern.
+  it: >-
+    Faggete e abetine pirenaiche, torrenti limpidi e pascoli comunali condivisi tra le valli navarresi e
+    francesi di Irati.
+  pt: >-
+    Faiais e abetais pirenaicos, ribeiros límpidos e pastagens comunais partilhadas entre os vales navarros e
+    franceses de Irati.
+unico:
+  es: >-
+    En un mismo mapa caben un hayedo-abetal natural, las reservas de Lizardoia y Mendilatz y unos pastos que
+    los valles se reparten por acuerdo cada año.
+  en: >-
+    A single woodland map unites natural beech-fir stands, the reserves of Lizardoia and Mendilatz, and
+    communal pastures shared by historic treaties.
+  fr: >-
+    Une même carte rassemble une hêtraie-sapinière naturelle, les réserves de Lizardoia et Mendilatz et des
+    estives partagées par accord pastoral séculaire.
+  de: >-
+    Eine Waldlandschaft vereint urwüchsige Buchen-Tannenwälder, die Reservate Lizardoia und Mendilatz sowie
+    durch uralte Weideverträge geregelte Hochweiden.
+  it: >-
+    Un unico territorio unisce una faggeta-abetina naturale, le riserve di Lizardoia e Mendilatz e pascoli
+    montani regolati da storici trattati di confine.
+  pt: >-
+    Um mesmo mapa agrega um faial-abetal primitivo, as reservas de Lizardoia e Mendilatz e pastagens montanas
+    geridas por tratados seculares.
+observaciones:
+  es: >-
+    En invierno, comprueba el estado del acceso a Casas de Irati: puede quedar cerrado. Si la salida incluye
+    recoger setas en Aezkoa o Salazar, la recolección está regulada por ordenanza y necesitas un permiso
+    personal que debes llevar encima mientras recoges. Mantén controlado al perro para no alterar el ritmo de
+    las especies que viven allí. Mira también las normas y las tasas de mantenimiento que publica el gestor.
+texto:
+  es:
+    intro: >-
+      Dos países, un solo bosque. La Selva de Irati se reparte entre el norte de Navarra y los valles
+      franceses de Cize y Soule, y lo que une los dos lados es una masa de hayas y abetos que sube y baja
+      entre regatas, pastos y sierras. No es un bosque uniforme. Hay parcelas naturales y parcelas que se
+      aprovechan, reservas donde aún quedan zonas de bosque virgen y montes que los valles de alrededor
+      explotan en común.
+    landscape: >-
+      Empieza por el árbol. El haya y el [abeto blanco](/especie/abies_alba/) comparten el bosque, pero no por
+      igual: en las zonas bajas forman masas mixtas y, a medida que subes o te metes en las laderas de umbría,
+      el abeto va ganando terreno. Donde la humedad es alta, el hayedo se llena de abedules, tejos y acebos.
+      En la cara sur de muchas estribaciones aparece otro árbol, el roble pubescente, hoy en manchas bastante
+      más pequeñas que las que tuvo antiguamente.
+
+
+      Para verlo desde dentro, el sendero de Zabaleta sube entre hayas y abetos por la ladera sur del monte La
+      Cuestión, que también se llama monte Zabaleta. Y para entender lo de «selva», mira con atención: en
+      Irati conviven parcelas de bosque natural con otras donde se hacen aprovechamientos forestales de forma
+      habitual. En Lizardoia, además, se conservan áreas de bosque virgen de hayas y abetos.
+
+
+      Bajo esa alfombra continua de copas, el suelo cambia mucho. En la mitad norte predominan las calizas; en
+      Mendilatz aparece el karst; hacia Berrendi asoman margas y arcillas calcáreas, y hacia Abodi, flysch. En
+      la zona de Arbanta hay esquistos y, en menor medida, cuarcitas. La sierra de Abodi cierra el bosque por
+      el sur. Y el clima también se reparte: hacia el oeste la influencia oceánica trae temperaturas más
+      suaves y más precipitaciones que al este.
+    wildlife: >-
+      Irati es de esos bosques que se recorren por sus ambientes más que por lo que se deja ver. Aquí se
+      refugia el [pico dorsiblanco](/especie/dendrocopos_leucotos/), un carpintero en extinción, junto al
+      [pito negro](/especie/dryocopus_martius/). En las regatas de buena calidad ambiental vive el [desmán del
+      Pirineo](/especie/galemys_pyrenaicus/), un animal extraño y esquivo. También las frecuentan la rana
+      pirenaica, un endemismo de los Pirineos central y occidental que tiene aquí su límite occidental, y el
+      tritón pirenaico. En los hayedos, la salamandra común es el anfibio típico.
+
+
+      Entre los mamíferos hay [corzos](/especie/capreolus_capreolus/), tejones y
+      [jabalíes](/especie/sus_scrofa/), y se citan también el lirón gris, la marta, la
+      [nutria](/especie/lutra_lutra/) y el musgaño patiblanco.
+
+
+      Si tienes que elegir estación, el otoño trae la berrea de los [ciervos](/especie/cervus_elaphus/), que
+      se puede escuchar en Irati. Pero las aves tienen su propio calendario, que desborda el bosque: los
+      collados de Organbidexka, Ibañeta y Lindux canalizan aves durante la migración, y entre las que pasan el
+      invierno en el espacio Roncesvalles-Selva de Irati figura el pinzón real. Si quieres orientar el viaje
+      hacia las aves, en el centro de acogida de Chalets d’Iraty, en Soule, tienen la información para
+      reconocerlas.
+    visit: >-
+      La puerta más conocida es Casas de Irati, por Salazar. Antes de llegar a Ochagavía tomas la NA-2012 y,
+      en unos 23 kilómetros, llegas al centro de acogida: punto de información, guardas forestales,
+      aparcamiento, zona de picnic y hasta alquiler de bicicletas con un pequeño taller de reparación. El otro
+      punto de acogida del lado de Salazar es Virgen de las Nieves.
+
+
+      Desde ahí salen dos clásicos. Errekaidorra, de 10,04 kilómetros y dificultad baja en el catálogo
+      turístico, y el Bosque de Zabaleta, de 8,74 kilómetros y dificultad media. Cada uno da para una jornada
+      tranquila. Errekaidorra tiene además una lectura histórica: sus paneles explican cómo se sacaba la
+      madera para hacer mástiles, remos, muebles y carbón. Si prefieres algo corto, el Bucle de Pikatua mide
+      1,2 kilómetros y salva 15 metros de desnivel; sus primeros 400 metros son llanos y aptos para silla de
+      ruedas cuando el piso está seco. Y si te apetece rodear el agua, la vuelta al embalse de Irabia es un
+      circuito de 9,5 kilómetros.
+
+
+      Por el otro lado, desde Aezkoa, los accesos principales son Orbaizeta, donde el área de Arrazola tiene
+      una caseta del guarderío que abre en temporada alta y, en temporada media, los fines de semana, y
+      Ochagavía, cuya oficina y Centro de Interpretación de la Naturaleza atienden en castellano, euskera,
+      francés e inglés. En Aribe, la oficina abre en temporada alta; el resto del año hay que consultar en la
+      Junta del Valle de Aezkoa.
+
+
+      El gestor ordena los senderos en cuatro sectores: Aezkoa, Salazar, Soule y Cize. Cada uno tiene su punto
+      de información.
+    history: >-
+      El bosque que ves es también un bosque trabajado. El mayor aprovechamiento forestal llegó en el siglo
+      XVIII, y de ahí sale parte de la historia que cuentan los paneles de Errekaidorra. Hubo otras etapas de
+      ocupación humana: la estación megalítica de Azpegi, la torre romana de Urkulu y la Fábrica de Armas de
+      Orbaizeta lo atestiguan. Y quedan leyendas: todavía se palpa el espíritu de las lamias, las brujas y
+      Basajaun, el gran señor de los bosques.
+
+
+      Hoy la tala se hace de forma ordenada y selectiva, para que sea compatible con la conservación de los
+      valores naturales. Los pastos de montaña son en su mayoría comunales, y cada año se renuevan los
+      acuerdos de cesión entre los valles pirenaicos. No todo son buenas noticias para la fauna: el embalse de
+      Irabia interrumpe el cauce del río Irati y fragmenta las poblaciones de especies ligadas a los cursos de
+      agua, y la basura y el tránsito incontrolado de vehículos provocan erosión y molestias.
+    before: >-
+      En invierno, comprueba el estado del acceso a Casas de Irati: puede quedar cerrado. Si la salida incluye
+      recoger setas en Aezkoa o Salazar, la recolección está regulada por ordenanza y necesitas un permiso
+      personal que debes llevar encima mientras recoges. Mantén controlado al perro para no alterar el ritmo
+      de las especies que viven allí. Mira también las normas y las tasas de mantenimiento que publica el
+      gestor.
+    around: >-
+      A 15 kilómetros, ya en el lado francés, está el [Parque Nacional de los Pirineos
+      (Francia)](/lugar/parc-national-des-pyrenees/). Más lejos, el atlas reúne otros bosques de hayas y
+      abetos: la [Reserva Natural Integral de Sasso
+      Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) y el [Bosque Primario de
+      Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) comparten con Irati el abeto blanco, el haya y el
+      pito negro; el [Bosque Virgen de Lom - Reserva Natural
+      Estricta](/lugar/prasuma-lom-strogi-rezervat-prirode/) comparte abeto y haya en alta montaña; y el
+      [Parque Nacional Călimani - Macizo Volcánico Forestal](/lugar/parcul-national-calimani---sumski-masiv/)
+      tiene, como Irati, haya y [urogallo](/especie/tetrao_urogallus/) en bosque maduro y alta montaña.
+  en:
+    intro: >-
+      Two nations, one undivided forest. The Selva de Irati straddles northern Navarre and the French valleys
+      of Cize and Soule, knitted together by a vast blanket of European beech and silver fir rising and
+      plunging across torrents, upland meadows, and limestone ridges. It is not a uniform plantation: natural
+      woodland plots mingle with managed stands, strict nature reserves protect remnants of primeval
+      old-growth, and surrounding valleys share communal pastures.
+    landscape: >-
+      Begin with the canopy. European beech and [silver fir](/especie/abies_alba/) co-dominate the slopes, but
+      in shifting balances: mixed stands occupy lower ground, while fir assumes dominance on shady northern
+      slopes and higher shoulders. Where moisture hangs thickest, birch, yew, and holly crowd the understorey.
+      On warmer southern spurs downy oak forms stands, though diminished compared with historic extents.
+
+
+      To experience this from within, the Zabaleta trail climbs through beech and fir along the southern flank
+      of Monte La Cuestión (Monte Zabaleta). The Spanish term "selva" captures this complexity: naturally
+      regenerated stands coexist with sustainably managed communal woodlots. At Lizardoia, untouched primeval
+      stands of fir and beech are preserved.
+
+
+      Beneath this unbroken canopy of foliage, the geology changes markedly. Marine limestone dominates the
+      northern sector; Mendilatz features sharp karst fissures; toward Berrendi appear marls and calcareous
+      clays, while Abodi reveals flysch formations. Arbanta exhibits schists and quartzites, with the Sierra
+      de Abodi walling off the southern perimeter. Climate varies in parallel: oceanic Atlantic air delivers
+      milder temperatures and heavier rainfall to the western valleys than to the east.
+    wildlife: >-
+      Irati is a forest best appreciated through its specialized micro-habitats. The critically endangered
+      [white-backed woodpecker](/especie/dendrocopos_leucotos/) finds a vital refuge here alongside the [black
+      woodpecker](/especie/dryocopus_martius/). Pure mountain streams harbour the secretive, endangered
+      [Pyrenean desman](/especie/galemys_pyrenaicus/). These waters also support the Pyrenean frog, an endemic
+      amphibian of the central and western Pyrenees reaching its westernmost global boundary here, alongside
+      the Pyrenean brook salamander and fire salamander.
+
+
+      Mammals include [roe deer](/especie/capreolus_capreolus/), European badger, [wild
+      boar](/especie/sus_scrofa/), edible dormouse, pine marten, [Eurasian otter](/especie/lutra_lutra/), and
+      Miller's water shrew.
+
+
+      Autumn brings the reverberating rut of red [deer](/especie/cervus_elaphus/). Avian calendars transcend
+      the canopy: the high Pyrenean cols of Organbidexka, Ibañeta, and Lindux channel millions of migrating
+      birds each autumn, with bramblings wintering across the Roncesvalles-Irati woods. The ornithological
+      visitor centre at Chalets d’Iraty in Soule provides migration updates and identification exhibits.
+    visit: >-
+      The most popular trailhead is Casas de Irati, accessed via the Salazar valley. Before reaching
+      Ochagavía, take the NA-2012 for about 23 kilometres to reach the visitor centre: ranger station,
+      parking, picnic grounds, and mountain bike rentals with a repair stand. The other Salazar gateway is
+      Virgen de las Nieves.
+
+
+      Two classic loop trails depart from here: Errekaidorra, a 10.04-kilometre easy circuit, and the Zabaleta
+      Forest trail, measuring 8.74 kilometres with moderate climbing. Errekaidorra interprets the industrial
+      archaeology of timber rafting for naval masts, oars, and charcoal. For a gentler stroll, the Pikatua
+      Loop covers 1.2 kilometres with 15 metres of elevation change, its initial 400 metres paved for
+      wheelchairs in dry conditions. For a waterside circuit, the trail around Irabia reservoir spans 9.5
+      kilometres.
+
+
+      From the Aezkoa valley, the main western gateways are Orbaizeta—where the Arrazola post is staffed by
+      rangers in peak season and weekends—and Ochagavía, whose nature interpretation centre provides
+      multilingual assistance in Spanish, Basque, French, and English. In Aribe, a seasonal office operates in
+      summer, with local inquiries handled year-round by the Aezkoa Valley Board.
+
+
+      Trails are organized into four management sectors: Aezkoa, Salazar, Soule, and Cize, each equipped with
+      designated information points.
+    history: >-
+      This ancient forest bears centuries of traditional human stewardship. The intensive era of logging
+      occurred in the eighteenth century, supplying royal shipyards with naval timber as recounted on
+      Errekaidorra's interpretive panels. Earlier occupation is attested by the Azpegi megalithic necropolis,
+      the Roman watchtower of Urkulu, and the Royal Arms Factory of Orbaizeta. Mythological folklore still
+      echoes through the beech trunks, where Basque tales celebrate lamias, witches, and Basajaun, the lord of
+      the woods.
+
+
+      Today timber extraction follows strict selective felling aligned with nature conservation. Mountain
+      pastures remain communal, governed by annual pastoral treaties (facerías) renewed between Navarrese and
+      French valley councils. Ecological challenges persist: the Irabia reservoir fragments the upper Irati
+      river, while tourist vehicular traffic creates local erosion.
+    before: >-
+      In winter, check snow clearance on the road to Casas de Irati: access can be closed by drifts. Mushroom
+      foraging in Aezkoa and Salazar requires a personal daily permit carried during picking. Keep dogs under
+      control to avoid disturbing woodland wildlife. Consult local access regulations and seasonal parking
+      fees before visiting.
+    around: >-
+      Just 15 kilometres across the French border lies the [Pyrenees National Park
+      (France)](/lugar/parc-national-des-pyrenees/). Further afield, other primeval beech-fir forests in the
+      atlas include the [Strict Nature Reserve of Sasso
+      Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) and the [Strâmbu-Băiuț Primeval
+      Forest](/lugar/codrul-secular-strambu-baiut/), sharing silver fir, beech, and black woodpecker with
+      Irati; the [Lom Virgin Forest - Strict Nature Reserve](/lugar/prasuma-lom-strogi-rezervat-prirode/)
+      sharing mountain fir and beech; and the [Călimani National Park - Volcanic Forest
+      Massif](/lugar/parcul-national-calimani---sumski-masiv/), which shares beech and [western
+      capercaillie](/especie/tetrao_urogallus/).
+  fr:
+    intro: >-
+      Deux pays, une seule forêt. La forêt d'Iraty se partage entre le nord de la Navarre et les vallées
+      françaises de Cize et de Soule, unies par un manteau ininterrompu de hêtres et de sapins ondoyant entre
+      torrents, pâturages et crêtes calcaires. Ce n'est pas un massif uniforme : des parcelles naturelles
+      côtoient des coupes gérées, des réserves préservent des lambeaux de forêt vierge et les vallées
+      environnantes exploitent des estives en communauté.
+    landscape: >-
+      Tout commence par les arbres. Le hêtre et le [sapin blanc](/especie/abies_alba/) se partagent le massif
+      : mêlés en basse altitude, le sapin prend l'ascendant sur les versants d'ubac et en altitude. Là où
+      l'humidité est forte, bouleaux, ifs et houx enrichissent le sous-bois. Sur les adrets émerge le chêne
+      pubescent, aujourd'hui en îlots plus clairsemés qu'autrefois.
+
+
+      Pour s'immerger au cœur du bois, le sentier de Zabaleta grimpe entre hêtres et sapins sur le versant sud
+      du mont La Cuestión (mont Zabaleta). Le terme de « selva » s'éclaire : coexistent parcelles en évolution
+      libre et forêts soumises à une sylviculture douce. À Lizardoia subsistent de véritables témoins de forêt
+      vierge de hêtres et de sapins.
+
+
+      Sous ce dôme végétal, la roche varie. Au nord dominent les calcaires ; à Mendilatz se développe un karst
+      accidenté ; vers Berrendi affleurent marnes et argiles, et vers Abodi le flysch. Dans le secteur
+      d'Arbanta se rencontrent schistes et quartzites, la sierra d'Abodi fermant la forêt au sud. Le climat
+      s'étage en harmonie : à l'ouest l'influence atlantique apporte douceur et pluviométrie abondante,
+      contrastant avec l'est.
+    wildlife: >-
+      Iraty fait partie de ces forêts où l'on écoute plus qu'on ne voit. Ici se réfugie le rare [pic à dos
+      blanc](/especie/dendrocopos_leucotos/), aux côtés du [pic noir](/especie/dryocopus_martius/). Dans les
+      torrents cristallins vit le [desman des Pyrénées](/especie/galemys_pyrenaicus/), insectivore singulier
+      et menacé. Les berges accueillent la grenouille des Pyrénées, endémique de la chaîne trouvant ici sa
+      limite occidentale, ainsi que le calotriton et la salamandre tachetée.
+
+
+      Parmi les mammifères figurent [chevreuil](/especie/capreolus_capreolus/), blaireau,
+      [sanglier](/especie/sus_scrofa/), loir gris, martre, [loutre d'Europe](/especie/lutra_lutra/) et
+      crossope de Miller.
+
+
+      L'automne résonne du brame des [cerfs élaphes](/especie/cervus_elaphus/). Mais les oiseaux dictent leur
+      propre tempo : les cols d'Organbidexka, d'Ibañeta et de Lindux canalisent des millions de migrateurs,
+      tandis que le pinson du Nord hiverne dans le massif. Le pôle d'accueil des Chalets d’Iraty en Soule
+      dispense conseils et clés d'identification ornithologiques.
+    visit: >-
+      L'accès le plus célèbre est Casas de Irati, par la vallée de Salazar. Avant Ochagavía, vous empruntez la
+      NA-2012 et atteignez en 23 kilomètres le pavillon d'accueil : renseignements, gardes, parking, aire de
+      pique-nique et location de vélos. L'autre accès côté Salazar est Virgen de las Nieves.
+
+
+      Deux grands classiques débutent là : Errekaidorra, boucle de 10,04 kilomètres de difficulté facile, et
+      la forêt de Zabaleta, 8,74 kilomètres de difficulté moyenne. Errekaidorra propose un voyage historique :
+      ses panneaux content l'époque où le bois d'Iraty fournissait mâts navals, rames et charbon de bois. Pour
+      une balade plus courte, la boucle de Pikatua fait 1,2 kilomètre et 15 mètres de dénivelé, ses premiers
+      400 mètres étant plats et praticables en fauteuil roulant par temps sec. Le tour du lac de retenue
+      d'Irabia offre une boucle de 9,5 kilomètres au fil de l'eau.
+
+
+      Du côté d'Aezkoa, les portes d'entrée sont Orbaizeta — où le poste d'Arrazola ouvre en haute saison et
+      le week-end — et Ochagavía, dont le centre d'interprétation accueille en castillan, basque, français et
+      anglais. À Aribe, le point d'accueil ouvre en saison estivale.
+
+
+      Le réseau de sentiers est découpé en quatre secteurs : Aezkoa, Salazar, Soule et Cize, chacun doté de
+      son relais d'information.
+    history: >-
+      Ce paysage forestier a été façonné par l'histoire. Les plus intenses exploitations remontent au XVIIIe
+      siècle pour la marine royale, épisode documenté le long d'Errekaidorra. D'autres empreintes abondent :
+      la nécropole mégalithique d'Azpegi, la tour romaine d'Urkulu et la manufacture d'armes d'Orbaizeta. Les
+      légendes basques restent vivaces, hantées par les lamies et le seigneur sylvestre Basajaun.
+
+
+      De nos jours, l'exploitation forestière est raisonnée et sélective. Les estives d'altitude restent
+      indivises, régies par des accords pastoraux annuels renouvelés entre vallées frontalières. Des pressions
+      subsistent : le barrage d'Irabia fragmente les eaux de la rivière Irati, et la surfréquentation
+      automobile engendre des nuisances.
+    before: >-
+      En hiver, vérifiez la viabilité de la route de Casas de Irati, parfois fermée par la neige. La
+      cueillette de champignons en Navarre est soumise à un permis individuel obligatoire. Gardez les chiens
+      sous contrôle afin de respecter la tranquillité de la faune. Consultez les tarifs de stationnement et
+      consignes du gestionnaire.
+    around: >-
+      À 15 kilomètres, côté français, s'étend le [Parc national des Pyrénées
+      (France)](/lugar/parc-national-des-pyrenees/). Plus loin, d'autres hêtraies-sapinières figurent dans
+      l'atlas : la [Réserve naturelle intégrale de Sasso
+      Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) et la [Forêt primaire de
+      Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) partagent sapin pectiné, hêtre et pic noir ; la
+      [Forêt vierge de Lom - Réserve naturelle intégrale](/lugar/prasuma-lom-strogi-rezervat-prirode/) partage
+      hêtre et sapin d'altitude ; et le [Parc national de Călimani - Massif forestier
+      volcanique](/lugar/parcul-national-calimani---sumski-masiv/) abrite hêtres et [grand
+      tétras](/especie/tetrao_urogallus/).
+  de:
+    intro: >-
+      Zwei Länder, ein zusammenhängender Wald. Die Selva de Irati teilt sich auf das nördliche Navarra und die
+      französischen Täler Cize und Soule auf, geeint durch ein mächtiges Band aus Rotbuchen und Weißtannen,
+      das sich über Bergbäche, Hochebenen und Felskämme spannt. Es ist kein gleichförmiger Forst:
+      Naturwaldparzellen wechseln sich mit Wirtschaftswäldern ab, streng geschützte Reservate bergen
+      Urwaldreste, und die Almen werden seit Jahrhunderten von den Talschaften gemeinschaftlich beweidet.
+    landscape: >-
+      Den Anfang machen die Bäume. Rotbuche und [Weißtanne](/especie/abies_alba/) prägen das Kronendach: In
+      tieferen Lagen wachsen sie gemischt, doch je höher du steigst oder je schattiger der Hang liegt, desto
+      mehr gewinnt die Tanne die Oberhand. An feuchten Stellen gesellen sich Birken, Eiben und Stechpalmen
+      hinzu. An sonnenexponierten Südhängen wächst die Flaumeiche in kleineren Reliktbeständen.
+
+
+      Um den Wald von innen zu erleben, lohnt der Zabaleta-Weg, der an den Südhängen des Monte La Cuestión
+      (Monte Zabaleta) emporsteigt. Der Begriff „Selva“ erschließt sich beim Wandern: Urwaldartige Reservate
+      wie Lizardoia mit unberührten Baumriesen stehen neben traditionell bewirtschafteten Holznutzungsflächen.
+
+
+      Unter den Kronen wechselt die Geologie. Im Norden herrscht Kalkstein vor; bei Mendilatz tritt Karst
+      zutage; bei Berrendi Mergel und Kalkton; bei Abodi Flyschgestein. Im Arbanta-Gebiet finden sich Schiefer
+      und Quarzite, während die Sierra de Abodi den Wald nach Süden abriegelt. Auch das Klima ist zweigeteilt:
+      Nach Westen hin bringt der Atlantik milde Temperaturen und reichliche Niederschläge, nach Osten nimmt
+      der Kontinentaleinfluss zu.
+    wildlife: >-
+      Irati ist ein Wald, den man vor allem über seine verborgenen Lebensräume begreift. Hier lebt der
+      bedrohte [Weißrückenspecht](/especie/dendrocopos_leucotos/) zusammen mit dem
+      [Schwarzspecht](/especie/dryocopus_martius/). An sauberen Bergbächen lebt der scheue
+      [Pyrenäen-Desman](/especie/galemys_pyrenaicus/). Ebenfalls heimisch sind der Pyrenäenfrosch, ein Endemit
+      der Zentral- und Westpyrenäen an seiner westlichsten Verbreitungsgrenze, der Pyrenäen-Gebirgsmolch und
+      der Feuersalamander.
+
+
+      Unter den Säugetieren leben [Reh](/especie/capreolus_capreolus/), Dachs,
+      [Wildschwein](/especie/sus_scrofa/), Siebenschläfer, Baummarder, [Fischotter](/especie/lutra_lutra/) und
+      die Sumpfspitzmaus.
+
+
+      Im Herbst hallt die Brunft der [Rothirsche](/especie/cervus_elaphus/) durch das Tal. Doch das
+      herausragendste Naturschauspiel bieten die Vögel: Über die Pässe Organbidexka, Ibañeta und Lindux ziehen
+      Millionen Zugvögel hinweg, während Bergfinken im Winter das Buchenlaub durchstöbern. Die ornithologische
+      Station Chalets d’Iraty in Soule bietet Bestimmungstafeln und aktuelle Zugdaten.
+    visit: >-
+      Der bekannteste Einstieg ist Casas de Irati über das Salazar-Tal. Vor Ochagavía zweigst du auf die
+      NA-2012 ab und erreichst nach etwa 23 Kilometern das Informationszentrum mit Parkplatz, Rangerstation,
+      Picknickplätzen und Fahrradverleih. Ein weiterer Stützpunkt auf Salazarer Seite ist Virgen de las
+      Nieves.
+
+
+      Von dort starten zwei Routenklassiker: der Errekaidorra-Weg mit 10,04 Kilometern und der
+      Zabaleta-Waldweg mit 8,74 Kilometern. Errekaidorra hält Schautafeln zur historischen Holztrift für
+      Schiffsmasten und Köhlerei bereit. Für eine kurze Runde bietet sich die Pikatua-Schleife mit 1,2
+      Kilometern und 15 Höhenmetern an, deren erste 400 Meter bei trockenem Wetter rollstuhlgerecht sind. Der
+      Rundweg um den Stausee von Irabia misst 9,5 Kilometer.
+
+
+      Aus dem Aezkoa-Tal führen Zugänge über Orbaizeta mit der Station Arrazola und Ochagavía mit seinem
+      Naturinterpretationszentrum. In Aribe ist die Auskunftsstelle im Hochsommer geöffnet.
+
+
+      Das Wegenetz gliedert sich in vier Sektoren: Aezkoa, Salazar, Soule und Cize, jeweils mit eigenem
+      Informationsstützpunkt.
+    history: >-
+      Der Wald blickt auf lange Nutzung zurück. Die intensivste Phase fand im XVIII. Jahrhundert statt, als
+      der königliche Schiffbau Bauholz anforderte. Frühere Epochen belegen die Megalithen von Azpegi, der
+      römische Turm von Urkulu und die Waffenfabrik von Orbaizeta. Auch baskische Sagen um Lamien und den
+      Waldgeist Basajaun sind lebendig geblieben.
+
+
+      Heute erfolgt der Holzeinschlag selektiv und naturschonend. Die Hochweiden sind Gemeinschaftsbesitz,
+      geregelt durch jährliche Weideverträge zwischen den Talschaften. Der Stausee Irabia unterbricht jedoch
+      den Flusslauf des Irati und zerschneidet Gewässerhabitate.
+    before: >-
+      Im Winter empfiehlt sich die Prüfung des Straßenzustands nach Casas de Irati, da Schnee die Zufahrt
+      sperren kann. Das Pilzsammeln in Aezkoa und Salazar erfordert eine kostenpflichtige persönliche
+      Genehmigung. Hunde sind zum Schutz der Wildtiere unter Kontrolle zu halten.
+    around: >-
+      In 15 Kilometern Entfernung auf französischer Seite liegt der [Nationalpark Pyrenäen
+      (Frankreich)](/lugar/parc-national-des-pyrenees/). Weiter entfernt teilen die [Integrale Naturreserve
+      Sasso Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) und der [Urwald von
+      Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) Tanne, Buche und Schwarzspecht mit Irati; das
+      [Strenge Naturreservat Lom-Urwald](/lugar/prasuma-lom-strogi-rezervat-prirode/) teilt Tanne und Buche im
+      Hochgebirge; und der [Nationalpark Călimani - Vulkanisches
+      Waldmassiv](/lugar/parcul-national-calimani---sumski-masiv/) beherbergt Buchen und
+      [Auerhuhn](/especie/tetrao_urogallus/).
+  it:
+    intro: >-
+      Due nazioni, una sola foresta. La Selva de Irati si allunga tra il nord della Navarra e le valli
+      francesi di Cize e Soule, saldate da un'immensa copertura di faggi e abeti bianchi che scende e risale
+      tra forre, pascoli d'altopiano e creste rocciose. Non è un bosco omogeneo: parcelle lasciate alla
+      dinamica naturale convivono con tagli selettivi, riserve integrali proteggono lembi di foresta vergine e
+      le valli contermini gestiscono i pascoli in comunione.
+    landscape: >-
+      Si comincia dagli alberi. Il faggio e l'[abete bianco](/especie/abies_alba/) coabitano nel bosco: nelle
+      quote basali formano popolamenti misti, mentre salendo di quota o addentrandosi sui versanti a nord
+      l'abete bianco diviene dominante. Dove l'umidità ristagna il sottobosco si arricchisce di betulle, tassi
+      e agrifogli. Sui versanti meridionali alligna la roverella in nuclei relitti.
+
+
+      Per addentrarsi nel bosco, il sentiero di Zabaleta risale tra faggi e abeti lungo il versante sud del
+      monte La Cuestión (monte Zabaleta). Il termine spagnolo «selva» si chiarisce subito: parcelle a
+      evoluzione naturale si alternano a tagli forestali regolamentati. A Lizardoia si conservano lembi di
+      autentica foresta vergine di faggio e abete.
+
+
+      Sotto le chiome il suolo muta rapidamente. A nord domina il calcare; a Mendilatz affiora il carsismo;
+      verso Berrendi compaiono marne e argille, e verso Abodi formazioni di flysch. Nell'area di Arbanta
+      emergono scisti e quarziti, mentre la sierra di Abodi chiude il bosco a sud. Anche il clima è sfumato:
+      verso ovest l'influsso atlantico porta piogge frequenti e clima mite, mentre a est aumenta la
+      continentalità.
+    wildlife: >-
+      Irati è una foresta che si apprezza per la qualità dei suoi biotopi. Qui trova rifugio il rarissimo
+      [picchio dorsobianco](/especie/dendrocopos_leucotos/) assieme al [picchio
+      nero](/especie/dryocopus_martius/). Nei torrenti a elevata integrità vive il [desman dei
+      Pirenei](/especie/galemys_pyrenaicus/), piccolo insettivoro acquatico schivo e minacciato. Le rive
+      ospitano la rana dei Pirenei, endemismo al limite occidentale del proprio areale, il tritone dei Pirenei
+      e la salamandra pezzata.
+
+
+      Tra i mammiferi popolano i boschi il [capriolo](/especie/capreolus_capreolus/), il tasso, il
+      [cinghiale](/especie/sus_scrofa/), il ghiro, la martora, la [lontra](/especie/lutra_lutra/) e il
+      toporagno acquatico di Miller.
+
+
+      L'autunno porta il bramito dei [cervi](/especie/cervus_elaphus/). Ma gli uccelli scandiscono una propria
+      migrazione grandiosa: i valichi pirenaici di Organbidexka, Ibañeta e Lindux canalizzano milioni di
+      volatili, e tra gli svernanti figura la peppola. Il centro visite dei Chalets d’Iraty in Soule offre
+      schede per il riconoscimento delle specie.
+    visit: >-
+      Il varco principale è Casas de Irati, accessibile dalla valle di Salazar. Prima di Ochagavía si imbocca
+      la NA-2012 e dopo circa 23 chilometri si giunge al centro visite: punto informativo, guardaparco,
+      parcheggi, aree picnic e noleggio biciclette. L'altro presidio sul lato Salazar è Virgen de las Nieves.
+
+
+      Da lì partono due grandi classici: Errekaidorra, anello di 10,04 chilometri di bassa difficoltà, e il
+      sentiero del bosco di Zabaleta, di 8,74 chilometri a media difficoltà. Errekaidorra illustra con
+      pannelli storici la fluitazione dei tronchi per alberi maestri e remi. Per una passeggiata breve,
+      l'anello di Pikatua copre 1,2 chilometri con 15 metri di dislivello, con i primi 400 metri pianeggianti
+      e adatti a carrozzine con fondo asciutto. Il periplo dell'invaso di Irabia offre un circuito di 9,5
+      chilometri a pelo d'acqua.
+
+
+      Sul versante della valle di Aezkoa i punti d'accesso sono Orbaizeta — con la stazione di Arrazola
+      presidiata dai guardiaparco — e Ochagavía, il cui centro visite assiste in spagnolo, basco, francese e
+      inglese. Ad Aribe l'ufficio apre nella stagione estiva.
+
+
+      La rete dei sentieri è ripartita in quattro settori: Aezkoa, Salazar, Soule e Cize, ciascuno fornito di
+      punto d'accoglienza.
+    history: >-
+      Questo massiccio custodisce una lunga memoria di lavoro silvicolo. Il massimo sfruttamento del legname
+      avvenne nel XVIII secolo per la carpenteria navale dei cantieri reali, memoria descritta dai pannelli di
+      Errekaidorra. Testimonianze più remote includono la necropoli di Azpegi, la torre romana di Urkulu e le
+      storiche fonderie di Orbaizeta. Restano vivide le leggende basche sui lamia e sul saggio Basajaun,
+      signore dei boschi.
+
+
+      Oggi il taglio è selettivo e compatibile con i valori di conservazione. I pascoli d'alta quota sono
+      demani civici regolati da accordi transfrontalieri annuali tra le valli pirenaiche. Permangono
+      criticità: la diga di Irabia frammenta il corso del fiume Irati e la pressione dei veicoli richiede
+      costante gestione.
+    before: >-
+      In inverno controlla la viabilità per Casas de Irati, suscettibile di chiusure per neve. La raccolta di
+      funghi nelle valli di Aezkoa e Salazar richiede un permesso nominativo obbligatorio. Tieni i cani al
+      guinzaglio per non disturbare la fauna. Verifica tariffe di sosta e regolamenti prima dell'arrivo.
+    around: >-
+      A 15 chilometri, sul versante francese, si estende il [Parco Nazionale dei Pirenei
+      (Francia)](/lugar/parc-national-des-pyrenees/). Più lontano, altre grandi faggete-abetine dell'atlas
+      condividono la medesima ecologia: la [Riserva Naturale Integrale di Sasso
+      Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) e la [Foresta Primaria di
+      Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) condividono abete bianco, faggio e picchio nero; la
+      [Foresta Vergine di Lom - Riserva Naturale Integrale](/lugar/prasuma-lom-strogi-rezervat-prirode/)
+      condivide abete e faggio montano; e il [Parco Nazionale Călimani - Massiccio Vulcanico
+      Forestale](/lugar/parcul-national-calimani---sumski-masiv/) ospita faggio e [gallo
+      cedrone](/especie/tetrao_urogallus/).
+  pt:
+    intro: >-
+      Dois países, uma só floresta. A Selva de Irati reparte-se entre o norte de Navarra e os vales franceses
+      de Cize e Soule, enlaçados por um imenso manto de faias e abetos-brancos que ondula por desfiladeiros,
+      lameiros e cristas calcárias. Não é um maciço uniforme: talhões virgens coexistem com parcelas de corte
+      sustentável, reservas estritas guardam árvores seculares e os vales vizinhos exploram as pastagens em
+      regime comunitário.
+    landscape: >-
+      O arvoredo dá o tom. A faia e o [abeto-branco](/especie/abies_alba/) coabitam na floresta: na base
+      formam povoamentos mistos, mas à medida que sobes ou entras nas encostas viradas a norte o abeto assume
+      a primazia. Onde a humidade estagna surgem bétulas, teixos e azevinhos. Nas encostas soalheiras resiste
+      o carvalho-pubescente em manchas relíquias.
+
+
+      Para viver a floresta por dentro, o trilho de Zabaleta sobe entre faias e abetos pela vertente sul do
+      monte La Cuestión (monte Zabaleta). O termo «selva» justifica-se plenamente: talhões em evolução natural
+      alternam com cortes seletivos. Em Lizardoia subsistem núcleos virgens intactos de faial-abetal.
+
+
+      Sob a densa abóbada vegetal, a geologia surpreende. A norte impera o calcário; em Mendilatz abre-se um
+      carste rugoso; rumo a Berrendi afloram margas e argilas, e em direção a Abodi surge o flysch. Em Arbanta
+      ocorrem xistos e quartzitos, com a serra de Abodi a fechar a floresta a sul. O clima divide-se em
+      sintonia: a oeste a influência oceânica traz amenidade e pluviosidade elevada face ao leste.
+    wildlife: >-
+      Irati é um bosque que se desfruta pelos seus ambientes discretos. Aqui refugia-se o raro
+      [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/), a par do
+      [pica-pau-preto](/especie/dryocopus_martius/). Nas linhas de água puras sobrevive o
+      [toupeira-d'água](/especie/galemys_pyrenaicus/), mamífero aquático esquivo e vulnerável. As margens
+      acolhem a rã-dos-pirinéus, espécie endémica no limite ocidental da sua distribuição, o
+      tritão-dos-pirinéus e a salamandra-de-pintas-amarelas.
+
+
+      Entre os mamíferos abundam o [corço](/especie/capreolus_capreolus/), o texugo, o
+      [javali](/especie/sus_scrofa/), o leirão-cinzento, a marta, a [lontra](/especie/lutra_lutra/) e o
+      musaranho-d'água-de-miller.
+
+
+      No outono ressoa a brama dos [veados](/especie/cervus_elaphus/). Mas as aves cumprem a sua própria rota:
+      os colos de Organbidexka, Ibañeta e Lindux canalizam milhões de migradoras, com o tentilhão-montês a
+      invernar no arvoredo. O centro dos Chalets d’Iraty em Soule faculta informação especializada para
+      observação ornitológica.
+    visit: >-
+      A entrada de referência é Casas de Irati, pelo vale de Salazar. Antes de Ochagavía apanhas a NA-2012 e
+      após cerca de 23 quilómetros chegas ao centro de acolhimento: posto de guardas, parque automóvel,
+      merendas e aluguer de bicicletas. O outro acesso no vale de Salazar é Virgen de las Nieves.
+
+
+      Dali partem dois grandes trilhos: Errekaidorra, com 10,04 quilómetros de traçado suave, e o Bosque de
+      Zabaleta, com 8,74 quilómetros de exigência moderada. Errekaidorra exibe painéis sobre a história da
+      madeira fluvial para mastros navais e carvão. Para um passeio breve, a volta de Pikatua tem 1,2
+      quilómetros e vence 15 metros de desnível, sendo os primeiros 400 metros planos e adaptados a cadeiras
+      de rodas em piso seco. O circuito ao redor da albufeira de Irabia soma 9,5 quilómetros.
+
+
+      Pelo vale de Aezkoa os acessos principais são Orbaizeta — com o posto de Arrazola guarnecido no verão e
+      fins de semana — e Ochagavía, cujo centro interpretativo atende em castelhano, basco, francês e inglês.
+      Em Aribe funciona um posto na época alta.
+
+
+      Os percursos organizam-se em quatro setores: Aezkoa, Salazar, Soule e Cize, cada qual com o respetivo
+      ponto de acolhimento.
+    history: >-
+      A mata encerra uma densa história de labor humano. A maior vaga de exploração florestal operou-se no
+      século XVIII para os estaleiros da marinha real, conforme ilustram os painéis de Errekaidorra. Vestígios
+      remotos incluem a necrópole de Azpegi, a torre romana de Urkulu e a Real Fábrica de Armas de Orbaizeta.
+      Persistem lendas mitológicas em torno das lamias e de Basajaun, senhor ancestral das matas.
+
+
+      Hoje a exploração florestal rege-se por critérios rigorosos de sustentabilidade. As pastagens de
+      montanha são baldios comunais partilhados através de acordos pastoris anuais entre vales vizinhos.
+      Subsistem desafios: a barragem de Irabia fragmenta o rio Irati e o tráfego automóvel exige gestão
+      preventiva.
+    before: >-
+      No inverno confirma o estado da estrada de acesso a Casas de Irati, sujeita a cortes por nevões. A
+      apanha de cogumelos em Aezkoa e Salazar requer licença individual obrigatória. Mantém o cão controlado
+      para não perturbar a fauna autóctone. Informa-te sobre regulamentos e taxas locais de estacionamento.
+    around: >-
+      A 15 quilómetros, na vertente francesa, estende-se o [Parque Nacional dos Pirinéus
+      (França)](/lugar/parc-national-des-pyrenees/). Mais longe, outros bosques de faias e abetos integram o
+      atlas: a [Reserva Natural Integral de Sasso
+      Fratino](/lugar/riserva-naturale-integrale-di-sasso-fratino/) e a [Floresta Primária de
+      Strâmbu-Băiuț](/lugar/codrul-secular-strambu-baiut/) partilham abeto-branco, faia e pica-pau-preto; a
+      [Floresta Virgem de Lom - Reserva Natural Estrita](/lugar/prasuma-lom-strogi-rezervat-prirode/) partilha
+      abeto e faia montana; e o [Parque Nacional Călimani - Maciço Vulcânico
+      Florestal](/lugar/parcul-national-calimani---sumski-masiv/) alberga faia e
+      [tetraz](/especie/tetrao_urogallus/).
+fuentes:
+  - url: https://www.visitnavarra.es/en/irati-forest?actividades=8198758&duracion=&fechaDesde=20250529&fechaHasta=20260529&idioma=&lugar=&pagina=1&reserva=false&resultados=8&subactividades=
+    titulo: Irati Forest | Visit Navarra
+    fecha_consulta: '2026-10-19'
+  - url: https://www.visitnavarra.es/en/detalle-ruta/-/r/zabalea-woods
+    titulo: Zabaleta woods | Visit Navarra
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/senderismo/senderos-locales/
+    titulo: Proyecto SASC Irati — Senderos locales
+    fecha_consulta: '2026-10-19'
+  - url: https://es.wikipedia.org/wiki/Selva_de_Irati
+    titulo: Wikipedia — Selva de Irati
+    fecha_consulta: '2026-10-19'
+  - url: https://espaciosnaturales.navarra.es/es/roncesvalles-selva-de-irati
+    titulo: Gobierno de Navarra — Roncesvalles-Selva de Irati
+    fecha_consulta: '2026-10-19'
+  - url: https://espaciosnaturales.navarra.es/documents/57648/134201/RoncesvallesIrati%2BDiagnosis.pdf/4a9235a4-599c-44a7-102d-7dca7a39dd13
+    titulo: Gobierno de Navarra — Diagnosis del plan de gestión
+    fecha_consulta: '2026-10-19'
+  - url: https://www.ochagavia.com/conocenos/oficina-de-turismo-y-centro-de-interpretacion-de-la-naturaleza/
+    titulo: Ayuntamiento de Ochagavía — Oficina y centro de interpretación
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/orhi-bortz-kolore/
+    titulo: SASC Irati — Orhi Bortz Kolore
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/eu/bisita-gomendatuak/zaraitzu/
+    titulo: SASC Irati — Zaraitzu
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/micologia/
+    titulo: Proyecto SASC Irati — Micología y normativa
+    fecha_consulta: '2026-10-19'
+  - url: https://www.visitnavarra.es/es/w/visitar-navarra-con-tu-masco-1
+    titulo: Turismo de Navarra — Navarra con perro
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/informacion-turistica-2/
+    titulo: Proyecto SASC Irati — Puntos de información
+    fecha_consulta: '2026-10-19'
+  - url: https://www.irati.org/4-polos/al-encuentro-de-las-aves/
+    titulo: Proyecto SASC Irati — Al encuentro de las aves
+    fecha_consulta: '2026-10-19'
+  - url: https://www.parquedebertiz.es/imgx_new/bertiz/bertiz/documentos_pdf/Cambios_biodiversidad_briofitica_hayedos_navarros.pdf
+    titulo: Universidad de Navarra — Cambios en la biodiversidad briofítica de hayedos navarros
+    fecha_consulta: '2026-10-19'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Selva_irati3.jpg
+    autor: Thaishs
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

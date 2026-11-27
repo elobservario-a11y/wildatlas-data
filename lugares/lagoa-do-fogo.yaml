@@ -1,0 +1,489 @@
+id: lagoa-do-fogo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de la Lagoa do Fogo (Azores)
+  en: Lagoa do Fogo Nature Reserve (Azores)
+  fr: Réserve naturelle de Lagoa do Fogo (Açores)
+  de: Naturreservat Lagoa do Fogo (Azoren)
+  it: Riserva naturale della Lagoa do Fogo (Azzorre)
+  pt: Reserva Natural da Lagoa do Fogo (Açores)
+nombre_original: Lagoa do Fogo
+alias:
+  - Reserva Natural da Lagoa do Fogo
+paises:
+  - PT
+region:
+  es: Región Autónoma de las Azores (Isla de São Miguel / Ribeira Grande / Lagoa)
+  en: Autonomous Region of the Azores (São Miguel Island / Ribeira Grande / Lagoa)
+  fr: Région autonome des Açores (Île de São Miguel / Ribeira Grande / Lagoa)
+  de: Autonome Region der Azoren (Insel São Miguel / Ribeira Grande / Lagoa)
+  it: Regione Autonoma delle Azzorre (Isola di São Miguel / Ribeira Grande / Lagoa)
+  pt: Região Autónoma dos Açores (Ilha de São Miguel / Ribeira Grande / Lagoa)
+ubicacion:
+  tipo: punto
+  lat: 37.76
+  lon: -25.48
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 18941
+  nombre_en_la_fuente: Lagoa do Fogo
+  categoria_uicn: Ib
+  capa: capas/cdda/lagoa-do-fogo.geojson
+habitats:
+  - lake
+  - high_mountain
+  - mature_forest
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - buteo_buteo
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en los miradores superiores de la caldera; transporte de lanzadera en verano
+  en: High at upper caldera viewpoints; shuttle transport in summer
+  fr: Forte aux belvédères sommitaux de la caldeira ; service de navette en été
+  de: Hoch an den oberen Aussichtspunkten der Caldera; Pendelbusse im Sommer
+  it: Elevata presso i belvedere sommitali della caldera; bus navetta nei mesi estivi
+  pt: Alta nos miradouros cimeiros da caldeira; transporte coletivo em vaivém no verão
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y visita — Reserva Natural da Lagoa do Fogo
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/9/areasprotegidas/105
+resumen:
+  es: >-
+    Cráter volcánico colapsado con una laguna interior turquesa rodeada de flora endémica azoriana sin
+    edificaciones ni carreteras en la orilla.
+  en: >-
+    Collapsed volcanic caldera cradling a turquoise lake ringed by endemic Azorean flora, free from buildings
+    or roads along its shores.
+  fr: >-
+    Cratère volcanique effondré abritant un lac turquoise ceinturé d'une flore endémique açorienne, vierge de
+    constructions et de routes sur ses berges.
+  de: >-
+    Eingestürzter Vulkankrater mit türkisfarbenem Binnensee, umgeben von endemischer azoreanischer Flora, frei
+    von Bauten und Straßen am Ufer.
+  it: >-
+    Cratere vulcanico collassato che racchiude un lago turchese cinto da flora endemica delle Azzorre, privo
+    di strade o costruzioni sulla riva.
+  pt: >-
+    Cratera vulcânica colapsada com uma lagoa interior turquesa rodeada de flora endémica açoriana sem
+    construções nem estradas na margem.
+unico:
+  es: >-
+    Una caldera de unos quince mil años, sin construcciones, con el agua azul a 575 metros de altura y una
+    playa de piedra pómez en su orilla.
+  en: >-
+    A pristine fifteen-thousand-year-old caldera free of buildings, its azure waters resting at 575 metres
+    altitude beside a pumice-stone beach.
+  fr: >-
+    Une caldeira vieille d'environ quinze mille ans, indemne de toute construction, avec des eaux bleues à 575
+    mètres d'altitude et une grève de pierre ponce.
+  de: >-
+    Eine rund fünfzehntausend Jahre alte Caldera ohne jede Verbauung, mit blauem Wasser auf 575 Metern Höhe
+    und einem Ufersaum aus Bimsstein.
+  it: >-
+    Una caldera di circa quindicimila anni, priva di costruzioni, con acque azzurre a 575 metri di quota e una
+    spiaggia di pietra pomice.
+  pt: >-
+    Uma caldeira com cerca de quinze mil anos, isenta de construções, com água azul a 575 metros de altitude e
+    uma praia de pedra-pomes na margem.
+observaciones:
+  es: >-
+    La afluencia es alta en los miradores superiores de la caldera, y en verano hay transporte de lanzadera.
+    Confirma con el gestor del parque el estado de accesos y normas antes de salir.
+texto:
+  es:
+    intro: >-
+      Hay un lago en São Miguel al que no se llega en coche hasta la orilla. Está en lo alto de un volcán,
+      dentro de una caldera elíptica de unos 3 por 2,5 kilómetros cuyas paredes bajan hasta 300 metros, y la
+      normativa no permite construir nada a su alrededor. La Lagoa do Fogo, la «laguna del fuego», es una
+      reserva natural con la laguna más alta de la isla y un cráter sin asentamientos, donde lo que domina es
+      la vegetación endémica de las Azores.
+    landscape: >-
+      El volcán del Fogo da forma al gran macizo de la Serra de Água de Pau, en el centro de São Miguel, y la
+      laguna ocupa su caldera más joven. La historia se cuenta por capas. La caldera exterior, de 4 por 13
+      kilómetros, se formó hace entre 30.000 y 45.000 años; la interior, la que contiene la laguna, hace unos
+      15.000. Su configuración actual es el resultado del último gran colapso de la cima, hace unos cinco mil
+      años, y la última erupción fue en 1563. Esa erupción empezó con un evento hidromagmático en el interior
+      de la caldera, y cuatro días después llegó una efusiva.
+
+
+      El agua descansa a 575 metros de altitud, en el fondo de una caldera elíptica, con una profundidad
+      máxima de 30 metros. La montaña que la rodea llega a 947 metros. La laguna se alimenta sobre todo de la
+      lluvia y de la escorrentía: la mayoría de los cursos de agua son temporales o torrenciales, con más
+      caudal en invierno y poco en verano. Dentro de la caldera hay unas cuarenta líneas de agua, dieciocho de
+      las cuales desembocan directamente en ella. Su agua abastece, además, a las poblaciones del sur de la
+      caldera.
+
+
+      En el borde, el cráter cambia de cara. Del oeste al sur lo cubre el matorral; al este y al norte, donde
+      las pendientes son menores, la vegetación es mucho más densa y hay algo de bosque. Entre la pared del
+      cráter y el agua, al norte, se extiende una playa sedimentaria con poca vegetación, la playa de piedra
+      pómez. En 2012 se reconoció como una de las 7 Maravillas de Portugal en la categoría de playa salvaje.
+    wildlife: >-
+      La vegetación es la protagonista. Entre las endémicas azorianas de la reserva están el
+      [cedro-do-mato](/especie/juniperus_brevifolia/), el louro y el sanguinho, y también la malfurada, la
+      [urze](/especie/erica_azorica/) y el trovisco-macho. Las laderas del borde interior guardan además
+      uva-da-serra, azevinho y folhado.
+
+
+      Los pájaros pequeños son los habitantes principales de la caldera, y a veces los acompañan aves grandes,
+      como las rapaces. En tierra se ven el pombo-torcaz-dos-Açores, el [milhafre](/especie/buteo_buteo/)
+      —llamado también queimado—, la alvéola-cinzenta y el melro-preto. En el agua y sobre ella, las aves
+      marinas: una gran colonia de gaivotas-de-patas-amarelas y garajaus-comuns anida en la laguna.
+
+
+      La temporada recomendada va de mayo a octubre.
+    visit: >-
+      La ruta que llega a la orilla es el sendero circular Praia–Lagoa do Fogo, que dura unas cuatro horas.
+      Empieza en Praia por un camino de tierra y termina en la orilla de la laguna, donde se contempla la
+      playa de piedra pómez.
+
+
+      El camino tiene una escala con historia: pasa por una antigua fábrica de Phormium tenax, una planta
+      cuyas hojas se usaban para hacer cuerdas y tejidos bastos.
+    history: >-
+      La Lagoa do Fogo está clasificada como reserva natural desde 1974. Forma parte de la Red Natura 2000
+      como zona especial de conservación, aprobada por la Comisión Europea el 28 de diciembre de 2001, y es
+      también sitio Ramsar. En 2008 la reserva se integró en el Parque Natural de São Miguel, que abarca toda
+      la cuenca de la laguna.
+    before: >-
+      La afluencia es alta en los miradores superiores de la caldera, y en verano hay transporte de lanzadera.
+      Confirma con el gestor del parque el estado de accesos y normas antes de salir.
+  en:
+    intro: >-
+      There is a crater lake on São Miguel where cars cannot reach the shoreline. It sits high up a volcanic
+      cone within an elliptical caldera measuring some 3 by 2.5 kilometres whose walls plunge up to 300
+      metres, and regional conservation laws forbid any construction on its rim or shores. Lagoa do Fogo, the
+      «lake of fire», is a nature reserve embracing the island's highest body of water and an unsettled
+      caldera dominated by endemic Azorean vegetation.
+    landscape: >-
+      The Fogo volcano shapes the central massif of Serra de Água de Pau in central São Miguel, and the lake
+      occupies its youngest caldera. The geological history is written in layered deposits. The outer caldera,
+      measuring 4 by 13 kilometres, formed between 30,000 and 45,000 years ago; the inner one, holding the
+      lake, emerged some 15,000 years ago. Its modern outline results from the last massive summit collapse
+      about five thousand years ago, with the final eruption occurring in 1563. That historic event began with
+      a hydromagmatic blast inside the caldera, followed four days later by effusive lava flows.
+
+
+      The lake water rests at 575 metres in elevation at the bottom of the elliptical caldera, reaching a
+      maximum depth of 30 metres. The surrounding caldera rim climbs to 947 metres. The lake is fed primarily
+      by rainfall and catchment runoff: most inflowing streams are seasonal torrents, swelling in winter and
+      shrinking to trickles in summer. Roughly forty drainage lines score the inner walls, eighteen of which
+      discharge directly into the lake. Its clean waters supply settlements on the southern flanks.
+
+
+      Vegetation varies dramatically around the crater rim. From west to south, low scrub blankets the slopes;
+      to the east and north, where gradients soften, the cover is much denser with patches of native woodland.
+      Between the northern cliff face and the water extends a low-lying sedimentary beach composed of pumice
+      stones. In 2012 it was voted one of the 7 Wonders of Portugal in the wild beach category.
+    wildlife: >-
+      Flora takes centre stage. Endemic Azorean plants within the reserve include the [Azores
+      juniper](/especie/juniperus_brevifolia/), Azores laurel, and sanguinho, alongside Saint John's wort,
+      [Azores heather](/especie/erica_azorica/), and spurge flax. The sheltered inner crater slopes also
+      nurture mountain grape (*Vaccinium cylindraceum*), Azorean holly, and viburnum (*Viburnum treleasei*).
+
+
+      Small passerines form the caldera's core resident community, joined occasionally by soaring raptors.
+      Land birds include the Azores wood pigeon, [common buzzard](/especie/buteo_buteo/) (known locally as
+      milhafre or queimado), grey wagtail, and common blackbird. Over the water, a significant colony of
+      yellow-legged gulls and common terns nests along the shores and gravel bars.
+
+
+      The recommended visiting season extends from May to October.
+    visit: >-
+      The hiking trail descending to the shore is the circular Praia–Lagoa do Fogo route, taking roughly four
+      hours. It begins at Praia along an unpaved farm track and leads down to the lake's pumice shore.
+
+
+      The route passes a heritage landmark: the ruins of an old processing mill for New Zealand flax
+      (*Phormium tenax*), once harvested across the slopes for cordage and coarse sacking.
+    history: >-
+      Lagoa do Fogo has been protected as a nature reserve since 1974. It belongs to the Natura 2000 network
+      as a Special Area of Conservation, approved by the European Commission on 28 December 2001, and is also
+      a Ramsar wetland. In 2008 the reserve was incorporated into the São Miguel Natural Park, covering the
+      entire lake catchment basin.
+    before: >-
+      Crowds gather at the upper caldera viewpoints, and in summer vehicular access is restricted with a
+      mandatory shuttle service. Check access regulations and weather conditions with park management before
+      setting off.
+  fr:
+    intro: >-
+      Il est à São Miguel un lac de cratère dont aucune route n'atteint les rives. Il se niche au sommet d'un
+      volcan, au creux d'une caldeira elliptique d'environ 3 kilomètres sur 2,5 dont les parois vertigineuses
+      plongent jusqu'à 300 mètres, et où la réglementation interdit toute construction. La Lagoa do Fogo, la «
+      lagune de feu », est une réserve naturelle préservant le lac le plus élevé de l'île au cœur d'un cratère
+      sauvage voué à la flore endémique des Açores.
+    landscape: >-
+      Le volcan du Fogo structure le grand massif de la Serra de Água de Pau, au centre de São Miguel, et la
+      lagune occupe sa caldeira la plus récente. La géologie s'y lit par strates successives. La caldeira
+      extérieure, de 4 kilomètres sur 13, s'est formée il y a 30 000 à 45 000 ans ; la caldeira intérieure,
+      qui retient le lac, remonte à environ 15 000 ans. Sa morphologie actuelle découle du dernier grand
+      effondrement sommital, il y a environ cinq mille ans, la dernière éruption datant de 1563. Cet épisode
+      historique débuta par une phase hydromagmatique au fond de la caldeira, suivie quatre jours plus tard de
+      coulées effusives.
+
+
+      Le miroir d'eau repose à 575 mètres d'altitude, au fond d'une caldeira elliptique atteignant 30 mètres
+      de profondeur maximale. La couronne montagneuse culmine à 947 mètres. Le lac est essentiellement
+      alimenté par les pluies et le ruissellement : la plupart des torrents sont temporaires, gonflés en hiver
+      et presque taris en été. On dénombre une quarantaine de ravines à l'intérieur de la caldeira, dont
+      dix-huit s'y jettent directement. L'eau douce captée alimente les localités du versant sud.
+
+
+      Les parois du cratère présentent des visages contrastés. De l'ouest au sud dominent les landes basses ;
+      à l'est et au nord, où les pentes s'adoucissent, la couverture est plus fournie avec des lambeaux de
+      forêt indigène. Au nord, entre la falaise et l'eau, s'étire une grève sédimentaire composée de ponces
+      volcaniques. En 2012, elle a été distinguée parmi les 7 Merveilles du Portugal dans la catégorie plage
+      sauvage.
+    wildlife: >-
+      La végétation règne en maître. Parmi les endémiques açoriennes figurent le [genévrier des
+      Açores](/especie/juniperus_brevifolia/), le laurier des Açores et le sanguinho, aux côtés du
+      millepertuis, de la [bruyère des Açores](/especie/erica_azorica/) et du daphné local. Les versants
+      intérieurs abritent également la myrtille des Açores, le houx açorien et la viorne sauvage.
+
+
+      Les passereaux constituent les principaux résidents de la caldeira, parfois escortés par de grands
+      rapaces. À terre évoluent le pigeon ramier des Açores, la [buse variable](/especie/buteo_buteo/)
+      (dénommée milhafre ou queimado), la bergeronnette des ruisseaux et le merle noir. Sur les eaux et les
+      plages nidifie une grande colonie de goélands leucophées et de sternes pierregarins.
+
+
+      La période conseillée s'étend de mai à octobre.
+    visit: >-
+      Le sentier qui descend sur la rive est la boucle Praia–Lagoa do Fogo, qui demande environ quatre heures
+      de marche. Il démarre à Praia sur une piste de terre et aboutit au bord de la lagune, où l'on découvre
+      la grève de pierre ponce.
+
+
+      Le parcours croise un témoin d'histoire industrielle : les ruines d'une ancienne usine de traitement du
+      lin de Nouvelle-Zélande (*Phormium tenax*), jadis cultivé sur les pentes pour confectionner cordages et
+      sacs.
+    history: >-
+      La Lagoa do Fogo est classée réserve naturelle depuis 1974. Elle fait partie du réseau Natura 2000 en
+      tant que zone spéciale de conservation, validée par la Commission européenne le 28 décembre 2001, et
+      constitue également une zone humide Ramsar. En 2008, la réserve a été intégrée au Parc naturel de São
+      Miguel, englobant l'intégralité du bassin versant de la lagune.
+    before: >-
+      L'affluence est très soutenue aux belvédères supérieurs de la caldeira, et en été un dispositif de
+      navettes est obligatoire. Renseignez-vous auprès du parc sur les conditions d'accès avant votre départ.
+  de:
+    intro: >-
+      Es gibt einen See auf São Miguel, den man nicht mit dem Auto am Ufer erreicht. Er liegt hoch oben auf
+      einem Vulkan inmitten einer elliptischen Caldera von rund 3 mal 2,5 Kilometern, deren Wände bis zu 300
+      Meter steil abfallen, und strenge Schutzbestimmungen verbieten jegliche Bauten. Die Lagoa do Fogo, der
+      «Feuersee», ist ein Naturreservat mit dem höchstgelegenen See der Insel in einem unbesiedelten Krater,
+      beherrscht von endemischer Vegetation der Azoren.
+    landscape: >-
+      Der Fogo-Vulkan prägt das zentrale Bergmassiv der Serra de Água de Pau im Herzen von São Miguel, und der
+      See füllt seine jüngste Caldera aus. Die Erdgeschichte lässt sich in Schichten ablesen. Die äußere
+      Caldera von 4 mal 13 Kilometern entstand vor 30.000 bis 45.000 Jahren; die innere, den See fassende
+      Caldera brach vor rund 15.000 Jahren ein. Ihre heutige Gestalt ist das Ergebnis des letzten großen
+      Gipfeleinsturzes vor etwa fünftausend Jahren; der letzte Ausbruch ereignete sich 1563. Er begann mit
+      einer hydromagmatischen Explosion am Calderaboden, der vier Tage später effusive Lavaströme folgten.
+
+
+      Der Wasserspiegel ruht auf 575 Metern Meereshöhe im Grund der elliptischen Senke bei einer Maximaltiefe
+      von 30 Metern. Der umgebende Kraterrand ragt bis auf 947 Meter auf. Der See speist sich vor allem aus
+      Regenfällen und oberflächlichem Zufluss: Die meisten Wasserläufe sind saisonale Bäche, die im Winter
+      anschwellen und im Sommer versiegen. Rund vierzig Rinnen durchziehen die Wände, von denen achtzehn
+      direkt in den See münden. Das saubere Wasser versorgt die Orte an den Südhängen.
+
+
+      Der Kraterrand wandelt sein Gesicht. Von Westen nach Süden überzieht ihn Heide; nach Osten und Norden,
+      wo die Hänge sanfter abfallen, wird der Bewuchs dichter mit Resten einheimischen Waldes. Im Norden
+      breitet sich zwischen Steilwand und Wasser ein heller Bimsstrand aus. 2012 wurde er zu einem der 7
+      Wunder Portugals in der Kategorie wilder Strand gewählt.
+    wildlife: >-
+      Die Pflanzenwelt steht im Mittelpunkt. Zu den azoreanischen Endemiten im Reservat zählen der
+      [Azoren-Wacholder](/especie/juniperus_brevifolia/), der Azoren-Lorbeer und das Sanguinho, ferner
+      Johanniskraut, die [Azoren-Glockenheide](/especie/erica_azorica/) und die Zwerg-Seidelbast-Art der
+      Inseln. An den geschützten Innenhängen wachsen zudem Heidelbeere (*Vaccinium cylindraceum*),
+      Azoren-Stechpalme und Schneeball.
+
+
+      Kleine Singvögel prägen die Tierwelt des Kessels, bisweilen begleitet von kreisenden Greifvögeln. An
+      Land leben Azorentaube, [Mäusebussard](/especie/buteo_buteo/) (lokal als milhafre oder queimado
+      bekannt), Gebirgsstelze und Amsel. Am Wasser und auf den Schotterbänken nistet eine Kolonie von
+      Mittelmeermöwen und Flussseeschwalben.
+
+
+      Die empfohlene Reisezeit reicht von Mai bis Oktober.
+    visit: >-
+      Der Abstieg zum Seeufer erfolgt auf dem Rundweg Praia–Lagoa do Fogo, der etwa vier Stunden erfordert. Er
+      beginnt in Praia auf einem unbefestigten Feldweg und führt bis zum Bimsstrand hinab.
+
+
+      Unterwegs passiert man ein kulturhistorisches Zeugnis: die Ruinen einer alten Verarbeitungsstätte für
+      Neuseelandflachs (*Phormium tenax*), der früher an den Berghängen für Seile und Säcke angebaut wurde.
+    history: >-
+      Die Lagoa do Fogo steht seit 1974 als Naturreservat unter Schutz. Sie gehört als besonderes
+      Erhaltungsgebiet zum Natura-2000-Netzwerk, bestätigt von der Europäischen Kommission am 28. Dezember
+      2001, und ist ein Ramsar-Feuchtgebiet. 2008 wurde das Reservat in den Naturpark São Miguel
+      eingegliedert, der das gesamte Einzugsgebiet umfasst.
+    before: >-
+      An den oberen Aussichtspunkten herrscht reger Andrang, und im Sommer verkehren obligatorische
+      Shuttlebusse. Informiere dich vor dem Aufbruch bei der Parkverwaltung über Zugangsregelungen.
+  it:
+    intro: >-
+      C'è un lago a São Miguel la cui riva non è raggiungibile in automobile. Si annida in cima a un vulcano,
+      sul fondo di una caldera ellittica di circa 3 per 2,5 chilometri le cui pareti precipitano fino a 300
+      metri, dove i vincoli di tutela vietano qualsiasi insediamento. La Lagoa do Fogo, la «laguna del fuoco»,
+      è una riserva naturale che racchiude il lago più alto dell'isola in un cratere incontaminato dominato
+      dalla flora autoctona delle Azzorre.
+    landscape: >-
+      Il vulcano del Fogo plasma il grande massiccio della Serra de Água de Pau, al centro di São Miguel, e la
+      laguna ne occupa la caldera più giovane. La vicenda eruttiva si legge a strati. La caldera esterna, di 4
+      per 13 chilometri, si formò tra 30.000 e 45.000 anni fa; quella interna, che colma il bacino lacustre,
+      risale a circa 15.000 anni fa. L'assetto contemporaneo scaturisce dall'ultimo collasso sommitale di
+      circa cinquemila anni fa, mentre l'ultima eruzione risale al 1563. Quell'evento storico esordì con una
+      detonazione idromagmatica nel cratere, seguita quattro giorni dopo da colate laviche effusive.
+
+
+      Il piano d'acqua riposa a 575 metri di quota in fondo alla conca ellittica, toccando una profondità
+      massima di 30 metri. La corona montuosa circostante tocca i 947 metri. Il lago vive soprattutto di
+      precipitazioni e deflusso superficiale: la maggioranza dei corsi d'acqua è a carattere torrentizio,
+      copiosa in inverno e modesta in estate. La caldera accoglie una quarantina di incisioni torrentizie,
+      diciotto delle quali tributarie dirette del lago. L'acqua raccolta rifornisce le comunità del versante
+      meridionale.
+
+
+      La vegetazione muta lungo il perimetro. Da ovest a sud domina la brughiera bassa; a est e a nord, dove i
+      declivi si fanno più dolci, il manto si infittisce con lembi di bosco autoctono. A nord, tra la parete
+      craterica e l'acqua, si sviluppa una spiaggia sedimentaria di pietre pomici. Nel 2012 è stata proclamata
+      una delle 7 Meraviglie del Portogallo nella categoria delle spiagge selvagge.
+    wildlife: >-
+      La componente botanica è sovrana. Tra gli endemismi delle Azzorre presenti nella riserva figurano il
+      [ginepro delle Azzorre](/especie/juniperus_brevifolia/), l'alloro delle Azzorre e il sanguinho, oltre
+      all'iperico, all'[erica delle Azzorre](/especie/erica_azorica/) e al dafne locale. Le pendici interne
+      riparate ospitano inoltre il mirtillo delle Azzorre, l'agrifoglio azzorriano e il viburno.
+
+
+      I piccoli passeriformi sono i principali abitatori della caldera, affiancati talvolta da rapaci in volo
+      planato. A terra vivono il colombaccio delle Azzorre, la [poiana](/especie/buteo_buteo/) (chiamata
+      milhafre o queimado), la ballerina gialla e il merlo. Sulle acque e sui banchi detritici nidifica una
+      nutrita colonia di gabbiani reali zampelleggere e sterne comuni.
+
+
+      La stagione consigliata va da maggio a ottobre.
+    visit: >-
+      Il percorso a piedi che scende fino alla riva è l'anello escursionistico Praia–Lagoa do Fogo, della
+      durata di circa quattro ore. Ha inizio a Praia lungo una carrareccia sterrata e termina sul lido di
+      pietra pomice.
+
+
+      L'itinerario attraversa un sito di archeologia industriale: le vestigia di un antico opificio per la
+      lavorazione del lino della Nuova Zelanda (*Phormium tenax*), le cui fibre servivano un tempo per corde e
+      sacchi da imballo.
+    history: >-
+      La Lagoa do Fogo è tutelata come riserva naturale dal 1974. Rientra nella rete Natura 2000 come zona
+      speciale di conservazione, ratificata dalla Commissione Europea il 28 dicembre 2001, ed è inserita
+      nell'elenco Ramsar. Nel 2008 la riserva è confluita nel Parco Naturale di São Miguel, che ne ingloba
+      l'intero bacino idrografico.
+    before: >-
+      L'afflusso di visitatori è intenso presso i belvedere sommitali, e d'estate è operativo un servizio di
+      bus navetta obbligatorio. Verifica le norme di transito con la direzione del parco prima di iniziare la
+      visita.
+  pt:
+    intro: >-
+      Há uma lagoa em São Miguel cuja margem não é acessível de automóvel. Fica no topo de um vulcão, no
+      interior de uma caldeira elítica com cerca de 3 por 2,5 quilómetros cujas paredes despenham até 300
+      metros, e a legislação proíbe qualquer edificação ao seu redor. A Lagoa do Fogo é uma reserva natural
+      que alberga o espelho de água mais alto da ilha numa cratera desabitada onde reina a vegetação endémica
+      dos Açores.
+    landscape: >-
+      O vulcão do Fogo estrutura o grande maciço da Serra de Água de Pau, no centro de São Miguel, e a lagoa
+      preenche a sua caldeira mais jovem. A narrativa vulcânica desenrola-se por camadas. A caldeira exterior,
+      de 4 por 13 quilómetros, formou-se há 30.000 a 45.000 anos; a interior, que acolhe a lagoa, colapsou há
+      cerca de 15.000 anos. A configuração contemporânea resultou do último grande abatimento do cume há cerca
+      de cinco mil anos, tendo a última erupção ocorrido em 1563. Esse episódio histórico principiou com uma
+      explosão hidromagmática na caldeira, sucedendo-se quatro dias depois escoadas lávicas efusivas.
+
+
+      A água repousa a 575 metros de altitude no fundo da depressão elítica, atingindo uma profundidade máxima
+      de 30 metros. A bordadura montanhosa culmina a 947 metros. A lagoa é alimentada pela pluviosidade e pelo
+      escoamento superficial: a generalidade das linhas de água é temporária, com grande caudal no inverno e
+      escasso no verão. Na caldeira contam-se cerca de quarenta linhas de água, dezoito das quais desaguam
+      nela diretamente. O manancial abastece os aglomerados populacionais da vertente sul.
+
+
+      Na crista, a paisagem varia sensivelmente. De oeste a sul estendem-se matos baixos; a leste e a norte,
+      onde os declives são mais suaves, a vegetação torna-se mais densa com manchas de arvoredo autóctone. A
+      norte, entre a escarpa e a água, estende-se uma praia sedimentar de pedra-pomes. Em 2012 foi consagrada
+      como uma das 7 Maravilhas de Portugal na categoria de praia selvagem.
+    wildlife: >-
+      A flora assume papel protagonista. Entre os endemismos açorianos presentes na reserva destacam-se o
+      [cedro-do-mato](/especie/juniperus_brevifolia/), o louro e o sanguinho, bem como a malfurada, a
+      [urze](/especie/erica_azorica/) e o trovisco-macho. As encostas interiores abrigam ainda uva-da-serra,
+      azevinho e folhado.
+
+
+      As pequenas aves constituem a comunidade mais expressiva da caldeira, acompanhadas pontualmente por
+      rapinas em voo planado. Em terra observam-se o pombo-torcaz-dos-Açores, o
+      [milhafre](/especie/buteo_buteo/) (também chamado queimado), a alvéola-cinzenta e o melro-preto. Sobre o
+      espelho de água e nos areais nidifica uma importante colónia de gaivotas-de-patas-amarelas e
+      garajaus-comuns.
+
+
+      A época mais indicada estende-se de maio a outubro.
+    visit: >-
+      O trilho pedestre que atinge a margem é o percurso circular Praia–Lagoa do Fogo, que demora cerca de
+      quatro horas. Começa na Praia através de um caminho de terra batida e termina junto ao areal de
+      pedra-pomes da lagoa.
+
+
+      O trajeto guarda um testemunho de arqueologia industrial: passa pelas ruínas de uma antiga fábrica de
+      espadana (*Phormium tenax*), planta cultivada nas encostas para a produção de cordoaria e serapilheira.
+    history: >-
+      A Lagoa do Fogo está classificada como reserva natural desde 1974. Integra a Rede Natura 2000 como zona
+      especial de conservação, aprovada pela Comissão Europeia em 28 de dezembro de 2001, sendo também sítio
+      Ramsar. Em 2008 a reserva passou a integrar o Parque Natural de São Miguel, abrangendo a totalidade da
+      bacia hidrográfica da lagoa.
+    before: >-
+      A afluência é muito elevada nos miradouros cimeiros da caldeira, vigorando no verão um sistema
+      obrigatório de transporte vaivém. Confirma as condições de circulação e as normas de acesso com o parque
+      antes de iniciares a deslocação.
+fuentes:
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/9/areasprotegidas/105
+    titulo: Lagoa do Fogo
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/9/trilho/53
+    titulo: Praia - Lagoa do Fogo PRC02SMI
+    fecha_consulta: '2026-10-29'
+  - url: https://pt.wikipedia.org/wiki/Lagoa_do_Fogo
+    titulo: Lagoa do Fogo – Wikipédia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Lagoa_do_Fogo
+    titulo: Lagoa do Fogo – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/%C3%81gua_de_Pau_Massif
+    titulo: Água de Pau Massif – Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:2019-05-23_16-26-57_PT_Sao_Miguel_JHe_K70_(54487898754).jpg
+    autor: Jan Helebrant
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-17'

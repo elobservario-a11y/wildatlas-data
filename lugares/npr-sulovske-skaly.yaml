@@ -1,0 +1,373 @@
+id: npr-sulovske-skaly
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural Nacional de las Rocas de Súľov
+  en: Súľovské skaly National Nature Reserve
+  fr: Réserve naturelle nationale de Súľovské skaly
+  de: Nationales Naturschutzgebiet Súľovské skaly
+  it: Riserva naturale nazionale di Súľovské skaly
+  pt: Reserva Natural Nacional de Súľovské skaly
+nombre_original: NPR Súľovské skaly
+alias:
+  - Súľov Conglomerate Rocks & Slot Canyons (Súľovské skaly)
+paises:
+  - SK
+region:
+  es: Región de Žilina (Bytča / Súľov-Hradná)
+  en: Žilina Region (Bytča / Súľov-Hradná)
+  fr: Région de Žilina (Bytča / Súľov-Hradná)
+  de: Žiliner Region (Bytča / Súľov-Hradná)
+  it: Regione di Žilina (Bytča / Súľov-Hradná)
+  pt: Região de Žilina (Bytča / Súľov-Hradná)
+ubicacion:
+  tipo: punto
+  lat: 49.17
+  lon: 18.58
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 14119
+  nombre_en_la_fuente: Súľovské skaly
+  categoria_uicn: IV
+  capa: capas/cdda/npr-sulovske-skaly.geojson
+habitats:
+  - gorge_canyon
+  - karst
+  - mature_forest
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - bubo_bubo
+  - falco_peregrinus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en fines de semana de verano
+  en: Moderate on summer weekends
+  fr: Moyenne les week-ends d'été
+  de: Mäßig an Sommerwochenenden
+  it: Media nei fine settimana estivi
+  pt: Média nos fins de semana de verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — CHKO Strážovské vrchy
+    url: https://chkostrazovskevrchy.sopsr.sk/
+  - titulo: Visita — Reserva Súľovské skaly
+    url: https://chkostrazovskevrchy.sopsr.sk/priroda/maloplosne-chranene-uzemia/narodne-prirodne-rezervacie/
+  - titulo: Rutas — Sendero educativo de Súľovské skaly
+    url: https://chkostrazovskevrchy.sopsr.sk/vynoveny-naucny-chodnik-sulovske-skaly/
+  - titulo: Normas y permisos — Escalada en Súľovské skaly
+    url: https://chkostrazovskevrchy.sopsr.sk/navstevnici/horolezectvo-a-skalolezectvo/
+  - titulo: Contacto — Administración de Strážovské vrchy
+    url: https://chkostrazovskevrchy.sopsr.sk/kontakt/
+resumen:
+  es: >-
+    Ciudad de piedra de conglomerados calcáreos esculpida en agujas, arcos y cañones estrechos (Gotická
+    brána).
+  en: A stone city of tertiary conglomerate sculpted into pinnacles, arches and narrow canyons (Gotická brána).
+  fr: Cité de pierre de conglomérat tertiaire sculptée en aiguilles, arcs et canyons étroits (Gotická brána).
+  de: Felsenstadt aus tertiärem Konglomerat, geformt in Türme, Bögen und enge Schluchten (Gotická brána).
+  it: Città di pietra in conglomerato terziario scolpita in guglie, archi e canyon stretti (Gotická brána).
+  pt: Cidade de pedra em conglomerado terciário esculpida em agulhas, arcos e canhões estreitos (Gotická brána).
+unico:
+  es: Una ciudad de torres y puertas de conglomerado blanco, y el lugar de Eslovaquia con más orquídeas.
+  en: A city of white conglomerate towers and gateways, and the site in Slovakia richest in orchid species.
+  fr: Une cité de tours et de portails de conglomérat blanc, et le site de Slovaquie le plus riche en orchidées.
+  de: Eine Stadt aus weißen Konglomerattürmen und -toren und der orchideenreichste Standort der Slowakei.
+  it: Una città di torri e portali di conglomerato bianco e il sito più ricco di orchidee della Slovacchia.
+  pt: Uma cidade de torres e portais de conglomerado branco e o lugar da Eslováquia mais rico em orquídeas.
+observaciones:
+  es: 'Quédate en el sendero señalizado: es una reserva natural nacional.'
+texto:
+  es:
+    intro: >-
+      Una montaña que se dio la vuelta. En el Paleógeno los ríos arrastraron guijarros hasta el mar y los
+      fueron depositando; la cal los cementó y acabaron formando un conglomerado. Después la erosión se llevó
+      lo demás, y lo que antes era el fondo de una cuenca quedó en lo alto: de aquella gran loma solo sobraron
+      las cumbres, en un anillo con forma de herradura cuyas cimas más altas son Brada y Roháč. A eso se le
+      llama inversión del relieve, y es lo que explica la Reserva Natural Nacional de Súľovské skaly, una
+      ciudad de roca blanca de torres, agujas, ventanas y puertas.
+    landscape: >-
+      Las rocas están a unos diez kilómetros al suroeste de Žilina y al sureste de Bytča. Su roca madre es
+      sobre todo conglomerado terciario, de estratificación imperfecta, y los guijarros calcáreos de unos
+      centímetros y los fragmentos angulosos de dolomía quedaron unidos por un cemento calcáreo.
+
+
+      Las formas son de lo más variado. La Puerta Gótica, un arco de trece metros cuyo quiebre recuerda un
+      portal gótico, es la más famosa. Bajo Roháč se abre otra puerta de ocho metros, la Obrovská brána, y
+      cerca de ella la cueva fisural Šarkania diera, de sesenta metros de largo. En el norte, el arroyo
+      Hlbocký ha excavado un cañón estrecho con una cascada de catorce metros. En todo el conjunto hay además
+      dos cuevas, y las rocas blancas parecen agujas, torres y pilares; quien las mira despacio descubre un
+      indio, un dinosaurio, un búho o un órgano.
+    wildlife: >-
+      La reserva conserva los pinares relictos más extensos del territorio protegido de Strážovské vrchy, y
+      reúne especies de plantas y animales de ambientes cálidos y de montaña. El portal turístico nacional
+      presenta Súľov como el lugar más rico del país en orquídeas.
+
+
+      En otoño, cuando los bosques de alrededor se tiñen de color, las rocas blancas ofrecen un cuadro
+      especialmente bello: es la época que la web turística recomienda para recorrerlas.
+    visit: >-
+      El circuito educativo de Súľov es circular, mide siete kilómetros y medio y se recorre en un máximo de
+      dos horas. El sendero está señalizado y se construyó en 1975; los paseos no exigen mucho esfuerzo
+      físico. En él puedes ver la Puerta Gótica, la cascada de Súľov y las ruinas del castillo de Súľov,
+      además de fauna y flora raras.
+    history: >-
+      La protección de la reserva empezó en 1929, aunque la declaración actual es de 1973, con 543,23
+      hectáreas protegidas y una franja de protección de 281,77. El castillo se construyó en el siglo XIII
+      para proteger un camino cercano, entre tres grandes formaciones rocosas; en 1470 el rey Matías Corvino
+      permitió que el pequeño fuerte de Roháč se convirtiera en castillo. Tras un incendio, hoy solo quedan
+      fragmentos de muro pegados a las rocas.
+    before: 'Quédate en el sendero señalizado: es una reserva natural nacional.'
+    around: Por ahora el atlas no registra ningún otro lugar cercano a Súľov.
+  en:
+    intro: >-
+      A mountain turned inside out. During the Palaeogene, rivers carried pebbles to the sea and deposited
+      them layer by layer; calcium carbonate cemented them into conglomerate. Erosion then stripped everything
+      else away, leaving what had once been the floor of a basin stranded on high ground: of the original
+      ridge, only the crests remained, arranged in a horseshoe whose highest summits are Brada and Roháč.
+      Geologists call this a relief inversion, and it is what gave rise to the Súľovské skaly National Nature
+      Reserve, a city of white rock towers, pinnacles, windows and gateways.
+    landscape: >-
+      The rocks lie about ten kilometres southwest of Žilina and southeast of Bytča. The bedrock is mainly
+      tertiary conglomerate with imperfect stratification; centimetre-sized calcareous pebbles and angular
+      dolomite fragments are bound together by a calcareous cement.
+
+
+      The landforms are wonderfully varied. The Gotická brána (Gothic Gate), an arch thirteen metres across
+      whose outline recalls the pointed arch of a Gothic portal, is the most celebrated feature. Below Roháč
+      opens another gateway, the Obrovská brána at eight metres wide, and near it the fissure cave Šarkania
+      diera stretches sixty metres deep. To the north, the Hlbocký stream has carved a narrow canyon ending in
+      a fourteen-metre waterfall. Two further caves punctuate the massif, and the white rocks themselves —
+      spires, towers, pillars — reveal to the patient observer the shapes of an Indian chief, a dinosaur, an
+      owl or a church organ.
+    wildlife: >-
+      The reserve harbours the most extensive relict pine forests within the protected territory of the
+      Strážovské vrchy hills, bringing together plants and animals of both warm and montane environments. The
+      national tourism portal presents Súľov as the richest locality in the country for orchid species.
+
+
+      In autumn, when the surrounding forests ignite with colour, the white rocks offer a particularly vivid
+      tableau — the season the tourism website recommends for exploring them.
+    visit: >-
+      The Súľov educational trail is a circular loop of seven and a half kilometres, completing in two hours
+      at most. The waymarked path was laid out in 1975, and the walks demand little physical exertion. Along
+      the way you will see the Gothic Gate, the Súľov waterfall and the ruins of Súľov Castle, as well as rare
+      fauna and flora.
+    history: >-
+      Protection of the reserve began in 1929, though the current designation dates to 1973, covering 543.23
+      hectares with a buffer zone of 281.77 hectares. The castle was built in the thirteenth century to guard
+      a nearby trade route, wedged between three large rock formations; in 1470 King Matthias Corvinus allowed
+      the small fort at Roháč to be upgraded to a full castle. After a fire, only fragments of wall remain,
+      clinging to the rock face.
+    before: 'Stay on the waymarked path: this is a national nature reserve.'
+    around: The atlas currently records no other catalogued site in the vicinity of Súľov.
+  fr:
+    intro: >-
+      Une montagne retournée. Au Paléogène, les rivières ont acheminé des galets jusqu'à la mer et les ont
+      déposés en couches ; la calcite les a cimentés en conglomérat. L'érosion a ensuite emporté tout le
+      reste, et ce qui était autrefois le fond d'un bassin s'est retrouvé en altitude : de l'ancienne dorsale,
+      seules les crêtes ont subsisté, disposées en un anneau en fer à cheval dont les sommets les plus élevés
+      sont Brada et Roháč. C'est ce que les géologues appellent une inversion de relief, et c'est ce qui
+      explique la réserve naturelle nationale de Súľovské skaly, une cité de roche blanche faite de tours,
+      d'aiguilles, de fenêtres et de portails.
+    landscape: >-
+      Les rochers se situent à une dizaine de kilomètres au sud-ouest de Žilina et au sud-est de Bytča. La
+      roche mère est principalement un conglomérat tertiaire à stratification imparfaite, dans lequel des
+      galets calcaires de quelques centimètres et des fragments anguleux de dolomie sont soudés par un ciment
+      calcaire.
+
+
+      Les formes sont d'une grande variété. La Gotická brána (Porte gothique), un arc de treize mètres dont le
+      brisé évoque un portail gothique, est la plus célèbre. Sous Roháč s'ouvre la Obrovská brána, une autre
+      porte de huit mètres, et à proximité, la grotte-fissure Šarkania diera s'étire sur soixante mètres. Au
+      nord, le ruisseau Hlbocký a creusé un canyon étroit au fond duquel tombe une cascade de quatorze mètres.
+      Deux autres grottes ponctuent l'ensemble, et les rochers blancs — aiguilles, tours, piliers — révèlent à
+      qui les regarde avec attention un Indien, un dinosaure, une chouette ou un orgue.
+    wildlife: >-
+      La réserve abrite les pinèdes reliques les plus étendues du territoire protégé des Strážovské vrchy, et
+      réunit des espèces végétales et animales d'ambiances chaudes et montagnardes. Le portail national du
+      tourisme présente Súľov comme le lieu de Slovaquie le plus riche en orchidées.
+
+
+      En automne, quand les forêts alentour se parent de couleurs, les rochers blancs offrent un tableau
+      particulièrement saisissant : c'est la saison recommandée par le site touristique pour les parcourir.
+    visit: >-
+      Le circuit éducatif de Súľov est une boucle circulaire de sept kilomètres et demi, à parcourir en deux
+      heures au maximum. Le sentier est balisé et a été tracé en 1975 ; les randonnées ne demandent guère
+      d'effort physique. Vous y découvrirez la Porte gothique, la cascade de Súľov et les ruines du château de
+      Súľov, ainsi que des espèces rares de faune et de flore.
+    history: >-
+      La protection de la réserve a débuté en 1929, bien que la désignation actuelle date de 1973, avec 543,23
+      hectares protégés et une zone tampon de 281,77 hectares. Le château a été construit au XIIIe siècle pour
+      garder un chemin voisin, encadré par trois grands massifs rocheux ; en 1470, le roi Mathias Corvin
+      autorisa le petit fort de Roháč à être élevé au rang de château. Après un incendie, il n'en reste plus
+      que des fragments de mur accrochés aux rochers.
+    before: 'Restez sur le sentier balisé : il s''agit d''une réserve naturelle nationale.'
+    around: L'atlas ne recense pour l'instant aucun autre lieu catalogué à proximité de Súľov.
+  de:
+    intro: >-
+      Ein Berg, der sich umgekehrt hat. Im Paläogen trugen Flüsse Kiesel ins Meer und lagerten sie Schicht für
+      Schicht ab; Kalk zementierte sie zu Konglomerat. Die Erosion trug danach alles Übrige ab, und was einst
+      der Boden eines Beckens war, lag plötzlich auf der Höhe: Von dem alten Rücken blieben nur die Gipfel
+      übrig, in einem hufeisenförmigen Ring, dessen höchste Kuppen Brada und Roháč heißen. Das nennt man eine
+      Reliefumkehr, und sie erklärt das Nationale Naturschutzgebiet Súľovské skaly, eine Felsenstadt aus
+      weißem Gestein mit Türmen, Nadeln, Fenstern und Toren.
+    landscape: >-
+      Die Felsen liegen etwa zehn Kilometer südwestlich von Žilina und südöstlich von Bytča. Das
+      Ausgangsgestein ist vor allem tertiäres Konglomerat mit unvollständiger Schichtung; zentimetergroße
+      Kalkgerölle und eckige Dolomitfragmente sind durch Kalkmörtel verbunden.
+
+
+      Die Formen sind äußerst vielfältig. Das Gotická brána (Gotische Tor), ein dreizehn Meter breiter Bogen,
+      dessen Spitz an einen gotischen Portal erinnert, ist das berühmteste Stück. Unter Roháč öffnet sich das
+      acht Meter weite Obrovská brána, und nahe dabei zieht sich die Kluftgrotte Šarkania diera sechzig Meter
+      tief in den Fels. Im Norden hat der Bach Hlbocký eine enge Schlucht mit einem vierzehn Meter hohen
+      Wasserfall herausgemeißelt. Zwei weitere Höhlen ergänzen das Ensemble, und die weißen Felsen — Nadeln,
+      Türme, Pfeiler — zeigen dem geduldigen Betrachter einen Indianer, einen Dinosaurier, eine Eule oder eine
+      Orgel.
+    wildlife: >-
+      Das Reservat beherbergt die ausgedehntesten Relikt-Kiefernwälder im Schutzgebiet der Strážovské vrchy
+      und vereint Pflanzen- und Tierarten warmer wie montaner Lebensräume. Das nationale Tourismusportal nennt
+      Súľov als den orchideenreichsten Fundort des Landes.
+
+
+      Im Herbst, wenn die umliegenden Wälder sich farbenprächtig verfärben, bieten die weißen Felsen ein
+      besonders eindrucksvolles Bild — die Jahreszeit, die die Tourismus-Website für eine Erkundung empfiehlt.
+    visit: >-
+      Der Súľover Lehrpfad ist eine Rundtour von siebeneinhalb Kilometern, die in höchstens zwei Stunden zu
+      bewältigen ist. Der Weg ist beschildert und wurde 1975 angelegt; die Wanderungen verlangen wenig
+      körperliche Anstrengung. Unterwegs siehst du das Gotische Tor, den Súľover Wasserfall und die Ruinen von
+      Burg Súľov sowie seltene Tiere und Pflanzen.
+    history: >-
+      Der Schutz des Reservats begann 1929, obwohl die aktuelle Ausweisung von 1973 stammt und 543,23 Hektar
+      mit einer Schutzzone von 281,77 Hektar umfasst. Die Burg wurde im dreizehnten Jahrhundert zum Schutz
+      eines nahen Weges errichtet, eingebettet zwischen drei große Felsformationen; 1470 erlaubte König
+      Matthias Corvinus, das kleine Fort auf Roháč zur Burg auszubauen. Nach einem Brand blieben nur
+      Mauerreste übrig, die an die Felsen geklebt sind.
+    before: 'Bleib auf dem markierten Pfad: Das hier ist ein nationales Naturschutzgebiet.'
+    around: Der Atlas verzeichnet derzeit kein weiteres katalogisiertes Ziel in der Nähe von Súľov.
+  it:
+    intro: >-
+      Una montagna capovolta. Nel Paleogene i fiumi trasportarono ciottoli fino al mare depositandoli strato
+      su strato; la calce li cementò in conglomerato. L'erosione spazzò via tutto il resto, e ciò che era
+      stato il fondo di un bacino si ritrovò in cima: di quella grande dorsale sopravvissero solo le cime,
+      disposte in un anello a ferro di cavallo i cui rilievi più alti sono Brada e Roháč. I geologi chiamano
+      questo fenomeno inversione del rilievo, ed è ciò che spiega la Riserva naturale nazionale di Súľovské
+      skaly, una città di roccia bianca fatta di torri, guglie, finestre e portali.
+    landscape: >-
+      Le rocce si trovano a circa dieci chilometri a sud-ovest di Žilina e a sud-est di Bytča. La roccia madre
+      è principalmente conglomerato terziario a stratificazione imperfetta: ciottoli calcarei di pochi
+      centimetri e frammenti angolosi di dolomia sono legati da un cemento calcareo.
+
+
+      Le forme sono quanto mai varie. La Gotická brána (Porta Gotica), un arco di tredici metri il cui profilo
+      ricorda un portale gotico, è la più famosa. Sotto Roháč si apre un'altra porta di otto metri, la
+      Obrovská brána, e nelle vicinanze la grotta-fessura Šarkania diera si sviluppa per sessanta metri. A
+      nord, il torrente Hlbocký ha scavato un canyon stretto che termina in una cascata di quattordici metri.
+      Due ulteriori grotte completano il complesso, e le rocce bianche — guglie, torri, pilastri — rivelano a
+      chi le osserva con attenzione le sagome di un indiano, un dinosauro, una civetta o un organo a canne.
+    wildlife: >-
+      La riserva conserva le più estese foreste di pino relitte del territorio protetto degli Strážovské vrchy
+      e riunisce specie vegetali e animali di ambienti sia caldi che montani. Il portale turistico nazionale
+      presenta Súľov come il sito più ricco della Slovacchia in specie di orchidee.
+
+
+      In autunno, quando le foreste circostanti si accendono di colori, le rocce bianche offrono uno
+      spettacolo particolarmente suggestivo: è la stagione che il sito turistico consiglia per visitarle.
+    visit: >-
+      Il sentiero didattico di Súľov è un anello di sette chilometri e mezzo, percorribile in massimo due ore.
+      Il tracciato è segnalato e fu realizzato nel 1975; le passeggiate non richiedono grande sforzo fisico.
+      Lungo il percorso si ammirano la Porta Gotica, la cascata di Súľov e le rovine del castello di Súľov,
+      oltre a flora e fauna rare.
+    history: >-
+      La tutela della riserva iniziò nel 1929, benché la designazione attuale risalga al 1973 con 543,23
+      ettari protetti e una fascia di protezione di 281,77 ettari. Il castello fu costruito nel XIII secolo
+      per proteggere una strada vicina, incastonato tra tre grandi formazioni rocciose; nel 1470 il re Mattia
+      Corvino permise che il piccolo forte di Roháč fosse elevato a castello. Dopo un incendio, restano solo
+      frammenti di muro aggrappati alla roccia.
+    before: 'Rimani sul sentiero segnalato: si tratta di una riserva naturale nazionale.'
+    around: L'atlante non censisce per il momento altri siti catalogati nelle vicinanze di Súľov.
+  pt:
+    intro: >-
+      Uma montanha de cabeça para baixo. No Paleogeno os rios arrastaram seixos até ao mar e foram-nos
+      depositando; o calcário cimentou-os em conglomerado. A erosão tratou de levar o resto, e o que antes era
+      o fundo de uma bacia ficou no alto: da antiga cumeada restaram apenas os cumes, dispostos em anel com
+      forma de ferradura cujos picos mais altos são Brada e Roháč. Os geólogos chamam a este fenómeno inversão
+      de relevo, e é ele que explica a Reserva Natural Nacional de Súľovské skaly, uma cidade de rocha branca
+      de torres, agulhas, janelas e portais.
+    landscape: >-
+      As rochas ficam a cerca de dez quilómetros a sudoeste de Žilina e a sudeste de Bytča. A rocha mãe é
+      sobretudo conglomerado terciário de estratificação imperfeita; seixos calcários de alguns centímetros e
+      fragmentos angulosos de dolomite estão ligados por um cimento calcário.
+
+
+      As formas são das mais variadas. A Gotická brána (Porta Gótica), um arco de treze metros cujo quebrado
+      evoca um portal gótico, é a mais famosa. Sob Roháč abre-se outra porta de oito metros, a Obrovská brána,
+      e perto dela a gruta fissurada Šarkania diera estende-se por sessenta metros. A norte, o ribeiro Hlbocký
+      escavou um canhão estreito com uma cascata de catorze metros. Duas outras grutas completam o conjunto, e
+      as rochas brancas — agulhas, torres, pilares — revelam a quem as olha com atenção um índio, um
+      dinossauro, uma coruja ou um órgão de tubos.
+    wildlife: >-
+      A reserva conserva os pinhais relíquia mais extensos do território protegido dos Strážovské vrchy e
+      reúne espécies de plantas e animais de ambientes quentes e de montanha. O portal turístico nacional
+      apresenta Súľov como o lugar mais rico da Eslováquia em orquídeas.
+
+
+      No outono, quando as florestas à volta se tingem de cor, as rochas brancas oferecem um quadro
+      especialmente vivo: é a época que o site turístico recomenda para as percorrer.
+    visit: >-
+      O percurso educativo de Súľov é um circuito circular de sete quilómetros e meio que se percorre em duas
+      horas no máximo. O trilho está sinalizado e foi construído em 1975; as caminhadas não exigem grande
+      esforço físico. Ao longo do caminho podes ver a Porta Gótica, a cascata de Súľov e as ruínas do castelo
+      de Súľov, além de fauna e flora raras.
+    history: >-
+      A proteção da reserva começou em 1929, embora a designação atual date de 1973, com 543,23 hectares
+      protegidos e uma faixa de proteção de 281,77 hectares. O castelo foi construído no século XIII para
+      proteger uma estrada próxima, entre três grandes formações rochosas; em 1470 o rei Matias Corvino
+      permitiu que o pequeno forte de Roháč fosse transformado em castelo. Após um incêndio, restam apenas
+      fragmentos de muro agarrados às rochas.
+    before: 'Mantém-te no trilho sinalizado: é uma reserva natural nacional.'
+    around: O atlas não regista por enquanto nenhum outro lugar catalogado nas proximidades de Súľov.
+fuentes:
+  - url: https://chkostrazovskevrchy.sopsr.sk/priroda/maloplosne-chranene-uzemia/narodne-prirodne-rezervacie/npr-sulovske-skaly/
+    titulo: NPR Súľovské skaly — CHKO Strážovské vrchy
+    fecha_consulta: '2026-10-31'
+  - url: https://slovakia.travel/en/things-to-see-and-do/admire-slovakia-indoors/sulov-rocks
+    titulo: Súľov Rocks — Slovakia.travel
+    fecha_consulta: '2026-10-31'
+  - url: https://slovakia.travel/en/fotogenickym-miestam-na-stope/3-cast
+    titulo: Part 3 — Slovakia.travel
+    fecha_consulta: '2026-10-31'
+  - url: https://sk.wikipedia.org/wiki/S%C3%BA%C4%BEovsk%C3%A9_skaly
+    titulo: Wikipedia — Súľovské skaly
+    fecha_consulta: '2026-10-31'
+  - url: https://sk.wikipedia.org/wiki/S%C3%BA%C4%BEovsk%C3%BD_hrad
+    titulo: Wikipedia — Súľovský hrad
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:S%C3%BA%C4%BEovsk%C3%A9_skaly_01-2014_-_panoramio.jpg
+    autor: Michal Jakubský
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-17'

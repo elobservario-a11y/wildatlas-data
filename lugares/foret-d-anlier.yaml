@@ -1,0 +1,593 @@
+id: foret-d-anlier
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Anlier
+  en: Anlier Forest
+  fr: Forêt d'Anlier
+  de: Anlier-Wald
+  it: Foresta di Anlier
+  pt: Floresta de Anlier
+nombre_original: Forêt d'Anlier
+alias:
+  - Anlier Forest
+paises:
+  - BE
+region:
+  es: Luxemburgo Belga (Habay / Habay-la-Neuve)
+  en: Belgian Luxembourg (Habay / Habay-la-Neuve)
+  fr: Luxembourg belge (Habay / Habay-la-Neuve)
+  de: Belgisch-Luxemburg (Habay / Habay-la-Neuve)
+  it: Lussemburgo Belga (Habay / Habay-la-Neuve)
+  pt: Luxemburgo Belga (Habay / Habay-la-Neuve)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 49.78
+  lon: 5.63
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555743336
+  nombre_en_la_fuente: Vallée de l\'Anlier et affluents
+  categoria_uicn: IV
+  capa: capas/cdda/foret-d-anlier.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - cervus_elaphus
+  - felis_silvestris
+  - ciconia_nigra
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Parque Natural Haute-Sûre Forêt d’Anlier
+    url: https://parcnaturel.be/
+  - titulo: Mapas — paseos y circuitos de la Forêt d’Anlier
+    url: https://parcnaturel.be/le-parc/publications/
+  - titulo: Rutas — movilidad e itinerarios forestales
+    url: https://parcnaturel.be/projets/mobilite/
+  - titulo: Mapa — senderos de la Grande Forêt d’Anlier
+    url: https://parcnaturel.be/wp-content/uploads/2024/07/240619_Depliant_120-balades_BR.pdf
+  - titulo: Gestor — contacto para preparar la visita
+    url: https://parcnaturel.be/contact/
+resumen:
+  es: >-
+    Uno de los hayedos continuos más extensos de Bélgica, protegiendo las cabeceras fluviales del macizo
+    ardenés.
+  en: >-
+    One of the most extensive contiguous beech forests in Belgium, safeguarding the headwater rivers of the
+    Ardennes massif.
+  fr: >-
+    L'une des plus vastes hêtraies d'un seul tenant de Belgique, protégeant les têtes de bassin du massif
+    ardennais.
+  de: >-
+    Einer der weitläufigsten zusammenhängenden Buchenwälder Belgiens, der die Quellflüsse des Ardennenmassivs
+    schützt.
+  it: >-
+    Una delle faggete continue più vaste del Belgio, a protezione delle sorgenti fluviali del massiccio delle
+    Ardenne.
+  pt: Um dos mais vastos favais contínuos da Bélgica, protegendo as cabeceiras fluviais do maciço das Ardenas.
+unico:
+  es: >-
+    El mayor bosque de frondosas sin cortes de Bélgica, con una cigüeña negra como emblema que anida en sus
+    robles.
+  en: >-
+    Belgium's largest unbroken deciduous woodland, with the black stork as its emblem nesting in the ancient
+    oaks.
+  fr: >-
+    Le plus grand massif feuillu ininterrompu de Belgique, ayant pour emblème la cigogne noire qui niche dans
+    ses chênes.
+  de: >-
+    Das größte unzerschnittene Laubwaldgebiet Belgiens mit dem Schwarzstorch als Wappentier, der in den
+    Eichenkronen nistet.
+  it: >-
+    Il più grande comprensorio boschivo di latifoglie compatto del Belgio, con la cicogna nera eletta a
+    simbolo nidificante sulle querce.
+  pt: >-
+    O maior maciço de folhosas contínuo da Bélgica, ostentando a cegonha-preta como emblema nidificante nos
+    seus carvalhais.
+observaciones:
+  es: Comprueba con el parque el horario de la Maison du Parc y el estado de los observatorios antes de salir.
+texto:
+  es:
+    intro: >-
+      En lo alto de una cresta que reparte el agua entre dos mares, un bosque entero respira sin interrupción.
+      La Forêt d'Anlier, en la provincia belga de Luxemburgo, es el mayor macizo de frondosas de una sola
+      pieza de Bélgica. Cubre la divisoria entre las cuencas del Mosa y del Rin, culmina a 517 m y forma,
+      junto al valle del Alto Sûre, el Parque Natural Haute-Sûre Forêt d'Anlier. Es un bosque para meterse
+      dentro, entre hayas y robles, siguiendo senderos balizados.
+    landscape: >-
+      El bosque está sobre una divisoria. A un lado queda el Rulles, de la cuenca del Mosa; al otro, el Sûre,
+      de la del Rin. Los cursos de agua que nacen aquí son de gran calidad físico-química, y entre los árboles
+      se abren humedales, praderas pantanosas abandonadas y arroyos oligotróficos poco contaminados.
+
+
+      El hayedo manda en el macizo. El haya es la especie mayoritaria y el roble albar la segunda, con
+      praderas donde crecen comunidades de nardo con Arnica montana. Alrededor de esa masa de frondosas, el
+      valle del Alto Sûre añade otra cara del parque: praderas húmedas, turberas bajas y carrizales ricos en
+      especies raras de la flora belga. Esa cuenca está reconocida como humedal de importancia internacional
+      por el Convenio de Ramsar.
+    wildlife: >-
+      El bosque cobija fauna de peso. Los grandes mamíferos son el [ciervo](/especie/cervus_elaphus/), el
+      [corzo](/especie/capreolus_capreolus/) y el [jabalí](/especie/sus_scrofa/); le siguen zorros, [gatos
+      monteses](/especie/felis_silvestris/), [martas](/especie/martes_martes/), armiños y comadrejas. Entre
+      las aves figuran la [cigüeña negra](/especie/ciconia_nigra/), el grévol, el [abejero
+      europeo](/especie/pernis_apivorus/) y el [pico negro](/especie/dryocopus_martius/). El [pico
+      mediano](/especie/picoides_medius/) vive ligado a robledales y hayedos-robledales; la cigüeña negra
+      elige las ramas robustas del roble para su nido.
+
+
+      El agua guarda lo más discreto. En el Arlune vive un [castor](/especie/castor_fiber/), y el bosque
+      alberga la mayor población de [mejillón de río perlífero](/especie/margaritifera_margaritifera/) de
+      Valonia. El parque sigue además la mariposa Lycaena helle y el tritón crestado. Y de mayo a septiembre,
+      de noche y con buen tiempo, se graban con aparatos de ultrasonidos los murciélagos para vigilar sus
+      poblaciones.
+    visit: >-
+      Empieza por la Maison du Parc, en Martelange, en el antiguo molino Kuborn. Con maquetas y películas
+      presenta la fauna, la flora y el patrimonio. En sus alrededores hay una «balade des oiseaux» y un
+      laberinto de biodiversidad. Ese mismo molino tuvo, desde 1908, una turbina eléctrica que en 1942
+      alimentaba a todo el pueblo.
+
+
+      El parque ha abierto dos observatorios de la fauna en madera local. Al de la reserva natural de
+      Louftémont–Vlessart, en altura sobre el Arlune, donde se intenta ver el castor, se llega desde Vlessart
+      por la rue des Champs Gillots durante 1,5 km y 500 m a pie; también por el itinerario «Balade au cœur
+      d'une réserve naturelle». El de la Vallée du Fourneau, junto al GR151, es un puesto de 180° para
+      insectos, aves y mamíferos: desde la salida 28a Rulles se sigue la dirección de Thibessart, se aparca a
+      1 km y se anda 1,2 km, o se llega con un desvío de 1,2 km desde el Sentier des Cerfs.
+
+
+      Hay más. El Sentier des fraudeurs es una ruta campestre de unos cinco kilómetros de ida y vuelta, con
+      vistas al valle del Sûre y a antiguas canteras de pizarra. En el Domaine d'Oisefagne, en Fauvillers, un
+      paseo señalizado de unos 3 km enseña la fauna, la flora y los oficios del bosque. El Chemin des côtes,
+      en Rulles, esconde 13 esculturas de animales en el sotobosque del valle de Mandebras. El mirador de
+      Martelange, a 410 m, domina el valle del Alto Sûre y el borde del bosque. Y el Circuit des Légendes
+      recorre el parque a través de cuentos de antaño, con una escultura por cada relato.
+    history: >-
+      Hasta 1952, el bosque fue del Estado belga; ese año pasó a ser propiedad indivisa del Estado (50 %) y de
+      las 18 comunas usuarias (50 %). El parque natural, por su parte, fue reconocido por el Gobierno valón el
+      12 de julio de 2001.
+
+
+      Un macizo así sigue siendo frágil: la crisis de los escolítidos y las sequías lo muestran, y el haya, la
+      especie mayoritaria, sufre defoliación y decaimiento. Por eso el parque diversifica el hayedo con serbal
+      de cazadores, arce sicómoro, castaño, tilo de hoja pequeña y abedul verrugoso, ayuda al roble a
+      regenerarse abriendo luz en el sotobosque y quiere crear más de 20 km de lindes escalonadas entre bosque
+      y espacio abierto.
+    before: Comprueba con el parque el horario de la Maison du Parc y el estado de los observatorios antes de salir.
+    around: >-
+      A unos 9 km está el [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/); a unos 10 km, el [Parc naturel de la Vallée
+      de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/); a unos 11 km, la [Grande Forêt de
+      Saint-Hubert](/lugar/grande-foret-de-saint-hubert/), y a unos 25 km el [Naturpark Our -
+      Ourtal](/lugar/naturpark-our---ourtal/).
+  en:
+    intro: >-
+      High on an upland ridge dividing water between two distinct seas, an entire woodland breathes unbroken.
+      The Forêt d'Anlier, located in the Belgian province of Luxembourg, constitutes the largest single-piece
+      deciduous forest tract in Belgium. Spanning the watershed between the Meuse and Rhine basins, it peaks
+      at 517 m and forms, together with the Upper Sûre valley, the Haute-Sûre Forêt d'Anlier Nature Park. It
+      is a forest meant to be experienced from within, beneath towering beeches and sessile oaks along
+      well-marked footpaths.
+    landscape: >-
+      The forest straddles a major hydrological divide. On one flank drains the Rulles towards the Meuse
+      basin; on the other flows the Sûre into the Rhine system. The headwater streams rising here exhibit
+      exceptional chemical and ecological purity, weaving through peat hollows, abandoned bog pastures, and
+      pristine oligotrophic brooks.
+
+
+      Beech reigns supreme across the massif. European beech is the primary species with sessile oak ranking
+      second, interspersed with acidic grassland clearings hosting matgrass swards and Arnica montana.
+      Encircling this deciduous core, the Upper Sûre valley adds an alluvial dimension: wet meadows, low
+      mires, and rich reedbeds sheltering botanical rarities of the Belgian flora. This wetland basin is
+      internationally designated under the Ramsar Convention.
+    wildlife: >-
+      The woodland shelters substantial wildlife. Large ungulates include the [red
+      deer](/especie/cervus_elaphus/), [roe deer](/especie/capreolus_capreolus/), and [wild
+      boar](/especie/sus_scrofa/); they are shadowed by red foxes, [European
+      wildcats](/especie/felis_silvestris/), [pine martens](/especie/martes_martes/), stoats, and weasels.
+      Avian residents feature the [black stork](/especie/ciconia_nigra/), hazel grouse, [European honey
+      buzzard](/especie/pernis_apivorus/), and [black woodpecker](/especie/dryocopus_martius/). The [middle
+      spotted woodpecker](/especie/picoides_medius/) remains tied to mature oak and mixed oak-beech stands;
+      the black stork selects the sturdy horizontal boughs of veteran oaks for its bulky eyrie.
+
+
+      The clear waterways guard the most secretive inhabitants. Along the Arlune thrives the [Eurasian
+      beaver](/especie/castor_fiber/), and the forest hosts the largest surviving population of the
+      [freshwater pearl mussel](/especie/margaritifera_margaritifera/) in Wallonia. Park biologists also
+      monitor the violet copper butterfly and northern crested newt. From May to September, on calm nights,
+      ultrasound detectors monitor forest bat activity to track population trends.
+    visit: >-
+      Begin your exploration at the Maison du Parc in Martelange, housed within the historic Kuborn watermill.
+      Models and documentary screenings interpret regional fauna, flora, and architectural heritage.
+      Surrounding the mill are a bird discovery walk and a biodiversity maze. That same mill operated an
+      electric turbine from 1908 that by 1942 supplied electricity to the entire village.
+
+
+      The park authority has erected two timber wildlife hides built of local wood. The hide in the
+      Louftémont–Vlessart nature reserve, overlooking the Arlune where visitors watch for beavers, is reached
+      from Vlessart via rue des Champs Gillots over 1.5 km followed by 500 m on foot; it is also linked to the
+      Balade au cœur d'une réserve naturelle circuit. The hide in the Vallée du Fourneau, beside the GR151
+      trail, provides a 180° panoramic vista over insects, birds, and forest mammals: from motorway exit 28a
+      Rulles follow signs toward Thibessart, park at 1 km and walk 1.2 km, or take a 1.2 km detour from the
+      Sentier des Cerfs.
+
+
+      Further discoveries abound. The Sentier des fraudeurs is a country trail of about five kilometres
+      return, offering vistas across the Sûre valley and old slate quarries. At Domaine d'Oisefagne in
+      Fauvillers, a waymarked loop of some 3 km illustrates woodland biodiversity and forestry trades. The
+      Chemin des côtes in Rulles conceals 13 animal sculptures throughout the understorey of the Mandebras
+      valley. The Martelange viewpoint at 410 m commands the Upper Sûre valley and forest fringe, while the
+      Circuit des Légendes traverses the park through folklore tales, each commemorated by a wood sculpture.
+    history: >-
+      Until 1952 the forest belonged entirely to the Belgian State; that year ownership was restructured into
+      an undivided co-proprietorship shared between the State (50%) and 18 local user municipalities (50%).
+      The nature park received official recognition from the Walloon Government on 12 July 2001.
+
+
+      Such an extensive forest remains vulnerable: bark beetle outbreaks and recurrent droughts highlight its
+      sensitivity, with European beech, the dominant tree, suffering crown dieback. Consequently, the park is
+      actively diversifying stands by reintroducing rowan, sycamore maple, sweet chestnut, small-leaved lime,
+      and silver birch, facilitating oak regeneration through canopy thinning, and creating more than 20 km of
+      graded forest edges bordering open pastures.
+    before: >-
+      Confirm opening hours for the Maison du Parc and current access conditions for wildlife hides with park
+      authorities before setting out.
+    around: >-
+      Around 9 km away lies [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/); about 10 km distant is [Parc naturel de la
+      Vallée de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/); roughly 11 km away stands [Grande
+      Forêt de Saint-Hubert](/lugar/grande-foret-de-saint-hubert/), and around 25 km away lies [Naturpark Our
+      - Ourtal](/lugar/naturpark-our---ourtal/).
+  fr:
+    intro: >-
+      Au sommet d'une crête qui partage les eaux entre deux mers, un massif forestier respire sans
+      discontinuer. La forêt d'Anlier, dans la province belge de Luxembourg, constitue le plus vaste massif
+      feuillu d'un seul tenant de Belgique. Coiffant la crête de partage des eaux entre Meuse et Rhin, elle
+      culmine à 517 m et compose, avec la vallée de la Haute-Sûre, le parc naturel Haute-Sûre Forêt d'Anlier.
+      C'est une forêt à vivre de l'intérieur, sous les hêtres et les chênes, en arpentant ses sentiers
+      balisés.
+    landscape: >-
+      La forêt chevauche une ligne de partage majeure. D'un côté s'écoule la Rulles, vers le bassin de la
+      Meuse ; de l'autre, la Sûre, vers le bassin rhénan. Les rivières qui prennent source ici présentent une
+      remarquable pureté physico-chimique, serpentant entre tourbières, prairies marécageuses relictuelles et
+      ruisseaux oligotrophes préservés.
+
+
+      La hêtraie domine le massif. Le hêtre forme l'essence principale et le chêne sessile la seconde,
+      côtoyant des clairières à nardies riches en Arnica montana. Autour de cette matrice feuillue, la vallée
+      de la Haute-Sûre apporte un complément écologique : prairies humides, bas-marais et roselières abritant
+      des fleurons de la flore belge. Ce bassin est inscrit sur la liste Ramsar des zones humides d'importance
+      internationale.
+    wildlife: >-
+      Le massif héberge une faune imposante. Les grands ongulés sont le [cerf
+      élaphe](/especie/cervus_elaphus/), le [chevreuil](/especie/capreolus_capreolus/) et le
+      [sanglier](/especie/sus_scrofa/) ; s'y ajoutent renard roux, [chat
+      forestier](/especie/felis_silvestris/), [martre des pins](/especie/martes_martes/), hermine et belette.
+      Côté oiseaux figurent la [cigogne noire](/especie/ciconia_nigra/), la gélinotte des bois, la [bondrée
+      apivore](/especie/pernis_apivorus/) et le [pic noir](/especie/dryocopus_martius/). Le [pic
+      mar](/especie/picoides_medius/) reste inféodé aux chênaies et hêtraies-chênaies ; la cigogne noire
+      recherche les grosses branches charpentières des chênes pour installer son aire.
+
+
+      Les cours d'eau recèlent les hôtes les plus discrets. L'Arlune abrite le [castor
+      d'Europe](/especie/castor_fiber/), et la forêt héberge la principale population de [moule
+      perlière](/especie/margaritifera_margaritifera/) de Wallonie. Le parc inventorie en outre le cuivré de
+      la bistorte et le triton crêté. De mai à septembre, par nuit calme, des détecteurs d'ultrasons
+      enregistrent les chauves-souris pour suivre l'évolution des colonies.
+    visit: >-
+      Commencez par la Maison du Parc à Martelange, établie dans l'ancien moulin Kuborn. Maquettes et
+      projections y présentent la faune, la flore et les traditions. Ses abords accueillent la « balade des
+      oiseaux » et un labyrinthe de biodiversité. Ce moulin intégra dès 1908 une turbine hydroélectrique qui
+      alimentait en 1942 tout le village.
+
+
+      Le parc a bâti deux observatoires fauniques en bois local. Celui de la réserve naturelle de
+      Louftémont–Vlessart, dominant l'Arlune où l'on guette le castor, se rallie depuis Vlessart par la rue
+      des Champs Gillots sur 1,5 km puis 500 m à pied, ou via l'itinéraire « Balade au cœur d'une réserve
+      naturelle ». Celui de la Vallée du Fourneau, le long du GR151, offre un panorama à 180° sur insectes,
+      oiseaux et mammifères : depuis la sortie 28a Rulles, suivre Thibessart, se garer à 1 km et marcher 1,2
+      km, ou faire un crochet de 1,2 km depuis le Sentier des Cerfs.
+
+
+      D'autres promenades s'offrent à vous. Le Sentier des fraudeurs est une boucle bucolique d'environ cinq
+      kilomètres aller-retour offrant de belles perspectives sur la vallée de la Sûre et les anciennes
+      carrières d'ardoise. Au Domaine d'Oisefagne à Fauvillers, un circuit balisé d'environ 3 km explicite la
+      faune, la flore et les métiers du bois. Le Chemin des côtes à Rulles dissimule 13 sculptures animalières
+      dans le sous-bois du vallon de Mandebras. Le belvédère de Martelange, à 410 m, domine la vallée et la
+      lisière, tandis que le Circuit des Légendes parcourt le massif au fil de contes traditionnels.
+    history: >-
+      Jusqu'en 1952, la forêt appartenait à l'État belge ; cette année-là fut instaurée une copropriété
+      indivise entre l'État (50 %) et les 18 communes usagères (50 %). Le parc naturel a été reconnu par le
+      Gouvernement wallon le 12 juillet 2001.
+
+
+      Ce vaste massif reste vulnérable : pullulations de scolyte et sécheresses en témoignent, le hêtre
+      souffrant de dépérissements de cime. Le parc diversifie donc les peuplements avec sorbier des oiseleurs,
+      érable sycomore, châtaignier, tilleul à petites feuilles et bouleau verruqueux, stimule la régénération
+      du chêne par des trouées lumineuses et projette plus de 20 km de lisières étagées bordant les espaces
+      agricoles.
+    before: >-
+      Vérifiez auprès du parc les horaires d'ouverture de la Maison du Parc et la praticabilité des
+      observatoires avant votre départ.
+    around: >-
+      À environ 9 km se trouve le [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/) ; à environ 10 km, le [Parc naturel de la
+      Vallée de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/) ; à environ 11 km, la [Grande Forêt
+      de Saint-Hubert](/lugar/grande-foret-de-saint-hubert/), et à environ 25 km le [Naturpark Our -
+      Ourtal](/lugar/naturpark-our---ourtal/).
+  de:
+    intro: >-
+      Auf einem Höhenrücken, der das Wasser zwischen zwei Meeren scheidet, erstreckt sich ein ununterbrochenes
+      Waldmassiv. Die Forêt d'Anlier in der belgischen Provinz Luxemburg ist das größte zusammenhängende
+      Laubwaldgebiet Belgiens. Sie überzieht die Wasserscheide zwischen den Einzugsgebieten von Maas und
+      Rhein, erreicht 517 m Höhe und bildet zusammen mit dem Tal der Obersauer den Naturpark Haute-Sûre Forêt
+      d'Anlier. Ein Wald, den man am besten auf markierten Pfaden unter Buchen und Eichen durchwandert.
+    landscape: >-
+      Das Waldgebiet liegt auf einer markanten Wasserscheide. Nach einer Seite fließt die Rulles zum
+      Einzugsgebiet der Maas, nach der anderen die Sauer zum Rhein. Die hier entspringenden Bäche zeichnen
+      sich durch hervorragende Gewässergüte aus, gesäumt von Feuchtgebieten, brachliegenden Feuchtwiesen und
+      naturnahen oligotrophen Wasserläufen.
+
+
+      Der Buchenwald prägt das Massiv. Die Rotbuche stellt die häufigste Baumart dar, gefolgt von der
+      Traubeneiche, begleitet von Borstgrasrasen mit Arnica montana auf offenen Lichtungen. Um diesen Waldkern
+      fügt das Tal der Obersauer Feuchtwiesen, Niedermoore und artenreiche Röhrichte hinzu. Dieses
+      Einzugsgebiet ist als Feuchtgebiet internationaler Bedeutung nach der Ramsar-Konvention ausgewiesen.
+    wildlife: >-
+      Der Wald beherbergt ein reiches Wildaufkommen. Zu den Großsäugern zählen
+      [Rothirsch](/especie/cervus_elaphus/), [Reh](/especie/capreolus_capreolus/) und
+      [Wildschwein](/especie/sus_scrofa/), gefolgt von Rotfuchs, [Wildkatze](/especie/felis_silvestris/),
+      [Baummarder](/especie/martes_martes/), Hermelin und Mauswiesel. Unter den Vögeln sind
+      [Schwarzstorch](/especie/ciconia_nigra/), Haselhuhn, [Wespenbussard](/especie/pernis_apivorus/) und
+      [Schwarzspecht](/especie/dryocopus_martius/) heimisch. Der [Mittelspecht](/especie/picoides_medius/)
+      bewohnt alte Eichen- und Buchen-Eichen-Wälder; der Schwarzstorch wählt die kräftigen Starkäste alter
+      Eichen für seinen Horst.
+
+
+      Die Gewässer bergen verborgene Schätze. An der Arlune lebt der [Biber](/especie/castor_fiber/), und der
+      Wald schützt das bedeutendste Vorkommen der [Flussperlmuschel](/especie/margaritifera_margaritifera/) in
+      ganz Wallonien. Der Naturpark überwacht zudem den Blauschillernden Feuerfalter und den Kammmolch. Von
+      Mai bis September erfassen Ultraschalldetektoren nachts bei ruhigem Wetter Fledermausrufe, um die
+      Populationen zu dokumentieren.
+    visit: >-
+      Beginne deinen Besuch im Naturparkhaus Maison du Parc in Martelange in der historischen Kuborn-Mühle.
+      Modelle und Filme veranschaulichen Tierwelt, Pflanzen und regionales Kulturerbe. Im Umfeld laden ein
+      Vogelpfad und ein Biodiversitäts-Labyrinth zum Verweilen ein. Jene Mühle verfügte ab 1908 über eine
+      Stromturbine, die 1942 das gesamte Dorf mit Elektrizität versorgte.
+
+
+      Der Park hat zwei Tierbeobachtungshütten aus heimischem Holz errichtet. Die Hütte im Naturschutzgebiet
+      Louftémont–Vlessart mit Blick auf die Arlune zur Biberbeobachtung erreicht man von Vlessart über die Rue
+      des Champs Gillots nach 1,5 km und 500 m Fußweg oder über den Rundweg «Balade au cœur d'une réserve
+      naturelle». Der Ausguck im Vallée du Fourneau am Wanderweg GR151 bietet einen 180°-Panoramablick auf
+      Insekten, Vögel und Säugetiere: von der Ausfahrt 28a Rulles Richtung Thibessart fahren, nach 1 km parken
+      und 1,2 km gehen, oder einen Abstecher von 1,2 km vom Hirschpfad Sentier des Cerfs einlegen.
+
+
+      Es gibt weitere Entdeckungen. Der Sentier des fraudeurs ist ein etwa fünf Kilometer langer Rundweg mit
+      Ausblicken ins Sauertal und auf alte Schieferbrüche. Auf der Domaine d'Oisefagne in Fauvillers erläutert
+      ein beschilderter Rundgang von rund 3 km Waldökologie und Forstberufe. Der Chemin des côtes in Rulles
+      birgt 13 Tierskulpturen im Unterholz des Mandebras-Tals. Der Aussichtspunkt von Martelange auf 410 m
+      überblickt das Sauertal, während der Sagenweg Circuit des Légendes regionale Erzählungen mit
+      Holzskulpturen lebendig macht.
+    history: >-
+      Bis 1952 gehörte der Wald dem belgischen Staat; in jenem Jahr wurde er in ungeteiltes Miteigentum
+      zwischen Staat (50 %) und 18 Anrainergemeinden (50 %) überführt. Der Naturpark wurde am 12. Juli 2001
+      von der wallonischen Regierung offiziell anerkannt.
+
+
+      Ein solches Massiv bleibt empfindlich: Borkenkäferkalamitäten und Dürren setzen den Buchen durch
+      Kronenverlichtung zu. Deshalb bereichert der Park die Bestände mit Vogelbeere, Bergahorn, Edelkastanie,
+      Winterlinde und Moorbirke, fördert Eichenverjüngung durch gezielte Lichtungen und plant mehr als 20 km
+      gestufte Waldränder zu angrenzenden Offenlandflächen.
+    before: >-
+      Erkundige dich vor dem Aufbruch beim Naturpark über die Öffnungszeiten des Parkhauses und den Zustand
+      der Beobachtungshütten.
+    around: >-
+      Rund 9 km entfernt liegt der [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/); etwa 10 km der [Parc naturel de la Vallée
+      de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/); etwa 11 km die [Grande Forêt de
+      Saint-Hubert](/lugar/grande-foret-de-saint-hubert/) und rund 25 km der [Naturpark Our -
+      Ourtal](/lugar/naturpark-our---ourtal/).
+  it:
+    intro: >-
+      In cima a una dorsale che ripartisce le acque fra due mari, un'intera foresta respira senza
+      interruzioni. La Forêt d'Anlier, nella provincia belga del Lussemburgo, costituisce il massiccio di
+      latifoglie compatto più vasto del Belgio. Copre lo spartiacque tra i bacini della Mosa e del Reno,
+      culmina a 517 m e compone assieme alla valle dell'Alta Sûre il Parco naturale Haute-Sûre Forêt d'Anlier.
+      È un bosco da esplorare dall'interno, camminando tra faggi e querce lungo sentieri segnati.
+    landscape: >-
+      La foresta sorge a cavallo di una linea di displuvio fondamentale. Da un lato scende la Rulles verso il
+      bacino della Mosa; dall'altro la Sûre verso il Reno. I corsi d'acqua sorgivi vantano un'eccellente
+      qualità idrobiologica, aprendosi fra torbiere, prati umidi abbandonati e ruscelli oligotrofici intatti.
+
+
+      La faggeta governa il rilievo. Il faggio è la specie dominante e la rovere la seconda, con radure
+      pascolive colonizzate da nardeti con Arnica montana. Attorno a questa coltre forestale, la valle
+      dell'Alta Sûre dischiude prati umidi, torbiere basse e canneti ricchi di rarità botaniche della flora
+      belga. L'intero bacino è insignito del rango di zona umida di valore internazionale ai sensi della
+      Convenzione di Ramsar.
+    wildlife: >-
+      La foresta dà ricetto a fauna cospicua. I grandi mammiferi annoverano il [cervo
+      nobile](/especie/cervus_elaphus/), il [capriolo](/especie/capreolus_capreolus/) e il
+      [cinghiale](/especie/sus_scrofa/); compaiono poi volpi, [gatti selvatici](/especie/felis_silvestris/),
+      [martore](/especie/martes_martes/), ermellini e donnole. Fra gli uccelli nidificano la [cicogna
+      nera](/especie/ciconia_nigra/), il francolino di monte, il [falco
+      pecchiaiolo](/especie/pernis_apivorus/) e il [picchio nero](/especie/dryocopus_martius/). Il [picchio
+      rosso mezzano](/especie/picoides_medius/) è legato ai querceti maturi e alle formazioni miste; la
+      cicogna nera elegge i rami orizzontali robusti delle grandi querce per posarvi il nido.
+
+
+      Le acque custodiscono la vita più discreta. Sull'Arlune vive il [castoro](/especie/castor_fiber/) e la
+      foresta tutela la popolazione più cospicua di [cozza d'acqua dolce
+      perlifera](/especie/margaritifera_margaritifera/) della Vallonia. Il parco monitora inoltre la farfalla
+      licena delle bistorte e il tritone crestato. Da maggio a settembre, nelle notti serene, speciali
+      registratori a ultrasuoni rilevano i chirotteri per seguirne l'andamento.
+    visit: >-
+      Inizia dalla Maison du Parc a Martelange, allestita nello storico mulino Kuborn. Plastici e filmati
+      descrivono fauna, flora e memorie del luogo. Nei pressi si snodano la «balade des oiseaux» e un
+      labirinto didattico sulla biodiversità. Lo stesso mulino ospitò fin dal 1908 una turbina idroelettrica
+      che nel 1942 forniva corrente all'intero villaggio.
+
+
+      L'ente parco ha realizzato due capanni d'avvistamento in legno locale. Quello nella riserva naturale di
+      Louftémont–Vlessart, affacciato sull'Arlune per l'osservazione del castoro, si raggiunge da Vlessart
+      percorrendo la rue des Champs Gillots per 1,5 km e poi 500 m a piedi, oppure seguendo la «Balade au cœur
+      d'une réserve naturelle». Quello nella Vallée du Fourneau, lungo il tracciato GR151, assicura una vista
+      a 180° su insetti, uccelli e mammiferi: dall'uscita 28a Rulles si procede verso Thibessart, si
+      parcheggia a 1 km e si cammina per 1,2 km, oppure si compie una deviazione di 1,2 km dal Sentier des
+      Cerfs.
+
+
+      Le opportunità escursionistiche proseguono. Il Sentier des fraudeurs è un anello di circa cinque
+      chilometri andata e ritorno con visuali sulla valle della Sûre e su antiche cave di ardesia. Nel Domaine
+      d'Oisefagne a Fauvillers, un anello di circa 3 km spiega flora, fauna e mestieri forestali. Il Chemin
+      des côtes a Rulles nasconde 13 sculture d'animali nel sottobosco della valle di Mandebras. Il belvedere
+      di Martelange a 410 m domina la vallata e il margine boschivo, mentre il Circuit des Légendes attraversa
+      la foresta con sculture dedicate ai racconti popolari.
+    history: >-
+      Fino al 1952 la foresta rimase demanio dello Stato belga; in quell'anno fu istituita una comproprietà
+      indivisa tra lo Stato (50%) e i 18 comuni utenti (50%). Il parco naturale è stato ufficialmente
+      riconosciuto dal Governo vallone il 12 luglio 2001.
+
+
+      Un tale polmone verde rimane fragile: pullulazioni di bostrico e prolungate siccità ne minacciano
+      l'equilibrio, inducendo deperimenti della chioma nei faggi. Per questo il parco diversifica la faggeta
+      impiantando sorbo degli uccellatori, acero montano, castagno, tiglio selvatico e betulla bianca, stimola
+      la rinnovazione della rovere tramite diradamenti e prevede oltre 20 km di margini boschivi sfumati verso
+      le colture.
+    before: Verifica con l'ente parco gli orari della Maison du Parc e l'accessibilità dei capanni prima di partire.
+    around: >-
+      A circa 9 km sorge il [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/); a circa 10 km il [Parc naturel de la Vallée
+      de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/); a circa 11 km la [Grande Forêt de
+      Saint-Hubert](/lugar/grande-foret-de-saint-hubert/) e a circa 25 km il [Naturpark Our -
+      Ourtal](/lugar/naturpark-our---ourtal/).
+  pt:
+    intro: >-
+      No topo de uma crista que reparte as águas entre dois mares, uma floresta imensa respira sem qualquer
+      quebra. A Forêt d'Anlier, na província belga do Luxemburgo, constitui o maior maciço contínuo de
+      folhosas da Bélgica. Cobre a linha divisória de águas entre as bacias do Mosa e do Reno, atinge o cume a
+      517 m e compõe, em articulação com o vale do Alto Sûre, o Parque Natural Haute-Sûre Forêt d'Anlier. É
+      uma floresta desenhada para ser percorrida por dentro, entre faias e carvalhos ao longo de veredas
+      sinalizadas.
+    landscape: >-
+      O maciço assenta sobre uma divisória hidrográfica crucial. Para um dos flancos corre o Rulles, integrado
+      na bacia do Mosa; para o outro flui o Sûre, em direção ao Reno. As linhas de água que brotam na serra
+      possuem uma pureza físico-química ímpar, serpenteando por turfeiras, prados húmidos abandonados e
+      ribeiros oligotróficos bem conservados.
+
+
+      O faial impera na floresta. A faia assume o domínio arbóreo e o carvalho-séssil surge em segundo plano,
+      alternando com clareiras de nardal ricas em Arnica montana. Em redor desta massa folhosa, o vale do Alto
+      Sûre oferece uma paisagem complementar: prados húmidos, turfeiras baixas e caniçais que acolhem espécies
+      raras da flora belga. Esta bacia está classificada como zona húmida de importância internacional pela
+      Convenção de Ramsar.
+    wildlife: >-
+      O arvoredo abriga fauna de grande porte. Entre os grandes mamíferos contam-se o
+      [veado](/especie/cervus_elaphus/), o [corço](/especie/capreolus_capreolus/) e o
+      [javali](/especie/sus_scrofa/); seguem-se raposas, [gatos-bravos](/especie/felis_silvestris/),
+      [martas](/especie/martes_martes/), arminhos e doninhas. Nas aves destacam-se a
+      [cegonha-preta](/especie/ciconia_nigra/), a galinha-do-mato, o
+      [falcão-abelheiro](/especie/pernis_apivorus/) e o [pica-pau-preto](/especie/dryocopus_martius/). O
+      [pica-pau-médio](/especie/picoides_medius/) depende de carvalhais e favais mistos; a cegonha-preta elege
+      os ramos horizontais mais robustos dos velhos carvalhos para instalar o ninho.
+
+
+      As linhas de água resguardam a vida mais reservada. No Arlune vive o
+      [castor-europeu](/especie/castor_fiber/) e a floresta sustenta a maior população de
+      [mexilhão-do-rio-perlífero](/especie/margaritifera_margaritifera/) da Valónia. Os técnicos acompanham
+      ainda a borboleta Lycaena helle e o tritão-de-crista. De maio a setembro, em noites tranquilas,
+      aparelhos de ultrassons gravam morcegos para quantificar as colónias.
+    visit: >-
+      Começa a visita na Maison du Parc em Martelange, instalada no antigo moinho Kuborn. Maquetas e
+      documentários apresentam fauna, flora e património comunitário. Em redor estendem-se a «balade des
+      oiseaux» e um labirinto didático sobre biodiversidade. Este moinho operou a partir de 1908 uma turbina
+      elétrica que em 1942 abastecia de eletricidade toda a aldeia.
+
+
+      O parque concebeu dois observatórios de fauna construídos em madeira local. O da reserva natural de
+      Louftémont–Vlessart, debruçado sobre o Arlune para espreitar o castor, atinge-se a partir de Vlessart
+      pela rue des Champs Gillots ao longo de 1,5 km e mais 500 m a pé, ou pelo percurso «Balade au cœur d'une
+      réserve naturelle». O da Vallée du Fourneau, colado ao GR151, assegura uma panorâmica de 180° sobre
+      insetos, aves e mamíferos: a partir da saída 28a Rulles segue-se rumo a Thibessart, estaciona-se a 1 km
+      e caminha-se 1,2 km, ou faz-se um desvio de 1,2 km a partir do Sentier des Cerfs.
+
+
+      Existem outras propostas. O Sentier des fraudeurs é um trilho pedestre de cerca de cinco quilómetros ida
+      e volta com vistas para o vale do Sûre e antigas pedreiras de ardósia. No Domaine d'Oisefagne, em
+      Fauvillers, um circuito marcado de cerca de 3 km elucida sobre a ecologia e as profissões da mata. O
+      Chemin des côtes em Rulles esconde 13 esculturas de animais no sub-bosque do vale de Mandebras. O
+      miradouro de Martelange a 410 m domina a veiga fluvial e o limite do bosque, e o Circuit des Légendes
+      percorre o parque guiado por contos antigos em esculturas de madeira.
+    history: >-
+      Até 1952 a floresta pertenceu ao Estado belga; nesse ano estabeleceu-se um regime de compropriedade
+      indivisa entre o Estado (50%) e os 18 municípios utentes (50%). O parque natural recebeu reconhecimento
+      formal do Governo Valão em 12 de julho de 2001.
+
+
+      Um maciço desta envergadura enfrenta fragilidades: surtos de escolitídeos e secas severas afetam as
+      copas das faias. Como resposta, o parque introduz tramazeira, bordo-bastardo, castanheiro,
+      tília-de-folhas-pequenas e bétula, fomenta clareiras de regeneração de carvalhos e planeia criar mais de
+      20 km de orlas arbustivas de transição para as pastagens.
+    before: >-
+      Informa-te junto da gestão do parque sobre o horário da Maison du Parc e a acessibilidade aos
+      observatórios antes da partida.
+    around: >-
+      A cerca de 9 km localiza-se o [Naturpark Öewersauer - Haute-Sûre
+      Forests](/lugar/naturpark-oewersauer---haute-sure-forests/); a cerca de 10 km o [Parc naturel de la
+      Vallée de la Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/); a cerca de 11 km a [Grande Forêt
+      de Saint-Hubert](/lugar/grande-foret-de-saint-hubert/) e a cerca de 25 km o [Naturpark Our -
+      Ourtal](/lugar/naturpark-our---ourtal/).
+fuentes:
+  - url: https://parcnaturel.be/wp-content/uploads/2024/01/Charte-paysagere-02-Analyse-descriptive.pdf
+    titulo: Charte paysagère — analyse descriptive — Parc naturel Haute-Sûre Forêt d’Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/2-nouveaux-observatoires-en-foret-danlier/
+    titulo: 2 nouveaux observatoires en Forêt d’Anlier — Parc naturel Haute-Sûre Forêt d’Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/projets/tourisme/promotion-touristique-du-parc-naturel/
+    titulo: Promotion touristique du parc naturel — Parc naturel Haute-Sûre Forêt d’Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/projets/tourisme/creation-d-equipements-touristiques/
+    titulo: Création d’équipements touristiques — Parc naturel Haute-Sûre Forêt d’Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/projets/nature-environnement/
+    titulo: Nature & environnement — Parc naturel Haute-Sûre Forêt d’Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/le-parc/
+    titulo: Le Parc naturel - Parc naturel Haute-Sûre Forêt d'Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/projets/nature-environnement/suivi-des-especes-et-leurs-habitats/
+    titulo: Suivi des espèces et leurs habitats - Parc naturel Haute-Sûre Forêt d'Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://parcnaturel.be/projets/nature-environnement/conservation-de-la-nature-en-foret-danlier/
+    titulo: Conservation de la nature en Forêt d'Anlier - Parc naturel Haute-Sûre Forêt d'Anlier
+    fecha_consulta: '2026-10-29'
+  - url: https://fr.wikipedia.org/wiki/For%C3%AAt_d%27Anlier
+    titulo: Forêt d'Anlier — Wikipédia
+    fecha_consulta: '2026-10-29'

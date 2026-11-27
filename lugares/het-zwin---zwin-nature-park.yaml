@@ -1,0 +1,623 @@
+id: het-zwin---zwin-nature-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural del Zwin
+  en: Zwin Nature Park
+  fr: Parc naturel du Zwin
+  de: Naturpark Zwin
+  it: Parco naturale dello Zwin
+  pt: Parque Natural do Zwin
+nombre_original: Het Zwin - Zwin Nature Park
+alias:
+  - Zwin Nature Park
+paises:
+  - BE
+  - NL
+region:
+  es: Flandes Occidental (BE) / Zelanda (NL)
+  en: West Flanders (BE) / Zeeland (NL)
+  fr: Flandre-Occidentale (BE) / Zélande (NL)
+  de: Westflandern (BE) / Zeeland (NL)
+  it: Fiandre Occidentali (BE) / Zelanda (NL)
+  pt: Flandres Ocidental (BE) / Zelândia (NL)
+ubicacion:
+  tipo: punto
+  lat: 51.36
+  lon: 3.36
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555514241
+  nombre_en_la_fuente: Zwin & Kievittepolder
+  categoria_uicn: IV
+  capa: capas/cdda/het-zwin---zwin-nature-park.geojson
+habitats:
+  - coast
+  - wetland
+designaciones:
+  - natural_reserve
+  - ramsar
+  - natura2000
+especies:
+  - ciconia_ciconia
+  - recurvirostra_avosetta
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño para observación de migración
+  en: spring and autumn for migration watching
+  fr: printemps et automne pour l'observation de la migration
+  de: Frühling und Herbst zur Vogelzugbeobachtung
+  it: primavera e autunno per l'osservazione delle migrazioni
+  pt: primavera e outono para observação de migração
+masificacion: 2
+masificacion_nota:
+  es: Media en el centro de visitantes de Knokke-Heist
+  en: Moderate at the Knokke-Heist visitor centre
+  fr: Moyenne au centre d'accueil de Knokke-Heist
+  de: Mittel am Besucherzentrum in Knokke-Heist
+  it: Media al centro visite di Knokke-Heist
+  pt: Média no centro de visitantes de Knokke-Heist
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Zwin Natuurpark Official
+    url: https://www.zwin.be/
+  - titulo: Visita — horarios del Zwin
+    url: https://www.zwin.be/nl/praktische-info/openingstijden
+  - titulo: Accesos — cómo llegar al Zwin
+    url: https://www.zwin.be/nl/praktische-info/wegbeschrijving
+  - titulo: Mapa — plano del parque y observatorios
+    url: https://www.zwin.be/nl/het-park/plan-van-het-park
+  - titulo: Ruta — recorrido de observatorios del Zwin
+    url: https://www.zwin.be/nl/wandelingen/huttenparcours
+  - titulo: Normas — preguntas prácticas de la visita
+    url: https://www.zwin.be/nl/praktische-info/veelgestelde-vragen
+resumen:
+  es: El 'Aeropuerto Internacional de las Aves', una ensenada mareal marítima entre Bélgica y los Países Bajos.
+  en: The 'International Bird Airport', a dynamic tidal maritime inlet straddling Belgium and the Netherlands.
+  fr: >-
+    L'« Aéroport international des oiseaux », une baie maritime soumise aux marées entre la Belgique et les
+    Pays-Bas.
+  de: >-
+    Der „Internationale Flughafen der Vögel“, ein dynamischer Gezeitenarm an der Küste zwischen Belgien und
+    den Niederlanden.
+  it: L'«Aeroporto internazionale degli uccelli», un'insenatura di marea tra Belgio e Paesi Bassi.
+  pt: >-
+    O 'Aeroporto Internacional das Aves', uma enseada mareal marítima dinâmica entre a Bélgica e os Países
+    Baixos.
+unico:
+  es: Una ensenada de marea que un día fue el puerto de Brujas y hoy es un aeropuerto de aves migratorias.
+  en: >-
+    A tidal inlet that was once the medieval sea harbour of Bruges and has today become a crossroads airport
+    for migratory birds.
+  fr: >-
+    Une crique maritime qui fut jadis le port de Bruges et s'est muée aujourd'hui en un carrefour
+    aéroportuaire pour oiseaux migrateurs.
+  de: >-
+    Ein Meeresgezeitenarm, der einst der Hafen von Brügge war und heute als Drehkreuzflughafen für Tausende
+    Zugvögel dient.
+  it: >-
+    Un'insenatura tidale che un tempo fu il porto marittimo di Bruges e oggi è un aeroporto d'incrocio per gli
+    uccelli migratori.
+  pt: >-
+    Uma enseada de maré que outrora serviu de porto marítimo a Bruges e hoje funciona como aeroporto de
+    confluência para aves migradoras.
+observaciones:
+  es: >-
+    Unas pocas veces al año, una marea viva con una fuerte tormenta del oeste inunda toda la llanura y se
+    cierran los dos circuitos. Si ves la bandera roja, es marea viva o tormenta: ese día el espectáculo se ve
+    desde el centro de observación. Comprueba el horario del parque antes de ir.
+texto:
+  es:
+    intro: >-
+      Dos veces al día el mar entra por las dunas, llena los canales del Zwin y se retira dejando el fango al
+      descubierto. Esa respiración manda en todo: cuándo llegan las aves, cuándo florece el limonio, por dónde
+      se camina. El Zwin es lo que queda de una antigua ensenada de marea entre Bélgica y los Países Bajos,
+      hoy una reserva donde la vida depende del ritmo de la marea. El parque la presenta como un «aeropuerto
+      internacional de las aves», y a la entrada te dan una tarjeta de embarque.
+    landscape: >-
+      La historia empieza con una tormenta. En 1134 rompió la costa flamenca y abrió un canal de unos 15 km
+      tierra adentro, el Zwin, que dio salida al mar a Brujas. Pero desde finales del siglo XIII la
+      colmatación fue cerrándolo, y hacia 1500 el canal era inservible y Brujas se quedó sin mar. Lo que
+      sobrevive es la entrada de aquella ensenada, hoy declarada humedal de importancia internacional (Ramsar)
+      desde marzo de 1986.
+
+
+      La llanura del Zwin alterna marismas y fangos que se llenan de agua marina dos veces al día, algo que se
+      ve bien desde el puente sobre el canal. Las mareas vivas, dos veces al mes, inundan buena parte de la
+      zona baja del circuito verde. Y de las plantas, las más típicas son las que toleran la sal: limonio,
+      verdolaga marina, salicornia y áster marino. En verano, el limonio cubre tramos enteros de la llanura
+      con una alfombra morada.
+    wildlife: >-
+      Aquí el calendario lo cuentan las aves.
+
+
+      Hacia febrero llegan las [cigüeñas blancas](/especie/ciconia_ciconia/), la mascota del parque, que
+      ocupan sus nidos hasta finales de julio. Ponen los huevos a finales de marzo o principios de abril y los
+      pollos salen del nido en las primeras semanas de julio; hacia mediados de agosto se va la mayoría. Con
+      la primavera, las islas de cría de la Zwinplas se llenan: primero gaviotas reidoras y mediterráneas, y
+      en abril la [avoceta](/especie/recurvirostra_avosetta/) y el chorlitejo grande; los charranes llegan
+      desde África a mediados de abril, y mayo y junio son los meses más animados. Las
+      [espátulas](/especie/platalea_leucorodia/) llegan desde marzo, y su número sube desde julio hasta un
+      máximo en agosto y septiembre.
+
+
+      Las limícolas se ven todo el año. Se han visto 40 especies, 29 de ellas visitantes anuales, y en
+      invierno se pueden ver 21. Ostreros, [zarapitos reales](/especie/numenius_arquata/), archibebes comunes
+      y chorlitos grises prefieren las zonas bajas. En otoño, bajo el puente se asoman [martines
+      pescadores](/especie/alcedo_atthis/), zampullines chicos y [garcetas
+      comunes](/especie/egretta_garzetta/) en busca de peces. Desde octubre se unen a los gansos los gansos
+      árticos, sobre todo el ánsar chico, que se van en marzo; y el [tarro blanco](/especie/tadorna_tadorna/)
+      y el [ánade real](/especie/anas_platyrhynchos/) crían con regularidad.
+
+
+      Entre los anfibios destaca la rana arbórea, el único lugar del oeste de Bélgica donde aún se ve. Tras un
+      fuerte declive hacia el cambio de siglo, se recuperó gracias a la gestión, como crear muchas charcas. Se
+      la ve tomando el sol por todo el Zwin, sobre todo en días soleados de abril a octubre.
+    visit: >-
+      Empieza por la exposición y por el sendero de cabañas, de 1,7 km, apto para sillas de ruedas y carritos.
+      Cada cabaña tiene su función: la cabaña laboratorio, con criaturas microscópicas; la del bosque, con
+      relatos; la de la isla, para ver de cerca las aves acuáticas; y la de escucha, para aprender a
+      distinguir sus cantos. Por el camino te cruzas con guías del Zwin que responden a las preguntas.
+
+
+      Para la llanura hay dos circuitos, el verde y el azul, que se combinan con facilidad. Cruzan fangos y
+      marismas, y se recomiendan zapatos resistentes e impermeables. El azul puede hacerse descalzo, y pasa
+      por una zona de pasto donde el ganado limusín mantiene la hierba corta de julio a diciembre. En
+      primavera se ven allí bisbitas pratenses y alondras comunes. En invierno vuelve el escribano triguero.
+
+
+      Desde el centro de observación, con una gran ventana sobre la llanura y pantallas interactivas para
+      identificar las aves, y desde la torre panorámica, con vistas a la Kleyne Vlakte, las dunas, los
+      pólderes y el mar, el paisaje se entiende de un vistazo. La torre de las cigüeñas permite observar los
+      nidos. Y las islas de cría se observan desde la cabaña de observación.
+    history: >-
+      En 1952 proteger un área como reserva natural era una idea muy audaz, y el conde Léon Lippens, gestor de
+      la Compagnie het Zoute, impulsó la del Zwin. En 1953 el antiguo Jardín Real se convirtió en parque de
+      aves educativo, una combinación novedosa. El Zwin se hizo base de investigación: se anillaron miles de
+      aves y se estudió su vegetación, y reservas de Francia y España se inspiraron en él. El actual Zwin
+      Nature Park se inauguró oficialmente el 10 de junio de 2016. El parque marca y sigue a las cigüeñas cada
+      año desde 2019. Hoy es uno de los pocos lugares de Bélgica con una población de cigüeña blanca.
+    before: >-
+      Unas pocas veces al año, una marea viva con una fuerte tormenta del oeste inunda toda la llanura y se
+      cierran los dos circuitos. Si ves la bandera roja, es marea viva o tormenta: ese día el espectáculo se
+      ve desde el centro de observación. Comprueba el horario del parque antes de ir.
+    around: >-
+      El Zwin comparte la avoceta con el [Archipiélago de Marker Wadden](/lugar/marker-wadden/) y con el
+      [Parque Nacional del Mar de Wadden de Baja Sajonia](/lugar/nationalpark-niedersachsisches-wattenmeer/),
+      dos costas de aguas someras lejos de aquí.
+  en:
+    intro: >-
+      Twice a day the North Sea surges through the sand dunes, fills the channels of the Zwin, and ebbs away
+      leaving glistening mudflats exposed. That breathing rhythm governs everything: when birds arrive, when
+      sea lavender blossoms, and where you can walk. The Zwin is the preserved remnant of an ancient tidal
+      inlet straddling Belgium and the Netherlands, today a nature reserve where life dances to tidal pulses.
+      The park bills itself as an "international bird airport", handing you a boarding pass upon entry.
+    landscape: >-
+      The saga began with a violent storm surge. In 1134, it breached the Flemish coastline and carved a sea
+      channel around 15 km deep inland, the Zwin, granting Bruges direct access to the sea. But from the end
+      of the thirteenth century onwards, silting gradually clogged the fairway, and towards 1500 the channel
+      became unnavigable, cutting Bruges off from maritime waters. What survives today is the outer mouth of
+      that historic inlet, designated a wetland of international importance under the Ramsar Convention in
+      March 1986.
+
+
+      The Zwin plain alternates salt marshes and mudflats flooded by seawater twice a day, easily surveyed
+      from the footbridge spanning the inlet channel. Spring tides, occurring twice a month, submerge much of
+      the lower green walking route. Plant life is dominated by halophytes: sea lavender, sea purslane,
+      glasswort, and sea aster. In high summer, flowering sea lavender blankets vast tracts of the plain under
+      a delicate purple haze.
+    wildlife: >-
+      Here the seasonal calendar is choreographed by birds.
+
+
+      Around February the first [white storks](/especie/ciconia_ciconia/), the charismatic symbol of the park,
+      return to occupy their nest platforms until late July. They lay eggs in late March or early April and
+      chicks fledge in early July, with most departing south by mid-August. Come spring, the breeding islands
+      of the Zwin lake teem with life: first black-headed and Mediterranean gulls, then in April the [pied
+      avocet](/especie/recurvirostra_avosetta/) and ringed plover; common terns arrive from Africa by
+      mid-April, making May and June the busiest months. [Eurasian spoonbills](/especie/platalea_leucorodia/)
+      appear in March, their tallies climbing from July to peak in August and September.
+
+
+      Waders can be observed year-round. Around 40 species have been recorded, 29 of which are regular annual
+      migrants, with 21 visible during winter. Oystercatchers, [Eurasian curlews](/especie/numenius_arquata/),
+      common redshanks, and grey plovers frequent the low tide lines. In autumn, beneath the bridge, you may
+      spot [common kingfishers](/especie/alcedo_atthis/), little grebes, and [little
+      egrets](/especie/egretta_garzetta/) hunting small fish. From October, Arctic geese arrive—notably the
+      greater white-fronted goose—lingering until March, while [common shelducks](/especie/tadorna_tadorna/)
+      and [mallards](/especie/anas_platyrhynchos/) breed consistently.
+
+
+      Among amphibians, the European tree frog stands out, this being its sole stronghold in western Belgium.
+      After severe historical declines, management projects such as digging shallow freshwater ponds allowed
+      it to rebound. You can spot them basking across the Zwin, especially on mild sunny days from April to
+      October.
+    visit: >-
+      Begin at the interactive exhibition and follow the 1.7 km hut trail, fully accessible for wheelchairs
+      and prams. Each cabin offers an engaging encounter: the lab hut with microscopic creatures; the woodland
+      hut with stories; the island hut for close-up views of waterbirds; and the listening hut to decipher
+      birdsong. Knowledgeable Zwin nature guides roam along the trails to answer questions.
+
+
+      Two walking loops explore the tidal plain: the green and blue trails, which connect smoothly. Both cross
+      mudflats and salt marshes, making sturdy waterproof footwear essential. The blue trail can also be
+      walked barefoot in summer, passing through a grazed pasture where Highland cattle keep swards trimmed
+      from July to December. Meadow pipits and skylarks nest there in spring, joined by corn buntings in
+      winter.
+
+
+      From the observation centre, with its floor-to-ceiling panoramic glass over the muds and interactive
+      identification touchscreens, and from the viewing tower overlooking the Kleyne Vlakte, dunes, polders,
+      and sea, the landscape resolves in a single glance. The stork tower provides nest-level panoramas, while
+      waterbird islands are surveyed from the hide.
+    history: >-
+      Back in 1952, protecting an entire landscape as a nature reserve was an audacious endeavour championed
+      by Count Léon Lippens, director of Compagnie Het Zoute. In 1953, the historic Royal Garden was
+      transformed into an educational bird park, an innovative hybrid concept for its era. The Zwin became an
+      acclaimed scientific hub: thousands of migratory birds were ringed, vegetation dynamics were studied,
+      and reserves across France and Spain drew inspiration from its model. The modern Zwin Nature Park opened
+      its doors on 10 June 2016. Park biologists have satellite-tagged and monitored white storks every year
+      since 2019, securing one of Belgium's flourishing nesting colonies.
+    before: >-
+      A few times each year, exceptional spring tides combined with strong westerly gales completely submerge
+      the tidal plain, forcing the temporary closure of both trail loops. If the red warning flag is hoisted,
+      high tide or storm conditions prevail, and the entire tidal drama must be viewed from the indoor
+      observation centre. Verify opening hours and tides before your visit.
+    around: >-
+      The Zwin shares breeding pied avocets with the [Marker Wadden Archipelago](/lugar/marker-wadden/) and
+      with the [Lower Saxony Wadden Sea National Park](/lugar/nationalpark-niedersachsisches-wattenmeer/), two
+      vast shallow-water coastal realms further north.
+  fr:
+    intro: >-
+      Deux fois par jour, la mer du Nord s'engouffre entre les dunes, inonde les chenaux du Zwin puis se
+      retire en découvrant de vastes vasières. Ce flux et ce reflux dictent tout : l'arrivée des migrateurs,
+      la floraison du lilas de mer et les cheminements autorisés. Le Zwin est le vestige préservé d'un ancien
+      bras de mer entre Belgique et Pays-Bas, où la vie palpite au rythme des marées. Le parc se définit comme
+      un « aéroport international des oiseaux » et vous remet une véritable carte d'embarquement à l'entrée.
+    landscape: >-
+      Cette histoire est née d'une terrible tempête. En 1134, un raz-de-marée déchira la côte flamande et
+      creusa un chenal marin de près de 15 km vers l'intérieur des terres, le Zwin, offrant à Bruges un accès
+      direct au grand large. Cependant, dès la fin du XIIIe siècle, les alluvions commencèrent à ensabler le
+      passage, et vers 1500 le bras devint impraticable, privant Bruges de débouché maritime. Ce qui subsiste
+      aujourd'hui correspond à l'embouchure de cette crique, classée zone humide d'importance internationale
+      (Ramsar) en mars 1986.
+
+
+      La plaine du Zwin juxtapose schorres et slikkes inondés par l'eau salée deux fois par jour, un spectacle
+      saisissant depuis la passerelle. Les marées de vives-eaux, deux fois par mois, recouvrent une large part
+      du circuit vert. La flore est typiquement halophile : lilas de mer, obione faux-pourpier, salicorne et
+      aster maritime. En été, le lilas de mer en fleur habille des étendues entières d'un ravissant manteau
+      violacé.
+    wildlife: >-
+      Ici, le cycle des saisons s'écrit avec les plumes.
+
+
+      Vers février reviennent les [cigognes blanches](/especie/ciconia_ciconia/), mascottes du domaine, qui
+      occupent leurs nids perchés jusqu'à la fin juillet. Elles pondent à la fin mars ou au début avril et les
+      cigogneaux prennent leur envol au début juillet ; la plupart partent vers le sud à la mi-août. Au
+      printemps, les îlots de la Zwinplas bourdonnent : d'abord les mouettes rieuses et mélanocéphales, puis
+      en avril l'[avocette élégante](/especie/recurvirostra_avosetta/) et le grand gravelot ; les sternes
+      arrivent d'Afrique à la mi-avril, faisant de mai et juin les mois les plus animés. Les [spatules
+      blanches](/especie/platalea_leucorodia/) arrivent dès mars, leur effectif culminant en août et
+      septembre.
+
+
+      Les limicoles s'observent tout au long de l'année. On a répertorié 40 espèces, dont 29 régulières chaque
+      année, et 21 visibles durant l'hiver. Huîtriers pies, [courlis cendrés](/especie/numenius_arquata/),
+      chevaliers gambettes et pluviers argentés prospectent la vase. À l'automne, sous le pont, guettent le
+      [martin-pêcheur d'Europe](/especie/alcedo_atthis/), le grèbe castagneux et l'[aigrette
+      garzette](/especie/egretta_garzetta/). Dès octobre débarquent les oies nordiques, notamment l'oie
+      rieuse, jusqu'en mars, tandis que le [tadorne de Belon](/especie/tadorna_tadorna/) et le [canard
+      colvert](/especie/anas_platyrhynchos/) nichent fidèlement.
+
+
+      Parmi les amphibiens, la rainette verte mérite une mention spéciale : c'est le dernier refuge de
+      l'espèce dans l'ouest de la Belgique. Après un net déclin, la création de mares d'eau douce lui a permis
+      de prospérer à nouveau. Elle prend le soleil dans tout le Zwin d'avril à octobre.
+    visit: >-
+      Commencez par l'exposition permanente et suivez le parcours des cabanes, long de 1,7 km et adapté aux
+      fauteuils roulants comme aux poussettes. Chaque hutte propose un atelier interactif : le labo pour les
+      invertébrés microscopiques, la hutte du bois pour les contes, l'affût insulaire pour les oiseaux
+      aquatiques et la hutte d'écoute pour reconnaître les chants. Des guides-nature du Zwin sont postés sur
+      le parcours pour vous renseigner.
+
+
+      Pour parcourir la plaine lagunaire, deux boucles sont proposées, la verte et la bleue, qui se combinent
+      facilement. Traversant schorres et vasières, elles exigent des chaussures étanches et solides. Le
+      circuit bleu peut aussi se tenter pieds nus en saison, longeant le pré où les bovins Highland broutent
+      de juillet à décembre. Le pipit farlouse y niche au printemps, rejoint par le bruant proyer en hiver.
+
+
+      Le centre d'observation panoramique, vitré face à la plaine et muni d'écrans d'identification
+      interactifs, ainsi que la tour de guet dominant la Kleyne Vlakte, les dunes et les polders, permettent
+      d'embrasser tout le paysage. La tour des cigognes offre une vue plongeante sur les nids.
+    history: >-
+      En 1952, ériger un tel territoire en sanctuaire naturel constituait un pari visionnaire porté par le
+      comte Léon Lippens, directeur de la Compagnie Het Zoute. En 1953, l'ancien Jardin Royal fut transformé
+      en parc ornithologique éducatif, un concept novateur. Le Zwin s'imposa comme laboratoire scientifique :
+      des milliers d'oiseaux y furent bagués et sa flore disséquée, inspirant des réserves jusqu'en France et
+      en Espagne. Le Zwin Nature Park sous sa forme contemporaine a été inauguré le 10 juin 2016. Les équipes
+      équipent et suivent les cigognes par balises chaque année depuis 2019, confortant une colonie
+      florissante.
+    before: >-
+      Quelques fois par an, de fortes marées d'équinoxe conjuguées à des tempêtes d'ouest inondent
+      l'intégralité de la plaine, entraînant la fermeture des deux sentiers. Si le pavillon rouge est hissé,
+      le spectacle se contemple bien à l'abri dans le centre d'observation. Vérifiez les horaires et les
+      marées avant votre départ.
+    around: >-
+      Le Zwin partage ses avocettes élégantes avec l'[Archipel des Marker Wadden](/lugar/marker-wadden/) et
+      avec le [Parc national de la mer des Wadden de
+      Basse-Saxe](/lugar/nationalpark-niedersachsisches-wattenmeer/), deux vastes étendues marines situées
+      plus au nord.
+  de:
+    intro: >-
+      Zweimal täglich flutet die Nordsee durch die Dünen, füllt die Priele des Zwin und weicht wieder zurück,
+      um glänzende Wattflächen freizugeben. Dieser Atem bestimmt alles: wann die Vögel rasten, wann der
+      Strandflieder blüht und wo du wandern kannst. Das Zwin ist das Relikt eines alten Gezeitenarms zwischen
+      Belgien und den Niederlanden, heute ein Naturschutzgebiet im Takt der Gezeiten. Der Park präsentiert
+      sich als „internationaler Flughafen der Vögel“ und überreicht dir am Eingang eine Bordkarte.
+    landscape: >-
+      Die Entstehung geht auf eine Sturmflut zurück. Im Jahr 1134 riss eine Sturmflut die flämische Küste auf
+      und schuf einen rund 15 km weiten Meeresarm ins Binnenland: das Zwin, das Brügge direkten Zugang zum
+      Meer verschaffte. Doch ab dem späten dreizehnten Jahrhundert führte Verlandung zur allmählichen
+      Versandung, und um 1500 war die Fahrrinne unpassierbar – Brügge verlor seinen Hafen. Was bis heute
+      überdauert hat, ist das Mündungsgebiet jener Bucht, das im März 1986 als Feuchtgebiet von
+      internationaler Bedeutung (Ramsar) ausgewiesen wurde.
+
+
+      Die Zwin-Ebene vereint Salzwiesen und Schlickwatten, die zweimal täglich vom Meerwasser überspült werden
+      – ein Phänomen, das sich von der Kanalbrücke bestens verfolgen lässt. Springtiden fluten zweimal im
+      Monat weite Teile der unteren grünen Route. Die Vegetation ist ganz an das Salz angepasst:
+      Strandflieder, Portulak-Keilmelde, Queller und Strand-Aster. Im Sommer verwandelt der blühende
+      Strandflieder die Salzgrasfluren in ein zartviolettes Blütenmeer.
+    wildlife: >-
+      Hier wird der Kalender von Zugvögeln bestimmt.
+
+
+      Gegen Februar treffen die [Weißstörche](/especie/ciconia_ciconia/) als Wappenvögel des Parks ein und
+      belegen ihre Nisthorste bis Ende Juli. Sie legen ihre Eier Ende März oder Anfang April, und die
+      Jungstörche fliegen Anfang Juli aus; Mitte August ziehen die meisten gen Süden. Mit dem Frühjahr beleben
+      sich die Brutinseln des Zwin-Sees: Zuerst Lach- und Schwarzkopfmöwen, ab April der
+      [Säbelschnäbler](/especie/recurvirostra_avosetta/) und der Sandregenpfeifer; Flussseeschwalben kehren
+      Mitte April aus Afrika zurück, sodass Mai und Juni die lebhaftesten Monate bilden.
+      [Löffler](/especie/platalea_leucorodia/) treffen ab März ein und erreichen Höchststände im August und
+      September.
+
+
+      Watvögel lassen sich das ganze Jahr über beobachten. 40 Arten wurden nachgewiesen, von denen 29
+      alljährlich rasten und 21 im Winter anwesend sind. Austernfischer, [Große
+      Brachvögel](/especie/numenius_arquata/), Rotschenkel und Kiebitzregenpfeifer stochern im Schlick. Im
+      Herbst jagen unter der Brücke [Eisvögel](/especie/alcedo_atthis/), Zwergtaucher und
+      [Seidenreiher](/especie/egretta_garzetta/). Ab Oktober gesellen sich arktische Gänse hinzu, namentlich
+      Blässgänse, die bis März bleiben, während [Brandgans](/especie/tadorna_tadorna/) und
+      [Stockente](/especie/anas_platyrhynchos/) regelmäßig brüten.
+
+
+      Unter den Amphibien sticht der Europäische Laubfrosch hervor – es ist sein letztes Vorkommen im Westen
+      Belgiens. Nach starkem Rückgang erholte sich der Bestand dank Neuanlage von Süßwassertümpeln. Er sonnt
+      sich von April bis Oktober gern an windgeschützten Stellen.
+    visit: >-
+      Beginne mit der Erlebnisausstellung und folge dem 1,7 km langen Hüttenpfad, der für Rollstühle und
+      Kinderwagen barrierefrei angelegt ist. Jede Beobachtungshütte widmet sich einem Thema: das Labor
+      mikroskopischen Lebewesen, die Waldhütte Geschichten, die Inselhütte Wasservögeln und die Hörhütte dem
+      Entschlüsseln von Rufen. Unterwegs stehen Zwin-Naturführer für Auskünfte bereit.
+
+
+      Für die Erkundung der Ebene stehen zwei Routen zur Wahl – der grüne und der blaue Rundweg –, die sich
+      mühelos verknüpfen lassen. Sie führen über Schlick und Salzwiesen, wofür festes wasserdichtes Schuhwerk
+      unverzichtbar ist. Die blaue Route darf im Sommer barfuß begangen werden und quert Rinderweiden, wo
+      Highland-Rinder von Juli bis Dezember das Gras kurz halten. Wiesenpieper brüten dort im Frühling, im
+      Winter rasten Grauammern.
+
+
+      Im Panorama-Beobachtungszentrum mit großer Glasfront und Bestimmungsbildschirmen sowie vom Aussichtsturm
+      über Kleyne Vlakte, Dünen und Polder erschließt sich die Dynamik der Landschaft auf einen Blick. Der
+      Storchenturm gewährt Einblicke in die Horste.
+    history: >-
+      Im Jahr 1952 war die Ausweisung eines solchen Küstenstrichs als Naturschutzgebiet eine kühne Vision von
+      Graf Léon Lippens, Direktor der Compagnie Het Zoute. Im Jahr 1953 wurde der frühere Königliche Garten
+      zum Lehrvogelpark umgestaltet – damals ein völlig neues Konzept. Das Zwin wurde zur Forschungsstätte:
+      Tausende Zugvögel wurden beringt, die Flora dokumentiert, und Reservate in Frankreich und Spanien nahmen
+      sich das Areal zum Vorbild. Der heutige Zwin Nature Park wurde am 10. Juni 2016 offiziell eröffnet. Seit
+      2019 rüstet der Park jedes Jahr Störche mit GPS-Sendern aus und sichert so Belgiens Storchenpopulation.
+    before: >-
+      Mehrmals im Jahr flutet eine außergewöhnliche Springtide bei schwerem Weststurm die gesamte Ebene,
+      sodass beide Wanderwege gesperrt werden. Weht die rote Flagge, lässt sich das Naturschauspiel geschützt
+      aus dem Besucherzentrum beobachten. Informiere dich vor dem Besuch über Gezeiten und Öffnungszeiten.
+    around: >-
+      Das Zwin teilt brütende Säbelschnäbler mit dem [Marker Wadden-Archipel](/lugar/marker-wadden/) und dem
+      [Nationalpark Niedersächsisches Wattenmeer](/lugar/nationalpark-niedersachsisches-wattenmeer/), zwei
+      ausgedehnten Flachwasserküsten weiter nördlich.
+  it:
+    intro: >-
+      Due volte al giorno il mare entra tra le dune costiere, inonda i canali dello Zwin e si ritira lasciando
+      scoperte vaste piane fangose. Questo respiro guida ogni cosa: quando arrivano gli stormi, quando
+      fiorisce il limonio e dove si può camminare. Lo Zwin è il residuo protetto di un antico braccio di marea
+      tra Belgio e Paesi Bassi, dove la vita dipende dal ritmo dell'alta e della bassa marea. Il parco si
+      presenta come un «aeroporto internazionale degli uccelli», consegnando all'ingresso una vera carta
+      d'imbarco.
+    landscape: >-
+      La vicenda geologica ha inizio con una burrasca. Nel 1134 una mareggiata squarciò la costa fiamminga
+      aprendo un canale navigabile di circa 15 km verso l'interno, lo Zwin, che garantì a Bruges l'accesso
+      diretto al mare. Dalla fine del XIII secolo il progressivo interrimento iniziò a occludere il passaggio,
+      e verso il 1500 il canale divenne inservibile, privando Bruges del suo porto. Ciò che oggi sopravvive è
+      l'imboccatura di quell'insenatura, riconosciuta zona umida d'importanza internazionale (Ramsar) nel
+      marzo 1986.
+
+
+      La piana dello Zwin alterna barene e piane di marea allagate dal mare due volte al giorno, fenomeno
+      chiaramente visibile dal ponte sopra il canale. Le maree vive, due volte al mese, sommergono gran parte
+      della zona bassa dell'anello verde. La vegetazione è dominata da piante alofile: limonio, porcellana di
+      mare, salicornia e astro marino. In piena estate il limonio ricopre ampi settori con una suggestiva
+      fioritura viola.
+    wildlife: >-
+      Qui l'alternarsi delle stagioni è scandito dai volatili.
+
+
+      Verso febbraio compaiono le [cicogne bianche](/especie/ciconia_ciconia/), simbolo indiscusso del parco,
+      che occupano i loro nidi sopraelevati fino a fine luglio. Depongono le uova a fine marzo o inizio aprile
+      e i piccoli s'involano nelle prime settimane di luglio; a metà agosto la maggior parte parte verso sud.
+      Con la primavera gli isolotti della Zwinplas si animano: prima i gabbiani comuni e corallini, poi in
+      aprile l'[avocetta](/especie/recurvirostra_avosetta/) e il corriere grosso; i fraticelli e le sterne
+      giungono dall'Africa a metà aprile, rendendo maggio e giugno i mesi più intensi. Le
+      [spatole](/especie/platalea_leucorodia/) arrivano da marzo, con presenze massime in agosto e settembre.
+
+
+      I limicoli popolano il parco tutto l'anno. Sono state censite 40 specie, 29 delle quali visitatrici
+      regolari ogni anno, e 21 osservabili in inverno. Beccacce di mare, [chiurli
+      maggiori](/especie/numenius_arquata/), pettegole e pivieresse setacciano le piane di marea. In autunno,
+      sotto il ponte sostano [martini pescatori](/especie/alcedo_atthis/), tuffetti e
+      [garzette](/especie/egretta_garzetta/) a caccia di pesciolini. Da ottobre giungono le oche artiche, tra
+      cui l'oca lombardella che riparte a marzo, mentre la [volpoca](/especie/tadorna_tadorna/) e il [germano
+      reale](/especie/anas_platyrhynchos/) nidificano regolarmente.
+
+
+      Tra gli anfibi spicca la raganella europea, giunta qui al suo unico rifugio nel Belgio occidentale. Dopo
+      un forte declino, la creazione di pozze d'acqua dolce ha permesso alla specie di ristabilirsi. La si
+      scorge prendere il sole da aprile a ottobre.
+    visit: >-
+      Inizia il percorso dalla mostra interattiva e segui il sentiero delle capanne didattiche, lungo 1,7 km e
+      accessibile a passeggini e sedie a rotelle. Ogni capanna propone un'attività: il capanno-laboratorio con
+      microscopi, la capanna del bosco con racconti naturalistici, l'osservatorio dell'isola per gli uccelli
+      acquatici e la capanna dell'ascolto per distinguere i canti. Lungo il tragitto le guide del parco sono a
+      disposizione per rispondere alle domande.
+
+
+      Per visitare la piana di marea ci sono due percorsi, il circuito verde e quello blu, facilmente
+      combinabili. Attraversano barene e fondali melmosi, rendendo indispensabili calzature impermeabili e
+      robuste. Il circuito blu può essere percorso anche a piedi nudi e attraversa i pascoli dove i bovini
+      Highland mantengono bassa l'erba da luglio a dicembre. La pispola vi nidifica in primavera, mentre lo
+      strillozzo vi sverna.
+
+
+      Dal centro di osservazione panoramico con ampie vetrate sulla piana e schermi interattivi, e dalla torre
+      belvedere affacciata su Kleyne Vlakte, dune e polder, il paesaggio si coglie all'istante. La torre delle
+      cicogne consente di osservare i nidi da vicino.
+    history: >-
+      Nel 1952 proteggere un comprensorio come riserva naturale rappresentava una scelta d'avanguardia, voluta
+      dal conte Léon Lippens, alla guida della Compagnie Het Zoute. Nel 1953 l'antico Giardino Reale fu
+      trasformato in parco ornitologico didattico, formula pionieristica per l'epoca. Lo Zwin divenne una
+      stazione di ricerca di primo piano: furono inanellati migliaia di uccelli e mappata la vegetazione,
+      ispirando riserve in Francia e Spagna. L'attuale Zwin Nature Park è stato inaugurato ufficialmente il 10
+      giugno 2016. Dal 2019 il parco monitora annualmente le cicogne con trasmettitori GPS, consolidando una
+      colonia prolifica.
+    before: >-
+      Poche volte all'anno una marea eccezionale accompagnata da forti tempeste occidentali allaga per intero
+      la piana tidale, obbligando alla chiusura di entrambi i percorsi. Se sventola la bandiera rossa, l'alta
+      marea o la tempesta impediscono l'accesso e il fenomeno si osserva dal centro visite. Controlla orari e
+      tavole di marea prima di metterti in cammino.
+    around: >-
+      Lo Zwin condivide l'avocetta con l'[Arcipelago di Marker Wadden](/lugar/marker-wadden/) e con il [Parco
+      nazionale del Wadden della Bassa Sassonia](/lugar/nationalpark-niedersachsisches-wattenmeer/), due ampie
+      fasce costiere poco profonde situate più a nord.
+  pt:
+    intro: >-
+      Duas vezes por dia o mar entra pelas dunas, inunda os esteiros do Zwin e retira-se pondo a descoberto os
+      lodaçais. Este ritmo das marés dita tudo: quando chegam as aves, quando floresce a salgadeira e por onde
+      podes caminhar. O Zwin é o vestígio preservado de um antigo braço de maré entre a Bélgica e os Países
+      Baixos, hoje uma reserva onde a vida pulsa ao compasso da água salgada. O parque apresenta-se como um
+      «aeroporto internacional das aves», entregando-te um cartão de embarque logo à entrada.
+    landscape: >-
+      A história teve origem numa tempestade violenta. Em 1134, uma cheia marítima rompeu o litoral flamengo e
+      abriu um canal navegável com cerca de 15 km terra adentro, o Zwin, proporcionando a Bruges saída direta
+      para o mar. Contudo, a partir do final do século XIII o assoreamento começou a fechar o canal, e por
+      volta de 1500 a via tornara-se impraticável, isolando Bruges das rotas marítimas. O que subsiste é a
+      embocadura dessa enseada histórica, declarada zona húmida de importância internacional (Ramsar) em março
+      de 1986.
+
+
+      A planície do Zwin alterna sapais e lodaçais banhados pela maré duas vezes ao dia, uma vista
+      privilegiada a partir do passadiço sobre o canal. As marés vivas, duas vezes por mês, submergem grande
+      parte do circuito verde inferior. A vegetação é dominada por plantas tolerantes ao sal: salgadeira,
+      graminhão, salicórnia e áster-marítimo. No verão, a floração da salgadeira forra vastas áreas com um
+      delicado manto arroxeado.
+    wildlife: >-
+      Aqui o calendário desenrola-se ao compasso das aves.
+
+
+      Por volta de fevereiro chegam as [cegonhas-brancas](/especie/ciconia_ciconia/), mascote do parque, que
+      ocupam os seus ninhos até aos finais de julho. Põem os ovos nos finais de março ou inícios de abril e os
+      juvenis deixam os ninhos nas primeiras semanas de julho; em meados de agosto a maioria parte para sul.
+      Na primavera, as ilhotas de nidificação de Zwinplas enchem-se: primeiro guinchos-comuns e
+      gaivotas-de-cabeça-preta, e em abril o [alfaiate](/especie/recurvirostra_avosetta/) e o
+      borrelho-grande-de-coleira; os garajaus regressam de África em meados de abril, tornando maio e junho os
+      meses mais exuberantes. Os [colhereiros-europeus](/especie/platalea_leucorodia/) chegam a partir de
+      março, registando números recorde em agosto e setembro.
+
+
+      As limícolas surgem todo o ano. Registaram-se 40 espécies, 29 das quais visitantes anuais, e 21 podem
+      ser vistas no inverno. Ostraceiros, [maçaricos-reais](/especie/numenius_arquata/), perna-vermelhas e
+      tarambolas-cinzentas alimentam-se no lodo. No outono, sob a ponte surgem
+      [guarda-rios-comuns](/especie/alcedo_atthis/), mergulhões-pequenos e
+      [garcinhas-brancas](/especie/egretta_garzetta/) à procura de peixe miúdo. A partir de outubro juntam-se
+      os gansos árticos, mormente o ganso-grande-de-testa-branca, que partem em março, ao passo que o
+      [pato-branco](/especie/tadorna_tadorna/) e o [pato-real](/especie/anas_platyrhynchos/) nidificam com
+      regularidade.
+
+
+      Nos anfíbios destaca-se a rela-verde, sendo este o único reduto da espécie no oeste da Bélgica. Após um
+      declínio acentuado, a escavação de pequenas lagoas de água doce permitiu a sua recuperação. Podes vê-la
+      a apanhar sol de abril a outubro.
+    visit: >-
+      Começa pela exposição interpretativa e percorre o trilho das cabanas, com 1,7 km, acessível a cadeiras
+      de rodas e carrinhos de bebé. Cada cabana cumpre uma função: o laboratório com criaturas microscópicas,
+      a cabana do bosque com narrativas ecológicas, o posto da ilha para observar aves aquáticas e o posto de
+      escuta para treinar a identificação de cantos. Pelo caminho encontras guias do Zwin prontos a esclarecer
+      dúvidas.
+
+
+      Para explorar a planície existem dois circuitos, o verde e o azul, fáceis de articular. Atravessam
+      sapais e lodaçais, pelo que se recomenda calçado impermeável e resistente. O trilho azul pode ser feito
+      descalço no verão e atravessa uma pastagem onde gado bovino mantém a erva rasteira de julho a dezembro.
+      Petinhas-dos-prados nidificam ali na primavera, dando lugar ao trigueirão no inverno.
+
+
+      A partir do centro de observação, com enormes vidraças sobre o sapal e ecrãs táteis interativos, e da
+      torre de observação sobre a Kleyne Vlakte, dunas e pólderes, compreendes a paisagem de relance. A torre
+      das cegonhas permite espreitar os ninhos.
+    history: >-
+      Em 1952, classificar uma área como reserva natural constituía uma atitude pioneira liderada pelo conde
+      Léon Lippens, diretor da Compagnie Het Zoute. Em 1953, o antigo Jardim Real converteu-se num parque
+      ornitológico pedagógico, uma ideia inovadora. O Zwin tornou-se polo de investigação: anilharam-se
+      milhares de aves migradoras e catalogou-se a vegetação, inspirando reservas em França e Espanha. O
+      moderno Zwin Nature Park foi inaugurado oficialmente a 10 de junho de 2016. Os biólogos marcam e
+      monitorizam cegonhas anualmente desde 2019, assegurando uma colónia próspera.
+    before: >-
+      Poucas vezes por ano, uma maré viva excecional aliada a temporais de oeste inunda por completo a
+      planície, obrigando ao encerramento dos dois trilhos. Se vires a bandeira vermelha hasteada, a maré viva
+      impede a passagem e a observação faz-se a partir do centro coberto. Confirma o estado das marés e os
+      horários antes de partir.
+    around: >-
+      O Zwin partilha o alfaiate com o [Arquipélago de Marker Wadden](/lugar/marker-wadden/) e com o [Parque
+      Nacional do Mar de Wadden da Baixa Saxónia](/lugar/nationalpark-niedersachsisches-wattenmeer/), duas
+      orlas costeiras de águas baixas situadas a norte.
+fuentes:
+  - url: https://www.zwin.be/en/zwin-nature-park/discover-the-park
+    titulo: Discover the park | Zwin Natuur Park
+    fecha_consulta: '2026-10-29'
+  - url: https://www.zwin.be/en/park/what-can-you-see-zwin/species
+    titulo: By species | Zwin Natuur Park
+    fecha_consulta: '2026-10-29'
+  - url: https://www.zwin.be/en/walks/zwinplain
+    titulo: In the Zwin Plain - blue and green loop | Zwin Natuur Park
+    fecha_consulta: '2026-10-29'
+  - url: https://www.zwin.be/en/about-us/history
+    titulo: History | Zwin Natuur Park
+    fecha_consulta: '2026-10-29'
+  - url: https://www.zwin.be/en/activities/bird-ringing
+    titulo: Bird ringing | Zwin Natuur Park
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Zwin
+    titulo: Zwin — Wikipedia
+    fecha_consulta: '2026-10-29'

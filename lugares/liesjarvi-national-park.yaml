@@ -1,0 +1,608 @@
+id: liesjarvi-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Liesjärvi
+  en: Liesjärvi National Park
+  fr: Parc national de Liesjärvi
+  de: Liesjärvi-Nationalpark
+  it: Parco nazionale di Liesjärvi
+  pt: Parque Nacional de Liesjärvi
+nombre_original: Liesjärvi National Park
+alias:
+  - Liesjärvi National Park (Liesjärven kansallispuisto)
+paises:
+  - FI
+region:
+  es: Kanta-Häme (Tammela / Somero)
+  en: Kanta-Häme (Tammela / Somero)
+  fr: Kanta-Häme (Tammela / Somero)
+  de: Kanta-Häme (Tammela / Somero)
+  it: Kanta-Häme (Tammela / Somero)
+  pt: Kanta-Häme (Tammela / Somero)
+ubicacion:
+  tipo: punto
+  lat: 60.68
+  lon: 23.87
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 7477
+  nombre_en_la_fuente: Liesjärven kansallispuisto
+  categoria_uicn: II
+  capa: capas/cdda/liesjarvi-national-park.geojson
+habitats:
+  - mature_forest
+  - lake
+  - wetland
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - pteromys_volans
+  - castor_fiber
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Media en la estrecha barra de arena de Kyynäränharju
+  en: Moderate along the narrow Kyynäränharju sandy ridge
+  fr: Moyenne sur l'étroit cordon de sable de Kyynäränharju
+  de: Mäßig auf dem schmalen Sanddamm von Kyynäränharju
+  it: Moderata lungo la stretta lingua di sabbia di Kyynäränharju
+  pt: Média no estreito cordão arenoso de Kyynäränharju
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y mapa — Información oficial del parque
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park
+  - titulo: Rutas — Senderismo e itinerarios del parque
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/activities-and-trails/hiking-and-outdoor-recreation
+  - titulo: Normas — Instrucciones y restricciones de visita
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/instructions-and-rules
+  - titulo: Servicios y centros — Equipamientos del parque
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/services/hiking-services
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/directions/by-car
+  - titulo: Avisos — Novedades y condiciones actuales
+    url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/whatsnew
+resumen:
+  es: >-
+    Bosque boreal centenario con el esker estrecho de Kyynäränharju serpenteando como una calzada natural
+    entre dos lagos.
+  en: >-
+    Century-old boreal taiga featuring the narrow Kyynäränharju esker ridge meandering like a natural causeway
+    between two lakes.
+  fr: >-
+    Forêt boréale séculaire marquée par l'esker étroit de Kyynäränharju serpentant comme une digue naturelle
+    entre deux lacs.
+  de: >-
+    Jahrhundertealte boreale Taiga mit dem schmalen Oserücken Kyynäränharju, der sich wie ein Damm zwischen
+    zwei Seen windet.
+  it: >-
+    Foresta boreale secolare caratterizzata dallo stretto esker di Kyynäränharju che serpeggia come una diga
+    naturale tra due laghi.
+  pt: >-
+    Floresta boreal secular com o estreito esker de Kyynäränharju serpenteando como uma calçada natural entre
+    dois lagos.
+unico:
+  es: >-
+    Es el parque donde un esker de la Edad de Hielo hace de puente entre dos lagos y una granja de 1910 sigue
+    viva al lado del bosque virgen.
+  en: >-
+    An Ice Age esker serves as a natural bridge between two lakes beside old-growth woods and a heritage farm
+    functioning as in 1910.
+  fr: >-
+    Un parc où un esker glaciaire sert de pont entre deux lacs tandis qu'une ferme forestière de 1910 demeure
+    vivante au bord de la forêt primaire.
+  de: >-
+    Ein eiszeitlicher Oserücken bildet eine Brücke zwischen zwei Seen, direkt neben urwüchsigem Wald und einem
+    Forstdörfchen, das wie 1910 bewirtschaftet wird.
+  it: >-
+    Un esker dell'Era Glaciale funge da ponte naturale tra due laghi, accostato a boschi primigeni e a una
+    fattoria forestale viva come nel 1910.
+  pt: >-
+    Um esker da Idade do Gelo funciona como ponte natural entre dois lagos junto a matas virgens e a uma
+    herdade florestal preservada como em 1910.
+observaciones:
+  es: >-
+    Lleva a tu perro atado: se admiten, pero con correa. No hay papeleras ni puntos de reciclaje, así que todo
+    lo que traigas se vuelve contigo. Solo se permiten hogueras en los lugares preparados y con leña reservada
+    para ello, y con aviso de incendio forestal quedan prohibidas todas, salvo en los refugios de cocina con
+    chimenea como el de Tittilammi y la cabaña de Kaksvetinen. Las reglas completas, y cualquier cambio, están
+    en la web del gestor, y vale la pena mirarlas antes de ir.
+texto:
+  es:
+    intro: >-
+      Una calzada de arena de apenas un kilómetro de largo, y a cada lado, un lago. Así se resume Liesjärvi:
+      un parque pequeño del sur de Finlandia, en la región de Häme, que guarda bosques de pícea de más de un
+      siglo, turberas, lagos de orillas intactas y una granja de guardabosques que sigue funcionando casi como
+      en 1910. Se creó en 1956 y es de los más antiguos del país.
+    landscape: >-
+      Todo parte del hielo. Los eskers del parque se formaron al final de la Edad de Hielo, cuando las masas
+      de hielo se fundían, y el más famoso, Kyynäränharju, marca la línea por la que el hielo avanzó. Es un
+      istmo estrecho de casi un kilómetro que separa los lagos Kyynäräjärvi y Liesjärvi. Solo los une un canal
+      angosto, y los caminantes lo cruzan por un puente. Las orillas arenosas y el laberinto de islas y
+      entrantes de agua figuran entre los valores que más se protegen.
+
+
+      Alrededor domina el bosque. El tipo más común, casi la mitad de la superficie arbolada, es la pícea
+      fresca con arándano y arándano rojo en el sotobosque. Buena parte de los árboles tiene más de un siglo,
+      y en los bosques más viejos los hay de ciento ochenta años. Ahonnokka e Isosaari, los más vírgenes,
+      están protegidos desde los años veinte del siglo pasado. Completan el cuadro las turberas, las orillas y
+      casi cincuenta kilómetros de costa. Las zonas que se explotaron en décadas pasadas también se están
+      restaurando, para acercarlas cuanto antes a un estado natural.
+    wildlife: >-
+      Los bosques viejos y la madera muerta mantienen una buena comunidad de aves que anidan en agujeros.
+      Entre los pájaros carpinteros están el [pico negro](/especie/dryocopus_martius/), el picapinos, el [pico
+      tridáctilo](/especie/picoides_tridactylus/), el pito cano y el pico menor. De noche, en la época
+      adecuada, puedes oír el canto del mochuelo boreal y el ulular del [búho real](/especie/bubo_bubo/), y
+      desde los lagos llega la llamada del colimbo ártico. Sobre Korteniemi cruzan las golondrinas.
+
+
+      El gran habitante invisible es la [ardilla voladora siberiana](/especie/pteromys_volans/). Es nocturna y
+      casi nunca se deja ver, pero deja rastro: excrementos amarillos al pie del álamo temblón donde anida y
+      mordiscos en las hojas. En las orillas del parque, los grandes álamos con huecos en el tronco le ofrecen
+      nidos ideales, y desde allí planea más de cincuenta metros de árbol en árbol.
+
+
+      La primavera trae a la mariposa azul Celastrina argiolus, casi la única de alas azules en esas fechas y
+      elegida mariposa nacional de Finlandia en 2017. Más tarde, en los prados de Korteniemi y en los bosques
+      luminosos del esker, anda el escarabajo aceitoso violeta, un insecto azul brillante que no vuela. En
+      esos prados florecen también claveles de prado, lunaria, siemprevivas de montaña y colleja, y en los
+      campos de la granja, el aciano.
+
+
+      Una restricción importante de la temporada: del 15 de abril al 15 de julio no se puede desembarcar en
+      algunas islas ni entrar en la turbera de Tervalamminsuo.
+    visit: >-
+      Liesjärvi se hace en jornadas cortas. La red del parque son unos treinta kilómetros de senderos
+      circulares bien señalizados, de entre 1,5 y 5 kilómetros y sobre terreno fácil, pensados para
+      excursiones de un día. Pasan por el bosque antiguo de Ahonnokka, por la cresta de Kyynäränharju, por
+      pícea musgosa y pinar soleado.
+
+
+      Si quieres alargarlo, la red del parque conecta con la Hämeen Ilvesreitti, más de doscientos kilómetros
+      de senderos que permiten excursiones de varias jornadas con pernocta. Para dormir hay refugios y zonas
+      de acampada marcadas, y solo se puede acampar en ellas: el refugio de Peukaloinen, la cabaña de
+      Kaksvetinen y la zona de Savilahti. En el parque se puede caminar, esquiar, remar y navegar en canoa con
+      libertad, salvo en las zonas restringidas, aunque no hay pistas de esquí mantenidas.
+
+
+      La parada obligada es Korteniemi. Esta finca de guardabosques es la única del sur de Finlandia que
+      conserva su recinto original, y se puede visitar libremente. Desde mayo hasta principios de octubre hay
+      un guía y puedes sumarte a las tareas de la granja. Ovejas autóctonas y algunas vacas pastan allí cuando
+      el verano lo permite y mantienen el paisaje abierto.
+    history: >-
+      Hay gente aquí desde la Edad de Piedra. Más tarde se practicó la agricultura de roza y quema, y se quemó
+      madera para sacar alquitrán. En 1878 el Estado se hizo con el territorio y puso un guardabosques que
+      vigilaba los bosques de la Corona. Esa finca, Korteniemi, es hoy el corazón cultural del parque: se
+      incluyó para conservar el paisaje cultural y los hábitats que ha creado el ser humano, y la granja aún
+      cultiva centeno, ligado a la vieja agricultura de roza.
+
+
+      En 2005 el parque casi duplicó su superficie al sumarse reservas de turberas y bosques antiguos.
+    before: >-
+      Lleva a tu perro atado: se admiten, pero con correa. No hay papeleras ni puntos de reciclaje, así que
+      todo lo que traigas se vuelve contigo. Solo se permiten hogueras en los lugares preparados y con leña
+      reservada para ello, y con aviso de incendio forestal quedan prohibidas todas, salvo en los refugios de
+      cocina con chimenea como el de Tittilammi y la cabaña de Kaksvetinen. Las reglas completas, y cualquier
+      cambio, están en la web del gestor, y vale la pena mirarlas antes de ir.
+    around: >-
+      Liesjärvi está en la carretera nacional 2, a menos de cien kilómetros del área metropolitana de
+      Helsinki. Lejos de allí, comparte la ardilla voladora y los bosques maduros con el [Parque Nacional de
+      Alutaguse](/lugar/alutaguse-rahvuspark/) y con el [Parque Nacional de
+      Syöte](/lugar/syote-national-park/), en Finlandia.
+  en:
+    intro: >-
+      A sandy causeway barely one kilometre long, flanked on either side by open water. Such is the defining
+      portrait of Liesjärvi: a compact national park in southern Finland's Häme region preserving century-old
+      spruce forests, quiet peatlands, pristine shorelines, and a heritage crown forester's farm operating
+      almost exactly as in 1910. Established in 1956, it ranks among Finland's earliest national parks.
+    landscape: >-
+      Glacial meltwater forged this terrain. The park's esker ridges took shape at the close of the Ice Age,
+      and its most famous feature, Kyynäränharju, traces the path of retreating glacial currents. It forms a
+      slender sandy spit nearly one kilometre in length dividing Lake Kyynäräjärvi from Lake Liesjärvi. Only a
+      narrow channel connects the waters, crossed by walkers via a small timber bridge. Natural sand spits and
+      labyrinths of wooded islands represent core conservation priorities.
+
+
+      Surrounding the lakes is dense boreal taiga. The predominant woodland type, accounting for nearly half
+      the wooded acreage, is bilberry and lingonberry spruce forest. Many stands exceed a century in age, with
+      veteran trees in untouched reserves reaching one hundred and eighty years. The primeval sanctuaries of
+      Ahonnokka and Isosaari have been protected since the nineteen-twenties. Peatlands, mires, and nearly
+      fifty kilometres of shoreline complete the setting. Previously logged stands are actively restored
+      toward a natural state.
+    wildlife: >-
+      Old-growth timber and copious snags support cavity-nesting birds. Woodpeckers include the [black
+      woodpecker](/especie/dryocopus_martius/), great spotted woodpecker, [Eurasian three-toed
+      woodpecker](/especie/picoides_tridactylus/), grey-headed woodpecker, and lesser spotted woodpecker. At
+      night, listen for the calls of the boreal owl and the deep hooting of the [Eurasian
+      eagle-owl](/especie/bubo_bubo/), while red-throated divers call across the lakes. Swallows dart above
+      Korteniemi.
+
+
+      The park's elusive flagship mammal is the nocturnal [Siberian flying
+      squirrel](/especie/pteromys_volans/). Though rarely glimpsed, it leaves yellow droppings beneath
+      cavity-riddled aspens and tell-tale nibbled leaves. Stately lakeside aspens provide ideal nesting holes
+      from which the squirrel glides more than fifty metres between tree trunks.
+
+
+      Spring brings the holly blue butterfly (Celastrina argiolus), virtually the sole blue-winged butterfly
+      active so early, chosen as Finland's national butterfly in 2017. Later, on Korteniemi meadows and sunlit
+      esker trails, wanders the flightless violet oil beetle. Meadows host maiden pinks, mountain everlasting,
+      and bladder campion, while heritage fields bloom with cornflowers.
+
+
+      A vital seasonal rule applies: from 15 April to 15 July landing on sensitive nesting islets and entering
+      the Tervalamminsuo mire sanctuary is prohibited.
+    visit: >-
+      Liesjärvi is best explored on day walks. The park network comprises some thirty kilometres of
+      well-marked circular loops between 1.5 and 5 kilometres on easy terrain. Trails traverse the Ahonnokka
+      virgin grove, the Kyynäränharju ridge, mossy spruce taiga, and sunny pine heaths.
+
+
+      For longer adventures, the trails connect with the Hämeen Ilvesreitti (Lynx Trail), extending over two
+      hundred kilometres for multi-day backpacking treks. Designated campsites and open wilderness shelters
+      include Peukaloinen lean-to, Kaksvetinen hut, and the Savilahti camping meadow. Walking, skiing, rowing,
+      and canoeing are unrestricted outside seasonal bird sanctuaries, though no groomed ski tracks exist.
+
+
+      The highlight is Korteniemi Heritage Farm, southern Finland's sole surviving crown forestry smallholding
+      with intact historic timber buildings. Open from May to early October, visitors can meet heritage farm
+      staff and participate in traditional chores. Native sheep and cattle graze the paddocks, keeping the
+      historical landscape open.
+    history: >-
+      Human presence dates from the Stone Age, followed by slash-and-burn farming and tar production. In 1878,
+      the Finnish state acquired the territory and appointed a crown forester to guard royal woods. The
+      Korteniemi farmstead remains the historical heart of the park, preserved to safeguard agrarian heritage,
+      where heritage rye is still cultivated with traditional methods.
+
+
+      In 2005, the park nearly doubled in area through the addition of surrounding mires and old-growth forest
+      reserves.
+    before: >-
+      Keep dogs on leashes at all times: pets are welcome but must remain leashed. There are no refuse bins or
+      recycling stations, so carry out all rubbish. Open campfires are restricted to official fire rings with
+      provided firewood; during forest fire warnings, all outdoor fires are prohibited except inside cooking
+      shelters with flues like Tittilammi and the Kaksvetinen hut. Review park regulations on the official
+      website before visiting.
+    around: >-
+      Liesjärvi lies along national highway 2, less than one hundred kilometres from the Helsinki metropolitan
+      area. Across northern latitudes, it shares the Siberian flying squirrel and primeval spruce woods with
+      [Alutaguse National Park](/lugar/alutaguse-rahvuspark/) and [Syöte National
+      Park](/lugar/syote-national-park/) in Finland.
+  fr:
+    intro: >-
+      Une digue de sable d'à peine un kilomètre de long bordée de chaque côté par un lac étincelant. Tel se
+      résume Liesjärvi : un parc intimiste du sud de la Finlande, dans la région du Häme, qui préserve des
+      pessières de plus d'un siècle, des tourbières, des berges sauvages et une ferme de garde forestier
+      fonctionnant presque comme en 1910. Créé en 1956, il compte parmi les plus anciens du pays.
+    landscape: >-
+      Tout procède de la débâcle glaciaire. Les eskers du parc sont nés au retrait des glaces, et le plus
+      emblématique, Kyynäränharju, dessine le tracé d'un fleuve sous-glaciaire. C'est un isthme sablonneux de
+      près d'un kilomètre séparant le lac Kyynäräjärvi du lac Liesjärvi. Seul un étroit goulet relie les plans
+      d'eau, franchi par une passerelle. Les grèves de sable et les chapelets d'îles boisées constituent des
+      trésors protégés.
+
+
+      Autour s'étend la taïga. Le type dominant, couvrant près de la moitié de la surface boisée, est la
+      pessière fraîche à myrtilles et airelles. De nombreux arbres dépassent un siècle d'âge, atteignant cent
+      quatre-vingts ans dans les parcelles les plus vénérables. Les sanctuaires d'Ahonnokka et d'Isosaari sont
+      protégés depuis les années vingt du siècle dernier. Des tourbières et près de cinquante kilomètres de
+      rivages complètent l'ensemble, complétés par la renaturation d'anciennes parcelles exploitées.
+    wildlife: >-
+      Les boisements matures et le bois mort hébergent un riche cortège d'oiseaux cavicoles. Les pics comptent
+      le [pic noir](/especie/dryocopus_martius/), le pic épeiche, le [pic
+      tridactyle](/especie/picoides_tridactylus/), le pic cendré et le pic épeichette. La nuit résonnent les
+      hululements de la chouette de Tengmalm et du [grand-duc d'Europe](/especie/bubo_bubo/), tandis que le
+      plongeon arctique lance sa plainte sur les lacs. Des hirondelles sillonnent les cieux de Korteniemi.
+
+
+      Le résident secret des lieux est l'[écureuil volant de Sibérie](/especie/pteromys_volans/). Nocturne et
+      discret, il trahit sa présence par de petites crottes jaunâtres au pied des vieux trembles et des
+      feuilles grignotées. Les trembles creux des rives lui offrent des cavités idéales d'où il plane sur plus
+      de cinquante mètres d'arbre en arbre.
+
+
+      Le printemps voit voler l'azuré des nerpruns, presque le seul papillon bleu à cette saison, élu papillon
+      national de Finlande en 2017. Plus tard, sur les prés de Korteniemi, chemine le méloé violet aptère. Les
+      prairies abritent œillets à delta, silènes et pieds-de-chat, tandis que les champs fleurent bon le
+      bleuet.
+
+
+      Une consigne stricte : du 15 avril au 15 juillet, le débarquement sur plusieurs îles et l'accès à la
+      tourbière de Tervalamminsuo sont interdits pour préserver la nidification.
+    visit: >-
+      Liesjärvi s'explore lors de courtes randonnées. Le réseau comprend une trentaine de kilomètres de
+      boucles balisées de 1,5 à 5 kilomètres sur terrain facile, idéales pour la journée. Elles parcourent la
+      forêt d'Ahonnokka, la crête de Kyynäränharju et des pinèdes ensoleillées.
+
+
+      Le réseau se connecte au grand itinéraire Hämeen Ilvesreitti, offrant plus de deux cents kilomètres de
+      pistes pour des treks de plusieurs jours. Pour bivouaquer, seuls les refuges et campings désignés sont
+      autorisés : abri de Peukaloinen, cabane de Kaksvetinen et prairie de Savilahti. La marche, le canoë et
+      le ski nordique sont libres hors réserves intégrales, sans pistes de ski damées.
+
+
+      L'étape incontournable est la ferme forestière de Korteniemi, la seule du sud finlandais à conserver ses
+      bâtiments d'origine. Ouverte de mai à début octobre, elle permet de s'initier aux travaux agricoles
+      traditionnels. Des moutons et quelques vaches de race locale y entretiennent les pâturages ouverts.
+    history: >-
+      Le peuplement remonte à l'âge de la pierre, suivi par le brûlis itinérant et la poix. En 1878, l'État
+      acquit le domaine et y installa un garde forestier chargé de surveiller les forêts de la Couronne. La
+      ferme de Korteniemi constitue le cœur patrimonial du parc, perpétuant la culture du seigle traditionnel.
+
+
+      En 2005, le parc a presque doublé de superficie en intégrant des tourbières et des forêts anciennes
+      adjacentes.
+    before: >-
+      Gardez votre chien en laisse en toute circonstance. Il n'y a aucune poubelle, rapportez tous vos
+      déchets. Les feux de camp ne sont autorisés que sur les emplacements dédiés avec bois fourni ; en
+      période d'alerte incendie, tout feu ouvert est proscrit hors des abris fermés avec cheminée comme à
+      Tittilammi ou Kaksvetinen. Consultez les consignes officielles avant votre visite.
+    around: >-
+      Liesjärvi borde la route nationale 2, à moins de cent kilomètres de l'agglomération d'Helsinki. Plus au
+      nord, il partage l'écureuil volant et les vieilles forêts boréales avec le [parc national
+      d'Alutaguse](/lugar/alutaguse-rahvuspark/) et le [parc national de Syöte](/lugar/syote-national-park/)
+      en Finlande.
+  de:
+    intro: >-
+      Ein sandiger Damm von kaum einem Kilometer Länge, und zu beiden Seiten spiegelt sich ein See. So lässt
+      sich Liesjärvi zusammenfassen: ein kleiner Nationalpark im südfinnischen Häme, der über hundertjährige
+      Fichtenwälder, Moorflächen, unberührte Ufer und ein Forstgehöft schützt, das fast wie im Jahr 1910
+      bewirtschaftet wird. Gegründet 1956, gehört er zu den ältesten Schutzgebieten Finnlands.
+    landscape: >-
+      Alles verdankt sich der Eiszeit. Die Oser des Parks entstanden beim Abschmelzen der Eismassen, und der
+      berühmteste, Kyynäränharju, zeichnet die Fließrichtung des Schmelzwassers nach. Es ist ein schmaler Damm
+      von fast einem Kilometer Länge, der die Seen Kyynäräjärvi und Liesjärvi trennt. Nur ein enger Durchlass
+      verbindet die Wasserflächen, überspannt von einer Holzbrücke. Sandige Buchten und Inselnetze stehen
+      unter strengem Schutz.
+
+
+      Rundherum dominiert die Taiga. Der häufigste Waldtyp – fast die Hälfte des Baumbestands – ist frischer
+      Heidelbeer-Fichtenwald. Viele Bäume sind über ein Jahrhundert alt, in Altwaldzonen bis zu
+      einhundertachtzig Jahre. Die Urwaldinseln Ahonnokka und Isosaari stehen seit den zwanziger Jahren des
+      letzten Jahrhunderts unter Schutz. Hochmoore und fast fünfzig Kilometer Uferlinie runden die Kulisse ab.
+      Einst forstlich genutzte Parzellen werden schrittweise renaturiert.
+    wildlife: >-
+      Altholz und Totholz bieten Nistraum für Höhlenbrüter. Unter den Spechten finden sich
+      [Schwarzspecht](/especie/dryocopus_martius/), Buntspecht,
+      [Dreizehenspecht](/especie/picoides_tridactylus/), Grauspecht und Kleinspecht. Nachts ertönen die Rufe
+      von Raufußkauz und [Uhu](/especie/bubo_bubo/), über den Seen der Klagelaut des Prachttauchers. Schwalben
+      kreuzen über den Wiesen von Korteniemi.
+
+
+      Heimlicher Bewohner ist das [Europäische Gleithörnchen](/especie/pteromys_volans/). Das nachtaktive Tier
+      zeigt sich selten, hinterlässt aber Fraßspuren und Kot an alten Espen. Höhlenreiche Riesenbäume am Ufer
+      bieten ideale Quartiere, von denen aus es mehr als fünfzig Meter weit durch die Luft gleitet.
+
+
+      Im Frühjahr flattert der Faulbaum-Bläuling, der 2017 zum National-Schmetterling Finnlands gekürt wurde.
+      Später krabbelt auf den Wiesen von Korteniemi der seltene, flugunfähige Violetter Ölkäfer. Auf den
+      Wiesen blühen Heidenelke, Mondviole und Nickendes Leimkraut, auf den Äckern Kornblumen.
+
+
+      Wichtige Schutzauflage: Vom 15. April bis zum 15. Juli ist das Betreten einiger Vogelinseln sowie des
+      Moors Tervalamminsuo untersagt.
+    visit: >-
+      Liesjärvi eignet sich für Tagestouren. Das Wegenetz umfasst rund dreißig Kilometer gut markierte
+      Rundwege zwischen 1,5 und 5 Kilometern Länge auf einfachem Gelände. Sie führen durch das Altwäldchen
+      Ahonnokka, über den Kamm des Kyynäränharju und durch sonnige Kiefernbestände.
+
+
+      Für Weitwanderer schließt das Netz an die Hämeen Ilvesreitti an, die sich über mehr als zweihundert
+      Kilometer erstreckt. Übernachten darf man nur auf ausgewiesenen Rastplätzen: Peukaloinen-Unterstand,
+      Hütte Kaksvetinen und Zeltplatz Savilahti. Wandern, Skilaufen, Rudern und Kanufahren sind abseits der
+      Schutzinseln frei gestattet, maschinell gespurte Loipen gibt es nicht.
+
+
+      Pflichtziel ist der historische Forsthof Korteniemi, das einzige erhaltene Gehöft dieser Art in
+      Südfinnland. Von Mai bis Anfang Oktober vermitteln Führer alte Wirtschaftsweisen, und Besucher können
+      bei der Heuernte mithelfen. Einheimische Schafe und Kühe weiden die Flächen ab.
+    history: >-
+      Spuren menschlicher Besiedlung reichen bis in die Steinzeit zurück. Im Jahr 1878 übernahm der Staat das
+      Areal und setzte einen Förster zur Bewachung der Kronforste ein. Das Gehöft Korteniemi bildet das
+      kulturelle Herzstück des Parks, wo bis heute historischer Roggen angebaut wird.
+
+
+      Im Jahr 2005 verdoppelte der Nationalpark seine Fläche durch die Eingliederung umliegender Moore und
+      Altwälder nahezu.
+    before: >-
+      Führe Hunde stets an der Leine. Es gibt keine Mülleimer, nimm alle Abfälle wieder mit. Lagerfeuer sind
+      nur an offiziellen Feuerstellen mit bereitgestelltem Holz erlaubt; bei Waldbrandwarnungen herrscht
+      striktes Feuerverbot im Freien, ausgenommen Küchenunterstände mit Schornstein wie in Tittilammi und
+      Kaksvetinen. Beachte die Schutzregeln auf der Parkwebsite vor deiner Anreise.
+    around: >-
+      Liesjärvi liegt an der Nationalstraße 2, weniger als hundert Kilometer vom Großraum Helsinki entfernt.
+      In Finnland teilt der Park Gleithörnchen und Taiga-Altwälder mit dem
+      [Alutaguse-Nationalpark](/lugar/alutaguse-rahvuspark/) und dem
+      [Syöte-Nationalpark](/lugar/syote-national-park/).
+  it:
+    intro: >-
+      Un cordone di sabbia lungo appena un chilometro lambito su entrambi i fianchi dalle acque di un lago.
+      Così si riassume Liesjärvi: un piccolo parco del sud della Finlandia, nel distretto di Häme, che
+      custodisce peccete vetuste ultracentenarie, torbiere, rive lacustri intatte e una fattoria forestale
+      attiva quasi come nel 1910. Istituito nel 1956, è tra i parchi più antichi della nazione.
+    landscape: >-
+      La morfologia deriva dai ghiacciai. Gli esker del parco si formarono al termine dell'Era Glaciale al
+      ritiro dei ghiacci, e il più celebrato, Kyynäränharju, ricalca la traiettoria di scorrimento delle acque
+      subglaciali. È un istmo sabbioso di quasi un chilometro che separa il lago Kyynäräjärvi dal lago
+      Liesjärvi. Solo uno stretto canale collega i bacini, scavalcato da un ponticello in legno. Rive sabbiose
+      e intrichi di isole boscose formano un patrimonio rigorosamente tutelato.
+
+
+      Attorno domina la taiga boreale. Il tipo boschivo predominante, che copre quasi la metà della superficie
+      forestale, è la pecceta fresca con sottobosco di mirtillo nero e rosso. Buona parte degli alberi vanta
+      oltre un secolo d'età, toccando centottanta anni nei settori più antichi. I nuclei vergini di Ahonnokka
+      e Isosaari sono protetti sin dagli anni venti del secolo scorso. Torbiere e quasi cinquanta chilometri
+      di rive completano il quadro naturale, arricchito da interventi di rinaturalizzazione.
+    wildlife: >-
+      Le foreste vetuste e il legno marcescente sostengono una varia comunità di uccelli nidificanti in
+      cavità. Tra i picchi si contano il [picchio nero](/especie/dryocopus_martius/), il picchio rosso
+      maggiore, il [picchio tridattilo](/especie/picoides_tridactylus/), il picchio cenerino e il picchio
+      rosso minore. Di notte si odono la civetta capogrosso e il richiamo del [gufo
+      reale](/especie/bubo_bubo/), mentre dai laghi risuona la strolaga mezzana. Le rondini sfrecciano sui
+      prati di Korteniemi.
+
+
+      Il grande abitante elusivo è lo [scoiattolo volante siberiano](/especie/pteromys_volans/). Notturno e
+      difficile da scorgere, rivela la sua presenza tramite escrementi giallastri ai piedi dei vecchi pioppi
+      tremuli. I grandi alberi cavi delle rive gli offrono ripari ideali dai quali compie planate di oltre
+      cinquanta metri da un tronco all'altro.
+
+
+      La primavera segna il volo della celastrina, eletta farfalla nazionale finlandese nel 2017. Più tardi,
+      sui prati di Korteniemi, passeggia il coleottero Meloe violaceus. Le radure ospitano garofanini dei
+      certosini, lunaria e silene rigonfia, mentre nei campi arati crescono fiordalisi.
+
+
+      Una norma inderogabile: dal 15 aprile al 15 luglio è vietato sbarcare sulle isolette di nidificazione e
+      inoltrarsi nella torbiera di Tervalamminsuo.
+    visit: >-
+      Liesjärvi si visita con camminate giornaliere. La rete del parco si sviluppa per circa trenta chilometri
+      di anelli ben segnalati tra 1,5 e 5 chilometri su terreno agevole. Attraversano il bosco vetusto di
+      Ahonnokka, il crinale di Kyynäränharju e luminose pinete su sabbia.
+
+
+      Per escursioni prolungate i tracciati si raccordano alla rete Hämeen Ilvesreitti, che supera duecento
+      chilometri consentendo trekking di più giorni. Per pernottare sono ammessi unicamente i rifugi e i
+      campeggi segnalati: il bivacco di Peukaloinen, la capanna di Kaksvetinen e l'area di Savilahti.
+      Escursionismo, sci da fondo, canottaggio e canoa sono liberi fuori dai santuari ornitologici, senza
+      piste battute.
+
+
+      Tappa irrinunciabile è la fattoria forestale di Korteniemi, l'unica della Finlandia meridionale che
+      conserva intatto il complesso rurale originario. Aperta da maggio a inizio ottobre, accoglie i
+      visitatori per condividere le mansioni agricole tradizionali. Pecore e mucche autoctone mantengono
+      aperti i pascoli.
+    history: >-
+      Le presenze umane risalgono all'Età della Pietra, seguite dal debbio agricolo e dall'estrazione della
+      pece. Nel 1878 lo Stato acquisì l'area insediando una guardia forestale a presidio dei boschi della
+      Corona. Il podere di Korteniemi costituisce il cuore storico del parco, dove si coltiva ancora la segale
+      tradizionale.
+
+
+      Nel 2005 il parco ha quasi raddoppiato la propria superficie accorpando torbiere e riserve di boschi
+      vetusti limitrofi.
+    before: >-
+      Tieni sempre il cane al guinzaglio. Non ci sono cestini dei rifiuti, riporta a casa ogni scarto. I
+      fuochi sono permessi solo nei punti attrezzati con legna fornita; con allerta incendi boschivi ogni
+      fuoco all'aperto è vietato, salvo nei rifugi provvisti di camino come a Tittilammi e Kaksvetinen.
+      Consulta il regolamento sul portale dell'ente prima della visita.
+    around: >-
+      Liesjärvi sorge lungo la strada statale 2, a meno di cento chilometri dall'area metropolitana di
+      Helsinki. In Finlandia condivide lo scoiattolo volante e la taiga vetusta con il [Parco nazionale di
+      Alutaguse](/lugar/alutaguse-rahvuspark/) e il [Parco nazionale di Syöte](/lugar/syote-national-park/).
+  pt:
+    intro: >-
+      Uma calçada de areia com apenas um quilómetro de comprimento, banhada em ambas as margens por um lago
+      espelhado. Assim se sintetiza Liesjärvi: um parque acolhedor do sul da Finlândia, na região de Häme, que
+      guarda abetais com mais de um século, turfeiras, margens intocadas e uma herdade florestal que opera
+      quase como em 1910. Criado em 1956, figura entre os mais antigos do país.
+    landscape: >-
+      Toda a paisagem nasceu do degelo. Os eskers formaram-se no final da Idade do Gelo com a retirada das
+      massas glaciares, e o mais célebre, Kyynäränharju, traça o curso de antigas correntes subglaciares. É um
+      istmo de areia de quase um quilómetro dividindo o lago Kyynäräjärvi do lago Liesjärvi. Apenas um canal
+      estreito une os lençóis de água, cruzado por uma ponte pedonal. Restingas arenosas e labirintos de
+      ilhotas arborizadas constituem valores cimeiros de conservação.
+
+
+      Em redor reina a taiga. A tipologia dominante, cobrindo quase metade do arvoredo, é o abetal fresco com
+      mirtilos e arandos no sub-bosque. Boa parte do arvoredo ultrapassa um século de idade, atingindo cento e
+      oitenta anos nas manchas mais antigas. Os santuários de Ahonnokka e Isosaari estão classificados desde
+      os anos vinte do século passado. Turfeiras e quase cinquenta quilómetros de costa compõem o cenário, com
+      recuperação de antigas áreas exploradas.
+    wildlife: >-
+      O arvoredo maduro e a madeira morta asseguram abrigo a aves nidificantes em cavidades. Entre os
+      pica-paus contam-se o [pica-pau-preto](/especie/dryocopus_martius/), o pica-pau-malhado-grande, o
+      [pica-pau-tridáctilo](/especie/picoides_tridactylus/), o pica-pau-cinzento e o pica-pau-malhado-pequeno.
+      À noite ouve-se o mocho-de-tengmalm e o [bufo-real](/especie/bubo_bubo/), enquanto dos lagos ecoa a
+      mobelha-árctica. Andorinhas cruzam os céus de Korteniemi.
+
+
+      O ilustre morador discreto é o [esquilo-voador-siberiano](/especie/pteromys_volans/). Noturno e esquivo,
+      denuncia-se por dejetos amarelados na base dos velhos álamos e folhas roídas. Os grandes álamos ocos das
+      margens fornecem cavidades ideais de onde plana mais de cinquenta metros de tronco em tronco.
+
+
+      A primavera traz a borboleta Celastrina argiolus, praticamente a única de asas azuis na estação, eleita
+      borboleta nacional da Finlândia em 2017. Mais tarde passeia nas pastagens de Korteniemi o escaravelho
+      Meloe violaceus. Nos prados desabrocham cravinas, lunárias e silenes, surgindo nos campos cultivados a
+      centáurea.
+
+
+      Uma salvaguarda essencial: de 15 de abril a 15 de julho é proibido desembarcar em ilhas de nidificação e
+      entrar na turfeira de Tervalamminsuo.
+    visit: >-
+      Liesjärvi percorre-se em passeios de um dia. A rede do parque soma cerca de trinta quilómetros de
+      trilhos circulares sinalizados entre 1,5 e 5 quilómetros em terreno plano. Percorrem o bosque primitivo
+      de Ahonnokka, a crista de Kyynäränharju e pinhais soalheiros.
+
+
+      Para caminhadas extensas, os trilhos articulam-se com a rota Hämeen Ilvesreitti, com mais de duzentos
+      quilómetros para travessias de várias jornadas. Para pernoitar existem abrigos e áreas de campismo
+      assinaladas: abrigo de Peukaloinen, cabana de Kaksvetinen e prado de Savilahti. Caminhar, esquiar, remar
+      e andar de canoa são permitidos fora das reservas estritas, sem pistas mecânicas de esqui.
+
+
+      Ponto obrigatório é a herdade de Korteniemi, a única da Finlândia meridional que mantém as traças rurais
+      originais. Aberta de maio ao início de outubro, permite aos visitantes participar nas lides agrícolas
+      tradicionais. Ovelhas e vacas autóctones mantêm as pastagens abertas.
+    history: >-
+      A ocupação remonta à Idade da Pedra, seguindo-se a agricultura de queimada e a destilação de pez. Em
+      1878 o Estado adquiriu a propriedade instalando um guarda para tutelar as florestas da Coroa. A herdade
+      de Korteniemi permanece como o polo cultural do parque, cultivando ainda o centeio tradicional.
+
+
+      Em 2005 o parque quase duplicou de tamanho com a anexação de turfeiras e reservas de mata madura.
+    before: >-
+      Mantém o cão sempre com trela. Não existem caixotes do lixo, traz todos os resíduos contigo. Fogueiras
+      só são autorizadas nos locais próprios com lenha disponibilizada; sob risco de incêndio florestal são
+      interditos lumes ao ar livre, exceto em abrigos com chaminé como em Tittilammi e Kaksvetinen. Consulta o
+      regulamento no sítio do parque antes de partir.
+    around: >-
+      Liesjärvi fica na estrada nacional 2, a menos de cem quilómetros da área metropolitana de Helsínquia. Na
+      Finlândia partilha o esquilo-voador e a taiga madura com o [Parque Nacional de
+      Alutaguse](/lugar/alutaguse-rahvuspark/) e o [Parque Nacional de Syöte](/lugar/syote-national-park/).
+fuentes:
+  - url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/activities-and-trails/hiking-and-outdoor-recreation
+    titulo: Hiking & outdoor recreation - Liesjärvi National Park
+    fecha_consulta: '2026-10-30'
+  - url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/activities-and-trails/other-activities
+    titulo: Other activities - Liesjärvi National Park
+    fecha_consulta: '2026-10-30'
+  - url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/nature
+    titulo: Nature - Liesjärvi National Park - Luontoon
+    fecha_consulta: '2026-10-30'
+  - url: https://fi.wikipedia.org/wiki/Liesj%C3%A4rven_kansallispuisto
+    titulo: Liesjärven kansallispuisto – Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/instructions-and-rules
+    titulo: Instructions and rules - Liesjärvi National Park - Luontoon
+    fecha_consulta: '2026-10-30'
+  - url: https://www.luontoon.fi/en/destinations/liesjarvi-national-park/services/hiking-services
+    titulo: Hiking services - Liesjärvi National Park - Luontoon
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Hyypi%C3%B6kallio,_Liesj%C3%A4rven_kansallispuisto,_Tammela,_15.11.2014_(4).JPG
+    autor: Markus Rantala ( Makele-90 )
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,552 @@
+id: parque-nacional-del-teide
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Teide
+  en: Teide National Park
+  fr: Parc national du Teide
+  de: Nationalpark Teide
+  it: Parco Nazionale del Teide
+  pt: Parque Nacional do Teide
+nombre_original: Parque Nacional del Teide
+alias:
+  - Parque Nacional del Teide
+paises:
+  - ES
+region:
+  es: Canarias (Tenerife — Las Cañadas)
+  en: Canary Islands (Tenerife — Las Cañadas)
+  fr: Îles Canaries (Tenerife — Las Cañadas)
+  de: Kanarische Inseln (Teneriffa — Las Cañadas)
+  it: Isole Canarie (Tenerife — Las Cañadas)
+  pt: Canárias (Tenerife — Las Cañadas)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 28.266
+  lon: -16.621
+  radio_km: 8
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389013
+  nombre_en_la_fuente: El Teide
+  capa: capas/cdda/parque-nacional-del-teide.geojson
+habitats:
+  - high_mountain
+  - karst
+designaciones:
+  - national_park
+  - iucn_ii
+  - unesco_whs
+  - natura2000
+especies:
+  - fringilla_teydea
+  - pinus_canariensis
+  - falco_tinnunculus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 10
+  - 11
+temporada_nota:
+  es: floración del tajinaste rojo en mayo-junio
+  en: flowering of the red bugloss in May-June
+  fr: floraison de la vipérine rouge en mai-juin
+  de: Blüte des Roten Teide-Natternkopfs im Mai-Juni
+  it: fioritura della viperaia rossa a maggio-giugno
+  pt: floração do tajinaste-vermelho em maio-junho
+masificacion: 4
+masificacion_nota:
+  es: Muy alta en Las Cañadas y el teleférico; ascenso al pico con permiso
+  en: Very high in Las Cañadas and at the cable car; summit ascent requires a permit
+  fr: Très élevée dans Las Cañadas et au téléphérique ; ascension au sommet sur permis
+  de: Sehr hoch in Las Cañadas und an der Seilbahn; Gipfelbesteigung genehmigungspflichtig
+  it: Molto alta a Las Cañadas e presso la funivia; ascesa alla cima su permesso
+  pt: Muito alta em Las Cañadas e no teleférico; subida ao pico sujeita a autorização
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Parque Nacional del Teide (MITECO)
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide.html
+  - titulo: Accesos — Llegar al Teide
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/guia-accesos.html
+  - titulo: Rutas — Itinerarios del Teide
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/itinerarios.html
+  - titulo: Centros de visitantes — El Portillo y Cañada Blanca
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/centros.html
+  - titulo: Avisos — Estado y condiciones de visita
+    url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/avisos.html
+  - titulo: Permisos — Reservas de senderos del Teide
+    url: https://www.gobiernodecanarias.org/parquesnacionales/teide/tramites/reservas/index.html
+enlaces_referencia:
+  - titulo: 'UNESCO: Teide National Park'
+    url: https://whc.unesco.org/en/list/1258
+resumen:
+  es: >-
+    Un estratovolcán de 3.715 metros sobre una caldera gigante: paisaje volcánico de alta montaña con flora
+    endémica canaria.
+  en: >-
+    A stratovolcano of 3,715 metres rising above a giant caldera: high-altitude volcanic landscape with
+    endemic Canarian flora.
+  fr: >-
+    Un stratovolcan de 3 715 mètres émergeant d’une gigantesque caldeira : paysage volcanique de haute
+    montagne et flore endémique.
+  de: >-
+    Ein 3.715 Meter hoher Stratovulkan über einer riesigen Caldera: vulkanische Hochgebirgslandschaft mit
+    endemischer Flora.
+  it: >-
+    Uno stratovulcano di 3.715 metri su una caldera ciclopica: scenario vulcanico d’alta quota con flora
+    endemica canaria.
+  pt: >-
+    Um estratovulcão de 3.715 metros erguendo-se sobre uma gigantesca caldeira: paisagem vulcânica de alta
+    montanha com flora canária endémica.
+unico:
+  es: Un volcán sagrado para los guanches, rodeado de un paisaje de lava, roques y plantas que solo crecen aquí.
+  en: >-
+    A sacred volcano for the indigenous Guanches, encircled by fields of lava, volcanic monoliths and plants
+    that thrive nowhere else.
+  fr: >-
+    Un volcan sacré pour les Guanches, cerné de champs de lave, de pitons rocheux et d’une flore unique au
+    monde.
+  de: >-
+    Ein für die Guanchen heiliger Vulkan, umgeben von erstarrten Lavaströmen, Felsnadeln und Pflanzen, die
+    weltweit nur hier wachsen.
+  it: Un vulcano sacro per i Guanci, contornato da campi di lava, pinnacoli e piante che crescono solo qui.
+  pt: >-
+    Um vulcão sagrado para os Guanches, rodeado por campos de lava, monólitos e plantas que só medram nestas
+    altitudes.
+observaciones:
+  es: >-
+    La ascensión al Pico, por la falta de oxígeno, puede ser peligrosa para personas de salud delicada o con
+    lesión cardiopulmonar. El acceso a pie desde La Rambleta hasta el punto más alto del Pico exige un permiso
+    especial. Lleva botas y ropa de abrigo aunque haga calor, y protégete del sol con gafas, gorra y crema. No
+    es difícil perderse: sigue solo recorridos señalizados y evita caminar en solitario. Comprueba el estado
+    de los senderos y los horarios de los centros antes de salir.
+texto:
+  es:
+    intro: >-
+      Casi todo el parque está por encima de los 2.000 metros: es alta montaña, con clima extremo, en pleno
+      Atlántico. Dos grandes depresiones, Las Cañadas, rodean al Teide, el pico más alto de Canarias, de
+      España y de cualquier tierra emergida del Atlántico. Entre ellas se reparten coladas de erupciones
+      distintas, montañas y volcanes, y un paisaje que los científicos estudian desde hace siglos: Humboldt
+      visitó la isla en 1799 y fue el primero en estudiar su flora. Fue declarado parque nacional el 22 de
+      enero de 1954.
+    landscape: >-
+      El alto de Guajara, el Llano de Ucanca, las Siete Cañadas, La Fortaleza, los roques de García y el Pico
+      Viejo, o Chahorra, forman el paisaje característico. En el sendero de los Roques de García se ve La
+      Cascada, una colada de lava, y lavas cordadas; La Catedral es una chimenea volcánica fonolítica que la
+      erosión dejó a la vista. En 1798 se produjo la última gran erupción, la de las Narices del Teide, desde
+      el Pico Viejo. En la base del Teide hay enormes bolas de acreción, fragmentos de magma que rodaron por
+      la ladera.
+
+
+      La vegetación se pega a las rocas. En el parque hay 194 plantas superiores, 58 de ellas endemismos
+      canarios, y las paredes y oquedades de Las Cañadas sirven de refugio a muchas. Destacan el tajinaste
+      rojo, cuyos tallos florales alcanzan a veces los dos metros, la jara de Las Cañadas, el alhelí del
+      Teide, la hierba pajonera y la retama del Teide. Hay 11 hábitats de interés comunitario, que ocupan el
+      75 % de la superficie. Sobre los 3.400 metros la vegetación parece desaparecer, aunque la magarza y la
+      violeta del Teide llegan aún más alto.
+    wildlife: >-
+      La fauna es más discreta. Entre las aves, el [pinzón azul](/especie/fringilla_teydea/), el cernícalo, la
+      curruca cabecinegra y la curruca tomillera; en los llanos de los senderos es muy probable ver
+      mosquitero, cernícalo y bisbita caminero. Hay también lagarto tizón, perenquén de Delande, murciélago
+      orejudo canario, muflón, erizo moruno y la pimelia del Teide. El control del conejo forma parte de la
+      conservación del parque, y la flora amenazada se protege con semilleros en vivero, recogida de semillas
+      y restituciones.
+
+
+      Las estaciones dictan el parque. En algunas épocas del año zonas enteras están cubiertas por un manto de
+      hielo y nieve que puede resultar peligroso. En primavera se instalan colmenas señalizadas, y hay que
+      evitar molestar a las abejas.
+    visit: >-
+      Empieza por los centros. El de El Portillo explica la geología, la formación del paisaje, las
+      adaptaciones de la flora y la fauna y el clima, y tiene un jardín botánico anexo con especies de alta
+      montaña canaria, muchas endémicas de Tenerife. En La Orotava, el centro Telesforo Bravo recorre la isla
+      de la costa a la cumbre. Y la casa de Juan Évora, último habitante de Las Cañadas con el modo de vida
+      tradicional, es hoy punto de información y museo etnográfico de los pastores.
+
+
+      Entre los senderos, el de los Roques de García es un circuito de unas dos horas desde el mirador de La
+      Ruleta. El de Siete Cañadas es el número 4, y el ramal de El Portillo ofrece un acceso corto. El de
+      Montaña Blanca a La Rambleta es el más utilizado y llamativo, de dificultad alta, y la subida por Lomo
+      Tieso es notablemente fatigosa, con desniveles que superan el 60 %. El de Montaña de los Tomillos es la
+      única vía que salva la pared de la caldera y forma parte del antiguo Camino de Chasna. Desde la
+      degollada de Guajara hay amplias vistas del parque y de la vertiente sur de la isla.
+    history: >-
+      Los guanches veían el Teide como un lugar sagrado. Según la leyenda, Guayota encerró al dios del Sol
+      Magec en el volcán y Achamán lo derrotó; Echeyde, el nombre guanche del Teide, significa morada de
+      Guayota. Los pastores guanches subían en verano sus rebaños a Las Cañadas, y la práctica continuó tras
+      la conquista hasta 1954, cuando se prohibió por su impacto en la vegetación. Aún se ven restos de
+      antiguas cabañas, rediles y caminos trashumantes. Los neveros subían a Montaña Blanca o a la Cueva del
+      Hielo a por nieve y hielo para las ciudades de la costa.
+
+
+      La propuesta de proteger el espacio que presentó el Cabildo de Tenerife en 1934 quedó paralizada veinte
+      años, lo que evitó una carretera en espiral hasta casi la cima.
+    before: >-
+      La ascensión al Pico, por la falta de oxígeno, puede ser peligrosa para personas de salud delicada o con
+      lesión cardiopulmonar. El acceso a pie desde La Rambleta hasta el punto más alto del Pico exige un
+      permiso especial. Lleva botas y ropa de abrigo aunque haga calor, y protégete del sol con gafas, gorra y
+      crema. No es difícil perderse: sigue solo recorridos señalizados y evita caminar en solitario. Comprueba
+      el estado de los senderos y los horarios de los centros antes de salir.
+    around: >-
+      La [Reserva Natural Especial del Malpaís de Güímar](/lugar/malpais-de-guimar/) está a unos doce
+      kilómetros, y el [Parque Rural de Anaga](/lugar/parque-rural-de-anaga/), a unos veintisiete.
+  en:
+    intro: >-
+      Almost the entire national park lies above 2,000 metres: a high-mountain realm with severe climate in
+      the middle of the Atlantic Ocean. Two vast depressions, Las Cañadas, embrace Mount Teide, the highest
+      peak in the Canary Islands, in Spain and across all islands of the Atlantic. Across this basin spread
+      lava flows of successive eruptions, cinder cones and a landscape naturalists have explored for
+      centuries: Alexander von Humboldt visited the island in 1799 and pioneered the study of its botanical
+      zoning. The area was declared a national park on 22 January 1954.
+    landscape: >-
+      The rim of Alto de Guajara, the plain of Llano de Ucanca, Siete Cañadas, the escarpment of La Fortaleza,
+      the Roques de García and Pico Viejo (Chahorra) shape this distinctive amphitheatre. Along the Roques de
+      García path lies La Cascada, a frozen cascade of pahoehoe lava; nearby La Catedral forms an imposing
+      phonolitic volcanic pipe exhumed by weathering. In 1798 the final major eruption occurred at the Narices
+      del Teide on the flanks of Pico Viejo. At the base of Teide lie giant accretion balls, black basaltic
+      bombs that rolled down the slopes.
+
+
+      Vegetation clings to volcanic rubble. The park sustains 194 higher plant species, 58 of which are Canary
+      Island endemics, finding shelter in the crags and hollows of Las Cañadas. Chief among them is the red
+      bugloss (Echium wildpretii), whose flower spires sometimes exceed two metres in height, alongside the
+      Las Cañadas rockrose, Teide wallflower, flixweed and Teide white broom. The park preserves 11 habitats
+      of community interest, covering 75% of its total surface. Above 3,400 metres plant life thins out
+      dramatically, though the Teide daisy and the delicate Teide violet ascend almost to the crater rim.
+    wildlife: >-
+      Fauna is adapted to extreme exposure. Emblematic avifauna includes the [blue
+      chaffinch](/especie/fringilla_teydea/), common kestrel, Sardinian warbler and spectacled warbler; along
+      the trail flats, Berthelot's pipit, kestrel and Canary common chiffchaff are frequently seen. Reptiles
+      include the Tenerife lizard and Delande's gecko, accompanied by the Canary big-eared bat, introduced
+      European mouflon, Algerian hedgehog and the endemic darkling beetle Pimelia ascendens. Rabbit management
+      forms an essential pillar of park stewardship, complemented by native seed collection, nursery
+      production and replanting programmes.
+
+
+      The seasons define mountain safety. In winter, extensive sections become sheeted in snow and treacherous
+      ice. In spring, designated beehives are placed across the plain for honey production, and hikers should
+      give foraging bees a wide berth.
+    visit: >-
+      Begin at the visitor centres. The El Portillo centre interprets volcanology, high-mountain adaptations
+      of flora and fauna, and alpine climate, featuring an adjoining botanical garden showcasing Tenerife
+      endemics. In La Orotava, the Telesforo Bravo visitor centre charts the island from shore to summit. The
+      traditional house of Juan Évora, the last permanent pastoral resident of Las Cañadas, functions as an
+      information point and ethnographic shepherd museum.
+
+
+      Among the walking routes, the Roques de García trail is an easy loop of about two hours starting from
+      the La Ruleta viewpoint. The Siete Cañadas route is trail number 4, accessible via a short spur at El
+      Portillo. The ascent from Montaña Blanca to La Rambleta is the classic high-mountain route, steep and
+      strenuous, while the climb along Lomo Tieso proves exceptionally demanding with slope gradients
+      exceeding 60%. The Montaña de los Tomillos path provides the sole pedestrian breach through the caldera
+      wall, tracing the historic Chasna highway. From the Degollada de Guajara pass, sweeping vistas take in
+      the caldera basin and the southern slopes of Tenerife.
+    history: >-
+      The indigenous Guanches revered Teide as a sacred mountain. According to myth, the evil demon Guayota
+      trapped the sun god Magec inside the volcano until the supreme god Achamán intervened; Echeyde, the
+      Guanche name for Teide, meant the abode of Guayota. Guanche pastoralists drove their goats up to Las
+      Cañadas during the summer months, a transhumance tradition that persisted long after the Spanish
+      conquest until 1954, when grazing was banned to protect recovering vegetation. Remnants of stone
+      corrals, stone bothies and droveways remain scattered across the flats. Ice-gatherers ascended to
+      Montaña Blanca and the Cueva del Hielo to harvest ice for coastal towns.
+
+
+      A protection proposal drafted by the Island Council of Tenerife in 1934 remained shelved for twenty
+      years, fortunately averting a planned spiral motor road to the summit.
+    before: >-
+      Due to rarefied air, ascending to the summit can be hazardous for hikers with respiratory or
+      cardiovascular conditions. Walking access from La Rambleta to the highest point of the summit requires a
+      special mandatory advance permit. Wear sturdy walking boots and warm layered clothing even in summer,
+      with sunscreen, sunglasses and a sun hat. Keep strictly to marked trails and avoid solo hiking. Check
+      trail closures and centre timetables before departure.
+    around: >-
+      The [Malpaís de Güímar Special Nature Reserve](/lugar/malpais-de-guimar/) lies about twelve kilometres
+      away, and [Anaga Rural Park](/lugar/parque-rural-de-anaga/) sits some twenty-seven kilometres distant.
+  fr:
+    intro: >-
+      La quasi-totalité du parc culmine au-delà de 2 000 mètres d’altitude : c'est un domaine de haute
+      montagne au climat rigoureux en plein océan Atlantique. Deux vastes dépressions, Las Cañadas, ceinturent
+      le Teide, le plus haut sommet des Canaries, d’Espagne et de toutes les terres émergées de l’Atlantique.
+      Entre elles s'étirent coulées de lave, cônes volcaniques et un décor exploré de longue date : Humboldt
+      visita l’île en 1799 et initia l’étude de sa végétation. Le site a été érigé en parc national le 22
+      janvier 1954.
+    landscape: >-
+      L'Alto de Guajara, le Llano de Ucanca, les Siete Cañadas, La Fortaleza, les Roques de García et le Pico
+      Viejo composent ce paysage monumental. Le sentier des Roques de García permet d’observer La Cascada,
+      coulée de lave pétrifiée, et La Catedral, cheminée volcanique phonolitique dégagée par l’érosion. En
+      1798 eut lieu la dernière éruption majeure, celle des Narices del Teide sur le flanc du Pico Viejo. Au
+      pied du cône reposent d’imposantes boules d’accrétion de lave projetées lors des éruptions.
+
+
+      La végétation s'accroche aux laves. Le parc compte 194 plantes supérieures, dont 58 endémiques
+      canariennes abritées dans les anfractuosités des Cañadas. La plus célèbre est la vipérine rouge du
+      Teide, dont la hampe florale dépasse parfois deux mètres, aux côtés de l'hélianthème des Cañadas, de la
+      giroflée du Teide et du genêt blanc du Teide. Le parc préserve 11 habitats d'intérêt communautaire
+      couvrant 75 % de sa superficie. Au-dessus de 3 400 mètres la végétation se raréfie, bien que la
+      marguerite et la violette du Teide grimpent encore plus haut.
+    wildlife: >-
+      La faune est adaptée aux rigueurs de l'altitude. Parmi les oiseaux s'illustrent le [pinson
+      bleu](/especie/fringilla_teydea/), le faucon crécerelle, la fauvette mélanocéphale et la fauvette
+      lunulée ; sur les plateaux on repère le pipit de Berthelot et le pouillot canarien. Les reptiles
+      comptent le lézard de Tenerife et le tarente de Delande, avec la noctule des Canaries, le mouflon
+      introduit et le coléoptère Pimelia ascendens. La régulation du lapin fait partie intégrante de la
+      gestion du parc, complétée par des récoltes de graines et des plantations conservatoires.
+
+
+      Les saisons imposent la prudence. En hiver, le verglas et la neige rendent les sentiers glissants. Au
+      printemps, des ruches sont installées pour l'apiculture : veillez à ne pas déranger les abeilles.
+    visit: >-
+      Commencez par les centres d’accueil. Celui d’El Portillo détaille la géologie, les adaptations de la
+      flore et le climat, et propose un jardin botanique. À La Orotava, le centre Telesforo Bravo explore
+      l’île du littoral aux sommets. La maison de Juan Évora, dernier berger des Cañadas, sert aujourd’hui de
+      musée pastoral.
+
+
+      Parmi les randonnées, les Roques de García forment une boucle d’environ deux heures depuis le belvédère
+      de La Ruleta. L’itinéraire des Siete Cañadas porte le numéro 4. La montée de Montaña Blanca à La
+      Rambleta constitue la voie classique vers le sommet, exigeante, avec la pente de Lomo Tieso dont les
+      déclivités franchissent 60 %. Le chemin de la Montaña de los Tomillos franchit le rempart de la caldeira
+      le long de l’ancien chemin de Chasna. Depuis la brèche de Guajara s'ouvre une vue splendide sur le sud
+      de Tenerife.
+    history: >-
+      Les Guanches considéraient le Teide comme une montagne sacrée. Selon la tradition, le démon Guayota
+      enferma le dieu solaire Magec dans le cratère avant d'être vaincu par Achamán ; Echeyde signifiait la
+      demeure de Guayota. Les pasteurs guanches y montaient en estive, pratique qui perdura après la conquête
+      jusqu'en 1954, date de son interdiction pour préserver la flore. Les glacières traditionnelles allaient
+      chercher la neige à la Cueva del Hielo pour ravitailler les villes côtières.
+
+
+      Le projet de protection présenté par le Cabildo en 1934 resta bloqué vingt ans, ce qui évita la
+      construction d'une route en lacets jusqu'au sommet.
+    before: >-
+      En raison du manque d'oxygène, l'ascension finale peut être éprouvante pour les personnes fragiles.
+      L'accès pédestre de La Rambleta au cratère sommital exige un permis individuel préalable obligatoire.
+      Portez de bonnes chaussures de marche, des vêtements chauds même en été, et protégez-vous du rayonnement
+      solaire intense. Restez strictement sur les chemins balisés.
+    around: >-
+      La [Réserve naturelle spéciale du Malpaís de Güímar](/lugar/malpais-de-guimar/) se situe à environ douze
+      kilomètres, et le [Parc rural d'Anaga](/lugar/parque-rural-de-anaga/), à environ vingt-sept kilomètres.
+  de:
+    intro: >-
+      Fast der gesamte Nationalpark liegt oberhalb von 2.000 Metern: eine alpine Hochgebirgslandschaft mit
+      extremem Klima inmitten des Atlantiks. Zwei weite Kesseltäler, Las Cañadas, umgeben den Pico del Teide,
+      den höchsten Berg der Kanaren, Spaniens und aller Inseln des Atlantiks. Dazwischen erstrecken sich
+      erstarrte Lavaströme und Krater. Alexander von Humboldt bereiste die Insel im Jahr 1799 und erforschte
+      als Erster die pflanzlichen Höhenstufen. Am 22. Januar 1954 wurde das Gebiet zum Nationalpark erklärt.
+    landscape: >-
+      Der Alto de Guajara, der Llano de Ucanca, die Siete Cañadas, die Steilwand La Fortaleza, die Roques de
+      García und der Pico Viejo prägen das monumentale Rund. Am Pfad der Roques de García sieht man La
+      Cascada, einen erstarrten Lavawasserfall, und La Catedral, einen durch Verwitterung freigelegten
+      Vulkanschlot. Im Jahr 1798 fand an den Narices del Teide die letzte Flankeneruption des Pico Viejo
+      statt. Am Fuß des Vulkankegels liegen tonnenschwere Akkretionskugeln aus Lava.
+
+
+      Die Pflanzenwelt trotzt der vulkanischen Asche. Der Park beherbergt 194 höhere Pflanzenarten, davon 58
+      kanarische Endemiten. Berühmt ist der Rote Teide-Natternkopf, dessen Blütenkerzen zuweilen zwei Meter
+      emporragen, neben Cañadas-Zistrose, Teide-Lack-Senf und dem Teide-Ginster. Es gibt 11 Lebensraumtypen
+      von gemeinschaftlichem Interesse, die 75 % der Fläche bedecken. Oberhalb von 3.400 Metern dünnt die
+      Vegetation merklich aus, doch Teide-Margerite und Teide-Veilchen steigen bis nahe an den Kraterrand auf.
+    wildlife: >-
+      Die Tierwelt ist unauffälliger. Zu den Vogelarten gehören der [Teydefink](/especie/fringilla_teydea/),
+      der Turmfalke, die Samtkopf-Grasmücke und die Brillengrasmücke; auf den Ebenen sind Kanarenpieper und
+      Kanaren-Zilpzalp häufig. An Reptilien leben hier Westkanareneidechse und Kanarengecko, neben dem
+      Kanaren-Langohr und dem endemischen Schwarzkäfer Pimelia ascendens. Die Bestandsregulierung verwilderter
+      Kaninchen bildet einen Pfeiler des Artenschutzes, ergänzt durch Samengewinnung und Nachzuchten.
+
+
+      Die Jahreszeiten erfordern Vorsicht: Im Winter können Kämme von Schnee und Glatteis überzogen sein. Im
+      Frühjahr werden Bienenstöcke für die Tracht aufgestellt; halte gebührenden Abstand zu den Wanderbienen.
+    visit: >-
+      Das Besucherzentrum El Portillo informiert über Geologie, alpine Anpassungen und Klima und umfasst einen
+      botanischen Schaugarten. In La Orotava stellt das Zentrum Telesforo Bravo die Insel von der Küste bis
+      zum Gipfel vor. Das Wohnhaus von Juan Évora, dem letzten Hirten der Cañadas, dient heute als
+      Informationsstelle und Volkskundemuseum.
+
+
+      Unter den Wanderrouten führt der Weg der Roques de García in rund zwei Stunden um die bizarren
+      Felsformationen. Der Weg Siete Cañadas trägt die Nummer 4. Der Aufstieg von der Montaña Blanca zur
+      Schutzhütte La Rambleta ist der beliebteste und forderndste Pfad; der steile Hang Lomo Tieso weist
+      Steigungen von über 60 % auf. Der Weg über die Montaña de los Tomillos überwindet die Calderawand auf
+      dem historischen Chasna-Weg. Von der Degollada de Guajara genießt man weite Aussichten über die Südhänge
+      Teneriffas.
+    history: >-
+      Für die Guanchen war der Teide ein heiliger Sitz der Götter. Der Legende nach hielt der böse Dämon
+      Guayota den Sonnengott Magec im Krater gefangen, bis Achamán ihn bezwang; Echeyde bedeutet Wohnstatt des
+      Guayota. Guanchenhirten trieben im Sommer ihr Vieh in die Cañadas, eine Weidewirtschaft, die bis 1954
+      ausgeübt wurde, als sie zum Schutz der Vegetation untersagt wurde. Schneesammler bargen einst Eis aus
+      der Cueva del Hielo für die Küstenorte.
+
+
+      Der vom Inselrat 1934 eingebrachte Schutzantrag blieb zwanzig Jahre lang ruhen, was den Bau einer
+      geplanten Autostraße bis zum Krater verhinderte.
+    before: >-
+      Wegen des niedrigen Sauerstoffgehalts kann der Aufstieg zum Gipfel für herzkranke Personen riskant sein.
+      Der Fußweg von La Rambleta zum höchsten Gipfelkrater erfordert eine behördliche Sondergenehmigung. Trage
+      feste Wanderschuhe, warme Kleidung auch im Sommer und schütze dich vor UV-Strahlung. Bleibe stets auf
+      den markierten Wegen.
+    around: >-
+      Das [Sonderschutzgebiet Malpaís de Güímar](/lugar/malpais-de-guimar/) liegt etwa zwölf Kilometer
+      entfernt und der [Landschaftspark Anaga](/lugar/parque-rural-de-anaga/) rund siebenundzwanzig Kilometer.
+  it:
+    intro: >-
+      La quasi totalità del parco si colloca al di sopra dei 2.000 metri: alta montagna dal clima aspro nel
+      cuore dell'oceano Atlantico. Due enormi bacini calderici, Las Cañadas, circondano il Teide, la cima più
+      alta delle Canarie, della Spagna e di ogni isola atlantica. Tra esse si distendono colate laviche di
+      epoche diverse, apparati eruttivi e scenari che gli studiosi esplorano da secoli: Humboldt visitò
+      Tenerife nel 1799 inaugurando lo studio della zonazione vegetale. L'area fu proclamata parco nazionale
+      il 22 gennaio 1954.
+    landscape: >-
+      L'Alto de Guajara, il Llano de Ucanca, le Siete Cañadas, La Fortaleza, i Roques de García e il Pico
+      Viejo compongono questo paesaggio iconico. Lungo il sentiero dei Roques de García si ammira La Cascada,
+      colata lavica rappresa, e La Catedral, camino vulcanico fonolitico denudato dall'erosione. Nel 1798 si
+      verificò l'ultima grande eruzione delle Narices del Teide sui fianchi del Pico Viejo. Alla base del cono
+      riposano enormi bombe vulcaniche sferoidali dette uova del Teide.
+
+
+      La vegetazione colonizza le scorie laviche. Il parco conta 194 piante superiori, 58 delle quali
+      endemiche delle Canarie. Primeggia la viperaia rossa, i cui fusti fioriti raggiungono talora i due metri
+      d'altezza, accanto al cisto di Las Cañadas, alla violaciocca del Teide e alla ginestra bianca del Teide.
+      Si contano 11 habitat di interesse comunitario che occupano il 75% della superficie protetta. Oltre i
+      3.400 metri la vegetazione si dirada, sebbene margherita e viola del Teide salgano fin quasi al cratere.
+    wildlife: >-
+      La fauna d'alta quota è specializzata. Tra i volatili risaltano il [fringuello
+      azzurro](/especie/fringilla_teydea/), il gheppio, l'occhiocotto e la sterpazzola di Sardegna; sui
+      pianori si scorgono il calandro di Berthelot e il luì canario. Sono presenti la lucertola di Tenerife,
+      il geco di Delande, l'orecchiuto canario e il coleottero Pimelia ascendens. Il contenimento del coniglio
+      selvatico è fondamentale per la conservazione, affiancato da vivai forestali e semine mirate.
+
+
+      La montagna esige prudenza. Nei mesi invernali i valichi possono essere coperti da lastre di ghiaccio e
+      neve. In primavera vengono collocate arnie segnalate; evita di infastidire le api sui fiori.
+    visit: >-
+      Inizia dai centri informativi. Il centro di El Portillo approfondisce vulcanismo, adattamenti botanici e
+      clima, disponendo di un giardino botanico. A La Orotava il centro Telesforo Bravo racconta l'isola dal
+      mare alle vette. L'antica dimora di Juan Évora, ultimo pastore residente nelle Cañadas, è oggi punto
+      informativo e museo etnografico.
+
+
+      Tra i percorsi, l'anello dei Roques de García richiede circa due ore dal belvedere de La Ruleta.
+      L'itinerario delle Siete Cañadas è contrassegnato dal numero 4. L'ascesa da Montaña Blanca a La Rambleta
+      è il tracciato escursionistico principale, impegnativo, con il tratto di Lomo Tieso che supera pendenze
+      del 60%. Il sentiero della Montaña de los Tomillos scavalca la parete della caldera lungo l'antico
+      Camino de Chasna. Dal valico di Guajara si apre una visuale magnifica sulla caldera e sul versante
+      meridionale di Tenerife.
+    history: >-
+      I Guanci consideravano il Teide una montagna sacra. La leggenda narra che il demone Guayota rinchiuse il
+      dio del sole Magec nel vulcano fino all'intervento di Achamán; Echeyde significava dimora di Guayota. I
+      pastori indigeni vi conducevano le greggi durante l'estate, usanza continuata fino al 1954, quando fu
+      vietata per tutelare i pascoli. I raccoglitori di neve salivano alla Cueva del Hielo per rifornire di
+      ghiaccio le città della costa.
+
+
+      La proposta di tutela presentata dal Cabildo nel 1934 rimase ferma per venti anni, evitando la
+      costruzione di una strada asfaltata fino alla vetta.
+    before: >-
+      A causa della quota, l'ascesa finale può risultare pericolosa per chi soffre di disturbi cardiaci o
+      respiratori. L'accesso a piedi da La Rambleta al cratere sommitale richiede un permesso obbligatorio
+      nominale. Indossa scarponi da trekking, indumenti termici e protezione solare. Segui esclusivamente i
+      tracciati battuti.
+    around: >-
+      La [Riserva Naturale Speciale del Malpaís de Güímar](/lugar/malpais-de-guimar/) si trova a circa dodici
+      chilometri e il [Parco Rurale di Anaga](/lugar/parque-rural-de-anaga/) a circa ventisette chilometri.
+  pt:
+    intro: >-
+      Praticamente todo o parque nacional situa-se acima dos 2.000 metros de altitude: alta montanha de clima
+      rigoroso em pleno oceano Atlântico. Duas grandes depressões, Las Cañadas, contornam o Teide, a montanha
+      mais alta das Canárias, de Espanha e de todas as terras emersas do Atlântico. Pelo meio sucedem-se
+      escoadas de lava, cones piroclásticos e uma paisagem que os naturalistas estudam há séculos: Humboldt
+      visitou a ilha em 1799 e foi pioneiro na descrição da sua vegetação. Foi proclamado parque nacional a 22
+      de janeiro de 1954.
+    landscape: >-
+      O bordo do Alto de Guajara, a planície do Llano de Ucanca, as Siete Cañadas, a escarpa de La Fortaleza,
+      os Roques de García e o Pico Viejo estruturam esta caldeira colossal. No trilho dos Roques de García
+      observa-se La Cascada, escoada lávica arrefecida, e La Catedral, chaminé vulcânica fonolítica posta a
+      descoberto pela erosão. Em 1798 ocorreu a derradeira grande erupção das Narices del Teide nos flancos do
+      Pico Viejo. Na base do cone jazem bombas vulcânicas arredondadas que rolaram pelas encostas.
+
+
+      A vegetação coloniza a pedra vulcânica. O parque conta com 194 plantas superiores, 58 das quais
+      endémicas das Canárias. Destaca-se o tajinaste-vermelho, cujas inflorescências ultrapassam por vezes os
+      dois metros de altura, a par da esteva das Cañadas e da giesta-branca do Teide. Estão classificados 11
+      habitats de interesse comunitário, que cobrem 75% da superfície. Acima dos 3.400 metros a cobertura
+      vegetal escasseia, embora a margarida e a violeta do Teide subam quase até à cratera.
+    wildlife: >-
+      A fauna é sóbria e adaptada aos rigores da montanha. Entre as aves destacam-se o
+      [tentilhão-azul](/especie/fringilla_teydea/), o peneireiro-vulgar, a toutinegra-de-cabeça-preta e a
+      toutinegra-tomilheira; nos areais avistam-se o corre-caminhos e o felosa-canária. Encontram-se o
+      lagarto-de-tenerife, a osga-de-delande, o morcego-orelhudo-canário, o muflão introduzido e o escaravelho
+      Pimelia ascendens. O controlo de coelhos integra a gestão de conservação, articulado com recolha de
+      sementes e plantações em viveiro.
+
+
+      A montanha exige prudência no inverno devido a gelo e nevões. Na primavera instalam-se colmeias
+      sinalizadas para produção de mel; evita perturbar o enxameamento.
+    visit: >-
+      A visita principia pelos centros de acolhimento. O centro de El Portillo elucida a geologia, a adaptação
+      da flora e o clima alpino, dispondo de jardim botânico com espécies de cumeada de Tenerife. Em La
+      Orotava, o centro Telesforo Bravo explica a ilha do mar ao cume. A habitação tradicional de Juan Évora,
+      derradeiro pastor permanente das Cañadas, serve de posto de informação e museu etnográfico.
+
+
+      Nos trilhos pedestres, a volta aos Roques de García demora cerca de duas horas a partir do miradouro de
+      La Ruleta. O percurso das Siete Cañadas ostenta o número 4. A ascensão desde Montaña Blanca até La
+      Rambleta é o trilho de montanha clássico, exigente, com o troço de Lomo Tieso a registar inclinações que
+      superam 60%. O caminho da Montaña de los Tomillos transpõe a muralha da caldeira pelo antigo traçado de
+      Chasna. Da garganta de Guajara descortinam-se vistas soberbas sobre a caldeira e a vertente sul da ilha.
+    history: >-
+      Os Guanches consideravam o Teide uma montanha sagrada. Reza a tradição que o demónio Guayota encarcerou
+      o deus solar Magec no vulcão até Achamán o resgatar; Echeyde significava a morada de Guayota. Os
+      pastores guanches subiam os seus rebanhos para as Cañadas no verão, tradição que perdurou até 1954,
+      quando o pastoreio foi proibido para regenerar a vegetação. As galerias de gelo iam buscar neve à Cueva
+      del Hielo para abastecer o litoral.
+
+
+      A proposta de proteção elaborada pelo Cabildo em 1934 permaneceu bloqueada durante vinte anos, o que
+      evitou a abertura de uma estrada em espiral até ao cimo.
+    before: >-
+      Devido à escassez de oxigénio, a subida final ao cume pode suscitar desconforto em pessoas com afeções
+      cardíacas ou respiratórias. O acesso a pé desde La Rambleta até ao ponto mais alto do pico exige uma
+      autorização especial prévia e nominal. Calça botas de montanha, leva agasalhos mesmo no verão e protetor
+      solar com óculos escuros. Caminha apenas pelos percursos assinalados.
+    around: >-
+      A [Reserva Natural Especial do Malpaís de Güímar](/lugar/malpais-de-guimar/) fica a cerca de doze
+      quilómetros e o [Parque Rural de Anaga](/lugar/parque-rural-de-anaga/), a cerca de vinte e sete
+      quilómetros.
+fuentes:
+  - url: https://es.wikipedia.org/wiki/Parque_nacional_del_Teide
+    titulo: Parque nacional del Teide - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/red-parques-nacionales/nuestros-parques/teide/guia-visitante/itinerarios.html
+    titulo: 'Teide: Itinerarios'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/itinerarios.html
+    titulo: 'Teide: Itinerarios'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/conservacion-biodiversidad.html
+    titulo: 'Teide: Conservación y biodiversidad — MITECO'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/valores-culturales.html
+    titulo: 'Teide: Valores culturales — MITECO'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/historia.html
+    titulo: 'Teide: Historia — MITECO'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/centros.html
+    titulo: 'Teide: Centros de visitantes — MITECO'
+    fecha_consulta: '2026-10-29'
+  - url: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/recomendaciones.html
+    titulo: 'Teide: Recomendaciones — MITECO'
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parque_nacional_del_Teide_edit.jpg
+    autor: kallerna
+    licencia: Public domain
+    url_licencia: https://creativecommons.org/publicdomain/mark/1.0/
+    fecha_descarga: '2026-10-17'

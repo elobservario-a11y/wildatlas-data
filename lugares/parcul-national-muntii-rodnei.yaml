@@ -1,0 +1,591 @@
+id: parcul-national-muntii-rodnei
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Montañas de Rodna
+  en: Rodna Mountains National Park
+  fr: Parc national des monts Rodna
+  de: Nationalpark Rodna-Gebirge
+  it: Parco Nazionale dei Monti Rodna
+  pt: Parque Nacional dos Montes Rodna
+nombre_original: Parcul Național Munții Rodnei
+alias:
+  - Rodna Mountains (Parcul Național Munții Rodnei)
+paises:
+  - RO
+region:
+  es: Județe de Bistrița-Năsăud y Maramureș (Pietrosu Rodnei)
+  en: Bistrița-Năsăud and Maramureș Counties (Pietrosu Rodnei)
+  fr: Județe de Bistrița-Năsăud et Maramureș (Pietrosu Rodnei)
+  de: Kreise Bistrița-Năsăud und Maramureș (Pietrosu Rodnei)
+  it: Distretti di Bistrița-Năsăud e Maramureș (Pietrosu Rodnei)
+  pt: Distritos de Bistrița-Năsăud e Maramureș (Pietrosu Rodnei)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.53
+  lon: 24.63
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 11171
+  nombre_en_la_fuente: Parcul Național Munții Rodnei
+  categoria_uicn: II
+  capa: capas/cdda/parcul-national-muntii-rodnei.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - mature_forest
+designaciones:
+  - national_park
+  - biosphere_reserve
+  - strict_reserve
+  - natura2000
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - rupicapra_rupicapra
+  - marmota_marmota
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la ascensión a Pietrosu Rodnei (2.303 m); baja en los valles del sur
+  en: Moderate on the ascent to Pietrosu Rodnei (2,303 m); low in the southern valleys
+  fr: Moyenne lors de l'ascension du Pietrosu Rodnei (2 303 m) ; faible dans les vallées méridionales
+  de: Mäßig beim Aufstieg zum Pietrosu Rodnei (2.303 m); gering in den südlichen Tälern
+  it: Media durante la salita al Pietrosu Rodnei (2.303 m); bassa nelle vallate meridionali
+  pt: Média na ascensão ao Pietrosu Rodnei (2.303 m); baixa nos vales do sul
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Munții Rodnei
+    url: https://www.parcrodna.ro/
+  - titulo: Rutas y mapa — Senderos oficiales de Rodnei
+    url: https://www.parcrodna.ro/trasee
+  - titulo: Accesos — Cómo llegar a Rodnei
+    url: https://www.parcrodna.ro/pagina/acces
+  - titulo: Normas — Reglamento de Rodnei
+    url: https://www.parcrodna.ro/pagina/regulament
+  - titulo: Visita y tarifas — Tarifas del parque
+    url: https://www.parcrodna.ro/pagina/tarife-apnmr
+  - titulo: Contacto — Administración del parque
+    url: https://www.parcrodna.ro/contact
+resumen:
+  es: Las montañas glaciares más altas de los Cárpatos Orientales con la reserva científica de Pietrosu Rodnei.
+  en: The highest glacial mountains in the Eastern Carpathians hosting the Pietrosu Rodnei scientific reserve.
+  fr: >-
+    Les plus hautes montagnes glaciaires des Carpates orientales abritant la réserve scientifique du Pietrosu
+    Rodnei.
+  de: Höchste Gletscherberge der Ostkarpaten mit dem wissenschaftlichen Reservat Pietrosu Rodnei.
+  it: Le montagne glaciali più alte dei Carpazi Orientali con la riserva scientifica di Pietrosu Rodnei.
+  pt: >-
+    As mais altas montanhas glaciares dos Cárpatos Orientais albergando a reserva científica de Pietrosu
+    Rodnei.
+unico:
+  es: >-
+    Un macizo glaciar donde el pino cembro, la flor de nieve y un endemismo, Lychnis nivalis, comparten
+    espacio con osos, rebecos y marmotas.
+  en: >-
+    A glacial massif where Swiss stone pine, edelweiss, and an endemic pink, Lychnis nivalis, share space with
+    brown bears, chamois, and marmots.
+  fr: >-
+    Un massif glaciaire où le pin cembro, l'edelweiss et l'œillet endémique Lychnis nivalis partagent l'espace
+    avec l'ours brun, le chamois et la marmotte.
+  de: >-
+    Ein eiszeitlich geprägtes Massiv, in dem Zirbelkiefer, Edelweiß und die endemische Nelke Lychnis nivalis
+    den Lebensraum mit Braunbären, Gämsen und Murmeltieren teilen.
+  it: >-
+    Un massiccio glaciale dove il pino cembro, la stella alpina e la specie endemica Lychnis nivalis
+    condividono l'habitat con orsi bruni, camosci e marmotte.
+  pt: >-
+    Um maciço glaciar onde o pinheiro-suíço, a flor-dos-alpes e a espécie endémica Lychnis nivalis partilham
+    espaço com ursos-pardos, camurças e marmotas.
+observaciones:
+  es: >-
+    Hay que ceñirse a los caminos señalizados, acampar solo en los ocho lugares permitidos y proteger la flora
+    y la fauna: es la responsabilidad principal del visitante. Si quieres hacer rutas de montaña, consulta
+    antes con la administración del parque sobre los guías autorizados.
+texto:
+  es:
+    intro: >-
+      Un macizo que sube de 900 a 2300 metros y que, desde 1979, la UNESCO reconoce como reserva de la
+      biosfera. Los Montes Rodnei ocupan las cumbres más altas de los Cárpatos Orientales, en el norte del
+      país, y su parque nacional protege 47.202 hectáreas de bosques de montaña, prados alpinos, circos
+      glaciares y lagos de origen glaciar. El techo es el Pietrosul Rodnei, de 2303 m.
+    landscape: >-
+      El macizo es un mosaico que cambia con la altura. Abajo hay hayedos y piceas; más arriba, pino cembro y
+      matorrales de rododendro de Kotschy; encima, pastos alpinos de Carex curvula y Festuca airoides. Entre
+      medias aparecen pino mugo y aliso verde, característicos de los hábitats alpinos centroeuropeos de
+      Rodna.
+
+
+      El Pietrosul Mare es el mayor complejo montañoso de todo el macizo, al norte de los Cárpatos Orientales.
+      El Pietrosul Rodnei, de 2303 m, domina el paisaje glaciar de la región, con circos y lagos de origen
+      glaciar. Y bajo tierra hay cuevas: entre las áreas del parque figuran la Peștera Izvorul Tăușoarelor y
+      la Peștera din Valea Cobășelului.
+    wildlife: >-
+      El folleto del parque destaca más de 1100 plantas con flor y el endemismo Lychnis nivalis. Entre las
+      plantas citadas están la flor de nieve (*Leontopodium alpinum*), el narciso *Narcissus stellaris* y
+      *Trollius europaeus*. Y hay una reserva dedicada a una pradera de narcisos en el macizo Saca.
+
+
+      Entre los mamíferos protegidos están el [rebeco](/especie/rupicapra_rupicapra/) y la
+      [marmota](/especie/marmota_marmota/), el [oso pardo](/especie/ursus_arctos/), el
+      [lobo](/especie/canis_lupus/), el [lince](/especie/lynx_lynx/), el [ciervo](/especie/cervus_elaphus/) y
+      el [corzo](/especie/capreolus_capreolus/). También hay gato montés, marta y garduña, y murciélagos como
+      Myotis blythii y Myotis myotis.
+
+
+      Para las aves, el parque cita especies del anexo I de la directiva europea: el [águila
+      real](/especie/aquila_chrysaetos/), la [cigüeña negra](/especie/ciconia_nigra/), el pico dorsiblanco y
+      el pito negro, además del mochuelo chico, el [urogallo](/especie/tetrao_urogallus/) y el cárabo
+      uralense. Entre los anfibios y reptiles aparecen la víbora común, el sapillo de vientre amarillo y la
+      [salamandra](/especie/salamandra_salamandra/).
+    visit: >-
+      La visita se hace exclusivamente por los caminos señalizados. Algunas rutas de montaña se recorren con
+      guías especializados autorizados por el Ministerio de Turismo, y las rutas guiadas permiten observar la
+      flora, los lagos, los paisajes de montaña, los circos glaciares y la fauna. La acampada se limita a ocho
+      lugares señalados, entre ellos Lala Mica y Valea Vinului.
+
+
+      Se llega por la carretera nacional DN17D, en el tramo entre Năsăud y Rebrișoara. Los municipios de
+      Borșa, Moisei y Săcel, en Maramureș, y otros de Bistrița-Năsăud forman parte del territorio del parque.
+      Dentro del parque hay reservas como Piatra Rea, la pradera de narcisos del macizo Saca, Ineu-Lala y los
+      manantiales de Mihăiesei.
+    history: >-
+      El parque se organizó en 1990, cuando un ministerio emitió la orden que creó trece parques nacionales.
+      La administración del parque se creó en mayo de 2004. De la superficie total, 3300 ha se declararon
+      reserva de la biosfera en 1979.
+
+
+      Esta administración ha ejecutado más de 26 proyectos con 35 instituciones entre 2004 y 2017, y más de
+      7450 voluntarios han participado en el inventario, la cartografía y el seguimiento de la biodiversidad.
+      La asociación ECO RODNA, una ONG con más de 1000 voluntarios, docentes e investigadores, colabora con el
+      parque, y más de 200 voluntarios extranjeros han participado. Se han publicado 28 guías de campo sobre
+      aves, mamíferos, reptiles, peces, árboles, lagos glaciares, cuevas y flores, y se evaluó el estado de
+      conservación de 70 especies de interés comunitario con cámaras infrarrojas, trampas de luz y detectores
+      de ultrasonidos.
+
+
+      En la zona hay patrimonio humano: el monasterio de Moisei, con iglesia de madera, iglesia de piedra,
+      celdas y jardines, y el taller de Tănase Burnar, descrito como el último alfarero que hace cerámica de
+      Săcel.
+    before: >-
+      Hay que ceñirse a los caminos señalizados, acampar solo en los ocho lugares permitidos y proteger la
+      flora y la fauna: es la responsabilidad principal del visitante. Si quieres hacer rutas de montaña,
+      consulta antes con la administración del parque sobre los guías autorizados.
+    around: >-
+      A solo 2 km queda el [Parque Natural Montañas de
+      Maramureș](/lugar/parcul-natural-muntii-maramuresului/), y a veintinueve, el [Bosque Primario de Groșii
+      Țibleșului](/lugar/codrii-seculari-grosii-tiblesului/). Con el [Parque Nacional
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) comparte marmota, rebeco y oso pardo, y alta
+      montaña, glaciares y bosque; lo mismo ocurre con el [Parque Nacional de los Tatras
+      (Eslovaquia)](/lugar/tatransky-narodny-park/) y el [Parque Nacional de los Tatras
+      (Polonia)](/lugar/tatrzanski-park-narodowy/).
+  en:
+    intro: >-
+      A mountain massif ascending from 900 to 2300 metres, recognized since 1979 by UNESCO as a biosphere
+      reserve. The Rodna Mountains hold the loftiest crests of the Eastern Carpathians in northern Romania,
+      and their national park protects 47,202 hectares of mountain woodland, alpine meadows, glacial cirques,
+      and tarns. The roof is Pietrosul Rodnei, reaching 2303 m.
+    landscape: >-
+      The massif is an ecological mosaic shifting with elevation. Lower reaches support beech and spruce;
+      higher up, Swiss stone pine and Kotschy's rhododendron thickets take over; above them lie alpine
+      grasslands of Carex curvula and Festuca airoides. Mountain pine and green alder punctuate the middle
+      elevations, characteristic of Rodna's Central European alpine habitats.
+
+
+      Pietrosul Mare represents the largest mountainous complex in the entire massif, in the northern Eastern
+      Carpathians. Pietrosul Rodnei, at 2303 m, commands the regional glacial landscape with tarns and
+      cirques. Subterranean formations include notable caverns such as Peștera Izvorul Tăușoarelor and Peștera
+      din Valea Cobășelului.
+    wildlife: >-
+      The park brochure highlights over 1100 flowering plants and the endemic *Lychnis nivalis*. Documented
+      species feature edelweiss (*Leontopodium alpinum*), the narcissus *Narcissus stellaris*, and *Trollius
+      europaeus*. A dedicated botanical reserve protects a wild narcissus meadow on the Saca massif.
+
+
+      Protected mammals include the [chamois](/especie/rupicapra_rupicapra/) and [alpine
+      marmot](/especie/marmota_marmota/), [brown bear](/especie/ursus_arctos/), [grey
+      wolf](/especie/canis_lupus/), [Eurasian lynx](/especie/lynx_lynx/), [red
+      deer](/especie/cervus_elaphus/), and [roe deer](/especie/capreolus_capreolus/). Wildcat, pine marten,
+      and stone marten are present, alongside bats such as *Myotis blythii* and *Myotis myotis*.
+
+
+      For avifauna, the park records Annex I European directive species: the [golden
+      eagle](/especie/aquila_chrysaetos/), [black stork](/especie/ciconia_nigra/), white-backed woodpecker,
+      and black woodpecker, plus Eurasian pygmy owl, [western capercaillie](/especie/tetrao_urogallus/), and
+      Ural owl. Amphibians and reptiles feature the common viper, yellow-bellied toad, and [fire
+      salamander](/especie/salamandra_salamandra/).
+    visit: >-
+      Visits must adhere strictly to marked paths. Selected high-mountain routes may be traversed with
+      specialized guides certified by the Ministry of Tourism, enabling visitors to observe alpine flora,
+      glacial lakes, and wildlife. Camping is permitted solely at eight designated sites, including Lala Mica
+      and Valea Vinului.
+
+
+      Road access follows the DN17D national highway between Năsăud and Rebrișoara. The municipalities of
+      Borșa, Moisei, and Săcel in Maramureș, alongside localities in Bistrița-Năsăud, fall within park limits.
+      Internal reserves encompass Piatra Rea, the Saca narcissus meadow, Ineu-Lala, and the Mihăiesei springs.
+    history: >-
+      The park was initially organized in 1990 when a ministerial decree established thirteen national parks.
+      Park management was officially formed in May 2004. Of the total surface, 3300 ha were designated a
+      biosphere reserve in 1979.
+
+
+      This administration implemented more than 26 projects with 35 institutions between 2004 and 2017,
+      engaging over 7450 volunteers in biodiversity mapping and monitoring. The NGO ECO RODNA, uniting over
+      1000 volunteers, teachers, and researchers, collaborates closely, alongside more than 200 international
+      volunteers. The park has published 28 field guides covering birds, mammals, reptiles, fish, flora, and
+      caves, and assessed the conservation status of 70 European priority species using camera traps and
+      ultrasonic detectors.
+
+
+      Cultural heritage nearby includes Moisei Monastery, with its wooden church, stone church, and monastic
+      cells, as well as the workshop of Tănase Burnar, renowned as the last artisan producing traditional
+      Săcel unglazed ceramics.
+    before: >-
+      Stick strictly to marked trails, carry warm waterproof gear, and take windproof clothing for exposed
+      ridges. Check weather forecasts before ascending Pietrosu, as high-altitude conditions can deteriorate
+      rapidly.
+    around: >-
+      At 2 km lies [Maramureș Mountains Natural Park](/lugar/parcul-natural-muntii-maramuresului/). In the
+      wider region, [Groșii Țibleșului Primeval Forest](/lugar/codrii-seculari-grosii-tiblesului/) preserves
+      virgin beech; [Retezat National Park](/lugar/parcul-national-retezat---masivul-muntos/) shares glacial
+      landscapes, marmots, and chamois; and [Tatra National Park (Slovakia)](/lugar/tatransky-narodny-park/)
+      and [Tatra National Park (Poland)](/lugar/tatrzanski-park-narodowy/) share alpine tarns and
+      high-mountain fauna.
+  fr:
+    intro: >-
+      Un massif s'étageant de 900 à 2300 mètres, reconnu réserve de biosphère par l'UNESCO dès 1979. Les monts
+      Rodna regroupent les plus hauts sommets des Carpates orientales au nord de la Roumanie, et leur parc
+      national protège 47 202 hectares de forêts d'altitude, pelouses alpines, cirques et lacs d'origine
+      glaciaire. Le toit du massif est le Pietrosul Rodnei, culminant à 2303 m.
+    landscape: >-
+      Le massif forme un ensemble dont la physionomie change avec l'altitude. En bas dominent hêtraies et
+      pessières ; plus haut s'installent le pin cembro et les landes à rhododendrons de Kotschy ; au-dessus
+      s'étendent les pelouses alpines à Carex curvula et Festuca airoides. Pins mugos et aulnes verts
+      ponctuent les étages intermédiaires, caractéristiques des milieux alpins centre-européens de Rodna.
+
+
+      Le Pietrosul Mare constitue le plus vaste ensemble montagneux du massif au nord des Carpates orientales.
+      Le Pietrosul Rodnei, à 2303 m, règne sur ce paysage glaciaire parsemé de cirques et de cuvettes
+      lacustres. Sous terre s'ouvrent d'importantes cavités, parmi lesquelles la Peștera Izvorul Tăușoarelor
+      et la Peștera din Valea Cobășelului.
+    wildlife: >-
+      La documentation du parc recense plus de 1100 plantes à fleurs ainsi que l'endémique *Lychnis nivalis*.
+      Parmi les espèces remarquables figurent l'edelweiss (*Leontopodium alpinum*), le narcisse des poètes
+      *Narcissus stellaris* et le trolle d'Europe. Une réserve protège une clairière de narcisses sur le
+      massif Saca.
+
+
+      Les mammifères protégés comptent le [chamois](/especie/rupicapra_rupicapra/) et la [marmotte des
+      Alpes](/especie/marmota_marmota/), l'[ours brun](/especie/ursus_arctos/), le
+      [loup](/especie/canis_lupus/), le [lynx boréal](/especie/lynx_lynx/), le [cerf
+      élaphe](/especie/cervus_elaphus/) et le [chevreuil](/especie/capreolus_capreolus/). Le chat sauvage, la
+      martre et la fouine complètent l'inventaire, avec des chauves-souris comme *Myotis blythii* et *Myotis
+      myotis*.
+
+
+      Pour les oiseaux, le parc signale des espèces de l'annexe I européenne : l'[aigle
+      royal](/especie/aquila_chrysaetos/), la [cigogne noire](/especie/ciconia_nigra/), le pic à dos blanc, le
+      pic noir, la chevêchette d'Europe, le [grand tétras](/especie/tetrao_urogallus/) et la chouette de
+      l'Oural. Côté amphibiens et reptiles vivent la vipère péliade, le sonneur à ventre jaune et la
+      [salamandre tachetée](/especie/salamandra_salamandra/).
+    visit: >-
+      La découverte s'effectue exclusivement le long des chemins balisés. Plusieurs itinéraires d'altitude se
+      parcourent avec des guides agréés par le ministère du Tourisme, facilitant l'observation de la flore,
+      des lacs glaciaires et de la faune sauvage. Le bivouac sous tente est restreint à huit emplacements
+      autorisés, dont Lala Mica et Valea Vinului.
+
+
+      L'accès routier passe par la route nationale DN17D entre Năsăud et Rebrișoara. Les communes de Borșa,
+      Moisei et Săcel en Maramureș, ainsi que plusieurs localités de Bistrița-Năsăud, s'étendent sur le parc.
+      On y trouve des réserves telles que Piatra Rea, la prairie de narcisses de Saca, Ineu-Lala et les
+      sources de Mihăiesei.
+    history: >-
+      Le parc vit le jour en 1990 lorsqu'un arrêté ministériel décréta treize parcs nationaux. Sa structure
+      administrative fut créée en mai 2004. Sur l'ensemble du territoire, 3300 ha avaient été classés réserve
+      de biosphère dès 1979.
+
+
+      L'administration a conduit plus de 26 projets en partenariat avec 35 institutions entre 2004 et 2017,
+      mobilisant plus de 7450 bénévoles pour la cartographie et le suivi écologique. L'ONG ECO RODNA, forte de
+      plus de 1000 bénévoles, enseignants et chercheurs, coopère activement avec le parc, aux côtés de plus de
+      200 volontaires internationaux. Le parc a publié 28 guides naturalistes sur la faune, la flore et les
+      lacs glaciaires, et a évalué l'état de 70 espèces communautaires par pièges photographiques et
+      détecteurs à ultrasons.
+
+
+      Le patrimoine bâti compte le monastère de Moisei avec son église en bois et son sanctuaire en pierre,
+      ainsi que l'atelier de Tănase Burnar, dernier potier perpétuant la céramique rouge traditionnelle de
+      Săcel.
+    before: >-
+      Restez strictement sur les sentiers balisés, emportez des vêtements chauds et imperméables et
+      protégez-vous du vent sur les crêtes. Consultez la météo avant de gravir le Pietrosu.
+    around: >-
+      À 2 km s'étend le [parc naturel des monts Maramureș](/lugar/parcul-natural-muntii-maramuresului/). Dans
+      la région, la [forêt primaire de Groșii Țibleșului](/lugar/codrii-seculari-grosii-tiblesului/) préserve
+      de vieilles hêtraies ; le [parc national de Retezat](/lugar/parcul-national-retezat---masivul-muntos/)
+      partage le relief glaciaire, marmottes et chamois ; et le [parc national des Tatras
+      (Slovaquie)](/lugar/tatransky-narodny-park/) ainsi que le [parc national des Tatras
+      (Pologne)](/lugar/tatrzanski-park-narodowy/) partagent cirques glaciaires et faune d'altitude.
+  de:
+    intro: >-
+      Ein Gebirgsmassiv, das von 900 bis auf 2300 Meter ansteigt und seit 1979 von der UNESCO als
+      Biosphärenreservat anerkannt ist. Das Rodna-Gebirge birgt die höchsten Gipfel der Ostkarpaten im Norden
+      Rumäniens, und sein Nationalpark schützt 47.202 Hektar Bergwälder, alpine Matten, Gletscherkare und
+      Karseen. Das Dach bildet der Pietrosul Rodnei mit 2303 m.
+    landscape: >-
+      Das Gebirge präsentiert sich als Mosaik, das mit der Meereshöhe wechselt. In den Tälern wachsen Buchen-
+      und Fichtenwälder; weiter oben übernehmen Zirben und Kotschys Almrauschheide; darüber breiten sich
+      Krummseggenrasen und Festuca-a-airoides-Matten aus. Dazwischen treten Bergkiefern und Grün-Erlen auf,
+      charakteristisch für die zentraleuropäisch geprägten alpinen Standorte von Rodna.
+
+
+      Der Pietrosul Mare ist der größte Gebirgskomplex des gesamten Massivs im Norden der Ostkarpaten. Der
+      Pietrosul Rodnei mit 2303 m beherrscht die eiszeitliche Landschaft mit Karseen und Karen. Im Untergrund
+      liegen Höhlen wie die Peștera Izvorul Tăușoarelor und die Peștera din Valea Cobășelului.
+    wildlife: >-
+      Die Parkbroschüre hebt mehr als 1100 Blütenpflanzen sowie den Endemiten *Lychnis nivalis* hervor. Zu den
+      erwähnten Arten zählen Edelweiß (*Leontopodium alpinum*), die Dichternarzisse *Narcissus stellaris* und
+      die Trollblume. Ein eigenes Reservat am Saca-Massiv schützt Narzissenwiesen.
+
+
+      Zu den geschützten Säugetieren gehören [Gämse](/especie/rupicapra_rupicapra/) und
+      [Alpenmurmeltier](/especie/marmota_marmota/), [Braunbär](/especie/ursus_arctos/),
+      [Wolf](/especie/canis_lupus/), [Eurasischer Luchs](/especie/lynx_lynx/),
+      [Rothirsch](/especie/cervus_elaphus/) und [Reh](/especie/capreolus_capreolus/). Auch Wildkatze,
+      Baummarder und Steinmarder leben hier, ergänzt durch Fledermäuse wie *Myotis blythii* und *Myotis
+      myotis*.
+
+
+      Unter den Vögeln verzeichnet der Park Arten des europäischen Anhangs I:
+      [Steinadler](/especie/aquila_chrysaetos/), [Schwarzstorch](/especie/ciconia_nigra/), Weißrückenspecht,
+      Schwarzspecht, Sperlingskauz, [Auerhuhn](/especie/tetrao_urogallus/) und Habichtskauz. Bei Amphibien und
+      Reptilien treten Kreuzotter, Gelbbauchunke und [Feuersalamander](/especie/salamandra_salamandra/) auf.
+    visit: >-
+      Besucher dürfen sich ausschließlich auf den markierten Wegen aufhalten. Ausgewählte Gebirgstouren lassen
+      sich mit lizenzierten Bergführern unternehmen, um alpine Flora, Karseen und Wildtiere zu beobachten.
+      Zelten ist auf acht ausgewiesene Plätze beschränkt, darunter Lala Mica und Valea Vinului.
+
+
+      Die Anreise erfolgt über die Nationalstraße DN17D zwischen Năsăud und Rebrișoara. Gemeinden wie Borșa,
+      Moisei und Săcel in der Maramureș sowie Orte in Bistrița-Năsăud haben Anteil am Parkgebiet. Zu den
+      inneren Schutzgebieten zählen Piatra Rea, die Narzissenwiese am Saca, Ineu-Lala und die Quellen von
+      Mihăiesei.
+    history: >-
+      Der Park wurde 1990 ins Leben gerufen, als ein Ministerium dreizehn Nationalparks schuf. Die eigentliche
+      Parkverwaltung entstand im Mai 2004. Von der Gesamtfläche wurden 3300 ha bereits 1979 als
+      Biosphärenreservat anerkannt.
+
+
+      Diese Verwaltung setzte mehr als 26 Projekte mit 35 Institutionen zwischen 2004 und 2017 um; mehr als
+      7450 Freiwillige wirkten an Kartierung und Monitoring mit. Der Verein ECO RODNA mit über 1000
+      Freiwilligen arbeitet eng mit dem Park zusammen, ergänzt durch mehr als 200 internationale Helfer. Es
+      wurden 28 Feldführer über Vögel, Säugetiere, Reptilien, Fische und Pflanzen herausgegeben, und der
+      Zustand von 70 Arten von gemeinschaftlichem Interesse wurde mit Fotofallen und Ultraschalldetektoren
+      überwacht.
+
+
+      Kulturelles Erbe verkörpern das Kloster Moisei mit Holz- und Steinkirche sowie die Werkstatt von Tănase
+      Burnar, dem letzten Töpfer der unglasierten Keramik von Săcel.
+    before: >-
+      Bleibe auf den markierten Wegen, führe warme und wetterfeste Kleidung mit und rechne mit rauem Wind auf
+      den Kämmen. Informiere dich vor dem Aufstieg zum Pietrosu über den Wetterbericht.
+    around: >-
+      In 2 km Entfernung liegt der [Naturpark Maramureș-Gebirge](/lugar/parcul-natural-muntii-maramuresului/).
+      In der Region bewahrt der [Urwald Groșii Țibleșului](/lugar/codrii-seculari-grosii-tiblesului/)
+      unberührte Buchenwälder; der [Nationalpark Retezat](/lugar/parcul-national-retezat---masivul-muntos/)
+      teilt Karseen, Murmeltiere und Gämsen; der [Tatra-Nationalpark
+      (Slowakei)](/lugar/tatransky-narodny-park/) und der [Tatra-Nationalpark
+      (Polen)](/lugar/tatrzanski-park-narodowy/) teilen alpine Karkare und Hochgebirgsfauna.
+  it:
+    intro: >-
+      Un massiccio che sale da 900 a 2300 metri di quota e che dal 1979 l'UNESCO riconosce quale riserva della
+      biosfera. I Monti Rodna accolgono le cime più elevate dei Carpazi Orientali, nel nord della Romania, e
+      il parco nazionale protegge 47.202 ettari di boschi montani, praterie d'alta quota, circhi glaciali e
+      laghetti d'alpeggio. Il tetto è il Pietrosul Rodnei, con i suoi 2303 m.
+    landscape: >-
+      La montagna si articola in fasce distinte con la quota. Alla base dominano faggete e abetaie; più in
+      alto subentrano il pino cembro e le brughiere a rododendro di Kotschy; superiormente si estendono i
+      pascoli alpini a Carex curvula e Festuca airoides. Fasce di pino mugo e ontano verde caratterizzano gli
+      ambienti alpini centro-europei del Rodna.
+
+
+      Il Pietrosul Mare rappresenta il complesso orografico più maestoso del massiccio a nord dei Carpazi
+      Orientali. Il Pietrosul Rodnei, con 2303 m, domina il paesaggio glaciale costellato di circhi e bacini
+      lacustri. Nel sottosuolo si aprono caverne celebri, tra cui la Peștera Izvorul Tăușoarelor e la Peștera
+      din Valea Cobășelului.
+    wildlife: >-
+      La guida divulgativa del parco conta oltre 1100 piante fiorite e l'endemismo *Lychnis nivalis*. Tra le
+      specie allignano la stella alpina (*Leontopodium alpinum*), il narciso selvatico *Narcissus stellaris* e
+      la botton d'oro *Trollius europaeus*. Una riserva dedicata tutela una prateria di narcisi sul massiccio
+      del Saca.
+
+
+      Tra i mammiferi protetti figurano il [camoscio alpino](/especie/rupicapra_rupicapra/) e la
+      [marmotta](/especie/marmota_marmota/), l'[orso bruno](/especie/ursus_arctos/), il [lupo
+      grigio](/especie/canis_lupus/), la [lince](/especie/lynx_lynx/), il [cervo](/especie/cervus_elaphus/) e
+      il [capriolo](/especie/capreolus_capreolus/). Presenti anche gatto selvatico, martora e faina, oltre a
+      chirotteri quali *Myotis blythii* e *Myotis myotis*.
+
+
+      Per l'avifauna, il parco segnala specie dell'allegato I europeo: l'[aquila
+      reale](/especie/aquila_chrysaetos/), la [cicogna nera](/especie/ciconia_nigra/), il picchio dorsobianco,
+      il picchio nero, la civetta nana, l'[urogallo](/especie/tetrao_urogallus/) e l'allocco degli Urali. Tra
+      rettili e anfibi compaiono marasso, ululone dal ventre giallo e [salamandra
+      pezzata](/especie/salamandra_salamandra/).
+    visit: >-
+      Le escursioni sono consentite esclusivamente sui sentieri segnati. Diversi itinerari di quota si
+      percorrono con guide alpine autorizzate dal Ministero del Turismo, permettendo di contemplare flora
+      endemica, specchi d'acqua glaciali e fauna selvatica. Il campeggio è limitato a otto piazzole
+      predisposte, tra cui Lala Mica e Valea Vinului.
+
+
+      L'accesso veicolare segue la strada statale DN17D nel tratto tra Năsăud e Rebrișoara. I comuni di Borșa,
+      Moisei e Săcel nel Maramureș e altri centri del distretto di Bistrița-Năsăud rientrano nell'area
+      protetta. Il parco include riserve quali Piatra Rea, i narcisi del massiccio Saca, Ineu-Lala e le
+      sorgenti di Mihăiesei.
+    history: >-
+      Il parco fu abbozzato nel 1990 con decreto ministeriale istitutivo di tredici parchi nazionali. L'ente
+      di gestione fu costituito nel maggio 2004. Della superficie complessiva, 3300 ha furono proclamati
+      riserva della biosfera nel 1979.
+
+
+      L'amministrazione ha realizzato oltre 26 progetti con 35 istituzioni tra il 2004 e il 2017, con la
+      partecipazione di oltre 7450 volontari alle attività di monitoraggio naturalistico. L'associazione ECO
+      RODNA, con più di 1000 aderenti tra ricercatori e docenti, collabora strettamente, affiancata da oltre
+      200 volontari internazionali. Sono state edite 28 guide naturalistiche su avifauna, mammiferi e laghi
+      glaciali, valutando lo stato di conservazione di 70 specie di interesse comunitario tramite fototrappole
+      e biosonar.
+
+
+      Il patrimonio culturale vanta il monastero di Moisei con chiesa lignea e tempio in pietra, e la bottega
+      di Tănase Burnar, custode dell'antica ceramica rossa di Săcel.
+    before: >-
+      Attieniti con rigore ai percorsi tracciati, indossa calzature robuste e indumenti antivento e
+      impermeabili adatti alla quota. Informati sulle condizioni meteo prima di salire verso il Pietrosu.
+    around: >-
+      A 2 km si trova il [Parco Naturale dei Monti Maramureș](/lugar/parcul-natural-muntii-maramuresului/).
+      Nella regione, la [Foresta Primaria di Groșii Țibleșului](/lugar/codrii-seculari-grosii-tiblesului/)
+      custodisce faggete intatte; il [Parco Nazionale
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) condivide laghi glaciali, marmotte e camosci;
+      il [Parco Nazionale dei Tatra (Slovacchia)](/lugar/tatransky-narodny-park/) e il [Parco Nazionale dei
+      Tatra (Polonia)](/lugar/tatrzanski-park-narodowy/) condividono circhi glaciali e fauna di vetta.
+  pt:
+    intro: >-
+      Um maciço alcantilado que sobe dos 900 aos 2300 metros de altitude e que desde 1979 é reconhecido pela
+      UNESCO como reserva da biosfera. Os Montes Rodna acolhem os picos mais elevados dos Cárpatos Orientais
+      no norte do país, protegendo o seu parque nacional 47.202 hectares de bosques montanos, pastagens
+      alpinas, circos glaciares e lagoas de altitude. O cume culminante é o Pietrosul Rodnei, com 2303 m.
+    landscape: >-
+      A montanha estrutura-se num mosaico ecológico escalonado pela altitude. Na base estendem-se fagetos e
+      abetais; em cotas superiores impõem-se o pinheiro-suíço e os matos de rododendro-de-kotschy; mais acima
+      espalham-se as pastagens alpinas de Carex curvula e Festuca airoides. Matas de pinheiro-anão e
+      amieiro-verde pontuam os pisos intermédios, típicos dos habitats alpinos centro-europeus de Rodna.
+
+
+      O Pietrosul Mare configura o mais extenso conjunto orográfico de todo o maciço no setor setentrional dos
+      Cárpatos Orientais. O Pietrosul Rodnei, com 2303 m, comanda a paisagem glaciar com lagoas e circos
+      profundos. No subsolo ocultam-se grutas de relevo como a Peștera Izvorul Tăușoarelor e a Peștera din
+      Valea Cobășelului.
+    wildlife: >-
+      O folheto informativo do parque destaca mais de 1100 plantas com flor e o endemismo *Lychnis nivalis*.
+      Nas espécies catalogadas surgem a flor-dos-alpes (*Leontopodium alpinum*), o narciso *Narcissus
+      stellaris* e a flor-da-serra *Trollius europaeus*. Uma reserva específica protege o prado de narcisos no
+      maciço de Saca.
+
+
+      Entre os mamíferos protegidos figuram a [camurça](/especie/rupicapra_rupicapra/) e a
+      [marmota](/especie/marmota_marmota/), o [urso-pardo](/especie/ursus_arctos/), o
+      [lobo-cinzento](/especie/canis_lupus/), o [lince-euroasiático](/especie/lynx_lynx/), o
+      [veado-vermelho](/especie/cervus_elaphus/) e a [corça](/especie/capreolus_capreolus/). Encontram-se
+      também o gato-bravo, a marta e a fuinha, e quirópteros como *Myotis blythii* e *Myotis myotis*.
+
+
+      No capítulo da avifauna, o parque assinala espécies do anexo I da diretiva europeia: a
+      [águia-real](/especie/aquila_chrysaetos/), a [cegonha-preta](/especie/ciconia_nigra/), o
+      pica-pau-de-dorso-branco, o pica-pau-preto, o mocho-pigmeu, o
+      [tetraz-grande](/especie/tetrao_urogallus/) e a coruja-dos-urais. Entre os répteis e anfíbios
+      destacam-se a víbora-comum, o sapo-de-ventre-amarelo e a
+      [salamandra-de-fogo](/especie/salamandra_salamandra/).
+    visit: >-
+      A circulação desenrola-se estritamente pelos trilhos marcados. Vários itinerários de montanha podem ser
+      percorridos com guias credenciados pelo Ministério do Turismo, propiciando a observação da flora alpina,
+      lagoas e vida selvagem. O campismo está adstrito a oito locais balizados, entre os quais Lala Mica e
+      Valea Vinului.
+
+
+      O acesso rodoviário faz-se pela estrada nacional DN17D no troço entre Năsăud e Rebrișoara. Os municípios
+      de Borșa, Moisei e Săcel no Maramureș e outros de Bistrița-Năsăud têm território integrado no parque. O
+      interior acolhe reservas como Piatra Rea, o prado de narcisos do maciço Saca, Ineu-Lala e as nascentes
+      de Mihăiesei.
+    history: >-
+      O parque começou a ser delineado em 1990 aquando da portaria ministerial que criou treze parques
+      nacionais. A estrutura de gestão constituiu-se em maio de 2004. Da área total, 3300 ha foram consagrados
+      como reserva da biosfera em 1979.
+
+
+      A administração executou mais de 26 projetos com 35 instituições parceiras entre 2004 e 2017, envolvendo
+      mais de 7450 voluntários em tarefas de inventariação e monitorização ecológica. A associação
+      não-governamental ECO RODNA, agrupando mais de 1000 voluntários e docentes, colabora estreitamente,
+      participando ainda mais de 200 voluntários internacionais. Foram publicadas 28 cartas e guias de campo,
+      aferindo-se o estado de conservação de 70 espécies de interesse comunitário com armadilhagem fotográfica
+      e detetores de ultrassons.
+
+
+      O património etnográfico engloba o mosteiro de Moisei com templo em madeira e igreja em pedra, bem como
+      a oficina de Tănase Burnar, tido como o último mestre oleiro a moldar a cerâmica vermelha arcaica de
+      Săcel.
+    before: >-
+      É obrigatório manteres-te nos trilhos sinalizados, acampar exclusivamente nos oito locais permitidos e
+      proteger rigorosamente a flora e a fauna: é essa a responsabilidade essencial de qualquer visitante. Se
+      pretendes realizar percursos de alta montanha, consulta previamente a administração do parque sobre os
+      guias autorizados.
+    around: >-
+      A 2 km situa-se o [Parque Natural das Montanhas de
+      Maramureș](/lugar/parcul-natural-muntii-maramuresului/). Na região, a [Floresta Virgem de Groșii
+      Țibleșului](/lugar/codrii-seculari-grosii-tiblesului/) resguarda fagetos intactos; o [Parque Nacional
+      Retezat](/lugar/parcul-national-retezat---masivul-muntos/) partilha lagoas glaciares, marmotas e
+      camurças; o [Parque Nacional dos Tatras (Eslováquia)](/lugar/tatransky-narodny-park/) e o [Parque
+      Nacional dos Tatras (Polónia)](/lugar/tatrzanski-park-narodowy/) partilham circos glaciares e fauna
+      alpina.
+fuentes:
+  - url: https://www.parcrodna.ro/
+    titulo: Parcul Național Munții Rodnei — sitio oficial
+    fecha_consulta: '2026-10-29'
+  - url: https://www.parcrodna.ro/fisiere/pagini_fisiere/72/Pliant%20engleza.pdf
+    titulo: Touristic Information — Rodnei Mountains National Park
+    fecha_consulta: '2026-10-29'
+  - url: https://www.unesco.org/en/mab/rodnei-mountains
+    titulo: Rodnei Mountains — MAB UNESCO
+    fecha_consulta: '2026-10-29'
+  - url: https://www.europarc.org/case-studies/involving-volunteers-participatory-conservation-biodiversity-rodna-mountains-national-park-romania/
+    titulo: Involving volunteers in Rodna Mountains National Park — EUROPARC
+    fecha_consulta: '2026-10-29'
+  - url: https://ro.wikipedia.org/wiki/Parcul_Na%C8%9Bional_Mun%C8%9Bii_Rodnei
+    titulo: Parcul Național Munții Rodnei — Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Rodna_Mountains_from_west,_Romaina.jpg
+    autor: Martin Kozák
+    licencia: Public domain
+    url_licencia: https://creativecommons.org/publicdomain/mark/1.0/
+    fecha_descarga: '2026-10-17'

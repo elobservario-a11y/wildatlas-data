@@ -1,0 +1,610 @@
+id: gorges-du-doubs---franco-suisses
+estado_editorial: valoracion-revisada
+nombre:
+  es: Gargantas del Río Doubs
+  en: Gorges of the Doubs River
+  fr: Gorges du Doubs
+  de: Doubs-Schlucht
+  it: Gole del Fiume Doubs
+  pt: Gargantas do Rio Doubs
+nombre_original: Gorges du Doubs - Franco-Suisses
+alias:
+  - Doubs River Gorge (Gorges du Doubs)
+paises:
+  - FR
+  - CH
+region:
+  es: Doubs (FR) / Cantón del Jura (CH)
+  en: Doubs (FR) / Canton of Jura (CH)
+  fr: Doubs (FR) / Canton du Jura (CH)
+  de: Doubs (FR) / Kanton Jura (CH)
+  it: Doubs (FR) / Cantone del Giura (CH)
+  pt: Doubs (FR) / Cantão de Jura (CH)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.05
+  lon: 6.78
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555738134
+  nombre_en_la_fuente: Doubs Horloger
+  categoria_uicn: V
+  capa: capas/cdda/gorges-du-doubs---franco-suisses.geojson
+habitats:
+  - gorge_canyon
+  - river_corridor
+  - karst
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - salmo_trutta
+  - lynx_lynx
+  - cinclus_cinclus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en el Saut du Doubs en verano
+  en: Moderate at the Saut du Doubs in summer
+  fr: Moyenne au Saut du Doubs en été
+  de: Mäßig am Saut du Doubs im Sommer
+  it: Media al Saut du Doubs in estate
+  pt: Média no Saut du Doubs no verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Parc du Doubs, sector suizo
+    url: https://www.parcdoubs.ch/
+  - titulo: Mapa y rutas — Gargantas del Doubs transfronterizo
+    url: https://parcdoubs.ch/filemanager/PDD_carte_Version-fr_web.pdf
+  - titulo: Visita y accesos — Échelles de la Mort, Doubs Horloger
+    url: https://www.parcdoubshorloger.fr/offres/patrimoine-culturel/les-echelles-de-la-mort/
+resumen:
+  es: >-
+    Cañón fluvial meandriforme que marca la frontera natural entre Francia y Suiza con cortados calizos y
+    saltos de agua.
+  en: >-
+    A meandering river canyon marking the natural frontier between France and Switzerland with limestone
+    cliffs and cascading falls.
+  fr: >-
+    Canyon fluvial à méandres marquant la frontière naturelle entre la France et la Suisse entre falaises
+    calcaires et cascades.
+  de: >-
+    Gewundener Flusscanyon an der Grenze zwischen Frankreich und der Schweiz mit steilen Kalkwänden und
+    Wasserfällen.
+  it: >-
+    Canyon fluviale a meandri che delinea il confine naturale tra Francia e Svizzera con balze calcaree e
+    cascate fragorose.
+  pt: >-
+    Desfiladeiro fluvial meandriforme delimitando a fronteira natural entre a França e a Suíça entre escarpas
+    calcárias e quedas de água.
+unico:
+  es: >-
+    Un río que es frontera y corredor ecológico, con una cascada de 27 metros, nacida de un derrumbe, a la
+    salida de un lago.
+  en: >-
+    A river acting simultaneously as a national border and ecological corridor, featuring a 27-metre waterfall
+    born of a prehistoric landslide at a lake outflow.
+  fr: >-
+    Une rivière à la fois frontière et corridor écologique, marquée par une cascade de 27 mètres née d'un
+    éboulement géologique à la sortie d'un lac.
+  de: >-
+    Ein Fluss als Grenze und Biotopverbund zugleich, geprägt von einem 27 Meter hohen Wasserfall nach einem
+    nacheiszeitlichen Bergsturz.
+  it: >-
+    Un fiume che funge da confine e corridoio ecologico, contraddistinto da una cascata di 27 metri nata da
+    una paleofrana all'uscita di un lago.
+  pt: >-
+    Um rio que atua simultaneamente como fronteira e corredor ecológico, ostentando uma cascata de 27 metros
+    originada pelo colapso de uma encosta à saída de um lago.
+observaciones:
+  es: >-
+    Los datos del Parc du Doubs son del lado suizo; las Échelles de la Mort están del lado francés. Comprueba
+    antes de ir los accesos y si los barcos funcionan a la cascada.
+texto:
+  es:
+    intro: >-
+      Un río hace de frontera y de columna vertebral a la vez. El Doubs sale del lago de Les Brenets, cae 27
+      metros en una cascada que se oye desde lejos, el Saut du Doubs, y sigue su camino de oeste a este entre
+      Suiza y Francia, encajado en un valle de orillas escarpadas hasta Saint-Ursanne. Es el eje del Parc du
+      Doubs, un parque regional suizo de unos 300 kilómetros cuadrados, y el escenario de unas gargantas
+      transfronterizas donde el río marca el límite norte del parque.
+    landscape: >-
+      Todo empezó hace unos 12.000 años, cuando las dos laderas del valle se derrumbaron, quizá por un seísmo.
+      Aquel derrumbe formó una presa natural que llenó las gargantas aguas arriba, el paleolago de Morteau,
+      del que el lago de Chaillexon, o de Les Brenets, es un vestigio. El Doubs, desviado, salta ahora el
+      acantilado en la Saut du Doubs. La presa no es del todo estanca, porque el derrumbe es una acumulación
+      permeable de fragmentos de roca caliza, y por eso el nivel del lago varía bastante.
+
+
+      Aguas abajo, el Doubs recorre el fondo del valle entre Les Brenets y Saint-Ursanne. Arriba, los pastos
+      arbolados y los bosques profundos de las Franches-Montagnes, modelados durante siglos por la cría de
+      caballos y de ganado vacuno, y el punto más alto del parque, Pouillerel, de 1.275 metros, que con buen
+      tiempo da un panorama de los Alpes a los Vosgos. En el lago de Biaufond, el embalse del Refrain forma un
+      plano de agua casi inmóvil, rodeado de acantilados boscosos y refugio de aves acuáticas.
+
+
+      A medio camino entre Saignelégier y Tramelan, el étang de la Gruère se acurruca en el centro de una
+      turbera milenaria, con una reserva natural y una vegetación que recuerda a las landas escandinavas.
+    wildlife: >-
+      El Doubs no es fácil de acceder por sus orillas escarpadas y guarda una biodiversidad excepcional y
+      frágil, como el apron del Ródano y la fritillaria pintada, dos especies muy amenazadas. La
+      [trucha](/especie/salmo_trutta/) del Doubs es típica del río, aunque sus poblaciones son limitadas.
+
+
+      Sobre el agua, el [mirlo acuático](/especie/cinclus_cinclus/) está bien representado a lo largo del
+      Doubs, y un primer censo de junio de 2010 halló varias parejas aguas abajo del embalse del Refrain. El
+      martín pescador es más raro: anida en un túnel que excava en un talud blando junto al río. En los
+      acantilados cría el [halcón peregrino](/especie/falco_peregrinus/), presente todo el año, que puede
+      bajar al valle a cazar patos o paseriformes invernantes; unas pocas parejas de búho real crían en el
+      valle, y el mochuelo boreal depende de las cavidades del pico negro. El [lince](/especie/lynx_lynx/)
+      figura entre los mamíferos del territorio.
+    visit: >-
+      La cascada es lo primero: de la estación de Les Brenets se llega a pie, por un paseo agradable, o en
+      barco desde el puerto; también se accede a pie por el GR 5, que comparte trazado con la Grande Traversée
+      du Jura. La gran ruta es el Chemin au fil du Doubs, una travesía a pie de cuatro días y sesenta y ocho
+      kilómetros entre Les Brenets y Saint-Ursanne, en etapas de diecinueve, veintiún, trece y quince
+      kilómetros, de entre cuatro y cinco horas y media.
+
+
+      Para entenderlo, el parque propone un programa anual de salidas sobre fauna, flora y paisaje, y el
+      Centre Nature Les Cerlatez, creado en 1993, tiene exposiciones y visitas guiadas por la reserva de la
+      Gruère, además de animaciones y excursiones que incluyen seguir las huellas del lince; se llega en
+      autobús postal. Un sendero muy fácil rodea la Gruère, de 600 metros, para disfrutar de la naturaleza sin
+      molestarla.
+    history: >-
+      En el valle, las Échelles de la Mort cuelgan sobre el Doubs entre Suiza y Francia: las usaban antes los
+      contrabandistas, y de madera han pasado a ser de acero, remachadas a la roca. Esas escaleras y todo el
+      Valle de la Muerte testimonian el temor que despertaban estos lugares ricos en leyendas.
+
+
+      El Doubs sufre por la energía hidráulica, las aguas residuales y micropolutantes, los pesticidas y
+      abonos y las obras que modificaron orillas y lecho, y solo una colaboración transfronteriza puede
+      remediarlo: desde 2011, grupos de trabajo binacionales de las autoridades francesas y suizas definieron
+      un programa de acciones. El parque inventaría árboles-hábitat en sus bosques y los marca para evitar su
+      tala, y su proyecto de infraestructuras ecológicas, de 2016 y 2017, recogió ciento sesenta mil
+      observaciones de más de seis mil especies. La carta del parque describe el valle del Doubs como un
+      corredor ecológico importante en el conjunto forestal.
+    before: >-
+      Los datos del Parc du Doubs son del lado suizo; las Échelles de la Mort están del lado francés.
+      Comprueba antes de ir los accesos y si los barcos funcionan a la cascada.
+    around: >-
+      Muy cerca queda el [valle y las gargantas del Loue](/lugar/la-loue---vallee-et-gorges/), y a veintiséis
+      kilómetros el [Parc naturel régional du Haut-Jura](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Más lejos, el [Alto valle del Ain](/lugar/haute-vallee-de-l-ain/), el [Alto
+      Acheron](/lugar/acheron-river-wild-upper-gorge/), el [valle de
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) y el [Naturpark Tiroler
+      Lechtal](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) comparten con el Doubs el mirlo acuático y
+      la trucha o el lince.
+  en:
+    intro: >-
+      A river serves as both an international border and a regional backbone. Flowing out of Lake Les Brenets,
+      the Doubs plunges 27 metres down an echoing cascade, the Saut du Doubs, then carves its course from west
+      to east between Switzerland and France, deeply entrenched in a steep-sided gorge towards Saint-Ursanne.
+      It constitutes the core axis of the Parc du Doubs, a Swiss regional nature park covering about 300
+      square kilometres, and the setting of cross-border gorges where the river defines the park's northern
+      fringe.
+    landscape: >-
+      It all began some 12,000 years ago when catastrophic landslides detached from both valley flanks, likely
+      triggered by a seismic tremor. The resulting mass created a natural dam impounding the upstream gorge,
+      forming the ancient Lake Morteau of which Lake Chaillexon (or Les Brenets) is the living remnant. The
+      diverted Doubs now leaps over the limestone precipice at the Saut du Doubs. The natural dam remains
+      semi-permeable, formed of loose limestone rubble, causing noticeable seasonal lake fluctuations.
+
+
+      Downstream, the Doubs winds along the canyon floor between Les Brenets and Saint-Ursanne. Above lie the
+      wooded pastures and deep spruce-fir forests of the Franches-Montagnes, shaped over centuries by horse
+      breeding and cattle grazing, crowned by the park's highest summit, Pouillerel at 1,275 metres, offering
+      panoramic vistas from the Alps to the Vosges in clear weather. At Lake Biaufond, the Refrain reservoir
+      forms a tranquil mirror framed by wooded bluffs, offering sanctuary for wild waterfowl.
+
+
+      Halfway between Saignelégier and Tramelan, the Étang de la Gruère nestles within an ancient peat bog,
+      preserved within a nature reserve whose ericaceous vegetation recalls Scandinavian taiga.
+    wildlife: >-
+      The Doubs is guarded by precipitous banks, harbouring exceptional yet vulnerable aquatic life including
+      the critically endangered Rhône streber and the endemic painted fritillary. The
+      [trout](/especie/salmo_trutta/) of the Doubs remains characteristic of the river, though wild stocks are
+      restricted.
+
+
+      Along the water, the [white-throated dipper](/especie/cinclus_cinclus/) is well established throughout
+      the canyon; a pioneer census in June 2010 located multiple breeding pairs downstream of the Refrain dam.
+      The common kingfisher is more elusive, boring nesting burrows into soft earthen banks. Along the
+      limestone cliffs nests the [peregrine falcon](/especie/falco_peregrinus/), present year-round and
+      hunting ducks or wintering passerines in the valley; scattered pairs of Eurasian eagle-owls breed in the
+      crags, while the boreal owl depends on black woodpecker tree cavities. The [Eurasian
+      lynx](/especie/lynx_lynx/) roams the forested slopes.
+    visit: >-
+      The waterfall is the signature excursion: from Les Brenets railway station it is reached via an
+      agreeable woodland walk or by passenger boat from the port; foot access is also provided by the GR 5,
+      concurrent here with the Grande Traversée du Jura. The premier route is the Chemin au fil du Doubs, a
+      four-day, sixty-eight-kilometre trek between Les Brenets and Saint-Ursanne, divided into daily stages of
+      nineteen, twenty-one, thirteen, and fifteen kilometres, lasting four to five and a half hours each.
+
+
+      To interpret the terrain, the park publishes an annual calendar of naturalist outings, while the Centre
+      Nature Les Cerlatez, founded in 1993, hosts exhibits and guided tours of the Gruère reserve, alongside
+      tracking excursions searching for lynx sign; it is accessible by PostBus. A gentle 600-metre boardwalk
+      encircles the Gruère pond, allowing visitors to appreciate mire ecology without disturbance.
+    history: >-
+      Suspended above the river gorge, the Échelles de la Mort link Switzerland and France: originally wooden
+      ladders used by cross-border smugglers, today replaced by secure steel rungs anchored directly into the
+      rock face. These dizzying ladders and the entire Valley of Death bear witness to the fear and folklore
+      once evoked by this isolated chasm.
+
+
+      The Doubs faces ecological strains from hydroelectric peaking, residual wastewater, agricultural runoff,
+      and riverbed modifications, solvable only through binational management: since 2011, joint French-Swiss
+      working groups have implemented concerted remediation programmes. The park inventories and marks veteran
+      habitat trees across woodlands, and its 2016 and 2017 ecological infrastructure survey gathered one
+      hundred and sixty thousand observations across more than six thousand species. The park charter
+      identifies the Doubs valley as a major regional ecological corridor.
+    before: >-
+      Information for Parc du Doubs pertains to the Swiss side, while the Échelles de la Mort sit on the
+      French side. Verify path accessibility and seasonal boat timetables to the waterfall before setting out.
+    around: >-
+      Very close by lie the [Loue Valley and Gorges](/lugar/la-loue---vallee-et-gorges/), and twenty-six
+      kilometres away is [Haut-Jura Regional Nature Park](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Further afield, the [Upper Ain Valley](/lugar/haute-vallee-de-l-ain/), [Acheron River Wild Upper
+      Gorge](/lugar/acheron-river-wild-upper-gorge/), [Kvačianska
+      Valley](/lugar/npr-kvacianska-a-prosiecka-dolina/), and [Tyroler Lechtal Nature
+      Park](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) share dippers, trout, or lynx with the Doubs.
+  fr:
+    intro: >-
+      Un cours d'eau fait office à la fois de frontière d'État et de colonne vertébrale naturelle. Le Doubs
+      s'échappe du lac des Brenets, franchit une chute de 27 mètres retentissante, le Saut du Doubs, et
+      poursuit son cours d'ouest en est entre Suisse et France, encaissé dans une gorge abrupte jusqu'à
+      Saint-Ursanne. C'est l'axe majeur du Parc du Doubs, parc naturel régional suisse d'environ 300
+      kilomètres carrés, et le théâtre de gorges transfrontalières où la rivière forme la lisière nord du
+      parc.
+    landscape: >-
+      Tout a commencé voilà quelque 12 000 ans, lorsqu'un double éboulement des versants, sans doute provoqué
+      par un séisme, barra la vallée. Ce barrage naturel créa le paléolac de Morteau en amont des gorges, dont
+      le lac de Chaillexon (ou des Brenets) est le témoin. Dévié, le Doubs franchit désormais la falaise au
+      Saut du Doubs. Cette digue rocheuse n'étant pas étanche en raison de sa composition calcaire morcelée,
+      le niveau du lac connaît d'importantes variations.
+
+
+      En aval, le Doubs coule au fond de la vallée entre Les Brenets et Saint-Ursanne. Sur les hauteurs
+      s'étendent les pâturages boisés et les forêts des Franches-Montagnes, façonnés par l'élevage équin et
+      bovin, dominés par le point culminant du parc, le Pouillerel à 1 275 mètres, offrant par temps clair un
+      panorama des Alpes aux Vosges. Au lac de Biaufond, la retenue du Refrain forme un plan d'eau tranquille
+      cerné de falaises boisées, refuge pour les oiseaux d'eau.
+
+
+      À mi-chemin entre Saignelégier et Tramelan, l'étang de la Gruère se blottit au cœur d'une tourbière
+      millénaire, protégée en réserve naturelle, dont la flore évoque la taïga scandinave.
+    wildlife: >-
+      D'accès escarpé, le Doubs abrite une faune exceptionnelle et vulnérable, à l'image de l'apron du Rhône
+      et de la coronelle lisse, espèces hautement menacées. La [truite](/especie/salmo_trutta/) de rivière du
+      Doubs caractérise le cours d'eau, bien que ses effectifs restent fragiles.
+
+
+      Au fil de l'eau, le [cincle plongeur](/especie/cinclus_cinclus/) est bien représenté ; un recensement de
+      juin 2010 a localisé plusieurs couples nicheurs en aval du barrage du Refrain. Le martin-pêcheur, plus
+      discret, creuse son terrier dans les berges meubles. Sur les falaises niche le [faucon
+      pèlerin](/especie/falco_peregrinus/), sédentaire, qui descend chasser canards et passereaux dans la
+      vallée ; quelques couples de grand-duc occupent les parois, et la chouette de Tengmalm dépend des
+      cavités de pics noirs. Le [lynx boréal](/especie/lynx_lynx/) fréquente les massifs forestiers.
+    visit: >-
+      La cascade constitue l'excursion incontournable : depuis la gare des Brenets on la rejoint à pied par
+      une agréable promenade ou en vedette fluviale depuis le port ; l'accès pédestre est aussi assuré par le
+      GR 5, commun avec la Grande Traversée du Jura. La grande itinérance emprunte le Chemin au fil du Doubs,
+      randonnée de quatre jours et soixante-huit kilomètres entre Les Brenets et Saint-Ursanne, en étapes de
+      dix-neuf, vingt-et-un, treize et quinze kilomètres, durant quatre à cinq heures et demie.
+
+
+      Pour approfondir la visite, le parc propose un programme annuel de sorties naturalistes, tandis que le
+      Centre Nature Les Cerlatez, créé en 1993, présente expositions et visites guidées de la réserve de la
+      Gruère avec recherche d'indices de lynx, accessible en car postal. Un sentier aisé de 600 mètres fait le
+      tour de l'étang de la Gruère pour contempler le milieu sans le déranger.
+    history: >-
+      Dans la gorge, les Échelles de la Mort surplombent le cours du Doubs : jadis en bois empruntées par les
+      contrebandiers, elles sont désormais en acier scellées au roc. Ces passerelles et le Val de la Mort
+      témoignent des craintes et légendes attachées à ces passages reculés.
+
+
+      Le Doubs subit les impacts des marnages hydroélectriques, des micropolluants et des aménagements de
+      berges : depuis 2011, des groupes binationaux franco-suisses mènent un programme d'actions concerté. Le
+      parc inventorie et marque les arbres-habitats en forêt, et son inventaire de l'infrastructure écologique
+      mené en 2016 et 2017 a compilé cent soixante mille données sur plus de six mille espèces. La charte du
+      parc consacre le Doubs comme corridor écologique majeur.
+    before: >-
+      Les données du Parc du Doubs concernent la rive suisse, tandis que les Échelles de la Mort se situent
+      côté français. Vérifiez l'accessibilité des chemins et la navigation fluviale vers la cascade avant
+      votre départ.
+    around: >-
+      Tout près se trouvent la [vallée et les gorges de la Loue](/lugar/la-loue---vallee-et-gorges/) et à
+      vingt-six kilomètres le [Parc naturel régional du
+      Haut-Jura](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Plus loin, la [Haute vallée de l'Ain](/lugar/haute-vallee-de-l-ain/), les [Gorges de
+      l'Achéron](/lugar/acheron-river-wild-upper-gorge/), la [vallée de
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) et le [Naturpark Tiroler
+      Lechtal](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) partagent le cincle plongeur, la truite ou
+      le lynx avec le Doubs.
+  de:
+    intro: >-
+      Ein Fluss fungiert zugleich als Staatsgrenze und landschaftliches Rückgrat. Der Doubs verlässt den See
+      von Les Brenets, stürzt 27 Meter über einen tosenden Wasserfall, den Saut du Doubs, hinab und bahnt sich
+      seinen Weg von West nach Ost zwischen der Schweiz und Frankreich, tief eingekerbt in ein schluchtartiges
+      Tal bis nach Saint-Ursanne. Er bildet die zentrale Achse des Schweizer Regionalen Naturparks Parc du
+      Doubs mit rund 300 Quadratkilometern Fläche, wo der Fluss den nördlichen Rand des Parks markiert.
+    landscape: >-
+      Alles begann vor rund 12.000 Jahren, als Gesteinsmassen beider Talflanken abstürzten, vermutlich
+      ausgelöst durch ein Erdbeben. Dieser Bergsturz schuf einen natürlichen Damm, der den Morteau-Paläosee
+      aufstaute, von dem der See von Les Brenets (Lac de Chaillexon) der verbliebene Rest ist. Der umgeleitete
+      Doubs stürzt heute am Saut du Doubs über die Kalkklippe. Der Bergsturzriegel ist aus durchlässigem
+      Schutt aufgebaut, weshalb der Seespiegel merklich schwankt.
+
+
+      Flussabwärts windet sich der Doubs durch den Talgrund zwischen Les Brenets und Saint-Ursanne. Auf den
+      Höhen liegen die Wytweiden und tiefen Wälder der Franches-Montagnes, geprägt von Pferdezucht und
+      Weidewirtschaft, überragt vom Pouillerel auf 1.275 Metern, der bei klarem Wetter Fernsicht von den Alpen
+      bis zu den Vogesen bietet. Am Biaufond-See bildet der Stau des Refrain ein ruhiges Gewässer, gesäumt von
+      Felswäldern und Zuflucht für Wasservögel.
+
+
+      Auf halbem Weg zwischen Saignelégier und Tramelan schmiegt sich der Étang de la Gruère in ein uraltes
+      Hochmoor, geschützt als Naturreservat mit Heidevegetation wie in Skandinavien.
+    wildlife: >-
+      Wegen seiner steilen Hänge ist der Doubs schwer zugänglich und bewahrt eine fragile Artenvielfalt,
+      darunter den bedrohten Rhone-Streber. Die [Bachforelle](/especie/salmo_trutta/) des Doubs ist eine
+      Leitart des Gewässers, wenngleich ihre Bestände sensibel sind.
+
+
+      Am Fluss ist die [Wasseramsel](/especie/cinclus_cinclus/) gut vertreten; eine erste Erfassung im Juni
+      2010 wies mehrere Brutpaare unterhalb des Kraftwerks Refrain nach. Der Eisvogel ist seltener und gräbt
+      seine Brutröhren in weiche Uferabbrüche. An den Felswänden brütet der ganzjährig anwesende
+      [Wanderfalke](/especie/falco_peregrinus/); wenige Uhupaare besiedeln Felsnischen, und der Raufußkauz
+      nutzt Schwarzspechthöhlen. Auch der [Luchs](/especie/lynx_lynx/) streift durch die Bergwälder.
+    visit: >-
+      Der Wasserfall ist das erste Ziel: Vom Bahnhof Les Brenets erreichst du ihn zu Fuß auf einem angenehmen
+      Weg oder per Ausflugsboot vom Hafen; auch der Fernwanderweg GR 5, hier deckungsgleich mit der Grande
+      Traversée du Jura, führt dorthin. Die Hauptroute ist der Chemin au fil du Doubs, eine viertägige
+      Wanderung über achtundsechzig Kilometer von Les Brenets nach Saint-Ursanne in Etappen von neunzehn,
+      einundzwanzig, dreizehn und fünfzehn Kilometern, jeweils vier bis fünfeinhalb Stunden Gehzeit.
+
+
+      Das Naturzentrum Les Cerlatez, gegründet 1993, bietet Ausstellungen und Führungen durch das Gruère-Moor
+      mit Luchsspurensuche, erreichbar per Postauto. Ein barrierearmer Holzsteg von 600 Metern umrundet den
+      Gruère-See, um das Moor schonend zu erleben.
+    history: >-
+      In der Schlucht ragen die Échelles de la Mort über den Doubs empor: Einst hölzerne Schmugglerpfade, sind
+      sie heute als stählerne Leitern im Fels verankert. Sie und das Totental zeugen von der Ehrfurcht, die
+      diese wilde Grenzlandschaft einst einflößte.
+
+
+      Der Doubs leidet unter Schwallbetrieb der Wasserkraft, Abwässern und Verbauungen, was
+      grenzüberschreitende Kooperation erfordert: Seit 2011 setzen binationale Arbeitsgruppen aus Frankreich
+      und der Schweiz Maßnahmenprogramme um. Der Park kartiert Habitatbäume in den Forsten, und sein
+      Biotopverbundprojekt von 2016 und 2017 sammelte einhundertsechzigtausend Beobachtungsdaten zu mehr als
+      sechstausend Arten. Die Parkcharta würdigt das Tal als Kernkorridor.
+    before: >-
+      Informationen zum Parc du Doubs betreffen die Schweizer Seite, während die Échelles de la Mort in
+      Frankreich liegen. Erkundige dich vorab über Wegezustand und Schiffsverkehr zum Wasserfall.
+    around: >-
+      Ganz in der Nähe liegt das [Tal und die Schluchten der Loue](/lugar/la-loue---vallee-et-gorges/), und
+      sechsundzwanzig Kilometer entfernt der [Regionale Naturpark
+      Haut-Jura](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Weiter entfernt teilen das [Obere Ain-Tal](/lugar/haute-vallee-de-l-ain/), die
+      [Acheron-Schlucht](/lugar/acheron-river-wild-upper-gorge/), das
+      [Kvačianska-Tal](/lugar/npr-kvacianska-a-prosiecka-dolina/) und der [Naturpark Tiroler
+      Lechtal](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) Wasseramsel, Forelle oder Luchs mit dem
+      Doubs.
+  it:
+    intro: >-
+      Un fiume funge contemporaneamente da linea di confine e da spina dorsale geografica. Uscendo dal lago di
+      Les Brenets, il Doubs precipita per 27 metri con una cascata scrosciante, il Saut du Doubs, continuando
+      il suo corso da ovest a est fra Svizzera e Francia, incassato in una gola scoscesa fino a Saint-Ursanne.
+      È l'asse portante del Parc du Doubs, parco naturale regionale svizzero di circa 300 chilometri quadrati,
+      dove il corso d'acqua costituisce il limite settentrionale dell'area protetta.
+    landscape: >-
+      Tutto ebbe inizio circa 12.000 anni fa, quando un duplice crollo franoso dei versanti sbarrò la vallata,
+      verosimilmente a seguito di un evento sismico. Questo sbarramento naturale creò un paleolago a monte
+      della forra, di cui il bacino di Les Brenets (o Chaillexon) è il residuo. Il Doubs, deviato, si getta
+      ora dalla balza al Saut du Doubs. La diga naturale è permeabile, composta da macerie calcaree, causando
+      marcate escursioni del livello idrico.
+
+
+      A valle, il Doubs percorre il fondovalle compreso tra Les Brenets e Saint-Ursanne. Sulle alture si
+      aprono i pascoli alberati e le abetaie delle Franches-Montagnes modellate dall'allevamento, dominate dai
+      1.275 metri del Pouillerel, che con il cielo terso regala un panorama dalle Alpi ai Vosgi. Presso il
+      lago di Biaufond, l'invaso del Refrain crea uno specchio d'acqua calmo cinto da rupi boscate, rifugio
+      per uccelli acquatici.
+
+
+      A metà strada tra Saignelégier e Tramelan, l'Étang de la Gruère giace al centro di una torbiera
+      millenaria tutelata come riserva naturale, con vegetazione che ricorda la taiga scandinava.
+    wildlife: >-
+      Data l'asprezza dei versanti, il Doubs custodisce una biodiversità straordinaria e sensibile, come
+      l'apron del Rodano e la coronella austriaca, entrambe minacciate. La [trota](/especie/salmo_trutta/) del
+      Doubs è la specie ittica simbolo del fiume, pur con consistenze ridotte.
+
+
+      Sull'acqua il [merlo acquaiolo](/especie/cinclus_cinclus/) è ben insediato; un censimento pilota del
+      giugno 2010 ne ha documentato coppie a valle della diga del Refrain. Il martin pescatore è più raro e
+      nidifica scavando cunicoli nelle ripe terrose. Sulle scogliere rocciose si riproduce il [falco
+      pellegrino](/especie/falco_peregrinus/), stanziale tutto l'anno; rari gufi reali occupano anfratti
+      rocciosi e la civetta capogrosso sfrutta le cavità dei picchi neri. La [lince
+      eurasiatica](/especie/lynx_lynx/) compare tra i mammiferi del massiccio.
+    visit: >-
+      La cascata è la meta d'obbligo: dalla stazione di Les Brenets si raggiunge con una passeggiata pedonale
+      o tramite battello dal porticciolo; vi passa anche il sentiero GR 5, unito alla Grande Traversée du
+      Jura. Il tracciato principale è il Chemin au fil du Doubs, traversata a piedi di quattro giorni e
+      sessantotto chilometri tra Les Brenets e Saint-Ursanne, articolata in tappe di diciannove, ventuno,
+      tredici e quindici chilometri, per quattro-cinque ore e mezza di cammino al giorno.
+
+
+      Per approfondire, il parco propone escursioni guidate e il Centre Nature Les Cerlatez, fondato nel 1993,
+      presenta allestimenti e percorsi guidati alla torbiera della Gruère con ricerca delle tracce di lince,
+      accessibile con autopostale. Una passerella circolare di 600 metri permette di osservare la Gruère senza
+      recare disturbo.
+    history: >-
+      Lungo la forra, le Échelles de la Mort si ergono sopra il corso del Doubs tra Svizzera e Francia:
+      antiche scale di legno dei contrabbandieri, oggi sostituite da ferrate in acciaio fissate alla parete.
+      Queste scalinate e la Valle della Morte attestano le suggestioni nate attorno a questi valichi solitari.
+
+
+      Il Doubs risente dei regimi idroelettrici a singhiozzo e degli scarichi agricoli, affrontabili solo con
+      cooperazione binazionale: dal 2011 commissioni franco-svizzere coordinano piani di risanamento. Il parco
+      tutela gli alberi-habitat nelle foreste, e il programma di connettività del 2016 e 2017 ha censito
+      centosessantamila segnalazioni relative a oltre seimila specie. La carta del parco qualifica il corso
+      del Doubs come corridoio biologico essenziale.
+    before: >-
+      Le informazioni del Parc du Doubs si riferiscono alla sponda elvetica, mentre le Échelles de la Mort
+      ricadono sul versante francese. Verifica prima della partenza lo stato dei sentieri e i collegamenti in
+      battello.
+    around: >-
+      A brevissima distanza si trovano la [valle e le gole della Loue](/lugar/la-loue---vallee-et-gorges/), e
+      a ventisei chilometri il [Parc naturel régional du
+      Haut-Jura](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Più lontane, l'[Alta valle dell'Ain](/lugar/haute-vallee-de-l-ain/), le [Gole
+      dell'Acheronte](/lugar/acheron-river-wild-upper-gorge/), la [Valle di
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) e il [Naturpark Tiroler
+      Lechtal](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) condividono merlo acquaiolo, trota o lince
+      con il Doubs.
+  pt:
+    intro: >-
+      Um curso de água funciona como fronteira entre dois países e espinha dorsal ecológica. O Doubs extravasa
+      do lago de Les Brenets, precipita-se 27 metros numa cascata estrondosa, o Saut du Doubs, e prossegue o
+      seu caminho de oeste para leste entre a Suíça e a França, encaixado numa garganta escarpada até
+      Saint-Ursanne. Constitui a artéria condutora do Parc du Doubs, parque regional suíço com cerca de 300
+      quilómetros quadrados, onde a linha de água define o limite norte do parque.
+    landscape: >-
+      Tudo começou há cerca de 12 000 anos, quando um duplo deslizamento das vertentes desmoronou sobre o
+      vale, motivado por abalo sísmico. Essa barreira rochosa represou o paleolago de Morteau a montante, do
+      qual a albufeira de Les Brenets (ou Chaillexon) é o testemunho. Desviado do curso primitivo, o Doubs
+      despenha-se agora pelo despenhadeiro no Saut du Doubs. O dique natural de cascalho calcário é permeável,
+      o que acarreta oscilações sazonais acentuadas no plano de água.
+
+
+      A jusante, o Doubs corre pelo fundo do desfiladeiro entre Les Brenets e Saint-Ursanne. No cimo
+      estendem-se as pastagens arvoradas e as florestas das Franches-Montagnes talhadas pelo pastoreio,
+      coroadas pelos 1 275 metros do Pouillerel, que em dias límpidos desvenda horizontes dos Alpes aos
+      Vosges. Na lagoa de Biaufond, a albufeira do Refrain desenha um espelho calmo emoldurado por falésias
+      florestadas, refúgio de aves aquáticas.
+
+
+      A meio caminho entre Saignelégier e Tramelan, o Étang de la Gruère abriga-se numa turfeira milenar
+      classificada como reserva natural, cuja charneca evoca a taiga escandinava.
+    wildlife: >-
+      Com margens abruptas e difícil acesso, o Doubs resguarda uma biodiversidade excecional mas vulnerável,
+      incluindo o apron-do-ródano e a fritilária-pintada, sob séria ameaça. A [truta](/especie/salmo_trutta/)
+      do Doubs caracteriza o leito hídrico, embora as populações selvagens enfrentem pressões.
+
+
+      Nas águas límpidas o [melro-d'água](/especie/cinclus_cinclus/) encontra-se amplamente disseminado; um
+      censo pioneiro de junho de 2010 localizou casais nidificantes a jusante do açude do Refrain. O
+      guarda-rios é mais esquivo, nidificando em galerias escavadas nas barreiras arenosas. Nas escarpas
+      nidifica o [falcão-peregrino](/especie/falco_peregrinus/), sedentário o ano inteiro; raros bufos-reais
+      ocupam fendas nas fragas e o mocho-boreale depende dos buracos do pica-pau-preto. O
+      [lince-euroasiático](/especie/lynx_lynx/) calcorreia as encostas arborizadas.
+    visit: >-
+      A cascata constitui o ponto de partida imperdível: a partir da estação de Les Brenets acede-se a pé por
+      um caminho agradável ou de barco turístico a partir do cais; o acesso faz-se igualmente pela rota
+      pedestre GR 5, coincidente com a Grande Traversée du Jura. A grande travessia faz-se pelo Chemin au fil
+      du Doubs, itinerário de quatro dias e sessenta e oito quilómetros entre Les Brenets e Saint-Ursanne, em
+      etapas de dezanove, vinte e um, treze e quinze quilómetros, com quatro a cinco horas e meia de marcha.
+
+
+      Para aprofundar a visita, o parque organiza passeios com guias, enquanto o Centre Nature Les Cerlatez,
+      fundado em 1993, oferece exposições e percursos interpretativos à reserva da Gruère com deteção de
+      pegadas de lince, acessível por autocarro postal. Um passadiço de 600 metros contorna a Gruère,
+      viabilizando o contacto com a turfeira sem perturbar a flora.
+    history: >-
+      No desfiladeiro, as Échelles de la Mort elevam-se vertiginosamente sobre o Doubs: primitivas escadas de
+      madeira usadas por contrabandistas, foram convertidas em estruturas metálicas cravadas na rocha. Estes
+      degraus e o Vale da Morte ilustram o receio e o imaginário outrora despertados por estes desfiladeiros
+      ermos.
+
+
+      O Doubs sofre com as descargas das centrais hidroelétricas, águas residuais e químicos agrícolas,
+      exigindo concertação transfronteiriça: desde 2011, equipas mistas de França e da Suíça aplicam planos de
+      ação conjuntos. O parque inventaria árvores-habitat nos bosques, e o seu plano ecológico de 2016 e 2017
+      coligiu cento e sessenta mil registos de mais de seis mil espécies. A carta do parque reconhece o vale
+      como um corredor ecológico prioritário.
+    before: >-
+      As indicações do Parc du Doubs reportam-se à vertente suíça, ao passo que as Échelles de la Mort se
+      situam no lado francês. Confirma os acessos aos trilhos e as viagens de barco para a cascata antes da
+      visita.
+    around: >-
+      Nas imediações estende-se o [vale e gargantas do Loue](/lugar/la-loue---vallee-et-gorges/) e a vinte e
+      seis quilómetros o [Parc naturel régional du Haut-Jura](/lugar/parc-naturel-regional-du-haut-jura/).
+
+
+      Mais longe, o [Alto vale do Ain](/lugar/haute-vallee-de-l-ain/), as [Gargantas do
+      Aqueronte](/lugar/acheron-river-wild-upper-gorge/), o [vale de
+      Kvačianska](/lugar/npr-kvacianska-a-prosiecka-dolina/) e o [Naturpark Tiroler
+      Lechtal](/lugar/naturpark-tiroler-lechtal---lechtaler-alpen/) partilham melro-d'água, truta ou lince com
+      o Doubs.
+fuentes:
+  - url: https://www.parcdoubs.ch/upload/projects/2019_08_carte_parc_du_doubs.pdf
+    titulo: Carte Parc du Doubs — Parc naturel régional du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/upload/downloads/pnrd_charte_2013_2022_1.pdf
+    titulo: Charte 2013–2022 — Parc naturel régional du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/upload/downloads/pnrd_charte_2013_2022_annexes_partie_1_titre_b5_1.pdf
+    titulo: Charte 2013–2022, annexe oiseaux — Parc naturel régional du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/filemanager/OK%20charte.pdf
+    titulo: Charte du Parc du Doubs — Parc naturel régional du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/
+    titulo: Parc du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/fr/decouvertes/tourisme-nature/centre-nature-les-cerlatez
+    titulo: Centre nature Les Cerlatez
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/fr/decouvertes/tourisme-nature/sorties-decouvertes-du-parc-du-doubs
+    titulo: Sorties découvertes du Parc du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubshorloger.fr/offres/patrimoine-culturel/les-echelles-de-la-mort/
+    titulo: Les Échelles de la Mort - Doubs Horloger
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Saut_du_Doubs
+    titulo: Saut du Doubs - Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/fr/engagement/sensibilisation-et-education-a-lenvironnement/protection-du-doubs
+    titulo: Protection du Doubs
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parcdoubs.ch/fr/engagement/nature-et-paysage/renforcement-de-la-fritillaire-pintade
+    titulo: Infrastructures écologiques - Parc du Doubs
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Saut_du_Doubs_-_canyons.jpg
+    autor: Wernain Samuel at French Wikipedia
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

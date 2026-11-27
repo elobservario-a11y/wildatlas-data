@@ -1,0 +1,661 @@
+id: parc-natural-de-la-serra-de
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de la Sierra de Montsant
+  en: Montsant Natural Park
+  fr: Parc naturel de la Sierra de Montsant
+  de: Naturpark Sierra de Montsant
+  it: Parco Naturale della Sierra de Montsant
+  pt: Parque Natural da Serra de Montsant
+nombre_original: Parc Natural de la Serra de Montsant
+paises:
+  - ES
+region:
+  es: Comunidad Autónoma de Cataluña (Provincia de Tarragona / Comarca del Priorat)
+  en: Catalonia (Province of Tarragona / Priorat comarca)
+  fr: Catalogne (Province de Tarragone / Comarque du Priorat)
+  de: Katalonien (Provinz Tarragona / Comarca Priorat)
+  it: Catalogna (Provincia di Tarragona / Comarque del Priorat)
+  pt: Catalunha (Província de Tarragona / Comarca do Priorat)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 41.28
+  lon: 0.88
+  radio_km: 10
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389187
+  nombre_en_la_fuente: Serra del Montsant
+  categoria_uicn: V
+  capa: capas/cdda/parc-natural-de-la-serra-de.geojson
+habitats:
+  - karst
+  - gorge_canyon
+  - mature_forest
+designaciones:
+  - natural_park
+  - iucn_v
+especies:
+  - aquila_fasciata
+  - gyps_fulvus
+  - falco_peregrinus
+  - bubo_bubo
+  - capra_pyrenaica
+temporada_ideal:
+  - 3
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Información oficial del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/inici/
+  - titulo: Mapa — Cartografía del parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/el-parc/mapa-del-parc/
+  - titulo: Rutas — Senderos e itinerarios
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+  - titulo: Centros y equipamientos — Información para la visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/equipaments-i-itineraris/equipaments/
+  - titulo: Normas — Consejos y restricciones de visita
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/consells/
+  - titulo: Accesos — Cómo llegar al parque
+    url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/com-accedir-hi/
+resumen:
+  es: >-
+    Serranía de murallones de conglomerado calizo, gargantas y bosques mediterráneos habitados por águila
+    perdicera y cabra montés.
+  en: >-
+    A range of limestone-conglomerate ramparts, gorges and Mediterranean forest inhabited by Bonelli's eagle
+    and Iberian ibex.
+  fr: >-
+    Massif de remparts de conglomérat calcaire, gorges et forêts méditerranéennes habités par l'aigle de
+    Bonelli et le bouquetin ibérique.
+  de: >-
+    Ein Gebirge aus Kalksteinkonglomerat-Bastionen, Schluchten und mediterranem Wald, Heimat des
+    Habichtsadlers und des Iberischen Steinbocks.
+  it: >-
+    Catena di bastioni di conglomerato calcareo, gole e foreste mediterranee abitate dall'aquila del Bonelli e
+    dalla stambecco iberico.
+  pt: >-
+    Serra de muralhas de conglomerado calcário, desfiladeiros e floresta mediterrânica habitada pela águia de
+    Bonelli e pela cabra-montês ibérica.
+unico:
+  es: >-
+    Una muralla de conglomerado que solo se sube por pasos de roca llamados grados, rodeada de ermitas, piedra
+    seca y rapaces.
+  en: >-
+    A conglomerate wall accessible only via rock passages called grades, surrounded by hermitages, dry stone
+    and raptors.
+  fr: >-
+    Une muraille de conglomérat accessible seulement par des passages de roche appelés grades, entourée
+    d'ermitages, de pierre sèche et de rapaces.
+  de: >-
+    Eine Konglomeratwand, die nur über Felsspalten namens Grades begehbar ist, umgeben von Einsiedeleien,
+    Trockenmauern und Greifvögeln.
+  it: >-
+    Una muraglia di conglomerato accessibile solo attraverso passaggi di roccia chiamati grades, circondata da
+    eremi, pietra a secco e rapaci.
+  pt: >-
+    Uma muralha de conglomerado só acessível por passagens de rocha chamadas grades, rodeada de ermidas, pedra
+    seca e rapinas.
+observaciones:
+  es: >-
+    La escalada está regulada: antes de abrir una vía o de escalar en una zona condicionada, consulta al
+    parque. Casi todo el territorio es propiedad privada, así que respeta cultivos y vecinos.
+texto:
+  es:
+    intro: >-
+      Montsant significa montaña santa, y basta mirarla para entender por qué. Se levanta como un bloque
+      abrupto, con una carena de conglomerado casi sin vegetación, rodeada por once pueblos del Priorat que la
+      hacen parecer una isla de biodiversidad. Los cartujos fundaron a su pie, en 1194, la primera cartuja de
+      la península ibérica, la de Santa Maria d'Escaladei, y las ermitas siguen en pie en enclaves
+      espectaculares del interior. El parque natural, declarado en 2002, protege sus valores geológicos,
+      biológicos, paisajísticos y culturales.
+    landscape: >-
+      La sierra es un cuerpo de conglomerados que forman cingles en la carena principal, la Serra Major, y de
+      margas que dan origen a numerosas balmas y cuevas. La roca es obra de la erosión diferencial: el viento
+      y el agua trabajan sobre materiales calcáreos y otros más blandos intercalados, y la karstificación hace
+      el resto. La roca Corbatera, de 1.163 m, es la cumbre más alta.
+
+
+      Aunque parece inaccesible, la gente descubrió hace tiempo los grados: pasos de desnivel pronunciado, con
+      o sin equipamiento, que permiten superar los riscos y subir a la Serra Major. Desde La Morera de
+      Montsant, donde está la sede del parque, parten varios, de dificultad distinta.
+
+
+      Uno de los rincones más singulares es el desfiladero de Fraguerau, por donde el río Montsant se abre
+      paso entre rocas redondeadas con nombres populares como los Tres Jurados o la Roca Bailadora. Debe su
+      nombre a Fra Guerau, un anacoreta que vivió en una gruta junto a la que se alza la ermita románica de
+      Sant Bartomeu. En el corazón de la sierra hay además una depresión circular kárstica, rodeada de paredes
+      de conglomerado, que suele tener agua todo el año y conserva los abrevaderos que los pastores prepararon
+      para sus rebaños.
+
+
+      La vegetación cambia con la humedad. En las zonas secas dominan las garrigas y los matorrales con pino
+      blanco; en lo alto, en sitios húmedos, aparecen robledales de roble de hoja pequeña. Los riscos tienen
+      vegetación rupícola variada, y a lo largo del río Montsant crece un bosque de ribera con álamos, fresnos
+      y sauces. Los valles del Montsant y del Siurana rodean el macizo y actúan como corredores biológicos.
+    wildlife: >-
+      Montsant es lugar de nidificación y descanso del [águila perdicera](/especie/aquila_fasciata/), el
+      [halcón peregrino](/especie/falco_peregrinus/), el cernícalo vulgar, el [águila
+      real](/especie/aquila_chrysaetos/), el [búho real](/especie/bubo_bubo/), el azor y el búho chico. El
+      parque trabaja con medidas especiales sobre el hábitat del águila perdicera para asegurar su
+      supervivencia. En los riscos anida el [buitre leonado](/especie/gyps_fulvus/), y en los últimos años se
+      ha detectado el [alimoche](/especie/neophron_percnopterus/). Para proteger la cría de estas rapaces, la
+      escalada está regulada: hay zonas libres, zonas condicionadas desde el 15 de julio hasta el 31 de
+      diciembre y zonas prohibidas.
+
+
+      Entre los mamíferos destacan el murciélago de herradura grande, el [gato
+      montés](/especie/felis_silvestris/) y la [nutria](/especie/lutra_lutra/), que ha vuelto en los últimos
+      años y ya ha recolonizado gran parte del río. La [cabra montés](/especie/capra_pyrenaica/) mantiene una
+      población estable de unos 200 ejemplares, según el dato de 2022. Entre los anfibios resaltan la
+      [salamandra](/especie/salamandra_salamandra/) y el [sapo corredor](/especie/bufo_calamita/), y en los
+      rincones más escondidos del río todavía vive el cada vez más escaso cangrejo de río ibérico. El barbo y
+      la madrilla pueblan el agua.
+
+
+      Desde 2005 el parque libera tortugas mediterráneas para repoblar el territorio. Ya vivía en Montsant en
+      el Neolítico, y hasta 2021 se habían liberado 6.289 individuos. La somereta de Montsant, un saltamontes,
+      es un endemismo de Montsant y de la sierra de la Llena.
+
+
+      En invierno y a inicios de primavera florecen muchas especies de las malezas, y el parque recomienda esa
+      época para los itinerarios de flora.
+    visit: >-
+      El itinerario de flora de Albarca empieza junto a la entrada del pueblo, en el desvío de la carretera
+      C-242, y se hace en cuarenta y cinco minutos de marcha. Recorre la zona de tránsito del carrascal
+      soleado hacia el robledal de roble valenciano en las umbrías. Para una jornada larga está el Clot del
+      Cirer, circular de 9 km, con 600 m de desnivel positivo y dificultad moderada. La Ruta de los Cartujanos
+      permite además hacer la Travesía de Montsant y conocer la historia cartujana.
+
+
+      En la zona de Montalts, entre La Vilella Baixa y Cabacés, hay un itinerario circular y apto para todos
+      los públicos que interpreta la piedra seca, con márgenes, refugios, aljibes y trincheras de la Guerra
+      Civil.
+    history: >-
+      La sierra entró en el Plan de Espacios de Interés Natural de Cataluña en 1992, diez años antes de ser
+      parque. Casi toda su superficie, un 93,38 %, es de propiedad privada. En 2018 el parque y doce
+      municipios de su entorno fueron declarados zona tranquila y de cielo nocturno de calidad, y en 2021
+      obtuvo la certificación Starlight. El Tejo de la Cueva, en Margalef, tiene unos 1.200 años y es el tejo
+      de copa mayor medido en Cataluña.
+    before: >-
+      La escalada está regulada: antes de abrir una vía o de escalar en una zona condicionada, consulta al
+      parque. Casi todo el territorio es propiedad privada, así que respeta cultivos y vecinos.
+    around: >-
+      Montsant comparte rapaces y roquedos con lugares lejanos del atlas. El [Parque Nacional de la Sierra de
+      las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/) tiene también águila perdicera, cabra montés y
+      buitre leonado sobre terreno kárstico; en el [Parque Nacional de los Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) coinciden la cabra montés y el buitre leonado, y
+      en la [Reserva Natural de Lo Zingaro](/lugar/riserva-naturale-orientata-dello-zingaro/) viven el águila
+      perdicera y el halcón peregrino sobre roca caliza.
+  en:
+    intro: >-
+      Montsant means holy mountain, and one glance explains why. It rises as an abrupt block, with a nearly
+      bare conglomerate ridge, surrounded by eleven villages of the Priorat that make it look like an island
+      of biodiversity. The Carthusians founded at its foot, in 1194, the first Carthusian monastery of the
+      Iberian Peninsula, Santa Maria d'Escaladei, and hermitages still stand in spectacular enclave sites
+      inside. The natural park, designated in 2002, protects its geological, biological, landscape and
+      cultural values.
+    landscape: >-
+      The sierra is a body of conglomerates that form cingles on the main ridge, the Serra Major, and of marls
+      that give rise to numerous rock shelters and caves. The rock is the work of differential erosion: wind
+      and water act on calcareous materials and softer layers between them, and karstification does the rest.
+      Roca Corbatera, at 1,163 m, is the highest summit.
+
+
+      Although it looks inaccessible, people long ago discovered the grades: passages with steep gradients,
+      with or without fixed equipment, that allow you to overcome the cliffs and reach the Serra Major. From
+      La Morera de Montsant, where the park headquarters is, several start, of different difficulty.
+
+
+      One of the most singular spots is the Fraguerau gorge, where the Montsant river forces its way between
+      rounded rocks with popular names like the Tres Jurados or the Roca Bailadora. Its name comes from Fra
+      Guerau, a hermit who lived in a cave next to which the Romanesque chapel of Sant Bartomeu stands. At the
+      heart of the sierra there is also a circular karstic depression, surrounded by conglomerate walls, that
+      usually holds water all year and preserves the drinking troughs that shepherds prepared for their
+      flocks.
+
+
+      The vegetation changes with moisture. In dry areas garrigues and scrub with Aleppo pine dominate; at the
+      top, in humid spots, stands of downy oak appear. The cliffs have varied rupicoline vegetation, and along
+      the Montsant river a gallery forest of poplars, ashes and willows grows. The valleys of the Montsant and
+      the Siurana surround the massif and act as biological corridors.
+    wildlife: >-
+      [Bonelli's eagle](/especie/aquila_fasciata/), the [peregrine falcon](/especie/falco_peregrinus/), the
+      common kestrel, the [golden eagle](/especie/aquila_chrysaetos/), the [eagle owl](/especie/bubo_bubo/),
+      the goshawk and the long-eared owl nest and rest in Montsant. The park works with special habitat
+      measures for Bonelli's eagle to ensure its survival. On the cliffs the [griffon
+      vulture](/especie/gyps_fulvus/) nests, and in recent years the [Egyptian
+      vulture](/especie/neophron_percnopterus/) has been detected. To protect the breeding of these raptors,
+      climbing is regulated: there are free zones, zones restricted from 15 July to 31 December, and
+      prohibited zones.
+
+
+      Among the mammals stand out the greater horseshoe bat, the [wild cat](/especie/felis_silvestris/) and
+      the [otter](/especie/lutra_lutra/), which has returned in recent years and has already recolonised much
+      of the river. The [Iberian ibex](/especie/capra_pyrenaica/) maintains a stable population of about 200
+      individuals, according to data from 2022. Among the amphibians the [fire
+      salamander](/especie/salamandra_salamandra/) and the [natterjack toad](/especie/bufo_calamita/) stand
+      out, and in the most hidden corners of the river the increasingly scarce Iberian crayfish still lives.
+      The barbel and the Iberian chub inhabit the water.
+
+
+      Since 2005 the park has been releasing Hermann's tortoises to repopulate the territory. It already lived
+      in Montsant in the Neolithic, and by 2021 a total of 6,289 individuals had been released. The Montsant
+      grasshopper is an endemic species of Montsant and the Serra de la Llena.
+
+
+      In winter and early spring many weed species flower, and the park recommends that season for flora
+      routes.
+    visit: >-
+      The Albarca flora route starts beside the village entrance, at the turn-off from the C-242 road, and
+      takes forty-five minutes. It crosses the transition zone from the sunny holm-oak woodland to the
+      Valencian oak woodland in the shaded slopes. For a full day there is the Clot del Cirer, a circular
+      route of 9 km with 600 m of positive elevation gain and moderate difficulty. The Cartujanos Route also
+      allows you to complete the Montsant traverse and learn about the Carthusian history.
+
+
+      In the Montalts area, between La Vilella Baixa and Cabacés, there is a circular route suitable for all
+      abilities that interprets dry stone walls, with terraces, shelters, cisterns and Civil War trenches.
+    history: >-
+      The sierra entered the Plan of Natural Areas of Interest of Catalonia in 1992, ten years before becoming
+      a park. Almost all of its area, 93.38 %, is privately owned. In 2018 the park and twelve surrounding
+      municipalities were declared a quiet and quality night-sky zone, and in 2021 it obtained the Starlight
+      certification. The Tejo de la Cueva in Margalef is about 1,200 years old and is the yew with the widest
+      canopy measured in Catalonia.
+    before: >-
+      Climbing is regulated: before opening a route or climbing in a restricted zone, consult the park. Almost
+      all the territory is private land, so respect crops and neighbours.
+    around: >-
+      Montsant shares raptors and rock faces with distant places in the atlas. [Sierra de las Nieves National
+      Park](/lugar/parque-nacional-sierra-de-las-nieves/) also has Bonelli's eagle, Iberian ibex and griffon
+      vulture on karstic terrain; at [Picos de Europa National
+      Park](/lugar/parque-nacional-de-los-picos-de-europa/) the ibex and griffon vulture coincide, and in [Lo
+      Zingaro Nature Reserve](/lugar/riserva-naturale-orientata-dello-zingaro/) the Bonelli's eagle and
+      peregrine falcon live on limestone cliffs.
+  fr:
+    intro: >-
+      Montsant signifie montagne sainte, et un simple coup d'œil suffit pour comprendre pourquoi. Il se dresse
+      comme un bloc abrupt, avec une arête de conglomérat presque sans végétation, entouré par onze villages
+      du Priorat qui en font une île de biodiversité. Les Chartreux ont fondé à son pied, en 1194, le premier
+      monastère chartreux de la péninsule ibérique, Santa Maria d'Escaladei, et des ermitages subsistent dans
+      des sites enclavés spectaculaires à l'intérieur. Le parc naturel, déclaré en 2002, protège ses valeurs
+      géologiques, biologiques, paysagères et culturelles.
+    landscape: >-
+      La sierra est un massif de conglomérats qui forment des cingles sur la crête principale, la Serra Major,
+      et de marnes qui donnent lieu à de nombreuses balmes et grottes. La roche est l'œuvre de l'érosion
+      différentielle : le vent et l'eau agissent sur des matériaux calcaires et des couches plus tendres
+      intercalées, et la karstification fait le reste. La Roca Corbatera, à 1 163 m, est le sommet le plus
+      élevé.
+
+
+      Bien qu'elle paraisse inaccessible, les habitants ont depuis longtemps découvert les grades : des
+      passages en dénivelé prononcé, avec ou sans équipement fixe, qui permettent de franchir les rochers et
+      de monter à la Serra Major. Depuis La Morera de Montsant, où se trouve le siège du parc, plusieurs
+      démarrent, de difficultés diverses.
+
+
+      L'un des recoins les plus singuliers est la gorge de Fraguerau, où la rivière Montsant se fraie un
+      chemin entre des roches arrondies aux noms populaires comme les Tres Jurados ou la Roca Bailadora. Son
+      nom vient de Fra Guerau, un anachorète qui vivait dans une grotte à côté de laquelle se dresse la
+      chapelle romane de Sant Bartomeu. Au cœur de la sierra il y a aussi une dépression karstique circulaire,
+      entourée de parois de conglomérat, qui garde généralement de l'eau toute l'année et conserve les
+      abreuvoirs que les bergers préparaient pour leurs troupeaux.
+
+
+      La végétation change avec l'humidité. Dans les zones sèches dominent les garrigues et les maquis avec
+      pin d'Alep ; en altitude, dans des endroits humides, apparaissent des chênaies à chêne pubescent. Les
+      rochers ont une végétation rupicole variée, et le long de la rivière Montsant pousse une forêt galerie
+      de peupliers, frênes et saules. Les vallées du Montsant et du Siurana entourent le massif et agissent
+      comme des corridors biologiques.
+    wildlife: >-
+      [L'aigle de Bonelli](/especie/aquila_fasciata/), le [faucon pèlerin](/especie/falco_peregrinus/), le
+      faucon crécerelle, l'[aigle royal](/especie/aquila_chrysaetos/), le [grand-duc
+      d'Europe](/especie/bubo_bubo/), l'autour des palombes et le hibou moyen-duc nichent et se reposent à
+      Montsant. Le parc travaille avec des mesures spéciales sur l'habitat de l'aigle de Bonelli pour assurer
+      sa survie. Sur les rochers niche le [vautour fauve](/especie/gyps_fulvus/), et ces dernières années le
+      [percnoptère d'Égypte](/especie/neophron_percnopterus/) a été détecté. Pour protéger la nidification de
+      ces rapaces, l'escalade est réglementée : il y a des zones libres, des zones conditionnées du 15 juillet
+      au 31 décembre et des zones interdites.
+
+
+      Parmi les mammifères se distinguent le grand rhinolophe, le [chat sauvage](/especie/felis_silvestris/)
+      et la [loutre](/especie/lutra_lutra/), qui est revenue ces dernières années et a déjà recolonisé une
+      grande partie de la rivière. Le [bouquetin ibérique](/especie/capra_pyrenaica/) maintient une population
+      stable d'environ 200 individus, selon les données de 2022. Parmi les amphibiens ressortent la
+      [salamandre tachetée](/especie/salamandra_salamandra/) et le [crapaud
+      calamite](/especie/bufo_calamita/), et dans les recoins les plus cachés de la rivière vit encore
+      l'écrevisse ibérique, de plus en plus rare. Le barbeau et le toxostome peuplent l'eau.
+
+
+      Depuis 2005, le parc libère des tortues d'Hermann pour repeupler le territoire. Elle vivait déjà à
+      Montsant au Néolithique, et jusqu'en 2021 un total de 6 289 individus avaient été libérés. La sauterelle
+      de Montsant est un endémisme de Montsant et de la sierra de la Llena.
+
+
+      En hiver et au début du printemps fleurissent de nombreuses espèces d'adventices, et le parc recommande
+      cette période pour les itinéraires de flore.
+    visit: >-
+      L'itinéraire de flore d'Albarca commence près de l'entrée du village, au détour de la route C-242, et se
+      fait en quarante-cinq minutes. Il traverse la zone de transition du chênaie verte ensoleillée vers la
+      chênaie à chêne de Valence dans les versants ombragés. Pour une longue journée, il y a le Clot del
+      Cirer, circulaire de 9 km, avec 600 m de dénivelé positif et difficulté modérée. La Ruta dels Cartujanos
+      permet aussi de faire la traversée de Montsant et de découvrir l'histoire des Chartreux.
+
+
+      Dans la zone de Montalts, entre La Vilella Baixa et Cabacés, il y a un itinéraire circulaire adapté à
+      tous les publics qui interprète la pierre sèche, avec marges, refuges, citernes et tranchées de la
+      Guerre Civile.
+    history: >-
+      La sierra est entrée dans le Plan des Espaces d'Intérêt Naturel de Catalogne en 1992, dix ans avant de
+      devenir parc. Presque toute sa surface, 93,38 %, est de propriété privée. En 2018 le parc et douze
+      communes de son entourage ont été déclarés zone tranquille et de ciel nocturne de qualité, et en 2021 il
+      a obtenu la certification Starlight. Le Tejo de la Cueva à Margalef a environ 1 200 ans et est l'if à
+      plus grande couronne mesuré en Catalogne.
+    before: >-
+      L'escalade est réglementée : avant d'ouvrir une voie ou d'escalader dans une zone conditionnée,
+      consultez le parc. Presque tout le territoire est propriété privée, donc respectez cultures et voisins.
+    around: >-
+      Montsant partage rapaces et parois rocheuses avec des lieux lointains de l'atlas. Le [Parc National de
+      la Sierra de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/) a aussi l'aigle de Bonelli, le
+      bouquetin ibérique et le vautour fauve sur terrain karstique ; dans le [Parc National des Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) coïncident le bouquetin et le vautour fauve, et
+      dans la [Réserve Naturelle de Lo Zingaro](/lugar/riserva-naturale-orientata-dello-zingaro/) vivent
+      l'aigle de Bonelli et le faucon pèlerin sur roche calcaire.
+  de:
+    intro: >-
+      Montsant bedeutet heiliger Berg, und ein Blick genügt zu verstehen, warum. Er erhebt sich als abrupter
+      Block mit einem fast vegetationsfreien Konglomeratkamm, umgeben von elf Dörfern des Priorat, die ihn wie
+      eine Insel der Biodiversität erscheinen lassen. Die Kartäuser gründeten zu seinen Füßen im Jahr 1194 das
+      erste Kartäuserkloster der Iberischen Halbinsel, Santa Maria d'Escaladei, und Einsiedeleien stehen noch
+      heute an spektakulären Orten im Inneren. Der 2002 ausgewiesene Naturpark schützt seine geologischen,
+      biologischen, landschaftlichen und kulturellen Werte.
+    landscape: >-
+      Die Sierra besteht aus Konglomeraten, die auf dem Hauptkamm, der Serra Major, Cingles bilden, und aus
+      Mergeln, aus denen zahlreiche Felsnischen und Höhlen entstehen. Das Gestein ist das Werk der
+      Differentialerosion: Wind und Wasser wirken auf kalkige Materialien und weichere Zwischenschichten, und
+      die Verkarstung tut das Übrige. Die Roca Corbatera mit 1 163 m ist der höchste Gipfel.
+
+
+      Obwohl sie unzugänglich wirkt, haben die Menschen die Grades schon früh entdeckt: Passagen mit starkem
+      Gefälle, mit oder ohne feste Ausrüstung, die es ermöglichen, die Felsen zu überwinden und zur Serra
+      Major zu gelangen. Von La Morera de Montsant, wo das Parkhauptquartier liegt, starten mehrere, in
+      verschiedenen Schwierigkeitsstufen.
+
+
+      Einer der einzigartigsten Orte ist die Schlucht von Fraguerau, wo sich der Fluss Montsant zwischen
+      gerundeten Felsen mit volkstümlichen Namen wie los Tres Jurados oder die Roca Bailadora einen Weg bahnt.
+      Ihren Namen verdankt sie Fra Guerau, einem Einsiedler, der in einer Höhle lebte, neben der die
+      romanische Kapelle von Sant Bartomeu steht. Im Herzen der Sierra gibt es zudem eine kreisförmige
+      Karstsenke, umgeben von Konglomeratwänden, die in der Regel das ganze Jahr über Wasser hält und die
+      Tränken bewahrt, die Hirten für ihre Herden eingerichtet hatten.
+
+
+      Die Vegetation ändert sich mit der Feuchtigkeit. In trockenen Bereichen dominieren Garriguen und
+      Gestrüpp mit Aleppo-Kiefer; in feuchten Höhenlagen erscheinen Flaumeichenbestände. Die Felsen haben
+      vielfältige Felsspaltenpflanzen, und entlang des Montsant-Flusses wächst ein Auenwald aus Pappeln,
+      Eschen und Weiden. Die Täler des Montsant und des Siurana umgeben das Massiv und wirken als biologische
+      Korridore.
+    wildlife: >-
+      [Habichtsadler](/especie/aquila_fasciata/), [Wanderfalke](/especie/falco_peregrinus/), Turmfalke,
+      [Steinadler](/especie/aquila_chrysaetos/), [Uhu](/especie/bubo_bubo/), Habicht und Waldohreule brüten
+      und rasten in Montsant. Der Park arbeitet mit speziellen Habitatmaßnahmen für den Habichtsadler, um sein
+      Überleben zu sichern. An den Felsen brütet der [Gänsegeier](/especie/gyps_fulvus/), und in den letzten
+      Jahren wurde der [Schmutzgeier](/especie/neophron_percnopterus/) nachgewiesen. Zum Schutz des
+      Brutgeschehens dieser Greifvögel ist das Klettern geregelt: Es gibt freie Zonen, Zonen mit
+      Beschränkungen vom 15. Juli bis 31. Dezember und verbotene Zonen.
+
+
+      Unter den Säugetieren ragen das große Hufeisennasenmaus, die [Wildkatze](/especie/felis_silvestris/) und
+      der [Fischotter](/especie/lutra_lutra/) hervor, der in den letzten Jahren zurückgekehrt ist und bereits
+      weite Teile des Flusses wiederbesiedelt hat. Der [Iberische Steinbock](/especie/capra_pyrenaica/) hält
+      eine stabile Population von etwa 200 Individuen, laut Daten von 2022. Unter den Amphibien stechen der
+      [Feuersalamander](/especie/salamandra_salamandra/) und die [Kreuzkröte](/especie/bufo_calamita/) hervor,
+      und in den verborgensten Winkeln des Flusses lebt noch der immer seltener werdende Iberische Flusskrebs.
+      Die Barbe und der Iberische Karpfen bewohnen das Wasser.
+
+
+      Seit 2005 setzt der Park Griechische Landschildkröten aus, um das Gebiet wieder zu besiedeln. Sie lebte
+      bereits im Neolithikum in Montsant, und bis 2021 wurden insgesamt 6 289 Individuen freigelassen. Die
+      Montsant-Heuschrecke ist ein Endemit von Montsant und der Serra de la Llena.
+
+
+      Im Winter und Anfang Frühling blühen viele Unkrautarten, und der Park empfiehlt diese Jahreszeit für
+      Florenrouten.
+    visit: >-
+      Die Florenroute von Albarca beginnt neben dem Dorfeingang an der Abzweigung der Straße C-242 und dauert
+      fünfundvierzig Minuten. Sie durchquert die Übergangszone vom sonnigen Steineichenwald zum
+      Valencianischen Eichenwald an schattigen Hängen. Für einen langen Tag gibt es den Clot del Cirer, eine
+      Rundroute von 9 km mit 600 m positivem Höhenunterschied und mittlerem Schwierigkeitsgrad. Die Ruta dels
+      Cartujanos ermöglicht zudem die Montsant-Traversierung und einen Einblick in die Kartäusergeschichte.
+
+
+      Im Bereich Montalts, zwischen La Vilella Baixa und Cabacés, gibt es eine Rundroute für alle Zielgruppen,
+      die Trockensteinmauern, Terrassen, Schutzbauten, Zisternen und Schützengräben des Bürgerkriegs
+      erschließt.
+    history: >-
+      Die Sierra wurde 1992 in den Plan der Naturräume von Interesse Kataloniens aufgenommen, zehn Jahre bevor
+      sie Naturpark wurde. Fast die gesamte Fläche, 93,38 %, ist Privateigentum. Im Jahr 2018 wurden der Park
+      und zwölf umliegende Gemeinden als ruhige Zone und qualitätsvoller Nachthimmel ausgewiesen, und 2021
+      erhielt er die Starlight-Zertifizierung. Die Tejo de la Cueva in Margalef ist etwa 1 200 Jahre alt und
+      ist die Eibe mit der größten gemessenen Krone in Katalonien.
+    before: >-
+      Das Klettern ist geregelt: Bevor du eine Route eröffnest oder in einer eingeschränkten Zone kletterst,
+      wende dich an den Park. Fast das gesamte Gebiet ist Privateigentum, also respektiere Kulturen und
+      Nachbarn.
+    around: >-
+      Montsant teilt Greifvögel und Felswände mit fernen Orten im Atlas. Der [Nationalpark Sierra de las
+      Nieves](/lugar/parque-nacional-sierra-de-las-nieves/) hat ebenfalls Habichtsadler, Iberischen Steinbock
+      und Gänsegeier auf Karstterrain; im [Nationalpark Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) treffen Steinbock und Gänsegeier aufeinander,
+      und im [Naturreservat Lo Zingaro](/lugar/riserva-naturale-orientata-dello-zingaro/) leben Habichtsadler
+      und Wanderfalke auf Kalkfels.
+  it:
+    intro: >-
+      Montsant significa montagna santa, e basta uno sguardo per capire perché. Si erge come un blocco aspro,
+      con una cresta di conglomerato quasi priva di vegetazione, circondata da undici villaggi del Priorat che
+      la fanno sembrare un'isola di biodiversità. I Certosini fondarono ai suoi piedi, nel 1194, il primo
+      monastero certosino della penisola iberica, Santa Maria d'Escaladei, e gli eremi sono ancora in piedi in
+      luoghi spettacolari all'interno. Il parco naturale, dichiarato nel 2002, protegge i suoi valori
+      geologici, biologici, paesaggistici e culturali.
+    landscape: >-
+      La sierra è un corpo di conglomerati che formano cingles sulla cresta principale, la Serra Major, e di
+      marne che danno origine a numerose balme e grotte. La roccia è opera dell'erosione differenziale: vento
+      e acqua agiscono su materiali calcarei e strati più morbidi intercalati, e la carsificazione fa il
+      resto. La Roca Corbatera, a 1 163 m, è la cima più alta.
+
+
+      Sebbene sembri inaccessibile, la gente ha scoperto da tempo i grades: passaggi a forte dislivello, con o
+      senza attrezzatura fissa, che permettono di superare i costoni e salire alla Serra Major. Da La Morera
+      de Montsant, dove si trova la sede del parco, ne partono diversi, di difficoltà differente.
+
+
+      Uno degli angoli più singolari è la gola di Fraguerau, dove il fiume Montsant si apre un varco tra rocce
+      arrotondate con nomi popolari come i Tres Jurados o la Roca Bailadora. Il nome deriva da Fra Guerau, un
+      anacoreta che viveva in una grotta accanto alla quale si erge la cappella romanica di Sant Bartomeu. Nel
+      cuore della sierra c'è anche una depressione carsica circolare, circondata da pareti di conglomerato,
+      che di solito ha acqua tutto l'anno e conserva gli abbeveratoi che i pastori preparavano per i loro
+      greggi.
+
+
+      La vegetazione cambia con l'umidità. Nelle zone secche dominano le garrighe e i macchioni con pino
+      d'Aleppo; in alto, in luoghi umidi, compaiono querceti di roverella. Le falesie hanno una vegetazione
+      rupicola variata, e lungo il fiume Montsant cresce una foresta ripariale di pioppi, frassini e salici.
+      Le valli del Montsant e del Siurana circondano il massiccio e fungono da corridoi biologici.
+    wildlife: >-
+      [L'aquila del Bonelli](/especie/aquila_fasciata/), il [falco pellegrino](/especie/falco_peregrinus/), il
+      gheppio, l'[aquila reale](/especie/aquila_chrysaetos/), il [gufo reale](/especie/bubo_bubo/), l'astore e
+      il gufo comune nidificano e si riposano a Montsant. Il parco lavora con misure speciali sull'habitat
+      dell'aquila del Bonelli per garantirne la sopravvivenza. Sulle falesie nidifica il
+      [grifone](/especie/gyps_fulvus/), e negli ultimi anni è stato rilevato il
+      [capovaccaio](/especie/neophron_percnopterus/). Per proteggere la nidificazione di questi rapaci,
+      l'arrampicata è regolamentata: ci sono zone libere, zone vincolate dal 15 luglio al 31 dicembre e zone
+      vietate.
+
+
+      Tra i mammiferi spiccano il ferro di cavallo maggiore, il [gatto selvatico](/especie/felis_silvestris/)
+      e la [lontra](/especie/lutra_lutra/), che è tornata negli ultimi anni e ha già ricolonizzato gran parte
+      del fiume. Lo [stambecco iberico](/especie/capra_pyrenaica/) mantiene una popolazione stabile di circa
+      200 individui, secondo i dati del 2022. Tra gli anfibi spiccano la [salamandra
+      pezzata](/especie/salamandra_salamandra/) e il [rospo smeraldino](/especie/bufo_calamita/), e negli
+      angoli più nascosti del fiume vive ancora il gambero iberico, sempre più raro. Il barbo e l'alborella
+      ibérica abitano le acque.
+
+
+      Dal 2005 il parco rilascia tartarughe di Hermann per ripopolare il territorio. Viveva già a Montsant nel
+      Neolitico, e fino al 2021 erano stati rilasciati in totale 6 289 individui. La cavalletta di Montsant è
+      un endemismo di Montsant e della sierra de la Llena.
+
+
+      In inverno e all'inizio della primavera fioriscono molte specie infestanti, e il parco consiglia quella
+      stagione per gli itinerari floristici.
+    visit: >-
+      L'itinerario floristico di Albarca inizia vicino all'ingresso del paese, al bivio con la strada C-242, e
+      si percorre in quarantacinque minuti. Attraversa la zona di transizione dalla lecceta soleggiata verso
+      la querceto di roverella iberica nei versanti ombrosi. Per una giornata intera c'è il Clot del Cirer,
+      circolare di 9 km, con 600 m di dislivello positivo e difficoltà moderata. La Ruta dels Cartujanos
+      permette inoltre di fare la Traversata di Montsant e di conoscere la storia certosina.
+
+
+      Nella zona di Montalts, tra La Vilella Baixa e Cabacés, c'è un itinerario circolare adatto a tutti che
+      interpreta la pietra a secco, con muretti, rifugi, cisterne e trincee della Guerra Civile.
+    history: >-
+      La sierra è entrata nel Piano degli Spazi di Interesse Naturale della Catalogna nel 1992, dieci anni
+      prima di diventare parco. Quasi tutta la sua superficie, il 93,38 %, è di proprietà privata. Nel 2018 il
+      parco e dodici comuni del suo intorno sono stati dichiarati zona tranquilla e di qualità del cielo
+      notturno, e nel 2021 ha ottenuto la certificazione Starlight. Il Tejo de la Cueva a Margalef ha circa 1
+      200 anni ed è il tasso con la chioma più ampia misurata in Catalogna.
+    before: >-
+      L'arrampicata è regolamentata: prima di aprire una via o arrampicare in una zona vincolata, consulta il
+      parco. Quasi tutto il territorio è proprietà privata, quindi rispetta colture e vicini.
+    around: >-
+      Montsant condivide rapaci e pareti rocciose con luoghi lontani dell'atlas. Il [Parco Nazionale della
+      Sierra de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/) ha anche aquila del Bonelli,
+      stambecco iberico e grifone su terreno carsico; al [Parco Nazionale dei Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) coincidono lo stambecco e il grifone, e nella
+      [Riserva Naturale di Lo Zingaro](/lugar/riserva-naturale-orientata-dello-zingaro/) vivono l'aquila del
+      Bonelli e il falco pellegrino su roccia calcarea.
+  pt:
+    intro: >-
+      Montsant significa montanha santa, e basta um olhar para perceber porquê. Ergue-se como um bloco
+      abrupto, com uma cumeada de conglomerado quase sem vegetação, rodeada por onze aldeias do Priorat que a
+      fazem parecer uma ilha de biodiversidade. Os Cartujos fundaram aos seus pés, em 1194, o primeiro
+      mosteiro cartuxo da Península Ibérica, Santa Maria d'Escaladei, e as ermidas ainda permanecem em
+      enclaves espetaculares no interior. O parque natural, declarado em 2002, protege os seus valores
+      geológicos, biológicos, paisagísticos e culturais.
+    landscape: >-
+      A serra é um corpo de conglomerados que formam cingles na cumeada principal, a Serra Major, e de margas
+      que dão origem a numerosos abrigos e grutas. A rocha é obra da erosão diferencial: o vento e a água
+      atuam sobre materiais calcários e camadas mais moles intercaladas, e a carstificação faz o resto. A Roca
+      Corbatera, a 1 163 m, é o cume mais alto.
+
+
+      Embora pareça inacessível, há muito que as pessoas descobriram os grades: passagens com declive
+      acentuado, com ou sem equipamento fixo, que permitem vencer as falésias e subir à Serra Major. A partir
+      de La Morera de Montsant, onde fica a sede do parque, partem vários, de dificuldade diferente.
+
+
+      Um dos recantos mais singulares é o desfiladeiro de Fraguerau, por onde o rio Montsant se abre caminho
+      entre rochas arredondadas com nomes populares como os Tres Jurados ou a Roca Bailadora. O nome vem de
+      Fra Guerau, um anacoreta que viveu numa gruta ao lado da qual se ergue a ermida românica de Sant
+      Bartomeu. No coração da serra há também uma depressão cársica circular, rodeada de paredes de
+      conglomerado, que costuma ter água todo o ano e conserva os bebedouros que os pastores preparavam para
+      os seus rebanhos.
+
+
+      A vegetação muda com a humidade. Nas zonas secas dominam as garrigues e os matos com pinheiro-de-alepo;
+      no alto, em sítios húmidos, aparecem carvalháis de carvalho-de-folha-pequena. As falésias têm vegetação
+      rupícola variada, e ao longo do rio Montsant cresce uma floresta ripária de choupos, freixos e
+      salgueiros. Os vales do Montsant e do Siurana rodeiam o maciço e funcionam como corredores biológicos.
+    wildlife: >-
+      A [águia de Bonelli](/especie/aquila_fasciata/), o [falcão-peregrino](/especie/falco_peregrinus/), o
+      peneireiro-vulgar, a [águia-real](/especie/aquila_chrysaetos/), o [bufo-real](/especie/bubo_bubo/), o
+      açor e o bufo-pequeno nidificam e descansam em Montsant. O parque trabalha com medidas especiais sobre o
+      habitat da águia de Bonelli para assegurar a sua sobrevivência. Nas falésias nidifica o
+      [grifo](/especie/gyps_fulvus/), e nos últimos anos foi detetado o
+      [britango](/especie/neophron_percnopterus/). Para proteger a nidificação destas rapinas, a escalada está
+      regulamentada: há zonas livres, zonas condicionadas de 15 de julho a 31 de dezembro e zonas proibidas.
+
+
+      Entre os mamíferos destacam-se o morcego-de-ferradura-grande, o [gato-bravo](/especie/felis_silvestris/)
+      e a [lontra](/especie/lutra_lutra/), que regressou nos últimos anos e já recolonizou grande parte do
+      rio. A [cabra-montês ibérica](/especie/capra_pyrenaica/) mantém uma população estável de cerca de 200
+      indivíduos, segundo os dados de 2022. Entre os anfíbios ressaltam a
+      [salamandra-de-fogo](/especie/salamandra_salamandra/) e o [sapo-corredor](/especie/bufo_calamita/), e
+      nos recantos mais escondidos do rio ainda vive o cada vez mais escasso lagostim-ibérico. O barbo e o
+      bordalo habitam a água.
+
+
+      Desde 2005 o parque liberta tartarugas-de-Hermann para repovoar o território. Já vivia em Montsant no
+      Neolítico, e até 2021 tinham sido libertados um total de 6 289 indivíduos. O gafanhoto de Montsant é um
+      endemismo de Montsant e da serra de la Llena.
+
+
+      No inverno e no início da primavera florescem muitas espécies de ervas daninhas, e o parque recomenda
+      essa época para os itinerários de flora.
+    visit: >-
+      O itinerário de flora de Albarca começa junto à entrada da aldeia, no desvio da estrada C-242, e faz-se
+      em quarenta e cinco minutos. Percorre a zona de transição do carrascal soalheiro para o carvalhal de
+      carvalho-de-valência nas encostas sombrias. Para uma jornada longa há o Clot del Cirer, circular de 9
+      km, com 600 m de desnível positivo e dificuldade moderada. A Ruta dels Cartujanos permite ainda fazer a
+      Travessia de Montsant e conhecer a história cartuxana.
+
+
+      Na zona de Montalts, entre La Vilella Baixa e Cabacés, há um itinerário circular e apto para todos os
+      públicos que interpreta a pedra seca, com margens, abrigos, cisternas e trincheiras da Guerra Civil.
+    history: >-
+      A serra entrou no Plano de Espaços de Interesse Natural da Catalunha em 1992, dez anos antes de se
+      tornar parque. Quase toda a sua superfície, 93,38 %, é de propriedade privada. Em 2018 o parque e doze
+      municípios da sua envolvente foram declarados zona tranquila e de céu noturno de qualidade, e em 2021
+      obteve a certificação Starlight. O Tejo de la Cueva, em Margalef, tem cerca de 1 200 anos e é o teixo de
+      copa maior medido na Catalunha.
+    before: >-
+      A escalada está regulamentada: antes de abrir uma via ou escalar numa zona condicionada, consulta o
+      parque. Quase todo o território é propriedade privada, por isso respeita as culturas e os vizinhos.
+    around: >-
+      Montsant partilha rapinas e paredões rochosos com lugares distantes do atlas. O [Parque Nacional da
+      Serra de las Nieves](/lugar/parque-nacional-sierra-de-las-nieves/) tem também águia de Bonelli,
+      cabra-montês ibérica e grifo em terreno cársico; no [Parque Nacional dos Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) coincidem a cabra-montês e o grifo, e na
+      [Reserva Natural de Lo Zingaro](/lugar/riserva-naturale-orientata-dello-zingaro/) vivem a águia de
+      Bonelli e o falcão-peregrino em rocha calcária.
+fuentes:
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/el-parc/patrimoni-natural-i-cultural/fauna/
+    titulo: Fauna — Parc Natural de la Serra de Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/equipaments-i-itineraris/itineraris/itineraris-de-flora/
+    titulo: Itinerarios de flora — Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
+    titulo: Itinerarios — Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/el-parc/historia-de-proteccio/
+    titulo: Historia de la protección — Parque Natural de la Serra de Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/el-parc/dades-dinteres/
+    titulo: Datos de interés — Parque Natural de la Serra de Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/serra-montsant/el-parc/top-10-del-parc/
+    titulo: Top 10 del parque — Parque Natural de la Serra de Montsant
+    fecha_consulta: '2026-10-29'
+  - url: https://ca.wikipedia.org/wiki/Serra_de_Montsant
+    titulo: Serra de Montsant – Viquipèdia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parque_Natural_de_la_Sierra_de_Montsant_(Tarragona,_Espa%C3%B1a).jpg
+    autor: Juan Emilio Prades Bel
+    licencia: CC BY 4.0
+    url_licencia: https://creativecommons.org/licenses/by/4.0
+    fecha_descarga: '2026-10-17'

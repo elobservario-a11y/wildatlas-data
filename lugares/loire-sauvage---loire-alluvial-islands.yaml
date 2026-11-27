@@ -1,0 +1,560 @@
+id: loire-sauvage---loire-alluvial-islands
+estado_editorial: valoracion-revisada
+nombre:
+  es: Loira Salvaje e Islas Aluviales del Loira
+  en: Wild Loire and Alluvial Loire Islands
+  fr: Loire sauvage et îles alluviales de la Loire
+  de: Wilde Loire und Loire-Aueninseln
+  it: Loira Selvaggia e Isole Alluvionali della Loira
+  pt: Loire Selvagem e Ilhas Aluviais do Loire
+nombre_original: Loire Sauvage & Loire Alluvial Islands
+alias:
+  - Loire Sauvage & Loire Alluvial Islands
+paises:
+  - FR
+region:
+  es: Borgoña-Franco Condado / Centro-Val de Loira (Nevers / Cosne)
+  en: Burgundy-Franche-Comté / Centre-Val de Loire (Nevers / Cosne)
+  fr: Bourgogne-Franche-Comté / Centre-Val de Loire (Nevers / Cosne)
+  de: Bourgogne-Franche-Comté / Centre-Val de Loire (Nevers / Cosne)
+  it: Borgogna-Franca Contea / Centro-Valle della Loira (Nevers / Cosne)
+  pt: Borgonha-Franco-Condado / Centro-Vale do Loire (Nevers / Cosne)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.18
+  lon: 3.02
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 106726
+  nombre_en_la_fuente: Val De Loire
+  categoria_uicn: IV
+  capa: capas/cdda/loire-sauvage---loire-alluvial-islands.geojson
+habitats:
+  - river_corridor
+  - wetland
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - sternula_albifrons
+  - castor_fiber
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 2
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Réserve Naturelle Val de Loire
+    url: https://www.reserves-naturelles.org/val-de-loire
+  - titulo: Gestores y visita — Reserva del Val de Loire
+    url: https://www.cen-bourgogne.fr/les-sites/reserves-naturelles/val-de-loire/
+  - titulo: Normas — Regulación de la reserva del Val de Loire
+    url: https://www.cen-bourgogne.fr/wp-content/uploads/2023/05/rappel_reglementationrnnvl.pdf
+  - titulo: Rutas y mapa — Senderos del medio Loira
+    url: https://www.cen-bourgogne.fr/wp-content/uploads/2023/05/sentiers_milieu_loire_2020-1.pdf
+resumen:
+  es: >-
+    El río de llanura más largo y salvaje de Francia con barras de arena dinámicas e islas de vegetación
+    espontánea.
+  en: >-
+    The longest and wildest lowland river in France, featuring dynamic sandbars and islands of spontaneous
+    riparian vegetation.
+  fr: >-
+    Le plus long et sauvage fleuve de plaine de France, ponctué de bancs de sable dynamiques et d'îles à la
+    végétation spontanée.
+  de: >-
+    Frankreichs längster und wildester Tieflandfluss mit dynamischen Sandbänken und Inseln mit unberührter
+    Auenvegetation.
+  it: >-
+    Il fiume di pianura più lungo e selvaggio di Francia, con banchi di sabbia dinamici e isole dalla
+    vegetazione spontanea.
+  pt: >-
+    O rio de planície mais longo e selvagem de França, pontuado por bancos de areia dinâmicos e ilhas de
+    vegetação espontânea.
+unico:
+  es: >-
+    Aquí el río sigue mandando: crece, baja, se desvía y rehace sus islas, y cada una de esas fases tiene sus
+    propios animales.
+  en: >-
+    Here the river still reigns: it rises, falls, meanders and reshapes its islands, with each shifting phase
+    supporting its own wildlife.
+  fr: >-
+    Ici, le fleuve est resté maître : il monte, baisse, dérive et recrée ses îles, chaque phase abritant son
+    cortège faunistique propre.
+  de: >-
+    Hier hat der Fluss noch das Sagen: Er schwillt an, fällt ab, mäandriert und formt seine Inseln neu, und
+    jede dieser Phasen besitzt ihre eigene Tierwelt.
+  it: >-
+    Qui il fiume detta ancora legge: sale, scende, devia e rimodella le sue isole, e ciascuna di queste fasi
+    ospita una fauna caratteristica.
+  pt: >-
+    Aqui o rio continua soberano: sobe, desce, desvia-se e refaz as suas ilhas, albergando cada uma dessas
+    fases uma fauna própria.
+observaciones:
+  es: >-
+    La circulación a pie, a caballo o en bici es libre, pero no se admiten vehículos de motor fuera de las
+    vías abiertas, ni fuegos, residuos ni vivacs. Los perros están prohibidos, y el acceso a algunas playas de
+    grava se cierra parte del año para que aniden los charranes. La temporada recomendada va de mayo a
+    septiembre.
+texto:
+  es:
+    intro: >-
+      Un río con brazos, islas y bancos de arena que nunca se están quietos. La Loira se reconoce como uno de
+      los últimos ríos salvajes de Europa, y en la Reserva Natural Nacional del Valle del Loira, en pleno
+      medio de su recorrido, se ve por qué: 19 km de curso, 1.454 hectáreas de río, islas y orillas, entre la
+      Nièvre y el Cher, donde el agua multiplica brazos secundarios con bancos de arena móviles. Es el tramo
+      más representativo de la Loira media, esos 450 km que van de Nevers a Angers.
+    landscape: >-
+      La reserva se explica por el agua. Los aportes de sedimentos del río le dan al lecho su estructura
+      trenzada, y las islas, las playas de grava y los canales se crean y se rehacen sin cesar. A mitad de
+      camino entre la fuente y el Atlántico —en Pouilly, la Loira está exactamente a mitad de su largo
+      recorrido—, el resultado es un mosaico: brazos de agua, bancos de arena, islas arboladas, brazos
+      muertos, charcas, marismas, bosque aluvial, pastos secos y matorrales, todos modelados por las crecidas
+      y los estiajes. En total son una veintena de hábitats distintos.
+
+
+      Cada franja tiene su vegetación. En las playas de grava las condiciones son extremas: están bajo el agua
+      gran parte del año y en verano la temperatura llega a 50 °C; allí crece la pulicaria vulgar. Más arriba
+      aparece el bosque aluvial, con sauces blancos y álamos negros en las zonas bajas y, a más altura,
+      fresnos, olmos y robles, con sauces arbustivos que aquí llaman «verdiaux».
+    wildlife: >-
+      Todo gira alrededor de los charranes. En primavera los charranes común y enano vuelven de África y crían
+      en los bancos de arena; el [charrán enano](/especie/sternula_albifrons/) y el común ponen sus huevos
+      directamente en el suelo, donde se confunden con la grava, junto al chorlitejo chico y el alcaraván
+      común. Por eso el acceso a algunas playas se cierra parte del año.
+
+
+      Más abajo, en la orilla, el [martín pescador](/especie/alcedo_atthis/), el avión zapador y el abejaruco
+      europeo excavan sus nidos en los taludes erosionados. En total se han visto más de 220 especies de aves,
+      casi un centenar nidificantes. El brazo principal es además un corredor migratorio para el [salmón
+      atlántico](/especie/salmo_salar/), la [anguila](/especie/anguilla_anguilla/), el sábalo y la lamprea
+      marina.
+
+
+      En los brazos secundarios, las «boires», el agua es más lenta, más somera y más cálida. Allí vive el
+      [castor europeo](/especie/castor_fiber/), que derriba los sauces y álamos del talud para comer sus ramas
+      jóvenes o tapar la entrada de su madriguera, junto a insectos y anfibios como el [sapo
+      corredor](/especie/bufo_calamita/). La reserva cuenta 43 especies de peces, 12 de reptiles, 11 de
+      anfibios, 42 de libélulas y caballitos del diablo y 380 de mariposas.
+    visit: >-
+      La reserva tiene tres senderos. Los senderos del medio Loira parten del Pavillon du milieu de Loire, en
+      el 17 quai Jules Pabiot, en Pouilly-sur-Loire, y el «sendero de la isla» visita un lugar en evolución
+      permanente. Los otros dos salen de La Charité-sur-Loire y de las Saulières, en Herry. Los tres tienen
+      folleto propio, y hay visitas guiadas organizadas por la reserva y por el Pavillon.
+
+
+      Si prefieres el agua, el gestor ofrece fichas descargables para descubrir la reserva en canoa, y una
+      exposición muestra la diversidad de los medios de la reserva, que se puede prestar para actos públicos o
+      animaciones escolares. Los bordes del Loira, además, tienen numerosos caminos peatonales que dan acceso
+      a la reserva.
+    history: >-
+      La reserva se creó por decreto ministerial el 21 de noviembre de 1995, porque el interés del tramo,
+      paisajístico y ecológico, es conocido desde hace tiempo y la dinámica fluvial sigue muy activa. Hoy la
+      gestionan dos conservatorios, el de Borgoña y el de Centre-Val de Loire. Un comité con representantes
+      locales, administraciones, usuarios y científicos participa en elegir las acciones.
+
+
+      Unas 130 especies están más o menos amenazadas, y la reserva tiene una responsabilidad fuerte con 48 de
+      ellas. Desde finales de 2014, los conservatorios y Past’horizons coordinan un pastoreo itinerante en
+      pastizales y praderas ribereñas. El 72 % de los terrenos es del Estado, el 3 % de los municipios y el 25
+      % de propietarios privados.
+    before: >-
+      La circulación a pie, a caballo o en bici es libre, pero no se admiten vehículos de motor fuera de las
+      vías abiertas, ni fuegos, residuos ni vivacs. Los perros están prohibidos, y el acceso a algunas playas
+      de grava se cierra parte del año para que aniden los charranes. La temporada recomendada va de mayo a
+      septiembre.
+    around: >-
+      El [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) comparte con el valle
+      del Loira el charrán enano y el castor europeo, y es otro corredor fluvial y de humedales.
+  en:
+    intro: >-
+      A river of braided channels, ephemeral islands and gravel bars that never stand still. The Loire is
+      celebrated as one of Europe's last wild rivers, and the Val de Loire National Nature Reserve, at the
+      exact midpoint of its course, demonstrates why: 19 km of riverway, 1,454 hectares of active channel,
+      gravel islands and riparian shores between Nièvre and Cher, where the current constantly carves side
+      branches and shifting gravel bars. It represents the quintessential stretch of the middle Loire, the 450
+      km flowing between Nevers and Angers.
+    landscape: >-
+      The reserve is sculpted entirely by fluvial dynamics. Continuous sediment transport lends the riverbed
+      its braided morphology, with islands, shingle beaches and secondary channels continually created and
+      rebuilt. Midway between headwaters and the Atlantic Ocean—at Pouilly, the Loire reaches the exact
+      halfway point of its long journey—the result is an intricate mosaic: open channels, sand spits, wooded
+      islands, oxbows, seasonal pools, marshlands, gallery woodland, dry alluvial grasslands and scrub, all
+      shaped by flood surges and summer low water. In all, some twenty distinct habitat types are present.
+
+
+      Each river zone develops its own flora. On open shingle bars conditions are extreme: submerged for much
+      of the year, surface temperatures soar to 50 °C in midsummer, providing habitat for common fleabane.
+      Higher on the banks alluvial woodland takes hold, with white willows and black poplars along the lower
+      shoreline and, further up, ash, elm and pedunculate oak, interspersed with bushy shrub willows known
+      locally as 'verdiaux'.
+    wildlife: >-
+      Life revolves around the river terns. In spring, common terns and little terns return from African
+      wintering grounds to breed on gravel islands; the [Little tern](/especie/sternula_albifrons/) and common
+      tern lay eggs directly on the shingle, seamlessly camouflaged against pebbles alongside little ringed
+      plovers and Eurasian stone-curlews. For this reason access to key sandbars is closed during the nesting
+      season.
+
+
+      Along eroded riverbanks, the [Common kingfisher](/especie/alcedo_atthis/), sand martin and European
+      bee-eater excavate nesting burrows in soft sandy bluffs. In total over 220 bird species have been
+      recorded, nearly a hundred of them breeding locally. The main channel functions as a vital migratory
+      corridor for the [Atlantic salmon](/especie/salmo_salar/), the [European
+      eel](/especie/anguilla_anguilla/), allis shad and sea lamprey.
+
+
+      In quiet side arms known locally as 'boires', the current slows, warming in shallower water. Here lives
+      the [Eurasian beaver](/especie/castor_fiber/), felling willows and poplars to feed on tender bark and
+      block lodge entrances, alongside diverse aquatic insects and amphibians like the [natterjack
+      toad](/especie/bufo_calamita/). The reserve records 43 fish species, 12 reptiles, 11 amphibians, 42
+      dragonflies and damselflies, and 380 butterflies.
+    visit: >-
+      The reserve offers three discovery trails. The middle Loire paths start from the Pavillon du milieu de
+      Loire, located at 17 quai Jules Pabiot in Pouilly-sur-Loire, featuring an island trail that explores a
+      river system in constant evolution. The other two trails set out from La Charité-sur-Loire and Les
+      Saulières in Herry. All three offer interpretive booklets, with guided nature walks arranged by the
+      reserve and the Pavillon.
+
+
+      If you prefer the water, management provides downloadable guide sheets for exploring the reserve by
+      canoe, while a traveling exhibition showcases river biodiversity for public events and school outreach.
+      In addition, numerous public footpaths along the Loire banks offer convenient walking access to the
+      reserve.
+    history: >-
+      The reserve was established by ministerial decree on 21 November 1995, recognizing the long-standing
+      ecological and landscape value of this stretch where active fluvial dynamics remain untamed. Today it is
+      co-managed by two regional conservancies, the Conservatoire d'espaces naturels de Bourgogne and that of
+      Centre-Val de Loire. A management committee of local elected officials, authorities, river users and
+      scientists guides strategic action.
+
+
+      Some 130 species present are categorized as threatened to varying degrees, with the reserve bearing
+      strong conservation responsibility for 48 of them. Since late 2014, the conservancies and Past'horizons
+      have coordinated seasonal targeted sheep grazing across riparian meadows. Land ownership is divided
+      between 72 % State-owned public river domain, 3 % municipal land and 25 % private plots.
+    before: >-
+      Walking, horse riding and cycling are welcome on public ways, but motorized vehicles are strictly banned
+      off open public roads, alongside camping, fires and waste dumping. Dogs are prohibited, and access to
+      key gravel islands is restricted seasonally to safeguard nesting terns. The recommended visiting season
+      runs from May to September.
+    around: >-
+      The [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) shares with the Loire
+      valley the little tern and Eurasian beaver, forming another vital braided river and wetland corridor.
+  fr:
+    intro: >-
+      Un fleuve aux bras multiples, aux îles éphémères et aux bancs de sable en perpétuel mouvement. La Loire
+      est célébrée comme l'un des derniers fleuves sauvages d'Europe, et la Réserve naturelle nationale du Val
+      de Loire, au cœur exact de son cours, montre pourquoi : 19 km de fleuve, 1 454 hectares d'eaux vives,
+      d'îles et de grèves entre la Nièvre et le Cher, où le courant multiplie les bras secondaires aux bancs
+      de graviers mobiles. C'est le secteur le plus représentatif de la Loire moyenne, ces 450 km reliant
+      Nevers à Angers.
+    landscape: >-
+      La réserve s'explique entièrement par la dynamique fluviale. Les apports d'alluvions confèrent au lit
+      son tracé en tresse, où îles, bancs de galets et chenaux secondaires se créent et se défont sans
+      relâche. À mi-chemin entre la source et l'Atlantique — à Pouilly, la Loire atteint précisément le milieu
+      de son long périple —, le paysage forme une mosaïque : bras vifs, pointes sableuses, îles boisées, bras
+      morts (« boires »), mares, prairies alluviales et fourrés façonnés par les crues et les étiages.
+      L'ensemble réunit une vingtaine d'habitats distincts.
+
+
+      Chaque niveau topographique possède sa végétation. Sur les grèves de galets, les conditions sont
+      extrêmes : submergées une grande partie de l'année, elles atteignent 50 °C en plein été ; y pousse
+      notamment la pulicaire vulgaire. Plus haut s'établit la forêt alluviale, avec saules blancs et peupliers
+      noirs sur les rives basses, relayés en hauteur par frênes, ormes et chênes, entremêlés de saules
+      buissonnants que l'on nomme ici « verdiaux ».
+    wildlife: >-
+      Tout s'organise autour des sternes. Au printemps, sternes pierregarins et naines reviennent d'Afrique
+      pour se reproduire sur les bancs de sable ; la [Sterne naine](/especie/sternula_albifrons/) et la
+      pierregarin pondent leurs œufs à même les graviers où ils se confondent avec les galets, côtoyant le
+      petit gravelot et l'œdicnème criard. C'est pourquoi l'accès à certaines grèves est interdit pendant la
+      nidification.
+
+
+      Sur les berges abruptes, le [Martin-pêcheur d'Europe](/especie/alcedo_atthis/), l'hirondelle de rivage
+      et le guêpier d'Europe creusent leurs terriers dans les talus meubles. Au total, plus de 220 espèces
+      d'oiseaux ont été recensées, dont près d'une centaine nicheuses. Le chenal vif constitue en outre un
+      couloir migratoire vital pour le [Saumon atlantique](/especie/salmo_salar/), l'[Anguille
+      d'Europe](/especie/anguilla_anguilla/), la grande alose et la lamproie marine.
+
+
+      Dans les boires aux eaux plus lentes et tièdes vit le [Castor d'Europe](/especie/castor_fiber/), qui
+      abat saules et peupliers pour consommer les jeunes écorces ou aménager ses huttes, aux côtés
+      d'amphibiens tels que le [Crapaud calamite](/especie/bufo_calamita/). La réserve dénombre 43 espèces de
+      poissons, 12 de reptiles, 11 d'amphibiens, 42 d'odonates et 380 de papillons.
+    visit: >-
+      La réserve compte trois sentiers balisés. Les sentiers du milieu de Loire débutent au Pavillon du milieu
+      de Loire, au 17 quai Jules Pabiot à Pouilly-sur-Loire, dont le « sentier de l'île » parcourt un milieu
+      en constante métamorphose. Les deux autres partent de La Charité-sur-Loire et des Saulières à Herry.
+      Chacun dispose d'un livret pédagogique, et des sorties accompagnées sont proposées par la réserve et le
+      Pavillon.
+
+
+      Si vous privilégiez la voie d'eau, des fiches de découverte en canoë sont disponibles, tandis qu'une
+      exposition itinérante présente les milieux naturels ligériens. De nombreux chemins de rive offrent par
+      ailleurs d'agréables accès pédestres.
+    history: >-
+      La réserve a été instituée par décret ministériel le 21 novembre 1995, consacrant la valeur patrimoniale
+      et écologique de ce tronçon à la dynamique alluviale intacte. Elle est aujourd'hui cogérée par le
+      Conservatoire d'espaces naturels de Bourgogne et celui de Centre-Val de Loire, assistés d'un comité
+      consultatif réunissant élus, usagers et scientifiques.
+
+
+      Quelque 130 espèces recensées sont menacées à des degrés divers, la réserve portant une forte
+      responsabilité pour 48 d'entre elles. Depuis fin 2014, les conservatoires et Past'horizons coordonnent
+      un pâturage ovin itinérant sur les pelouses sèches. Le foncier se partage entre 72 % appartenant à
+      l'État (domaine public fluvial), 3 % aux communes et 25 % à des propriétaires privés.
+    before: >-
+      La promenade à pied, à cheval et à vélo est libre sur les chemins ouverts, mais tout véhicule à moteur
+      est interdit en dehors des voies carrossables, tout comme le bivouac et les feux. Les chiens sont
+      formellement interdits et l'accès à certaines grèves est restreint pour préserver les sternes. Période
+      conseillée : de mai à septembre.
+    around: >-
+      La [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) partage avec la Loire
+      la sterne naine et le castor d'Europe, constituant un autre remarquable corridor fluvial et
+      alluvionnaire.
+  de:
+    intro: >-
+      Ein Fluss mit verzweigten Flussarmen, Sandbänken und Inseln, die nie stillstehen. Die Loire gilt als
+      einer der letzten wilden Ströme Europas, und das Nationale Naturschutzgebiet Val de Loire auf halber
+      Strecke ihres Laufs verdeutlicht warum: 19 km Flusslauf, 1.454 Hektar Flussbett, Inseln und Ufersäume
+      zwischen Nièvre und Cher, wo das Wasser ständig neue Nebenarme und wandernde Kiesbänke modelliert. Es
+      ist der repräsentativste Abschnitt der mittleren Loire auf jenen 450 km zwischen Nevers und Angers.
+    landscape: >-
+      Das Reservat wird vollkommen von der Flussdynamik bestimmt. Der stetige Geschiebetransport verleiht dem
+      Flussbett sein verzweigtes Gepräge, wobei Inseln, Kiesbänke und Seitenarme unablässig entstehen und
+      vergehen. Auf halbem Weg zwischen Quelle und Atlantik — bei Pouilly erreicht die Loire die exakte Mitte
+      ihrer langen Reise — entsteht ein vielfältiges Mosaik: Hauptstrom, Sandbänke, Auenwälder, Altarme,
+      Tümpel, Röhrichte und Trockenrasen, geprägt vom Wechsel zwischen Hochwasser und sommerlichem
+      Niedrigwasser. Insgesamt treten rund zwanzig verschiedene Lebensraumtypen auf.
+
+
+      Jede Höhenstufe im Flussbett besitzt ihre eigene Vegetation. Auf den Kiesbänken herrschen extreme
+      Bedingungen: Weite Teile des Jahres überflutet, erwärmt sich die Oberfläche im Hochsommer auf bis zu 50
+      °C; hier wächst das Kleine Flohkraut. Weiter landeinwärts folgt der Auenwald mit Silber-Weiden und
+      Schwarz-Pappeln an den tieferen Ufern und Eschen, Ulmen sowie Eichen auf höheren Terrassen, durchsetzt
+      von Weidengebüschen, die hier „verdiaux“ genannt werden.
+    wildlife: >-
+      Alles dreht sich um die Seeschwalben. Im Frühjahr kehren Fluss- und Zwergseeschwalben aus Afrika zurück,
+      um auf den offenen Kiesbänken zu brüten; die [Zwergseeschwalbe](/especie/sternula_albifrons/) und die
+      Flussseeschwalbe legen ihre Eier direkt auf den Kies, wo sie perfekt getarnt neben Flussregenpfeifer und
+      Triel liegen. Daher sind manche Sandbänke während der Brutzeit gesperrt.
+
+
+      An den steilen Abbruchkanten graben [Eisvogel](/especie/alcedo_atthis/), Uferschwalbe und Bienenfresser
+      ihre Brutröhren in den weichen Sand. Insgesamt wurden über 220 Vogelarten nachgewiesen, von denen fast
+      hundert im Gebiet brüten. Der Hauptstrom dient zudem als Wanderkorridor für den [Atlantischer
+      Lachs](/especie/salmo_salar/), den [Europäischer Aal](/especie/anguilla_anguilla/), Maifisch und
+      Meerneunauge.
+
+
+      In den ruhigeren Altarmen, den sogenannten „boires“, fließt das Wasser langsamer und erwärmt sich
+      rascher. Dort lebt der [Europäischer Biber](/especie/castor_fiber/), der Weiden und Pappeln fällt, um
+      Knospen zu fressen oder seine Biberburgen abzudichten, neben Amphibien wie der
+      [Kreuzkröte](/especie/bufo_calamita/). Das Reservat zählt 43 Fischarten, 12 Reptilien, 11 Amphibien, 42
+      Libellenarten und 380 Schmetterlingsarten.
+    visit: >-
+      Das Schutzgebiet bietet drei markierte Lehrpfade. Die Rundwege starten am Pavillon du milieu de Loire am
+      17 quai Jules Pabiot in Pouilly-sur-Loire; der „Inselpfad“ führt durch einen sich stetig wandelnden
+      Auenbereich. Die beiden anderen Wege beginnen in La Charité-sur-Loire und Les Saulières bei Herry. Für
+      alle Pfade gibt es Begleitbroschüren, zudem werden geführte Exkursionen angeboten.
+
+
+      Wer das Wasser bevorzugt, kann das Reservat mit dem Kanu anhand von Begleitblättern erkunden. Eine
+      Wanderausstellung veranschaulicht zudem die Lebensräume der Loire. Entlang der Ufer laden zahlreiche
+      Fußwege zu Entdeckungen ein.
+    history: >-
+      Das Reservat wurde am 21. November 1995 per Ministerialerlass eingerichtet, um diesen ökologisch
+      wertvollen Flussabschnitt mit aktiver Flussdynamik dauerhaft zu sichern. Heute wird es gemeinsam von den
+      Naturschutzverbänden der Regionen Bourgogne und Centre-Val de Loire betreut, beraten von einem Beirat
+      aus Kommunen, Nutzern und Wissenschaftlern.
+
+
+      Rund 130 Arten gelten als gefährdet, für 48 von ihnen trägt das Reservat besondere Verantwortung. Seit
+      Ende 2014 koordinieren die Schutzverbände eine Wanderbeweidung der Uferrasen mit Schafen. Die Flächen
+      verteilen sich auf 72 % Staatsbesitz (öffentliche Flussdomäne), 3 % Gemeindeeigentum und 25 %
+      Privatbesitz.
+    before: >-
+      Wandern, Reiten und Radfahren sind auf den freigegebenen Wegen gestattet, Kraftfahrzeuge abseits
+      öffentlicher Straßen jedoch untersagt, ebenso Biwakieren und Feuer. Hunde sind im Reservat verboten, und
+      sensible Kiesinseln werden zur Brutzeit gesperrt. Empfohlene Besuchsmonate: Mai bis September.
+    around: >-
+      Das [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) teilt mit dem Loiretal
+      Zwergseeschwalbe und Biber und stellt einen weiteren unverzichtbaren naturnahen Flusskorridor dar.
+  it:
+    intro: >-
+      Un fiume ad anse molteplici, isole effimere e banchi ghiaiosi in continuo mutamento. La Loira è
+      celebrata come uno degli ultimi corsi d'acqua selvaggi d'Europa, e la Riserva Naturale Nazionale della
+      Val de Loire, collocata esattamente a metà del suo corso, ne svela il motivo: 19 km di asta fluviale,
+      1.454 ettari di acque correnti, isolotti e greti tra la Nièvre e il Cher, dove la corrente moltiplica
+      rami secondari e barre di ghiaia mobili. È il settore più rappresentativo della media Loira, quei 450 km
+      che uniscono Nevers ad Angers.
+    landscape: >-
+      La riserva si comprende unicamente attraverso la dinamica fluviale. Il continuo trasporto di sedimenti
+      conferisce all'alveo un disegno a canali intrecciati, dove isole, spiagge ciottolose e lanche si creano
+      e si dissolvono incessantemente. A metà strada tra la sorgente e l'Atlantico — a Pouilly la Loira tocca
+      la metà esatta del suo lungo viaggio —, il paesaggio compone un mosaico: bracci vivi, lingue di sabbia,
+      isole boscose, meandri abbandonati («boires»), stagni, boschi golenali e praterie aride modellati dalle
+      piene e dalle magre. In totale si contano una ventina di habitat distinti.
+
+
+      Ogni gradiente altitudinale ospita una vegetazione specifica. Sulle ghiaie d'alveo le condizioni sono
+      estreme: sommerse per gran parte dell'anno, raggiungono i 50 °C in piena estate; vi attecchisce la
+      calcatreppola comune. Più in alto prospera la foresta alluvionale, con salici bianchi e pioppi neri
+      lungo le sponde basse e, sui terrazzi superiori, frassini, olmi e farnie, frammisti a salici cespugliosi
+      noti localmente come «verdiaux».
+    wildlife: >-
+      Tutto ruota attorno alle sterne. In primavera, la sterna comune e il fraticello rientrano dall'Africa
+      per riprodursi sulle isole di ghiaia; il [Fraticello](/especie/sternula_albifrons/) e la sterna
+      depongono le uova direttamente tra i ciottoli dove si mimetizzano perfettamente, affiancati dal corriere
+      piccolo e dall'occhione. Per questo motivo l'accesso a diversi isolotti viene interdetto nel periodo
+      riproduttivo.
+
+
+      Lungo i terrazzi golenali erosi, il [Martin pescatore](/especie/alcedo_atthis/), il topino e il
+      gruccione scavano i loro nidi nelle pareti sabbiose. Nel complesso sono state censite oltre 220 specie
+      di uccelli, quasi un centinaio nidificanti. Il canale principale funge inoltre da corridoio migratorio
+      essenziale per il [salmone atlantico](/especie/salmo_salar/), l'[Anguilla](/especie/anguilla_anguilla/),
+      la cheppia e la lampreda di mare.
+
+
+      Nelle lanche laterali, dove la corrente rallenta e l'acqua è più calda, vive il [castoro
+      europeo](/especie/castor_fiber/), che abbatte salici e pioppi per nutrirsi di rami teneri e consolidare
+      le tane, accanto ad anfibi quali il [rospo calamita](/especie/bufo_calamita/). La riserva annovera 43
+      specie ittiche, 12 di rettili, 11 di anfibi, 42 di libellule e 380 di farfalle.
+    visit: >-
+      La riserva dispone di tre sentieri didattici. Gli itinerari del medio corso partono dal Pavillon du
+      milieu de Loire, al 17 quai Jules Pabiot a Pouilly-sur-Loire; il «sentiero dell'isola» attraversa un
+      ambiente in continua trasformazione. Gli altri due sentieri prendono avvio da La Charité-sur-Loire e da
+      Les Saulières a Herry. Ciascuno è dotato di guida illustrata e la riserva organizza visite guidate.
+
+
+      Chi preferisce muoversi sull'acqua può richiedere schede per la discesa in canoa, mentre una mostra
+      itinerante illustra gli ecosistemi fluviali. Numerosi percorsi pedonali lungo gli argini assicurano
+      accessi agevoli.
+    history: >-
+      La riserva fu istituita con decreto ministeriale il 21 novembre 1995 per tutelare questo tratto di
+      grande valore ecologico e paesaggistico in cui la dinamica naturale è rimasta libera da briglie.
+      Attualmente è gestita congiuntamente dai conservatori naturali di Borgogna e Centro-Valle della Loira,
+      affiancati da un comitato consultivo di amministratori, fruitori e scienziati.
+
+
+      Circa 130 specie sono minacciate a vari livelli, e la riserva vanta una diretta responsabilità per 48 di
+      esse. Da fine 2014 i conservatori coordinano il pascolo ovino itinerante sui prati aridi spondali. La
+      proprietà fondiaria appartiene per il 72 % al demanio fluviale dello Stato, per il 3 % ai comuni e per
+      il 25 % a privati.
+    before: >-
+      Il transito a piedi, a cavallo e in bicicletta è libero sui percorsi aperti, ma è rigorosamente vietato
+      l'accesso ai mezzi a motore fuori strada, così come accendere fuochi o bivaccare. I cani sono vietati e
+      l'accesso agli isolotti ghiaiosi è interdetto durante la nidificazione delle sterne. Periodo migliore:
+      da maggio a settembre.
+    around: >-
+      La [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) condivide con la Loira
+      il fraticello e il castoro europeo, costituendo un altro insostituibile corridoio fluviale.
+  pt:
+    intro: >-
+      Um rio de múltiplos braços, ilhotas e bancos de areia em constante mutação. O Loire é reconhecido como
+      um dos últimos grandes rios selvagens da Europa, e a Reserva Natural Nacional do Vale do Loire, no exato
+      ponto médio do seu curso, mostra o porquê: 19 km de curso fluvial, 1454 hectares de leito vivo, ilhas e
+      margens entre Nièvre e Cher, onde a água desdobra esteiros secundários com bancos de cascalho instáveis.
+      É o troço mais representativo do médio Loire, aqueles 450 km que ligam Nevers a Angers.
+    landscape: >-
+      A reserva explica-se por inteiro pela dinâmica hidrológica. O contínuo transporte de aluviões confere ao
+      leito uma estrutura entrelaçada, na qual ilhas, praias fluviais e canais secundários nascem e desvanecem
+      sem cessar. A meio caminho entre a nascente e o oceano Atlântico — em Pouilly o Loire atinge a metade
+      exata da sua longa jornada —, o relevo compõe um mosaico: braços vivos, bancos de areia, ilhas
+      arborizadas, esteiros mortos («boires»), charcos, matas ripícolas e pastagens secas modelados pelas
+      cheias e estiagens. No conjunto reúnem-se cerca de vinte habitats distintos.
+
+
+      Cada patamar sedimentar possui a sua flora adaptada. Nos areais e cascalheiras as condições são
+      extremas: submersos grande parte do ano, no pico do verão a temperatura atinge 50 °C; ali viceja a
+      erva-das-pulgas. Mais acima surge a mata aluvial, com salgueiros-brancos e choupos-negros nas cotas
+      baixas e, nos terraços superiores, freixos, olmos e carvalhos, entremeados com salgueiros arbustivos que
+      a gente local designa por «verdiaux».
+    wildlife: >-
+      Tudo converge para as chilretas e andorinhas-do-mar. Na primavera, as chilretas e as
+      andorinhas-do-mar-comuns regressam de África para nidificar nos bancos arenosos; a
+      [Chilreta](/especie/sternula_albifrons/) e a andorinha-do-mar-comum põem os ovos diretamente no solo,
+      onde se camuflam com o cascalho, ao lado do borrelho-pequeno e do alcaravão. Por esse motivo o acesso a
+      certas praias fluviais é vedado no período reprodutivo.
+
+
+      Nas escarpas arenosas das margens, o [Guarda-rios-comum](/especie/alcedo_atthis/), a
+      andorinha-das-barreiras e o abelharuco escavam as suas galerias de nidificação. No total foram
+      registadas mais de 220 espécies de aves, perto de uma centena delas nidificantes. O canal principal atua
+      também como via migratória basilar para o [Salmão atlântico](/especie/salmo_salar/), a
+      [enguia-europeia](/especie/anguilla_anguilla/), o sável e a lampreia-marinha.
+
+
+      Nos braços secundários, as «boires», a água corre mansa e aquece com facilidade. Ali vive o
+      [Castor-europeu](/especie/castor_fiber/), que abate salgueiros e choupos para roer ramos novos e vedar
+      tocas, a par de insetos aquáticos e anfíbios como o [sapo-corredor](/especie/bufo_calamita/). A reserva
+      contabiliza 43 espécies de peixes, 12 de répteis, 11 de anfíbios, 42 de libélulas e libelinhas e 380 de
+      borboletas.
+    visit: >-
+      A reserva disponibiliza três percursos assinalados. Os trilhos do médio Loire iniciam-se no Pavillon du
+      milieu de Loire, no número 17 quai Jules Pabiot em Pouilly-sur-Loire, cujo «trilho da ilha» desvenda um
+      ecossistema fluvial em perpétua transformação. Os outros dois trilhos partem de La Charité-sur-Loire e
+      de Saulières em Herry. Todos contam com folheto informativo e realizam-se passeios guiados dinamizados
+      pela reserva.
+
+
+      Para quem prefere a via fluvial, a entidade gestora faculta guiões descarregáveis para descida em canoa,
+      e uma exposição itinerante percorre os municípios da região. Adicionalmente, diversos trilhos pedestres
+      ribeirinhos asseguram cómodos acessos ao rio.
+    history: >-
+      A reserva foi criada por decreto ministerial a 21 de novembro de 1995, consagrando o valor biológico e
+      paisagístico deste setor fluvial cuja dinâmica natural permanece intocada. Atualmente é gerida em
+      cogestão pelos conservatórios de espaços naturais da Borgonha e do Centro-Vale do Loire, apoiados por um
+      comité consultivo de autarcas, utilizadores e investigadores.
+
+
+      Cerca de 130 espécies locais apresentam estatuto de ameaça, detendo a reserva responsabilidade
+      primordial na salvaguarda de 48 delas. Desde finais de 2014 os conservatórios coordenam o pastoreio
+      ovino itinerante nos prados marginais. A estrutura fundiária divide-se em 72 % de domínio público
+      fluvial do Estado, 3 % de áreas municipais e 25 % de proprietários privados.
+    before: >-
+      A circulação a pé, a cavalo ou em bicicleta é livre pelos caminhos abertos, sendo interditos veículos
+      motorizados fora de estradas abertas, bem como fogueiras, lixo e campismo selvagem. É proibida a entrada
+      de cães e o acesso aos bancos de areia é condicionado para proteger a nidificação das chilretas. Época
+      recomendada: maio a setembro.
+    around: >-
+      A [Reserva Natural del Valle del Allier](/lugar/val-d-allier---allier-sauvage/) partilha com o Loire a
+      chilreta e o castor-europeu, formando outro vital corredor fluvial e aluvial.
+fuentes:
+  - url: https://www.cen-bourgogne.fr/les-sites/reserves-naturelles/val-de-loire/
+    titulo: Réserve Naturelle Nationale du Val de Loire
+    fecha_consulta: '2026-10-24'
+  - url: https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_du_Val_de_Loire
+    titulo: Réserve naturelle nationale du Val de Loire — Wikipédia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.cen-bourgogne.fr/wp-content/uploads/2023/05/sentiers_milieu_loire_2020-1.pdf
+    titulo: Sentiers du milieu de Loire (PDF)
+    fecha_consulta: '2026-10-24'
+  - url: https://www.cen-bourgogne.fr/wp-content/uploads/2023/05/rappel_reglementationrnnvl.pdf
+    titulo: Rappel de la réglementation (PDF)
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:France_pouilly-s-loire_loire.jpg
+    autor: Magallanes
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-21'

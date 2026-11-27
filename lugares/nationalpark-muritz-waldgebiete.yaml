@@ -1,0 +1,698 @@
+id: nationalpark-muritz-waldgebiete
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosques del Parque Nacional Müritz
+  en: Müritz National Park Forests
+  fr: Forêts du parc national de la Müritz
+  de: Nationalpark Müritz - Waldgebiete
+  it: Foreste del Parco Nazionale di Müritz
+  pt: Florestas do Parque Nacional de Müritz
+nombre_original: Nationalpark Müritz - Waldgebiete
+alias:
+  - Müritz National Park Forests
+paises:
+  - DE
+region:
+  es: Mecklemburgo-Pomerania Occidental
+  en: Mecklenburg-Western Pomerania
+  fr: Mecklembourg-Poméranie-Occidentale
+  de: Mecklenburg-Vorpommern
+  it: Meclemburgo-Pomerania Anteriore
+  pt: Mecklemburgo-Pomerânia Ocidental
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 53.43
+  lon: 12.83
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 26064
+  nombre_en_la_fuente: Müritz-Nationalpark
+  categoria_uicn: II
+  capa: capas/cdda/nationalpark-muritz-waldgebiete.geojson
+habitats:
+  - mature_forest
+  - lake
+especies:
+  - haliaeetus_albicilla
+  - pandion_haliaetus
+  - grus_grus
+  - cervus_elaphus
+temporada_ideal:
+  - 5
+  - 6
+  - 9
+masificacion: 2
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Nationalpark Müritz Official
+    url: https://www.mueritz-nationalpark.de/
+  - titulo: Mapa — Parque Nacional de Müritz
+    url: https://www.mueritz-nationalpark.de/karte
+  - titulo: Normas — Comportamiento en el parque
+    url: https://www.mueritz-nationalpark.de/wissen-verstehen/verhalten-im-nationalpark/verhalten-im-nationalpark
+  - titulo: Accesos — Llegada y movilidad
+    url: https://www.mueritz-nationalpark.de/erleben-erholen/anreise-mobil
+  - titulo: Rutas — Actividades en la naturaleza
+    url: https://www.mueritz-nationalpark.de/erleben-erholen/aktiv-in-der-natur/ueberblick
+resumen:
+  es: >-
+    Extensos bosques continentales y lagos de origen glaciar donde nidifican el águila pigargo y el águila
+    pescadora.
+  en: Extensive continental forests and glacial lakes where the white-tailed eagle and osprey nest.
+  fr: >-
+    Vastes massifs forestiers continentaux et lacs d'origine glaciaire où nichent le pygargue à queue blanche
+    et le balbuzard pêcheur.
+  de: Ausgedehnte Tieflandwälder und eiszeitliche Seen, in denen Seeadler und Fischadler horsten.
+  it: >-
+    Vaste foreste continentali e laghi di origine glaciale dove nidificano l'aquila di mare e il falco
+    pescatore.
+  pt: >-
+    Extensas florestas continentais e lagos de origem glaciar onde nidificam a águia-rabalva e a
+    águia-pesqueira.
+unico:
+  es: >-
+    Un mosaico de bosque, lagos y turberas donde las grullas y las grandes rapaces acuáticas comparten
+    territorio con el lobo.
+  en: >-
+    A mosaic of forest, lakes and mires where cranes and large fish-eating raptors share territory with
+    wolves.
+  fr: >-
+    Une mosaïque de forêts, lacs et tourbières où grues et grands rapaces pêcheurs partagent leur territoire
+    avec le loup.
+  de: >-
+    Ein Mosaik aus Wald, Seen und Mooren, in dem Kraniche und große Fischgreifvögel ihr Revier mit dem Wolf
+    teilen.
+  it: >-
+    Un mosaico di boschi, laghi e torbiere dove gru e grandi rapaci pescatori condividono il territorio con il
+    lupo.
+  pt: >-
+    Um mosaico de floresta, lagos e turfeiras onde grous e grandes rapinas piscívoras partilham território com
+    o lobo.
+observaciones:
+  es: >-
+    En la zona núcleo y en la de cuidado no se puede salir de calles y caminos. Se pueden recoger setas y
+    bayas para consumo propio en las zonas de desarrollo, pero no en la zona núcleo. Está prohibido hacer
+    fuego en el bosque y en sus alrededores, a menos de 50 m, y los drones, en todo el parque. Consulta los
+    horarios de temporada del autobús del parque y el transporte de bicicletas. A Kratzeburg se llega en tren
+    regional por la línea Rostock-Berlín.
+texto:
+  es:
+    intro: >-
+      Entre los habitantes del parque están el [pigargo](/especie/haliaeetus_albicilla/) y el águila
+      pescadora; en primavera y otoño también se oyen las [grullas](/especie/grus_grus/) durante sus
+      desplazamientos. El Parque Nacional de Müritz está en el sur de Mecklemburgo-Pomerania Occidental. Con
+      322 km², es el mayor parque nacional de bosque de Alemania, y lo que lo distingue de otros es el agua:
+      un mosaico de pinares, más de cuatrocientas turberas y 107 lagos de más de una hectárea, con un tramo de
+      10 km de la orilla oriental del lago Müritz, el mayor del norte de Alemania.
+    landscape: >-
+      Casi todo lo que ves lo hizo el hielo. La meseta de lagos de Mecklemburgo surgió tras la última
+      glaciación, hace unos 12.000 años, cuando los glaciares empujaron escombros, rocas, arena y arcilla
+      hasta formar morrenas. La orilla este del Müritz es un sander muy plano, y los lagos que hay en él son
+      huellas de antiguos cursos de agua o restos de hielo enterrado. La morrena del norte, además, es la
+      divisoria entre el mar del Norte y el Báltico, y de una turbera de manantial junto a Ankershagen nace el
+      Havel, que cruza lagos y turberas antes de seguir su camino.
+
+
+      El bosque llegó después. Los pinares ocupan buena parte de la superficie forestal. El plan del parque
+      describe un reparto del 71 % de bosques, el 14 % de lagos y el 8 % de turberas naturales. Donde el
+      bosque fue destruido, el pino y el abedul son los primeros en ocupar el suelo, y los forestales
+      plantaron además pinos en los suelos arenosos; el arrendajo dispersa bellotas y favorece la llegada del
+      roble, dentro de la evolución hacia bosques con más árboles caducifolios y hayas. Los hayedos más viejos
+      y valiosos, de hecho, están en el sector de Serrahn. Los lagos tienen cada uno su carácter: los de
+      manantial suelen ser pobres en nutrientes y ricos en cal, con agua muy clara, y los de turbera tienen el
+      agua parda.
+
+
+      En la orilla del Müritz hay cañaverales de masiega y extensos enebrales. La torre del Käflingsberg
+      ofrece una vista amplia sobre el sector Müritz.
+    wildlife: >-
+      Las aves son el espectáculo. El parque tiene más de 100 parejas de grullas nidificantes, y el [águila
+      pescadora](/especie/pandion_haliaetus/) y el pigargo tienen aquí su territorio: con suerte verás al
+      águila pescadora cazar y criar desde una torre de observación. En los humedales de la orilla viven el
+      [avetoro](/especie/botaurus_stellaris/), escaso, y los carriceros, y en la vegetación ribereña crían la
+      cerceta común y la cerceta carretona.
+
+
+      Y hay lobos. En mayo de 2012 se confirmó el primer lobo errante en el parque. Después, el seguimiento
+      con cámaras y otros métodos documentó su establecimiento en este territorio. Entre los ungulados hay
+      [jabalí](/especie/sus_scrofa/), [corzo](/especie/capreolus_capreolus/), [ciervo
+      rojo](/especie/cervus_elaphus/), gamo y muflón. En total se han observado 54 especies de mamíferos, 214
+      de aves, 859 de escarabajos y 26 de peces.
+
+
+      Para verlos, el parque tiene 25 plataformas, torres y pantallas de observación. En Warnker See se
+      observan aves acuáticas; Federow tiene una pantalla para ver águilas pescadoras, y desde el Zootzen-See,
+      al norte de Babke, se observan pigargos y grullas. Hacen falta paciencia y, si es posible, buenos
+      prismáticos o catalejo, y los mejores momentos son las primeras horas de la mañana y el crepúsculo.
+    visit: >-
+      Hay 450 km de senderos señalizados y 270 km de rutas ciclistas: 47 rutas de senderismo, 12 de bicicleta
+      y 2 de piragua. Entre las más sencillas está la ruta circular familiar de Zinow a Serrahn y vuelta por
+      la pista forestal, de ocho kilómetros, por el sendero didáctico Grünes Buchenblatt, que pasa por un
+      sendero forestal y una pasarela sobre la turbera. El circuito en bicicleta Blauer Radfahrer, entre Boek
+      y Schwarzenhof, permite conocer el paisaje de la orilla este.
+
+
+      Para entender el parque, empieza por los centros de información. La de Federow está a siete kilómetros
+      al sureste de Waren y es accesible sin barreras; en Schwarzenhof una pequeña exposición habla de las
+      aves y sus plumas; en Serrahn la exposición Im Reich der Buchen explica el bosque de hayas declarado
+      Patrimonio Mundial, y el Müritzeum de Waren, abierto en 2007, es un gran centro de naturaleza de la
+      región. Para los niños hay un sendero de experiencias de dos kilómetros sobre el lobo.
+
+
+      Si prefieres el agua, algunos lagos y ríos se pueden recorrer en piragua, en los tramos expresamente
+      habilitados. Los barcos de motor, la vela, el windsurf y el buceo están prohibidos.
+    history: >-
+      El parque nació en los últimos días de la RDA, gracias al viceministro de medio ambiente Michael Succow
+      y a otros conservacionistas. El ejército soviético ocupó unas 3.500 ha del sector Müritz como campo de
+      tiro y de maniobras de carros de combate. Desde 2018 cesó el aprovechamiento maderero en el parque,
+      aunque los pinares uniformes siguen marcando el paisaje. Los canales y zanjas se han cerrado para
+      devolver el agua subterránea a su nivel original: en áreas restauradas murieron abedules y reaparecieron
+      comunidades vegetales ligadas al agua.
+    before: >-
+      En la zona núcleo y en la de cuidado no se puede salir de calles y caminos. Se pueden recoger setas y
+      bayas para consumo propio en las zonas de desarrollo, pero no en la zona núcleo. Está prohibido hacer
+      fuego en el bosque y en sus alrededores, a menos de 50 m, y los drones, en todo el parque. Consulta los
+      horarios de temporada del autobús del parque y el transporte de bicicletas. A Kratzeburg se llega en
+      tren regional por la línea Rostock-Berlín.
+    around: >-
+      Su sector oriental es el [Hayedo Antiguo de
+      Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/), donde están los bosques de hayas del
+      Patrimonio Mundial. En la región, los [Bosques del Parque Natural Lagos de
+      Uckermark](/lugar/uckermarkische-seen-forests/) son otra opción de bosque; la [Reserva Natural de
+      Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) está a unos 4 km.
+
+
+      Más lejos, el [Bosque de Orient - Sectores Forestales](/lugar/foret-d-orient---secteurs-forestiers/), el
+      [Parque Nacional de Ķemeri](/lugar/kemeru-nacionalais-parks/) y el [Lago del
+      Der-Chantecoq](/lugar/lac-du-der-chantecoq/) comparten con Müritz la grulla y el pigargo.
+  en:
+    intro: >-
+      Among the park's iconic inhabitants are the [white-tailed eagle](/especie/haliaeetus_albicilla/) and the
+      osprey; in spring and autumn, [common cranes](/especie/grus_grus/) echo across the land on their
+      seasonal journeys. Müritz National Park lies in southern Mecklenburg-Western Pomerania. Spanning 322
+      km², it is Germany's largest terrestrial forested national park, distinguished above all by water: a
+      mosaic of pine woods, more than four hundred mires and 107 lakes larger than one hectare, along with a
+      10 km stretch of the eastern shoreline of Lake Müritz, northern Germany's largest lake.
+    landscape: >-
+      Almost everything you see was sculpted by ice. The Mecklenburg Lake Plateau emerged following the last
+      glaciation, around 12,000 years ago, as glaciers pushed debris, boulders, sand and clay into moraines.
+      The eastern shore of the Müritz forms a vast, flat sandur plain, where hollows left by buried dead ice
+      and ancient meltwater channels became lakes. The northern moraine ridge forms the drainage divide
+      between the North Sea and the Baltic, and from a spring fen near Ankershagen rises the river Havel,
+      winding through lakes and bogs before continuing southward.
+
+
+      The forest arrived later. Pine woods occupy much of the wooded area today. The park management plan
+      records a landscape breakdown of 71% forest, 14% lakes and 8% natural mires. Where original woodland was
+      cleared, Scots pine and birch colonised first, while foresters subsequently planted extensive pine
+      plantations on sandy soils; jays cache and disperse acorns, accelerating the natural return of
+      pedunculate oak within an ongoing transition toward broadleaf and beech cover. The oldest and most
+      precious beech stands thrive in the Serrahn sector. Each lake displays a distinct personality:
+      groundwater-fed spring lakes tend to be nutrient-poor, base-rich and exceptionally clear, whereas peat
+      bogs feed tea-coloured, dystrophic waters.
+
+
+      Along Lake Müritz grow saw-sedge beds and sprawling juniper heaths. The Käflingsberg observation tower
+      provides panoramic vistas across the Müritz sector.
+    wildlife: >-
+      Birdlife provides the grand spectacle. The park hosts more than 100 breeding crane pairs, while the
+      [osprey](/especie/pandion_haliaetus/) and white-tailed eagle hold established territories here: with a
+      little luck, you can watch ospreys hunting and tending nests from an observation tower. Shoreline
+      wetlands shelter the secretive [Eurasian bittern](/especie/botaurus_stellaris/) and reed warblers, while
+      garganey and common teal nest in reedbeds.
+
+
+      Wolves have also returned. In May 2012, the first dispersing wolf was confirmed in the park. Ongoing
+      monitoring with trail cameras and genetic tracking subsequently documented a resident pack establishing
+      territory here. Ungulates include [wild boar](/especie/sus_scrofa/), [roe
+      deer](/especie/capreolus_capreolus/), [red deer](/especie/cervus_elaphus/), fallow deer and mouflon. In
+      total, researchers have documented 54 mammal species, 214 bird species, 859 beetle species and 26 fish
+      species.
+
+
+      To view them, the park offers 25 platforms, towers and observation hides. Warnker See is renowned for
+      waterfowl; Federow provides an osprey observation camera feed, and Zootzen-See north of Babke overlooks
+      white-tailed eagles and cranes. Success requires patience and quality binoculars or a spotting scope,
+      especially around dawn and dusk.
+    visit: >-
+      Visitors enjoy 450 km of marked walking trails and 270 km of cycling routes: 47 hiking trails, 12 cycle
+      paths and 2 canoe itineraries. Among the easiest options is the family-friendly eight-kilometre circuit
+      from Zinow to Serrahn returning via the forest road, following the Grünes Buchenblatt nature trail with
+      its boardwalk over the mire. The Blauer Radfahrer cycle tour between Boek and Schwarzenhof reveals the
+      tranquil landscapes of the eastern shore.
+
+
+      To get your bearings, start at the visitor centres. The Federow centre lies seven kilometres southeast
+      of Waren and is barrier-free; Schwarzenhof hosts a small display focused on birds and feathers; at
+      Serrahn, the Im Reich der Buchen exhibition explores the World Heritage beech woodland, and the
+      Müritzeum in Waren, opened in 2007, is the region's premier natural history discovery centre. For
+      children, a two-kilometre wolf discovery trail provides interactive learning.
+
+
+      If you prefer the water, selected lakes and rivers can be explored by canoe along strictly designated
+      routes. Motorboats, sailing, windsurfing and scuba diving are prohibited across park waters.
+    history: >-
+      The park was created during the closing days of East Germany through the efforts of deputy environment
+      minister Michael Succow and dedicated conservationists. The Soviet army previously occupied some 3,500
+      ha of the Müritz sector as a tank gunnery and maneuver ground. Commercial timber harvesting ceased
+      entirely in 2018, though uniform pine plantations still shape parts of the landscape. Drainage ditches
+      and canals have been plugged to restore natural groundwater tables: across re-wetted areas, drowning
+      birch gave way to rebounding mire and fen flora.
+    before: >-
+      In core and management zones you must remain on designated roads and paths. Gathering berries and
+      mushrooms for personal consumption is allowed in development zones, but strictly prohibited in the core
+      zone. Lighting fires is forbidden throughout the forest and within 50 m of woodland margins, and flying
+      drones is prohibited throughout the entire park. Consult seasonal timetables for the national park bus
+      and bike shuttles. Kratzeburg is served by regional trains on the Rostock-Berlin railway line.
+    around: >-
+      Its eastern sector is the [Serrahn Ancient Beech
+      Forest](/lugar/nationalpark-muritz---serrahner-buchenurald/), preserving World Heritage beech stands.
+      Locally, the [Uckermark Lakes Nature Park Forests](/lugar/uckermarkische-seen-forests/) offer another
+      prime expanse of woodland; the [Heilige Hallen Nature
+      Reserve](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) lies roughly 4 km away.
+
+
+      Further away, [Orient Forest - Forest Sectors](/lugar/foret-d-orient---secteurs-forestiers/), [Ķemeri
+      National Park](/lugar/kemeru-nacionalais-parks/) and [Lake Der-Chantecoq](/lugar/lac-du-der-chantecoq/)
+      share the common crane and white-tailed eagle with Müritz.
+  fr:
+    intro: >-
+      Parmi les figures emblématiques du parc figurent le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/) et le balbuzard pêcheur ; au printemps comme à l'automne, les
+      [grues cendrées](/especie/grus_grus/) font résonner leurs appels lors de leurs étapes migratoires. Le
+      parc national de la Müritz s'étend dans le sud du Mecklembourg-Poméranie-Occidentale. Avec 322 km²,
+      c'est le plus grand parc national forestier d'Allemagne, et sa singularité tient à l'omniprésence de
+      l'eau : une mosaïque de pinèdes, plus de quatre cents tourbières et 107 lacs de plus d'un hectare,
+      flanqués d'un linéaire de 10 km le long de la rive orientale du lac Müritz, le plus vaste plan d'eau du
+      nord de l'Allemagne.
+    landscape: >-
+      La quasi-totalité du paysage visible est l'œuvre des glaces. Le plateau des lacs mecklembourgeois s'est
+      formé après la dernière glaciation, il y a environ 12 000 ans, quand les langues glaciaires ont poussé
+      moraines de blocs, sables et argiles. La rive orientale de la Müritz constitue un vaste sandur plat,
+      dont les cuvettes façonnées par d'anciens chenaux ou des culots de glace morte ont donné naissance aux
+      lacs actuels. La moraine septentrionale forme en outre la ligne de partage des eaux entre mer du Nord et
+      mer Baltique, et c'est d'une tourbière de source près d'Ankershagen que s'élance la Havel, traversant
+      lacs et tourbières avant de poursuivre son cours.
+
+
+      La forêt s'est installée ensuite. Les pinèdes occupent aujourd'hui une part dominante du couvert arboré.
+      Le plan du parc détaille une répartition équivalant à 71 % de forêts, 14 % de lacs et 8 % de tourbières
+      naturelles. Là où le manteau forestier originel fut détruit, pins et bouleaux pionniers ont conquis le
+      terrain, avant que les forestiers ne plantent d'importantes pinèdes sur sables ; le geai disperse les
+      glands et favorise l'avènement du chêne, étape vers des futaies feuillues dominées à terme par le hêtre.
+      Les hêtraies les plus anciennes et prestigieuses prospèrent dans le secteur de Serrahn. Chaque lac
+      possède son caractère : les plans d'eau alimentés par sources sont pauvres en nutriments, riches en
+      calcaire et limpides, tandis que les plans d'eau tourbeux offrent des eaux brunâtres dystrophes.
+
+
+      Sur les berges de la Müritz se déploient roselières à marisque et vastes landes à genévriers. La tour
+      d'observation du Käflingsberg offre un splendide panorama sur le secteur Müritz.
+    wildlife: >-
+      Les oiseaux offrent un spectacle grandiose. Le parc accueille plus de 100 couples nicheurs de grues
+      cendrées, tandis que le [balbuzard pêcheur](/especie/pandion_haliaetus/) et le pygargue ont ici établi
+      leur territoire : avec de la chance, vous observerez le balbuzard chasser et nourrir ses jeunes depuis
+      un observatoire. Les berges humides abritent le discret [butor étoilé](/especie/botaurus_stellaris/) et
+      les rousserolles, tandis que sarcelle d'hiver et sarcelle d'été nichent dans les roselières.
+
+
+      Le loup s'y est réinstallé. En mai 2012, un premier individu errant a été identifié dans le parc. Par la
+      suite, pièges photographiques et analyses génétiques ont confirmé l'ancrage d'une meute territoriale.
+      Parmi les ongulés figurent le [sanglier](/especie/sus_scrofa/), le
+      [chevreuil](/especie/capreolus_capreolus/), le [cerf élaphe](/especie/cervus_elaphus/), le daim et le
+      mouflon. Au total, les chercheurs y dénombrent 54 espèces de mammifères, 214 d'oiseaux, 859 de
+      coléoptères et 26 de poissons.
+
+
+      Pour les observer, le parc compte 25 plateformes, tours et écrans de vision. Le Warnker See est réputé
+      pour les oiseaux d'eau ; Federow propose une retransmission vidéo en direct des nids de balbuzards, et
+      le Zootzen-See au nord de Babke permet d'admirer pygargues et grues. Il faut de la patience et de bonnes
+      jumelles, particulièrement à l'aube et au crépuscule.
+    visit: >-
+      Vous découvrirez 450 km de sentiers pédestres balisés et 270 km de pistes cyclables : 47 itinéraires de
+      randonnée, 12 de vélo et 2 voies de canoë. Parmi les plus simples figure la boucle familiale de huit
+      kilomètres reliant Zinow à Serrahn avec retour par la piste forestière, sur le sentier pédagogique
+      Grünes Buchenblatt qui franchit la tourbière sur caillebotis. Le circuit cycliste Blauer Radfahrer entre
+      Boek et Schwarzenhof révèle les paysages sauvages de la rive orientale.
+
+
+      Pour aborder le parc, commencez par ses centres d'information. Celui de Federow est situé à sept
+      kilomètres au sud-est de Waren et s'avère accessible sans obstacle ; à Schwarzenhof, un espace
+      d'exposition explore le plumage des oiseaux ; à Serrahn, l'exposition Im Reich der Buchen détaille la
+      hêtraie classée au patrimoine mondial, et le Müritzeum de Waren, inauguré en 2007, constitue le grand
+      musée de nature de la région. Pour les enfants, un parcours ludique de deux kilomètres est consacré au
+      loup.
+
+
+      Si vous préférez l'eau, certains lacs et rivières se parcourent en canoë sur les seuls tronçons balisés.
+      Bateaux à moteur, voile, planche à voile et plongée subaquatique sont strictement interdits.
+    history: >-
+      Le parc a vu le jour lors des ultimes journées de la RDA, sous l'impulsion du vice-ministre de
+      l'Environnement Michael Succow et de naturalistes passionnés. L'armée soviétique avait auparavant occupé
+      environ 3 500 ha du secteur Müritz comme champ de manœuvres pour blindés et tirs d'artillerie. Depuis
+      2018, toute exploitation sylvicole a cessé dans le parc, même si les pinèdes d'alignement marquent
+      encore le paysage. Canaux et fossés de drainage ont été comblés pour rétablir le niveau originel de la
+      nappe : sur les zones réhydratées, les bouleaux asséchés ont péri au profit de la flore des tourbières.
+    before: >-
+      Dans la zone centrale et la zone de soins, interdiction formelle de quitter les chemins balisés. La
+      cueillette de baies et de champignons pour consommation personnelle est autorisée en zone de
+      développement, mais prohibée en zone centrale. Tout feu est interdit en forêt et dans un rayon de 50 m
+      autour des bois, et les drones sont proscrits dans tout le parc. Renseignez-vous sur les navettes de bus
+      saisonnières et le transport de bicyclettes. Kratzeburg est desservi par les trains régionaux de la
+      ligne Rostock-Berlin.
+    around: >-
+      Son secteur oriental correspond à l'[Ancienne hêtraie de
+      Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/), où se situent les hêtraies du patrimoine
+      mondial. Dans les environs, les [Forêts du parc naturel des lacs de
+      l'Uckermark](/lugar/uckermarkische-seen-forests/) offrent une autre belle immersion sylvestre ; la
+      [Réserve naturelle des Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) se trouve à
+      environ 4 km.
+
+
+      Plus loin, la [Forêt d'Orient - Secteurs forestiers](/lugar/foret-d-orient---secteurs-forestiers/), le
+      [Parc national de Ķemeri](/lugar/kemeru-nacionalais-parks/) et le [Lac du
+      Der-Chantecoq](/lugar/lac-du-der-chantecoq/) partagent la grue et le pygargue avec la Müritz.
+  de:
+    intro: >-
+      Zu den Wappenvögeln des Parks gehören [Seeadler](/especie/haliaeetus_albicilla/) und Fischadler; im
+      Frühjahr und Herbst hallen die Rufe der [Kraniche](/especie/grus_grus/) über das Land. Der
+      Müritz-Nationalpark erstreckt sich im Süden von Mecklenburg-Vorpommern. Mit 322 km² ist er Deutschlands
+      größter terrestrischer Wald-Nationalpark, und sein unverwechselbares Merkmal ist das Wasser: ein Mosaik
+      aus Kiefernforsten, über vierhundert Mooren und 107 Seen mit mehr als einem Hektar Fläche, gesäumt von
+      einem 10 km langen Uferabschnitt der östlichen Müritz, dem größten Binnensee Norddeutschlands.
+    landscape: >-
+      Fast die gesamte Landschaft formte das Eis. Die Mecklenburgische Seenplatte entstand nach der letzten
+      Eiszeit vor rund 12.000 Jahren, als Gletscher Geröll, Findlinge, Sand und Lehm zu Moränen aufschütteten.
+      Das Ostufer der Müritz ist ein ebener Sander; die darin eingebetteten Seen sind Relikte einstiger
+      Schmelzwasserrinnen und begrabener Toteisblöcke. Der nördliche Moränenzug bildet zugleich die
+      Wasserscheide zwischen Nord- und Ostsee, und in einem Quellmoor bei Ankershagen entspringt die Havel,
+      die Seen und Moore durchquert, bevor sie nach Süden abfließt.
+
+
+      Der Wald folgte dem Eis. Heute nehmen Kiefernforste weite Flächen ein. Der Nationalparkplan weist einen
+      Anteil von 71 % Wald, 14 % Seen und 8 % naturnahen Mooren aus. Wo der ursprüngliche Laubwald gerodet
+      worden war, siedelten sich zunächst Kiefern und Birken an, und die Forstwirtschaft pflanzte reine
+      Kiefernbestände auf armen Sanden; Eichelhäher verbreiten Eicheln und begünstigen die natürliche Rückkehr
+      der Stieleiche im Waldumbau hin zu buchendominierten Laubmischwäldern. Die ältesten und wertvollsten
+      Buchenbestände liegen im Teilgebiet Serrahn. Jeder See besitzt einen eigenen Charakter: Quellseen sind
+      meist nährstoffarm, kalkreich und glasklar, während Moorseen dunkelbraunes Wasser führen.
+
+
+      Am Müritzufer dehnen sich Schneidenriede und Wacholderheiden aus. Vom Käflingsbergturm eröffnet sich ein
+      weiter Panoramablick über das Teilgebiet Müritz.
+    wildlife: >-
+      Die Vogelwelt bietet ein beeindruckendes Schauspiel. Der Park beherbergt über 100 brütende Kranichpaare,
+      und [Fischadler](/especie/pandion_haliaetus/) wie Seeadler besitzen hier feste Reviere: Mit etwas Geduld
+      beobachtest du Fischadler bei Jagd und Brut von Aussichtstürmen aus. In den Röhrichten verbergen sich
+      die seltene [Rohrdommel](/especie/botaurus_stellaris/) und Rohrsänger; Krick- und Knäkente brüten in
+      Ufernähe.
+
+
+      Auch der Wolf ist heimisch. Im Mai 2012 wurde das erste durchziehende Tier nachgewiesen. Später belegten
+      Fotofallen und genetische Analysen die dauerhafte Reviergründung eines Rudels. Zu den Paarhufern zählen
+      [Wildschwein](/especie/sus_scrofa/), [Reh](/especie/capreolus_capreolus/),
+      [Rothirsch](/especie/cervus_elaphus/), Damwild und Muffelwild. Insgesamt wurden 54 Säugetier-, 214
+      Vogel-, 859 Käfer- und 26 Fischarten erfasst.
+
+
+      Für Naturbeobachtungen unterhält der Park 25 Plattformen, Türme und Beobachtungsstände. Am Warnker See
+      lassen sich Wasservögel beobachten; in Federow gibt es eine Videoübertragung eines Fischadlerhorsts, und
+      am Zootzen-See nördlich von Babke überblickst du Reviere von Seeadler und Kranich. Ein Fernglas oder
+      Spektiv lohnt sich besonders früh am Morgen und in der Abenddämmerung.
+    visit: >-
+      Dich erwarten 450 km markierte Wanderwege und 270 km Radwege: 47 Wanderrouten, 12 Radtouren und 2
+      Kanurouten. Zu den einfachsten gehört der familienfreundliche Rundweg von Zinow nach Serrahn und zurück
+      über den Forstweg (acht Kilometer) auf dem Erlebnispfad Grünes Buchenblatt, der über einen Holzsteg
+      durchs Moor führt. Die Radtour Blauer Radfahrer zwischen Boek und Schwarzenhof erschließt die urige
+      Ostuferlandschaft.
+
+
+      Zur Orientierung dienen die Nationalpark-Informationen. Die Station Federow liegt sieben Kilometer
+      südöstlich von Waren und ist barrierefrei; in Schwarzenhof widmet sich eine Ausstellung dem Vogelflug;
+      in Serrahn erklärt die Schau Im Reich der Buchen den Weltnaturerbe-Buchenwald, und das 2007 eröffnete
+      Müritzeum in Waren ist das zentrale Naturerlebniszentrum der Region. Für Kinder gibt es einen zwei
+      Kilometer langen Wolfspfad.
+
+
+      Wer das Wasser liebt, kann ausgewählte Seen und Fließgewässer auf festgelegten Kanustrecken befahren.
+      Motorboote, Segeln, Windsurfen und Tauchen sind auf den Parkgewässern verboten.
+    history: >-
+      Der Nationalpark entstand in den letzten Monaten der DDR dank des Engagements von Umwelt-Vizeminister
+      Michael Succow und couragierten Naturschützern. Zuvor nutzte die Sowjetarmee rund 3.500 ha des
+      Müritz-Gebiets als Panzer- und Artillerieschießplatz. Seit 2018 ruht die forstwirtschaftliche
+      Holznutzung im gesamten Park, auch wenn gleichförmige Kiefernforste das Bild noch prägen.
+      Entwässerungsgräben wurden verschlossen, um den Grundwasserspiegel anzuheben: Auf wiedervernässten
+      Moorflächen wichen Birken zurück und Moorpflanzen kehrten wieder.
+    before: >-
+      In Kern- und Pflegezone gilt striktes Wegegebot. Beeren- und Pilzsammeln für den Eigenbedarf ist in der
+      Entwicklungszone erlaubt, in der Kernzone untersagt. Offenes Feuer ist im Wald sowie im Umkreis von 50 m
+      verboten, Drohnenaufstiege im gesamten Park unzulässig. Beachte die saisonalen Fahrpläne von
+      Nationalparkbus und Fahrradtransfers. Kratzeburg erreichst du mit Regionalzügen der Strecke
+      Rostock-Berlin.
+    around: >-
+      Das östliche Teilgebiet ist der [Serrahner
+      Buchenurwald](/lugar/nationalpark-muritz---serrahner-buchenurald/), in dem die geschützten
+      Weltnaturerbe-Wälder liegen. In der Umgebung bieten die [Wälder des Naturparks Uckermärkische
+      Seen](/lugar/uckermarkische-seen-forests/) weitere Waldlandschaften; das [Naturschutzgebiet Heilige
+      Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) liegt rund 4 km entfernt.
+
+
+      Weiter entfernt teilen [Wald von Orient - Waldgebiete](/lugar/foret-d-orient---secteurs-forestiers/),
+      [Nationalpark Ķemeri](/lugar/kemeru-nacionalais-parks/) und [Lac du
+      Der-Chantecoq](/lugar/lac-du-der-chantecoq/) Kranich und Seeadler mit der Müritz.
+  it:
+    intro: >-
+      Tra i simboli del parco spiccano l'[aquila di mare](/especie/haliaeetus_albicilla/) e il falco
+      pescatore; in primavera e autunno il richiamo delle [gru](/especie/grus_grus/) echeggia durante le loro
+      soste di passo. Il Parco Nazionale di Müritz si trova nel sud del Meclemburgo-Pomerania Anteriore. Con i
+      suoi 322 km², è il parco nazionale forestale più esteso della Germania, caratterizzato dalla costante
+      presenza dell'acqua: un mosaico di pinete, oltre quattrocento torbiere e 107 laghi superiori a un
+      ettaro, accompagnati da un litorale di 10 km lungo la sponda orientale del lago Müritz, il bacino
+      interno più vasto della Germania settentrionale.
+    landscape: >-
+      Quasi ogni elemento del paesaggio è stato modellato dal ghiaccio. L'altopiano lacustre del Meclemburgo
+      si è formato al termine dell'ultima glaciazione, circa 12.000 anni fa, quando i ghiacciai accumularono
+      morene di massi, sabbia e argilla. La riva orientale del Müritz è un vasto sandur pianeggiante, dove le
+      conche scavate da acque di disgelo o ghiaccio fossile sepolto hanno originato i laghi odierni. La morena
+      settentrionale costituisce inoltre lo spartiacque tra Mare del Nord e Mar Baltico, e da una torbiera
+      sorgiva vicino ad Ankershagen sgorga il fiume Havel, che attraversa laghi e acquitrini prima di
+      proseguire verso sud.
+
+
+      La foresta si è insediata in seguito. Le pinete occupano oggi un'ampia porzione della superficie
+      boschiva. Il piano del parco registra una ripartizione territoriale pari al 71% di boschi, 14% di laghi
+      e 8% di torbiere naturali. Dove la copertura forestale originaria era stata disboscata, pini e betulle
+      hanno colonizzato per primi i suoli nudi, prima che i silvicoltori piantassero estese pinete su sabbie
+      aride; la ghiandaia disperde le ghiande agevolando il ritorno spontaneo della farnia, nella transizione
+      verso boschi misti di latifoglie con predominanza finale di faggio. Le faggete più vetuste e preziose
+      prosperano nel settore di Serrahn. Ogni lago possiede una propria identità: i bacini alimentati da
+      sorgenti sono poveri di nutrienti, ricchi di calcare e cristallini, mentre gli specchi d'acqua torbosi
+      presentano acque brune distrofiche.
+
+
+      Lungo la sponda del Müritz crescono canneti di falasco ed estese brughiere di ginepro. La torre
+      panoramica del Käflingsberg offre una veduta a tutto tondo sul settore Müritz.
+    wildlife: >-
+      L'avifauna offre spettacoli memorabili. Il parco accoglie oltre 100 coppie nidificanti di gru, mentre il
+      [falco pescatore](/especie/pandion_haliaetus/) e l'aquila di mare vi mantengono territori stabili: con
+      un pizzico di fortuna puoi osservare i falchi pescatori in caccia o al nido dalle torrette di
+      avvistamento. Le sponde ripariali ospitano il timido [tarabuso](/especie/botaurus_stellaris/) e i
+      cannareccioni, mentre alzavola e marzaiola nidificano nei canneti.
+
+
+      Anche il lupo vi si è ristabilito. Nel maggio 2012 è stato documentato il primo esemplare in
+      dispersione. Successivamente il monitoraggio fotografico e genetico ha accertato la presenza stabile di
+      un branco territoriale. Tra gli ungulati vivono [cinghiale](/especie/sus_scrofa/),
+      [capriolo](/especie/capreolus_capreolus/), [cervo nobile](/especie/cervus_elaphus/), daino e muflone. In
+      totale sono state censite 54 specie di mammiferi, 214 di uccelli, 859 di coleotteri e 26 di pesci.
+
+
+      Per l'osservazione naturalistica il parco mette a disposizione 25 postazioni tra piattaforme, torrette e
+      capanni. Il Warnker See è celebre per gli uccelli acquatici; a Federow una videocamera trasmette
+      immagini da un nido di falco pescatore, e dal Zootzen-See a nord di Babke si dominano i territori di
+      aquile di mare e gru. Sono raccomandati pazienza e un buon cannocchiale, soprattutto all'alba e al
+      crepuscolo.
+    visit: >-
+      Troverai 450 km di sentieri escursionistici segnalati e 270 km di piste ciclabili: 47 percorsi a piedi,
+      12 itinerari ciclabili e 2 rotte per canoa. Tra i percorsi più accessibili c'è l'anello familiare di
+      otto chilometri da Zinow a Serrahn con ritorno lungo la pista forestale, sul tracciato didattico Grünes
+      Buchenblatt che attraversa la torbiera su passerella di legno. L'escursione in bici Blauer Radfahrer tra
+      Boek e Schwarzenhof conduce attraverso le quiete sponde orientali.
+
+
+      Per orientarti rivolgiti ai centri visite. Quello di Federow sorge a sette chilometri a sud-est di Waren
+      ed è privo di barriere; a Schwarzenhof una piccola esposizione racconta il volo e le piume degli
+      uccelli; a Serrahn l'allestimento Im Reich der Buchen presenta la faggeta Patrimonio Mondiale, e il
+      Müritzeum di Waren, inaugurato nel 2007, è il principale polo museale naturalistico della regione. Per i
+      bambini è allestito un percorso didattico di due chilometri sul lupo.
+
+
+      Se prediligi l'acqua, alcuni laghi e corsi d'acqua sono navigabili in canoa sui soli tratti autorizzati.
+      Imbarcazioni a motore, vela, windsurf e immersioni subacquee sono vietati.
+    history: >-
+      Il parco è nato nei giorni conclusivi della RDT, grazie alla determinazione del viceministro
+      dell'Ambiente Michael Succow e di associazioni naturaliste. In precedenza l'esercito sovietico aveva
+      occupato circa 3.500 ha del settore Müritz come poligono di tiro per carri armati e artiglieria. Dal
+      2018 ogni prelievo di legname è cessato nel parco, anche se le pinete coetanee segnano ancora il
+      territorio. Canali e fossati di drenaggio sono stati sbarrati per ripristinare il livello originario
+      della falda: nelle torbiere riallagate le betulle deperite hanno lasciato spazio alla flora palustre.
+    before: >-
+      Nella zona centrale e nella zona di tutela vigono divieti rigidi di allontanarsi dai percorsi segnati.
+      La raccolta di frutti di bosco e funghi per uso personale è consentita nelle zone di sviluppo, ma
+      vietata nella zona centrale. È vietato accendere fuochi nel bosco e nel raggio di 50 m dalla
+      vegetazione, e l'uso di droni è interdetto in tutto il parco. Controlla gli orari stagionali degli
+      autobus del parco e del trasporto biciclette. Kratzeburg è raggiungibile con treni regionali della linea
+      Rostock-Berlino.
+    around: >-
+      Il suo settore orientale corrisponde all'[Antica faggeta di
+      Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/), dove sorgono i boschi di faggio
+      dichiarati Patrimonio Mondiale. Nella regione, le [Foreste del Parco Naturale dei Laghi
+      dell'Uckermark](/lugar/uckermarkische-seen-forests/) offrono un'ulteriore grande area forestale; la
+      [Riserva Naturale di Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) dista circa 4
+      km.
+
+
+      Più lontano, la [Foresta d'Oriente - Settori forestali](/lugar/foret-d-orient---secteurs-forestiers/),
+      il [Parco Nazionale di Ķemeri](/lugar/kemeru-nacionalais-parks/) e il [Lago del
+      Der-Chantecoq](/lugar/lac-du-der-chantecoq/) condividono con Müritz la gru e l'aquila di mare.
+  pt:
+    intro: >-
+      Entre as aves mais emblemáticas do parque destacam-se a [águia-rabalva](/especie/haliaeetus_albicilla/)
+      e a águia-pesqueira; na primavera e no outono ecoa também o chamamento dos
+      [grous-comuns](/especie/grus_grus/) durante as suas rotas migratórias. O Parque Nacional de Müritz
+      situa-se no sul de Mecklemburgo-Pomerânia Ocidental. Com 322 km², é o maior parque nacional florestal
+      terrestre da Alemanha, singularizado pela água: um mosaico de pinhais, mais de quatrocentas turfeiras e
+      107 lagos com mais de um hectare, acompanhados por um troço de 10 km na margem oriental do lago Müritz,
+      o maior lago interior do norte alemão.
+    landscape: >-
+      Quase toda a paisagem foi moldada pelo gelo. O planalto lacustre de Mecklemburgo formou-se após a última
+      glaciação, há cerca de 12.000 anos, quando os glaciares acumularam moreias de blocos rochosos, areias e
+      argilas. A margem leste do Müritz é uma planície aluvial arenosa (sandur), onde as depressões escavadas
+      por antigos cursos de água ou blocos de gelo fóssil soterrado deram lugar aos lagos atuais. A crista
+      morenaica a norte constitui a divisória de águas entre o mar do Norte e o Báltico, e numa turfeira de
+      nascente perto de Ankershagen nasce o rio Havel, que atravessa lagos e pântanos antes de rumar a sul.
+
+
+      A floresta chegou depois. Os pinhais ocupam hoje grande fatia da mancha arbórea. O plano do parque
+      contabiliza 71% de florestas, 14% de lagos e 8% de turfeiras naturais. Onde o arvoredo original fora
+      desarborizado, o pinheiro e o bétula pioneiros colonizaram o solo, tendo os serviços florestais plantado
+      densos pinhais nos solos arenosos; o gaio dispersa bolotas e favorece o retorno natural do
+      carvalho-alvarinho, numa sucessão orientada para folhosas mistas dominadas pela faia. Os faiais mais
+      vetustos e valiosos encontram-se no setor de Serrahn. Cada lago exibe carácter próprio: os lagos de
+      nascente são pobres em nutrientes, ricos em calcário e límpidos, ao passo que as lagoas de turfeira
+      possuem águas acastanhadas distróficas.
+
+
+      Na margem do Müritz estendem-se caniçais de junco-marisco e matagais de zimbro. A torre de observação de
+      Käflingsberg proporciona uma vista panorâmica desafogada sobre o setor Müritz.
+    wildlife: >-
+      A avifauna proporciona um espectáculo marcante. O parque acolhe mais de 100 casais nidificantes de grou,
+      e a [águia-pesqueira](/especie/pandion_haliaetus/) e a águia-rabalva mantêm aqui territórios definidos:
+      com alguma sorte poderás observar a águia-pesqueira a caçar e a criar a partir de uma torre de
+      observação. As zonas húmidas ribeirinhas abrigam o esquivo
+      [abetouro-comum](/especie/botaurus_stellaris/) e rouxinóis-dos-caniços, enquanto a marreca-aril e a
+      marreca-pardilheira nidificam na vegetação marginal.
+
+
+      O lobo também regressou. Em maio de 2012 confirmou-se o primeiro indivíduo errante no parque.
+      Posteriormente, armadilhagem fotográfica e análises genéticas atestaram o estabelecimento permanente de
+      uma alcateia territorial. Entre os ungulados contam-se o [javali](/especie/sus_scrofa/), a
+      [corça](/especie/capreolus_capreolus/), o [veado-vermelho](/especie/cervus_elaphus/), o gamo e o muflão.
+      No total foram recenseadas 54 espécies de mamíferos, 214 de aves, 859 de escaravelhos e 26 de peixes.
+
+
+      Para observação de fauna, o parque disponibiliza 25 plataformas, torres e abrigos. O Warnker See
+      destaca-se pelas aves aquáticas; Federow dispõe de monitor com transmissão de ninho de águia-pesqueira,
+      e a partir do Zootzen-See a norte de Babke avistam-se águias-rabalvas e grous. Convém levar binóculos ou
+      telescópio, sendo as primeiras horas da manhã e o entardecer os melhores momentos.
+    visit: >-
+      Tens à disposição 450 km de percursos pedestres sinalizados e 270 km de rotas cicláveis: 47 percursos
+      pedestres, 12 de bicicleta e 2 de canoa. Entre os mais simples conta-se o circuito familiar de oito
+      quilómetros de Zinow a Serrahn com regresso pela pista florestal, ao longo do trilho interpretativo
+      Grünes Buchenblatt, que cruza a turfeira em passadiço de madeira. O circuito de bicicleta Blauer
+      Radfahrer entre Boek e Schwarzenhof desvenda as paisagens tranquilas da margem oriental.
+
+
+      Para orientação geral, começa pelos centros de informação. O posto de Federow fica sete quilómetros a
+      sudeste de Waren e é acessível sem barreiras; em Schwarzenhof uma pequena mostra aborda as aves e as
+      penas; em Serrahn a exposição Im Reich der Buchen explica o faial classificado como Património Mundial,
+      e o Müritzeum em Waren, aberto em 2007, é o principal centro de interpretação da natureza regional. Para
+      as crianças existe um trilho lúdico de dois quilómetros dedicado ao lobo.
+
+
+      Se preferires a água, alguns lagos e rios podem ser percorridos de canoa nos troços estritamente
+      autorizados. Barcos a motor, vela, windsurf e mergulho são proibidos nas águas do parque.
+    history: >-
+      O parque foi estabelecido nos últimos dias da RDA graças ao empenho do vice-ministro do Ambiente Michael
+      Succow e de ativistas conservacionistas. Anteriormente o exército soviético ocupou cerca de 3.500 ha do
+      setor Müritz como campo de tiro para carros de combate e artilharia. Desde 2018 cessou a exploração
+      florestal de madeira no parque, embora os pinhais coetâneos ainda marquem a paisagem. Valas e canais de
+      drenagem foram bloqueados para repor o nível freático original: nas áreas renaturalizadas as bétulas
+      secas tombaram perante a regeneração das plantas paludícolas.
+    before: >-
+      Na zona tampão e na zona estrita vigora o dever rigoroso de não sair dos caminhos assinalados. A
+      colheita de cogumelos e frutos silvestres para consumo pessoal é permitida nas zonas de desenvolvimento,
+      mas interdita na zona estrita. É proibido fazer fogo na mata e num raio de 50 m em redor, e os drones
+      estão interditos em todo o parque. Consulta os horários sazonais dos autocarros e vaivéns de bicicletas
+      do parque. A Kratzeburg chega-se em comboio regional pela linha Rostock-Berlim.
+    around: >-
+      O seu setor oriental é o [Faial Antigo de Serrahn](/lugar/nationalpark-muritz---serrahner-buchenurald/),
+      onde se erguem os bosques de faia do Património Mundial. Na região, as [Florestas do Parque Natural dos
+      Lagos de Uckermark](/lugar/uckermarkische-seen-forests/) constituem outro espaço florestal notável; a
+      [Reserva Natural de Heilige Hallen](/lugar/naturschutzgebiet-heilige-hallen-mecklenburg/) fica a cerca
+      de 4 km.
+
+
+      Mais longe, a [Floresta de Orient - Setores Florestais](/lugar/foret-d-orient---secteurs-forestiers/), o
+      [Parque Nacional de Ķemeri](/lugar/kemeru-nacionalais-parks/) e o [Lago do
+      Der-Chantecoq](/lugar/lac-du-der-chantecoq/) partilham com Müritz o grou e a águia-rabalva.
+fuentes:
+  - url: https://www.mueritz-nationalpark.de/fileadmin/mueritz/Service/Gesetze__Verordnungen__Plaene/Nationalparkplan_Band_1_2003.pdf
+    titulo: Daten zum Müritz-Nationalpark — Nationalparkamt Müritz
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/wissen-verstehen/der-nationalpark/mueritz-nationalpark-zahlen-und-fakten
+    titulo: Zahlen und Fakten — Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/wissen-verstehen/verhalten-im-nationalpark/verhalten-im-nationalpark
+    titulo: Verhalten im Nationalpark — Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/erleben-erholen/aktiv-in-der-natur/landseitig-unterwegs/beobachten
+    titulo: Beobachten im Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/fileadmin/mueritz/Service/Infomaterial/Naturerleben-fuer-Alle_Web.pdf
+    titulo: Naturerleben für Alle — Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/wissen-verstehen/unesco-welterbe/aktiv-im-welterbe
+    titulo: Aktiv im Welterbe — Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/wissen-verstehen/natur/landschaften
+    titulo: Landschaften im Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/wissen-verstehen/natur/lebensraeume
+    titulo: Lebensräume im Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://de.wikipedia.org/wiki/M%C3%BCritz-Nationalpark
+    titulo: Müritz-Nationalpark - Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/
+    titulo: Müritz-Nationalpark
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritz-nationalpark.de/erleben-erholen/nationalpark-informationen
+    titulo: Nationalpark-Informationen
+    fecha_consulta: '2026-10-23'
+  - url: https://www.mueritzeum.de/wolfsmonitoring-im-mueritz-nationalpark/
+    titulo: Wolfsmonitoring im Müritz-Nationalpark — Müritzeum
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_M%C3%BCritz_-_Weg_von_der_Zartwitzer_Kreuzung_zu_den_Fischteichen_-_Blick_in_den_Wald_(2).jpg
+    autor: Lotte76
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

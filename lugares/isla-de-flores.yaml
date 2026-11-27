@@ -1,0 +1,565 @@
+id: isla-de-flores
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de la Isla de Flores (Azores)
+  en: Flores Island Natural Park (Azores)
+  fr: Parc naturel de l'île de Flores (Açores)
+  de: Naturpark der Insel Flores (Azoren)
+  it: Parco naturale dell'isola di Flores (Azzorre)
+  pt: Parque Natural da Ilha das Flores (Açores)
+nombre_original: Isla de Flores
+alias:
+  - Parque Natural da Ilha das Flores
+paises:
+  - PT
+region:
+  es: Región Autónoma de las Azores (Isla de Flores / Santa Cruz / Lajes das Flores)
+  en: Autonomous Region of the Azores (Flores Island / Santa Cruz / Lajes das Flores)
+  fr: Région autonome des Açores (Île de Flores / Santa Cruz / Lajes das Flores)
+  de: Autonome Region der Azoren (Insel Flores / Santa Cruz / Lajes das Flores)
+  it: Regione Autonoma delle Azzorre (Isola di Flores / Santa Cruz / Lajes das Flores)
+  pt: Região Autónoma dos Açores (Ilha das Flores / Santa Cruz / Lajes das Flores)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 39.45
+  lon: -31.2
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555545783
+  nombre_en_la_fuente: Costa Nordeste (Ilha das Flores)
+  categoria_uicn: IV
+  capa: capas/cdda/isla-de-flores.geojson
+habitats:
+  - high_mountain
+  - lake
+  - coast
+  - primary_forest
+designaciones:
+  - natural_park
+  - biosphere_reserve
+  - natura2000
+especies:
+  - puffinus_lherminieri
+  - calonectris_diomedea
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Baja en toda la isla
+  en: Low across the entire island
+  fr: Basse sur toute l'île
+  de: Gering auf der gesamten Insel
+  it: Bassa su tutta l'isola
+  pt: Baixa em toda a ilha
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor y visita — Parque Natural das Flores
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/4/about
+  - titulo: Centro de visitantes y accesos — Boqueirão, Flores
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/4/centro/6/chegar
+enlaces_referencia:
+  - titulo: UNESCO — Reserva de la Biosfera de la isla de Flores
+    url: https://www.unesco.org/en/mab/flores-island
+resumen:
+  es: >-
+    La 'Isla del Agua y las Flores', Reserva de la Biosfera UNESCO en la placa tectónica norteamericana con 7
+    lagunas de cráter (*Sete Lagoas*) y la cascada de Poço da Ribeira do Ferreiro.
+  en: >-
+    The 'Island of Water and Flowers', a UNESCO Biosphere Reserve on the North American tectonic plate with 7
+    crater lakes (*Sete Lagoas*) and the Poço da Ribeira do Ferreiro waterfall.
+  fr: >-
+    L'« Île de l'Eau et des Fleurs », réserve de biosphère UNESCO sur la plaque nord-américaine avec 7 lacs de
+    cratère (*Sete Lagoas*) et la cascade du Poço da Ribeira do Ferreiro.
+  de: >-
+    Die 'Insel des Wassers und der Blumen', UNESCO-Biosphärenreservat auf der Nordamerikanischen Platte mit 7
+    Kraterseen (*Sete Lagoas*) und dem Wasserfall Poço da Ribeira do Ferreiro.
+  it: >-
+    L'«Isola dell'Acqua e dei Fiori», Riserva della Biosfera UNESCO sulla placca nordamericana con 7 laghi
+    craterici (*Sete Lagoas*) e la cascata del Poço da Ribeira do Ferreiro.
+  pt: >-
+    A 'Ilha da Água e das Flores', Reserva da Biosfera da UNESCO na placa tectónica norte-americana com 7
+    lagoas de cratera (*Sete Lagoas*) e a cascata do Poço da Ribeira do Ferreiro.
+unico:
+  es: >-
+    Tiene el mayor número de especies endémicas por unidad de superficie del archipiélago, solo superada por
+    Corvo.
+  en: It has the highest number of endemic species per unit area in the archipelago, second only to Corvo.
+  fr: >-
+    Elle possède le plus grand nombre d'espèces endémiques par unité de surface de l'archipel, dépassée
+    seulement par Corvo.
+  de: >-
+    Sie weist die höchste Dichte an endemischen Arten pro Flächeneinheit im gesamten Archipel auf, nur noch
+    übertroffen von Corvo.
+  it: >-
+    Possiede il maggior numero di specie endemiche per unità di superficie dell'arcipelago, superata soltanto
+    da Corvo.
+  pt: >-
+    Tem o maior número de espécies endémicas por unidade de superfície do arquipélago, apenas superada pelo
+    Corvo.
+observaciones:
+  es: >-
+    Prepárate para la lluvia y la humedad. Comprueba las condiciones de los senderos y del centro de
+    visitantes en la web del gestor de los parques de las Azores antes de ir.
+texto:
+  es:
+    intro: >-
+      En una isla de 143 km² llueve unos 240 días al año, y el resultado se ve desde el primer mirador: agua
+      cayendo por todas partes. Flores es el punto más occidental de Portugal, en las Azores, y está sobre la
+      placa norteamericana. En verano la cubren las hortensias, de grandes flores azules o rosas, y de su
+      abundancia de flores sale su nombre portugués.
+
+
+      Desde 2009 es Reserva de la Biosfera de la UNESCO, e incluye toda la isla y el mar hasta unos 4,8 km de
+      la costa.
+    landscape: >-
+      Flores es la parte emergida de un monte submarino cerca de la dorsal mesoatlántica, nacido de actividad
+      volcánica de hace menos de diez millones de años. Tras un largo reposo desde hace unos 200 000 años,
+      hubo erupciones freatomagmáticas con coladas de lava en el Holoceno. Aquellos cráteres, al llenarse de
+      agua, dieron lagos: siete en la isla, junto a estructuras de maar en el macizo central.
+
+
+      El punto más alto es Morro Alto, de 914 m. La meseta central, a 600-700 m de altitud media, es lo que
+      define la isla. Allí están algunos de sus mejores hábitats, como las turberas de altura, que regulan el
+      agua del paisaje; la isla alberga turberas arboladas especialmente bien conservadas del Atlántico Norte,
+      y el Planalto Central forma parte de la red Natura 2000 y es sitio Ramsar.
+
+
+      La costa es otro mundo: acantilados altos, islotes y cuevas costeras modelados por la erosión del mar, y
+      zona de cría de varias aves marinas. Hay también rarezas geológicas, como las Águas Quentes, pequeñas
+      fuentes termales de agua sulfurosa hirviendo en Costa do Lajedo, a las que llegar a pie puede ser
+      difícil, y la gruta de Enxaréus, una enorme cavidad de unos 50 m de largo y 25 m de ancho.
+    wildlife: >-
+      Se han catalogado 547 especies de plantas vasculares en Flores, más de cincuenta endémicas del
+      archipiélago. Entre las raras están la no-me-esqueças (*Myosotis azorica*) y la *Veronica dabneyi*, que
+      solo se conoce silvestre en el grupo occidental. Hay además tres artrópodos terrestres endémicos de la
+      isla: *Tarphius floresensis*, *Agyneta depigmentata* y *Cheiracanthium floresense*.
+
+
+      En las aves, el dato mayor lo da la UNESCO: el charrán rosado tiene en las Azores en torno al 40 % de su
+      población total anidando en la zona costera de Flores. Durante la ruta se ven aves endémicas y algunas
+      migratorias que anidan en la isla.
+
+
+      El tiempo explica la isla. Llueve de forma notable todo el año, aunque menos en verano, y la humedad
+      ronda el 80 % a nivel del mar y sube con la altitud. De mayo a octubre es la mejor época y la isla está
+      poco concurrida.
+    visit: >-
+      Hay un centro de visitantes en Boqueirão, donde puedes informarte antes de salir. Un mirador de Poço da
+      Ribeira do Ferreiro permite contemplar numerosas cascadas y nacientes; el agua de la poza continúa por
+      la Ribeira do Ferreiro, y el lugar forma parte del paisaje protegido de la zona central y los
+      acantilados de la costa oeste.
+
+
+      Para caminar, hay dos referencias. La primera etapa de la Grande Rota das Flores recorre 21 km entre
+      Santa Cruz y Ponta Delgada. El sendero Ponta Delgada–Fajã Grande es una ruta lineal de 12,9 km que dura
+      cuatro horas y media. En Fajãzinha, un pueblo típico azoriano, hay ruinas de molinos de agua y varias
+      cascadas cercanas que desaguan en la Ribeira Grande.
+    history: >-
+      Diogo de Teive y su hijo João descubrieron Flores a finales del verano de 1452; la isla se pobló de
+      forma permanente en 1510, bajo el rey Manuel I, con gente de varias regiones del norte de Portugal.
+      Entre la década de 1760 y principios del siglo XX, balleneros estadounidenses cazaron cachalotes en
+      aguas de las Azores y reclutaron a muchos isleños. Para los lectores ingleses, Flores es conocida por el
+      primer verso del poema *The Revenge* de Tennyson. En 1962 los franceses empezaron una instalación de
+      seguimiento de misiles, que se inauguró en 1966, y cuando se marcharon, en 1994, el turismo pasó a ser
+      la industria principal.
+    before: >-
+      Prepárate para la lluvia y la humedad. Comprueba las condiciones de los senderos y del centro de
+      visitantes en la web del gestor de los parques de las Azores antes de ir.
+    around: >-
+      A veinte kilómetros está el [Parque Natural de la Isla de Corvo
+      (Azores)](/lugar/parque-natural-da-ilha-do-corvo/), la otra isla del grupo occidental.
+  en:
+    intro: >-
+      On an island of 143 km² it rains around 240 days a year, and the effect is obvious from the very first
+      viewpoint: water tumbling everywhere. Flores is the westernmost point of Portugal, situated in the
+      Azores upon the North American plate. In summer it is blanketed by blue and pink hydrangeas, and this
+      profusion of flowers gave the island its Portuguese name.
+
+
+      Since 2009 it has been a UNESCO Biosphere Reserve, encompassing the entire island and the surrounding
+      sea up to 4.8 km from the shore.
+    landscape: >-
+      Flores is the emerged summit of a submarine mountain near the Mid-Atlantic Ridge, born of volcanic
+      activity less than ten million years ago. After a prolonged slumber of about 200,000 years,
+      phreatomagmatic eruptions with basaltic lava flows occurred in the Holocene. Those craters, once filled
+      with water, became lakes: seven on the island, alongside maar structures in the central massif.
+
+
+      The highest peak is Morro Alto at 914 m. The central plateau, at an average altitude of 600-700 m,
+      defines the island's personality. Here lie some of its finest habitats, such as high-altitude peat bogs
+      that regulate water flow across the landscape; the island harbours exceptionally well-preserved wooded
+      bogs of the North Atlantic, and the Planalto Central belongs to the Natura 2000 network and is a
+      designated Ramsar site.
+
+
+      The coastline is another world entirely: towering sea cliffs, islets, and coastal caves sculpted by
+      Atlantic breakers, forming breeding grounds for several seabird species. Geological curiosities abound,
+      such as Águas Quentes, small boiling sulfurous springs on the Costa do Lajedo accessible via a
+      challenging walk, and the Gruta dos Enxaréus, a vast sea cavern some 50 m long and 25 m wide.
+    wildlife: >-
+      A total of 547 vascular plant species have been catalogued on Flores, more than fifty of which are
+      endemic to the archipelago. Rarities include the Azorean forget-me-not (*Myosotis azorica*) and
+      *Veronica dabneyi*, known in the wild only from the Western Group. There are also three terrestrial
+      arthropods endemic to the island: *Tarphius floresensis*, *Agyneta depigmentata*, and *Cheiracanthium
+      floresense*.
+
+
+      Among birds, UNESCO highlights a striking figure: the roseate tern has around 40 % of its total Azorean
+      breeding population nesting along the coastal cliffs of Flores. Along trails you can observe endemic
+      landbirds and passing migrants that rest on the island.
+
+
+      The climate explains the landscape. Rain falls markedly throughout the year, though easing in summer,
+      with humidity averaging around 80 % at sea level and climbing with altitude. May to October is the most
+      pleasant period, and the island remains quiet and uncrowded.
+    visit: >-
+      There is a visitor centre in Boqueirão where you can gather trail information before setting out. A
+      lookout at Poço da Ribeira do Ferreiro reveals countless waterfalls and springs cascading down a sheer
+      green wall; water from the pool continues into the Ribeira do Ferreiro, part of the Protected Landscape
+      of the Central Zone and Western Coast Cliffs.
+
+
+      For hiking, two classic routes stand out. The first stage of the Grande Rota das Flores covers 21 km
+      between Santa Cruz and Ponta Delgada. The trail from Ponta Delgada to Fajã Grande is a 12.9 km linear
+      walk taking about four and a half hours. In Fajãzinha, a picturesque Azorean village, you will find
+      ruins of traditional watermills and nearby cascades emptying into the Ribeira Grande.
+    history: >-
+      Diogo de Teive and his son João sighted Flores in late summer 1452; permanent settlement began in 1510
+      under King Manuel I, drawing colonists from northern Portugal. Between the 1760s and the early twentieth
+      century, American whalers hunted sperm whales in Azorean waters and recruited many islanders into their
+      crews. To English readers, Flores is famous from the opening line of Tennyson's poem *The Revenge*. In
+      1962 the French began constructing a missile telemetry station, inaugurated in 1966; when they departed
+      in 1994, tourism became the primary economic engine.
+    before: >-
+      Come prepared for rain and humidity. Check trail conditions and visitor centre hours on the official
+      Azores Parks website before setting out.
+    around: >-
+      Twenty kilometres away lies [Corvo Island Natural Park
+      (Azores)](/lugar/parque-natural-da-ilha-do-corvo/), the sister island of the Western Group.
+  fr:
+    intro: >-
+      Sur une île de 143 km², il pleut environ 240 jours par an, et le résultat saute aux yeux dès le premier
+      belvédère : des cascades dévalent de toutes parts. Flores constitue le point le plus occidental du
+      Portugal, aux Açores, juchée sur la plaque tectonique nord-américaine. En été, elle se couvre
+      d'hortensias aux généreuses inflorescences bleues ou roses, et de cette exubérance florale découle son
+      nom portugais.
+
+
+      Depuis 2009, elle est classée réserve de biosphère par l'UNESCO, englobant l'île entière ainsi qu'une
+      zone marine s'étendant jusqu'à environ 4,8 km des côtes.
+    landscape: >-
+      Flores est la partie émergée d'un mont sous-marin voisin de la dorsale médio-atlantique, né d'une
+      activité volcanique vieille de moins de dix millions d'années. Après un long repos entamé il y a environ
+      200 000 ans, des éruptions phréatomagmatiques avec coulées de lave se sont produites à l'Holocène. Ces
+      cratères, en se remplissant d'eau, ont donné naissance à des lacs : sept sur l'île, aux côtés de
+      structures de maars sur le massif central.
+
+
+      Le point culminant est le Morro Alto, à 914 m d'altitude. Le plateau central, situé à une altitude
+      moyenne de 600-700 m, forge l'identité de l'île. On y trouve certains de ses habitats les plus précieux,
+      comme les tourbières d'altitude qui régulent le régime hydrologique insulaire ; l'île abrite des
+      tourbières boisées particulièrement bien conservées de l'Atlantique Nord, et le Planalto Central est
+      intégré au réseau Natura 2000 et classé site Ramsar.
+
+
+      Le littoral offre un tout autre spectacle : falaises vertigineuses, îlots et grottes marines sculptés
+      par l'érosion marine, servant d'aire de reproduction à plusieurs oiseaux de mer. On y découvre aussi des
+      curiosités géologiques, comme les Águas Quentes, petites sources thermales d'eau sulfureuse
+      bouillonnante à Costa do Lajedo, dont l'accès à pied peut être malaisé, et la grotte d'Enxaréus, vaste
+      cavité d'environ 50 m de long sur 25 m de large.
+    wildlife: >-
+      On a recensé 547 espèces de plantes vasculaires à Flores, dont plus de cinquante sont endémiques de
+      l'archipel. Parmi les raretés figurent le myosotis des Açores (*Myosotis azorica*) et *Veronica
+      dabneyi*, connue à l'état sauvage uniquement dans le groupe occidental. L'île compte en outre trois
+      arthropodes terrestres endémiques : *Tarphius floresensis*, *Agyneta depigmentata* et *Cheiracanthium
+      floresense*.
+
+
+      Du côté de l'avifaune, l'UNESCO relève une donnée majeure : la sterne de Dougall rassemble aux Açores
+      environ 40 % de sa population nicheuse totale sur la bande côtière de Flores. En chemin, on croise des
+      passereaux endémiques et quelques migrateurs qui font étape sur l'île.
+
+
+      Le climat explique le paysage. Les précipitations sont marquées toute l'année, quoique plus modérées en
+      été, et le taux d'humidité avoisine 80 % au niveau de la mer pour s'élever avec l'altitude. La période
+      de mai à octobre est la plus favorable, et l'île reste paisible et peu fréquentée.
+    visit: >-
+      Un centre d'accueil des visiteurs est établi à Boqueirão, où vous pouvez prendre conseil avant d'entamer
+      vos randonnées. Le belvédère du Poço da Ribeira do Ferreiro permet d'admirer d'innombrables cascades
+      jaillissant d'une falaise verdoyante ; les eaux du bassin se poursuivent dans la Ribeira do Ferreiro, et
+      ce site spectaculaire fait partie du paysage protégé de la zone centrale et des falaises côtières
+      occidentales.
+
+
+      Pour la marche, deux itinéraires s'imposent. La première étape de la Grande Rota das Flores s'étend sur
+      21 km entre Santa Cruz et Ponta Delgada. Le sentier de Ponta Delgada à Fajã Grande est un parcours
+      linéaire de 12,9 km d'une durée de quatre heures et demie. À Fajãzinha, village açorien typique,
+      subsistent les ruines de moulins à eau et plusieurs cascades proches se déversent dans la Ribeira
+      Grande.
+    history: >-
+      Diogo de Teive et son fils João découvrirent Flores à la fin de l'été 1452 ; le peuplement permanent
+      débuta en 1510, sous le règne de Manuel Ier, avec des colons originaires de plusieurs provinces du nord
+      du Portugal. Entre les années 1760 et le début du XXe siècle, des baleiniers américains chassèrent le
+      cachalot dans les eaux des Açores et recrutèrent de nombreux îliens. Pour les lecteurs anglophones,
+      Flores est immortalisée par le premier vers du poème *The Revenge* de Tennyson. En 1962, les Français
+      commencèrent l'installation d'une station de télémesure de missiles, inaugurée en 1966 ; après leur
+      départ en 1994, le tourisme devint la ressource économique majeure.
+    before: >-
+      Prévoyez un équipement adapté à la pluie et à l'humidité. Vérifiez l'état des sentiers et les horaires
+      du centre d'accueil sur le site officiel des parcs des Açores avant de vous mettre en route.
+    around: >-
+      À vingt kilomètres se trouve le [parc naturel de l'île de Corvo
+      (Açores)](/lugar/parque-natural-da-ilha-do-corvo/), l'autre terre du groupe occidental.
+  de:
+    intro: >-
+      Auf einer Insel von 143 km² regnet es an rund 240 Tagen im Jahr, und das Ergebnis zeigt sich vom ersten
+      Aussichtspunkt an: Überall stürzen Wasserfälle zu Tal. Flores ist der westlichste Punkt Portugals auf
+      den Azoren und liegt bereits auf der Nordamerikanischen tektonischen Platte. Im Sommer überziehen üppige
+      blaue und rosafarbene Hortensien die Insel, und ihrem Blumenreichtum verdankt sie ihren portugiesischen
+      Namen.
+
+
+      Seit 2009 ist sie ein UNESCO-Biosphärenreservat, das die gesamte Insel und das Meer bis etwa 4,8 km vor
+      der Küste umfasst.
+    landscape: >-
+      Flores ist der emporragende Gipfel eines Unterwasservulkans nahe dem Mittelatlantischen Rücken,
+      entstanden durch vulkanische Aktivität vor weniger als zehn Millionen Jahren. Nach einer langen
+      Ruhephase vor rund 200 000 Jahren ereigneten sich im Holozän phreatomagmatische Eruptionen mit
+      Basaltlavaströmen. Jene Krater füllten sich mit Wasser und bildeten Seen: sieben auf der Insel,
+      begleitet von Maar-Strukturen im zentralen Bergmassiv.
+
+
+      Der höchste Punkt ist der Morro Alto mit 914 m. Die zentrale Hochebene auf durchschnittlich 600-700 m
+      Meereshöhe prägt den Charakter der Insel. Dort liegen herausragende Lebensräume wie die Hochmoore, die
+      den Wasserhaushalt der Landschaft regulieren; die Insel bewahrt besonders gut erhaltene Waldmoore des
+      Nordatlantiks, und das Planalto Central gehört zum Natura-2000-Netzwerk sowie zu den Ramsar-Gebieten.
+
+
+      Die Küste bildet eine eigene Welt: Steile Klippen, Felseneilande und Meereshöhlen, geformt von der
+      Meeresbrandung und Brutplatz mehrerer Seevogelarten. Hinzu kommen geologische Besonderheiten wie die
+      Águas Quentes, kochend heiße Schwefelquellen an der Costa do Lajedo, die zu Fuß schwer erreichbar sind,
+      und die Enxaréus-Grotte, ein gewaltiger Hohlraum von etwa 50 m Länge und 25 m Breite.
+    wildlife: >-
+      Auf Flores wurden 547 Gefäßpflanzenarten erfasst, von denen mehr als fünfzig im Archipel endemisch sind.
+      Zu den Seltenheiten zählen das Azoren-Vergissmeinnicht (*Myosotis azorica*) und *Veronica dabneyi*, die
+      wild nur in der Westgruppe vorkommt. Zudem gibt es drei auf der Insel endemische Landarthropoden:
+      *Tarphius floresensis*, *Agyneta depigmentata* und *Cheiracanthium floresense*.
+
+
+      Unter den Vögeln hebt die UNESCO ein bemerkenswertes Detail hervor: Die Rosenseeschwalbe hat auf den
+      Azoren etwa 40 % ihres gesamten Brutbestands an den Küsten von Flores konzentriert. Beim Wandern lassen
+      sich endemische Landvögel sowie rastende Zugvögel beobachten.
+
+
+      Das Wetter prägt die Insel grundlegend. Es regnet das ganze Jahr über ergiebig, wenn auch im Sommer
+      etwas weniger, und die Luftfeuchtigkeit liegt auf Meereshöhe um 80 % und steigt landeinwärts an. Von Mai
+      bis Oktober herrscht die angenehmste Reisezeit, und die Insel ist wenig besucht.
+    visit: >-
+      In Boqueirão gibt es ein Besucherzentrum, in dem du dich vor der Wanderung informieren kannst. Ein
+      Aussichtspunkt am Poço da Ribeira do Ferreiro eröffnet den Blick auf zahllose Wasserfälle, die über eine
+      senkrechte grüne Felswand herabstürzen; das Wasser fließt über die Ribeira do Ferreiro ab, und der Ort
+      ist Teil der geschützten Landschaft der Zentralzone und Westküstenkanten.
+
+
+      Zum Wandern bieten sich zwei herausragende Routen an. Die erste Etappe der Grande Rota das Flores
+      umfasst 21 km zwischen Santa Cruz und Ponta Delgada. Der Wanderweg Ponta Delgada–Fajã Grande ist eine
+      12,9 km lange Streckenwanderung, die rund vierieinhalb Stunden beansprucht. In Fajãzinha, einem
+      malerischen azoreanischen Dorf, finden sich historische Wassermühlenruinen und nahegelegene Kaskaden,
+      die in die Ribeira Grande münden.
+    history: >-
+      Diogo de Teive und sein Sohn João sichteten Flores im Spätsommer 1452; die dauerhafte Besiedlung begann
+      1510 unter König Manuel I. mit Siedlern aus Nordportugal. Zwischen den 1760er-Jahren und dem frühen
+      zwanzigsten Jahrhundert jagten US-amerikanische Walfänger Pottwale in azoreanischen Gewässern und
+      musterten viele Inseleinwohner an. Im englischsprachigen Raum ist Flores durch die Anfangszeile von
+      Tennysons Gedicht *The Revenge* berühmt. 1962 begannen die Franzosen mit dem Bau einer
+      Raketentelesignalanlage, die 1966 eingeweiht wurde; nach ihrem Abzug im Jahr 1994 wurde der Tourismus
+      zum wichtigsten Wirtschaftszweig.
+    before: >-
+      Richte dich auf Regen und hohe Luftfeuchtigkeit ein. Erkundige dich vor dem Aufbruch auf der Website der
+      azoreanischen Naturparkverwaltung über den Zustand der Wanderwege und Öffnungszeiten des
+      Besucherzentrums.
+    around: >-
+      In zwanzig Kilometern Entfernung liegt der [Naturpark der Insel Corvo
+      (Azoren)](/lugar/parque-natural-da-ilha-do-corvo/), die Nachbarinsel der Westgruppe.
+  it:
+    intro: >-
+      Su un'isola di 143 km² piove circa 240 giorni all'anno, e l'effetto è evidente dal primo belvedere:
+      acqua che precipita da ogni parete. Flores è il lembo più occidentale del Portogallo, nelle Azzorre,
+      poggiato sulla placca tettonica nordamericana. In estate la rivestono le ortensie, dai grandi fiori
+      azzurri o rosati, e dall'abbondanza floreale trae origine il toponimo portoghese.
+
+
+      Dal 2009 è Riserva della Biosfera dell'UNESCO e include l'intera isola e il mare circostante fino a
+      circa 4,8 km dalla costa.
+    landscape: >-
+      Flores costituisce la porzione emersa di un rilievo sottomarino prossimo alla dorsale medio-atlantica,
+      originatosi da un'attività vulcanica risalente a meno di dieci milioni di anni fa. Dopo una lunga quiete
+      iniziata circa 200 000 anni fa, nell'Olocene si susseguirono eruzioni freatomagmatiche con colate di
+      lava. Quei crateri, riempiendosi d'acqua, hanno dato origine a laghi: sette sull'isola, insieme a
+      strutture di maar nel massiccio centrale.
+
+
+      Il punto più elevato è il Morro Alto, a 914 m. L'altopiano centrale, a 600-700 m di quota media,
+      definisce la fisionomia dell'isola. Qui si trovano alcuni dei suoi habitat più preziosi, come le
+      torbiere d'alta quota che regolano il drenaggio del paesaggio; l'isola custodisce torbiere boscate
+      dell'Atlantico settentrionale straordinariamente integre, e il Planalto Central rientra nella rete
+      Natura 2000 ed è zona Ramsar.
+
+
+      Il litorale mostra tutt'altro volto: alte falesie, faraglioni e grotte marine scolpiti dal moto ondoso,
+      scelti per la nidificazione da svariati uccelli marini. Spiccano anche rarità geologiche, come le Águas
+      Quentes, piccole sorgenti termali sulfuree bollenti a Costa do Lajedo raggiungibili con un percorso
+      disagevole, e la grotta di Enxaréus, una cavità marina di circa 50 m di lunghezza per 25 m di larghezza.
+    wildlife: >-
+      A Flores sono state censite 547 specie di piante vascolari, più di cinquanta delle quali endemiche delle
+      Azzorre. Tra le specie rare risaltano il nontiscordardimé azzorriano (*Myosotis azorica*) e *Veronica
+      dabneyi*, presente allo stato spontaneo solo nel gruppo occidentale. Si contano inoltre tre artropodi
+      terrestri endemici dell'isola: *Tarphius floresensis*, *Agyneta depigmentata* e *Cheiracanthium
+      floresense*.
+
+
+      Per l'avifauna, il dato più significativo è documentato dall'UNESCO: la sterna del Dougall conta nelle
+      Azzorre circa il 40 % della sua popolazione riproduttiva totale nidificante lungo la fascia costiera di
+      Flores. Lungo i sentieri si avvistano uccelli endemici e migratori in sosta.
+
+
+      Il clima forgia l'isola. Le precipitazioni sono cospicue durante tutto l'anno, benché più moderate in
+      estate, e l'umidità si attesta intorno all'80 % a livello del mare salendo con la quota. Da maggio a
+      ottobre è il periodo più indicato e l'isola è poco frequentata.
+    visit: >-
+      C'è un centro visite a Boqueirão dove puoi documentarti prima di partire. Il punto panoramico del Poço
+      da Ribeira do Ferreiro permette di ammirare cascate e risorgive che sgorgano da una parete verticale
+      smeraldina; l'acqua dello specchio prosegue nella Ribeira do Ferreiro, e il luogo appartiene al
+      paesaggio protetto della zona centrale e delle falesie occidentali.
+
+
+      Per camminare, vi sono due riferimenti. La prima tappa della Grande Rota das Flores copre 21 km tra
+      Santa Cruz e Ponta Delgada. Il sentiero Ponta Delgada–Fajã Grande è una traversata di 12,9 km che
+      richiede quattro ore e mezza. A Fajãzinha, borgo tipico azzorriano, si ammirano le vestigia di mulini ad
+      acqua e varie cascate che confluiscono nella Ribeira Grande.
+    history: >-
+      Diogo de Teive e suo figlio João scoprirono Flores sul finire dell'estate del 1452; l'insediamento
+      stabile prese avvio nel 1510 sotto re Manuele I con coloni giunti da varie province del nord del
+      Portogallo. Tra il decennio del 1760 e l'inizio del XX secolo, i balenieri statunitensi cacciarono
+      capodogli nelle acque azzorriane reclutando molti isolani. Per il pubblico anglosassone, Flores è nota
+      dal primo verso del poema *The Revenge* di Tennyson. Nel 1962 i francesi avviarono la costruzione di una
+      base di telemetria missilistica, inaugurata nel 1966; dopo la loro partenza nel 1994, il turismo è
+      divenuto la risorsa economica fondamentale.
+    before: >-
+      Attrezzati contro la pioggia e l'umidità costante. Verifica lo stato di percorribilità dei sentieri e
+      gli orari del centro visite sul portale ufficiale dei parchi delle Azzorre prima di metterti in viaggio.
+    around: >-
+      A venti chilometri sorge il [Parco naturale dell'isola di Corvo
+      (Azzorre)](/lugar/parque-natural-da-ilha-do-corvo/), l'altra isola del gruppo occidentale.
+  pt:
+    intro: >-
+      Numa ilha de 143 km² chove cerca de 240 dias por ano, e o efeito nota-se logo a partir do primeiro
+      miradouro: água a cair por todos os lados. As Flores constituem o ponto mais ocidental de Portugal, nos
+      Açores, assentes na placa norte-americana. No verão cobrem-se de hortênsias com grandes inflorescências
+      azuis ou rosadas, devendo-se a essa fartura floral o seu nome português.
+
+
+      Desde 2009 é Reserva da Biosfera da UNESCO, abrangendo a totalidade da ilha e o mar até cerca de 4,8 km
+      da linha de costa.
+    landscape: >-
+      As Flores são o cimo emerso de um monte submarino próximo da crista média atlântica, nascido de
+      atividade vulcânica com menos de dez milhões de anos. Após um prolongado repouso iniciado há cerca de
+      200 000 anos, ocorreram erupções freatomagmáticas com escoadas lávicas no Holoceno. Essas crateras, ao
+      acumularem água, deram origem a lagoas: sete na ilha, a par de estruturas de maar no maciço central.
+
+
+      O ponto culminante é o Morro Alto, com 914 m. O planalto central, a 600-700 m de altitude média, define
+      a matriz da ilha. Ali encontram-se alguns dos seus melhores habitats, como as turfeiras de altitude que
+      regulam a dinâmica hídrica da paisagem; a ilha abriga turfeiras arborizadas excecionalmente bem
+      conservadas do Atlântico Norte, integrando o Planalto Central a rede Natura 2000 e a lista de sítios
+      Ramsar.
+
+
+      A costa é um mundo à parte: arribas imponentes, ilhéus e grutas litorais talhados pela força do mar,
+      servindo de refúgio de nidificação a diversas aves marinhas. Surgem também raridades geológicas, como as
+      Águas Quentes, pequenas nascentes termais de água sulfurosa fervente na Costa do Lajedo cujo acesso a pé
+      pode ser difícil, e a gruta dos Enxaréus, uma vasta cavidade com cerca de 50 m de comprimento por 25 m
+      de largura.
+    wildlife: >-
+      Estão inventariadas 547 espécies de plantas vasculares nas Flores, mais de cinquenta das quais endémicas
+      do arquipélago. Entre as raridades contam-se a não-me-esqueças (*Myosotis azorica*) e a *Veronica
+      dabneyi*, conhecida no estado silvestre apenas no grupo ocidental. Registam-se ainda três artrópodes
+      terrestres endémicos da ilha: *Tarphius floresensis*, *Agyneta depigmentata* e *Cheiracanthium
+      floresense*.
+
+
+      Nas aves, o indicador de maior vulto provém da UNESCO: a chilreta-rosada concentra nos Açores cerca de
+      40 % da sua população reprodutora total a nidificar na faixa costeira das Flores. Ao longo dos trilhos
+      avistam-se aves endémicas e algumas migradoras que escalam a ilha.
+
+
+      O clima explica a paisagem. Chove significativamente ao longo de todo o ano, conquanto com menor
+      intensidade no verão, e a humidade ronda os 80 % ao nível do mar, aumentando com a altitude. De maio a
+      outubro desfruta-se da melhor época, permanecendo a ilha com escassa afluência.
+    visit: >-
+      Existe um centro de interpretação ambiental no Boqueirão, onde podes recolher informações antes de
+      partir. O miradouro do Poço da Ribeira do Ferreiro faculta a contemplação de sucessivas cascatas e
+      ressurgências sobre uma imensa escarpa vegetalizada; a água da lagoa prolonga-se pela Ribeira do
+      Ferreiro, integrando o local a paisagem protegida da zona central e arribas da costa ocidental.
+
+
+      Para caminhar, sobressaem duas referências. A primeira etapa da Grande Rota das Flores percorre 21 km
+      entre Santa Cruz e Ponta Delgada. O trilho Ponta Delgada–Fajã Grande é um percurso linear de 12,9 km com
+      duração aproximada de quatro horas e meia. Na Fajãzinha, povoação açoriana caraterística, preservam-se
+      ruínas de moinhos de água e várias quedas de água nas proximidades que desaguam na Ribeira Grande.
+    history: >-
+      Diogo de Teive e o seu filho João avistaram as Flores em finais do verão de 1452; o povoamento
+      permanente consolidou-se em 1510 sob o reinado de D. Manuel I, com povoadores oriundos de várias
+      províncias do norte de Portugal. Entre a década de 1760 e o início do século XX, baleeiros
+      norte-americanos caçaram cachalotes em águas açorianas e recrutaram numerosos ilhéus. Na literatura
+      anglo-saxónica, as Flores ficaram célebres pelo verso de abertura do poema *The Revenge* de Tennyson. Em
+      1962 os franceses deram início à construção de uma estação de telemedida de mísseis, inaugurada em 1966;
+      após a sua desativação em 1994, o turismo converteu-se na principal atividade económica.
+    before: >-
+      Prevê vestuário adequado para chuva e humidade persistente. Confirma as condições dos trilhos e o
+      horário do centro de visitantes no portal oficial dos parques dos Açores antes de partires.
+    around: >-
+      A vinte quilómetros situa-se o [Parque Natural da Ilha do Corvo
+      (Açores)](/lugar/parque-natural-da-ilha-do-corvo/), a ilha vizinha do grupo ocidental.
+fuentes:
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/4/biodiversidade
+    titulo: Biodiversidade – Parque Natural das Flores
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/4/poi/33
+    titulo: Poço da Ribeira do Ferreiro
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/4/trilho/60
+    titulo: Grande Rota – Santa Cruz das Flores a Ponta Delgada
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/4/trilho/11
+    titulo: Ponta Delgada - Fajã Grande PR1FLO
+    fecha_consulta: '2026-10-29'
+  - url: https://parquesnaturais.azores.gov.pt/pt/noticias/1135
+    titulo: Nota à imprensa – Poço da Ribeira do Ferreiro
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Flores_Island,_Azores
+    titulo: Flores Island, Azores - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.unesco.org/en/mab/flores-island
+    titulo: Flores Island | UNESCO
+    fecha_consulta: '2026-10-29'

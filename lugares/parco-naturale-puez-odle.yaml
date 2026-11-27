@@ -1,0 +1,616 @@
+id: parco-naturale-puez-odle
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural Puez-Odle
+  en: Puez-Odle Natural Park / Naturpark Puez-Geisler
+  fr: Parc naturel Puez-Odle / Naturpark Puez-Geisler
+  de: Naturpark Puez-Geisler / Parco Naturale Puez-Odle
+  it: Parco Naturale Puez-Odle / Naturpark Puez-Geisler
+  pt: Parque Natural Puez-Odle / Naturpark Puez-Geisler
+nombre_original: Parco Naturale Puez-Odle / Naturpark Puez-Geisler
+alias:
+  - Parco Naturale Puez-Odle / Naturpark Puez-Geisler
+paises:
+  - IT
+region:
+  es: Alto Adigio / Südtirol (Val Gardena / Val di Funes / Santa Cristina)
+  en: South Tyrol (Val Gardena / Val di Funes / Santa Cristina)
+  fr: Haut-Adige / Südtirol (Val Gardena / Val di Funes / Santa Cristina)
+  de: Südtirol (Gröden / Villnöß / St. Christina)
+  it: Alto Adige / Südtirol (Val Gardena / Val di Funes / Santa Cristina)
+  pt: Alto Ádige / Südtirol (Val Gardena / Val di Funes / Santa Cristina)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46.6
+  lon: 11.82
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 6013
+  nombre_en_la_fuente: Parco naturale Puez Odle
+  categoria_uicn: IV
+  capa: capas/cdda/parco-naturale-puez-odle.geojson
+habitats:
+  - high_mountain
+  - karst
+  - mature_forest
+designaciones:
+  - natural_park
+  - unesco_whs
+  - natura2000
+  - iucn_v
+especies:
+  - rupicapra_rupicapra
+  - aquila_chrysaetos
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en la célebre vista del mirador de la iglesia de Santa Maddalena en Val di Funes
+  en: High at the famous Santa Maddalena church viewpoint in Val di Funes
+  fr: Forte au célèbre belvédère de l'église Santa Maddalena dans le Val di Funes
+  de: Hoch am bekannten Fotomotiv der Kirche von St. Magdalena im Villnößtal
+  it: Alta presso il celebre punto panoramico della chiesetta di Santa Maddalena in Val di Funes
+  pt: Elevada no afamado miradouro da igreja de Santa Maddalena no Val di Funes
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Natural Puez-Odle
+    url: https://parchi-naturali.provincia.bz.it/it/parco-naturale-puez-odle
+  - titulo: Centro de visitantes — Puez-Odle
+    url: https://parchi-naturali.provincia.bz.it/it/centro-visite-puez-odle
+resumen:
+  es: >-
+    Las afiladísimas torres de dolomía de las Odle/Geisler alzándose sobre las praderas alpinas de la Val di
+    Funes.
+  en: The razor-sharp dolomitic spires of the Odle/Geisler towering above the alpine pastures of Val di Funes.
+  fr: Les aiguilles dolomitiques effilées des Odle/Geisler dominant les prairies alpines du Val di Funes.
+  de: Die messerscharfen Dolomitenzacken der Geislergruppe über den sonnigen Almen des Villnößtals.
+  it: Le affilatissime guglie dolomitiche delle Odle/Geisler che dominano i pascoli alpini della Val di Funes.
+  pt: As afiladas agulhas dolomíticas das Odle/Geisler erguendo-se sobre as pastagens alpinas do Val di Funes.
+unico:
+  es: >-
+    En un mismo parque están todos los tipos de roca y todos los estratos típicos de las Dolomitas, desde el
+    zócalo de pórfidos hasta los sedimentos del Jurásico y el Cretácico.
+  en: >-
+    Within a single park lie all the rock types and typical strata of the Dolomites, from the porphyry
+    basement to Jurassic and Cretaceous sediments.
+  fr: >-
+    Un seul parc réunit tous les types de roches et toutes les strates représentatives des Dolomites, du socle
+    de porphyres aux sédiments du Jurassique et du Crétacé.
+  de: >-
+    In einem einzigen Park sind sämtliche Gesteinsarten und typischen Schichten der Dolomiten vertreten, vom
+    Quarzporphyrsockel bis zu Sedimenten des Jura und der Kreide.
+  it: >-
+    In un unico parco si incontrano tutti i tipi di roccia e tutti gli strati tipici delle Dolomiti, dal
+    basamento porfirico ai sedimenti del Giurassico e del Cretacico.
+  pt: >-
+    Num mesmo parque reúnem-se todos os tipos de rocha e todos os estratos característicos das Dolomitas,
+    desde o soco de pórfiro aos sedimentos do Jurássico e do Cretáceo.
+observaciones:
+  es: >-
+    Comprueba con el gestor el horario del centro de visitantes y el estado de los senderos y los refugios
+    antes de salir.
+texto:
+  es:
+    intro: >-
+      Hay montañas que se miran y montañas que se leen. Puez-Odle se lee: en sus paredes están apiladas, una
+      sobre otra, casi todas las capas de roca que definen las Dolomitas, y el parque entero parece un libro
+      de geología abierto al aire libre. Entre los valles Isarco, Pusteria, Badia y Gardena se levantan dos
+      macizos, el del Puez y el de las Odle, con torres de dolomía que alcanzan los 3.025 m en la Furchetta y
+      el Sass Rigais.
+    landscape: >-
+      Empieza por abajo, porque así se formó. El zócalo de las Dolomitas es de pórfidos y filitas, y encima se
+      depositó una arenisca que aflora cerca del Sass de Putia. Después llegó el mar: la capa de Bellerophon
+      se formó con las conchas de un gasterópodo del antiguo océano Tetis y en algunos puntos alcanza varios
+      cientos de metros de espesor. Sobre ella reposa la formación de Werfen, y sobre esta, la dolomía, la
+      roca característica de la región.
+
+
+      La dolomía manda en el paisaje. La del Sciliar forma pináculos y torres en las Odle di Funes; la dolomía
+      principal, más clara, aparece en Crespeina, en la Gherdenacia y alrededor del Puez, donde el karst abre
+      numerosos sumideros y grietas. Encima de ella viene la formación de Raibl, rica en fósiles y de colores
+      que destacan en el panorama; como es impermeable, protege la dolomía de debajo y crea zonas con
+      manantiales, como en Vallunga. Los últimos sedimentos son del Jurásico y del Cretácico, también con
+      fósiles, y dan colores que van del rojo al verde en formaciones como el Col de Muntijela y el Col de la
+      Soné.
+
+
+      El resultado es un paisaje de roca desnuda: casi todo el parque es dolomía y pedregal, y el bosque queda
+      en los bordes. Lo que domina son los pastos, los prados y, en altura, céspedes alpinos de cárices y
+      gramíneas azuladas. Los valles más notables del parque son Vallunga, val Chedul, val di Lietres, val
+      Culea y val Scura.
+    wildlife: >-
+      La primavera pinta los prados. En los de montaña florecen la pulsatila, la soldanela, la primula
+      farinosa y el azafrán, y en los de Zanser Alm, las anémonas de primavera, las soldanelas, las primulas y
+      los azafranes a principios de estación. En Vallunga crecen también el rododendro enano, el zapatito de
+      Venus, el lirio martagón y el lirio rojo. En el bosque claro de Vallunga hay abeto rojo, alerce y pino
+      cembro, con dafne rosada y brezo de invierno bajo los árboles. Y a gran altura, donde el viento solo
+      deja crecer flora a ras de suelo, vegetan sobre todo el carex y la sesleria, y en sitios resguardados la
+      edelweiss.
+
+
+      La fauna se reparte por el relieve. El [ciervo](/especie/cervus_elaphus/) frecuenta la parte norte del
+      parque, el [rebeco](/especie/rupicapra_rupicapra/) vive en Vallunga y en las Odle di Funes, y el
+      [corzo](/especie/capreolus_capreolus/) se ve en las laderas junto a la Malga di Zannes. Las
+      [marmotas](/especie/marmota_marmota/) se observan en las laderas occidentales de la Cirgruppe y en
+      Medalges Alm y Cisles Alm.
+
+
+      En Vallunga se observa el [búho real](/especie/bubo_bubo/) y se puede oír el canto del
+      [urogallo](/especie/tetrao_urogallus/). En los prados anidan el gorrión alpino, la collalba gris, el
+      bisbita alpino y el colirrojo tizón; en las cumbres más altas vuelan las chovas piquigualdas, los
+      cuervos y, rara pero presente, el [águila real](/especie/aquila_chrysaetos/). En los lagos pequeños
+      viven el tritón alpino, la salamandra alpina y la lagartija vivípara, y en las zonas boscosas más
+      tranquilas no es raro encontrar un marasso.
+    visit: >-
+      El centro de visitantes del parque está en Santa Maddalena, en Villnöß, y es de la provincia de Bolzano.
+      Dentro hay una foto aérea por la que se puede caminar, la sección «Tocar montañas», con rocas y
+      estratos, y en la segunda planta otras dos salas, el «Gabinete de maravillas de la naturaleza» y
+      «Conquistar montañas».
+
+
+      Para un paseo corto, junto a la malga Zannes hay un sendero natural de tres kilómetros, el
+      Naturerlebnisweg Zans, accesible en silla de ruedas, con pendiente máxima del 8 %. Rodea un recinto de
+      ciervos, gamos y corzos y, con sus estaciones informativas, interpreta la geología, la naturaleza y la
+      cultura del valle de Villnöß; algunas incluyen braille. Va desde el aparcamiento por Piuswiese hasta un
+      recinto de fauna y vuelve por el horno de cal y Kelderer Wiese.
+
+
+      Para caminar más, la Alta Vía n.º 2 atraviesa el parque de norte a sur, y la «vía de las Odle» recorre
+      la base norte del grupo de las Odle. Entre los refugios principales están Firenze, Genova, Puez,
+      Gardenaccia, Stevìa y Malga Brogles. Los senderos geológicos del parque muestran las capas y formaciones
+      de distintas etapas de la historia terrestre.
+    history: >-
+      El parque se fundó en 1978 y se amplió en 1999 con la zona de Rasciesa, que pertenece al municipio de
+      Ortisei; en 2009 la UNESCO lo reconoció como parte del Patrimonio Mundial de las Dolomitas. Forma parte
+      de Natura 2000, la red europea para conservar hábitats y especies silvestres.
+    before: >-
+      Comprueba con el gestor el horario del centro de visitantes y el estado de los senderos y los refugios
+      antes de salir.
+    around: >-
+      El [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) está a unos cuatro kilómetros, con las
+      mesetas kársticas y los lagos de las Dolomitas del norte. A veintitrés kilómetros queda el [Parco
+      Naturale Paneveggio - Pale di San Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+  en:
+    intro: >-
+      There are mountains to look at and mountains to read. Puez-Odle is meant to be read: across its walls
+      are stacked, one upon another, almost all the rock layers that define the Dolomites, turning the entire
+      park into an open-air textbook of geology. Between the Isarco, Pusteria, Badia, and Gardena valleys rise
+      two massifs, the Puez and the Odle, with dolomitic towers soaring up to 3,025 m at Furchetta and Sass
+      Rigais.
+    landscape: >-
+      It begins from below, because that is how it was formed. The crystalline basement of the Dolomites
+      consists of porphyries and phyllites, upon which settled a sandstone that crops out near Sass de Putia.
+      Then came the sea: the Bellerophon layer was built from the shells of a marine gastropod of the ancient
+      Tethys Ocean, reaching several hundred metres in thickness in places. Over it rests the Werfen
+      formation, and atop that, dolomite, the signature rock of the region.
+
+
+      Dolomite dominates the scenery. Sciliar Dolomite carves pinnacles and towers in the Odle di Funes; the
+      paler Principal Dolomite appears at Crespeina, across the Gardenaccia, and around the Puez, where karst
+      processes open numerous sinkholes and fissures. Higher still lies the Raibl formation, rich in fossils
+      and vivid in colour across the panorama; being impermeable, it protects the underlying dolomite and
+      feeds spring systems, as seen in Vallunga. The youngest sediments date from the Jurassic and Cretaceous,
+      also laden with fossils, imparting hues from red to green in formations such as Col de Muntijela and Col
+      de la Soné.
+
+
+      The outcome is a landscape of bare stone: almost the entire park is dolomite and scree, with woodland
+      pushed to the outer rims. Pastures, meadows, and high-altitude alpine turf of sedges and blue-tinted
+      grasses predominate. The park's most celebrated valleys are Vallunga, Val Chedul, Val di Lietres, Val
+      Culea, and Val Scura.
+    wildlife: >-
+      Spring paints the alpine meadows. In mountain pastures bloom pasqueflower, alpine snowbell, bird's-eye
+      primrose, and saffron crocus, while around Zanser Alm spring anemones, snowbells, primroses, and
+      crocuses flourish early in the season. Vallunga also shelters dwarf alpenrose, lady's slipper orchid,
+      martagon lily, and orange lily. In the open woods of Vallunga grow Norway spruce, European larch, and
+      Swiss stone pine, with mezereon and winter heath carpeting the understorey. At extreme elevations where
+      wind confines vegetation to the ground, sedges and blue moor-grass prevail, with edelweiss nestled in
+      sheltered pockets.
+
+
+      Wildlife distributes according to topography. [Red deer](/especie/cervus_elaphus/) frequent the northern
+      reaches of the park, [chamois](/especie/rupicapra_rupicapra/) inhabit Vallunga and the Odle di Funes,
+      and [roe deer](/especie/capreolus_capreolus/) roam the slopes adjoining Malga di Zannes. [Alpine
+      marmot](/especie/marmota_marmota/) colonies occupy the western flanks of the Cirgruppe as well as
+      Medalges Alm and Cisles Alm.
+
+
+      Vallunga provides sightings of the [Eurasian eagle-owl](/especie/bubo_bubo/) and echoes with the mating
+      call of the [western capercaillie](/especie/tetrao_urogallus/). In the pastures nest white-winged
+      snowfinch, northern wheatear, water pipit, and black redstart; overhead across the highest summits glide
+      alpine choughs, common ravens, and, rare yet resident, the [golden eagle](/especie/aquila_chrysaetos/).
+      In small alpine pools survive alpine newts, alpine salamanders, and viviparous lizards, while quieter
+      forested sectors occasionally reveal the common European adder.
+    visit: >-
+      The park visitor centre stands in Santa Maddalena in Villnöß, administered by the Autonomous Province of
+      Bozen/Bolzano. Inside, visitors can walk over an aerial photograph of the territory, explore the
+      «Touching Mountains» exhibition displaying local rocks and strata, and on the second floor discover two
+      further rooms: the «Cabinet of Nature's Curiosities» and «Conquering Mountains».
+
+
+      For an easy stroll, beside Malga Zannes begins a three-kilometre nature loop, the Naturerlebnisweg Zans,
+      fully wheelchair-accessible with a maximum gradient of 8 %. It encircles an enclosure for red deer,
+      fallow deer, and roe deer, using interpretive stations with braille to explain the geology, ecology, and
+      culture of the Villnöß valley. The trail leads from the car park across Piuswiese to the wildlife
+      enclosure and returns past the historic lime kiln and Kelderer Wiese.
+
+
+      For longer treks, Alta Via no. 2 traverses the park from north to south, while the «Adolf Munkel Trail»
+      traces the northern foot of the Odle group. Key mountain huts include Rifugio Firenze, Genova, Puez,
+      Gardenaccia, Stevìa, and Malga Brogles. Geological trails throughout the park illustrate strata and rock
+      formations across Earth's geological eras.
+    history: >-
+      The park was established in 1978 and expanded in 1999 to include the Rasciesa area belonging to the
+      municipality of Ortisei; in 2009 UNESCO recognized it as an integral component of the Dolomites World
+      Heritage Site. It forms part of Natura 2000, the European ecological network dedicated to conserving
+      wild habitats and species.
+    before: >-
+      Check with park authorities regarding visitor centre opening hours and the current condition of trails
+      and alpine huts before departing.
+    around: >-
+      The [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) lies about four kilometres away,
+      showcasing the northern Dolomites' karst plateaus and glacial lakes. Twenty-three kilometres away sits
+      [Parco Naturale Paneveggio - Pale di San
+      Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+  fr:
+    intro: >-
+      Il est des montagnes que l'on contemple et des montagnes que l'on déchiffre. Puez-Odle se lit comme un
+      livre : sur ses falaises se superposent, l'une sur l'autre, presque toutes les couches géologiques qui
+      caractérisent les Dolomites, faisant de l'ensemble du parc un traité de géologie à ciel ouvert. Entre
+      les vallées de l'Isarco, de la Pusteria, de la Badia et de la Gardena se dressent deux massifs, le Puez
+      et les Odle, couronnés de tours dolomitiques atteignant 3 025 m à la Furchetta et au Sass Rigais.
+    landscape: >-
+      L'histoire commence par le bas, car c'est ainsi qu'elle s'est forgée. Le socle des Dolomites est
+      constitué de porphyres et de phyllades, sur lequel s'est déposé un grès affleurant près du Sass de
+      Putia. La mer s'est ensuite installée : la couche de Bellerophon est née des coquilles d'un gastéropode
+      de l'ancien océan Téthys et atteint par endroits plusieurs centaines de mètres d'épaisseur. Au-dessus
+      repose la formation de Werfen, surmontée à son tour par la dolomie, roche maîtresse de la région.
+
+
+      La dolomie gouverne le paysage. La dolomie du Sciliar sculpte pinacles et clochers dans les Odle di
+      Funes ; la dolomie principale, plus claire, affleure à Crespeina, sur la Gherdenacia et autour du Puez,
+      où le réseau karstique multiplie dolines et fissures. Plus haut s'étend la formation de Raibl, abondante
+      en fossiles et aux teintes remarquables dans le panorama ; sa nature imperméable protège la dolomie
+      sous-jacente et fait sourdre des émergences, comme en Vallunga. Les derniers dépôts remontent au
+      Jurassique et au Crétacé, également fossilifères, déployant des nuances allant du rouge au vert sur des
+      reliefs tels que le Col de Muntijela et le Col de la Soné.
+
+
+      Il en résulte un paysage minéral d'une grande nudité : la quasi-totalité du parc est faite de dolomie et
+      de pierriers, reléguant la forêt à ses marges. Prédominent les pâturages, les prés de fauche et, sur les
+      hauteurs, des pelouses alpines à laîches et graminées bleutées. Les vallées les plus réputées du parc
+      sont Vallunga, val Chedul, val di Lietres, val Culea et val Scura.
+    wildlife: >-
+      Le printemps métamorphose les alpages. Dans les prairies d'altitude fleurissent pulsatilles,
+      soldanelles, primevères farineuses et safran printanier, tandis qu'à Zanser Alm les anémones,
+      soldanelles et primevères colorent les prés dès le dégel. En Vallunga s'épanouissent aussi le
+      rhododendron nain, le sabot de Vénus, le lis martagon et le lis orangé. Les bois clairs de Vallunga
+      accueillent épicéas, mélèzes et pins cembros, tapissés de bois-joli et de bruyère d'hiver. Aux plus
+      hautes altitudes où le vent ne tolère qu'une végétation rase, végètent surtout laîches et sesléries,
+      avec l'edelweiss dans les anfractuosités abritées.
+
+
+      La faune se répartit au gré du relief. Le [cerf élaphe](/especie/cervus_elaphus/) parcourt la frange
+      septentrionale du parc, le [chamois](/especie/rupicapra_rupicapra/) réside en Vallunga et dans les Odle
+      di Funes, et le [chevreuil](/especie/capreolus_capreolus/) s'observe sur les versants proches de la
+      Malga di Zannes. Les [marmottes des Alpes](/especie/marmota_marmota/) colonisent les pentes occidentales
+      de la Cirgruppe ainsi que Medalges Alm et Cisles Alm.
+
+
+      En Vallunga niche le [hibou grand-duc](/especie/bubo_bubo/) et résonne parfois le chant du [grand
+      tétras](/especie/tetrao_urogallus/). Les prairies accueillent niverolle alpine, traquet motteux, pipit
+      spioncelle et rougequeue noir ; au-dessus des plus hauts sommets tournoient les chocards à bec jaune,
+      les grands corbeaux et, rare mais fidèle au site, l'[aigle royal](/especie/aquila_chrysaetos/). Les
+      petites gouilles d'altitude abritent triton alpestre, salamandre noire et lézard vivipare, et dans les
+      sous-bois calmes la vipère péliade n'est pas rare.
+    visit: >-
+      Le centre des visiteurs du parc se situe à Santa Maddalena, dans le val di Funes (Villnöß), géré par la
+      province autonome de Bolzano. L'édifice propose une vue aérienne praticable à pied, l'espace
+      d'exposition « Toucher les montagnes » avec roches et strates locales, et au deuxième étage deux salles
+      complémentaires : le « Cabinet des curiosités de la nature » et « Conquérir les montagnes ».
+
+
+      Pour une courte balade, près de la malga Zannes débute le sentier didactique Naturerlebnisweg Zans d'une
+      boucle de trois kilomètres, accessible en fauteuil roulant avec une déclivité maximale de 8 %. Il
+      contourne un enclos de cerfs, daims et chevreuils et illustre par des bornes pédagogiques munies de
+      braille la géologie, la nature et la vie rurale du val di Funes. Le tracé s'élance du parking par
+      Piuswiese jusqu'à l'enclos faunique et revient en passant par l'ancien four à chaux et Kelderer Wiese.
+
+
+      Pour randonner au long cours, la Haute Route n° 2 traverse le parc du nord au sud, tandis que le sentier
+      des Odle longe le pied septentrional du massif des Odle. Les principaux refuges sont Firenze, Genova,
+      Puez, Gardenaccia, Stevìa et Malga Brogles. Les sentiers géologiques du parc jalonnent les strates et
+      étapes marquantes de la terre.
+    history: >-
+      Le parc a été créé en 1978 et agrandi en 1999 avec l'adjonction du secteur de Rasciesa sur la commune
+      d'Ortisei ; en 2009 l'UNESCO l'a intégré au bien en série du Patrimoine mondial des Dolomites. Il
+      s'insère dans Natura 2000, le réseau européen de préservation des habitats et des espèces sauvages.
+    before: >-
+      Vérifiez auprès des gestionnaires les horaires d'ouverture du centre d'accueil ainsi que l'état des
+      sentiers et des refuges avant votre départ.
+    around: >-
+      Le [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) se situe à environ quatre kilomètres,
+      avec ses plateaux karstiques et ses lacs d'altitude. À vingt-trois kilomètres s'étend le [Parco Naturale
+      Paneveggio - Pale di San Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+  de:
+    intro: >-
+      Es gibt Berge zum Anschauen und Berge zum Lesen. Puez-Geisler lässt sich lesen: An seinen Wänden liegen
+      fast alle Gesteinsschichten übereinander, die das Wesen der Dolomiten bestimmen, sodass der gesamte
+      Naturpark wie ein aufgeschlagenes Geologiebuch unter freiem Himmel wirkt. Zwischen Eisacktal, Pustertal,
+      Gadertal und Gröden erheben sich zwei Bergstöcke, die Puez- und die Geislergruppe, deren Dolomitentürme
+      an Furchetta und Sass Rigais 3.025 m erreichen.
+    landscape: >-
+      Es beginnt am Fuß, denn so ist das Gebirge gewachsen. Das Grundgebirge der Dolomiten besteht aus
+      Quarzporphyr und Phylliten, auf denen sich Sandsteine ablagerten, die nahe dem Peitlerkofel (Sass de
+      Putia) zutage treten. Dann kam das Meer: Die Bellerophonschichten bildeten sich aus Schalen mariner
+      Schnecken des Tethys-Ozeans und erreichen stellenweise mehrere hundert Meter Mächtigkeit. Darüber lagert
+      die Werfener Schicht und darauf der Dolomit, das Leitgestein des Alpenraums.
+
+
+      Der Dolomit bestimmt das Landschaftsbild. Der Schlern-Dolomit baut Türme und Nadeln der Geisler auf; der
+      hellere Hauptdolomit tritt bei Crespeina, auf der Gardenaccia-Hochfläche und rund um den Puez zutage, wo
+      Verkarstung Dolinen und Spalten schuf. Höher folgen die Raibler Schichten, reich an Versteinerungen und
+      farblich hervortretend; da sie wasserundurchlässig sind, schützen sie den darunterliegenden Dolomit und
+      speisen Quellhorizonte wie im Langental (Vallunga). Die jüngsten Ablagerungen stammen aus Jura und
+      Kreide, enthalten ebenfalls Fossilien und leuchten von Rot bis Grün an Formationen wie Col de Muntijela
+      und Col de la Soné.
+
+
+      Das Resultat ist eine urwüchsige Felslandschaft: Fast das gesamte Parkgebiet besteht aus Dolomitfels und
+      Schuttfluren, während Wälder an die Talränder verdrängt sind. Es dominieren Weiden, Bergmähder und in
+      Hochlagen alpine Rasen aus Seggen und Blaugras. Die markantesten Täler des Parks sind Langental
+      (Vallunga), Val Chedul, Val di Lietres, Val Culea und Val Scura.
+    wildlife: >-
+      Der Frühling verwandelt die Matten in ein Blütenmeer: Auf den Bergwiesen blühen Küchenschellen,
+      Alpenglöckchen, Mehlprimeln und Krokusse, während auf der Zanser Alm schon zur Schneeschmelze
+      Frühlings-Anemonen, Soldanellen und Primeln leuchten. Im Langental gedeihen Alpenrosen, Frauenschuh,
+      Türkenbund- und Feuerlilien. Die lichten Wälder im Langental setzen sich aus Fichten, Lärchen und Zirben
+      zusammen, unterlagert von Seidelbast und Schneeheide. In sturmumtosten Gipfelregionen widerstehen Seggen
+      und Blaugras den Elementen, während in geschützten Felsnischen das Edelweiß Zuflucht findet.
+
+
+      Die Tierwelt nutzt die verschiedenen Höhenstufen. Der [Rothirsch](/especie/cervus_elaphus/) zieht durch
+      den nördlichen Parkbereich, die [Gämse](/especie/rupicapra_rupicapra/) bewohnt das Langental und die
+      Geislergruppe, und das [Reh](/especie/capreolus_capreolus/) äst an den Hängen rund um die Zanser Alm.
+      [Alpenmurmeltiere](/especie/marmota_marmota/) lassen sich an den Westflanken der Cirspitzen sowie auf
+      Medalges Alm und Cisles Alm beobachten.
+
+
+      Im Langental horstet der [Uhu](/especie/bubo_bubo/) und balzt das
+      [Auerhuhn](/especie/tetrao_urogallus/). Auf den Matten brüten Schneesperling, Steinschmätzer, Bergpieper
+      und Hausrotschwanz; an den Graten kreisen Alpendohlen, Kolkraben und vereinzelt der
+      [Steinadler](/especie/aquila_chrysaetos/). In Karsttümpeln leben Bergmolch, Alpensalamander und
+      Bergeidechse, und in sonnigen Waldrändern ist die Kreuzotter anzutreffen.
+    visit: >-
+      Das Naturparkhaus liegt in St. Magdalena in Villnöß und wird von der Provinz Bozen geführt. Im Inneren
+      führt ein begehbares Luftbild durch das Schutzgebiet, ergänzt durch den Ausstellungsbereich «Berge
+      anfassen» mit Gesteinen und Schichtenprofilen, sowie im zweiten Stock durch zwei weitere Säle: die
+      «Wunderkammer der Natur» und «Berge erobern».
+
+
+      Für einen kurzen Spaziergang beginnt an der Zanser Alm der drei Kilometer lange Naturerlebnisweg Zans,
+      der rollstuhlgerecht mit maximal 8 % Steigung angelegt ist. Er führt um ein Schaugehege mit Hirschen,
+      Damwild und Rehen und erklärt an barrierefreien Stationen (teilweise in Blindenschrift) Geologie,
+      Tierwelt und Kultur des Villnößtals. Der Weg verläuft vom Parkplatz über die Piuswiese zum Wildgehege
+      und kehrt über Kalkofen und Kelderer Wiese zurück.
+
+
+      Für längere Bergtouren quert der Dolomiten-Höhenweg Nr. 2 den Park von Nord nach Süd, während der
+      Adolf-Munkel-Weg unter den Nordwänden der Geisler entlangführt. Zu den Stützpunkten zählen die
+      Regensburger Hütte (Firenze), Schlüterhütte (Genova), Puezhütte, Gardenaciahütte, Steviahütte und
+      Brogleshütte. Geologische Lehrpfade erschließen die Schichten der Erdgeschichte.
+    history: >-
+      Der Naturpark wurde 1978 gegründet und 1999 um das zur Gemeinde St. Ulrich gehörende Raschötzer Gebiet
+      erweitert; 2009 erklärte die UNESCO das Gebiet zum Bestandteil des Weltnaturerbes Dolomiten. Er ist
+      eingebunden in das europäische Schutzgebietsnetz Natura 2000.
+    before: >-
+      Erkundige dich vor deiner Tour bei der Parkverwaltung nach den Öffnungszeiten des Naturparkhauses sowie
+      dem Zustand von Wegen und Schutzhütten.
+    around: >-
+      Der [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) liegt etwa vier Kilometer entfernt. In
+      dreiundzwanzig Kilometern Entfernung befindet sich der [Parco Naturale Paneveggio - Pale di San
+      Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+  it:
+    intro: >-
+      Ci sono montagne che si contemplano e montagne che si leggono. Il Puez-Odle si legge: sulle sue pareti
+      si sovrappongono, l'uno sull'altro, quasi tutti gli strati rocciosi che definiscono le Dolomiti, tanto
+      che l'intero parco somiglia a un libro di geologia aperto a cielo sereno. Tra le valli Isarco, Pusteria,
+      Badia e Gardena sorgono due massicci, quello del Puez e quello delle Odle, con torri dolomitiche che
+      toccano i 3.025 m alla Furchetta e al Sass Rigais.
+    landscape: >-
+      La storia comincia dal basso, perché così ha preso forma. Il basamento delle Dolomiti è formato da
+      porfidi e filladi, sui quali si è depositata un'arenaria che affiora nei pressi del Sass de Putia. Poi è
+      arrivato il mare: la formazione a Bellerophon si è originata dalle conchiglie di un gasteropode
+      dell'antico oceano Tetide e in certi punti raggiunge diverse centinaia di metri di spessore. Sopra
+      poggia la formazione di Werfen, e sopra questa la dolomia, la roccia simbolo della regione.
+
+
+      La dolomia governa il paesaggio. Quella dello Sciliar modella pinnacoli e guglie nelle Odle di Funes; la
+      dolomia principale, più chiara, compare a Crespeina, sulla Gardenaccia e attorno al Puez, dove il
+      carsismo spalanca inghiottitoi e fenditure. Più in alto giace la formazione di Raibl, ricca di fossili e
+      dai toni evidenti nel panorama; essendo impermeabile, protegge la dolomia sottostante e dà vita a
+      sorgenti montane, come in Vallunga. Gli ultimi sedimenti risalgono al Giurassico e al Cretacico,
+      anch'essi ricchi di fossili, donando sfumature dal rosso al verde in rilievi come il Col de Muntijela e
+      il Col de la Soné.
+
+
+      Ne scaturisce un paesaggio di roccia nuda: quasi tutto il parco è fatto di dolomia e pietraie, mentre il
+      bosco resta confinato ai margini. A prevalere sono pascoli, prati e, in quota, zolle alpine di carici e
+      graminacee azzurrognole. Le valli più celebri del parco sono la Vallunga, la Val Chedul, la Val di
+      Lietres, la Val Culea e la Val Scura.
+    wildlife: >-
+      La primavera accende i pascoli. Nei prati montani fioriscono pulsatilla, soldanella, primula farinosa e
+      zafferano selvatico, mentre a Malga Zannes anemoni primaverili, soldanelle e primule sbocciano fin dal
+      primo disgelo. In Vallunga vegetano rododendro nano, pianella della Madonna, giglio martagone e giglio
+      rosso. I boschi radi della Vallunga accolgono abete rosso, larice e pino cembro, con fior di stecco ed
+      erica carnea nel sottobosco. A quote elevate, dove il vento concede soltanto vegetazione rasente al
+      suolo, crescono soprattutto carici e sesleria, con la stella alpina nelle fessure riparate.
+
+
+      La fauna si distribuisce secondo la quota. Il [cervo](/especie/cervus_elaphus/) frequenta il settore
+      settentrionale, il [camoscio alpino](/especie/rupicapra_rupicapra/) popola la Vallunga e le Odle di
+      Funes, e il [capriolo](/especie/capreolus_capreolus/) si scorge sui versanti prossimi a Malga Zannes. Le
+      [marmotte](/especie/marmota_marmota/) colonizzano i pendii occidentali del gruppo del Cir, oltre a
+      Medalges Alm e Cisles Alm.
+
+
+      In Vallunga si avvista il [gufo reale](/especie/bubo_bubo/) e si ode il canto nuziale
+      dell'[urogallo](/especie/tetrao_urogallus/). Nei prati nidificano fringuello alpino, culbianco,
+      spioncello e codirosso spazzacamino; attorno alle cime volteggiano gracchi corallini, corvi imperiali e,
+      rara ma stanziale, l'[aquila reale](/especie/aquila_chrysaetos/). Nei piccoli specchi d'acqua vivono
+      tritone alpestre, salamandra alpina e lucertola vivipara, mentre nelle boscaglie indisturbate non è raro
+      incontrare il marasso.
+    visit: >-
+      Il centro visite del parco si trova a Santa Maddalena, in Val di Funes (Villnöß), gestito dalla
+      Provincia autonoma di Bolzano. All'interno si cammina sopra una grande ortofoto aerea, si esplora la
+      sezione didattica «Toccare le montagne» con rocce e campioni stratigrafici, e al secondo piano altre due
+      sale: la «Stanza delle meraviglie della natura» e «Conquistare le montagne».
+
+
+      Per una camminata breve, accanto a Malga Zannes inizia il percorso didattico Naturerlebnisweg Zans, un
+      anello di tre chilometri accessibile in sedia a rotelle con pendenza massima dell'8 %. Costeggia un
+      recinto con cervi, daini e caprioli e illustra geologia, natura e tradizioni della Val di Funes tramite
+      postazioni informative, alcune provviste di braille. Si sviluppa dal parcheggio attraverso il Piuswiese
+      fino all'area faunistica e torna per la fornace da calce e il Kelderer Wiese.
+
+
+      Per escursioni prolungate, l'Alta Via n. 2 attraversa il parco da nord a sud, mentre il sentiero delle
+      Odle costeggia il versante settentrionale del gruppo delle Odle. Tra i rifugi figurano Firenze, Genova,
+      Puez, Gardenaccia, Stevìa e Malga Brogles. I percorsi geologici guidano alla scoperta degli strati della
+      cronologia terrestre.
+    history: >-
+      Il parco è stato istituito nel 1978 e ampliato nel 1999 includendo l'area di Rasciesa nel comune di
+      Ortisei; nel 2009 l'UNESCO lo ha iscritto nel Patrimonio Mondiale delle Dolomiti. Fa parte di Natura
+      2000, la rete comunitaria per la conservazione di habitat e specie selvatiche.
+    before: >-
+      Controlla con l'ente gestore gli orari del centro visite e la praticabilità di sentieri e rifugi prima
+      di intraprendere l'escursione.
+    around: >-
+      Il [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) dista circa quattro chilometri, con
+      altopiani carsici e laghi dolomitici. A ventitré chilometri sorge il [Parco Naturale Paneveggio - Pale
+      di San Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+  pt:
+    intro: >-
+      Há montanhas que se contemplam e montanhas que se leem. Puez-Odle foi talhado para ser lido: nas suas
+      falésias sobrepõem-se, umas sobre as outras, quase todas as camadas geológicas que definem as Dolomitas,
+      transformando todo o parque num livro aberto de geologia. Entre os vales Isarco, Pusteria, Badia e
+      Gardena erguem-se dois maciços, o Puez e as Odle, com pináculos dolomíticos que atingem 3.025 m na
+      Furchetta e no Sass Rigais.
+    landscape: >-
+      A narrativa começa pela base, porque assim se erigiu o relevo. O soco antigo das Dolomitas é composto
+      por pórfiro e filitos, sobre os quais assentaram arenitos que afloram perto do Sass de Putia. Mais tarde
+      avançou o mar: a formação Bellerophon resultou das conchas de um gastrópode do antigo oceano Tétis,
+      atingindo nalguns pontos várias centenas de metros de espessura. Por cima repousa a formação Werfen e,
+      sobre ela, a dolomia, a rocha rainha da cordilheira.
+
+
+      A dolomia comanda o horizonte. A dolomia do Sciliar esculpe agulhas e torreões nas Odle di Funes; a
+      dolomia principal, de tons mais claros, desenha-se em Crespeina, na Gardenaccia e em torno do Puez, onde
+      a carsificação abre algares e fendas pronunciadas. Acima surge a formação Raibl, rica em fósseis e com
+      cores vincadas na paisagem; por ser impermeável, resguarda a dolomia basal e origina nascentes férteis,
+      como na Vallunga. Os últimos estratos pertencem ao Jurássico e ao Cretáceo, igualmente fossilíferos,
+      matizando encostas do vermelho ao verde em cumes como o Col de Muntijela e o Col de la Soné.
+
+
+      O resultado traduz-se numa paisagem mineral imponente: quase todo o parque é rocha dolomítica e
+      cascalheiras, ficando as matas confinadas às cotas inferiores. Predominam pastagens, prados e relvados
+      alpinos de ciperáceas e gramíneas azuladas. Os vales mais notáveis do território são a Vallunga, o Val
+      Chedul, o Val di Lietres, o Val Culea e o Val Scura.
+    wildlife: >-
+      A primavera colore os planaltos. Nos prados de altitude desabrocham pulsatilas, soldanelas,
+      prímulas-farinhentas e açafrão-bravo, enquanto na Zanser Alm anémonas, soldanelas e prímulas pintam o
+      manto verde mal a neve recua. Na Vallunga encontram-se também rododendro-anão, sapatinho-de-vénus,
+      lírio-martagão e lírio-laranja. Os bosques claros da Vallunga reúnem abeto-falso, lariço e
+      pinheiro-suíço, com mezereão e urze-de-inverno no sub-bosque. Nos cumes fustigados pelo vento a flora
+      rasteira apoia-se em ciperáceas e sesléria, com a edelvaisse resguardada nas fendas dos rochedos.
+
+
+      A fauna distribui-se em função do relevo. O [veado-vermelho](/especie/cervus_elaphus/) deambula pela
+      porção setentrional do parque, a [camurça](/especie/rupicapra_rupicapra/) habita a Vallunga e as Odle di
+      Funes, e a [corça](/especie/capreolus_capreolus/) pasta nas vertentes junto à Malga di Zannes. As
+      [marmotas](/especie/marmota_marmota/) colonizam as encostas ocidentais da Cirgruppe, bem como Medalges
+      Alm e Cisles Alm.
+
+
+      Na Vallunga avista-se o [bufo-real](/especie/bubo_bubo/) e escuta-se o chamamento do
+      [tetraz-grande](/especie/tetrao_urogallus/). Nos pastos nidificam o pardal-alpino, o chasco-cinzento, a
+      petinha-ribeirinha e o rabirruivo-preto; sobre os picos sobrevoam gralhas-de-bico-amarelo, corvos e,
+      rara mas presente, a [águia-real](/especie/aquila_chrysaetos/). Nas pequenas lagoas vivem o
+      tritão-alpino, a salamandra-alpina e a lagartixa-vivípara, surgindo por vezes a víbora-comum em
+      clareiras soalheiras.
+    visit: >-
+      O centro de acolhimento do parque localiza-se em Santa Maddalena, no vale de Villnöß, sob gestão da
+      província de Bolzano. No seu interior caminhas sobre uma fotografia aérea em grande escala, exploras a
+      área temática «Tocar as montanhas» com rochas e perfis de estratos, e no segundo piso visitas mais duas
+      salas: o «Gabinete de curiosidades da natureza» e «Conquistar as montanhas».
+
+
+      Para um percurso curto, junto à malga Zannes arranca o trilho temático Naturerlebnisweg Zans, com três
+      quilómetros de extensão, acessível em cadeira de rodas e com declive máximo de 8 %. Circunda um cercado
+      de veados, gamos e corças e explica a geologia, a fauna e as tradições do vale de Villnöß em painéis com
+      braille. Estende-se do parque de estacionamento pela Piuswiese até ao cercado de fauna e regressa pelo
+      forno de cal e pela Kelderer Wiese.
+
+
+      Para grandes travessias, a Alta Via n.º 2 rasga o parque de norte a sul, enquanto o trilho das Odle
+      margeia a vertente setentrional do grupo montanhoso. Entre os principais refúgios contam-se Firenze,
+      Genova, Puez, Gardenaccia, Stevìa e Malga Brogles. Os percursos geológicos expõem as fases mais
+      emblemáticas da história da Terra.
+    history: >-
+      O parque foi criado em 1978 e ampliado em 1999 com a incorporação da área de Rasciesa, pertencente a
+      Ortisei; em 2009 a UNESCO integrou-o no Património Mundial das Dolomitas. Encontra-se integrado na rede
+      Natura 2000 para a salvaguarda de habitats e espécies selvagens.
+    before: >-
+      Informa-te junto da administração do parque sobre os horários do centro de visitantes e o estado de
+      trilhos e refúgios antes de partires.
+    around: >-
+      O [Parco Naturale Fanes-Sennes-Braies / Naturpark
+      Fanes-Sennes-Prags](/lugar/parco-naturale-fanes-sennes-braies/) fica a cerca de quatro quilómetros, com
+      planaltos cársicos e lagos dolomíticos. A vinte e três quilómetros situa-se o [Parco Naturale Paneveggio
+      - Pale di San Martino](/lugar/parco-naturale-paneveggio---pale-di-san-martino/).
+fuentes:
+  - url: https://naturparks.provinz.bz.it/de/naturpark-puez-geisler
+    titulo: Naturpark Puez-Geisler
+    fecha_consulta: '2026-10-24'
+  - url: https://naturparks.provinz.bz.it/de/lebensraum-naturpark-puez-geisler
+    titulo: Lebensraum Naturpark Puez-Geisler
+    fecha_consulta: '2026-10-24'
+  - url: https://naturparks.provinz.bz.it/de/naturerlebniswege
+    titulo: Naturerlebniswege in den sieben Südtiroler Naturparks
+    fecha_consulta: '2026-10-24'
+  - url: https://it.wikipedia.org/wiki/Parco_naturale_Puez-Odle
+    titulo: Parco naturale Puez-Odle - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://de.wikipedia.org/wiki/Naturpark_Puez-Geisler
+    titulo: Naturpark Puez-Geisler - Wikipedia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parco_Naturale_Puez-Odle_02.jpg
+    autor: Bops92
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,616 @@
+id: mols-bjerge-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Mols Bjerge
+  en: Mols Bjerge National Park
+  fr: Parc national de Mols Bjerge
+  de: Nationalpark Mols Bjerge
+  it: Parco nazionale di Mols Bjerge
+  pt: Parque Nacional de Mols Bjerge
+nombre_original: Mols Bjerge National Park
+alias:
+  - Mols Bjerge National Park (Nationalpark Mols Bjerge)
+paises:
+  - DK
+region:
+  es: Jutlandia Central (Syddjurs / Ebeltoft)
+  en: Central Jutland (Syddjurs / Ebeltoft)
+  fr: Jutland central (Syddjurs / Ebeltoft)
+  de: Mitteljütland (Syddjurs / Ebeltoft)
+  it: Jutland Centrale (Syddjurs / Ebeltoft)
+  pt: Jutlândia Central (Syddjurs / Ebeltoft)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/7046785
+  nombre_en_la_fuente: Nationalpark Mols Bjerge
+  capa: capas/osm/mols-bjerge-national-park.geojson
+habitats:
+  - steppe
+  - coast
+  - mature_forest
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - capreolus_capreolus
+  - bufo_calamita
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en Ebeltoft y las ruinas del castillo de Kalø
+  en: Moderate in Ebeltoft and at Kalø Castle ruins
+  fr: Moyenne à Ebeltoft et aux ruines du château de Kalø
+  de: Mäßig in Ebeltoft und an der Burgruine Kalø
+  it: Moderata a Ebeltoft e presso le rovine del castello di Kalø
+  pt: Média em Ebeltoft e nas ruínas do castelo de Kalø
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Nationalpark Mols Bjerge Official Site
+    url: https://nationalparkmolsbjerge.dk/
+  - titulo: Mapa — Parque Nacional de Mols Bjerge
+    url: https://nationalparkmolsbjerge.dk/planlaeg-dit-besoeg/kort
+  - titulo: Accesos y centros — Aparcamientos y centros de visitantes
+    url: https://nationalparkmolsbjerge.dk/planlaeg-dit-besoeg/parkering-og-besoegscentre
+  - titulo: Normas — Visitar la naturaleza
+    url: https://nationalparkmolsbjerge.dk/planlaeg-dit-besoeg/gaest-i-naturen
+  - titulo: Rutas — Senderos del parque
+    url: https://nationalparkmolsbjerge.dk/oplev-nationalparken/aktiviteter/35-vandrestier-i-nationalparken
+  - titulo: Consejos de visita — Preguntas frecuentes
+    url: https://nationalparkmolsbjerge.dk/om-os/kontakt/ofte-stillede-spoergsmaal
+resumen:
+  es: >-
+    Paisaje de morrenas glaciares alomadas y brezales secos de la edad de hielo cayendo hacia los fiordos de
+    la península de Djursland.
+  en: >-
+    Hummocky glacial moraines and dry ice-age heathland sloping down towards the fjords of the Djursland
+    peninsula.
+  fr: >-
+    Paysage de moraines glaciaires mamelonnées et de landes sèches plongeant vers les fjords de la péninsule
+    de Djursland.
+  de: >-
+    Hügelige eiszeitliche Moränenlandschaft und trockene Heiden, die zu den Fjorden der Halbinsel Djursland
+    abfallen.
+  it: >-
+    Paesaggio collinare di morene glaciali e brughiere aride affacciate sui fiordi della penisola di
+    Djursland.
+  pt: >-
+    Paisagem ondulada de moreias glaciares e charnecas secas da Idade do Gelo descendo para os fiordes da
+    península de Djursland.
+unico:
+  es: >-
+    En un solo día puedes pasar de un brezal con túmulos de la Edad de Bronce a un arrecife con bosque de
+    algas, con un castillo medieval en el camino.
+  en: >-
+    In a single day you can hike from Bronze Age burial mounds across dry heath to a cold-water kelp reef,
+    passing a ruined medieval castle along the way.
+  fr: >-
+    En une seule journée, passez d'une lande à tumulus de l'âge du bronze à un récif sous-marin de varech, en
+    longeant une forteresse médiévale.
+  de: >-
+    An einem einzigen Tag wanderst du von bronzezeitlichen Grabhügeln über trockene Heiden zu einem Tang-Riff
+    vor einer mittelalterlichen Burgruine.
+  it: >-
+    In una sola giornata puoi spaziare da una brughiera con tumuli dell'Età del Bronzo a una barriera marina
+    di kelp, incontrando una rocca medievale.
+  pt: >-
+    Num único dia podes caminhar de uma charneca com mamoas da Idade do Bronze até um recife submarino de
+    kelp, passando por um castelo medieval.
+observaciones:
+  es: >-
+    En los recintos con ganado hay que mantener la distancia con los animales y llevar siempre el perro atado
+    corto; si el ganado se interesa por el perro, hay que salir enseguida. En bosques públicos se puede
+    circular de día y de noche; en bicicleta hay que ir por caminos y senderos, y el tráfico a motor está
+    prohibido en el bosque.
+texto:
+  es:
+    intro: >-
+      En las colinas de Mols hay un bosque al que llaman Troldeskoven, el bosque de los trols, y la web del
+      parque lo describe como el único bosque primario de Mols. Está en uno de los paisajes más movidos de
+      Dinamarca. El Parque Nacional de Mols Bjerge, en Jutlandia Central, se inauguró el 29 de agosto de 2009
+      y ocupa 180 km² del municipio de Syddjurs. En su centro se alzan las colinas de Mols, de hasta 137
+      metros: poca altura, pero con vistas amplias.
+    landscape: >-
+      El relieve ondulado se formó al final de la última glaciación e incluye brezales, bosques, pastos,
+      turberas, prados y hábitats costeros. Eso explica la variedad: en pocos kilómetros cambian el bosque, el
+      brezal y la costa. Durante siglos la agricultura marcó el paisaje, y del bosque antiguo solo quedan
+      fragmentos. Tolløkke Skov es el único resto de bosque antiguo de toda la península de Ebeltoft, con
+      muchos árboles grandes y viejos. Skovbjerg es un robledal antiguo con pastoreo moderado.
+
+
+      Esta tierra no pertenece al parque: el 20 por ciento de la superficie es terreno público gestionado por
+      Naturstyrelsen y el 80 por ciento, privado. Por eso buena parte del paisaje está cercada en recintos de
+      ganado. Distintos animales mantienen allí el terreno abierto pastando: hoy son vacas, caballos, ovejas y
+      cabras, y en Trehøje, un pastizal moldeado por los animales que pastan, hay tres túmulos de la Edad de
+      Bronce en fila y 22 en la zona.
+
+
+      La costa añade otro mundo. Frente a Jernhatten hay un arrecife de piedra de agua fría con un bosque de
+      algas kelp, bueno para el snorkel en verano. En Egsmark Plantage se ven acantilados que quedaron tierra
+      adentro cuando el mar de la Edad de Piedra se retiró hasta la costa actual.
+    wildlife: >-
+      Cada estación tiene su protagonista. En verano, los espacios abiertos albergan al alcaudón dorsirrojo,
+      la alondra totovía y el bisbita arbóreo. En invierno se reúnen cisnes, gansos y patos en los lagos,
+      incluido el serreta chica. Las orillas someras de Ahl atraen bandadas de gaviotas y aves limícolas como
+      avefrías, zarapitos y ostreros. La torre de observación del extremo sureste del lago Stubbe ofrece
+      vistas del lago y de las aves, y en la costa de Ahl Hage se pueden observar aves marinas; en Dragsmur se
+      concentran rutas migratorias.
+
+
+      En Bjørnkær Egedal, en primavera y a finales del verano, abundan los escarabajos peloteros de brillo
+      violeta-negro que entierran estiércol de caballo. Entre los mamíferos hay zorro rojo, liebre y
+      [corzo](/especie/capreolus_capreolus/), y entre los reptiles, el lagarto vivíparo y la víbora común.
+      Entre las plantas silvestres importantes están la pulsatilla y la peludilla. Se han encontrado muchas
+      especies raras y amenazadas de hongos, algunas que no existen en ningún otro lugar del país.
+    visit: >-
+      Las principales entradas son los aparcamientos de Strandkær Strand, Femmøller Efterskole, Knebel
+      Plantage y Agri Bavnehøj. El autobús 123 va de Aarhus a Ebeltoft por Rønde y se detiene también en las
+      ruinas del castillo de Kalø.
+
+
+      Hay dos centros de visitantes. El de Karlsladen, en una vieja granja del castillo, explica la naturaleza
+      y la cultura con temas de prehistoria, Edad Media y caza. El de Øvre Strandkær pone el acento en las
+      plantas, los animales y la geología.
+
+
+      Para caminar, el Mols Bjerge-stien es un itinerario de 80 kilómetros, dividido en cuatro etapas:
+      Bjergetapen, Kalø-etapen, Ebeltoft-etapen y Gåsehage-etapen, conectadas por el autobús 123. Entre los
+      senderos cortos, el de Hestehave Skov mide 5,5 km y combina bosque, historia, restos antiguos y vistas.
+      Agri Bavnehøj, con 137 metros, es el punto más alto y da vistas de buena parte del parque. El de
+      Skovbjerg cruza el Troldeskoven. El Knurrehald-stien baja por la antigua línea de costa de la Edad de
+      Piedra y sube por una cañada, con 40 metros de desnivel. La Oldtidsstien pasa junto a un túmulo largo,
+      seis dólmenes, varios túmulos, un vado y una fuente sagrada.
+
+
+      El paseo de ida y vuelta de unos 3 km a las ruinas de Kalø puede ser difícil para quien camine mal,
+      sobre todo por el camino medieval del istmo.
+    history: >-
+      El castillo de Kalø se levantó en el siglo XIV en una isla unida a tierra por un dique con camino
+      empedrado. Los túmulos de granito, dólmenes y tumbas de corredor de jefes de la Edad de Piedra se ven
+      por todo el paisaje. Bjørnkær-Egedal fue un importante robledal de la Corona, talado para leña con la
+      que producir sal durante las guerras con Suecia de 1660 y 1670. En Øer se extrajeron arena, grava y
+      piedra; aún se ven las antiguas canteras como lagos alargados y paralelos.
+
+
+      El parque contiene 40 de los tipos de hábitat de interés de la lista europea que están presentes en
+      Dinamarca. Hay también ciencia ciudadana: voluntarios cuentan mariposas diurnas para seguir los cambios
+      en la biodiversidad del parque, y repiten los recuentos de la planta djævelsbid.
+    before: >-
+      En los recintos con ganado hay que mantener la distancia con los animales y llevar siempre el perro
+      atado corto; si el ganado se interesa por el perro, hay que salir enseguida. En bosques públicos se
+      puede circular de día y de noche; en bicicleta hay que ir por caminos y senderos, y el tráfico a motor
+      está prohibido en el bosque.
+    around: >-
+      El [Parque Nacional de Vilsandi y Acantilados Costeros de Saaremaa](/lugar/vilsandi-rahvuspark/) está
+      lejos, pero comparte con Mols Bjerge el sapo corredor y el hábitat de costa.
+  en:
+    intro: >-
+      Deep within the Mols hills lies Troldeskoven, the "Troll Forest", celebrated as the sole primeval
+      woodland on the peninsula. It nestles in one of Denmark's most rolling, undulating terrains. Mols Bjerge
+      National Park in Central Jutland was inaugurated on 29 August 2009, spanning 180 km² across the
+      municipality of Syddjurs. At its heart rise the Mols Hills, reaching up to 137 metres: modest elevations
+      that nonetheless yield sweeping panoramic seascapes.
+    landscape: >-
+      The undulating topography was sculpted during the retreat of the last ice age, comprising dry heaths,
+      oak woodlands, pastures, kettle bogs, and coastal shallows. This geological legacy fosters remarkable
+      biodiversity: within a few kilometres, dense forest transitions into open dry heath and sheltered
+      inlets. Centuries of peasant agriculture shaped the terrain, leaving only relic patches of ancient
+      forest. Tolløkke Skov survives as the sole ancient woodland on the Ebeltoft peninsula, crowded with
+      veteran trees. Skovbjerg preserves an ancient grazed oak woodland.
+
+
+      The land is not state property: 20 percent of the area is public land managed by the Danish Nature
+      Agency (Naturstyrelsen), while 80 percent remains in private hands. Consequently, large tracts are
+      enclosed in conservation pastures. Robust livestock keep the commons open through natural grazing: hardy
+      cattle, horses, sheep, and goats; at Trehøje, an ancient grazed common, three Bronze Age barrows stand
+      in a dramatic alignment, with 22 burial mounds scattered across the immediate area.
+
+
+      The coastline adds an entirely different marine dimension. Off Jernhatten lies a cold-water boulder reef
+      carpeted in kelp forest, ideal for summer snorkelling. At Egsmark Plantage, fossil bluffs stand high and
+      dry inland where Stone Age marine waters retreated to today's shoreline.
+    wildlife: >-
+      Each season brings distinctive natural spectacles. In summer, open heathlands shelter the red-backed
+      shrike, woodlark, and tree pipit. Winter attracts swans, geese, and diving ducks to inland lakes,
+      including the delicate smew. The shallow sands of Ahl attract flocks of gulls and feeding waders such as
+      northern lapwings, curlews, and oystercatchers. The hide at the southeastern tip of Lake Stubbe provides
+      birdwatching views over open water, while Ahl Hage offers coastal seabird watching, with Dragsmur acting
+      as a bottleneck for migration.
+
+
+      At Bjørnkær Egedal in spring and late summer, metallic violet-black dor beetles burrow beneath horse
+      droppings. Mammals include the red fox, European hare, and [roe deer](/especie/capreolus_capreolus/),
+      alongside common lizards and adders. Rare dry-grassland flora includes the pasqueflower and mouse-ear
+      hawkweed. Mycologists have recorded numerous red-listed fungi, some found nowhere else in Denmark.
+    visit: >-
+      Principal gateways include car parks at Strandkær Strand, Femmøller Efterskole, Knebel Plantage, and
+      Agri Bavnehøj. Regional bus 123 runs from Aarhus to Ebeltoft via Rønde, stopping at the Kalø Castle
+      ruins.
+
+
+      Two visitor centres orient travellers. Karlsladen, set in a historic manor barn by the castle ruins,
+      interprets natural and cultural history through prehistory, the Middle Ages, and hunting traditions.
+      Øvre Strandkær focuses on flora, fauna, and glacial geology.
+
+
+      For walkers, the Mols Bjerge-stien is a premier 80-kilometre trail split into four daily stages:
+      Bjergetapen, Kalø-etapen, Ebeltoft-etapen, and Gåsehage-etapen, interconnected by bus 123. Among shorter
+      trails, the Hestehave Skov loop spans 5.5 km through coastal woods, castle views, and prehistoric
+      barrows. Agri Bavnehøj, rising to 137 metres, is the park's highest summit. The Skovbjerg path loops
+      through the gnarled Troldeskoven. Knurrehald-stien follows the Stone Age sea cliff down into a wooded
+      gully with 40 metres of elevation gain. The Oldtidsstien leads past a long barrow, six passage graves,
+      barrows, and a holy spring.
+
+
+      The walk of about 3 km out and back to the Kalø Castle ruins can be taxing for those with limited
+      mobility, particularly along the uneven medieval cobbled causeway.
+    history: >-
+      Kalø Castle was built in the fourteenth century upon a fortified island tied to the mainland by a
+      cobbled causeway. Granite barrows, dolmens, and Stone Age passage graves dot the entire landscape.
+      Bjørnkær-Egedal was an ancient royal oak forest logged for fuel to boil seawater for salt during the
+      Dano-Swedish wars of 1660 and 1670. At Øer, industrial extraction of sand, gravel, and stone created
+      long linear flooded quarry lakes.
+
+
+      The park encompasses 40 European habitat types of interest present in Denmark. Citizen science
+      flourishes here: volunteers conduct regular butterfly monitoring transects and count devil's-bit
+      scabious populations to track habitat health.
+    before: >-
+      In grazed enclosures, maintain distance from cattle and keep dogs on a short leash at all times; if
+      livestock approach your dog, exit the enclosure immediately. Public forests permit access day and night
+      on foot; bicycles must remain on established roads and tracks, and motorized vehicles are prohibited in
+      woods.
+    around: >-
+      [Vilsandi National Park and Saaremaa Sea Cliffs](/lugar/vilsandi-rahvuspark/) in Estonia lies far to the
+      east across the Baltic, yet shares with Mols Bjerge coastal habitats and breeding natterjack toads.
+  fr:
+    intro: >-
+      Dans les collines de Mols se dissimule Troldeskoven, la « forêt des trolls », qualifiée d'unique forêt
+      primaire de la péninsule. Elle s'inscrit dans l'un des reliefs les plus vallonnés du Danemark. Le parc
+      national de Mols Bjerge, dans le Jutland central, a été inauguré le 29 août 2009 et couvre 180 km² sur
+      la commune de Syddjurs. En son cœur culminent les collines de Mols jusqu'à 137 mètres d'altitude :
+      modeste relief, mais panoramas maritimes immenses.
+    landscape: >-
+      La topographie accidentée est née de la dernière déglaciation, mariant landes sèches, forêts de chênes,
+      pâturages, tourbières et estrans. En quelques kilomètres alternent boisements denses, landes ouvertes et
+      criques marines. L'agriculture séculaire a façonné ce terroir, ne laissant que des lambeaux de forêts
+      anciennes. Tolløkke Skov est le seul vestige forestier ancien de la presqu'île d'Ebeltoft, riche en
+      vieux arbres. Skovbjerg forme une chênaie pâturée ancestrale.
+
+
+      Les terres ne relèvent pas toutes du domaine public : 20 pour cent de la superficie appartient à l'État
+      via la Naturstyrelsen et 80 pour cent à des propriétaires privés. C'est pourquoi de vastes parcelles
+      sont encloses pour le pâturage conservatoire. Bovins, chevaux, moutons et chèvres maintiennent les
+      milieux ouverts ; à Trehøje, vaste lande pâturée, se dressent trois tumulus alignés de l'âge du bronze
+      et 22 dans les parages.
+
+
+      Le littoral apporte un autre monde. Au large de Jernhatten repose un récif de blocs de pierre tapissé de
+      forêts de kelp, apprécié en plongée estivale. À Egsmark Plantage se devinent des falaises fossiles
+      demeurées à l'intérieur des terres après le retrait de la mer de l'âge de la pierre.
+    wildlife: >-
+      La nature se renouvelle au fil des saisons. En été, les landes ouvertes accueillent la pie-grièche
+      écorcheur, l'alouette lulu et le pipit des arbres. L'hiver rassemble canards et cygnes sur les lacs,
+      dont le harle piette. Les estrans de sable d'Ahl attirent mouettes et limicoles (vanneaux, courlis et
+      huîtriers). La tour d'observation du lac Stubbe permet d'observer canards et foulques, tandis que le
+      promontoire d'Ahl Hage et l'isthme de Dragsmur canalisent la migration.
+
+
+      À Bjørnkær Egedal, au printemps et à la fin de l'été, abondent les bousiers violacés creusant sous les
+      crottins de chevaux. Parmi les mammifères figurent renard roux, lièvre d'Europe et
+      [chevreuil](/especie/capreolus_capreolus/) ; les reptiles comptent le lézard vivipare et la vipère
+      péliade. Des pelouses sèches jaillissent l'anémone pulsatille et l'épervière piloselle. De nombreux
+      champignons rares complètent ce riche inventaire.
+    visit: >-
+      Les principaux points d'accès sont les parkings de Strandkær Strand, Femmøller Efterskole, Knebel
+      Plantage et Agri Bavnehøj. La ligne de bus 123 relie Aarhus à Ebeltoft via Rønde en desservant les
+      ruines du château de Kalø.
+
+
+      Deux centres d'accueil orientent le public. Karlsladen, installé dans une grange historique du château,
+      aborde nature et patrimoine sous l'angle de la préhistoire, du Moyen Âge et de la chasse. Øvre Strandkær
+      met l'accent sur la géologie glaciaire et la biodiversité.
+
+
+      Pour la marche, le grand itinéraire Mols Bjerge-stien totalise 80 kilomètres en quatre étapes :
+      Bjergetapen, Kalø-etapen, Ebeltoft-etapen et Gåsehage-etapen, articulées par le bus 123. Parmi les
+      promenades courtes, la boucle de Hestehave Skov offre 5,5 km entre bois et vestiges historiques. Le
+      belvédère d'Agri Bavnehøj culmine à 137 mètres. Le sentier de Skovbjerg traverse le Troldeskoven.
+      Knurrehald-stien longe la falaise fossile préhistorique sur 40 mètres de dénivelé. L'Oldtidsstien passe
+      près d'un long tumulus, six dolmens, un gué et une source sacrée.
+
+
+      L'aller-retour d'environ 3 km vers les ruines du château de Kalø peut être exigeant pour les personnes à
+      mobilité réduite sur le pavage médiéval de la digue.
+    history: >-
+      Le château de Kalø fut érigé au XIVe siècle sur une île reliée au rivage par une digue pavée. Tumulus
+      néolithiques, dolmens et tombes sous galerie de chefs ponctuent l'horizon. Bjørnkær-Egedal fut une
+      chênaie royale exploitée pour faire bouillir l'eau salée lors des guerres contre la Suède de 1660 et
+      1670. À Øer, l'extraction industrielle de graviers a créé de curieux lacs de carrière rectilignes.
+
+
+      Le parc rassemble 40 des types d'habitats d'intérêt communautaire répertoriés au Danemark. Des bénévoles
+      participent au suivi des papillons diurnes et de la succise des prés pour mesurer l'évolution de la
+      biodiversité.
+    before: >-
+      Dans les enclos à bétail, gardez vos distances avec les bêtes et tenez votre chien en laisse courte ;
+      sortez immédiatement si le bétail s'approche. Les forêts publiques sont ouvertes jour et nuit ; à vélo,
+      circulez sur les voies autorisées, le trafic motorisé étant proscrit en forêt.
+    around: >-
+      Le [parc national de Vilsandi](/lugar/vilsandi-rahvuspark/) en Estonie est éloigné mais partage avec
+      Mols Bjerge le crapaud calamite et des habitats littoraux analogues.
+  de:
+    intro: >-
+      In den Hügeln von Mols liegt der Wald Troldeskoven, der „Trollwald“, den die Nationalparkverwaltung als
+      einzigen Urwald von Mols beschreibt. Er liegt in einer der bewegtesten Landschaften Dänemarks. Der
+      Nationalpark Mols Bjerge in Mitteljütland wurde am 29. August 2009 eingeweiht und erstreckt sich über
+      180 km² der Gemeinde Syddjurs. In seinem Zentrum erheben sich die Hügel von Mols bis auf 137 Meter Höhe:
+      geringe Erhebungen mit weitem Blick.
+    landscape: >-
+      Das hügelige Relief entstand am Ende der letzten Eiszeit und umfasst Heiden, Eichenwälder, Weiden,
+      Kesselmoore und Küstenlebensräume. In wenigen Kilometern wechseln Hochwald, Trockenheide und
+      Meeresstrand. Jahrhundertelange Bewirtschaftung schuf die Heidelandschaft, von Altwäldern blieben nur
+      Relikte. Tolløkke Skov ist der einzige urige Waldrest der gesamten Halbinsel Ebeltoft, reich an
+      Baumveteranen. Skovbjerg ist ein beweideter alter Eichenwald.
+
+
+      Der Grund gehört nicht dem Park: 20 Prozent der Fläche sind Staatsland der Forstbehörde Naturstyrelsen
+      und 80 Prozent in Privatbesitz. Daher sind weite Landschaftsteile eingezäunt, wo Rinder, Pferde, Schafe
+      und Ziegen die Grasfluren offen halten; bei Trehøje stehen drei bronzezeitliche Grabhügel in Reihe und
+      22 in der näheren Umgebung.
+
+
+      Die Küste eröffnet ein maritimes Reich. Vor Jernhatten liegt ein Kaltwasser-Steinriff mit Kelpwäldern,
+      beliebt zum Schnorcheln im Sommer. Bei Egsmark Plantage zeigen sich verlandete Kliffs aus der Steinzeit,
+      als das Meer noch weiter landeinwärts reichte.
+    wildlife: >-
+      Jede Jahreszeit hat ihre Besonderheiten. Im Sommer bewohnen Neuntöter, Heidelerche und Baumpieper die
+      offenen Heiden. Im Winter rasten Singschwäne, Gänse und Enten auf den Seen, darunter die Zwergsäger. Das
+      Watt bei Ahl zieht Lachmöwen, Kiebitze, Brachvögel und Austernfischer an. Die Beobachtungshütte am
+      Stubbe-See erlaubt Einblicke in die Vogelwelt, während Ahl Hage und die Landenge von Dragsmur
+      Hauptachsen des Vogelzugs sind.
+
+
+      In Bjørnkær Egedal graben im Frühjahr und Spätsommer violettschwarze Mistkäfer Pferdemist ein. Zu den
+      Säugetieren zählen Rotfuchs, Feldhase und [Reh](/especie/capreolus_capreolus/), bei den Reptilien
+      Waldeidechse und Kreuzotter. Auf Magerrasen wachsen Küchenschelle und Kleines Habichtskraut, ergänzt
+      durch seltene Pilzarten.
+    visit: >-
+      Wichtige Einstiege sind die Wanderparkplätze Strandkær Strand, Femmøller Efterskole, Knebel Plantage und
+      Agri Bavnehøj. Die Buslinie 123 fährt von Aarhus nach Ebeltoft über Rønde und hält an der Burg Kalø.
+
+
+      Zwei Besucherzentren informieren Gäste. Karlsladen in einer historischen Gutsscheune an der Burgruine
+      beleuchtet Vorgeschichte, Mittelalter und Jagd. Øvre Strandkær widmet sich Geologie, Flora und Fauna.
+
+
+      Der Hauptwanderweg Mols Bjerge-stien misst 80 Kilometer in vier Etappen: Bjergetapen, Kalø-etapen,
+      Ebeltoft-etapen und Gåsehage-etapen, angebunden an den Bus 123. Unter den Rundwegen ist Hestehave Skov
+      5,5 km lang und vereint Wald, Geschichte und Meeresblicke. Agri Bavnehøj ist mit 137 Metern der höchste
+      Punkt mit Rundblick. Skovbjerg durchquert den Trollwald. Der Knurrehald-stien überwindet am fossilen
+      Kliff 40 Höhenmeter. Der Oldtidsstien führt an einem Langbett, sechs Dolmen und einer heiligen Quelle
+      vorbei.
+
+
+      Der rund 3 km lange Spaziergang zur Burgruine Kalø kann über das historische Steinpflaster des Dammes
+      beschwerlich sein.
+    history: >-
+      Die Burg Kalø entstand im vierzehnten Jahrhundert auf einer Insel, die über einen befestigten Steindamm
+      mit dem Festland verbunden ist. Megalithgräber und Hügelgräber säumen das Gelände. Bjørnkær-Egedal war
+      ein königlicher Eichenforst, der in den Kriegen mit Schweden von 1660 und 1670 zur Salzsiederei
+      abgeholzt wurde. Bei Øer entstanden durch Kiesabbau künstliche Seen.
+
+
+      Der Park beherbergt 40 europäische FFH-Lebensraumtypen Dänemarks. Freiwillige erfassen regelmäßig
+      Tagfalter und Teufelsabbiss-Bestände für das Biodiversitäts-Monitoring.
+    before: >-
+      Halte in Weidegehegen Abstand zum Vieh und führe Hunde kurz an der Leine; nähert sich Vieh dem Hund,
+      verlasse das Gehege zügig. Öffentliche Wälder sind rund um die Uhr zugänglich; Fahrräder gehören auf
+      befestigte Wege, Kraftfahrzeuge sind im Wald verboten.
+    around: >-
+      Der [Nationalpark Vilsandi](/lugar/vilsandi-rahvuspark/) in Estland liegt zwar fern, teilt mit Mols
+      Bjerge aber Kreuzkröten und offene Küstenbiotope.
+  it:
+    intro: >-
+      Nelle colline di Mols sorge Troldeskoven, la «foresta dei troll», descritta dal parco come l'unico bosco
+      primigenio della penisola. Si sviluppa in uno dei paesaggi più mossi della Danimarca. Il Parco nazionale
+      di Mols Bjerge, nello Jutland Centrale, è stato inaugurato il 29 agosto 2009 e copre 180 km² nel
+      territorio di Syddjurs. Al centro svettano i rilievi di Mols fino a 137 metri di quota: altezze modeste
+      ma con amplissimi panorami marini.
+    landscape: >-
+      La morfologia collinare risale all'ultima glaciazione e accosta brughiere secche, boschi, pascoli,
+      torbiere e coste frastagliate. In pochi chilometri mutano boschi, brughiere e lidi marini. La pastorizia
+      storica ha plasmato i terreni, lasciando solo lembi di foreste vetuste. Tolløkke Skov è l'unico relitto
+      boschivo antico della penisola di Ebeltoft, ricco di alberi monumentali. Skovbjerg è un querceto
+      pascolato secolare.
+
+
+      Il territorio è perlopiù privato: il 20 percento dell'area è demanio pubblico gestito da Naturstyrelsen
+      e l'80 percento appartiene a privati. Per questo ampie porzioni sono recintate per il pascolo
+      conservativo di bovini, cavalli, pecore e capre; a Trehøje, pascolo storico modellato dagli armenti,
+      spiccano tre tumuli allineati dell'Età del Bronzo e 22 nella contrada.
+
+
+      La costa dischiude un universo marino. Al largo di Jernhatten si estende una barriera di massi sommersi
+      ricca di foreste di kelp, ideale per lo snorkeling estivo. A Egsmark Plantage affiorano falesie fossili
+      rimaste nell'entroterra dopo il ritiro del mare dell'Età della Pietra.
+    wildlife: >-
+      Ogni stagione offre specie caratteristiche. In estate le brughiere aperte ospitano l'averla piccola, la
+      tottavilla e il prispolone. In inverno sui laghi si radunano anatre, oche e cigni, compresa la
+      pesciaiola. I bassifondi di Ahl richiamano gabbiani e limicoli come pavoncelle, chiurli e beccacce di
+      mare. Il capanno a sud-est del lago Stubbe offre viste privilegiate, mentre la costa di Ahl Hage e
+      l'istmo di Dragsmur concentrano le rotte migratorie.
+
+
+      A Bjørnkær Egedal, in primavera e a fine estate, brulicano scarabei stercorari violacei sotto lo sterco
+      equino. Tra i mammiferi vivono volpe rossa, lepre europea e [capriolo](/especie/capreolus_capreolus/);
+      tra i rettili la lucertola vivipara e il marasso. Tra le piante pioniere figurano l'anemone pulsatilla e
+      la pelatella, accanto a rari funghi protetti.
+    visit: >-
+      I principali punti di partenza sono i parcheggi di Strandkær Strand, Femmøller Efterskole, Knebel
+      Plantage e Agri Bavnehøj. Il bus 123 collega Aarhus a Ebeltoft passando per Rønde e serve le rovine del
+      castello di Kalø.
+
+
+      Vi sono due centri visite. Karlsladen, in un antico granaio presso il castello, illustra la preistoria,
+      il Medioevo e la caccia. Øvre Strandkær approfondisce flora, fauna e geomorfologia glaciale.
+
+
+      Per gli escursionisti, il Mols Bjerge-stien copre 80 chilometri suddiviso in quattro tappe: Bjergetapen,
+      Kalø-etapen, Ebeltoft-etapen e Gåsehage-etapen, collegate dal bus 123. Tra gli anelli brevi, quello di
+      Hestehave Skov misura 5,5 km tra boschi litoranei e reperti archeologici. Agri Bavnehøj tocca 137 metri
+      d'altitudine offrendo vedute sull'intero parco. Skovbjerg traversa il bosco dei troll. Knurrehald-stien
+      discende l'antica falesia preistorica superando 40 metri di dislivello. L'Oldtidsstien tocca un tumulo
+      allungato, sei dolmen e una fonte sacra.
+
+
+      La passeggiata di circa 3 km andata e ritorno per le rovine di Kalø può presentare asperità sul selciato
+      medievale dell'istmo.
+    history: >-
+      Il castello di Kalø sorse nel XIV secolo su un'isola congiunta alla terraferma da una massicciata
+      lastricata. Tumuli granitici, dolmen e sepolture megalitiche costellano l'orizzonte. Bjørnkær-Egedal fu
+      una foresta reale di querce disboscata per alimentare le saline durante le guerre contro la Svezia del
+      1660 e 1670. A Øer l'estrazione di ghiaia ha originato bacini artificiali allungati.
+
+
+      Il parco racchiude 40 tipi di habitat d'interesse comunitario presenti in Danimarca. Volontari conducono
+      monitoraggi sistematici di farfalle diurne e della succisa dei prati.
+    before: >-
+      Nei recinti di pascolo mantieni la distanza dagli animali e conduci il cane al guinzaglio corto;
+      allontanati prontamente se il bestiame si avvicina al cane. I boschi demaniali sono aperti giorno e
+      notte; in bicicletta pedala solo sui tracciati consentiti, mentre il transito a motore è vietato nei
+      boschi.
+    around: >-
+      Il [Parco nazionale di Vilsandi](/lugar/vilsandi-rahvuspark/) in Estonia dista molte miglia marittime,
+      ma condivide con Mols Bjerge il rospo smeraldino e la vegetazione costiera.
+  pt:
+    intro: >-
+      Nas colinas de Mols esconde-se Troldeskoven, o «bosque dos trolls», descrito pelo parque como a única
+      mata virgem da península. Ergue-se num dos relevos mais ondulados da Dinamarca. O Parque Nacional de
+      Mols Bjerge, na Jutlândia Central, foi inaugurado a 29 de agosto de 2009 e ocupa 180 km² no município de
+      Syddjurs. No centro despontam as colinas de Mols até aos 137 metros de altitude: cotas modestas que
+      proporcionam horizontes marítimos grandiosos.
+    landscape: >-
+      O relevo ondulado formou-se no termo da última glaciação, reunindo charnecas secas, carvalhais,
+      pastagens, turfeiras e enseadas costeiras. Em poucos quilómetros alternam floresta, charneca e orla
+      marítima. Séculos de pastoreio moldaram a paisagem, restando apenas retalhos de floresta antiga.
+      Tolløkke Skov é o único testemunho florestal maduro da península de Ebeltoft, com árvores monumentais.
+      Skovbjerg é um carvalhal secular pastoreado.
+
+
+      A propriedade do solo é mista: 20 por cento da área é terreno público tutelado pela Naturstyrelsen e 80
+      por cento é privado. Por conseguinte, vastas courelas estão cercadas para pastoreio conservacionista de
+      gado bovino, cavalos, ovelhas e cabras; em Trehøje, pastagem histórica modelada pelos rebanhos,
+      alinham-se três mamoas da Idade do Bronze e 22 túmulos na envolvente.
+
+
+      A costa acrescenta outra dimensão. Ao largo de Jernhatten estende-se um recife rochoso submarino forrado
+      por florestas de kelp, procurado para mergulho no verão. Em Egsmark Plantage avistam-se arribas fósseis
+      isoladas no interior desde o recuo do mar da Idade da Pedra.
+    wildlife: >-
+      Cada estação traz novas aves emblemáticas. No verão, as charnecas abertas acolhem o
+      picanço-de-dorso-ruivo, a cotovia-arbórea e o petinha-dos-campos. No inverno juntam-se cisnes, gansos e
+      patos nos lagos, incluindo o merganso-pequeno. Os baixios arenosos de Ahl atraem bandos de gaivotas e
+      limícolas como abibes, maçaricos e ostraceiros. O observatório no extremo sudeste do lago Stubbe
+      proporciona vistas de aves aquáticas, enquanto Ahl Hage e o istmo de Dragsmur afunilam rotas
+      migratórias.
+
+
+      Em Bjørnkær Egedal, na primavera e no final do verão, fervilham escaravelhos bicheiros violáceos sob o
+      bostaçal equino. Entre os mamíferos ocorrem a raposa, a lebre e o
+      [corço](/especie/capreolus_capreolus/); nos répteis a lagartixa-vivípara e a víbora-comum. Destacam-se
+      plantas como a anémona-pulsatila e a pilosela, além de fungos raros protegidos.
+    visit: >-
+      As principais entradas situam-se nos parques de estacionamento de Strandkær Strand, Femmøller
+      Efterskole, Knebel Plantage e Agri Bavnehøj. O autocarro 123 liga Aarhus a Ebeltoft via Rønde parando
+      nas ruínas do castelo de Kalø.
+
+
+      Existem dois centros de acolhimento. Karlsladen, num celeiro histórico junto ao castelo, aborda a
+      pré-história, a Idade Média e as artes venatórias. Øvre Strandkær foca-se na geologia glaciar, flora e
+      fauna.
+
+
+      Para pedestrianismo, o Mols Bjerge-stien perfaz 80 quilómetros divididos em quatro etapas: Bjergetapen,
+      Kalø-etapen, Ebeltoft-etapen e Gåsehage-etapen, articuladas pelo autocarro 123. Nos circuitos curtos, o
+      trilho de Hestehave Skov soma 5,5 km combinando bosque e património. Agri Bavnehøj atinge 137 metros com
+      miradouros panorâmicos. Skovbjerg cruza o bosque dos trolls. Knurrehald-stien desce a arriba fóssil com
+      40 metros de desnível. A Oldtidsstien visita uma mamoa longa, seis dólmenes e uma nascente sagrada.
+
+
+      O passeio de cerca de 3 km de ida e volta às ruínas de Kalø pode ser exigente pela calçada medieval
+      irregular do dique.
+    history: >-
+      O castelo de Kalø foi erigido no século XIV numa ilhota ligada a terra por uma calçada empedrada. Mamoas
+      graníticas, dólmenes e antas de galeria coroam as colinas. Bjørnkær-Egedal foi um carvalhal real abatido
+      para lenha para ferver sal durante as guerras contra a Suécia de 1660 e 1670. Em Øer, antigas pedreiras
+      de inertes deram lugar a lagoas retilíneas.
+
+
+      O parque abriga 40 dos tipos de habitat de interesse comunitário inventariados na Dinamarca. Voluntários
+      monitorizam populações de borboletas diurnas e da planta Succisa pratensis para registar a saúde
+      ecológica.
+    before: >-
+      Nos cercados com gado mantém distância dos animais e conduz sempre o cão com trela curta; se o gado se
+      aproximar, retira-te de imediato. As matas públicas estão abertas dia e noite; de bicicleta circula
+      apenas nos caminhos marcados, sendo proibido o trânsito motorizado.
+    around: >-
+      O [Parque Nacional de Vilsandi](/lugar/vilsandi-rahvuspark/) na Estónia fica longe, mas partilha com
+      Mols Bjerge o sapo-corredor e sapais costeiros congéneres.
+fuentes:
+  - url: https://nationalparkmolsbjerge.dk/oplev-nationalparken/aktiviteter
+    titulo: Aktiviteter - Nationalpark Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://eng.nationalparkmolsbjerge.dk/experience-the-national-park/activities/bird-watching
+    titulo: Bird-watching - National Park Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/oplev-nationalparken/aktiviteter/paa-fugletur
+    titulo: Kig på fugle i Nationalparken - Nationalpark Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/media/gisjehik/dansk-kort-version-fra-2024.pdf
+    titulo: Nationalpark Mols Bjerge - kort
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/om-os/nyheder/2026/frivillige-holder-oeje-med-sommerfuglene-i-mols-bjerge
+    titulo: Frivillige holder øje med sommerfuglene i Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Mols_Bjerge_National_Park
+    titulo: Mols Bjerge National Park - Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/planlaeg-dit-besoeg/gaest-i-naturen
+    titulo: Gæst i naturen - Nationalpark Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/oplev-nationalparken/aktiviteter/35-vandrestier-i-nationalparken
+    titulo: 35 vandrestier i nationalparken - Nationalpark Mols Bjerge
+    fecha_consulta: '2026-10-29'
+  - url: https://nationalparkmolsbjerge.dk/planlaeg-dit-besoeg/parkering-og-besoegscentre
+    titulo: Parkering og besøgscentre - Nationalpark Mols Bjerge
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Mols_Bjerge_udsigt_mod_Begtrup_Vig.JPG
+    autor: Sebastian Nils
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

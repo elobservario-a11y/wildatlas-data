@@ -1,0 +1,625 @@
+id: lunga-treshnish-isles
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Lunga (Islas Treshnish)
+  en: Isle of Lunga (Treshnish Isles)
+  fr: Île de Lunga (Îles Treshnish)
+  de: Insel Lunga (Treshnish-Inseln)
+  it: Isola di Lunga (Isole Treshnish)
+  pt: Ilha de Lunga (Ilhas Treshnish)
+nombre_original: Lunga (Treshnish Isles)
+alias:
+  - Lunga (Treshnish Isles)
+paises:
+  - GB
+region:
+  es: Escocia (Hébridas Interiores / Isla de Mull)
+  en: Scotland (Inner Hebrides / Isle of Mull)
+  fr: Écosse (Hébrides intérieures / Île de Mull)
+  de: Schottland (Innere Hebriden / Insel Mull)
+  it: Scozia (Ebridi Interne / Isola di Mull)
+  pt: Escócia (Hébridas Interiores / Ilha de Mull)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: way/4009570
+  nombre_en_la_fuente: Lunga
+  capa: capas/osm/lunga-treshnish-isles.geojson
+habitats:
+  - coast
+  - marine
+especies:
+  - fratercula_arctica
+  - halichoerus_grypus
+  - alca_torda
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+temporada_nota:
+  es: mayo a agosto
+  en: May to August
+  fr: mai à août
+  de: Mai bis August
+  it: da maggio ad agosto
+  pt: maio a agosto
+masificacion: 2
+masificacion_nota:
+  es: Media en los desembarcos de excursiones diurnas desde Ulva Ferry o Tobermory
+  en: Moderate on day-trip boat landings from Ulva Ferry or Tobermory
+  fr: Modérée lors des débarquements d’excursions à la journée depuis Ulva Ferry ou Tobermory
+  de: Mäßig bei Tagestouren-Anlandungen ab Ulva Ferry oder Tobermory
+  it: Moderata durante gli sbarchi delle escursioni giornaliere da Ulva Ferry o Tobermory
+  pt: Média nos desembarques de passeios diurnos a partir de Ulva Ferry ou Tobermory
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — NTS, islas Treshnish
+    url: https://www.nts.org.uk/visit/places/treshnish-isles
+  - titulo: Accesos y normas — Visitar Lunga y Treshnish
+    url: https://www.nts.org.uk/visit/places/treshnish-isles/planning-your-visit
+resumen:
+  es: >-
+    Pequeño islote basáltico donde los frailecillos (*puffins*) anidan a escasos centímetros de las botas de
+    los caminantes sin mostrar temor al ser humano.
+  en: Small basalt islet where puffins nest mere inches from walkers’ boots showing virtually no fear of humans.
+  fr: >-
+    Petit îlot basaltique où les macareux nichent à quelques centimètres des chaussures des promeneurs sans
+    manifester la moindre crainte.
+  de: >-
+    Kleine Basaltinsel, auf der Papageitaucher nur wenige Zentimeter von den Stiefeln der Wanderer entfernt
+    ohne Scheu vor Menschen nisten.
+  it: >-
+    Piccolo isolotto basaltico dove le pulcinelle di mare nidificano a pochi centimetri dagli scarponi dei
+    camminatori senza mostrare timore per l’uomo.
+  pt: >-
+    Pequeno ilhéu basáltico onde os papagaios-do-mar nidificam a escassos centímetros das botas dos
+    caminhantes sem demonstrar receio dos humanos.
+unico:
+  es: >-
+    En pocos sitios de Escocia puedes ver tan cerca a los frailecillos: una caminata corta desde el desembarco
+    y estás entre sus madrigueras.
+  en: >-
+    In few places across Scotland can you encounter puffins at such close quarters: a short walk from the
+    landing site and you are right among their burrows.
+  fr: >-
+    En Écosse, rares sont les endroits où approcher les macareux de si près : quelques minutes de marche
+    depuis le débarcadère et vous voilà au milieu de leurs terriers.
+  de: >-
+    An wenigen Orten Schottlands kommt man Papageitauchern so nahe: Ein kurzer Spaziergang von der
+    Anlegestelle führt dich mitten zwischen ihre Bruthöhlen.
+  it: >-
+    In pochi luoghi della Scozia puoi vedere le pulcinelle di mare così da vicino: una breve camminata dallo
+    sbarco e ti ritrovi tra i loro nidi.
+  pt: >-
+    Em poucos locais da Escócia consegues observar papagaios-do-mar tão de perto: uma curta caminhada a partir
+    do desembarque e estás junto às suas tocas.
+observaciones:
+  es: >-
+    Mantén al menos dos metros de distancia de los frailecillos para proteger sus madrigueras. Las aves
+    marinas son sensibles a las molestias y a la gripe aviar: limpiar el calzado ayuda a no propagar la
+    enfermedad. Comprueba con la empresa del barco las fechas de salida y los desembarcos antes de ir.
+texto:
+  es:
+    intro: >-
+      Desembarcas en una isla verde, caminas unos minutos y, de pronto, los frailecillos están a tus pies.
+      Lunga es la mayor de las islas Treshnish, un archipiélago de islotes y escollos volcánicos, remoto y
+      deshabitado, al oeste de la isla de Mull, en las Hébridas Interiores. Nadie vive aquí desde el siglo
+      XIX; los que mandan son las aves marinas y las focas. Lunga es la isla más grande y más fácil de visitar
+      del grupo, y por eso la mayoría de los desembarcos de las excursiones de verano son en ella.
+    landscape: >-
+      Las Treshnish son un hilo de islas volcánicas que se extiende a lo largo de 11 km entre Coll y Mull.
+      Lunga, la mayor, queda a unos 7 km al oeste de Gometra, 12 km al sureste de Coll y 5 km al noroeste de
+      Staffa. Todas las islas son de origen volcánico.
+
+
+      Sobre esa roca crecen pastizales marítimos, brezales costeros y turberas con armeria, silene marítima y
+      loto corniculado. En Lunga florecen además prímulas, orquídeas y tormentilas. Un detalle curioso: los
+      conejos mantienen bien el pasto, porque impiden que se vuelva basto y dejan que florezcan muchas
+      plantas. Y en la costa del archipiélago hay una plataforma moldeada por el hielo, anterior al periodo
+      Devensiense, que se ve especialmente bien en Bac Mòr, la isla que los ingleses llaman «el gorro del
+      holandés» por su forma.
+
+
+      Junto a Lunga se alza Harp Rock, un risco marino separado de la isla por una profunda garganta. Y bajo
+      el agua, los arrecifes rocosos que rodean las islas son hábitat de animales incrustantes y algas fijas.
+    wildlife: >-
+      Las Treshnish tienen la mayor colonia de cría de aves marinas de la zona de Mull, Coll y Tiree. Anidan
+      [frailecillos](/especie/fratercula_arctica/), [araos](/especie/uria_aalge/),
+      [alcas](/especie/alca_torda/), [cormoranes moñudos](/especie/phalacrocorax_aristotelis/), [gaviotas
+      tridáctilas](/especie/rissa_tridactyla/), [fulmares](/especie/fulmarus_glacialis/), pardelas pichonetas
+      y [paíños europeos](/especie/hydrobates_pelagicus/).
+
+
+      Mira dónde está cada uno. Los frailecillos crían en madrigueras que hay que respetar. En Harp Rock, en
+      verano, se juntan muchos araos, alcas, cormoranes moñudos y gaviotas tridáctilas. El paíño europeo es
+      más esquivo: cría en grietas de la roca en las playas y entre los muros de piedra de las casas
+      abandonadas.
+
+
+      También hay focas. Las islas tienen la mayor colonia de cría de foca gris de la zona de Mull, Coll y
+      Tiree, un 3 % de la población del Reino Unido. La plataforma rocosa y la playa del norte de Lunga son
+      sus principales lugares de cría, y la producción de crías se mantiene estable en torno a 1.000 al año.
+      En otoño, además, algunas salidas en barco se organizan para ver las focas.
+
+
+      En invierno llegan las barnaclas cariblancas: crían en Groenlandia y pasan los meses fríos en varios
+      puntos de la costa occidental de Escocia. Entre lo más discreto hay un pequeño número de [guiones de
+      codornices](/especie/crex_crex/) y dos plantas escasas a escala nacional: la orobanca del tomillo y la
+      planta ostra.
+    visit: >-
+      Se llega en barco, y casi siempre en verano. Las excursiones salen de Ulva Ferry, Tobermory,
+      Ardnamurchan y Tiree, y también de Iona. Los barcos desembarcan principalmente en Lunga; desde el
+      desembarco, una caminata corta te lleva a ver los frailecillos de cerca. Hay quien llega por su cuenta
+      en yate o en canoa.
+
+
+      En tierra, además de las aves, puedes ver el pueblo en ruinas, abandonado en 1857, en el nordeste de la
+      isla.
+    history: >-
+      El nombre Lunga viene probablemente del nórdico antiguo lungr-øy, «isla del barco largo». Estuvo
+      habitada hasta el siglo XIX y todavía conserva restos de casas tradicionales. Los ganaderos de la vecina
+      Mull llevaban allí ovejas y vacas, hasta que el pastoreo cesó por completo hacia 1995. Y en las islas
+      vecinas Cairn na Burgh hay castillos que datan de principios del siglo XIII.
+
+
+      El Hebridean Trust compró el archipiélago en 2000 para proteger su vida silvestre, su arqueología y su
+      valor recreativo, y en junio de 2023 las islas pasaron a estar protegidas por el National Trust for
+      Scotland. Lunga es Sitio de Especial Interés Científico, Zona de Especial Protección para las Aves y
+      Zona Especial de Conservación, y las Treshnish forman parte del Área Escénica Nacional de Loch na Keal,
+      una de las 40 de Escocia. Entre las prioridades de gestión figura controlar especies que no son
+      naturales de las islas, como el visón y las ratas. Y hay cierta erosión localizada en el lugar de
+      desembarco de Lunga.
+    before: >-
+      Mantén al menos dos metros de distancia de los frailecillos para proteger sus madrigueras. Las aves
+      marinas son sensibles a las molestias y a la gripe aviar: limpiar el calzado ayuda a no propagar la
+      enfermedad. Comprueba con la empresa del barco las fechas de salida y los desembarcos antes de ir.
+    around: >-
+      Lunga comparte con otras islas del atlas el mismo tipo de costa y sus aves. La [Isla Desierta de
+      Mingulay](/lugar/mingulay/) y la [Reserva Natural de las
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) tienen también alcas, foca gris y frailecillo. La
+      [Great Blasket Island / An Blascaod Mór](/lugar/great-blasket-island/) comparte la foca gris y el
+      frailecillo, y los [Acantilados Ornitológicos de Vestmanna](/lugar/vestmanna-bird-cliffs/) comparten
+      alcas y frailecillos.
+  en:
+    intro: >-
+      You step ashore onto a green island, walk for a few minutes, and suddenly puffins are right at your
+      feet. Lunga is the largest of the Treshnish Isles, an archipelago of remote, uninhabited volcanic islets
+      and skerries west of the Isle of Mull in the Inner Hebrides. No one has lived here since the nineteenth
+      century; seabirds and seals hold sway. Lunga is the largest and most accessible island of the group,
+      which is why most summer day-trip landings take place here.
+    landscape: >-
+      The Treshnish Isles form a chain of volcanic islands stretching over 11 km between Coll and Mull. Lunga,
+      the largest, lies around 7 km west of Gometra, 12 km south-east of Coll, and 5 km north-west of Staffa.
+      All the islands are volcanic in origin.
+
+
+      Across this basalt rock grow maritime grassland, coastal heath, and peat bogs with sea thrift, sea
+      campion, and bird’s-foot trefoil. On Lunga primroses, orchids, and tormentil bloom as well. A curious
+      detail: rabbits keep the turf well grazed, preventing it from growing coarse and allowing many
+      wildflowers to flourish. Along the archipelago’s coastline lies a wave-cut rock platform shaped by ice,
+      pre-dating the Devensian glaciation, which is particularly evident on Bac Mòr, the island known as the
+      Dutchman’s Cap due to its shape.
+
+
+      Beside Lunga rises Harp Rock, a sea stack separated from the island by a deep chasm. Beneath the waves,
+      the rocky reefs surrounding the islands provide habitat for encrusting fauna and kelp communities.
+    wildlife: >-
+      The Treshnish Isles hold the largest breeding seabird colony in the Mull, Coll, and Tiree area. Here
+      nest [Atlantic puffins](/especie/fratercula_arctica/), [common murres](/especie/uria_aalge/),
+      [razorbills](/especie/alca_torda/), [European shags](/especie/phalacrocorax_aristotelis/), [black-legged
+      kittiwakes](/especie/rissa_tridactyla/), [northern fulmars](/especie/fulmarus_glacialis/), Manx
+      shearwaters, and [European storm petrels](/especie/hydrobates_pelagicus/).
+
+
+      Take note of where each species gathers. Puffins breed in turf burrows that must be respected. On Harp
+      Rock in summer, dense crowds of guillemots, razorbills, shags, and kittiwakes congregate. The European
+      storm petrel is more secretive: it nests in rock crevices on boulder beaches and within the drystone
+      walls of ruined cottages.
+
+
+      There are seals as well. The islands support the largest grey seal breeding colony in the Mull, Coll,
+      and Tiree region, representing 3 % of the United Kingdom’s population. The northern wave-cut platform
+      and beach on Lunga serve as primary pupping grounds, and pup production remains stable at around 1,000 a
+      year. In autumn, dedicated boat trips run specifically for seal watching.
+
+
+      In winter, barnacle geese arrive: they breed in Greenland and spend the cold months at several locations
+      along western Scotland. Among more elusive wildlife are a small number of [corn
+      crakes](/especie/crex_crex/) and two nationally scarce plants: thyme broomrape and oysterplant.
+    visit: >-
+      Access is by boat, almost exclusively in summer. Excursions depart from Ulva Ferry, Tobermory,
+      Ardnamurchan, and Tiree, as well as from Iona. Boats land predominantly on Lunga; from the shoreline, a
+      short walk brings you up close with the puffins. Some visitors also arrive independently by yacht or sea
+      kayak.
+
+
+      Ashore, beyond the birds, you can explore the ruined village, abandoned in 1857, in the north-east of
+      the island.
+    history: >-
+      The name Lunga likely derives from Old Norse lungr-øy, meaning "longship island". It was inhabited until
+      the nineteenth century and still preserves remains of traditional blackhouses. Farmers from neighbouring
+      Mull grazed sheep and cattle here until grazing ceased entirely around 1995. On the nearby Cairn na
+      Burgh islands stand ruined castles dating from the early thirteenth century.
+
+
+      The Hebridean Trust purchased the archipelago in 2000 to safeguard its wildlife, archaeology, and
+      recreational value, and in June 2023 the islands passed into the care of the National Trust for
+      Scotland. Lunga is a Site of Special Scientific Interest, Special Protection Area, and Special Area of
+      Conservation, and the Treshnish Isles form part of the Loch na Keal National Scenic Area, one of 40 in
+      Scotland. Management priorities include monitoring and controlling non-native species such as American
+      mink and rats. Minor localised footpath erosion occurs around the Lunga landing site.
+    before: >-
+      Keep at least two metres away from puffins to safeguard their burrows. Seabirds are vulnerable to
+      disturbance and avian influenza: cleaning your boots helps prevent disease transmission. Confirm sailing
+      dates and landing conditions with your boat operator before heading out.
+    around: >-
+      Lunga shares its rugged coastline and seabird fauna with other atlas islands. The [Deserted Isle of
+      Mingulay](/lugar/mingulay/) and the [Sept-Îles Nature Reserve](/lugar/reserve-naturelle-des-sept-iles/)
+      also feature razorbills, grey seals, and puffins. [Great Blasket Island / An Blascaod
+      Mór](/lugar/great-blasket-island/) shares grey seals and puffins, while the [Vestmanna Bird
+      Cliffs](/lugar/vestmanna-bird-cliffs/) share razorbills and puffins.
+  fr:
+    intro: >-
+      Vous débarquez sur une île verdoyante, marchez quelques minutes, et soudain les macareux s’activent à
+      vos pieds. Lunga est la plus grande des îles Treshnish, un chapelet d’îlots et d’écueils volcaniques,
+      isolé et inhabité, à l’ouest de l’île de Mull, dans les Hébrides intérieures. Nul n’y vit depuis le
+      dix-neuvième siècle ; ici règnent les oiseaux de mer et les phoques. Lunga est la plus vaste et la plus
+      accessible du groupe, ce qui explique que l’essentiel des débarquements estivaux s’y concentre.
+    landscape: >-
+      Les Treshnish forment un cordon d’îles volcaniques s’étirant sur 11 km entre Coll et Mull. Lunga, la
+      plus importante, se trouve à environ 7 km à l’ouest de Gometra, 12 km au sud-est de Coll et 5 km au
+      nord-ouest de Staffa. Toutes les îles sont d’origine volcanique.
+
+
+      Sur ce socle rocheux prospèrent pelouses maritimes, landes côtières et tourbières peuplées d’arméries,
+      de silènes maritimes et de lotiers corniculés. À Lunga s’épanouissent également primevères, orchidées et
+      potentilles tormentilles. Détail singulier : les lapins entretiennent la pelouse, empêchant la
+      végétation de s’épaissir et favorisant la floraison de nombreuses espèces. Sur le littoral de l’archipel
+      s’observe une plateforme d’érosion marine façonnée par les glaces, antérieure à la glaciation
+      dévensienne, particulièrement spectaculaire à Bac Mòr, l’île surnommée « le chapeau du Hollandais » en
+      raison de sa silhouette.
+
+
+      Tout près de Lunga se dresse Harp Rock, un piton rocheux isolé par une profonde faille marine. Sous
+      l’eau, les récifs rocheux entourant les îles constituent l’habitat d’une faune fixée et d’abondantes
+      forêts de laminaires.
+    wildlife: >-
+      Les îles Treshnish abritent la plus importante colonie reproductrice d’oiseaux marins du secteur de
+      Mull, Coll et Tiree. Y nichent le [macareux moine](/especie/fratercula_arctica/), le [guillemot de
+      Troïl](/especie/uria_aalge/), le [petit pingouin](/especie/alca_torda/), le [cormoran
+      huppé](/especie/phalacrocorax_aristotelis/), la [mouette tridactyle](/especie/rissa_tridactyla/), le
+      [fulmar boréal](/especie/fulmarus_glacialis/), le puffin des Anglais et l’[océanite
+      tempête](/especie/hydrobates_pelagicus/).
+
+
+      Chaque espèce occupe son espace. Les macareux creusent des terriers dans l’herbe qu’il convient de
+      préserver. Sur Harp Rock, en été, se pressent d’innombrables guillemots, petits pingouins, cormorans
+      huppés et mouettes tridactyles. L’océanite tempête est plus discrète : elle niche dans les
+      anfractuosités rocheuses des grèves et au creux des murs en pierres sèches des demeures abandonnées.
+
+
+      Les phoques y prospèrent également. L’archipel héberge la plus grande colonie de reproduction de phoque
+      gris de la zone Mull-Coll-Tiree, soit 3 % de la population du Royaume-Uni. Le platier rocheux et la
+      plage nord de Lunga constituent leurs principaux sites de mise bas, et la production de petits reste
+      stable autour de 1 000 par an. En automne, des excursions spécifiques en mer sont organisées pour les
+      observer.
+
+
+      En hiver débarquent les bernaches nonnettes : nichant au Groenland, elles hivernent sur plusieurs
+      secteurs de la côte ouest écossaise. Parmi les hôtes plus discrets figurent un petit contingent de
+      [râles des genêts](/especie/crex_crex/) et deux plantes rares au niveau national : l’orobanche du thym
+      et la mertensie maritime.
+    visit: >-
+      On s’y rend en bateau, presque exclusivement en été. Des excursions partent d’Ulva Ferry, Tobermory,
+      Ardnamurchan et Tiree, ainsi que d’Iona. Les navires accostent en priorité à Lunga ; depuis la rive, une
+      courte ascension pédestre mène directement auprès des macareux. Certains plaisanciers y abordent par
+      leurs propres moyens, en voilier ou en kayak de mer.
+
+
+      À terre, outre la faune ailée, vous découvrirez les vestiges du village déserté en 1857, au nord-est de
+      l’île.
+    history: >-
+      Le toponyme Lunga provient vraisemblablement du vieux norrois lungr-øy, « l’île au drakkar ». Habitée
+      jusqu’au dix-neuvième siècle, elle conserve les traces d’anciennes habitations en pierre. Les éleveurs
+      de Mull y faisaient paître moutons et bovins jusqu’à l’arrêt complet du pâturage vers 1995. Sur les
+      îlots voisins de Cairn na Burgh subsistent les vestiges de forteresses remontant au début du treizième
+      siècle.
+
+
+      L’Hebridean Trust a racheté l’archipel en 2000 afin d’en protéger la faune, le patrimoine archéologique
+      et l’attrait paysager, avant que les îles ne soient confiées en juin 2023 à la garde du National Trust
+      for Scotland. Lunga est classée Site d’intérêt scientifique particulier, Zone de protection spéciale et
+      Zone spéciale de conservation, et les Treshnish s’intègrent au sein de la National Scenic Area de Loch
+      na Keal, l’une des 40 zones paysagères remarquables d’Écosse. Le contrôle des prédateurs allochtones
+      tels que le vison et le rat compte parmi les priorités de gestion. On note également une érosion
+      localisée du sentier au point de débarquement.
+    before: >-
+      Gardez une distance minimale de deux mètres avec les macareux pour préserver leurs terriers. Les oiseaux
+      de mer sont sensibles aux dérangements et à la grippe aviaire : le nettoyage de vos chaussures évite la
+      dispersion du virus. Vérifiez les horaires et les autorisations de débarquement auprès de la compagnie
+      maritime avant le départ.
+    around: >-
+      Lunga partage son littoral battu et son avifaune avec d’autres îles de l’atlas. L’[Île déserte de
+      Mingulay](/lugar/mingulay/) et la [Réserve Naturelle des
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) abritent également petits pingouins, phoques gris et
+      macareux. La [Great Blasket Island / An Blascaod Mór](/lugar/great-blasket-island/) partage phoques gris
+      et macareux, tandis que les [Falaises ornithologiques de Vestmanna](/lugar/vestmanna-bird-cliffs/)
+      rassemblent petits pingouins et macareux.
+  de:
+    intro: >-
+      Du gehst auf einer grünen Insel an Land, läufst ein paar Minuten, und unvermittelt stehen Papageitaucher
+      zu deinen Füßen. Lunga ist die größte der Treshnish-Inseln, einer entlegenen und unbewohnten Gruppe
+      vulkanischer Eilande und Schären westlich der Isle of Mull in den Inneren Hebriden. Seit dem neunzehnten
+      Jahrhundert lebt hier niemand mehr; die Herrscher sind Seevögel und Robben. Lunga ist die größte und am
+      leichtesten zugängliche Insel des Archipels, weshalb die meisten Ausflugsboote im Sommer hier anlegen.
+    landscape: >-
+      Die Treshnish-Inseln bilden eine Kette vulkanischer Eilande, die sich über 11 km zwischen Coll und Mull
+      erstreckt. Lunga, die Hauptinsel, liegt etwa 7 km westlich von Gometra, 12 km südöstlich von Coll und 5
+      km nordwestlich von Staffa. Alle Inseln sind vulkanischen Ursprungs.
+
+
+      Auf dem Basaltgestein gedeihen Küstengrasland, Heideflächen und Moorböden mit Grasnelke,
+      Klippen-Leimkraut und Hornklee. Auf Lunga blühen zudem Primeln, Knabenkräuter und Blutwurz. Eine
+      Besonderheit: Kaninchen halten die Grasnarbe kurz, verhindern Verbuschung und fördern so den Reichtum an
+      Blütenpflanzen. An der Küste des Archipels findet sich eine eiszeitlich geformte Brandungsplattform aus
+      der Zeit vor der Devensian-Kaltzeit, die auf Bac Mòr—von den Briten wegen ihrer Form „Dutchman’s Cap“
+      genannt—besonders eindrucksvoll zutage tritt.
+
+
+      Dicht neben Lunga ragt der Harp Rock auf, eine markante Felsnadel, die durch eine tiefe Meeresschlucht
+      von der Insel getrennt ist. Unter der Wasseroberfläche bieten felsige Riffe Lebensraum für
+      krustenbildende Meerestiere und dichte Algenwälder.
+    wildlife: >-
+      Die Treshnish-Inseln beherbergen die größte Seevogel-Brutkolonie der Region Mull, Coll und Tiree. Hier
+      nisten [Papageitaucher](/especie/fratercula_arctica/), [Trottellummen](/especie/uria_aalge/),
+      [Tordalke](/especie/alca_torda/), [Krähenscharben](/especie/phalacrocorax_aristotelis/),
+      [Dreizehenmöwen](/especie/rissa_tridactyla/), [Eissturmvögel](/especie/fulmarus_glacialis/),
+      Schwarzschnabel-Sturmtaucher und [Sturmschwalben](/especie/hydrobates_pelagicus/).
+
+
+      Jede Art hat ihren festen Platz. Die Papageitaucher brüten in Erdröhren, die geschont werden müssen. Am
+      Harp Rock drängen sich im Sommer dichte Kolonien von Trottellummen, Tordalken, Krähenscharben und
+      Dreizehenmöwen. Die Sturmschwalbe lebt unauffälliger: Sie nistet in Felsspalten an Stränden und zwischen
+      den Trockensteinmauern verlassener Steinhäuser.
+
+
+      Auch Robben sind zahlreich vertreten. Die Inseln beherbergen die größte Kegelrobben-Brutkolonie im
+      Gebiet von Mull, Coll und Tiree, was 3 % des Bestands im Vereinigten Königreich ausmacht. Die
+      Felsplattform und der Strand im Norden Lungas dienen als wichtigste Wurfplätze; die Zahl der Jungtiere
+      bleibt mit etwa 1.000 pro Jahr stabil. Im Herbst werden spezielle Bootstouren zur Robbenbeobachtung
+      angeboten.
+
+
+      Im Winter treffen Nonnengänse ein: Sie brüten in Grönland und überwintern an verschiedenen Abschnitten
+      der schottischen Westküste. Zu den selteneren Bewohnern zählen kleine Vorkommen des
+      [Wachtelkönigs](/especie/crex_crex/) sowie zwei landesweit seltene Pflanzenarten: die Thymian-Sommerwurz
+      und die Austernpflanze.
+    visit: >-
+      Die Anreise erfolgt per Boot und fast ausschließlich im Sommer. Ausflüge starten von Ulva Ferry,
+      Tobermory, Ardnamurchan und Tiree sowie von Iona. Die Boote landen vor allem auf Lunga an; von der
+      Anlegestelle führt ein kurzer Spaziergang direkt zu den Papageitauchern. Manche Besucher reisen auf
+      eigene Faust mit der Segelyacht oder dem Seekajak an.
+
+
+      An Land kannst du neben der Vogelwelt das verlassene Dorf im Nordosten der Insel erkunden, das 1857
+      aufgegeben wurde.
+    history: >-
+      Der Name Lunga geht vermutlich auf das altnordische lungr-øy zurück, was „Langschiff-Insel“ bedeutet.
+      Sie war bis ins neunzehnte Jahrhundert bewohnt und weist noch Reste traditioneller Steinhäuser auf.
+      Bauern der Nachbarinsel Mull weideten hier Schafe und Rinder, bis die Beweidung um 1995 gänzlich
+      eingestellt wurde. Auf den benachbarten Cairn na Burgh-Inseln stehen Burgen aus dem frühen dreizehnten
+      Jahrhundert.
+
+
+      Der Hebridean Trust erwarb den Archipel im Jahr 2000, um Tierwelt, Archäologie und Erholungswert zu
+      sichern; im Juni 2023 übernahm der National Trust for Scotland die Schutzgebiete. Lunga ist als Site of
+      Special Scientific Interest, Besonderes Vogelschutzgebiet und FFH-Gebiet ausgewiesen, und die
+      Treshnish-Inseln gehören zur National Scenic Area Loch na Keal, einer von 40 in Schottland. Zu den
+      wichtigsten Pflegemaßnahmen zählt die Bekämpfung invasiver Arten wie Nerzen und Ratten. Am Landeplatz
+      von Lunga tritt stellenweise Pfaderosion auf.
+    before: >-
+      Halte mindestens zwei Meter Abstand zu den Papageitauchern, um ihre Bruthöhlen zu schützen. Seevögel
+      reagieren empfindlich auf Störungen und Vogelgrippe: Das Säubern der Schuhe verhindert die Einschleppung
+      von Krankheitserregern. Erkundige dich vorab bei der Fährgesellschaft über Abfahrtszeiten und
+      Anlandebedingungen.
+    around: >-
+      Lunga teilt ihre zerklüftete Felsküste und Vogelwelt mit anderen Inseln im Atlas. Die [verlassene Insel
+      Mingulay](/lugar/mingulay/) und das [Naturschutzgebiet
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) beherbergen ebenfalls Tordalke, Kegelrobben und
+      Papageitaucher. [Great Blasket Island / An Blascaod Mór](/lugar/great-blasket-island/) teilt Kegelrobben
+      und Papageitaucher, während die [Vogelfelsen von Vestmanna](/lugar/vestmanna-bird-cliffs/) Tordalke und
+      Papageitaucher aufweisen.
+  it:
+    intro: >-
+      Sbarchi su un’isola verde, cammini pochi minuti e improvvisamente le pulcinelle di mare sono ai tuoi
+      piedi. Lunga è la maggiore delle isole Treshnish, un arcipelago di isolotti e scogli vulcanici, remoto e
+      disabitato, a ovest dell’isola di Mull, nelle Ebridi Interne. Nessuno vi abita più dal diciannovesimo
+      secolo; a dominare sono gli uccelli marini e le foche. Lunga è l’isola più grande e accessibile del
+      gruppo, motivo per cui la maggior parte degli sbarchi estivi avviene proprio qui.
+    landscape: >-
+      Le Treshnish formano una collana di isole vulcaniche che si allunga per 11 km tra Coll e Mull. Lunga, la
+      maggiore, dista circa 7 km a ovest di Gometra, 12 km a sud-est di Coll e 5 km a nord-ovest di Staffa.
+      Tutte le isole hanno origine vulcanica.
+
+
+      Sulla roccia basaltica crescono pascoli litoranei, brughiere costiere e torbiere con armeria marittima,
+      silene marittima e ginestrino. A Lunga fioriscono inoltre primule, orchidee e cinquefoglie tormentille.
+      Un particolare interessante: i conigli mantengono bassa l’erba, impedendo che diventi troppo folta e
+      favorendo la fioritura di numerose specie. Lungo la costa dell’arcipelago si estende una piattaforma
+      litoranea scolpita dai ghiacci prima del periodo devensiano, particolarmente visibile su Bac Mòr,
+      l’isola detta «cappello dell’olandese» per la sua singolare sagoma.
+
+
+      Accanto a Lunga svetta l’Harp Rock, un faraglione separato dall’isola da una profonda gola. Sott’acqua,
+      le scogliere sommerse che circondano le isole offrono un habitat ideale a organismi incrostanti e
+      foreste di alghe brune.
+    wildlife: >-
+      Le Treshnish ospitano la più consistente colonia riproduttiva di uccelli marini dell’area di Mull, Coll
+      e Tiree. Vi nidificano [pulcinelle di mare](/especie/fratercula_arctica/), [urie](/especie/uria_aalge/),
+      [gazze marine](/especie/alca_torda/), [marangoni dal ciuffo](/especie/phalacrocorax_aristotelis/),
+      [gabbiani tridattili](/especie/rissa_tridactyla/), [fulmari](/especie/fulmarus_glacialis/), berte minori
+      e [uccelli delle tempeste europei](/especie/hydrobates_pelagicus/).
+
+
+      Osserva dove si distribuisce ogni specie. Le pulcinelle nidificano in cunicoli scavati nel suolo che
+      richiedono il massimo rispetto. Sull’Harp Rock, in estate, si concentrano folle di urie, gazze marine,
+      marangoni e gabbiani tridattili. L’uccello delle tempeste è assai più elusivo: nidifica tra le fessure
+      rocciose delle spiagge e nei muri a secco delle abitazioni abbandonate.
+
+
+      Non mancano le foche. Le isole ospitano la maggiore colonia riproduttiva di foca grigia dell’area
+      Mull-Coll-Tiree, pari al 3 % dell’intera popolazione del Regno Unito. La piattaforma rocciosa e la
+      spiaggia a nord di Lunga sono le principali aree di parto, con una produzione di piccoli che si mantiene
+      stabile attorno a 1.000 all’anno. In autunno vengono organizzate uscite in barca per ammirare le foche.
+
+
+      In inverno sopraggiungono le oche facciabianca: nidificano in Groenlandia e trascorrono i mesi freddi in
+      vari punti della costa occidentale scozzese. Tra gli elementi più rari figurano una piccola popolazione
+      di [re di quaglie](/especie/crex_crex/) e due piante rare su scala nazionale: la succiamiele del timo e
+      la mertensia marittima.
+    visit: >-
+      Si arriva in barca, quasi sempre durante l’estate. Le escursioni partono da Ulva Ferry, Tobermory,
+      Ardnamurchan e Tiree, oltre che da Iona. Le imbarcazioni sbarcano prevalentemente a Lunga; dal punto di
+      approdo, una breve camminata conduce ad osservare da vicino le pulcinelle. C’è anche chi arriva in
+      autonomia in barca a vela o in kayak da mare.
+
+
+      A terra, oltre agli uccelli marini, puoi esplorare i ruderi del villaggio abbandonato nel 1857, situato
+      a nord-est dell’isola.
+    history: >-
+      Il toponimo Lunga deriva probabilmente dall’antico norreno lungr-øy, «isola della nave lunga». È stata
+      abitata fino al diciannovesimo secolo e conserva tuttora tracce delle tipiche case in pietra. Gli
+      allevatori della vicina Mull vi portavano pecore e bovini al pascolo, cessato definitivamente attorno al
+      1995. Sulle vicine isole di Cairn na Burgh sorgono fortificazioni risalenti all’inizio del tredicesimo
+      secolo.
+
+
+      L’Hebridean Trust ha acquistato l’arcipelago nel 2000 per salvaguardarne la fauna selvatica,
+      l’archeologia e il valore paesaggistico, e nel giugno 2023 le isole sono passate sotto la tutela del
+      National Trust for Scotland. Lunga è Sito di Speciale Interesse Scientifico, Zona di Protezione Speciale
+      e Zona Speciale di Conservazione, e le Treshnish rientrano nell’Area Scenica Nazionale di Loch na Keal,
+      una delle 40 della Scozia. Tra le priorità di gestione vi è il controllo delle specie alloctone come
+      visoni e ratti. Presso il punto di approdo di Lunga si rileva una modesta erosione dei sentieri.
+    before: >-
+      Mantieni almeno due metri di distanza dalle pulcinelle per salvaguardare i loro nidi. Gli uccelli marini
+      risentono del disturbo e dell’influenza aviaria: disinfettare o pulire le calzature aiuta a prevenire
+      contagi. Verifica con la compagnia marittima le date di partenza e le condizioni di sbarco prima di
+      metterti in viaggio.
+    around: >-
+      Lunga condivide con altre isole dell’atlante lo stesso litorale aspro e la ricca avifauna. L’[Isola
+      disabitata di Mingulay](/lugar/mingulay/) e la [Riserva Naturale delle
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) ospitano anch’esse gazze marine, foche grigie e
+      pulcinelle. La [Great Blasket Island / An Blascaod Mór](/lugar/great-blasket-island/) condivide foche
+      grigie e pulcinelle, mentre le [Falesie ornitologiche di Vestmanna](/lugar/vestmanna-bird-cliffs/)
+      condividono gazze marine e pulcinelle.
+  pt:
+    intro: >-
+      Desembarcas numa ilha verdejante, caminhas alguns minutos e, de repente, os papagaios-do-mar estão a
+      teus pés. Lunga é a maior das ilhas Treshnish, um arquipélago de ilhéus e recifes vulcânicos, remoto e
+      desabitado, a oeste da ilha de Mull, nas Hébridas Interiores. Ninguém reside aqui desde o século XIX;
+      quem domina são as aves marinhas e as focas. Lunga é a maior ilha e a mais acessível do grupo, razão
+      pela qual a esmagadora maioria dos desembarques turísticos de verão ocorre nela.
+    landscape: >-
+      As Treshnish formam um cordão de ilhas vulcânicas que se prolonga ao longo de 11 km entre Coll e Mull.
+      Lunga, a maior, fica a cerca de 7 km a oeste de Gometra, 12 km a sudeste de Coll e 5 km a noroeste de
+      Staffa. Todas as ilhas têm génese vulcânica.
+
+
+      Sobre essa rocha basáltica medram pastagens marítimas, urzais costeiros e turfeiras com arméria,
+      silene-marítima e cornichão. Em Lunga florescem também prímulas, orquídeas e tormentilhas. Um aspeto
+      curioso: os coelhos mantêm o pasto bem rapado, impedindo que endureça e permitindo a floração de
+      numerosas plantas. No litoral do arquipélago estende-se uma plataforma rochosa afeiçoada pelo gelo antes
+      do período Devensiano, bem visível em Bac Mòr, ilha que os britânicos apelidam de «chapéu do holandês»
+      pela sua silhueta.
+
+
+      Junto a Lunga ergue-se o Harp Rock, um rochedo marinho isolado da ilha por uma fenda profunda. Sob as
+      águas, os recifes rochosos que rodeiam as ilhas constituem habitat para animais incrustantes e florestas
+      de algas.
+    wildlife: >-
+      As Treshnish acolhem a maior colónia reprodutora de aves marinhas da região de Mull, Coll e Tiree. Aqui
+      nidificam o [papagaio-do-mar](/especie/fratercula_arctica/), o [airo](/especie/uria_aalge/), a
+      [torda-mergulheira](/especie/alca_torda/), o
+      [corvo-marinho-de-crista](/especie/phalacrocorax_aristotelis/), a
+      [gaivota-tridáctila](/especie/rissa_tridactyla/), o [fulmar-glacial](/especie/fulmarus_glacialis/), a
+      pardela-fumarenta e o [painho-de-cauda-quadrada](/especie/hydrobates_pelagicus/).
+
+
+      Repara na distribuição de cada espécie. Os papagaios-do-mar criam em tocas subterrâneas que exigem
+      cautela. No Harp Rock, no verão, aglomeram-se airos, tordas-mergulheiras, corvos-marinhos-de-crista e
+      gaivotas-tridáctilas. O painho-de-cauda-quadrada é mais esquivo: nidifica em fendas de rocha nas praias
+      e entre os muros de pedra solta das casas em ruínas.
+
+
+      Também há focas. O arquipélago acolhe a maior colónia reprodutora de foca-cinzenta da zona de Mull, Coll
+      e Tiree, correspondendo a 3 % da população do Reino Unido. A plataforma rochosa e a praia norte de Lunga
+      são os principais locais de parto, mantendo-se a natalidade estável em torno de 1.000 crias anuais. No
+      outono, organizam-se saídas de barco direcionadas para a observação das focas.
+
+
+      No inverno chegam os gansos-de-faces-brancas: nidificam na Gronelândia e passam a estação fria em vários
+      pontos do litoral oeste escocês. Entre as espécies mais discretas contam-se pequenos efetivos de
+      [codornizão](/especie/crex_crex/) e duas plantas de rara ocorrência nacional: a orobanca-do-tomilho e a
+      planta-ostra.
+    visit: >-
+      O acesso faz-se por barco, sobretudo no verão. As excursões zarpam de Ulva Ferry, Tobermory,
+      Ardnamurchan e Tiree, e também de Iona. As embarcações aportam principalmente em Lunga; a partir do
+      ancoradouro, uma caminhada curta permite observar os papagaios-do-mar bem de perto. Há também quem
+      chegue de forma autónoma em iate ou caiaque marítimo.
+
+
+      Em terra, para além da avifauna, podes visitar a aldeia em ruínas abandonada em 1857, no nordeste da
+      ilha.
+    history: >-
+      O topónimo Lunga provém muito provavelmente do nórdico antigo lungr-øy, «ilha do dracar». Esteve
+      habitada até ao século XIX e conserva ainda vestígios das tradicionais casas de pedra. Os criadores da
+      vizinha Mull levavam para lá ovelhas e vacas, até que o pastoreio cessou por completo cerca de 1995. Nas
+      ilhas vizinhas de Cairn na Burgh erguem-se castelos do início do século XIII.
+
+
+      O Hebridean Trust adquiriu o arquipélago em 2000 para preservar a vida selvagem, a arqueologia e o valor
+      recreativo, e em junho de 2023 as ilhas transitaram para a tutela do National Trust for Scotland. Lunga
+      é Sítio de Especial Interesse Científico, Zona de Proteção Especial e Zona Especial de Conservação, e as
+      Treshnish integram a Área Cénica Nacional de Loch na Keal, uma das 40 da Escócia. O controlo de espécies
+      não nativas como o visom e os ratos figura entre as prioridades de conservação. Registam-se alguns focos
+      de erosão nos trilhos junto ao ponto de desembarque de Lunga.
+    before: >-
+      Mantém uma distância mínima de dois metros dos papagaios-do-mar para proteger as suas tocas. As aves
+      marinhas são sensíveis à perturbação e à gripe das aves: limpar o calçado evita a disseminação de
+      patógenos. Confirma junto da operadora marítima os horários e as condições de desembarque antes de
+      zarpar.
+    around: >-
+      Lunga partilha o mesmo tipo de orla costeira e a avifauna com outras ilhas do atlas. A [Ilha Deserta de
+      Mingulay](/lugar/mingulay/) e a [Reserva Natural das Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/)
+      contam igualmente com tordas-mergulheiras, focas-cinzentas e papagaios-do-mar. A [Great Blasket Island /
+      An Blascaod Mór](/lugar/great-blasket-island/) partilha a foca-cinzenta e o papagaio-do-mar, enquanto as
+      [Escarpas Ornitológicas de Vestmanna](/lugar/vestmanna-bird-cliffs/) partilham tordas e papagaios.
+fuentes:
+  - url: https://www.nts.org.uk/visit/places/treshnish-isles/highlights/seabirds
+    titulo: Seabirds | National Trust for Scotland
+    fecha_consulta: '2026-10-24'
+  - url: https://www.nature.scot/sites/default/files/site-special-scientific-interest/1562/site-management-statement.pdf
+    titulo: Treshnish Isles — site management statement
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Treshnish_Isles
+    titulo: Treshnish Isles — Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Lunga,_Treshnish_Isles
+    titulo: Lunga, Treshnish Isles — Wikipedia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lunga_Treshnish_Isles_Fratercula_arctica_01.jpg
+    autor: PaulT (Gunther Tschuch)
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

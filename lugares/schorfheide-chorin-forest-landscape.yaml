@@ -1,0 +1,665 @@
+id: schorfheide-chorin-forest-landscape
+estado_editorial: valoracion-revisada
+nombre:
+  es: Paisaje Forestal de Schorfheide-Chorin
+  en: Schorfheide-Chorin Forest Landscape
+  fr: Paysage forestier de Schorfheide-Chorin
+  de: Waldlandschaft Schorfheide-Chorin
+  it: Paesaggio Forestale di Schorfheide-Chorin
+  pt: Paisagem Florestal de Schorfheide-Chorin
+nombre_original: Schorfheide-Chorin Forest Landscape
+alias:
+  - Schorfheide-Chorin Forest Landscape
+paises:
+  - DE
+region:
+  es: Brandeburgo (Barnim / Uckermark)
+  en: Brandenburg (Barnim / Uckermark)
+  fr: Brandebourg (Barnim / Uckermark)
+  de: Brandenburg (Barnim / Uckermark)
+  it: Brandeburgo (Barnim / Uckermark)
+  pt: Brandeburgo (Barnim / Uckermark)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 52.95
+  lon: 13.8
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 319939
+  nombre_en_la_fuente: Biosphärenreservat Schorfheide - Chorin
+  capa: capas/cdda/schorfheide-chorin-forest-landscape.geojson
+habitats:
+  - mature_forest
+  - lake
+  - wetland
+designaciones:
+  - biosphere_reserve
+  - natura2000
+especies:
+  - haliaeetus_albicilla
+  - cervus_elaphus
+  - grus_grus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Biosphärenreservat Schorfheide-Chorin
+    url: https://www.schorfheide-chorin-biosphaerenreservat.de/
+  - titulo: Accesos — Llegada y movilidad
+    url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/zu-gast-im-biosphaerenreservat/anreise-und-mobilitaet/
+  - titulo: Centro de visitantes — Blumberger Mühle
+    url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/zu-gast-im-biosphaerenreservat/besucherinformationszentrum-blumberger-muehle/
+  - titulo: Observatorios — Puntos de observación
+    url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/aktiv-in-der-natur/beobachtungspunkte/
+  - titulo: Mapa — Reserva de Schorfheide-Chorin
+    url: https://www.schorfheide-chorin-biosphaerenreservat.de/karte/
+resumen:
+  es: >-
+    Reserva de la Biosfera al norte de Berlín con amplios bosques de robles y robles sésiles y lagos
+    glaciares.
+  en: >-
+    A UNESCO Biosphere Reserve north of Berlin featuring vast sessile oak and beech woodlands alongside
+    post-glacial lakes.
+  fr: >-
+    Réserve de biosphère au nord de Berlin abritant de vastes forêts de chênes sessiles et de hêtres ainsi que
+    des lacs glaciaires.
+  de: >-
+    UNESCO-Biosphärenreservat nördlich von Berlin mit ausgedehnten Traubeneichen- und Buchenwäldern sowie
+    glazialen Rinnenseen.
+  it: >-
+    Riserva della biosfera a nord di Berlino con ampie foreste di rovere e faggio frammiste a laghi di origine
+    glaciale.
+  pt: >-
+    Reserva da Biosfera a norte de Berlim com extensos carvalhais de carvalho-roble e faias junto a lagos de
+    origem glaciar.
+unico:
+  es: >-
+    Reúne en un solo paseo un hayedo Patrimonio Natural Mundial, la reserva natural más antigua de Prusia y
+    240 lagos que el hielo dejó a su paso.
+  en: >-
+    Unites in a single day’s walk a UNESCO World Heritage beech forest, Prussia’s oldest nature reserve, and
+    240 lakes left in the wake of retreating ice.
+  fr: >-
+    Rassemble en une seule journée de marche une hêtraie du Patrimoine mondial, la plus ancienne réserve
+    naturelle de Prusse et 240 lacs glaciaires.
+  de: >-
+    Vereint auf einer Tageswanderung einen Weltnaturerbe-Buchenwald, das älteste Naturschutzgebiet Preußens
+    und 240 eiszeitliche Seen.
+  it: >-
+    Unisce in un solo itinerario a piedi una faggeta Patrimonio Mondiale, la più antica riserva naturale della
+    Prussia e 240 laghi modellati dai ghiacciai.
+  pt: >-
+    Reúne num só percurso pedestre um faial Património Mundial, a reserva natural mais antiga da Prússia e 240
+    lagos esculpidos pelo gelo.
+observaciones:
+  es: >-
+    En Grumsin hay que mantenerse en los senderos señalizados; en el entorno hay bosques privados donde se
+    trabaja y se corta madera. Los senderos de Grumsin no son accesibles ni aptos para bicicletas, y en partes
+    del área no hay cobertura móvil, así que prepara el recorrido antes de salir.
+texto:
+  es:
+    intro: >-
+      Lo que ves en Schorfheide-Chorin lo dibujó el hielo. Cuando se retiraron los glaciares dejaron arcos de
+      morrena cubiertos de bosque que cruzan la reserva de noroeste a sureste y se elevan hasta 100 m sobre el
+      entorno, llanuras de arena, 240 lagos y miles de charcas. Esta Reserva de la Biosfera de la UNESCO, en
+      el nordeste de Brandeburgo, representa en la red mundial el paisaje de morrena joven del sur del
+      Báltico, y lo hace con hayedos, pinares, turberas, lagos de aguas claras y colinas con vegetación de
+      estepa.
+    landscape: >-
+      Hay dos bosques, y se reparten el mapa según lo que dejó el hielo. Sobre las morrenas crecen los hayedos
+      naturales, con turberas, alisedas y lagos entre los árboles. Sobre las llanuras de arena, al suroeste,
+      se extienden pinares con restos de robledales de pasto. La mayor de esas llanuras es la Schorfheide, al
+      oeste del Werbellinsee, todavía cubierta sobre todo de pinares. Y esos pinares están cambiando: más de
+      dos tercios están en proceso de transformarse en bosques de frondosas.
+
+
+      El agua es el otro protagonista. Los 240 lagos son muy distintos entre sí: el Parsteinsee es un lago de
+      cubeta glaciar y el Werbellinsee un lago profundo y estrecho, de más de diez kilómetros de largo y
+      apenas 700 metros de ancho. Las turberas suman unas 14.000 hectáreas, intactas o drenadas, y recuperar
+      las drenadas es una tarea central de la reserva por la biodiversidad, el clima y la capacidad del
+      paisaje de almacenar agua. En las turberas ácidas con tapiz flotante crece el rocío de sol, y en algunos
+      lugares hay grandes poblaciones de orquídeas. Los cerros con vegetación de estepa, por su parte, guardan
+      una flora muy valiosa.
+    wildlife: >-
+      El cielo manda aquí. Entre las especies características de la reserva figuran el [pigargo
+      europeo](/especie/haliaeetus_albicilla/), el [águila pescadora](/especie/pandion_haliaetus/) y el
+      [águila pomerana](/especie/aquila_pomarina/), la [grulla común](/especie/grus_grus/), la [cigüeña
+      negra](/especie/ciconia_nigra/), el [castor](/especie/castor_fiber/) y la
+      [nutria](/especie/lutra_lutra/). Los lagos alimentan a unas 20 parejas de pigargo y a 25 de águila
+      pescadora. En las turberas son típicas la grulla, el andarríos bastardo y la agachadiza común.
+
+
+      En el bosque, las aves que más llaman la atención son el pico mediano y el papamoscas papirrojo, que
+      forman grandes poblaciones. Lo más raro está en la madera: el escarabajo Körnerbock, que vive en las
+      hayas viejas caídas, tiene en la Schorfheide su único lugar de presencia en la mitad norte de Alemania.
+
+
+      En los campos de cultivo ecológico, abiertos, hay muchas alondras, el alcaudón dorsirrojo, codornices y
+      otras aves del campo. Las charcas guardan la Rotbauchunke, la ranita de San Antonio y tritón crestado, y
+      los últimos lugares de cría del [galápago europeo](/especie/emys_orbicularis/) en Alemania.
+    visit: >-
+      Empieza por la Blumberger Mühle, el centro principal de información de la reserva. Allí se explica qué
+      hace especial esta región y todo gira en torno a tres temas: los bosques, las turberas y el uso del
+      suelo, es decir, cómo las personas usan y cuidan el paisaje. De abril a octubre un autobús llamado
+      BiberBus lleva desde la estación de Angermünde hasta el centro. En total hay doce puntos de información
+      repartidos por la reserva.
+
+
+      El plato fuerte es el hayedo de Grumsin, Patrimonio Natural Mundial, que se recorre a pie por cuatro
+      senderos circulares señalizados, los senderos de la hoja de haya. Parten de Altkünkendorf, Groß Ziethen,
+      Luisenfelde y Zuchenberg. La ruta circular de la hoja amarilla tiene diez kilómetros y atraviesa el
+      bosque desde Altkünkendorf; la de la hoja naranja, también de diez kilómetros, sigue la zona núcleo
+      entre barrancos y un risco. Quien prefiera compañía puede unirse a una caminata guiada: guías de
+      naturaleza y paisaje y la Naturwacht explican el bosque.
+
+
+      Para el resto de la reserva hay rutas descargables a pie o en bicicleta, como la vuelta al Oberuckersee,
+      el «Drei-Seen-Blick». Las torres y miradores completan la visita: hay una torre de observación junto al
+      Grimnitzsee, en Althüttendorf, y un mirador en Kleiner Rummelsberg, en Brodowin. Se puede pasear en bici
+      o a pie, remar, navegar a vela, bañarse, montar a caballo o hacer rutas con burros, pero no todo se
+      permite en todas partes.
+    history: >-
+      El hayedo de Grumsin entró en 2011 en la Lista del Patrimonio Mundial de la UNESCO y es el único sitio
+      Patrimonio Natural Mundial de Brandeburgo. Parte de las hayas de la reserva se dejan a su evolución
+      natural desde hace más de 100 años, y de esa experiencia sale su valor. El Plagefenn es una turbera muy
+      variada y la reserva natural más antigua de Prusia.
+
+
+      El paisaje también cuenta una historia humana. El monasterio cisterciense de Chorin, levantado en el
+      siglo XIII, simboliza con su gótico de ladrillo la rica historia cultural de la comarca. Los pueblos,
+      poco poblados, conservan calzadas empedradas históricas, viejas alamedas, muros de piedra de campo y
+      huertos. Y el bosque de Hubertusstock sirvió hasta los siglos XVIII y XIX de pasto en el bosque para
+      cerdos, vacas y ovejas.
+    before: >-
+      En Grumsin hay que mantenerse en los senderos señalizados; en el entorno hay bosques privados donde se
+      trabaja y se corta madera. Los senderos de Grumsin no son accesibles ni aptos para bicicletas, y en
+      partes del área no hay cobertura móvil, así que prepara el recorrido antes de salir.
+    around: >-
+      El [Hayedo Primario de Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) queda a 0 km de esta
+      reserva: es el bosque Patrimonio Mundial que recorren los senderos de la hoja de haya. Los [Bosques del
+      Parque Natural Lagos de Uckermark](/lugar/uckermarkische-seen-forests/) quedan a unos 9 km. Más lejos,
+      comparten con Schorfheide-Chorin la grulla y el pigargo, y bosque, lago y humedal: el [Bosque de
+      Orient](/lugar/foret-d-orient---secteurs-forestiers/), el [Parque Nacional de
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), el [Lago del Der-Chantecoq](/lugar/lac-du-der-chantecoq/) y
+      el [Parque Nacional de Store Mosse](/lugar/store-mosse-national-park/).
+  en:
+    intro: >-
+      What you see across Schorfheide-Chorin was shaped by retreating glaciers. As the continental ice sheets
+      withdrew, they left behind forested terminal moraine ridges running northwest to southeast that rise up
+      to 100 m above the surrounding plains, extensive sandy outwash sandurs, 240 lakes and thousands of
+      kettle holes. This UNESCO Biosphere Reserve in northeastern Brandenburg represents the classic young
+      morainic landscape of the southern Baltic basin, encompassing lowland beech forests, pine woodlands,
+      mires, crystal-clear lakes and dry steppe-like grassland hills.
+    landscape: >-
+      Two distinct woodland types divide the reserve according to glacial deposits. Ancient beech forests
+      mantle the morainic ridges, punctuated by bogs, alder carrs and forest-ringed lakes. Across the sandy
+      outwash plains to the southwest spread pine woodlands with relict wood pastures of veteran oaks. The
+      largest of these outwash plains is the Schorfheide, west of the Werbellinsee, still dominated by Scots
+      pine; these pine stands are currently undergoing ecological conversion, with over two thirds
+      transitioning into mixed broadleaf forest.
+
+
+      Water is the other defining element. The 240 lakes exhibit remarkable variety: the Parsteinsee is an
+      open glacial basin lake, while the Werbellinsee occupies a deep, narrow subglacial tunnel valley
+      stretching over ten kilometres in length yet barely 700 metres across. Peatlands encompass around 14,000
+      hectares of pristine and degraded bogs and fens; re-wetting drained mires is a core priority for
+      biodiversity, climate mitigation and water retention. Raised bogs with floating quagmires support
+      round-leaved sundew and rich wild orchid colonies, while dry glacial knolls sustain specialized
+      subcontinental steppe flora.
+    wildlife: >-
+      The skies above the reserve are rich in raptors. Flagship species include the [white-tailed
+      eagle](/especie/haliaeetus_albicilla/), [osprey](/especie/pandion_haliaetus/), [lesser spotted
+      eagle](/especie/aquila_pomarina/), [common crane](/especie/grus_grus/), [black
+      stork](/especie/ciconia_nigra/), [Eurasian beaver](/especie/castor_fiber/) and [Eurasian
+      otter](/especie/lutra_lutra/). The lakes support approximately 20 breeding pairs of white-tailed eagle
+      and 25 pairs of osprey. Characteristic mire birds include common cranes, wood sandpipers and common
+      snipes.
+
+
+      Within mature forests, middle spotted woodpeckers and red-breasted flycatchers maintain substantial
+      populations. The rarest woodland inhabitant is the endangered longhorn beetle Megopis scabricornis
+      (*Körnerbock*), which depends on veteran fallen beeches and finds in the Schorfheide its sole known
+      station in the northern half of Germany.
+
+
+      Organic open farmlands support high densities of skylarks, red-backed shrikes and common quails. Kettle
+      holes and ponds provide breeding sites for fire-bellied toads, European tree frogs and great crested
+      newts, as well as Germany’s last surviving indigenous wild population of the [European pond
+      turtle](/especie/emys_orbicularis/).
+    visit: >-
+      Begin your exploration at Blumberger Mühle, the reserve’s primary visitor and education centre, which
+      showcases regional ecology through three interactive core themes: forests, mires and sustainable land
+      use. From April through October, the BiberBus connects Angermünde railway station directly with the
+      centre. In total, twelve decentralized visitor info points are dotted across the territory.
+
+
+      The crown jewel is the Grumsin ancient beech forest, a UNESCO World Heritage site, explored on foot via
+      four waymarked circular trails designated by beech-leaf symbols starting from Altkünkendorf, Groß
+      Ziethen, Luisenfelde and Zuchenberg. The yellow beech-leaf trail covers ten kilometres through the
+      forest from Altkünkendorf; the orange beech-leaf trail, also ten kilometres, circuits the strictly
+      protected core zone along gullies and moraine bluffs. Guided walks led by certified nature guides and
+      rangers of the Naturwacht provide deeper ecological interpretation.
+
+
+      Across the wider reserve, walking and cycling routes are available, such as the circuit around the
+      Oberuckersee and the “Drei-Seen-Blick” panorama. Dedicated viewing towers, including an observation
+      platform at Lake Grimnitz in Althüttendorf and the scenic viewpoint at Kleiner Rummelsberg near
+      Brodowin, offer extensive vistas. Outdoor activities include hiking, cycling, canoeing, sailing,
+      swimming, horse riding and donkey trekking, subject to zoning rules.
+    history: >-
+      The Grumsin beech forest was inscribed as a UNESCO World Heritage site in 2011, representing
+      Brandenburg’s only natural World Heritage property. Sections of the beech stands have evolved without
+      commercial forestry intervention for over 100 years, underpinning their global conservation value. The
+      adjacent Plagefenn is an intact mire complex that constitutes Prussia’s oldest nature reserve, gazetted
+      early last century.
+
+
+      The human landscape has deep historical roots. Chorin Abbey, a thirteenth-century Cistercian monastery,
+      exemplifies Brick Gothic architecture and anchors the cultural heritage of the region. Scattered rural
+      villages preserve cobbled lanes, mature tree-lined avenues, fieldstone walls and orchards. The
+      Hubertusstock forest served into the eighteenth and nineteenth centuries as traditional wood pasture for
+      livestock grazing.
+    before: >-
+      When visiting Grumsin, remain strictly on marked trails; surrounding woodlands include active private
+      commercial timber tracts. Trails in Grumsin are neither wheelchair-accessible nor suitable for bicycles,
+      and cellular reception is absent across several valleys, so plan your route beforehand.
+    around: >-
+      The [Grumsin Primeval Beech Forest](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) lies 0 km from this
+      reserve, forming its core World Heritage property. The [Uckermark Lakes Nature Park
+      Forests](/lugar/uckermarkische-seen-forests/) lie roughly 9 km to the north. Further afield, mature
+      forest-mire-lake mosaics and shared populations of common crane and white-tailed eagle are found in the
+      [Orient Forest](/lugar/foret-d-orient---secteurs-forestiers/), [Ķemeri National
+      Park](/lugar/kemeru-nacionalais-parks/), [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/) and [Store
+      Mosse National Park](/lugar/store-mosse-national-park/).
+  fr:
+    intro: >-
+      Ce qui s'étend à Schorfheide-Chorin a été sculpté par les glaces. Au retrait des calottes continentales,
+      les glaciers laissèrent des crêtes de moraines boisées orientées nord-ouest – sud-est qui s'élèvent
+      jusqu'à 100 m au-dessus des plaines d'épandage fluvioglaciaire, 240 lacs et des milliers de mares de
+      kettle. Cette réserve de biosphère de l'UNESCO dans le nord-est du Brandebourg représente dans le réseau
+      mondial le paysage morainique jeune du sud de la Baltique, à travers hêtraies, pinèdes, tourbières, lacs
+      aux eaux limpides et collines steppiques.
+    landscape: >-
+      Deux grands types de forêts se partagent le territoire selon la nature des dépôts glaciaires. Sur les
+      moraines croissent des hêtraies naturelles parsemées de tourbières, d'aulnaies et de lacs forestiers.
+      Sur les plaines sableuses du sud-ouest s'étendent des pinèdes abritant des vestiges d'anciennes chênaies
+      pâturées. La plus vaste de ces plaines sableuses est la Schorfheide, à l'ouest du Werbellinsee, encore
+      couverte de pins sylvestres ; plus des deux tiers de ces peuplements font l'objet d'une conversion
+      écologique progressive en futaies mixtes de feuillus.
+
+
+      L'eau est l'autre composante maîtresse. Les 240 lacs sont très dissemblables : le Parsteinsee est un lac
+      de cuvette morainique peu profond, tandis que le Werbellinsee s'est creusé dans une gorge sous-glaciaire
+      étroite de plus de dix kilomètres de long pour à peine 700 mètres de large. Les tourbières totalisent
+      quelque 14 000 hectares, intactes ou drainées ; la réhumidification des tourbières asséchées constitue
+      une mission prioritaire pour la biodiversité, le stockage de carbone et la régulation hydrique. Dans les
+      tourbières acides à radeau flottant prospèrent le rossolis et des orchidées rares, tandis que les buttes
+      steppiques abritent une flore continentale thermophile.
+    wildlife: >-
+      Le ciel appartient aux grands oiseaux. Parmi les espèces emblématiques de la réserve figurent le
+      [pygargue à queue blanche](/especie/haliaeetus_albicilla/), le [balbuzard
+      pêcheur](/especie/pandion_haliaetus/), l'[aigle pomarin](/especie/aquila_pomarina/), la [grue
+      cendrée](/especie/grus_grus/), la [cigogne noire](/especie/ciconia_nigra/), le [castor
+      d'Eurasie](/especie/castor_fiber/) et la [loutre d'Europe](/especie/lutra_lutra/). Les lacs nourrissent
+      environ 20 couples de pygargues et 25 couples de balbuzards. Dans les tourbières nichent régulièrement
+      grues cendrées, chevaliers bécassines et bécassines des marais.
+
+
+      En forêt, le pic mar et le gobe-mouche nain forment d'importantes populations nicheuses. L'habitant le
+      plus rare est un coléoptère saproxylique, le Körnerbock (*Megopis scabricornis*), inféodé aux vieux
+      hêtres sénescents, qui trouve dans la Schorfheide son unique station connue dans la moitié nord de
+      l'Allemagne.
+
+
+      Les terroirs agricoles biologiques accueillent de fortes densités d'alouettes des champs, pies-grièches
+      écorcheurs et cailles des blés. Les mares de kettle abritent le sonneur à ventre de feu, la rainette
+      verte, le triton crêté et les derniers noyaux reproducteurs naturels de la [cistude
+      d'Europe](/especie/emys_orbicularis/) en Allemagne.
+    visit: >-
+      Commencez votre visite au centre Blumberger Mühle, la principale maison de la réserve, qui présente le
+      territoire autour de trois thèmes : la forêt, les tourbières et les pratiques agricoles durables.
+      D'avril à octobre, la navette BiberBus relie la gare d'Angermünde au centre d'accueil. Douze points
+      d'information décentralisés jalonnent l'ensemble de la réserve.
+
+
+      L'attraction majeure est la forêt de hêtres de Grumsin, bien naturel du Patrimoine mondial, sillonnée
+      par quatre sentiers pédestres balisés d'une feuille de hêtre partant d'Altkünkendorf, Groß Ziethen,
+      Luisenfelde et Zuchenberg. Le sentier de la feuille jaune parcourt dix kilomètres en forêt depuis
+      Altkünkendorf ; celui de la feuille orange, long de dix kilomètres également, longe la zone centrale
+      protégée entre ravins et escarpements. Des sorties encadrées par des gardes-moniteurs de la Naturwacht
+      permettent une découverte approfondie.
+
+
+      Le reste de la réserve propose des circuits pédestres et cyclables téléchargeables, comme le tour de
+      l'Oberuckersee et le panorama du « Drei-Seen-Blick ». Des tours d'observation bordent le lac Grimnitz à
+      Althüttendorf et le belvédère du Kleiner Rummelsberg à Brodowin. Les activités autorisées incluent
+      randonnée, vélo, canoë, voile, baignade, équitation et randonnée avec ânes, selon le zonage en vigueur.
+    history: >-
+      La hêtraie de Grumsin a été inscrite sur la liste du Patrimoine mondial de l'UNESCO en 2011, constituant
+      le seul site naturel mondial du Brandebourg. Certaines parcelles de hêtres sont laissées en évolution
+      naturelle depuis plus de 100 ans, conférant au site une valeur scientifique de premier plan. Le
+      Plagefenn est un complexe tourbeux intact qui forme la plus ancienne réserve naturelle de Prusse, créée
+      au début du siècle dernier.
+
+
+      Le paysage porte aussi une riche empreinte historique. L'abbaye cistercienne de Chorin, édifiée au XIIIe
+      siècle, illustre le gothique de brique de la région. Les villages préservent chaussées pavées d'époque,
+      allées d'arbres séculaires, murets de pierres des champs et vergers traditionnels. La forêt de
+      Hubertusstock a servi jusqu'aux XVIIIe et XIXe siècles de forêt pâturée pour le bétail.
+    before: >-
+      À Grumsin, restez rigoureusement sur les chemins balisés ; les abords comptent des parcelles privées
+      d'exploitation forestière active. Les sentiers de Grumsin ne sont pas accessibles aux personnes à
+      mobilité réduite ni aux vélos, et le réseau téléphonique est absent dans plusieurs ravins, planifiez
+      donc votre parcours avant le départ.
+    around: >-
+      La [hêtraie primaire de Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) se trouve à 0 km de
+      cette réserve : c'est le cœur classé UNESCO que parcourent les sentiers de la feuille de hêtre. Les
+      [forêts du parc naturel des lacs d'Uckermark](/lugar/uckermarkische-seen-forests/) se situent à environ
+      9 km. Plus loin, des milieux semblables de lacs, tourbières et forêts abritant grue et pygargue se
+      rencontrent dans la [forêt d'Orient](/lugar/foret-d-orient---secteurs-forestiers/), le [parc national de
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), le [lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/) et le
+      [parc national de Store Mosse](/lugar/store-mosse-national-park/).
+  de:
+    intro: >-
+      Was du in Schorfheide-Chorin erlebst, haben eiszeitliche Gletscher geschaffen. Beim Rückzug des
+      Inlandeises hinterließen sie bewaldete Endmoränenbögen, die das Reservat von Nordwesten nach Südosten
+      durchziehen und sich bis zu 100 m über das Umland erheben, weite Sanderflächen, 240 Seen und Tausende
+      von Söllen. Dieses UNESCO-Biosphärenreservat im Nordosten Brandenburgs repräsentiert im Weltnetz die
+      südbaltische Jungmoränenlandschaft mit Buchenwäldern, Kiefernheiden, Mooren, Klarwasserseen und
+      trockenwarmen Steppenrasenhügeln.
+    landscape: >-
+      Zwei Waldwelten prägen die Region entsprechend der glazialen Ablagerungen. Auf den Moränenzügen wachsen
+      naturnahe Buchenwälder mit eingestreuten Mooren, Erlenbrüchen und Waldseen. Auf den sandigen
+      Sanderflächen im Südwesten dehnen sich Kiefernforste mit Relikten alter Huteeichenwälder aus. Die größte
+      dieser Sandebenen ist die Schorfheide westlich des Werbellinsees, die noch überwiegend von Kiefern
+      bestanden ist; über zwei Drittel dieser Bestände befinden sich im ökologischen Waldumbau hin zu
+      laubholzreichen Mischwäldern.
+
+
+      Das Wasser bildet die andere Hauptachse. Die 240 Seen unterscheiden sich grundlegend: Der Parsteinsee
+      ist ein flacher Zungenbeckensee, während der Werbellinsee als tiefe subglaziale Schmelzwasserrinne über
+      zehn Kilometer lang, aber kaum 700 Meter breit ist. Die Moore umfassen rund 14.000 Hektar intakter und
+      entwässerter Flächen; die Wiedervernässung degradierter Niedermoore ist eine Kernaufgabe für
+      Biodiversität, Klimaschutz und Landschaftswasserhaushalt. In sauren Mooren mit Schwingrasen gedeihen
+      Sonnentau und seltene Orchideen, während eiszeitliche Trockenhügel wertvolle kontinentale Steppenrasen
+      beherbergen.
+    wildlife: >-
+      Der Luftraum ist das Revier stattlicher Greifvögel. Zu den Aushängeschildern gehören
+      [Seeadler](/especie/haliaeetus_albicilla/), [Fischadler](/especie/pandion_haliaetus/),
+      [Schreiadler](/especie/aquila_pomarina/), [Kranich](/especie/grus_grus/),
+      [Schwarzstorch](/especie/ciconia_nigra/), [Biber](/especie/castor_fiber/) und
+      [Fischotter](/especie/lutra_lutra/). Die fischreichen Seen ernähren rund 20 Seeadlerpaare und 25
+      Fischadlerpaare. In den Mooren brüten Kranich, Bruchwasserläufer und Bekassine.
+
+
+      In alten Laubwäldern fallen Mittelspecht und Zwergschnäpper durch dichte Bestände auf. Der seltenste
+      Waldbewohner ist der Körnerbock (*Megopis scabricornis*), ein totholzbewohnender Bockkäfer alter Buchen,
+      der in der Schorfheide sein einziges bekanntes Vorkommen in der Nordhälfte Deutschlands besitzt.
+
+
+      Auf ökologisch bewirtschafteten Offenlandflächen leben Feldlerchen, Neuntöter und Wachteln in hoher
+      Dichte. Die Kleingewässer beherbergen Rotbauchunke, Laubfrosch, Kammmolch und letzte autochthone
+      Fortpflanzungsstätten der [Europäischen Sumpfschildkröte](/especie/emys_orbicularis/) in Deutschland.
+    visit: >-
+      Beginne deinen Besuch in der Blumberger Mühle, dem Hauptinformationszentrum des Reservats, das die
+      Zusammenhänge von Wald, Moor und nachhaltiger Landnutzung veranschaulicht. Von April bis Oktober
+      verbindet der Ausflugsbus BiberBus den Bahnhof Angermünde direkt mit dem Zentrum. Insgesamt informieren
+      zwölf dezentrale Anlaufstellen im Gebiet.
+
+
+      Der Höhepunkt ist der Buchenwald Grumsin als UNESCO-Weltnaturerbe, erschlossen durch vier markierte
+      Rundwanderwege mit Buchenblattsymbol ab Altkünkendorf, Groß Ziethen, Luisenfelde und Zuchenberg. Der
+      gelbe Blattweg führt auf zehn Kilometern durch den Buchenforst ab Altkünkendorf; der orange Blattweg
+      verläuft über zehn Kilometer entlang der Kernzone zwischen tiefen Senken und Moränenkuppen. Geführte
+      Wanderungen mit Naturwacht-Rangern und Landschaftsführern vertiefen das Erlebnis.
+
+
+      Im übrigen Schutzgebiet bieten sich Rad- und Wanderrouten wie der Rundweg um den Oberuckersee oder der
+      „Drei-Seen-Blick“ an. Aussichtstürme am Grimnitzsee in Althüttendorf und der Aussichtspunkt am Kleinen
+      Rummelsberg bei Brodowin eröffnen weite Panoramen. Erlaubt sind Wandern, Radfahren, Kanufahren, Segeln,
+      Baden, Reiten und Eseltrekking nach Maßgabe der Zonierung.
+    history: >-
+      Der Buchenwald Grumsin wurde 2011 in die UNESCO-Welterbeliste aufgenommen und ist Brandenburgs einziges
+      Weltnaturerbe. Teile der Buchenbestände entwickeln sich seit über 100 Jahren forstlich unbeeinflusst,
+      worauf ihre weltweite Bedeutung beruht. Das benachbarte Plagefenn ist ein intaktes Kesselmoor und das
+      älteste Naturschutzgebiet Preußens, ausgewiesen Anfang des letzten Jahrhunderts.
+
+
+      Die Kulturlandschaft spiegelt jahrhundertealte Besiedlung: Das Zisterzienserkloster Chorin aus dem XIII.
+      Jahrhundert gilt als Meisterwerk der Backsteingotik. Typisch sind kopfsteingepflasterte Alleen, alte
+      Lesesteinriegel und Bauerngärten. Die Schorfheide diente bis ins XVIII. und XIX. Jahrhundert als
+      historische Waldweide für Haustiere.
+    before: >-
+      Bleibe im Grumsin unbedingt auf den markierten Pfaden; im Umfeld liegen private Wirtschaftswälder mit
+      Forstarbeiten. Die Pfade im Grumsin sind nicht barrierefrei und für Fahrräder ungeeignet; in Senken
+      fehlt oft der Mobilfunkempfang, bereite die Route daher vorab vor.
+    around: >-
+      Der [Urwald Buchenwald Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) liegt 0 km entfernt
+      mitten im Schutzgebiet. Die [Wälder im Naturpark Uckermärkische
+      Seen](/lugar/uckermarkische-seen-forests/) liegen rund 9 km nördlich. Weit entfernt teilen Buchenwald-,
+      Moor- und Seengebiete mit Kranich und Seeadler: der [Forêt
+      d’Orient](/lugar/foret-d-orient---secteurs-forestiers/), der [Nationalpark
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), der [Lac du Der-Chantecoq](/lugar/lac-du-der-chantecoq/) und
+      der [Nationalpark Store Mosse](/lugar/store-mosse-national-park/).
+  it:
+    intro: >-
+      Ciò che vedi a Schorfheide-Chorin è opera dei ghiacciai quaternari. Con il ritiro delle masse glaciali
+      rimasero cordoni morenici boscati disposti da nord-ovest a sud-est che si elevano fino a 100 m sulle
+      circostanti pianure sabbiose, 240 laghi e migliaia di conche chiuse. Questa Riserva della Biosfera
+      UNESCO nel nord-est del Brandeburgo rappresenta nella rete globale il paesaggio morenico recente del
+      Baltico meridionale, attraverso faggete, pinete, torbiere, laghi limpidi e rilievi steppici aridi.
+    landscape: >-
+      Due formazioni forestali distinte si ripartiscono il territorio in base ai depositi glaciali. Sui
+      rilievi morenici prosperano faggete naturali intervallate da torbiere, ontanete e laghi di bosco. Sulle
+      pianure sabbiose a sud-ovest si estendono pinete con residui di antichi boschi pascolati a querce. La
+      più ampia di queste piane è la Schorfheide, a ovest del Werbellinsee, ancora dominata da pini silvestri;
+      oltre due terzi di questi popolamenti sono oggi interessati da conversione ecologica verso foreste miste
+      di latifoglie.
+
+
+      L'acqua rappresenta l'altro elemento dominante. I 240 laghi presentano profili molto diversi: il
+      Parsteinsee è un lago aperto di bacino morenico, mentre il Werbellinsee occupa una forra subglaciale
+      stretta e profonda, lunga oltre dieci chilometri e larga appena 700 metri. Le torbiere sommano circa
+      14.000 ettari tra superfici intatte e drenate; il riallagamento dei bacini bonificati costituisce un
+      obiettivo centrale per la tutela della biodiversità, del clima e della ritenzione idrica. Nelle torbiere
+      acide a zolle galleggianti vegetano drosera e rare orchidee, mentre i rilievi a vegetazione steppica
+      custodiscono preziose specie xerotermiche continentali.
+    wildlife: >-
+      Il cielo sopra la riserva è regno di grandi rapaci. Tra le specie simbolo figurano l'[aquila di
+      mare](/especie/haliaeetus_albicilla/), il [falco pescatore](/especie/pandion_haliaetus/), l'[aquila
+      anatraia minore](/especie/aquila_pomarina/), la [gru cenerina](/especie/grus_grus/), la [cicogna
+      nera](/especie/ciconia_nigra/), il [castoro europeo](/especie/castor_fiber/) e la [lontra
+      europea](/especie/lutra_lutra/). Gli specchi lacustri sostengono circa 20 coppie di aquila di mare e 25
+      coppie di falco pescatore. Nelle torbiere nidificano regolarmente gru, piro-piro boscherecci e
+      beccaccini.
+
+
+      Nei boschi maturi spiccano dense popolazioni di picchio rosso mezzano e pigliamosche pettirosso.
+      L'abitatore più raro e localizzato è il coleottero cerambicide Megopis scabricornis (*Körnerbock*),
+      legato ai vetusti faggi caduti al suolo, che nella Schorfheide ha la sua unica stazione documentata
+      nella metà settentrionale della Germania.
+
+
+      Le campagne a coltura biologica ospitano allodole, averle piccole e quaglie in gran numero. Gli stagni
+      custodiscono l'ululone dal ventre rosso, la raganella, il tritone crestato e gli ultimi siti naturali di
+      riproduzione della [testuggine palustre europea](/especie/emys_orbicularis/) in Germania.
+    visit: >-
+      Inizia la visita da Blumberger Mühle, il centro divulgativo principale della riserva, che illustra
+      l'ambiente attraverso tre temi portanti: foreste, torbiere e gestione sostenibile del suolo. Da aprile a
+      ottobre il bus di linea BiberBus collega la stazione ferroviaria di Angermünde direttamente con il
+      centro visite. Dodici punti informativi periferici sono dislocati nell'area protetta.
+
+
+      La meta più celebre è la faggeta di Grumsin, bene naturale del Patrimonio Mondiale, percorribile a piedi
+      tramite quattro anelli segnalati con il simbolo della foglia di faggio con partenza da Altkünkendorf,
+      Groß Ziethen, Luisenfelde e Zuchenberg. L'itinerario della foglia gialla misura dieci chilometri da
+      Altkünkendorf; quello della foglia arancione, anch'esso di dieci chilometri, costeggia la zona di
+      riserva integrale tra valloncelli e dossi morenici. Visite guidate con guardiaparco della Naturwacht
+      permettono approfondimenti naturalistici.
+
+
+      Nel resto della riserva si snodano percorsi cicloturistici e pedonali, come il periplo dell'Oberuckersee
+      e la terrazza panoramica «Drei-Seen-Blick». Torrette di avvistamento sul lago Grimnitz ad Althüttendorf
+      e il belvedere di Kleiner Rummelsberg a Brodowin completano l'offerta. Sono praticabili escursionismo a
+      piedi, bici, canoa, vela, balneazione ed equitazione secondo le norme di zonizzazione.
+    history: >-
+      La faggeta di Grumsin è stata iscritta nel 2011 nella lista del Patrimonio Mondiale UNESCO, costituendo
+      l'unico sito naturale mondiale del Brandeburgo. Porzioni dei boschi di faggio sono lasciate a libera
+      evoluzione naturale da oltre 100 anni, fondamento del loro rilievo ecologico. L'adiacente Plagefenn è
+      una torbiera intatta che rappresenta la più antica riserva naturale della Prussia, istituita all'inizio
+      del secolo scorso.
+
+
+      Il paesaggio testimonia anche una lunga storia antropica. L'abbazia cistercense di Chorin, eretta nel
+      XIII secolo, illustra il gotico in cotto tipico della marca brandeburghese. I borghi rurali conservano
+      selciati storici, filari alberati secolari e muretti in pietra a secco. La foresta di Hubertusstock
+      funse fino ai secoli XVIII e XIX da pascolo boscato per il bestiame domestico.
+    before: >-
+      A Grumsin resta rigorosamente sui sentieri segnati; nelle adiacenze si trovano boschi privati
+      interessati da tagli forestali. I sentieri di Grumsin non sono accessibili a persone con ridotta
+      mobilità né a biciclette, e nei valloni manca la copertura di rete mobile; pianifica l'itinerario prima
+      di metterti in cammino.
+    around: >-
+      La [faggeta primaria di Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) si trova a 0 km
+      all'interno di questa riserva. Le [foreste del parco naturale dei laghi
+      dell'Uckermark](/lugar/uckermarkische-seen-forests/) distano circa 9 km a nord. Più lontano, condividono
+      paesaggi di laghi, torbiere e foreste con gru e aquila di mare la [foresta
+      d'Orient](/lugar/foret-d-orient---secteurs-forestiers/), il [parco nazionale di
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), il [lago del Der-Chantecoq](/lugar/lac-du-der-chantecoq/) e
+      il [parco nazionale di Store Mosse](/lugar/store-mosse-national-park/).
+  pt:
+    intro: >-
+      O que observas em Schorfheide-Chorin foi desenhado pelo gelo continental. Quando os glaciares recuaram,
+      deixaram cordões de moreias florestadas com orientação noroeste-sudeste que se elevam até 100 m acima
+      das planícies arenosas envolventes, 240 lagos e milhares de pequenas lagoas de kettle. Esta Reserva da
+      Biosfera da UNESCO no nordeste de Brandeburgo representa na rede internacional a paisagem morena jovem
+      do sul do Báltico, combinando faiais, pinhais, turfeiras, lagos de águas transparentes e colinas com
+      vegetação de estepe.
+    landscape: >-
+      Dois grandes tipos florestais repartem o território consoante a geologia glaciar. Sobre as moreias
+      desenvolvem-se faiais naturais entremeados com turfeiras, amiais e lagoas florestais. Nas planícies
+      arenosas a sudoeste estendem-se pinhais com vestígios de antigos carvalhais de pastoreio. A maior destas
+      planícies arenosas é a Schorfheide, a oeste do Werbellinsee, ainda dominada por pinheiros-silvestres;
+      mais de dois terços destes povoamentos encontram-se em processo de conversão florestal em matas mistas
+      de folhosas.
+
+
+      A água é a outra componente fundamental. Os 240 lagos exibem perfis muito variados: o Parsteinsee é uma
+      bacia glaciar ampla e rasa, enquanto o Werbellinsee ocupa uma garganta subglaciar profunda com mais de
+      dez quilómetros de comprimento e apenas 700 metros de largura. As turfeiras somam cerca de 14.000
+      hectares, intactas ou drenadas; a recuperação hídrica das turfeiras dessecadas é uma prioridade da
+      reserva em prol da biodiversidade, do clima e da retenção de água. Nas turfeiras ácidas com tapetes
+      flutuantes crescem dróseras e orquídeas raras, ao passo que as colinas de estepe abrigam flora
+      xerotérmica singular.
+    wildlife: >-
+      O espaço aéreo é dominado por grandes aves de rapina. Entre as espécies emblemáticas da reserva
+      salientam-se a [águia-rabalva](/especie/haliaeetus_albicilla/), a
+      [águia-pesqueira](/especie/pandion_haliaetus/), a [águia-pomarina](/especie/aquila_pomarina/), o
+      [grou-comum](/especie/grus_grus/), a [cegonha-preta](/especie/ciconia_nigra/), o
+      [castor-europeu](/especie/castor_fiber/) e a [lontra-europeia](/especie/lutra_lutra/). Os lagos
+      alimentam cerca de 20 casais de águia-rabalva e 25 casais de águia-pesqueira. Nas turfeiras nidificam
+      regularmente o grou, o maçarico-bastardo e a narceja-comum.
+
+
+      Nas florestas maduras, o pica-pau-médio e o papa-moscas-pequeno registam populações expressivas. O
+      morador mais raro é o besouro-longicórnio Megopis scabricornis (*Körnerbock*), que habita faias mortas
+      caídas no solo e tem na Schorfheide o seu único reduto na metade norte da Alemanha.
+
+
+      Nos campos agrícolas biológicos nidificam cotovias, picanços-de-dorso-ruivo e codornizes. As pequenas
+      lagoas albergam o bombina-de-barriga-vermelha, a relva-arbórea, o tritão-de-crista e os últimos núcleos
+      de reprodução selvagem do [cágado-de-carapaça-estriada](/especie/emys_orbicularis/) na Alemanha.
+    visit: >-
+      Inicia a descoberta em Blumberger Mühle, o principal centro de visitantes da reserva, que explica os
+      valores regionais com foco em três temas: florestas, turfeiras e uso sustentável do solo. De abril a
+      outubro, o autocarro BiberBus faz a ligação entre a estação de comboios de Angermünde e o centro. Ao
+      todo, doze pontos de informação distribuem-se pelo território.
+
+
+      A joia da reserva é o faial de Grumsin, Património Mundial da UNESCO, percorrido a pé por quatro trilhos
+      circulares assinalados com símbolos de folha de faia a partir de Altkünkendorf, Groß Ziethen,
+      Luisenfelde e Zuchenberg. O percurso da folha amarela tem dez quilómetros através do faial desde
+      Altkünkendorf; o da folha laranja, igualmente com dez quilómetros, contorna a zona de proteção integral
+      entre ravinas e escarpamentos. Passeios acompanhados por guias de natureza e guardas da Naturwacht
+      aprofundam a experiência.
+
+
+      Na restante reserva existem circuitos cicláveis e pedestres descarregáveis, como a volta ao Oberuckersee
+      e o miradouro «Drei-Seen-Blick». Torres de observação no lago Grimnitz em Althüttendorf e o miradouro de
+      Kleiner Rummelsberg em Brodowin abrem horizontes amplos. É possível caminhar, pedalar, andar de canoa,
+      velejar, nadar ou fazer passeios a cavalo ou de burro, segundo o regulamento de cada setor.
+    history: >-
+      O faial de Grumsin foi integrado em 2011 na lista do Património Mundial da UNESCO, constituindo o único
+      bem natural mundial de Brandeburgo. Parcelas de faias desenvolvem-se em evolução natural há mais de 100
+      anos, base do seu valor científico global. O vizinho Plagefenn é um complexo turfoso intacto que
+      constitui a reserva natural mais antiga da Prússia, classificada no início do século passado.
+
+
+      A paisagem cultural reflete raízes seculares: o mosteiro cisterciense de Chorin, fundado no século XIII,
+      ilustra o gótico de tijolo da região. As aldeias conservam calçadas empedradas históricas, alamedas
+      centenárias e muros de pedra solta. A floresta de Hubertusstock serviu até aos séculos XVIII e XIX como
+      bosque de pastagem para gado.
+    before: >-
+      Em Grumsin mantém-te rigorosamente nos trilhos marcados; na periferia existem matas privadas com
+      trabalhos de corte florestal. Os percursos de Grumsin não estão adaptados a mobilidade reduzida nem a
+      bicicletas, e em várias ravinas não existe rede móvel, pelo que deves preparar o itinerário com
+      antecedência.
+    around: >-
+      O [Faial Primário de Grumsin](/lugar/unesco-weltnaturerbe-buchenwald-grumsin/) fica a 0 km no interior
+      desta reserva. As [Florestas do Parque Natural dos Lagos de
+      Uckermark](/lugar/uckermarkische-seen-forests/) situam-se a cerca de 9 km a norte. Mais longe, partilham
+      paisagens de lagos, turfeiras e matas com grous e águias-rabalvas a [Floresta de
+      Orient](/lugar/foret-d-orient---secteurs-forestiers/), o [Parque Nacional de
+      Ķemeri](/lugar/kemeru-nacionalais-parks/), o [Lago de Der-Chantecoq](/lugar/lac-du-der-chantecoq/) e o
+      [Parque Nacional de Store Mosse](/lugar/store-mosse-national-park/).
+fuentes:
+  - url: https://www.schorfheide-chorin-biosphaerenreservat.de/
+    titulo: Biosphärenreservat Schorfheide-Chorin — sitio oficial
+    fecha_consulta: '2026-10-29'
+  - url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/unesco-weltnaturerbe/wanderwege/
+    titulo: Wanderwege - UNESCO-Weltnaturerbe - Biosphärenreservat Schorfheide-Chorin
+    fecha_consulta: '2026-10-29'
+  - url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/aktiv-in-der-natur/
+    titulo: Aktiv in der Natur — Biosphärenreservat Schorfheide-Chorin
+    fecha_consulta: '2026-10-29'
+  - url: https://www.naturschutzfonds.de/wo-wir-arbeiten/nationale-naturlandschaften/biosphaerenreservat-schorfheide-chorin
+    titulo: Biosphärenreservat Schorfheide-Chorin — Stiftung Naturschutzfonds Brandenburg
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/Biosphärenreservat_Schorfheide-Chorin
+    titulo: Biosphärenreservat Schorfheide-Chorin – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/zu-gast-im-biosphaerenreservat/besucherinformationszentrum-blumberger-muehle/
+    titulo: >-
+      Hauptinformationszentrum - Blumberger Mühle - Zu Gast im Biosphärenreservat - Biosphärenreservat
+      Schorfheide-Chorin
+    fecha_consulta: '2026-10-29'
+  - url: https://www.schorfheide-chorin-biosphaerenreservat.de/erleben-lernen/aktiv-in-der-natur/beobachtungspunkte/
+    titulo: Beobachtungspunkte - Aktiv in der Natur - Biosphärenreservat Schorfheide-Chorin
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Alnion_glutinosae_in_Zuchenberg_Angerm%C3%BCnde_in_BSR_Schorfheide-Chorin_with_snow_2025-01-12_01.jpg
+    autor: Leonhard Lenz
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-17'

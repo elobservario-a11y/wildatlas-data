@@ -1,0 +1,567 @@
+id: reserva-natural-da-montanha-do-pico
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de la Montaña del Pico
+  en: Pico Mountain Nature Reserve
+  fr: Réserve naturelle de la montagne du Pico
+  de: Naturreservat Montanha do Pico
+  it: Riserva naturale della montagna di Pico
+  pt: Reserva Natural da Montanha do Pico
+nombre_original: Reserva Natural da Montanha do Pico
+alias:
+  - Montaña del Pico
+paises:
+  - PT
+region:
+  es: Isla de Pico (Archipiélago de las Azores / Municipio de Madalena)
+  en: Pico Island (Azores Archipelago / Madalena Municipality)
+  fr: Île de Pico (Archipel des Açores / Commune de Madalena)
+  de: Insel Pico (Azoren-Archipel / Gemeinde Madalena)
+  it: Isola di Pico (Arcipelago delle Azzorre / Comune di Madalena)
+  pt: Ilha do Pico (Arquipélago dos Açores / Município da Madalena)
+ubicacion:
+  tipo: punto
+  lat: 38.468
+  lon: -28.399
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 4791
+  nombre_en_la_fuente: Montanha do Pico
+  categoria_uicn: Ib
+  capa: capas/cdda/reserva-natural-da-montanha-do-pico.geojson
+habitats:
+  - high_mountain
+  - karst
+designaciones:
+  - natural_reserve
+  - natura2000
+especies:
+  - calonectris_diomedea
+  - regulus_regulus
+  - calluna_vulgaris
+  - juniperus_brevifolia
+  - erica_azorica
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+masificacion: 3
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Permisos — Reserva oficial de subida a la Montanha do Pico
+    url: https://montanhapico.azores.gov.pt/Subida/
+  - titulo: Gestor — Reserva Natural da Montanha do Pico
+    url: https://parquesnaturais.azores.gov.pt/parques/5/areasprotegidas/30
+  - titulo: Centro de visitantes y normas — Casa da Montanha
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/5/centro/7
+  - titulo: Ruta y accesos — Subida a la Montanha do Pico
+    url: https://parquesnaturais.azores.gov.pt/pt/parques/5/trilho/37
+resumen:
+  es: >-
+    Estratovolcán oceánico y cumbre más alta de Portugal con vegetación macaronésica de altitud y conos
+    volcánicos insulares.
+  en: >-
+    Oceanic stratovolcano and highest peak in Portugal, featuring high-altitude Macaronesian flora and
+    volcanic cones.
+  fr: >-
+    Stratovolcan océanique et plus haut sommet du Portugal, abritant une végétation macaronésienne d'altitude
+    et des cônes volcaniques.
+  de: >-
+    Ozeanischer Schichtvulkan und höchster Gipfel Portugals mit makaronesischer Hochgebirgsvegetation und
+    Insel-Vulkankegeln.
+  it: >-
+    Stratovulcano oceanico e cima più elevata del Portogallo, con vegetazione macaronesica d'altitudine e coni
+    vulcanici insulari.
+  pt: >-
+    Estratovulcão oceânico e cume mais alto de Portugal com vegetação macaronésica de altitude e cones
+    vulcânicos insulares.
+unico:
+  es: >-
+    El punto más alto de Portugal es un volcán que se levanta unos 3500 metros sobre la plataforma oceánica de
+    las Azores.
+  en: >-
+    Portugal's highest point is a volcano rising roughly 3,500 metres above the abyssal Azores oceanic
+    plateau.
+  fr: >-
+    Le point culminant du Portugal est un volcan surgissant de quelque 3 500 mètres au-dessus du plancher
+    océanique des Açores.
+  de: >-
+    Der höchste Punkt Portugals ist ein Vulkan, der sich rund 3.500 Meter über die ozeanische Bodenplatte der
+    Azoren erhebt.
+  it: >-
+    Il punto più alto del Portogallo è un vulcano che si eleva per circa 3.500 metri sopra la piana abissale
+    oceanica delle Azzorre.
+  pt: >-
+    O ponto mais alto de Portugal é um vulcão que se ergue cerca de 3500 metros acima da plataforma oceânica
+    dos Açores.
+observaciones:
+  es: >-
+    Para subir hace falta autorización, que se obtiene en la Casa da Montanha, en la sede del Parque Natural
+    del Pico, en el cuartel de bomberos voluntarios de Madalena o en la plataforma oficial de reservas. La
+    Casa da Montanha admite como máximo 320 visitantes al día y 160 a la vez.
+
+
+    Lleva calzado de senderismo, chaqueta impermeable, sombrero, protector solar, agua, comida energética,
+    gafas de sol, gorro, guantes y bastones. Hay que seguir solo las sendas existentes; no se pueden coger
+    plantas, flores, frutos ni muestras minerales, y está prohibido hacer fuego en la reserva. La subida al
+    Piquinho está prohibida por la fragilidad del ecosistema.
+texto:
+  es:
+    intro: >-
+      Medida desde el fondo del océano, la Montanha do Pico es una montaña de casi cinco mil metros, y casi la
+      mitad está bajo el agua. Lo que asoma son 2351 metros de estratovolcán en el centro del Atlántico, el
+      punto más alto de Portugal y el tercer mayor volcán del Atlántico Norte. La Reserva Natural de la
+      Montanha do Pico guarda su parte alta, desde los 1230 metros de la Casa da Montanha hasta un cono de
+      lava que corona el cráter. Y se sube, con permiso, en una jornada.
+    landscape: >-
+      Esta es una montaña de capas. Abajo, los pastos de altura, donde pasta el ganado vacuno en régimen
+      extensivo. Hacia los 1500 metros empieza una cobertura arbórea y, entre los 1200 y los 1400, un bosque
+      arbustivo de acebo azoriano, de [Juniperus brevifolia](/especie/juniperus_brevifolia/) y de [Erica
+      azorica](/especie/erica_azorica/), típico de la laurisilva macaronésica. Más arriba, a partir de los
+      1800 metros, la vegetación se vuelve rastrera: tomillo, [rapa](/especie/calluna_vulgaris/) (Calluna
+      vulgaris) y queiró (Daboecia azorica). Y en lo alto, nieve en invierno y casi nada de plantas, salvo
+      líquenes.
+
+
+      La forma de la montaña la han dado sus erupciones. Durante su construcción hubo numerosas erupciones en
+      los flancos, casi todas efusivas. Las erupciones históricas salieron también de los flancos: en
+      1562-1564 y en 1718 las lavas llegaron al mar, y la última fue en 1720. Arriba, el cráter tiene unos 700
+      metros de perímetro y unos 30 de profundidad, y dentro se alza el cono del Piquinho o Pico Pequeno, de
+      unos 70 metros de altura, con fumarolas de azufre en su base. A unos 2050 metros hay un cráter fósil; en
+      la cumbre, el Piquinho tiene lavas cordadas y una fisura eruptiva rodeada de escorias.
+
+
+      El tiempo es parte del paisaje. En invierno la nieve es muy frecuente y llueve mucho casi todo el año,
+      con nieblas frecuentes a gran altura.
+    wildlife: >-
+      La fauna es poca, y eso es un dato. La avifauna de la montaña es poco variada y poco abundante por la
+      dureza del hábitat, y cambia mucho entre invierno y verano. En verano son frecuentes el canario de las
+      islas y el pinzón vulgar. Entre las plantas, la estrella es una que solo crece aquí: a unos 2200 metros
+      aparece el bremim-da-montanha (Silene uniflora subsp. cratericola), subespecie endémica de esta reserva
+      y que solo existe en el cráter de la montaña.
+    visit: >-
+      La subida es un circuito difícil de 7,6 km y unas siete horas, entre los 1230 y los 2351 m de altitud.
+      Empieza y termina en la Casa da Montanha, a 1230 metros, y se llega desde la iglesia de Madalena por la
+      carretera señalizada hacia «Montanha». Se puede hacer de forma autónoma o con guía de una empresa de
+      turismo.
+
+
+      La Casa da Montanha es parada obligatoria: allí se registra y controla a quienes suben, y su exposición,
+      con paneles y una película en el auditorio, explica la geología, la biología, la historia, el clima y el
+      marco legal de la reserva. El camino está marcado con postes de madera de un metro con franjas rojas y
+      amarillas. En el trayecto se ve la Furna Abrigo, un cono de escorias soldadas con un algar de unos
+      cuarenta metros, donde una galería servía de refugio a los caminantes. A medida que subes, la vegetación
+      se vuelve más escasa y baja; en la cima suele hacer unos 10 °C menos que en el punto de partida, y desde
+      allí se divisan las islas de Faial, Terceira, São Jorge y Graciosa.
+
+
+      La subida no es difícil técnicamente, pero exige capacidad para una caminata considerable, y la mejor
+      época es el verano.
+    history: >-
+      La Montanha do Pico fue declarada Reserva Integral en 1972 y reclasificada como Reserva Natural en 1982,
+      lo que la convierte en una de las áreas protegidas más antiguas de Portugal. Hoy la reserva ocupa unas
+      1341 hectáreas y forma parte de la Zona de Especial Conservación Montanha do Pico, Prainha y Caveiro, de
+      Natura 2000. Es además un geositio prioritario de relevancia internacional del Geoparque Azores,
+      Geoparque Mundial de la UNESCO.
+    before: >-
+      Para subir hace falta autorización, que se obtiene en la Casa da Montanha, en la sede del Parque Natural
+      del Pico, en el cuartel de bomberos voluntarios de Madalena o en la plataforma oficial de reservas. La
+      Casa da Montanha admite como máximo 320 visitantes al día y 160 a la vez.
+
+
+      Lleva calzado de senderismo, chaqueta impermeable, sombrero, protector solar, agua, comida energética,
+      gafas de sol, gorro, guantes y bastones. Hay que seguir solo las sendas existentes; no se pueden coger
+      plantas, flores, frutos ni muestras minerales, y está prohibido hacer fuego en la reserva. La subida al
+      Piquinho está prohibida por la fragilidad del ecosistema.
+    around: >-
+      No hay lugares del atlas cerca. A distancia, comparten Juniperus brevifolia y Erica azorica, y su
+      hábitat de alta montaña, la [Lagoa do Fogo](/lugar/lagoa-do-fogo/).
+  en:
+    intro: >-
+      Measured from the abyssal ocean floor, Montanha do Pico is a mountain soaring nearly five thousand
+      metres, with almost half submerged beneath the waves. What emerges is 2,351 metres of stratovolcano in
+      the middle of the Atlantic, the highest summit in Portugal and the third-largest volcano in the North
+      Atlantic. The Pico Mountain Nature Reserve protects its upper reaches, from 1,230 metres at Casa da
+      Montanha up to a volcanic lava cone crowning the summit crater. With permit in hand, it can be climbed
+      in a single day.
+    landscape: >-
+      This is a layered volcano. Below lie high-altitude summer pastures grazed extensively by cattle. Around
+      1,500 metres tree cover begins and, between 1,200 and 1,400 metres, a dense shrub woodland of Azorean
+      holly, [Azores juniper](/especie/juniperus_brevifolia/) and [Azores heather](/especie/erica_azorica/),
+      characteristic of Macaronesian cloud laurisilva. Further up, past 1,800 metres, vegetation becomes
+      prostrate and dwarf: wild thyme, [heather](/especie/calluna_vulgaris/) (*Calluna vulgaris*) and St.
+      Dabeoc's heath (*Daboecia azorica*). At the peak, winter snow blankets the slopes and almost no vascular
+      plants survive, bar crustose lichens.
+
+
+      The mountain's shape was dictated by repeated eruptions. During its construction, countless flank
+      eruptions broke out, nearly all effusive. Historical eruptions erupted from the flanks as well: in
+      1562–1564 and in 1718 lava tongues reached the Atlantic, with the most recent event occurring in 1720.
+      At the crown, the main crater measures roughly 700 metres in perimeter and some 30 metres deep, within
+      which rises the volcanic spatter cone of Piquinho (Pico Pequeno), about 70 metres tall, venting active
+      sulphur fumaroles around its base. At about 2,050 metres lies a fossilized secondary crater; at the very
+      crest, Piquinho exhibits ropy pahoehoe lavas and an eruptive fissure encircled by volcanic scoria.
+
+
+      Weather is an integral feature of the landscape. In winter snowfall is frequent and torrential rain
+      falls through much of the year, coupled with heavy orographic mist at high altitude.
+    wildlife: >-
+      Fauna is sparse, which is itself a defining trait. Mountain birdlife is neither varied nor abundant
+      given the harsh habitat, and fluctuates markedly between winter and summer. During the summer months,
+      Atlantic canaries and common chaffinches are commonly seen. Among plant life, the botanical star is a
+      species restricted entirely to this crater: at around 2,200 metres grows the *bremim-da-montanha*
+      (*Silene uniflora* subsp. *cratericola*), an endemic subspecies exclusive to this reserve that exists
+      nowhere else on Earth.
+    visit: >-
+      The ascent is a strenuous 7.6 km round trip taking about seven hours, spanning altitudes from 1,230 to
+      2,351 m. It starts and finishes at Casa da Montanha at 1,230 metres, reached from the parish church in
+      Madalena along the signposted road towards «Montanha». It can be undertaken independently or accompanied
+      by a certified mountain guide.
+
+
+      Casa da Montanha is a mandatory checkpoint: hikers must register here and have their access controlled,
+      and an interpretive centre featuring displays and an auditorium film explains the reserve's geology,
+      biology, human history, mountain climate and regulatory framework. The route is marked with one-metre
+      wooden posts ringed with red and yellow stripes. En route you pass Furna Abrigo, an agglomerate spatter
+      cone with a volcanic pit cave about forty metres deep, whose lava tube once sheltered shepherds and
+      mountaineers. As you ascend, flora dwindles in stature and cover; at the summit temperatures typically
+      drop about 10 °C compared to the trailhead, and on clear days panoramas unfold across Faial, Terceira,
+      São Jorge and Graciosa.
+
+
+      The trek is not technically alpine, but requires good stamina for sustained mountain hiking; summer
+      provides the best conditions.
+    history: >-
+      Montanha do Pico was declared a Strict Nature Reserve (Reserva Integral) in 1972 and reclassified as a
+      Nature Reserve in 1982, making it one of the oldest protected areas in Portugal. Today the reserve spans
+      approximately 1,341 hectares and is integrated into the Montanha do Pico, Prainha and Caveiro Special
+      Area of Conservation under Natura 2000. It is also designated a priority geosite of international
+      relevance in the Azores UNESCO Global Geopark.
+    before: >-
+      Climbing requires an official permit obtained at Casa da Montanha, at Pico Island Natural Park
+      headquarters, at the Madalena volunteer fire station or via the regional booking portal. Casa da
+      Montanha caps entries at a maximum of 320 visitors per day and 160 at any one time.
+
+
+      Wear sturdy hiking boots, and pack a waterproof jacket, sun hat, sunscreen, water, high-energy food,
+      sunglasses, warm fleece beanie, gloves and trekking poles. Hikers must keep strictly to the established
+      trail; collecting plants, blossoms, seeds or geological specimens is prohibited, as is lighting fires.
+      Climbing the fragile cone of Piquinho itself is forbidden to protect this sensitive habitat.
+    around: >-
+      There are no catalogued neighbours close by. Farther afield, the caldera of [Lagoa do
+      Fogo](/lugar/lagoa-do-fogo/) shares with Pico its Juniperus brevifolia, Erica azorica and high-altitude
+      mountain habitat.
+  fr:
+    intro: >-
+      Mesurée depuis les abysses océaniques, la Montanha do Pico atteint près de cinq mille mètres de haut,
+      dont presque la moitié repose sous l'eau. Ce qui émerge forme 2 351 mètres de stratovolcan au cœur de
+      l'Atlantique, le plus haut sommet du Portugal et le troisième plus grand volcan de l'Atlantique Nord. La
+      réserve naturelle de la montagne du Pico protège ses hauteurs, depuis les 1 230 mètres de la Casa da
+      Montanha jusqu'au cône sommital couronnant le cratère. Son ascension s'effectue, sur autorisation, en
+      une journée.
+    landscape: >-
+      C'est une montagne étagée. En bas s'étendent les pâturages d'altitude où paissent les bovins en estive.
+      Vers 1 500 mètres débute une couverture arbustive et, entre 1 200 et 1 400 mètres, un maquis d'altitude
+      composé de houx des Açores, de [genévrier des Açores](/especie/juniperus_brevifolia/) et de [bruyère des
+      Açores](/especie/erica_azorica/), caractéristique de la laurisylve macaronésienne. Plus haut, au-delà de
+      1 800 mètres, la végétation devient rase : thym sauvage, [callune](/especie/calluna_vulgaris/) (*Calluna
+      vulgaris*) et daboécie des Açores (*Daboecia azorica*). Au sommet, la neige hivernale recouvre la roche
+      et la végétation s'efface, hormis les lichens.
+
+
+      La silhouette du volcan résulte de ses éruptions. Durant sa formation, de multiples bouches latérales
+      s'ouvrirent, presque toutes effusives. Les éruptions historiques jaillirent également des flancs : en
+      1562-1564 et en 1718 les coulées atteignirent l'océan, la dernière survenant en 1720. Au sommet, le
+      cratère principal mesure environ 700 mètres de pourtour pour une 30 mètres de profondeur, au centre
+      duquel s'élève le Piquinho (Pico Pequeno), cône de scories de 70 mètres couronné de fumerolles soufrées
+      à sa base. Vers 2 050 mètres subsiste un cratère fossile ; à la cime, le Piquinho dévoile des laves
+      cordées et une fissure éruptive entourée de scories.
+
+
+      La météo façonne le paysage. En hiver les chutes de neige sont régulières et les pluies abondantes une
+      grande partie de l'année, accompagnées de brouillards denses d'altitude.
+    wildlife: >-
+      La faune est rare, et ce fait en dit long. L'avifaune montagnarde est clairsemée en raison de la rudesse
+      du milieu et varie fortement entre hiver et été. À la belle saison, le serin des Canaries et le pinson
+      des arbres sont fréquents. Côté flore, le joyau végétal est une sous-espèce endémique exclusive : vers 2
+      200 mètres s'épanouit le *bremim-da-montanha* (*Silene uniflora* subsp. *cratericola*), présent
+      uniquement dans le cratère de la réserve.
+    visit: >-
+      L'ascension constitue une boucle difficile de 7,6 km et environ sept heures de marche, franchissant de 1
+      230 à 2 351 m d'altitude. Elle débute et s'achève à la Casa da Montanha, à 1 230 mètres, accessible
+      depuis l'église de Madalena en suivant la route fléchée « Montanha ». L'itinéraire s'effectue en
+      autonomie ou encadré par un guide de montagne.
+
+
+      La Casa da Montanha est un point de passage obligatoire : chaque randonneur s'y enregistre sous contrôle
+      des gardes, et un pavillon muni de panneaux et d'un auditorium présente géologie, biologie, histoire,
+      climat et statut légal de la réserve. Le tracé est balisé de piquets en bois d'un mètre cerclés de rouge
+      et de jaune. En chemin se dresse la Furna Abrigo, cône de projection recélant un gouffer d'une
+      quarantaine de mètres dont la galerie servait d'abri aux montagnards. À mesure de la montée, la flore se
+      raréfie ; au sommet la température chute en moyenne de 10 °C par rapport au départ, et la vue embrasse
+      Faial, Terceira, São Jorge et Graciosa.
+
+
+      La randonnée ne présente pas de difficulté technique majeure mais réclame une solide endurance physique
+      ; l'été offre les meilleures conditions.
+    history: >-
+      La montagne du Pico fut classée réserve intégrale en 1972 puis reclassée en réserve naturelle en 1982,
+      ce qui en fait l'un des espaces protégés les plus anciens du Portugal. Aujourd'hui la réserve couvre
+      environ 1 341 hectares et s'intègre dans la Zone spéciale de conservation Montanha do Pico, Prainha et
+      Caveiro de Natura 2000. Elle constitue en outre un géosite prioritaire d'envergure internationale au
+      sein du Géoparc des Açores, labellisé UNESCO.
+    before: >-
+      Une autorisation préalable est requise pour monter, disponible à la Casa da Montanha, au siège du Parc
+      naturel de Pico, à la caserne des pompiers de Madalena ou sur la plateforme officielle. La Casa da
+      Montanha limite l'accès à un maximum de 320 visiteurs par jour et 160 simultanément.
+
+
+      Prévoyez chaussures de trekking, veste imperméable, chapeau, crème solaire, eau, vivres de course,
+      lunettes de soleil, bonnet, gants et bâtons de marche. Ne quittez jamais la trace balisée ; la
+      cueillette de fleurs, de fruits ou d'échantillons minéraux est proscrite, ainsi que tout feu. L'escalade
+      directe du dôme sommital du Piquinho est prohibée pour préserver ce milieu fragile.
+    around: >-
+      Il n'y a pas de sites voisins proches. Plus loin, le cratère de la [Lagoa do
+      Fogo](/lugar/lagoa-do-fogo/) partage avec Pico le Juniperus brevifolia, l'Erica azorica et son milieu
+      d'altitude.
+  de:
+    intro: >-
+      Vom Meeresboden aus gemessen überwindet die Montanha do Pico fast fünftausend Höhenmeter, wovon beinahe
+      die Hälfte unter Wasser liegt. Was emporragt, sind 2.351 Meter Schichtvulkan mitten im Atlantik—der
+      höchste Punkt Portugals und der drittgrößte Vulkan des Nordatlantiks. Das Naturreservat Montanha do Pico
+      schützt die Gipfelregion ab 1.230 Metern an der Casa da Montanha bis zum Lavakegel im Hauptkrater. Mit
+      Genehmigung lässt er sich als Tagestour besteigen.
+    landscape: >-
+      Der Vulkan baut sich in Stufen auf. Unten liegen alpine Weideflächen, die im Sommer extensiv mit Rindern
+      beweidet werden. Ab 1.500 Metern beginnt Gehölzbewuchs und zwischen 1.200 und 1.400 Metern ein
+      Krummholzwald aus Azoren-Stechpalme, [Kurzblättrigem Wacholder](/especie/juniperus_brevifolia/) und
+      [Azoren-Heide](/especie/erica_azorica/), charakteristisch für den makaronesischen Nebelwald. Oberhalb
+      von 1.800 Metern geht die Flora in Zwergsträucher über: Thymian,
+      [Besenheide](/especie/calluna_vulgaris/) (*Calluna vulgaris*) und Azoren-Glockenheide (*Daboecia
+      azorica*). Im Winter fällt am Gipfel Schnee, und Gefäßpflanzen fehlen fast völlig, ausgenommen
+      Krustenflechten.
+
+
+      Das Profil der Bergflanken entstand durch Eruptionen. Während des Wachstums öffneten sich zahllose
+      Flankenschlote, fast ausnahmslos effusiv. Auch historische Ausbrüche fanden an den Hängen statt:
+      1562–1564 und 1718 ergossen sich Lavaströme ins Meer, der letzte Ausbruch folgte 1720. Oben misst der
+      Hauptkrater rund 700 Meter im Umfang und 30 Meter in der Tiefe; darin ragt der 70 Meter hohe
+      Schlackenkegel Piquinho (Pico Pequeno) mit aktiven Schwefelfumarolen an seiner Basis empor. Bei 2.050
+      Metern liegt ein fossiler Nebenkrater; am Gipfel zeigt der Piquinho Stricklaven und eine von
+      vulkanischen Schlacken gesäumte Eruptionsspalte.
+
+
+      Das Wetter prägt die Gebirgswelt: Im Winter ist Schneefall häufig, kräftige Niederschläge dominieren das
+      Jahr und dichte Höhennebel hüllen die Flanken ein.
+    wildlife: >-
+      Die Tierwelt ist karg, was für diese Höhenzone typisch ist. Die Gebirgsavifauna ist spärlich und
+      schwankt stark zwischen Sommer und Winter. Im Hochsommer sind Kanarengirlitz und Buchfink regelmäßige
+      Gäste. Bei der Flora sticht eine botanische Besonderheit hervor: Um 2.200 Meter Höhe gedeiht das
+      *Bremim-da-montanha* (*Silene uniflora* subsp. *cratericola*), eine endemische Unterart dieses
+      Reservats, die ausschließlich im Gipfelkrater vorkommt.
+    visit: >-
+      Der Aufstieg ist eine anspruchsvolle Rundtour über 7,6 km und rund sieben Stunden zwischen 1.230 und
+      2.351 m Höhe. Start und Ziel liegen an der Casa da Montanha auf 1.230 Metern, erreichbar von der
+      Pfarrkirche in Madalena über die Ausschilderung «Montanha». Die Tour ist auf eigene Faust oder mit
+      lizenziertem Bergführer machbar.
+
+
+      Die Casa da Montanha ist obligatorische Kontrollstation: Hier erfolgt Registrierung und Zugangskontrolle
+      der Bergsteiger; Infotafeln und ein Film im Auditorium erläutern Geologie, Biologie,
+      Erschließungsgeschichte, Wetter und Schutzbestimmungen. Der Pfad ist mit ein Meter hohen Holzpfählen mit
+      roten und gelben Markierungen abgesteckt. Am Weg liegt die Furna Abrigo, ein Schweißschlackenkegel mit
+      einem vierzig Meter tiefen Schacht, dessen Lavaröhre früher Wanderern Unterschlupf bot. Mit zunehmender
+      Höhe schrumpft die Vegetation; am Gipfel ist es meist rund 10 °C kühler als am Ausgangspunkt, und die
+      Aussicht reicht bis Faial, Terceira, São Jorge und Graciosa.
+
+
+      Die Besteigung ist technisch nicht schwierig, verlangt aber gute Kondition; die beste Jahreszeit ist der
+      Sommer.
+    history: >-
+      Die Montanha do Pico wurde 1972 zum strengen Naturreservat erklärt und 1982 als Naturreservat neu
+      eingestuft, womit sie zu den ältesten Schutzgebieten Portugals zählt. Heute umfasst das Reservat etwa
+      1.341 Hektar und gehört zum Schutzgebiet Montanha do Pico, Prainha e Caveiro von Natura 2000. Zudem ist
+      es ein Geotop von internationalem Rang im UNESCO-Geopark Azoren.
+    before: >-
+      Für die Besteigung ist ein Permit erforderlich, erhältlich an der Casa da Montanha, in der
+      Parkverwaltung, bei der Freiwilligen Feuerwehr Madalena oder im Buchungsportal. Die Casa da Montanha
+      lässt maximal 320 Tagesgäste und höchstens 160 Personen gleichzeitig zu.
+
+
+      Trage feste Bergschuhe und packe Regenjacke, Sonnenhut, Sonnencreme, Wasser, Proviant, Sonnenbrille,
+      Mütze, Handschuhe und Trekkingstöcke ein. Bleibe strikt auf der markierten Spur; das Pflücken von
+      Pflanzen, Sammeln von Gesteinen sowie offenes Feuer sind untersagt. Der direkte Aufstieg auf den
+      fragilen Kegel des Piquinho ist verboten.
+    around: >-
+      Es gibt keine Nachbarorte in der Nähe. In der Ferne teilt die Caldera der [Lagoa do
+      Fogo](/lugar/lagoa-do-fogo/) mit dem Pico den Juniperus brevifolia, die Erica azorica und diesen
+      Hochgebirgslebensraum.
+  it:
+    intro: >-
+      Misurata dal fondo oceanico abissale, la Montanha do Pico raggiunge quasi cinquemila metri d'altezza,
+      con quasi la metà sommersa dalle acque. La porzione emersa costituisce 2.351 metri di stratovulcano nel
+      mezzo dell'Atlantico, la vetta più alta del Portogallo e il terzo vulcano dell'Atlantico settentrionale.
+      La Riserva naturale della montagna di Pico ne protegge la sommità, dai 1.230 metri della Casa da
+      Montanha fino al cono di lava che corona il cratere. Si risale, previo permesso, in una giornata.
+    landscape: >-
+      È un vulcano a fasce concentriche. In basso si stendono i pascoli d'altitudine dove pascola il bestiame
+      brado. Verso i 1.500 metri comincia una copertura arbustiva e, tra i 1.200 e i 1.400, una boscaglia
+      d'agrifoglio azzorriano, [ginepro delle Azzorre](/especie/juniperus_brevifolia/) ed [erica delle
+      Azzorre](/especie/erica_azorica/), tipica della laurisilva macaronesica. Più in alto, oltre i 1.800
+      metri, la vegetazione diventa strisciante: timo, [calluna](/especie/calluna_vulgaris/) (*Calluna
+      vulgaris*) e daboecia delle Azzorre (*Daboecia azorica*). Sulla cima d'inverno cade abbondante la neve e
+      le piante svaniscono, ad eccezione dei licheni.
+
+
+      La conformazione della montagna è scaturita dalle sue eruzioni. Durante la crescita del vulcano si
+      aprirono innumerevoli bocche eruttive laterali, quasi tutte effusive. Anche le eruzioni storiche
+      eruttarono dai fianchi: nel 1562-1564 e nel 1718 le lave arrivarono in mare, l'ultima delle quali nel
+      1720. Sulla vetta, il cratere principale vanta circa 700 metri di perimetro per 30 metri di profondità,
+      al cui interno svetta il Piquinho (Pico Pequeno), cono di scorie alto 70 metri con fumarole di zolfo
+      alla base. A 2.050 metri compare un cratere fossile; in vetta il Piquinho presenta lave a corda e una
+      fessura eruttiva circondata da piroclasti.
+
+
+      Il meteo governa il paesaggio: d'inverno le nevicate sono consuete, le piogge intense bagnano la
+      montagna gran parte dell'anno e fitte nebbie avvolgono le alte quote.
+    wildlife: >-
+      La fauna è scarsa, dato ecologico eloquente. L'avifauna di montagna è poco diversificata a causa del
+      clima severo e subisce marcate oscillazioni tra estate e inverno. Nei mesi estivi si osservano canarini
+      delle Azzorre e fringuelli. Tra le essenze vegetali spicca un endemismo esclusivo: a circa 2.200 metri
+      vegeta il *bremim-da-montanha* (*Silene uniflora* subsp. *cratericola*), sottospecie limitata
+      esclusivamente al cratere di questa riserva.
+    visit: >-
+      La salita è un anello faticoso di 7,6 km e circa sette ore di cammino, compreso tra 1.230 e 2.351 m di
+      quota. Prende le mosse e si chiude alla Casa da Montanha a 1.230 metri, raggiungibile dalla chiesa di
+      Madalena lungo la rotabile indicata per «Montanha». L'escursione è praticabile in autonomia o con guida
+      accreditata.
+
+
+      La Casa da Montanha è tappa obbligatoria: vi si effettua il controllo e la registrazione degli
+      escursionisti, mentre allestimenti didattici e un filmato illustrano geologia, biologia, storia, clima e
+      tutele della riserva. La traccia è segnata da picchetti in legno di un metro con bande rosse e gialle.
+      Lungo il sentiero si incontra la Furna Abrigo, un cono di scorie con inghiottitoio profondo quaranta
+      metri, la cui galleria offriva riparo ai viandanti. Salendo, la flora si abbassa; in vetta la
+      temperatura è mediamente di 10 °C inferiore rispetto alla partenza e il panorama spazia su Faial,
+      Terceira, São Jorge e Graciosa.
+
+
+      L'ascesa non presenta passaggi di arrampicata ma richiede ottimo allenamento; la stagione raccomandata è
+      l'estate.
+    history: >-
+      La Montanha do Pico fu istituita Riserva Integrale nel 1972 e riclassificata Riserva Naturale nel 1982,
+      attestandosi tra le più antiche riserve del Portogallo. Oggi la riserva comprende circa 1.341 ettari ed
+      è accorpata alla Zona Speciale di Conservazione Montanha do Pico, Prainha e Caveiro di Natura 2000. È
+      inoltre geosito prioritario d'interesse internazionale del Geoparco UNESCO delle Azzorre.
+    before: >-
+      Per intraprendere la salita occorre il permesso, rilasciato alla Casa da Montanha, presso la sede del
+      Parco Naturale, al comando dei vigili del fuoco di Madalena o sulla piattaforma di prenotazione. La Casa
+      da Montanha ammette un massimo di 320 visitatori giornalieri e 160 in contemporanea.
+
+
+      Indossa scarponi da trekking e porta giacca a vento impermeabile, cappello, protezione solare, acqua,
+      cibo energetico, occhiali da sole, berretto, guanti e bastoncini. Rimani sempre sul tracciato segnato; è
+      vietato raccogliere fiori, prelevare minerali e accendere fuochi. La scalata diretta del Piquinho è
+      interdetta per preservare il microambiente.
+    around: >-
+      Non vi sono siti vicini nell'atlas. A distanza, la caldera della [Lagoa do Fogo](/lugar/lagoa-do-fogo/)
+      condivide con il Pico il Juniperus brevifolia, l'Erica azorica e l'habitat d'alta quota.
+  pt:
+    intro: >-
+      Medida a partir da planície abissal, a Montanha do Pico ergue-se quase cinco mil metros de altitude,
+      ficando quase metade submersa pelo mar. O que emerge são 2351 metros de estratovulcão no coração do
+      Atlântico, o ponto mais alto de Portugal e o terceiro maior vulcão do Atlântico Norte. A Reserva Natural
+      da Montanha do Pico protege a sua cumeeira, desde os 1230 metros da Casa da Montanha até ao cone lávico
+      que coroa a cratera. Sobe-se, com licença prévia, num dia.
+    landscape: >-
+      Esta é uma montanha estratificada. Em baixo estendem-se as pastagens de altitude onde o gado pasta em
+      regime extensivo. Por volta dos 1500 metros surge coberto lenhoso e, entre os 1200 e os 1400, uma
+      floresta arbustiva de azevinho-dos-açores, de [cedro-do-mato](/especie/juniperus_brevifolia/) e de
+      [erva-doce-dos-açores](/especie/erica_azorica/), típica da laurissilva macaronésica. Mais acima, a
+      partir dos 1800 metros, a vegetação torna-se rasteira: tomilho, [queiroga](/especie/calluna_vulgaris/)
+      (*Calluna vulgaris*) e queiró (*Daboecia azorica*). No cimo, a neve no inverno cobre as escarpas e quase
+      não subsistem plantas, salvo líquenes.
+
+
+      A silhueta da montanha nasceu das suas erupções. Durante o seu crescimento registaram-se numerosas
+      erupções laterais, quase todas efusivas. As erupções históricas irromperam igualmente dos flancos: em
+      1562-1564 e em 1718 as lavas atingiram o oceano, tendo a última ocorrido em 1720. No topo, a cratera tem
+      cerca de 700 metros de perímetro e cerca de 30 de profundidade, erguendo-se no interior o cone do
+      Piquinho (Pico Pequeno), com cerca de 70 metros de altura e fumarolas de enxofre na base. A cerca de
+      2050 metros subsiste uma cratera fóssil; no cume, o Piquinho exibe lavas encordoadas e uma fissura
+      eruptiva cercada de escoadas.
+
+
+      O clima faz parte da paisagem. No inverno o nevão é assíduo e chove com abundância ao longo do ano, com
+      cerrados nevoeiros em altitude.
+    wildlife: >-
+      A fauna é escassa, dado revelador da rudeza ambiental. A avifauna de montanha é pouco diversa devido à
+      inclemência do clima e oscila substancialmente entre inverno e verão. No verão são frequentes o
+      canário-da-terra e o tentilhão. Entre as espécies vegetais, o grande destaque cabe a uma planta
+      exclusiva: por volta dos 2200 metros surge o bremim-da-montanha (*Silene uniflora* subsp.
+      *cratericola*), subespécie endémica desta reserva que existe exclusivamente na cratera da montanha.
+    visit: >-
+      A subida é um percurso exigente de 7,6 km e cerca de sete horas, entre os 1230 e os 2351 m de altitude.
+      Começa e termina na Casa da Montanha, a 1230 metros, acessível a partir da igreja da Madalena seguindo a
+      via sinalizada para «Montanha». Pode ser feita autonomamente ou com guia de montanha credenciado.
+
+
+      A Casa da Montanha é paragem obrigatória: aí faz-se o registo e controlo de quem sobe, e o seu centro
+      interpretativo apresenta painéis e um filme no auditório detalhando geologia, biologia, história, clima
+      e enquadramento legal da reserva. O trajeto está balizado com marcos de madeira de um metro com riscas
+      vermelhas e amarelas. No caminho encontra-se a Furna Abrigo, um cone de escórias com um algar de cerca
+      de quarenta metros, cuja galeria servia de abrigo a viandantes. À medida que sobes, o coberto vegetal
+      diminui; no cume faz em regra cerca de 10 °C a menos do que no início, e dali avistam-se as ilhas do
+      Faial, Terceira, São Jorge e Graciosa.
+
+
+      A caminhada não apresenta desníveis técnicos mas requer excelente forma física; a estação recomendada é
+      o verão.
+    history: >-
+      A Montanha do Pico foi declarada Reserva Integral em 1972 e reclassificada como Reserva Natural em 1982,
+      sendo uma das áreas protegidas mais antigas de Portugal. Hoje abrange cerca de 1341 hectares e integra a
+      Zona Especial de Conservação Montanha do Pico, Prainha e Caveiro da rede Natura 2000. É ainda um
+      geossítio prioritário de relevância internacional do Geoparque Açores, Geoparque Mundial da UNESCO.
+    before: >-
+      Para subir necessitas de autorização, concedida na Casa da Montanha, na sede do Parque Natural do Pico,
+      no quartel de bombeiros voluntários da Madalena ou no portal oficial de reservas. A Casa da Montanha
+      admite no máximo 320 visitantes por dia e 160 em simultâneo.
+
+
+      Leva botas de caminhada, casaco impermeável, chapéu, protetor solar, água, mantimentos energéticos,
+      óculos de sol, gorro, luvas e bastões de trekking. Deves circular unicamente nos trilhos existentes; não
+      colhas plantas, flores ou minerais e não faças fogueiras. A subida direta ao Piquinho está interdita
+      pela fragilidade do ecossistema.
+    around: >-
+      Não existem locais vizinhos por perto. À distância, a caldeira da [Lagoa do Fogo](/lugar/lagoa-do-fogo/)
+      partilha com o Pico o Juniperus brevifolia, a Erica azorica e o seu habitat de montanha.
+fuentes:
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/5/areasprotegidas/30
+    titulo: Montanha do Pico
+    fecha_consulta: '2026-11-05'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/5/trilho/37
+    titulo: Montanha do Pico
+    fecha_consulta: '2026-11-05'
+  - url: https://parquesnaturais.azores.gov.pt/pt/parques/5/centro/7
+    titulo: Casa da Montanha — Parques Naturais dos Açores
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Montanha_do_Pico
+    titulo: Montanha do Pico — Wikipédia
+    fecha_consulta: '2026-11-05'
+  - url: https://en.wikipedia.org/wiki/Mount_Pico
+    titulo: Mount Pico — Wikipedia
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Montanha_do_Pico.jpg
+    autor: Samuel Monteiro Domingues
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

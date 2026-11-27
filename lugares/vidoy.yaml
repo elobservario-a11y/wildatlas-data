@@ -1,0 +1,506 @@
+id: vidoy
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Viðoy y Cabo Enniberg
+  en: Viðoy Island and Cape Enniberg
+  fr: Île de Viðoy et cap Enniberg
+  de: Insel Viðoy und Kap Enniberg
+  it: Isola di Viðoy e Capo Enniberg
+  pt: Ilha de Viðoy e Cabo Enniberg
+nombre_original: Viðoy
+alias:
+  - Viðoy
+paises:
+  - FO
+region:
+  es: Islas Feroe (Viðareiði)
+  en: Faroe Islands (Viðareiði)
+  fr: Îles Féroé (Viðareiði)
+  de: Färöer (Viðareiði)
+  it: Isole Fær Øer (Viðareiði)
+  pt: Ilhas Faroé (Viðareiði)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/2296585
+  nombre_en_la_fuente: Viðoy
+  capa: capas/osm/vidoy.geojson
+habitats:
+  - coast
+  - high_mountain
+  - marine
+designaciones:
+  - natural_monument
+especies:
+  - fratercula_arctica
+  - uria_aalge
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Visit Faroe Islands Viðoy Sector
+    url: https://visitfaroeislands.com/
+  - titulo: Administración y visita — Viðoy, Visit North
+    url: https://visitnorth.fo/vidoy/
+enlaces_referencia:
+  - titulo: Wikipedia — Isla de Viðoy
+    url: https://en.wikipedia.org/wiki/Vi%C3%B0oy
+resumen:
+  es: >-
+    La isla septentrional de las Feroe que alberga el cabo Enniberg (754 m), el acantilado marino totalmente
+    vertical más alto del mundo.
+  en: >-
+    The northernmost Faroese island, home to Cape Enniberg (754 m), the highest sheer vertical sea cliff in
+    the world.
+  fr: >-
+    L’île la plus septentrionale des Féroé, abritant le cap Enniberg (754 m), la plus haute falaise maritime
+    verticale du monde.
+  de: Die nördlichste Färöer-Insel mit Kap Enniberg (754 m), dem höchsten senkrechten Kliff der Erde.
+  it: >-
+    L’isola più settentrionale delle Fær Øer, sede di Capo Enniberg (754 m), la scogliera marina verticale più
+    alta del mondo.
+  pt: >-
+    A ilha mais setentrional das Faroé, acolhendo o cabo Enniberg (754 m), a falésia marinha totalmente
+    vertical mais alta do mundo.
+unico:
+  es: >-
+    Aquí termina el archipiélago: el pueblo más septentrional de las Feroe, Viðareiði, queda al pie de la
+    montaña que lleva al acantilado de Enniberg.
+  en: >-
+    Where the archipelago reaches its end: the northernmost settlement in the Faroes, Viðareiði, nestles
+    beneath the mountain ridge leading to Cape Enniberg.
+  fr: >-
+    Le bout du monde féringien : le village le plus septentrional de l’archipel, Viðareiði, est adossé à la
+    crête menant au vertigineux cap Enniberg.
+  de: >-
+    Hier endet der Archipel: Das nördlichste Dorf der Färöer, Viðareiði, liegt am Fuß des Bergrückens, der zum
+    Kliff von Enniberg führt.
+  it: >-
+    Qui termina l’arcipelago: il borgo più settentrionale delle Fær Øer, Viðareiði, sorge ai piedi della
+    cresta che porta a Capo Enniberg.
+  pt: >-
+    Onde termina o arquipélago: a povoação mais setentrional das Faroé, Viðareiði, aninha-se no sopé da crista
+    que conduz ao precipício de Enniberg.
+observaciones:
+  es: >-
+    Enniberg no es un paseo: se recomienda guía profesional. Comprueba el tiempo y las condiciones antes de
+    subir a Villingadalsfjall, donde el terreno se vuelve de roca suelta.
+texto:
+  es:
+    intro: >-
+      Se llama «isla de la madera» y no tiene un solo árbol. El nombre viene de la madera que el mar trae
+      flotando desde Siberia y Norteamérica y que se recogía en la bahía de Viðvík. Viðoy es la isla más
+      septentrional de las Feroe, al este de Borðoy, a la que la une un dique de carretera, y en su costa
+      norte el terreno se corta en seco: el acantilado de Enniberg cae 754 metros hasta el mar abierto. Es una
+      isla de prados altos, de cumbres y de aves marinas, con solo dos pueblos.
+    landscape: >-
+      Casi toda la isla es de montañas altas y escarpadas con acantilados verticales sobre el mar, mientras
+      que en el lado este hay valles hondos y valles en forma de media cazuela. Hay once montañas, y
+      Villingadalsfjall es la cumbre más septentrional de las Feroe.
+
+
+      Los dos núcleos, Hvannasund al suroeste y Viðareiði al noroeste, se unen por una carretera por la costa
+      oeste. Viðareiði está rodeado de praderas cultivadas, y buena parte de la isla son prados de montaña
+      para el pasto. En el sur, Viðvík es una bahía de unos dos kilómetros, de acceso difícil, donde se
+      recogía la madera flotante.
+    wildlife: >-
+      La costa norte y este de Viðoy es un Área Importante para las Aves por sus colonias de cría: 500 parejas
+      de [paíño común](/especie/hydrobates_pelagicus/), 5.300 de [gaviota
+      tridáctila](/especie/rissa_tridactyla/), 25.000 de [frailecillo](/especie/fratercula_arctica/), 6.700
+      individuos de [arao común](/especie/uria_aalge/) y 200 parejas de mérgulo atlántico. En el cabo
+      Enniberg, además del frailecillo y el arao, hay [alca](/especie/alca_torda/) y gaviotas tridáctilas.
+
+
+      En verano salen barcos hacia el cabo Enniberg, donde hay una colonia importante de aves, y la pared de
+      Enniberg también puede contemplarse desde una embarcación en el mar.
+    visit: >-
+      Empieza por Viðareiði y por Villingadalsfjall. La ruta sale de Við Garð, en el norte del pueblo: sube
+      por la carretera y sale por la puerta al terreno abierto. Casi hasta la cumbre, unos tubos azules de
+      plástico marcan el camino. El primer tramo es de hierba y poco a poco se vuelve rocoso, con acantilados
+      y piedras sueltas, así que ten cuidado con ellas, sobre todo en grupo. Por el camino se ve Fugloy y
+      Svínoy, enfrente se alza Malinsfjall, y al otro lado del estrecho queda el asentamiento abandonado de
+      Múli. Un viejo muro de piedra evita que el ganado llegue a las zonas escarpadas.
+
+
+      A unos cien metros verticales de la cima hay una pequeña meseta con un montón de piedras (cairn) y rocas
+      puntiagudas. Una se llama Kona Per, «la mujer de Per». Ahí terminan los tubos azules, y los cairns que
+      siguen hacia el noroeste llevan al acantilado de Enniberg. A pie, Enniberg se alcanza desde Viðareiði,
+      pero la caminata es exigente y se recomienda ir con un guía profesional, porque el lugar es de difícil
+      acceso y es fácil perderse. A veces se organizan caminatas de Hvannasund a Viðvík, aunque no hay un
+      sendero propiamente dicho.
+    history: >-
+      Viðareiði es un asentamiento antiguo, que se cree fundado entre 1350 y 1400, y la iglesia se construyó
+      en 1892. Aquí nació el poeta y filólogo Christian Matras, y vivió la viuda de sacerdotes Beinta, que
+      inspiró la novela *Barbara* de Jørgen-Frantz Jacobsen. Cuenta la leyenda que el granjero Guttormur í
+      Múla, fuerte en magia, solo la usaba para el bien. Los vecinos suelen contar historias del folclore de
+      la isla y de sus fuertes tradiciones pesqueras.
+    before: >-
+      Enniberg no es un paseo: se recomienda guía profesional. Comprueba el tiempo y las condiciones antes de
+      subir a Villingadalsfjall, donde el terreno se vuelve de roca suelta.
+    around: >-
+      A nueve kilómetros queda [Kalsoy](/lugar/kalsoy/), la isla estrecha con su faro de Kallur, y a
+      veinticuatro el [Slættaratindur](/lugar/slaettaratindur/).
+
+
+      Más lejos, [Hornstrandir](/lugar/hornstrandir/), [Isle of Handa](/lugar/isle-of-handa/),
+      [Noss](/lugar/noss-national-nature-reserve/) y las [Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/)
+      comparten con Viðoy el arao común y el frailecillo.
+  en:
+    intro: >-
+      It literally means “Wood Island,” yet possesses not a single tree. The name derives from Siberian and
+      North American driftwood washed ashore by North Atlantic currents and historically hauled from the bay
+      of Viðvík. Viðoy is the northernmost outpost of the Faroe Islands, situated east of Borðoy and joined to
+      it by a road causeway. At its northern extremity the island abruptly shears away: Cape Enniberg drops
+      754 metres straight down into open oceanic swells. It is an island of upland pastures, jagged summits,
+      and wheeling seabirds, home to just two coastal villages.
+    landscape: >-
+      Steep, towering peaks and vertical sea cliffs dominate almost the entire landmass, while the eastern
+      coast is carved by deep valleys and hanging cirques. Eleven distinct peaks rise across the island, with
+      Villingadalsfjall standing as the northernmost summit in the Faroes.
+
+
+      The two settlements, Hvannasund in the southwest and Viðareiði in the northwest, are linked by a single
+      coastal road along the western shore. Viðareiði is encircled by hay meadows, while the rugged interior
+      serves as extensive sheep pasture. In the south, Viðvík forms a remote bay roughly two kilometres
+      across, accessible only by a challenging hike over the hills where driftwood was gathered.
+    wildlife: >-
+      The northern and eastern coasts of Viðoy are recognized as an Important Bird Area for their dense
+      breeding colonies: 500 pairs of [European storm petrel](/especie/hydrobates_pelagicus/), 5,300 pairs of
+      [black-legged kittiwake](/especie/rissa_tridactyla/), 25,000 pairs of [Atlantic
+      puffin](/especie/fratercula_arctica/), 6,700 individual [common murres](/especie/uria_aalge/), and 200
+      pairs of black guillemots. Along Cape Enniberg, [razorbills](/especie/alca_torda/) nest alongside
+      puffins, guillemots, and kittiwakes.
+
+
+      Boat excursions operate during the summer months around Cape Enniberg, affording breathtaking
+      perspectives of the seabird colonies and the sheer wall rising straight from the swells.
+    visit: >-
+      Start your journey from Viðareiði to tackle Villingadalsfjall. The trail departs from Við Garð on the
+      northern edge of the village, following a track through a wooden gate out onto open fellside. For most
+      of the ascent, blue plastic markers stake the route. The initial grass slope gradually yields to steep
+      scree, talus, and broken crags where caution with loose stones is essential, especially when walking in
+      a group. Views open towards Fugloy and Svínoy, the pyramid peak of Malinsfjall rises across the bay, and
+      the abandoned hamlet of Múli is visible across the sound. An ancient drystone dyke prevents grazing
+      sheep from venturing onto hazardous cliffs.
+
+
+      Roughly one hundred vertical metres below the summit, a small terrace features a stone cairn and jagged
+      rock towers, one known as Kona Per (“Per’s Wife”). The blue markers end here, and cairns continuing
+      northwest lead toward the dizzying brink of Enniberg. Reaching Enniberg on foot from Viðareiði is a
+      demanding, unmarked undertaking; hiring a licensed local mountain guide is strongly recommended due to
+      precipitous drops and disorienting fog. Occasional guided treks also cross from Hvannasund to Viðvík
+      across trail-less terrain.
+    history: >-
+      Viðareiði is an ancient Faroese parish, believed to have been settled between 1350 and 1400, whose stone
+      church dates from 1892. It is the birthplace of the noted poet and linguist Christian Matras, and was
+      home to the historic pastor’s widow Beinta Broberg, who inspired Jørgen-Frantz Jacobsen’s famous novel
+      *Barbara*. Local folklore tells of the cunning farmer Guttormur í Múla, said to command supernatural
+      arts solely for good deeds, reflecting the island’s rich maritime storytelling.
+    before: >-
+      Cape Enniberg is not a casual walk: hiring a professional guide is strongly advised. Check weather
+      forecasts and fog alerts before attempting Villingadalsfjall, where loose scree creates serious slip
+      hazards.
+    around: >-
+      Nine kilometres west lies [Kalsoy](/lugar/kalsoy/), the narrow “Flute Island” with its dramatic Kallur
+      lighthouse, and twenty-four kilometres away rises [Slættaratindur](/lugar/slaettaratindur/), the
+      archipelago’s highest summit.
+
+
+      Further across the North Atlantic, [Hornstrandir](/lugar/hornstrandir/), the [Isle of
+      Handa](/lugar/isle-of-handa/), [Noss](/lugar/noss-national-nature-reserve/), and the
+      [Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) share vast seabird colonies of common murres and
+      puffins with Viðoy.
+  fr:
+    intro: >-
+      Elle s’appelle « l’île du bois » et ne compte pas un seul arbre. Son nom vient du bois flotté que
+      l’océan transporte depuis la Sibérie et l’Amérique du Nord, jadis collecté dans la crique de Viðvík.
+      Viðoy est l’île la plus septentrionale de l’archipel des Féroé, située à l’est de Borðoy à laquelle elle
+      est reliée par une digue routière. Sur sa façade nord, le relief plonge à pic : la falaise du cap
+      Enniberg tombe d’un seul jet de 754 mètres dans l’océan. C’est une terre de hauts pâturages, de cimes
+      rocheuses et d’oiseaux marins, habitée par deux villages seulement.
+    landscape: >-
+      La quasi-totalité de l’île est faite de montagnes escarpées bordées d’à-pics vertigineux, tandis que le
+      versant oriental s’évide en vallées suspendues et cirques glaciaires. Onze sommets couronnent l’île,
+      dont le Villingadalsfjall, la montagne la plus au nord des Féroé.
+
+
+      Les deux bourgs, Hvannasund au sud-ouest et Viðareiði au nord-ouest, sont reliés par une route longeant
+      la côte occidentale. Viðareiði est entouré de prairies cultivées, tandis que l’intérieur forme de vastes
+      parcours de transhumance ovine. Au sud, la baie de Viðvík s’étire sur environ deux kilomètres dans un
+      site difficile d’accès où s’échouait le bois flotté.
+    wildlife: >-
+      Les côtes nord et est de Viðoy sont classées Zone Importante pour les Oiseaux en raison de colonies
+      marines spectaculaires : 500 couples d’[océanite tempête](/especie/hydrobates_pelagicus/), 5 300 couples
+      de [mouette tridactyle](/especie/rissa_tridactyla/), 25 000 couples de [macareux
+      moine](/especie/fratercula_arctica/), 6 700 [guillemots de Troïl](/especie/uria_aalge/) et 200 couples
+      de guillemots à miroir. Au cap Enniberg, le [petit pingouin](/especie/alca_torda/) niche aux côtés des
+      macareux, guillemots et mouettes.
+
+
+      En été, des excursions en bateau contournent le cap Enniberg pour admirer depuis les flots les nuées
+      d’oiseaux marins et cette colossale muraille basaltique.
+    visit: >-
+      Prenez pour point de départ Viðareiði et l’ascension du Villingadalsfjall. L’itinéraire débute à Við
+      Garð, au nord du village : suivez la rampe goudronnée puis franchissez la barrière ouvrant sur les
+      pentes herbeuses. Des tubes de plastique bleu balisent le sentier jusqu’à proximité de la cime. La
+      pelouse cède la place à des éboulis raides et des dalles rocheuses où il convient de surveiller les
+      chutes de pierres, particulièrement en groupe. Le panorama s’ouvre sur Fugloy et Svínoy, avec la
+      pyramide du Malinsfjall en vis-à-vis et l’ancien hameau de Múli de l’autre côté du détroit. Un vieux mur
+      de pierres sèches protège les moutons des barres rocheuses.
+
+
+      À une centaine de mètres verticaux du sommet, un replat accueille un cairn et des pointes rocheuses
+      déchiquetées, dont la curieuse Kona Per (« la femme de Per »). Les balises bleues s’arrêtent là, et des
+      cairns filant vers le nord-ouest permettent d’atteindre le rebord d’Enniberg. Rejoindre le cap Enniberg
+      à pied depuis Viðareiði constitue une traversée engagée qui nécessite impérativement un guide
+      professionnel, le site étant escarpé et les brouillards fréquents. Des marches guidées relient aussi
+      parfois Hvannasund à Viðvík hors sentier.
+    history: >-
+      Viðareiði est une paroisse historique dont la fondation remonterait entre 1350 et 1400, et son église en
+      pierre a été bâtie en 1892. C’est le village natal du poète Christian Matras et la demeure de la veuve
+      de pasteurs Beinta Broberg, héroïne du célèbre roman *Barbara* de Jørgen-Frantz Jacobsen. La légende
+      locale perpétue les exploits du paysan magicien Guttormur í Múla, usant de ses dons pour le bien commun
+      au sein d’une communauté façonnée par la pêche.
+    before: >-
+      Le cap Enniberg n’est pas une simple balade : l’accompagnement d’un guide professionnel est vivement
+      recommandé. Consultez attentivement la météo avant de gravir le Villingadalsfjall où le terrain devient
+      très fuyant.
+    around: >-
+      À neuf kilomètres se dresse [Kalsoy](/lugar/kalsoy/), l’île effilée coiffée du phare de Kallur, et à
+      vingt-quatre kilomètres s’élève le [Slættaratindur](/lugar/slaettaratindur/), toit de l’archipel.
+
+
+      Plus au loin, [Hornstrandir](/lugar/hornstrandir/), l’[île de Handa](/lugar/isle-of-handa/),
+      [Noss](/lugar/noss-national-nature-reserve/) et la [réserve des
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) partagent avec Viðoy d’immenses falaises à
+      guillemots et à macareux.
+  de:
+    intro: >-
+      Sie heißt wörtlich „Holzinsel“ und besitzt keinen einzigen Baum. Der Name rührt von sibirischem und
+      nordamerikanischem Treibholz her, das Meeresströmungen herantrugen und das die Fischer in der Bucht von
+      Viðvík aufsammelten. Viðoy ist die nördlichste Insel der Färöer, östlich von Borðoy gelegen und mit
+      dieser über einen Straßendamm verbunden. An ihrer Nordküste bricht das Land unvermittelt ab: Die
+      Felswand von Kap Enniberg stürzt 754 Meter senkrecht in die offene Brandung. Eine Insel aus Hochweiden,
+      Zackengraten und Seevögeln mit nur zwei Siedlungen.
+    landscape: >-
+      Fast die gesamte Insel besteht aus steilen, schroffen Bergen mit senkrecht abfallenden Meeresklippen,
+      während die Ostseite von Hängetälern und Karen gegliedert wird. Elf Gipfel prägen das Profil, wobei der
+      Villingadalsfjall den nördlichsten Berg der Färöer darstellt.
+
+
+      Die beiden Dörfer Hvannasund im Südwesten und Viðareiði im Nordwesten verbindet eine schmale
+      Küstenstraße entlang der Westflanke. Viðareiði liegt inmitten grüner Heuwiesen, während das raue
+      Binnenland als Schafweide dient. Im Süden bildet Viðvík eine rund zwei Kilometer breite, einsame Bucht
+      in schwierigem Gelände, an der einst Treibholz geborgen wurde.
+    wildlife: >-
+      Die Nord- und Ostküste von Viðoy ist als bedeutendes Vogelschutzgebiet ausgewiesen: 500 Paare der
+      [Sturmschwalbe](/especie/hydrobates_pelagicus/), 5.300 Paare der
+      [Dreizehenmöwe](/especie/rissa_tridactyla/), 25.000 Paare des
+      [Papageitauchers](/especie/fratercula_arctica/), 6.700 Exemplare der
+      [Trottellumme](/especie/uria_aalge/) und 200 Paare der Gryllteiste brüten hier. Am Kap Enniberg nistet
+      neben Lummen und Papageitauchern auch der [Tordalk](/especie/alca_torda/).
+
+
+      Im Sommer verkehren Ausflugsboote rund um Kap Enniberg, um die lärmenden Vogelkolonien und die gewaltige
+      Basaltwand von See aus zu bestaunen.
+    visit: >-
+      Ausgangsort ist Viðareiði für den Aufstieg zum Villingadalsfjall. Die Route beginnt bei Við Garð im
+      Norden des Dorfs, folgt dem Fahrweg und führt durch ein Weidetor ins offene Gelände. Bis kurz unter den
+      Gipfel markieren blaue Kunststoffrohre den Aufstieg. Die anfänglichen Grasmatten weichen rasch losem
+      Schotter und Steilstufen, auf denen du vor Steinschlag auf der Hut sein solltest. Unterwegs blickt man
+      auf Fugloy und Svínoy, gegenüber ragt die Pyramide des Malinsfjall auf, und jenseits der Meerenge liegt
+      die Wüstung Múli. Eine alte Feldsteinmauer hindert Schafe am Absturz in die Kliffs.
+
+
+      Rund einhundert Höhenmeter unter dem Gipfelplateau liegt ein Absatz mit Steinmännchen und Felszacken,
+      darunter Kona Per („Pers Frau“). Hier enden die blauen Markierungen; weitere Steinmänner führen
+      nordwestwärts zur Abbruchkante von Enniberg. Die Wanderung nach Enniberg ist anspruchsvoll; wegen
+      ungesicherter Abstürze und Nebelgefahr wird ein ortskundiger Führer dringend empfohlen. Gelegentlich
+      werden auch Querungen von Hvannasund nach Viðvík ohne festen Pfad unternommen.
+    history: >-
+      Viðareiði ist eine alte Siedlung, gegründet vermutlich zwischen 1350 und 1400, deren Steinkirche aus dem
+      Jahr 1892 stammt. Hier wurde der Dichter Christian Matras geboren, und hier lebte Pfarrerswitwe Beinta
+      Broberg, Vorbild für den Roman *Barbara* von Jørgen-Frantz Jacobsen. Sagen rühmen den gütigen
+      Zauberbauern Guttormur í Múla inmitten einer stolzen Fischertradition.
+    before: >-
+      Kap Enniberg ist keine Spazierstrecke: Nimm dir einen professionellen Bergführer. Prüfe Wetterbericht
+      und Sichtbedingungen vor dem Aufstieg zum Villingadalsfjall wegen rutschigen Gerölls.
+    around: >-
+      Neun Kilometer westlich liegt [Kalsoy](/lugar/kalsoy/) mit dem Leuchtturm von Kallur, und vierundzwanzig
+      Kilometer entfernt erhebt sich der [Slættaratindur](/lugar/slaettaratindur/), höchster Gipfel der
+      Färöer.
+
+
+      Weiter im Nordatlantik teilen [Hornstrandir](/lugar/hornstrandir/), die [Isle of
+      Handa](/lugar/isle-of-handa/), [Noss](/lugar/noss-national-nature-reserve/) und die
+      [Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) dichte Brutkolonien von Trottellummen und
+      Papageitauchern mit Viðoy.
+  it:
+    intro: >-
+      Si chiama «isola del legname» e non vi cresce un solo albero. Il nome deriva dai tronchi galleggianti
+      che le correnti oceaniche trasportavano dalla Siberia e dal Nord America, un tempo raccolti nella baia
+      di Viðvík. Viðoy è l’isola più a nord delle Fær Øer, posizionata a est di Borðoy cui è collegata da un
+      istmo stradale; sulla costa settentrionale la terra sprofonda nel vuoto: la scogliera di Capo Enniberg
+      precipita per 754 metri a picco sui marosi. È una terra aspra di pascoli alti, vette aguzze e uccelli
+      marini, con due soli borghi abitati.
+    landscape: >-
+      Quasi tutta l’isola è formata da montagne dirupate con scogliere verticali a picco sul mare, mentre il
+      versante orientale ospita valloni sospesi e circhi glaciali. Conta undici cime, tra cui il
+      Villingadalsfjall che rappresenta il rilievo più settentrionale delle Fær Øer.
+
+
+      I due villaggi, Hvannasund a sud-ovest e Viðareiði a nord-ovest, sono uniti da una carrozzabile lungo la
+      costa occidentale. Viðareiði è circondato da prati a fieno, mentre l’interno è adibito al pascolo ovino
+      brado. A sud, la baia di Viðvík si apre per circa due chilometri in un ambiente selvaggio dove approdava
+      il legname.
+    wildlife: >-
+      Le coste settentrionali e orientali di Viðoy sono tutelate come Important Bird Area per via delle grandi
+      colonie riproduttive: 500 coppie di [uccello delle tempeste europeo](/especie/hydrobates_pelagicus/),
+      5.300 di [gabbiano tridattilo](/especie/rissa_tridactyla/), 25.000 di [pulcinella di
+      mare](/especie/fratercula_arctica/), 6.700 esemplari di [uria](/especie/uria_aalge/) e 200 coppie di
+      uria nera. A Capo Enniberg, accanto a pulcinella e urie, nidificano la [gazza
+      marina](/especie/alca_torda/) e i gabbiani tridattili.
+
+
+      In estate partono escursioni in barca per circumnavigare Capo Enniberg e ammirare la gigantesca muraglia
+      di basalto e gli sciami di volatili direttamente dal mare.
+    visit: >-
+      Il punto di partenza è Viðareiði per salire sul Villingadalsfjall. L’itinerario muove da Við Garð, a
+      nord del villaggio: risale la rampa e supera un cancello verso i pendii aperti. Tubi di plastica blu
+      segnalano la traccia fin quasi alla vetta. L’erba lascia presto spazio a pietraie e balze ripide dove
+      occorre procedere con cautela per non smuovere sassi, specie in gruppo. Lungo il tragitto compaiono
+      Fugloy e Svínoy, di fronte si leva la piramide del Malinsfjall e oltre lo stretto sorge l’antico borgo
+      abbandonato di Múli. Un muretto a secco impedisce alle pecore di spingersi sui dirupi.
+
+
+      A circa cento metri verticali dalla cima si apre un ripiano con ometti di pietra e pinnacoli rocciosi,
+      tra cui Kona Per («la moglie di Per»). Qui terminano i tubi blu; altri ometti verso nord-ovest guidano
+      verso il ciglio di Enniberg. Raggiungere Enniberg a piedi da Viðareiði è un percorso impegnativo ed è
+      consigliabile affidarsi a una guida alpina locale, data l’esposizione e le fitte nebbie. Talvolta si
+      organizzano traversate da Hvannasund a Viðvík su terreno privo di sentiero.
+    history: >-
+      Viðareiði è una comunità arcaica, fondata presumibilmente tra il 1350 e il 1400, la cui chiesa in pietra
+      risale al 1892. Vi nacque il poeta Christian Matras e vi risiedette la vedova Beinta Broberg,
+      ispiratrice del romanzo *Barbara* di Jørgen-Frantz Jacobsen. La memoria popolare custodisce i racconti
+      del contadino veggente Guttormur í Múla, emblema della sapienza e delle tradizioni marittime dell’isola.
+    before: >-
+      Capo Enniberg non è una gita banale: affidati a una guida professionista. Verifica meteo e visibilità
+      prima di salire sul Villingadalsfjall per via del fondo instabile.
+    around: >-
+      A nove chilometri a ovest si trova [Kalsoy](/lugar/kalsoy/), l’isola allungata con il celebre faro di
+      Kallur, e a ventiquattro chilometri sorge lo [Slættaratindur](/lugar/slaettaratindur/), la cima più
+      elevata delle Fær Øer.
+
+
+      Più lontano nell’Atlantico, [Hornstrandir](/lugar/hornstrandir/), l’[isola di
+      Handa](/lugar/isle-of-handa/), [Noss](/lugar/noss-national-nature-reserve/) e le
+      [Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) condividono falesie oceaniche con urie e pulcinella
+      di mare.
+  pt:
+    intro: >-
+      Chama-se «ilha da madeira» e não tem uma única árvore. O nome provém da madeira flutuante que as
+      correntes oceânicas arrastavam desde a Sibéria e a América do Norte, recolhida na enseada de Viðvík.
+      Viðoy é a ilha mais a norte das Faroé, situada a leste de Borðoy à qual se liga por um aterro
+      rodoviário; no seu extremo setentrional o terreno quebra a pique: o cabo Enniberg despenca 754 metros em
+      linha reta sobre as vagas oceânicas. É uma terra agreste de pastagens altas, cristas alcantiladas e aves
+      marinhas, com apenas duas aldeias.
+    landscape: >-
+      Quase toda a ilha é formada por montanhas escarpadas marginadas por falésias verticais, enquanto a
+      vertente oriental se desdobra em vales profundos e circos glaciares. Erguem-se onze cumes na ilha, sendo
+      Villingadalsfjall a montanha mais setentrional das Faroé.
+
+
+      Os dois povoados, Hvannasund a sudoeste e Viðareiði a noroeste, ligam-se por uma estrada ao longo da
+      costa poente. Viðareiði surge cercada por lameiros de feno, servindo o interior montanhoso para
+      pastoreio de ovelhas. A sul, a enseada de Viðvík estende-se por cerca de dois quilómetros em terreno
+      abrupto onde se resgatava a madeira náufraga.
+    wildlife: >-
+      As costas norte e leste de Viðoy estão classificadas como Área Importante para as Aves devido às suas
+      colónias reprodutoras: 500 casais de [painho-de-cauda-quadrada](/especie/hydrobates_pelagicus/), 5.300
+      de [gaivota-tridáctila](/especie/rissa_tridactyla/), 25.000 de [fradinho](/especie/fratercula_arctica/),
+      6.700 exemplares de [airo](/especie/uria_aalge/) e 200 casais de airo-de-asa-branca. No cabo Enniberg,
+      ao lado de fradinhos e airos, nidificam a [torda-mergulheira](/especie/alca_torda/) e
+      gaivotas-tridáctilas.
+
+
+      No verão realizam-se passeios de barco em torno do cabo Enniberg para admirar as nuvens de aves marinhas
+      e a imponente parede de basalto a partir do mar.
+    visit: >-
+      Parte de Viðareiði para subir ao Villingadalsfjall. O percurso tem início em Við Garð, no extremo norte
+      da aldeia: sobe pela rampa e cruza a cancela para os pastos abertos. Tubos de plástico azul balizam a
+      subida quase até ao cume. O terreno relvado inicial cede lugar a cascalho solto e degraus de rocha onde
+      deves ter cautela com pedras rolantes. Pelo caminho descortinam-se Fugloy e Svínoy, em frente ergue-se o
+      Malinsfjall e do outro lado do estreito avista-se a aldeia abandonada de Múli. Um muro rústico de pedra
+      impede o gado de cair nas escarpas.
+
+
+      A cerca de cem metros verticais do topo existe um pequeno patamar com amontoados de pedra (cairns) e
+      agulhas rochosas, uma delas batizada Kona Per («a mulher de Per»). Aqui terminam os tubos azuis, e
+      marcos de pedra seguintes rumo a noroeste guiam até ao abismo de Enniberg. Chegar a pé a Enniberg a
+      partir de Viðareiði é uma rota exigente recomendando-se um guia local qualificado, dado o relevo
+      perigoso e os nevoeiros repentinos. Por vezes realizam-se caminhadas de Hvannasund a Viðvík sem trilho
+      marcado.
+    history: >-
+      Viðareiði é uma povoação ancestral fundada entre 1350 e 1400, cuja igreja de pedra data de 1892. Aqui
+      nasceu o poeta Christian Matras e viveu a célebre viúva Beinta Broberg, musa do romance *Barbara* de
+      Jørgen-Frantz Jacobsen. A tradição oral recorda os feitos do lavrador e curandeiro Guttormur í Múla,
+      perpetuando o imaginário lendário da ilha.
+    before: >-
+      O cabo Enniberg não é um passeio simples: recomenda-se guia profissional. Confirma as condições
+      atmosféricas antes de subir ao Villingadalsfjall devido ao cascalho instável.
+    around: >-
+      A nove quilómetros a poente ergue-se [Kalsoy](/lugar/kalsoy/), a ilha estreita coroada pelo farol de
+      Kallur, e a vinte e quatro quilómetros avulta o [Slættaratindur](/lugar/slaettaratindur/), a montanha
+      mais alta das Faroé.
+
+
+      Mais longe no Atlântico Norte, [Hornstrandir](/lugar/hornstrandir/), a [Isle of
+      Handa](/lugar/isle-of-handa/), [Noss](/lugar/noss-national-nature-reserve/) e as
+      [Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) acolhem também grandes falésias povoadas por airos
+      e fradinhos.
+fuentes:
+  - url: https://visitfaroeislands.com/en/whatson/places/place/villingardalsfjall?lang=en
+    titulo: Villingardalsfjall
+    fecha_consulta: '2026-10-30'
+  - url: https://visitfaroeislands.com/dk/whatson/places/place/cape-enniberg0?lang=en
+    titulo: Cape Enniberg
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Vi%C3%B0oy
+    titulo: Viðoy - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://da.wikipedia.org/wiki/Vi%C3%B0oy
+    titulo: Viðoy - Wikipedia (dansk)
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Cape_Enniberg
+    titulo: Cape Enniberg - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://visitnorth.fo/vidoy/
+    titulo: Viðoy - Visit North
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Cape_Enniberg,_Faroe_Islands.JPG
+    autor: Erik Christensen, Porkeri
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0/
+    fecha_descarga: '2026-10-03'

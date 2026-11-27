@@ -1,0 +1,556 @@
+id: aletschgebiet-unspoiled-sectors
+estado_editorial: valoracion-revisada
+nombre:
+  es: Gran Glaciar de Aletsch - Sectores Salvajes
+  en: Great Aletsch Glacier - Unspoiled Sectors
+  fr: Grand glacier d'Aletsch - Secteurs sauvages
+  de: Großer Aletschgletscher - Wilde Sektoren
+  it: Grande Ghiacciaio dell'Aletsch - Settori Selvaggi
+  pt: Grande Glaciar de Aletsch - Setores Selvagens
+nombre_original: Aletschgebiet Unspoiled Sectors
+alias:
+  - Aletsch Periphery & Hinterland (Aletschgebiet Unspoiled Sectors)
+paises:
+  - CH
+region:
+  es: Valais (Fiesch / Riederalp)
+  en: Valais (Fiesch / Riederalp)
+  fr: Valais (Fiesch / Riederalp)
+  de: Wallis (Fiesch / Riederalp)
+  it: Vallese (Fiesch / Riederalp)
+  pt: Valais (Fiesch / Riederalp)
+ubicacion:
+  tipo: punto
+  lat: 46.43
+  lon: 8.08
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 31060
+  nombre_en_la_fuente: Aletschwald
+  capa: capas/cdda/aletschgebiet-unspoiled-sectors.geojson
+habitats:
+  - glacial
+  - high_mountain
+  - primary_forest
+designaciones:
+  - unesco_whs
+  - strict_reserve
+especies:
+  - rupicapra_rupicapra
+  - lynx_lynx
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en los miradores de la cresta; baja en el bosque virgen de Aletschwald
+  en: High at crest viewpoints; low in the primeval Aletschwald forest
+  fr: Forte sur les belvédères des crêtes ; faible dans la forêt primaire de l'Aletschwald
+  de: Hoch an den Aussichtspunkten der Kämme; gering im urwüchsigen Aletschwald
+  it: Alta sui belvedere delle creste; bassa nella foresta primaria dell'Aletschwald
+  pt: Elevada nos miradouros das cristas; reduzida no bosque virgem de Aletschwald
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Pro Natura Centre Aletsch
+    url: https://www.pronatura-aletsch.ch/
+  - titulo: Centro de visitantes — Villa Cassel y naturaleza de Aletsch
+    url: https://www.pronatura-aletsch.ch/de/naturzentrum
+  - titulo: Accesos y horarios — centro Pro Natura Aletsch
+    url: https://www.pronatura-aletsch.ch/de/anreise-%C3%B6ffnungszeiten
+  - titulo: Normas — reserva del bosque de Aletsch
+    url: https://www.pronatura-aletsch.ch/de/naturschutzgebiet
+  - titulo: Mapa — senderos y normas del Aletschwald
+    url: https://www.pronatura-aletsch.ch/sites/pronatura-aletsch.ch/files/2025-03/2024_faltblattaletschwaldde.pdf
+resumen:
+  es: >-
+    El glaciar más grande de los Alpes (20 km de longitud) bordeado por el bosque de alerces y pinos
+    cembramente milenarios Aletschwald.
+  en: >-
+    The largest glacier in the Alps (20 km long) bordered by ancient stone pine and larch stands in the
+    Aletschwald.
+  fr: >-
+    Le plus grand glacier des Alpes (20 km de long) bordé par la forêt millénaire d'arolles et de mélèzes de
+    l'Aletschwald.
+  de: >-
+    Der längste Gletscher der Alpen (20 km Länge), gesäumt vom uralten Arven- und Lärchenwald des
+    Aletschwaldes.
+  it: >-
+    Il più grande ghiacciaio delle Alpi (20 km di lunghezza) cinto dalla millenaria foresta di larici e pini
+    cembri dell'Aletschwald.
+  pt: >-
+    O maior glaciar dos Alpes (20 km de comprimento) ladeado pela floresta ancestral de larícios e
+    pinheiros-suíços de Aletschwald.
+unico:
+  es: En una misma jornada puedes ir de la estepa rocosa cálida al mayor glaciar de los Alpes.
+  en: In a single day you can journey from warm rocky steppe to the largest glacier in the Alps.
+  fr: En une seule journée, vous passez d'une steppe rocheuse chaude au plus vaste glacier des Alpes.
+  de: An einem einzigen Tag wanderst du von der wärmeliebenden Felsensteppe bis zum größten Gletscher der Alpen.
+  it: In una sola giornata puoi salire dalla steppa rocciosa temperata al più grande ghiacciaio delle Alpi.
+  pt: >-
+    Num único dia podes transitar da estepe rochosa soalheira até ao maior glaciar de toda a cordilheira
+    alpina.
+observaciones:
+  es: >-
+    En el área protegida hay que permanecer en los senderos, llevar los perros atados y no retirar plantas ni
+    vehículos al bosque. Respeta a los animales y las plantas: no los molestes.
+texto:
+  es:
+    intro: >-
+      En solo siete kilómetros pasas del calor al hielo eterno. Eso es Aletsch: de las estepas rocosas de
+      aspecto mediterráneo que se asoman en las laderas orientadas al sur al gran glaciar de Aletsch, el mayor
+      de los Alpes. Entre un extremo y otro, en pocos cientos de metros de desnivel, se suceden praderas,
+      bosques frescos y paisajes helados. Por eso el Eiger, el Mönch y la Jungfrau, el glaciar y el bosque
+      forman parte, junto con esas estepas secas y calientes, del Patrimonio Natural de la UNESCO desde 2001.
+    landscape: >-
+      El hielo es el protagonista y la medida de todo. El glaciar nace de cuatro glaciares menores que
+      confluyen en Konkordiaplatz, donde se midió un espesor máximo de 905 m. La cumbre más alta del lado
+      occidental de su cuenca es el Aletschhorn, de 4 193 m. Hace 18 000 años la parte baja de la cresta entre
+      Riederalp y el glaciar estaba cubierta por completo; solo asomaban Bettmerhorn, Eggishorn y los
+      Fusshörner. Hoy el glaciar retrocede: desde 1980 ha perdido 1,3 km de longitud y desde 1870, 3,2 km,
+      además de más de 300 m de espesor.
+
+
+      Sobre la lengua del glaciar, en las laderas de Moosfluh y Hohfluh, entre 1 600 y 2 200 m, crece el
+      bosque de Aletsch. La parte alta está formada por pinos cembros y alerces dispersos, con arbustos enanos
+      como rododendros, brezo y arándano. En el tramo más denso se suman las piceas. El pino cembro es la
+      especie principal, y sus adaptaciones le permiten resistir la sequía veraniega y las tormentas
+      invernales de la ladera norte: vive varios cientos de años.
+
+
+      Lo que hace singular al bosque es lo que ocurre junto a la morrena. Se ven, a corta distancia, todas las
+      fases de la colonización vegetal de las morrenas que deja el glaciar, desde los primeros musgos hasta
+      pinos cembros viejísimos. Y desde que está protegido, la madera muerta se queda en el sitio: alimenta
+      musgos, hongos, arañas y escarabajos y sirve de lecho para que germinen pinos cembros y alerces jóvenes.
+    wildlife: >-
+      El calendario del bosque tiene dos fechas. En verano brillan los rododendros ferruginosos; en otoño, se
+      oye la berrea de los ciervos. Entre los habitantes frecuentes están el
+      [ciervo](/especie/cervus_elaphus/), el [rebeco](/especie/rupicapra_rupicapra/) y el cascanueces, que se
+      alimenta sobre todo de piñones del pino cembro y los dispersa, y también la
+      [marmota](/especie/marmota_marmota/). Con suerte y paciencia pueden verse el [gallo
+      lira](/especie/tetrao_tetrix/), el [águila real](/especie/aquila_chrysaetos/) y el [mochuelo
+      chico](/especie/glaucidium_passerinum/), el búho más pequeño de Europa.
+
+
+      Los contrastes se ven hasta en los animales: en la región conviven la lagartija verde, exótica en este
+      paisaje, y la pulga de los glaciares, resistente al frío.
+    visit: >-
+      La puerta es la Villa Cassel, a 2 000 m, junto a la reserva del bosque y al glaciar. Desde Riederalp
+      Oeste se llega a pie en unos 30 minutos por un camino bien señalizado; Riederalp no admite coches. El
+      centro de Pro Natura, abierto desde 1976, informa de mediados de junio a mediados de octubre con una
+      exposición multimedia. Tiene una exposición interactiva sobre el retroceso del glaciar, el cambio
+      climático y la transición energética, y un jardín alpino con más de 200 especies de plantas adaptadas a
+      las condiciones extremas.
+
+
+      Desde allí salen tres rutas. La más corta, Riederfurka–Moränenweg–Hohfluh, dura hora y media con poco
+      esfuerzo y sigue la morrena lateral depositada al final de la última glaciación; ofrece vistas únicas
+      del glaciar y de los Alpes valesanos. Riederfurka–Bischofssitz–Silbersand–Riederfurka dura unas dos
+      horas, con esfuerzo medio, y atraviesa el corazón del bosque, con pinos cembros viejos y nudosos,
+      turberas y cascanueces. Riederfurka–Teiffe Wald–Grünsee–Silbersand–Riederfurka dura unas cuatro horas y
+      media y exige más esfuerzo; hace algo más de 80 años la región del lago Grünsee seguía oculta bajo el
+      hielo.
+
+
+      Desde 2008 un puente colgante sobre la garganta del Massa permite cruzar el valle desde el bosque hasta
+      Belalp, y el Bettmerhorn y el Eggishorn son miradores populares accesibles en teleférico.
+    history: >-
+      A principios del siglo XX la tala, el pastoreo y la recolección de arándanos degradaron tanto el bosque
+      que quedó en mal estado. La protección eficaz llegó en 1933, cuando la actual Pro Natura firmó un
+      contrato de arrendamiento por 99 años. Desde entonces no se explota y por eso tiene rasgos de bosque
+      primario.
+    before: >-
+      En el área protegida hay que permanecer en los senderos, llevar los perros atados y no retirar plantas
+      ni vehículos al bosque. Respeta a los animales y las plantas: no los molestes.
+    around: >-
+      El [Curso Alto del Valle de Lötschental](/lugar/lotschen-tal-upper-valley/) está a unos nueve
+      kilómetros. Y el [Parque Natural del Valle de Binn](/lugar/landschaftspark-binntal/) se solapa en parte
+      con esta zona.
+  en:
+    intro: >-
+      In just seven kilometres you ascend from warmth into eternal ice. That is Aletsch: from
+      Mediterranean-like rocky steppe basking on south-facing valley slopes to the Great Aletsch Glacier, the
+      largest ice stream in the Alps. Between those two extremes, across a few hundred vertical metres,
+      meadowlands, cool mountain forests, and glacial terrain follow in rapid succession. Because of this
+      dramatic gradient, the Eiger, Mönch, and Jungfrau, together with the glacier, ancient woodland, and arid
+      valley steppes, have been inscribed as a UNESCO World Heritage site since 2001.
+    landscape: >-
+      Ice dominates everything and sets the scale. The main glacier forms where four tributary glaciers
+      converge at Konkordiaplatz, where an ice thickness of 905 m was recorded. The highest summit flanking
+      the western catchment is the Aletschhorn at 4,193 m. Some 18,000 years ago the lower ridge between
+      Riederalp and the glacier tongue was completely submerged by ice; only the Bettmerhorn, Eggishorn, and
+      Fusshörner projected as nunataks. Today the glacier is in steady retreat: since 1980 it has lost 1.3 km
+      of its length and since 1870, 3.2 km, alongside over 300 m in vertical thickness.
+
+
+      Flanking the glacier tongue on the slopes of Moosfluh and Hohfluh, between 1,600 and 2,200 m, grows the
+      protected Aletschwald. Its upper zone consists of Swiss stone pine and scattered European larch,
+      cushioned by dwarf shrubs including alpine rose, heather, and bilberry. Dense stands incorporate Norway
+      spruce. Stone pine is the signature tree, remarkably adapted to summer drought and severe winter gales
+      on northern aspects, surviving for several centuries.
+
+
+      What makes the forest remarkable is the morainic succession. Within short walking distances you witness
+      every stage of primary plant colonization across lateral moraines abandoned by the receding glacier,
+      from initial pioneer crusts to ancient stone pines. Protected for decades, coarse woody debris remains
+      in place, nurturing fungi, bryophytes, and beetles while serving as nurse logs for young larch and stone
+      pine seedlings.
+    wildlife: >-
+      The woodland year centers around two seasonal events. In summer, rusty-leaved alpenrose blooms in pink
+      carpets; in autumn, red deer stags roar across the slopes. Regular residents include [red
+      deer](/especie/cervus_elaphus/), [chamois](/especie/rupicapra_rupicapra/), and the spotted nutcracker,
+      which feeds on stone pine seeds and caches them across the mountainside, alongside the [alpine
+      marmot](/especie/marmota_marmota/). With patience and luck you may spot the [black
+      grouse](/especie/tetrao_tetrix/), [golden eagle](/especie/aquila_chrysaetos/), and [Eurasian pygmy
+      owl](/especie/glaucidium_passerinum/), Europe's smallest owl.
+
+
+      Ecological contrasts extend to smaller creatures: the green lizard, unexpected in an alpine setting,
+      shares the wider region with cold-adapted glacier fleas thriving directly on ice surfaces.
+    visit: >-
+      The natural starting point is Villa Cassel, sitting at 2,000 m on the threshold of the forest reserve
+      and the glacier. From Riederalp West it is reached on foot in about 30 minutes via a well-marked
+      mountain path; Riederalp itself is entirely car-free. The Pro Natura Centre, open since 1976, operates
+      from mid-June to mid-October with multimedia exhibits. It features interactive displays detailing
+      glacier retreat, climate change, and energy transitions, accompanied by an alpine garden showcasing over
+      200 plant species adapted to high-altitude extremes.
+
+
+      Three walking routes depart from the centre. The shortest, Riederfurka–Moränenweg–Hohfluh, requires an
+      hour-and-a-half with gentle climbing, tracing the lateral moraine formed during the last glacial advance
+      and offering panoramas of the glacier and the Valais Alps.
+      Riederfurka–Bischofssitz–Silbersand–Riederfurka takes around two hours of moderate effort, weaving
+      through ancient gnarled stone pines, peat hollows, and nutcracker habitat. Riederfurka–Teiffe
+      Wald–Grünsee–Silbersand–Riederfurka takes roughly four and a half hours at a strenuous pace; just over
+      80 years ago the basin around Lake Grünsee was buried beneath glacier ice.
+
+
+      Since 2008 a pedestrian suspension bridge spanning the Massa Gorge links the Aletschwald to Belalp,
+      while the Bettmerhorn and Eggishorn summits offer famous panoramic viewpoints easily accessible by cable
+      car.
+    history: >-
+      At the start of the twentieth century, unregulated timber felling, goat grazing, and intensive berry
+      gathering left the Aletschwald severely degraded. Long-term protection was secured in 1933 when Pro
+      Natura negotiated a 99-year conservation lease. Spared from forestry ever since, the woodland has
+      regained primary old-growth characteristics.
+    before: >-
+      Inside the protected area you must remain strictly on marked trails, keep dogs on a leash, and never
+      remove plants or enter with vehicles. Respect wildlife and fragile flora: keep disturbance to a minimum.
+    around: >-
+      [Lötschental Upper Valley](/lugar/lotschen-tal-upper-valley/) lies about nine kilometres away. [Binntal
+      Nature Park](/lugar/landschaftspark-binntal/) partially overlaps with the wider regional perimeter.
+  fr:
+    intro: >-
+      En seulement sept kilomètres, vous passez de la douceur méditerranéenne aux glaces éternelles. C'est
+      l'essence d'Aletsch : des steppes rocheuses baignées de soleil sur les adrets jusqu'au grand glacier
+      d'Aletsch, le plus imposant fleuve de glace de l'arc alpin. Entre ces deux univers, sur quelques
+      centaines de mètres de dénivelé, se relaient alpages, forêts fraîches et déserts de glace. C'est
+      pourquoi l'Eiger, le Mönch et la Jungfrau, le glacier et la forêt primaire sont inscrits, avec ces
+      versants arides, au Patrimoine mondial de l'UNESCO depuis 2001.
+    landscape: >-
+      La glace constitue le cœur et l'étalon de ce paysage. Le glacier principal naît de quatre appareils
+      tributaires confluant à la Konkordiaplatz, où une épaisseur maximale de 905 m a été mesurée. Le sommet
+      dominant son bassin occidental est l'Aletschhorn, culminant à 4 193 m. Il y a 18 000 ans, la crête
+      séparant Riederalp du glacier était entièrement enfouie sous les glaces ; seuls émergeaient le
+      Bettmerhorn, l'Eggishorn et les Fusshörner. Aujourd'hui le glacier recule : depuis 1980 il a raccourci
+      de 1,3 km et depuis 1870, 3,2 km, perdant plus de 300 m d'épaisseur verticale.
+
+
+      Sur les versants dominant la langue glaciaire à Moosfluh et Hohfluh, entre 1 600 et 2 200 m, s'épanouit
+      la forêt de l'Aletschwald. L'étage supérieur associe pins cembros (arolles) et mélèzes d'Europe
+      disséminés, ceinturés d'arbustes nains tels que rhododendrons, bruyères et myrtilles. Dans les secteurs
+      les plus denses s'ajoute l'épicéa. L'arolle est l'essence maîtresse, armée pour endurer la sécheresse
+      estivale et les tempêtes hivernales sur les versants nord, vivant plusieurs siècles.
+
+
+      La singularité de cette forêt réside dans sa dynamique pionnière. Sur une courte distance se succèdent
+      tous les stades de la recolonisation végétale des moraines délaissées par le glacier, des mousses
+      pionnières jusqu'aux arolles centenaires. Le bois mort, laissé sur place grâce au statut de protection
+      intégrale, nourrit lichens, champignons et coléoptères tout en servant de lit de germination aux jeunes
+      pousses.
+    wildlife: >-
+      Le calendrier de l'Aletschwald s'articule autour de deux temps forts. En été s'embrasent les
+      rhododendrons ferrugineux ; en automne résonne le brame des cervidés. La faune compte le [cerf
+      élaphe](/especie/cervus_elaphus/), le [chamois](/especie/rupicapra_rupicapra/), le cassenoix moucheté —
+      inféodé aux pignons de l'arolle qu'il dissémine activement — ainsi que la [marmotte des
+      Alpes](/especie/marmota_marmota/). Avec patience, vous pourrez observer le
+      [tétras-lyre](/especie/tetrao_tetrix/), l'[aigle royal](/especie/aquila_chrysaetos/) et la [chevêchette
+      d'Europe](/especie/glaucidium_passerinum/), le plus petit rapace nocturne du continent.
+
+
+      Les contrastes se reflètent jusque dans la faune : le lézard vert des versants chauds côtoie dans le
+      même massif la puce des glaciers, capable de vivre sur la glace vive.
+    visit: >-
+      La porte d'entrée est la Villa Cassel, perchée à 2 000 m à la lisière de la réserve forestière et du
+      glacier. Depuis Riederalp Ouest, vous la rejoignez à pied en environ 30 minutes par un sentier balisé ;
+      Riederalp est une station entièrement piétonne. Le centre Pro Natura, inauguré en 1976, accueille les
+      visiteurs de la mi-juin à la mi-octobre avec une exposition multimédia sur le recul des glaces et le
+      changement climatique, complétée par un jardin alpin abritant plus de 200 espèces végétales de haute
+      montagne.
+
+
+      Trois itinéraires pédestres rayonnent depuis le col. La boucle courte, Riederfurka–Moränenweg–Hohfluh,
+      demande une heure et demie d'effort modéré en suivant la moraine latérale du dernier épisode glaciaire,
+      offrant des perspectives uniques sur le glacier. Le circuit
+      Riederfurka–Bischofssitz–Silbersand–Riederfurka requiert environ deux heures et traverse le cœur de
+      l'Aletschwald entre arolles tourmentés et tourbières. L'itinéraire Riederfurka–Teiffe
+      Wald–Grünsee–Silbersand–Riederfurka exige environ quatre heures et demie de marche soutenue ; il y a un
+      peu plus de 80 ans, le lac Grünsee gisait encore sous la glace.
+
+
+      Depuis 2008, une passerelle suspendue au-dessus des gorges de la Massa relie la forêt à Belalp, tandis
+      que le Bettmerhorn et l'Eggishorn sont d'incontournables belvédères accessibles en téléphérique.
+    history: >-
+      Au début du XXe siècle, le surpâturage, l'abattage incontrôlé et la cueillette intensive avaient
+      profondément détérioré l'Aletschwald. Une protection durable intervint en 1933 avec la signature par Pro
+      Natura d'un bail emphytéotique de 99 ans. Soustrait à l'exploitation depuis lors, le massif a retrouvé
+      son état de forêt primaire.
+    before: >-
+      Dans l'aire protégée, vous devez impérativement demeurer sur les sentiers balisés, tenir les chiens en
+      laisse et ne prélever aucun végétal. Respectez la faune et la flore en évitant tout dérangement.
+    around: >-
+      Le [haut de la vallée du Lötschental](/lugar/lotschen-tal-upper-valley/) se trouve à environ neuf
+      kilomètres. Le [parc naturel de la vallée de Binn](/lugar/landschaftspark-binntal/) présente des limites
+      contiguës avec ce secteur.
+  de:
+    intro: >-
+      Auf einer Distanz von nur sieben Kilometern steigst du von sommerlicher Wärme in ewiges Eis auf. Das ist
+      Aletsch: von den sonnenverwöhnten Felsensteppen im Rhonetal bis zum Großen Aletschgletscher, dem
+      mächtigsten Eisstrom der gesamten Alpen. Dazwischen folgen auf wenigen hundert Höhenmetern alpine
+      Wiesen, kühle Bergwälder und schroffe Moränenlandschaften. Zusammen mit den berühmten Gipfeln von Eiger,
+      Mönch und Jungfrau gehört das Gletschersystem seit 2001 zum UNESCO-Weltnaturerbe.
+    landscape: >-
+      Das Eis bestimmt den Rhythmus und die Dimensionen. Der Hauptstrom speist sich aus vier
+      Tributärgletschern am Konkordiaplatz, wo eine maximale Eisdicke von 905 m gemessen wurde. Höchster
+      Gipfel im westlichen Einzugsgebiet ist das Aletschhorn mit 4.193 m. Vor 18.000 Jahren lag der Grat
+      zwischen Riederalp und der Zunge tief unter Gletschermassen; nur Bettmerhorn, Eggishorn und die
+      Fusshörner ragten als Nunatakker heraus. Heute schmilzt das Eis: Seit 1980 hat der Gletscher 1,3 km an
+      Länge verloren und seit 1870, 3,2 km bei über 300 m Dickenverlust.
+
+
+      An den Hängen von Moosfluh und Hohfluh stockt zwischen 1.600 und 2.200 m der geschützte Aletschwald. In
+      den Hochlagen dominieren Arven und Lärchen, unterlegt von Alpenrosen, Heidekraut und Heidelbeeren. In
+      dichteren Beständen gesellt sich die Fichte hinzu. Die Arve widersteht Sommertrockenheit wie
+      winterlichen Nordhangstürmen und erreicht ein Alter von mehreren hundert Jahren.
+
+
+      Einzigartig ist die Moränensukzession: Auf engem Raum lassen sich alle Stadien der pflanzlichen
+      Wiederbesiedlung verlassener Gletschermoränen beobachten, von ersten Moosen bis zu knorrigen Riesen.
+      Dank konsequentem Prozessschutz verbleibt Totholz im Bestand und dient jungen Lärchen und Arven als
+      Keimbett.
+    wildlife: >-
+      Das Naturjahr im Bergwald kennt zwei Höhepunkte: Im Sommer leuchtet die Rostblättrige Alpenrose, im
+      Herbst hallt die Hirschbrunft durch das Tal. Zu den ständigen Bewohnern gehören
+      [Rothirsch](/especie/cervus_elaphus/), [Gämse](/especie/rupicapra_rupicapra/), Tannenhäher — der die
+      Arvenzapfen verbreitet — und das [Alpenmurmeltier](/especie/marmota_marmota/). Mit Geduld lassen sich
+      [Birkhuhn](/especie/tetrao_tetrix/), [Steinadler](/especie/aquila_chrysaetos/) und der
+      [Sperlingskauz](/especie/glaucidium_passerinum/), Europas kleinste Eule, beobachten.
+
+
+      Die Gegensätze spiegeln sich in der Tierwelt wider: Wärmeliebende Smaragdeidechsen teilen sich die
+      Region mit kälteresistenten Gletscherflöhen auf dem Eis.
+    visit: >-
+      Zentraler Ausgangspunkt ist die Villa Cassel auf 2.000 m Höhe am Rand des Schutzwaldes. Von Riederalp
+      West erreichst du sie zu Fuß in etwa 30 Minuten über einen Wanderweg; Riederalp ist autofrei. Das
+      Pro-Natura-Zentrum, eröffnet 1976, informiert von Mitte Juni bis Mitte Oktober mit einer interaktiven
+      Ausstellung über Gletscherschwund, Klimawandel und Energiewende, ergänzt durch einen Alpingarten mit
+      über 200 hochalpinen Pflanzenarten.
+
+
+      Drei Hauptrouten starten hier: Der kurze Weg Riederfurka–Moränenweg–Hohfluh dauert eineinhalb Stunden
+      bei geringem Anstieg und folgt der Seitenmoräne des letzten Hochstandes mit Blicken auf den Eisstrom.
+      Riederfurka–Bischofssitz–Silbersand–Riederfurka verlangt rund zwei Stunden moderater Wanderzeit durch
+      urige Arvenbestände und Moore. Die anspruchsvollere Runde Riederfurka–Teiffe
+      Wald–Grünsee–Silbersand–Riederfurka beansprucht rund viereinhalb Stunden Gehzeit; vor etwas mehr als 80
+      Jahren lag der Grünsee noch unter Gletschereis begraben.
+
+
+      Seit 2008 verbindet eine Hängebrücke über die Massaschlucht den Aletschwald mit Belalp, während
+      Bettmerhorn und Eggishorn per Seilbahn erreichbare Aussichtsgipfel sind.
+    history: >-
+      Zu Beginn des zwanzigsten Jahrhunderts hatten Überweidung und unkontrollierte Holznutzung den
+      Aletschwald schwer geschädigt. 1933 sicherte Pro Natura das Areal durch einen Pachtvertrag über 99
+      Jahre. Seither ruht jede forstliche Nutzung, sodass der Wald seinen Urwaldcharakter zurückgewann.
+    before: >-
+      Im Schutzgebiet gilt Wegegebot, Leinenpflicht für Hunde sowie das Verbot von Pflanzenentnahme und
+      Fahrzeugen. Nimm Rücksicht auf Wildtiere und empfindliche Alpenpflanzen.
+    around: >-
+      Das [obere Lötschental](/lugar/lotschen-tal-upper-valley/) liegt rund neun Kilometer entfernt. Der
+      [Landschaftspark Binntal](/lugar/landschaftspark-binntal/) grenzt an das südliche Einzugsgebiet an.
+  it:
+    intro: >-
+      In soli sette chilometri passi dal tepore ai ghiacci eterni. Questa è l'esperienza di Aletsch: dalle
+      steppe rupestri d'impronta calda sui versanti meridionali sino al grande ghiacciaio dell'Aletsch, la
+      maggiore fiumana di ghiaccio delle Alpi. Tra i due estremi, in poche centinaia di metri di dislivello,
+      si alternano pascoli alpini, fresche boscaglie e paesaggi glaciali. Per tale ragione l'Eiger, il Mönch e
+      la Jungfrau, il ghiacciaio e l'Aletschwald sono iscritti nel Patrimonio Mondiale dell'UNESCO dal 2001.
+    landscape: >-
+      Il ghiaccio rappresenta il cuore e l'unità di misura del territorio. La colata principale nasce dalla
+      confluenza di quattro ghiacciai a Konkordiaplatz, dove è stato rilevato uno spessore massimo di 905 m.
+      La vetta più elevata sul margine occidentale del bacino è l'Aletschhorn, alto 4.193 m. Circa 18.000 anni
+      fa la cresta tra Riederalp e il ghiacciaio era totalmente sommersa; emergevano solo il Bettmerhorn,
+      l'Eggishorn e i Fusshörner. Oggi il ghiacciaio arretra: dal 1980 ha perso 1,3 km di lunghezza e dal
+      1870, 3,2 km, con oltre 300 m di spessore verticale dissolto.
+
+
+      Sui fianchi di Moosfluh e Hohfluh, tra i 1.600 e i 2.200 m, prospera l'Aletschwald. La fascia culminante
+      accoglie pini cembri e larici sparsi, bordati da rododendri, brugo e mirtillo. Nei settori più fitti
+      subentra l'abete rosso. Il pino cembro è l'essenza regina, conformata per sfidare l'aridità estiva e le
+      bufere invernali sui versanti settentrionali, superando diversi secoli di vita.
+
+
+      La particolarità della foresta risiede nella colonizzazione vegetale lungo la morena. A breve distanza
+      l'una dall'altra si osservano tutte le fasi di ricolonizzazione dei depositi morenici abbandonati dal
+      ghiacciaio, dai primi muschi sino a cembri vetusti. Da quando vige la tutela, il legno morto permane al
+      suolo, alimentando funghi, insetti e offrendo un letto di crescita ai giovani germogli.
+    wildlife: >-
+      L'ecosistema montano scandisce due grandi momenti annuali: in estate fiorisce il rododendro ferruginoso,
+      mentre in autunno risuona il bramito dei cervi. La fauna annovera il [cervo](/especie/cervus_elaphus/),
+      il [camoscio](/especie/rupicapra_rupicapra/), la nocciolaia — instancabile disseminatrice dei pinoli di
+      cembro — e la [marmotta](/especie/marmota_marmota/). Con pazienza si possono avvistare il [fagiano di
+      monte](/especie/tetrao_tetrix/), l'[aquila reale](/especie/aquila_chrysaetos/) e la [civetta
+      nana](/especie/glaucidium_passerinum/), il più piccolo rapace notturno d'Europa.
+
+
+      I contrasti biologici giungono sino alla microfauna: il ramarro delle steppe basali convive a breve
+      distanza con la pulce dei ghiacciai, attiva sulle superfici gelate.
+    visit: >-
+      La porta d'accesso è Villa Cassel, a 2.000 m di quota, a ridosso della riserva forestale e del
+      ghiacciaio. Da Riederalp Ovest si raggiunge a piedi in circa 30 minuti lungo un comodo sentiero;
+      Riederalp è interamente chiusa al traffico automobilistico. Il centro Pro Natura, attivo dal 1976,
+      accoglie i visitatori da metà giugno a metà ottobre con una rassegna multimediale sul ritiro glaciale e
+      un giardino alpino con oltre 200 specie d'alta quota.
+
+
+      Da qui si snodano tre percorsi. Il più breve, Riederfurka–Moränenweg–Hohfluh, impegna per un'ora e mezza
+      con dislivello moderato costeggiando la morena dell'ultima glaciazione, regalando vedute sul ghiacciaio.
+      L'anello Riederfurka–Bischofssitz–Silbersand–Riederfurka richiede circa due ore e attraversa il fitto
+      dell'Aletschwald tra cembri scanalati e torbiere. La traversata Riederfurka–Teiffe
+      Wald–Grünsee–Silbersand–Riederfurka impegna circa quattro ore e mezza con maggiore fatica; poco più di
+      80 anni fa il lago Grünsee era interamente sepolto dal ghiaccio.
+
+
+      Dal 2008 un ponte tibetano sospeso sulle gole della Massa consente di raggiungere Belalp, mentre
+      Bettmerhorn ed Eggishorn sono belvedere raggiungibili in funivia.
+    history: >-
+      All'inizio del XX secolo, tagli indiscriminati, pascolo caprino e raccolta eccessiva di frutti avevano
+      depauperato l'Aletschwald. La svolta conservativa giunse nel 1933 con la stipula da parte di Pro Natura
+      di un contratto d'affitto per 99 anni. Da allora la foresta non è più sfruttata e ha riacquisito lo
+      status di foresta vetusta.
+    before: >-
+      Nella riserva naturale è obbligatorio rimanere sui sentieri tracciati, tenere i cani al guinzaglio ed
+      evitare la raccolta di piante o l'uso di mezzi meccanici. Rispetta la fauna e la flora selvatica.
+    around: >-
+      L'[Alta Valle del Lötschental](/lugar/lotschen-tal-upper-valley/) dista circa nove chilometri. Il [Parco
+      naturale della Valle di Binn](/lugar/landschaftspark-binntal/) condivide parte del perimetro montano
+      circostante.
+  pt:
+    intro: >-
+      Em apenas sete quilómetros sobes do calor ameno ao gelo eterno. Essa é a marca de Aletsch: das estepes
+      rochosas viradas a sul até ao grande glaciar de Aletsch, a maior corrente de gelo dos Alpes. Entre estes
+      dois mundos, em poucas centenas de metros de desnível, sucedem-se prados de montanha, bosques frescos e
+      paisagens glaciares. Por este motivo, o Eiger, o Mönch e o Jungfrau, o glaciar e a mata virgem integram
+      o Património Mundial da UNESCO desde 2001.
+    landscape: >-
+      O gelo comanda a paisagem e serve de medida a todos os elementos. O glaciar principal forma-se a partir
+      de quatro glaciares menores na Konkordiaplatz, onde foi registada uma espessura máxima de 905 m. O cume
+      culminante na vertente ocidental da bacia é o Aletschhorn, com 4.193 m. Há 18.000 anos a crista entre
+      Riederalp e o glaciar encontrava-se totalmente soterrada pelo gelo; apenas sobressaíam o Bettmerhorn, o
+      Eggishorn e os Fusshörner. Hoje o glaciar retrocede: desde 1980 perdeu 1,3 km de comprimento e desde
+      1870, 3,2 km, somando uma perda superior a 300 m de espessura vertical.
+
+
+      Nas encostas de Moosfluh e Hohfluh, entre os 1.600 e os 2.200 m, prospera a floresta protegida de
+      Aletschwald. O estrato superior é formado por pinheiros-suíços (arolas) e larícios dispersos, ladeados
+      por rododendros, urzes e mirtilos. Nos troços mais densos junta-se o espruce. O pinheiro-suíço é a
+      espécie soberana, adaptada a resistir à estiagem estival e aos temporais de inverno nas encostas norte,
+      vivendo vários séculos.
+
+
+      A singularidade desta mata reside na sucessão ecológica sobre as moreias deixadas pelo recuo do gelo: em
+      curta distância observam-se todos os passos da colonização vegetal, dos primeiros musgos a arolas
+      centenárias. Desde a sua proteção, a madeira morta fica no terreno, nutrindo cogumelos e escaravelhos e
+      servindo de abrigo às novas plântulas.
+    wildlife: >-
+      O ciclo florestal assenta em dois momentos centrais: no verão desabrocham os rododendros-ferrugíneos; no
+      outono ecoa a brama dos veados. Entre a fauna habitual contam-se o
+      [veado-vermelho](/especie/cervus_elaphus/), a [camurça](/especie/rupicapra_rupicapra/), o quebra-nozes —
+      que dispersa as sementes do pinheiro-suíço — e a [marmota-dos-alpes](/especie/marmota_marmota/). Com
+      paciência avistam-se o [tetraz-lira](/especie/tetrao_tetrix/), a
+      [águia-real](/especie/aquila_chrysaetos/) e o [mocho-pigmeu](/especie/glaucidium_passerinum/), a menor
+      ave de rapina noturna da Europa.
+
+
+      Os contrastes biogeográficos chegam à fauna miúda: o sardão-verde das encostas soalheiras convive no
+      mesmo maciço com a pulga-dos-glaciares, adaptada ao gelo perpétuo.
+    visit: >-
+      A porta de entrada situa-se na Villa Cassel, a 2.000 m de altitude, junto à orla da reserva florestal e
+      do glaciar. A partir de Riederalp Oeste chega-se a pé em cerca de 30 minutos por caminho balizado;
+      Riederalp não permite trânsito automóvel. O centro Pro Natura, fundado em 1976, funciona de meados de
+      junho a meados de outubro com mostras multimédia sobre o degelo e um jardim botânico alpino com mais de
+      200 espécies de altitude.
+
+
+      Dali partem três circuitos pedestres. O mais breve, Riederfurka–Moränenweg–Hohfluh, cumpre-se numa hora
+      e meia com pouco desnível acompanhando a moreia lateral da última vaga fria. O percurso
+      Riederfurka–Bischofssitz–Silbersand–Riederfurka requer cerca de duas horas de marcha moderada pelo
+      coração do bosque entre arolas retorcidas e turfeiras. O traçado Riederfurka–Teiffe
+      Wald–Grünsee–Silbersand–Riederfurka exige cerca de quatro horas e meia com maior desnível; há pouco mais
+      de 80 anos a bacia do lago Grünsee permanecia oculta sob o glaciar.
+
+
+      Desde 2008 uma ponte suspensa sobre o desfiladeiro de Massa permite ligar a floresta a Belalp, ao passo
+      que o Bettmerhorn e o Eggishorn são miradouros panorâmicos acessíveis por teleférico.
+    history: >-
+      No início do século XX, os cortes de madeira, o pastoreio caprino e a apanha desregrada de mirtilos
+      tinham degradado profundamente o Aletschwald. O resgate conservacionista consumou-se em 1933 quando a
+      Pro Natura celebrou um contrato de arrendamento por 99 anos. Desde então o bosque permaneceu intocado,
+      reassumindo feição virgem.
+    before: >-
+      Na reserva protegida deves manter-te estritamente nos trilhos, circular com cães presos e não colher
+      espécimes botânicos. Respeita a tranquilidade da fauna e flora locais.
+    around: >-
+      O [Alto Vale de Lötschental](/lugar/lotschen-tal-upper-valley/) dista cerca de nove quilómetros. O
+      [Parque Natural do Vale de Binn](/lugar/landschaftspark-binntal/) estabelece continuidade com esta área
+      alpina.
+fuentes:
+  - url: https://www.pronatura-aletsch.ch/de/aletschgebiet
+    titulo: Aletschgebiet — Pro Natura Aletsch
+    fecha_consulta: '2026-10-04'
+  - url: https://www.pronatura-aletsch.ch/de/naturschutzgebiet
+    titulo: Naturschutzgebiet — Pro Natura Aletsch
+    fecha_consulta: '2026-10-04'
+  - url: https://de.wikipedia.org/wiki/Aletschwald
+    titulo: Aletschwald – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Aletsch_Glacier
+    titulo: Aletsch Glacier – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://www.pronatura-aletsch.ch/de/naturzentrum
+    titulo: Naturzentrum – Pro Natura Aletsch
+    fecha_consulta: '2026-10-04'
+  - url: https://www.pronatura-aletsch.ch/de/anreise-%C3%B6ffnungszeiten
+    titulo: Anreise & Öffnungszeiten – Pro Natura Aletsch
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Aletschgletscher_panorama.JPG
+    autor: Gab01
+    licencia: Public domain
+    url_licencia: https://creativecommons.org/publicdomain/mark/1.0/
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,702 @@
+id: nationalpark-neusiedler-see-seewinkel
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Neusiedler See - Seewinkel
+  en: Neusiedler See - Seewinkel National Park
+  fr: Parc national de Neusiedler See - Seewinkel
+  de: Nationalpark Neusiedler See - Seewinkel
+  it: Parco nazionale Neusiedler See - Seewinkel
+  pt: Parque Nacional de Neusiedler See - Seewinkel
+nombre_original: Nationalpark Neusiedler See-Seewinkel
+alias:
+  - Neusiedler See Steppe & Seewinkel National Park
+paises:
+  - AT
+region:
+  es: Burgenland (Neusiedl am See / Illmitz)
+  en: Burgenland (Neusiedl am See / Illmitz)
+  fr: Burgenland (Neusiedl am See / Illmitz)
+  de: Burgenland (Neusiedl am See / Illmitz)
+  it: Burgenland (Neusiedl am See / Illmitz)
+  pt: Burgenland (Neusiedl am See / Illmitz)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.78
+  lon: 16.85
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555632992
+  nombre_en_la_fuente: Neusiedler See - Seewinkel
+  categoria_uicn: II
+  capa: capas/cdda/nationalpark-neusiedler-see-seewinkel.geojson
+habitats:
+  - lake
+  - steppe
+  - wetland
+designaciones:
+  - national_park
+  - ramsar
+  - unesco_whs
+  - natura2000
+  - iucn_ii
+especies:
+  - platalea_leucorodia
+  - anser_anser
+  - equus_caballus
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y paso migratorio otoñal
+  en: spring and autumn migration periods
+  fr: printemps et passage migratoire automnal
+  de: Frühjahr und herbstlicher Vogelzug
+  it: primavera e passo migratorio autunnale
+  pt: primavera e passagem migratória outonal
+masificacion: 2
+masificacion_nota:
+  es: Media en centros de visitantes de Illmitz y Podersdorf
+  en: Moderate at visitor centres in Illmitz and Podersdorf
+  fr: Moyenne aux centres d’accueil d’Illmitz et Podersdorf
+  de: Mäßig an den Besucherzentren in Illmitz und Podersdorf
+  it: Media presso i centri visite di Illmitz e Podersdorf
+  pt: Média nos centros de visitantes de Illmitz e Podersdorf
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Nationalpark Neusiedler See - Seewinkel
+    url: https://www.nationalparkneusiedlersee.at/
+  - titulo: Rutas — recorridos y observación en Seewinkel
+    url: https://www.nationalparkneusiedlersee.at/de/routen
+  - titulo: Normas — visita y observación de fauna
+    url: https://www.nationalparkneusiedlersee.at/de/verhaltensregeln
+  - titulo: Centro de visitantes — Nationalparkzentrum de Illmitz
+    url: https://www.nationalparkneusiedlersee.at/de/nationalparkzentrum
+  - titulo: Mapas — guía y puntos de observación del parque
+    url: https://www.nationalparkneusiedlersee.at/de/nationalpark-guide
+enlaces_referencia:
+  - titulo: UNESCO Fertő / Neusiedlersee Cultural Landscape
+    url: https://whc.unesco.org/en/list/772/
+resumen:
+  es: El único lago de estepa endorreico de Europa Central y su cinturón de cubetas salinas de Seewinkel.
+  en: Central Europe’s only endorheic steppe lake and its belt of saline shallow soda pans in Seewinkel.
+  fr: Le seul lac de steppe endoréique d’Europe centrale et son chapelet de cuvettes salines du Seewinkel.
+  de: Mitteleuropas einziger abflussloser Steppensee und sein Kranz flacher Salzlacken im Seewinkel.
+  it: L’unico lago di steppa endoreico dell’Europa centrale e la sua corona di bacini salini nel Seewinkel.
+  pt: O único lago esteépico endorreico da Europa Central e o seu anel de lagoas salinas em Seewinkel.
+unico:
+  es: >-
+    Un lago de estepa y unas 45 lagunas saladas en un mismo parque, en el cruce de cinco influencias
+    biológicas y de una frontera.
+  en: >-
+    A steppe lake and some 45 saline pans within a single national park, at the crossroads of five
+    biogeographical zones and an international border.
+  fr: >-
+    Un lac de steppe et quelque 45 lagunes salées réunis dans un même parc, au carrefour de cinq influences
+    biogéographiques et d’une frontière.
+  de: >-
+    Ein Steppensee und rund 45 salzige Lacken in einem einzigen Nationalpark, am Schnittpunkt von fünf
+    biogeografischen Einflüssen und einer Staatsgrenze.
+  it: >-
+    Un lago di steppa e circa 45 lagune salate racchiusi in un unico parco, all’incrocio di cinque influssi
+    biogeografici e di un confine di stato.
+  pt: >-
+    Um lago de estepe e cerca de 45 lagoas salgadas num mesmo parque, na encruzilhada de cinco influências
+    biogeográficas e de uma fronteira internacional.
+observaciones:
+  es: >-
+    Las puertas del parque están abiertas todo el año. En todo el parque rige la obligación de seguir los
+    caminos señalizados: si se abandonan, los animales huyen y quedan invisibles un tiempo. No se permite
+    acampar en el paisaje abierto ni encender hogueras. Los perros deben ir con correa, y está prohibido
+    arrancar plantas y llevarse animales vivos o muertos. Los caminos del Sandeck son de grava y solo los usan
+    los vehículos agrícolas.
+texto:
+  es:
+    intro: >-
+      Un lago de estepa, con orillas de carrizo que ocupan 180 km², y al este una llanura salpicada de lagunas
+      saladas que en verano se secan y se cubren de blanco. Eso es Neusiedler See–Seewinkel: el lugar donde
+      acaban los últimos contrafuertes orientales de los Alpes y empieza la pequeña llanura húngara. Un
+      espacio de frontera biológica, con influencias alpinas, panónicas, asiáticas, mediterráneas y nórdicas,
+      y con unas 350 especies de aves confirmadas.
+    landscape: >-
+      Casi un tercio de la superficie del parque es agua, y el mosaico de agua y prados da hábitat a muchas
+      especies. Entre el lago Neusiedl y el Hanság hay unas 45 lagunas saladas, con fauna y flora propias. En
+      los periodos secos aparecen en ellas las eflorescencias de sal, tan típicas del Seewinkel. Y en los
+      prados, el clima panónico obliga a las plantas a adaptarse a la sequía, el viento y la fuerte
+      insolación.
+
+
+      En primavera hay orquídeas en los bordes de los caminos, como la orquídea araña, que a principios de
+      mayo florece en masa.
+
+
+      En el Sandeck, los asnos blancos mantienen corta la vegetación con pisadas y mordiscos y evitan que
+      avancen los matorrales, y sus baños de arena abren claros para insectos que viven en la arena. Desde la
+      torre del Sandeck se abarca la inmensidad del Seewinkel, donde se encuentran la frontera austriaca y la
+      húngara, el agua y la tierra, el prado y el carrizal.
+    wildlife: >-
+      Aquí el protagonista es la primavera. El Seewinkel es una zona de descanso de limícolas en Europa
+      central, y su paso primaveral suele alcanzar su máximo en mayo; algunas especies siguen hasta junio.
+      Entre mediados de abril y mediados de mayo se oyen abubillas, papamoscas grises, zarceros icterinos y
+      ruiseñores en la orilla noroeste del Oberer Stinkersee.
+
+
+      En las lagunas de Illmitz, unas 15 especies de patos y 30 de limícolas descansan o crían. En los prados
+      húmedos crían limícolas y se ven los vuelos nupciales de la avefría; cerca se observan archibebes y
+      [agujas colinegras](/especie/limosa_limosa/). En Geiselsteller crían, no lejos del camino asfaltado, el
+      [chorlitejo patinegro](/especie/charadrius_alexandrinus/), la aguja colinegra, la avefría y el archibebe
+      común. En el punto álgido del paso, en mayo, y en julio y agosto se ven también correlimos. Y hay tanto
+      alimento que a menudo se ven [aguiluchos laguneros](/especie/circus_aeruginosus/) cazando.
+
+
+      En el sur, en Wasserstätten, hay cigüeñuelas, [avocetas](/especie/recurvirostra_avosetta/),
+      [combatientes](/especie/philomachus_pugnax/) y [espátulas](/especie/platalea_leucorodia/) que buscan
+      alimento en grupos grandes. El carrizal es cazadero ocasional de [águila de cola
+      blanca](/especie/haliaeetus_albicilla/) y [halcón peregrino](/especie/falco_peregrinus/). Con agua
+      suficiente se ven también [ánsares comunes](/especie/anser_anser/). A mediados de mayo es el mejor
+      momento para ver la curruca zarcera en el dique del lago.
+    visit: >-
+      El centro del parque nacional está en el borde norte de Illmitz, en el corazón de la parte austriaca. Es
+      el punto de información central y el de partida de muchas visitas guiadas y de rutas para descubrir por
+      cuenta propia. Su exposición incluye 10 islas de carrizo con animales naturalizados y paneles.
+
+
+      Desde el centro, una torre alta da buenas vistas del lago Illmitzer Zicksee, sobre todo por la mañana.
+      La gran ruta circular de Illmitzer Zicksee y Geiselsteller supera los 8 km y se recomienda en bicicleta.
+      La ruta Sandeck–Wasserstätten recorre prados, dique y torres; dos de las torres de observación del sur,
+      de 16 m, fueron antes torres fronterizas húngaras. Para ver aves en el paisaje llano hay 13 atalayas,
+      varias plataformas, una torre y dos antiguas torres fronterizas húngaras. Un observatorio elevado,
+      accesible en silla de ruedas, permite buscar aves acuáticas en Oberer Stinkersee y Lettengrube.
+
+
+      Por las distancias largas, lleva prismáticos potentes o un telescopio y llega antes del amanecer.
+    history: >-
+      El parque nacional se creó en 1993. Antes, la Lange Lacke, la mayor y más conocida laguna, estuvo a
+      punto de destruirse, y esa amenaza impulsó la fundación del WWF Austria en 1963. Cuatro guardas del
+      parque vigilan hoy la red de caminos en las zonas de conservación.
+    before: >-
+      Las puertas del parque están abiertas todo el año. En todo el parque rige la obligación de seguir los
+      caminos señalizados: si se abandonan, los animales huyen y quedan invisibles un tiempo. No se permite
+      acampar en el paisaje abierto ni encender hogueras. Los perros deben ir con correa, y está prohibido
+      arrancar plantas y llevarse animales vivos o muertos. Los caminos del Sandeck son de grava y solo los
+      usan los vehículos agrícolas.
+    around: >-
+      A solo 3 km está el [Parque Nacional Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/), al otro
+      lado de la frontera. Más lejos, el [Parque Nacional Donau-Auen](/lugar/nationalpark-donau-auen/) es otro
+      espacio fluvial. Entre los humedales lejanos que comparten con el Seewinkel el ánsar común, la [Reserva
+      Natural Lagunas de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), el [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/), el [Parque Nacional del Delta del
+      Evros](/lugar/ethniko-parko-delta-evrou/) y la [Reserva Natural Estricta de
+      Teiči](/lugar/teicu-dabas-rezervats/) (parientes lejanos del mismo tipo de humedal).
+
+      Más lejos, comparten con el Seewinkel el hábitat de humedal y el ánsar común la [Reserva Natural Lagunas
+      de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), el [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/), el [Parque Nacional del Delta del
+      Evros](/lugar/ethniko-parko-delta-evrou/) y la [Reserva Natural Estricta de
+      Teiči](/lugar/teicu-dabas-rezervats/).
+  en:
+    intro: >-
+      A steppe lake fringed by reedbeds spanning 180 km², and to its east a lowland plain studded with saline
+      pans that dry out in summer beneath a white crust of crystallized salts. This is Neusiedler
+      See–Seewinkel: where the easternmost foothills of the Alps subside and the Little Hungarian Plain
+      begins. A biogeographical frontier convergence displaying Alpine, Pannonian, Asian, Mediterranean and
+      boreal elements, supporting some 350 verified bird species.
+    landscape: >-
+      Nearly one third of the park’s surface is water, and this dynamic mosaic of wetlands and meadows
+      provides habitat for countless specialized species. Between Lake Neusiedl and the Hanság region lie
+      roughly 45 shallow soda pans, each with distinct aquatic ecology. During dry summer spells, stark white
+      salt efflorescences form on their dry lake beds, creating the trademark scenery of Seewinkel. Across
+      adjacent grasslands, the continental Pannonian climate compels steppe flora to endure prolonged drought,
+      sweeping winds and intense solar radiation.
+
+
+      In spring, orchids flank the verges and tracks, most notably the early spider orchid, which bursts into
+      mass bloom by early May.
+
+
+      At Sandeck, herds of white baroque donkeys keep the open grassland cropped through intensive grazing and
+      trampling, halting the spread of scrub, while their dust-bathing hollows create essential exposed sandy
+      spots for ground-dwelling insects. From the Sandeck observation tower you look out over the boundless
+      Seewinkel panorama, where Austrian and Hungarian borders meet, where open water meets steppe earth, and
+      where meadow blends into vast reed marshes.
+    wildlife: >-
+      Spring is the undisputed highlight of the biological cycle. The Seewinkel serves as a crucial inland
+      staging and refuelling station for waders across Central Europe, with northward spring migration peaking
+      throughout May; select species linger well into June. Between mid-April and mid-May, hoopoes, spotted
+      flycatchers, icterine warblers and nightingales sing loudly along the northwestern margin of the Oberer
+      Stinkersee.
+
+
+      Across the saline pans near Illmitz, around 15 duck species and 30 wader species breed or stage. Wet
+      meadows host breeding lapwings displaying aerial courtship flights; nearby you can spot redshanks and
+      [black-tailed godwit](/especie/limosa_limosa/). At Geiselsteller, nesting close to the paved track, are
+      [kentish plover](/especie/charadrius_alexandrinus/), black-tailed godwit, northern lapwing and common
+      redshank. During the peak migratory passage in May, as well as July and August, diverse calidrid
+      sandpipers assemble. The bounty of prey regularly attracts hunting [marsh
+      harrier](/especie/circus_aeruginosus/).
+
+
+      To the south around Wasserstätten, black-winged stilts, [pied avocet](/especie/recurvirostra_avosetta/),
+      [ruff](/especie/philomachus_pugnax/) and [eurasian spoonbill](/especie/platalea_leucorodia/) forage in
+      dense flocks. The extensive reed belt forms occasional hunting grounds for [white-tailed
+      eagle](/especie/haliaeetus_albicilla/) and [peregrine falcon](/especie/falco_peregrinus/). With ample
+      water levels you encounter abundant [greylag goose](/especie/anser_anser/). Mid-May offers the optimal
+      window to observe barred warblers along the lake dam.
+    visit: >-
+      The national park visitor centre stands on the northern edge of Illmitz, at the core of the Austrian
+      park territory. It functions as the central orientation hub and departure point for guided nature
+      excursions and self-guided discovery walks. Its permanent exhibition features 10 reed islands with
+      mounted wildlife specimens and educational displays.
+
+
+      Adjacent to the visitor centre, a viewing tower provides panoramas over the Illmitzer Zicksee,
+      especially radiant in early morning light. The comprehensive circular trail encircling Illmitzer Zicksee
+      and Geiselsteller extends beyond 8 km and is best tackled by bicycle. The Sandeck–Wasserstätten route
+      traverses meadows, lakeside dykes and multiple vantage points; two 16 m southern viewing towers were
+      originally Hungarian frontier watchtowers. To survey birdlife across this flat topography, you have 13
+      observation platforms and hides, elevated lookouts, a tower and two former border watchtowers. An
+      elevated accessible bird hide enables barrier-free birdwatching across Oberer Stinkersee and
+      Lettengrube.
+
+
+      Given the immense open distances, carry high-magnification binoculars or a spotting scope, and arrive
+      before sunrise.
+    history: >-
+      The national park was officially established in 1993. Decades earlier, the Lange Lacke—the largest and
+      most renowned soda lake—faced imminent drainage for agriculture, and that conservation crisis catalyzed
+      the founding of WWF Austria in 1963. Today four national park rangers patrol the extensive path network
+      throughout the nature reserves.
+    before: >-
+      The national park remains open year-round. Across all sectors visitors are legally required to stay
+      strictly on marked paths: stepping off trails flushes resting waterfowl, rendering them elusive for
+      hours. Wild camping and open fires are strictly forbidden throughout the open countryside. Dogs must be
+      kept on short leashes, and picking flora or taking specimens alive or dead is strictly outlawed. The
+      agricultural tracks through Sandeck are unpaved gravel and reserved exclusively for farm management.
+    around: >-
+      Just 3 km away lies [Fertő-Hanság National Park](/lugar/ferto-hansag-nemzeti-park---hansag/) across the
+      Hungarian border. Farther afield along the Danube, [Donau-Auen National
+      Park](/lugar/nationalpark-donau-auen/) preserves riverine wetland wilderness. Among distant European
+      wetlands that share wintering greylag goose populations and related steppe-marsh habitats with Seewinkel
+      are [Lagunas de Villafáfila Natural Reserve](/lugar/reserva-natural-lagunas-de-villafafila/), [Doñana
+      National Park](/lugar/parque-nacional-de-donana/), [Evros Delta National
+      Park](/lugar/ethniko-parko-delta-evrou/) and [Teiči Strict Nature
+      Reserve](/lugar/teicu-dabas-rezervats/).
+
+      Farther afield, sharing wetland habitat and greylag geese with Seewinkel are [Lagunas de Villafáfila
+      Natural Reserve](/lugar/reserva-natural-lagunas-de-villafafila/), [Doñana National
+      Park](/lugar/parque-nacional-de-donana/), [Evros Delta National Park](/lugar/ethniko-parko-delta-evrou/)
+      and [Teiči Strict Nature Reserve](/lugar/teicu-dabas-rezervats/).
+  fr:
+    intro: >-
+      Un vaste lac de steppe ceinturé de roselières couvrant 180 km², bordé à l’est par une plaine parsemée de
+      cuvettes salées qui s’assèchent en été sous un voile de sel étincelant. Tel est le paysage de Neusiedler
+      See–Seewinkel : là où expirent les ultimes contreforts orientaux des Alpes et où s’ouvre la petite
+      plaine hongroise. Un carrefour biogéographique singulier où se croisent influences alpines,
+      pannoniennes, asiatiques, méditerranéennes et boréales, accueillant quelque 350 espèces d’oiseaux
+      répertoriées.
+    landscape: >-
+      Près d’un tiers de la superficie du parc est occupé par l’eau, et cette alternance de plans d’eau et de
+      prairies sert d’habitat à d’innombrables taxons. Entre le lac de Neusiedl et le Hanság s’égrènent
+      environ 45 lagunes salées pourvues d’un écosystème remarquable. Pendant les chaleurs estivales, des
+      efflorescences blanchâtres apparaissent sur les fonds asséchés, composant le visage emblématique du
+      Seewinkel. Dans les steppes environnantes, le climat pannonien impose aux végétaux de résister à la
+      sécheresse, aux vents constants et au fort ensoleillement.
+
+
+      Au printemps, les orchidées s’épanouissent le long des bas-côtés, à l’instar de l’ophrys araignée qui
+      fleurit en abondance dès le début du mois de mai.
+
+
+      Au Sandeck, des hardes d’ânes blancs maintiennent la végétation rase par leur pâturage et leur
+      piétinement, empêchant l’enfrichement ; leurs roulades dans le sable ouvrent de précieuses trouées pour
+      les invertébrés arénicoles. Depuis la tour du Sandeck, le regard embrasse toute l’étendue du Seewinkel,
+      là où convergent les frontières autrichienne et hongroise, l’eau libre et la steppe, le pâturage et
+      l’immense roselière.
+    wildlife: >-
+      Le printemps constitue ici l’apogée de la vie sauvage. Le Seewinkel est une halte migratoire majeure
+      pour les limicoles en Europe centrale, dont le passage printanier atteint son pic en mai, certaines
+      espèces prolongeant leur séjour jusqu’en juin. De la mi-avril à la mi-mai, la huppe fasciée, le
+      gobe-mouche gris, l’hypolaïs ictérine et le rossignol philomèle se font entendre sur la rive nord-ouest
+      de l’Oberer Stinkersee.
+
+
+      Dans les dépressions salines d’Illmitz, environ 15 espèces de canards et 30 de limicoles nichent ou font
+      étape. Les prés humides accueillent la nidification du vanneau huppé et ses parades aériennes ; à
+      proximité s’observent chevaliers et [barge à queue noire](/especie/limosa_limosa/). À Geiselsteller se
+      reproduisent, non loin du ruban asphalté, le [gravelot à collier
+      interrompu](/especie/charadrius_alexandrinus/), la barge à queue noire, le vanneau huppé et le chevalier
+      gambette. Au plus fort du flux migratoire en mai, puis en juillet et août, défilent divers bécasseaux.
+      Cette abondance attire assidûment le [busard des roseaux](/especie/circus_aeruginosus/) en chasse.
+
+
+      Au sud, vers Wasserstätten, échasses blanches, [avocette élégante](/especie/recurvirostra_avosetta/),
+      [combattant varié](/especie/philomachus_pugnax/) et [spatule blanche](/especie/platalea_leucorodia/)
+      s’alimentent en rassemblements denses. Les roselières servent de terrain de chasse occasionnel au
+      [pygargue à queue blanche](/especie/haliaeetus_albicilla/) et au [faucon
+      pèlerin](/especie/falco_peregrinus/). Quand les eaux sont abondantes, on admire d’importants groupes
+      d’[oie cendrée](/especie/anser_anser/). La mi-mai représente le moment rêvé pour guetter la fauvette
+      épervière sur la digue du lac.
+    visit: >-
+      La maison du parc national se dresse à la lisière nord d’Illmitz, au cœur du secteur autrichien. C’est
+      le point névralgique d’accueil et le départ privilégié des visites encadrées et des circuits en
+      autonomie. Son exposition pédagogique compte 10 îlots de roseaux scénographiés avec faune naturalisée et
+      panneaux didactiques.
+
+
+      Près du centre, un belvédère offre de superbes perspectives sur l’Illmitzer Zicksee, splendide sous les
+      lueurs matinales. Le grand itinéraire circulaire d’Illmitzer Zicksee et de Geiselsteller dépasse les 8
+      km et se parcourt idéalement à vélo. La boucle Sandeck–Wasserstätten sillonne pâturages, digues et
+      postes d’observation ; au sud, deux miradors de 16 m étaient autrefois des miradors de surveillance
+      frontalière hongrois. Pour contempler les oiseaux à travers ces étendues planes, vous disposez de 13
+      postes d’affût, plusieurs plates-formes, une tour et deux anciennes tours de guet frontalières. Un
+      observatoire surélevé, accessible en fauteuil roulant, permet de scruter les oiseaux d’eau à Oberer
+      Stinkersee et Lettengrube.
+
+
+      En raison des vastes dégagements, munissez-vous de jumelles à fort grossissement ou d’une longue-vue et
+      arrivez avant l’aube.
+    history: >-
+      Le parc national a vu le jour en 1993. Des décennies plus tôt, le Lange Lacke, le plus vaste et
+      emblématique plan d’eau salé, avait failli être asséché, et cette mobilisation pour sa sauvegarde avait
+      déclenché la fondation du WWF Autriche en 1963. Quatre gardes patrouillent aujourd’hui le réseau de
+      chemins au sein des zones de protection intégrale.
+    before: >-
+      Le parc reste ouvert toute l’année. L’obligation de ne jamais quitter les sentiers balisés s’applique
+      avec rigueur : s’en écarter effarouche la faune aquatique, la rendant invisible pendant de longues
+      heures. Le bivouac sauvage et les feux sont formellement prohibés. Les chiens doivent être tenus en
+      laisse courte, et il est interdit d’arracher des végétaux ou de prélever des spécimens vivants ou morts.
+      Les pistes traversant le Sandeck sont empierrées et réservées aux engins agricoles autorisés.
+    around: >-
+      À 3 km à peine se trouve le [Parc national Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/), de
+      l’autre côté de la frontière. Plus loin, le [Parc national Donau-Auen](/lugar/nationalpark-donau-auen/)
+      préserve un autre joyau alluvial. Parmi les zones humides lointaines partageant avec le Seewinkel
+      l’hivernage de l’oie cendrée figurent la [Réserve naturelle des lagunes de
+      Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), le [Parc national de
+      Doñana](/lugar/parque-nacional-de-donana/), le [Parc national du delta de
+      l’Évros](/lugar/ethniko-parko-delta-evrou/) et la [Réserve naturelle intégrale de
+      Teiči](/lugar/teicu-dabas-rezervats/).
+
+      Plus loin, partagent avec le Seewinkel l’écosystème de zone humide et l’oie cendrée la [Réserve
+      naturelle des lagunes de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), le [Parc national
+      de Doñana](/lugar/parque-nacional-de-donana/), le [Parc national du delta de
+      l’Évros](/lugar/ethniko-parko-delta-evrou/) et la [Réserve naturelle intégrale de
+      Teiči](/lugar/teicu-dabas-rezervats/).
+  de:
+    intro: >-
+      Ein Steppensee mit Schilfgürteln von 180 km² Fläche und östlich davon eine weite Ebene voller seichter
+      Salzlacken, die im Hochsommer trockenfallen und sich weiß färben. Das ist der Neusiedler See–Seewinkel:
+      der Landstrich, an dem die letzten Ostausläufer der Alpen enden und die Kleine Ungarische Tiefebene
+      ihren Anfang nimmt. Ein Grenzraum der Artenvielfalt mit alpinen, pannonischen, asiatischen, mediterranen
+      und nordischen Faunenelementen sowie rund 350 nachgewiesenen Vogelarten.
+    landscape: >-
+      Nahezu ein Drittel der Parkfläche besteht aus Wasser, und dieses Mosaik aus Flachwasserzonen und
+      Weideland bietet unzähligen Arten Lebensraum. Zwischen dem Neusiedler See und dem Hanság liegen etwa 45
+      salzhaltige Sodalacken mit ganz eigener Wasserwelt. In sommerlichen Trockenphasen treten auf ihren Böden
+      die weithin sichtbaren Salzkrusten zutage, die dem Seewinkel sein unverwechselbares Gepräge verleihen.
+      Auf den Steppenweiden zwingt das pannonische Klima die Pflanzenwelt zur Anpassung an Trockenheit, steten
+      Wind und intensive Einstrahlung.
+
+
+      Im Frühling blühen wilde Orchideen an den Wegen, darunter die Spinnen-Ragwurz, die Anfang Mai massenhaft
+      ihre Blüten entfaltet.
+
+
+      Am Sandeck halten weiße Barockesel durch Fraß und Hufschlag die Vegetation kurz und verhindern das
+      Verbuschen der Steppen; ihre Sandbäder schaffen vegetationsfreie Bodenstellen für wärmeliebende
+      Sandinsekten. Vom Sandeck-Aussichtsturm überblickst du die Weite des Seewinkels, wo sich österreichische
+      und ungarische Grenze berühren, wo offenes Wasser in Steppenböden übergeht und Feuchtwiesen an endlose
+      Schilfwälder grenzen.
+    wildlife: >-
+      Das Frühjahr bildet den unbestrittenen Höhepunkt des Naturjahres. Der Seewinkel ist ein
+      mitteleuropäischer Hauptrastplatz für Watvögel, dessen Frühjahrszug im Mai seinen Höhepunkt erreicht;
+      einige Arten ziehen bis in den Juni hinein durch. Zwischen Mitte April und Mitte Mai ertönen Wiedehopf,
+      Grauschnäpper, Gelbspötter und Nachtigall am Nordwestufer des Oberen Stinkersees.
+
+
+      In den Lacken um Illmitz rasten oder brüten rund 15 Entenarten und 30 Limikolenarten. Auf den
+      Feuchtwiesen balzen Kiebitze im Flug; nahebei lassen sich Schenkel und
+      [Uferschnepfe](/especie/limosa_limosa/) beobachten. Am Geiselsteller brüten unweit der Asphaltstraße
+      [Seeregenpfeifer](/especie/charadrius_alexandrinus/), Uferschnepfe, Kiebitz und Rotschenkel. Zum
+      Höhepunkt des Durchzugs im Mai sowie im Juli und August stellen sich diverse Strandläufer ein. Dieses
+      reiche Nahrungsangebot lockt regelmäßig die [Rohrweihe](/especie/circus_aeruginosus/) zur Jagd.
+
+
+      Im Süden bei Wasserstätten suchen Stelzenläufer, [Säbelschnäbler](/especie/recurvirostra_avosetta/),
+      [Kampfläufer](/especie/philomachus_pugnax/) und [Löffler](/especie/platalea_leucorodia/) in großen
+      Trupps nach Nahrung. Der Schilfgürtel dient als gelegentliches Jagdrevier für
+      [Seeadler](/especie/haliaeetus_albicilla/) und [Wanderfalke](/especie/falco_peregrinus/). Bei gutem
+      Wasserstand versammeln sich zahlreiche [Graugänse](/especie/anser_anser/). Mitte Mai ist zudem die beste
+      Zeit, um die Sperbergrasmücke am Seedamm zu erspähen.
+    visit: >-
+      Das Nationalparkzentrum liegt am Nordrand von Illmitz im Herzen des österreichischen Parkteils. Es
+      bildet die zentrale Anlaufstelle und den Ausgangspunkt für geführte Touren und eigene Erkundungen. Seine
+      Dauerausstellung umfasst 10 Schilfinseln mit Tierpräparaten und Informationstafeln.
+
+
+      Direkt am Zentrum eröffnet ein hoher Aussichtsturm weite Blicke über den Illmitzer Zicksee, besonders
+      stimmungsvoll im Morgenlicht. Die große Radrundtour um den Illmitzer Zicksee und Geiselsteller misst
+      über 8 km. Die Route Sandeck–Wasserstätten führt durch Hutweiden, Dämme und Beobachtungspunkte; zwei der
+      südlichen, 16 m hohen Beobachtungstürme dienten früher als ungarische Grenztürme. Zur Vogelbeobachtung
+      in der weiten Flachebene stehen 13 Aussichtspunkte, Plattformen, ein Turm und zwei einstige Grenztürme
+      bereit. Ein barrierefreier Hochstand ermöglicht die Beobachtung von Wasservögeln am Oberen Stinkersee
+      und der Lettengrube.
+
+
+      Wegen der weiten Distanzen solltest du ein lichtstarkes Fernglas oder Spektiv mitführen und vor
+      Sonnenaufgang aufbrechen.
+    history: >-
+      Der Nationalpark wurde 1993 gegründet. Zuvor stand die Lange Lacke, das größte und bekannteste Gewässer
+      der Region, kurz vor der Trockenlegung für Agrarflächen; dieser drohende Verlust war 1963 der Anlass zur
+      Gründung des WWF Österreich. Vier Nationalpark-Ranger überwachen heute das Wegenetz in den Naturzonen.
+    before: >-
+      Der Nationalpark ist das ganze Jahr über zugänglich. Im gesamten Gebiet gilt ein striktes Wegegebot: Wer
+      die markierten Pfade verlässt, scheucht ruhende Vögel auf, die sich lange Zeit verbergen. Wildes Zelten
+      und offenes Feuer sind in der offenen Landschaft verboten. Hunde müssen ausnahmslos an der Leine geführt
+      werden; das Ausreißen von Pflanzen oder Mitnehmen lebender oder toter Tiere ist untersagt. Die Wege am
+      Sandeck sind Schotterpisten und landwirtschaftlichen Nutzfahrzeugen vorbehalten.
+    around: >-
+      Nur 3 km entfernt erstreckt sich jenseits der Staatsgrenze der ungarische
+      [Fertő-Hanság-Nationalpark](/lugar/ferto-hansag-nemzeti-park---hansag/). Weiter flussaufwärts an der
+      Donau schützt der [Nationalpark Donau-Auen](/lugar/nationalpark-donau-auen/) dynamische
+      Flusslandschaften. Zu den weiter entfernten europäischen Feuchtgebieten, die mit dem Seewinkel die
+      rastende Graugans teilen, gehören das [Naturschutzgebiet Lagunas de
+      Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), der [Nationalpark
+      Doñana](/lugar/parque-nacional-de-donana/), der [Nationalpark
+      Evros-Delta](/lugar/ethniko-parko-delta-evrou/) sowie das [Strenge Naturreservat
+      Teiči](/lugar/teicu-dabas-rezervats/).
+
+      Weiter entfernt teilen den Feuchtbiotop-Charakter und die Graugans mit dem Seewinkel das
+      [Naturschutzgebiet Lagunas de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), der
+      [Nationalpark Doñana](/lugar/parque-nacional-de-donana/), der [Nationalpark
+      Evros-Delta](/lugar/ethniko-parko-delta-evrou/) und das [Strenge Naturreservat
+      Teiči](/lugar/teicu-dabas-rezervats/).
+  it:
+    intro: >-
+      Un lago steppico orlato da canneti che si estendono per 180 km², e a oriente una pianura punteggiata da
+      lagune saline che in estate prosciugano coprendosi di croste bianche di sale. Questo è il Neusiedler
+      See–Seewinkel: il territorio in cui degradano gli ultimi contrafforti orientali delle Alpi e comincia la
+      Piccola Pianura Ungherese. Una cerniera biogeografica in cui si sovrappongono influenze alpine,
+      pannoniche, asiatiche, mediterranee e boreali, con circa 350 specie di uccelli accertate.
+    landscape: >-
+      Quasi un terzo della superficie del parco è coperto d’acqua, e il mosaico di specchi umidi e prati offre
+      rifugio a una moltitudine di specie. Tra il lago di Neusiedl e l’Hanság si contano circa 45 bacini
+      salini temporanei, provvisti di una flora e una fauna peculiare. Nei periodi siccitosi si manifestano
+      sul fondo le caratteristiche efflorescenze saline del Seewinkel. Nelle praterie circostanti, il clima
+      pannonico impone alle piante di resistere all’aridità, ai venti sferzanti e alla forte insolazione
+      estiva.
+
+
+      In primavera i cigli dei sentieri si colorano di orchidee selvatiche, fra cui l’ofride ragno, che
+      fiorisce diffusamente all’inizio di maggio.
+
+
+      Nel Sandeck, mandrie di asini bianchi barocchi mantengono la vegetazione erbacea rasata tramite
+      brucatura e calpestio, impedendo l’avanzata dei cespuglieti; i loro bagni di sabbia aprono radure
+      essenziali per gli insetti legati al suolo sabbioso. Dalla torre d’avvistamento del Sandeck si domina
+      l’immensità del Seewinkel, punto d’incontro tra il confine austriaco e quello ungherese, fra l’acqua e
+      la terraferma, fra le praterie e le sconfinate distese di canne.
+    wildlife: >-
+      La primavera è il momento più spettacolare dell’anno biologico. Il Seewinkel rappresenta una delle
+      principali tappe di sosta per i limicoli nell’Europa centrale, e il loro passo primaverile tocca il
+      culmine in maggio, con alcune specie che proseguono fino a giugno. Tra metà aprile e metà maggio si
+      odono upupe, pigliamosche, canapini comuni e usignoli lungo la sponda nord-occidentale dell’Oberer
+      Stinkersee.
+
+
+      Nelle conche saline attorno a Illmitz sostano o nidificano circa 15 specie di anatre e 30 specie di
+      limicoli. Nelle praterie allagate nidifica la pavoncella con le sue evoluzioni aeree; poco lontano si
+      osservano pettegole e [pittima reale](/especie/limosa_limosa/). A Geiselsteller nidificano a breve
+      distanza dal tracciato asfaltato il [fratino](/especie/charadrius_alexandrinus/), la pittima reale, la
+      pavoncella e il pettegola comune. Nei momenti di massimo passaggio migratorio, a maggio, nonché a luglio
+      e agosto, fanno sosta diversi piovanelli. Questa straordinaria disponibilità trofica attira regolarmente
+      il [falco di palude](/especie/circus_aeruginosus/) a caccia.
+
+
+      A sud, nella zona di Wasserstätten, cavalieri d’Italia, [avocetta](/especie/recurvirostra_avosetta/),
+      [combattente](/especie/philomachus_pugnax/) e [spatola](/especie/platalea_leucorodia/) setacciano le
+      acque basse in fitti stormi. I canneti costituiscono zona di caccia occasionale per l’[aquila di
+      mare](/especie/haliaeetus_albicilla/) e il [falco pellegrino](/especie/falco_peregrinus/). Con livelli
+      d’acqua favorevoli si radunano grandi gruppi di [oca selvatica](/especie/anser_anser/). Verso metà
+      maggio si presenta il momento ideale per avvistare la bigia padovana lungo la scogliera arginale del
+      lago.
+    visit: >-
+      La sede e centro visite del parco sorge al margine settentrionale di Illmitz, nel cuore del settore
+      austriaco. Rappresenta il punto informativo primario e la base di partenza per visite guidate ed
+      escursioni individuali. La sala espositiva ospita 10 isole tematiche di canneto allestite con animali
+      tassidermizzati e pannelli didattici.
+
+
+      Presso il centro, un’alta torretta consente magnifici scorci panoramici sull’Illmitzer Zicksee,
+      soprattutto nelle ore mattutine. L’ampio itinerario ad anello che abbraccia l’Illmitzer Zicksee e
+      Geiselsteller misura oltre 8 km ed è particolarmente consigliato in bicicletta. Il percorso
+      Sandeck–Wasserstätten attraversa pascoli, argini e capanni; due delle torri di osservazione meridionali,
+      alte 16 m, erano originariamente torrette di confine ungheresi. Per praticare il birdwatching su questo
+      orizzonte pianeggiante sono disponibili 13 capanni e piattaforme, un’alta torre e due antiche torrette
+      confinarie. Un osservatorio sopraelevato con rampa per disabili permette l’avvistamento dell’avifauna
+      palustre sull’Oberer Stinkersee e a Lettengrube.
+
+
+      Date le distanze notevoli, porta con te un binocolo potente o un cannocchiale e comincia l’escursione
+      prima dell’alba.
+    history: >-
+      Il parco nazionale è stato formalmente istituito nel 1993. Decenni prima, la Lange Lacke, il più esteso
+      e rinomato specchio salmastro, rischiò la bonifica e il prosciugamento per fini agricoli; proprio quella
+      mobilitazione portò nel 1963 alla fondazione del WWF Austria. Quattro guardaparco vigilano oggi
+      costantemente sulla rete dei tracciati nelle aree protette.
+    before: >-
+      Il parco è aperto al pubblico durante tutto l’anno. Vige ovunque l’obbligo inderogabile di attenersi ai
+      soli percorsi segnalati: uscire dai sentieri mette in fuga la fauna selvatica, rendendola invisibile per
+      molte ore. Il campeggio libero e l’accensione di fuochi sono severamente vietati. I cani devono essere
+      condotti al guinzaglio corto ed è proibito raccogliere specie vegetali o asportare esemplari vivi o
+      morti. Le piste sterrate che attraversano Sandeck sono in ghiaia e riservate unicamente ai mezzi
+      agricoli autorizzati.
+    around: >-
+      A soli 3 km si raggiunge il [Parco Nazionale Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/),
+      sul versante ungherese. Più a monte lungo il Danubio, il [Parco Nazionale
+      Donau-Auen](/lugar/nationalpark-donau-auen/) tutela un grande ecosistema fluviale. Tra le zone umide
+      europee più distanti che condividono con il Seewinkel la presenza dell’oca selvatica e habitat simili si
+      annoverano la [Riserva Naturale Lagunas de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/),
+      il [Parco Nazionale di Doñana](/lugar/parque-nacional-de-donana/), il [Parco Nazionale del Delta
+      dell’Evros](/lugar/ethniko-parko-delta-evrou/) e la [Riserva Naturale Integrale di
+      Teiči](/lugar/teicu-dabas-rezervats/).
+
+      Più a distanza, condividono con il Seewinkel l’ambiente palustre e l’oca selvatica la [Riserva Naturale
+      Lagunas de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), il [Parco Nazionale di
+      Doñana](/lugar/parque-nacional-de-donana/), il [Parco Nazionale del Delta
+      dell’Evros](/lugar/ethniko-parko-delta-evrou/) e la [Riserva Naturale Integrale di
+      Teiči](/lugar/teicu-dabas-rezervats/).
+  pt:
+    intro: >-
+      Um lago esteépico orlado por caniçais que cobrem 180 km², tendo a leste uma planície salpicada de lagoas
+      salinas que secam no verão sob uma crosta reluzente de sal. Assim se define o Neusiedler See–Seewinkel:
+      o sítio onde expiram as últimas estirpes orientais dos Alpes e se inicia a Pequena Planície Húngara. Um
+      espaço de confluência biogeográfica com marcas alpinas, panónicas, asiáticas, mediterrânicas e boreais,
+      onde se confirmam perto de 350 espécies de aves.
+    landscape: >-
+      Quase um terço da área do parque é água, e este mosaico límnico e herbáceo acolhe inúmeras espécies
+      adaptadas. Entre o lago de Neusiedl e Hanság distribuem-se cerca de 45 lagoas salgadas, com fauna e
+      flora exclusivas. Nos períodos de estio instalam-se as eflorescências de sal, imagem de marca do
+      Seewinkel. Nas pastagens, o clima panónico obriga a vegetação a suportar a secura, ventos constantes e
+      radiação solar severa.
+
+
+      Na primavera desabrocham orquídeas bravias nos taludes, como a erva-aranha, que no início de maio
+      floresce com exuberância.
+
+
+      Em Sandeck, manadas de burros brancos mantêm as pastagens aparadas pelo dente e pelo pisoteio, travando
+      o avanço dos matos; as suas bacias de banho de areia abrem clareiras indispensáveis a insetos
+      arenícolas. Do miradouro de Sandeck avista-se a imensidão do Seewinkel, onde convergem a fronteira
+      austríaca e a húngara, a água e a terra firme, o prado e os imensos caniçais.
+    wildlife: >-
+      A primavera é o período rei da vida animal. O Seewinkel funciona como área de repouso vital para
+      limícolas na Europa central, com o fluxo migratório da primavera a culminar em maio, protelando-se em
+      certas espécies até junho. Entre meados de abril e meados de maio escutam-se poupas,
+      taralhões-cinzentos, felosas-icterinas e rouxinóis na margem noroeste do Oberer Stinkersee.
+
+
+      Nas lagoas salinas de Illmitz nidificam ou repousam perto de 15 espécies de patos e 30 de limícolas. Nos
+      prados húmidos criam abibes exibindo voos acrobáticos; por perto avistam-se perna-vermelhas e o
+      [maçarico-de-bico-direito](/especie/limosa_limosa/). Em Geiselsteller nidificam, perto do piso
+      alcatroado, o [borrelho-de-coleira-interrompida](/especie/charadrius_alexandrinus/), o
+      maçarico-de-bico-direito, o abibe e o perna-vermelha-comum. No clímax da migração em maio, bem como em
+      julho e agosto, observam-se pilritos variados. A abundância de alimento atrai com regularidade o
+      [tártaranhão-ruivo-dos-pauis](/especie/circus_aeruginosus/) em caçada.
+
+
+      A sul, no setor de Wasserstätten, pernilongos, a [alfaiate](/especie/recurvirostra_avosetta/), o
+      [combatente](/especie/philomachus_pugnax/) e o [colhereiro](/especie/platalea_leucorodia/) buscam
+      alimento em grandes bandos. Os caniçais são terreno de caça do
+      [águia-rabalva](/especie/haliaeetus_albicilla/) e do [falcão-peregrino](/especie/falco_peregrinus/).
+      Havendo níveis adequados de água concentram-se bandos de [ganso-comum](/especie/anser_anser/). Em meados
+      de maio é a melhor altura para surpreender a felosa-gavião no dique lacustre.
+    visit: >-
+      O centro interpretativo do parque localiza-se na orla norte de Illmitz, no coração da porção austríaca.
+      É o núcleo central de atendimento e partida para visitas orientadas ou circuitos livres. A sua sala
+      museológica exibe 10 ilhas temáticas de caniçal com animais naturalizados e suportes gráficos.
+
+
+      Junto ao centro ergue-se uma torre com belas perspetivas sobre o Illmitzer Zicksee, especialmente
+      fotogénico ao alvorecer. O grande circuito circular do Illmitzer Zicksee e Geiselsteller excede os 8 km
+      e aconselha-se em bicicleta. A rota Sandeck–Wasserstätten cruza prados, diques e abrigos; dois dos
+      postos de vigia do sul, com 16 m de altura, foram outrora torres de fronteira húngaras. Para observar
+      avifauna nesta topografia rasa tens 13 postos de observação e plataformas, uma torre e duas antigas
+      vigias de fronteira. Um observatório sobrelevado, acessível em cadeira de rodas, facilita a observação
+      em Oberer Stinkersee e Lettengrube.
+
+
+      Em virtude das grandes distâncias, leva binóculos de grande alcance ou telescópio terrestre e chega
+      antes do nascer do sol.
+    history: >-
+      O parque nacional foi criado em 1993. Décadas antes, a Lange Lacke, a maior e mais emblemática lagoa,
+      esteve sob risco de drenagem para cultivo, e esse alerta estimulou a fundação do WWF Áustria em 1963.
+      Quatro vigilantes da natureza asseguram atualmente a monitorização dos trilhos nas zonas de proteção
+      estrita.
+    before: >-
+      As portas do parque mantêm-se abertas o ano inteiro. Em todo o território vigora a imposição de caminhar
+      estritamente pelos trilhos marcados: desviar-se assusta a fauna, tornando-a esquiva por longas horas. O
+      campismo livre e fogueiras são proibidos em todo o campo aberto. Os cães têm de circular com trela
+      curta, sendo expressamente vedado colher plantas ou recolher animais vivos ou mortos. Os caminhos do
+      setor Sandeck são em gravilha e de circulação adstrita a veículos agrícolas.
+    around: >-
+      A apenas 3 km alcança-se o [Parque Nacional Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/),
+      no lado húngaro. Mais a montante ao longo do Danúbio, o [Parque Nacional
+      Donau-Auen](/lugar/nationalpark-donau-auen/) conserva habitats fluviais. Entre as zonas húmidas
+      distantes que partilham com o Seewinkel o ganso-comum constam a [Reserva Natural das Lagoas de
+      Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), o [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/), o [Parque Nacional do Delta do
+      Evros](/lugar/ethniko-parko-delta-evrou/) e a [Reserva Natural Estrita de
+      Teiči](/lugar/teicu-dabas-rezervats/).
+
+      Mais longe, partilham com o Seewinkel o biótopo aquático e o ganso-comum a [Reserva Natural das Lagoas
+      de Villafáfila](/lugar/reserva-natural-lagunas-de-villafafila/), o [Parque Nacional de
+      Doñana](/lugar/parque-nacional-de-donana/), o [Parque Nacional do Delta do
+      Evros](/lugar/ethniko-parko-delta-evrou/) e a [Reserva Natural Estrita de
+      Teiči](/lugar/teicu-dabas-rezervats/).
+fuentes:
+  - url: https://www.nationalparkneusiedlersee.at/de/%C3%BCber-uns
+    titulo: Schützenswertes Juwel | Nationalpark Neusiedler See - Seewinkel
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/routen
+    titulo: Routen | Nationalpark Neusiedler See - Seewinkel
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/fruehling
+    titulo: Frühling im Nationalpark Neusiedler See - Seewinkel
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/routen/stinkerseen-hoelle-lettengrube
+    titulo: Stinkerseen, Hölle & Lettengrube | Nationalpark Neusiedler See - Seewinkel
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/naturraum
+    titulo: Nationalpark Neusiedler See – Seewinkel (espacio natural)
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/nationalparkzentrum
+    titulo: Nationalpark Neusiedler See – Seewinkel (centro)
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/highlights-hotspots
+    titulo: Nationalpark Neusiedler See – Seewinkel (lugares destacados)
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/verhaltensregeln
+    titulo: Nationalpark Neusiedler See – Seewinkel (normas)
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/routen/illmitzer-zicksee-geiselsteller
+    titulo: Nationalpark Neusiedler See – Seewinkel (ruta Illmitzer Zicksee – Geiselsteller)
+    fecha_consulta: '2026-10-29'
+  - url: https://www.nationalparkneusiedlersee.at/de/routen/sandeck-wasserstaetten
+    titulo: Nationalpark Neusiedler See – Seewinkel (ruta Sandeck – Wasserstätten)
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nationalpark_Neusiedler_See-Seewinkel_-_05.jpg
+    autor: Haeferl
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

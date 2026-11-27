@@ -1,0 +1,603 @@
+id: reserva-natural-da-serra-da-malcata
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural de la Sierra de Malcata
+  en: Serra da Malcata Nature Reserve
+  fr: Réserve naturelle de la Serra da Malcata
+  de: Naturreservat Serra da Malcata
+  it: Riserva Naturale della Serra da Malcata
+  pt: Reserva Natural da Serra da Malcata
+nombre_original: Reserva Natural da Serra da Malcata
+paises:
+  - PT
+region:
+  es: Región del Centro (Distritos de Guarda y Castelo Branco / Municipios de Sabugal y Penamacor)
+  en: Centro Region (Guarda and Castelo Branco Districts / Sabugal and Penamacor Municipalities)
+  fr: Région Centre (Districts de Guarda et Castelo Branco / Municipalités de Sabugal et Penamacor)
+  de: Region Centro (Distrikte Guarda und Castelo Branco / Gemeinden Sabugal und Penamacor)
+  it: Regione Centro (Distretti di Guarda e Castelo Branco / Comuni di Sabugal e Penamacor)
+  pt: Região do Centro (Distritos de Guarda e Castelo Branco / Concelhos de Sabugal e Penamacor)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.25
+  lon: -7.05
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 5808
+  nombre_en_la_fuente: Serra da Malcata
+  categoria_uicn: IV
+  capa: capas/cdda/reserva-natural-da-serra-da-malcata.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - natural_reserve
+especies:
+  - lynx_pardinus
+  - felis_silvestris
+  - ciconia_nigra
+  - aegypius_monachus
+  - genetta_genetta
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 10
+  - 11
+masificacion: 1
+valoracion: 2
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gobierno de Portugal — Malcata como nueva área de reintroducción (mayo de 2026)
+    url: https://portugal.gov.pt/pt/gc25/comunicacao/noticias/plano-de-acao-para-a-conservacao-do-lince-iberico-marca-nova-fase-na-protecao-da-especie
+  - titulo: Gestor — ICNF
+    url: https://www.icnf.pt/
+  - titulo: Visita y accesos — Reserva Natural da Serra da Malcata (ICNF Natural.PT)
+    url: https://natural.pt/protected-areas/reserva-natural-serra-malcata
+  - titulo: Normas — Código de visita de las áreas protegidas del ICNF
+    url: https://resources.natural.pt/uploads/additional-information/2026/10/13/11/MVFWRS8SS5xDBMC4.pdf
+  - titulo: Ruta y mapa — Sendero del Sobreiral en Serra da Malcata (ICNF)
+    url: https://resources.natural.pt/uploads/additional-information/2020/03/02/15/EVEBPNsEUT4ZzGwO.pdf
+resumen:
+  es: >-
+    Sierra mediterránea de matorral denso y robledales de rebollo, hábitat histórico del lince ibérico en la
+    frontera con España.
+  en: >-
+    Mediterranean mountain range of dense scrub and Pyrenean oak woods, historic habitat of the Iberian lynx
+    on the border with Spain.
+  fr: >-
+    Massif méditerranéen de maquis dense et de chênaies tauzins, habitat historique du lynx pardelle à la
+    frontière avec l'Espagne.
+  de: >-
+    Mediterranes Gebirge aus dichter Macchia und Pyrenäen-Eichenwäldern, historischer Lebensraum des
+    Pardelluchses an der Grenze zu Spanien.
+  it: >-
+    Catena montuosa mediterranea di macchia fitta e querceti di rovere pirenaico, habitat storico della lince
+    pardina al confine con la Spagna.
+  pt: >-
+    Serra mediterrânica de matagal denso e carvalhais de carvalho-negral, habitat histórico do lince-ibérico
+    na fronteira com Espanha.
+unico:
+  es: >-
+    Una sierra fronteriza creada en 1981 para salvar al lince ibérico, a la que el lince vuelve ahora como
+    nueva área de reintroducción.
+  en: >-
+    A borderland range created in 1981 to save the Iberian lynx, to which the lynx is now returning as a new
+    reintroduction area.
+  fr: >-
+    Une sierra frontalière créée en 1981 pour sauver le lynx pardelle, où le lynx revient aujourd'hui comme
+    nouvelle zone de réintroduction.
+  de: >-
+    Ein Grenzgebirge, das 1981 zur Rettung des Pardelluchses geschaffen wurde und in das der Luchs nun als
+    neues Wiederansiedlungsgebiet zurückkehrt.
+  it: >-
+    Una sierra di confine creata nel 1981 per salvare la lince pardina, dove la lince torna ora come nuova
+    area di reintroduzione.
+  pt: >-
+    Uma serra raiana criada em 1981 para salvar o lince-ibérico, à qual o lince regressa agora como nova área
+    de reintrodução.
+observaciones:
+  es: >-
+    En las áreas de protección total la presencia humana solo se admite en situaciones excepcionales. Las
+    normas de visita de los espacios protegidos portugueses las recoge el código de visita del ICNF, el
+    organismo que gestiona la reserva.
+texto:
+  es:
+    intro: >-
+      La Serra da Malcata se creó para un animal, y ese animal faltaba. Era el lince ibérico, y su ausencia no
+      ha impedido que la sierra siga siendo un refugio de matorral mediterráneo, encinas, alcornoques y
+      buitres, pegado a la frontera con España. La reserva ocupa 16 348 ha entre Penamacor y Sabugal, a una
+      altitud que va de 425 a 1078 m, y no tiene ni un núcleo de población dentro de sus límites: solo quintas
+      dispersas a lo largo de la ribera de la Meimoa y del río Bazágueda.
+    landscape: >-
+      Hacia el este, la reserva termina donde empieza la sierra de Gata, ya en España. El paisaje cambia según
+      te muevas. En el sur de Penamacor domina el montado de alcornoque y encina, con jarales de jara
+      pringosa; en las cotas altas, brezales de brezo rojo, queiró y carqueja. En el norte, donde antes abundó
+      el rebollo, hoy predominan el pino resinero y el eucalipto, especies exóticas que cubren buena parte de
+      las laderas: el pino resinero ocupa el 41,54% del territorio, seguido de matorrales (25,5%) y encinares
+      (12,28%).
+
+
+      El bosque más rico es el de la zona central. De influencia mediterránea, es el que tiene el catálogo
+      florístico más variado de la reserva, y en su sotobosque crece la rosa albardera o rosa de Alejandría
+      (Paeonia broteroi), un endemismo ibérico. A lo largo de los cursos de agua hay bosques de ribera de
+      aliso y fresno, con sauces dispersos. En la sierra nace el río Bazágueda, afluente del Erges, y dos
+      embalses, el de Meimoa y el de Sabugal, han creado hábitat para las aves acuáticas.
+    wildlife: >-
+      El gran ausente se llama [lince ibérico](/especie/lynx_pardinus/). El plan de cogestión registró su
+      ausencia del territorio, por la degradación y fragmentación de su hábitat. Pero lo demás está. En el
+      cielo, el [buitre negro](/especie/aegypius_monachus/), el [buitre leonado](/especie/gyps_fulvus/), el
+      [alimoche](/especie/neophron_percnopterus/) y la [cigüeña negra](/especie/ciconia_nigra/). Entre los
+      paseriformes difíciles de ver, el alzacola rojizo, el [rabilargo ibérico](/especie/cyanopica_cooki/) y
+      el colirrojo real. En los embalses, cerceta común, [ánade azulón](/especie/anas_platyrhynchos/),
+      somormujo lavanco, [martín pescador](/especie/alcedo_atthis/) y [garza real](/especie/ardea_cinerea/).
+
+
+      El suelo es de otros. El [gato montés](/especie/felis_silvestris/), de hábitos parecidos a los del
+      lince, convive con zorro, meloncillo, [jabalí](/especie/sus_scrofa/), garduña,
+      [gineta](/especie/genetta_genetta/), ciervo y [corzo](/especie/capreolus_capreolus/). Están presentes
+      todas las especies de anfibios de Portugal continental, entre ellas el sapo común, el [sapo
+      corredor](/especie/bufo_calamita/), la rana patilarga y la rana verde, y en los cursos de agua son
+      frecuentes el lagarto verdinegro y el galápago leproso. En las riberas de Bazágueda y Meimoa son comunes
+      el cacho del norte, un endemismo ibérico, y la carpa; la [trucha](/especie/salmo_trutta/) de río es más
+      rara.
+    visit: >-
+      Hay tres rutas de senderismo implantadas en la reserva, entre ellas la Patada da Mula y la del
+      Sobreiral. Y la Gran Ruta del Valle del Côa forma parte de los circuitos señalizados para bicicleta que
+      cruzan la reserva.
+
+
+      La sierra está clasificada como Área Importante para las Aves y ofrece condiciones óptimas para la
+      observación de aves. Dentro hay un campo de alimentación para aves necrófagas que sirve para el
+      seguimiento.
+
+
+      Para informarte, la sede de la reserva, en la villa de Penamacor, funciona como centro de interpretación
+      ambiental, con información sobre el área protegida y su entorno. En el pueblo de Malcata hay un Centro
+      de Interpretación del Lince Ibérico, y en Sabugal, el Centro de Educación Ambiental de Senhora da Graça
+      organiza talleres didácticos y visitas guiadas. Se entra por la carretera nacional 233, con salidas
+      hacia Meimão (EM 562) y Malcata (EM 539).
+    history: >-
+      La reserva se creó en 1981 con un objetivo claro: salvaguardar el hábitat del lince ibérico, especie
+      endémica de la península. Después se le sumaron otros estatutos: Reserva Biogenética del Consejo de
+      Europa, desde 1986, y área parcialmente integrada en el Geopark Naturtejo de la Meseta Meridional.
+      Participa también en la Carta Europea de Turismo Sostenible «Terras do Lince», que abarca Penamacor,
+      Sabugal y Almeida.
+
+
+      Hoy el plan de acción del lince del Gobierno portugués define la reserva como nueva área de
+      reintroducción, con áreas cercadas para soltar a los animales de forma progresiva en el medio natural.
+      Entretanto, las zonas de protección total guardan matorral mediterráneo, bosques de encina y madroño y
+      bosques de ribera caducifolios, donde anida el buitre negro; son clave para reintroducir al lince y por
+      eso la presencia humana solo se admite en casos excepcionales. La sierra guarda también restos humanos:
+      ruinas dispersas, entre ellas los molinos del Bazágueda y la Quinta do Major.
+    before: >-
+      En las áreas de protección total la presencia humana solo se admite en situaciones excepcionales. Las
+      normas de visita de los espacios protegidos portugueses las recoge el código de visita del ICNF, el
+      organismo que gestiona la reserva.
+    around: >-
+      A unos veintiséis kilómetros queda el [Parque Natural da Serra da
+      Estrela](/lugar/parque-natural-da-serra-da-estrela/), el vecino más cercano del atlas. A distancia,
+      comparten lince ibérico, buitre negro y cigüeña negra el [Parque Nacional de
+      Cabañeros](/lugar/parque-nacional-de-cabaneros/) y [Sierra Morena Oriental –
+      Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/).
+  en:
+    intro: >-
+      Serra da Malcata was created for one animal, and that animal was missing. It was the Iberian lynx, yet
+      its absence has not stopped the range from remaining a refuge of Mediterranean scrub, holm oaks, cork
+      oaks and vultures, pressed right against the Spanish border. The reserve covers 16,348 ha between
+      Penamacor and Sabugal, at altitudes from 425 to 1,078 m, and has not a single village inside its
+      boundaries: only scattered *quintas* along the Meimoa stream and the Bazágueda river.
+    landscape: >-
+      To the east, the reserve ends where the Sierra de Gata begins, already in Spain. The landscape changes
+      depending on where you go. In the south around Penamacor, cork-oak and holm-oak *montado* dominates,
+      with gum cistus scrub; on the higher ground, heaths of bell heather, *queiró* and *carqueja*. In the
+      north, where Pyrenean oak once abounded, maritime pine and eucalyptus now prevail, non-native species
+      covering much of the slopes: maritime pine occupies 41.54% of the area, followed by scrub (25.5%) and
+      holm-oak woods (12.28%).
+
+
+      The richest woodland is that of the central zone. Of Mediterranean influence, it holds the reserve's
+      most varied flora, and in its understorey grows *Paeonia broteroi*, an Iberian endemic peony. Along the
+      watercourses there are riparian woods of alder and ash, with scattered willows. The Bazágueda river, a
+      tributary of the Erges, rises in the range, and two reservoirs, Meimoa and Sabugal, have created habitat
+      for waterbirds.
+    wildlife: >-
+      The great absentee is called the [Iberian lynx](/especie/lynx_pardinus/). The co-management plan
+      recorded its absence from the area, due to habitat degradation and fragmentation. Everything else,
+      however, is here. In the sky, [cinereous vulture](/especie/aegypius_monachus/), [griffon
+      vulture](/especie/gyps_fulvus/), [Egyptian vulture](/especie/neophron_percnopterus/) and [black
+      stork](/especie/ciconia_nigra/). Among the harder-to-spot passerines, rufous-tailed scrub robin,
+      [Iberian magpie](/especie/cyanopica_cooki/) and common redstart. On the reservoirs, Eurasian teal,
+      [mallard](/especie/anas_platyrhynchos/), great crested grebe, [common
+      kingfisher](/especie/alcedo_atthis/) and [grey heron](/especie/ardea_cinerea/).
+
+
+      The ground belongs to others. The [European wildcat](/especie/felis_silvestris/), with habits similar to
+      the lynx's, shares it with red fox, Egyptian mongoose, [wild boar](/especie/sus_scrofa/), beech marten,
+      [common genet](/especie/genetta_genetta/), red deer and [roe deer](/especie/capreolus_capreolus/). All
+      amphibian species of mainland Portugal are present, including common toad, [natterjack
+      toad](/especie/bufo_calamita/), Iberian frog and Perez's frog, and along the watercourses Schreiber's
+      green lizard and Mediterranean pond turtle are common. In the Bazágueda and Meimoa streams, northern
+      straight-mouth nase, an Iberian endemic, and common carp are frequent; river
+      [trout](/especie/salmo_trutta/) is rarer.
+    visit: >-
+      There are three waymarked walking trails in the reserve, among them Patada da Mula and Sobreiral. And
+      the Côa Valley Grand Route forms part of the signposted cycling circuits that cross the reserve.
+
+
+      The range is classified as an Important Bird Area and offers prime conditions for birdwatching. Inside
+      there is a feeding station for scavenging birds used for monitoring.
+
+
+      For information, the reserve's headquarters in the town of Penamacor serves as an environmental
+      interpretation centre, with information on the protected area and its surroundings. In the village of
+      Malcata there is an Iberian Lynx Interpretation Centre, and in Sabugal the Senhora da Graça
+      Environmental Education Centre runs educational workshops and guided visits. Access is via national road
+      233, with turn-offs to Meimão (EM 562) and Malcata (EM 539).
+    history: >-
+      The reserve was created in 1981 with a clear goal: to safeguard the habitat of the Iberian lynx, a
+      species endemic to the peninsula. Later other designations were added: Council of Europe Biogenetic
+      Reserve, since 1986, and an area partly integrated into the Naturtejo Geopark of the Southern Meseta. It
+      also participates in the European Charter for Sustainable Tourism «Terras do Lince», covering Penamacor,
+      Sabugal and Almeida.
+
+
+      Today the Portuguese Government's lynx action plan defines the reserve as a new reintroduction area,
+      with fenced enclosures for releasing animals gradually into the wild. Meanwhile, the total protection
+      zones preserve Mediterranean scrub, holm-oak and strawberry-tree woods and deciduous riparian forests
+      where the cinereous vulture nests; they are vital for reintroducing the lynx, which is why human
+      presence is only permitted in exceptional cases. The range also holds human remains: scattered ruins,
+      among them the Bazágueda mills and Quinta do Major.
+    before: >-
+      In the total protection areas human presence is only allowed in exceptional situations. The visiting
+      rules for Portuguese protected areas are set out in the visitor code of ICNF, the body that manages the
+      reserve.
+    around: >-
+      Roughly twenty-six kilometres away lies [Serra da Estrela Natural
+      Park](/lugar/parque-natural-da-serra-da-estrela/), the closest neighbour in the atlas. Further afield,
+      [Cabañeros National Park](/lugar/parque-nacional-de-cabaneros/) and [Eastern Sierra Morena –
+      Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/) share the Iberian lynx, cinereous vulture
+      and black stork.
+  fr:
+    intro: >-
+      La Serra da Malcata fut créée pour un animal, et cet animal manquait. C'était le lynx pardelle, et son
+      absence n'a pas empêché le massif de rester un refuge de maquis méditerranéen, de chênes verts, de
+      chênes-lièges et de vautours, collé à la frontière avec l'Espagne. La réserve occupe 16 348 ha entre
+      Penamacor et Sabugal, à une altitude allant de 425 à 1 078 m, et ne compte pas un seul bourg dans ses
+      limites : seulement des *quintas* dispersées le long de la rivière de Meimoa et du fleuve Bazágueda.
+    landscape: >-
+      À l'est, la réserve s'achève là où commence la sierra de Gata, déjà en Espagne. Le paysage change selon
+      l'endroit où vous vous déplacez. Au sud de Penamacor domine le *montado* de chêne-liège et de chêne
+      vert, avec des cistaies à ciste ladanifère ; sur les hauteurs, des landes de bruyère rouge, de *queiró*
+      et de *carqueja*. Au nord, où abondait autrefois le chêne tauzin, dominent aujourd'hui le pin maritime
+      et l'eucalyptus, espèces exotiques qui couvrent une bonne part des versants : le pin maritime occupe
+      41,54% du territoire, suivi des fourrés (25,5%) et des chênaies vertes (12,28%).
+
+
+      La forêt la plus riche est celle de la zone centrale. D'influence méditerranéenne, c'est elle qui
+      possède le catalogue floristique le plus varié de la réserve, et dans son sous-bois pousse la pivoine de
+      Brotero (*Paeonia broteroi*), un endémisme ibérique. Le long des cours d'eau s'étendent des ripisylves
+      d'aulne et de frêne, avec des saules épars. Dans la sierra naît la rivière Bazágueda, affluent de
+      l'Erges, et deux retenues, celles de Meimoa et de Sabugal, ont créé un habitat pour les oiseaux d'eau.
+    wildlife: >-
+      Le grand absent s'appelle le [lynx pardelle](/especie/lynx_pardinus/). Le plan de cogestion a constaté
+      son absence du territoire, en raison de la dégradation et de la fragmentation de son habitat. Mais tout
+      le reste est là. Dans le ciel, le [vautour moine](/especie/aegypius_monachus/), le [vautour
+      fauve](/especie/gyps_fulvus/), le [percnoptère](/especie/neophron_percnopterus/) et la [cigogne
+      noire](/especie/ciconia_nigra/). Parmi les passereaux difficiles à voir, l'agrobate roux, la [pie-bleue
+      ibérique](/especie/cyanopica_cooki/) et le rougequeue à front blanc. Sur les retenues, sarcelle d'hiver,
+      [canard colvert](/especie/anas_platyrhynchos/), grèbe huppé, [martin-pêcheur
+      d'Europe](/especie/alcedo_atthis/) et [héron cendré](/especie/ardea_cinerea/).
+
+
+      Le sol appartient à d'autres. Le [chat forestier](/especie/felis_silvestris/), aux mœurs proches de
+      celles du lynx, cohabite avec le renard, la mangouste ichneumon, le [sanglier](/especie/sus_scrofa/), la
+      fouine, la [genette commune](/especie/genetta_genetta/), le cerf et le
+      [chevreuil](/especie/capreolus_capreolus/). Toutes les espèces d'amphibiens du Portugal continental sont
+      présentes, dont le crapaud commun, le [crapaud calamite](/especie/bufo_calamita/), la grenouille
+      ibérique et la grenouille de Pérez, et dans les cours d'eau sont fréquents le lézard de Schreiber et
+      l'émyde lépreuse. Dans les rivières Bazágueda et Meimoa sont communs le *cacho* du nord, un endémisme
+      ibérique, et la carpe ; la [truite fario](/especie/salmo_trutta/) de rivière est plus rare.
+    visit: >-
+      Il existe trois sentiers de randonnée aménagés dans la réserve, dont la Patada da Mula et celle du
+      Sobreiral. Et la Grande Route de la Vallée du Côa fait partie des circuits balisés pour vélo qui
+      traversent la réserve.
+
+
+      La sierra est classée Zone importante pour les oiseaux et offre des conditions optimales pour
+      l'observation ornithologique. À l'intérieur se trouve un charnier pour oiseaux nécrophages qui sert au
+      suivi.
+
+
+      Pour vous informer, le siège de la réserve, dans le bourg de Penamacor, fait office de centre
+      d'interprétation environnementale, avec des informations sur l'aire protégée et ses environs. Dans le
+      village de Malcata se trouve un Centre d'interprétation du lynx pardelle, et à Sabugal le Centre
+      d'éducation environnementale de Senhora da Graça organise des ateliers pédagogiques et des visites
+      guidées. On y accède par la route nationale 233, avec des sorties vers Meimão (EM 562) et Malcata (EM
+      539).
+    history: >-
+      La réserve fut créée en 1981 avec un objectif clair : sauvegarder l'habitat du lynx pardelle, espèce
+      endémique de la péninsule. S'y ajoutèrent ensuite d'autres statuts : Réserve biogénétique du Conseil de
+      l'Europe, depuis 1986, et zone partiellement intégrée au Géoparc Naturtejo de la Meseta méridionale.
+      Elle participe aussi à la Charte européenne du tourisme durable « Terras do Lince », qui couvre
+      Penamacor, Sabugal et Almeida.
+
+
+      Aujourd'hui le plan d'action pour le lynx du gouvernement portugais définit la réserve comme nouvelle
+      zone de réintroduction, avec des enclos destinés à relâcher les animaux progressivement dans le milieu
+      naturel. En attendant, les zones de protection totale préservent le maquis méditerranéen, les forêts de
+      chêne vert et d'arbousier ainsi que les ripisylves caducifoliées où niche le vautour moine ; elles sont
+      essentielles pour réintroduire le lynx, et c'est pourquoi la présence humaine n'y est admise que dans
+      des cas exceptionnels. La sierra garde aussi des traces humaines : des ruines éparses, dont les moulins
+      du Bazágueda et la Quinta do Major.
+    before: >-
+      Dans les zones de protection totale, la présence humaine n'est admise que dans des situations
+      exceptionnelles. Les règles de visite des espaces protégés portugais figurent dans le code de visite de
+      l'ICNF, l'organisme qui gère la réserve.
+    around: >-
+      À quelque vingt-six kilomètres se trouve le [Parc naturel de la Serra da
+      Estrela](/lugar/parque-natural-da-serra-da-estrela/), le voisin le plus proche de l'atlas. À distance,
+      le [Parc national de Cabañeros](/lugar/parque-nacional-de-cabaneros/) et la [Sierra Morena orientale –
+      Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/) partagent le lynx pardelle, le vautour
+      moine et la cigogne noire.
+  de:
+    intro: >-
+      Die Serra da Malcata wurde für ein Tier geschaffen, und genau dieses Tier fehlte. Es war der
+      Pardelluchs, doch sein Fehlen hat nicht verhindert, dass das Gebirge ein Rückzugsort für mediterrane
+      Macchia, Steineichen, Korkeichen und Geier geblieben ist, direkt an der Grenze zu Spanien. Das Reservat
+      umfasst 16.348 ha zwischen Penamacor und Sabugal in einer Höhenlage von 425 bis 1.078 m und hat keine
+      einzige Ortschaft innerhalb seiner Grenzen: nur verstreute *Quintas* entlang der Ribeira da Meimoa und
+      des Flusses Bazágueda.
+    landscape: >-
+      Nach Osten endet das Reservat dort, wo bereits in Spanien die Sierra de Gata beginnt. Die Landschaft
+      wechselt je nachdem, wohin du gehst. Im Süden bei Penamacor dominiert der *Montado* aus Korkeiche und
+      Steineiche mit Lackzistrosen-Gebüsch; in den Hochlagen Heiden aus Purpur-Heide, *Queiró* und *Carqueja*.
+      Im Norden, wo einst die Pyrenäen-Eiche vorherrschte, überwiegen heute See-Kiefer und Eukalyptus, fremde
+      Arten, die einen großen Teil der Hänge bedecken: Die See-Kiefer nimmt 41,54% der Fläche ein, gefolgt von
+      Gebüsch (25,5%) und Steineichenwäldern (12,28%).
+
+
+      Der reichste Wald ist der der zentralen Zone. Mediterran geprägt, besitzt er das vielfältigste
+      Pflanzenverzeichnis des Reservats, und in seinem Unterwuchs wächst die Iberische Pfingstrose (*Paeonia
+      broteroi*), ein iberischer Endemit. Entlang der Wasserläufe gibt es Auenwälder aus Erle und Esche mit
+      verstreuten Weiden. Im Gebirge entspringt der Fluss Bazágueda, ein Zufluss des Erges, und zwei Stauseen,
+      Meimoa und Sabugal, haben Lebensraum für Wasservögel geschaffen.
+    wildlife: >-
+      Der große Abwesende heißt [Pardelluchs](/especie/lynx_pardinus/). Der gemeinsame Managementplan
+      verzeichnete sein Fehlen im Gebiet aufgrund der Verschlechterung und Zerschneidung seines Lebensraums.
+      Doch alles andere ist da. Am Himmel [Mönchsgeier](/especie/aegypius_monachus/),
+      [Gänsegeier](/especie/gyps_fulvus/), [Schmutzgeier](/especie/neophron_percnopterus/) und
+      [Schwarzstorch](/especie/ciconia_nigra/). Unter den schwer zu sehenden Singvögeln Heckensänger,
+      [Blauelster](/especie/cyanopica_cooki/) und Gartenrotschwanz. Auf den Stauseen Krickente,
+      [Stockente](/especie/anas_platyrhynchos/), Haubentaucher, [Eisvogel](/especie/alcedo_atthis/) und
+      [Graureiher](/especie/ardea_cinerea/).
+
+
+      Der Boden gehört anderen. Die [Wildkatze](/especie/felis_silvestris/), mit ähnlichen Gewohnheiten wie
+      der Luchs, lebt hier zusammen mit Fuchs, Ichneumon, [Wildschwein](/especie/sus_scrofa/), Steinmarder,
+      [Kleinfleck-Ginsterkatze](/especie/genetta_genetta/), Rothirsch und
+      [Reh](/especie/capreolus_capreolus/). Alle Amphibienarten Kontinentalportugals sind vertreten, darunter
+      Erdkröte, [Kreuzkröte](/especie/bufo_calamita/), Spanischer Frosch und Iberischer Wasserfrosch, und an
+      den Wasserläufen sind Iberische Smaragdeidechse und Maurische Bachschildkröte häufig. In den Flüssen
+      Bazágueda und Meimoa sind der Nördliche Iberische Döbel, ein iberischer Endemit, und der Karpfen häufig;
+      die [Flussforelle](/especie/salmo_trutta/) ist seltener.
+    visit: >-
+      Es gibt drei angelegte Wanderwege im Reservat, darunter die Patada da Mula und die Route des Sobreiral.
+      Und die Große Route des Côa-Tals gehört zu den ausgeschilderten Radstrecken, die das Reservat
+      durchqueren.
+
+
+      Das Gebirge ist als Important Bird Area eingestuft und bietet beste Bedingungen zur Vogelbeobachtung. Im
+      Inneren gibt es einen Luderplatz für Aasfresser, der dem Monitoring dient.
+
+
+      Zur Information dient der Sitz des Reservats in der Kleinstadt Penamacor als Umweltinformationszentrum
+      mit Auskünften über das Schutzgebiet und seine Umgebung. Im Dorf Malcata gibt es ein Informationszentrum
+      zum Pardelluchs, und in Sabugal organisiert das Umweltbildungszentrum Senhora da Graça Lernworkshops und
+      Führungen. Man fährt über die Nationalstraße 233 hinein, mit Abzweigen nach Meimão (EM 562) und Malcata
+      (EM 539).
+    history: >-
+      Das Reservat wurde 1981 mit einem klaren Ziel geschaffen: den Lebensraum des Pardelluchses, einer auf
+      der Halbinsel endemischen Art, zu bewahren. Später kamen weitere Auszeichnungen hinzu: Biogenetisches
+      Reservat des Europarats seit 1986 und teilweise Eingliederung in den Geopark Naturtejo der Südlichen
+      Meseta. Es beteiligt sich auch an der Europäischen Charta für Nachhaltigen Tourismus «Terras do Lince»,
+      die Penamacor, Sabugal und Almeida umfasst.
+
+
+      Heute stuft der Luchs-Aktionsplan der portugiesischen Regierung das Reservat als neues
+      Wiederansiedlungsgebiet ein, mit eingezäunten Bereichen, um die Tiere schrittweise in die freie Wildbahn
+      zu entlassen. Inzwischen bewahren die Totalschutzzonen mediterrane Macchia, Steineichen- und
+      Erdbeerbaumwälder sowie sommergrüne Auenwälder, in denen der Mönchsgeier nistet; sie sind entscheidend
+      für die Wiederansiedlung des Luchses, weshalb menschliche Anwesenheit nur in Ausnahmefällen erlaubt ist.
+      Das Gebirge birgt auch menschliche Spuren: verstreute Ruinen, darunter die Mühlen am Bazágueda und die
+      Quinta do Major.
+    before: >-
+      In den Totalschutzgebieten ist menschliche Anwesenheit nur in Ausnahmesituationen erlaubt. Die
+      Besuchsregeln der portugiesischen Schutzgebiete stehen im Besucherkodex des ICNF, der Behörde, die das
+      Reservat verwaltet.
+    around: >-
+      Etwa sechsundzwanzig Kilometer entfernt liegt der [Naturpark Serra da
+      Estrela](/lugar/parque-natural-da-serra-da-estrela/), der nächste Nachbar im Atlas. Weiter entfernt
+      teilen der [Nationalpark Cabañeros](/lugar/parque-nacional-de-cabaneros/) und die [Östliche Sierra
+      Morena – Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/) Pardelluchs, Mönchsgeier und
+      Schwarzstorch.
+  it:
+    intro: >-
+      La Serra da Malcata fu creata per un animale, e quell'animale mancava. Era la lince pardina, e la sua
+      assenza non ha impedito alla sierra di restare un rifugio di macchia mediterranea, lecci, sughere e
+      avvoltoi, addossato al confine con la Spagna. La riserva occupa 16.348 ha tra Penamacor e Sabugal, a
+      un'altitudine che va da 425 a 1.078 m, e non ha neppure un centro abitato dentro i suoi confini: solo
+      *quintas* sparse lungo la ribeira da Meimoa e il fiume Bazágueda.
+    landscape: >-
+      Verso est, la riserva finisce dove inizia la sierra de Gata, già in Spagna. Il paesaggio cambia a
+      seconda di dove ti muovi. A sud di Penamacor domina il *montado* di sughera e leccio, con cisteti di
+      cisto ladanifero; sulle quote alte, brughiere di erica rossa, *queiró* e *carqueja*. A nord, dove un
+      tempo abbondava la quercia dei Pirenei, oggi prevalgono il pino marittimo e l'eucalipto, specie esotiche
+      che coprono buona parte dei versanti: il pino marittimo occupa il 41,54% del territorio, seguito da
+      macchie (25,5%) e leccete (12,28%).
+
+
+      Il bosco più ricco è quello della zona centrale. D'influenza mediterranea, è quello con il catalogo
+      floristico più vario della riserva, e nel suo sottobosco cresce la peonia di Brotero (*Paeonia
+      broteroi*), un endemismo iberico. Lungo i corsi d'acqua ci sono boschi ripariali di ontano e frassino,
+      con salici sparsi. Nella sierra nasce il fiume Bazágueda, affluente dell'Erges, e due invasi, quello di
+      Meimoa e quello di Sabugal, hanno creato habitat per gli uccelli acquatici.
+    wildlife: >-
+      La grande assente si chiama [lince pardina](/especie/lynx_pardinus/). Il piano di cogestione ha
+      registrato la sua assenza dal territorio, per il degrado e la frammentazione del suo habitat. Ma tutto
+      il resto c'è. Nel cielo, l'[avvoltoio monaco](/especie/aegypius_monachus/), il
+      [grifone](/especie/gyps_fulvus/), il [capovaccaio](/especie/neophron_percnopterus/) e la [cicogna
+      nera](/especie/ciconia_nigra/). Tra i passeriformi difficili da vedere, l'usignolo d'Africa, la [gazza
+      aliazzurre iberica](/especie/cyanopica_cooki/) e il codirosso comune. Negli invasi, alzavola, [germano
+      reale](/especie/anas_platyrhynchos/), svasso maggiore, [martin pescatore](/especie/alcedo_atthis/) e
+      [airone cenerino](/especie/ardea_cinerea/).
+
+
+      Il suolo è di altri. Il [gatto selvatico](/especie/felis_silvestris/), dalle abitudini simili a quelle
+      della lince, convive con volpe, mangusta egiziana, [cinghiale](/especie/sus_scrofa/), faina, [genetta
+      comune](/especie/genetta_genetta/), cervo e [capriolo](/especie/capreolus_capreolus/). Sono presenti
+      tutte le specie di anfibi del Portogallo continentale, tra cui il rospo comune, il [rospo smeraldino
+      calamita](/especie/bufo_calamita/), la rana iberica e la rana di Pérez, e nei corsi d'acqua sono
+      frequenti il ramarro iberico e la testuggine palustre leprosa. Nelle riviere di Bazágueda e Meimoa sono
+      comuni il cavedano iberico settentrionale, un endemismo iberico, e la carpa; la
+      [trota](/especie/salmo_trutta/) di fiume è più rara.
+    visit: >-
+      Ci sono tre sentieri escursionistici allestiti nella riserva, tra cui la Patada da Mula e quello del
+      Sobreiral. E la Grande Rotta della Valle del Côa fa parte dei circuiti segnalati per bicicletta che
+      attraversano la riserva.
+
+
+      La sierra è classificata come Important Bird Area e offre condizioni ottimali per il birdwatching.
+      All'interno c'è un carnaio per uccelli necrofagi che serve al monitoraggio.
+
+
+      Per informarti, la sede della riserva, nella cittadina di Penamacor, funziona come centro di
+      interpretazione ambientale, con informazioni sull'area protetta e i suoi dintorni. Nel paese di Malcata
+      c'è un Centro di Interpretazione della Lince Pardina, e a Sabugal il Centro di Educazione Ambientale di
+      Senhora da Graça organizza laboratori didattici e visite guidate. Si entra dalla strada nazionale 233,
+      con uscite verso Meimão (EM 562) e Malcata (EM 539).
+    history: >-
+      La riserva fu creata nel 1981 con un obiettivo chiaro: salvaguardare l'habitat della lince pardina,
+      specie endemica della penisola. Poi si aggiunsero altri statuti: Riserva Biogenetica del Consiglio
+      d'Europa, dal 1986, e area parzialmente integrata nel Geopark Naturtejo della Meseta Meridionale.
+      Partecipa anche alla Carta Europea del Turismo Sostenibile «Terras do Lince», che abbraccia Penamacor,
+      Sabugal e Almeida.
+
+
+      Oggi il piano d'azione per la lince del governo portoghese definisce la riserva come nuova area di
+      reintroduzione, con aree recintate per liberare gli animali progressivamente in natura. Nel frattempo,
+      le zone di protezione totale custodiscono macchia mediterranea, boschi di leccio e corbezzolo e boschi
+      ripariali caducifogli, dove nidifica l'avvoltoio monaco; sono essenziali per reintrodurre la lince e per
+      questo la presenza umana è ammessa solo in casi eccezionali. La sierra conserva anche tracce umane:
+      rovine sparse, tra cui i mulini del Bazágueda e la Quinta do Major.
+    before: >-
+      Nelle aree di protezione totale la presenza umana è ammessa solo in situazioni eccezionali. Le norme di
+      visita delle aree protette portoghesi sono raccolte nel codice di visita dell'ICNF, l'ente che gestisce
+      la riserva.
+    around: >-
+      A circa ventisei chilometri si trova il [Parco Naturale della Serra da
+      Estrela](/lugar/parque-natural-da-serra-da-estrela/), il vicino più prossimo dell'atlante. A distanza,
+      condividono lince pardina, avvoltoio monaco e cicogna nera il [Parco Nazionale di
+      Cabañeros](/lugar/parque-nacional-de-cabaneros/) e [Sierra Morena Orientale –
+      Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/).
+  pt:
+    intro: >-
+      A Serra da Malcata foi criada para um animal, e esse animal faltava. Era o lince-ibérico, e a sua
+      ausência não impediu que a serra continuasse a ser um refúgio de matagal mediterrânico, azinheiras,
+      sobreiros e abutres, encostado à fronteira com Espanha. A reserva ocupa 16 348 ha entre Penamacor e
+      Sabugal, a uma altitude que vai dos 425 aos 1078 m, e não tem sequer um núcleo populacional dentro dos
+      seus limites: apenas quintas dispersas ao longo da ribeira da Meimoa e do rio Bazágueda.
+    landscape: >-
+      Para leste, a reserva termina onde começa a serra de Gata, já em Espanha. A paisagem muda consoante onde
+      te moves. No sul de Penamacor domina o montado de sobreiro e azinheira, com estevais de esteva; nas
+      cotas altas, urzais de urze-vermelha, queiró e carqueja. No norte, onde antes abundou o carvalho-negral,
+      hoje predominam o pinheiro-bravo e o eucalipto, espécies exóticas que cobrem boa parte das encostas: o
+      pinheiro-bravo ocupa 41,54% do território, seguido de matos (25,5%) e azinhais (12,28%).
+
+
+      O bosque mais rico é o da zona central. De influência mediterrânica, é o que tem o catálogo florístico
+      mais variado da reserva, e no seu sub-bosque cresce a rosa-albardeira ou rosa-de-alexandria (*Paeonia
+      broteroi*), um endemismo ibérico. Ao longo dos cursos de água há galerias ripícolas de amieiro e freixo,
+      com salgueiros dispersos. Na serra nasce o rio Bazágueda, afluente do Erges, e duas albufeiras, a da
+      Meimoa e a do Sabugal, criaram habitat para as aves aquáticas.
+    wildlife: >-
+      O grande ausente chama-se [lince-ibérico](/especie/lynx_pardinus/). O plano de cogestão registou a sua
+      ausência do território, pela degradação e fragmentação do seu habitat. Mas o resto está lá. No céu, o
+      [abutre-preto](/especie/aegypius_monachus/), o [abutre-fouveiro](/especie/gyps_fulvus/), o
+      [abutre-do-egito](/especie/neophron_percnopterus/) e a [cegonha-preta](/especie/ciconia_nigra/). Entre
+      os passeriformes difíceis de ver, o rouxinol-do-mato, a [pega-azul-ibérica](/especie/cyanopica_cooki/) e
+      o rabirruivo-de-testa-branca. Nas albufeiras, marrequinha-comum,
+      [pato-real](/especie/anas_platyrhynchos/), mergulhão-de-crista,
+      [guarda-rios-comum](/especie/alcedo_atthis/) e [garça-real-europeia](/especie/ardea_cinerea/).
+
+
+      O solo é de outros. O [gato-bravo](/especie/felis_silvestris/), de hábitos parecidos aos do lince,
+      convive com raposa, sacarrabos, [javali](/especie/sus_scrofa/), fuinha,
+      [gineta](/especie/genetta_genetta/), veado e [corça](/especie/capreolus_capreolus/). Estão presentes
+      todas as espécies de anfíbios de Portugal continental, entre elas o sapo-comum, o
+      [sapo-corredor](/especie/bufo_calamita/), a rã-ibérica e a rã-verde, e nos cursos de água são frequentes
+      o lagarto-de-água e o cágado-mediterrânico. Nas ribeiras do Bazágueda e da Meimoa são comuns o
+      escalo-do-norte, um endemismo ibérico, e a carpa; a [truta](/especie/salmo_trutta/) de rio é mais rara.
+    visit: >-
+      Há três percursos pedestres implantados na reserva, entre eles a Patada da Mula e o do Sobreiral. E a
+      Grande Rota do Vale do Côa faz parte dos circuitos sinalizados para bicicleta que cruzam a reserva.
+
+
+      A serra está classificada como Área Importante para as Aves e oferece condições ótimas para a observação
+      de aves. No interior há um campo de alimentação para aves necrófagas que serve para a monitorização.
+
+
+      Para te informares, a sede da reserva, na vila de Penamacor, funciona como centro de interpretação
+      ambiental, com informação sobre a área protegida e a sua envolvente. Na aldeia de Malcata há um Centro
+      de Interpretação do Lince-Ibérico, e no Sabugal o Centro de Educação Ambiental da Senhora da Graça
+      organiza oficinas didáticas e visitas guiadas. Entra-se pela estrada nacional 233, com saídas para
+      Meimão (EM 562) e Malcata (EM 539).
+    history: >-
+      A reserva foi criada em 1981 com um objetivo claro: salvaguardar o habitat do lince-ibérico, espécie
+      endémica da península. Depois somaram-se-lhe outros estatutos: Reserva Biogenética do Conselho da
+      Europa, desde 1986, e área parcialmente integrada no Geopark Naturtejo da Meseta Meridional. Participa
+      também na Carta Europeia de Turismo Sustentável «Terras do Lince», que abrange Penamacor, Sabugal e
+      Almeida.
+
+
+      Hoje o plano de ação do lince do Governo português define a reserva como nova área de reintrodução, com
+      áreas cercadas para soltar os animais de forma progressiva no meio natural. Entretanto, as zonas de
+      proteção total guardam matagal mediterrânico, bosques de azinheira e medronheiro e galerias ripícolas
+      caducifólias, onde nidifica o abutre-preto; são essenciais para reintroduzir o lince e por isso a
+      presença humana só se admite em casos excecionais. A serra guarda também vestígios humanos: ruínas
+      dispersas, entre elas os moinhos do Bazágueda e a Quinta do Major.
+    before: >-
+      Nas áreas de proteção total a presença humana só se admite em situações excecionais. As normas de visita
+      dos espaços protegidos portugueses constam do código de visita do ICNF, o organismo que gere a reserva.
+    around: >-
+      A cerca de vinte e seis quilómetros fica o [Parque Natural da Serra da
+      Estrela](/lugar/parque-natural-da-serra-da-estrela/), o vizinho mais próximo do atlas. À distância,
+      partilham lince-ibérico, abutre-preto e cegonha-preta o [Parque Nacional de
+      Cabañeros](/lugar/parque-nacional-de-cabaneros/) e a [Serra Morena Oriental –
+      Despeñaperros](/lugar/sierra-morena-oriental---despenaperros/).
+fuentes:
+  - url: https://www.icnf.pt/api/file/doc/9b2762f3535e4d3a
+    titulo: Plano de Cogestão da Reserva Natural da Serra da Malcata 2022–2024
+    fecha_consulta: '2026-11-05'
+  - url: https://www.icnf.pt/api/file/doc/de3228d1396f24aa
+    titulo: Ficha Natura 2000 ZEC Malcata e ZPE Serra da Malcata - ICNF
+    fecha_consulta: '2026-11-05'
+  - url: https://pt.wikipedia.org/wiki/Serra_da_Malcata
+    titulo: Serra da Malcata — Wikipédia
+    fecha_consulta: '2026-11-05'
+  - url: https://portugal.gov.pt/pt/gc25/comunicacao/noticias/plano-de-acao-para-a-conservacao-do-lince-iberico-marca-nova-fase-na-protecao-da-especie
+    titulo: Plano de Ação para a Conservação do Lince Ibérico marca nova fase na proteção da espécie
+    fecha_consulta: '2026-11-05'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:MALCATA1_(12_de_20).jpg
+    autor: Joaomartinsfotografo
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

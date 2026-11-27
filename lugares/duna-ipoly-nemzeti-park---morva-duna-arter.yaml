@@ -1,0 +1,647 @@
+id: duna-ipoly-nemzeti-park---morva-duna-arter
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Duna-Ipoly
+  en: Danube-Ipoly National Park
+  fr: Parc national Danube-Ipoly
+  de: Nationalpark Donau-Ipoly
+  it: Parco nazionale Danubio-Ipoly
+  pt: Parque Nacional Duna-Ipoly
+nombre_original: Duna-Ipoly Nemzeti Park
+alias:
+  - Danube-Ipoly National Park
+paises:
+  - HU
+region:
+  es: Pilis, Visegrád, Börzsöny y valle del Ipoly (Hungría)
+  en: Pilis, Visegrád, Börzsöny and Ipoly Valley (Hungary)
+  fr: Pilis, Visegrád, Börzsöny et vallée de l'Ipoly (Hongrie)
+  de: Pilis-, Visegrád-, Börzsöny-Gebirge und Ipoly-Tal (Ungarn)
+  it: Pilis, Visegrád, Börzsöny e valle dell'Ipoly (Ungheria)
+  pt: Pilis, Visegrád, Börzsöny e vale do Ipoly (Hungria)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.840182415453604
+  lon: 18.938997410491993
+  radio_km: 13.881876905141826
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 178325
+  nombre_en_la_fuente: Duna–Ipoly Nemzeti Park
+  categoria_uicn: V
+  capa: capas/cdda/duna-ipoly-nemzeti-park---morva-duna-arter.geojson
+habitats:
+  - river_corridor
+  - wetland
+  - mature_forest
+designaciones:
+  - national_park
+  - iucn_v
+especies:
+  - lutra_lutra
+  - lynx_lynx
+proyectos:
+  - danubeparks
+temporada_ideal:
+  - 4
+  - 9
+temporada_nota:
+  es: >-
+    Abril para la actividad de anfibios y septiembre para la berrea en Börzsöny, según las propuestas del
+    gestor.
+  en: >-
+    April for amphibian activity and September for the red deer rut in Börzsöny, as recommended by park
+    authorities.
+  fr: >-
+    Avril pour l'activité des amphibiens et septembre pour le brame du cerf dans le Börzsöny, selon les
+    recommandations du parc.
+  de: >-
+    April für Amphibienwanderungen und September für die Hirschbrunft im Börzsöny, gemäß Empfehlungen der
+    Verwaltung.
+  it: >-
+    Aprile per il risveglio degli anfibi e settembre per il bramito del cervo nel Börzsöny, stando ai consigli
+    dell'ente gestore.
+  pt: >-
+    Abril para a atividade dos anfíbios e setembro para a brama dos veados em Börzsöny, segundo o plano de
+    visitação.
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 0.5
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Duna-Ipoly
+    url: https://www.dunaipoly.hu/hu/helyek/vedett-teruletek/duna-ipoly-nemzeti-park
+  - titulo: Ipoly-híd — ruta, observatorios y mapa
+    url: https://www.dunaipoly.hu/hu/helyek/tanosvenyek/ipoly-hid-turautvonal
+  - titulo: Acceso en transporte público a Börzsöny y Pilis
+    url: https://www.dunaipoly.hu/hu/hir/kozossegi-kozlekedessel-a-duna-ipoly-nemzeti-parkba
+  - titulo: Valle del Ipoly — visita y manejo de praderas
+    url: https://www.dunaipoly.hu/hu/helyek/vedett-teruletek/ramsari-teruletek/ipoly-volgy
+resumen:
+  es: Bosques de montaña y valle fluvial del Ipoly en el parque nacional húngaro.
+  en: Mountain woodlands and the Ipoly river valley in the Hungarian national park.
+  fr: Forêts d'altitude et vallée alluviale de l'Ipoly au sein du parc national hongrois.
+  de: Bergwälder und die Flussaue des Ipoly im ungarischen Nationalpark.
+  it: Foreste montane e valle alluvionale dell'Ipoly nel parco nazionale ungherese.
+  pt: Florestas de montanha e vale aluvial do Ipoly no parque nacional húngaro.
+unico:
+  es: Tres paisajes en uno, el valle, la montaña y la llanura, con un río, el Ipoly, que sigue su propio humor.
+  en: >-
+    Three contrasting landscapes in one—river valley, volcanic hills, and open plain—anchored by the
+    capricious, free-flowing Ipoly.
+  fr: >-
+    Trois paysages en un seul espace — vallée fluviale, reliefs volcaniques et plaine ouverte — rythmés par
+    les caprices de l'Ipoly.
+  de: >-
+    Drei Landschaftstypen in einem Schutzgebiet – Flusstal, Mittelgebirge und Ebene – geprägt vom
+    unberechenbaren Flusslauf des Ipoly.
+  it: >-
+    Tre paesaggi distinti in una sola area — valle fluviale, rilievi vulcanici e pianura aperta — governati
+    dalle piene mutevoli dell'Ipoly.
+  pt: >-
+    Três paisagens num único espaço — vale fluvial, montanhas vulcânicas e planície aberta — moldadas pelo
+    curso caprichoso do rio Ipoly.
+observaciones:
+  es: >-
+    El gestor ofrece guías de transporte público desde Budapest hacia el Börzsöny y el Pilis para reducir la
+    presión de los desplazamientos en coche: úsalas. Comprueba con el gestor qué centros y exposiciones están
+    abiertos antes de ir.
+texto:
+  es:
+    intro: >-
+      Este parque se llama por dos ríos, pero el segundo es el que casi nadie conoce. El Danubio lo tiene todo
+      el mundo en la cabeza; el Ipoly, en cambio, parece un riachuelo casi todo el año, hasta que llega la
+      crecida: entre su caudal bajo y el de crecida hay una diferencia de casi novecientas veces, y solo el
+      Tisza lo supera en la cuenca de los Cárpatos. El Parque Nacional Duna-Ipoly reúne los montes Pilis,
+      Visegrád y Börzsöny, el tramo del valle del Ipoly entre Hont y Balassagyarmat y partes de la isla de
+      Szentendre, justo donde se encuentran ríos, montañas y llanura.
+    landscape: >-
+      La singularidad del parque es ese encuentro de rocas volcánicas y sedimentarias con los aluviones y
+      bancos de grava cambiantes de los valles fluviales. El Recodo del Danubio (Dunakanyar) es el mejor
+      ejemplo del vínculo entre el río y las montañas.
+
+
+      Cada macizo tiene su historia. El Börzsöny es volcánico y su pico más alto es el Csóványos, de 938 m;
+      unos 300 a 350 manantiales alimentan sus arroyos. El Pilis se compone sobre todo de caliza dachstein y
+      dolomía principal, depositadas en lagunas del Triásico superior. Los montes de Visegrád son de origen
+      volcánico andesítico, y la erosión excavó en ellos gargantas como Holdvilág-árok, Salabasina-árok y
+      Rám-szakadék.
+
+
+      La vegetación es diversa y de transición, porque se encuentran los límites climáticos submediterráneo y
+      continental. La isla de Szentendre guarda dunas con azafrán de arena y lirio de arena, estrictamente
+      protegidos; en el Pilis crece un endemismo relicto, y cerca de la ciudad de Szentendre vive la rosa de
+      Szentendre, que solo tiene dos localidades más conocidas fuera de allí. En las praderas aluviales del
+      Ipoly florece la réti iszalag, una clemátide.
+    wildlife: >-
+      En el Ipoly la estación es la inundación. Las crecidas de primavera atraen multitudes de aves que se
+      observan desde torres, y en verano hay rutas, también en bicicleta, para conocer las praderas segadas.
+      En el tramo casi intacto entre Hont y Balassagyarmat crían sin molestias especies raras y protegidas
+      como el [guión de codornices](/especie/crex_crex/) y el [cisne cantor](/especie/cygnus_cygnus/).
+
+
+      La montaña tiene los suyos. A principios de julio llega al Börzsöny, desde los Cárpatos, el piquituerto
+      común, y marca el inicio del verano allí. En los bosques tranquilos puede aparecer el
+      [lince](/especie/lynx_lynx/); junto al agua vive la [nutria](/especie/lutra_lutra/). Entre las aves
+      protegidas del parque se cuentan el [halcón sacre](/especie/falco_cherrug/), el [águila imperial
+      oriental](/especie/aquila_heliaca/) y la [cigüeña negra](/especie/ciconia_nigra/). Las cuevas dan casa
+      al murciélago pequeño de herradura, y el murciélago de cueva es una especie estrictamente protegida y
+      muy sensible a las molestias. Junto al agua vive el [galápago europeo](/especie/emys_orbicularis/), y
+      entre los peces el más valioso es el barbo de Petényi, con la perca sedosa en el Ipoly medio y la trucha
+      en los arroyos limpios del Börzsöny. En el valle medio del Ipoly vive la polilla endémica húngara
+      Dioszeghyana schmidtii.
+
+
+      El parque reúne más de setecientas especies protegidas y estrictamente protegidas.
+    visit: >-
+      El gestor describe el Duna-Ipoly como un destino de caminata por la naturaleza. En el valle del Ipoly,
+      la ruta Ipoly-híd conecta dos senderos interpretativos, el de Dejtár y el de Drégelypalánk, y recorre
+      cerca de quince kilómetros a pie o en bicicleta, según el régimen de caudal del río. No tiene paradas
+      fijas: la guían postes con el logotipo Ipoly Híd Túra. En Ipolyvece hay una torre de observación, y
+      cerca de la isla Nagy-sziget, un puesto elevado donde descansar y mirar.
+
+
+      El sendero Páskom-legelő sale de Dejtár, tiene seis paradas y tres kilómetros, y cruza el mayor carrizal
+      continuo del valle; el Apródok útja va de Drégelypalánk al castillo en 8 paradas, con vistas únicas
+      desde arriba.
+
+
+      En el Börzsöny, el sendero de Királyrét mide 2,9 km, tiene nueve paradas y explica el bosque, los lagos,
+      los ferrocarriles forestales y la minería de hierro. La visita lleva aproximadamente una hora y media y
+      sale de la Casa del Lince, la escuela del bosque y centro de visitantes en la puerta del Alto Börzsöny.
+      A Királyrét se llega en tren hasta Kismaros y de ahí en ferrocarril forestal o en autobús; en abril,
+      además, se concentran las ranas en la zona, y en septiembre es el celo del ciervo.
+    history: >-
+      En abril de 1991 el Parlamento húngaro aprobó una resolución sobre tareas ambientales internacionales
+      relacionadas con el Danubio, que incluía crear un parque nacional en la zona. El decreto 34/1997
+      protegió 60 314,3 hectáreas entre territorios nuevos y áreas ya protegidas.
+
+
+      El humedal del Ipoly, de más de 2300 hectáreas, entró en la lista Ramsar en 2001. El gestor pastorea las
+      praderas con su propio ganado, lo que conserva la vaca gris húngara autóctona. La colina de Strázsa, en
+      el borde occidental del Pilis, fue campo de tiro más de cien años y por eso conserva casi intactos sus
+      valores naturales.
+
+
+      La presión llega por el lado de la capital: el gestor documentó mayor presión ambiental por el aumento
+      de visitantes en los destinos de senderismo cercanos a Budapest.
+    before: >-
+      El gestor ofrece guías de transporte público desde Budapest hacia el Börzsöny y el Pilis para reducir la
+      presión de los desplazamientos en coche: úsalas. Comprueba con el gestor qué centros y exposiciones
+      están abiertos antes de ir.
+  en:
+    intro: >-
+      This national park is named after two rivers, yet the second remains largely unfamiliar. The Danube
+      needs no introduction; the Ipoly, by contrast, resembles a quiet stream for most of the year until
+      floods arrive: between its low-water trickle and peak flood discharge lies a difference of nearly nine
+      hundred times, unmatched in the Carpathian Basin by any river save the Tisza. Danube-Ipoly National Park
+      brings together the Pilis, Visegrád, and Börzsöny ranges, the reach of the Ipoly valley between Hont and
+      Balassagyarmat, and portions of Szentendre Island, precisely where rivers, mountains, and plains
+      converge.
+    landscape: >-
+      The park's defining signature is the dramatic interface between volcanic and sedimentary uplands and the
+      dynamic alluvium and shifting gravel banks of the river corridors. The Danube Bend (Dunakanyar) stands
+      as the finest testament to this intimate bond between watercourse and mountain crests.
+
+
+      Each massif tells a distinct geological story. The Börzsöny is volcanic, crowned by Csóványos at 938 m;
+      roughly 300 to 350 springs feed its crystal-clear streams. The Pilis consists predominantly of Dachstein
+      limestone and main dolomite, originally laid down in Late Triassic coastal lagoons. The Visegrád Hills
+      are built of andesitic volcanic rocks, deeply dissected by erosion into dramatic ravines such as
+      Holdvilág-árok, Salabasina-árok, and Rám-szakadék.
+
+
+      The flora reflects a rich biogeographical transition where sub-Mediterranean and continental climatic
+      zones overlap. Szentendre Island preserves inland sand dunes harbouring strictly protected sand saffron
+      and sand iris; the Pilis shelters a unique relict endemic, and near the town of Szentendre grows the
+      rare Szentendre rose, known from only two other localities globally. On the floodplain meadows of the
+      Ipoly blooms the meadow clematis, réti iszalag.
+    wildlife: >-
+      Along the Ipoly, seasonal life revolves around inundation. Spring floods draw vast concentrations of
+      waterfowl, easily watched from observation towers, while summer brings trail and cycling routes across
+      traditionally mown meadows. Along the near-pristine river section between Hont and Balassagyarmat, rare
+      and protected species nest undisturbed, including the [corncrake](/especie/crex_crex/) and [whooper
+      swan](/especie/cygnus_cygnus/).
+
+
+      The mountains harbour their own specialists. In early July, common crossbills arrive in the Börzsöny
+      from the higher Carpathians, heralding the height of summer. In deep, secluded forests the elusive
+      [Eurasian lynx](/especie/lynx_lynx/) roams, while the [Eurasian otter](/especie/lutra_lutra/) thrives
+      along watercourses. Notable raptors and large birds include the [saker falcon](/especie/falco_cherrug/),
+      [eastern imperial eagle](/especie/aquila_heliaca/), and [black stork](/especie/ciconia_nigra/). Karst
+      caverns shelter the lesser horseshoe bat, alongside the strictly protected and disturbance-sensitive
+      common bent-wing bat. Ponds and backwaters sustain the [European pond
+      turtle](/especie/emys_orbicularis/), while ichthyological treasures include Petényi's barbel, the
+      schraetzer in the middle Ipoly, and brown trout in the clean mountain brooks of the Börzsöny. The middle
+      Ipoly valley also hosts the endemic Hungarian moth Dioszeghyana schmidtii.
+
+
+      The park safeguards more than seven hundred protected and strictly protected species.
+    visit: >-
+      The park authority promotes Danube-Ipoly primarily as a walking and ecotourism destination. In the Ipoly
+      valley, the Ipoly-híd trail links two interpretive routes—Dejtár and Drégelypalánk—spanning roughly
+      fifteen kilometres on foot or by bicycle depending on river levels. It has no fixed stations: waymarkers
+      displaying the Ipoly Híd Túra emblem guide the way. An observation tower stands at Ipolyvece, and near
+      Nagy-sziget island a raised hide offers panoramic wetland views.
+
+
+      The Páskom-legelő trail departs from Dejtár, featuring six stops across three kilometres through the
+      largest unbroken reedbed in the valley; the Apródok útja climbs from Drégelypalánk to the castle over 8
+      stops, rewarding hikers with sweeping vistas.
+
+
+      In the Börzsöny, the Királyrét educational path covers 2.9 km across nine stops, interpreting forest
+      ecology, woodland lakes, heritage forest railways, and ancient iron mining. The walk takes about an hour
+      and a half, beginning at the Lynx House visitor centre at the gateway to the High Börzsöny. Királyrét is
+      accessible by rail to Kismaros and onward by narrow-gauge forest railway or bus; in April, breeding
+      amphibians gather en masse, while September brings the spectacular red deer rut.
+    history: >-
+      In April 1991, the Hungarian Parliament approved a resolution on international environmental commitments
+      concerning the Danube, paving the way for the creation of a national park. Government decree 34/1997
+      placed 60,314.3 hectares under legal protection, combining newly designated lands with pre-existing
+      reserves.
+
+
+      The Ipoly wetland complex, covering over 2300 hectares, was designated a Ramsar site in 2001. The park
+      management actively grazes the lowland meadows with its own livestock herd, safeguarding the native
+      Hungarian grey cattle breed. Strázsa Hill on the western fringe of the Pilis served as a military firing
+      range for over a century, which inadvertently kept its habitats untouched by development.
+
+
+      Pressure arises chiefly from the metropolis: park authorities have noted mounting ecological strain
+      caused by surging visitor numbers at trailheads closest to Budapest.
+    before: >-
+      Park authorities publish dedicated public transport guides from Budapest toward both the Börzsöny and
+      the Pilis to minimize private car travel: make use of them. Confirm which visitor centres and exhibits
+      are open before travelling.
+  fr:
+    intro: >-
+      Ce parc national tire son nom de deux cours d'eau, mais le second demeure presque méconnu. Le Danube est
+      dans tous les esprits ; l'Ipoly, à l'inverse, ressemble à un modeste ruisseau la majeure partie de
+      l'année, jusqu'à la crue : entre son étiage et son débit maximal, la différence atteint près de neuf
+      cents fois, un écart inégalé dans le bassin des Carpates en dehors de la Tisza. Le parc national
+      Danube-Ipoly rassemble les massifs du Pilis, de Visegrád et du Börzsöny, le tronçon de la vallée de
+      l'Ipoly entre Hont et Balassagyarmat et des secteurs de l'île de Szentendre, au carrefour des eaux, des
+      collines et des plaines.
+    landscape: >-
+      La particularité du parc tient à la rencontre intime entre roches volcaniques et sédimentaires et
+      alluvions fertiles ou bancs de graviers mouvants des lits fluviaux. La boucle du Danube (Dunakanyar)
+      offre l'illustration la plus spectaculaire de cette symbiose entre fleuve et montagnes.
+
+
+      Chaque massif possède sa genèse propre. Le Börzsöny est d'origine volcanique et culmine au Csóványos à
+      938 m ; environ 300 à 350 sources alimentent ses ruisseaux limpides. Le Pilis est constitué avant tout
+      de calcaire de Dachstein et de dolomie principale déposés dans des lagunes du Trias supérieur. Les monts
+      de Visegrád sont nés d'un volcanisme andésitique, entaillés par l'érosion en gorges pittoresques telles
+      que Holdvilág-árok, Salabasina-árok et Rám-szakadék.
+
+
+      La végétation témoigne d'une remarquable transition biogéographique où se croisent influences
+      subméditerranéennes et continentales. L'île de Szentendre conserve des dunes intérieures abritant le
+      safran des sables et l'iris des sables, strictement protégés ; le Pilis recèle un endémisme relicte, et
+      près de Szentendre subsiste le rosier de Szentendre, connu de deux autres stations seulement dans le
+      monde. Dans les prairies inondables de l'Ipoly fleurit la clématite des prés, réti iszalag.
+    wildlife: >-
+      Le long de l'Ipoly, le rythme biologique est dicté par les hautes eaux. Les crues printanières
+      concentrent une multitude d'oiseaux aquatiques que l'on observe depuis des tours d'affût, tandis que
+      l'été se prête aux randonnées pédestres et cyclistes à travers les prés de fauche. Sur le tronçon quasi
+      intact entre Hont et Balassagyarmat nichent en toute quiétude des espèces rares comme le [râle des
+      genêts](/especie/crex_crex/) et le [cygne chanteur](/especie/cygnus_cygnus/).
+
+
+      La montagne possède sa propre faune. Début juillet, le bec-croisé des sapins gagne le Börzsöny depuis
+      les Carpates, marquant le plein été. Dans les massifs forestiers tranquilles rôde le discret [lynx
+      boréal](/especie/lynx_lynx/), tandis que la [loutre d'Europe](/especie/lutra_lutra/) anime les rivières.
+      Parmi les grands oiseaux protégés figurent le [faucon sacre](/especie/falco_cherrug/), l'[aigle
+      impérial](/especie/aquila_heliaca/) et la [cigogne noire](/especie/ciconia_nigra/). Les cavités abritent
+      le petit rhinolophe ainsi que le minioptère de Schreibers, espèce vulnérable aux dérangements. Près de
+      l'eau vit la [cistude d'Europe](/especie/emys_orbicularis/), et les cours d'eau accueillent le barbeau
+      de Petényi, la perche schraetzer dans l'Ipoly moyen et la truite dans les ruisseaux purs du Börzsöny. La
+      moyenne vallée héberge également le papillon nocturne endémique Dioszeghyana schmidtii.
+
+
+      Le parc recense plus de sept cents espèces végétales et animales protégées et strictement protégées.
+    visit: >-
+      L'autorité du parc conçoit le Danube-Ipoly comme un espace privilégié d'écotourisme pédestre. Dans la
+      vallée de l'Ipoly, l'itinéraire Ipoly-híd relie deux sentiers didactiques, ceux de Dejtár et
+      Drégelypalánk, parcourant une quinzaine de kilomètres à pied ou à bicyclette selon le régime
+      hydrologique. Sans étapes imposées, le cheminement est fléché par des balises à l'emblème Ipoly Híd
+      Túra. Une tour d'observation est aménagée à Ipolyvece, et un observatoire surélevé près de l'île
+      Nagy-sziget offre un point de repos panoramique.
+
+
+      Le sentier Páskom-legelő part de Dejtár, comporte six stations sur trois kilomètres et traverse la plus
+      vaste roselière continue de la vallée ; le sentier Apródok útja grimpe de Drégelypalánk à la forteresse
+      en 8 stations jalonnées de panoramas exceptionnels.
+
+
+      Dans le Börzsöny, le parcours de Királyrét s'étend sur 2,9 km et compte neuf étapes consacrées à la vie
+      forestière, aux étangs, au chemin de fer forestier et à l'exploitation du fer. La visite demande environ
+      une heure et demie et débute à la Maison du Lynx, centre d'accueil et école de la forêt au seuil du Haut
+      Börzsöny. Királyrét est accessible en train jusqu'à Kismaros puis par train forestier à voie étroite ou
+      par bus ; en avril s'y rassemblent les batraciens, et septembre résonne du brame du cerf.
+    history: >-
+      En avril 1991, le Parlement hongrois vota une résolution relative aux engagements écologiques
+      internationaux autour du Danube, prévoyant la création d'un parc national. Le décret 34/1997 plaça sous
+      protection légale 60 314,3 hectares répartis entre nouveaux territoires et réserves préexistantes.
+
+
+      La zone humide de l'Ipoly, couvrant plus de 2300 hectares, a été inscrite sur la liste Ramsar en 2001.
+      La direction du parc entretient les prairies alluviales avec son propre bétail, assurant la pérennité de
+      la race bovine grise de Hongrie. La colline de Strázsa, en bordure occidentale du Pilis, servit de champ
+      de tir militaire pendant plus d'un siècle, ce qui préserva miraculeusement ses écosystèmes.
+
+
+      La pression écologique découle surtout de la proximité métropolitaine : les gestionnaires relèvent une
+      fréquentation accrue sur les départs de sentiers les plus proches de Budapest.
+    before: >-
+      Le parc propose des fiches d'accès en transports collectifs depuis Budapest vers le Börzsöny et le Pilis
+      pour limiter l'usage de la voiture individuelle : privilégiez-les. Renseignez-vous auprès de l'accueil
+      sur l'ouverture des maisons du parc avant votre départ.
+  de:
+    intro: >-
+      Dieser Nationalpark trägt den Namen zweier Flüsse, doch der zweite ist kaum jemandem geläufig. Die Donau
+      ist weltweit ein Begriff; der Ipoly hingegen gleicht fast das ganze Jahr über einem beschaulichen Bach,
+      bis das Hochwasser kommt: Zwischen Niedrigwasser und Scheitelabfluss schwankt die Wassermenge um das
+      fast Neunhundertfache – ein Wert, den im Karpatenbecken lediglich die Theiß übertrifft. Der Nationalpark
+      Donau-Ipoly vereint das Pilis-, Visegrád- und Börzsöny-Gebirge, den Abschnitt des Ipoly-Tals zwischen
+      Hont und Balassagyarmat sowie Teile der Insel Szentendre genau dort, wo Flüsse, Berge und Tiefland
+      aufeinandertreffen.
+    landscape: >-
+      Das unverwechselbare Merkmal des Parks ist die Verschmelzung vulkanischer und sedimentärer
+      Gesteinsmassive mit den Schwemmlandböden und dynamischen Kiesbänken der Flusstäler. Das Donauknie
+      (Dunakanyar) verdeutlicht diese enge Verzahnung von Flusslauf und Gebirgszügen auf eindrucksvolle Weise.
+
+
+      Jedes Gebirge besitzt seinen eigenen Charakter. Das Börzsöny ist vulkanischen Ursprungs und gipfelt im
+      Csóványos auf 938 m Höhe; rund 300 bis 350 Quellen speisen seine klaren Gebirgsbäche. Das Pilis-Gebirge
+      baut sich vor allem aus Dachsteinkalk und Hauptdolomit auf, die sich in Lagunen der Obertrias
+      ablagerten. Die Visegrád-Berge bestehen aus andesitischem Vulkangestein, in das die Erosion tiefe
+      Schluchten wie Holdvilág-árok, Salabasina-árok und Rám-szakadék eingegraben hat.
+
+
+      Die Pflanzenwelt zeigt Übergangscharakter an der Schnittstelle submediterraner und kontinentaler
+      Klimazonen. Die Insel Szentendre bewahrt Binnendünen mit Sand-Safran und Sand-Schwertlilie unter
+      strengem Schutz; im Pilis überdauerte ein Reliktendemit, und nahe Szentendre gedeiht die seltene
+      Szentendre-Rose, von der weltweit nur zwei weitere Fundorte bekannt sind. In den Feuchtwiesen des Ipoly
+      blüht die Waldrebe réti iszalag.
+    wildlife: >-
+      Am Ipoly bestimmt das Hochwasser den jahreszeitlichen Rhythmus. Die Frühjahrsüberflutungen ziehen
+      unzählige Wasservögel an, die sich von Beobachtungstürmen aus mustergültig überblicken lassen, während
+      der Sommer zu Wander- und Radtouren über gemähte Auenwiesen einlädt. Im nahezu unberührten
+      Flussabschnitt zwischen Hont und Balassagyarmat brüten störungsfrei seltene Arten wie
+      [Wachtelkönig](/especie/crex_crex/) und [Singschwan](/especie/cygnus_cygnus/).
+
+
+      Das Gebirge wartet mit eigenen Raritäten auf. Anfang Juli erreicht der Fichtenkreuzschnabel aus den
+      Hochkarpaten das Börzsöny und läutet dort den Hochsommer ein. In ruhigen Bergwäldern streift der scheue
+      [Luchs](/especie/lynx_lynx/) umher; am Wasser lebt der [Fischotter](/especie/lutra_lutra/). Zu den
+      geschützten Großvögeln des Gebiets gehören [Würgfalke](/especie/falco_cherrug/),
+      [Kaiseradler](/especie/aquila_heliaca/) und [Schwarzstorch](/especie/ciconia_nigra/). Höhlen bieten der
+      Kleinen Hufeisennase sowie der streng geschützten Langflügelfledermaus Unterschlupf. Gewässer beheimaten
+      die [Europäische Sumpfschildkröte](/especie/emys_orbicularis/), während unter den Fischen die
+      Petényi-Barbe, der Schrätzer im mittleren Ipoly und die Bachforelle in den Gebirgsbächen hervorzuheben
+      sind. Im mittleren Ipoly-Tal lebt zudem der endemische Falter Dioszeghyana schmidtii.
+
+
+      Der Nationalpark zählt über siebenhundert geschützte und streng geschützte Tier- und Pflanzenarten.
+    visit: >-
+      Die Parkverwaltung versteht den Donau-Ipoly vorrangig als Ziel für naturnahe Wanderungen. Im Ipoly-Tal
+      verbindet die Route Ipoly-híd zwei Lehrpfade – jene von Dejtár und Drégelypalánk – über etwa fünfzehn
+      Kilometer zu Fuß oder per Rad, je nach Wasserstand des Flusses. Es gibt keine starren Stationen: Pfähle
+      mit dem Emblem der Ipoly Híd Túra weisen die Richtung. Bei Ipolyvece steht ein Aussichtsturm, und nahe
+      der Insel Nagy-sziget lädt ein Hochstand zum Verweilen und Beobachten ein.
+
+
+      Der Lehrpfad Páskom-legelő beginnt in Dejtár, umfasst sechs Stationen auf drei Kilometern und quert das
+      größte Röhrichtgebiet des Tals; der Weg Apródok útja führt von Drégelypalánk mit 8 Stationen hinauf zur
+      Burg und bietet weite Ausblicke.
+
+
+      Im Börzsöny verläuft der Lehrpfad Királyrét über 2,9 km mit neun Stationen und erläutert Waldökologie,
+      Teiche, Waldeisenbahnen und historischen Eisenerzabbau. Der Rundgang dauert etwa anderthalb Stunden und
+      startet am Luchs-Haus, der Waldschule und Besucherzentrum am Tor zum Hohen Börzsöny. Királyrét ist mit
+      dem Zug bis Kismaros und von dort mit der Schmalspurbahn oder dem Bus erreichbar; im April versammeln
+      sich dort viele Amphibien, und im September erlebt man die Hirschbrunft.
+    history: >-
+      Im April 1991 fasste das ungarische Parlament einen Beschluss über internationale Umweltaufgaben an der
+      Donau, der die Gründung eines Nationalparks vorsah. Die Regierungsverordnung 34/1997 stellte 60 314,3
+      Hektar unter Schutz, teils auf neu ausgewiesenen Flächen, teils in bestehenden Reservaten.
+
+
+      Das Feuchtgebiet am Ipoly mit über 2300 Hektar wurde 2001 als Ramsar-Gebiet anerkannt. Die
+      Parkverwaltung beweidet die Auenwiesen mit eigenem Viehbestand und erhält so das ungarische Steppenrind.
+      Der Strázsa-Hügel am Westrand des Pilis diente über ein Jahrhundert lang als militärischer Schießplatz
+      und bewahrte dadurch seine naturnahe Vegetation intakt.
+
+
+      Belastungen entstehen vor allem im Umfeld der Hauptstadt: Die Verwaltung verzeichnet einen spürbaren
+      Nutzungsdruck durch wachsende Besucherzahlen an den stadtnahen Wanderzielen Budapests.
+    before: >-
+      Die Verwaltung bietet Fahrplanhilfen für öffentliche Verkehrsmittel von Budapest ins Börzsöny und Pilis
+      an, um Autofahrten einzudämmen: Nutze dieses Angebot. Erkundige dich vorab, welche Informationszentren
+      und Ausstellungen geöffnet sind.
+  it:
+    intro: >-
+      Questo parco prende il nome da due corsi d'acqua, ma il secondo è quasi ignoto ai più. Il Danubio è noto
+      a tutti; l'Ipoly, al contrario, somiglia a un modesto ruscello per gran parte dell'anno finché non
+      giunge la piena: tra la portata di magra e il colmo di piena vi è uno scarto di quasi novecento volte,
+      superato nel bacino carpatica soltanto dal Tibisco. Il Parco nazionale Danubio-Ipoly riunisce i monti
+      Pilis, Visegrád e Börzsöny, il settore vallivo dell'Ipoly tra Hont e Balassagyarmat e porzioni
+      dell'isola di Szentendre, dove si incrociano fiumi, rilievi e pianura.
+    landscape: >-
+      Il tratto saliente del parco risiede nel contatto intimo tra rocce vulcaniche e sedimentarie e le golene
+      alluvionali con banchi di ghiaia mobili delle valli fluviali. L'Ansa del Danubio (Dunakanyar) incarna al
+      meglio il legame indissolubile tra il corso d'acqua e i rilievi circostanti.
+
+
+      Ciascun massiccio racconta un passato differente. Il Börzsöny è di genesi vulcanica e culmina con i 938
+      m del Csóványos; circa 300-350 sorgenti alimentano i suoi torrenti. Il Pilis è costituito principalmente
+      da calcare di Dachstein e dolomia principale originatisi in lagune del Triassico superiore. I monti di
+      Visegrád presentano vulcaniti andesitiche solcate da profonde gole erosive come Holdvilág-árok,
+      Salabasina-árok e Rám-szakadék.
+
+
+      La copertura vegetale presenta spiccati caratteri di transizione climatica fra domini submediterranei e
+      continentali. L'isola di Szentendre tutela dune sabbiose con zafferano delle sabbie e giaggiolo delle
+      sabbie, rigorosamente protetti; nei Pilis alligna un endemismo relitto, e nei pressi di Szentendre
+      vegeta la rosa di Szentendre, nota in due sole altre stazioni al mondo. Nelle praterie golenali
+      dell'Ipoly fiorisce la clematide réti iszalag.
+    wildlife: >-
+      Lungo l'Ipoly il ritmo ecologico è dettato dalle inondazioni. Le piene primaverili radunano stormi
+      imponenti di uccelli acquatici osservabili dalle torrette, mentre l'estate offre percorsi
+      escursionistici e ciclabili tra i prati falciati. Nel tratto fluviale intatto tra Hont e Balassagyarmat
+      nidificano indisturbate specie protette quali il [re di quaglie](/especie/crex_crex/) e il [cigno
+      selvatico](/especie/cygnus_cygnus/).
+
+
+      I rilievi vantano un popolamento specifico. A inizio luglio il crociere comune giunge sui monti Börzsöny
+      dai Carpazi, segnando l'apice della stagione calda. Nei boschi più solitari può apparire la [lince
+      eurasiatica](/especie/lynx_lynx/), mentre presso i corsi d'acqua vive la [lontra
+      europea](/especie/lutra_lutra/). Fra i rapaci e le grandi specie tutelate spiccano il [falco
+      sacro](/especie/falco_cherrug/), l'[aquila imperiale orientale](/especie/aquila_heliaca/) e la [cicogna
+      nera](/especie/ciconia_nigra/). Le grotte ospitano il ferro di cavallo minore e il miniottero comune,
+      specie fragile e vulnerabile al disturbo antropico. Vicino all'acqua si rinviene la [testuggine palustre
+      europea](/especie/emys_orbicularis/), mentre l'ittiofauna annovera il barbo di Petényi, l'acarina nel
+      medio Ipoly e la trota fario nei torrenti montani del Börzsöny. Nella media valle risiede inoltre la
+      falena endemica Dioszeghyana schmidtii.
+
+
+      Il parco accoglie oltre settecento specie animali e vegetali protette o di rigorosa tutela.
+    visit: >-
+      L'ente gestore valorizza il Danubio-Ipoly quale meta di escursionismo a piedi e turismo naturalistico.
+      Nella valle dell'Ipoly, il percorso Ipoly-híd connette due tracciati didattici, quelli di Dejtár e
+      Drégelypalánk, sviluppandosi per circa quindici chilometri a piedi o in bicicletta a seconda del regime
+      idrico. Non prevede soste prefissate: segnavia con il logo Ipoly Híd Túra indicano la direzione. A
+      Ipolyvece si trova una torre di avvistamento, e vicino all'isola Nagy-sziget sorge una postazione
+      rialzata ideale per sostare e contemplare il paesaggio.
+
+
+      Il sentiero Páskom-legelő muove da Dejtár, presenta sei stazioni su tre chilometri e attraversa il
+      canneto compatto più esteso della valle; il tracciato Apródok útja sale da Drégelypalánk al castello
+      articolandosi in 8 tappe dalle ampie vedute panoramiche.
+
+
+      Nel Börzsöny, il sentiero di Királyrét si snoda per 2,9 km in nove tappe per illustrare la vita del
+      bosco, gli stagni, la ferrovia forestale e le antiche miniere di ferro. L'escursione richiede circa
+      un'ora e mezza e prende le mosse dalla Casa della Lince, centro visite e scuola della foresta alle porte
+      dell'Alto Börzsöny. Si arriva a Királyrét in treno fino a Kismaros e poi a bordo della ferrovia
+      forestale o in autobus; ad aprile si concentrano gli anfibi, mentre a settembre si assiste al bramito
+      del cervo.
+    history: >-
+      Nell'aprile 1991 il Parlamento ungherese approvò un atto di indirizzo sui programmi ambientali
+      internazionali legati al Danubio, stabilendo la nascita di un parco nazionale. Il decreto governativo
+      34/1997 ha tutelato 60 314,3 ettari aggregando nuove aree a riserve storiche già istituite.
+
+
+      La zona umida dell'Ipoly, estesa per oltre 2300 ettari, è stata designata sito Ramsar nel 2001.
+      L'amministrazione pascola le praterie con mandrie proprie, contribuendo alla salvaguardia della razza
+      bovina grigia ungherese. La collina di Strázsa, all'estremità occidentale dei Pilis, fu poligono
+      militare per oltre un secolo, fattore che ha salvaguardato intatti gli habitat naturali.
+
+
+      Le criticità ambientali si concentrano verso la capitale: i gestori segnalano un sensibile impatto
+      dovuto all'aumento dei visitatori sui sentieri più prossimi a Budapest.
+    before: >-
+      L'ente gestore fornisce indicazioni dettagliate sul trasporto pubblico da Budapest verso il Börzsöny e i
+      Pilis per limitare l'uso dei veicoli privati: approfittane. Informati preventivamente sull'apertura dei
+      centri visite prima di pianificare l'itinerario.
+  pt:
+    intro: >-
+      Este parque nacional deve o nome a dois rios, embora o segundo seja praticamente desconhecido do grande
+      público. O Danúbio dispensa apresentações; o Ipoly, pelo contrário, assemelha-se a um fio de água sereno
+      durante quase todo o ano, até à chegada das cheias: entre o seu caudal de estiagem e o pico de inundação
+      regista-se uma oscilação de quase novecentas vezes, superada na bacia dos Cárpatos apenas pelo Tisza. O
+      Parque Nacional Duna-Ipoly agrupa as serras de Pilis, Visegrád e Börzsöny, o troço do vale do Ipoly
+      entre Hont e Balassagyarmat e parcelas da ilha de Szentendre, onde se encontram águas, relevos e
+      planícies.
+    landscape: >-
+      O traço identitário do parque reside na coexistência de rochas vulcânicas e sedimentares com os
+      depósitos aluviais e bancos de cascalho dinâmicos das bacias fluviais. A curva do Danúbio (Dunakanyar)
+      exemplifica na perfeição o estreito laço entre o rio e as vertentes montanhosas.
+
+
+      Cada relevo possui génese própria. O maciço de Börzsöny é vulcânico e culmina no pico Csóványos a 938 m;
+      cerca de 300 a 350 nascentes alimentam as suas linhas de água. Os montes Pilis estruturam-se sobretudo
+      em calcário de Dachstein e dolomito principal de antigas lagunas do Triássico Superior. Já as elevações
+      de Visegrád têm matriz andesítica, com desfiladeiros escavados pela erosão como Holdvilág-árok,
+      Salabasina-árok e Rám-szakadék.
+
+
+      A flora exibe carácter de transição biogeográfica entre as influências subm艙diterrânicas e continentais.
+      A ilha de Szentendre preserva dunas interiores com açafrão-das-areias e lírio-das-areias, sob proteção
+      estrita; no Pilis subsiste um endemismo relíquia, e nas cercanias de Szentendre medra a rosa de
+      Szentendre, conhecida em apenas dois outros locais do mundo. Nos prados inundáveis do Ipoly floresce a
+      clematite réti iszalag.
+    wildlife: >-
+      No vale do Ipoly o calendário biológico segue as cheias. As inundações da primavera atraem multidões de
+      aves aquáticas avistáveis a partir de torres, enquanto o verão convida a passeios a pé ou de bicicleta
+      pelos prados segados. No troço bem preservado entre Hont e Balassagyarmat nidificam sem perturbação
+      espécies raras como o [codornizão](/especie/crex_crex/) e o [cisne-bravo](/especie/cygnus_cygnus/).
+
+
+      A montanha acolhe os seus próprios habitantes. No início de julho chega ao Börzsöny, vindo dos altos
+      Cárpatos, o cruza-bico, assinalando o pico do verão. Nos bosques tranquilos pode surgir o esquivo
+      [lince-euroasiático](/especie/lynx_lynx/), enquanto a [lontra-europeia](/especie/lutra_lutra/) habita
+      junto à água. Entre as aves de grande porte avultam o [falcão-sacre](/especie/falco_cherrug/), a
+      [águia-imperial-oriental](/especie/aquila_heliaca/) e a [cegonha-preta](/especie/ciconia_nigra/). As
+      cavidades rochosas abrigam o morcego-de-ferradura-pequeno e o morcego-de-peluche, estritamente protegido
+      e muito sensível à presença humana. Junto à água vive o
+      [cágado-de-carapaça-estriada](/especie/emys_orbicularis/), surgindo nos cursos hídricos o barbo de
+      Petényi, a perca-do-danúbio no médio Ipoly e a truta nos ribeiros de montanha do Börzsöny. O vale médio
+      acolhe ainda a borboleta noturna endémica Dioszeghyana schmidtii.
+
+
+      O parque protege mais de setecentas espécies vegetais e animais sob estatuto protegido.
+    visit: >-
+      O organismo gestor projeta o Duna-Ipoly como espaço privilegiado para caminhadas e ecoturismo. No vale
+      do Ipoly, o trilho Ipoly-híd interliga dois percursos interpretativos, em Dejtár e Drégelypalánk,
+      cobrindo cerca de quinze quilómetros a pé ou em bicicleta consoante o nível do rio. Não tem paragens
+      rígidas: postes com o logótipo Ipoly Híd Túra marcam o rumo. Em Ipolyvece existe uma torre de observação
+      e, junto à ilha Nagy-sziget, um abrigo elevado ideal para repousar e avistar a fauna.
+
+
+      O percurso Páskom-legelő arranca em Dejtár, possui seis estações ao longo de três quilómetros e cruza o
+      maior caniçal contínuo do vale; o itinerário Apródok útja sobe de Drégelypalánk até ao castelo ao longo
+      de 8 paragens com panorâmicas amplas.
+
+
+      Em Börzsöny, o trilho pedagógico de Királyrét estende-se por 2,9 km em nove etapas, abordando o
+      ecossistema florestal, lagoas, caminhos de ferro florestais e a exploração do ferro. O circuito demora
+      cerca de uma hora e meia a partir da Casa do Lince, centro de acolhimento e escola da floresta no Alto
+      Börzsöny. A Királyrét chega-se de comboio até Kismaros e depois em linha férrea florestal de via
+      estreita ou de autocarro; em abril concentram-se os anfíbios e setembro acolhe a brama dos veados.
+    history: >-
+      Em abril de 1991 o Parlamento húngaro aprovou uma resolução relativa a compromissos ambientais
+      internacionais em torno do Danúbio, determinando a fundação do parque nacional. O decreto governamental
+      34/1997 outorgou proteção a 60 314,3 hectares entre novas demarcações e reservas prévias.
+
+
+      A zona húmida do Ipoly, com mais de 2300 hectares, integrou a convenção de Ramsar em 2001. A entidade
+      gestora pastoreia os prados com efetivo pecuário próprio, assegurando a conservação da vaca cinzenta
+      húngara autóctone. A colina de Strázsa, no flanco poente dos Pilis, foi campo de tiro militar durante
+      mais de cem anos, resguardando assim a sua integridade vegetal.
+
+
+      A pressão incide sobretudo na orla metropolitana: os técnicos alertam para o acréscimo de impacto humano
+      nos trilhos mais próximos de Budapeste.
+    before: >-
+      O parque disponibiliza roteiros de transportes públicos a partir de Budapeste rumo a Börzsöny e Pilis
+      para mitigar a circulação automóvel: faz uso deles. Informa-te junto do centro sobre as instalações
+      abertas antes da partida.
+fuentes:
+  - url: https://www.dunaipoly.hu/hu/helyek/vedett-teruletek/duna-ipoly-nemzeti-park
+    titulo: Duna-Ipoly Nemzeti Park
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/hu/helyek/tanosvenyek/ipoly-hid-turautvonal
+    titulo: Ipoly-híd túraútvonal – Duna-Ipoly Nemzeti Park
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/hu/helyek/vedett-teruletek/ramsari-teruletek/ipoly-volgy
+    titulo: Duna-Ipoly — Ipoly-völgy
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/hu/hir/kozossegi-kozlekedessel-a-duna-ipoly-nemzeti-parkba
+    titulo: Duna-Ipoly — transporte público
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/vi/hu/helyek/tanosvenyek/kiralyreti-tanosveny
+    titulo: DINPI — Királyréti tanösvény
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/hu/program/kalandos-termeszetismeret-felnotteknek-vol-2-pataklako-paranyok
+    titulo: DINPI — Pataklakó parányok, Királyrét
+    fecha_consulta: '2026-10-30'
+  - url: https://www.dunaipoly.hu/hu/helyek/tanosvenyek/kiralyreti-tanosveny
+    titulo: Királyréti tanösvény — Duna-Ipoly Nemzeti Park Igazgatóság
+    fecha_consulta: '2026-10-30'
+  - url: https://hu.wikipedia.org/wiki/Duna%E2%80%93Ipoly_Nemzeti_Park
+    titulo: Duna–Ipoly Nemzeti Park – Wikipédia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Pilismar%C3%B3t,_kopce_B%C3%A1nom-hegy.JPG
+    autor: Aktron
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-19'

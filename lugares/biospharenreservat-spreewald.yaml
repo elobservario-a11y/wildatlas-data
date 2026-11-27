@@ -1,0 +1,648 @@
+id: biospharenreservat-spreewald
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva de la Biosfera del Spreewald
+  en: Spreewald Biosphere Reserve
+  fr: Réserve de biosphère de la Spreewald
+  de: Biosphärenreservat Spreewald
+  it: Riserva della biosfera dello Spreewald
+  pt: Reserva da Biosfera de Spreewald
+nombre_original: Biosphärenreservat Spreewald
+alias:
+  - Spreewald Inland Delta
+paises:
+  - DE
+region:
+  es: Brandeburgo (Lübbenau / Burg)
+  en: Brandenburg (Lübbenau / Burg)
+  fr: Brandebourg (Lübbenau / Burg)
+  de: Brandenburg (Lübbenau / Burg)
+  it: Brandeburgo (Lübbenau / Burg)
+  pt: Brandeburgo (Lübbenau / Burg)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 51.87
+  lon: 13.9
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 319940
+  nombre_en_la_fuente: Biosphärenreservat Spreewald
+  categoria_uicn: V
+  capa: capas/cdda/biospharenreservat-spreewald.geojson
+habitats:
+  - wetland
+  - river_corridor
+  - mature_forest
+designaciones:
+  - biosphere_reserve
+  - natura2000
+especies:
+  - lutra_lutra
+  - ciconia_ciconia
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 3
+masificacion_nota:
+  es: Alta en Lübbenau por paseos en barca; baja en los canales secundarios navegables en canoa
+  en: High in Lübbenau due to punt excursions; low in secondary channels navigated by canoe
+  fr: Forte à Lübbenau en raison des promenades en barque ; faible sur les canaux secondaires réservés au canoë
+  de: Hoch in Lübbenau durch Kahnfahrten; gering auf den Nebenfließen für Paddler
+  it: Alta a Lübbenau per le gite in barca; bassa lungo i canali secondari navigabili in canoa
+  pt: Alta em Lübbenau devido aos passeios de barco; baixa nos canais secundários navegáveis em canoa
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Biosphärenreservat Spreewald Official
+    url: https://www.spreewald-biosphaerenreservat.de/
+  - titulo: Rutas — Senderos y recorridos en bicicleta
+    url: https://www.spreewald-biosphaerenreservat.de/erleben-lernen/aktiv-in-der-natur/rad-und-wandertipps/
+  - titulo: Mapa — Reserva de Spreewald
+    url: https://www.spreewald-biosphaerenreservat.de/karte/
+  - titulo: Accesos — Llegar a Spreewald
+    url: https://www.spreewald-biosphaerenreservat.de/service/anreise/
+  - titulo: Centro de visitantes — Haus für Mensch und Natur
+    url: https://www.spreewald-biosphaerenreservat.de/erleben-lernen/info-ausstellungen/haus-fuer-mensch-und-natur-luebbenau/
+resumen:
+  es: >-
+    Delta interior fluvial de 200 canales (*Fließe*) entrelazados entre alisedas y prados húmedos
+    tradicionales sorbios.
+  en: >-
+    Inland river delta of 200 interwoven channels (*Fließe*) meandering among black alder carrs and
+    traditional Sorbian wet meadows.
+  fr: >-
+    Delta fluvial intérieur de 200 canaux entrelacés (*Fließe*) serpentant entre aulnaies marécageuses et
+    prairies humides sorabes.
+  de: >-
+    Binnendelta aus 200 verzweigten Fließen, eingebettet zwischen Erlenbrüchen und traditionell
+    bewirtschafteten sorbischen Feuchtwiesen.
+  it: >-
+    Delta fluviale interno formato da 200 canali (*Fließe*) intrecciati tra ontanete palustri e prati umidi
+    tradizionali sorabi.
+  pt: >-
+    Delta fluvial interior com 200 canais entrelaçados (*Fließe*) ziguezagueando entre amiais pantanosos e
+    prados húmidos tradicionais sórbios.
+unico:
+  es: >-
+    Un laberinto de canales donde la barca es el camino y la nutria sigue criando en uno de sus últimos
+    refugios europeos.
+  en: >-
+    A watery labyrinth of streams where punts serve as roads and the otter continues breeding in one of its
+    foremost central European refuges.
+  fr: >-
+    Un dédale aquatique où la barque tient lieu de chemin et où la loutre continue de se reproduire dans l'un
+    de ses ultimes sanctuaires d'Europe centrale.
+  de: >-
+    Ein Wasserlabyrinth aus Kanälen, in dem der Kahn als Verkehrsweg dient und der Fischotter in einem seiner
+    bedeutendsten Refugien Mitteleuropas brütet.
+  it: >-
+    Un dedalo di canali dove la barca è l'unica strada e la lontra continua a riprodursi in uno dei suoi
+    ultimi santuari centroeuropei.
+  pt: >-
+    Um labirinto de canais navegáveis onde o barco é a única estrada e a lontra continua a reproduzir-se num
+    dos seus últimos refúgios da Europa Central.
+observaciones:
+  es: >-
+    Lo más acorde con la protección es llegar en transporte público y reducir el tráfico de coches: en tren,
+    por la línea Berlín-Cottbus a las estaciones de Lübben, Lübbenau, Raddusch y Vetschau. Comprueba los
+    horarios y la apertura de los centros en la web del gestor antes de ir.
+texto:
+  es:
+    intro: >-
+      Aquí el Spree no corre: se deshace. Tras la última glaciación, el río se partió en una red finísima de
+      canales que hoy suma 1575 kilómetros, a poco menos de cien kilómetros al sureste de Berlín. Antes
+      serpenteaban por una selva densa; hoy lo hacen entre prados, campos pequeños y bosque, en un paisaje que
+      el gestor describe como parque y al mismo tiempo casi natural. El Biosphärenreservat Spreewald es el
+      lugar para recorrerlo despacio, en piragua, en barca tradicional, en bici o a pie.
+    landscape: >-
+      Todo empieza con la pendiente, o mejor dicho con su ausencia. Hace unos diez mil años, al subir las
+      temperaturas, la poca inclinación formó un delta interior en el Spreewald. El terreno se inundaba a
+      menudo, y las hojas caídas, sin aire, se convirtieron en turba: de ahí los suelos de turbera típicos del
+      lugar.
+
+
+      Sobre esa base, la gente hizo el resto. Los primeros molinos de los siglos XII y XIII retuvieron agua
+      con sus presas y ampliaron los pantanos; en el siglo XVIII se drenó el terreno con muchos canales para
+      poder cultivarlo. El cultivo creó un mosaico de pequeños prados, campos y bosque, además de la trama de
+      canales, y se cuidan todavía formas de cultivo tradicionales como los Horstäcker y los prados de litera.
+      En la época de la RDA se modificó el Spreewald con drenajes para mejorar la agricultura; hoy un proyecto
+      de franjas ribereñas intenta estabilizar el agua.
+
+
+      Entre los hábitats protegidos en toda Europa hay bosques de turbera, aguas con vegetación sumergida,
+      alisedas y fresnedas, praderas de molinia, prados aluviales y prados de siega de baja altitud. Se han
+      identificado dieciséis hábitats de protección especial en Europa. En el agua, la Krebsschere
+      (*Stratiotes aloides*) forma rosetas densas de hojas en forma de espada que flotan.
+    wildlife: >-
+      Entre las especies protegidas en Europa figuran la Rotbauchunke, el Moorfrosch, la Kleine Flussmuschel,
+      el Eremit, la libélula Große Moosjungfer, el Große Feuerfalter, los murciélagos Teichfledermaus y
+      Mopsfledermaus, la nutria y el castor. La [nutria](/especie/lutra_lutra/) encuentra aquí una de sus
+      últimas zonas de reproducción natural de Europa, y el [castor](/especie/castor_fiber/) también vive
+      aquí.
+
+
+      Entre las aves conocidas y protegidas están el [pigargo](/especie/haliaeetus_albicilla/), el [águila
+      pescadora](/especie/pandion_haliaetus/), la [cigüeña negra](/especie/ciconia_nigra/) y la
+      [blanca](/especie/ciconia_ciconia/), el [martín pescador](/especie/alcedo_atthis/), la abubilla y la
+      [grulla](/especie/grus_grus/). La gestión mantiene nidos de cigüeña blanca.
+
+
+      Para verlo, hay dos torres de observación, en Barzlin, entre Lübben y Lübbenau, y en Wussegk, cerca de
+      Schlepzig. Se abrieron en 2005, se alcanzan tanto desde tierra como desde el agua y son parte del
+      recorrido de fauna que se está montando entre Burg y Schlepzig, junto al sendero europeo E 10. Hay
+      empresas de turismo con recorridos especiales en bici, barca tradicional o bote hacia las torres, y los
+      guardas del parque incluyen las torres en sus ofertas.
+    visit: >-
+      El agua es el camino. El turismo en el Spreewald tiene más de cien años de tradición y se hace sobre
+      todo por las vías de agua, en barca tradicional. Tanto palistas expertos como principiantes encuentran
+      su reto en los canales. Para proteger la fauna y la flora no se permite acampar en libertad; hay ocho
+      zonas de vivac certificadas para quien viaja en piragua.
+
+
+      En tierra, el Moorlehrpfad Raddusch es un sendero didáctico de turberas que sirve a pie y en bici, el
+      Lehder Rundweg es un sendero de naturaleza para recorrer a pie, y el sendero europeo E10 cruza el
+      Spreewald. La Kranichtour es una de las rutas en bici que propone el gestor.
+
+
+      Hay tres centros de información: la Haus für Mensch und Natur en Lübbenau, el Schlossberghof en Burg,
+      con un jardín de hierbas, y la Alte Mühle en Schlepzig. El centro de Lübbenau responde cómo nació el
+      paisaje, qué animales y plantas viven aquí y qué tiene que ver la agricultura con la biodiversidad. Los
+      guardas de la Naturwacht ofrecen visitas guiadas.
+    history: >-
+      Ya en 1938 se declaró una primera reserva natural, el Kriegbusch, en el Unterspreewald, y en 1939 otras
+      partes del paisaje pasaron a ser paisaje protegido. En 1990 el Spreewald fue declarado reserva de la
+      biosfera y en 1991 recibió la etiqueta UNESCO. El paisaje protegido incluye 23 reservas naturales y 7
+      zonas núcleo, y en las reservas naturales totales solo se entra con fines de investigación.
+
+
+      El objetivo no es conservar la naturaleza en abstracto, sino el paisaje cultural: por eso el programa
+      Spreewaldwiesenprogramm cuida los pequeños prados húmedos típicos del Spreewald.
+    before: >-
+      Lo más acorde con la protección es llegar en transporte público y reducir el tráfico de coches: en tren,
+      por la línea Berlín-Cottbus a las estaciones de Lübben, Lübbenau, Raddusch y Vetschau. Comprueba los
+      horarios y la apertura de los centros en la web del gestor antes de ir.
+    around: >-
+      El [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) comparte con el Spreewald la
+      castaña de agua y hábitats de humedal, ribera y bosque. Más lejos,
+      [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) y el [Parque de la naturaleza Lonjsko
+      polje](/lugar/park-prirode-lonjsko-polje/) comparten humedales y especies como la nutria o la cigüeña.
+  en:
+    intro: >-
+      Here the River Spree does not flow in a single channel: it frays. Following the last glacial retreat,
+      the waterway branched into an extraordinarily intricate fluvial labyrinth that today spans 1575
+      kilometres, situated just under one hundred kilometres southeast of Berlin. Where dense primeval
+      riparian woodland once reigned, streams now wind through meadows, small parcels, and carrs, creating a
+      cultural landscape that park rangers describe as both park-like and semi-natural. The Biosphärenreservat
+      Spreewald is designed to be experienced unhurriedly: by canoe, traditional punt (*Kahn*), bicycle, or on
+      foot.
+    landscape: >-
+      Everything stems from minimal topographic gradient. Some ten thousand years ago, as temperatures rose,
+      the near-absence of slope created an inland river delta across the Spreewald. Chronic shallow
+      inundations and oxygen-depleted leaf litter accumulated into thick peat layers, laying down typical fen
+      soils.
+
+
+      Human hands shaped the present mosaic. Early watermills dating from the twelfth and thirteenth centuries
+      impounded flows with weirs, expanding wetland expanses; in the eighteenth century extensive ditch
+      networks were dug to drain arable plots. Cultivation created an intricate tapestry of small meadows,
+      fields, and woodlands interlaced with waterways, where traditional Sorbian land practices such as
+      *Horstäcker* (elevated plots) and litter meadows are preserved. During the GDR era, intensive drainage
+      reshaped the Spreewald to boost agricultural yields; modern water-retention projects now work to
+      re-stabilise wetland hydrologic regimes.
+
+
+      Protected habitats across the European network include bog woodlands, submerged macrophyte waters,
+      alder-ash carrs, Molinia meadows, alluvial flood meadows, and lowland hay meadows. Sixteen distinct
+      habitats of European conservation priority have been identified. In the waterways, water soldier
+      (*Stratiotes aloides*) spreads dense floating rosettes of sword-shaped leaves.
+    wildlife: >-
+      Species safeguarded across Europe include the European fire-bellied toad, moor frog, depressed river
+      mussel, hermit beetle, large white-faced darter, large copper butterfly, pond bat, barbastelle bat,
+      otter, and beaver. The [Eurasian otter](/especie/lutra_lutra/) maintains here one of its vital natural
+      reproductive breeding strongholds in Central Europe, and the [Eurasian beaver](/especie/castor_fiber/)
+      also thrives.
+
+
+      Noteworthy breeding birds include the [white-tailed eagle](/especie/haliaeetus_albicilla/),
+      [osprey](/especie/pandion_haliaetus/), [black stork](/especie/ciconia_nigra/), [white
+      stork](/especie/ciconia_ciconia/), [common kingfisher](/especie/alcedo_atthis/), Eurasian hoopoe, and
+      [common crane](/especie/grus_grus/). Conservation managers actively maintain nesting platforms for white
+      storks.
+
+
+      For wildlife viewing, two elevated observation towers operate: at Barzlin between Lübben and Lübbenau,
+      and at Wussegk near Schlepzig. Erected in 2005, both are reachable by land or water, forming waypoints
+      on an interpretive wildlife route linking Burg and Schlepzig alongside European long-distance path E 10.
+      Local outfitters offer specialised bike, punt, and canoe tours to the towers, which are also featured on
+      ranger-led walks.
+    visit: >-
+      The waterways are the thoroughfares. Tourism in the Spreewald boasts over a century of heritage,
+      experienced predominantly from traditional wooden punts. Both seasoned paddlers and novices find
+      rewarding loops among the waterways. To protect vulnerable flora and fauna, wild camping is strictly
+      forbidden; eight certified water-camping bivouacs accommodate touring canoeists.
+
+
+      On dry land, the Moorlehrpfad Raddusch is an interpretive bog boardwalk accessible to walkers and
+      cyclists, the Lehder Rundweg offers a scenic walking circuit, and European trail E10 traverses the
+      reserve. The Kranichtour is among recommended cycling itineraries.
+
+
+      Three visitor centres provide orientation: the Haus für Mensch und Natur in Lübbenau, the Schlossberghof
+      in Burg with its historic herbal garden, and the Alte Mühle in Schlepzig. The Lübbenau centre
+      illustrates how the landscape evolved, which flora and fauna reside here, and how traditional
+      agriculture sustains biodiversity. Park rangers (Naturwacht) conduct guided interpretive excursions.
+    history: >-
+      Conservation began as early as 1938 with the designation of the Kriegbusch nature reserve in the
+      Unterspreewald, followed in 1939 by landscape protection status for surrounding wetlands. In 1990 the
+      Spreewald was declared a biosphere reserve, achieving UNESCO recognition in 1991. The protected area
+      encompasses 23 nature reserves and 7 core wilderness zones; entry to total reserves is restricted to
+      scientific research.
+
+
+      The mission focuses not on abstract wilderness but on living cultural heritage: initiatives like the
+      Spreewaldwiesenprogramm maintain the damp, flowery meadow parcels emblematic of the region.
+    before: >-
+      Arriving by public transport is the most ecologically mindful choice: regional trains run along the
+      Berlin-Cottbus line serving Lübben, Lübbenau, Raddusch, and Vetschau. Check operating hours and visitor
+      centre schedules online before planning your journey.
+    around: >-
+      [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) shares water chestnut and
+      alluvial wetland habitats with the Spreewald. Farther afield,
+      [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) and [Parque de la naturaleza Lonjsko
+      polje](/lugar/park-prirode-lonjsko-polje/) share extensive wetland networks and populations of otters
+      and storks.
+  fr:
+    intro: >-
+      Ici la Spree ne s'écoule pas d'un seul cours : elle se ramifie. Après la dernière glaciation, la rivière
+      s'est scindée en un fin chevelu de canaux totalisant aujourd'hui 1575 kilomètres, à moins de cent
+      kilomètres au sud-est de Berlin. Jadis ces eaux se frayaient un passage dans une forêt primaire
+      impénétrable ; aujourd'hui elles serpentent entre prairies, petits clos et lambeaux forestiers, dans un
+      paysage que le gestionnaire qualifie à la fois de parc et de milieu semi-naturel. Le Biosphärenreservat
+      Spreewald invite à une découverte apaisée, en canoë, en barque traditionnelle à perche, à vélo ou à
+      pied.
+    landscape: >-
+      Tout commence par la pente, ou plutôt par son absence. Il y a environ dix mille ans, avec le
+      réchauffement postglaciaire, la faiblesse du relief a donné naissance à un delta intérieur au cœur de la
+      Spreewald. Les terres s'inondaient régulièrement, et la litière végétale décomposée en milieu anoxique a
+      formé une épaisse couche de tourbe : d'où les sols tourbeux caractéristiques de la région.
+
+
+      L'action humaine a façonné le paysage actuel. Les premiers moulins à eau des XIIe et XIIIe siècles ont
+      retenu les eaux par des barrages, étendant les marécages ; au XVIIIe siècle, de vastes réseaux de fossés
+      ont drainé les parcelles pour permettre les cultures. Cette mise en valeur a créé une mosaïque de
+      petites prairies, de champs et de bosquets adossés aux canaux, où subsistent des pratiques agraires
+      traditionnelles telles que les *Horstäcker* et les prairies à litière. Sous la RDA, des drainages
+      agricoles intensifs ont modifié les équilibres ; aujourd'hui, un vaste programme de bandes riveraines
+      tente de stabiliser les niveaux hydriques.
+
+
+      Parmi les habitats protégés au niveau européen figurent les forêts marécageuses, les eaux calmes à
+      végétation submergée, les aulnaies-frênaies, les prairies à molinie, les prairies alluviales et les
+      prairies de fauche de plaine. Seize habitats d'intérêt communautaire y sont identifiés. Sur l'eau, le
+      faux aloès (*Stratiotes aloides*) déploie ses denses rosettes de feuilles en épée flottant en surface.
+    wildlife: >-
+      Les espèces protégées en Europe rassemblent le sonneur à ventre de feu, la grenouille des champs, la
+      mulette de rivière, le pique-prune, la grande leucorrhine, le grand cuivré, le murin des marais, la
+      barbastelle d'Europe, la loutre et le castor. La [loutre d'Europe](/especie/lutra_lutra/) conserve ici
+      l'un de ses bastions de reproduction naturelle les plus remarquables d'Europe, aux côtés du [castor
+      d'Europe](/especie/castor_fiber/).
+
+
+      L'avifaune compte des hôtes prestigieux tels que le [pygargue à queue
+      blanche](/especie/haliaeetus_albicilla/), le [balbuzard pêcheur](/especie/pandion_haliaetus/), la
+      [cigogne noire](/especie/ciconia_nigra/) et la [cigogne blanche](/especie/ciconia_ciconia/), le
+      [martin-pêcheur d'Europe](/especie/alcedo_atthis/), la huppe fasciée et la [grue
+      cendrée](/especie/grus_grus/). Les gestionnaires entretiennent activement des plateformes de
+      nidification pour la cigogne blanche.
+
+
+      Pour observer les oiseaux, deux observatoires surélevés sont aménagés : à Barzlin entre Lübben et
+      Lübbenau, et à Wussegk près de Schlepzig. Inaugurés en 2005, ils sont accessibles tant par la terre que
+      par l'eau et s'intègrent au parcours faunistique aménagé entre Burg et Schlepzig, le long du sentier
+      européen E 10. Des excursions thématiques en barque ou à vélo desservent ces postes de guet, également
+      inclus dans les visites accompagnées des gardes.
+    visit: >-
+      L'eau constitue l'artère vitale. Le tourisme dans la Spreewald s'appuie sur une tradition centenaire,
+      articulée principalement autour de la batellerie traditionnelle en barques à perche. Pagayeurs
+      chevronnés ou débutants trouvent de superbes itinéraires sur les méandres. Afin de préserver la flore et
+      la faune, le camping sauvage est interdit ; huit aires de bivouac homologuées accueillent les kayakistes
+      itinérants.
+
+
+      À terre, le Moorlehrpfad Raddusch propose un parcours d'interprétation sur caillebotis accessible aux
+      marcheurs et cyclistes, le Lehder Rundweg permet une agréable boucle pédestre et le sentier européen E10
+      traverse le massif. Le Kranichtour compte parmi les beaux circuits à vélo recommandés.
+
+
+      Trois maisons de parc accueillent le public : la Haus für Mensch und Natur à Lübbenau, le Schlossberghof
+      à Burg et son jardin d'herbes médicinales, ainsi que l'Alte Mühle à Schlepzig. L'espace muséographique
+      de Lübbenau décrypte la genèse du paysage et les liens entre agriculture traditionnelle et biodiversité.
+      Les gardes de la Naturwacht proposent des sorties accompagnées.
+    history: >-
+      Dès 1938 fut créée une première réserve naturelle, le Kriegbusch dans l'Unterspreewald, et en 1939
+      d'autres zones humides furent classées paysages protégés. En 1990 la Spreewald a été érigée en réserve
+      de biosphère, recevant la reconnaissance UNESCO en 1991. L'espace protégé englobe 23 réserves naturelles
+      et 7 zones cœurs ; l'accès à ces réserves intégrales est réservé aux programmes scientifiques.
+
+
+      La démarche vise à pérenniser un paysage culturel vivant : ainsi le programme Spreewaldwiesenprogramm
+      veille au maintien des petites parcelles de prairies humides caractéristiques du terroir.
+    before: >-
+      Le train constitue le moyen d'accès le plus écologique : la liaison ferroviaire Berlin-Cottbus dessert
+      directement les gares de Lübben, Lübbenau, Raddusch et Vetschau. Consultez les horaires d'ouverture des
+      centres sur le site officiel avant votre visite.
+    around: >-
+      Le [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) partage la châtaigne d'eau et
+      des mosaïques d'aulnaies et de méandres avec la Spreewald. Plus loin,
+      [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) et le [Parque de la naturaleza Lonjsko
+      polje](/lugar/park-prirode-lonjsko-polje/) partagent d'immenses zones humides ainsi que des populations
+      de loutres et de cigognes.
+  de:
+    intro: >-
+      Hier strömt die Spree nicht in einem Bett: Sie verzweigt sich. Nach der jüngsten Eiszeit zerfiel der
+      Fluss in ein engmaschiges Gewässernetz von heute 1575 Kilometern Länge, knapp hundert Kilometer
+      südöstlich von Berlin gelegen. Wo einst dichter Auwald die Niederung bedeckte, winden sich die Fließe
+      heute zwischen Wiesen, Äckern und Gehölzen – ein Landschaftsbild, das die Verwaltung als parkartig und
+      zugleich naturnah charakterisiert. Das Biosphärenreservat Spreewald lässt sich am besten geruhsam
+      erfahren: im Paddelboot, im traditionellen Spreewaldkahn, auf dem Fahrrad oder zu Fuß.
+    landscape: >-
+      Ausgangspunkt ist das minimale Gefälle. Vor rund zehntausend Jahren entstand bei steigenden Temperaturen
+      durch das geringe Gefälle ein Binnendelta im Spreewald. Regelmäßige Überschwemmungen und anoxische
+      Verhältnisse ließen Pflanzenreste zu mächtigen Torfschichten anwachsen – der Ursprung der typischen
+      Niedermoore.
+
+
+      Die Kulturlandschaft formte der Mensch: Frühe Wassermühlen des zwölften und dreizehnten Jahrhunderts
+      stauten das Wasser auf und erweiterten die Sumpfzonen; im achtzehnten Jahrhundert wurde das Land mit
+      zahlreichen Gräben entwässert, um Äcker anzulegen. Es entstand ein Mosaik aus Wiesen, kleinen Feldern
+      und Erlenbrüchen, in dem historische Bewirtschaftungsformen wie Horstäcker und Streuwiesen bis heute
+      gepflegt werden. Zu DDR-Zeiten veränderten Meliorationsmaßnahmen den Wasserhaushalt; heute zielt ein
+      Gewässerrandstreifenprojekt darauf ab, den Landschaftswasserhaushalt zu stabilisieren.
+
+
+      Zu den europäisch geschützten Lebensräumen zählen Moorwälder, Gewässer mit Unterwasservegetation,
+      Erlen-Eschenwälder, Pfeifengraswiesen, Auenwiesen und magere Flachland-Mähwiesen. Sechzehn
+      FFH-Lebensraumtypen von gemeinschaftlichem Interesse sind nachgewiesen. Auf den Fließen bildet die
+      Krebsschere (*Stratiotes aloides*) dichte schwimmende Rosetten aus schwertförmigen Blättern.
+    wildlife: >-
+      Zu den europarechtlich geschützten Arten gehören Rotbauchunke, Moorfrosch, Kleine Flussmuschel, Eremit,
+      Große Moosjungfer, Großer Feuerfalter, Teichfledermaus, Mopsfledermaus, Fischotter und Biber. Der
+      [Eurasische Fischotter](/especie/lutra_lutra/) besitzt hier eines seiner wichtigsten natürlichen
+      Reproduktionszentren in Mitteleuropa, und auch der [Europäische Biber](/especie/castor_fiber/) ist fest
+      etabliert.
+
+
+      Unter den geschützten Vögeln heben sich [Seeadler](/especie/haliaeetus_albicilla/),
+      [Fischadler](/especie/pandion_haliaetus/), [Schwarzstorch](/especie/ciconia_nigra/),
+      [Weißstorch](/especie/ciconia_ciconia/), [Eisvogel](/especie/alcedo_atthis/), Wiedehopf und
+      [Kranich](/especie/grus_grus/) hervor. Die Parkverwaltung betreut ein Netz von Weißstorch-Nistplätzen.
+
+
+      Zur Vogelbeobachtung stehen zwei Aussichtstürme bereit: in Barzlin zwischen Lübben und Lübbenau sowie in
+      Wussegk bei Schlepzig. Beide wurden 2005 eröffnet, sind zu Lande und zu Wasser erreichbar und bilden
+      Stationen des Naturerlebnispfades Burg–Schlepzig entlang des Europäischen Fernwanderwegs E 10. Lokale
+      Anbieter offerieren Kahn-, Rad- und Bootstouren zu den Türmen, die auch von Rangern angesteuert werden.
+    visit: >-
+      Das Wasser ist der Verkehrsweg. Der Spreewaldtourismus blickt auf über hundert Jahre Tradition zurück
+      und spielt sich vor allem auf den Fließen im traditionellen Holzkahn ab. Paddler finden auf den Kanälen
+      vielfältige Rundkurse. Zum Schutz von Flora und Fauna ist wildes Zelten untersagt; acht zertifizierte
+      Biwakplätze stehen Wasserwanderern zur Verfügung.
+
+
+      An Land führt der Moorlehrpfad Raddusch als Bohlensteg für Wanderer und Radler durch Niedermoore, der
+      Lehder Rundweg erschließt das Lagunendorf Lehde zu Fuß, und der europäische Fernwanderweg E10 quert das
+      Reservat. Die Kranichtour zählt zu den ausgeschilderten Themenradwegen.
+
+
+      Drei Informationszentren vermitteln Wissenswertes: das Haus für Mensch und Natur in Lübbenau, der
+      Schlossberghof in Burg mit Arzneipflanzengarten und die Alte Mühle in Schlepzig. Die Ausstellung in
+      Lübbenau erklärt Landschaftsentstehung und das Zusammenspiel von Landnutzung und Artenvielfalt. Ranger
+      der Naturwacht bieten geführte Touren an.
+    history: >-
+      Bereits 1938 wurde im Unterspreewald mit dem Kriegbusch ein erstes Naturschutzgebiet ausgewiesen, 1939
+      folgten weitere Landschaftsteile als Landschaftsschutzgebiet. Im Jahr 1990 wurde der Spreewald zum
+      Biosphärenreservat erklärt und 1991 von der UNESCO anerkannt. Das Schutzgebiet umfasst 23
+      Naturschutzgebiete und 7 Kernzonen; der Zutritt zu den Kernzonen ist nur zu Forschungszwecken gestattet.
+
+
+      Schutzziel ist die Bewahrung einer lebendigen Kulturlandschaft: Das Spreewaldwiesenprogramm fördert
+      daher die extensive Bewirtschaftung artenreicher Feuchtwiesen.
+    before: >-
+      Die Anreise mit öffentlichen Verkehrsmitteln schont Umwelt und Parkplätze: Regionalzüge auf der Strecke
+      Berlin–Cottbus bedienen die Bahnhöfe Lübben, Lübbenau, Raddusch und Vetschau. Öffnungszeiten der
+      Besucherzentren vorab auf der Website prüfen.
+    around: >-
+      Das [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) teilt mit dem Spreewald
+      Wassernussvorkommen sowie Fluss- und Auwaldstrukturen. Weiter entfernt teilen
+      [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) und der [Parque de la naturaleza Lonjsko
+      polje](/lugar/park-prirode-lonjsko-polje/) Flussauen, Feuchtbiotope sowie Bestände von Fischotter und
+      Störchen.
+  it:
+    intro: >-
+      Qui la Sprea non scorre in un solo letto: si dirama. Dopo l'ultima era glaciale, il corso d'acqua si è
+      suddiviso in una fittissima rete di canali che conta oggi 1575 chilometri, a meno di cento chilometri a
+      sud-est di Berlino. Un tempo le acque solcavano una selva impenetrabile; oggi serpeggiano tra radure,
+      piccoli appezzamenti e boschi planiziali, in un mosaico che l'ente gestore descrive come un parco
+      armonioso e quasi naturale. La riserva della biosfera dello Spreewald invita a un'esplorazione lenta: in
+      canoa, a bordo dei barchini tradizionali a pertica, in sella alla bici o a piedi.
+    landscape: >-
+      La morfologia nasce dalla pendenza, o meglio dalla sua assenza. Circa diecimila anni fa, con
+      l'innalzamento termico postglaciale, il modesto dislivello diede origine a un delta interno nello
+      Spreewald. Il suolo si allagava regolarmente e la lettiera decomposta in ambiente privo d'aria si
+      trasformò in spessi depositi torbosi, originando i tipici terreni di torbiera bassa.
+
+
+      Su questa matrice l'opera umana ha completato il quadro: i primi mulini ad acqua del XII e XIII secolo
+      sbarrarono le correnti allargando le paludi; nel XVIII secolo un'intensa rete di fossi bonificò i
+      terreni agricoli. L'antropizzazione ha plasmato una scacchiera di prati umidi, campicelli e boschi
+      raccordati da canali, preservando forme rurali storiche come gli *Horstäcker* e i prati da strame. Sotto
+      la RDT massicce canalizzazioni modificarono l'assetto; oggi un progetto per le fasce perifluviali punta
+      a ripristinare la falda idrica originaria.
+
+
+      Tra gli habitat tutelati a scala europea figurano boschi torbosi, specchi d'acqua a idrofile sommerse,
+      ontanete con frassino, praterie a molinia, prati alluvionali e formazioni da sfalcio planiziali. Sono
+      stati censiti sedici habitat di interesse prioritario. Lungo i canali l'erba stratiote (*Stratiotes
+      aloides*) forma compatte rosette galleggianti dalle foglie lanceolate.
+    wildlife: >-
+      Tra le specie protette nell'Unione Europea figurano l'ululone dal ventre rosso, la rana di palude, la
+      conchiglia unio di fiume, il coleottero eremita, la leucorrina maggiore, la licena delle paludi, il
+      vespertilio di palude, il barbastello, la lontra e il castoro. La [lontra
+      europea](/especie/lutra_lutra/) vanta qui una delle sue roccaforti riproduttive storiche in Europa
+      centrale, affiancata dal [castoro europeo](/especie/castor_fiber/).
+
+
+      Tra i volatili spiccano l'[aquila di mare](/especie/haliaeetus_albicilla/), il [falco
+      pescatore](/especie/pandion_haliaetus/), la [cicogna nera](/especie/ciconia_nigra/) e la [cicogna
+      bianca](/especie/ciconia_ciconia/), il [martin pescatore](/especie/alcedo_atthis/), l'upupa e la
+      [gru](/especie/grus_grus/). L'ente gestore cura con attenzione i nidi artificiali per la cicogna bianca.
+
+
+      Per il birdwatching sono attive due torrette di osservazione: a Barzlin tra Lübben e Lübbenau, e a
+      Wussegk vicino a Schlepzig. Inaugurate nel 2005, sono raggiungibili sia da terra sia via acqua e
+      costituiscono tappe del percorso didattico tra Burg e Schlepzig, lungo il sentiero europeo E 10.
+      Operatori locali propongono escursioni guidate in barca tradizionale, canoa o bicicletta verso le torri,
+      inserite anche nelle uscite condotte dai ranger.
+    visit: >-
+      L'acqua è la vera via di comunicazione. Il turismo nello Spreewald vanta oltre un secolo di tradizione e
+      si svolge principalmente lungo i canali a bordo dei tipici barchini sorabi. Canottieri provetti o
+      principianti trovano stimolanti anelli tra i meandri. Per proteggere la quiete naturale è vietato il
+      campeggio libero; otto aree di bivacco nautico certificate accolgono i viaggiatori in canoa.
+
+
+      A terra, il Moorlehrpfad Raddusch è una passerella didattica su torbiera per pedoni e ciclisti, il
+      Lehder Rundweg offre un panoramico percorso a piedi e il sentiero europeo E10 attraversa l'area
+      protetta. Il Kranichtour è uno degli itinerari ciclabili consigliati.
+
+
+      Tre centri visite forniscono accoglienza: la Haus für Mensch und Natur a Lübbenau, lo Schlossberghof a
+      Burg con orto botanico delle officinali, e l'Alte Mühle a Schlepzig. L'esposizione di Lübbenau racconta
+      l'origine del paesaggio e i nessi tra agricoltura e biodiversità. Le guide della Naturwacht tengono
+      escursioni tematiche.
+    history: >-
+      Già nel 1938 fu decretata la riserva naturale del Kriegbusch nell'Unterspreewald, e nel 1939 altre
+      porzioni furono classificate paesaggio protetto. Nel 1990 lo Spreewald fu elevato a riserva della
+      biosfera, ottenendo il sigillo UNESCO nel 1991. L'area protetta conta 23 riserve naturali e 7 zone
+      nucleo; l'ingresso nelle riserve integrali è consentito unicamente per finalità scientifiche.
+
+
+      L'obiettivo cardine non è la conservazione astratta, bensì la cura di un paesaggio rurale vivo: il
+      programma Spreewaldwiesenprogramm sostiene la salvaguardia dei prati umidi tradizionali.
+    before: >-
+      Scegliere il trasporto ferroviario rispetta gli equilibri ambientali: i treni regionali della direttrice
+      Berlino-Cottbus fermano nelle stazioni di Lübben, Lübbenau, Raddusch e Vetschau. Controlla orari e
+      aperture dei centri prima della visita.
+    around: >-
+      La [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) condivide con lo Spreewald la
+      castagna d'acqua e ambienti golenali di meandro e bosco planiziale. Più lontano,
+      [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) e il [Parque de la naturaleza Lonjsko
+      polje](/lugar/park-prirode-lonjsko-polje/) condividono zone umide e popolazioni di lontre e cicogne.
+  pt:
+    intro: >-
+      Aqui o rio Spree não corre num leito único: fragmenta-se. Após a última glaciação, o curso de água
+      ramificou-se numa intrincada malha de canais que soma hoje 1575 quilómetros, a escassos cem quilómetros
+      a sudeste de Berlim. Onde outrora medrava uma selva ribeirinha contínua, os esteiros serpenteiam hoje
+      entre prados, pequenas courelas e matas ripícolas, num mosaico que a administração descreve como parque
+      ajardinado e em simultâneo quase natural. A Biosphärenreservat Spreewald descobre-se calmamente: em
+      canoa, barco tradicional de vara, bicicleta ou a pé.
+    landscape: >-
+      Tudo principia pelo declive nulo do terreno. Há cerca de dez mil anos, com o aquecimento pós-glaciar, o
+      fraco desnível formou um delta interior no Spreewald. As terras alagavam-se ciclicamente e a folhada
+      decomposta em meio anaeróbio converteu-se em turfa espessa: daí os solos turfosos emblemáticos da bacia.
+
+
+      A colonização humana modelou a paisagem: moinhos de água erigidos nos séculos XII e XIII represaram os
+      caudais e expandiram os pântanos; no século XVIII abriu-se uma densa malha de valas para drenar solos
+      aráveis. Essa intervenção desenhou um mosaico de prados, campos e matas interligados por esteiros,
+      preservando costumes agrícolas ancestrais como os *Horstäcker* e os prados de folhada. Durante a RDA a
+      drenagem agrícola intensiva transformou a bacia; hoje um projeto de faixas de proteção ribeirinha
+      procura restabelecer os níveis freáticos.
+
+
+      Entre os habitats de conservação comunitária contam-se matas turfosas, águas paradas com vegetação
+      submersa, amiais com freixo, prados de molínia, prados aluviais e prados de feno de planície.
+      Identificaram-se dezasseis habitats com estatuto de proteção prioritária na Europa. Nas águas límpidas,
+      a erva-muda (*Stratiotes aloides*) forma densas rosetas flutuantes de folhas espadas.
+    wildlife: >-
+      Entre as espécies protegidas na União Europeia figuram o bombina-de-barriga-vermelha, a rã-dos-campos, a
+      mexilhão-de-rio, o escaravelho-eremita, a libélula-leucorrínia, a borboleta-fogo-grande, o
+      morcego-dos-charcos, o morcego-lanudo, a lontra e o castor. A [lontra-europeia](/especie/lutra_lutra/)
+      mantém aqui um dos seus refúgios de procriação natural mais notáveis da Europa Central, coexistindo com
+      o [castor-europeu](/especie/castor_fiber/).
+
+
+      Entre as aves destacam-se a [águia-rabalva](/especie/haliaeetus_albicilla/), a [águia
+      pescadora](/especie/pandion_haliaetus/), a [cegonha-preta](/especie/ciconia_nigra/) e a
+      [cegonha-branca](/especie/ciconia_ciconia/), o [guarda-rios-comum](/especie/alcedo_atthis/), a poupa e o
+      [grou-comum](/especie/grus_grus/). Os serviços do parque mantêm ativamente plataformas de nidificação
+      para cegonhas-brancas.
+
+
+      Para observação ornitológica existem duas torres elevadas: em Barzlin entre Lübben e Lübbenau, e em
+      Wussegk junto a Schlepzig. Inauguradas em 2005, acedem-se por terra ou água, integrando o circuito
+      faunístico delineado entre Burg e Schlepzig ao longo do trilho europeu E 10. Empresas turísticas
+      organizam visitas em bicicleta, barco de vara ou canoa até às torres, incluídas igualmente em percursos
+      com guardas florestais.
+    visit: >-
+      A água é a via mestra. O turismo no Spreewald soma mais de cem anos de tradição e cumpre-se
+      primordialmente pelos esteiros em barcos típicos de madeira. Pagaieiros experientes ou principiantes
+      encontram percursos circulares aliciantes. Para salvaguardar a fauna e a flora não é permitido acampar
+      livremente; existem oito áreas de bivaque náutico credenciadas para quem viaja em canoa.
+
+
+      Em terra, o Moorlehrpfad Raddusch é um passadiço interpretativo em turfeiras acessível a caminhantes e
+      ciclistas, o Lehder Rundweg constitui um agradável anel pedestre e o trilho europeu E10 cruza a reserva.
+      A Kranichtour é uma das rotas cicláveis sugeridas.
+
+
+      Três centros de acolhimento prestam apoio: a Haus für Mensch und Natur em Lübbenau, o Schlossberghof em
+      Burg com jardim de aromáticas, e a Alte Mühle em Schlepzig. O polo de Lübbenau documenta a génese da
+      bacia e a relação entre agricultura e conservação. Os guardas da Naturwacht orientam visitas
+      interpretativas.
+    history: >-
+      Logo em 1938 instituiu-se uma primeira reserva natural, o Kriegbusch no Unterspreewald, e em 1939 outras
+      parcelas foram declaradas paisagem protegida. Em 1990 o Spreewald foi consagrado reserva da biosfera,
+      recebendo o selo UNESCO em 1991. O território protegido engloba 23 reservas naturais e 7 zonas
+      nucleares; o acesso às reservas integrais circunscreve-se à investigação científica.
+
+
+      O desígnio visa salvaguardar uma paisagem cultural viva: por isso o programa Spreewaldwiesenprogramm
+      fomenta a conservação dos pequenos prados húmidos tradicionais.
+    before: >-
+      A via ferroviária constitui a opção mais ecológica: comboios regionais da linha Berlim-Cottbus servem as
+      estações de Lübben, Lübbenau, Raddusch e Vetschau. Consulta previamente os horários dos centros de
+      acolhimento no portal oficial.
+    around: >-
+      A [Biosphärenreservat Mittelelbe](/lugar/biospharenreservat-mittelelbe/) partilha a castanha-d'água e
+      galerias ripícolas com o Spreewald. Mais longe, [Hortobágyi](/lugar/hortobagyi-nemzeti-park---puszta/) e
+      o [Parque de la naturaleza Lonjsko polje](/lugar/park-prirode-lonjsko-polje/) partilham extensos paulais
+      e populações de lontra e cegonha.
+fuentes:
+  - url: https://www.spreewald-biosphaerenreservat.de/fileadmin/user_upload/PDF/Spreewald/Faltblaetter/170818Flyer_BR_SW_engl.pdf
+    titulo: Discover the Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/unser-auftrag/naturtourismus/
+    titulo: Naturtourismus — Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/
+    titulo: Biosphärenreservat Spreewald - Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/Biosph%C3%A4renreservat_Spreewald
+    titulo: Biosphärenreservat Spreewald – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/unser-auftrag/naturschutz/
+    titulo: Naturschutz - Unser Auftrag - Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/erleben-lernen/info-ausstellungen/haus-fuer-mensch-und-natur-luebbenau/
+    titulo: Haus für Mensch und Natur Lübbenau - Info & Ausstellungen - Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/service/anreise/
+    titulo: Anreise - Service - Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+  - url: https://www.spreewald-biosphaerenreservat.de/erleben-lernen/aktiv-in-der-natur/rad-und-wandertipps/
+    titulo: Rad- und Wandertipps - Aktiv in der Natur - Biosphärenreservat Spreewald
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Biosph%C3%A4renreservat_Spreewald_Rohrkanal.jpg
+    autor: Anne-Karen Voigt
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,777 @@
+id: st-kilda
+estado_editorial: valoracion-revisada
+nombre:
+  es: Archipiélago de St Kilda - Hirta y Dùn
+  en: St Kilda Archipelago - Hirta and Dùn
+  fr: Archipel de Saint-Kilda - Hirta et Dùn
+  de: St.-Kilda-Archipel - Hirta und Dùn
+  it: Arcipelago di St Kilda - Hirta e Dùn
+  pt: Arquipélago de St Kilda - Hirta e Dùn
+nombre_original: St Kilda
+alias:
+  - St Kilda
+paises:
+  - GB
+region:
+  es: Escocia (Hébridas Exteriores / Hirta)
+  en: Scotland (Outer Hebrides / Hirta)
+  fr: Écosse (Hébrides extérieures / Hirta)
+  de: Schottland (Äußere Hebriden / Hirta)
+  it: Scozia (Ebridi Esterne / Hirta)
+  pt: Escócia (Hébridas Exteriores / Hirta)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 57.81
+  lon: -8.58
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: way/666295533
+  nombre_en_la_fuente: Sgìre Bòidhchid Nàiseanta Hiort
+  capa: capas/osm/st-kilda.geojson
+habitats:
+  - coast
+  - marine
+  - high_mountain
+designaciones:
+  - unesco_whs
+  - strict_reserve
+  - ramsar
+especies:
+  - morus_bassanus
+  - fratercula_arctica
+  - fulmarus_glacialis
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+temporada_nota:
+  es: junio a agosto (condicionado a la calma de las olas del atlántico abierto a 64 km de las Hébridas)
+  en: >-
+    June to August (strictly dependent on calm swells across 64 km of open Atlantic ocean from the Outer
+    Hebrides)
+  fr: juin à août (conditionné par le calme de la houle sur 64 km de plein Atlantique depuis les Hébrides)
+  de: Juni bis August (abhängig von ruhiger Dünung über 64 km offenen Nordatlantik ab den Hebriden)
+  it: giugno ad agosto (subordinato alla calma del moto ondoso su 64 km di pieno Atlantico a ovest delle Ebridi)
+  pt: >-
+    junho a agosto (estritamente condicionado pela ondulação ao longo de 64 km de oceano aberto a partir das
+    Hébridas)
+masificacion: 1
+masificacion_nota:
+  es: Cupo muy reducido en barcos de excursión de día entero desde Harris o Uist
+  en: Strictly capped visitor quotas on full-day passenger boat charters departing Harris or North Uist
+  fr: Quotas très restreints sur vedettes maritimes à la journée au départ de Harris ou North Uist
+  de: Streng limitierte Kapazitäten auf Tagesausflugsbooten ab Harris oder North Uist
+  it: >-
+    Posti fortemente contingentati su imbarcazioni autorizzate per escursioni giornaliere da Harris o North
+    Uist
+  pt: Lotações diárias muito restritas em embarcações fretadas a partir de Harris ou North Uist
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: National Trust for Scotland St Kilda Official
+    url: https://www.nts.org.uk/visit/places/st-kilda
+  - titulo: Accesos y normas — Preparar la visita de St Kilda
+    url: https://www.nts.org.uk/visit/places/st-kilda/planning-your-visit
+  - titulo: Desembarco y bioseguridad — St Kilda
+    url: https://www.nts.org.uk/visit/places/st-kilda/landing
+enlaces_referencia:
+  - titulo: UNESCO World Heritage Centre St Kilda
+    url: https://whc.unesco.org/en/list/387/
+resumen:
+  es: >-
+    El único bien Mixto (Cultural y Natural) Patrimonio Mundial de la UNESCO en el Reino Unido, con los
+    acantilados y monolitos marinos (*stacks*) con la mayor colonia de alcatraz del mundo (Stac an Armin 196
+    m).
+  en: >-
+    The only Dual (Cultural and Natural) UNESCO World Heritage Site in the UK, with sheer sea cliffs and sea
+    stacks hosting the world's largest gannet colony (Stac an Armin 196 m).
+  fr: >-
+    L'unique bien mixte (culturel et naturel) du patrimoine mondial de l'UNESCO au Royaume-Uni, aux falaises
+    vertigineuses et stacks hébergeant la plus vaste colonie de fous de Bassan au monde (Stac an Armin 196 m).
+  de: >-
+    Das einzige gemischte UNESCO-Welterbe (Kultur und Natur) des Vereinigten Königreichs mit Steilklippen und
+    Felsnadeln (*Stacks*) mit der weltgrößten Basstölpelkolonie (Stac an Armin 196 m).
+  it: >-
+    L'unico sito Misto (Culturale e Naturale) Patrimonio Mondiale UNESCO nel Regno Unito, con scogliere
+    oceaniche e faraglioni (*stacks*) che ospitano la maggiore colonia di sula al mondo (Stac an Armin 196 m).
+  pt: >-
+    O único bem Misto (Cultural e Natural) Património Mundial da UNESCO no Reino Unido, com falésias oceânicas
+    e rochedos marinhos (*stacks*) albergando a maior colónia de gansos-patola do mundo (Stac an Armin 196 m).
+unico:
+  es: >-
+    Un volcán extinguido convertido en acantilados donde anidan diecisiete especies de aves marinas, y una
+    aldea de piedra que quedó vacía de golpe.
+  en: >-
+    An extinct volcano sculpted into sea cliffs where seventeen species of seabirds nest, alongside an
+    abandoned stone village that emptied overnight.
+  fr: >-
+    Un volcan éteint sculpté en falaises marines où nichent dix-sept espèces d'oiseaux marins, côtoyant un
+    village de pierre déserté du jour au lendemain.
+  de: >-
+    Ein erloschener Vulkan als Klippenbastion für siebzehn Seevogelarten und ein Steindorf, das über Nacht
+    vollständig verlassen wurde.
+  it: >-
+    Un vulcano estinto trasformato in falesie marine dove nidificano diciassette specie di uccelli marini, e
+    un borgo in pietra svuotatosi all'improvviso.
+  pt: >-
+    Um vulcão extinto convertido em escarpas marítimas onde nidificam dezassete espécies de aves marinhas, e
+    uma aldeia de pedra que ficou subitamente deserta.
+observaciones:
+  es: >-
+    El archipiélago es frágil. Quien quiera desembarcar debe avisar antes al National Trust for Scotland, por
+    el riesgo de introducir especies no nativas en un medio frágil. La Trust mantiene un programa de
+    seguimiento de las colonias de aves marinas.
+
+
+    El tiempo manda: con mar gruesa, el desembarco puede ser difícil o imposible. Hirta está habitada todo el
+    año por personal de la base militar, y en verano pasan conservacionistas, voluntarios y científicos. Las
+    colonias de aves se ven mejor de lejos.
+texto:
+  es:
+    intro: >-
+      Si te colocas en Dùn en un día de mucho movimiento, decenas de miles de frailecillos giran alrededor de
+      tu cabeza. St Kilda es eso: un archipiélago remoto del Atlántico norte, a 65 kilómetros al
+      oeste-noroeste de North Uist, que reúne una de las mayores colonias de alcatraces del mundo y las ruinas
+      de una comunidad que vivió aquí al menos cuatro mil años, hasta que sus últimos 36 habitantes se
+      marcharon el 29 de agosto de 1930. Hoy es Patrimonio Mundial por su valor natural y cultural a la vez.
+    landscape: >-
+      Lo que ves son los restos de un volcán anular extinguido, hecho de granitos y gabros muy desgastados,
+      que se alza desde una meseta del fondo marino. El mar y el viento hicieron el resto. Hirta, la isla
+      mayor, tiene los acantilados marinos más altos del Reino Unido: la cara norte de Conachair, de 430
+      metros de altura máxima en la isla, cae a plomo al mar en un tajo de hasta 427 metros. Desde el agua, la
+      entrada a Village Bay engaña, porque parece un pueblo pequeño rodeado de colinas suaves.
+
+
+      Alrededor de Hirta se levantan los islotes rocosos: Stac an Armin, de 196 metros, y Stac Lee, de 172,
+      los mayores de Gran Bretaña. Dùn, que resguarda la bahía de los vientos del suroeste, estuvo unida a
+      Hirta por un arco natural.
+
+
+      El clima es oceánico y húmedo, y la nieve cubre el suelo solo unos doce días al año. El oleaje, en
+      cambio, manda: con olas de cinco metros, que son frecuentes, los desembarcos se vuelven difíciles o
+      imposibles en cualquier época. Y no hay árboles. Los vientos y la sal dejan un paisaje de pastos donde,
+      aun así, crecen más de 130 plantas con flor, 162 especies de hongos y 160 de briófitos, además de un
+      diente de león endémico, Taraxacum pankhurstianum, identificado en 2012.
+    wildlife: >-
+      Los números explican el ruido. La colonia de [alcatraces atlánticos](/especie/morus_bassanus/) suma
+      30.000 parejas, el 24 por ciento de la población mundial. Nidifican 49.000 parejas de paíño de Leach,
+      hasta el 90 por ciento de la población europea, y hay 136.000 parejas de [frailecillo
+      atlántico](/especie/fratercula_arctica/), cerca del 30 por ciento de los que crían en el Reino Unido.
+      Dùn alberga la mayor colonia de [fulmares](/especie/fulmarus_glacialis/) de Gran Bretaña, y hasta 1828
+      St Kilda fue su único lugar de cría en el Reino Unido. Entre las especies que anidan también hay araos,
+      alcas, págalos grandes, págalos parásitos y cormoranes moñudos.
+
+
+      Todo cambia entre el día y la noche. De día, las colonias suenan a parloteo: araos, gaviotas
+      tridáctilas, alcatraces, págalos y frailecillos. De noche vuelven a sus nidos las pardelas pichonetas y
+      los paíños de Leach, y el ambiente se vuelve más inquietante. Con visión nocturna, los ecólogos vieron a
+      los [págalos grandes](/especie/stercorarius_skua/) cazando paíños en la oscuridad, una estrategia poco
+      común en un ave marina.
+
+
+      En tierra viven dos subespecies que solo existen aquí: el chochín de St Kilda y el ratón de campo de St
+      Kilda. La [foca gris](/especie/halichoerus_grypus/) cría ahora en Hirta, pero no lo hacía antes de la
+      evacuación de 1930. Y están las ovejas: la oveja Soay, de tipo neolítico, vive asilvestrada en la isla
+      de Soay y se estudia en Hirta desde hace décadas, y la de Boreray, descendiente de una variedad
+      primitiva, es una de las razas británicas más raras. El último alca gigante visto en Gran Bretaña fue
+      abatido en Stac an Armin en julio de 1840.
+
+
+      La mejor época va de junio a agosto, cuando el mar está más tranquilo.
+    visit: >-
+      Aquí no se llega: se navega. Todo el acceso es en barco y embarcación auxiliar hasta tierra, y la
+      travesía desde las Hébridas occidentales puede durar entre tres y seis horas, según el tiempo y las
+      mareas. Por eso la visita suele ser un día entero, o dos, con el desembarco en Village Bay como primer
+      paso.
+
+
+      Desde el embarcadero, un camino pavimentado sube hasta lo alto de la colina y es muy empinado en algunos
+      tramos; los senderos de la isla son irregulares. Sube con calma y mira hacia arriba: desde las alturas
+      de Hirta ves cómo Dùn y los acantilados se llenan de aves.
+
+
+      En el pueblo, el recorrido es una lección de historia. Una de las casas de The Street, la número 3, se
+      restauró y es hoy el museo. Los cleitean, almacenes de piedra con techo de turba, aparecen por todas
+      partes: hay 1.260 en Hirta y 170 en las demás islas. Se levantan con piedras planas y un casquete de
+      turba, de modo que el viento los atraviesa pero la lluvia no entra.
+    history: >-
+      Durante siglos, la vida en St Kilda giró alrededor de las aves. La base de la comida de los isleños eran
+      las aves, sobre todo alcatraces y fulmares, que recogían como huevos y pollos. Cada mañana, tras los
+      rezos, los hombres adultos decidían en la calle las tareas del día en un «parlamento» sin presidente.
+      Para comunicarse con el exterior, encendían una hoguera en la cumbre de Conachair. Quedan además 20
+      estructuras «con cuernos» en Gleann Mòr, sin equivalente en Europa y de uso desconocido.
+
+
+      El pueblo medieval se abandonó en 1834 y se levantó uno nuevo entre el pozo Tobar Childa y el mar. La
+      evacuación llegó casi un siglo después: el 29 de agosto de 1930, los 36 isleños que quedaban votaron
+      irse porque su modo de vida ya no era sostenible.
+
+
+      Entonces empezó otra etapa. Lord Dumfries compró las islas para conservarlas como santuario de aves y
+      las dejó al National Trust for Scotland al morir, en 1956. En 1957 el archipiélago fue declarado reserva
+      natural nacional; en 2005 St Kilda se sumó a las dos docenas de lugares del mundo con el título mixto,
+      por su valor natural y cultural. BirdLife International reconoce el archipiélago como Área Importante
+      para las Aves por sus colonias de aves marinas. La renovación del pueblo ha corrido en buena parte por
+      cuenta de grupos de voluntarios de verano.
+    before: >-
+      El archipiélago es frágil. Quien quiera desembarcar debe avisar antes al National Trust for Scotland,
+      por el riesgo de introducir especies no nativas en un medio frágil. La Trust mantiene un programa de
+      seguimiento de las colonias de aves marinas.
+
+
+      El tiempo manda: con mar gruesa, el desembarco puede ser difícil o imposible. Hirta está habitada todo
+      el año por personal de la base militar, y en verano pasan conservacionistas, voluntarios y científicos.
+      Las colonias de aves se ven mejor de lejos.
+    around: >-
+      St Kilda no tiene vecinos cercanos en el atlas, pero sí lugares afines por sus aves marinas.
+      [Mykines](/lugar/mykines/) comparte alcatraz atlántico, fulmar y frailecillo con las rocas de St Kilda;
+      [Kalsoy](/lugar/kalsoy/) y la [Friðland á Hornströndum](/lugar/hornstrandir/) coinciden en fulmar y
+      frailecillo; y [Alderney](/lugar/alderney/) en alcatraz atlántico y frailecillo.
+  en:
+    intro: >-
+      If you stand on Dùn on a bustling summer day, tens of thousands of puffins wheel around your head in
+      every direction. St Kilda is an isolated oceanic outpost in the North Atlantic, situated 65 kilometers
+      west-northwest of North Uist. It shelters one of the greatest northern gannet colonies on the planet and
+      the preserved ruins of an isolated community that lived here for at least four thousand years, until its
+      final 36 residents were evacuated on 29 August 1930. Today it holds dual World Heritage status for both
+      its natural and cultural significance.
+    landscape: >-
+      What rises before you are the battered remnants of a tertiary ring volcano composed of weathered
+      granites and gabbros, rising abruptly from a submerged continental shelf. Ocean swells and gale-force
+      winds did the rest. Hirta, the largest island, boasts the highest sheer sea cliffs in the United
+      Kingdom: the northern precipice of Conachair, the island's 430 m high summit, plummets vertically into
+      the sea in a breathtaking wall of 427 meters. Seen from offshore, the sweep of Village Bay is deceiving,
+      appearing like a quiet hamlet sheltered by rolling emerald slopes.
+
+
+      Around Hirta stand dramatic sea stacks: Stac an Armin, towering 196 meters, and Stac Lee at 172 meters,
+      the highest in Britain. The jagged islet of Dùn, sheltering the bay from southwesterly gales, was once
+      connected to Hirta by a natural arch.
+
+
+      The climate is intensely oceanic and humid, with snow settling on the ground only about twelve days each
+      year. Sweeping waves dominate: five-meter ocean swells are frequent, making small-boat landings
+      challenging or impossible at any time of year. There are no trees. Salt-laden gales produce maritime
+      grassland where, nevertheless, more than 130 flowering plants thrive, alongside 162 species of fungi and
+      160 bryophytes, including an endemic dandelion, Taraxacum pankhurstianum, identified in 2012.
+    wildlife: >-
+      The sheer avian census explains the overwhelming roar. The colony of [northern
+      gannets](/especie/morus_bassanus/) numbers 30,000 breeding pairs, representing 24 percent of the global
+      population. Roughly 49,000 pairs of Leach's storm petrels breed here, up to 90 percent of the European
+      breeding total, alongside 136,000 pairs of [Atlantic puffins](/especie/fratercula_arctica/), nearly 30
+      percent of all puffins nesting in the United Kingdom. Dùn holds the largest concentration of [northern
+      fulmars](/especie/fulmarus_glacialis/) in Britain, and until 1828 St Kilda was their only nesting
+      station in the UK. Guillemots, razorbills, great skuas, Arctic skuas, and European shags also crowd the
+      ledges.
+
+
+      The spectacle alters completely between day and night. By day the amphitheater echoes with cries:
+      guillemots, kittiwakes, gannets, skuas, and puffins. At dusk Manx shearwaters and Leach's petrels return
+      under cover of dark, lending the island an eerie acoustic presence. Using night-vision cameras,
+      ecologists revealed [great skuas](/especie/stercorarius_skua/) actively hunting petrels in pitch
+      darkness, an uncommon foraging strategy for seabirds.
+
+
+      On land live two endemic sub-species found nowhere else on Earth: the St Kilda wren and the St Kilda
+      field mouse. [Grey seals](/especie/halichoerus_grypus/) haul out and pup around Hirta today, though they
+      did not do so prior to the human evacuation of 1930. Primitive feral sheep roam the terrain: the
+      Neolithic Soay sheep runs wild on the island of Soay and has been studied on Hirta for decades, while
+      the Boreray sheep is one of Britain's rarest heritage breeds. The last great auk recorded in Britain was
+      killed on Stac an Armin in July 1840.
+
+
+      The most favorable season spans June to August when Atlantic sea conditions are calmest.
+    visit: >-
+      You do not simply travel here: you navigate. All access requires chartered boat expeditions and tender
+      transfers ashore, with crossings from the Outer Hebrides taking anywhere between three and six hours
+      depending on weather and swell. Consequently, day trips typically last an entire day, or two, beginning
+      with a tender landing at the Village Bay slipway.
+
+
+      From the pier, a surfaced path ascends steeply toward the village and slopes beyond; overall island
+      walking paths are rugged and unpaved. Take your time climbing and look up: from the crests of Hirta, you
+      will see Dùn and vertical crags teeming with nesting birds.
+
+
+      Down in the village, every stone conveys island history. One restored blackhouse on The Street, number
+      3, now operates as a seasonal museum. Cleitean, traditional dry-stone storage cells roofed with living
+      turf, stand everywhere across the valley: 1,260 on Hirta and 170 on the outlying islands. Constructed of
+      dry-stone slabs under turf domes, they allow maritime gales to blow clean through while shedding heavy
+      rains.
+    history: >-
+      For thousands of years, life on St Kilda revolved around harvesting seabirds. The staple diet consisted
+      of birds, especially gannets and fulmars, collected as eggs and nestlings from dizzying cliffs. Every
+      morning following prayers, adult men gathered on The Street to decide daily chores in an informal
+      parliament without a chairman. To signal the mainland in emergencies, islanders lit beacon bonfires atop
+      Conachair. Mysterious stone ruins include 20 horned structures in Gleann Mòr, with no architectural
+      equivalents in Europe and of unknown ancient purpose.
+
+
+      The medieval village was abandoned in 1834 when a newly planned street of cottages arose between the
+      spring Tobar Childa and the bay. Evacuation arrived nearly a century later: on 29 August 1930, the 36
+      surviving islanders voted to leave because their isolated subsistence lifestyle was no longer viable.
+
+
+      A new conservation chapter opened thereafter. Lord Dumfries acquired the archipelago to preserve it as a
+      bird sanctuary, bequeathing it to the National Trust for Scotland upon his death in 1956. In 1957 the
+      archipelago was proclaimed a National Nature Reserve; in 2005 St Kilda joined the select two dozen sites
+      worldwide recognized with dual World Heritage status for both nature and culture. BirdLife International
+      designates the islands an Important Bird Area for their seabird colonies. Village restoration has been
+      driven largely by dedicated work parties of summer volunteers.
+    before: >-
+      The archipelago is an exceptionally fragile island ecosystem. Anyone planning to land must obtain prior
+      permission from the National Trust for Scotland to prevent biosecurity risks from introducing alien
+      rodents or seeds. The Trust maintains rigorous monitoring of seabird colonies.
+
+
+      Ocean conditions dictate all itineraries: in heavy swell, landing by tender becomes hazardous or
+      impossible. Hirta is inhabited year-round by radar base personnel, joined in summer by wardens,
+      volunteers, and researchers. Bird colonies should be appreciated respectfully from designated paths.
+    around: >-
+      St Kilda has no immediate neighbors in the atlas, but shares immense pelagic seabird colonies with
+      distant oceanic outposts. [Mykines](/lugar/mykines/) in the Faroes shares northern gannet, fulmar, and
+      Atlantic puffin; [Kalsoy](/lugar/kalsoy/) and [Friðland á Hornströndum](/lugar/hornstrandir/) in Iceland
+      match its fulmars and puffins; and [Alderney](/lugar/alderney/) in the Channel Islands shares northern
+      gannets and puffins.
+  fr:
+    intro: >-
+      Si vous vous tenez sur Dùn un jour de grande affluence, des dizaines de milliers de macareux tournoient
+      autour de votre tête. Saint-Kilda est un avant-poste océanique reculé de l'Atlantique Nord, à 65
+      kilomètres à l'ouest-nord-ouest de North Uist. L'archipel rassemble l'une des plus gigantesques colonies
+      de fous de Bassan au monde et les vestiges d'une communauté qui subsista ici pendant au moins quatre
+      mille ans, jusqu'à ce que ses 36 derniers résidents soient évacués le 29 août 1930. Il est aujourd'hui
+      classé au patrimoine mondial tant pour ses richesses naturelles que culturelles.
+    landscape: >-
+      Le décor résulte d'un volcan annulaire tertiaire érodé, constitué de granites et gabbros abrasés
+      surgissant d'un plateau sous-marin. Les houles et les bourrasques ont forgé le relief. Hirta, l'île
+      principale, dresse les plus hautes falaises maritimes du Royaume-Uni : la face nord du Conachair, point
+      culminant à 430 mètres, plonge à pic dans l'océan sur un abîme de 427 mètres. Depuis le large, l'anse de
+      Village Bay surprend par son allure de hameau pastoral ceinturé de pentes herbeuses.
+
+
+      Autour d'Hirta se dressent des stacks spectaculaires : Stac an Armin, haut de 196 mètres, et Stac Lee à
+      172 mètres, les plus vertigineux de Grande-Bretagne. L'îlot acéré de Dùn, qui protège la baie des vents
+      de sud-ouest, était jadis rattaché à Hirta par une arche naturelle effondrée.
+
+
+      Le climat est hyperocéanique et pluvieux, la neige ne tenant au sol qu'environ douze jours par an. La
+      mer règne sans partage : des vagues de cinq mètres sont fréquentes, rendant tout débarquement délicat ou
+      impraticable en toute saison. Aucun arbre ne pousse. Les embruns et le vent ont façonné des pelouses
+      maritimes où prospèrent plus de 130 plantes à fleurs, 162 espèces de champignons et 160 de mousses,
+      ainsi qu'un pissenlit endémique, Taraxacum pankhurstianum, décrit en 2012.
+    wildlife: >-
+      Les chiffres illustrent le vacarme assourdissant. La colonie de [fous de
+      Bassan](/especie/morus_bassanus/) compte 30 000 couples reproducteurs, soit 24 pour cent de l'effectif
+      mondial. Quelque 49 000 couples d'océanites cul-blanc y nidifient, représentant jusqu'à 90 pour cent de
+      la population européenne, aux côtés de 136 000 couples de [macareux
+      moines](/especie/fratercula_arctica/), près de 30 pour cent des effectifs du Royaume-Uni. Dùn rassemble
+      la plus grande colonie de [fulmars boréaux](/especie/fulmarus_glacialis/) de Grande-Bretagne, et
+      jusqu'en 1828 Saint-Kilda représentait leur unique lieu de reproduction britannique. Guillemots, petits
+      pingouins, grands labbes, labbes parasites et cormorans huppés complètent les falaises.
+
+
+      L'ambiance se métamorphose entre le jour et la nuit. Le jour, les parois résonnent des cris des
+      guillemots, mouettes tridactyles, fous et macareux. La nuit venue, puffins des Anglais et pétrels
+      rentrent au terrier dans un concert sonore saisissant. Muni de caméras infrarouges, des scientifiques
+      ont surpris des [grands labbes](/especie/stercorarius_skua/) chassant les pétrels en pleine obscurité,
+      fait insolite chez un oiseau de mer.
+
+
+      À terre survivent deux sous-espèces endémiques exclusives : le troglodyte de Saint-Kilda et le mulot de
+      Saint-Kilda. Le [phoque gris](/especie/halichoerus_grypus/) met bas sur les rivages d'Hirta aujourd'hui,
+      ce qu'il ne faisait pas avant l'évacuation de 1930. Les ovins témoignent d'archaïsmes uniques : le
+      mouton de Soay, de souche néolithique, vit à l'état sauvage sur l'île de Soay et fait l'objet d'études
+      génétiques, tandis que le mouton de Boreray constitue l'une des races les plus rares d'Écosse. Le
+      dernier grand pingouin tué en Grande-Bretagne fut abattu sur Stac an Armin en juillet 1840.
+
+
+      La meilleure période s'étend de juin à août, quand la mer se fait plus maniable.
+    visit: >-
+      On ne se rend pas ici, on navigue. L'accès repose exclusivement sur des bateaux affrétés et des
+      débarquements en canot semi-rigide, la traversée depuis les Hébrides extérieures prenant entre trois et
+      six heures selon la marée et la météo. L'excursion s'effectue sur une journée entière, ou deux, débutant
+      par un débarquement sur la jetée de Village Bay.
+
+
+      Depuis le quai, une voie empierrée monte vers le village et s'élève raide sur les pentes ; les sentiers
+      insulaires restent rugueux et pentus. Prenez votre temps pour monter et levez les yeux : des hauteurs
+      d'Hirta, les falaises de Dùn se révèlent noires d'oiseaux.
+
+
+      Au village, chaque mur raconte l'isolement insulaire. Une des maisons traditionnelles de The Street, le
+      numéro 3, a été réhabilitée en musée. Les cleitean, abris de pierre sèche coiffés de mottes de tourbe,
+      parsèment la lande : on en dénombre 1 260 sur Hirta et 170 sur les îles périphériques. Bâtis sans
+      mortier, ils laissent passer le vent tout en stoppant la pluie.
+    history: >-
+      Durant des siècles, l'existence des insulaires a dépendu des oiseaux de mer. La subsistance reposait sur
+      les œufs et poussins de fous et de fulmars récoltés à la corde sur les parois. Chaque matin après la
+      prière, les hommes adultes organisaient la journée au sein d'un parlement sans chef réuni sur la rue du
+      village. Pour communiquer avec le continent, ils allumaient des feux au sommet du Conachair. Mystères
+      archéologiques, 20 structures dites à cornes subsistent dans le Gleann Mòr, sans équivalent connu en
+      Europe.
+
+
+      Le village médiéval fut abandonné en 1834 pour reconstruire des cottages alignés entre la source Tobar
+      Childa et la baie. L'évacuation définitive survint un siècle plus tard : le 29 août 1930, les 36
+      insulaires restants votèrent leur départ face à la précarité de leur modèle de vie.
+
+
+      Une ère de conservation débuta alors. Lord Dumfries acquit l'archipel pour en faire un sanctuaire
+      ornithologique, le léguant au National Trust for Scotland à sa mort en 1956. En 1957, l'archipel fut
+      érigé en réserve naturelle nationale ; en 2005, Saint-Kilda rejoignit la trentaine de sites mondiaux
+      bénéficiant d'une double inscription mixte au patrimoine mondial. BirdLife International classe le
+      secteur en Zone importante pour les oiseaux. La préservation du village repose sur des chantiers
+      estivaux de bénévoles.
+    before: >-
+      L'archipel constitue un milieu insulaire vulnérable. Tout visiteur indépendant doit obtenir l'aval
+      préalable du National Trust for Scotland pour éviter l'introduction d'espèces invasives ou de graines
+      exotiques. Le Trust assure un suivi scientifique des colonies.
+
+
+      La mer commande : par grosse houle, le débarquement en canot peut s'avérer dangereux ou impossible.
+      Hirta est occupée à l'année par les équipes de la station radar militaire, rejointes en été par
+      écologues et volontaires. Les oiseaux se contemplent à distance raisonnable.
+    around: >-
+      Saint-Kilda ne compte aucun voisin immédiat dans l'atlas, mais partage des analogies marines avec des
+      îles distantes. [Mykines](/lugar/mykines/) aux Féroé partage fou de Bassan, fulmar et macareux moine ;
+      [Kalsoy](/lugar/kalsoy/) et [Friðland á Hornströndum](/lugar/hornstrandir/) partagent fulmar et macareux
+      ; et [Alderney](/lugar/alderney/) réunit fous de Bassan et macareux moines.
+  de:
+    intro: >-
+      Wenn du an einem belebten Sommertag auf Dùn stehst, schwirren zehntausende Papageitaucher um deinen
+      Kopf. St Kilda ist ein entlegener Außenposten im Nordatlantik, 65 Kilometer westnordwestlich von North
+      Uist gelegen. Der Archipel beherbergt eine der größten Basstölpelkolonien der Erde und die steinernen
+      Ruinen einer Inselgemeinschaft, die hier mindestens viertausend Jahre lang ausharrte, bis ihre letzten
+      36 Einwohner am 29. August 1930 evakuiert wurden. Heute ist St Kilda wegen seiner herausragenden Natur-
+      und Kulturwerte als gemischtes UNESCO-Welterbe geschützt.
+    landscape: >-
+      Was du siehst, sind die abgetragenen Reste eines tertiären Ringvulkans aus Graniten und Gabbros, der
+      sich aus einer untermeerischen Plattform erhebt. Brandung und Stürme taten das Übrige. Hirta, die
+      Hauptinsel, ragt mit den höchsten Steilklippen des Vereinigten Königreichs auf: Die Nordwand des
+      Conachair, mit 430 Metern die höchste Erhebung der Insel, bricht in einer 427 Meter tiefen Steilwand
+      senkrecht zum Atlantik ab. Vom Wasser aus wirkt Village Bay zunächst trügerisch friedlich wie ein
+      kleiner Weiler zwischen grasbewachsenen Hängen.
+
+
+      Rund um Hirta ragen spektakuläre Stacks aus der See: Stac an Armin mit 196 Metern und Stac Lee mit 172
+      Metern, die mächtigsten Felsnadeln Großbritanniens. Die zerklüftete Felsinsel Dùn, die die Bucht gegen
+      Südweststürme abschirmt, war einst über ein Felsentor mit Hirta verbunden.
+
+
+      Das Klima ist rau-ozeanisch und feucht; Schnee bleibt nur an rund zwölf Tagen im Jahr liegen. Der
+      Seegang dominiert alles: Brecher von fünf Metern Höhe treten regelmäßig auf und machen Anlandungen mit
+      Schlauchbooten oft unmöglich. Bäume fehlen völlig. Salzstürme formten windgepeitschte Grasfluren, auf
+      denen dennoch über 130 Blütenpflanzen, 162 Pilzarten und 160 Moosarten gedeihen, darunter der 2012
+      beschriebene endemische Löwenzahn Taraxacum pankhurstianum.
+    wildlife: >-
+      Die nackten Zahlen verdeutlichen den ohrenbetäubenden Lärm. Die Kolonie der
+      [Basstölpel](/especie/morus_bassanus/) umfasst 30.000 Brutpaare, was 24 Prozent des Weltbestands
+      entspricht. Rund 49.000 Paare der Wellenläufer brüten hier, bis zu 90 Prozent des europäischen Bestands,
+      dazu 136.000 Paare des [Papageitauchers](/especie/fratercula_arctica/), fast 30 Prozent der Vorkommen im
+      Vereinigten Königreich. Dùn birgt die größte Ansammlung von
+      [Eissturmvögeln](/especie/fulmarus_glacialis/) in Großbritannien, und bis 1828 war St Kilda ihr einziger
+      bekannter Brutplatz im Königreich. Trottellummen, Tordalken, Raubmöwen und Krähenscharben bevölkern die
+      Felsbänder.
+
+
+      Tag und Nacht bieten völlig unterschiedliche Kulissen. Tagsüber hallen die Wände vom Geschrei der
+      Lummen, Dreizehenmöwen, Tölpel und Papageitaucher wider. Bei Einbruch der Dunkelheit kehren
+      Atlantiksturmtaucher und Wellenläufer lautstark zu ihren Erdhöhlen zurück. Mithilfe von Restlichtkameras
+      beobachteten Biologen [Große Raubmöwen](/especie/stercorarius_skua/), die in stockfinsterer Nacht
+      gezielt Sturmschwalben jagten – ein seltenes Jagdverhalten bei Meeresvögeln.
+
+
+      An Land leben zwei endemische Unterarten: der St.-Kilda-Zaunkönig und die St.-Kilda-Waldmaus. Die
+      [Kegelrobbe](/especie/halichoerus_grypus/) wirft heute regelmäßig an Hirtas Ufern Junge, was vor der
+      Räumung 1930 nicht der Fall war. Zudem streifen urtümliche Schafe über die Hänge: Das Soayschaf, ein
+      Relikt aus dem Neolithikum, lebt verwildert auf Soay und wird intensiv erforscht; das Borerayschaf zählt
+      zu den seltensten Haustierrassen Großbritanniens. Der letzte Riesenalk Großbritanniens wurde im Juli
+      1840 auf Stac an Armin erlegt.
+
+
+      Beste Reisezeit ist von Juni bis August bei relativ ruhiger See.
+    visit: >-
+      Nach St Kilda reist man nicht einfach an, man steuert es an. Die gesamte Anreise erfolgt per Schiff mit
+      Überbootung an Land; die Überfahrt von den Äußeren Hebriden dauert je nach Wind und Seegang zwischen
+      drei und sechs Stunden. Ein Ausflug nimmt meist einen vollen Tag in Anspruch, oder zwei Tage, beginnend
+      mit der Landung am kleinen Slip von Village Bay.
+
+
+      Vom Anleger zieht ein befestigter Pfad steil zum Dorf und zu den Höhen hinauf; die Wege im Gelände sind
+      erdig und uneben. Steige langsam empor und blicke nach oben: Von den Kämmen Hirtas eröffnet sich der
+      Blick auf die Vogelmassen über Dùn.
+
+
+      Im Dorf erzählt jeder Stein von der historischen Einsamkeit. Eines der Cottages an The Street, die
+      Nummer 3, wurde als Museum hergerichtet. Die Cleitean, kühlschrankartige Steinhütten mit Grasdach,
+      prägen das gesamte Tal: 1.260 stehen auf Hirta und 170 auf den Nachbarinseln. Aus Trockensteinplatten
+      ohne Mörtel gefügt, lassen sie den Seewind ungehindert durchwehen, halten aber Nässe ab.
+    history: >-
+      Über Jahrtausende drehte sich das Leben auf St Kilda um den Seevogelfang. Basstölpel und Eissturmvögel
+      lieferten Fleisch, Fett und Eier, die Männer unter Lebensgefahr aus den Steilwänden bargen. Jeden Morgen
+      nach dem Gebet trat das Inselparlament auf der Dorfstraße zusammen, um ohne Vorsitzenden die Tagewerke
+      zu verteilen. Für Notrufe an die Außenwelt entzündeten die Bewohner Signalfeuer auf dem Conachair.
+      Rätselhaft bleiben 20 gehörnte Steinstrukturen im Gleann Mòr ohne bauliche Parallelen in Europa.
+
+
+      Das mittelalterliche Dorf wurde 1834 zugunsten einer geradlinigen Häuserzeile zwischen der Quelle Tobar
+      Childa und dem Meer aufgegeben. Fast ein Jahrhundert später folgte die Evakuierung: Am 29. August 1930
+      stimmten die letzten 36 Einwohner für die Umsiedlung auf das Festland.
+
+
+      Danach begann die Schutzära. Lord Dumfries erwarb die Inseln als Vogelschutzgebiet und vermachte sie bei
+      seinem Tod 1956 dem National Trust for Scotland. 1957 wurde der Archipel zum Nationalen Naturreservat
+      erklärt; 2005 stieg St Kilda in den Kreis der rund zwei Dutzend gemischten Welterbestätten weltweit auf.
+      BirdLife International führt das Areal als Important Bird Area. Ehrenamtliche Arbeitsgruppen
+      restaurieren seither im Sommer die historischen Bauwerke.
+    before: >-
+      Der Archipel ist ein hochsensibles Biotop. Wer auf eigene Faust anlanden möchte, benötigt eine
+      Genehmigung des National Trust for Scotland zur Biosicherheitsüberprüfung gegen eingeschleppte Nager
+      oder Pflanzensamen. Der Trust überwacht die Brutbestände penibel.
+
+
+      Das Wetter diktiert das Programm: Bei schwerer Dünung sind Schlauchbootlandungen unmöglich. Hirta ist
+      ganzjährig von Personal einer Radarstation bewohnt, im Sommer verstärkt durch Ranger und Forscher. Vögel
+      bitte nur mit gebührendem Abstand beobachten.
+    around: >-
+      St Kilda hat keine nahen Nachbarn im Atlas, teilt aber Seevogelkolonien mit ozeanischen Eilanden.
+      [Mykines](/lugar/mykines/) auf den Färöern beherbergt Basstölpel, Eissturmvogel und Papageitaucher;
+      [Kalsoy](/lugar/kalsoy/) und [Friðland á Hornströndum](/lugar/hornstrandir/) teilen Eissturmvogel und
+      Papageitaucher; [Alderney](/lugar/alderney/) im Ärmelkanal vereint Basstölpel und Papageitaucher.
+  it:
+    intro: >-
+      Se ti trovi su Dùn in un giorno di piena estate, decine di migliaia di pulcinella di mare volteggiano
+      sopra la tua testa. St Kilda è un avamposto oceanico remoto nell'Atlantico settentrionale, situato 65
+      chilometri a ovest-nord-ovest di North Uist. Concentra una delle più sterminate colonie di sule al mondo
+      e le vestigia di una comunità che visse qui per almeno quattromila anni, finché i suoi ultimi 36
+      abitanti vennero evacuati il 29 agosto 1930. Oggi è riconosciuta Patrimonio Mondiale per il suo doppio
+      valore naturalistico e culturale.
+    landscape: >-
+      Ciò che appare dal mare sono i resti smantellati di un vulcano anulare terziario formato da graniti e
+      gabbri, che si innalza dal fondale oceanico. Il moto ondoso e i venti impetuosi hanno compiuto il resto.
+      Hirta, l'isola maggiore, vanta le scogliere marine più vertiginose del Regno Unito: la parete
+      settentrionale del Conachair, cima dell'isola a 430 metri di quota, precipita a picco nell'oceano con un
+      salto di 427 metri. Vista dal largo, Village Bay inganna, presentandosi come un pacifico borgo racchiuso
+      tra morbidi pendii erbosi.
+
+
+      Attorno a Hirta torreggiano giganteschi faraglioni: Stac an Armin, alto 196 metri, e Stac Lee con i suoi
+      172 metri, i più elevati della Gran Bretagna. L'isolotto scosceso di Dùn, che ripara la baia dai marosi
+      di sud-ovest, era in passato saldato a Hirta da un arco naturale poi crollato.
+
+
+      Il clima è oceanico e umido, con la neve che imbianca il suolo appena dodici giorni all'anno. Il moto
+      ondoso comanda: onde di cinque metri sono frequenti, rendendo gli sbarchi con battelli ausiliari
+      disagevoli o impossibili in ogni stagione. Gli alberi mancano del tutto. La salsedine e il vento
+      alimentano praterie marittime che ospitano oltre 130 piante vascolari, 162 specie di funghi e 160 di
+      muschi, oltre a un tarassaco endemico, Taraxacum pankhurstianum, descritto nel 2012.
+    wildlife: >-
+      I numeri spiegano il fragore assordante delle colonie. I contingenti nidificanti di
+      [sula](/especie/morus_bassanus/) raggiungono 30.000 coppie, pari al 24 per cento della popolazione
+      mondiale. Vi nidificano 49.000 coppie di uccello delle tempeste codaforcuta, fino al 90 per cento della
+      consistenza europea, assieme a 136.000 coppie di [pulcinella di mare](/especie/fratercula_arctica/),
+      circa il 30 per cento di tutti gli individui nidificanti nel Regno Unito. Dùn accoglie la maggiore
+      colonia di [fulmaro](/especie/fulmarus_glacialis/) della Gran Bretagna, e fino al 1828 St Kilda fu il
+      suo unico sito riproduttivo britannico. Urie, gazze marine, stercorari maggiori, labbi e marangoni dal
+      ciuffo affollano i terrazzi rocciosi.
+
+
+      L'atmosfera muta profondamente tra il giorno e la notte. Di giorno le pareti risuonano del clamore di
+      urie, gabbiani tridattili, sule e pulcinelle. Di notte rientrano le berte minori e gli uccelli delle
+      tempeste, creando una dimensione quasi spettrale. Grazie a visori termici, gli ecologi hanno documentato
+      gli [stercorari maggiori](/especie/stercorarius_skua/) intenti a cacciare procellariformi nell'oscurità
+      totale, un comportamento predatorio insolito per un uccello marino.
+
+
+      A terra vivono due sottospecie endemiche esclusive: lo scricciolo di St Kilda e il topo selvatico di St
+      Kilda. La [foca grigia](/especie/halichoerus_grypus/) partorisce oggi sulle coste di Hirta, evento mai
+      documentato prima dello spopolamento del 1930. Tra gli erbivori pascolano pecore relitte: la pecora di
+      Soay, di ceppo neolitico, vive inselvatichita su Soay ed è studiata su Hirta da decenni, mentre la
+      pecora di Boreray è una delle razze più rare del Regno Unito. L'ultima alca gigante abbattuta in Gran
+      Bretagna fu colpita su Stac an Armin nel luglio 1840.
+
+
+      Il periodo più propizio va da giugno ad agosto quando le condizioni marine sono più clementi.
+    visit: >-
+      A St Kilda non si arriva semplicemente: si naviga. L'intero accesso richiede traversate marittime su
+      scafi d'altura con sbarco in tender a terra; la rotta dalle Ebridi Esterne richiede da tre a sei ore a
+      seconda di vento e correnti. La visita impegna una giornata intera, o due, a partire dallo sbarco sulla
+      rampa di Village Bay.
+
+
+      Dal molo una traccia lastricata sale ripidamente verso l'abitato e le creste; i percorsi sull'isola
+      restano sconnessi ed esposti. Sali con calma e volgi lo sguardo in alto: dai crinali di Hirta si domina
+      Dùn e le falesie gremite di stormi.
+
+
+      Nel villaggio ogni edificio è una testimonianza storica. Uno dei cottage su The Street, il numero 3, è
+      stato restaurato a museo. I cleitean, singolari magazzini in pietra a secco coperti da zolle di torba,
+      punteggiano l'intera valle: se ne contano 1.260 su Hirta e 170 sulle isole minori. Costruiti senza
+      malta, lasciano defluire il vento oceanico impedendo alla pioggia di penetrare.
+    history: >-
+      Per millenni la vita a St Kilda ruotò attorno allo sfruttamento degli uccelli marini. La base alimentare
+      poggiava su sule e fulmari, raccolti scalando le pareti vertiginose. Ogni mattina dopo le preghiere, gli
+      uomini adulti si riunivano nella strada del villaggio per concordare le fatiche quotidiane in un
+      parlamento senza gerarchie. Per inviare messaggi alla terraferma accendevano falò sulla vetta del
+      Conachair. Rimangono 20 singolari strutture con corna in pietra a Gleann Mòr, prive di riscontri altrove
+      in Europa e di incerto significato.
+
+
+      Il nucleo medievale fu abbandonato nel 1834 per riedificare case allineate tra la fonte Tobar Childa e
+      il mare. L'abbandono definitivo avvenne quasi un secolo dopo: il 29 agosto 1930, i 36 abitanti rimasti
+      votarono per lasciare l'isola, constatando l'insostenibilità del loro isolamento.
+
+
+      Iniziò allora l'epoca della tutela. Lord Dumfries acquistò l'arcipelago per preservarlo come santuario
+      ornitologico, lasciandolo in eredità al National Trust for Scotland alla sua morte nel 1956. Nel 1957
+      l'arcipelago divenne Riserva Naturale Nazionale; nel 2005 St Kilda fu inclusa nella ristretta cerchia
+      delle due dozzine di beni mondiali con status misto per natura e cultura. BirdLife International la
+      riconosce Important Bird Area per le sue colonie. La manutenzione del villaggio è portata avanti da
+      campi di lavoro estivi di volontari.
+    before: >-
+      L'arcipelago è un ecosistema insulare fragile. Gli sbarchi indipendenti richiedono preventiva
+      autorizzazione del National Trust for Scotland per evitare rischi di biosicurezza legati a semi alieni o
+      roditori. Il Trust coordina il monitoraggio delle colonie aviarie.
+
+
+      Le condizioni marine determinano tutto: con mare formato lo sbarco a terra è precluso. Hirta è
+      presidiata stabilmente dal personale della base radar, a cui si aggiungono in estate ricercatori e
+      volontari. L'avifauna va osservata a debita distanza lungo i tracciati consentiti.
+    around: >-
+      St Kilda non possiede vicini immediati nell'atlas, ma vanta affinità biologiche con altri santuari
+      marini. [Mykines](/lugar/mykines/) nelle Fær Øer ospita sule, fulmari e pulcinelle di mare;
+      [Kalsoy](/lugar/kalsoy/) e la riserva di [Friðland á Hornströndum](/lugar/hornstrandir/) condividono
+      fulmari e pulcinelle; [Alderney](/lugar/alderney/) nel canale della Manica accoglie sule atlantiche e
+      pulcinelle.
+  pt:
+    intro: >-
+      Se te posicionares em Dùn num dia movimentado de verão, dezenas de milhares de papagaios-do-mar volteiam
+      em redor da tua cabeça. St Kilda é um arquipélago remoto no Atlântico Norte, situado 65 quilómetros a
+      oeste-noroeste de North Uist. Concentra uma das maiores colónias de gansos-patola do planeta e as ruínas
+      de uma comunidade humana que aqui sobreviveu pelo menos quatro mil anos, até que os seus últimos 36
+      residentes partiram a 29 de agosto de 1930. Hoje ostenta o título de Património Mundial pelo seu duplo
+      valor natural e cultural.
+    landscape: >-
+      O relevo testemunha os restos desmantelados de um vulcão anelar terciário formado por granitos e gabros,
+      emergindo abruptamente de uma plataforma submarina. O oceano e as tempestades completaram a escultura.
+      Hirta, a ilha principal, apresenta as arribas marinhas mais imponentes do Reino Unido: a vertente
+      setentrional do Conachair, com 430 metros de cota máxima na ilha, cai a pique sobre o mar num
+      desfiladeiro vertical de 427 metros. Vista do mar, a baía de Village Bay ilude, assemelhando-se a uma
+      aldeia pacata cercada por colinas verdejantes.
+
+
+      Em redor de Hirta erguem-se ilhéus rochosos vertiginosos: Stac an Armin, com 196 metros de altura, e
+      Stac Lee, com 172 metros, os mais altos da Grã-Bretanha. O ilhéu recortado de Dùn, que abriga a baía dos
+      ventos de sudoeste, esteve outrora ligado a Hirta por um arco de pedra natural.
+
+
+      O clima é oceânico e húmido, e a neve cobre o solo apenas cerca de doze dias por ano. A ondulação
+      oceânica dita as regras: vagas de cinco metros são frequentes, tornando os desembarques em botes muito
+      difíceis ou impossíveis em qualquer época. Não existem árvores. O salitre e o vento geram pastagens
+      marítimas onde, ainda assim, vicejam mais de 130 plantas com flor, 162 espécies de fungos e 160 de
+      briófitos, a par de um dente-de-leão endémico, Taraxacum pankhurstianum, identificado em 2012.
+    wildlife: >-
+      Os números ilustram o clamor das colónias. A população reprodutora de
+      [gansos-patola](/especie/morus_bassanus/) totaliza 30.000 casais, correspondendo a 24 por cento da
+      população mundial. Nidificam 49.000 casais de painho-de-cauda-forcada, até 90 por cento do contingente
+      europeu, a par de 136.000 casais de [fradinho](/especie/fratercula_arctica/) (papagaio-do-mar), cerca de
+      30 por cento dos efetivos nidificantes do Reino Unido. Dùn acolhe a maior colónia de
+      [fulmar-glacial](/especie/fulmarus_glacialis/) da Grã-Bretanha, e até 1828 St Kilda constituiu o seu
+      único local de nidificação britânico. Airos, tordas-mergulheiras, moleiros-grandes, moleiros-parasitas e
+      corvos-marinhos-de-crista preenchem as escarpas.
+
+
+      Tudo se transforma entre o dia e a noite. Durante o dia, as frentes rochosas vibram com os gritos de
+      airos, gaivotas-tridáctilas, gansos e papagaios-do-mar. À noite regressam aos ninhos as
+      pardelas-dos-socalcos e os painhos, conferindo à ilha uma atmosfera misteriosa. Com equipamento noturno,
+      investigadores observaram [moleiros-grandes](/especie/stercorarius_skua/) a caçar painhos na escuridão
+      profunda, uma estratégia incomum numa ave marinha.
+
+
+      Em terra vivem duas subespécies exclusivas: a carriça de St Kilda e o rato-do-campo de St Kilda. A
+      [foca-cinzenta](/especie/halichoerus_grypus/) reproduz-se atualmente em Hirta, algo que não acontecia
+      antes da evacuação de 1930. Destacam-se ainda os ovinos primitivos: a ovelha Soay, de tipo neolítico,
+      vive em estado assilvestrado na ilha de Soay e é estudada em Hirta há décadas, enquanto a ovelha de
+      Boreray representa uma das raças autóctones mais raras do Reino Unido. A última torda-gigante observada
+      na Grã-Bretanha foi abatida em Stac an Armin em julho de 1840.
+
+
+      A melhor época decorre de junho a agosto, quando a ondulação atlântica se encontra mais mansa.
+    visit: >-
+      A este arquipélago não se chega por terra: navega-se. O acesso depende exclusivamente de viagens
+      marítimas com transbordo em botes auxiliares para a praia, demorando a travessia desde as Hébridas
+      Exteriores entre três e seis horas consoante o vento e as marés. Por isso a visita ocupa habitualmente
+      um dia inteiro, ou dois, iniciando-se pelo desembarque no cais de Village Bay.
+
+
+      A partir do cais, um caminho empedrado sobe abruptamente em direção à aldeia e às encostas; os trilhos
+      da ilha são acidentados e íngremes. Sobe com calma e contempla as alturas: das cristas de Hirta
+      avista-se Dùn e as escarpas repletas de aves.
+
+
+      Na aldeia, o percurso constitui uma lição etnográfica. Uma das casas de The Street, a número 3, foi
+      reconstruída e funciona como museu. Os cleitean, abrigos de pedra seca com cobertura de torrões de
+      turfa, pontilham toda a encosta: contam-se 1.260 em Hirta e 170 nas restantes ilhas. Edificados em pedra
+      sobreposta sem argamassa, deixam o vento passar livremente mas barram a penetração da chuva.
+    history: >-
+      Durante séculos a vivência em St Kilda dependeu das aves marítimas. A alimentação base assentava em
+      gansos-patola e fulmares recolhidos em ovos e crias nas arribas vertiginosas. Todas as manhãs, após as
+      orações, os homens adultos reuniam-se na rua da aldeia para organizar os trabalhos diários num
+      parlamento informal sem liderança. Para emitir avisos ao continente acendiam fogueiras no cimo do
+      Conachair. Subsistem ainda 20 estruturas com cornos em Gleann Mòr, sem paralelo arquitetónico na Europa
+      e de função desconhecida.
+
+
+      A aldeia medieval foi abandonada em 1834, construindo-se uma nova fieira de casas entre o poço Tobar
+      Childa e o mar. A evacuação ocorreu quase um século depois: a 29 de agosto de 1930, os 36 habitantes
+      remanescentes votaram partir perante o colapso do modo de vida comunitário.
+
+
+      Iniciou-se então uma nova fase. Lord Dumfries comprou as ilhas para as proteger como santuário de aves,
+      doando-as ao National Trust for Scotland ao falecer em 1956. Em 1957 o arquipélago foi consagrado
+      Reserva Natural Nacional; em 2005 St Kilda juntou-se às duas dezenas de sítios em todo o mundo com
+      estatuto misto natural e cultural. A BirdLife International classifica as ilhas como Important Bird Area
+      pelas suas colónias marinhas. A recuperação da aldeia tem dependido em grande medida de grupos de
+      voluntários de verão.
+    before: >-
+      O arquipélago é um ecossistema oceânico de grande fragilidade. Quem pretenda desembarcar em embarcação
+      própria necessita de autorização prévia do National Trust for Scotland, para prevenir a introdução
+      acidental de roedores invasores ou sementes forasteiras. O Trust mantém programas de monitorização das
+      aves marinhas.
+
+
+      As condições marítimas mandam: com mar alterado o desembarque pode ser perigoso ou impraticável. Hirta é
+      permanentemente habitada por funcionários da base de radar, aos quais se juntam no verão cientistas e
+      voluntários. As colónias de aves devem ser apreciadas com recuo prudente.
+    around: >-
+      St Kilda não tem vizinhos imediatos no atlas, mas partilha espécies marinhas com santuários remotos.
+      [Mykines](/lugar/mykines/) nas Faroé partilha ganso-patola, fulmar e papagaio-do-mar;
+      [Kalsoy](/lugar/kalsoy/) e a reserva de [Friðland á Hornströndum](/lugar/hornstrandir/) coincidem no
+      fulmar e no papagaio-do-mar; e [Alderney](/lugar/alderney/) no canal da Mancha em gansos-patola e
+      papagaios-do-mar.
+fuentes:
+  - url: https://www.nts.org.uk/visit/places/st-kilda/a-seabird-sanctuary
+    titulo: A seabird sanctuary | National Trust for Scotland
+    fecha_consulta: '2026-10-24'
+  - url: https://www.nts.org.uk/visit/places/st-kilda
+    titulo: St Kilda World Heritage Site | National Trust for Scotland
+    fecha_consulta: '2026-10-24'
+  - url: https://www.nts.org.uk/visit/places/st-kilda/planning-your-visit
+    titulo: Planning your visit | National Trust for Scotland
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/St_Kilda,_Scotland
+    titulo: St Kilda, Scotland - Wikipedia
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Leaving_St_Kilda.jpg
+    autor: Kingy64
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-21'

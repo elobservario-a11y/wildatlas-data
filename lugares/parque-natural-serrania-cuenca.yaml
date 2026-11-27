@@ -1,0 +1,676 @@
+id: parque-natural-serrania-cuenca
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de la Serranía de Cuenca
+  en: Serranía de Cuenca Natural Park
+  fr: Parc naturel de la Serranía de Cuenca
+  de: Naturpark Serranía de Cuenca
+  it: Parco Naturale della Serranía de Cuenca
+  pt: Parque Natural da Serranía de Cuenca
+nombre_original: Parque Natural de la Serranía de Cuenca
+paises:
+  - ES
+region:
+  es: Cuenca (Castilla-La Mancha, España)
+  en: Cuenca (Castilla-La Mancha, Spain)
+  fr: Cuenca (Castille-La Manche, Espagne)
+  de: Cuenca (Kastilien-La Mancha, Spanien)
+  it: Cuenca (Castiglia-La Mancia, Spagna)
+  pt: Cuenca (Castela-Mancha, Espanha)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 40.2849261280419
+  lon: -1.9042438390201766
+  radio_km: 15.341290714061227
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 389021
+  nombre_en_la_fuente: Serrania de Cuenca
+  categoria_uicn: VI
+  capa: capas/cdda/parque-natural-serrania-cuenca.geojson
+habitats:
+  - karst
+  - gorge_canyon
+  - mediterranean_forest
+designaciones:
+  - natural_park
+proyectos:
+  - rewilding_spain
+temporada_ideal:
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: Otoño por el color del arbolado caducifolio entre los pinares.
+  en: Autumn for the vibrant foliage of deciduous groves scattered among the pine forests.
+  fr: L’automne pour les teintes des feuillus disséminés au milieu des pinèdes.
+  de: Herbst wegen der bunten Laubholzfärbung inmitten der Nadelwälder.
+  it: Autunno per i contrasti cromatici delle latifoglie in mezzo alle pinete.
+  pt: Outono pela coloração das folhosas caducifólias entre os pinhais.
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Natural de la Serranía de Cuenca
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca
+  - titulo: Planifica la visita — mapas, senderos y centros
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/visita-y-disfruta
+  - titulo: Los Callejones de Las Majadas — trazado y recomendaciones
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/rutas/pnsc-02-los-callejones
+  - titulo: Centro de visitantes de Tragacete — exposición y calendario
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/ci/centro-de-recepcion-de-visitantes-de-tragacete
+  - titulo: Normas, permisos y actividades reguladas
+    url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/normativa
+resumen:
+  es: Pinares y hoces entre parameras calizas modeladas por el agua en la Serranía de Cuenca.
+  en: Pine forests and deep river gorges sculpted through limestone plateaus across the Serranía de Cuenca.
+  fr: Pinèdes et gorges profondes taillées dans les plateaux calcaires de la Serranía de Cuenca.
+  de: Ausgedehnte Kiefernurwälder und tiefe Flussschluchten in den Karst-Hochebenen der Serranía de Cuenca.
+  it: Pinete estese e gole vertiginose modellate tra gli altipiani carsici della Serranía de Cuenca.
+  pt: Pinhais e desfiladeiros esculpidos entre planaltos calcários na Serranía de Cuenca.
+unico:
+  es: >-
+    Aquí el agua ha esculpido una ciudad de piedra y, a pocos kilómetros, ha cerrado una laguna con una
+    barrera de toba: dos obras del mismo escultor.
+  en: >-
+    Here water has carved an enchanted stone city and, just a few kilometres away, impounded a mountain lagoon
+    behind a tufa barrier: two masterpieces by the same sculptor.
+  fr: >-
+    Ici, l’eau a sculpté une véritable cité de pierre et, à quelques kilomètres, a barré une lagune d’une
+    digue de tuf : deux œuvres d’un même artiste.
+  de: >-
+    Hier hat das Wasser eine verzauberte Felsenstadt gemeißelt und wenige Kilometer weiter eine Lagune mit
+    einer Kalktuff-Barriere aufgestaut: zwei Meisterwerke desselben Bildhauers.
+  it: >-
+    Qui l’acqua ha scolpito una suggestiva città di pietra e, a pochi chilometri, ha sbarrato una laguna con
+    una diga di travertino: due opere del medesimo scultore.
+  pt: >-
+    Aqui a água esculpiu uma cidade de pedra e, a escassos quilómetros, represou uma lagoa com uma barreira de
+    tufo: duas obras do mesmo escultor.
+observaciones:
+  es: >-
+    En Los Callejones no hay fuentes: lleva agua y calzado adecuado para suelos rocosos que resbalan. La
+    acampada libre está prohibida, con excepción del vivac y de la acampada en travesía, y rastrillar el suelo
+    para recolectar setas está prohibido. Consulta el calendario de apertura del centro de Tragacete antes de
+    ir.
+texto:
+  es:
+    intro: >-
+      Hay parameras tan llanas que parecen no acabar nunca, y de pronto se abren. En la Serranía de Cuenca el
+      suelo se parte en hoces y cañones que excavan el Júcar y el Escabas, y sobre las calizas queda una
+      ciudad de piedra: callejones, tormos y lapiaces. El Parque Natural de la Serranía de Cuenca ocupa el
+      noreste de la provincia, en el Sistema Ibérico Meridional, y cuenta con una de las mayores masas de
+      pinar natural de España.
+    landscape: >-
+      La piedra manda. El relieve se apoya en calizas y dolomías del Jurásico y del Cretácico, y la roca
+      carbonatada se disuelve con el agua. Por eso arriba hay parameras, o muelas, relativamente llanas, y por
+      eso las cortan hoces y cañones abiertos donde la roca es más débil. Por eso también hay tormagales:
+      lapiaces con relieves ruiniformes, conocidos como ciudades encantadas, de los que la Ciudad Encantada de
+      Valdecabras y Los Callejones de Las Majadas son los mejores ejemplos. Bajo tierra, el karst se completa
+      con cuevas y simas entre las de mayor desarrollo del centro peninsular, y en la sierra de Valdemeca
+      asoman areniscas y conglomerados rodenos.
+
+
+      La altura del parque llega hasta el cerro de la Mogorrita (1.864 metros), el techo de la provincia. Esa
+      situación tiene un valor biogeográfico elevado: el núcleo montañoso más meridional del Sistema Ibérico
+      separa las vertientes hidrográficas atlántica y mediterránea.
+
+
+      Sobre esa roca crece un bosque. Los pinares de pino albar, pino laricio y pino rodeno dominan el paisaje
+      vegetal, y entre ellos se intercalan encinares, quejigares, rebollares, sabinares albares y acerales. En
+      el fondo de las hoces, el refugio es de otra naturaleza: bosques relícticos eurosiberianos de tilos,
+      acebos y tejos que alcanzan aquí su límite meridional en Europa. Por encima de todo ello, los pinares de
+      aquí comparten con los del Alto Tajo una de las masas forestales naturales más extensas de España.
+    wildlife: >-
+      Mira a los escarpes. En ellos y en los pinares crían el [águila perdicera](/especie/aquila_fasciata/),
+      el [águila real](/especie/aquila_chrysaetos/), el [halcón peregrino](/especie/falco_peregrinus/), el
+      [alimoche](/especie/neophron_percnopterus/), el águila calzada, el [búho real](/especie/bubo_bubo/), el
+      azor y, la más numerosa, el [buitre leonado](/especie/gyps_fulvus/). Entre los bosques y las riberas hay
+      pico picapinos, chotacabras, zorzales, chova piquirroja, [mirlo acuático](/especie/cinclus_cinclus/) y
+      garza real. En la laguna de Uña se concentran las aves acuáticas, con fochas y ánades, y también
+      nutrias.
+
+
+      Los mamíferos más llamativos son los ungulados: [ciervo](/especie/cervus_elaphus/), [cabra
+      montés](/especie/capra_pyrenaica/), [corzo](/especie/capreolus_capreolus/) y
+      [jabalí](/especie/sus_scrofa/) son autóctonos, mientras que el gamo y el muflón se introdujeron a
+      mediados del siglo XX. Tienen interés también la [ardilla roja](/especie/sciurus_vulgaris/), la garduña,
+      el tejón, la [nutria](/especie/lutra_lutra/) y el [gato montés](/especie/felis_silvestris/).
+
+
+      Los ríos, cabecera del Júcar y del Tajo, son trucheros, con poblaciones de gran pureza genética de
+      [trucha común](/especie/salmo_trutta/), barbo, bermejuela y cacho. En los cursos altos se refugia gran
+      parte del cangrejo de río autóctono de la provincia y de la región. Entre las mariposas, la isabelina
+      (Graellsia isabellae) es la más llamativa y relativamente abundante. Y hay murciélagos asociados a las
+      cuevas.
+
+
+      El calendario cambia el paisaje. El otoño es el momento más interesante: arces, quejigos, chopos y
+      sauces dan color frente al verde intenso de los pinares. En invierno, la nieve puede llegar desde las
+      cumbres hasta el valle. En primavera y verano florece el paisaje. Y de noche queda el cielo, de los más
+      oscuros de Castilla-La Mancha, que merece una salida solo para mirarlo.
+    visit: >-
+      Empieza por Los Callejones de Las Majadas: 3,60 km, menos de dos horas, dificultad baja. Es un paseo
+      entre callejones y tormos que invita a imaginar parecidos, y cabe en una jornada. Para más ruta, el
+      sendero de El Escalerón y la Raya (nueve kilómetros, unas tres horas) ofrece la laguna de Uña a vista de
+      pájaro, y Las Fuentecillas y Los Callejones (doce kilómetros y novecientos metros, unas tres horas y
+      media) cruza quejigares y pinares con vegetación eurosiberiana.
+
+
+      Entre los miradores destacan el Ventano del Diablo, en Villalba de la Sierra, y el Tío Cogote y el
+      Balcón de Pilatos, en Las Majadas. En Valdemeca hay una ruta micológica, de cuatro kilómetros y hora y
+      media, que enseña cómo los hábitats dan diversidad de setas.
+
+
+      El parque tiene tres centros de interpretación: Tragacete (el principal, con 1.310 m² en dos alturas y
+      exposición sobre la red de espacios naturales, el paisaje y la geomorfología), Uña (dedicado al agua) y
+      Valdemeca (dedicado a la botánica). El parque presta además una silla Joëlette para que personas con
+      movilidad reducida puedan hacer senderismo.
+    history: >-
+      El parque natural se declaró en 2007 y es también ZEC y ZEPA, con área crítica del águila perdicera y de
+      Atropa baetica, y la microrreserva de la cueva de los Morceguillos.
+
+
+      Lo que amenaza a los pinares también está escrito: el plan del ámbito Natura califica como excelente la
+      conservación de los pinares de laricio, pero señala los incendios en la Muela de la Madera entre las
+      presiones, y el exceso de ganado o de ungulados cinegéticos.
+    before: >-
+      En Los Callejones no hay fuentes: lleva agua y calzado adecuado para suelos rocosos que resbalan. La
+      acampada libre está prohibida, con excepción del vivac y de la acampada en travesía, y rastrillar el
+      suelo para recolectar setas está prohibido. Consulta el calendario de apertura del centro de Tragacete
+      antes de ir.
+    around: >-
+      A dos kilómetros se encuentra el [Parque Natural del Alto Tajo](/lugar/parque-natural-alto-tajo/), con
+      el que comparte la masa de pinares.
+  en:
+    intro: >-
+      Some limestone highlands look so vast and flat they seem never-ending, until suddenly they plunge. In
+      the Serranía de Cuenca, the terrain fractures into deep gorges and river canyons carved by the Júcar and
+      Escabas, while atop the limestone tablelands stands a city of stone: narrow alleys, ruiniform towers,
+      and weathered limestone pavements. The Serranía de Cuenca Natural Park encompasses the northeast of the
+      province in the Southern Iberian System, sheltering one of Spain's largest continuous tracts of natural
+      pine forest.
+    landscape: >-
+      Stone reigns supreme. The topography is shaped by Jurassic and Cretaceous limestones and dolomites,
+      whose carbonate rocks dissolve under rainfall. This explains why the high tablelands, or *muelas*,
+      remain relatively level, and why they are incised by dramatic river gorges and canyons wherever
+      fractures weaken the rock. It also explains the ruiniform rock cities: spectacular limestone pavements
+      (*lapiaces*) sculpted into bizarre shapes, of which the Ciudad Encantada of Valdecabras and Los
+      Callejones de Las Majadas are premier examples. Underground, the karst reaches deep with caves and
+      sinkholes among the most extensive in central Iberia, while in the Sierra de Valdemeca reddish
+      sandstones and conglomerates crop out.
+
+
+      The park's highest elevation rises at Cerro de la Mogorrita (1,864 metres), the rooftop of the province.
+      This position carries immense biogeographical value: as the southernmost mountain bastion of the Iberian
+      System, it forms the divide between Atlantic and Mediterranean watersheds.
+
+
+      Upon this limestone bedrock thrives a grand forest. Woodlands of Scots pine, black pine, and maritime
+      pine dominate the vegetation, interspersed with holm oak, Portuguese oak, Pyrenean oak, Spanish juniper
+      groves, and maple thickets. Deep inside the humid canyon bottoms, the forest assumes a completely
+      different character: relict Eurosiberian woodlands of lime, holly, and yew that reach their southern
+      European distribution limits here. Together with the neighbouring Alto Tajo, these highlands form one of
+      the vastest natural pine expanses in Spain.
+    wildlife: >-
+      Look up toward the cliffs. Across limestone escarpments and pine woodlands nest the [Bonelli's
+      eagle](/especie/aquila_fasciata/), [golden eagle](/especie/aquila_chrysaetos/), [peregrine
+      falcon](/especie/falco_peregrinus/), [Egyptian vulture](/especie/neophron_percnopterus/), booted eagle,
+      [Eurasian eagle-owl](/especie/bubo_bubo/), northern goshawk, and the most abundant scavenger, the
+      [griffon vulture](/especie/gyps_fulvus/). Forest and riparian habitats host great spotted woodpeckers,
+      European nightjars, song thrushes, red-billed choughs, the [white-throated
+      dipper](/especie/cinclus_cinclus/), and grey herons. At the Uña lagoon, waterbirds congregate with
+      coots, mallards, and foraging otters.
+
+
+      Among mammals, native ungulates stand out: [red deer](/especie/cervus_elaphus/), [Iberian
+      ibex](/especie/capra_pyrenaica/), [roe deer](/especie/capreolus_capreolus/), and [wild
+      boar](/especie/sus_scrofa/) are indigenous, whereas fallow deer and mouflon were introduced in the
+      mid-twentieth century. Other notable species include the [red squirrel](/especie/sciurus_vulgaris/),
+      beech marten, European badger, [Eurasian otter](/especie/lutra_lutra/), and [European
+      wildcat](/especie/felis_silvestris/).
+
+
+      The rivers, headwaters of the Júcar and Tagus basins, are prime trout streams harbouring genetically
+      pure populations of native [brown trout](/especie/salmo_trutta/), Mediterranean barbel, bermejuela, and
+      chub. Upper reaches shelter key stronghold populations of native white-clawed crayfish. Among
+      butterflies, the Spanish moon moth (*Graellsia isabellae*) is the most striking and relatively common.
+      Numerous cave-dwelling bats find shelter in the subterranean karst.
+
+
+      Seasons transform the scenery. Autumn offers the most captivating spectacle: maples, Portuguese oaks,
+      poplars, and willows flash bright gold against the deep evergreen pines. In winter, snow often dusts
+      slopes down into the valleys. Spring and summer bring rich botanical blooms. At night, the sky turns
+      remarkably pristine, ranking among the darkest in Castilla-La Mancha and well worth an outing just for
+      stargazing.
+    visit: >-
+      Begin at Los Callejones de Las Majadas: 3.60 km, under two hours, easy difficulty. It is an enchanting
+      stroll among natural stone corridors and mushroom-like monoliths that invites you to imagine shapes,
+      easily completed in half a day. For a longer journey, the El Escalerón and La Raya trail (nine
+      kilometres, about three hours) grants bird's-eye views over the Uña lagoon, while Las Fuentecillas and
+      Los Callejones (twelve kilometres and nine hundred metres, roughly three and a half hours) winds through
+      oak and pine woods with Eurosiberian vegetation.
+
+
+      Outstanding viewpoints include the Ventano del Diablo in Villalba de la Sierra, alongside Tío Cogote and
+      the Balcón de Pilatos in Las Majadas. At Valdemeca, a four-kilometre mycological trail taking an hour
+      and a half demonstrates how distinct forest habitats foster exceptional mushroom diversity.
+
+
+      The park operates three visitor centres: Tragacete (the main centre, spanning 1,310 m² across two floors
+      with exhibits on the protected area network, landscape, and geomorphology), Uña (dedicated to aquatic
+      ecosystems), and Valdemeca (focused on mountain botany). The park also loans an all-terrain Joëlette
+      trekking chair so visitors with reduced mobility can experience the trails.
+    history: >-
+      The natural park was established in 2007 and is designated as a Special Area of Conservation (SAC) and
+      Special Protection Area (SPA), including critical habitat for Bonelli's eagle and the rare *Atropa
+      baetica*, alongside the micro-reserve of Cueva de los Morceguillos.
+
+
+      Conservation challenges facing the pine forests are clearly identified: the Natura network management
+      plan rates the status of black pine woods as excellent, but highlights forest wildfires on the Muela de
+      la Madera as primary threats, along with excessive grazing pressure from livestock and high wild
+      ungulate densities.
+    before: >-
+      There are no drinking water fountains at Los Callejones: carry sufficient water and wear footwear suited
+      for slippery limestone surfaces. Wild camping is prohibited, with exceptions for bivouacking and
+      expedition trekking overnight camps, and raking forest soil when gathering mushrooms is strictly
+      forbidden. Check operating hours for the Tragacete visitor centre before setting out.
+    around: >-
+      Two kilometres away lies the [Alto Tajo Natural Park](/lugar/parque-natural-alto-tajo/), sharing the
+      same continuous expanse of highland pine forest.
+  fr:
+    intro: >-
+      Il est des plateaux si réguliers qu'ils semblent infinis, avant de se rompre soudain. Dans la Serranía
+      de Cuenca, le sol se fissure en gorges et canyons spectaculaires entaillés par le Júcar et l'Escabas,
+      tandis que sur les calcaires se dresse une véritable ville de pierre : ruelles rocheuses, monolithes
+      ruiniformes et lapiaz. Le parc naturel de la Serranía de Cuenca occupe le nord-est de la province, dans
+      le Système ibérique méridional, et abrite l'une des plus vastes pinèdes naturelles d'Espagne.
+    landscape: >-
+      La pierre commande tout. Le relief repose sur des calcaires et dolomies du Jurassique et du Crétacé, et
+      la roche carbonatée se dissout sous l'action de l'eau. C'est pourquoi règnent en altitude des hauts
+      plateaux, ou *muelas*, relativement plans, et c'est pourquoi les entaillent des gorges abruptes là où la
+      roche présente des faiblesses. C'est aussi l'origine des chaos ruiniformes : des lapiaz aux allures de
+      cités enchantées, dont la Ciudad Encantada de Valdecabras et Los Callejones de Las Majadas constituent
+      les exemples les plus frappants. Sous terre, le karst se prolonge par des grottes et gouffres parmi les
+      plus développés du centre de l'Espagne, tandis que la sierra de Valdemeca laisse affleurer grès et
+      conglomérats rouges.
+
+
+      Le point culminant du parc s'élève au Cerro de la Mogorrita (1 864 mètres), toit de la province. Cette
+      situation lui confère une remarquable valeur biogéographique : bastion le plus méridional du Système
+      ibérique, il sépare les bassins versants atlantique et méditerranéen.
+
+
+      Sur cette roche s'épanouit une grande forêt. Les pinèdes de pin sylvestre, pin laricio et pin maritime
+      dominent le couvert végétal, ponctuées de chênaies vertes, chênaies faginées, chênaies tauzins, sabines
+      et érablières. Au fond des gorges, le refuge est d'une tout autre nature : des boisements reliques
+      eurosibériens de tilleuls, houx et ifs qui atteignent ici leur limite méridionale en Europe. Par-dessus
+      tout, ces pinèdes partagent avec celles du Haut-Tage l'un des massifs forestiers naturels les plus
+      vastes d'Espagne.
+    wildlife: >-
+      Observez les parois rocheuses. Sur les escarpements et dans les pinèdes nichent l'[aigle de
+      Bonelli](/especie/aquila_fasciata/), l'[aigle royal](/especie/aquila_chrysaetos/), le [faucon
+      pèlerin](/especie/falco_peregrinus/), le [percnoptère](/especie/neophron_percnopterus/), l'aigle botté,
+      le [grand-duc d'Europe](/especie/bubo_bubo/), l'autour des palombes et, le plus abondant, le [vautour
+      fauve](/especie/gyps_fulvus/). Entre forêts et berges vivent le pic épeiche, l'engoulevent d'Europe,
+      diverses grives, le crave à bec rouge, le [cincle plongeur](/especie/cinclus_cinclus/) et le héron
+      cendré. La lagune d'Uña concentre les oiseaux d'eau, foulques et canards, ainsi que des loutres.
+
+
+      Les mammifères les plus remarquables sont les ongulés : le [cerf élaphe](/especie/cervus_elaphus/), le
+      [bouquetin ibérique](/especie/capra_pyrenaica/), le [chevreuil](/especie/capreolus_capreolus/) et le
+      [sanglier](/especie/sus_scrofa/) sont autochtones, tandis que daim et mouflon ont été introduits au
+      milieu du XXe siècle. On remarque également l'[écureuil roux](/especie/sciurus_vulgaris/), la fouine, le
+      blaireau, la [loutre d'Europe](/especie/lutra_lutra/) et le [chat sauvage](/especie/felis_silvestris/).
+
+
+      Les rivières, têtes de bassin du Júcar et du Tage, sont riches en truites et abritent des populations
+      pures de [truite fario](/especie/salmo_trutta/), de barbeau, de bermejuela et de chevesne. Les cours
+      supérieurs protègent d'importantes populations d'écrevisses à pattes blanches indigènes. Parmi les
+      papillons, l'isabelle de France (*Graellsia isabellae*) est le lépidoptère le plus spectaculaire et
+      relativement commun. De nombreuses chauves-souris peuplent les cavités karstiques.
+
+
+      Les saisons métamorphosent les lieux. L'automne offre le spectacle le plus saisissant : érables, chênes
+      faginés, peupliers et saules créent un contraste doré avec le vert profond des pinèdes. En hiver, la
+      neige descend parfois des sommets jusque dans les vallées. Au printemps et en été fleurit la flore
+      montagnarde. La nuit venue, le ciel compte parmi les plus purs de Castille-La Manche, justifiant à lui
+      seul une sortie astronomique.
+    visit: >-
+      Commencez par Los Callejones de Las Majadas : 3,60 km, moins de deux heures, difficulté faible. C'est
+      une déambulation entre ruelles de pierre et blocs aux formes évocatrices, idéale pour une demi-journée.
+      Pour une boucle plus ample, le sentier d'El Escalerón et La Raya (neuf kilomètres, environ trois heures)
+      offre une vue plongeante sur la lagune d'Uña, tandis que le circuit de Las Fuentecillas et Los
+      Callejones (douze kilomètres et neuf cents mètres, près de trois heures et demie) traverse chênaies et
+      pinèdes à flore eurosibérienne.
+
+
+      Parmi les belvédères se distinguent le Ventano del Diablo à Villalba de la Sierra, ainsi que le Tío
+      Cogote et le Balcón de Pilatos à Las Majadas. À Valdemeca, un sentier mycologique de quatre kilomètres
+      et une heure et demie montre comment la mosaïque d'habitats favorise une grande variété de champignons.
+
+
+      Le parc compte trois centres d'interprétation : Tragacete (le principal, sur 1 310 m² et deux niveaux,
+      consacré au réseau d'espaces protégés, au paysage et à la géomorphologie), Uña (dédié aux milieux
+      aquatiques) et Valdemeca (consacré à la flore). Le parc met en outre à disposition une joëlette pour
+      permettre aux personnes à mobilité réduite de parcourir les sentiers.
+    history: >-
+      Le parc naturel a été créé en 2007 et constitue également une ZSC et une ZPS, comprenant une zone
+      critique pour l'aigle de Bonelli et l'espèce menacée *Atropa baetica*, ainsi que la microréserve de la
+      grotte des Morceguillos.
+
+
+      Les menaces pesant sur les pinèdes sont bien identifiées : le plan de gestion du réseau Natura juge
+      excellent l'état des pinèdes de pin laricio, mais pointe les incendies sur la Muela de la Madera parmi
+      les pressions majeures, ainsi que la surabondance de bétail et d'ongulés sauvages.
+    before: >-
+      Il n'y a pas de point d'eau à Los Callejones : prévoyez de l'eau et de bonnes chaussures adaptées aux
+      dalles rocheuses glissantes. Le camping sauvage est interdit, à l'exception du bivouac et du campement
+      de randonnée itinérante, et le ratissage du sol pour cueillir les champignons est proscrit. Vérifiez les
+      horaires d'ouverture du centre de Tragacete avant de partir.
+    around: >-
+      À deux kilomètres se trouve le [Parc naturel du Haut-Tage](/lugar/parque-natural-alto-tajo/), avec
+      lequel il partage la continuité de ses vastes pinèdes.
+  de:
+    intro: >-
+      Manche Kalk-Hochebenen wirken so endlos eben, dass man meint, sie hörten nie auf – bis sie unvermittelt
+      abbrechen. In der Serranía de Cuenca reißt der Boden in tiefe Schluchten und Canyons auf, die Júcar und
+      Escabas eingegraben haben; auf den Kalktafeln bleibt eine steinerne Stadt zurück: Felsengassen,
+      Pilzfelsen und Karrenfelder. Der Naturpark Serranía de Cuenca nimmt den Nordosten der Provinz im
+      Südlichen Iberischen Gebirge ein und birgt eines der größten natürlichen Kiefernwaldgebiete Spaniens.
+    landscape: >-
+      Hier regiert der Stein. Das Relief gründet auf Kalksteinen und Dolomiten aus Jura und Kreide, deren
+      Karbonatgestein durch kohlensäurehaltiges Wasser gelöst wird. Deshalb dehnen sich oben relativ flache
+      Tafeln (*Muelas*) aus, und deshalb schneiden tiefe Canyons das Gestein dort ein, wo Schwächezonen
+      liegen. Dies erklärt auch die Ruinenlandschaften (*Tormagales*): Karrenfelder mit bizarren Felsgebilden,
+      sogenannten verwunschenen Städten, von denen die Ciudad Encantada von Valdecabras und Los Callejones de
+      Las Majadas die bekanntesten sind. Unterirdisch reicht das Karstsystem mit weit verzweigten Höhlen und
+      tiefen Schächten hinab; in der Sierra de Valdemeca treten zudem rote Sandsteine und Konglomerate zutage.
+
+
+      Der höchste Punkt des Parks ist der Cerro de la Mogorrita (1.864 Meter), der Gipfel der Provinz. Diese
+      Lage besitzt herausragende biogeographische Bedeutung: Als südlichster Gebirgsknoten des Iberischen
+      Scheidegebirges trennt er die atlantische und die mediterrane Wasserscheide.
+
+
+      Auf diesem Karstgestein wächst ein gewaltiger Wald. Bestände von Waldkiefer, Schwarzkiefer und
+      See-Kiefer prägen das Landschaftsbild, durchsetzt von Steineichen-, Portugiesischen Eichen-,
+      Pyrenäen-Eichen-, Spanischen Wacholder- und Ahornwäldern. Am Grund feuchter Schluchten herrscht ein ganz
+      anderer Rückzugsraum: reliktäre eurosibirische Mischwälder aus Linden, Stechpalmen und Eiben, die hier
+      ihre südliche Verbreitungsgrenze in Europa erreichen. Zusammen mit den Wäldern des Alto Tajo bilden
+      diese Bestände eines der ausgedehntesten natürlichen Nadelwaldmassive Spaniens.
+    wildlife: >-
+      Richte den Blick auf die Felswände. An den Steilabbrüchen und in den Kiefernforsten brüten
+      [Habichtsadler](/especie/aquila_fasciata/), [Steinadler](/especie/aquila_chrysaetos/),
+      [Wanderfalke](/especie/falco_peregrinus/), [Schmutzgeier](/especie/neophron_percnopterus/), Zwergadler,
+      [Uhu](/especie/bubo_bubo/), Habicht und allen voran der individuenreiche
+      [Gänsegeier](/especie/gyps_fulvus/). In lichten Wäldern und Uferzonen leben Buntspecht, Ziegenmelker,
+      Drosseln, Alpendohlen, die [Wasseramsel](/especie/cinclus_cinclus/) und der Graureiher. An der
+      Uña-Lagune sammeln sich Wasservögel wie Blässhühner und Stockenten, begleitet von Fischottern.
+
+
+      Zu den auffälligsten Säugetieren gehören die Huftiere: [Rothirsch](/especie/cervus_elaphus/),
+      [Iberiensteinbock](/especie/capra_pyrenaica/), [Reh](/especie/capreolus_capreolus/) und
+      [Wildschwein](/especie/sus_scrofa/) sind heimisch, während Damhirsch und Mufflon Mitte des zwanzigsten
+      Jahrhunderts eingebürgert wurden. Beachtung verdienen auch das
+      [Eichhörnchen](/especie/sciurus_vulgaris/), der Steinmarder, der Dachs, der
+      [Fischotter](/especie/lutra_lutra/) und die [Wildkatze](/especie/felis_silvestris/).
+
+
+      Die Quellflüsse von Júcar und Tajo zählen zu den besten Forellengewässern mit genetisch reinen Vorkommen
+      der heimischen [Bachforelle](/especie/salmo_trutta/), der Flussbarbe, der Bermejuela und des Döbels. In
+      den Oberläufen findet der heimische Steinkrebs wichtige Zufluchtsstätten. Unter den Schmetterlingen ist
+      der Spanische Mondvogel (*Graellsia isabellae*) besonders eindrucksvoll. Zahlreiche Fledermäuse bewohnen
+      die Höhlen.
+
+
+      Der Jahreslauf verändert das Landschaftsbild tiefgreifend. Der Herbst ist besonders reizvoll: Ahorne,
+      Eichen, Pappeln und Weiden leuchten golden vor dem satten Dunkelgrün der Kiefern. Im Winter fällt
+      mitunter Schnee bis in die Täler. Frühling und Sommer bringen ein reiches Blütenkleid. Nachts bietet das
+      Schutzgebiet einen der dunkelsten Himmel Kastilien-La Manchas, der für sich allein eine astronomische
+      Exkursion lohnt.
+    visit: >-
+      Beginne am besten bei Los Callejones de Las Majadas: 3,60 km, unter zwei Stunden Gehzeit, leichte
+      Schwierigkeit. Es ist ein Spaziergang zwischen Felsengassen und Pilzfelsen, der zu Naturbeobachtungen
+      einlädt und sich leicht in einen Ausflugstag einfügt. Für eine längere Wanderung bietet der Pfad El
+      Escalerón und La Raya (neun Kilometer, etwa drei Stunden) weite Tiefblicke auf die Uña-Lagune; die Route
+      Las Fuentecillas und Los Callejones (zwölf Kilometer und neunhundert Meter, rund dreieinhalb Stunden)
+      führt durch Eichen- und Kiefernwälder mit eurosibirischer Vegetation.
+
+
+      Zu den schönsten Aussichtspunkten zählen der Ventano del Diablo bei Villalba de la Sierra sowie Tío
+      Cogote und der Balcón de Pilatos in Las Majadas. In Valdemeca erläutert ein vier Kilometer langer
+      Pilzlehrpfad in anderthalb Stunden, wie unterschiedliche Waldgesellschaften reiche Pilzvorkommen
+      hervorbringen.
+
+
+      Der Park unterhält drei Besucherzentren: Tragacete (das Hauptzentrum auf 1.310 m² über zwei Etagen mit
+      Ausstellungen zu Schutzgebietsnetz, Geomorphologie und Landschaft), Uña (dem Element Wasser gewidmet)
+      und Valdemeca (Schwerpunkt Gebirgsbotanik). Zur barrierefreien Erkundung verleiht die Parkverwaltung
+      einen geländegängigen Joëlette-Wandersessel.
+    history: >-
+      Der Naturpark wurde 2007 ausgewiesen und ist zugleich FFH- und Vogelschutzgebiet mit Schutzgebieten für
+      Habichtsadler und *Atropa baetica* sowie dem Mikroschutzgebiet der Cueva de los Morceguillos.
+
+
+      Die Gefährdungen sind dokumentiert: Der Natura-Managementplan bewertet den Zustand der
+      Schwarzkiefernwälder als hervorragend, weist jedoch auf Waldbrände auf der Muela de la Madera sowie
+      übermäßigen Weidedruck durch Vieh und Schalenwild hin.
+    before: >-
+      In Los Callejones gibt es keine Trinkwasserstellen: Führe ausreichend Wasser und festes Schuhwerk für
+      rutschige Felsplatten mit. Freies Campen ist untersagt, ausgenommen Biwakieren und Trekking-Notlager;
+      das Harken des Waldbodens beim Pilzesammeln ist verboten. Erkundige dich vorab nach den Öffnungszeiten
+      des Besucherzentrums in Tragacete.
+    around: >-
+      Zwei Kilometer entfernt liegt der [Naturpark Alto Tajo](/lugar/parque-natural-alto-tajo/), mit dem sich
+      das Gebiet den zusammenhängenden Kiefernwaldkomplex teilt.
+  it:
+    intro: >-
+      Vi sono altopiani calcarei così sconfinati da sembrare infiniti, prima di spaccarsi di colpo. Nella
+      Serranía de Cuenca la terra si squarcia in forre e canyon scavati dal Júcar e dall'Escabas, mentre sui
+      pianori resta una città di pietra: vicoli rocciosi, torri e campi carreggiati. Il Parco Naturale della
+      Serranía de Cuenca occupa il nord-est della provincia, nel Sistema Iberico Meridionale, e custodisce una
+      delle maggiori pinete naturali della Spagna.
+    landscape: >-
+      La pietra detta legge. Il paesaggio poggia su calcari e dolomie del Giurassico e del Cretacico, e la
+      roccia carbonatica si dissolve con le piogge. Per questo in quota si estendono tavolati (*muelas*)
+      relativamente pianeggianti, e per questo sono tagliati da gole profonde ovunque la roccia presenti
+      fratture. È anche l'origine dei rilievi ruiniformi: campi solcati da lapiés noti come città incantate,
+      tra cui la Ciudad Encantada di Valdecabras e Los Callejones de Las Majadas sono gli esempi più mirabili.
+      Nel sottosuolo il carsismo continua con grotte e pozzi tra i più profondi della penisola iberica, mentre
+      nella sierra di Valdemeca affiorano arenarie e conglomerati rossi.
+
+
+      La massima altitudine culmina al Cerro de la Mogorrita (1.864 metri), la cima della provincia. Questa
+      posizione ha un alto valore biogeografico: nodo montuoso più meridionale del Sistema Iberico, spartisce
+      le acque tra bacino atlantico e mediterraneo.
+
+
+      Su queste rocce vegeta una foresta grandiosa. Boschi di pino silvestre, pino nero e pino marittimo
+      dominano la copertura arborea, alternati a leccete, roverelle, cerri, gineprai e aceti. Sul fondo delle
+      forre il microclima ospita boschi relitti eurosiberiani di tigli, agrifogli e tassi che toccano qui il
+      limite meridionale in Europa. Queste pinete condividono con quelle dell'Alto Tajo una delle più ampie
+      formazioni forestali naturali della Spagna.
+    wildlife: >-
+      Guarda verso le pareti scoscese. Sui costoni e nelle pinete nidificano l'[aquila di
+      Bonelli](/especie/aquila_fasciata/), l'[aquila reale](/especie/aquila_chrysaetos/), il [falco
+      pellegrino](/especie/falco_peregrinus/), il [capovaccaio](/especie/neophron_percnopterus/), l'aquila
+      minore, il [gufo reale](/especie/bubo_bubo/), l'astore e, la più numerosa, il
+      [grifone](/especie/gyps_fulvus/). Tra boschi e sponde vivono il picchio rosso maggiore, il succiacapre,
+      tordi, il gracchio corallino, il [merlo acquaiolo](/especie/cinclus_cinclus/) e l'airone cenerino. Nella
+      laguna di Uña sostano folaghe, germani e lontre.
+
+
+      Tra i mammiferi dominano gli ungulati: [cervo](/especie/cervus_elaphus/), [stambecco
+      iberico](/especie/capra_pyrenaica/), [capriolo](/especie/capreolus_capreolus/) e
+      [cinghiale](/especie/sus_scrofa/) sono indigeni, mentre daino e muflone furono introdotti a metà del XX
+      secolo. Notevoli sono anche lo [scoiattolo comune](/especie/sciurus_vulgaris/), la faina, il tasso, la
+      [lontra europea](/especie/lutra_lutra/) e il [gatto selvatico](/especie/felis_silvestris/).
+
+
+      I fiumi, rami sorgentiferi di Júcar e Tago, sono acque da trote con popolazioni pure di [trota
+      fario](/especie/salmo_trutta/), barbo, bermejuela e cavedano. Nei tratti alti sopravvive il gambero
+      d'acqua dolce autoctono. Tra i lepidotteri, la splendida cometa di Spagna (*Graellsia isabellae*) è
+      particolarmente vistosa. Nelle grotte trovano riparo varie colonie di pipistrelli.
+
+
+      Le stagioni trasformano il paesaggio. L'autunno è il momento più scenografico: aceri, querce, pioppi e
+      salici accendono toni dorati contro il verde cupo delle pinete. In inverno la neve scende spesso fino a
+      fondovalle. In primavera ed estate sboccia la flora montana. Di notte, il cielo è tra i più bui e
+      limpidi della Castiglia-La Mancia, ideale per l'osservazione astronomica.
+    visit: >-
+      Inizia da Los Callejones de Las Majadas: 3,60 km, meno di due ore, difficoltà bassa. È una passeggiata
+      tra vicoli di pietra e blocchi fungiformi che stimolano l'immaginazione, perfetta per una mezza
+      giornata. Per un itinerario più lungo, il sentiero di El Escalerón e La Raya (nove chilometri, circa tre
+      ore) regala scorci dall'alto sulla laguna di Uña, mentre Las Fuentecillas e Los Callejones (dodici
+      chilometri e novecento metri, circa tre ore e mezza) attraversa boschi misti con flora eurosiberiana.
+
+
+      Tra i belvedere spiccano il Ventano del Diablo a Villalba de la Sierra, nonché il Tío Cogote e il Balcón
+      de Pilatos a Las Majadas. A Valdemeca un sentiero micologico di quattro chilometri e un'ora e mezza
+      illustra la ricchezza di funghi legata ai diversi habitat boschivi.
+
+
+      Il parco dispone di tre centri visite: Tragacete (il principale, su 1.310 m² su due piani, dedicato a
+      geomorfologia, paesaggio e rete dei parchi), Uña (dedicato all'acqua) e Valdemeca (focalizzato sulla
+      botanica). Il parco mette a disposizione anche una carrozzina da fuoristrada Joëlette per persone con
+      mobilità ridotta.
+    history: >-
+      Il parco naturale è stato istituito nel 2007 ed è anche ZSC e ZPS, con aree critiche per l'aquila di
+      Bonelli e la rara *Atropa baetica*, oltre alla microriserva della grotta dei Morceguillos.
+
+
+      Le minacce sono documentate: i piani dell'ambito Natura giudicano eccellente lo stato delle pinete di
+      pino nero, ma segnalano gli incendi sulla Muela de la Madera tra le pressioni principali, assieme al
+      carico eccessivo di bestiame e ungulati selvatici.
+    before: >-
+      A Los Callejones non vi sono sorgenti: porta acqua e calzature adatte a placche rocciose scivolose. Il
+      campeggio libero è vietato, salvo bivacco notturno in quota per traversate, ed è proibito rastrellare il
+      terreno per cercare funghi. Verifica gli orari di apertura del centro visite di Tragacete prima della
+      gita.
+    around: >-
+      A due chilometri si trova il [Parco naturale dell'Alto Tajo](/lugar/parque-natural-alto-tajo/), con cui
+      condivide il medesimo massiccio di pinete naturali.
+  pt:
+    intro: >-
+      Há planaltos calcários tão extensos que parecem não ter fim, até que subitamente se abrem. Na Serranía
+      de Cuenca o chão quebra-se em desfiladeiros e canhões escavados pelo Júcar e pelo Escabas, restando
+      sobre o calcário uma autêntica cidade de pedra: ruelas, tormos e lapiás. O Parque Natural da Serranía de
+      Cuenca ocupa o nordeste da província, no Sistema Ibérico Meridional, e encerra uma das maiores massas de
+      pinhal natural de Espanha.
+    landscape: >-
+      A rocha comanda tudo. O relevo assenta em calcários e dolomitos do Jurássico e Cretácico, rochas
+      carbonatadas que se dissolvem na água. Por isso no topo se estendem planaltos (*muelas*) relativamente
+      planos, e por isso são rasgados por desfiladeiros profundos onde a rocha é mais frágil. Essa é também a
+      origem dos relevos ruiniformes: campos de lapiás com formações bizarras conhecidas como cidades
+      encantadas, de que a Ciudad Encantada de Valdecabras e Los Callejones de Las Majadas são os expoentes
+      máximos. No subsolo, o carso desce em grutas e algares profundos, enquanto na serra de Valdemeca afloram
+      arenitos e conglomerados vermelhos.
+
+
+      A cota máxima atinge-se no Cerro de la Mogorrita (1.864 metros), o ponto mais alto da província. Essa
+      localização tem elevado valor biogeográfico: como núcleo montanhoso mais meridional do Sistema Ibérico,
+      divide as vertentes hidrográficas atlântica e mediterrânica.
+
+
+      Sobre a rocha cresce uma grande floresta. Matas de pinheiro-silvestre, pinheiro-larício e pinheiro-bravo
+      dominam a paisagem, entremeadas com azinhais, carvalhais-negrales, carvalhais-cerquinhos, zimbros e
+      bordos. No fundo dos canhões, o refúgio assume feição diferente: bosques relíquia euro-siberianos de
+      tílias, azevinhos e teixos que encontram aqui o seu limite meridional na Europa. Estes pinhais partilham
+      com os do Alto Tajo uma das mais vastas florestas naturais de Espanha.
+    wildlife: >-
+      Olha para as escarpas rochosas. Nelas e nos pinhais nidificam a
+      [águia-perdigueira](/especie/aquila_fasciata/), a [águia-real](/especie/aquila_chrysaetos/), o
+      [falcão-peregrino](/especie/falco_peregrinus/), o [abutre-do-egito](/especie/neophron_percnopterus/), a
+      águia-calçada, o [bufo-real](/especie/bubo_bubo/), o açor e, em grande número, o
+      [abutre-fouveiro](/especie/gyps_fulvus/). Entre bosques e margens ocorrem o pica-pau-malhado, noitibós,
+      tordos, gralhas-de-bico-vermelho, o [melro-d'água](/especie/cinclus_cinclus/) e a garça-real. Na lagoa
+      de Uña concentram-se aves aquáticas com galeirões, patos e lontras.
+
+
+      Nos mamíferos destacam-se os ungulados: [veado](/especie/cervus_elaphus/),
+      [cabra-montês](/especie/capra_pyrenaica/), [corça](/especie/capreolus_capreolus/) e
+      [javali](/especie/sus_scrofa/) são autóctones, ao passo que o gamo e o muflão foram introduzidos em
+      meados do século XX. Têm também interesse o [esquilo-vermelho](/especie/sciurus_vulgaris/), a fuinha, o
+      texugo, a [lontra-europeia](/especie/lutra_lutra/) e o [gato-bravo](/especie/felis_silvestris/).
+
+
+      Os rios de cabeceira do Júcar e Tejo são excelentes cursos truteiros, com populações puras de
+      [truta-fário](/especie/salmo_trutta/), barbo, boga e escalo. Nos troços altos sobrevive o
+      lagostim-de-patas-brancas autóctone. Entre as borboletas, a borboleta-isabelinha (*Graellsia isabellae*)
+      é a mais emblemática. As grutas acolhem diversas colónias de morcegos cavernícolas.
+
+
+      As estações alteram a paisagem. O outono é o momento mais espetacular: bordos, carvalhos, choupos e
+      salgueiros criam contrastes dourados com o verde denso dos pinhais. No inverno, a neve desce
+      frequentemente até aos vales. Na primavera e verão floresce a flora alpestre. À noite, o céu conta-se
+      entre os mais escuros de Castela-Mancha, justificando uma saída exclusivamente astronómica.
+    visit: >-
+      Começa por Los Callejones de Las Majadas: 3,60 km, menos de duas horas, dificuldade baixa. É um passeio
+      entre corredores rochosos e cogumelos de pedra que estimula a imaginação, perfeito para uma manhã. Para
+      uma rota mais longa, o trilho de El Escalerón e La Raya (nove quilómetros, cerca de três horas) oferece
+      vistas aéreas sobre a lagoa de Uña, enquanto Las Fuentecillas e Los Callejones (doze quilómetros e
+      novecentos metros, cerca de três horas e meia) cruza carvalhais e pinhais com flora euro-siberiana.
+
+
+      Entre os miradouros destacam-se o Ventano del Diablo em Villalba de la Sierra, bem como o Tío Cogote e o
+      Balcón de Pilatos em Las Majadas. Em Valdemeca existe um trilho micológico de quatro quilómetros e hora
+      e meia que explica como os diferentes habitats alimentam a variedade de cogumelos.
+
+
+      O parque dispõe de três centros de interpretação: Tragacete (o principal, com 1.310 m² em dois pisos,
+      com exposições sobre a rede de áreas protegidas, paisagem e geomorfologia), Uña (dedicado à água) e
+      Valdemeca (focado na botânica). O parque disponibiliza ainda uma cadeira Joëlette para caminhadas de
+      pessoas com mobilidade reduzida.
+    history: >-
+      O parque natural foi classificado em 2007 e integra também ZEC e ZEPA, com áreas críticas para a
+      águia-perdigueira e *Atropa baetica*, além da microrreserva da gruta dos Morceguillos.
+
+
+      As ameaças estão descritas: os planos do âmbito Natura consideram excelente o estado dos pinhais de
+      larício, mas apontam os incêndios na Muela de la Madera como risco fulcral, juntamente com o excesso de
+      pastoreio e ungulados cinegéticos.
+    before: >-
+      Em Los Callejones não há fontes de água: leva água e calçado adequado para lajes rochosas escorregadias.
+      O campismo livre é proibido, exceto bivaque em travessia de montanha, e sachar o solo para apanhar
+      cogumelos é estritamente interdito. Consulta os horários do centro de Tragacete antes de partir.
+    around: >-
+      A dois quilómetros encontra-se o [Parque Natural do Alto Tajo](/lugar/parque-natural-alto-tajo/), com o
+      qual partilha a continuidade das grandes massas de pinhal.
+fuentes:
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca
+    titulo: JCCM — Parque Natural de la Serranía de Cuenca
+    fecha_consulta: '2026-10-30'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/visita-y-disfruta
+    titulo: JCCM — Parque Natural de la Serranía de Cuenca
+    fecha_consulta: '2026-10-30'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/rutas/pnsc-02-los-callejones
+    titulo: JCCM — Parque Natural de la Serranía de Cuenca
+    fecha_consulta: '2026-10-30'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/ci/centro-de-recepcion-de-visitantes-de-tragacete
+    titulo: JCCM — Parque Natural de la Serranía de Cuenca
+    fecha_consulta: '2026-10-30'
+  - url: https://medionatural.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-serrania-de-cuenca/normativa
+    titulo: JCCM — Parque Natural de la Serranía de Cuenca
+    fecha_consulta: '2026-10-30'
+  - url: https://medionatural.castillalamancha.es/sites/default/files/2026-05/Plan%20de%20Gesti%C3%B3n%20Serran%C3%ADa%20de%20Cuenca.%20Doc%202%20Objetivos%20y%20medidas%20de%20conservaci%C3%B3n.pdf
+    titulo: JCCM — Plan de gestión Natura Serranía de Cuenca, documento 2
+    fecha_consulta: '2026-10-30'
+  - url: https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-regional-continua-impulsando-la-conservacion-de-los-humedales-de-castilla-la-mancha-y
+    titulo: Gobierno de Castilla-La Mancha — restauración de la Laguna de Uña, julio de 2025
+    fecha_consulta: '2026-10-30'
+  - url: https://es.wikipedia.org/wiki/Parque_natural_Serran%C3%ADa_de_Cuenca
+    titulo: Parque natural Serranía de Cuenca - Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Ruta_de_los_Callejones_Las_Majadas_Cuenca_02.jpg
+    autor: Tanja Freibott
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-19'

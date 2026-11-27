@@ -1,0 +1,711 @@
+id: fair-isle
+estado_editorial: valoracion-revisada
+nombre:
+  es: Fair Isle - Santuario Ornitológico Insular
+  en: Fair Isle Bird Sanctuary
+  fr: Fair Isle - Sanctuaire ornithologique insulaire
+  de: Fair Isle – Insel-Vogelschutzgebiet
+  it: Fair Isle - Santuario ornitologico insulare
+  pt: Fair Isle - Santuário Ornitológico Insular
+nombre_original: Fair Isle
+alias:
+  - Fair Isle
+paises:
+  - GB
+region:
+  es: Escocia (Islas Shetland)
+  en: Scotland (Shetland Islands)
+  fr: Écosse (Îles Shetland)
+  de: Schottland (Shetland-Inseln)
+  it: Scozia (Isole Shetland)
+  pt: Escócia (Ilhas Shetland)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/3067410
+  nombre_en_la_fuente: Fair Isle
+  capa: capas/osm/fair-isle.geojson
+habitats:
+  - coast
+  - marine
+  - steppe
+especies:
+  - stercorarius_skua
+  - fratercula_arctica
+  - falco_rusticolus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Baja debido a las plazas limitadas del pequeño avión o ferry desde Shetland
+  en: Low due to limited capacity on small aircraft or ferry from Shetland
+  fr: Faible en raison des places limitées à bord du petit avion ou du ferry depuis les Shetland
+  de: Gering aufgrund begrenzter Plätze in Kleinflugzeugen oder auf der Fähre ab Shetland
+  it: Bassa per via dei posti limitati sul piccolo aereo o sul traghetto dalle Shetland
+  pt: Baixa devido aos lugares limitados no pequeno avião ou ferry a partir das Shetland
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Fair Isle Bird Observatory Official
+    url: https://www.fairislebirdobs.co.uk/
+  - titulo: Accesos — Llegar a Fair Isle
+    url: https://www.fairislebirdobs.co.uk/getting_to_fair_isle.html
+  - titulo: Mapas — Fair Isle
+    url: https://www.fairislebirdobs.co.uk/maps.html
+  - titulo: Visita y normas — Guías descargables
+    url: https://www.fairislebirdobs.co.uk/useful_downloads.html
+  - titulo: Rutas y guardería — Paseos del observatorio
+    url: https://www.fairislebirdobs.co.uk/ranger.html
+  - titulo: Gestor — NTS, Fair Isle
+    url: https://www.nts.org.uk/visit/places/fair-isle
+resumen:
+  es: >-
+    La isla aislada a medio camino entre las Orcadas y Shetland, meca histórica del avistamiento de aves
+    divagantes migratorias y artesanía textil tradicional.
+  en: >-
+    The isolated island midway between Orkney and Shetland, historic mecca for migratory vagrant birds and
+    traditional knitwear.
+  fr: >-
+    L'île isolée à mi-chemin entre les Orcades et les Shetland, haut lieu historique de l'ornithologie pour
+    les migrateurs rares et le tricot traditionnel.
+  de: >-
+    Die einsame Insel auf halbem Weg zwischen Orkney und Shetland, historisches Mekka für Zugvögel und
+    traditionelle Strickkunst.
+  it: >-
+    L'isola remota a metà strada tra le Orcadi e le Shetland, mecca storica per l'avvistamento di uccelli
+    migratori e maglieria tradizionale.
+  pt: >-
+    A ilha isolada a meio caminho entre as Órcades e as Shetland, meca histórica para observação de aves
+    migratórias e malhas tradicionais.
+unico:
+  es: >-
+    Aquí el aislamiento ha dado a la isla un chochín propio, una subespecie que no existe en ningún otro
+    lugar.
+  en: >-
+    Here extreme isolation has endowed the island with its own endemic wren, a distinct subspecies found
+    nowhere else on Earth.
+  fr: >-
+    Ici, l'isolement insulaire a engendré un troglodyte propre à l'île, sous-espèce endémique que l'on ne
+    trouve nulle part ailleurs sur Terre.
+  de: >-
+    Die extreme Isolation schenkte der Insel einen eigenen Zaunkönig – eine endemische Unterart, die nirgendwo
+    sonst auf der Welt existiert.
+  it: >-
+    Qui l'isolamento ha regalato all'isola uno scricciolo esclusivo, una sottospecie endemica che non esiste
+    in nessun altro luogo.
+  pt: >-
+    Aqui o isolamento geográfico concedeu à ilha uma carriça própria, uma subespécie endémica que não existe
+    em mais nenhum local do planeta.
+observaciones:
+  es: >-
+    Con los servicios regulares solo se llega pasando por Shetland: el barco Good Shepherd IV une North Haven
+    y Grutness en verano, con unas dos horas y media de travesía, y un servicio aéreo regular funciona todo el
+    año. Los viajes dependen por completo del tiempo, y la mala visibilidad o el viento pueden cambiar los
+    planes casi sin aviso. La isla puede visitarse todo el año, aunque el tiempo condiciona el acceso.
+    Comprueba los horarios de barco y avioneta antes de salir.
+texto:
+  es:
+    intro: >-
+      Entre Mainland, en Shetland, y North Ronaldsay, en las Orcadas, hay un pedazo de roca de 768 hectáreas:
+      Fair Isle, la más meridional de las Shetland. Es lugar de llegada migratoria, con 390 especies de aves
+      registradas, y una meca del avistamiento de aves.
+    landscape: >-
+      Fair Isle es una mezcla de campos verdes, páramo y acantilados de arenisca, y en ninguna parte queda
+      lejos del mar. Está sobre todo hecha de rocas sedimentarias de 385 millones de años, la arenisca
+      conocida como Old Red Sandstone. Los estratos están muy inclinados hacia el ESE, y ese ángulo explica la
+      profusión de farallones, arcos y cuevas: hay más de 20 farallones, casi todos en las costas oeste y
+      norte, y entre 30 y 35 arcos naturales, desde grandes arcos de manual hasta estrechas grietas que cortan
+      los cabos.
+
+
+      El punto más alto, Ward Hill, llega a 217 metros.. Un muro, el Hill Dyke, separa las granjas y los
+      prados del sur de los pastos comunes del norte, un páramo sin habitantes. Fair Isle es una de las siete
+      Áreas Escénicas Nacionales de Shetland, y casi toda ella es SSSI, ZEPA y ZEC.
+
+
+      En 1969 se encontraron restos de plantas primitivas del Devónico, y la isla es el único lugar de Gran
+      Bretaña que ha dado una flora de esa edad.
+    wildlife: >-
+      El año de Fair Isle se cuenta en aves. A finales de marzo regresan los
+      [frailecillos](/especie/fratercula_arctica/), que anidan en antiguas madrigueras de conejo y se quedan
+      hasta mediados de agosto. Algunos crían a pocos minutos a pie del observatorio, y son muy fáciles de ver
+      en verano. De mayo a mediados de agosto son la gran atracción, con paseos guiados de tarde.
+
+
+      Las demás aves marinas cuentan una historia menos feliz. El [fulmar](/especie/fulmarus_glacialis/) no
+      criaba aquí antes de 1903; su población llegó a superar las 43.000 parejas en 1996 y bajó a 26.629 en
+      2025. El [alcatraz](/especie/morus_bassanus/) empezó a criar en 1975 y va en sentido contrario: en 2025
+      se contaron casi 7.000 parejas. El [cormorán moñudo](/especie/phalacrocorax_aristotelis/) ha pasado de
+      más de 1.500 parejas en los años sesenta a solo 68, y se piensa que falta alimento, las anguilas de
+      arena, en la cría. El [arao común](/especie/uria_aalge/) tuvo más de 39.000 aves a finales de los
+      noventa, y esa cifra se ha reducido a la mitad; la [alca](/especie/alca_torda/) ha caído de más de 5.000
+      aves a 2.535. El arao aliblanco anida al pie de los acantilados de la costa este, donde con calma es
+      fácil de ver, y hay unos 200 adultos reproductores.
+
+
+      De noche, de mediados de julio a principios de septiembre, se anilla el [paíño
+      europeo](/especie/hydrobates_pelagicus/), y los visitantes pueden asistir.
+
+
+      Entre abril y junio y entre agosto y octubre, el equipo del observatorio hace un censo diario de las
+      aves migratorias. A partir de mediados de septiembre llegan los primeros mosquiteros bilistados, que más
+      tarde en el mes pueden ser el ave más común de la isla; en octubre, con viento del noroeste, pasan
+      grandes bandadas de ánsares campestres, ánsares piquicortos y cisnes cantores. Cada tarde puedes aportar
+      tus observaciones al registro que se lee en el salón del observatorio.
+
+
+      Con suerte, el chochín de Fair Isle, la subespecie endémica menos numerosa de Gran Bretaña, canta junto
+      a las viejas construcciones de The Haven, donde suele anidar una pareja. Entre 2011 y 2017 promedió 39
+      machos cantores, casi todos en los acantilados.
+
+
+      En el mar, la mayoría de avistamientos de cetáceos se producen entre mayo y octubre. Buness, Meoness y
+      los acantilados de North Light son buenos puntos de observación en días de calma, y lo más frecuente son
+      la marsopa, el rorcual aliblanco y la [orca](/especie/orcinus_orca/). La [foca
+      gris](/especie/halichoerus_grypus/) cría en pequeño número y se ve en North Haven y South Harbour; pare
+      desde octubre en playas aisladas.
+    visit: >-
+      La ruta se resuelve a pie y con el guarda. Gracias al apoyo de NatureScot hay un servicio gratuito de
+      guarda para todos los visitantes de abril a finales de octubre, con paseos guiados abiertos también a
+      quien no se aloje en el observatorio. Hay cinco rutas, sobre aves, historia, arqueología y paisaje. El
+      observatorio ofrece además recorridos guiados de mayo a octubre y se puede concertar una visita al faro
+      sur.
+
+
+      Hay 24 granjas (crofts) ocupadas en la mitad sur, así que lo que recorres es también un paisaje
+      habitado.
+    history: >-
+      Entre 1905 y 1911, William Eagle Clarke visitó la isla ocho veces y registró 207 especies, la mitad de
+      las de la lista británica de entonces. En 1948 George Waterston compró la isla y el observatorio de aves
+      nació como fundación pública, en el antiguo cuartel naval de North Haven. Hoy Fair Isle es uno de los
+      cuatro sitios intensamente monitorizados por el programa británico de seguimiento de aves marinas.
+    before: >-
+      Con los servicios regulares solo se llega pasando por Shetland: el barco Good Shepherd IV une North
+      Haven y Grutness en verano, con unas dos horas y media de travesía, y un servicio aéreo regular funciona
+      todo el año. Los viajes dependen por completo del tiempo, y la mala visibilidad o el viento pueden
+      cambiar los planes casi sin aviso. La isla puede visitarse todo el año, aunque el tiempo condiciona el
+      acceso. Comprueba los horarios de barco y avioneta antes de salir.
+    around: >-
+      Fair Isle comparte aves marinas con otros lugares del atlas. Con la [Reserva Natural de la Isla de
+      Handa](/lugar/isle-of-handa/) coincide en el págalo grande, el arao común y el frailecillo; con la
+      [Reserva Natural Nacional de Hermaness](/lugar/hermaness-national-nature-reserve/), en el págalo grande
+      y el frailecillo; y con la [Reserva Natural de las Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) y
+      los [Acantilados Ornitológicos de Vestmanna](/lugar/vestmanna-bird-cliffs/), en el arao común y el
+      frailecillo.
+  en:
+    intro: >-
+      Between Mainland Shetland and North Ronaldsay in Orkney lies a 768-hectare block of rock: Fair Isle, the
+      southernmost island of the Shetland archipelago. It is a legendary migratory landfall, with 390 bird
+      species recorded, and an international mecca for birdwatching.
+    landscape: >-
+      Fair Isle is a blend of crofted green pastures, windswept heather moorland, and dramatic sandstone
+      cliffs, where the sea is never far away. It is fashioned almost entirely of 385-million-year-old Old Red
+      Sandstone sedimentary rocks. The bedding strata dip steeply towards the east-south-east, and this
+      geological angle accounts for its wealth of coastal rock formations: there are over 20 sea stacks,
+      primarily along the western and northern coasts, and between 30 and 35 natural arches, ranging from
+      textbook monumental spans to narrow geos cleaving the headlands.
+
+
+      The highest summit, Ward Hill, reaches 217 metres. A stone boundary wall, the Hill Dyke, bisects the
+      island, separating the cultivated crofts and pastures of the south from the unpopulated common grazing
+      moors of the north. Fair Isle is designated as one of Shetland's seven National Scenic Areas, and almost
+      the entire island forms an SSSI, SPA, and SAC.
+
+
+      In 1969, fossil remains of primitive Devonian plants were unearthed, making the island the only locality
+      in Britain yielding a fossil flora of that geological age.
+    wildlife: >-
+      The Fair Isle year is marked by birds. In late March, [Atlantic puffins](/especie/fratercula_arctica/)
+      return to occupy old rabbit burrows, remaining until mid-August. Several pairs breed just minutes on
+      foot from the bird observatory, making them effortless to see in summer. From May to mid-August they are
+      the premier wildlife attraction, celebrated during evening ranger walks.
+
+
+      Other seabirds recount a more sobering trajectory. The [northern fulmar](/especie/fulmarus_glacialis/)
+      did not nest here prior to 1903; its population peaked at over 43,000 pairs in 1996 before falling to
+      26,629 pairs in 2025. The [northern gannet](/especie/morus_bassanus/) began breeding in 1975 and has
+      expanded in the opposite direction: in 2025 nearly 7,000 pairs were censused. The [European
+      shag](/especie/phalacrocorax_aristotelis/) has crashed from more than 1,500 pairs in the sixties to just
+      68, driven by food shortages—specifically lesser sandeels—during the breeding period. The [common
+      murre](/especie/uria_aalge/) numbered over 39,000 birds in the late nineties, a tally that has since
+      halved; the [razorbill](/especie/alca_torda/) has dropped from over 5,000 individuals to 2,535. Black
+      guillemots nest beneath boulder scree on the east coast, easily spotted in calm sea conditions, with
+      around 200 breeding adults.
+
+
+      At night, between mid-July and early September, [European storm petrels](/especie/hydrobates_pelagicus/)
+      are ringed, and island visitors can attend.
+
+
+      Between April and June and from August to October, observatory wardens conduct daily migratory bird
+      censuses. From mid-September the first yellow-browed warblers appear, sometimes becoming the island's
+      most abundant bird later that month; in October, north-westerly winds bring large flocks of bean geese,
+      pink-footed geese, and whooper swans. Each evening you can contribute your personal sightings to the
+      daily bird log convened in the observatory lounge.
+
+
+      With patience, the Fair Isle wren, Britain's least numerous endemic passerine subspecies, sings around
+      the stone ruins of The Haven, where a pair regularly nests. Between 2011 and 2017 an average of 39
+      singing males was recorded, largely occupying sheltered maritime cliff crags.
+
+
+      At sea, most cetacean encounters occur between May and October. Buness, Meoness, and North Light cliffs
+      make superb vantage points on calm days, frequently producing harbour porpoise, minke whale, and [killer
+      whale](/especie/orcinus_orca/). The [grey seal](/especie/halichoerus_grypus/) breeds in modest numbers,
+      seen at North Haven and South Harbour, pupping from October onward on isolated pebble beaches.
+    visit: >-
+      Exploring Fair Isle is accomplished on foot and alongside the resident ranger. Supported by NatureScot,
+      a complimentary ranger service operates for all visitors from April to late October, offering guided
+      interpretive walks open to observatory residents and day visitors alike. Five themed routes explore
+      birds, island history, archaeology, and coastal geomorphology. The bird observatory additionally runs
+      guided excursions from May to October, and private tours of South Lighthouse can be arranged.
+
+
+      There are 24 active crofts in the southern half, meaning that your journey traverses a living, inhabited
+      island cultural landscape.
+    history: >-
+      Between 1905 and 1911, ornithologist William Eagle Clarke visited the island eight times, recording 207
+      bird species—amounting to half the official British list of the day. In 1948 George Waterston purchased
+      the island and the bird observatory was established as an independent trust within former naval huts at
+      North Haven. Today Fair Isle serves as one of four key monitoring stations within the UK Seabird
+      Monitoring Programme.
+    before: >-
+      Scheduled travel requires travelling through Shetland: the ferry Good Shepherd IV links North Haven with
+      Grutness in summer taking two and a half hours, while passenger flights operate year-round. All journeys
+      are weather-dependent; fog or gale-force winds can disrupt transport with little advance notice. The
+      island can be visited throughout the year, though conditions dictate logistics. Confirm ferry and flight
+      timetables well before travelling.
+    around: >-
+      Fair Isle shares prominent seabird species with other atlas destinations. It coincides with [Handa
+      Island Nature Reserve](/lugar/isle-of-handa/) for great skua, common murre, and puffin; with [Hermaness
+      National Nature Reserve](/lugar/hermaness-national-nature-reserve/) for great skua and puffin; and with
+      [Sept-Îles Nature Reserve](/lugar/reserve-naturelle-des-sept-iles/) and [Vestmanna Bird
+      Cliffs](/lugar/vestmanna-bird-cliffs/) for common murre and Atlantic puffin.
+  fr:
+    intro: >-
+      Entre Mainland, aux Shetland, et North Ronaldsay, aux Orcades, émerge un bloc rocheux de 768 hectares :
+      Fair Isle, l'île la plus méridionale des Shetland. C'est une escale migratoire majeure, comptant 390
+      espèces d'oiseaux recensées, et la mecque absolue de l'observation ornithologique.
+    landscape: >-
+      Fair Isle est un assemblage de pâturages verdoyants, de landes battues par les vents et de falaises de
+      grès, où la mer n'est jamais lointaine. Elle est presque entièrement bâtie de roches sédimentaires
+      vieilles de 385 millions d'années, le fameux Vieux Grès Rouge. Les strates plongent fortement vers
+      l'est-sud-est, et cette inclinaison géologique explique la profusion d'aiguilles marines, d'arches et de
+      grottes : on compte plus de 20 stacks côtiers, surtout sur les rivages ouest et nord, et entre 30 et 35
+      arches naturelles, depuis de vastes voûtes classiques jusqu'à d'étroits gouffres fendant les caps.
+
+
+      Le point culminant, Ward Hill, s'élève à 217 mètres. Un mur de pierre, le Hill Dyke, scinde l'île,
+      séparant les fermes et prés du sud des parcours communaux du nord, vaste lande inhabitée. Fair Isle
+      compte parmi les sept zones de beauté panoramique nationale des Shetland, et la quasi-totalité de ses
+      terres est classée SSSI, ZPS et ZSC.
+
+
+      En 1969 furent mis au jour des fossiles de végétaux primitifs du Dévonien, faisant de l'île l'unique
+      gisement de Grande-Bretagne à livrer une flore de cet âge.
+    wildlife: >-
+      L'année à Fair Isle se mesure au rythme des oiseaux. À la fin mars reviennent les [macareux
+      moines](/especie/fratercula_arctica/), qui s'installent dans d'anciens terriers de lapins et restent
+      jusqu'à la mi-août. Certains nichent à quelques minutes de marche de l'observatoire, faciles à observer
+      en été. De mai à la mi-août, ils constituent l'attraction phare lors des promenades naturalistes du
+      soir.
+
+
+      Les autres oiseaux de mer relatent une évolution plus contrastée. Le [fulmar
+      boréal](/especie/fulmarus_glacialis/) ne nichait pas ici avant 1903 ; ses effectifs dépassèrent 43 000
+      couples en 1996 avant de chuter à 26 629 en 2025. Le [fou de Bassan](/especie/morus_bassanus/) a
+      commencé à nicher en 1975 et progresse en sens inverse : en 2025 on dénombrait près de 7 000 couples. Le
+      [cormoran huppé](/especie/phalacrocorax_aristotelis/) est passé de plus de 1 500 couples dans les années
+      soixante à seulement 68, faute de lançons disponibles durant la nidification. Le [guillemot de
+      Troïl](/especie/uria_aalge/) comptait plus de 39 000 individus à la fin des années quatre-vingt-dix,
+      effectif divisé par deux depuis ; le [pingouin torda](/especie/alca_torda/) a décliné de plus de 5 000
+      oiseaux à 2 535. Le guillemot à miroir niche au pied des éboulis de la côte orientale, aisément
+      repérable par mer calme, comptant environ 200 adultes reproducteurs.
+
+
+      La nuit, de la mi-juillet au début septembre, a lieu le baguage de l'[océanite
+      tempête](/especie/hydrobates_pelagicus/), auquel les visiteurs peuvent assister.
+
+
+      D'avril à juin et d'août à octobre, l'équipe de l'observatoire réalise un comptage quotidien des
+      migrateurs. Dès la mi-septembre arrivent les premiers pouillots à grands sourcils, qui deviennent
+      parfois l'oiseau le plus abondant de l'île à la fin du mois ; en octobre, par vent de nord-ouest,
+      passent d'importants vols d'oies des moissons, d'oies à bec court et de cygnes chanteurs. Chaque soir,
+      vous pouvez verser vos observations au registre partagé au salon de l'observatoire.
+
+
+      Avec un peu de chance, le troglodyte de Fair Isle, la sous-espèce endémique la moins abondante de
+      Grande-Bretagne, fait entendre son chant près des bâtisses de The Haven, où un couple niche fréquemment.
+      Entre 2011 et 2017, la moyenne s'élevait à 39 mâles chanteurs, nichant pour l'essentiel dans les
+      falaises.
+
+
+      En mer, les observations de cétacés se concentrent entre mai et octobre. Buness, Meoness et les falaises
+      de North Light offrent d'excellents promontoires par temps calme, révélant le marsouin commun, la
+      baleine de Minke et l'[orque](/especie/orcinus_orca/). Le [phoque gris](/especie/halichoerus_grypus/) se
+      reproduit en petit nombre et s'observe à North Haven et South Harbour, mettant bas dès octobre sur des
+      grèves isolées.
+    visit: >-
+      La découverte se fait à pied en compagnie du garde. Grâce au soutien de NatureScot, un service gratuit
+      de gardes-nature accueille les visiteurs d'avril à fin octobre, proposant des sorties guidées ouvertes
+      également à ceux qui ne dorment pas à l'observatoire. Cinq itinéraires thématiques abordent les oiseaux,
+      l'histoire insulaire, l'archéologie et les paysages. L'observatoire propose en outre des excursions de
+      mai à octobre et des visites du phare sud sur demande.
+
+
+      On dénombre 24 fermes traditionnelles habitées dans la moitié sud, de sorte que votre parcours traverse
+      un terroir vivant.
+    history: >-
+      Entre 1905 et 1911, l'ornithologue William Eagle Clarke visita l'île à huit reprises et y identifia 207
+      espèces, soit la moitié de la liste britannique de l'époque. En 1948, George Waterston racheta l'île et
+      fonda l'observatoire ornithologique au sein d'anciens baraquements de la marine à North Haven. Fair Isle
+      figure aujourd'hui parmi les quatre sites clés suivis en continu par le programme national de
+      surveillance des oiseaux marins.
+    before: >-
+      Les liaisons régulières imposent de transiter par les Shetland : le navire Good Shepherd IV relie North
+      Haven à Grutness en été en deux heures et demie de traversée, tandis qu'une desserte aérienne fonctionne
+      toute l'année. Les rotations dépendent entièrement de la météo : brume et bourrasques peuvent bousculer
+      les plans sans préavis. L'île se visite toute l'année sous réserve des conditions. Vérifiez les horaires
+      maritimes et aériens avant le départ.
+    around: >-
+      Fair Isle partage de nombreuses espèces d'oiseaux marins avec d'autres sites de l'atlas. Avec la
+      [Réserve naturelle de l'île de Handa](/lugar/isle-of-handa/), elle partage le grand labbe, le guillemot
+      de Troïl et le macareux moine ; avec la [Réserve naturelle nationale
+      d'Hermaness](/lugar/hermaness-national-nature-reserve/), le grand labbe et le macareux moine ; et avec
+      la [Réserve naturelle des Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) ainsi que les [Falaises
+      ornithologiques de Vestmanna](/lugar/vestmanna-bird-cliffs/), le guillemot de Troïl et le macareux
+      moine.
+  de:
+    intro: >-
+      Zwischen Mainland Shetland und North Ronaldsay auf Orkney liegt ein 768 Hektar großer Felsblock im
+      Nordatlantik: Fair Isle, die südlichste Insel der Shetland-Gruppe. Sie ist eine herausragende
+      Zugvogelraststation mit 390 dokumentierten Vogelarten und ein weltweites Mekka für Vogelbeobachter.
+    landscape: >-
+      Fair Isle vereint grüne Weideflächen, offenes Heideland und mächtige Sandsteinklippen, wobei das Meer
+      nirgendwo weit entfernt ist. Sie besteht fast gänzlich aus 385 Millionen Jahre altem Old-Red-Sandstein.
+      Die Gesteinsschichten fallen steil nach OSO ab, was den Reichtum an bizarren Küstenformen erklärt: Über
+      20 Brandungspfeiler säumen vor allem die West- und Nordküste, begleitet von 30 bis 35 Brandungstoren,
+      von gewaltigen Steinbögen bis zu schmalen Felsspalten, die die Landzungen durchziehen.
+
+
+      Die höchste Erhebung, der Ward Hill, erreicht 217 Meter. Eine Steinmauer, der Hill Dyke, teilt die Insel
+      und trennt die Farmen und Weiden des Südens vom unbesiedelten Allmende-Heideland des Nordens. Fair Isle
+      gehört zu den sieben Nationalen Landschaftsschutzgebieten Shetlands und ist beinahe lückenlos als SSSI,
+      SPA und SAC ausgewiesen.
+
+
+      Im Jahr 1969 wurden fossile Überreste primitiver Devon-Pflanzen entdeckt, was die Insel zur einzigen
+      Fundstätte Großbritanniens für eine Flora dieses Zeitalters macht.
+    wildlife: >-
+      Das Jahr auf Fair Isle bemisst sich nach den Vögeln. Ende März kehren die
+      [Papageitaucher](/especie/fratercula_arctica/) zurück, beziehen alte Kaninchenbaue und bleiben bis Mitte
+      August. Einige brüten nur wenige Gehminuten von der Vogelwarte entfernt und lassen sich im Sommer
+      mühelos beobachten. Von Mai bis Mitte August bilden sie die Hauptattraktion bei abendlichen
+      Ranger-Touren.
+
+
+      Andere Seevögel verzeichnen einen ernsteren Trend. Der [Eissturmvogel](/especie/fulmarus_glacialis/)
+      brütete hier vor 1903 überhaupt nicht; sein Bestand kletterte 1996 auf über 43.000 Paare, sank jedoch
+      bis 2025 auf 26.629 Paare. Der [Basstölpel](/especie/morus_bassanus/) siedelte sich 1975 an und
+      entwickelte sich gegenläufig: 2025 zählte man fast 7.000 Paare. Die
+      [Krähenscharbe](/especie/phalacrocorax_aristotelis/) brach von über 1.500 Paaren in den sechziger Jahren
+      auf nur noch 68 Paare ein, vermutlich durch Nahrungsmangel an Sandaalen während der Jungenaufzucht. Die
+      [Tordalk](/especie/alca_torda/) sank von über 5.000 Vögeln auf 2.535, während die
+      [Trottellumme](/especie/uria_aalge/) von über 39.000 Individuen in den späten neunziger Jahren auf die
+      Hälfte zurückging. Gryllteisten brüten am Fuß der Geröllhalden der Ostküste mit etwa 200 Altvögeln.
+
+
+      Nachts wird von Mitte Juli bis Anfang September die [Sturmschwalbe](/especie/hydrobates_pelagicus/)
+      beringt, und Besucher können daran teilnehmen.
+
+
+      Zwischen April und Juni sowie August und Oktober erfasst das Team der Warte täglich die Zugvögel. Ab
+      Mitte September treffen erste Gelbbrauen-Laubsänger ein, die Ende des Monats mitunter die häufigste Art
+      der Insel stellen; im Oktober ziehen bei Nordwestwind Trupps von Saatgänsen, Kurzschnabelgänsen und
+      Singschwänen durch. Jeden Abend kannst du deine Beobachtungen in das gemeinsame Logbuch im
+      Aufenthaltsraum der Warte eintragen.
+
+
+      Mit etwas Glück singt der Fair-Isle-Zaunkönig, die seltenste endemische Unterart Großbritanniens, nahe
+      den Steinmauern von The Haven. Zwischen 2011 und 2017 zählte man im Schnitt 39 singende Männchen an den
+      Klippen.
+
+
+      Auf See gelingen die meisten Meeressäuger-Sichtungen zwischen Mai und Oktober. Buness, Meoness und die
+      Klippen von North Light sind an ruhigen Tagen ideale Ausgucke für Schweinswale, Zwergwale und
+      [Schwertwale](/especie/orcinus_orca/). Die [Kegelrobbe](/especie/halichoerus_grypus/) pflanzt sich in
+      geringer Zahl fort und ruht in North Haven und South Harbour; ab Oktober bringt sie ihre Jungen an
+      einsamen Stränden zur Welt.
+    visit: >-
+      Die Erkundung erfolgt zu Fuß und mit den Rangern. Dank der Unterstützung von NatureScot steht allen
+      Gästen von April bis Ende Oktober ein kostenloser Ranger-Dienst zur Verfügung, dessen Führungen auch
+      Tagesgästen offenstehen. Fünf Themenrouten widmen sich Vögeln, Inselgeschichte, Archäologie und
+      Geomorphologie. Die Vogelwarte veranstaltet von Mai bis Oktober eigene Exkursionen, und Besuche des
+      Südleuchtturms lassen sich organisieren.
+
+
+      Im Süden bewirtschaften Familien 24 aktive Kleinbauernhöfe (Crofts), sodass du durch eine bewohnte
+      Kulturlandschaft wanderst.
+    history: >-
+      Zwischen 1905 und 1911 bereiste William Eagle Clarke die Insel achtmal und erfasste 207 Arten, was
+      damals der Hälfte aller britischen Vogelarten entsprach. Im Jahr 1948 erwarb George Waterston die Insel,
+      und die Vogelwarte entstand in ehemaligen Marinebaracken in North Haven. Heute fungiert Fair Isle als
+      eine von vier Kernstationen des britischen Seevogel-Monitoringprogramms.
+    before: >-
+      Reguläre Verbindungen führen ausnahmslos über Shetland: Die Fähre Good Shepherd IV verkehrt im Sommer in
+      zweieinhalb Stunden zwischen North Haven und Grutness, ergänzt durch ganzjährige Flugverbindungen. Alle
+      Fahrten sind stark wetterabhängig; Nebel oder Sturm können Reisepläne unvermittelt durchkreuzen. Ein
+      Besuch ist ganzjährig möglich, erfordert jedoch Flexibilität. Prüfe Fähr- und Flugpläne rechtzeitig.
+    around: >-
+      Fair Isle teilt viele Seevögel mit anderen Atlas-Zielen. Mit dem [Handa Island Nature
+      Reserve](/lugar/isle-of-handa/) teilt sie Große Raubmöwe, Trottellumme und Papageitaucher; mit dem
+      [Hermaness National Nature Reserve](/lugar/hermaness-national-nature-reserve/) Große Raubmöwe und
+      Papageitaucher; und mit dem [Naturschutzgebiet Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) sowie
+      den [Vogelfelsen von Vestmanna](/lugar/vestmanna-bird-cliffs/) Trottellumme und Papageitaucher.
+  it:
+    intro: >-
+      Tra Mainland nelle Shetland e North Ronaldsay nelle Orcadi affiora un blocco di roccia di 768 ettari:
+      Fair Isle, l'isola più meridionale dell'arcipelago delle Shetland. È un approdo leggendario per le rotte
+      migratorie, con 390 specie ornitiche registrate, e una mecca storica per il birdwatching.
+    landscape: >-
+      Fair Isle fonde pascoli costieri, brughiere battute dal vento e falesie di arenaria, senza mai
+      allontanarsi dal mare. È costituita quasi per intero da rocce sedimentarie risalenti a 385 milioni di
+      anni fa, la celebre arenaria rossa antica. Gli strati rocciosi sono fortemente inclinati verso ESE, e
+      questa conformazione spiega la profusione di faraglioni, archi e grotte: si contano oltre 20 faraglioni,
+      concentrati sui litorali ovest e nord, e tra 30 e 35 archi naturali, da ampie volte monumentali a
+      strette fenditure che tagliano i promontori.
+
+
+      Il rilievo culminante, Ward Hill, raggiunge 217 metri. Un muretto a secco, l'Hill Dyke, divide l'isola
+      separando i campi coltivati e le fattorie del sud dai pascoli comuni del nord, una brughiera priva di
+      insediamenti. Fair Isle rientra fra le sette aree paesaggistiche nazionali delle Shetland, e quasi
+      l'intero territorio è tutelato come SSSI, ZPS e ZSC.
+
+
+      Nel 1969 vi furono rinvenuti resti fossili di piante primitive del Devoniano, rendendo l'isola l'unica
+      località della Gran Bretagna a restituire una flora fossile di tale epoca.
+    wildlife: >-
+      L'anno su Fair Isle è scandito dall'avifauna. A fine marzo ritornano i
+      [fratercula](/especie/fratercula_arctica/), che occupano le tane di coniglio e vi restano fino a metà
+      agosto. Alcune coppie nidificano a pochi minuti a piedi dall'osservatorio, rendendo gli avvistamenti
+      estivi semplicissimi. Da maggio a metà agosto rappresentano la grande attrazione durante le passeggiate
+      serali con i guardaparco.
+
+
+      Gli altri uccelli marini mostrano trend più complessi. Il [fulmaro](/especie/fulmarus_glacialis/) non
+      nidificava qui prima del 1903; la popolazione superò le 43.000 coppie nel 1996 per poi scendere a 26.629
+      nel 2025. La [sula bassana](/especie/morus_bassanus/) si è insediata nel 1975 e procede in
+      controtendenza: nel 2025 si contavano quasi 7.000 coppie. Il [marangone dal
+      ciuffo](/especie/phalacrocorax_aristotelis/) è crollato da oltre 1.500 coppie negli anni sessanta a sole
+      68, a causa della scarsità di cicerelli per sfamare i nidiacei. L'[uria comune](/especie/uria_aalge/)
+      contava più di 39.000 individui alla fine degli anni novanta, cifra ormai dimezzata; la [gazza
+      marina](/especie/alca_torda/) è scesa da oltre 5.000 uccelli a 2.535. L'uria nera nidifica ai piedi
+      delle pietraie della costa est con circa 200 adulti riproduttori.
+
+
+      Di notte, da metà luglio a inizio settembre, viene inanellato l'[uccello delle tempeste
+      europeo](/especie/hydrobates_pelagicus/), con possibilità per i visitatori di assistere alle operazioni.
+
+
+      Tra aprile e giugno e tra agosto e ottobre, il personale dell'osservatorio esegue un censimento
+      quotidiano dei migratori. Da metà settembre compaiono i primi luì forestieri, che a fine mese possono
+      divenire l'uccello più numeroso dell'isola; a ottobre, con venti da nord-ovest, transitano branchi di
+      oche granaiを進, oche zamperose e cigni selvatici. Ogni sera puoi condividere le tue osservazioni nel
+      registro comunitario nel salone dell'osservatorio.
+
+
+      Con un po' di fortuna, lo scricciolo di Fair Isle, la sottospecie endemica meno numerosa della Gran
+      Bretagna, canta tra le rovine di The Haven. Tra il 2011 e il 2017 la media era di 39 maschi territoriali
+      sulle scogliere.
+
+
+      In mare, la maggior parte dei cetacei si concentra tra maggio e ottobre. Buness, Meoness e le scogliere
+      di North Light offrono ottime postazioni con mare calmo per scorgere focene, balenottere minori e
+      l'[orca](/especie/orcinus_orca/). La [foca grigia](/especie/halichoerus_grypus/) si riproduce in piccolo
+      numero ed è visibile a North Haven e South Harbour, partorendo da ottobre su spiagge appartate.
+    visit: >-
+      L'isola si visita a piedi in compagnia del ranger. Grazie al sostegno di NatureScot, un servizio
+      gratuito di guide opera da aprile a fine ottobre con escursioni aperte a tutti i visitatori. Cinque
+      percorsi guidati approfondiscono avifauna, storia locale, archeologia e geologia. L'osservatorio propone
+      itinerari dedicati da maggio a ottobre ed è possibile concordare visite al faro meridionale.
+
+
+      Nel settore sud risiedono 24 poderi agricoli attivi, rendendo la visita un'esperienza in un paesaggio
+      rurale autentico e abitato.
+    history: >-
+      Tra il 1905 e il 1911 l'ornitologo William Eagle Clarke visitò l'isola otto volte registrando 207
+      specie, pari alla metà della lista ornitica britannica di allora. Nel 1948 George Waterston acquistò
+      l'isola fondando l'osservatorio in ex baracche della marina a North Haven. Oggi Fair Isle è una delle
+      quattro stazioni cardine del programma nazionale di monitoraggio degli uccelli marini.
+    before: >-
+      I collegamenti regolari impongono di passare dalle Shetland: il traghetto Good Shepherd IV unisce North
+      Haven a Grutness in estate in due ore e mezza, affiancato da voli regolari tutto l'anno. I viaggi
+      dipendono strettamente dal meteo, con nebbie fitte o burrasche che possono alterare le coincidenze senza
+      preavviso. L'isola è visitabile tutto l'anno, ma occorre pianificare con flessibilità. Verifica orari
+      marittimi e aerei prima di metterti in viaggio.
+    around: >-
+      Fair Isle condivide specie marine con altri siti dell'atlante: con la [Riserva naturale dell'Isola di
+      Handa](/lugar/isle-of-handa/) condivide stercorario maggiore, uria e fratercula; con la [Riserva
+      naturale nazionale di Hermaness](/lugar/hermaness-national-nature-reserve/) stercorario maggiore e
+      fratercula; e con la [Riserva naturale delle Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e le
+      [Scogliere degli uccelli di Vestmanna](/lugar/vestmanna-bird-cliffs/) uria comune e fratercula.
+  pt:
+    intro: >-
+      Entre Mainland, nas Shetland, e North Ronaldsay, nas Órcades, ergue-se um maciço rochoso de 768
+      hectares: Fair Isle, a mais meridional das ilhas Shetland. É um ponto lendário de escala migratória, com
+      390 espécies de aves registadas, e uma meca internacional para ornitólogos.
+    landscape: >-
+      Fair Isle conjuga prados agrícolas, charnecas de urze batidas pelo vento e arribas de arenito, onde o
+      oceano está sempre ao alcance do olhar. É formada quase exclusivamente por rochas sedimentares com 385
+      milhões de anos, o arenito Old Red Sandstone. Os estratos rochosos inclinam-se pronunciadamente para
+      ESE, ângulo que originou uma profusão de leixões, arcos e grutas marinhas: contam-se mais de 20 leixões,
+      sobretudo nas costas oeste e norte, e entre 30 e 35 arcos naturais, desde arcos monumentais a fendas
+      estreitas que talham os promontórios.
+
+
+      O ponto mais elevado, Ward Hill, alcança 217 metros. Um muro de pedra, o Hill Dyke, divide a ilha,
+      delimitando os terrenos agrícolas e pastos do sul das pastagens comunais desabitadas do norte. Fair Isle
+      integra uma das sete Áreas Cénicas Nacionais das Shetland, encontrando-se quase na totalidade
+      classificada como SSSI, ZPE e ZEC.
+
+
+      Em 1969 foram descobertos fósseis de plantas primitivas do Devónico, tornando a ilha o único local da
+      Grã-Bretanha a registar uma flora fóssil desse período.
+    wildlife: >-
+      O calendário de Fair Isle afere-se pelas aves. Em finais de março regressam os
+      [papagaios-do-mar](/especie/fratercula_arctica/), que ocupam tocas de coelho e permanecem até meados de
+      agosto. Vários casais nidificam a escassos minutos a pé do observatório, sendo fáceis de contemplar no
+      verão. De maio a meados de agosto constituem a grande atração nas caminhadas noturnas guiadas pelos
+      guardas.
+
+
+      As restantes aves marinhas evidenciam trajetórias preocupantes. O
+      [fulmar-boreal](/especie/fulmarus_glacialis/) não nidificava aqui antes de 1903; o seu efetivo superou
+      43 000 casais em 1996 antes de diminuir para 26 629 em 2025. O [ganso-patola](/especie/morus_bassanus/)
+      iniciou a colonização em 1975 e evoluiu em sentido inverso: em 2025 recensearam-se quase 7 000 casais. O
+      [corvo-marinho-de-crista](/especie/phalacrocorax_aristotelis/) decaiu de mais de 1 500 casais nos anos
+      sessenta para escassos 68, pela escassez de galeotas durante a criação. A [airo](/especie/uria_aalge/)
+      contava com mais de 39 000 indivíduos nos finais dos anos noventa, número reduzido a metade; a
+      [torda-mergulheira](/especie/alca_torda/) regrediu de mais de 5 000 aves para 2 535. A airo-d'asa-branca
+      nidifica no sopé das escarpas na costa este, fácil de avistar com mar calmo, com cerca de 200 adultos
+      reprodutores.
+
+
+      À noite, de meados de julho ao início de setembro, procede-se à anilhagem do
+      [painho-de-cauda-quadrada](/especie/hydrobates_pelagicus/), aberta ao acompanhamento dos visitantes.
+
+
+      Entre abril e junho e de agosto a outubro, os técnicos do observatório realizam a contagem diária dos
+      migradores. A partir de meados de setembro surgem as primeiras felosas-de-listas-amarelas, que a dado
+      momento se tornam a ave mais vulgar da ilha; em outubro, sob ventos de noroeste, desfilam bandos de
+      gansos-campestres, gansos-de-bico-curto e cisnes-bravos. Todas as tardes podes contribuir com as tuas
+      anotações no registo diário debatido no salão do observatório.
+
+
+      Com alguma sorte, a carriça de Fair Isle, a subespécie endémica menos numerosa da Grã-Bretanha, canta
+      junto aos muros de The Haven. Entre 2011 e 2017 a média cifrou-se em 39 machos cantores nas arribas.
+
+
+      No mar, a maioria dos cetáceos surge entre maio e outubro. Buness, Meoness e as arribas do farol North
+      Light oferecem excelentes postos com mar chão para avistar botos, baleias-anãs e a
+      [orca](/especie/orcinus_orca/). A [foca-cinzenta](/especie/halichoerus_grypus/) reproduz-se em número
+      reduzido em North Haven e South Harbour, parindo a partir de outubro em praias recônditas.
+    visit: >-
+      A exploração da ilha faz-se a pé e com acompanhamento do guarda. Graças ao apoio da NatureScot existe um
+      serviço gratuito de vigilantes da natureza para os forasteiros de abril até ao final de outubro,
+      proporcionando passeios interpretativos acessíveis a quem pernoita ou visita em trânsito. Cinco
+      percursos temáticos abordam aves, história da comunidade, arqueologia e geologia. O observatório
+      dinamiza percursos de maio a outubro, sendo possível agendar visitas ao farol sul.
+
+
+      Existem 24 propriedades agrícolas ativas na metade sul, permitindo que a tua caminhada cruze uma
+      paisagem humanizada viva.
+    history: >-
+      Entre 1905 e 1911 o ornitólogo William Eagle Clarke esteve na ilha oito vezes e inventariou 207
+      espécies, correspondendo a metade da lista britânica da época. Em 1948 George Waterston adquiriu a ilha
+      e erigiu o observatório em antigas instalações navais em North Haven. Hoje Fair Isle constitui um dos
+      quatro centros fundamentais do programa britânico de monitorização de aves marinhas.
+    before: >-
+      As deslocações regulares exigem passar pelas Shetland: o navio Good Shepherd IV assegura a travessia
+      entre North Haven e Grutness no verão em duas horas e meia, complementado por voos regulares o ano
+      inteiro. As ligações estão sujeitas às condições atmosféricas, com nevoeiros cerrados ou temporais a
+      provocarem alterações sem aviso. A ilha pode visitar-se em qualquer altura, condicionada pela
+      meteorologia. Verifica horários de barco e avião antes de viajar.
+    around: >-
+      Fair Isle partilha avifauna marinha com outros destinos do atlas: com a [Reserva Natural da Ilha de
+      Handa](/lugar/isle-of-handa/) coincide no mandrião-grande, no airo e no papagaio-do-mar; com a [Reserva
+      Natural Nacional de Hermaness](/lugar/hermaness-national-nature-reserve/) no mandrião-grande e no
+      papagaio-do-mar; e com a [Reserva Natural das Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e as
+      [Arribas de Aves de Vestmanna](/lugar/vestmanna-bird-cliffs/) no airo e no papagaio-do-mar.
+fuentes:
+  - url: https://www.nts.org.uk/visit/places/fair-isle/highlights/seabirds
+    titulo: Seabirds
+    fecha_consulta: '2026-10-30'
+  - url: https://www.nts.org.uk/visit/places/fair-isle/planning-your-visit
+    titulo: Planning your visit
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Fair_Isle
+    titulo: Fair Isle — Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/geology.html
+    titulo: Geology — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/landscape.html
+    titulo: Scenery and landforms — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/seabird_research.html
+    titulo: Seabirds — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/guided_walks.html
+    titulo: Guided walks — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/wren.html
+    titulo: Fair Isle Wren — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/migration_research.html
+    titulo: Migration and ringing — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/birding_calendar.html
+    titulo: The birding calendar — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/sea_mammals.html
+    titulo: Marine mammals — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/ranger.html
+    titulo: Ranger service — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/history_obs.html
+    titulo: History of the Observatory — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/crofts.html
+    titulo: The crofts — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+  - url: https://www.fairislebirdobs.co.uk/getting_to_fair_isle.html
+    titulo: Getting to Fair Isle — Fair Isle Bird Observatory
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Western_coastline_of_Fair_Isle_from_Hoini_-_geograph.org.uk_-_1997492.jpg
+    autor: Julian Paren
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-23'

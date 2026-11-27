@@ -1,0 +1,621 @@
+id: parc-naturel-regional-des-ballons-des-vosges
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural Regional de los Balcones de los Vosgos
+  en: Ballons des Vosges Regional Nature Park
+  fr: Parc naturel régional des Ballons des Vosges
+  de: Regionaler Naturpark Ballons des Vosges
+  it: Parco naturale regionale dei Ballons des Vosges
+  pt: Parque Natural Regional dos Ballons des Vosges
+nombre_original: Parc Naturel Régional des Ballons des Vosges
+alias:
+  - Vosges Highlands & Ballons Wilderness (Parc naturel régional des Ballons des Vosges / Hautes-Vosges)
+paises:
+  - FR
+region:
+  es: Gran Este (Alto Rin / Vosgos / Belfort)
+  en: Grand Est (Haut-Rhin / Vosges / Belfort)
+  fr: Grand Est (Haut-Rhin / Vosges / Belfort)
+  de: Grand Est (Haut-Rhin / Vosges / Belfort)
+  it: Grand Est (Haut-Rhin / Vosges / Belfort)
+  pt: Grand Est (Haut-Rhin / Vosges / Belfort)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 47.92
+  lon: 7
+  radio_km: 30
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 20642
+  nombre_en_la_fuente: Ballons Des Vosges
+  categoria_uicn: V
+  capa: capas/cdda/parc-naturel-regional-des-ballons-des-vosges.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+  - wetland
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - rupicapra_rupicapra
+  - lynx_lynx
+  - canis_lupus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la Route des Crêtes y Grand Ballon (1.424 m)
+  en: Moderate on the Route des Crêtes and the Grand Ballon (1,424 m)
+  fr: Fréquentation modérée sur la Route des Crêtes et au Grand Ballon (1 424 m)
+  de: Mäßig besucht auf der Route des Crêtes und dem Grand Ballon (1 424 m)
+  it: Folla moderata sulla Route des Crêtes e al Grand Ballon (1 424 m)
+  pt: Afluência moderada na Route des Crêtes e no Grand Ballon (1 424 m)
+valoracion: 3
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Parc naturel régional des Ballons des Vosges
+    url: https://www.parc-ballons-vosges.fr/
+  - titulo: Visitas — Agenda de naturaleza del parque
+    url: https://www.parc-ballons-vosges.fr/agenda/
+resumen:
+  es: >-
+    Las altas cúpulas redondeadas (*Ballons*) de los Vosgos con prados glaciares altos (*chaumes*) y
+    hayedos-abetales.
+  en: >-
+    The high rounded domes (*Ballons*) of the Vosges with glacial high meadows (*chaumes*) and beech-fir
+    forests.
+  fr: >-
+    Les hauts dômes arrondis (*Ballons*) des Vosges avec des prairies glaciaires d'altitude (*chaumes*) et des
+    forêts de hêtres-sapins.
+  de: >-
+    Die hohen gerundeten Kuppeln (*Ballons*) der Vogesen mit Gletscherhochwiesen (*chaumes*) und
+    Buchen-Tannen-Wäldern.
+  it: >-
+    Le alte cupole arrotondate (*Ballons*) dei Vosgi con prati glaciali d'alta quota (*chaumes*) e foreste di
+    faggio-abete.
+  pt: >-
+    As altas cúpulas arredondadas (*Ballons*) dos Vosges com prados glaciares de altitude (*chaumes*) e
+    florestas de faia-abeto.
+unico:
+  es: >-
+    Una cresta de prados de altura, turberas y hayedos-abetales que sale de la llanura alsaciana y cuyas
+    vistas llegan, con buen tiempo, hasta los Alpes.
+  en: >-
+    A ridge of high meadows, peat bogs and beech-fir forests rising from the Alsatian plain whose views reach,
+    on a clear day, as far as the Alps.
+  fr: >-
+    Une crête de prairies d'altitude, tourbières et hêtraies-sapinières qui sort de la plaine alsacienne et
+    dont les vues atteignent, par beau temps, les Alpes.
+  de: >-
+    Ein Kamm aus Hochwiesen, Torfmooren und Buchen-Tannen-Wäldern, der aus der Elsässer Ebene aufsteigt und
+    dessen Ausblicke bei gutem Wetter bis zu den Alpen reichen.
+  it: >-
+    Una cresta di prati d'alta quota, torbiere e faggete-abetaie che emerge dalla pianura alsaziana e le cui
+    viste arrivano, con bel tempo, fino alle Alpi.
+  pt: >-
+    Uma crista de prados de altitude, turfeiras e faiais-abetais que emerge da planície alsaciana e cujas
+    vistas alcançam, com bom tempo, os Alpes.
+observaciones:
+  es: >-
+    En el Tanet hay una zona roja prohibida al público, hábitat de quietud para el urogallo y la fauna en
+    general. En la cima del Hohneck la circulación de vehículos y peatones está regulada para preservar el
+    sitio. Y la ruta de las crestas cierra en invierno: comprueba antes de ir.
+texto:
+  es:
+    intro: >-
+      Catorce cumbres por encima de los 1.300 metros, redondeadas como cúpulas: los Ballons. El Parque Natural
+      Regional de los Ballons des Vosges se creó en junio de 1989 por iniciativa de tres antiguas regiones y
+      se organiza en torno a las Hautes Vosges, la parte más alta del macizo, en el sur de la cordillera. Es
+      un parque grande y poblado, que bordea e incluye en parte ciudades de la llanura de Alsacia como Colmar,
+      Mulhouse y Belfort, y que a diferencia de un parque nacional no aplica ninguna reglamentación especial
+      de protección de la naturaleza. Lo que lo protege es un equilibrio permanente entre naturaleza, cultura
+      y desarrollo local.
+    landscape: >-
+      El parque abarca las Hautes-Vosges y sus laderas boscosas, los valles vosgianos, haut-rhinois y comtois,
+      la meseta de los Mil Estanques, el país subvosgiano y el piedemonte vitícola alsaciano. Entre los medios
+      más raros están las hautes-chaumes, las turberas, los hayedos-abetales, los bosques de roble y haya de
+      baja altura, los céspedes calcáreos, los ríos, los lagos y los estanques.
+
+
+      La cumbre del macizo es el Grand Ballon, con 1.424 metros. Desde su cima, que tiene mesa de orientación,
+      se ven Mulhouse, Basilea, la Selva Negra, el Jura y, con buen tiempo, buena parte de los Alpes hasta el
+      Mont Blanc. Es también, con el Hohneck, el punto más frío y ventoso de la región Grand Est. El Ballon
+      d'Alsace, de 1.247 metros, es uno de los primeros grandes picos del macizo si llegas por el sur: sus
+      aguas van a dos cuencas, el Savoureuse a la del Ródano y el Doller a la del Rin, y por encima de unos
+      1.000 metros el bosque deja paso a las chaumes, con hayas deformadas por el viento, genciana amarilla y
+      arándano. Su vertiente este, muy empinada, tiene aire casi alpino y acumula nieve soplada que forma
+      cornisas hasta el verano.
+
+
+      El Hohneck cuenta otra parte de la historia. Su ladera alsaciana, muy abrupta, sigue la línea de la fosa
+      de hundimiento del Rin, y en la era cuaternaria se excavaron circos glaciares que dejaron lagos y
+      turberas. La flora del Hohneck es una de las más ricas de los Vosgos, y Jean-Baptiste Mougeot la estudió
+      desde su primera ascensión, en 1795.
+    wildlife: >-
+      Las especies emblemáticas del macizo son el mochuelo boreal, el [lince](/especie/lynx_lynx/), el [halcón
+      peregrino](/especie/falco_peregrinus/), el [urogallo](/especie/tetrao_urogallus/), la linaigrette
+      gracile, el clavel soberbio, el arándano rojo de turbera y la drosera. El lince es una historia de
+      recuperación lenta: entre 1983 y 1993 se soltaron 12 machos y 9 hembras en el lado alsaciano, y la
+      población sigue frágil por la caza furtiva y el tráfico. Los últimos [lobos](/especie/canis_lupus/) se
+      señalaron en los Vosgos en 1918 y 1919. Las crestas albergan además una importante población de
+      [rebeco](/especie/rupicapra_rupicapra/), y el macizo del Hohneck tiene algunos rebaños desde su
+      introducción en 1957; en verano, las laderas suaves reciben a las vacas vosgianas.
+
+
+      La mejor referencia para ver este mundo es la reserva natural nacional del Tanet-Gazon du Faing, que
+      protege 505 hectáreas de antiguas chaumes entre el col du Bonhomme y el col de la Schlucht. Sus aves
+      tienen carácter montañés y nórdico: el mirlo capiblanco, la chocha perdiz, el grévol y el halcón
+      peregrino. Hay 519 especies botánicas catalogadas, algunas características de regiones subárticas. Aquí
+      los hayedos-abetales de las laderas bajas, antiguo dominio del urogallo, retroceden mientras avanzan las
+      plantaciones de abeto rojo; las chaumes de altura están invadidas por landas de ericáceas, y hay una
+      decena de landas turbosas.
+    visit: >-
+      Empieza por una casa del parque. La Maison du Parc de Munster tiene una exposición permanente de 600 m²
+      sobre los medios naturales, el patrimonio, los paisajes y la geología, con visitas guiadas en verano. El
+      punto de acogida del Grand Ballon, relevo estival en las crestas, ofrece información y es una de las
+      paradas de la navette des crêtes. Y la Maison du Ballon d'Alsace ofrece exposiciones, paseos acompañados
+      y talleres durante el verano. En Alto Saona, el Espace Nature Culture, en Haut-du-Them-Château-Lambert,
+      tiene una exposición de 200 m² sobre la historia geológica y humana de los Vosgos saoneses.
+
+
+      La route des Crêtes es la vía natural para ver el macizo. Se creó en la Primera Guerra Mundial para la
+      logística y la defensa del frente de los Vosgos, y va del col du Bonhomme al Vieil Armand, por el col de
+      la Schlucht, el macizo del Hohneck, el Markstein y el Grand Ballon, en más de 80 kilómetros. En invierno
+      está cerrada del Grand Ballon al Markstein y de este a las pistas de La Bresse-Kastelberg. Los muros
+      interpretativos invitan a conocer los patrimonios naturales y paisajísticos de las Hautes Vosges en 17
+      puntos.
+
+
+      En la reserva del Tanet, un sendero pedagógico de 1,9 km parte de la ferme-auberge du gazon du Faing y
+      explica su flora, su fauna y su paisaje.
+    history: >-
+      La montaña vosgiana fue frecuentada desde el Neolítico y es una de las cunas de la Revolución
+      industrial, con siderurgia desde la Edad Media; llegaron mineros tiroleses. La carretera de las crestas
+      nació de la guerra, y el parque, de la necesidad de equilibrar protección y desarrollo local.
+    before: >-
+      En el Tanet hay una zona roja prohibida al público, hábitat de quietud para el urogallo y la fauna en
+      general. En la cima del Hohneck la circulación de vehículos y peatones está regulada para preservar el
+      sitio. Y la ruta de las crestas cierra en invierno: comprueba antes de ir.
+    around: >-
+      A 0 km, la [Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/) es el vecino
+      más próximo que recoge el atlas.
+  en:
+    intro: >-
+      Fourteen summits above 1,300 metres, rounded like domes: the Ballons. The Ballons des Vosges Regional
+      Nature Park was created in June 1989 on the initiative of three former regions and is organised around
+      the Hautes Vosges, the highest part of the massif, in the south of the range. It is a large and densely
+      settled park, bordering and partly including towns of the Alsace plain such as Colmar, Mulhouse and
+      Belfort, and unlike a national park imposes no special nature protection regulations. What protects it
+      is a permanent balance between nature, culture and local development.
+    landscape: >-
+      The park covers the Hautes-Vosges and their forested slopes, the Vosges, haut-rhinois and comtois
+      valleys, the Plateau of a Thousand Ponds, the sub-Vosges country and the Alsatian wine foothills. Among
+      the rarest habitats are the hautes-chaumes, the peat bogs, the beech-fir forests, the low-altitude
+      oak-beech woods, the calcareous grasslands, the rivers, lakes and ponds.
+
+
+      The highest summit of the massif is the Grand Ballon, at 1,424 metres. From its top, which has an
+      orientation table, you can see Mulhouse, Basel, the Black Forest, the Jura and, in good weather, much of
+      the Alps as far as Mont Blanc. It is also, with the Hohneck, the coldest and windiest point of the Grand
+      Est region. The Ballon d'Alsace, at 1,247 metres, is one of the first great peaks of the massif if you
+      approach from the south: its waters run to two basins, the Savoureuse to the Rhône and the Doller to the
+      Rhine, and above about 1,000 metres the forest gives way to the chaumes, with wind-shaped beeches,
+      yellow gentian and bilberry. Its very steep east face has an almost Alpine feel and accumulates
+      wind-blown snow forming cornices until summer.
+
+
+      The Hohneck tells another part of the story. Its very abrupt Alsatian flank follows the line of the
+      Rhine rift valley, and in the Quaternary glacial cirques were carved, leaving lakes and peat bogs. The
+      flora of the Hohneck is one of the richest in the Vosges, and Jean-Baptiste Mougeot studied it from his
+      first ascent, in 1795.
+    wildlife: >-
+      The emblematic species of the massif are the boreal owl, the [lynx](/especie/lynx_lynx/), the [peregrine
+      falcon](/especie/falco_peregrinus/), the [capercaillie](/especie/tetrao_urogallus/), the slender
+      cottongrass, the superb pink, the bog bilberry and the sundew. The lynx is a story of slow recovery:
+      between 1983 and 1993, a total of 12 males and 9 females were released on the Alsatian side, and the
+      population remains fragile because of poaching and road traffic. The last
+      [wolves](/especie/canis_lupus/) were reported in the Vosges in 1918 and 1919. The ridges also hold an
+      important population of [chamois](/especie/rupicapra_rupicapra/), and the Hohneck massif has had some
+      herds since their introduction in 1957; in summer, the gentle slopes welcome the Vosges cattle.
+
+
+      The best reference for seeing this world is the Tanet-Gazon du Faing national nature reserve, which
+      protects 505 hectares of old chaumes between the col du Bonhomme and the col de la Schlucht. Its birds
+      have a montane and Nordic character: the ring ouzel, the woodcock, the hazel grouse and the peregrine
+      falcon. There are 519 catalogued botanical species, some characteristic of subarctic regions. Here the
+      beech-fir forests of the lower slopes, once the capercaillie's domain, are retreating as Norway spruce
+      plantations advance; the high chaumes are being invaded by ericaceous heathland, and there are about ten
+      boggy heathlands.
+    visit: >-
+      Start at a park house. The Maison du Parc de Munster has a 600 m² permanent exhibition on natural
+      habitats, heritage, landscapes and geology, with guided tours in summer. The Grand Ballon welcome point,
+      a summer relay on the ridges, provides information and is one of the stops on the navette des crêtes.
+      And the Maison du Ballon d'Alsace offers exhibitions, guided walks and workshops during summer. In
+      Haute-Saône, the Espace Nature Culture, in Haut-du-Them-Château-Lambert, has a 200 m² exhibition on the
+      geological and human history of the Saône Vosges.
+
+
+      The route des Crêtes is the natural road for seeing the massif. It was created during the First World
+      War for logistics and defence of the Vosges front, and runs from the col du Bonhomme to the Vieil
+      Armand, via the col de la Schlucht, the Hohneck massif, the Markstein and the Grand Ballon, over more
+      than 80 kilometres. In winter it is closed from the Grand Ballon to the Markstein and from there to the
+      La Bresse-Kastelberg ski slopes. Interpretive walls invite visitors to discover the natural and scenic
+      heritage of the Hautes Vosges at 17 points.
+
+
+      In the Tanet reserve, a 1.9 km educational trail starts from the ferme-auberge du gazon du Faing and
+      explains its flora, fauna and landscape.
+    history: >-
+      The Vosges mountain has been frequented since the Neolithic and is one of the cradles of the Industrial
+      Revolution, with ironworking since the Middle Ages; Tyrolean miners arrived. The road of the crests was
+      born of war, and the park from the need to balance protection and local development.
+    before: >-
+      In the Tanet there is a red zone closed to the public, a quiet habitat for the capercaillie and wildlife
+      in general. At the top of the Hohneck, vehicle and pedestrian circulation is regulated to preserve the
+      site. And the route des Crêtes closes in winter: check before going.
+    around: >-
+      At 0 km, the [Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/) is the
+      nearest neighbour in the atlas.
+  fr:
+    intro: >-
+      Quatorze sommets au-dessus de 1 300 mètres, arrondis comme des dômes : les Ballons. Le Parc naturel
+      régional des Ballons des Vosges a été créé en juin 1989 à l'initiative de trois anciennes régions et
+      s'organise autour des Hautes Vosges, la partie la plus élevée du massif, dans le sud de la chaîne. C'est
+      un parc grand et peuplé, qui borde et inclut en partie des villes de la plaine alsacienne comme Colmar,
+      Mulhouse et Belfort, et qui, à la différence d'un parc national, n'impose aucune réglementation spéciale
+      de protection de la nature. Ce qui le protège, c'est un équilibre permanent entre nature, culture et
+      développement local.
+    landscape: >-
+      Le parc englobe les Hautes-Vosges et leurs versants boisés, les vallées vosgiennes, haut-rhinoises et
+      comtoises, le plateau des Mille Étangs, le pays sous-vosgien et le piémont viticole alsacien. Parmi les
+      milieux les plus rares figurent les hautes-chaumes, les tourbières, les hêtraies-sapinières, les forêts
+      de chêne et hêtre de basse altitude, les pelouses calcaires, les rivières, les lacs et les étangs.
+
+
+      Le sommet du massif est le Grand Ballon, à 1 424 mètres. Depuis son sommet, qui possède une table
+      d'orientation, on voit Mulhouse, Bâle, la Forêt-Noire, le Jura et, par beau temps, une grande partie des
+      Alpes jusqu'au Mont Blanc. C'est aussi, avec le Hohneck, le point le plus froid et le plus venteux de la
+      région Grand Est. Le Ballon d'Alsace, à 1 247 mètres, est l'un des premiers grands pics du massif si
+      l'on vient du sud : ses eaux vont à deux bassins, la Savoureuse vers le Rhône et la Doller vers le Rhin,
+      et au-dessus d'environ 1 000 mètres la forêt laisse place aux chaumes, avec des hêtres déformés par le
+      vent, la gentiane jaune et la myrtille. Son versant est, très escarpé, a un air presque alpin et
+      accumule de la neige soufflée formant des corniches jusqu'en été.
+
+
+      Le Hohneck raconte une autre partie de l'histoire. Son flanc alsacien, très abrupt, suit la ligne du
+      fossé d'effondrement du Rhin, et à l'ère quaternaire des cirques glaciaires ont été creusés, laissant
+      des lacs et des tourbières. La flore du Hohneck est l'une des plus riches des Vosges, et Jean-Baptiste
+      Mougeot l'a étudiée depuis sa première ascension, en 1795.
+    wildlife: >-
+      Les espèces emblématiques du massif sont la chouette de Tengmalm, le [lynx](/especie/lynx_lynx/), le
+      [faucon pèlerin](/especie/falco_peregrinus/), le [grand tétras](/especie/tetrao_urogallus/), la
+      linaigrette gracile, l'œillet superbe, l'airelle rouge de tourbière et la droséra. Le lynx est une
+      histoire de lente récupération : entre 1983 et 1993, au total 12 mâles et 9 femelles ont été relâchés
+      côté alsacien, et la population reste fragile à cause du braconnage et du trafic routier. Les derniers
+      [loups](/especie/canis_lupus/) ont été signalés dans les Vosges en 1918 et 1919. Les crêtes abritent
+      aussi une importante population d'[isards](/especie/rupicapra_rupicapra/), et le massif du Hohneck en
+      compte quelques troupeaux depuis leur introduction en 1957 ; en été, les versants doux accueillent les
+      vaches vosgiennes.
+
+
+      La meilleure référence pour voir ce monde est la réserve naturelle nationale du Tanet-Gazon du Faing,
+      qui protège 505 hectares d'anciennes chaumes entre le col du Bonhomme et le col de la Schlucht. Ses
+      oiseaux ont un caractère montagnard et nordique : le merle à plastron, la bécasse des bois, le gelinotte
+      et le faucon pèlerin. Il y a 519 espèces botaniques répertoriées, certaines caractéristiques des régions
+      subarctiques. Ici les hêtraies-sapinières des versants bas, ancien domaine du grand tétras, reculent
+      pendant que progressent les plantations d'épicéas ; les chaumes d'altitude sont envahies par des landes
+      à éricacées, et il y a une dizaine de landes tourbeuses.
+    visit: >-
+      Commencez par une maison du parc. La Maison du Parc de Munster dispose d'une exposition permanente de
+      600 m² sur les milieux naturels, le patrimoine, les paysages et la géologie, avec des visites guidées en
+      été. Le point d'accueil du Grand Ballon, relais estival sur les crêtes, fournit des informations et est
+      l'un des arrêts de la navette des crêtes. Et la Maison du Ballon d'Alsace propose des expositions, des
+      promenades accompagnées et des ateliers durant l'été. En Haute-Saône, l'Espace Nature Culture, à
+      Haut-du-Them-Château-Lambert, présente une exposition de 200 m² sur l'histoire géologique et humaine des
+      Vosges saônoises.
+
+
+      La route des Crêtes est la voie naturelle pour découvrir le massif. Elle a été créée pendant la Première
+      Guerre mondiale pour la logistique et la défense du front des Vosges, et va du col du Bonhomme au Vieil
+      Armand, par le col de la Schlucht, le massif du Hohneck, le Markstein et le Grand Ballon, sur plus de 80
+      kilomètres. En hiver, elle est fermée du Grand Ballon au Markstein et de là aux pistes de La
+      Bresse-Kastelberg. Les murs interprétatifs invitent à découvrir les patrimoines naturels et paysagers
+      des Hautes Vosges en 17 points.
+
+
+      Dans la réserve du Tanet, un sentier pédagogique de 1,9 km part de la ferme-auberge du gazon du Faing et
+      explique sa flore, sa faune et son paysage.
+    history: >-
+      La montagne vosgienne a été fréquentée depuis le Néolithique et est l'un des berceaux de la Révolution
+      industrielle, avec la sidérurgie depuis le Moyen Âge ; des mineurs tyroliens y sont venus. La route des
+      crêtes est née de la guerre, et le parc de la nécessité d'équilibrer protection et développement local.
+    before: >-
+      Dans le Tanet, il y a une zone rouge interdite au public, habitat de quiétude pour le grand tétras et la
+      faune en général. Au sommet du Hohneck, la circulation des véhicules et des piétons est réglementée pour
+      préserver le site. Et la route des crêtes ferme en hiver : vérifiez avant de partir.
+    around: >-
+      À 0 km, l'[Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/) est le voisin
+      le plus proche que recense l'atlas.
+  de:
+    intro: >-
+      Vierzehn Gipfel über 1 300 Metern, gerundet wie Kuppeln: die Ballons. Der Regionale Naturpark Ballons
+      des Vosges wurde im Juni 1989 auf Initiative von drei ehemaligen Regionen gegründet und ist um die
+      Hautes Vosges, den höchsten Teil des Massivs im Süden der Kette, aufgebaut. Es ist ein großer und
+      bevölkerter Park, der Städte der Elsässer Ebene wie Colmar, Mulhouse und Belfort berührt und teilweise
+      einschließt, und der im Unterschied zu einem Nationalpark keinerlei besondere Naturschutzvorschriften
+      auferlegt. Was ihn schützt, ist ein dauerhaftes Gleichgewicht zwischen Natur, Kultur und lokaler
+      Entwicklung.
+    landscape: >-
+      Der Park umfasst die Hautes-Vosges und ihre bewaldeten Hänge, die vogischen, haut-rhinoischen und
+      komtesischen Täler, das Plateau der Tausend Teiche, das Untervogesenland und das elsässische
+      Weinvorland. Zu den seltensten Lebensräumen zählen die hautes-chaumes, die Torfmoore, die
+      Buchen-Tannen-Wälder, die Eichen-Buchenwälder der Tieflagen, die Kalkrasen, die Flüsse, Seen und Teiche.
+
+
+      Der höchste Gipfel des Massivs ist der Grand Ballon mit 1 424 Metern. Von seinem Gipfel, der einen
+      Orientierungstisch hat, sieht man Mulhouse, Basel, den Schwarzwald, den Jura und bei gutem Wetter große
+      Teile der Alpen bis zum Mont Blanc. Er ist auch, zusammen mit dem Hohneck, der kälteste und windigste
+      Punkt der Region Grand Est. Der Ballon d'Alsace mit 1 247 Metern ist einer der ersten großen Gipfel des
+      Massivs, wenn man von Süden kommt: Seine Wasser fließen in zwei Einzugsgebiete, die Savoureuse zum Rhône
+      und die Doller zum Rhein, und oberhalb von etwa 1 000 Metern weicht der Wald den chaumes, mit
+      windverformten Buchen, gelbem Enzian und Heidelbeere. Sein sehr steiler Osthang hat fast alpinen
+      Charakter und sammelt windgepeitschten Schnee, der bis in den Sommer Wechten bildet.
+
+
+      Der Hohneck erzählt einen anderen Teil der Geschichte. Sein sehr abrupter elsässischer Hang folgt der
+      Linie des Rheingrabens, und im Quartär wurden Gletscherkessel ausgeschürft, die Seen und Torfmoore
+      hinterließen. Die Flora des Hohneck ist eine der reichsten der Vogesen, und Jean-Baptiste Mougeot
+      erforschte sie seit seiner ersten Besteigung im Jahr 1795.
+    wildlife: >-
+      Die Leitarten des Massivs sind der Raufußkauz, der [Luchs](/especie/lynx_lynx/), der
+      [Wanderfalke](/especie/falco_peregrinus/), das [Auerhuhn](/especie/tetrao_urogallus/), das
+      Schmalblättrige Wollgras, die Prachtnelke, die Rauschbeere und der Sonnentau. Der Luchs ist eine
+      Geschichte langsamer Erholung: Zwischen 1983 und 1993 wurden 12 Männchen und 9 Weibchen auf der
+      elsässischen Seite ausgewildert, und die Population bleibt fragil durch Wilderei und Straßenverkehr. Die
+      letzten [Wölfe](/especie/canis_lupus/) wurden in den Vogesen in 1918 und 1919 gemeldet. Die Kämme
+      beherbergen auch eine bedeutende Population von [Gämsen](/especie/rupicapra_rupicapra/), und das
+      Hohneck-Massiv hat seit ihrer Einführung im Jahr 1957 einige Herden; im Sommer nehmen die sanften Hänge
+      die Vogesenkühe auf.
+
+
+      Die beste Anlaufstelle für das Erleben dieser Welt ist das nationale Naturreservat Tanet-Gazon du Faing,
+      das 505 Hektar alter chaumes zwischen dem Col du Bonhomme und dem Col de la Schlucht schützt. Seine
+      Vögel haben Gebirgs- und Nordcharakter: die Ringdrossel, die Waldschnepfe, das Haselhuhn und der
+      Wanderfalke. Es gibt 519 katalogisierte Pflanzenarten, einige typisch für subarktische Regionen. Hier
+      weichen die Buchen-Tannen-Wälder der Unterhänge, einst das Reich des Auerhuhns, während
+      Fichtenpflanzungen vorrücken; die Hochchaumes werden von Ericaceen-Heiden überwachsen, und es gibt etwa
+      zehn moorige Heiden.
+    visit: >-
+      Beginne in einem Parkhaus. Die Maison du Parc de Munster hat eine 600 m² große Dauerausstellung über
+      Lebensräume, Kulturerbe, Landschaften und Geologie, mit Führungen im Sommer. Der Empfangspunkt am Grand
+      Ballon, sommerlicher Stützpunkt auf den Kämmen, bietet Informationen und ist eine der Haltestellen des
+      navette des crêtes. Und die Maison du Ballon d'Alsace bietet im Sommer Ausstellungen, begleitete
+      Spaziergänge und Workshops. In Haute-Saône zeigt der Espace Nature Culture in
+      Haut-du-Them-Château-Lambert eine 200 m² große Ausstellung zur geologischen und menschlichen Geschichte
+      der saônoischen Vogesen.
+
+
+      Die Route des Crêtes ist der natürliche Weg zur Erkundung des Massivs. Sie entstand im Ersten Weltkrieg
+      für die Logistik und Verteidigung der Vogesenfront und verläuft vom Col du Bonhomme zum Vieil Armand,
+      über den Col de la Schlucht, das Hohneck-Massiv, den Markstein und den Grand Ballon, auf mehr als 80
+      Kilometern. Im Winter ist sie vom Grand Ballon zum Markstein und von dort zu den Pisten von La
+      Bresse-Kastelberg gesperrt. Interpretationstafeln laden an 17 Stellen ein, das Natur- und
+      Landschaftserbe der Hautes Vosges kennenzulernen.
+
+
+      Im Tanet-Reservat startet ein 1,9 km langer Lehrpfad von der ferme-auberge du gazon du Faing und erklärt
+      seine Flora, Fauna und Landschaft.
+    history: >-
+      Das Vogesengebirge wird seit dem Neolithikum genutzt und ist eine der Wiegen der Industriellen
+      Revolution, mit Eisenverhüttung seit dem Mittelalter; Tiroler Bergleute kamen hierher. Die Kammstraße
+      entstand aus dem Krieg, und der Park aus der Notwendigkeit, Schutz und lokale Entwicklung in Einklang zu
+      bringen.
+    before: >-
+      Im Tanet gibt es eine rote Zone, die der Öffentlichkeit verboten ist, ein Ruhehabitat für das Auerhuhn
+      und die Tierwelt im Allgemeinen. Auf dem Hohneck-Gipfel ist der Fahrzeug- und Fußgängerverkehr zum
+      Schutz des Ortes geregelt. Und die Route des Crêtes schließt im Winter: vorher prüfen.
+    around: >-
+      Bei 0 km liegt die [Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/), der
+      nächste im Atlas verzeichnete Nachbar.
+  it:
+    intro: >-
+      Quattordici vette al di sopra di 1 300 metri, arrotondate come cupole: i Ballons. Il Parco Naturale
+      Regionale dei Ballons des Vosges è stato creato nel giugno 1989 su iniziativa di tre ex regioni e si
+      organizza attorno alle Hautes Vosges, la parte più alta del massiccio, nel sud della catena. È un parco
+      grande e popolato, che confina e comprende in parte città della pianura alsaziana come Colmar, Mulhouse
+      e Belfort, e che a differenza di un parco nazionale non impone alcuna regolamentazione speciale di
+      protezione della natura. Ciò che lo protegge è un equilibrio permanente tra natura, cultura e sviluppo
+      locale.
+    landscape: >-
+      Il parco abbraccia le Hautes-Vosges e i loro versanti boscati, le valli vosgiane, haut-rhinoises e
+      comtoise, l'altopiano dei Mille Stagni, il paese subvosgiano e il basso versante viticolo alsaziano. Tra
+      gli ambienti più rari ci sono le hautes-chaumes, le torbiere, le foreste di faggio-abete, i boschi di
+      rovere e faggio di bassa quota, i prati calcicoli, i fiumi, i laghi e gli stagni.
+
+
+      La vetta del massiccio è il Grand Ballon, a 1 424 metri. Dal suo culmine, che ha una tavola di
+      orientamento, si vedono Mulhouse, Basilea, la Foresta Nera, il Giura e, con bel tempo, gran parte delle
+      Alpi fino al Monte Bianco. È anche, con il Hohneck, il punto più freddo e ventoso della regione Grand
+      Est. Il Ballon d'Alsace, a 1 247 metri, è uno dei primi grandi picchi del massiccio se si arriva da sud:
+      le sue acque vanno a due bacini, la Savoureuse verso il Rodano e la Doller verso il Reno, e oltre circa
+      1 000 metri la foresta lascia il posto alle chaumes, con faggi deformati dal vento, genziana gialla e
+      mirtillo. Il suo versante est, molto ripido, ha un'aria quasi alpina e accumula neve soffiata che forma
+      cornici fino all'estate.
+
+
+      Il Hohneck racconta un'altra parte della storia. Il suo fianco alsaziano, molto brusco, segue la linea
+      del fossato del Reno, e nell'era quaternaria furono scavati circhi glaciali che lasciarono laghi e
+      torbiere. La flora del Hohneck è una delle più ricche dei Vosgi, e Jean-Baptiste Mougeot la studiò dalla
+      sua prima ascensione, nel 1795.
+    wildlife: >-
+      Le specie emblematiche del massiccio sono la civetta capogrosso, il [lince](/especie/lynx_lynx/), il
+      [falco pellegrino](/especie/falco_peregrinus/), il [gallo cedrone](/especie/tetrao_urogallus/), il
+      pennacchio gracile, il garofano superbo, l'uva orsina di torbiera e la drosera. Il lince è una storia di
+      lenta ripresa: tra 1983 e 1993 vennero rilasciati 12 maschi e 9 femmine sul lato alsaziano, e la
+      popolazione rimane fragile a causa del bracconaggio e del traffico. Gli ultimi
+      [lupi](/especie/canis_lupus/) furono segnalati nei Vosgi nel 1918 e 1919. Le creste ospitano inoltre una
+      consistente popolazione di [camosci](/especie/rupicapra_rupicapra/), e il massiccio del Hohneck ha
+      alcuni branchi dalla loro introduzione nel 1957; in estate, i versanti dolci accolgono le vacche
+      vosgiane.
+
+
+      Il miglior riferimento per conoscere questo mondo è la riserva naturale nazionale del Tanet-Gazon du
+      Faing, che protegge 505 ettari di vecchie chaumes tra il col du Bonhomme e il col de la Schlucht. I suoi
+      uccelli hanno carattere montano e nordico: il merlo dal collare, la beccaccia, il francolino di monte e
+      il falco pellegrino. Ci sono 519 specie botaniche catalogate, alcune tipiche delle regioni subartiche.
+      Qui le faggete-abetaie dei versanti bassi, antico dominio del gallo cedrone, retrocedono mentre avanzano
+      le piantagioni di abete rosso; le chaumes d'alta quota sono invase da brughiere di ericacee, e ci sono
+      una decina di brughiere torbose.
+    visit: >-
+      Inizia da una casa del parco. La Maison du Parc de Munster ha una mostra permanente di 600 m² sui mezzi
+      naturali, il patrimonio, i paesaggi e la geologia, con visite guidate in estate. Il punto di accoglienza
+      del Grand Ballon, punto di sosta estivo sulle creste, fornisce informazioni ed è una delle fermate della
+      navette des crêtes. E la Maison du Ballon d'Alsace offre mostre, passeggiate accompagnate e laboratori
+      durante l'estate. In Haute-Saône, l'Espace Nature Culture, a Haut-du-Them-Château-Lambert, ha una mostra
+      di 200 m² sulla storia geologica e umana dei Vosgi saonesi.
+
+
+      La route des Crêtes è la via naturale per vedere il massiccio. Fu creata durante la Prima Guerra
+      Mondiale per la logistica e la difesa del fronte dei Vosgi, e va dal col du Bonhomme al Vieil Armand,
+      passando per il col de la Schlucht, il massiccio del Hohneck, il Markstein e il Grand Ballon, in più di
+      80 chilometri. In inverno è chiusa dal Grand Ballon al Markstein e da lì alle piste di La
+      Bresse-Kastelberg. I muri interpretativi invitano a conoscere i patrimoni naturali e paesaggistici delle
+      Hautes Vosges in 17 punti.
+
+
+      Nella riserva del Tanet, un sentiero didattico di 1,9 km parte dalla ferme-auberge du gazon du Faing e
+      spiega la sua flora, fauna e paesaggio.
+    history: >-
+      La montagna vosgiana è stata frequentata fin dal Neolitico ed è una delle culle della Rivoluzione
+      industriale, con la siderurgia dal Medioevo; arrivarono minatori tirolesi. La strada delle creste nacque
+      dalla guerra, e il parco dalla necessità di bilanciare protezione e sviluppo locale.
+    before: >-
+      Nel Tanet c'è una zona rossa vietata al pubblico, habitat di quiete per il gallo cedrone e la fauna in
+      generale. In cima al Hohneck la circolazione di veicoli e pedoni è regolamentata per preservare il sito.
+      E la route des crêtes chiude in inverno: controlla prima di andare.
+    around: >-
+      A 0 km, la [Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/) è il vicino
+      più prossimo che registra l'atlante.
+  pt:
+    intro: >-
+      Catorze cumes acima de 1 300 metros, arredondados como cúpulas: os Ballons. O Parque Natural Regional
+      dos Ballons des Vosges foi criado em junho de 1989 por iniciativa de três antigas regiões e organiza-se
+      em torno das Hautes Vosges, a parte mais alta do maciço, no sul da cordilheira. É um parque grande e
+      populoso, que faz fronteira e inclui em parte cidades da planície alsaciana como Colmar, Mulhouse e
+      Belfort, e que ao contrário de um parque nacional não impõe nenhum regulamento especial de protecção da
+      natureza. O que o protege é um equilíbrio permanente entre natureza, cultura e desenvolvimento local.
+    landscape: >-
+      O parque abrange as Hautes-Vosges e as suas encostas florestadas, os vales vosgians, haut-rhinois e
+      comtois, o planalto dos Mil Étangs, o país subvosgiano e o sopé vitícola alsaciano. Entre os habitats
+      mais raros estão as hautes-chaumes, as turfeiras, os faiais-abetais, os carvalhal-faiais de baixa
+      altitude, os prados calcários, os rios, lagos e lagoas.
+
+
+      O cume do maciço é o Grand Ballon, com 1 424 metros. Do seu topo, que tem uma mesa de orientação,
+      vêem-se Mulhouse, Basileia, a Floresta Negra, o Jura e, com bom tempo, grande parte dos Alpes até ao
+      Mont Blanc. É também, com o Hohneck, o ponto mais frio e ventoso da região Grand Est. O Ballon d'Alsace,
+      com 1 247 metros, é um dos primeiros grandes picos do maciço se se vier do sul: as suas águas correm
+      para duas bacias, a Savoureuse para o Ródano e a Doller para o Reno, e acima de cerca de 1 000 metros a
+      floresta dá lugar às chaumes, com faias deformadas pelo vento, genciana amarela e mirtilo. A sua encosta
+      este, muito íngreme, tem um ar quase alpino e acumula neve sopada que forma cornijas até ao verão.
+
+
+      O Hohneck conta outra parte da história. A sua encosta alsaciana, muito abrupta, segue a linha da fossa
+      de afundimento do Reno, e na era quaternária foram escavados circos glaciares que deixaram lagos e
+      turfeiras. A flora do Hohneck é uma das mais ricas dos Vosges, e Jean-Baptiste Mougeot estudou-a desde a
+      sua primeira ascensão, em 1795.
+    wildlife: >-
+      As espécies emblemáticas do maciço são o mocho-boreal, o [lince](/especie/lynx_lynx/), o
+      [falcão-peregrino](/especie/falco_peregrinus/), o [galo-silvestre](/especie/tetrao_urogallus/), o
+      algodão-de-turfa gracil, o cravo soberbio, o mirtilo-de-turfeira e a drosera. O lince é uma história de
+      recuperação lenta: entre 1983 e 1993 foram soltos 12 machos e 9 fêmeas do lado alsaciano, e a população
+      continua frágil por causa da caça furtiva e do tráfico rodoviário. Os últimos
+      [lobos](/especie/canis_lupus/) foram assinalados nos Vosges em 1918 e 1919. As cristas albergam também
+      uma importante população de [cabras-monteses](/especie/rupicapra_rupicapra/), e o maciço do Hohneck tem
+      alguns rebanhos desde a sua introdução em 1957; no verão, as encostas suaves recebem as vacas vosgians.
+
+
+      A melhor referência para conhecer este mundo é a reserva natural nacional do Tanet-Gazon du Faing, que
+      protege 505 hectares de antigas chaumes entre o col du Bonhomme e o col de la Schlucht. As suas aves têm
+      carácter montanhoso e nórdico: o melro-de-colar, a galinhola, o galo-da-aveleira e o falcão-peregrino.
+      Há 519 espécies botânicas catalogadas, algumas características de regiões subárticas. Aqui os
+      faiais-abetais das encostas baixas, antigo domínio do galo-silvestre, recuam enquanto avançam as
+      plantações de abeto vermelho; as chaumes de altitude são invadidas por charnecas de ericáceas, e há
+      cerca de dez charnecas turfosas.
+    visit: >-
+      Começa por uma casa do parque. A Maison du Parc de Munster tem uma exposição permanente de 600 m² sobre
+      os meios naturais, o património, as paisagens e a geologia, com visitas guiadas no verão. O ponto de
+      acolhimento do Grand Ballon, relevo estival nas cristas, fornece informação e é uma das paragens da
+      navette des crêtes. E a Maison du Ballon d'Alsace oferece exposições, passeios acompanhados e ateliers
+      durante o verão. No Haute-Saône, o Espace Nature Culture, em Haut-du-Them-Château-Lambert, tem uma
+      exposição de 200 m² sobre a história geológica e humana dos Vosges saoneses.
+
+
+      A route des Crêtes é a via natural para ver o maciço. Foi criada na Primeira Guerra Mundial para a
+      logística e defesa da frente dos Vosges, e vai do col du Bonhomme ao Vieil Armand, pelo col de la
+      Schlucht, o maciço do Hohneck, o Markstein e o Grand Ballon, em mais de 80 quilómetros. No inverno está
+      fechada do Grand Ballon ao Markstein e deste às pistas de La Bresse-Kastelberg. Os murais
+      interpretativos convidam a conhecer os patrimónios naturais e paisagísticos das Hautes Vosges em 17
+      pontos.
+
+
+      Na reserva do Tanet, um percurso pedagógico de 1,9 km parte da ferme-auberge du gazon du Faing e explica
+      a sua flora, fauna e paisagem.
+    history: >-
+      A montanha vosgiana foi frequentada desde o Neolítico e é um dos berços da Revolução Industrial, com
+      siderurgia desde a Idade Média; chegaram mineiros tiroleses. A estrada das cristas nasceu da guerra, e o
+      parque da necessidade de equilibrar protecção e desenvolvimento local.
+    before: >-
+      No Tanet há uma zona vermelha proibida ao público, habitat de quietude para o galo-silvestre e a fauna
+      em geral. No cume do Hohneck a circulação de veículos e peões está regulamentada para preservar o local.
+      E a rota das cristas fecha no inverno: verifica antes de ir.
+    around: >-
+      A 0 km, a [Upper Rhine Floodplain (Rheinauen)](/lugar/upper-rhine-floodplain-rheinauen/) é o vizinho
+      mais próximo que o atlas regista.
+fuentes:
+  - url: https://fr.wikipedia.org/wiki/Parc_naturel_r%C3%A9gional_des_Ballons_des_Vosges
+    titulo: Parc naturel régional des Ballons des Vosges
+    fecha_consulta: '2026-10-30'
+  - url: https://www.parc-ballons-vosges.fr/infos-pratiques/espace-presse/communiques-de-presse-2023/
+    titulo: Communiqués de presse 2023
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Grand_Ballon
+    titulo: Grand Ballon — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Route_des_Cr%C3%AAtes
+    titulo: Route des Crêtes — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_du_Tanet-Gazon_du_Faing
+    titulo: Réserve naturelle nationale du Tanet-Gazon du Faing — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Hohneck
+    titulo: Hohneck — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://fr.wikipedia.org/wiki/Ballon_d%27Alsace
+    titulo: Ballon d’Alsace — Wikipédia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parc_naturel_r%C3%A9gional_des_Ballons_des_Vosges_200_04.jpg
+    autor: FrDr
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

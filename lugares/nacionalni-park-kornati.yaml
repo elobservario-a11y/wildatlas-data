@@ -1,0 +1,797 @@
+id: nacionalni-park-kornati
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Kornati
+  en: Kornati National Park
+  fr: Parc national de Kornati
+  de: Kornati-Nationalpark
+  it: Parco Nazionale delle Incoronate
+  pt: Parque Nacional de Kornati
+nombre_original: Nacionalni park Kornati
+alias:
+  - Nacionalni park Kornati
+paises:
+  - HR
+region:
+  es: Šibenik-Knin (archipiélago de Kornati — Murter)
+  en: Šibenik-Knin (Kornati Archipelago — Murter)
+  fr: Šibenik-Knin (Archipel des Kornati — Murter)
+  de: Šibenik-Knin (Kornaten-Archipel — Murter)
+  it: Šibenik-Knin (Arcipelago delle Incoronate — Murter)
+  pt: Šibenik-Knin (Arquipélago de Kornati — Murter)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 43.765
+  lon: 15.367
+  radio_km: 8
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 2523
+  nombre_en_la_fuente: Kornati
+  capa: capas/cdda/nacionalni-park-kornati.geojson
+habitats:
+  - marine
+  - coast
+  - karst
+designaciones:
+  - national_park
+  - iucn_ii
+  - natura2000
+especies:
+  - tursiops_truncatus
+  - posidonia_oceanica
+  - falco_peregrinus
+temporada_ideal:
+  - 5
+  - 6
+  - 9
+  - 10
+masificacion: 3
+masificacion_nota:
+  es: Alta en verano por los barcos de excursión y la náutica
+  en: High in summer due to excursion boats and nautical tourism
+  fr: Forte en été en raison des bateaux d’excursion et de la plaisance
+  de: Hoch im Sommer durch Ausflugsboote und Bootstourismus
+  it: Alta in estate per i battelli turistici e il traffico nautico
+  pt: Alta no verão devido aos barcos de excursão e ao turismo náutico
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Nacionalni park Kornati
+    url: https://www.np-kornati.hr
+  - titulo: Normas — Parque Nacional de Kornati
+    url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=80&Itemid=282&lang=hr
+  - titulo: Entradas y permisos — Visitar Kornati
+    url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=326&Itemid=404&lang=hr
+  - titulo: Visita — Lugares e itinerarios del parque
+    url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=266&Itemid=418&lang=hr
+resumen:
+  es: >-
+    Un laberinto de casi noventa islas calizas casi sin vegetación, con acantilados («coronas») que caen al
+    mar abierto.
+  en: >-
+    A labyrinth of nearly ninety barren limestone islands, featuring sheer sea cliffs ("crowns") plunging into
+    the open Adriatic.
+  fr: >-
+    Un dédale de près de quatre-vingt-dix îles calcaires dénudées, bordées de falaises verticales (« couronnes
+    ») plongeant dans la mer ouverte.
+  de: >-
+    Ein Labyrinth aus fast neunzig kahlen Kalkinseln mit senkrechten Steilwänden („Kronen“), die ins offene
+    Meer abfallen.
+  it: >-
+    Un labirinto di quasi novanta isole calcaree spoglie, solcato da falesie a picco («corone») che
+    precipitano in mare aperto.
+  pt: >-
+    Um labirinto de quase noventa ilhas calcárias áridas, recortadas por escarpas verticais («coroas») que
+    mergulham em mar aberto.
+unico:
+  es: >-
+    Un archipiélago de islas desnudas y acantilados verticales, donde el paisaje de piedra lo hizo el fuego de
+    los pastores y las praderas de posidonia crecen justo debajo.
+  en: >-
+    An archipelago of stark, bare islands and vertical cliffs, where the stony landscape was forged by
+    pastoral fire and lush posidonia meadows thrive just beneath the surface.
+  fr: >-
+    Un archipel d’îles nues et de falaises abruptes, où le paysage minéral est né des feux pastoraux et où les
+    herbiers de posidonies prospèrent sous la surface.
+  de: >-
+    Ein Archipel aus nackten Felsinseln und senkrechten Klippen, dessen Steinlandschaft durch Weidefeuer
+    entstand, während direkt darunter Neptungraswiesen gedeihen.
+  it: >-
+    Un arcipelago di isole brulle e scogliere verticali, dove il paesaggio di pietra è nato dai fuochi
+    pastorali e le praterie di posidonia crescono subito sotto la superficie.
+  pt: >-
+    Um arquipélago de ilhas desnudas e falésias alcantiladas, onde a paisagem rochosa nasceu do fogo pastoril
+    e os prados de posidónia florescem logo abaixo da água.
+observaciones:
+  es: >-
+    Hay cuatro zonas de protección estricta, en torno a Purara, Klint y Volić, Mrtenjak, Kolobučar y Mali y
+    Veliki Obručan, donde los visitantes no pueden entrar. Está prohibido dañar o recoger plantas y cazar,
+    molestar, herir o matar animales. No se pueden apilar piedras en equilibrio, por el daño que causa a la
+    microflora.
+
+
+    En verano hay mucha afluencia, por los barcos de excursión y la náutica.
+texto:
+  es:
+    intro: >-
+      Un laberinto de piedra blanca tendido sobre el mar. El archipiélago de Kornati suma 89 islas, unas
+      grandes y otras diminutas, a lo largo de 35 kilómetros y unos 320 kilómetros cuadrados de agua: es el
+      archipiélago más denso del Mediterráneo. Aquí no hay asentamientos permanentes: los propietarios, que
+      son sobre todo de Murter y Dugi Otok, usan casas sencillas en calas abrigadas como refugio temporal. Lo
+      que hay es roca caliza y un parque nacional que protege las islas y el mar que las rodea. Al parque se
+      llega en barco: está a unas siete millas náuticas de Murter y a unas quince de Šibenik y de Zadar.
+    landscape: >-
+      Casi todo es karst: calizas y dolomías de hace unos cien millones de años, con fósiles de crustáceos y
+      peces. La roca es porosa y seca, de modo que numerosas cisternas dan agua a personas y animales.
+      Aparecen todas las formas del karst, sobre todo acantilados.
+
+
+      Las «coronas», los acantilados de las islas exteriores, son parte de un plano de falla: en Piškera baja
+      más de 90 metros bajo el mar y en Klobučar sube más de 80 metros sobre él. Del lado del mar abierto,
+      esas paredes llevan coralígeno, un hábitat de algas rojas que fijan la cal, con esponjas, corales y
+      briozoos.
+
+
+      Las islas no siempre fueron así. Kornati estuvo cubierto de encinar, que con los siglos la gente
+      convirtió en pastos de roca; la deforestación, la erosión y el sobrepastoreo empobrecieron la fauna y
+      despoblaron las islas. Una de las razones de proteger el archipiélago como parque es precisamente ese
+      paisaje creado por el hombre, nacido de quemar el monte para el pastoreo. Hoy, esos pastos son hábitats
+      Natura 2000 que mantiene la ganadería de ovejas.
+
+
+      Kornat, de 32,44 km², es la isla mayor y ocupa dos tercios de la superficie terrestre del parque; mide
+      25,2 km de largo y no pasa de 2,5 km de ancho.
+    wildlife: >-
+      El mar es la gran baza. En los fondos de fango y arena crecen praderas de
+      [posidonia](/especie/posidonia_oceanica/), una planta marina endémica del Mediterráneo que enriquece el
+      agua con oxígeno y sirve de refugio, de zona de alimentación y de cría. En el mar del parque se han
+      registrado 353 especies de algas, 3 de plantas marinas y unos 850 animales, entre ellos 61 corales, 177
+      moluscos y 185 peces. Navegando se ve a menudo el [delfín mular](/especie/tursiops_truncatus/), la
+      especie de delfín más común y la única residente del Adriático; la población ronda los 147 ejemplares,
+      sobre todo en el sur. Con cierta frecuencia aparecen tortugas marinas: la [tortuga
+      boba](/especie/caretta_caretta/) llega al Adriático a comer y a invernar, y aquí encuentra alimento y
+      tranquilidad. La nacra Pinna nobilis, un molusco raro, vive en Kornati y está protegida por la ley.
+
+
+      En las islas, las gaviotas son los animales más numerosos. Hay dos colonias grandes de [gaviota
+      patiamarilla](/especie/larus_michahellis/), una de 400 a 500 parejas y otra de 200 a 300; anida una
+      colonia de unas 150 parejas de [cormorán moñudo](/especie/phalacrocorax_aristotelis/), junto a colonias
+      de vencejos y algunos nidos de [halcón peregrino](/especie/falco_peregrinus/), [búho
+      real](/especie/bubo_bubo/) y cuervo. Los pastos de roca, los más extendidos en el archipiélago, son el
+      cazadero ideal del búho real; en el parque se calculan de 5 a 7 parejas. En los pasos migratorios se ven
+      aves como la [grulla](/especie/grus_grus/), la cigüeñuela y la [garza real](/especie/ardea_cinerea/).
+
+
+      Entre los reptiles hay cuatro especies de culebras, ninguna venenosa. La mariposa Saturnia pyri, la
+      mayor de Europa, tiene hasta 15 cm de envergadura y se ve de noche, en abril y mayo. Entre las plantas,
+      el euforbio arbóreo florece en otoño e invierno, pierde la hoja a finales de primavera y en verano queda
+      casi desnudo, como algunas plantas del norte de África; en las grietas de los acantilados crece
+      Centaurea ragusina, un endemismo ilirio-adriático.
+    visit: >-
+      A Kornati se llega en barco. Hay excursiones de un día con transportistas autorizados para llevar
+      pasajeros: en julio y agosto casi todos los barcos salen cada día; en mayo, junio, septiembre y octubre
+      las excursiones se organizan sobre todo para grupos, a los que pueden unirse visitantes sueltos.
+
+
+      Una vez allí, la regla es sencilla. En tierra solo se puede caminar por los caminos y senderos
+      señalados, porque todo el suelo del parque es de propiedad privada. Los acantilados de las islas
+      exteriores y el mar son lo mejor: el buceo autónomo solo se permite en grupos organizados y con permiso
+      previo, mientras que el snorkel no necesita ningún permiso especial.
+
+
+      Para quedarte con tu propia embarcación, solo se puede fondear y pasar la noche a bordo en las calas
+      autorizadas. El parque tiene fondeaderos ecológicos en dieciséis lugares, con 164 boyas en total, que se
+      sujetan al fondo sin tocar la vegetación marina. El parque está abierto a la visita todo el año.
+    history: >-
+      Los primeros vecinos de Murter y Betina llegaron en los años treinta del siglo XVII para guardar los
+      rebaños de la nobleza de Zadar. En 1885 la gente de Murter compró la isla de Žut y en 1896 Kornat y sus
+      islas; se hicieron dueños de más del 90 % del suelo del archipiélago. Por eso hoy todo el suelo es
+      privado.
+
+
+      En 1980, 89 islas se declararon parque nacional con su entorno marino. En 1988 se separó el extremo
+      noroeste, que pasó a ser el Parque Natural de Telašćica. Los guías locales se burlaron de los topógrafos
+      austríacos de finales del siglo XIX inventando nombres groseros para muchos lugares, y de ahí vienen
+      islas como Babina Guzica y Kurba Vela.
+
+
+      La pesca está muy limitada para que se regeneren los bancos de peces que habían sido sobreexplotados.
+    before: >-
+      Hay cuatro zonas de protección estricta, en torno a Purara, Klint y Volić, Mrtenjak, Kolobučar y Mali y
+      Veliki Obručan, donde los visitantes no pueden entrar. Está prohibido dañar o recoger plantas y cazar,
+      molestar, herir o matar animales. No se pueden apilar piedras en equilibrio, por el daño que causa a la
+      microflora.
+
+
+      En verano hay mucha afluencia, por los barcos de excursión y la náutica.
+    around: >-
+      [Park prirode Telašćica](/lugar/park-prirode-telascica/) es el vecino pegado a Kornati: hasta 1988
+      formaba parte del mismo parque nacional. Más lejos, [Parc Natural del Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/), [Scandola Nature
+      Reserve](/lugar/scandola-nature-reserve/) y [Parc national de
+      Port-Cros](/lugar/parc-national-de-port-cros/) comparten delfín mular y halcón peregrino, y [La Mola
+      (Formentera)](/lugar/la-mola-formentera/) comparte posidonia y delfín mular.
+  en:
+    intro: >-
+      A labyrinth of white stone floating upon the azure sea. The Kornati archipelago gathers 89 islands,
+      islets, and reefs, stretching over 35 kilometres across some 320 square kilometres of marine waters: it
+      forms the densest island archipelago in the Mediterranean. There are no permanent towns or settlements:
+      landowners, originating primarily from Murter and Dugi Otok, maintain rustic stone cottages in sheltered
+      inlets as seasonal retreats. What exists is pure karst limestone and a national park preserving both the
+      arid islands and their surrounding waters. The park is accessed by sea: it lies some seven nautical
+      miles from Murter and roughly fifteen nautical miles from Šibenik and Zadar.
+    landscape: >-
+      Almost the entire archipelago is karst: limestones and dolomites deposited some one hundred million
+      years ago, riddled with fossils of crustaceans and prehistoric fish. The rock is porous and dry, which
+      is why numerous rainwater cisterns supply water to humans and sheep. Every characteristic karst landform
+      appears, crowned by dramatic cliffs.
+
+
+      The "crowns", vertical cliffs rimming the outer islands facing the open sea, follow a major geological
+      fault line: on Piškera they plummet over 90 metres beneath the sea, while on Klobučar they soar more
+      than 80 metres above the waves. Facing the open Adriatic, these submerged drop-offs host coralligenous
+      biocoenoses, a marine habitat dominated by calcareous red algae, sponges, solitary corals, and
+      bryozoans.
+
+
+      The islands were not always barren. Kornati was once clothed in dense holm oak forests, which islanders
+      gradually converted into rocky pastures over centuries; deforestation, erosion, and overgrazing depleted
+      terrestrial fauna and depopulated the islands. A core objective in establishing the national park is
+      safeguarding this cultural pastoral landscape, born of deliberate burning for sheep grazing. Today,
+      these stony pastures constitute Natura 2000 dry grassland habitats sustained by traditional sheep
+      husbandry.
+
+
+      Kornat, covering 32.44 km², is the largest island and accounts for two-thirds of the park’s land area;
+      it measures 25.2 km in length while never exceeding 2.5 km in width.
+    wildlife: >-
+      The marine realm is the crowning asset. Across sandy and muddy seabeds thrive extensive meadows of
+      [Neptune grass](/especie/posidonia_oceanica/), a marine flowering plant endemic to the Mediterranean
+      that enriches coastal waters with oxygen while serving as a nursery, feeding area, and sanctuary. In the
+      park’s waters, researchers have documented 353 seaweed taxa, 3 marine phanerogams, and roughly 850
+      animal species, including 61 corals, 177 molluscs, and 185 fishes. When cruising through the
+      archipelago, one frequently encounters the [bottlenose dolphin](/especie/tursiops_truncatus/), the most
+      widespread and only resident dolphin species in the Adriatic; its local population numbers around 147
+      individuals, mainly congregating in the southern waters. Sea turtles appear with reasonable frequency:
+      the [loggerhead sea turtle](/especie/caretta_caretta/) enters the Adriatic to feed and overwinter,
+      finding abundant nourishment and tranquil bays. The noble pen shell (Pinna nobilis), a rare bivalve,
+      inhabits Kornati under strict legal protection.
+
+
+      Ashore, seabirds represent the most conspicuous fauna. There are two major breeding colonies of
+      [yellow-legged gulls](/especie/larus_michahellis/), one numbering 400 to 500 pairs and another of 200 to
+      300 pairs; an important colony of around 150 pairs of [European
+      shags](/especie/phalacrocorax_aristotelis/) nests on the cliffs, alongside colonies of swifts and
+      scattered eyries of [peregrine falcon](/especie/falco_peregrinus/), [Eurasian
+      eagle-owl](/especie/bubo_bubo/), and raven. The rocky pastures, prevalent throughout the islands, form
+      prime hunting grounds for the eagle-owl, with the park supporting an estimated 5 to 7 breeding pairs.
+      During seasonal migrations, species such as [common crane](/especie/grus_grus/), black-winged stilt, and
+      [grey heron](/especie/ardea_cinerea/) pause across the archipelago.
+
+
+      Reptiles include four snake species, none venomous. The giant peacock moth (Saturnia pyri), Europe’s
+      largest butterfly, displays a wingspan of up to 15 cm and can be seen on spring nights in April and May.
+      Among flora, tree spurge flowers in autumn and winter, sheds foliage in late spring, and stands
+      virtually bare in summer like North African xerophytes; in cliff fissures grows Centaurea ragusina, a
+      rare Illyrian-Adriatic endemic knapweed.
+    visit: >-
+      Kornati is reached exclusively by sea. Numerous commercial excursion boats operate day tours: during
+      July and August boats depart daily, while in May, June, September, and October excursions cater
+      predominantly to pre-booked groups, which individual travellers may join.
+
+
+      Once in the park, regulations are straightforward. On land you may only walk along designated trails and
+      footpaths, as the entire land area is private property. The outer sea cliffs and marine waters represent
+      the primary highlight: scuba diving is permitted solely in organised groups with licensed diving
+      operators and prior permits, whereas snorkelling requires no special authorisation.
+
+
+      For visitors arriving on private yachts, anchoring and overnight stays aboard are permitted only within
+      officially designated bays. The park maintains ecological mooring fields across sixteen locations,
+      providing 164 mooring buoys securely anchored to protect delicate seabed posidonia. The park remains
+      open to visitors year-round.
+    history: >-
+      The earliest shepherds from Murter and Betina arrived in the thirties of the seventeenth century to
+      graze flocks belonging to Zadar nobility. In 1885 Murter islanders purchased the island of Žut, and in
+      1896 they acquired Kornat along with its archipelago, gaining ownership of more than 90 % of the
+      archipelago’s landmass. Consequently, virtually all terrestrial property remains in private hands today.
+
+
+      In 1980, 89 islands and islets were proclaimed a national park alongside their surrounding waters. In
+      1988 the north-western sector was separated to establish Telašćica Nature Park. Local boatmen famously
+      amused themselves at the expense of nineteenth-century Austrian cartographers by inventing cheeky
+      toponyms, resulting in whimsical island names like Babina Guzica and Kurba Vela.
+
+
+      Fishing is strictly regulated to facilitate the regeneration of heavily exploited fish stocks.
+    before: >-
+      There are four strict nature reserve zones—centred around Purara, Klint and Volić, Mrtenjak, Kolobučar,
+      and Mali and Veliki Obručan—where all visitor access is prohibited. Damaging or uprooting flora and
+      hunting, harassing, injuring, or taking wild animals is outlawed. Stacking balanced stone cairns is
+      forbidden due to the ecological harm it inflicts on microflora.
+
+
+      Summer brings high visitor traffic from tour boats and pleasure yachts.
+    around: >-
+      [Telašćica Nature Park](/lugar/park-prirode-telascica/) borders Kornati to the north-west: until 1988 it
+      was part of the same national park. Further afield, [Cap de Creus Natural
+      Park](/lugar/parc-natural-del-cap-de-creus/), [Scandola Nature
+      Reserve](/lugar/scandola-nature-reserve/), and [Port-Cros National
+      Park](/lugar/parc-national-de-port-cros/) share bottlenose dolphins and peregrine falcons, while [La
+      Mola (Formentera)](/lugar/la-mola-formentera/) shares posidonia meadows and bottlenose dolphins.
+  fr:
+    intro: >-
+      Un labyrinthe de pierre blanche posé sur la mer. L’archipel des Kornati rassemble 89 îles, îlots et
+      récifs, s’étirant sur 35 kilomètres et couvrant environ 320 kilomètres carrés d’espace maritime : c’est
+      l’archipel le plus dense de Méditerranée. Il n’y a aucun village permanent : les propriétaires fonciers,
+      issus principalement de Murter et de Dugi Otok, utilisent de modestes maisons de pêcheurs dans des
+      criques abritées comme pied-à-terre saisonnier. Ce qui règne ici, c’est le calcaire et un parc national
+      protégeant les îles et les eaux qui les entourent. On y accède par voie maritime : le parc se trouve à
+      environ sept milles nautiques de Murter et à une quinzaine de Šibenik et de Zadar.
+    landscape: >-
+      La quasi-totalité de l’espace est karstique : des calcaires et dolomies vieux d’environ cent millions
+      d’années, constellés de fossiles de crustacés et de poissons. La roche est poreuse et aride, si bien que
+      d’innombrables citernes assurent l’approvisionnement en eau des hommes et des bêtes. Toutes les formes
+      d’érosion karstique se manifestent, au premier rang desquelles les falaises côtières.
+
+
+      Les « couronnes », ces falaises monumentales des îles extérieures ouvertes sur le large, correspondent à
+      un vaste plan de faille : à Piškera, la paroi descend à plus de 90 mètres sous le niveau marin, tandis
+      qu’à Klobučar elle s’élève à plus de 80 mètres au-dessus des flots. Côté mer ouverte, ces parois
+      sous-marines abritent le coralligène, un habitat marin dominé par les algues rouges calcaires, les
+      éponges, les coraux solitaires et les bryozoaires.
+
+
+      Les îles n’ont pas toujours été ainsi dénudées. Les Kornati étaient jadis couvertes de forêts de chênes
+      verts, que les insulaires ont converties au fil des siècles en pâturages rocailleux ; déboisement,
+      érosion et surpâturage ont appauvri la faune et dépeuplé l’archipel. L’une des motivations premières du
+      parc réside précisément dans la sauvegarde de ce paysage culturel façonné par l’écobuage pastoral.
+      Aujourd’hui, ces parcours rocailleux constituent des habitats Natura 2000 entretenus par le pâturage
+      ovin.
+
+
+      Kornat, avec ses 32,44 km², est l’île majeure et représente deux tiers de la superficie terrestre du
+      parc ; elle mesure 25,2 km de long pour au plus 2,5 km de large.
+    wildlife: >-
+      La mer constitue le trésor du parc. Sur les fonds sableux et vaseux s’étendent de vastes herbiers de
+      [posidonie](/especie/posidonia_oceanica/), une plante marine endémique de la Méditerranée qui oxygène
+      l’eau et sert de refuge, de garde-manger et de nourricerie. Dans les eaux du parc ont été recensées 353
+      espèces d’algues, 3 de phanérogames marines et près de 850 animaux, parmi lesquels 61 coraux, 177
+      mollusques et 185 poissons. En naviguant, on aperçoit fréquemment le [grand
+      dauphin](/especie/tursiops_truncatus/), espèce de cétacé la plus répandue et seule résidente de
+      l’Adriatique ; la population compte environ 147 individus, concentrés dans le sud. Les tortues marines
+      apparaissent régulièrement : la [caouanne](/especie/caretta_caretta/) gagne l’Adriatique pour
+      s’alimenter et hiverner, trouvant quiétude et nourriture. La grande nacre Pinna nobilis, bivalve menacé,
+      vit dans les Kornati où elle fait l’objet d’une protection légale intégrale.
+
+
+      Sur les îles, les goélands sont omniprésents. On compte deux colonies majeures de [goélands
+      leucophées](/especie/larus_michahellis/), l’une de 400 à 500 couples et l’autre de 200 à 300 couples ;
+      une colonie d’environ 150 couples de [cormorans huppés](/especie/phalacrocorax_aristotelis/) niche sur
+      les falaises, aux côtés de martinets et de quelques couples de [faucon
+      pèlerin](/especie/falco_peregrinus/), de [grand-duc d’Europe](/especie/bubo_bubo/) et de grand corbeau.
+      Les parcours pierreux offrent un terrain de chasse de choix au grand-duc, dont la population est estimée
+      entre 5 et 7 couples. Lors des migrations, on observe la [grue cendrée](/especie/grus_grus/), l’échasse
+      blanche et le [héron cendré](/especie/ardea_cinerea/).
+
+
+      Quatre espèces de couleuvres non venimeuses peuplent l’archipel. Le grand paon de nuit (Saturnia pyri),
+      plus grand papillon d’Europe avec près de 15 cm d’envergure, s’observe les nuits printanières d’avril et
+      mai. Côté flore, l’euphorbe arborescente fleurit en automne-hiver et perd ses feuilles en été pour
+      résister à la sécheresse ; dans les anfractuosités des falaises s’épanouit Centaurea ragusina, une
+      centaurée endémique illyrienne.
+    visit: >-
+      On accède aux Kornati par bateau. Des excursions quotidiennes sont proposées par des compagnies
+      autorisées : en juillet et août, des départs réguliers ont lieu chaque jour ; en mai, juin, septembre et
+      octobre, les sorties s’adressent surtout à des groupes auxquels peuvent s’agréger des passagers
+      individuels.
+
+
+      Sur place, les consignes sont claires. À terre, il est impératif de rester sur les chemins et sentiers
+      balisés, la totalité du sol étant de propriété privée. Les falaises sous-marines et les eaux
+      translucides forment le clou du spectacle : la plongée en scaphandre autonome n’est autorisée qu’au sein
+      de clubs agréés munis de permis, tandis que la randonnée palmée est libre.
+
+
+      Pour les plaisanciers individuels, le mouillage et la nuitée à bord ne sont autorisés que dans les baies
+      désignées. Le parc dispose de seize champs de mouillage écologique équipés de 164 bouées amarrées sans
+      endommager la posidonie. Le parc reste ouvert toute l’année.
+    history: >-
+      Les premiers bergers de Murter et Betina vinrent s’installer dans les années trente du dix-septième
+      siècle pour garder les troupeaux de la noblesse de Zadar. En 1885, les habitants de Murter rachetèrent
+      l’île de Žut, puis en 1896 Kornat et les îlots adjacents, devenant propriétaires de plus de 90 % des
+      terres de l’archipel. C’est pourquoi tout le sol est privé aujourd’hui.
+
+
+      En 1980, 89 îles ont été érigées en parc national avec leur écrin marin. En 1988, la bordure nord-ouest
+      a été détachée pour former le parc naturel de Telašćica. Les pêcheurs locaux s’amusèrent jadis aux
+      dépens des cartographes autrichiens du dix-neuvième siècle en inventant des toponymes grivois, d’où des
+      noms d’îles pittoresques comme Babina Guzica et Kurba Vela.
+
+
+      La pêche est strictement contingentée afin de favoriser le repeuplement des zones marines.
+    before: >-
+      Il existe quatre zones de protection intégrale—autour de Purara, Klint et Volić, Mrtenjak, Kolobučar
+      ainsi que Mali et Veliki Obručan—dont l’accès est formellement interdit. Il est prohibé d’arracher des
+      plantes ainsi que de chasser, déranger, blesser ou capturer des animaux. Il est défendu d’ériger des
+      cairns en équilibre, en raison de l’atteinte portée à la microflore rupestre.
+
+
+      En été, l’affluence est soutenue du fait des navettes d’excursion et des voiliers de passage.
+    around: >-
+      Le [Parc Naturel de Telašćica](/lugar/park-prirode-telascica/) jouxte les Kornati au nord-ouest :
+      jusqu’en 1988, il faisait partie du même parc national. Plus loin, le [Parc Naturel du Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/), la [Réserve naturelle de
+      Scandola](/lugar/scandola-nature-reserve/) et le [Parc national de
+      Port-Cros](/lugar/parc-national-de-port-cros/) partagent le grand dauphin et le faucon pèlerin, tandis
+      que [La Mola (Formentera)](/lugar/la-mola-formentera/) partage les herbiers de posidonie et le grand
+      dauphin.
+  de:
+    intro: >-
+      Ein Labyrinth aus weißem Karstgestein, gebettet auf das blaue Meer. Der Kornaten-Archipel umfasst 89
+      Inseln, Eilande und Riffe, die sich über 35 Kilometer und rund 320 Quadratkilometer Meeresfläche
+      erstrecken: Es ist der dichteste Archipel des Mittelmeers. Es gibt hier keine dauerhaften Ortschaften:
+      Die Grundbesitzer, die vor allem von Murter und Dugi Otok stammen, nutzen schlichte Steinhäuser in
+      geschützten Buchten als saisonale Unterkünfte. Was das Bild bestimmt, sind reiner Kalkstein und ein
+      Nationalpark, der Inseln und umgebendes Meer schützt. Der Park wird per Schiff erreicht: Er liegt etwa
+      sieben Seemeilen von Murter und rund fünfzehn von Šibenik und Zadar entfernt.
+    landscape: >-
+      Nahezu das gesamte Gebiet ist Karst: Kalksteine und Dolomite aus der Zeit vor rund einhundert Millionen
+      Jahren, reich an Versteinerungen von Krustentieren und Fischen. Das Gestein ist porös und trocken,
+      weshalb zahlreiche Zisternen Mensch und Weidevieh mit Wasser versorgen. Alle typischen Karstformen
+      treten auf, allen voran imposante Klippen.
+
+
+      Die „Kronen“, jene senkrechten Steilwände der seeseitigen Außeninseln, folgen einer gewaltigen
+      Verwerfungslinie: Bei Piškera stürzen sie mehr als 90 Meter unter den Meeresspiegel ab, während sie auf
+      Klobučar über 80 Meter emporragen. Dem offenen Meer zugewandt, tragen diese Felswände
+      Coralligène-Formationen—einen marinen Lebensraum aus kalkabscheidenden Rotalgen, Schwämmen, Korallen und
+      Moostierchen.
+
+
+      Die Inseln waren nicht immer kahl. Früher waren die Kornaten von dichten Steineichenwäldern bedeckt, die
+      die Inselbewohner im Laufe der Jahrhunderte durch Brandrodung in Felsweiden verwandelten; Abholzung,
+      Bodenerosion und Überweidung verarmten die Tierwelt. Ein wesentlicher Grund für die Unterschutzstellung
+      ist právě jene menschengemachte Kulturlandschaft. Heute stellen diese Trockenrasen
+      Natura-2000-Lebensräume dar, die durch extensive Schafhaltung gepflegt werden.
+
+
+      Kornat ist mit 32,44 km² die Hauptinsel und nimmt zwei Drittel der Landfläche des Parks ein; sie misst
+      25,2 km in der Länge und erreicht nirgends mehr als 2,5 km Breite.
+    wildlife: >-
+      Das Meer ist das größte Kapital. Auf sandigen und schlickigen Böden gedeihen dichte Bestände des
+      [Neptungrases](/especie/posidonia_oceanica/), einer im Mittelmeer endemischen Meerespflanze, die das
+      Wasser mit Sauerstoff anreichert und als Kinderstube, Rückzugsort und Nahrungsgrundlage dient. Im
+      Meeresgebiet wurden 353 Algenarten, 3 Meeresblütenpflanzen und rund 850 Tierarten erfasst, darunter 61
+      Korallen, 177 Weichtiere und 185 Fischarten. Bei Bootsfahrten begegnet man regelmäßig dem [Großen
+      Tümmler](/especie/tursiops_truncatus/), der häufigsten und einzigen sesshaften Delfinart der Adria; der
+      Bestand liegt bei etwa 147 Tieren, vor allem im Süden. Regelmäßig tauchen Meeresschildkröten auf: Die
+      [Unechte Karettschildkröte](/especie/caretta_caretta/) besucht die Adria zur Nahrungssuche und
+      Überwinterung. Die Edle Steckmuschel Pinna nobilis lebt in den Kornaten und steht unter strengem Schutz.
+
+
+      Auf den Inseln dominieren Möwen die Fauna. Es gibt zwei große Kolonien der
+      [Mittelmeermöwe](/especie/larus_michahellis/)—eine mit 400 bis 500 Paaren und eine weitere mit 200 bis
+      300 Paaren; zudem nistet eine Kolonie von etwa 150 Paaren der
+      [Krähenscharbe](/especie/phalacrocorax_aristotelis/) an den Klippen, begleitet von Mauerseglern und
+      einzelnen Brutpaaren von [Wanderfalke](/especie/falco_peregrinus/), [Uhu](/especie/bubo_bubo/) und
+      Kolkrabe. Die Felsweiden bilden das ideale Jagdrevier des Uhus; im Park brüten schätzungsweise 5 bis 7
+      Paare. Auf dem Vogelzug rasten Arten wie [Kranich](/especie/grus_grus/), Stelzenläufer und
+      [Graureiher](/especie/ardea_cinerea/).
+
+
+      Unter den Reptilien leben vier ungiftige Schlangenarten. Das Wiener Nachtpfauenauge (Saturnia pyri),
+      Europas größter Schmetterling mit bis zu 15 cm Flügelspannweite, fliegt in Frühlingsnächten im April und
+      Mai. Die Baum-Wolfsmilch blüht im Herbst und Winter und wirft im späten Frühjahr ihr Laub ab, um die
+      Sommerhitze unbelaubt zu überdauern; in Felsspalten wächst Centaurea ragusina, eine illyrische
+      Flockenblume.
+    visit: >-
+      Die Kornaten lassen sich ausschließlich per Schiff erreichen. Autorisierte Ausflugsboote bieten
+      Tagestouren an: Im Juli und August verkehren Schiffe täglich; im Mai, Juni, September und Oktober
+      richten sich Fahrten meist an Reisegruppen, denen sich Individualgäste anschließen können.
+
+
+      Vor Ort gilt eine klare Regel: An Land darf man sich nur auf markierten Wegen bewegen, da sich das
+      gesamte Land in Privatbesitz befindet. Die Klippen und die Unterwasserwelt bilden den Höhepunkt:
+      Gerätetauchen ist nur in geführten Tauchgruppen mit behördlicher Genehmigung gestattet, während
+      Schnorcheln keiner gesonderten Erlaubnis bedarf.
+
+
+      Für eigene Boote ist das Ankern und Übernachten nur in freigegebenen Buchten erlaubt. Der Park unterhält
+      an sechzehn Standorten Bojenfelder mit insgesamt 164 umweltfreundlichen Bojen, die den Meeresboden und
+      das Neptungras schonen. Der Park ist ganzjährig zugänglich.
+    history: >-
+      Die ersten Hirten aus Murter und Betina siedelten sich in den dreißiger Jahren des siebzehnten
+      Jahrhunderts an, um das Weidevieh des Adels von Zadar zu hüten. 1885 kauften Einwohner aus Murter die
+      Insel Žut und 1896 Kornat samt Nebeninseln; sie erwarben über 90 % des Archipels. Daher befindet sich
+      bis heute der gesamte Grund in Privatbesitz.
+
+
+      Im Jahr 1980, 89 Inseln wurden samt Meeresraum zum Nationalpark erklärt. 1988 wurde der Nordwesten
+      ausgegliedert und zum Naturpark Telašćica erhoben. Die einheimischen Führer erlaubten sich im
+      neunzehnten Jahrhundert einen Scherz mit österreichischen Kartographen, indem sie derbe Fantasienamen
+      erfanden, woraus kuriose Inselnamen wie Babina Guzica und Kurba Vela hervorgingen.
+
+
+      Die Fischerei ist stark beschränkt, damit sich überfischte Bestände erholen können.
+    before: >-
+      Es gibt vier Zonen strengen Schutzes—um Purara, Klint und Volić, Mrtenjak, Kolobučar sowie Mali und
+      Veliki Obručan—, die nicht betreten werden dürfen. Das Beschädigen von Pflanzen sowie das Jagen, Stören,
+      Verletzen oder Töten von Tieren ist verboten. Das Aufschichten von Steinmännchen ist untersagt, da es
+      die Felsmikroflora schädigt.
+
+
+      Im Sommer herrscht reger Andrang durch Ausflugsboote und Motor- und Segelyachten.
+    around: >-
+      Der [Naturpark Telašćica](/lugar/park-prirode-telascica/) grenzt im Nordwesten direkt an die Kornaten:
+      Bis 1988 gehörte er zum selben Nationalpark. Weiter entfernt teilen der [Naturpark Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/), das [Naturschutzgebiet
+      Scandola](/lugar/scandola-nature-reserve/) und der [Nationalpark
+      Port-Cros](/lugar/parc-national-de-port-cros/) Großen Tümmler und Wanderfalken, während [La Mola
+      (Formentera)](/lugar/la-mola-formentera/) Neptungras und Großen Tümmler teilt.
+  it:
+    intro: >-
+      Un labirinto di roccia bianca adagiato sul mare. L’arcipelago delle Incoronate conta 89 tra isole,
+      isolotti e scogli, distribuiti lungo 35 chilometri e circa 320 chilometri quadrati di mare: è
+      l’arcipelago più denso del Mediterraneo. Qui non vi sono insediamenti permanenti: i proprietari
+      terrieri, provenienti soprattutto da Murter e Dugi Otok, utilizzano semplici case di pescatori in
+      calette riparate come dimore stagionali. A dominare sono il calcare e un parco nazionale che tutela le
+      isole e il mare circostante. Al parco si accede via mare: dista circa sette miglia nautiche da Murter e
+      una quindicina da Šibenik e Zadar.
+    landscape: >-
+      Quasi tutto l’arcipelago è di natura carsica: calcari e dolomie formatisi circa cento milioni di anni
+      fa, ricchi di fossili di crostacei e pesci preistorici. La roccia è arida e porosa, per cui numerose
+      cisterne d’acqua piovana dissetano residenti e greggi. Sono presenti tutte le morfologie del carsismo,
+      in primis spettacolari scogliere a picco.
+
+
+      Le «corone», le pareti a picco delle isole esterne esposte al mare aperto, corrispondono a una vasta
+      linea di faglia: a Piškera la parete scende a oltre 90 metri sotto la superficie marina, mentre su
+      Klobučar svetta a più di 80 metri sopra le onde. Verso il mare aperto, queste pareti sommerse ospitano
+      il coralligeno, un habitat marino dominato da alghe rosse calcaree, spugne, coralli e briozoi.
+
+
+      Le isole non sono sempre state brulle. Un tempo le Incoronate erano rivestite da fitti boschi di leccio,
+      che i pastori convertirono nei secoli in pascoli pietrosi; il disboscamento, l’erosione e il pascolo
+      eccessivo impoverirono la fauna e spopolarono le isole. Una delle ragioni cardine della tutela come
+      parco è proprio questo paesaggio culturale modellato dagli incendi pastorali. Oggi questi pascoli
+      sassosi costituiscono habitat protetti Natura 2000 mantenuti dall’allevamento ovino.
+
+
+      Kornat, con 32,44 km² di superficie, è l’isola maggiore e occupa due terzi dell’area emersa del parco;
+      misura 25,2 km di lunghezza e non supera mai i 2,5 km di larghezza.
+    wildlife: >-
+      Il mare è la risorsa più preziosa. Sui fondali sabbiosi e fangosi vegetano estese praterie di
+      [posidonia](/especie/posidonia_oceanica/), pianta marina endemica del Mediterraneo che arricchisce
+      l’acqua d’ossigeno fungendo da rifugio, nursery e pascolo. Nelle acque del parco sono state censite 353
+      specie di alghe, 3 piante marine superiori e circa 850 specie animali, tra cui 61 coralli, 177 molluschi
+      e 185 pesci. Navigando si avvista di frequente il [tursiope](/especie/tursiops_truncatus/), il delfino
+      più comune e l’unico residente nell’Adriatico; la popolazione locale conta circa 147 esemplari,
+      soprattutto a sud. Compaiono con discreta regolarità le tartarughe marine: la [tartaruga
+      comune](/especie/caretta_caretta/) frequenta l’Adriatico per alimentarsi e svernare. La nacchera Pinna
+      nobilis, raro bivalve, vive nelle Incoronate ed è rigorosamente protetta.
+
+
+      Sulle isole dominano i gabbiani. Si contano due grandi colonie di [gabbiano reale
+      zafferano](/especie/larus_michahellis/), una di 400-500 coppie e l’altra di 200-300; nidifica inoltre
+      una colonia di circa 150 coppie di [marangone dal ciuffo](/especie/phalacrocorax_aristotelis/), assieme
+      a rondoni e ad alcuni nidi di [falco pellegrino](/especie/falco_peregrinus/), [gufo
+      reale](/especie/bubo_bubo/) e corvo imperiale. I pascoli rocciosi costituiscono il terreno di caccia
+      ideale del gufo reale; nel parco se ne stimano da 5 a 7 coppie. Durante i passi migratori sostano specie
+      come la [gru](/especie/grus_grus/), il cavaliere d’Italia e l’[airone
+      cenerino](/especie/ardea_cinerea/).
+
+
+      Tra i rettili vivono quattro specie di colubri non velenosi. La saturnia del pero (Saturnia pyri), la
+      più grande farfalla d’Europa con apertura alare fino a 15 cm, vola nelle notti di aprile e maggio.
+      L’euforbia arborea fiorisce in autunno e inverno perdendo le foglie a fine primavera per superare
+      indenne la siccità estiva; nelle fessure delle falesie cresce Centaurea ragusina, una centaurea endemica
+      illirica.
+    visit: >-
+      Alle Incoronate si giunge unicamente via mare. Numerose imbarcazioni organizzano escursioni giornaliere
+      autorizzate: a luglio e agosto le corse sono quotidiane; a maggio, giugno, settembre e ottobre le uscite
+      sono perlopiù dedicate a comitive, a cui possono aggregarsi singoli visitatori.
+
+
+      Una volta a terra, la regola è ferrea: è consentito muoversi solo lungo i sentieri tracciati, essendo
+      l’intero territorio emerso proprietà privata. Le falesie e i fondali trasparenti sono l’attrattiva
+      principale: le immersioni subacquee con autorespiratore sono permesse solo in gruppi autorizzati e con
+      apposito permesso, mentre lo snorkeling è libero.
+
+
+      Chi naviga con la propria barca può ancorare e pernottare a bordo esclusivamente nelle calette
+      designate. Il parco gestisce campi ormeggio ecologici in sedici località, con 164 gavitelli ancorati al
+      fondo senza danneggiare la posidonia. Il parco è visitabile tutto l’anno.
+    history: >-
+      I primi pastori di Murter e Betina giunsero negli anni trenta del diciassettesimo secolo per custodire
+      le greggi della nobiltà di Zadar. Nel 1885 gli abitanti di Murter acquistarono l’isola di Žut e nel 1896
+      Kornat e gli isolotti circostanti, acquisendo oltre il 90 % delle terre dell’arcipelago. Per tale motivo
+      l’intera superficie emersa è oggi privata.
+
+
+      Nel 1980, 89 isole vennero dichiarate parco nazionale assieme al loro ambiente marino. Nel 1988 la
+      porzione nord-occidentale venne scorporata per costituire il Parco Naturale di Telašćica. I marinai del
+      posto si presero beffa dei cartografi austriaci del diciannovesimo secolo inventando toponimi bizzarri o
+      licenziosi, da cui derivano denominazioni come Babina Guzica e Kurba Vela.
+
+
+      La pesca è severamente contingentata per permettere il ripopolamento della fauna marina.
+    before: >-
+      Esistono quattro zone di protezione integrale—attorno a Purara, Klint e Volić, Mrtenjak, Kolobučar e
+      Mali e Veliki Obručan—dove l’accesso ai visitatori è severamente interdetto. È vietato danneggiare la
+      vegetazione e cacciare, disturbare, ferire o catturare animali. È proibito innalzare ometti di pietra,
+      per evitare danni alla microflora epilitica.
+
+
+      In estate l’afflusso è molto intenso per la presenza di motonavi e imbarcazioni da diporto.
+    around: >-
+      Il [Parco Naturale di Telašćica](/lugar/park-prirode-telascica/) confina a nord-ovest con le Incoronate:
+      fino al 1988 faceva parte dello stesso parco nazionale. Più distanti, il [Parco Naturale di Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/), la [Riserva Naturale di
+      Scandola](/lugar/scandola-nature-reserve/) e il [Parco Nazionale di
+      Port-Cros](/lugar/parc-national-de-port-cros/) condividono tursiopi e falchi pellegrini, mentre [La Mola
+      (Formentera)](/lugar/la-mola-formentera/) condivide praterie di posidonia e tursiopi.
+  pt:
+    intro: >-
+      Um labirinto de rocha calcária branca estendido sobre o mar azul. O arquipélago de Kornati congrega 89
+      ilhas, ilhéus e recifes ao longo de 35 quilómetros e cerca de 320 quilómetros quadrados de área
+      marítima: é o arquipélago insular mais denso do Mediterrâneo. Não existem povoações permanentes: os
+      proprietários, oriundos sobretudo de Murter e Dugi Otok, utilizam casas de pedra modestas em enseadas
+      abrigadas como refúgio temporário. O que domina é a rocha nua e um parque nacional que resguarda as
+      ilhas e as águas em redor. O acesso faz-se por barco: o parque situa-se a cerca de sete milhas náuticas
+      de Murter e a perto de quinze de Šibenik e Zadar.
+    landscape: >-
+      Quase todo o relevo é cárstico: calcários e dolomitos originados há cerca de cem milhões de anos,
+      salpicados de fósseis de crustáceos e peixes. A rocha é porosa e seca, pelo que inúmeras cisternas
+      asseguram o abastecimento de água a pessoas e rebanhos. Ocorrem todas as formas de relevo cárstico, com
+      destaque para as imponentes falésias costeiras.
+
+
+      As «coroas», escarpas verticais das ilhas exteriores voltadas para o largo, alinham-se ao longo de uma
+      grande falha geológica: em Piškera a parede mergulha mais de 90 metros abaixo do mar, ao passo que em
+      Klobučar ergue-se mais de 80 metros acima das ondas. Do lado do mar aberto, estas escarpas submersas
+      acolhem o coralígeno, um biótopo marinho dominado por algas vermelhas calcárias, esponjas, corais e
+      briozoários.
+
+
+      As ilhas nem sempre foram desnudas. Kornati esteve outrora coberta por densos bosques de azinheira, que
+      ao longo dos séculos as populações converteram em pastagens rochosas; a desflorestação, a erosão e o
+      sobrepastoreio empobreceram a fauna e despovoaram o arquipélago. Uma das razões essenciais da criação do
+      parque é precisamente a salvaguarda desta paisagem cultural modelada pelo fogo pastoril. Hoje, estes
+      pastos pedregosos constituem habitats Natura 2000 conservados pela pastorícia ovina.
+
+
+      Kornat, com 32,44 km², é a ilha principal e ocupa dois terços da superfície terrestre do parque;
+      estende-se por 25,2 km de comprimento e não excede os 2,5 km de largura.
+    wildlife: >-
+      O oceano é o património mais valioso. Nos fundos arenosos e vasa vicejam extensos prados de
+      [posidónia](/especie/posidonia_oceanica/), uma planta marinha endémica do Mediterrâneo que oxigena as
+      águas servindo de berçário, refúgio e área de alimentação. Nas águas do parque foram inventariadas 353
+      espécies de algas, 3 de fanerogâmicas marinhas e cerca de 850 animais marinhos, incluindo 61 corais, 177
+      moluscos e 185 peixes. Durante a navegação é frequente avistar o
+      [roaz-corvineiro](/especie/tursiops_truncatus/), o golfinho mais comum e a única espécie residente do
+      Adriático; a população ronda os 147 indivíduos, sobretudo no setor sul. Com frequência assinalam-se
+      tartarugas marinhas: a [tartaruga-boba](/especie/caretta_caretta/) acorre ao Adriático para se alimentar
+      e invernar. A grande-nacra Pinna nobilis habita em Kornati, sob proteção legal absoluta.
+
+
+      Em terra, as gaivotas são a fauna mais numerosa. Existem duas colónias expressivas de
+      [gaivota-de-patas-amarelas](/especie/larus_michahellis/), uma de 400 a 500 casais e outra de 200 a 300
+      casais; nidifica ainda uma colónia de cerca de 150 casais de
+      [corvo-marinho-de-crista](/especie/phalacrocorax_aristotelis/), a par de andorinhões e alguns casais de
+      [falcão-peregrino](/especie/falco_peregrinus/), [bufo-real](/especie/bubo_bubo/) e corvo-comum. Os
+      pastos pedregosos são o território de caça predileto do bufo-real, estimando-se entre 5 e 7 casais no
+      parque. Durante as rotas migratórias observam-se aves como o [grou-comum](/especie/grus_grus/), o
+      pernilongo e a [garça-real](/especie/ardea_cinerea/).
+
+
+      Entre os répteis contam-se quatro espécies de cobras inofensivas. A borboleta-pavão-noturna (Saturnia
+      pyri), a maior borboleta da Europa com até 15 cm de envergadura, surge nas noites de primavera em abril
+      e maio. A eufórbia-arbórea floresce no outono e inverno perdendo as folhas no final da primavera para
+      suportar a aridez estival; nas fendas dos rochedos vegeta a Centaurea ragusina, uma centáurea endémica
+      ilírica.
+    visit: >-
+      O acesso a Kornati efetua-se exclusivamente por mar. Operam diversas excursões de um dia através de
+      embarcações marítimo-turísticas autorizadas: em julho e agosto realizam-se saídas diárias regulares; em
+      maio, junho, setembro e outubro os passeios destinam-se sobretudo a grupos, aos quais se podem associar
+      passageiros individuais.
+
+
+      Uma vez no arquipélago, a regra é estrita: em terra só é permitido caminhar pelos trilhos e caminhos
+      assinalados, pois todo o solo é propriedade privada. As falésias marinhas e os fundos cristalinos são os
+      grandes atrativos: o mergulho com garrafa só é autorizado a centros de mergulho credenciados com
+      autorização prévia, sendo o snorkeling totalmente livre.
+
+
+      Para quem navega em embarcação própria, o fundeio e a dormida a bordo só são permitidos nas enseadas
+      autorizadas. O parque disponibiliza campos de boias ecológicas em dezasseis enseadas, somando 164 boias
+      fixadas ao fundo sem afetar a vegetação marinha. O parque permanece aberto o ano inteiro.
+    history: >-
+      Os primeiros pastores de Murter e Betina chegaram nos anos trinta do século XVII para apascentar os
+      rebanhos da nobreza de Zadar. Em 1885 os habitantes de Murter compraram a ilha de Žut e em 1896
+      adquiriram Kornat e os ilhéus adjacentes, tornando-se donos de mais de 90 % do solo do arquipélago. Por
+      esse motivo, quase toda a terra é hoje propriedade privada.
+
+
+      Em 1980, 89 ilhas foram declaradas parque nacional conjuntamente com o seu meio marinho envolvente. Em
+      1988 o extremo noroeste foi desanexado, dando origem ao Parque Natural de Telašćica. Os marítimos locais
+      troçaram dos cartógrafos austríacos do século XIX inventando topónimos pícaros, de onde provêm nomes
+      curiosos de ilhas como Babina Guzica e Kurba Vela.
+
+
+      A faina piscatória encontra-se fortemente restringida para viabilizar a reconstituição dos mananciais
+      marinhos.
+    before: >-
+      Existem quatro zonas de proteção estrita—em redor de Purara, Klint e Volić, Mrtenjak, Kolobučar e Mali e
+      Veliki Obručan—onde a entrada de visitantes é expressamente interdita. É proibido arrancar plantas e
+      caçar, perturbar, ferir ou abater animais. Não é permitido empilhar pedras em equilíbrio, devido aos
+      danos causados à microflora epilítica.
+
+
+      No verão regista-se afluência considerável de barcos de passeio e iates de recreio.
+    around: >-
+      O [Parque Natural de Telašćica](/lugar/park-prirode-telascica/) confina a noroeste com Kornati: até 1988
+      fazia parte do mesmo parque nacional. Mais longe, o [Parque Natural do Cap de
+      Creus](/lugar/parc-natural-del-cap-de-creus/), a [Reserva Natural de
+      Scandola](/lugar/scandola-nature-reserve/) e o [Parque Nacional de
+      Port-Cros](/lugar/parc-national-de-port-cros/) partilham roazes e falcões-peregrinos, enquanto [La Mola
+      (Formentera)](/lugar/la-mola-formentera/) partilha pradarias de posidónia e roazes.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Kornati
+    titulo: Kornati - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?Itemid=277&id=85&lang=hr&option=com_content&view=article
+    titulo: www.np-kornati.hr
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=61&lang=hr
+    titulo: Podmorje – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=62&lang=hr
+    titulo: O fauni – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=63&lang=hr
+    titulo: O flori – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=65&lang=hr
+    titulo: Lokve – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=68&lang=hr
+    titulo: Ušara i sivi sokol – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=80&lang=hr
+    titulo: Pravila ponašanja u NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=81&lang=hr
+    titulo: Korisne informacije – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=85&lang=hr
+    titulo: Izleti – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=60&lang=hr
+    titulo: Geologija – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=269&lang=hr
+    titulo: Pašnjaci i pastiri – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=432&lang=hr
+    titulo: Lokacije bova – NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=59&lang=hr
+    titulo: Povijest NP Kornati
+    fecha_consulta: '2026-10-24'
+  - url: https://www.np-kornati.hr/index.php?option=com_content&view=article&id=76&lang=hr
+    titulo: Od 17. - 19. stoljeća – NP Kornati
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nacionalni_park_Kornati_07.jpg
+    autor: Ivan25
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

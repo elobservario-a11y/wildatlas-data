@@ -1,0 +1,460 @@
+id: soraust-svalbard-nature-reserve
+estado_editorial: valoracion-revisada
+nombre:
+  es: Reserva Natural del Sureste de Svalbard
+  en: Søraust-Svalbard Nature Reserve
+  fr: Réserve naturelle du Sud-Est du Svalbard
+  de: Naturreservat Südost-Svalbard
+  it: Riserva Naturale del Sud-Est delle Svalbard
+  pt: Reserva Natural do Sudeste de Svalbard
+nombre_original: Søraust-Svalbard Nature Reserve
+alias:
+  - Søraust-Svalbard Nature Reserve (Søraust-Svalbard naturreservat)
+paises:
+  - 'NO'
+region:
+  es: Archipiélago de Svalbard (Islas de Edgeøya y Barentsøya)
+  en: Svalbard Archipelago (Edgeøya and Barentsøya Islands)
+  fr: Archipel du Svalbard (Îles d'Edgeøya et de Barentsøya)
+  de: Spitzbergen-Archipel (Inseln Edgeøya und Barentsøya)
+  it: Arcipelago delle Svalbard (Isole di Edgeøya e Barentsøya)
+  pt: Arquipélago de Svalbard (Ilhas de Edgeøya e Barentsøya)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 77.5
+  lon: 22.5
+  radio_km: 80
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 1335
+  nombre_en_la_fuente: Søraust-Svalbard
+  categoria_uicn: Ib
+  capa: capas/cdda/soraust-svalbard-nature-reserve.geojson
+habitats:
+  - steppe
+  - coast
+  - marine
+  - glacial
+designaciones:
+  - strict_reserve
+especies:
+  - ursus_maritimus
+  - odobenus_rosmarus
+  - rangifer_tarandus
+temporada_ideal:
+  - 7
+  - 8
+temporada_nota:
+  es: julio y agosto
+  en: July and August
+  fr: juillet et août
+  de: Juli und August
+  it: luglio e agosto
+  pt: julho e agosto
+masificacion: 0
+masificacion_nota:
+  es: Área protegida de cría de oso polar y morsas
+  en: Strictly protected breeding sanctuary for polar bears and walruses
+  fr: Zone protégée de reproduction de l'ours blanc et des morses
+  de: Streng geschütztes Refugium zur Fortpflanzung von Eisbär und Walross
+  it: Area protetta per la riproduzione di orso polare e trichechi
+  pt: Área estritamente protegida para reprodução de ursos-polares e morsas
+valoracion: 4
+dias_visita:
+  min: 3
+  max: 7
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Sysselmesteren en Svalbard
+    url: https://www.sysselmesteren.no/
+  - titulo: Normas y acceso — Visita de los espacios protegidos de Svalbard
+    url: https://www.sysselmesteren.no/nb/ferdsel-pa-svalbard/
+  - titulo: Permisos — Solicitud y comunicación de viajes a Svalbard
+    url: https://www.sysselmesteren.no/nb/ferdsel-pa-svalbard/meldepliktig-ferdsel/
+  - titulo: Mapa — Áreas y restricciones de acceso en Svalbard
+    url: https://www.sysselmesteren.no/contentassets/cf332473ae094065ba237ee6db0c27f9/ferdsel2025c_no.pdf
+resumen:
+  es: >-
+    Las grandes islas desérticas de tundra de Edgeøya y Barentsøya (21.800 km²), santuario principal de
+    encamamiento de osas polares y dormideros masivos de morsas.
+  en: >-
+    The vast desert tundra islands of Edgeøya and Barentsøya (21,800 km²), a premier denning sanctuary for
+    polar bears and massive walrus haul-outs.
+  fr: >-
+    Les vastes îles désertiques de toundra d'Edgeøya et Barentsøya (21 800 km²), haut lieu de tanières de mise
+    bas pour l'ours blanc et reposoirs massifs de morses.
+  de: >-
+    Die weiten polaren Tundrainseln Edgeøya und Barentsøya (21.800 km²), zentrales Wurfhöhlen-Refugium für
+    Eisbären und monumentale Walross-Liegeplätze.
+  it: >-
+    Le vaste isole di tundra desertica di Edgeøya e Barentsøya (21.800 km²), santuario per le tane di
+    maternità dell'orso polare e posatoi massicci di trichechi.
+  pt: >-
+    As vastas ilhas árticas de tundra de Edgeøya e Barentsøya (21.800 km²), santuário primordial de tocas de
+    maternidade de urso-polar e dormitórios massivos de morsas.
+unico:
+  es: Aquí el terreno ha subido tanto que los huesos de ballena, antes bajo el mar, están hoy en seco.
+  en: >-
+    Here post-glacial land uplift has raised ancient seabed so high that historic whale skeletons now lie
+    completely high and dry.
+  fr: >-
+    Ici le soulèvement du sol est si marqué que d'antiques ossements de baleines, jadis immergés, gisent
+    aujourd'hui en pleine terre sèche.
+  de: >-
+    Hier hat sich der Meeresboden durch postglaziale Hebung so stark gehoben, dass historische Walknochen
+    heute im trockenen Binnenland liegen.
+  it: >-
+    Qui il suolo si è sollevato a tal punto che antiche ossa di balena giacciono oggi all'asciutto sulla
+    terraferma.
+  pt: >-
+    Aqui o solo elevou-se a tal ponto que esqueletos fósseis de baleias, outrora sob o mar, jazem hoje a seco
+    em terra firme.
+observaciones:
+  es: >-
+    En Zieglerøya, Delitschøya, Spekkholmen, Haudegen y gran parte de Halvmåneøya hay prohibición de visita
+    todo el año. En Nordaustlandet y Edgeøya (zona A) hay que avisar al Gobernador de Svalbard cuatro semanas
+    antes del desembarco y enviar un informe después. Quien se mueva fuera de los asentamientos debe llevar
+    medios para ahuyentar a los osos polares; consulta antes las normas del Gobernador.
+texto:
+  es:
+    intro: >-
+      En Edgeøya hay huesos de ballena en tierra firme, a la vista de quien camine por la playa elevada. Es
+      una buena forma de entender la Reserva Natural de Søraust-Svalbard: un lugar donde el suelo ha subido
+      tanto que el fondo del mar se ha quedado secado al aire. La reserva cubre toda Edgeøya y Barentsøya,
+      además de islas menores como Tusenøyane, Ryke Yseøyane y Halvmåneøya. Mide 21.825 km², de los cuales
+      unos 6.400 son tierra; es la segunda área protegida más grande de Noruega, contando los parques
+      nacionales. Al norte limita con la reserva de Nordaust-Svalbard.
+    landscape: >-
+      El paisaje lo dibujan antiguas líneas de costa y suelos de patrón geométrico, y grandes extensiones
+      están cubiertas de glaciar. En Edgeøya, muchas zonas tienen playas elevadas con líneas de costa nítidas;
+      por eso aparecen los huesos de ballena. La isla se parece, geológicamente, a la Spitsbergen central:
+      rocas del Mesozoico, sobre todo lutitas del Triásico, y erosión glaciar. En el este está el gran glaciar
+      Edgeøyjøkulen. Edgeøya mide 5.073 km² y es la tercera isla más grande de Svalbard.
+
+
+      Las zonas bajas de las costas orientales de Edgeøya y Barentsøya son tundra discontinua de musgos. Se
+      formó durante siglos a partir de los excrementos acumulados de los renos, y es un tipo de vegetación
+      raro.
+    wildlife: >-
+      La reserva guarda los lugares de descanso de [morsas](/especie/odobenus_rosmarus/) más importantes del
+      archipiélago, y en ellos también se observan hembras con crías. El [oso
+      polar](/especie/ursus_maritimus/) también cuenta: Edgeøya es un lugar importante de cría, y los osos de
+      esta zona del mar de Barents forman una población genética propia. Hay además una población notable de
+      [renos](/especie/rangifer_tarandus/).
+
+
+      En verano llegan las aves. En las Tusenøyane hay una zona clave con colimbos chicos, barnaclas
+      carinegras y charranes árticos, y la reserva es Área Importante para las Aves por sus barnaclas, eíderes
+      reales, correlimos oscuros y gaviotas hiperbóreas. Las colonias grandes de [gaviota
+      tridáctila](/especie/rissa_tridactyla/) y [fulmar](/especie/fulmarus_glacialis/) completan el cuadro.
+    visit: >-
+      Los destinos más populares son Kapp Lee, Diskobukta y Halvmåneøya. Edgeøya apenas recibe visitas, y la
+      ley prohíbe desarrollar instalaciones turísticas por ser reserva natural. El desembarco turístico se
+      hace en puntos cartografiados y con guía.
+    history: >-
+      La reserva está protegida desde el 1 de julio de 1973. La zona se usó tradicionalmente para cazar oso
+      polar y morsa: en Ekrollhamna quedan restos de cabañas de cazadores. Cuatro marineros rusos quedaron
+      aquí varados desde 1743 hasta septiembre de 1749; tres sobrevivieron y probablemente estuvieron en
+      Halvmåneøya.
+    before: >-
+      En Zieglerøya, Delitschøya, Spekkholmen, Haudegen y gran parte de Halvmåneøya hay prohibición de visita
+      todo el año. En Nordaustlandet y Edgeøya (zona A) hay que avisar al Gobernador de Svalbard cuatro
+      semanas antes del desembarco y enviar un informe después. Quien se mueva fuera de los asentamientos debe
+      llevar medios para ahuyentar a los osos polares; consulta antes las normas del Gobernador.
+    around: >-
+      La [Reserva Natural de Nordaust-Svalbard](/lugar/nordaust-svalbard-nature-reserve/) es la vecina
+      inmediata del norte. Más allá, el [Parque Nacional del Noroeste de
+      Spitsbergen](/lugar/northwest-spitsbergen-national-park/) comparte el oso polar, la morsa y el reno, y
+      también la costa, el mar y los glaciares.
+  en:
+    intro: >-
+      On Edgeøya, ancient whale bones rest on dry land, clearly visible to anyone hiking along the elevated
+      coastal terraces. That is the essence of Søraust-Svalbard Nature Reserve: a landscape where post-glacial
+      isostatic rebound has elevated former seafloor into open subpolar air. The reserve encompasses all of
+      Edgeøya and Barentsøya, together with smaller archipelagoes including Tusenøyane, Ryke Yseøyane, and
+      Halvmåneøya. It encompasses 21,825 km², of which roughly 6,400 are dry land; it is Norway's second
+      largest protected area, including national parks. To the north it borders the Nordaust-Svalbard reserve.
+    landscape: >-
+      The terrain is defined by stepped raised shorelines, periglacial patterned ground, and vast ice caps.
+      Across Edgeøya, numerous coastal plains showcase distinct marine terraces where ancient whale skeletons
+      weather on dry tundra. Geologically the island resembles central Spitsbergen: Mesozoic sedimentary
+      strata, predominantly Triassic shales, carved by glacial erosion. In the east lies the massive ice cap
+      Edgeøyjøkulen. Spanning 5,073 km², Edgeøya is the third largest island in Svalbard.
+
+
+      Lowlands along the eastern shores of Edgeøya and Barentsøya feature continuous moss tundra. Nurtured
+      over centuries by accumulated reindeer droppings, this forms a rare and specialized subpolar vegetation
+      community.
+    wildlife: >-
+      The reserve protects the most crucial [walrus](/especie/odobenus_rosmarus/) haul-out sites in the
+      archipelago, where nursery pods with calves gather regularly. [Polar bears](/especie/ursus_maritimus/)
+      are equally central: Edgeøya is a major maternity denning zone, and bears inhabiting this Barents Sea
+      sector represent a distinct genetic subpopulation. An abundant endemic population of Svalbard
+      [reindeer](/especie/rangifer_tarandus/) also grazes the tundra.
+
+
+      In summer, migratory birds arrive in vast numbers. Tusenøyane forms a key sanctuary for red-throated
+      divers, brent geese, and Arctic terns, and the reserve ranks as an Important Bird Area for its brent
+      geese, king eiders, purple sandpipers, and glaucous gulls. Towering sea cliffs packed with [black-legged
+      kittiwakes](/especie/rissa_tridactyla/) and [northern fulmars](/especie/fulmarus_glacialis/) complete
+      the Arctic canvas.
+    visit: >-
+      The most frequented expedition landings are Kapp Lee, Diskobukta, and Halvmåneøya. Edgeøya receives
+      minimal human visitation, and strict reserve regulations prohibit any tourist infrastructure. All
+      tourist landings occur exclusively at approved shore sites accompanied by certified polar guides.
+    history: >-
+      The reserve has been protected since 1 July 1973. The region was historically exploited by whalers and
+      trappers targeting polar bears and walruses; remnants of Russian and Norwegian trapper cabins survive at
+      Ekrollhamna. Four Russian sailors were shipwrecked and marooned here from 1743 until September 1749;
+      three survived their six-year Arctic ordeal, likely based on Halvmåneøya.
+    before: >-
+      Year-round landing prohibitions protect Zieglerøya, Delitschøya, Spekkholmen, Haudegen, and large parts
+      of Halvmåneøya. Visiting Nordaustlandet and Edgeøya (Zone A) requires notifying the Governor of Svalbard
+      four weeks prior to landing, followed by post-expedition reporting. Anyone venturing outside settlements
+      must carry polar bear deterrents and firearms; consult regulations from the Governor of Svalbard before
+      traveling.
+    around: >-
+      [Nordaust-Svalbard Nature Reserve](/lugar/nordaust-svalbard-nature-reserve/) borders the area directly
+      to the north. Farther away, [Northwest Spitsbergen National
+      Park](/lugar/northwest-spitsbergen-national-park/) shares polar bear, walrus, and reindeer populations
+      alongside glaciated fjords and Arctic coastlines.
+  fr:
+    intro: >-
+      À Edgeøya, des squelettes de baleines reposent à même la terre ferme, sous les yeux des randonneurs
+      longeant les plages surélevées. C'est l'illustration saisissante de la réserve naturelle de
+      Søraust-Svalbard : un territoire où le rebond isostatique a soulevé les anciens fonds marins à l'air
+      libre. La réserve englobe l'intégralité d'Edgeøya et de Barentsøya, ainsi que des archipels secondaires
+      dont Tusenøyane, Ryke Yseøyane et Halvmåneøya. Elle totalise 21 825 km², dont environ 6 400 de terres
+      émergées ; c'est la deuxième plus vaste aire protégée de Norvège, parcs nationaux compris. Au nord, elle
+      jouxte la réserve de Nordaust-Svalbard.
+    landscape: >-
+      Le décor est sculpté par d'anciennes lignes de rivage et des sols polygonaux, tandis que d'immenses
+      calottes recouvrent les plateaux. Sur Edgeøya, de vastes terrasses marines fossiles conservent des
+      ossements de cétacés blanchis par le gel. L'île rappelle la géologie du Spitsberg central : strates
+      sédimentaires du Mésozoïque, principalement des schistes du Trias, façonnées par l'érosion glaciaire.
+      Vers l'est s'étend la calotte glaciaire de l'Edgeøyjøkulen. Avec ses 5 073 km², Edgeøya constitue la
+      troisième plus grande île du Svalbard.
+
+
+      Les basses terres des façades orientales d'Edgeøya et Barentsøya accueillent une toundra continue de
+      mousses. Nourrie au fil des siècles par les déjections accumulées des rennes, cette végétation
+      subpolaire forme un milieu particulièrement rare.
+    wildlife: >-
+      La réserve préserve les reposoirs de [morses](/especie/odobenus_rosmarus/) les plus stratégiques de
+      l'archipel, où s'observent régulièrement des femelles accompagnées de leurs petits. L'[ours
+      blanc](/especie/ursus_maritimus/) y trouve un havre majeur : Edgeøya est une zone de mise bas
+      essentielle, et les ours de ce secteur de la mer de Barents constituent une sous-population génétique
+      distincte. Une importante harde de [rennes](/especie/rangifer_tarandus/) du Svalbard pâture sur la
+      toundra.
+
+
+      En été affluent les oiseaux pélagiques. Les Tusenøyane abritent un site de nidification clé pour
+      plongeons catmarins, bernaches cravants et sternes arctiques, et la réserve est classée Zone importante
+      pour la conservation des oiseaux grâce à ses bernaches, eiders à duvet, bécasseaux maritimes et goélands
+      bourgmestres. Les grandes falaises à [mouettes tridactyles](/especie/rissa_tridactyla/) et [fulmars
+      boréaux](/especie/fulmarus_glacialis/) complètent ce tableau polaire.
+    visit: >-
+      Les débarquements côtiers les plus réputés sont Kapp Lee, Diskobukta et Halvmåneøya. Edgeøya ne reçoit
+      que de rares expéditions, et la législation proscrit toute installation touristique en réserve
+      naturelle. Les passagers débarquent uniquement sur des sites répertoriés et sous la conduite de guides
+      armés.
+    history: >-
+      La réserve bénéficie d'un statut de protection depuis le 1 juillet 1973. Le secteur fut autrefois
+      arpenté par les trappeurs russes et norvégiens ciblant ours blancs et morses : à Ekrollhamna subsistent
+      des vestiges de cabanes de chasse. Quatre marins russes naufragés vécurent ici en isolement complet de
+      1743 jusqu'en septembre 1749 ; trois d'entre eux survécurent, probablement établis sur Halvmåneøya.
+    before: >-
+      Des interdictions strictes d'accès protègent toute l'année Zieglerøya, Delitschøya, Spekkholmen,
+      Haudegen et de larges portions d'Halvmåneøya. Tout projet de visite à Nordaustlandet et Edgeøya (zone A)
+      exige de notifier le gouverneur du Svalbard quatre semaines avant le débarquement puis de soumettre un
+      rapport. Hors des localités, chacun doit disposer d'équipements effaroucheurs d'ours polaires ;
+      consultez les directives officielles du gouverneur.
+    around: >-
+      La [réserve naturelle du Nord-Est du Svalbard](/lugar/nordaust-svalbard-nature-reserve/) est la voisine
+      immédiate au nord. Plus à l'ouest, le [parc national du Nord-Ouest du
+      Spitsberg](/lugar/northwest-spitsbergen-national-park/) partage l'ours blanc, le morse et le renne dans
+      un cadre de fjords et de glaciers arctiques.
+  de:
+    intro: >-
+      Auf Edgeøya liegen uralte Walknochen auf trockenem Land, direkt vor den Augen der Wanderer auf den
+      gehobenen Strandterrassen. Das veranschaulicht das Naturreservat Søraust-Svalbard: eine arktische
+      Landschaft, in der postglaziale Landhebung den ehemaligen Meeresgrund trockenfallen ließ. Das
+      Schutzgebiet umfasst Edgeøya und Barentsøya sowie vorgelagerte Inselgruppen wie Tusenøyane, Ryke
+      Yseøyane und Halvmåneøya. Es misst 21.825 km², wovon rund 6.400 Landfläche sind; es ist Norwegens
+      zweitgrößtes Schutzgebiet inklusive aller Nationalparks. Im Norden grenzt es an das Naturreservat
+      Nordaust-Svalbard.
+    landscape: >-
+      Das Landschaftsbild prägen fossile Strandwälle, Frostmusterböden und weite Plateaugletscher. Auf Edgeøya
+      weisen viele Küstenebenen gestufte Meeresterrassen auf, auf denen Walknochen im Tundraboden verwittern.
+      Geologisch ähnelt die Insel Zentralspitzbergen: mesozoische Sedimentschichten, vor allem Tonschiefer der
+      Trias, geformt durch eiszeitliche Vergletscherung. Im Osten liegt die große Eiskappe Edgeøyjøkulen. Mit
+      5.073 km² Fläche ist Edgeøya die drittgrößte Insel Spitzbergens.
+
+
+      Die Tieflagen an den Ostküsten von Edgeøya und Barentsøya tragen dichte Moostundra. Über Jahrhunderte
+      durch Rentierkot gedüngt, stellt diese Tundra einen seltenen subpolaren Vegetationstyp dar.
+    wildlife: >-
+      Das Reservat schützt die bedeutendsten Liegeplätze des [Walrosses](/especie/odobenus_rosmarus/) im
+      gesamten Archipel, an denen auch Muttertiere mit Kälbern rasten. Der [Eisbär](/especie/ursus_maritimus/)
+      ist ebenso präsent: Edgeøya ist ein wichtiges Wurfhöhlengebiet, und die Bären dieser Barentssee-Region
+      bilden eine eigenständige genetische Population. Auch das Spitzbergen-[Ren](/especie/rangifer_tarandus/)
+      kommt in beachtlicher Dichte vor.
+
+
+      Im Sommer treffen arktische Zugvögel ein. Auf den Tusenøyane brüten Sterntaucher, Ringelgänse und
+      Küstenseeschwalben, und das Reservat gilt als Important Bird Area für Ringelgänse, Prachteiderenten,
+      Meerstrandläufer und Eismöwen. Kolonien der [Dreizehenmöwe](/especie/rissa_tridactyla/) und des
+      [Eissturmvogels](/especie/fulmarus_glacialis/) an Vogelfelsen runden das Spektrum ab.
+    visit: >-
+      Bekannteste Anlandepunkte für Expeditionsschiffe sind Kapp Lee, Diskobukta und Halvmåneøya. Edgeøya
+      verzeichnet nur wenige Besucher, und das Gesetz untersagt jegliche touristische Erschließung in
+      Naturreservaten. Landgänge erfolgen ausschließlich an ausgewiesenen Punkten in Begleitung autorisierter
+      Guides mit Eisbärenschutz.
+    history: >-
+      Das Naturreservat steht seit dem 1. Juli 1973 unter Schutz. Historisch diente das Revier russischen
+      Pomoren und norwegischen Trappern zur Jagd auf Eisbär und Walross; bei Ekrollhamna zeugen verfallene
+      Trapperhütten davon. Vier russische Seeleute strandeten hier von 1743 bis September 1749; drei
+      überlebten die mehrjährige Isolation, vermutlich auf Halvmåneøya.
+    before: >-
+      Auf Zieglerøya, Delitschøya, Spekkholmen, Haudegen und weiten Teilen von Halvmåneøya gilt ein
+      ganzjähriges Betretungsverbot. Reisen nach Nordaustlandet und Edgeøya (Zone A) müssen vier Wochen vor
+      der Anlandung beim Sysselmester gemeldet werden, gefolgt von einem Abschlussbericht. Außerhalb der
+      Siedlungen ist adäquate Ausrüstung zur Eisbärenabwehr gesetzlich vorgeschrieben; beachte die
+      Vorschriften des Sysselmesters.
+    around: >-
+      Das [Naturreservat Nordaust-Svalbard](/lugar/nordaust-svalbard-nature-reserve/) schließt unmittelbar im
+      Norden an. Weiter westlich teilt der [Nationalpark
+      Nordwest-Spitzbergen](/lugar/northwest-spitsbergen-national-park/) Eisbär, Walross und Ren in einer
+      Küstenlandschaft mit Fjorden und Gezeitengletschern.
+  it:
+    intro: >-
+      Su Edgeøya si incontrano scheletri di balena sulla terraferma, visibili a chiunque cammini lungo le
+      spiagge emerse. È l'emblema della Riserva Naturale di Søraust-Svalbard: un territorio polare dove il
+      rimbalzo isostatico ha innalzato gli antichi fondali marini all'asciutto. La riserva tutela per intero
+      Edgeøya e Barentsøya, oltre a piccoli arcipelaghi satelliti tra cui Tusenøyane, Ryke Yseøyane e
+      Halvmåneøya. Copre 21.825 km², di cui circa 6.400 di terre emerse; costituisce la seconda area protetta
+      più vasta della Norvegia, parchi nazionali inclusi. A nord confina con la riserva di Nordaust-Svalbard.
+    landscape: >-
+      Il paesaggio è scandito da antiche linee di riva emerse, suoli a patterned ground e cappe glaciali. Su
+      Edgeøya molti settori costieri esibiscono terrazzi marini fossili dove affiorano ossa di cetaceo. Sotto
+      il profilo geologico l'isola richiama lo Spitsbergen centrale: successioni sedimentarie del Mesozoico,
+      principalmente argilliti del Triassico, modellate dall'erosione glaciale. A est si allarga la grande
+      calotta dell'Edgeøyjøkulen. Estendendosi su 5.073 km², Edgeøya è la terza isola per grandezza delle
+      Svalbard.
+
+
+      Le pianure litoranee orientali di Edgeøya e Barentsøya ospitano una tundra discontinua a muschi.
+      Formatasi nei secoli grazie alle deiezioni accumulate delle renne, rappresenta una fitocenosi subpolare
+      rara.
+    wildlife: >-
+      La riserva custodisce i posatoi costieri di [tricheco](/especie/odobenus_rosmarus/) più importanti
+      dell'arcipelago, frequentati anche da femmine con piccoli. L'[orso polare](/especie/ursus_maritimus/)
+      riveste un ruolo primario: Edgeøya è un'area di tane riproduttive fondamentale, e gli orsi di questo
+      bacino del mare di Barents formano una popolazione genetica distinta. Si osserva inoltre una numerosa
+      popolazione di [renne](/especie/rangifer_tarandus/) delle Svalbard.
+
+
+      In estate giungono i contingenti avari migratori. Le isole Tusenøyane costituiscono un rifugio chiave
+      per strolaghe minori, oche colombaccio e sterne codalunga, e la riserva è classificata Important Bird
+      Area per oche, edredoni reali, piovanelli violetti e gabbiani iperborei. Le colonie rupestri di
+      [gabbiano tridattilo](/especie/rissa_tridactyla/) e [fulmaro](/especie/fulmarus_glacialis/) completano
+      il quadro biologico.
+    visit: >-
+      Gli scali più rinomati per le spedizioni sono Kapp Lee, Diskobukta e Halvmåneøya. Edgeøya riceve
+      pochissimi visitatori e la legge vieta l'insediamento di strutture turistiche per il rigido regime di
+      riserva naturale. Gli sbarchi avvengono unicamente in siti cartografati con scorta di guide polari
+      armate.
+    history: >-
+      La riserva è protetta dal 1 luglio 1973. L'area fu storicamente teatro di caccia all'orso bianco e al
+      tricheco da parte di pomori e balenieri: a Ekrollhamna restano vestigia di capanni di cacciatori.
+      Quattro marinai russi rimasero bloccati qui dal 1743 fino al settembre 1749; tre sopravvissero
+      all'invernamento forzato, presumibilmente su Halvmåneøya.
+    before: >-
+      Su Zieglerøya, Delitschøya, Spekkholmen, Haudegen e gran parte di Halvmåneøya vige il divieto assoluto
+      di sbarco tutto l'anno. Per accedere a Nordaustlandet ed Edgeøya (zona A) occorre notificare il
+      Governatore delle Svalbard quattro settimane prima dello sbarco e trasmettere una relazione a
+      consuntivo. Chiunque si sposti fuori dai centri abitati deve disporre di dotazioni di sicurezza per la
+      dissuasione degli orsi; verifica le ordinanze del Governatore.
+    around: >-
+      La [Riserva Naturale del Nord-Est delle Svalbard](/lugar/nordaust-svalbard-nature-reserve/) confina a
+      nord. Più a ovest, il [Parco Nazionale dello Spitsbergen
+      Nord-Occidentale](/lugar/northwest-spitsbergen-national-park/) condivide orso polare, tricheco e renna
+      tra fiordi e fronti glaciali marini.
+  pt:
+    intro: >-
+      Em Edgeøya observam-se esqueletos de baleia em terra firme, à vista de quem percorre as praias elevadas.
+      Essa é a imagem de marca da Reserva Natural de Søraust-Svalbard: um espaço ártico onde a recuperação
+      isostática pós-glaciar ergueu o antigo fundo oceânico ao ar livre. A reserva abrange a totalidade de
+      Edgeøya e Barentsøya, bem como ilhas menores como Tusenøyane, Ryke Yseøyane e Halvmåneøya. Ocupa 21.825
+      km², dos quais cerca de 6.400 constituem terra emersa; é a segunda maior área protegida da Noruega,
+      incluindo os parques nacionais. A norte confina com a reserva de Nordaust-Svalbard.
+    landscape: >-
+      O relevo é recortado por antigas arribas fósseis, solos poligonais e calotes de gelo. Em Edgeøya, vastos
+      setores litorais exibem praias levantadas com linhas de costa nítidas onde afloram ossos de baleia. A
+      geologia assemelha-se à da Spitsbergen central: sequências sedimentares do Mesozoico, predominantemente
+      xistos do Triássico, afeiçoadas pela erosão glaciar. A leste estende-se o glaciar Edgeøyjøkulen. Com
+      5.073 km², Edgeøya é a terceira maior ilha de Svalbard.
+
+
+      As planícies costeiras orientais de Edgeøya e Barentsøya albergam tundra contínua de musgos.
+      Desenvolvida ao longo de séculos a partir de dejetos acumulados de renas, constitui um tipo de vegetação
+      subpolar raro.
+    wildlife: >-
+      A reserva protege os locais de repouso de [morsas](/especie/odobenus_rosmarus/) mais expressivos do
+      arquipélago, onde também se registam fêmeas com crias. O [urso-polar](/especie/ursus_maritimus/) tem
+      aqui um papel central: Edgeøya é uma maternidade de tocas essencial, e os ursos deste setor do mar de
+      Barents formam uma subpopulação genética diferenciada. Existe ainda uma densa população de
+      [renas](/especie/rangifer_tarandus/) de Svalbard.
+
+
+      No verão concentram-se as aves marinhas. Nas Tusenøyane situa-se um refúgio chave para
+      mobelhas-pequenas, gansos-de-faces-pretas e andorinhas-do-ártico, sendo a reserva uma Important Bird
+      Area pela presença de gansos, êiders-reais, pilritos-escuros e gaivotões-hiperbóreos. As colónias de
+      [gaivota-tridáctila](/especie/rissa_tridactyla/) e [fulmar-glacial](/especie/fulmarus_glacialis/)
+      completam a fauna.
+    visit: >-
+      Os pontos de desembarque mais frequentados são Kapp Lee, Diskobukta e Halvmåneøya. Edgeøya recebe um
+      fluxo de visitantes residual, e a regulamentação proíbe o desenvolvimento de infraestruturas turísticas
+      por se tratar de reserva natural. Os desembarques operam apenas em locais balizados sob acompanhamento
+      de guias polares.
+    history: >-
+      A reserva usufrui de estatuto de proteção desde 1 de julho de 1973. A zona foi explorada
+      tradicionalmente por baleeiros e caçadores que perseguiam ursos-polares e morsas: em Ekrollhamna restam
+      cabanas históricas de caçadores. Quatro marinheiros russos ficaram aqui encalhados desde 1743 até
+      setembro de 1749; três sobreviveram ao naufrágio prolongado, permanecendo em Halvmåneøya.
+    before: >-
+      Em Zieglerøya, Delitschøya, Spekkholmen, Haudegen e grande parte de Halvmåneøya vigora interdição de
+      visitação ao longo de todo o ano. Quem pretender desembarcar em Nordaustlandet e Edgeøya (zona A) deve
+      notificar o Governador de Svalbard quatro semanas antes do desembarque e remeter um relatório posterior.
+      Fora das povoações é obrigatório transportar equipamento de dissuasão de ursos-polares; consulta as
+      normas do Governador.
+    around: >-
+      A [Reserva Natural do Nordeste de Svalbard](/lugar/nordaust-svalbard-nature-reserve/) é o território
+      confinante a norte. Mais a oeste, o [Parque Nacional do Noroeste de
+      Spitsbergen](/lugar/northwest-spitsbergen-national-park/) partilha o urso-polar, a morsa e a rena num
+      ambiente de fiordes e glaciares marinhos.
+fuentes:
+  - url: https://www.miljodirektoratet.no/globalassets/dokumenter/publikasjoner/brosjyrer/eng_brosj_svalbard_web_opp.pdf
+    titulo: Protected areas in Svalbard — Søraust-Svalbard Nature Reserve
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Søraust-Svalbard_Nature_Reserve
+    titulo: Søraust-Svalbard Nature Reserve - Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Edgeøya
+    titulo: Edgeøya - Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://no.wikipedia.org/wiki/Søraust-Svalbard_naturreservat
+    titulo: Søraust-Svalbard naturreservat – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://www.sysselmesteren.no/en/travel-in-svalbard/
+    titulo: Travel in Svalbard | Governor of Svalbard
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Dorst_bay.jpg
+    autor: Hermanhi
+    licencia: CC BY-SA 3.0
+    url_licencia: http://creativecommons.org/licenses/by-sa/3.0/
+    fecha_descarga: '2026-10-21'

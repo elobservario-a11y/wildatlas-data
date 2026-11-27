@@ -1,0 +1,455 @@
+id: dwejra
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bahía de Dwejra y Mar Interior (Isla de Gozo)
+  en: Dwejra Bay and Inland Sea (Gozo Island)
+  fr: Baie de Dwejra et mer intérieure (île de Gozo)
+  de: Dwejra-Bucht und Binnenmeer (Insel Gozo)
+  it: Baia di Dwejra e Mare Interno (Isola di Gozo)
+  pt: Baía de Dwejra e Mar Interior (Ilha de Gozo)
+nombre_original: Dwejra
+alias:
+  - Dwejra Bay & Inland Sea
+paises:
+  - MT
+region:
+  es: República de Malta (Isla de Gozo / San Lawrenz)
+  en: Republic of Malta (Gozo Island / San Lawrenz)
+  fr: République de Malte (île de Gozo / San Lawrenz)
+  de: Republik Malta (Insel Gozo / San Lawrenz)
+  it: Repubblica di Malta (Isola di Gozo / San Lawrenz)
+  pt: República de Malta (Ilha de Gozo / San Lawrenz)
+ubicacion:
+  tipo: punto
+  lat: 36.05
+  lon: 14.19
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555546312
+  nombre_en_la_fuente: Dwejra
+  categoria_uicn: V
+  capa: capas/cdda/dwejra.geojson
+habitats:
+  - coast
+  - karst
+  - marine
+designaciones:
+  - natural_monument
+  - natura2000
+especies:
+  - puffinus_yelkouan
+  - calonectris_diomedea
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: primavera y otoño
+  en: spring and autumn
+  fr: printemps et automne
+  de: Frühling und Herbst
+  it: primavera e autunno
+  pt: primavera e outono
+masificacion: 3
+masificacion_nota:
+  es: Alta en la laguna del Mar Interior (*Inland Sea*) y la Roca Fungus
+  en: High around the Inland Sea lagoon and Fungus Rock
+  fr: Forte autour de la lagune de la mer intérieure (*Inland Sea*) et du Fungus Rock
+  de: Hoch an der Lagune des Binnenmeers (*Inland Sea*) und am Fungus Rock
+  it: Alta presso la laguna del Mare Interno (*Inland Sea*) e la Fungus Rock
+  pt: Elevada na lagoa do Mar Interior (*Inland Sea*) e na Fungus Rock
+valoracion: 3
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: ERA Malta Dwejra Protected Area
+    url: https://era.org.mt/
+  - titulo: Gestor — Dwejra, Nature Trust Malta
+    url: https://www.naturetrustmalta.org/what-we-do/natural-parks/dwejra/
+  - titulo: Visita y accesos — Dwejra, Turismo de Gozo
+    url: https://visitgozo.com/places/dwejra/
+  - titulo: Ruta — Recorrer Dwejra, guía institucional
+    url: https://visitgozo.com/itineraries/dwejra-a-mediterranean-wonder/
+  - titulo: Centro de información — Visitar la torre de Dwejra
+    url: https://visitgozo.com/itineraries/a-visit-to-dwejras-coastal-tower/
+resumen:
+  es: >-
+    Paraje kárstico marino icónico de Gozo con la Fungus Rock (Roca del Hongo), la cueva azul de Blue Hole y
+    la laguna interior comunicada por un túnel marino.
+  en: >-
+    Iconic marine karst landscape of Gozo featuring Fungus Rock, the Blue Hole, and an inland saltwater lagoon
+    connected via a cliff tunnel.
+  fr: >-
+    Site karstique marin emblématique de Gozo avec le Fungus Rock, le Blue Hole et la lagune intérieure reliée
+    par un tunnel sous-marin.
+  de: >-
+    Ikonische submarine Karstlandschaft auf Gozo mit Fungus Rock, Blue Hole und dem über einen Felstunnel mit
+    dem Meer verbundenen Binnenmeer.
+  it: >-
+    Paesaggio carsico marino iconico di Gozo con la Fungus Rock, la grotta del Blue Hole e la laguna interna
+    collegata da un tunnel sottomarino.
+  pt: >-
+    Paisagem cársica marinha emblemática de Gozo com a Fungus Rock, o Blue Hole e a lagoa interior comunicante
+    por um túnel marinho.
+unico:
+  es: >-
+    Un paraje donde el mar ha ido esculpiendo la caliza durante siglos, hasta tumbar su arco más famoso, y
+    donde cada piedra cuenta cómo.
+  en: >-
+    A coastal arena where wave energy has sculpted the limestone across millennia, culminating in the loss of
+    its famed natural arch.
+  fr: >-
+    Un littoral où la houle sculpte le calcaire depuis des millénaires, jusqu’à l’effondrement de son arche la
+    plus célèbre.
+  de: >-
+    Ein Küstenabschnitt, an dem das Meer den Kalkstein über Jahrtausende geformt hat, bis sein berühmtestes
+    Felsentor einstürzte.
+  it: >-
+    Un litorale in cui il mare ha scolpito il calcare per millenni fino a far crollare il suo celebre arco
+    naturale.
+  pt: >-
+    Um litoral onde as vagas esculpiram o calcário ao longo de milénios, até derrubarem o seu arco costeiro
+    mais afamado.
+observaciones:
+  es: >-
+    La afluencia es alta en la laguna del Mar Interior y en la Roca del Hongo. En condiciones de mar agitado,
+    evita acercarte al borde de la costa.
+texto:
+  es:
+    intro: >-
+      El 8 de marzo de 2017 cayó al mar el Azure Window, un arco de caliza de 28 m que era la imagen de Gozo.
+      Lo que sigue en pie en Dwejra es todo lo demás: un islote que los Caballeros de San Juan guardaron como
+      un tesoro, una laguna conectada al mar por un túnel y una costa de roca llena de fósiles. Es un rincón
+      de la isla de Gozo donde la geología se lee a simple vista.
+    landscape: >-
+      El Azure Window nació por erosión: el oleaje abre una muesca en el acantilado de caliza, la tensión
+      forma una grieta vertical, la grieta se ensancha hasta ser cueva y la cueva acaba siendo arco. El arco
+      se apoyaba en la Formación Caliza Coralina Inferior, una sucesión sedimentaria extendida por las islas
+      maltesas y depositada en el Oligoceno. Hoy, tras el colapso, la zona es un punto de buceo, y cerca hay
+      otro arco natural, la Ventana de Wied il-Mielaħ, a unos 3,7 km al noreste.
+
+
+      Al caminar por la costa, las rocas parecen un mosaico de miles de fósiles marinos, y hay salinas. El Mar
+      Interior se formó probablemente cuando una falla de la caliza creó una cueva marina y su techo se
+      hundió; el resultado es una laguna con un muelle a un lado y una playa de guijarros al otro. Un túnel de
+      unos cien metros la comunica con el mar, y al salir por él el fondo desciende en escalones hasta unos 35
+      m de profundidad. A la entrada de otra laguna casi circular se alza la Roca del Hongo, un islote de
+      caliza de 60 m de altura, y desde tierra la Roca del Cocodrilo parece la cabeza y el hocico de un
+      cocodrilo.
+    wildlife: >-
+      Dwejra se vive más por la geología que por la fauna, pero tiene una planta con historia. En lo alto de
+      la Roca del Hongo crece el llamado hongo de Malta, que no es un hongo sino una planta con flor parásita
+      de olor repulsivo, y que da nombre a la roca. Los Caballeros de San Juan la apreciaron tanto como
+      medicina que alisaron los lados del islote para impedir que se pudiera escalar.
+
+
+      La ruta de senderismo señala además el único lugar del mundo donde se observa la planta endémica
+      Helichrysum melitense. Las mejores estaciones son la primavera y el otoño, de abril a junio y de
+      septiembre a noviembre.
+    visit: >-
+      La caminata circular Victoria–Victoria, de trece kilómetros y dificultad moderada, cruza Wied
+      il-Lunzjata, Ta’ Kerċem y San Lawrenz y se recomienda entre octubre y mayo; reúne la Roca del Hongo,
+      cavernas colapsadas, estratos fósiles y acantilados de caliza. Más tranquilo es acercarse al Mar
+      Interior, que fue cala de pescadores y conserva sus pequeñas casetas, y subir a la torre de Dwejra, que
+      vigilaba la costa contra los desembarcos de corsarios; sus gastos se pagaban con la sal de las salinas
+      cercanas.
+    history: >-
+      El éxito del sitio le ha pasado factura: miles de visitantes han contribuido a degradar el lugar que los
+      atrae, lo que motivó un proyecto de conservación y de mejora de instalaciones. Su anterior gestor lo
+      describe como un lugar donde confluyen geología, flora, fauna, arqueología, historia y ecología.
+    before: >-
+      La afluencia es alta en la laguna del Mar Interior y en la Roca del Hongo. En condiciones de mar
+      agitado, evita acercarte al borde de la costa.
+    around: >-
+      A veintisiete kilómetros está el [Bosque de Buskett y Acantilados de Dingli](/lugar/buskett-gardens/),
+      el contrapunto interior de la costa de Dwejra. Más lejos, otros lugares del atlas comparten con Dwejra
+      la [pardela yelkouan](/especie/puffinus_yelkouan/) y la [pardela
+      cenicienta](/especie/calonectris_diomedea/), como el [Parque Nacional de las
+      Calanques](/lugar/parc-national-des-calanques/), el [Parque Nacional de
+      Port-Cros](/lugar/parc-national-de-port-cros/) y el [Parque Nacional del Archipiélago
+      Toscano](/lugar/parco-nazionale-arcipelago-toscano/).
+  en:
+    intro: >-
+      On 8 March 2017, the Azure Window—a 28 m high limestone sea arch that stood as the international
+      postcard of Gozo—collapsed into the sea during a gale. What endures at Dwejra is an extraordinary
+      geological sanctuary: an offshore islet guarded like a royal treasury by the Knights of St John, a
+      landlocked marine lagoon linked to open water by a tunnel, and cliffs studded with fossils. It is a
+      coastal corner of Gozo where geomorphology unfolds in plain sight.
+    landscape: >-
+      The Azure Window was sculpted by relentless wave action: hydraulic pressure carved a basal notch in the
+      limestone sea cliff, vertical fractures widened into a cavern, and continuous sea spray perforated the
+      roof into an open arch. The arch rested on the Lower Coralline Limestone Formation, a massive sediment
+      laid down across the Maltese archipelago during the Oligocene. Today the collapsed rock pile forms a
+      revered scuba diving reef, while a surviving sister arch, the Wied il-Mielaħ Window, stands roughly 3.7
+      km to the north-east.
+
+
+      Walking along the jagged limestone pavement reveals beds packed with thousands of marine fossils,
+      alongside historic sea-salt pans. The Inland Sea lagoon likely originated when an enormous subterranean
+      cave collapsed into a circular sinkhole; a pebbled beach and traditional boat sheds now edge the basin.
+      A narrow tunnel roughly one hundred metres long connects the pool to the open Mediterranean, descending
+      steeply outside into a drop-off some 35 m deep. Guarding the bay stands Fungus Rock, a sheer 60 m
+      limestone stack, while near the shore Crocodile Rock mimics the snout of an emergent reptile.
+    wildlife: >-
+      Dwejra is celebrated primarily for geology, yet it harbours a botanic curiosity with remarkable history.
+      Atop the isolated summit of Fungus Rock grows the so-called Malta fungus (*Cynomorium coccineum*), which
+      is not a true fungus but a parasitic flowering plant with a pungent odour. The Knights Hospitaller
+      prized it so dearly as a styptic medicine that they smoothed the vertical cliff faces of the islet to
+      deter trespassers on pain of death.
+
+
+      The coastal path also passes the only wild station on Earth for the endemic Maltese everlasting
+      (*Helichrysum melitense*). The best seasons for exploration are spring and autumn, particularly from
+      April to June and from September to November.
+    visit: >-
+      The circular Victoria-to-Victoria trail covers thirteen kilometres of moderate terrain, crossing Wied
+      il-Lunzjata, Ta’ Kerċem, and San Lawrenz, recommended between October and May to take in Fungus Rock,
+      sinkholes, and fossil beds. For a gentler outing, explore the Inland Sea boathouses and ascend to Dwejra
+      Tower, built by the Knights to watch for Barbary corsairs and funded historically through salt harvest
+      revenues.
+    history: >-
+      Immense popularity brought ecological pressure: heavy visitor footfall threatened fragile rock
+      pavements, prompting conservation measures and improved visitor infrastructure. The site represents a
+      unique Mediterranean crossroads of coastal karst, endemic flora, and maritime history.
+    before: >-
+      Expect heavy crowds around the Inland Sea lagoon and Fungus Rock. In rough seas or gale-force
+      north-westerly winds, keep well back from the exposed cliff edges.
+    around: >-
+      Twenty-seven kilometres away lie [Buskett Gardens and Dingli Cliffs](/lugar/buskett-gardens/), Gozo’s
+      ecological terrestrial counterpart. Farther across the Mediterranean, other atlas coastal reserves share
+      [Yelkouan shearwaters](/especie/puffinus_yelkouan/) and [Scopoli’s
+      shearwaters](/especie/calonectris_diomedea/), including [Calanques National
+      Park](/lugar/parc-national-des-calanques/), [Port-Cros National
+      Park](/lugar/parc-national-de-port-cros/), and [Tuscan Archipelago National
+      Park](/lugar/parco-nazionale-arcipelago-toscano/).
+  fr:
+    intro: >-
+      Le 8 mars 2017, l’Azure Window, célèbre arche calcaire de 28 m de haut qui incarnait l’image de Gozo,
+      s’est effondrée dans la mer lors d’une tempête. Ce qui demeure à Dwejra reste exceptionnel : un îlot
+      jadis gardé comme un trésor par les chevaliers de Saint-Jean, une lagune reliée au large par un tunnel
+      naturel et un plateau rocheux truffé de fossiles. C’est un rivage de Gozo où la géologie se déchiffre à
+      ciel ouvert.
+    landscape: >-
+      L’Azure Window résultait d’une érosion progressive : les vagues ouvrent une encoche à la base de la
+      falaise, une fracture verticale s’élargit en caverne jusqu’à percer une arche. L’édifice reposait sur le
+      calcaire corallien inférieur déposé à l’Oligocène. Aujourd’hui, le site d’effondrement est un haut lieu
+      de la plongée sous-marine, tandis qu’une autre arche, la Fenêtre de Wied il-Mielaħ, subsiste à environ
+      3,7 km au nord-est.
+
+
+      En arpentant la côte, la roche apparaît pavée de milliers de fossiles marins et de salines historiques.
+      La mer intérieure s’est formée par l’effondrement du plafond d’une immense grotte marine ; une plage de
+      galets et des abris de pêcheurs bordent cette lagune. Un tunnel d’une centaine de mètres la relie au
+      large, débouchant sur un tombant sous-marin plongeant à 35 m de profondeur. À l’entrée de la baie se
+      dresse le Fungus Rock, îlot calcaire de 60 m de haut, tandis que le Crocodile Rock évoque la gueule d’un
+      saurien.
+    wildlife: >-
+      Dwejra séduit surtout par sa géologie, mais recèle une curiosité botanique singulière. Au sommet du
+      Fungus Rock prospère le « champignon de Malte », qui est en fait une plante parasite à fleurs à l’odeur
+      âcre. Les chevaliers de Malte lui attribuaient des vertus médicinales exceptionnelles et firent tailler
+      les parois de l’îlot à pic pour en interdire l’escalade.
+
+
+      Le sentier littoral traverse également l’unique station mondiale de l’immortelle de Malte (*Helichrysum
+      melitense*), espèce endémique. Les meilleures périodes de visite sont le printemps et l’automne, d’avril
+      à juin et de septembre à novembre.
+    visit: >-
+      La boucle pédestre Victoria-Victoria, longue de treize kilomètres et de difficulté modérée, traverse
+      Wied il-Lunzjata, Ta’ Kerċem et San Lawrenz entre octobre et mai, révélant le Fungus Rock, des dolines
+      et des bancs fossiles. Une promenade plus courte permet de découvrir les cabanes de pêcheurs de la mer
+      intérieure et de monter à la tour de Dwejra, jadis financée par les revenus des salines.
+    history: >-
+      La surfréquentation touristique a érodé les plateaux rocheux, motivant des mesures de sauvegarde et
+      l’aménagement de cheminements canalisés. Le site constitue un condensé remarquable de géomorphologie,
+      d’archéologie et de mémoire maritime en Méditerranée.
+    before: >-
+      La fréquentation est importante près de la mer intérieure et du Fungus Rock. Par mer forte ou vent
+      violent, tenez-vous à bonne distance du rebord des falaises.
+    around: >-
+      À vingt-sept kilomètres se trouvent les [jardins de Buskett et falaises de
+      Dingli](/lugar/buskett-gardens/), pendant terrestre du littoral de Gozo. Plus loin, d’autres sites
+      partagent avec Dwejra le [puffin yelkouan](/especie/puffinus_yelkouan/) et le [puffin
+      cendré](/especie/calonectris_diomedea/), comme le [parc national des
+      Calanques](/lugar/parc-national-des-calanques/), le [parc national de
+      Port-Cros](/lugar/parc-national-de-port-cros/) et le [parc national de l’archipel
+      toscan](/lugar/parco-nazionale-arcipelago-toscano/).
+  de:
+    intro: >-
+      Am 8. März 2017 stürzte das Azure Window, ein 28 m hohes Felsentor und Wahrzeichen Gozos, während eines
+      Sturms ins Meer. Was in Dwejra weiterbesteht, ist ein geologisches Gesamtkunstwerk: ein Felsen-Eiland,
+      das die Johanniter wie einen Schatz hüteten, eine über einen Tunnel gespeiste Salzwasserlagune und
+      fossilreiche Küstenfelsen. Hier lässt sich die Entstehungsgeschichte der maltesischen Inseln unmittelbar
+      ablesen.
+    landscape: >-
+      Das Azure Window entstand durch marine Abrasion: Brandungshöhlen erweiterten sich zu Klüften und
+      schließlich zu einem freistehenden Brandungstor im oligozänen Korallenkalk. Heute ist der
+      Einsturztrichter ein weltbekanntes Tauchrevier; ein zweites Felsentor, das Fenster von Wied il-Mielaħ,
+      steht rund 3,7 km nordöstlich.
+
+
+      Beim Begehen der Karstflächen fallen Tausende versteinerte Seeigel und Meeresfossilien sowie historische
+      Salzpfannen ins Auge. Das Binnenmeer entstand durch den Einsturz einer riesigen Karsthöhle; heute säumen
+      Kiesstrand und Bootshütten das Wasser. Ein rund einhundert Meter langer Tunnel verbindet die Lagune mit
+      dem offenen Meer, wo der Meeresboden steil auf etwa 35 m Tiefe abfällt. Die Bucht wird vom 60 m hohen
+      Fungus Rock überragt, während der Crocodile Rock an das Maul eines Reptils erinnert.
+    wildlife: >-
+      Dwejra besticht vor allem durch Geologie, birgt jedoch eine botanische Berühmtheit. Auf dem Hochplateau
+      des Fungus Rock wächst der Malteserschwamm—kein Pilz, sondern eine dunkelrote Schmarotzerpflanze. Die
+      Ordensritter schätzten sie als blutstillende Arznei so hoch, dass sie die Felswände glätten ließen, um
+      das Klettern unter Todesstrafe zu unterbinden.
+
+
+      Am Klippenpfad wächst zudem der weltweit einzige Bestand der endemischen Maltesischen Strohblume
+      (*Helichrysum melitense*). Die besten Reisezeiten sind Frühling und Herbst, besonders von April bis Juni
+      und von September bis November.
+    visit: >-
+      Der Rundwanderweg Victoria-Victoria über dreizehn Kilometer mäßiger Schwierigkeit verbindet Wied
+      il-Lunzjata, Ta’ Kerċem und San Lawrenz von Oktober bis Mai mit Fungus Rock, Dolinen und Fossilbänken.
+      Wer es ruhiger mag, erkundet die Bootshütten am Binnenmeer und steigt zum Dwejra-Turm auf, der einst mit
+      Salzabgaben der nahen Pfannen finanziert wurde.
+    history: >-
+      Der enorme Besucherandrang führte zu Belastungen empfindlicher Kalkflächen, weshalb Schutzprojekte
+      Holzstege und Wegeführungen einrichteten. Der Ort vereint Geologie, seltene Pflanzen und
+      Ordensgeschichte auf engstem Raum.
+    before: >-
+      An der Lagune und am Fungus Rock herrscht reger Andrang. Halte bei starkem Seegang und Westwind
+      ausreichend Sicherheitsabstand zur Abbruchkante.
+    around: >-
+      Siebenundzwanzig Kilometer entfernt liegen die [Buskett-Gärten und
+      Dingli-Klippen](/lugar/buskett-gardens/) auf Malta. Weiter entfernt teilen Seevogelkolonien mit
+      [Mittelmeer-Sturmtaucher](/especie/puffinus_yelkouan/) und
+      [Gelbschnabel-Sturmtaucher](/especie/calonectris_diomedea/) das Areal mit dem [Nationalpark
+      Calanques](/lugar/parc-national-des-calanques/), dem [Nationalpark
+      Port-Cros](/lugar/parc-national-de-port-cros/) und dem [Nationalpark Toskanischer
+      Archipel](/lugar/parco-nazionale-arcipelago-toscano/).
+  it:
+    intro: >-
+      L’8 marzo 2017 è crollata in mare l’Azure Window, l’arco calcareo alto 28 m che costituiva il simbolo di
+      Gozo nel mondo. Ciò che resiste a Dwejra resta spettacolare: un isolotto custodito come un forziere dai
+      Cavalieri di San Giovanni, una laguna marina interna collegata al largo da una fessura naturale e
+      scogliere ricche di fossili. È un lembo di Gozo in cui la geomorfologia si manifesta a cielo aperto.
+    landscape: >-
+      L’Azure Window nacque dall’erosione marina: il moto ondoso incise la base della falesia calcarea,
+      aprendo fratture verticali che originarono una grotta poi trasformatasi in arco. La roccia apparteneva
+      al calcare a globigerina e corallino inferiore dell’Oligocene. Oggi il punto di crollo è un sito di
+      immersione subacquea; un arco gemello, la Finestra di Wied il-Mielaħ, sorge a circa 3,7 km a nord-est.
+
+
+      Camminando sui lastroni costieri si ammirano migliaia di fossili marini e saline storiche. Il Mare
+      Interno si originò con lo sprofondamento della volta di un’immensa cavità carsica; la conca è cinta da
+      capanni di pescatori e ghiaia. Un tunnel lungo un centinaio di metri la unisce al mare aperto, aprendosi
+      su una parete sommersa profonda circa 35 m. A guardia della baia si eleva la Fungus Rock, faraglione
+      calcareo alto 60 m, mentre dal litorale la Crocodile Rock rievoca le sembianze di un rettile.
+    wildlife: >-
+      Dwejra attrae soprattutto per la geologia, ma racchiude una curiosità botanica celebre. Sul pianoro
+      della Fungus Rock vegeta il cosiddetto fungo di Malta, in realtà una pianta parassita dal fiore
+      purpureo. I Cavalieri dell’Ordine gli attribuivano eccezionali doti emostatiche e fecero levigare le
+      pareti rocciose dell’isolotto per impedire a chiunque di scalarlo.
+
+
+      Lungo i sentieri costieri alligna inoltre l’unica popolazione mondiale dell’elicriso di Gozo
+      (*Helichrysum melitense*), pianta endemica protetta. Le stagioni più favorevoli sono la primavera e
+      l’autunno, da aprile a giugno e da settembre a novembre.
+    visit: >-
+      Il trekking circolare Victoria-Victoria, di tredici chilometri e impegno moderato, unisce Wied
+      il-Lunzjata, Ta’ Kerċem e San Lawrenz da ottobre a maggio tra falesie, doline e fossili. In alternativa
+      si possono visitare i capanni del Mare Interno e salire alla Torre di Dwejra, un tempo presidiata dai
+      Cavalieri e mantenuta con le rendite delle saline limitrofe.
+    history: >-
+      La forte presenza turistica ha rischiato di degradare le superfici calcaree, spingendo a realizzare
+      camminamenti protetti e passerelle. Il sito rappresenta un compendio primario di geologia marina,
+      botanica endemica e storia mediterranea.
+    before: >-
+      L’affluenza è sostenuta presso la laguna interna e la Fungus Rock. In presenza di mare agitato o vento
+      forte, mantieniti a debita distanza dal ciglio delle falesie.
+    around: >-
+      A ventisette chilometri si trovano i [Boschi di Buskett e Scogliere di Dingli](/lugar/buskett-gardens/),
+      corrispettivo terrestre di Gozo. Più lontano, altre aree costiere condividono la [berta
+      minore](/especie/puffinus_yelkouan/) e la [berta maggiore](/especie/calonectris_diomedea/), tra cui il
+      [Parco Nazionale delle Calanques](/lugar/parc-national-des-calanques/), il [Parco Nazionale di
+      Port-Cros](/lugar/parc-national-de-port-cros/) e il [Parco Nazionale dell’Arcipelago
+      Toscano](/lugar/parco-nazionale-arcipelago-toscano/).
+  pt:
+    intro: >-
+      A 8 de março de 2017 ruiu no mar a Azure Window, um arco calcário de 28 m de altura que constituía o
+      postal ilustrado de Gozo. O que permanece em Dwejra é um monumento geológico integral: um ilhéu rochoso
+      guardado como um tesouro pelos Cavaleiros de São João, uma lagoa marinha ligada ao oceano por um túnel e
+      arribas cravejadas de fósseis. É uma paragem de Gozo onde a história da Terra se lê sem artifícios.
+    landscape: >-
+      A Azure Window formou-se por abrasão marinha: as ondas talharam uma reentrância na base da falésia,
+      fraturas verticais alargaram-se em caverna até perfurarem um arco no calcário coralino do Oligocénico.
+      Hoje o desmoronamento converteu-se num recife de mergulho; um arco gémeo, a Janela de Wied il-Mielaħ,
+      ergue-se a cerca de 3,7 km a nordeste.
+
+
+      Caminhar pelas lajes costeiras revela milhares de fósseis marinhos e marinhas de sal históricas. O Mar
+      Interior resultou do colapso do teto de uma colossal gruta marinha; a lagoa é marginada por casotas de
+      pescadores e praia de seixos. Um túnel com cerca de cem metros liga-a ao mar alto, descendo numa parede
+      submarina até cerca de 35 m de profundidade. À entrada da baía destaca-se a Fungus Rock com 60 m de
+      altura, enquanto na costa a Crocodile Rock se assemelha ao focinho de um réptil.
+    wildlife: >-
+      Dwejra atrai essencialmente pela geologia, mas resguarda uma planta singular. No cimo da Fungus Rock
+      cresce o chamado cogumelo-de-malta, que não é um fungo mas uma planta parasita de flor avermelhada. Os
+      Cavaleiros da Ordem atribuíam-lhe propriedades hemostáticas e mandaram afeiçoar as escarpas do ilhéu
+      para impedir qualquer escalada.
+
+
+      O trilho costeiro acolhe ainda a única colónia mundial da perpétua-de-gozo (*Helichrysum melitense*),
+      planta endémica rara. As melhores épocas para percorrer a área são a primavera e o outono, de abril a
+      junho e de setembro a novembro.
+    visit: >-
+      O percurso pedestre circular Victoria-Victoria, com treze quilómetros e dificuldade moderada, une Wied
+      il-Lunzjata, Ta’ Kerċem e San Lawrenz de outubro a maio por falésias e jazidas fósseis. Em alternativa,
+      visita as casotas do Mar Interior e sobe à Torre de Dwejra, que vigiava corsários e era sustentada pelos
+      rendimentos do sal.
+    history: >-
+      A afluência massiva acelerou a erosão das lajes de calcário, exigindo medidas de conservação e
+      passadiços de proteção. O local reúne geologia marinha, botânica endémica e património militar
+      mediterrânico.
+    before: >-
+      Regista-se afluência considerável na lagoa interior e na Fungus Rock. Em dias de mar alterado ou nortada
+      intensa, mantém distância segura do rebordo das arribas.
+    around: >-
+      A vinte e sete quilómetros situam-se os [Bosques de Buskett e Arribas de
+      Dingli](/lugar/buskett-gardens/), contraponto terrestre de Gozo. Noutras latitudes mediterrânicas
+      acolhem a [pardela-do-mediterrâneo](/especie/puffinus_yelkouan/) e a
+      [cagarra](/especie/calonectris_diomedea/) o [Parque Nacional das
+      Calanques](/lugar/parc-national-des-calanques/), o [Parque Nacional de
+      Port-Cros](/lugar/parc-national-de-port-cros/) e o [Parque Nacional do Arquipélago
+      Toscano](/lugar/parco-nazionale-arcipelago-toscano/).
+fuentes:
+  - url: https://visitgozo.com/places/dwejra/
+    titulo: DWEJRA - Visit Gozo
+    fecha_consulta: '2026-10-30'
+  - url: https://visitgozo.com/wp-content/uploads/2024/03/DwejraWalk.pdf
+    titulo: Victoria to Victoria - 13km
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Dwejra
+    titulo: Azure Window - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Inland_Sea,_Gozo
+    titulo: Inland Sea, Gozo - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Fungus_Rock
+    titulo: Fungus Rock - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Dwejra_Tower
+    titulo: Dwejra Tower - Wikipedia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.naturetrustmalta.org/what-we-do/natural-parks/dwejra/
+    titulo: Dwejra — Nature Trust Malta
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Fungus_Rock,_Dwejra_Bay,_Gozo_1.jpg
+    autor: JosephAmodio
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,669 @@
+id: samaria-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de la Garganta de Samaria - Creta
+  en: Samaria Gorge National Park - Crete
+  fr: Parc national des gorges de Samaria - Crète
+  de: Nationalpark Samaria-Schlucht - Kreta
+  it: Parco Nazionale della Gola di Samaria - Creta
+  pt: Parque Nacional do Desfiladeiro de Samaria - Creta
+nombre_original: Samaria National Park
+alias:
+  - Samaria & Imbros Cretan Limestone Gorges (Samaria National Park)
+paises:
+  - GR
+region:
+  es: Isla de Creta (Chaniá / Montes Blancos - Lefka Ori)
+  en: Crete Island (Chania / White Mountains - Lefka Ori)
+  fr: Île de Crète (La Canée / Montagnes Blanches - Lefka Ori)
+  de: Insel Kreta (Chania / Weiße Berge - Lefka Ori)
+  it: Isola di Creta (La Canea / Montagne Bianche - Lefka Ori)
+  pt: Ilha de Creta (Chaniá / Montanhas Brancas - Lefka Ori)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 35.27
+  lon: 23.96
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 16378
+  nombre_en_la_fuente: Samaria
+  categoria_uicn: II
+  capa: capas/cdda/samaria-national-park.geojson
+habitats:
+  - gorge_canyon
+  - karst
+  - high_mountain
+  - coast
+designaciones:
+  - national_park
+  - biosphere_reserve
+  - natura2000
+  - iucn_ii
+especies:
+  - capra_aegagrus
+  - gyps_fulvus
+  - aquila_chrysaetos
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre (abierto oficialmente según condiciones hidrológicas)
+  en: May to October (officially open subject to hydrological conditions)
+  fr: mai à octobre (ouverture officielle selon les conditions hydrologiques)
+  de: Mai bis Oktober (offiziell je nach Wasserstand geöffnet)
+  it: da maggio a ottobre (apertura ufficiale subordinata alle condizioni idrologiche)
+  pt: maio a outubro (aberto oficialmente consoante as condições hidrológicas)
+masificacion: 3
+masificacion_nota:
+  es: Alta en la travesía diurna de los 16 km de la garganta
+  en: High during daytime traverses of the 16 km gorge
+  fr: Forte lors de la traversée diurne des 16 km de la gorge
+  de: Hoch bei der Tagesdurchquerung der 16 km langen Schlucht
+  it: Alta durante la traversata diurna dei 16 km della gola
+  pt: Elevada na travessia diurna dos 16 km da garganta
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Información y entradas de Samaria — NECCA (gestor actual)
+    url: https://samaria-tickets.necca.gov.gr/checkout
+  - titulo: Samaria National Park Official Management
+    url: https://samaria.gr/
+  - titulo: Gestor, visita y normas — NECCA Samaria y Lefka Ori
+    url: https://necca.gov.gr/en/mdpp/management-unit-of-samaria-national-park-and-the-protected-areas-of-western-crete/
+resumen:
+  es: >-
+    La reina de las gargantas del Mediterráneo (16 km de recorrido cortado a pico) refugio exclusivo de la
+    cabra salvaje de Creta (*Kri-Kri*).
+  en: >-
+    The queen of Mediterranean gorges (16 km of sheer precipices), exclusive sanctuary of the Cretan wild goat
+    (*Kri-Kri*).
+  fr: >-
+    La reine des gorges de Méditerranée (16 km de défilé vertigineux), sanctuaire exclusif de la chèvre
+    sauvage crétoise (*Kri-Kri*).
+  de: >-
+    Die Königin der Schluchten des Mittelmeers (16 km senkrechter Felsabbruch), exklusiver Zufluchtsort der
+    Kretischen Wildziege (*Kri-Kri*).
+  it: >-
+    La regina delle gole del Mediterraneo (16 km di forra a picco), santuario esclusivo della capra selvatica
+    cretese (*Kri-Kri*).
+  pt: >-
+    A rainha das gargantas do Mediterrâneo (16 km de escarpas a pique), refúgio exclusivo da cabra-selvagem
+    cretense (*Kri-Kri*).
+unico:
+  es: Una garganta que se camina de la montaña al mar, con la cabra salvaje cretense como emblema.
+  en: A gorge hiked from alpine heights down to the sea, with the Cretan wild goat as its living emblem.
+  fr: >-
+    Une gorge que l'on parcourt de la haute montagne jusqu'à la mer, avec la chèvre sauvage crétoise pour
+    emblème.
+  de: >-
+    Eine Schlucht, die man von den Hochgebirgen bis zum Meer durchwandert, mit der Kretischen Wildziege als
+    lebendigem Wappentier.
+  it: >-
+    Una gola che si discende dalla montagna d'alta quota fino al mare, con la capra selvatica cretese per
+    simbolo.
+  pt: >-
+    Um desfiladeiro percorrido a pé desde a alta montanha até ao mar, tendo a cabra-selvagem cretense por
+    emblema.
+observaciones:
+  es: >-
+    Está prohibido acampar y pasar la noche en el parque, bañarse en los ríos y arroyos, y encender fuego
+    fuera de las áreas recreativas. En la garganta no hay tiendas, así que lleva comida; hay varias fuentes
+    donde rellenar el agua y aseos en varios puntos.
+
+
+    Antes de organizar nada, comprueba en la web oficial de entradas si la garganta está abierta: puede
+    cerrarse por ambas entradas hasta nuevo aviso.
+texto:
+  es:
+    intro: >-
+      Entras por arriba, en Xyloskalo, a 1227 m, y bajas durante horas siguiendo la pendiente hasta que el
+      camino se acaba en el mar. Eso es la garganta de Samaria: un tajo que un pequeño río excavó entre las
+      Montañas Blancas y el monte Volakias, en el suroeste de Creta, y que se recorre de una punta a otra, de
+      la montaña a la costa de Agia Roumeli. La mayor parte del camino es pedregosa, y cruzarás el río varias
+      veces por pasarelas de madera o sobre piedras puestas para pasar.
+    landscape: >-
+      Las Montañas Blancas, el macizo que encierra la garganta, son sobre todo de caliza. Deben su nombre al
+      color claro de sus cumbres, que en verano y otoño es el de la roca y en invierno el de la nieve.
+      Pachnes, de 2.453 m, es la cima más alta, y más de 30 cumbres superan los 2.000 m. Por encima de 1.800
+      m, el centro y el sur del macizo parecen un paisaje lunar. Bajo tierra están las dos únicas cuevas de
+      Grecia de más de un kilómetro de profundidad: Gourgouthakas y la Cueva del León.
+
+
+      El tramo principal de la garganta mide 13 km, y desde la salida hasta Agia Roumeli hay otros tres: en
+      total, unos 16 km. La parte más famosa son Portes, a 1,5 km de la entrada de Agia Roumeli, donde la
+      garganta se estrecha hasta cuatro metros de ancho y sus paredes suben casi 300 metros.
+
+
+      En el parque se vigilan quince tipos de hábitat, entre ellos estanques mediterráneos temporales y cursos
+      mediterráneos intermitentes, y también bosques de ciprés y de plátano oriental. En total se siguen
+      treinta y cuatro especies de flora protegida, entre ellas Alyssum fragillimum, Anthemis samariensis y
+      Bupleurum kakiskalae.
+    wildlife: >-
+      El símbolo del parque es el agrimi, la [cabra salvaje cretense](/especie/capra_aegagrus/) y el mayor
+      mamífero de Creta. Prefiere terrenos de montaña, de zonas secas y alpinas a roquedos con matorral cerca
+      de bosques de coníferas. Hoy vive solo en las Montañas Blancas, con poblaciones conservadas en las islas
+      Agioi Theodoroi, Moni, Siapenza, Agioi Pantes y Atalandonisi.
+
+
+      Lo difícil de ver es lo mejor. El gato montés cretense se creía extinguido hasta que en 1996 científicos
+      de la Universidad de Perugia capturaron un ejemplar vivo. La musaraña de dientes blancos cretense es el
+      único mamífero endémico de Creta, rara y poco estudiada. Y el
+      [quebrantahuesos](/especie/gypaetus_barbatus/), que deja caer los huesos desde gran altura para
+      romperlos y baja en espiral a por los trozos, sobrevive hoy solo en Creta: las Montañas Blancas acogen
+      dos de las tres parejas reproductoras de Grecia. Más fácil de ver es el [buitre
+      leonado](/especie/gyps_fulvus/), que planea en círculos amplios y lentos aprovechando las corrientes
+      cálidas. En total, en las Montañas Blancas se han identificado treinta y dos mamíferos, tres anfibios,
+      once reptiles y unas doscientas aves.
+
+
+      Hay hasta una araña protegida, Macrothele cretica, endémica de la región.
+    visit: >-
+      La garganta se recorre sola, de punta a punta: cada día la hacen unas 800 personas y el paseo medio dura
+      de seis a siete horas, con paradas. El itinerario clásico es de Xyloskalo a Agia Roumeli. A Xyloskalo se
+      llega en coche, pero a la entrada sur solo se llega en barco. Antes de bajar, pasa por el centro de
+      información de Omalos: explica el área protegida, natural y humana.
+
+
+      Solo se puede caminar por el sendero central; para salir de él hace falta una licencia especial. Los
+      rangers piden seguir sus instrucciones y las señales, sobre todo las de caída de piedras, y no salirse
+      del camino por ningún motivo. Baja despacio, para a menudo y mira alrededor. El parque recomienda pasar
+      la noche en Agia Roumeli en vez de hacer la excursión de un día.
+
+
+      La apertura va del 1 de mayo al 15 de octubre, de seis de la mañana a cuatro de la tarde. Con buen
+      tiempo puede prolongarse hasta el 31 de octubre, pero la garganta puede cerrar antes si una tormenta
+      daña el camino.
+
+
+      Desde Agia Roumeli salen barcos hacia Sfakia, Sougia o Paleochora, y desde allí un autobús vuelve a
+      Chania.
+    history: >-
+      La garganta es parque nacional desde 1962, sobre todo como refugio del raro kri-kri, la cabra cretense,
+      que vive casi solo en el parque y en una isla cercana. La aldea de Samariá, dentro de la garganta, la
+      abandonaron sus últimos habitantes en 1962 para dejar sitio al parque; ella y la garganta toman el
+      nombre de su antigua iglesia, Óssia María.
+
+
+      Las Montañas Blancas fueron además refugio de rebeldes en los alzamientos cretenses contra venecianos y
+      otomanos, y durante la ocupación alemana.
+    before: >-
+      Está prohibido acampar y pasar la noche en el parque, bañarse en los ríos y arroyos, y encender fuego
+      fuera de las áreas recreativas. En la garganta no hay tiendas, así que lleva comida; hay varias fuentes
+      donde rellenar el agua y aseos en varios puntos.
+
+
+      Antes de organizar nada, comprueba en la web oficial de entradas si la garganta está abierta: puede
+      cerrarse por ambas entradas hasta nuevo aviso.
+    around: >-
+      La garganta se solapa con el [Macizo de Lefka Ori](/lugar/macizo-de-lefka-ori/), las mismas Montañas
+      Blancas que la encierran. Lejos de Creta, el [Parque Nacional del Valle de
+      Munzur](/lugar/parque-nacional-del-valle-de-munzur/) comparte cabra salvaje, garganta y alta montaña.
+  en:
+    intro: >-
+      You enter from above, at Xyloskalo at 1227 m, and descend for hours following the gradient until the
+      trail ends at the sea. That is the Samaria Gorge: a colossal chasm carved by a mountain river between
+      the White Mountains and Mount Volakias, in southwestern Crete, traversed from end to end from the high
+      mountains to the coastal village of Agia Roumeli. Most of the path is stony, crossing the riverbed
+      multiple times via wooden footbridges or stepping stones.
+    landscape: >-
+      The White Mountains, the massive limestone range cradling the gorge, take their name from the pale color
+      of their summits, rock-white in summer and autumn and snow-white in winter. Pachnes, at 2,453 m, is the
+      highest peak, and more than 30 summits surpass 2,000 m. Above 1,800 m, the central and southern parts of
+      the massif resemble a barren lunar plateau. Subterranean exploration has revealed Greece's only two
+      caves deeper than a kilometer: Gourgouthakas and the Lion Cave.
+
+
+      The main section of the gorge measures 13 km, followed by another three kilometers from the park exit to
+      Agia Roumeli: around 16 km in total. The most famous constriction is the Portes (Gates), 1.5 km from the
+      Agia Roumeli entrance, where the gorge narrows to just four meters wide beneath sheer rock walls soaring
+      nearly 300 meters.
+
+
+      The park monitors fifteen habitat types, including temporary Mediterranean ponds and intermittent
+      streams, as well as native stands of Mediterranean cypress and oriental plane. In total, thirty-four
+      protected plant species are tracked, including Alyssum fragillimum, Anthemis samariensis, and Bupleurum
+      kakiskalae.
+    wildlife: >-
+      The park's flagship species is the agrimi, the [Cretan wild goat](/especie/capra_aegagrus/) and largest
+      native mammal on Crete. It favors steep mountain crags, ranging from arid alpine ridges to shrubby
+      cliffs near conifer forests. Today it survives in the wild only within the White Mountains, alongside
+      protected island backup populations on Agioi Theodoroi, Moni, Sapientza, Agioi Pantes, and Atalandonisi.
+
+
+      The hardest creatures to see are the most extraordinary. The Cretan wildcat was thought extinct until
+      1996, when researchers from the University of Perugia trapped a live specimen. The Cretan white-toothed
+      shrew is the island's only endemic mammal, elusive and rarely studied. The [bearded
+      vulture](/especie/gypaetus_barbatus/), which drops heavy bones from high in the sky onto rocks to
+      shatter them before spiraling down, now persists in Greece only on Crete: the White Mountains harbor two
+      of the country's three breeding pairs. Far easier to spot is the [griffon
+      vulture](/especie/gyps_fulvus/), soaring in slow, wide circles on rising thermal currents. In total,
+      thirty-two mammal, three amphibian, eleven reptile, and around two hundred bird species have been
+      recorded in the White Mountains.
+
+
+      Even a protected trapdoor spider, Macrothele cretica, is endemic to the region.
+    visit: >-
+      The gorge is hiked in a single direction from end to end: around 800 people make the journey daily, with
+      an average walk lasting six to seven hours, breaks included. The classic route runs from Xyloskalo down
+      to Agia Roumeli. Xyloskalo is accessible by car or bus, but the southern exit at Agia Roumeli is
+      connected only by sea. Before starting your descent, visit the Omalos information center: it details
+      both the natural and cultural heritage of the protected reserve.
+
+
+      Hikers must stay strictly on the main trail; leaving it requires a special research permit. Rangers
+      request that you heed their instructions and warning signs, particularly regarding rockfall, without
+      straying off-trail for any reason. Walk deliberately, rest frequently, and look around. The park
+      recommends spending the night in Agia Roumeli rather than rushing a day trip.
+
+
+      The open season runs from 1 May to 15 October, between six in the morning and four in the afternoon.
+      Fair weather may extend operations until 31 October, though the gorge may close early if flash storms
+      damage the pathway.
+
+
+      From Agia Roumeli, ferries depart for Sfakia, Sougia, or Paleochora, connecting with public buses
+      returning to Chania.
+    history: >-
+      The gorge was designated a national park in 1962, primarily to safeguard the rare kri-kri wild goat,
+      which survives almost exclusively here and on offshore islet sanctuaries. The village of Samariá,
+      nestled deep within the canyon, was evacuated by its final inhabitants in 1962 to clear space for the
+      park; both village and canyon derive their name from the historic Byzantine church of Óssia María.
+
+
+      The White Mountains also served as a fortified sanctuary for Cretan rebels during uprisings against
+      Venetian rule, Ottoman occupation, and later during the German resistance in World War II.
+    before: >-
+      Camping and overnight stays inside the park, swimming in rivers and pools, and lighting open fires
+      outside designated rest spots are strictly forbidden. There are no shops inside the canyon, so carry
+      sufficient food; freshwater springs and toilet facilities are available at regular intervals.
+
+
+      Before making travel arrangements, check the official ticketing website to confirm the gorge is open: it
+      can be closed from either entrance on short notice.
+    around: >-
+      The gorge is nestled directly within the [Lefka Ori Massif](/lugar/macizo-de-lefka-ori/), the very White
+      Mountains that envelop it. Far from Crete, [Munzur Valley National
+      Park](/lugar/parque-nacional-del-valle-de-munzur/) in eastern Turkey shares wild goats, deep canyons,
+      and rugged alpine terrain.
+  fr:
+    intro: >-
+      Vous entrez par le haut, à Xyloskalo à 1227 m, et descendez des heures durant au fil de la pente jusqu'à
+      ce que le chemin débouche sur la mer. Telles sont les gorges de Samaria : un gouffre colossal creusé par
+      un torrent entre les Montagnes Blanches et le mont Volakias, au sud-ouest de la Crète, traversé de part
+      en part depuis les sommets jusqu'au rivage d'Agia Roumeli. L'essentiel du chemin est empierré,
+      franchissant le lit à maintes reprises sur des passerelles de bois ou des gués aménagés.
+    landscape: >-
+      Les Montagnes Blanches, le massif enserrant la gorge, sont principalement calcaires. Elles doivent leur
+      nom à la teinte claire de leurs cimes, blanc minéral en été et en automne, blanc de neige en hiver. Le
+      Pachnes, culminant à 2 453 m, en est le point culminant, et plus de 30 sommets dépassent les 2 000 m.
+      Au-dessus de 1 800 m, le cœur et le sud du massif évoquent un paysage lunaire. Sous terre s'ouvrent les
+      deux seuls gouffres de Grèce profonds de plus d'un kilomètre : Gourgouthakas et la grotte du Lion.
+
+
+      Le défilé principal mesure 13 km, auxquels s'ajoutent trois kilomètres supplémentaires entre la sortie
+      du parc et Agia Roumeli : environ 16 km au total. Le passage le plus réputé correspond aux Portes, à 1,5
+      km de l'entrée d'Agia Roumeli, où la gorge se resserre à quatre mètres de largeur sous des parois
+      verticales s'élevant à près de 300 mètres.
+
+
+      Le parc surveille quinze types d'habitats, parmi lesquels des mares temporaires et cours d'eau
+      intermittents méditerranéens, ainsi que des forêts de cyprès sempervirents et de platanes d'Orient.
+      Trente-quatre espèces de flore protégée font l'objet d'un suivi régulier, dont Alyssum fragillimum,
+      Anthemis samariensis et Bupleurum kakiskalae.
+    wildlife: >-
+      L'emblème du parc est l'agrimi, la [chèvre sauvage](/especie/capra_aegagrus/) crétoise et plus grand
+      mammifère terrestre de l'île. Elle affectionne les terrains escarpés, des crêtes rocheuses alpines aux
+      falaises arbustives bordant les pinèdes. Elle ne survit aujourd'hui à l'état sauvage que dans les
+      Montagnes Blanches, secondée par des populations conservatoires introduites sur les îles d'Agioi
+      Theodoroi, Moni, Sapientza, Agioi Pantes et Atalandonisi.
+
+
+      Les espèces les plus discrètes sont les plus précieuses. Le chat sauvage crétois était présumé éteint
+      jusqu'à ce qu'en 1996 des chercheurs de l'université de Pérouse capturent un individu bien vivant. La
+      crocidure crétoise est le seul mammifère endémique de l'île, rare et mal connu. Et le [gypaète
+      barbu](/especie/gypaetus_barbatus/), qui lâche les os de grande hauteur pour les briser sur les rochers
+      avant de descendre en spirale, ne survit en Grèce que sur l'île de Crète : les Montagnes Blanches
+      abritent deux des trois couples reproducteurs du pays. Plus aisé à observer est le [vautour
+      fauve](/especie/gyps_fulvus/), planant en larges cercles majestueux sur les ascendances thermiques. Au
+      total, trente-deux mammifères, trois amphibiens, onze reptiles et environ deux cents oiseaux ont été
+      répertoriés dans le massif.
+
+
+      On y trouve même une mygale protégée, Macrothele cretica, endémique de la région.
+    visit: >-
+      La gorge s'explore d'une seule traite, d'un bout à l'autre : chaque jour quelque 800 randonneurs s'y
+      engagent, la marche durant en moyenne de six à sept heures, haltes comprises. Le parcours classique
+      relie Xyloskalo à Agia Roumeli. Xyloskalo est desservi par la route, tandis qu'Agia Roumeli n'est
+      accessible que par la mer. Avant d'entamer la descente, visitez le centre d'information d'Omalos : il
+      détaille les richesses naturelles et historiques de la réserve.
+
+
+      Il est impératif de rester sur le sentier principal ; s'en écarter exige une dérogation officielle. Les
+      gardes demandent de respecter scrupuleusement leurs consignes et les panneaux d'alerte aux chutes de
+      pierres, sans quitter la trace sous aucun prétexte. Marchez à votre rythme, faites des pauses régulières
+      et contemplez les parois. Le parc conseille de passer la nuit à Agia Roumeli plutôt que d'enchaîner
+      l'excursion à la hâte.
+
+
+      L'ouverture s'étend du 1er mai au 15 octobre, de six heures du matin à quatre heures de l'après-midi.
+      Par météo clémente, elle peut se prolonger jusqu'au 31 octobre, mais la gorge peut être fermée d'urgence
+      après un orage ayant dégradé le lit.
+
+
+      Depuis Agia Roumeli, des bateaux desservent Sfakia, Sougia ou Paleochora, où des lignes d'autocars
+      permettent de regagner La Canée.
+    history: >-
+      Le défilé a été classé parc national en 1962, d'abord pour créer un sanctuaire pour la chèvre kri-kri,
+      menacée d'extinction. Le village de Samariá, au cœur du canyon, fut évacué par ses derniers habitants en
+      1962 pour laisser place à la réserve ; le village et la gorge tirent leur nom de l'ancienne chapelle
+      byzantine d'Óssia María.
+
+
+      Les Montagnes Blanches servirent en outre de forteresse naturelle aux insurgés crétois lors des révoltes
+      contre les Vénitiens, les Ottomans et les troupes d'occupation allemandes.
+    before: >-
+      Le bivouac, le camping, la baignade dans les cours d'eau et les feux hors des aires aménagées sont
+      strictement interdits. La gorge ne compte aucun commerce : prévoyez vivres et collations ; des fontaines
+      potables et des blocs sanitaires jalonnent l'itinéraire.
+
+
+      Avant de partir, consultez la billetterie officielle en ligne pour vérifier l'ouverture effective du
+      site : les accès peuvent être suspendus jusqu'à nouvel ordre.
+    around: >-
+      La gorge s'inscrit au sein du [massif de Lefka Ori](/lugar/macizo-de-lefka-ori/), les Montagnes Blanches
+      qui la ceinturent. Bien au-delà de la Crète, le [parc national de la vallée de
+      Munzur](/lugar/parque-nacional-del-valle-de-munzur/) partage chèvres sauvages, canyons monumentaux et
+      falaises d'altitude.
+  de:
+    intro: >-
+      Du steigst oben ein, in Xyloskalo auf 1227 m Höhe, und wanderst stundenlang bergab, bis der Weg am Meer
+      endet. Das ist die Samaria-Schlucht: eine gewaltige Kerbe, die ein Gebirgsfluss zwischen den Weißen
+      Bergen und dem Berg Volakias im Südwesten Kretas gegraben hat und die vom Hochgebirge bis an die Küste
+      von Agia Roumeli durchquert wird. Der Großteil des Pfades ist steinig und quert das Bachbett mehrmals
+      über Holzstege oder Trittsteine.
+    landscape: >-
+      Die Weißen Berge, die die Schlucht umrahmen, bestehen überwiegend aus Kalkgestein. Ihren Namen verdanken
+      sie ihren hellen Gipfeln, die im Sommer und Herbst fahl leuchten und im Winter schneebedeckt sind. Der
+      Pachnes ist mit 2.453 m der höchste Gipfel, und mehr als 30 Gipfel ragen über 2.000 m auf. Oberhalb von
+      1.800 m gleicht das Bergland einer mondähnlichen Karstwüste. Im Untergrund liegen die einzigen beiden
+      Höhlen Griechenlands mit über einem Kilometer Tiefe: Gourgouthakas und die Löwenhöhle.
+
+
+      Der Hauptabschnitt der Schlucht misst 13 km, und vom Schluchtausgang bis Agia Roumeli kommen weitere
+      drei Kilometer hinzu: insgesamt rund 16 km. Der berühmteste Engpass sind die Portes (Eisernen Tore), 1,5
+      km vor Agia Roumeli, wo die Schlucht auf vier Meter Breite zusammenschrumpft und die Felswände fast 300
+      Meter senkrecht aufragen.
+
+
+      Im Park werden fünfzehn geschützte Lebensraumtypen überwacht, darunter temporäre Mittelmeertümpel,
+      Trockenflussbetten sowie Zypressen- und Platanenauenwälder. Zudem stehen vierunddreißig geschützte
+      Pflanzenarten unter Monitoring, darunter Alyssum fragillimum, Anthemis samariensis und Bupleurum
+      kakiskalae.
+    wildlife: >-
+      Das Wappentier des Parks ist das Agrimi, die [Kretische Wildziege](/especie/capra_aegagrus/) und das
+      größte Landsäugetier Kretas. Sie bevorzugt schroffes Hochland, von alpinen Felsgraten bis zu
+      buschbestandenen Klippen an Nadelwäldern. Heute überlebt sie wild ausschließlich in den Weißen Bergen
+      sowie auf Schutzinseln wie Agioi Theodoroi, Moni, Sapientza, Agioi Pantes und Atalandonisi.
+
+
+      Das Seltene ist das Besondere. Die Kretische Wildkatze galt als ausgestorben, bis Forscher der
+      Universität Perugia 1996 ein lebendes Exemplar fingen. Die Kretische Weißzahnspitzmaus ist das einzige
+      endemische Säugetier Kretas, scheu und wenig erforscht. Und der
+      [Bartgeier](/especie/gypaetus_barbatus/), der Knochen aus großer Höhe fallen lässt, um sie zu
+      zerschmettern, überlebt in Griechenland nur auf Kreta: Die Weißen Berge beherbergen zwei der drei
+      griechischen Brutpaare. Häufiger zu sehen ist der [Gänsegeier](/especie/gyps_fulvus/), der in weiten
+      Kreisen in der Thermik segelt. Insgesamt wurden in den Weißen Bergen zweiunddreißig Säugetiere, drei
+      Amphibien, elf Reptilien und rund zweihundert Vogelarten nachgewiesen.
+
+
+      Sogar eine geschützte Vogelspinnenverwandte, Macrothele cretica, ist hier endemisch.
+    visit: >-
+      Die Schlucht wird in einer Richtung von oben nach unten durchwandert: Täglich bewältigen rund 800
+      Besucher die Route, wofür man im Schnitt sechs bis sieben Stunden inklusive Rastpausen benötigt. Der
+      Klassiker führt von Xyloskalo nach Agia Roumeli. Xyloskalo ist per Straße erreichbar, Agia Roumeli
+      dagegen nur per Schiff. Vor dem Abstieg lohnt das Informationszentrum in Omalos, das Natur und Kultur
+      der Region beleuchtet.
+
+
+      Besucher dürfen sich ausschließlich auf dem Hauptweg bewegen; jedes Verlassen erfordert eine
+      Ausnahmegenehmigung. Die Ranger fordern dazu auf, Warnschilder vor Steinschlag zu beachten und auf dem
+      Weg zu bleiben. Gehe bedächtig, raste oft und blicke umher. Die Parkverwaltung empfiehlt eine
+      Übernachtung in Agia Roumeli statt eines gehetzten Tagesausflugs.
+
+
+      Geöffnet ist die Schlucht vom 1. Mai bis zum 15. Oktober von sechs Uhr morgens bis vier Uhr nachmittags.
+      Bei gutem Wetter kann die Saison bis zum 31. Oktober verlängert werden, bei Unwetterschäden schließt sie
+      früher.
+
+
+      Von Agia Roumeli verkehren Fähren nach Sfakia, Sougia oder Paleochora mit Busanschlüssen zurück nach
+      Chania.
+    history: >-
+      Die Schlucht wurde 1962 zum Nationalpark erklärt, vorrangig als Schutzgebiet für die vom Aussterben
+      bedrohte Kri-Kri-Ziege. Die Siedlung Samariá in der Schlucht wurde 1962 von ihren letzten Bewohnern
+      geräumt; Dorf und Schlucht leiten ihren Namen von der alten Kirche Óssia María ab.
+
+
+      Die Weißen Berge dienten kretischen Freiheitskämpfern jahrhundertelang als uneinnehmbare Festung gegen
+      Venezianer, Osmanen und die deutsche Besatzung.
+    before: >-
+      Zelten, Übernachten im Park, Baden in den Bächen und offenes Feuer abseits der Rastplätze sind streng
+      verboten. In der Schlucht gibt es keine Einkehrmöglichkeiten; packe ausreichend Proviant ein.
+      Trinkwasserbrunnen und WCs stehen entlang der Route zur Verfügung.
+
+
+      Prüfe vorab auf der offiziellen Buchungsseite, ob die Schlucht geöffnet ist: Sie kann witterungsbedingt
+      kurzfristig gesperrt werden.
+    around: >-
+      Die Schlucht ist Teil des Gebirgszuges [Lefka Ori Massiv](/lugar/macizo-de-lefka-ori/). Weit entfernt
+      auf dem Festland teilt der türkische
+      [Munzur-Tal-Nationalpark](/lugar/parque-nacional-del-valle-de-munzur/) Wildziegen, monumentale Canyons
+      und alpine Kulissen mit Samaria.
+  it:
+    intro: >-
+      Si entra dall'alto, a Xyloskalo a quota 1227 m, e si scende per ore seguendo il dislivello fino a quando
+      il sentiero termina direttamente in riva al mare. Questa è la gola di Samaria: un immenso solco scavato
+      da un torrente tra le Montagne Bianche e il monte Volakias, nel sud-ovest di Creta, percorso da cima a
+      fondo dai monti fino al villaggio costiero di Agia Roumeli. La maggior parte del percorso è sassosa e
+      guada più volte il greto su passerelle di legno o sassi disposti per il passaggio.
+    landscape: >-
+      Le Montagne Bianche, la cerchia calcarea che cinge la gola, devono il nome alla tonalità chiara delle
+      vette, roccia abbagliante in estate e autunno, candida neve in inverno. Il Pachnes, con i suoi 2.453 m,
+      è la cima maggiore, e più di 30 vette superano i 2.000 m. Oltre quota 1.800 m, il cuore del massiccio
+      sembra un altipiano lunare. Nelle viscere della roccia si celano le uniche due voragini della Grecia
+      profonde oltre un chilometro: Gourgouthakas e la grotta del Leone.
+
+
+      Il tratto principale della forra misura 13 km, ai quali si aggiungono altri tre chilometri dall'uscita
+      del parco fino ad Agia Roumeli: circa 16 km complessivi. La strettoia più famosa sono le Portes (Porte),
+      a 1,5 km dall'ingresso di Agia Roumeli, dove la gola si restringe a quattro metri di larghezza e le
+      pareti verticali si innalzano per quasi 300 metri.
+
+
+      Nel parco si monitorano quindici tipi di habitat, compresi stagni temporanei mediterranei, fiumare e
+      boschi di cipresso e platano orientale. In tutto sono seguite trentaquattro specie di flora protetta,
+      tra cui Alyssum fragillimum, Anthemis samariensis e Bupleurum kakiskalae.
+    wildlife: >-
+      L'emblema del parco è l'agrimi, l'[egagro](/especie/capra_aegagrus/) cretese e il mammifero terrestre
+      più grande di Creta. Frequenta le scarpate scoscese, dalle balze alpine alle falesie boscose. Oggi
+      sopravvive allo stato selvatico unicamente nelle Montagne Bianche, oltre a nuclei di salvaguardia
+      introdotti sulle isole di Agioi Theodoroi, Moni, Sapientza, Agioi Pantes e Atalandonisi.
+
+
+      Gli animali più rari sono i più sorprendenti. Il gatto selvatico cretese era ritenuto estinto finché nel
+      1996 zoologi dell'Università di Perugia ne catturarono un esemplare vivente. Il toporagno cretese è
+      l'unico mammifero endemico dell'isola, elusivo e poco studiato. Il
+      [gipeto](/especie/gypaetus_barbatus/), che fa precipitare le ossa dall'alto per frantumarle e scende a
+      spirale a raccoglierle, sopravvive in Grecia solo a Creta: le Montagne Bianche ospitano due delle tre
+      coppie nidificanti del paese. Più agevole da osservare è il [grifone](/especie/gyps_fulvus/), che
+      veleggia in ampi cerchi sfruttando le correnti termiche. Complessivamente, nelle Montagne Bianche si
+      contano trentadue mammiferi, tre anfibi, undici rettili e circa duecento uccelli.
+
+
+      È presente perfino un ragno protetto, Macrothele cretica, endemico dell'isola.
+    visit: >-
+      La gola si percorre a piedi in un unico senso: ogni giorno la compiono circa 800 escursionisti e la
+      discesa media richiede da sei a sette ore, soste comprese. La classica traversata scende da Xyloskalo ad
+      Agia Roumeli. Xyloskalo si raggiunge su strada, mentre Agia Roumeli è servita unicamente via mare. Prima
+      della discesa, visita il centro informazioni di Omalos, che illustra il contesto naturale e umano
+      dell'area.
+
+
+      È consentito camminare solo sul sentiero principale; deviare richiede un'autorizzazione speciale. I
+      guardiaparco invitano a seguire le indicazioni e i cartelli sul pericolo di caduta sassi, senza uscire
+      dalla traccia. Scendi a passo regolare, concediti pause e guarda in alto. Il parco consiglia di
+      pernottare ad Agia Roumeli piuttosto che fare tutto in giornata.
+
+
+      Il parco apre dal 1 maggio al 15 ottobre, dalle sei del mattino alle quattro del pomeriggio. Se il meteo
+      è favorevole l'apertura può prolungarsi fino al 31 ottobre, ma la gola può chiudere anticipatamente a
+      seguito di piogge torrenziali.
+
+
+      Da Agia Roumeli i traghetti salpano verso Sfakia, Sougia o Paleochora, con bus di linea per rientrare
+      alla Canea.
+    history: >-
+      La gola è parco nazionale dal 1962, nata per dare rifugio all'egagro kri-kri, minacciato di estinzione.
+      Il villaggio di Samariá, situato nella gola, fu abbandonato dai suoi abitanti nel 1962 per consentire
+      l'istituzione del parco; borgo e gola devono il nome alla chiesa bizantina di Óssia María.
+
+
+      Le Montagne Bianche furono inoltre baluardo inespugnabile per gli insorti cretesi contro le dominazioni
+      veneziana, ottomana e l'occupazione tedesca.
+    before: >-
+      È vietato campeggiare, pernottare nel parco, fare il bagno nei torrenti e accendere fuochi all'esterno
+      delle aree designate. Nella gola non ci sono punti vendita: porta con te le scorte d'acqua e cibo; vi
+      sono sorgenti potabili e servizi igienici lungo il percorso.
+
+
+      Prima di pianificare la visita, controlla sul portale ufficiale dei biglietti se la gola è regolarmente
+      aperta: gli accessi possono essere chiusi con breve preavviso.
+    around: >-
+      La gola si inserisce all'interno del [Massiccio di Lefka Ori](/lugar/macizo-de-lefka-ori/), le Montagne
+      Bianche che la racchiudono. Lontano da Creta, il [Parco Nazionale della Valle di
+      Munzur](/lugar/parque-nacional-del-valle-de-munzur/) in Turchia condivide capre selvatiche, gole
+      rupestri e orizzonti alpini.
+  pt:
+    intro: >-
+      Entras por cima, em Xyloskalo a 1227 m de altitude, e desces durante horas acompanhando o declive até o
+      trilho desembocar no mar. Assim é a garganta de Samaria: uma fenda monumental rasgada por um rio entre
+      as Montanhas Brancas e o monte Volakias, no sudoeste de Creta, percorrida de ponta a ponta desde a alta
+      serra até à costa de Agia Roumeli. A maior parte do percurso é pedregosa, cruzando o leito várias vezes
+      através de passadiços de madeira ou pedras dispostas para a passagem.
+    landscape: >-
+      As Montanhas Brancas, o maciço que envolve a garganta, são formadas mormente por calcário. Devem o seu
+      nome à coloração clara dos cumes, que no verão e outono ostentam a cor da rocha nua e no inverno o manto
+      de neve. Pachnes, com 2.453 m, é a cumeada mais alta, e mais de 30 cumes ultrapassam os 2.000 m. Acima
+      dos 1.800 m, o centro e o sul do maciço assemelham-se a um planalto lunar. Debaixo de terra rasgam-se os
+      únicos dois algares da Grécia com mais de um quilómetro de profundidade: Gourgouthakas e a Gruta do
+      Leão.
+
+
+      O troço principal da garganta mede 13 km, somando-se outros três quilómetros desde a saída do parque até
+      Agia Roumeli: cerca de 16 km no total. O trecho mais afamado são as Portes (Portas), a 1,5 km da entrada
+      de Agia Roumeli, onde o desfiladeiro afunila até quatro metros de largura sob paredes rochosas que
+      ascendem a quase 300 metros.
+
+
+      No parque monitorizam-se quinze tipos de habitats, entre os quais pegos temporários mediterrânicos e
+      ribeiros intermitentes, além de matas de ciprestes e de plátanos-orientais. Ao todo acompanham-se trinta
+      e quatro espécies botânicas protegidas, incluindo Alyssum fragillimum, Anthemis samariensis e Bupleurum
+      kakiskalae.
+    wildlife: >-
+      O símbolo do parque é o agrimi, a [cabra-selvagem](/especie/capra_aegagrus/) cretense e o maior mamífero
+      de Creta. Tem preferência por relevos escarpados, desde cumes alpinos a escarpas arbustivas junto a
+      pinhais. Atualmente sobrevive no estado selvagem unicamente nas Montanhas Brancas, com efetivos de
+      reserva nas ilhotas de Agioi Theodoroi, Moni, Sapientza, Agioi Pantes e Atalandonisi.
+
+
+      As espécies mais discretas são as mais fascinantes. O gato-bravo-cretense era dado como extinto até que
+      em 1996 investigadores da Universidade de Perúgia capturaram um espécime vivo. O
+      musaranho-de-dentes-brancos-cretense é o único mamífero endémico de Creta, raro e pouco documentado. E o
+      [abutre-barbudo](/especie/gypaetus_barbatus/), que arremessa ossos do alto para os partir nas rochas e
+      desce em espiral para os ingerir, sobrevive na Grécia apenas em Creta: as Montanhas Brancas acolhem dois
+      dos três casais reprodutores do país. Muito mais comum de avistar é o
+      [abutre-fouveiro](/especie/gyps_fulvus/), planando em lentos círculos amplos aproveitando as correntes
+      térmicas. No cômputo geral, foram catalogados nas Montanhas Brancas trinta e dois mamíferos, três
+      anfíbios, onze répteis e cerca de duzentas aves.
+
+
+      Existe até uma aranha protegida, Macrothele cretica, endémica da região.
+    visit: >-
+      O desfiladeiro percorre-se num único sentido, de uma ponta à outra: todos os dias perto de 800
+      caminhantes fazem a rota, demorando em média de seis a sete horas com paragens. O traçado tradicional
+      parte de Xyloskalo até Agia Roumeli. A Xyloskalo acede-se por estrada, mas a saída sul em Agia Roumeli
+      só tem ligação por barco. Antes de descer, visita o centro de acolhimento de Omalos, que dá a conhecer o
+      património natural e humano do parque.
+
+
+      Só é permitido caminhar pelo trilho principal; sair dele carece de licença especial. Os vigilantes da
+      natureza pedem para cumprir as suas instruções e a sinalética, sobretudo quanto ao risco de queda de
+      pedras, mantendo-te no caminho. Desce a ritmo compassado, descansa com frequência e contempla o entorno.
+      A direção do parque sugere pernoitar em Agia Roumeli em vez de forçar uma visita diurna apressada.
+
+
+      A época de abertura decorre de 1 de maio a 15 de outubro, das seis da manhã às quatro da tarde. Se o
+      tempo estiver estável, pode estender-se até 31 de outubro, mas a garganta pode encerrar mais cedo se uma
+      intempérie danificar a vereda.
+
+
+      De Agia Roumeli zarpam barcos para Sfakia, Sougia ou Paleochora, apanhando-se aí o autocarro de regresso
+      a Chaniá.
+    history: >-
+      O desfiladeiro é parque nacional desde 1962, constituído primacialmente como refúgio da cabra cri-cri,
+      ameaçada de extinção. A aldeia de Samariá, no coração da garganta, foi desocupada pelos seus derradeiros
+      residentes em 1962 para abrir caminho ao parque; a localidade e a garganta colhem o nome da igreja
+      bizantina de Óssia María.
+
+
+      As Montanhas Brancas foram ainda baluarte inexpugnável dos rebeldes cretenses durante as revoltas contra
+      venezianos, otomanos e na resistência contra a ocupação alemã.
+    before: >-
+      É estritamente proibido acampar, pernoitar no parque, nadar nos rios e acender fogueiras fora das zonas
+      de lazer. No interior da garganta não existem lojas nem cafés, pelo que deves levar mantimentos; há
+      fontes de água potável e instalações sanitárias em vários pontos.
+
+
+      Antes de planear a viagem, confirma na bilheteira oficial online se a garganta se encontra aberta: os
+      acessos podem ser encerrados em qualquer uma das entradas sem aviso prévio.
+    around: >-
+      A garganta sobrepõe-se ao [Maciço de Lefka Ori](/lugar/macizo-de-lefka-ori/), as próprias Montanhas
+      Brancas que a abrigam. Longe de Creta, o [Parque Nacional do Vale de
+      Munzur](/lugar/parque-nacional-del-valle-de-munzur/) partilha cabras-selvagens, desfiladeiros majestosos
+      e relevos alpinos.
+fuentes:
+  - url: https://www.samaria.gr/fauna/
+    titulo: Fauna — National Park of Samaria
+    fecha_consulta: '2026-10-24'
+  - url: https://www.samaria.gr/habitats-flora/
+    titulo: Habitats-flora — National Park of Samaria
+    fecha_consulta: '2026-10-24'
+  - url: https://www.samaria.gr/tips-for-crossing-samaria/
+    titulo: Tips for crossing Samaria — National Park of Samaria
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Samaria_Gorge
+    titulo: Samariá Gorge - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://en.wikipedia.org/wiki/Lefka_Ori
+    titulo: Lefka Ori - Wikipedia
+    fecha_consulta: '2026-10-24'
+  - url: https://samaria-tickets.necca.gov.gr/checkout
+    titulo: Tickets to Samaria National Park
+    fecha_consulta: '2026-10-24'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:%CE%A6%CE%B1%CF%81%CE%AC%CE%B3%CE%B3%CE%B9_%CF%84%CE%B7%CF%82_%CE%A3%CE%B1%CE%BC%CE%B1%CF%81%CE%B9%CE%AC%CF%82_%CE%B1%CF%80%CF%8C_%CF%84%CE%BF_%CE%9E%CF%85%CE%BB%CF%8C%CF%83%CE%BA%CE%B1%CE%BB%CE%BF_3703.JPG
+    autor: C messier
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

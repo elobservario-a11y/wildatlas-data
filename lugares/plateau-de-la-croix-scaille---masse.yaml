@@ -1,0 +1,432 @@
+id: plateau-de-la-croix-scaille---masse
+estado_editorial: valoracion-revisada
+nombre:
+  es: Meseta de Croix-Scaille - Macizo Forestal
+  en: Croix-Scaille Plateau Forest Massif
+  fr: Plateau de la Croix-Scaille – Massif forestier
+  de: Croix-Scaille-Hochebene – Waldmassiv
+  it: Altopiano della Croix-Scaille – Massiccio forestale
+  pt: Planalto de Croix-Scaille – Maciço Florestal
+nombre_original: Plateau de la Croix-Scaille - Masse forestière
+alias:
+  - Croix Scaille Forest
+paises:
+  - BE
+  - FR
+region:
+  es: Namur (BE) / Ardenas (FR)
+  en: Namur (BE) / Ardennes (FR)
+  fr: Namur (BE) / Ardennes (FR)
+  de: Namur (BE) / Ardennen (FR)
+  it: Namur (BE) / Ardenne (FR)
+  pt: Namur (BE) / Ardenas (FR)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 49.95
+  lon: 4.85
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Plateau ardennais
+  capa: capas/natura2000/plateau-de-la-croix-scaille---masse.geojson
+habitats:
+  - mature_forest
+  - wetland
+designaciones:
+  - natura2000
+especies:
+  - cervus_elaphus
+  - felis_silvestris
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Visita — acceso a Croix-Scaille y Tour du Millénaire
+    url: https://www.actutourisme-gedinne.be/a-decouvrir/tour-du-millenaire/
+  - titulo: Avisos — calendario de caza y cierres de Gedinne
+    url: https://www.actutourisme-gedinne.be/chasse/
+enlaces_referencia:
+  - titulo: Wikipedia — meseta de Croix-Scaille
+    url: https://en.wikipedia.org/wiki/Croix_Scaille
+resumen:
+  es: Punto más alto de las Ardenas occidentales (503 m), cubierto de bosques profundos y turberas relictas.
+  en: Highest summit of the western Ardennes (503 m), clad in deep woodlands and relict peat bogs.
+  fr: >-
+    Point culminant des Ardennes occidentales (503 m), couvert de forêts profondes et de tourbières
+    relictuelles.
+  de: Höchster Punkt der westlichen Ardennen (503 m), bedeckt von tiefen Bergwäldern und Reliktmooren.
+  it: Punto più elevato delle Ardenne occidentali (503 m), ammantato da fitte foreste e torbiere relitte.
+  pt: Ponto culminante das Ardenas ocidentais (503 m), revestido de densas florestas e turfeiras relíquias.
+unico:
+  es: >-
+    Una meseta forestal en el punto más alto de las Ardenas occidentales, con una turbera de ladera que
+    conserva helechos reales y que se recorre por pasarelas de madera.
+  en: >-
+    A forested plateau at the culmination of the western Ardennes, featuring a sloping bog that preserves
+    royal ferns and is traversed by timber boardwalks.
+  fr: >-
+    Un plateau forestier au faîte des Ardennes occidentales, abritant une tourbière de pente à osmondes
+    royales parcourue sur caillebotis.
+  de: >-
+    Ein Waldplateau am höchsten Punkt der westlichen Ardennen mit einem Hangmoor, das Königsfarne beherbergt
+    und über Holzstege zugänglich ist.
+  it: >-
+    Un altopiano forestale sul culmine delle Ardenne occidentali, con una torbiera di versante che custodisce
+    felci reali ed è percorsa da passerelle di legno.
+  pt: >-
+    Um planalto florestal no cume das Ardenas ocidentais, com uma turfeira inclinada que preserva fetos-reais
+    e é percorrida sobre passadiços de madeira.
+observaciones:
+  es: >-
+    Durante las cacerías en el macizo forestal puede prohibirse el acceso a la Croix-Scaille y a la torre. En
+    la turbera, mantente en las pasarelas. Los mejores meses van de mayo a octubre.
+texto:
+  es:
+    intro: >-
+      En lo alto de la provincia de Namur, a 503 metros, un reloj de arena de sesenta metros asoma sobre el
+      bosque. Es la Tour du Millénaire, el belvedere que corona la meseta de la Croix-Scaille, y desde sus
+      plataformas se ve el mar de copas del macizo que la rodea: unas 3500 hectáreas de plantaciones de pícea,
+      hayedo seminatural, turberas, brezales y abedulares que continúan al otro lado de la frontera, en el
+      bosque de Givet, en Francia.
+    landscape: >-
+      La Croix-Scaille es el techo de la región: la meseta alcanza 503 metros de altitud, limitada al norte
+      por el valle del Semois y al este por el Mosa. El macizo se reparte de forma equilibrada entre
+      plantaciones de pícea y hayedo seminatural, y dentro de esa matriz aparecen turberas, brezales y
+      abedulares. La mayor parte está clasificada como zona Natura 2000, con una biodiversidad muy rica.
+
+
+      La torre es la mejor forma de verlo de golpe. Tiene tres plataformas de observación, a 15, 30 y 45
+      metros, y 243 escalones. Desde arriba se divisa gratis el paisaje en más de treinta kilómetros a la
+      redonda, con las Ardenas belgas y francesas. Sus patas son troncos de abeto de Douglas del bosque de
+      alrededor. En esta cumbre han existido cuatro torres a lo largo del tiempo.
+    wildlife: >-
+      El rincón de naturaleza más delicado es la reserva de Fange de l’Abîme, de algo más de ocho hectáreas.
+      Es una turbera de ladera, ácida y extremadamente húmeda, sometida a un clima riguroso cerca de los 500
+      metros. Allí crece el algodón de pantano, una planta que solo vive en turberas y cuya flor recuerda a
+      una mecha de algodón; antes se usaba para mechas de lámparas de aceite. En el noroeste de la reserva, el
+      helecho real forma una decena de enormes montículos, y es una especie muy rara.
+
+
+      Entre los animales se pueden observar la tarabilla europea, el alcaudón norteño y la víbora europea.
+      Para que la turbera no se pierda, el equipo vigila que sauces y abedules no la colonicen.
+    visit: >-
+      El recinto de la torre abre todos los días, del amanecer al anochecer, y es punto de partida o de paso
+      de numerosos paseos balizados. En la reserva de Fange de l’Abîme hay un paseo con pasarelas de madera
+      que cruza la turbera: abierto al público, pide quedarse en los senderos para proteger el lugar.
+
+
+      En Gedinne, la Maison Languillier es un centro de interpretación con exposiciones temáticas que se
+      renuevan periódicamente.
+    history: >-
+      Se cuenta que el bosque de la meseta lo usó la Resistencia durante la Segunda Guerra Mundial. La reserva
+      natural de Fange de l’Abîme se creó en 1985 y protege una de las escasas turberas de ladera que quedan
+      en Valonia; desde entonces recibe un mantenimiento permanente.
+    before: >-
+      Durante las cacerías en el macizo forestal puede prohibirse el acceso a la Croix-Scaille y a la torre.
+      En la turbera, mantente en las pasarelas. Los mejores meses van de mayo a octubre.
+    around: >-
+      A dos kilómetros queda el [Parque Nacional del Valle del
+      Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/), y a veintiséis el [Bosque de
+      Anlier](/lugar/foret-d-anlier/).
+  en:
+    intro: >-
+      At the highest point of the province of Namur, at 503 metres, a sixty-metre hourglass tower rises
+      dramatically above the forest canopy. This is the Tour du Millénaire, the monumental lookout crowning
+      the Croix-Scaille plateau, offering views over an unbroken green ocean across the surrounding massif:
+      roughly 3500 hectares of spruce stands, semi-natural beechwoods, acidic bogs, heaths, and birch mires
+      that flow seamlessly across the border into the Givet state forest in France.
+    landscape: >-
+      The Croix-Scaille marks the rooftop of the western Ardennes: the plateau crests at 503 metres elevation,
+      flanked to the north by the Semois valley and to the east by the Meuse. The forested massif is evenly
+      divided between commercial spruce forestry and semi-natural ancient beech woods, interspersed with
+      relict peat bogs, heaths, and swamp birch stands. Most of the territory is designated within the Natura
+      2000 network, sustaining exceptional biodiversity.
+
+
+      The lookout tower provides the quintessential vantage point over the forest. It features three
+      observation decks, at 15, 30 and 45 metres, accessed via 243 steps. From the top platform you can look
+      out free of charge across thirty kilometres in every direction over the Belgian and French Ardennes. Its
+      structural pillars are giant Douglas fir trunks harvested directly from the surrounding woodland. Four
+      successive lookout towers have graced this summit over the centuries.
+    wildlife: >-
+      The most ecologically fragile sanctuary on the plateau is the Fange de l'Abîme nature reserve, covering
+      just over eight hectares. It is a sloping, intensely saturated ombrotrophic peat bog enduring a harsh
+      upland climate near 500 metres elevation. Here thrives common cottongrass, an obligate bog plant whose
+      fluffy white seedheads resemble cotton wicks, historically harvested for oil lamp wicks. In the
+      northwestern corner of the reserve, the royal fern forms a dozen giant hummocks, flourishing as a
+      protected botanical rarity.
+
+
+      Faunal observations include the European stonechat, great grey shrike, and European adder. To prevent
+      the degradation of the peat bog, conservation wardens actively clear invading birch and willow saplings.
+    visit: >-
+      The tower grounds remain open daily from dawn to dusk, serving as the departure hub for numerous
+      waymarked forest trails. Within the Fange de l'Abîme nature reserve, a wooden boardwalk loop traverses
+      the heart of the peat mire: it is open to visitors with the strict requirement to stay on the boards to
+      protect the fragile moss carpet.
+
+
+      In nearby Gedinne, the Maison Languillier houses an interpretive visitor centre presenting rotating
+      educational exhibits on Ardennes natural heritage.
+    history: >-
+      During the Second World War, the secluded forests of the high plateau served as a vital stronghold for
+      Belgian Resistance fighters. The Fange de l'Abîme nature reserve was officially established in 1985 to
+      safeguard one of the few surviving sloping peat bogs in Wallonia, benefiting from continuous habitat
+      management ever since.
+    before: >-
+      During autumnal hunting drives in the forest massif, access to the Croix-Scaille plateau and the
+      observation tower may be prohibited. In the peat bog, always remain strictly on the boardwalks. Optimal
+      months to visit run from May to October.
+    around: >-
+      Two kilometres away lies [Semois Valley National Park](/lugar/parc-naturel-de-la-vallee-de-la-semois/),
+      while twenty-six kilometres to the east extends the ancient [Anlier Forest](/lugar/foret-d-anlier/).
+  fr:
+    intro: >-
+      Au point culminant de la province de Namur, à 503 mètres d'altitude, un sablier monumental de soixante
+      mètres émerge de la canopée. C'est la Tour du Millénaire, le belvédère coiffant le plateau de la
+      Croix-Scaille, d'où l'on contemple l'océan de cimes du massif environnant : environ 3500 hectares
+      d'épicéas, de hêtraies semi-naturelles, de tourbières, de landes et de boulaies qui se prolongent
+      au-delà de la frontière dans la forêt française de Givet.
+    landscape: >-
+      La Croix-Scaille forme le toit de la région : le plateau culmine à 503 mètres d'altitude, ceinturé au
+      nord par la vallée de la Semois et à l'est par la Meuse. Le massif forestier s'équilibre entre pessières
+      de production et hêtraies semi-naturelles, au sein desquelles se nichent tourbières, landes et boulaies
+      tourbeuses. La majeure partie du site est intégrée au réseau Natura 2000, garantissant une remarquable
+      richesse écologique.
+
+
+      La tour d'observation offre la vision la plus spectaculaire du massif. Elle compte trois plates-formes,
+      à 15, 30 et 45 mètres, totalisant 243 marches. Du sommet, le panorama s'étend gratuitement à plus de
+      trente kilomètres à la ronde sur les Ardennes belges et françaises. Ses piliers sont faits de troncs
+      massifs de douglas issus des forêts voisines. Quatre tours successives se sont succédé sur cette
+      éminence à travers les âges.
+    wildlife: >-
+      Le joyau naturel le plus précieux est la réserve naturelle de la Fange de l'Abîme, couvrant un peu plus
+      de huit hectares. C'est une tourbière de pente acide et gorgée d'eau, exposée à un climat rude près des
+      500 mètres d'altitude. Y croît la linaigrette vaginée, plante typique des tourbières dont les pompons
+      blancs servaient autrefois de mèches pour les lampes à huile. Dans la partie nord-ouest de la réserve,
+      l'osmonde royale dresse une dizaine de spectaculaires mottes géantes, protégées en tant que reliques
+      exceptionnelles.
+
+
+      Côté faune, vous pouvez observer le tarier pâtre, la pie-grièche grise et la vipère péliade. Pour
+      préserver l'intégrité de la tourbière, les gestionnaires éliminent régulièrement les semis invasifs de
+      saules et de bouleaux.
+    visit: >-
+      Le site de la tour est accessible tous les jours du lever au coucher du soleil, servant de départ à de
+      multiples sentiers balisés. Dans la réserve de la Fange de l'Abîme, un ponton sur caillebotis en bois
+      permet de franchir la tourbière : le parcours est ouvert au public à condition de rester sur les
+      passerelles pour préserver les sphaignes.
+
+
+      À Gedinne, la Maison Languillier constitue un centre d'interprétation proposant des expositions
+      didactiques temporaires sur le patrimoine ardennais.
+    history: >-
+      Durant la Seconde Guerre mondiale, les fourrés du plateau servirent de refuge secret aux maquisards de
+      la Résistance. La réserve naturelle de la Fange de l'Abîme fut créée en 1985 afin de pérenniser l'une
+      des rarissimes tourbières de pente subsistant en Wallonie ; elle bénéficie d'un entretien écologique
+      régulier.
+    before: >-
+      En période de battues de chasse dans le massif, l'accès à la Croix-Scaille et à la tour peut être
+      temporairement interdit. Dans la tourbière, restez obligatoirement sur les caillebotis. Les mois idéaux
+      vont de mai à octobre.
+    around: >-
+      À deux kilomètres s'étend le [parc national de la vallée de la
+      Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/), et à vingt-six kilomètres la vaste [forêt
+      d'Anlier](/lugar/foret-d-anlier/).
+  de:
+    intro: >-
+      Am höchsten Punkt der Provinz Namur ragt auf 503 Metern eine sechzig Meter hohe Sanduhrkonstruktion über
+      das Kronendach. Es ist die Tour du Millénaire, der Aussichtsturm auf dem Plateau der Croix-Scaille, von
+      dessen Plattformen man über das weite Waldmeer des umliegenden Massivs blickt: rund 3500 Hektar
+      Fichtenforste, naturnahe Buchenwälder, Hangmoore, Heiden und Birkenbrüche, die jenseits der Grenze im
+      französischen Wald von Givet nahtlos weiterlaufen.
+    landscape: >-
+      Die Croix-Scaille bildet das Dach der westlichen Ardennen: Das Plateau erreicht 503 Meter Meereshöhe,
+      nach Norden durch das Semois-Tal und nach Osten durch die Maas begrenzt. Das Massiv verteilt sich
+      ausgewogen auf Fichtenforste und alte Buchenbestände, in die Heiden, Moore und Birkenmoore eingebettet
+      sind. Der überwiegende Teil ist als Natura-2000-Gebiet geschützt und zeichnet sich durch hohe
+      Biodiversität aus.
+
+
+      Der Turm erschließt diesen Wald am eindrucksvollsten. Er besitzt drei Aussichtsplattformen, auf 15, 30
+      und 45 Metern, die über 243 Stufen erreichbar sind. Von oben öffnet sich ein kostenloser Rundblick über
+      mehr als dreißig Kilometer über die belgischen und französischen Ardennen. Die Träger bestehen aus
+      gewaltigen Douglasienstämmen der umliegenden Forste. Auf diesem Gipfel standen im Laufe der Jahrhunderte
+      vier verschiedene Türme.
+    wildlife: >-
+      Das empfindlichste Biotop des Gebiets ist das Naturschutzgebiet Fange de l'Abîme, das gut acht Hektar
+      umfasst. Es handelt sich um ein saures, nasses Hangmoor in rauem Höhenklima nahe der 500-Meter-Grenze.
+      Hier gedeiht das Scheiden-Wollgras, dessen watteartige Fruchtstände früher als Lampendochte gesammelt
+      wurden. Im Nordwesten des Schutzgebiets bildet der seltene Königsfarn ein Dutzend mächtiger Bülten, eine
+      botanische Kostbarkeit.
+
+
+      Unter den Vögeln und Reptilien lassen sich Schwarzkehlchen, Raubwürger und Kreuzotter antreffen. Damit
+      das Moor nicht verlandet, entfernen Ranger regelmäßig aufkommende Weiden- und Birkenschösslinge.
+    visit: >-
+      Das Turmgelände ist täglich von Sonnenaufgang bis Sonnenuntergang geöffnet und dient als Knotenpunkt
+      markierter Rundwanderwege. Im Schutzgebiet Fange de l'Abîme führt ein Holzbohlensteg durch das Hangmoor:
+      Der Weg steht Besuchern offen, die zum Schutz der Pflanzendecke auf den Stegen bleiben müssen.
+
+
+      Im nahen Gedinne informiert die Maison Languillier mit regelmäßig wechselnden Ausstellungen über die
+      Natur und Geschichte der Ardennen.
+    history: >-
+      Im Zweiten Weltkrieg diente der dichte Hochwald des Massivs der belgischen Résistance als geheimes
+      Rückzugsgebiet. Das Naturschutzgebiet Fange de l'Abîme wurde 1985 eingerichtet und schützt eines der
+      wenigen erhaltenen Hangmoore der Wallonie; seither wird es durch kontinuierliche Landschaftspflege
+      erhalten.
+    before: >-
+      Während herbstlicher Treibjagden im Forstgebiet kann der Zugang zur Croix-Scaille und zum Turm gesperrt
+      sein. Im Moor darfst du die Holzstege nicht verlassen. Die besten Reisemonate sind Mai bis Oktober.
+    around: >-
+      Nur zwei Kilometer entfernt liegt der [Nationalpark
+      Semois-Tal](/lugar/parc-naturel-de-la-vallee-de-la-semois/), und in sechsundzwanzig Kilometern
+      Entfernung erstreckt sich der [Wald von Anlier](/lugar/foret-d-anlier/).
+  it:
+    intro: >-
+      Sul punto più alto della provincia di Namur, a 503 metri, una clessidra monumentale di sessanta metri
+      spunta dalla foresta. È la Tour du Millénaire, la torre belvedere che corona l'altopiano della
+      Croix-Scaille, dai cui ballatoi si domina una distesa verde ininterrotta: circa 3500 ettari di
+      piantagioni di abete rosso, faggete seminaturali, torbiere, brughiere e betulle che proseguono
+      oltreconfine nella foresta francese di Givet.
+    landscape: >-
+      La Croix-Scaille rappresenta il tetto della regione: l'altopiano tocca i 503 metri di altitudine,
+      delimitato a nord dalla valle della Semois e a est dalla Mosa. Il massiccio forestale è suddiviso
+      armoniosamente tra boschi di conifere e faggete vetuste, al cui interno allignano torbiere e brughiere
+      acide. La maggior parte è tutelata nella rete Natura 2000 per l'alto valore ecologico.
+
+
+      La torre panoramica costituisce il modo ideale per abbracciare l'intero paesaggio. Dispone di tre
+      piattaforme di avvistamento, a 15, 30 e 45 metri, per complessivi 243 gradini. Dalla sommità lo sguardo
+      spazia gratuitamente per oltre trenta chilometri sulle Ardenne belghe e francesi. I piloni portanti sono
+      enormi tronchi di abete di Douglas ricavati dai boschi adiacenti. Quattro torri si sono succedute su
+      questo colle nel corso della storia.
+    wildlife: >-
+      Il settore naturalistico più delicato è la riserva naturale della Fange de l'Abîme, estesa su poco più
+      di otto ettari. Si tratta di una torbiera di versante acida e acquitrinosa, sottoposta a un clima
+      montano severo vicino ai 500 metri di quota. Vi cresce l'erioforo, pianta esclusiva delle torbiere i cui
+      bioccoli lanosi venivano un tempo impiegati come stoppini per lucerne. Nel settore nord-occidentale
+      della riserva la felce reale forma una decina di grandi ceppaie cespitose, specie assai rara e protetta.
+
+
+      Tra gli animali si possono avvistare il saltimpalo, l'averla maggiore e il marasso. Per impedire
+      l'inaridimento della torbiera, il personale forestale provvede allo sfoltimento periodico di salici e
+      betulle pioniere.
+    visit: >-
+      L'area della torre è accessibile ogni giorno dall'alba al tramonto e funge da capolinea per numerosi
+      itinerari pedonali segnalati. Nella riserva della Fange de l'Abîme una passerella in legno attraversa la
+      torbiera: è aperta al pubblico con l'obbligo tassativo di non abbandonare i pontili per non danneggiare
+      i cuscinetti di sfagno.
+
+
+      A Gedinne, la Maison Languillier è un centro didattico che ospita mostre a tema sul patrimonio
+      ambientale ardennese.
+    history: >-
+      Durante la Seconda Guerra Mondiale i boschi dell'altopiano offrirono rifugio ai partigiani della
+      Resistenza belga. La riserva naturale della Fange de l'Abîme venne istituita nel 1985 per preservare una
+      delle rare torbiere inclinate rimaste in Vallonia, beneficiando da allora di cure costanti.
+    before: >-
+      Durante le battute di caccia nel demanio forestale l'accesso alla Croix-Scaille e alla torre può essere
+      vietato. Nella torbiera cammina rigorosamente sulle passerelle di legno. I mesi consigliati vanno da
+      maggio a ottobre.
+    around: >-
+      A due chilometri si trova il [Parco nazionale della valle della
+      Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/), e a ventisei la monumentale [Foresta di
+      Anlier](/lugar/foret-d-anlier/).
+  pt:
+    intro: >-
+      No cimo da província de Namur, a 503 metros de altitude, uma torre em forma de ampulheta com sessenta
+      metros eleva-se acima das copas. É a Tour du Millénaire, o miradouro monumental que coroa o planalto da
+      Croix-Scaille, de onde se contempla um imenso oceano florestal circundante: cerca de 3500 hectares de
+      plantações de abeto, faiais seminaturais, turfeiras, charnecas e bétulas que prosseguem além-fronteira
+      na floresta de Givet, em França.
+    landscape: >-
+      A Croix-Scaille é o cume da região: o planalto atinge os 503 metros de altitude, confinado a norte pelo
+      vale do Semois e a leste pelo Mosa. O maciço florestal reparte-se equilibradamente entre povoamentos de
+      espruce e faiais maduros, entre os quais surgem turfeiras ácidas e charnecas de urze. A maior parte está
+      integrada na rede Natura 2000 mercê da sua expressiva biodiversidade.
+
+
+      A torre de observação é o melhor ponto para apreender esta vastidão. Possui três plataformas, a 15, 30 e
+      45 metros, somando 243 degraus. Do patamar superior descortina-se gratuitamente um raio de mais de
+      trinta quilómetros pelas Ardenas belgas e francesas. Os pilares de sustentação são troncos de
+      abeto-de-Douglas cortados no bosque adjacente. Quatro torres sucederam-se neste cabeço ao longo da
+      história.
+    wildlife: >-
+      O recanto natural mais sensível é a reserva da Fange de l'Abîme, com pouco mais de oito hectares. É uma
+      turfeira de encosta, ácida e permanentemente saturada de água, submetida a um clima áspero próximo dos
+      500 metros. Ali viceja o algodão-dos-pauis, planta confinada a turfeiras cuja penugem alva era outrora
+      usada em torcidas de candeias. No setor noroeste da reserva, o feto-real forma uma dezena de tufos
+      gigantescos, constituindo espécie de elevado valor conservacionista.
+
+
+      Na fauna assinalam-se o cartaxo-comum, o picanço-real e a víbora-europeia. Para salvaguardar a turfeira,
+      a equipa de gestão remove periodicamente rebentos pioneiros de salgueiro e bétula.
+    visit: >-
+      O recinto da torre abre diariamente do nascer ao pôr do sol, funcionando como ponto de partida de
+      percursos pedestres balizados. Na reserva da Fange de l'Abîme existe um passadiço de tábuas de madeira
+      que cruza o coração da turfeira: o acesso é livre, exigindo-se a permanência sobre as estruturas de
+      madeira para proteger o tapete de esfagno.
+
+
+      Em Gedinne, a Maison Languillier alberga um centro interpretativo com exposições temáticas periódicas
+      dedicadas à paisagem das Ardenas.
+    history: >-
+      Durante a Segunda Guerra Mundial, as brenhas deste planalto abrigaram células da Resistência belga. A
+      reserva natural da Fange de l'Abîme foi criada em 1985 para resguardar uma das poucas turfeiras
+      inclinadas sobreviventes na Valónia, recebendo desde então intervenções contínuas de gestão ecológica.
+    before: >-
+      Durante as montarias de caça no maciço florestal o acesso à Croix-Scaille e à torre pode ser
+      temporariamente vedado. Na turfeira, mantém-te nos passadiços de madeira. Os melhores meses decorrem de
+      maio a outubro.
+    around: >-
+      A escassos dois quilómetros situa-se o [Parque Nacional do Vale do
+      Semois](/lugar/parc-naturel-de-la-vallee-de-la-semois/), e a vinte e seis a extensa [Floresta de
+      Anlier](/lugar/foret-d-anlier/).
+fuentes:
+  - url: https://www.ardenne-meridionale.be/decouvrir-territoire/113/la-croix-scaille/
+    titulo: La Croix-Scaille — Parc naturel de l’Ardenne méridionale
+    fecha_consulta: '2026-11-06'
+  - url: https://www.ardenne-meridionale.be/decouvrir-territoire/126/la-reserve-naturelle-domaniale-des-fanges-de-l-abime/
+    titulo: La réserve naturelle domaniale de la Fange de l’Abîme — Parc naturel de l’Ardenne méridionale
+    fecha_consulta: '2026-11-06'
+  - url: https://www.ardenne-meridionale.be/decouvrir-territoire/104/gedinne/
+    titulo: Gedinne — Parc naturel de l’Ardenne méridionale
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Croix_Scaille
+    titulo: Croix Scaille – Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.actutourisme-gedinne.be/a-decouvrir/tour-du-millenaire/
+    titulo: Tour du Millénaire – Gedinne
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Tour_du_Mill%C3%A9naire
+    titulo: Tour du Millénaire – Wikipedia
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Vue_Tour_Millenaire.jpg
+    autor: Caemir
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-21'

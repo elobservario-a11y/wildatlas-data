@@ -1,0 +1,553 @@
+id: archipel-de-chausey
+estado_editorial: valoracion-revisada
+nombre:
+  es: Archipiélago de Chausey
+  en: Chausey Archipelago
+  fr: Archipel de Chausey
+  de: Chausey-Archipel
+  it: Arcipelago di Chausey
+  pt: Arquipélago de Chausey
+nombre_original: Archipel de Chausey
+alias:
+  - Archipel de Chausey
+paises:
+  - FR
+region:
+  es: Normandía (Mancha / Gran-Ville)
+  en: Normandy (Manche / Granville)
+  fr: Normandie (Manche / Granville)
+  de: Normandie (Manche / Granville)
+  it: Normandia (Manica / Granville)
+  pt: Normandia (Mancha / Granville)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.87
+  lon: -1.82
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 193356
+  nombre_en_la_fuente: Iles chausey
+  categoria_uicn: IV
+  capa: capas/cdda/archipel-de-chausey.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - natura2000
+especies:
+  - halichoerus_grypus
+  - tursiops_truncatus
+  - phalacrocorax_carbo
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 2
+masificacion_nota:
+  es: Media en los barcos de excursión diurna desde Granville
+  en: Moderate on day-trip ferry services from Granville
+  fr: Fréquentation modérée sur les vedettes d'excursion depuis Granville
+  de: Mäßig auf den Ausflugsbooten ab Granville
+  it: Media sui battelli di linea da Granville
+  pt: Média nas embarcações de carreira regular a partir de Granville
+valoracion: 4
+dias_visita:
+  min: 0.5
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Conservatoire du Littoral Chausey
+    url: https://www.conservatoire-du-littoral.fr/
+  - titulo: Gestor, normas y ruta — Islas Chausey
+    url: https://www.conservatoire-du-littoral.fr/siteLittoral/328/28-iles-chausey-50_manche.htm
+resumen:
+  es: >-
+    El archipiélago insular más grande de Europa por amplitud de mareas (52 islotes en pleamar que se
+    convierten en 365 en bajamar).
+  en: Europe's largest insular archipelago by tidal range (52 islets at high tide expanding to 365 at low tide).
+  fr: >-
+    Le plus vaste archipel insulaire d'Europe par le marnage (52 îlots à marée haute se muant en 365 à marée
+    basse).
+  de: >-
+    Europas größter Inselarchipel nach Tidenhub (52 Inseln bei Flut, die sich bei Ebbe in 365 Inseln und Riffe
+    verwandeln).
+  it: >-
+    Il più grande arcipelago insulare d'Europa per escursione di marea (52 isolotti con l'alta marea che
+    diventano 365 con la bassa marea).
+  pt: >-
+    O maior arquipélago insular da Europa por amplitude de marés (52 ilhéus na preia-mar que se convertem em
+    365 na baixa-mar).
+unico:
+  es: >-
+    Chausey es el único sitio de reproducción en Francia de la serreta mediana, en un archipiélago donde la
+    marea puede subir y bajar hasta 14 metros.
+  en: >-
+    Chausey is the sole breeding colony in France for the red-breasted merganser, across an archipelago where
+    tidal fluctuations reach up to 14 metres.
+  fr: >-
+    Chausey constitue l'unique site de nidification en France du harle huppé, au cœur d'un archipel où le
+    marnage atteint jusqu'à 14 mètres.
+  de: >-
+    Chausey ist der einzige Brutplatz des Mittelsägers in ganz Frankreich, in einem Archipel mit einem
+    Gezeitenhub von bis zu 14 Metern.
+  it: >-
+    Chausey è l'unico sito di nidificazione in Francia dello smergo minore, in un arcipelago dove l'escursione
+    di marea può raggiungere 14 metri.
+  pt: >-
+    Chausey acolhe o único núcleo reprodutor em França de merganso-de-poupa, num arquipélago onde a amplitude
+    de maré atinge até 14 metros.
+observaciones:
+  es: >-
+    El acceso a los islotes está restringido para no molestar a las nidadas. En la Grande Île, mantente en los
+    senderos balizados y respeta la quietud de los habitantes y de las aves.
+texto:
+  es:
+    intro: >-
+      Con la marea alta, Chausey es un puñado de islas de granito; con la baja, un laberinto que se extiende
+      hasta el horizonte. La leyenda local lo resume en dos cifras: 52 islas en pleamar, como las semanas del
+      año, y 365 en bajamar, como los días. Lo cierto es que el archipiélago, a 16 km de la costa normanda y
+      frente a Granville, tiene una veintena de islas y algo más de 130 islotes, y que a marea alta apenas
+      suma 65 hectáreas de tierra. Lo demás es mar que se retira, rocas, arena y una vida que se organiza al
+      ritmo de las mareas, que aquí figuran entre las más fuertes de Europa.
+    landscape: >-
+      Todo es granito. Las islas son un plutón granítico, parte del batolito mancelliano, y los islotes
+      graníticos se formaron hace 540 millones de años. Durante siglos fueron cantera: los monjes del
+      Mont-Saint-Michel se consideran los primeros en explotarla, quizá desde el siglo XI, y con la piedra de
+      Chausey se construyó parte del Mont-Saint-Michel. En el siglo XIX llegaron casi 500 personas a trabajar
+      las canteras repartidas por 37 islotes, y las ruinas de sus casas aún se ven.
+
+
+      La Grande Île es la isla principal, de unos 1,5 km por 0,5 km. En realidad son tres islas unidas por un
+      tómbolo, con un punto culminante de 24 m. Sus caminos de piedra y arena están bordeados de matorrales de
+      tojo y retama espinosa. No hay coches: solo circulan unos pocos tractores y vehículos de servicio. En
+      invierno solo vive allí una decena de personas.
+
+
+      Con la marea baja, la meseta de rocas y arena forma una elipse de 10 por 5 kilómetros. Bajo el agua,
+      Chausey conserva praderas poco comunes de zostera, una planta marina con flores.
+    wildlife: >-
+      Más de 200 especies de aves frecuentan el archipiélago. La reserva ornitológica, creada en 1987, cuenta
+      243 especies, entre ellas serretas, cormoranes, tarros blancos, charranes y gaviotas. En bajamar, los
+      ostreros representan más del 15 % de la población francesa de esta especie; en pleamar pueden verse
+      gaviotas, cormoranes grandes y cormoranes moñudos.
+
+
+      En el agua, el [delfín mular](/especie/tursiops_truncatus/) es el cetáceo más fácil de observar,
+      especialmente desde el barco entre el continente y la Grande Île. Cada año, desde 1984, los voluntarios
+      del GONm censan las aves nidificantes del archipiélago en una estancia que se celebra en la Ascensión.
+    visit: >-
+      La Grande Île se visita todo el año por los senderos balizados; las zonas del Tombolo y del Gros mont
+      están cerradas. Las lanzaderas entre Granville y la isla hacen dos viajes por semana en invierno y más
+      de diez en verano. El Conservatoire ofrece una ruta a pie descargable en su ficha del sitio.
+
+
+      Entre los lugares de interés están el crómlech de l'Œillet, la Pierre du Sacrifice, que es un dolmen, y
+      el faro, de 1847 y 37 m de altura. Los primeros rastros humanos son del Neolítico, y el crómlech se
+      levanta en las marismas del norte del Sound.
+    history: >-
+      En 1022 el duque de Normandía donó las islas a los monjes del Mont-Saint-Michel, que levantaron un
+      priorato benedictino en la Grande Île. Chausey es el único archipiélago normando que siguió siendo
+      francés tras el tratado de Brétigny, de 1360. Desde el siglo XVII las algas pardas hicieron de él un
+      lugar de extracción de sosa, para jabón y vidrio, y en el siglo XIX llegaron naturalistas atraídos por
+      la biodiversidad del litoral.
+
+
+      En mayo de 1988 el archipiélago fue designado ZEPA, el primer sitio normando en serlo. El plan de
+      gestión de 2009 tiene como objetivo conservar el patrimonio terrestre y marino. La presión turística
+      crece, con visitantes y pescadores a pie que llegan en lanzaderas, veleros y barcos a motor.
+    before: >-
+      El acceso a los islotes está restringido para no molestar a las nidadas. En la Grande Île, mantente en
+      los senderos balizados y respeta la quietud de los habitantes y de las aves.
+    around: >-
+      El [Parque Nacional de las Islas Atlánticas de
+      Galicia](/lugar/parque-nacional-islas-atlanticas-de-galicia/) comparte con Chausey el delfín mular y la
+      costa y el mar abiertos. [Great Blasket Island](/lugar/great-blasket-island/), [Lundy](/lugar/lundy/) y
+      [Lunga (Islas Treshnish)](/lugar/lunga-treshnish-isles/) comparten la [foca
+      gris](/especie/halichoerus_grypus/) y la vida costera y marina.
+  en:
+    intro: >-
+      At high tide, Chausey appears as a scattered cluster of granite islets; at low water, an immense
+      labyrinth of reefs extends to the horizon. Local tradition summarizes this metamorphosis in two numbers:
+      52 islands at high tide, matching the weeks of the year, and 365 at low tide, matching the days. In
+      reality, the archipelago, lying 16 km off the Norman coast opposite Granville, comprises around twenty
+      main islands and over 130 rocky islets, yet at peak flood tide it totals barely 65 hectares of dry land.
+      Everything else is receding sea, exposed reefs, sandflats, and a maritime ecosystem governed by tidal
+      amplitudes that rank among the most powerful in Europe.
+    landscape: >-
+      Everything here is granite. The islands constitute an exposed granitic pluton, part of the ancient
+      Mancellian batholith, with the granite rocks crystallizing around 540 million years ago. For centuries
+      they served as an offshore stone quarry: the Benedictine monks of Mont-Saint-Michel are regarded as the
+      first quarrymen, potentially beginning in the eleventh century, providing granite used in building
+      Mont-Saint-Michel itself. During the nineteenth century nearly 500 quarrymen laboured across 37 islets,
+      leaving behind the ruins of their historic stone cottages.
+
+
+      Grande Île is the primary island, measuring roughly 1.5 km by 0.5 km. In morphological terms it consists
+      of three granite knolls bound together by a tombolo, rising to a high point of 24 m. Its sandy walking
+      tracks are flanked by maritime gorse and blackthorn scrub. Private cars are prohibited: only a handful
+      of farm tractors and municipal utility vehicles operate. In winter, barely a dozen permanent residents
+      inhabit the island.
+
+
+      At low spring tide, the exposed reef and sand platform forms an ellipse measuring 10 by 5 kilometres.
+      Beneath the waves, Chausey shelters extraordinary meadows of common eelgrass (Zostera marina), a
+      flowering marine seagrass.
+    wildlife: >-
+      More than 200 bird species frequent the archipelago throughout the seasons. The bird reserve,
+      established in 1987, records 243 species, including mergansers, cormorants, common shelducks, terns, and
+      gulls. At low water, wintering Eurasian oystercatchers account for over 15% of the total French
+      population; at high tide, common gulls, great cormorants, and European shags crowd exposed roosts.
+
+
+      In the surrounding waters, the [common bottlenose dolphin](/especie/tursiops_truncatus/) is the most
+      frequently observed marine mammal, particularly along the ferry crossing between Granville and Grande
+      Île. Every year since 1984, ornithologists from the Groupe Ornithologique Normand census the breeding
+      birds during an annual survey at Ascension.
+    visit: >-
+      Grande Île is accessible year-round along marked coastal paths; the fragile sensitive dunes of the
+      Tombolo and Gros Mont are closed to public access. Passenger ferry shuttles between Granville and the
+      island operate two crossings weekly in winter, expanding to more than ten daily sailings during peak
+      summer. The Conservatoire du Littoral provides a downloadable walking guide on its reserve portal.
+
+
+      Key heritage landmarks include the stone cromlech of l'Œillet, the Pierre du Sacrifice dolmen, and the
+      historic granite lighthouse, built in 1847 and standing 37 m high. The earliest human traces date back
+      to the Neolithic, with the cromlech standing above the northern marshes of the Sound.
+
+
+      Grande Île features no hotels; small seasonal gîtes and seasonal boat moorings serve arriving yachts.
+    history: >-
+      In 1022 the Duke of Normandy granted the archipelago to the monks of Mont-Saint-Michel, who established
+      a priory on Grande Île. Chausey remained the only Norman island group retained under French sovereignty
+      following the Treaty of Brétigny in 1360. From the seventeenth century onwards, kelp gathering
+      flourished, burning seaweed into soda ash for regional soap and glass manufacture, while in the
+      nineteenth century pioneering naturalists arrived to document its intertidal biodiversity.
+
+
+      In May 1988 the archipelago was classified as a Special Protection Area (SPA), the first in Normandy.
+      The 2009 management plan safeguards both terrestrial and marine biotopes. Tourism pressures continue to
+      rise, with shore anglers and day-trippers arriving via ferries, sailing yachts, and motorboats.
+    before: >-
+      Access to satellite islets is restricted during the nesting season to protect ground-nesting seabirds.
+      On Grande Île, remain on waymarked paths and respect the tranquility of residents and wildlife.
+    around: >-
+      [Galicia Atlantic Islands Maritime-Terrestrial National
+      Park](/lugar/parque-nacional-islas-atlanticas-de-galicia/) shares bottlenose dolphins, coastal
+      seascapes, and open waters with Chausey. [Great Blasket Island](/lugar/great-blasket-island/),
+      [Lundy](/lugar/lundy/), and [Lunga (Treshnish Isles)](/lugar/lunga-treshnish-isles/) share the [grey
+      seal](/especie/halichoerus_grypus/) and marine coastal biotopes.
+  fr:
+    intro: >-
+      À marée haute, Chausey se résume à une poignée d'îles de granit ; à marée basse, un dédale d'écueils
+      s'étire jusqu'à l'horizon. La tradition insulaire condense cette métamorphose en deux chiffres : 52 îles
+      à marée haute, comme les semaines de l'année, et 365 à marée basse, comme les jours. En vérité,
+      l'archipel, ancré à 16 km au large de Granville sur le littoral normand, comprend une vingtaine d'îles
+      et plus de 130 îlots rocheux, ne totalisant à pleine mer qu'à peine 65 hectares de terres émergées. Le
+      reste appartient à l'estran découvrant, aux platiers rocheux et à une vie rythmée par des marées parmi
+      les plus puissantes d'Europe.
+    landscape: >-
+      Tout est granit. Les îles forment un pluton granitique rattaché au batholite mancellien, cristallisé il
+      y a 540 millions d'années. Durant des siècles, elles servirent de carrières insulaires : les moines du
+      Mont-Saint-Michel furent les premiers carriers, dès le XIe siècle, la pierre de Chausey ayant bâti une
+      partie de la célèbre abbaye. Au XIXe siècle, près de 500 carriers s'activaient sur 37 îlots, dont
+      subsistent les ruines des habitations de pierre.
+
+
+      La Grande Île est la seule île habitée, mesurant environ 1,5 km sur 0,5 km. Elle réunit trois hauteurs
+      de granit reliées par un tombolo sablonneux, s'élevant jusqu'à 24 m d'altitude. Ses sentiers de terre et
+      de sable sont bordés d'ajoncs d'Europe et de prunelliers. Aucune automobile n'y circule : seuls quelques
+      tracteurs et engins de service y sont tolérés. En hiver, une dizaine d'habitants seulement y réside à
+      l'année.
+
+
+      À marée basse, l'estran rocheux dessine une ellipse de 10 kilomètres sur 5. Sous l'eau, Chausey abrite
+      de remarquables herbiers de zostère marine, une plante à fleurs sous-marine.
+    wildlife: >-
+      Plus de 200 espèces d'oiseaux fréquentent l'archipel au fil des saisons. La réserve ornithologique,
+      instituée en 1987, recense 243 espèces, dont le harle huppé, les cormorans, le tadorne de Belon, les
+      sternes et les goélands. À marée basse, les huîtriers-pies hivernants représentent plus de 15 % de
+      l'effectif français ; à marée haute, goélands marins, grands cormorans et cormorans huppés s'agglutinent
+      sur les reposoirs.
+
+
+      Dans les flots, le [grand dauphin](/especie/tursiops_truncatus/) est le cétacé le plus couramment
+      observé, notamment lors de la traversée en vedette depuis Granville. Chaque année depuis 1984, les
+      ornithologues bénévoles du GONm réalisent le suivi des oiseaux nicheurs lors d'un séjour d'étude à
+      l'Ascension.
+    visit: >-
+      La Grande Île se parcourt toute l'année en empruntant les sentiers balisés ; les espaces dunaires du
+      Tombolo et du Gros Mont sont interdits d'accès. Les vedettes maritimes entre Granville et l'île assurent
+      deux rotations hebdomadaires en hiver et plus de dix traversées quotidiennes en été. Le Conservatoire du
+      littoral propose un parcours pédestre téléchargeable.
+
+
+      Parmi les curiosités figurent le cromlech de l'Œillet, la Pierre du Sacrifice (un dolmen) et le phare de
+      Chausey, érigé en 1847 à 37 m de hauteur. Les premiers vestiges humains remontent au Néolithique, le
+      cromlech dominant l'estran nord du Sound.
+
+
+      L'île ne dispose pas d'hôtels réguliers ; des gîtes communaux et des mouillages forains accueillent les
+      plaisanciers.
+    history: >-
+      En 1022, le duc de Normandie fit don des îles aux religieux du Mont-Saint-Michel, qui y bâtirent un
+      prieuré bénédictin. Chausey est le seul archipel normand demeuré sous souveraineté française lors du
+      traité de Brétigny en 1360. Dès le XVIIe siècle, la récolte des varechs et algues brunes alimentait des
+      fours à soude pour la verrerie et les savonneries, tandis qu'au XIXe siècle affluèrent les naturalistes
+      séduits par la faune marine.
+
+
+      En mai 1988, l'archipel fut classé en zone de protection spéciale (ZPS), première du genre en Normandie.
+      Le plan de gestion de 2009 veille à la sauvegarde des milieux terrestres et marins. La pression de
+      fréquentation s'accroît, animée par les pêcheurs à pied, les vedettes de ligne et la plaisance.
+    before: >-
+      L'accès aux îlots périphériques est strictement réglementé en période de reproduction des oiseaux
+      marins. Sur la Grande Île, restez sur les chemins balisés et veillez à ne pas troubler la quiétude des
+      résidents et de la faune.
+    around: >-
+      Le [parc national des îles Atlantiques de Galice](/lugar/parque-nacional-islas-atlanticas-de-galicia/)
+      partage avec Chausey le grand dauphin ainsi que les horizons marins ouverts. [Great Blasket
+      Island](/lugar/great-blasket-island/), [Lundy](/lugar/lundy/) et [Lunga (îles
+      Treshnish)](/lugar/lunga-treshnish-isles/) partagent le [phoque gris](/especie/halichoerus_grypus/) et
+      les habitats côtiers rocheux.
+  de:
+    intro: >-
+      Bei Flut ist Chausey eine Handvoll Granitinseln; bei Ebbe ein gewaltiges Felsenlabyrinth, das bis zum
+      Horizont reicht. Eine lokale Redensart fasst das Naturschauspiel in zwei Zahlen zusammen: 52 Inseln bei
+      Flut, wie die Wochen des Jahres, und 365 bei Ebbe, wie die Tage. Tatsächlich umfasst der Archipel, 16 km
+      vor der Küste der Normandie gegenüber von Granville gelegen, etwa zwanzig Inseln und gut 130 Klippen,
+      wobei bei Hochwasser kaum 65 Hektar Landfläche über die Wellen ragen. Alles andere ist
+      gezeitenabhängiges Watt, Felsriff und Meereslebensraum, geprägt von Tidenhüben, die zu den stärksten
+      Europas zählen.
+    landscape: >-
+      Alles besteht aus Granit. Die Inseln bilden einen Granitpluton als Teil des Cadomischen Sockels,
+      entstanden vor rund 540 Millionen Jahren. Jahrhundertelang dienten die Riffe als Steinbrüche: Die Mönche
+      des Mont-Saint-Michel begannen wohl im elften Jahrhundert mit dem Abbau, und Chausey-Granit baute Teile
+      der berühmten Abtei auf. Im neunzehnten Jahrhundert schlugen fast 500 Steinmetze auf 37 Inselchen
+      Granitquader, deren Steinhütten noch heute als Ruinen sichtbar sind.
+
+
+      Die Grande Île ist die Hauptinsel, etwa 1,5 km lang und 0,5 km breit. Morphologisch besteht sie aus drei
+      Granithügeln, die durch einen Sandtombolo verbunden sind und bis auf 24 m Höhe aufragen. Ihre Naturpfade
+      sind von Stechginster und Schlehen gesäumt. Autos gibt es nicht: Nur Traktoren und Nutzfahrzeuge sind
+      zugelassen. Im Winter überwintern kaum ein Dutzend Menschen auf der Insel.
+
+
+      Bei Ebbe bildet das freigelegte Riffplateau eine Ellipse von 10 mal 5 Kilometern. Unter Wasser gedeihen
+      wertvolle Seegraswiesen aus Zostera marina, einer blühenden Meerespflanze.
+    wildlife: >-
+      Über 200 Vogelarten suchen das Inselrevier auf. Das 1987 eingerichtete Vogelschutzgebiet zählt 243
+      nachgewiesene Arten, darunter Mittelsäger, Kormorane, Brandgänse, Seeschwalben und Möwen. Bei
+      Niedrigwasser versammelt Chausey mehr als 15 % des gesamten französischen Überwinterungsbestandes des
+      Austernfischers; bei Hochwasser rasten Mantelmöwen, Kormorane und Krähenscharben auf den Riffen.
+
+
+      Im umgebenden Meeresgebiet ist der [Große Tümmler](/especie/tursiops_truncatus/) das am häufigsten
+      gesichtete Meeressäugetier, oft direkt von der Fähre aus. Seit 1984 erfassen Ornithologen des Verbandes
+      GONm alljährlich zu Christi Himmelfahrt die Brutvogelbestände des Archipels.
+    visit: >-
+      Die Grande Île ist ganzjährig auf markierten Pfaden zugänglich; die Dünenzonen Tombolo und Gros Mont
+      stehen unter Betretungsverbot. Die Fährschiffe ab Granville verkehren im Winter zwei Mal wöchentlich, im
+      Hochsommer mehr als zehn Mal am Tag. Die Küstenschutzbehörde Conservatoire du Littoral stellt einen
+      Naturführer zum Download bereit.
+
+
+      Zu den Sehenswürdigkeiten zählen der Steinkreis von l'Œillet, der Dolmen Pierre du Sacrifice und der
+      Leuchtturm von 1847 mit 37 m Bauhöhe. Erste Besiedlungsspuren reichen in die Jungsteinzeit zurück; der
+      Steinkreis liegt im nördlichen Watt des Sounds.
+
+
+      Auf der Insel gibt es keine Hotels; einfache Ferienunterkünfte und Bojenfelder dienen Besuchern und
+      Seglern.
+    history: >-
+      Im Jahr 1022 schenkte der Herzog der Normandie die Inseln den Mönchen des Mont-Saint-Michel, die ein
+      Priorat auf der Grande Île gründeten. Chausey blieb nach dem Vertrag von Brétigny von 1360 als einziger
+      normannischer Archipel französisch. Ab dem siebzehnten Jahrhundert diente Braunalgentang zur Gewinnung
+      von Soda für Glashütten und Seifenfabriken, und im neunzehnten Jahrhundert erforschten erste
+      Naturwissenschaftler die Meeresfauna.
+
+
+      Im Mai 1988 wurde der Archipel als erstes Gebiet der Normandie zum Europäischen Vogelschutzgebiet
+      erklärt. Der Managementplan von 2009 sichert Land- und Meeresbiotope. Die touristische Nutzung wächst
+      durch Tagesausflügler, Wattfischer und Sportboote stetig an.
+    before: >-
+      Das Betreten der Nebeninseln ist während der Brutzeit untersagt. Bleib auf der Grande Île stets auf den
+      markierten Wegen und nimm Rücksicht auf Brutvögel und Bewohner.
+    around: >-
+      Der [Nationalpark Islas Atlánticas de Galicia](/lugar/parque-nacional-islas-atlanticas-de-galicia/)
+      teilt mit Chausey den Großen Tümmler und offene Meeresküsten. [Great Blasket
+      Island](/lugar/great-blasket-island/), [Lundy](/lugar/lundy/) und [Lunga
+      (Treshnish-Inseln)](/lugar/lunga-treshnish-isles/) teilen die [Kegelrobbe](/especie/halichoerus_grypus/)
+      und Felsküstenhabitate.
+  it:
+    intro: >-
+      Con l'alta marea, Chausey è un pugno di isole granitiche; con la bassa, un labirinto di scogli che si
+      perde verso l'orizzonte. La memoria locale riassume questa magia in due cifre: 52 isole in piena marea,
+      come le settimane dell'anno, e 365 a secca, come i giorni. In realtà l'arcipelago, situato a 16 km dalla
+      costa normanna davanti a Granville, racchiude una ventina di isole maggiori e oltre 130 scogli minori,
+      totalizzando con l'alta marea appena 65 ettari di terra emersa. Il resto è un mare che si ritira,
+      barriere rocciose, piane sabbiose e una vita scandita da maree tra le più potenti d'Europa.
+    landscape: >-
+      Tutto è granito. Le isole costituiscono un plutone granitico intruso nel basamento mancelliano,
+      consolidatosi circa 540 milioni di anni fa. Per secoli furono sfruttate come cave di pietra: i monaci di
+      Mont-Saint-Michel vi aprirono le prime estrazioni già nell'XI secolo, impiegando il granito di Chausey
+      nella costruzione della celebre abbazia. Nel XIX secolo quasi 500 scalpellini lavoravano su 37 isolotti,
+      lasciando in eredità i ruderi delle loro case di pietra.
+
+
+      La Grande Île è l'isola maggiore, estesa per circa 1,5 km per 0,5 km. Comprende tre rilievi rocciosi
+      uniti da un tombolo sabbioso, culminanti a 24 m d'altezza. I suoi sentieri sono orlati da fitti cespugli
+      di ginestrone e prugnolo. Non circolano automobili: vi transitano solo rari trattori e mezzi di
+      servizio. Durante la stagione invernale vi risiede soltanto una decina di abitanti.
+
+
+      Con la bassa marea la piattaforma di scogli e banchi sabbiosi disegna un'ellisse di 10 per 5 chilometri.
+      Nei fondali, Chausey preserva preziose praterie di zostera marina, una fanerogama marina.
+    wildlife: >-
+      Oltre 200 specie di volatili popolano l'arcipelago durante le stagioni. La riserva ornitologica, nata
+      nel 1987, cataloga 243 specie tra smerghi minori, cormorani, volpoche, sterne e gabbiani. A bassa marea,
+      le beccacce di mare svernanti rappresentano oltre il 15% dell'intera popolazione francese; ad alta marea
+      gabbiani reali, marangoni dal ciuffo e cormorani si ammassano sui dormitori rocciosi.
+
+
+      Nelle acque circostanti il [tursiope](/especie/tursiops_truncatus/) è il mammifero marino di più agevole
+      osservazione, in particolare lungo la rotta marittima da Granville. Dal 1984 i naturalisti volontari del
+      gruppo ornitologico normanno compiono i censimenti annuali dei nidificanti durante il soggiorno
+      dell'Ascensione.
+    visit: >-
+      La Grande Île è accessibile tutto l'anno lungo i tracciati segnati; le zone dunali del Tombolo e del
+      Gros Mont sono interdette al calpestio. I traghetti da Granville compiono due collegamenti settimanali
+      in inverno e oltre dieci traversate al giorno in estate. Il Conservatoire du Littoral mette a
+      disposizione un percorso didattico scaricabile dal web.
+
+
+      Tra i punti di interesse spiccano il cromlech de l'Œillet, il dolmen della Pierre du Sacrifice e il faro
+      di Chausey, costruito nel 1847 e alto 37 m. Le prime testimonianze antropiche risalgono al Neolitico,
+      ergendosi il cromlech sulle barene settentrionali del Sound.
+
+
+      Sull'isola non sorgono alberghi; alloggi comunali e ormeggi accolgono diportisti ed escursionisti.
+    history: >-
+      Nel 1022 il duca di Normandia cedette le isole ai monaci di Mont-Saint-Michel, che eressero un priorato
+      benedettino sulla Grande Île. Chausey è l'unico arcipelago normanno rimasto alla Francia dopo il
+      trattato di Brétigny del 1360. A partire dal XVII secolo la raccolta delle alghe brune alimentò la
+      produzione di soda per vetrerie e saponifici, mentre nel XIX secolo sbarcarono naturalisti attratti
+      dagli ecosistemi intertidali.
+
+
+      Nel maggio 1988 l'arcipelago fu designato Zona di Protezione Speciale, primo sito normanno ad acquisire
+      tale riconoscimento. Il piano di gestione del 2009 salvaguarda gli ambienti terrestri e marini. La
+      frequentazione cresce costantemente, tra pescatori a piedi, passeggeri di linea e imbarcazioni private.
+    before: >-
+      L'approdo agli isolotti esterni è precluso durante la riproduzione per proteggere le nidiate degli
+      uccelli marini. Sulla Grande Île rispetta i sentieri segnati e mantieni la quiete.
+    around: >-
+      Il [Parco nazionale delle Isole Atlantiche della
+      Galizia](/lugar/parque-nacional-islas-atlanticas-de-galicia/) condivide con Chausey il tursiope e i
+      paesaggi marini costieri. [Great Blasket Island](/lugar/great-blasket-island/), [Lundy](/lugar/lundy/) e
+      [Lunga (Isole Treshnish)](/lugar/lunga-treshnish-isles/) condividono la [foca
+      grigia](/especie/halichoerus_grypus/) e le scogliere litoranee.
+  pt:
+    intro: >-
+      Com a maré cheia, Chausey assemelha-se a um punhado de penedos de granito; na baixa-mar, converte-se num
+      labirinto de recifes até à linha do horizonte. A lenda local sintetiza esta alternância em dois números:
+      52 ilhas na preia-mar, tantas quantas as semanas do ano, e 365 na baixa-mar, tantas quantos os dias. Na
+      realidade, o arquipélago, fundeado a 16 km da costa normanda diante de Granville, congrega uma vintena
+      de ilhas e mais de 130 ilhéus, somando na maré cheia apenas 65 hectares de terra firme. O restante
+      território é um oceano que se retira, recifes de rocha, restingas de areia e uma ecologia marinha
+      subordinada a marés que constam entre as mais enérgicas da Europa.
+    landscape: >-
+      Tudo é granito. As ilhas constituem um maciço plutónico associado ao batólito manceliano, consolidado há
+      cerca de 540 milhões de anos. Durante séculos serviram de pedreira: os monges de Mont-Saint-Michel foram
+      os primeiros extratores, porventura desde o século XI, tendo o granito de Chausey edificado partes da
+      célebre abadia. No século XIX quase 500 canteiros laboravam distribuídos por 37 ilhéus, subsistindo
+      ainda os vestígios das suas casas de pedra.
+
+
+      A Grande Île é a ilha principal, com cerca de 1,5 km por 0,5 km. Do ponto de vista morfológico reúne
+      três colinas ligadas por um tômbolo arenoso, com um ponto culminante a 24 m de altitude. Os seus
+      caminhos de terra são marginados por tojo e silvados bravios. Não circulam automóveis: apenas alguns
+      tratores e veículos de apoio operam na ilha. No inverno apenas habita no local uma dezena de pessoas.
+
+
+      Na baixa-mar de águas vivas, o baixio rochoso forma uma elipse de 10 por 5 quilómetros. Submersas, as
+      enseadas resguardam pradarias raras de zostera-marinha, uma planta com flor adaptada aos fundos
+      oceânicos.
+    wildlife: >-
+      Mais de 200 espécies de aves frequentam o arquipélago ao longo do ano. A reserva ornitológica, criada em
+      1987, lista 243 espécies, entre as quais mergansos-de-poupa, corvos-marinhos, patos-brancos,
+      andorinhas-do-mar e gaivotas. Na maré baixa, os ostraceiros invernantes somam mais de 15% do efetivo
+      francês; na preia-mar gaivotões-reais, corvos-marinhos-de-faces-brancas e galhetas concentram-se nos
+      poisos rochosos.
+
+
+      Nas águas circundantes, o [roaz-corvineiro](/especie/tursiops_truncatus/) é o cetáceo avistado com maior
+      regularidade, nomeadamente a partir do barco entre o continente e a Grande Île. Anualmente desde 1984,
+      voluntários da organização ornitológica normanda realizam a contagem de casais nidificantes na estada da
+      Ascensão.
+    visit: >-
+      A Grande Île pode ser percorrida durante todo o ano através dos trilhos assinalados; as dunas sensíveis
+      do Tombolo e do Gros Mont encontram-se interditas. As ligações fluviomarítimas de Granville asseguram
+      duas viagens por semana no inverno e mais de dez partidas diárias no pico do verão. O Conservatoire du
+      Littoral disponibiliza um roteiro pedestre em formato descarregável.
+
+
+      Entre o património construído contam-se o cromeleque de l'Œillet, o dólmen da Pierre du Sacrifice e o
+      farol de Chausey, erigido em 1847 com 37 m de cota. Os vestígios humanos mais recuados remontam ao
+      Neolítico, erguendo-se o cromeleque nas sapais do norte do Sound.
+
+
+      A ilha não possui hotelaria formal; casas de férias comunitárias e fundeadouros acolhem velejadores e
+      visitantes.
+    history: >-
+      Em 1022 o duque da Normandia doou as ilhas aos religiosos de Mont-Saint-Michel, que fixaram um priorado
+      beneditino na Grande Île. Chausey foi o único arquipélago normando mantido sob domínio francês após o
+      Tratado de Brétigny em 1360. A partir do século XVII a colheita de algas marinhas castanhas sustentou a
+      queima para produção de soda para sabão e vidro, ao passo que no século XIX desembarcaram os primeiros
+      naturalistas fascinados pela vida do entremarés.
+
+
+      Em maio de 1988 o arquipélago foi consagrado como Zona de Proteção Especial, a primeira da Normandia. O
+      plano de gestão de 2009 tem por objetivo preservar os habitats terrestres e submarinos. A pressão de
+      visitação aumenta progressivamente, marcada por mariscadores a pé, lanchas e náutica de recreio.
+    before: >-
+      O desembarque nos ilhéus satélites encontra-se condicionado na época de nidificação para resguardo das
+      posturas marinhas. Na Grande Île mantém-te nos trilhos balizados e respeita o sossego da comunidade e da
+      avifauna.
+    around: >-
+      O [Parque Nacional das Ilhas Atlânticas da Galiza](/lugar/parque-nacional-islas-atlanticas-de-galicia/)
+      partilha com Chausey o roaz-corvineiro e os espaços de mar aberto. [Great Blasket
+      Island](/lugar/great-blasket-island/), [Lundy](/lugar/lundy/) e [Lunga (Ilhas
+      Treshnish)](/lugar/lunga-treshnish-isles/) partilham a [foca-cinzenta](/especie/halichoerus_grypus/) e a
+      orla costeira rochosa.
+fuentes:
+  - url: https://www.conservatoire-du-littoral.fr/siteLittoral/328/28-iles-chausey-50_manche.htm
+    titulo: ILES CHAUSEY
+    fecha_consulta: '2026-10-23'
+  - url: https://www.conservatoire-du-littoral.fr/TPL_CODE/TPL_UNITELITTORAL/PAR_TPL_IDENTIFIANT/58/125-les-paysages-fiche.htm
+    titulo: ILES CHAUSEY — Les paysages
+    fecha_consulta: '2026-10-23'
+  - url: https://fr.wikipedia.org/wiki/%C3%8Eles_Chausey
+    titulo: Îles Chausey - Wikipédia
+    fecha_consulta: '2026-10-23'
+  - url: https://en.wikipedia.org/wiki/Chausey
+    titulo: Chausey - Wikipedia
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Mouillage_dans_le_Sound_de_CHausey_partie_nord.JPG
+    autor: Pline
+    licencia: CC BY-SA 3.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/3.0
+    fecha_descarga: '2026-10-17'

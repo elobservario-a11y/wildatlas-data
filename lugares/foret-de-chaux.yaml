@@ -1,0 +1,568 @@
+id: foret-de-chaux
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Chaux
+  en: Chaux Forest
+  fr: Forêt de Chaux
+  de: Chaux-Wald
+  it: Foresta di Chaux
+  pt: Floresta de Chaux
+nombre_original: Forêt de Chaux
+alias:
+  - Forêt de Chaux
+paises:
+  - FR
+region:
+  es: Borgoña-Franco Condado (Jura / Dole)
+  en: Bourgogne-Franche-Comté (Jura / Dole)
+  fr: Bourgogne-Franche-Comté (Jura / Dole)
+  de: Bourgogne-Franche-Comté (Jura / Dole)
+  it: Borgogna-Franca Contea (Jura / Dole)
+  pt: Borgonha-Franco-Condado (Jura / Dole)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/369223
+  nombre_en_la_fuente: Forêt de Chaux
+  capa: capas/osm/foret-de-chaux.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - natura2000
+especies:
+  - cervus_elaphus
+  - felis_silvestris
+  - capreolus_capreolus
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor y rutas — ONF, bosque de Chaux
+    url: https://www.onf.fr/vivre-la-foret/que-faire-en-foret/balade-activites-en-foret/+/c26::la-foret-domaniale-de-chaux-immersion-dans-un-gigantesque-temple-vert.html
+resumen:
+  es: >-
+    Gran bosque de llanura sobre el antiguo curso del Aar-Doubs, con valles húmedos de alisos y una reserva
+    biológica integral.
+  en: >-
+    A vast lowland plain forest spanning the ancient course of the Aar-Doubs, featuring wet alder valleys and
+    an integral biological reserve.
+  fr: >-
+    Vaste forêt de plaine sur l'ancien delta de l'Aar-Doubs, aux vallons humides d'aulnes et abritant une
+    réserve biologique intégrale.
+  de: >-
+    Ausgedehnter Flachlandwald auf dem ehemaligen Schwemmfächer des Aar-Doubs mit feuchten Erlenbrüchen und
+    einem Totalreservat.
+  it: >-
+    Grande foresta planiziale sull'antico corso dell'Aar-Doubs, con formazioni igrofile ad ontano e una
+    riserva biologica integrale.
+  pt: >-
+    Grande floresta de planície sobre o antigo leito do Aar-Doubs, com vales húmidos de amieiros e uma reserva
+    biológica integral.
+unico:
+  es: >-
+    Una reserva biológica integral, creada por el ONF, deja que una parte del bosque evolucione sin
+    intervención dentro del segundo mayor bosque de frondosas de Francia.
+  en: >-
+    An integral biological reserve established by the ONF allows part of the woodland to evolve without human
+    intervention within France's second-largest deciduous forest.
+  fr: >-
+    Une réserve biologique intégrale créée par l'ONF laisse évoluer le milieu en libre évolution au sein du
+    deuxième massif feuillu de France.
+  de: >-
+    Ein vom ONF ausgewiesenes Totalreservat überlässt Teile des zweitgrößten Laubwaldgebiets Frankreichs der
+    ungestörten Naturdynamik.
+  it: >-
+    Una riserva biologica integrale istituita dall'ONF consente l'evoluzione indisturbata del bosco nella
+    seconda foresta di latifoglie di Francia.
+  pt: >-
+    Uma reserva biológica integral delineada pelo ONF deixa evoluir a natureza sem interferência no segundo
+    maior maciço de folhosas de França.
+observaciones:
+  es: >-
+    El bosque es tan grande que es fácil desorientarse; lleva mapa. Los arroyos albergan lamprea de Planer e
+    invertebrados sensibles, así que no pises los cauces ni remuevas el fondo.
+texto:
+  es:
+    intro: >-
+      Es tan grande y tan llano que la llaman «la gran invisible». En el bosque de Chaux, entre los ríos Doubs
+      y Loue, en el este de Borgoña-Franco Condado, casi no hay relieve y es difícil encontrar un punto de
+      vista elevado, así que para conocerlo hay que meterse dentro. Lo que se encuentra es un bosque poblado
+      enteramente de robles y hayas, el segundo bosque de frondosas de Francia por superficie, después del de
+      Orléans, a caballo entre el Jura y el Doubs y a pocos minutos de Dole y Besançon.
+    landscape: >-
+      Para entender Chaux hay que remontarse a un río. El bosque ocupa los restos del vasto delta pliocénico
+      del antiguo Aar-Doubs, que desembocaba en el lago de la Bresse, y por eso el subsuelo es un potente
+      conjunto de cantos rodados cementados en una pasta arcillosa, casi siempre cubierto de limos. Esa
+      arcilla lo explica casi todo. El plateau central tiene una capa freática colgada intermitente que
+      alimenta la lluvia, y una densa red de arroyos temporales drena el bosque; los principales permanentes
+      son la Clauge y su afluente la Tanche. En total, el bosque suma unos 400 kilómetros de ríos y arroyos
+      temporales.
+
+
+      Aquí manda el roble. En el valle de la Doulonne se desarrolla un gran complejo de bosques húmedos de
+      alisos, fresnos, arces y robles pedunculados, y en los valles pantanosos del norte aparecen alisedas y
+      saucedas con esfagnos sobre turba. El resultado es un bosque difícil de regenerar: la acidez del suelo,
+      la competencia de las gramíneas, el encharcamiento y el desequilibrio con la fauna de caza lo complican,
+      y los forestales acompañan la renovación con plantaciones.
+    wildlife: >-
+      Chaux se oye antes de verse. Puedes oír la llamada del pito cano o del milano negro, y la [cigüeña
+      negra](/especie/ciconia_nigra/) es más discreta. En el macizo viven varios pájaros carpinteros, entre
+      ellos el [pico negro](/especie/dryocopus_martius/), y rapaces como el [abejero
+      europeo](/especie/pernis_apivorus/). No es casualidad: todo el bosque está clasificado como Zona de
+      Protección Especial para las aves de la red Natura 2000.
+
+
+      El agua trae su propia fauna. En los arroyos viven la rarísima lota, el chabot y la lamprea de Planer,
+      muy abundante, cuyas zonas de freza están entre las más espectaculares del Franco Condado. La Clauge
+      guarda además un efímero relicto, Arthroplea congener, de distribución boreal. En los valles pantanosos
+      del norte viven la lamprea, el Sonneur à ventre jaune, y plantas protegidas como la osmunda real, el
+      helecho de los pantanos y el Carex pseudocyperus. En el bosque comunal de Liesle, una red de charcas
+      forestales es un relevo importante para un rico cortejo de anfibios. Y los tramos temporales de muchos
+      arroyos albergan algunas de las mayores poblaciones de hepáticas del Franco Condado.
+    visit: >-
+      Chaux es un bosque periurbano, hecho para pasear, para el senderismo, para las actividades a pie y a
+      caballo y para el cicloturismo. El sentier de découverte d'Azans, cercano a Dole, apto en cualquier
+      época, tiene camino estabilizado y talleres deportivos y atrae la mayor afluencia regular del año. El
+      Parc de la Sauline es una de las dos entradas de la Échappée Jurassienne, que une Dole y Saint-Claude
+      pasando por Les Rousses; allí también sale el GR 59, y hay un observatorio de aves. Por el borde pasa la
+      ruta ciclista Eurovelo 6 Nantes-Budapest.
+
+
+      Se llega en coche, con muchos aparcamientos, o en tren: la estación de Montbarrey-La Vieille-Loye, en la
+      línea TER Dijon-Pontarlier, da servicio al bosque. El sitio es apto para paseos en familia y
+      excursiones, pero no tiene recorrido adaptado a personas con movilidad reducida.
+    history: >-
+      Hasta el siglo XVII el bosque perteneció a una sucesión de soberanos, que solo ejercían el derecho de
+      caza, mientras los vecinos tenían derechos muy amplios; el Estado no fue plenamente propietario hasta el
+      siglo XIX. A partir del siglo XIII lo habitaron leñadores, carboneros, herreros y lavadores de corteza,
+      y a principios del XIX aún vivían allí 600 personas. Su madera alimentó los hornos de las vidrierías y
+      las Salinas Reales. Una verrería importante funcionó en La Vieille-Loye de 1295 a 1931, y la salina real
+      de Arc-et-Senans se levantó en 1775 donde la leña del bosque lo permitía.
+
+
+      Los Baraques du 14, un antiguo caserío de leñadores y carboneros, son hoy un ecomuseo y monumento
+      histórico, con cabañas de madera medievales que conservan hornos de pan, colmenares y pozos originales.
+      Otro símbolo es el Chêne de ND-de-Chaux, con una estatua de la Virgen en el hueco del tronco; quedan
+      siete robles de la Virgen en el bosque.
+
+
+      La conservación es sobre todo cosa del agua. Una parte importante de los arroyos se drenó tras la
+      guerra, lo que hizo el bosque más vulnerable a la sequía, y el ONF y la Universidad del Franco Condado
+      restauraron arroyos de cabecera con un programa Life, devolviéndoles sus antiguos meandros con técnicas
+      suaves de ingeniería ecológica.
+    before: >-
+      El bosque es tan grande que es fácil desorientarse; lleva mapa. Los arroyos albergan lamprea de Planer e
+      invertebrados sensibles, así que no pises los cauces ni remuevas el fondo.
+    around: >-
+      A doce kilómetros queda el [valle y las gargantas del Loue](/lugar/la-loue---vallee-et-gorges/) y a
+      quince la [Haute vallée de l'Ain](/lugar/haute-vallee-de-l-ain/).
+  en:
+    intro: >-
+      It is so extensive and so planar that locals call it «the great invisible». In the Chaux Forest, cradled
+      between the Doubs and Loue rivers in eastern Bourgogne-Franche-Comté, topographical relief is virtually
+      absent and elevated vantage points are non-existent, meaning that to truly experience it you must
+      venture deep beneath the canopy. What awaits is a vast woodland populated almost exclusively by
+      pedunculate oaks and beeches—the second-largest deciduous forest in France by surface area after
+      Orléans, straddling the Jura and Doubs departments just minutes from Dole and Besançon.
+    landscape: >-
+      Understanding Chaux requires tracing ancient hydrography. The forest occupies the relict Pliocene delta
+      of the ancient Aar-Doubs drainage, which once emptied into the prehistoric Bresse lake; consequently,
+      the subsoil consists of heavy layers of quartzite cobbles cemented in dense clay, overlain by silts.
+      This impermeable clay governs the entire ecosystem. The central plateau retains a perched,
+      rainfall-dependent water table, drained by a dense capillary network of ephemeral gullies; the chief
+      permanent streams are the Clauge and its tributary the Tanche. In total, the woodland encompasses some
+      400 kilometres of permanent streams and seasonal watercourses.
+
+
+      Oak rules here. In the Doulonne valley unfolds an extensive damp forest complex of black alders, common
+      ashes, sycamore maples, and pedunculate oaks, while northern peat-filled depressions harbour alder carrs
+      and willow thickets with Sphagnum moss over peat. Such soil chemistry makes regeneration challenging:
+      low pH, vigorous grass competition, seasonal waterlogging, and browsing pressure complicate
+      silviculture, prompting foresters to support natural regeneration with enrichment planting.
+    wildlife: >-
+      Chaux is heard before it is seen. You may catch the hollow laughing call of the grey-headed woodpecker
+      or the whistling cry of the black kite, while the [black stork](/especie/ciconia_nigra/) maintains a
+      secretive presence. The massif shelters multiple woodpecker species, including the [black
+      woodpecker](/especie/dryocopus_martius/), and raptors like the [European honey
+      buzzard](/especie/pernis_apivorus/). This is no coincidence: the entire forest is designated as a
+      Special Protection Area for birds within the Natura 2000 network.
+
+
+      Water sustains unique aquatic biodiversity. Pristine forest brooks harbour the elusive burbot, European
+      bullhead, and brook lamprey, whose spawning gravels rank among the finest in Franche-Comté. The Clauge
+      additionally preserves a relict mayfly, Arthroplea congener, of northern boreo-alpine affinity. In
+      northern acidic hollows live lampreys, yellow-bellied toads, and protected plants including royal fern,
+      marsh fern, and cyperus sedge. In the municipal forest of Liesle, a network of woodland pools supports
+      rich amphibian breeding assemblages, while seasonal brook reaches shelter significant liverwort
+      populations.
+    visit: >-
+      Chaux functions as a suburban retreat tailored for walking, long-distance trekking, equestrian outings,
+      and recreational cycling. The sentier de découverte d'Azans near Dole offers an all-weather surfaced
+      path with outdoor exercise stations, drawing steady year-round visitors. The Parc de la Sauline serves
+      as one of two gateway portals for the Échappée Jurassienne long-distance route linking Dole and
+      Saint-Claude via Les Rousses; it is also the trailhead for the GR 59 and houses a bird hide. The
+      Eurovelo 6 Nantes-Budapest cycle route skirts the forest boundary.
+
+
+      Access is straightforward by road with numerous trailheads, or by rail via Montbarrey-La Vieille-Loye
+      station on the Dijon-Pontarlier TER line. While ideal for family rambles, the forest lacks dedicated
+      wheelchair-accessible tracks.
+    history: >-
+      Until the seventeenth century the woodland belonged to a succession of feudal rulers who exercised
+      hunting rights while local communities enjoyed extensive gathering privileges; the French State only
+      became sole proprietor in the nineteenth century. From the thirteenth century woodcutters, charcoal
+      burners, blacksmiths, and bark peelers inhabited the forest interior, with early nineteenth-century
+      censuses recording roughly 600 woodland residents. Forest timber fired regional glassworks and royal
+      brine boiling works. An important glass factory operated at La Vieille-Loye from 1295 to 1931, while the
+      Royal Saltworks of Arc-et-Senans was founded in 1775 where woodland fuel was plentiful.
+
+
+      The Baraques du 14, an ancient woodcutters' hamlet, is preserved today as an ecomuseum and historic
+      monument, featuring medieval log cabins, bread ovens, bee boles, and wells. Another landmark is the
+      Chêne de Notre-Dame de Chaux, housing a Marian statuette within its hollow trunk; seven such historic
+      Virgin oaks endure across the forest.
+
+
+      Ecological management centres on water. Widespread stream channelization after the war left stands
+      susceptible to drought; the ONF and University of Franche-Comté restored headwater streams through a
+      European Life project, re-meandering beds using soft ecological engineering.
+    before: >-
+      The forest is so vast and featureless that navigation is deceptive; always carry an accurate map.
+      Headwater brooks shelter fragile brook lampreys and rare invertebrates: avoid trampling stream beds or
+      disturbing gravel shallows.
+    around: >-
+      Twelve kilometres away lie the [Loue Valley and Gorges](/lugar/la-loue---vallee-et-gorges/), and fifteen
+      kilometres distant is the [Upper Ain Valley](/lugar/haute-vallee-de-l-ain/).
+  fr:
+    intro: >-
+      Elle est si étendue et si plane qu'on la surnomme « la grande invisible ». En forêt de Chaux, entre le
+      Doubs et la Loue, dans l'est de la Bourgogne-Franche-Comté, le relief est presque nul et les points de
+      vue élevés inexistants ; pour la découvrir, il faut donc pénétrer sous sa voûte. On y trouve un vaste
+      massif presque exclusivement composé de chênes et de hêtres, deuxième plus grande forêt feuillue de
+      France par sa superficie après celle d'Orléans, à cheval entre le Jura et le Doubs, à quelques minutes
+      de Dole et de Besançon.
+    landscape: >-
+      Comprendre Chaux impose de remonter à un fleuve. La forêt occupe les vestiges du vaste delta pliocène de
+      l'ancien Aar-Doubs, qui débouchait alors dans le lac bressan ; le sous-sol réunit un épais empilement de
+      galets siliceux cimentés dans une gangue argileuse, presque partout recouvert de limons. Cette
+      imperméabilité explique l'écologie du massif. Le plateau central retient une nappe phréatique perchée
+      temporaire tributaire des pluies, qu'un réseau dense de ravines draine vers l'extérieur ; les deux cours
+      d'eau pérennes majeurs sont la Clauge et son affluent la Tanche. Au total, la forêt cumule environ 400
+      kilomètres de rivières et de ruisseaux temporaires.
+
+
+      Le chêne règne ici en maître. Dans la vallée de la Doulonne se développe un vaste complexe humide
+      d'aulnes, frênes, érables et chênes pédonculés, tandis que les vallons tourbeux du nord abritent des
+      aulnaies-saulaies à sphaignes sur tourbe. La régénération s'avère délicate : acidité du sol, concurrence
+      des graminées, engorgement hivernal et pression du gibier compliquent la donne, incitant les forestiers
+      à accompagner le renouvellement par des plantations ciblées.
+    wildlife: >-
+      Chaux s'entend avant de s'apercevoir. On perçoit le cri rieur du pic cendré ou le sifflement du milan
+      noir, tandis que la [cigogne noire](/especie/ciconia_nigra/) se montre plus secrète. Le massif accueille
+      plusieurs pics, dont le [pic noir](/especie/dryocopus_martius/), et des rapaces comme la [bondrée
+      apivore](/especie/pernis_apivorus/). Tout le massif est d'ailleurs classé en Zone de Protection Spéciale
+      au sein du réseau Natura 2000.
+
+
+      L'eau abrite une faune remarquable. Dans les ruisseaux vivent la lotte de rivière, le chabot et la
+      lamproie de Planer, très abondante, dont les frayères figurent parmi les plus spectaculaires de
+      Franche-Comté. La Clauge conserve en outre une éphémère relique glaciaire boréale, Arthroplea congener.
+      Dans les fonds tourbeux septentrionaux vivent la lamproie, le sonneur à ventre jaune et des végétaux
+      protégés tels l'osmonde royale, la fougère des marais et Carex pseudocyperus. En forêt de Liesle, un
+      semis de mares relaie la reproduction d'amphibiens, et les ruisseaux intermittents accueillent
+      d'importantes populations d'hépatiques.
+    visit: >-
+      Chaux est une forêt récréative propice à la promenade, à la randonnée pédestre, équestre et au
+      cyclotourisme. Le sentier de découverte d'Azans près de Dole, praticable par tous les temps grâce à un
+      revêtement stabilisé et doté d'ateliers sportifs, concentre la fréquentation régulière. Le parc de la
+      Sauline constitue l'une des deux portes de l'Échappée jurassienne reliant Dole à Saint-Claude via Les
+      Rousses ; c'est aussi le départ du GR 59, équipé d'un observatoire ornithologique. L'itinéraire cyclable
+      Eurovelo 6 Nantes-Budapest longe la bordure nord.
+
+
+      On y accède aisément par la route via de nombreux parkings, ou en train grâce à la gare de Montbarrey-La
+      Vieille-Loye sur la ligne TER Dijon-Pontarlier. Le site se prête aux balades familiales mais ne comporte
+      pas de cheminement aménagé pour fauteuils roulants.
+    history: >-
+      Jusqu'au XVIIe siècle, la forêt releva de souverains successifs qui n'y exerçaient que le droit de
+      chasse, les riverains bénéficiant d'usages étendus ; l'État n'en devint pleinement propriétaire qu'au
+      XIXe siècle. Dès le XIIIe siècle s'y installèrent bûcherons, charbonniers, forgerons et écorceurs, et au
+      début du XIXe siècle environ 600 personnes y vivaient encore. Son bois alimenta verriers et salines
+      royales. Une verrerie réputée fonctionna à La Vieille-Loye de 1295 à 1931, et la saline royale
+      d'Arc-et-Senans fut érigée en 1775 là où le combustible forestier abondait.
+
+
+      Les Baraques du 14, ancien hameau de bûcherons et charbonniers, forment aujourd'hui un écomusée et
+      monument historique, avec loges de bois, fours à pain et puits d'origine. Autre symbole, le Chêne de
+      Notre-Dame de Chaux abrite une statuette dans sa cavité ; il subsiste sept chênes de la Vierge dans le
+      massif.
+
+
+      La préservation s'est portée sur l'eau. D'importants drainages d'après-guerre ayant asséché les sols,
+      l'ONF et l'Université de Franche-Comté ont restauré les ruisseaux de tête de bassin grâce à un programme
+      Life, leur restituant leurs méandres originels par génie écologique.
+    before: >-
+      Le massif est si étendu et homogène qu'il est aisé de s'y désorienter : munissez-vous d'une carte. Les
+      ruisseaux abritent la lamproie de Planer et des invertébrés vulnérables ; ne piétinez pas les lits ni
+      les bancs de graviers.
+    around: >-
+      À douze kilomètres se trouvent la [vallée et les gorges de la Loue](/lugar/la-loue---vallee-et-gorges/)
+      et à quinze la [Haute vallée de l'Ain](/lugar/haute-vallee-de-l-ain/).
+  de:
+    intro: >-
+      Er ist so weitläufig und eben, dass man ihn «den großen Unsichtbaren» nennt. Im Wald von Chaux zwischen
+      Doubs und Loue im Osten der Region Bourgogne-Franche-Comté gibt es kaum Relief und keinerlei
+      Aussichtsberge; um ihn kennenzulernen, muss man tief in sein Inneres vordringen. Dort erstreckt sich ein
+      fast reiner Eichen- und Buchenwald – das zweitgrößte Laubwaldmassiv Frankreichs nach dem Forêt
+      d'Orléans, an der Grenze der Départements Jura und Doubs, nur wenige Minuten von Dole und Besançon
+      entfernt.
+    landscape: >-
+      Um Chaux zu verstehen, muss man die Gewässergeschichte betrachten. Das Waldgebiet liegt auf den
+      Schottern des ehemaligen pliozänen Deltas des Aar-Doubs, der einst in den prähistorischen Bresse-See
+      mündete; der Untergrund besteht aus einer mächtigen Schicht gerundeter Kiesel in dichter Tonmatrix,
+      überdeckt von Lösslehm. Diese undurchlässige Tonschicht bestimmt den Wasserhaushalt. Das zentrale
+      Plateau staut ein regenabhängiges Hängewasser, das über ein dichtes Netz periodischer Rinnen abgeführt
+      wird; die beiden Hauptbäche sind die Clauge und die Tanche. Insgesamt umfasst der Wald rund 400
+      Kilometer Fließgewässer und Gräben.
+
+
+      Die Eiche dominiert das Kronendach. Im Doulonne-Tal breiten sich feuchte Au- und Bruchwälder mit
+      Schwarzerlen, Eschen, Ahorn und Stieleichen aus, während in den moorigen Tälern des Nordens Erlen- und
+      Weidengebüsche mit Torfmoosen gedeihen. Die Waldverjüngung verlangt Geduld: Saure Böden, Graswuchs,
+      Staunässe und Wildverbiss erschweren den Aufwuchs, sodass Förster die Naturverjüngung durch Pflanzungen
+      begleiten.
+    wildlife: >-
+      Chaux nimmt man mit den Ohren wahr, ehe man ihn sieht. Der lachende Ruf des Grauspechts oder der Pfiff
+      des Schwarzmilans hallen durch die Bestände, während der [Schwarzstorch](/especie/ciconia_nigra/)
+      heimlich brütet. Mehrere Spechtarten wie der [Schwarzspecht](/especie/dryocopus_martius/) und Greifvögel
+      wie der [Wespenbussard](/especie/pernis_apivorus/) besiedeln das Massiv. Das gesamte Waldgebiet ist
+      konsequent als Europäisches Vogelschutzgebiet im Netz Natura 2000 gemeldet.
+
+
+      Das Wasser birgt hochgradig spezialisierte Lebensgemeinschaften. In den Bächen leben Quappe, Groppe und
+      das Bachneunauge, dessen Laichplätze zu den bedeutendsten der Franche-Comté zählen. Die Clauge
+      beherbergt zudem das arktisch-boreale Eiszeitrelikt Arthroplea congener, eine seltene Eintagsfliege. In
+      den Moortälern leben Gelbbauchunken sowie geschützte Pflanzen wie Königsfarn, Sumpffarn und
+      Scheinzypergras-Segge. Im Gemeindewald von Liesle dient ein Netz von Waldtümpeln Amphibien als
+      Lebensraum, während periodische Bachläufe reiche Moosfluren tragen.
+    visit: >-
+      Chaux dient als stadtnaher Erholungswald für Spaziergänge, Reiten, Fernwanderungen und Radtouren. Der
+      Naturlehrpfad von Azans bei Dole mit wetterfester Schotterdecke und Trimm-Dich-Stationen verzeichnet
+      ganzjährig stetigen Besuch. Der Parc de la Sauline bildet ein Eingangsportal des Fernwanderwegs Échappée
+      Jurassienne von Dole über Les Rousses nach Saint-Claude; hier startet auch der GR 59 mit einer
+      Vogelbeobachtungsstation. Am Nordrand verläuft der Fernradweg Eurovelo 6 von Nantes nach Budapest.
+
+
+      Die Anreise erfolgt über zahlreiche Parkplätze an den Waldstraßen oder per Bahn über den Bahnhof
+      Montbarrey-La Vieille-Loye an der TER-Linie Dijon-Pontarlier. Der Wald eignet sich bestens für Familien,
+      bietet jedoch keine rollstuhlgerecht ausgebauten Rundwege.
+    history: >-
+      Bis zum siebzehnten Jahrhundert unterstand der Wald wechselnden Landesherren, die lediglich das
+      Jagdrecht ausübten, während die Bevölkerung weitgehende Nutzungsrechte besaß; der französische Staat
+      wurde erst im neunzehnten Jahrhundert Volleigentümer. Ab dem dreizehnten Jahrhundert siedelten
+      Holzfäller, Köhler, Schmiede und Rindenschäler im Forst; zu Beginn des neunzehnten Jahrhunderts lebten
+      dort noch 600 Menschen. Sein Holz befeuerte Glashütten und Salinen. Eine bedeutende Glashütte bestand in
+      La Vieille-Loye von 1295 bis 1931, und die königliche Saline von Arc-et-Senans wurde 1775 dort
+      errichtet, wo der Wald Brennholz lieferte.
+
+
+      Die Baraques du 14, eine historische Waldarbeitersiedlung, beherbergen heute ein Freilichtmuseum mit
+      Blockhütten, Backöfen und Brunnen. Ein weiteres Wahrzeichen ist die Marieneiche Chêne de Notre-Dame de
+      Chaux mit einer Madonnenstatue im Stamm; insgesamt sieben solcher Marieneichen sind im Wald erhalten.
+
+
+      Der Naturschutz gilt vor allem den Gewässern. Nachdem frühere Entwässerungen die Bestände anfällig für
+      Dürren gemacht hatten, renaturierten ONF und Universität Quellbäche im Rahmen eines Life-Projekts und
+      gaben ihnen ihre Mäander zurück.
+    before: >-
+      Der Wald ist so riesig und ebenmäßig, dass man leicht die Orientierung verliert: Führe eine Wanderkarte
+      mit. Die Bäche beherbergen empfindliche Bachneunaugen und seltene Wirbellose: Betritt keine Kiesbänke
+      und wate nicht im Wasser.
+    around: >-
+      Zwölf Kilometer entfernt liegt das [Tal und die Schluchten der Loue](/lugar/la-loue---vallee-et-gorges/)
+      und fünfzehn Kilometer das [Obere Ain-Tal](/lugar/haute-vallee-de-l-ain/).
+  it:
+    intro: >-
+      È talmente vasta e pianeggiante da meritare l'appellativo di «la grande invisibile». Nella foresta di
+      Chaux, racchiusa tra i fiumi Doubs e Loue nella Borgogna-Franca Contea orientale, il rilievo è pressoché
+      assente e mancano punti panoramici; per comprenderla occorre inoltrarsi sotto la sua volta. Ciò che si
+      dischiude è un bosco compatto quasi interamente dominato da querce e faggi, la seconda foresta di
+      latifoglie di Francia per estensione dopo quella di Orléans, a cavallo tra il Giura e il Doubs, a pochi
+      minuti da Dole e Besançon.
+    landscape: >-
+      Per comprendere Chaux bisogna guardare all'antica idrografia. Il massiccio occupa i relitti del grande
+      conoide pliocenico dell'antico sistema Aar-Doubs, che allora confluiva nel bacino lacustre della Bresse;
+      il sottosuolo è formato da un potente accumulo di ciottoli inglobati in una pasta argillosa, coperti da
+      limi superficiali. Questa matrice argillosa spiega il bilancio idrico. Il pianalto centrale trattiene
+      una falda temporanea legata alle piogge, drenata da una fitta rete di fossi; i due corsi perenni di
+      rilievo sono la Clauge e il suo affluente Tanche. Complessivamente la foresta raccoglie circa 400
+      chilometri di canali e rivoli temporanei.
+
+
+      La farnia comanda il paesaggio forestale. Nella valle della Doulonne si snoda un esteso complesso
+      igrofilo di ontani, frassini, aceri e querce, mentre nei valloni torbosi settentrionali allignano
+      ontaneti e boscaglie di salice con sfagni su torba. La rinnovazione boschiva è complessa: acidità del
+      suolo, competizione erbacea, ristagni invernali e ungulati ostacolano lo sviluppo dei semenzali,
+      spingendo i forestali ad affiancare la rinnovazione naturale con mirati rimboschimenti.
+    wildlife: >-
+      Chaux si ascolta prima di svelarsi. Si percepisce la risata del picchio cenerino o il verso del nibbio
+      bruno, mentre la [cicogna nera](/especie/ciconia_nigra/) agisce nell'ombra. Il complesso ospita svariate
+      specie di picidi fra cui il [picchio nero](/especie/dryocopus_martius/) e rapaci forestali come il
+      [falco pecchiaiolo](/especie/pernis_apivorus/). L'intera foresta è tutelata come Zona di Protezione
+      Speciale nell'ambito della rete Natura 2000.
+
+
+      I torrenti accolgono fauna acquatica preziosa. Nelle acque limpide vivono la bottatrice, lo scazzone e
+      la lampreda di ruscello, presente con eccezionale abbondanza e aree di frega fra le più integre della
+      Franca Contea. La Clauge ospita inoltre una minuscola effimera relitta glaciale, Arthroplea congener, di
+      affinità boreale. Nelle depressioni umide a nord vivono lamprede, ululoni dal ventre giallo e specie
+      botaniche protette quali la felce regale, la felce palustre e Carex pseudocyperus. Nel bosco comunale di
+      Liesle, una trama di stagni sostiene anfibi riproduttori, e i tratti torrentizi temporanei accolgono
+      popolazioni rare di epatiche.
+    visit: >-
+      Chaux assolve una preziosa funzione ricreativa periurbana per passeggiate, trekking, escursioni a
+      cavallo e cicloturismo. Il percorso didattico di Azans vicino a Dole, accessibile con ogni meteo grazie
+      al fondo stabilizzato e provvisto di attrezzi ginnici, concentra il flusso costante dell'anno. Il Parc
+      de la Sauline costituisce uno dei due accessi dell'itinerario escursionistico Échappée Jurassienne tra
+      Dole e Saint-Claude via Les Rousses; da qui prende avvio anche il sentiero GR 59, dotato di un capanno
+      d'avvistamento avifaunistico. Lungo il bordo transita la ciclovia Eurovelo 6 Nantes-Budapest.
+
+
+      L'accesso si compie agevolmente in auto con numerose aree di sosta o in treno tramite la stazione di
+      Montbarrey-La Vieille-Loye sulla linea ferroviaria TER Digione-Pontarlier. L'area si presta a tranquille
+      camminate familiari, pur mancando di raccordi adatti a carrozzine.
+    history: >-
+      Fino al Seicento la foresta appartenne a sovrani che vi esercitavano soltanto la caccia, mentre le
+      comunità fruivano di ampi usi civici; lo Stato ne divenne pieno titolare solo nell'Ottocento. Dal
+      Duecento fu abitata da boscaioli, carbonai, fabbri e scortecciatori, e all'inizio dell'Ottocento vi
+      risiedevano ancora 600 persone. Il legname alimentò vetrerie e saline reali. Un'illustre vetreria lavorò
+      a La Vieille-Loye dal 1295 al 1931, mentre la Salina Reale di Arc-et-Senans fu eretta nel 1775 nel punto
+      in cui la disponibilità di legna garantiva la produzione.
+
+
+      Le Baraques du 14, antico insediamento forestale, sono oggi un ecomuseo e monumento storico con capanne
+      in legno, forni da pane e pozzi dell'epoca. Altro riferimento identitario è la Quercia di Nostra Signora
+      di Chaux con la statuetta votiva nel tronco; permangono sette querce dedicate alla Vergine nella
+      foresta.
+
+
+      La salvaguardia converge sulla regimazione delle acque. Poiché i drenaggi del dopoguerra avevano
+      inaridito i suoli, l'ONF e l'Università della Franca Contea hanno riqualificato i corsi d'acqua montani
+      con un programma Life, ripristinando gli alvei meandriformi con tecniche di bioingegneria naturalistica.
+    before: >-
+      La foresta è talmente uniforme e sconfinata che smarrirsi è facile: porta una mappa cartacea
+      dettagliata. I torrenti accolgono lamprede e invertebrati minacciati: non calpestare i letti ghiaiosi né
+      smuovere i fondali.
+    around: >-
+      A dodici chilometri si trovano la [valle e le gole della Loue](/lugar/la-loue---vallee-et-gorges/) e a
+      quindici l'[Alta valle dell'Ain](/lugar/haute-vallee-de-l-ain/).
+  pt:
+    intro: >-
+      É tão ampla e plana que muitos lhe chamam «a grande invisível». Na floresta de Chaux, encaixada entre os
+      rios Doubs e Loue na zona oriental de Borgonha-Franco-Condado, o relevo é nulo e não existem miradouros
+      cimeiros; para compreendê-la é forçoso embrenhar-se sob a copa das árvores. O que se descobre é uma
+      mancha compacta quase exclusivamente constituída por carvalhos e faias, a segunda maior floresta de
+      folhosas de França em extensão a seguir à de Orléans, cavalgando os departamentos de Jura e Doubs a
+      curta distância de Dole e Besançon.
+    landscape: >-
+      Entender Chaux requer olhar para a geologia fluvial. A floresta assenta sobre os vestígios do imenso
+      delta pliocénico do primitivo Aar-Doubs, que desaguava no paleo-lago da Bresse; o subsolo compõe-se de
+      uma espessa laje de calhaus rolados agregados numa matriz argilosa, quase sempre capeada por siltes.
+      Esta argila impermeável governa a hidrologia. O planalto central retém uma toalha freática temporária
+      sustentada pelas chuvas, que uma malha de ravinas escoa para as margens; os principais cursos
+      permanentes são o Clauge e o seu afluente Tanche. No total, a mata soma cerca de 400 quilómetros de
+      linhas de água e valas intermitentes.
+
+
+      O carvalho-roble comanda a floresta. No vale da Doulonne estende-se um complexo higrófilo de
+      amieiros-negros, freixos, bordos e carvalhos, enquanto nos vales turfosos do norte medram amiais e
+      salgueirais com esfagno sobre turfa. A regeneração florestal é exigente: solos ácidos, proliferação de
+      gramíneas, asfixia radicular e pressão de ungulados retardam o repovoamento, levando os serviços
+      florestais a apoiar a regeneração com plantações de reforço.
+    wildlife: >-
+      Chaux escuta-se antes de se avistar. Ouve-se a gargalhada do pica-pau-cinzento ou o assobio do
+      milhafre-preto, enquanto a [cegonha-preta](/especie/ciconia_nigra/) mantém hábitos reservados. O maciço
+      alberga várias espécies de pica-paus, incluindo o [pica-pau-preto](/especie/dryocopus_martius/), e
+      rapinas como o [falcão-abelheiro](/especie/pernis_apivorus/). Toda a floresta está classificada como
+      Zona de Proteção Especial ao abrigo da rede Natura 2000.
+
+
+      A rede hidrográfica sustenta biodiversidade singular. Nas linhas de água subsistem a loba-do-rio, o
+      escorpião-de-água e a lampreia-de-riacho, muito abundante, cujos leitos de postura estão entre os mais
+      expressivos do Franco-Condado. O rio Clauge conserva ainda uma efémera relíquia glacial de afinidade
+      boreal, Arthroplea congener. Nos fundos turfosos a norte vivem lampreias, bombinas-de-ventre-amarelo e
+      plantas protegidas como o feto-real, o feto-dos-pauis e Carex pseudocyperus. Na mata municipal de
+      Liesle, uma rede de charcos florestais acolhe anfíbios em reprodução, e os cursos intermitentes abrigam
+      valiosas comunidades de hepáticas.
+    visit: >-
+      Chaux atua como um refúgio florestal periurbano concebido para caminhadas, percursos pedestres,
+      equitação e cicloturismo. O trilho interpretativo de Azans perto de Dole, praticável em qualquer estação
+      pelo pavimento estabilizado e equipado com estações de manutenção física, reúne a maior afluência
+      regular. O Parc de la Sauline constitui um dos dois acessos da grande rota Échappée Jurassienne entre
+      Dole e Saint-Claude via Les Rousses; dali parte também o percurso pedestre GR 59, dotado de um posto de
+      vigia de aves. Junto ao bordo setentrional corre a ciclovia europeia Eurovelo 6 Nantes-Budapeste.
+
+
+      O acesso rodoviário é simples com múltiplas bolsas de estacionamento, ou de comboio através da estação
+      de Montbarrey-La Vieille-Loye na linha TER Dijon-Pontarlier. O espaço adequa-se a passeios familiares,
+      ainda que desprovido de circuitos adaptados a cadeiras de rodas.
+    history: >-
+      Até ao século XVII a mata pertenceu a senhores feudais que apenas exploravam o direito cinegético,
+      gozando os moradores de amplos direitos de uso; o Estado assumiu a plena posse apenas no século XIX. A
+      partir do século XIII instalaram-se lenhadores, carvoeiros, ferreiros e descascadores de cortiça,
+      habitando ali cerca de 600 pessoas nos inícios do século XIX. A madeira abasteceu fornos de vidro e as
+      Salinas Reais. Uma importante manufatura de vidro operou em La Vieille-Loye de 1295 a 1931, e a Salina
+      Real de Arc-et-Senans foi erguida em 1775 onde a biomassa florestal assegurava o combustível.
+
+
+      As Baraques du 14, antiga aldeia de lenhadores e carvoeiros, funcionam como ecomuseu e monumento
+      histórico, preservando cabanas de madeira, fornos comunitários e poços da época. Outro marco identitário
+      é o Carvalho de Nossa Senhora de Chaux com uma imagem mariana no oco do tronco; subsistem sete carvalhos
+      dedicados à Virgem na floresta.
+
+
+      A conservação orientou-se para a recuperação hidrológica. As valas de drenagem abertas após a guerra
+      haviam ressequido o coberto florestal, o que levou o ONF e a Universidade de Franche-Comté a
+      renaturalizar os ribeiros de cabeceira através de um projeto Life, devolvendo-lhes os meandros com
+      engenharia ecológica.
+    before: >-
+      A floresta é tão vasta e uniforme que é fácil desorientar-se: transporta um mapa detalhado. Os ribeiros
+      acolhem lampreias e invertebrados frágeis: evita pisar os leitos de seixos ou perturbar o fundo.
+    around: >-
+      A doze quilómetros estende-se o [vale e gargantas do Loue](/lugar/la-loue---vallee-et-gorges/) e a
+      quinze o [Alto vale do Ain](/lugar/haute-vallee-de-l-ain/).
+fuentes:
+  - url: https://fr.wikipedia.org/wiki/For%C3%AAt_de_Chaux
+    titulo: Forêt de Chaux — Wikipédia
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/outils/reserves/1b4e2429-597f-4f3f-a0c8-d8fb04f60df4/%2B%2Bversions%2B%2B/1/%2B%2Bparas%2B%2B/10/%2B%2Bass%2B%2B/1/%2B%2Bi18n%2B%2Bdata%3Afr?_=1760100126.297342&download=1
+    titulo: Arrêté de création d'une réserve biologique intégrale
+    fecha_consulta: '2026-10-30'
+  - url: https://appliforet.onf.fr/vivre-la-foret/que-faire-en-foret/balade-activites-en-foret/%2B/c26%3A%3Ala-foret-domaniale-de-chaux-immersion-dans-un-gigantesque-temple-vert.html
+    titulo: La forêt domaniale de Chaux, immersion dans un gigantesque temple vert
+    fecha_consulta: '2026-10-30'
+  - url: https://www.onf.fr/vivre-la-foret/que-faire-en-foret/balade-activites-en-foret/+/c26::la-foret-domaniale-de-chaux-immersion-dans-un-gigantesque-temple-vert.html
+    titulo: La forêt domaniale de Chaux - ONF
+    fecha_consulta: '2026-10-30'

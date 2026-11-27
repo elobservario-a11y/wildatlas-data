@@ -1,0 +1,594 @@
+id: parcul-national-muntii-macinului
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Montañas de Măcin
+  en: Măcin Mountains National Park
+  fr: Parc national des monts Măcin
+  de: Nationalpark Măcin-Gebirge
+  it: Parco Nazionale dei Monti Măcin
+  pt: Parque Nacional dos Montes Măcin
+nombre_original: Parcul Național Munții Măcinului
+alias:
+  - Măcin Mountains Steppe (Munții Măcinului)
+paises:
+  - RO
+region:
+  es: Județul Tulcea (Măcin / Greci)
+  en: Tulcea County (Greci / Măcin)
+  fr: Județ de Tulcea (Greci / Măcin)
+  de: Kreis Tulcea (Greci / Măcin)
+  it: Distretto di Tulcea (Greci / Măcin)
+  pt: Distrito de Tulcea (Greci / Măcin)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.22
+  lon: 28.2
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 184172
+  nombre_en_la_fuente: Parcul Național Munții Macinului
+  categoria_uicn: II
+  capa: capas/cdda/parcul-national-muntii-macinului.geojson
+habitats:
+  - steppe
+  - high_mountain
+  - mature_forest
+designaciones:
+  - national_park
+  - natura2000
+  - iucn_ii
+especies:
+  - aquila_heliaca
+  - falco_cherrug
+  - testudo_graeca
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño (evitar calor extremo de julio-agosto)
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: da aprile a ottobre
+  pt: abril a outubro
+masificacion: 1
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Munții Măcinului
+    url: https://www.parcmacin.ro/
+  - titulo: Rutas — Senderos oficiales
+    url: https://www.parcmacin.ro/trasee-turistice/
+  - titulo: Visita y tarifas — Entradas al parque
+    url: https://www.parcmacin.ro/practicarea-turismului-in-muntii-macinului/
+  - titulo: Centro de visitantes — Contacto y reservas de Greci
+    url: https://www.parcmacin.ro/contact/
+resumen:
+  es: >-
+    Las montañas más antiguas de Rumanía (hercinianas, de más de 300 millones de años) erosionadas en forma de
+    estepa de altitud.
+  en: >-
+    Europe's oldest mountains (over 300 million years old), with Pontic-Sarmatic steppe, sub-Mediterranean
+    forests, and raptor migration flyways.
+  fr: >-
+    Les plus vieilles montagnes d'Europe (plus de 300 millions d'années), steppes ponto-sarmatiques, forêts
+    subméditerranéennes et couloirs de rapaces.
+  de: >-
+    Ältestes Gebirge Europas (über 300 Millionen Jahre alt), mit pontisch-sarmatischer Steppe, submediterranen
+    Wäldern und Greifvogelzug.
+  it: >-
+    Le montagne più antiche d'Europa (oltre 300 milioni di anni), steppa pontico-sarmatica, boschi
+    submediterranei e rotte migratorie di rapaci.
+  pt: >-
+    As montanhas mais antigas da Europa (mais de 300 milhões de anos), com estepe pôntico-sarmática, matas
+    submediterrânicas e migração de rapinas.
+unico:
+  es: >-
+    Es el único lugar de la Unión Europea donde la estepa se encuentra con bosques submediterráneos y
+    balcánicos, sobre las rocas más viejas del país.
+  en: >-
+    Granite inselbergs older than the dinosaurs, with rock formations shaped like eggs and human profiles,
+    meeting Dobrogea steppes and Balkan woodlands.
+  fr: >-
+    Des inselbergs granitiques antérieurs aux dinosaures, aux rochers ovoïdes et profils humains, où se
+    rencontrent steppes de Dobrogea et forêts balkaniques.
+  de: >-
+    Granitene Inselberge, älter als die Dinosaurier, mit verwitterten Felsmonolithen, wo Dobrudscha-Steppen
+    auf balkanische Wälder treffen.
+  it: >-
+    Inselberg granitici più antichi dei dinosauri, con monoliti ovoidali e volti di pietra, dove le steppe
+    della Dobrugia incontrano le selve balcaniche.
+  pt: >-
+    Inselbergs graníticos mais antigos que os dinossauros, com monólitos ovóides e perfis humanos, onde as
+    estepes da Dobruja encontram as matas balcânicas.
+observaciones:
+  es: >-
+    Consulta el mapa del parque y respeta las reglas de visita de la administración. Quédate en los senderos
+    marcados y no entres en la zona de Chediu.
+texto:
+  es:
+    intro: >-
+      Unas montañas que apenas parecen montañas: colinas de granito que fueron, en su día, una cordillera
+      entera. Los Montes Măcin son los más antiguos de Rumanía, el resto de la orogenia herciniana que cerró
+      el Paleozoico, y hoy se alzan como un inselberg, una montaña isla, en el noroeste de la Dobrogea, junto
+      al Danubio. El parque nacional ocupa 11.151,82 hectáreas de ese macizo, y su pico más alto, en Greci,
+      llega a 467 m.
+    landscape: >-
+      Hay rocas de 650 millones de años y un relieve que condensa los grandes periodos geológicos del país. La
+      roca se sigue disgregando, y de ahí salen paisajes arcaicos con aspecto de ruinas: monolitos erosionados
+      que cambian de forma según quién los mire. Un geógrafo rumano describió el Pricopanul como una avalancha
+      de enormes bloques graníticos caídos del cielo y amontonados unos sobre otros.
+
+
+      El contraste lo pone la vegetación: estepa en las crestas, bosque en la base. Entre los hábitats hay
+      hayedos de la Dobrogea, robledales con carpe y estepas pontosármaticas. El clima es templado
+      continental, con influencias de aridez por el aire que llega del este.
+    wildlife: >-
+      Aquí viven más de 3400 especies de flora y fauna. De las plantas hay casi 1900, aproximadamente la mitad
+      de la flora del país, y se han identificado 24 hábitats prioritarios, uno de ellos sin igual en el
+      mundo: el hayedo de la Dobrogea. Sobre las rocas crecen la campanilla dobrogeana, endémica (*Campanula
+      romanica*), Dianthus nardiformis y Moehringia grisebachii y M. jankae; por las sendas de cresta aparecen
+      espino, rosa silvestre y salicaria de hoja de sauce.
+
+
+      Entre las crestas rocosas viven la tortuga de la Dobrogea, el lagarto verde, la culebra de las flechas,
+      el turón jaspeado, la garduña y el turón de estepa. Entre los mamíferos del parque hay chacal dorado,
+      [ciervo](/especie/cervus_elaphus/), [corzo](/especie/capreolus_capreolus/), zorro y
+      [lince](/especie/lynx_lynx/), además de [marta](/especie/martes_martes/), hámster rumano y suslik
+      europeo. La tortuga mora, *Testudo graeca*, comparte parque con el sapillo de vientre amarillo; entre
+      los insectos están el ciervo volante, *Osmoderma eremita* y el saltamontes de estepa *Saga pedo*.
+
+
+      Las aves son el espectáculo: la cresta de Culmea Pricopanului es el principal punto de seguimiento de la
+      migración de rapaces que atraviesan el país. Entre las aves migratorias y nidificantes figuran el
+      [águila real](/especie/aquila_chrysaetos/), el águila pomerana, el alcaraván, el [búho
+      real](/especie/bubo_bubo/), la culebrera europea y la [cigüeña negra](/especie/ciconia_nigra/).
+    visit: >-
+      El parque tiene marcados once senderos turísticos, siete temáticos, uno ecuestre y diez de cicloturismo.
+      Hay un centro de visitantes e información en el municipio de Greci, en el condado de Tulcea.
+
+
+      La ruta insignia es Culmea Pricopanului: una cresta de 14 kilómetros desde Măcin, por Sulucu Mare,
+      Caramalău y Fântâna de Leac, con formaciones geológicas espectaculares de hace unos 255 millones de
+      años. Entre las temáticas, la geológica Poteca Priopcei mide 7 km, va marcada con un punto amarillo y
+      pasa por el promontorio norte del Vf. Priopcea y el Vf. Boldea. La de Dinogeția mide 4 km, con punto
+      rojo, y parte de la fortaleza de Dinogeția. La de Niculițel mide 9 km, lleva círculo azul y se hace en
+      tres o cuatro horas.
+
+
+      Se llega por la DN 22D entre Măcin y Horia, por la E87 entre Măcin, Jijila y Luncavița o por la
+      carretera comarcal Horia–Luncavița.
+
+
+      El parque es poco conocido para el turismo, aunque junto a él el Delta del Danubio atrae cada año a
+      decenas de miles de visitantes. Y hay una zona, Chediu, que es una reserva estrictamente protegida, solo
+      para investigación científica, y queda excluida del turismo.
+    history: >-
+      Las montañas fueron declaradas reserva de la biosfera en 1998. La primera propuesta de crear el parque
+      nacional fue ese mismo año, y se declaró área protegida por una ley del 6 de marzo de 2000. Hoy forma
+      parte de la red Natura 2000 y fue creado para proteger la biodiversidad de la bioregión de estepa.
+
+
+      Entre las amenazas está la captura ilegal de la tortuga *Testudo graeca*.
+    before: >-
+      Consulta el mapa del parque y respeta las reglas de visita de la administración. Quédate en los senderos
+      marcados y no entres en la zona de Chediu.
+    around: >-
+      A 9 km queda la [Meseta de Babadag - Reserva de Estepa](/lugar/podisul-babadag---rezervatia-de-stepa/).
+      Con el [Parque Nacional del Bükk](/lugar/bukki-nemzeti-park/) y el [Parque Nacional
+      Körös-Maros](/lugar/koros-maros-nemzeti-park/) comparte el [águila imperial](/especie/aquila_heliaca/) y
+      el halcón sacre, y la estepa; con la [Reserva Natural del Bosque-Estepa de
+      Hagieni](/lugar/rezervatia-naturala-padurea-hagieni/), la [tortuga mora](/especie/testudo_graeca/) y la
+      estepa.
+  en:
+    intro: >-
+      From a distance they barely resemble mountains: rounded granite hills that once formed an entire
+      continental range. The Măcin Mountains are the oldest mountains in Romania, the relic of the Hercynian
+      orogeny that closed the Paleozoic era, rising today as an inselberg—an isolated mountain island—in
+      northwestern Dobrogea beside the Danube. The national park protects 11,151.82 hectares of this massif,
+      whose highest summit near Greci reaches 467 m.
+    landscape: >-
+      Here rest rocks dating back 650 million years, encapsulating the grand geological epochs of Romania. The
+      stone continues weathering into ruined, archaic vistas: eroded tor monoliths whose silhouettes shift
+      with the viewer's angle. A Romanian geographer famously portrayed the Pricopan ridge as an avalanche of
+      immense granite boulders fallen from the sky and piled precariously atop one another.
+
+
+      Vegetation provides startling contrast: arid steppe across the windswept crests, dense woodland at the
+      base. Habitats range from Dobrogea beech woods and hornbeam oak groves to Pontic-Sarmatic steppes. The
+      climate is temperate continental, tinged by aridity carried on eastern continental airflows.
+    wildlife: >-
+      More than 3400 species of flora and fauna inhabit the park. Vascular plants approach 1900 species—nearly
+      half of Romania's entire flora—and researchers have identified 24 priority habitats, including one found
+      nowhere else globally: the Dobrogea beech wood. Crags foster the endemic Dobrogea bellflower (*Campanula
+      romanica*), *Dianthus nardiformis*, *Moehringia grisebachii*, and *M. jankae*, while crest footpaths are
+      fringed by hawthorn, wild rose, and willow-leaved spiraea.
+
+
+      Rocky ridges shelter the spur-thighed tortoise, European green lizard, Caspian whipsnake, marbled
+      polecat, stone marten, and steppe polecat. Mammals include the golden jackal, [red
+      deer](/especie/cervus_elaphus/), [roe deer](/especie/capreolus_capreolus/), red fox, and [Eurasian
+      lynx](/especie/lynx_lynx/), beside [European pine marten](/especie/martes_martes/), Romanian hamster,
+      and European ground squirrel. The spur-thighed tortoise, *Testudo graeca*, shares the terrain with the
+      yellow-bellied toad, while insects include the stag beetle, hermit beetle *Osmoderma eremita*, and
+      predatory bush-cricket *Saga pedo*.
+
+
+      Birdlife creates an extraordinary spectacle: the Culmea Pricopanului ridge serves as Romania's premier
+      migration watchpoint for raptors transiting the country. Migrants and breeders include the [golden
+      eagle](/especie/aquila_chrysaetos/), lesser spotted eagle, Eurasian stone-curlew, [Eurasian
+      eagle-owl](/especie/bubo_bubo/), short-toed snake eagle, and [black stork](/especie/ciconia_nigra/).
+    visit: >-
+      The park offers eleven waymarked hiking trails, seven thematic paths, one equestrian trail, and ten
+      cycling itineraries. A modern visitor and information centre operates in Greci, Tulcea County.
+
+
+      The flagship route is Culmea Pricopanului: a 14-kilometre ridge walk from Măcin via Sulucu Mare,
+      Caramalău, and Fântâna de Leac, traversing spectacular granite landforms shaped some 255 million years
+      ago. Among interpretive trails, the geological Poteca Priopcei spans 7 km marked with a yellow dot over
+      the northern promontories of Vf. Priopcea and Vf. Boldea. The Dinogeția trail covers 4 km with red dots
+      from Dinogeția fortress. The Niculițel trail extends 9 km with blue circles, taking three to four hours.
+
+
+      Road access is via the DN 22D between Măcin and Horia, the E87 connecting Măcin, Jijila, and Luncavița,
+      or the local Horia–Luncavița road.
+
+
+      The park remains relatively undiscovered by mass tourism, despite the neighbouring Danube Delta
+      attracting tens of thousands annually. Note that the Chediu sector is an intact strict scientific
+      reserve off-limits to tourism.
+    history: >-
+      The mountains were designated a biosphere reserve in 1998. The initial proposal for national park
+      establishment emerged that same year, and statutory protection was enacted by law on 6 March 2000. Today
+      it forms an essential component of the Natura 2000 network created to safeguard the biodiversity of the
+      Steppic bioregion.
+
+
+      Illegal poaching of the tortoise *Testudo graeca* remains a documented conservation threat.
+    before: >-
+      Consult the park map and respect all park regulations. Stick strictly to marked trails and never
+      trespass into the Chediu strict reserve.
+    around: >-
+      At 9 km lies the [Babadag Plateau - Steppe Reserve](/lugar/podisul-babadag---rezervatia-de-stepa/). With
+      [Bükk National Park](/lugar/bukki-nemzeti-park/) and [Körös-Maros National
+      Park](/lugar/koros-maros-nemzeti-park/) it shares the [eastern imperial
+      eagle](/especie/aquila_heliaca/), saker falcon, and open steppe; with [Hagieni Forest-Steppe Nature
+      Reserve](/lugar/rezervatia-naturala-padurea-hagieni/), the [spur-thighed
+      tortoise](/especie/testudo_graeca/) and steppe habitat.
+  fr:
+    intro: >-
+      De loin, on les prendrait à peine pour des montagnes : des collines de granit usé qui formèrent jadis
+      une chaîne imposante. Les monts Măcin sont les plus anciens reliefs de Roumanie, ultime vestige de
+      l'orogenèse hercynienne de la fin du Paléozoïque, surgissant aujourd'hui comme un inselberg — une
+      montagne-île — dans le nord-ouest de la Dobrogea au bord du Danube. Le parc national préserve 11 151,82
+      hectares de ce massif dont le point culminant, vers Greci, s'élève à 467 m.
+    landscape: >-
+      Des roches vieilles de 650 millions d'années y condensent les grandes ères géologiques roumaines. La
+      désagrégation du granit engendre des paysages ruiniformes arcaïques : des monolithes sculptés dont les
+      silhouettes varient au gré du regard. Un géographe roumain dépeignait le Pricopan comme une avalanche
+      d'immenses blocs de granit précipités du ciel et empilés les uns sur les autres.
+
+
+      Le contraste saisissant vient de la flore : steppe rase sur les crêtes, forêts fraîches au pied. Les
+      biotopes associent hêtraies de Dobrogea, chênaies à charmes et steppes ponto-sarmatiques. Le climat est
+      continental tempéré, marqué par des sécheresses apportées par les vents d'est.
+    wildlife: >-
+      Plus de 3400 espèces de flore et de faune cohabitent ici. Les plantes vasculaires approchent 1900
+      espèces, soit près de la moitié de la flore nationale, et 24 habitats prioritaires y ont été définis,
+      dont un unique au monde : la hêtraie de Dobrogea. Sur la roche fleurit la campanule endémique *Campanula
+      romanica*, *Dianthus nardiformis*, *Moehringia grisebachii* et *M. jankae*, tandis que les sentiers
+      sommitaux côtoient aubépine, églantier et spirée.
+
+
+      Parmi les rocailles vivent la tortue mauresque, le lézard vert, la couleuvre caspienne, le putois
+      marbré, la fouine et le putois des steppes. Les mammifères comptent le chacal doré, le [cerf
+      élaphe](/especie/cervus_elaphus/), le [chevreuil](/especie/capreolus_capreolus/), le renard roux et le
+      [lynx boréal](/especie/lynx_lynx/), aux côtés de la [martre des pins](/especie/martes_martes/), du
+      hamster roumain et du souslik d'Europe. La tortue mauresque, *Testudo graeca*, côtoie le sonneur à
+      ventre jaune, et les insectes comptent le lucane cerf-volant, le pique-prune *Osmoderma eremita* et la
+      magicienne dentelée *Saga pedo*.
+
+
+      Les oiseaux offrent un spectacle hors norme : la crête de Culmea Pricopanului est le haut lieu de suivi
+      de la migration des rapaces survolant le pays. Migrateurs et nicheurs comprennent l'[aigle
+      royal](/especie/aquila_chrysaetos/), l'aigle pomarin, l'œdicnème criard, le [hibou
+      grand-duc](/especie/bubo_bubo/), le circaète Jean-le-Blanc et la [cigogne
+      noire](/especie/ciconia_nigra/).
+    visit: >-
+      Le parc compte onze sentiers de randonnée balisés, sept thématiques, un équestre et dix itinéraires
+      cyclables. Un centre d'accueil et d'information fonctionne dans la commune de Greci, dans le județ de
+      Tulcea.
+
+
+      La crête de Culmea Pricopanului constitue la randonnée phare : 14 kilomètres depuis Măcin par Sulucu
+      Mare, Caramalău et Fântâna de Leac au milieu de modelés granitiques façonnés il y a 255 millions
+      d'années. Côté sentiers thématiques, la Poteca Priopcei géologique fait 7 km avec un point jaune par les
+      sommets Priopcea et Boldea. Le sentier de Dinogeția fait 4 km avec point rouge depuis la forteresse.
+      Celui de Niculițel fait 9 km balisé d'un cercle bleu, réalisable en trois ou quatre heures.
+
+
+      L'accès routier se fait par la DN 22D entre Măcin et Horia, par l'E87 entre Măcin, Jijila et Luncavița
+      ou par la départementale Horia–Luncavița.
+
+
+      Le parc reste paisible et peu fréquenté, bien que le delta du Danube voisin attire chaque année des
+      dizaines de milliers de voyageurs. La zone de Chediu forme une réserve scientifique intégrale interdite
+      au tourisme.
+    history: >-
+      Les monts furent reconnus réserve de biosphère en 1998. La proposition de parc national vit le jour
+      cette même année, et la protection légale intervint le 6 mars 2000. Le site appartient aujourd'hui au
+      réseau Natura 2000 afin de préserver la biorégion steppique.
+
+
+      Le prélèvement illégal de la tortue *Testudo graeca* demeure une menace surveillée.
+    before: >-
+      Consultez la carte du parc et respectez la réglementation. Restez impérativement sur les sentiers
+      balisés et ne pénétrez jamais dans la réserve de Chediu.
+    around: >-
+      À 9 km s'étend le [plateau de Babadag - Réserve de
+      steppe](/lugar/podisul-babadag---rezervatia-de-stepa/). Avec le [parc national de
+      Bükk](/lugar/bukki-nemzeti-park/) et le [parc national Körös-Maros](/lugar/koros-maros-nemzeti-park/),
+      il partage l'[aigle impérial](/especie/aquila_heliaca/), le faucon sacre et les milieux de steppe ; avec
+      la [réserve naturelle de la forêt-steppe de Hagieni](/lugar/rezervatia-naturala-padurea-hagieni/), la
+      [tortue mauresque](/especie/testudo_graeca/) et les landes steppiques.
+  de:
+    intro: >-
+      Aus der Ferne muten sie kaum wie Berge an: sanfte Granithügel, die vor Jahrmillionen ein ganzes
+      Faltengebirge bildeten. Das Măcin-Gebirge ist das älteste Gebirge Rumäniens, Relikt der herzynischen
+      Orogenese zum Ausgang des Paläozoikums, das heute als Inselberg im Nordwesten der Dobrudscha an der
+      Donau aufragt. Der Nationalpark umfasst 11.151,82 Hektar dieses Massivs, dessen höchster Gipfel bei
+      Greci 467 m erreicht.
+    landscape: >-
+      Gesteine von 650 Millionen Jahren Alter bündeln hier die geologische Entstehungsgeschichte Rumäniens.
+      Die fortdauernde Granitverwitterung schuf archaische Ruinenlandschaften: zernagte Felsen, deren
+      Silhouetten die Fantasie anregen. Ein rumänischer Geograf verglich den Pricopan-Kamm mit einem Sturz
+      gigantischer Granitblöcke, die aus dem Himmel herabfielen und sich auftürmten.
+
+
+      Den Kontrast stiftet die Vegetation: karge Felsensteppe auf den Kuppen, schattige Laubwälder am Hangfuß.
+      Zu den Lebensräumen zählen Dobrudscha-Buchenwälder, Hainbuchen-Eichenwälder und pontisch-sarmatische
+      Steppenrasen. Das Klima ist gemäßigt kontinental, geprägt von trockenen Ostwinden.
+    wildlife: >-
+      Über 3400 Tier- und Pflanzenarten leben im Park. Die Gefäßpflanzen umfassen fast 1900 Arten – beinahe
+      die Hälfte der gesamten Flora des Landes –, und 24 FFH-Lebensraumtypen wurden ausgewiesen, darunter der
+      weltweit einmalige Dobrudscha-Buchenwald. Auf den Felsen gedeihen die endemische Glockenblume *Campanula
+      romanica*, *Dianthus nardiformis*, *Moehringia grisebachii* und *M. jankae*, während Weißdorn,
+      Heckenrose und Spierstrauch die Kämme säumen.
+
+
+      Zwischen den Felsen leben Maurische Landschildkröte, Smaragdeidechse, Kaspische Pfeilnatter, Tigeriltis,
+      Steinmarder und Steppeniltis. Zu den Säugetieren gehören Goldschakal,
+      [Rothirsch](/especie/cervus_elaphus/), [Reh](/especie/capreolus_capreolus/), Rotfuchs und [Eurasischer
+      Luchs](/especie/lynx_lynx/) neben [Baummarder](/especie/martes_martes/), Rumänischem Hamster und Ziesel.
+      Die Landschildkröte *Testudo graeca* teilt das Areal mit der Gelbbauchunke; unter den Insekten leben
+      Hirschkäfer, Eremit *Osmoderma eremita* und die Steppengrashüpferart *Saga pedo*.
+
+
+      Die Vogelwelt bietet ein grandioses Schauspiel: Der Culmea-Pricopanului-Kamm ist Rumäniens wichtigster
+      Beobachtungspunkt für durchziehende Greifvögel. Zu den Zug- und Brutvögeln gehören
+      [Steinadler](/especie/aquila_chrysaetos/), Schreiadler, Triel, [Uhu](/especie/bubo_bubo/),
+      Schlangenadler und [Schwarzstorch](/especie/ciconia_nigra/).
+    visit: >-
+      Der Park bietet elf markierte Wanderwege, sieben Themenpfade, eine Reitroute und zehn Radwanderwege. Ein
+      Besucherzentrum besteht in der Gemeinde Greci im Kreis Tulcea.
+
+
+      Die Hauptroute Culmea Pricopanului führt über 14 Kilometer von Măcin über Sulucu Mare, Caramalău und
+      Fântâna de Leac entlang bizarrer Granitformen, die vor rund 255 Millionen Jahren entstanden. Unter den
+      Themenpfaden misst die geologische Poteca Priopcei 7 km (gelber Punkt) über die Nordabhänge von Vf.
+      Priopcea und Vf. Boldea. Der Dinogeția-Pfad misst 4 km (roter Punkt) ab der Festung Dinogeția. Die
+      Niculițel-Runde umfasst 9 km (blauer Kreis) und dauert drei bis vier Stunden.
+
+
+      Die Anfahrt erfolgt über die DN 22D zwischen Măcin und Horia, die E87 zwischen Măcin, Jijila und
+      Luncavița oder die Landstraße Horia–Luncavița.
+
+
+      Der Park gilt noch als touristischer Geheimtipp, obwohl das nahe Donaudelta jährlich zehntausende
+      Besucher anzieht. Der Sektor Chediu ist ein streng geschütztes Totalreservat für die Forschung und für
+      Wanderer gesperrt.
+    history: >-
+      Die Berge wurden 1998 zum Biosphärenreservat erklärt. Im selben Jahr entstand die Initiative zur
+      Parkgründung, und am 6. März 2000 wurde das Schutzgebiet gesetzlich verankert. Heute ist der Park Teil
+      von Natura 2000 zum Schutz der Steppenbioregion.
+
+
+      Zu den Gefährdungen zählt das illegale Sammeln der Schildkröte *Testudo graeca*.
+    before: >-
+      Studiere die Parkkarte und beachte die Parkordnung. Verlasse nicht die markierten Wanderwege und betritt
+      keinesfalls das Sperrgebiet Chediu.
+    around: >-
+      In 9 km Entfernung liegt die [Babadag-Hochebene -
+      Steppenreservat](/lugar/podisul-babadag---rezervatia-de-stepa/). Mit dem [Nationalpark
+      Bükk](/lugar/bukki-nemzeti-park/) und dem [Nationalpark Körös-Maros](/lugar/koros-maros-nemzeti-park/)
+      teilt er den [Östlichen Kaiseradler](/especie/aquila_heliaca/), den Sakerfalken und Steppenlandschaften;
+      mit dem [Naturreservat Waldsteppe Hagieni](/lugar/rezervatia-naturala-padurea-hagieni/) die [Maurische
+      Landschildkröte](/especie/testudo_graeca/) und Steppenbiotope.
+  it:
+    intro: >-
+      A guardarle da lontano sembrano a stento montagne: colline di granito levigato che un tempo componevano
+      un'imponente catena. I Monti Măcin sono i rilievi più antichi della Romania, relitto dell'orogenesi
+      ercinica del tardo Paleozoico, sorgendo oggi come un inselberg — una montagna-isola — nel nord-ovest
+      della Dobrugia a ridosso del Danubio. Il parco nazionale tutela 11.151,82 ettari di questo massiccio, il
+      cui culmine presso Greci tocca 467 m.
+    landscape: >-
+      Affiorano rocce di 650 milioni di anni che compendiano le grandi ere geologiche rumene. La degradazione
+      meteorica del granito ha modellato scenari ruiniformi arcaici: monoliti corrosi le cui forme mutano a
+      seconda della prospettiva. Un geografo rumeno descrisse la cresta del Pricopan come una slavina di
+      colossali blocchi granitici precipitati dal cielo e ammassati l'uno sull'altro.
+
+
+      Il contrasto proviene dalla coltre vegetale: steppa arida sui crinali, fitte foreste basali. Tra gli
+      habitat figurano faggete di Dobrugia, querceti a carpino e steppe pontico-sarmatiche. Il clima è
+      temperato continentale, contraddistinto da correnti aride provenienti da oriente.
+    wildlife: >-
+      Oltre 3400 specie animali e vegetali convivono in quest'area. La flora vascolare sfiora 1900 entità —
+      circa la metà dell'intero patrimonio botanico rumeno —, con 24 habitat prioritari accertati, tra cui uno
+      senza riscontro al mondo: la faggeta di Dobrugia. Sulle rocce fiorisce la campanula endemica *Campanula
+      romanica*, *Dianthus nardiformis*, *Moehringia grisebachii* e *M. jankae*, mentre biancospino, rosa
+      canina e spirea bordano le creste.
+
+
+      Le pietraie ospitano la testuggine greca, il ramarro, il colubro saetta, la puzzola marmorizzata, la
+      faina e la puzzola delle steppe. I mammiferi annoverano lo sciacallo dorato, il
+      [cervo](/especie/cervus_elaphus/), il [capriolo](/especie/capreolus_capreolus/), la volpe e la
+      [lince](/especie/lynx_lynx/), accanto a [martora](/especie/martes_martes/), criceto rumeno e citello. La
+      testuggine greca, *Testudo graeca*, convive con l'ululone dal ventre giallo, mentre gli insetti
+      includono cervo volante, scarabeo eremita *Osmoderma eremita* e la cavalletta predatrice *Saga pedo*.
+
+
+      L'avifauna dà spettacolo: la cresta di Culmea Pricopanului costituisce il primario osservatorio per il
+      monitoraggio dei rapaci in transito sulla Romania. Tra nidificanti e migratori si contano l'[aquila
+      reale](/especie/aquila_chrysaetos/), l'aquila anatraia minore, l'occhione, il [gufo
+      reale](/especie/bubo_bubo/), il biancone e la [cicogna nera](/especie/ciconia_nigra/).
+    visit: >-
+      Il parco vanta undici itinerari escursionistici tracciati, sette percorsi tematici, un ippovia e dieci
+      percorsi per cicloturismo. Un centro visite e informazione è operativo nel comune di Greci, nel
+      distretto di Tulcea.
+
+
+      L'itinerario di punta è Culmea Pricopanului: una traversata di 14 chilometri da Măcin per Sulucu Mare,
+      Caramalău e Fântâna de Leac tra conformazioni granitiche risalenti a circa 255 milioni di anni fa. Tra i
+      sentieri didattici, la Poteca Priopcei geologica misura 7 km con punto giallo lungo i contrafforti del
+      Vf. Priopcea e Vf. Boldea. Il sentiero di Dinogeția tocca 4 km con punto rosso dalla fortezza. Quello di
+      Niculițel copre 9 km a cerchio blu e si compie in tre o quattro ore.
+
+
+      L'accesso viario avviene tramite la statale DN 22D tra Măcin e Horia, la E87 tra Măcin, Jijila e
+      Luncavița o la provinciale Horia–Luncavița.
+
+
+      Il comprensorio è poco frequentato dal turismo di massa, benché il limitrofo Delta del Danubio richiami
+      ogni anno decine di migliaia di ospiti. L'area di Chediu costituisce una riserva scientifica integrale
+      preclusa alle visite.
+    history: >-
+      I monti furono proclamati riserva della biosfera nel 1998. La prima istanza per la creazione del parco
+      nazionale risale a quello stesso anno, e l'inquadramento legislativo giunse con legge del 6 marzo 2000.
+      L'area è oggi inserita nella rete Natura 2000 per salvaguardare la bioregione steppica.
+
+
+      Il prelievo illegale della testuggine *Testudo graeca* costituisce una criticità costantemente
+      monitorata.
+    before: >-
+      Esamina la cartina del parco e attieniti ai regolamenti. Cammina solo lungo i percorsi segnati e non
+      addentrarti nell'area protetta di Chediu.
+    around: >-
+      A 9 km si distende l'[Altopiano di Babadag - Riserva della
+      Steppa](/lugar/podisul-babadag---rezervatia-de-stepa/). Con il [Parco Nazionale del
+      Bükk](/lugar/bukki-nemzeti-park/) e il [Parco Nazionale Körös-Maros](/lugar/koros-maros-nemzeti-park/)
+      condivide l'[aquila imperiale](/especie/aquila_heliaca/), il sacro e gli ambienti steppici; con la
+      [Riserva Naturale della Foresta-Steppa di Hagieni](/lugar/rezervatia-naturala-padurea-hagieni/), la
+      [testuggine greca](/especie/testudo_graeca/) e la steppa.
+  pt:
+    intro: >-
+      Avistadas ao longe mal aparentam ser montanhas: colinas de granito suave que formaram outrora uma
+      cordilheira inteira. Os Montes Măcin são as montanhas mais antigas da Roménia, o que resta da orogenia
+      hercínica que encerrou o Paleozoico, erguendo-se hoje como um inselberg — uma montanha-ilha — no
+      noroeste da Dobruja junto ao Danúbio. O parque nacional abarca 11.151,82 hectares deste relevo, cujo
+      topo mais elevado, junto a Greci, atinge 467 m.
+    landscape: >-
+      Descansam aqui rochas de 650 milhões de anos condensando as grandes épocas geológicas da Roménia. A
+      desagregação contínua do granito gerou paisagens arcaicas de aspeto arruinado: monólitos erodidos cujas
+      formas se transformam consoante a perspetiva. Um geógrafo romeno retratou a crista do Pricopan como uma
+      avalanche de blocos graníticos descomunais tombados do céu e sobrepostos uns sobre os outros.
+
+
+      O contraste é proporcionado pelo coberto vegetal: estepe agreste nas cumeadas, matas frescas na base.
+      Nos habitats coexistem fagetos da Dobruja, carvalhais com carpa e estepes pôntico-sarmáticas. O clima é
+      temperado continental, com feição árida imposta pelas correntes de leste.
+    wildlife: >-
+      Mais de 3400 espécies de fauna e flora partilham este território. As plantas vasculares rondam 1900
+      espécies — sensivelmente metade da flora de toda a Roménia —, tendo sido cartografados 24 habitats
+      prioritários, um deles exclusivo à escala global: o fageto da Dobruja. Nas fragas floresce a campânula
+      endémica *Campanula romanica*, *Dianthus nardiformis*, *Moehringia grisebachii* e *M. jankae*, ladeando
+      os trilhos de crista o espinheiro-alvar, a rosa-brava e a espireia.
+
+
+      Por entre as cristas rochosas habitam a tartaruga-moura, o sardão-esmeraldino, a
+      cobra-de-ferradura-oriental, o tourão-jaspeado, a fuinha e o tourão-das-estepes. Nos mamíferos surgem o
+      chacal-dourado, o [veado-vermelho](/especie/cervus_elaphus/), a [corça](/especie/capreolus_capreolus/),
+      a raposa e o [lince-euroasiático](/especie/lynx_lynx/), a par da [marta do pinheiro
+      europeia](/especie/martes_martes/), do hamster-romeno e do esquilo-terrestre. A tartaruga-moura,
+      *Testudo graeca*, partilha o terreno com o sapo-de-ventre-amarelo; entre os insetos salientam-se a
+      vaca-loura, o escaravelho-eremita *Osmoderma eremita* e o gafanhoto-predador *Saga pedo*.
+
+
+      As aves protagonizam um momento singular: a crista de Culmea Pricopanului é o principal observatório de
+      monitorização da migração de rapinas do país. Entre migradoras e nidificantes avistam-se a
+      [águia-real](/especie/aquila_chrysaetos/), a águia-pomerana, o alcaravão, o
+      [bufo-real](/especie/bubo_bubo/), a águia-cobreira e a [cegonha-preta](/especie/ciconia_nigra/).
+    visit: >-
+      O parque dispõe de onze trilhos pedestres sinalizados, sete rotas temáticas, um itinerário equestre e
+      dez rotas cicláveis. Existe um centro de interpretação e acolhimento na localidade de Greci, no distrito
+      de Tulcea.
+
+
+      A rota rainha é a Culmea Pricopanului: uma travessia de 14 quilómetros desde Măcin por Sulucu Mare,
+      Caramalău e Fântâna de Leac, ladeada por monumentos de granito esculpidos há cerca de 255 milhões de
+      anos. Entre os trilhos interpretativos, a Poteca Priopcei geológica tem 7 km com ponto amarelo pelos
+      cumes Priopcea e Boldea. A de Dinogeția soma 4 km com ponto vermelho a partir da fortaleza. A de
+      Niculițel alcança 9 km com círculo azul, demorando três a quatro horas.
+
+
+      O acesso rodoviário faz-se pela DN 22D entre Măcin e Horia, pela E87 entre Măcin, Jijila e Luncavița ou
+      pela estrada municipal Horia–Luncavița.
+
+
+      O parque regista reduzida afluência turística, embora o adjacente Delta do Danúbio receba dezenas de
+      milhares de visitantes todos os anos. A área de Chediu é uma reserva de proteção estrita destinada
+      apenas à investigação científica, vedada a turistas.
+    history: >-
+      As montanhas foram classificadas como reserva da biosfera em 1998. O projeto de criação do parque
+      nacional emergiu nesse mesmo ano, tendo a consagração legal ocorrido a 6 de março de 2000. O espaço
+      integra hoje a rede Natura 2000 para salvaguarda da região biogeográfica estépica.
+
+
+      A captura ilegal da tartaruga *Testudo graeca* configura uma ameaça sob constante vigilância.
+    before: >-
+      Examina o mapa do parque e respeita as normas de conduta. Mantém-te estritamente nos trilhos assinalados
+      e nunca entres na reserva integral de Chediu.
+    around: >-
+      A 9 km estende-se o [Planalto de Babadag - Reserva de
+      Estepe](/lugar/podisul-babadag---rezervatia-de-stepa/). Com o [Parque Nacional do
+      Bükk](/lugar/bukki-nemzeti-park/) e o [Parque Nacional Körös-Maros](/lugar/koros-maros-nemzeti-park/)
+      partilha a [águia-imperial-oriental](/especie/aquila_heliaca/), o falcão-sacre e a estepe; com a
+      [Reserva Natural da Floresta-Estepe de Hagieni](/lugar/rezervatia-naturala-padurea-hagieni/), a
+      [tartaruga-moura](/especie/testudo_graeca/) e os biótopos estépicos.
+fuentes:
+  - url: https://turism-macin.ro/en/tourist-attractions/macin-mountains/
+    titulo: Măcin Mountains — National Center for Tourist Information and Promotion Măcin
+    fecha_consulta: '2026-10-29'
+  - url: https://parcmacin.ro/traseul-culmea-pricopanului/
+    titulo: Traseul Culmea Pricopanului — Parcul Naţional Munţii Măcinului
+    fecha_consulta: '2026-10-29'
+  - url: https://parcmacin.ro/trasee-turistice/
+    titulo: Trasee Turistice — Parcul Naţional Munţii Măcinului
+    fecha_consulta: '2026-10-29'
+  - url: https://parcmacin.ro/cadru-natural/
+    titulo: Cadru natural — Parcul Național Munții Măcinului
+    fecha_consulta: '2026-10-29'
+  - url: https://parcmacin.ro/practicarea-turismului-in-muntii-macinului/
+    titulo: Practicarea turismului în Munții Măcinului
+    fecha_consulta: '2026-10-29'
+  - url: https://parcmacin.ro/turism/
+    titulo: Turism — Parcul Național Munții Măcinului
+    fecha_consulta: '2026-10-29'
+  - url: https://ro.wikipedia.org/wiki/Parcul_Na%C8%9Bional_Mun%C8%9Bii_M%C4%83cinului
+    titulo: Parcul Național Munții Măcinului — Wikipedia
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:RO_TL_Mun%C8%9Bii_M%C4%83cin.JPG
+    autor: Nicu Farcaș
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-21'

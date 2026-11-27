@@ -1,0 +1,632 @@
+id: rago-national-park
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional de Rago
+  en: Rago National Park
+  fr: Parc national de Rago
+  de: Rago-Nationalpark
+  it: Parco nazionale di Rago
+  pt: Parque Nacional de Rago
+nombre_original: Rago National Park
+alias:
+  - Rago National Park (Rago nasjonalpark)
+paises:
+  - 'NO'
+region:
+  es: Nordland (Sørfold / Nordfold)
+  en: Nordland (Sørfold / Nordfold)
+  fr: Nordland (Sørfold / Nordfold)
+  de: Nordland (Sørfold / Nordfold)
+  it: Nordland (Sørfold / Nordfold)
+  pt: Nordland (Sørfold / Nordfold)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 67.43
+  lon: 15.98
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 829
+  nombre_en_la_fuente: Rago
+  categoria_uicn: II
+  capa: capas/cdda/rago-national-park.geojson
+habitats:
+  - high_mountain
+  - gorge_canyon
+  - glacial
+  - lake
+designaciones:
+  - national_park
+  - iucn_ii
+especies:
+  - gulo_gulo
+  - aquila_chrysaetos
+  - salmo_trutta
+temporada_ideal:
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: julio a septiembre
+  en: July to September
+  fr: juillet à septembre
+  de: Juli bis September
+  it: da luglio a settembre
+  pt: julho a setembro
+masificacion: 1
+masificacion_nota:
+  es: Baja en los senderos hacia la cascada Litlverivasset (250 m)
+  en: Low on the trails towards Litlverivasset waterfall (250 m)
+  fr: Faible sur les sentiers menant à la cascade Litlverivasset (250 m)
+  de: Gering auf den Pfaden zum Litlverivasset-Wasserfall (250 m)
+  it: Bassa sui sentieri verso la cascata Litlverivasset (250 m)
+  pt: Baixa nos trilhos até à cascata Litlverivasset (250 m)
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parque nacional de Rago
+    url: https://www.nasjonalparkstyre.no/Midtre-Nordland/verneomrader/rago-nasjonalpark
+  - titulo: Rutas — Senderos de Rago
+    url: https://ragonasjonalpark.no/pa-tur-i-rago/
+  - titulo: Normas — Visita del parque de Rago
+    url: https://ragonasjonalpark.no/om-nasjonalparken/
+  - titulo: Visita y transporte — Acceso a Rago
+    url: https://ragonasjonalpark.no/reise-og-overnatting/
+  - titulo: Centro de visitantes — Parques nacionales de Nordland
+    url: https://www.nordlandsnaturen.no/besokssenter-nasjonalpark/
+resumen:
+  es: >-
+    Un cañón alpino de granito desnudo extremadamente dramático que limita con Padjelanta y Sarek en Suecia,
+    formando un complejo transfronterizo salvaje de 7.400 km².
+  en: >-
+    An extremely dramatic bare-granite alpine canyon adjoining Padjelanta and Sarek in Sweden, forming a wild
+    transboundary complex of 7,400 km².
+  fr: >-
+    Un canyon alpin de granit dénudé extraordinairement spectaculaire bordant Padjelanta et Sarek en Suède,
+    formant un ensemble transfrontalier sauvage de 7 400 km².
+  de: >-
+    Ein überaus dramatischer alpiner Blankgranit-Canyon, der an Padjelanta und Sarek in Schweden grenzt und
+    einen 7.400 km² großen grenzüberschreitenden Wildniskomplex bildet.
+  it: >-
+    Uno spettacolare canyon alpino di granito nudo che confina con Padjelanta e Sarek in Svezia, formando un
+    complesso transfrontaliero selvaggio di 7.400 km².
+  pt: >-
+    Um desfiladeiro alpino de granito desnudo extremamente dramático que confina com Padjelanta e Sarek na
+    Suécia, compondo um complexo transfronteiriço selvagem de 7.400 km².
+unico:
+  es: >-
+    Un pinar casi virgen a los pies de granito desnudo, glaciares y una cascada de 223 m, todo en un parque
+    que ha elegido seguir siendo salvaje.
+  en: >-
+    A near-virgin pine forest at the foot of bare granite, glaciers, and a 223 m waterfall, all within a park
+    that has chosen to remain wild.
+  fr: >-
+    Une pinède quasi vierge au pied de granits polis, de glaciers et d'une cascade de 223 m, au cœur d'un parc
+    qui a fait le choix de rester sauvage.
+  de: >-
+    Ein nahezu unberührter Kiefernurwald zu Füßen nackter Granitwände, Gletscher und ein 223 m hoher
+    Wasserfall in einem Park, der sich für die Wildnis entschieden hat.
+  it: >-
+    Una pineta quasi primordiale ai piedi di graniti spogli, ghiacciai e una cascata di 223 m, il tutto in un
+    parco che ha scelto di restare selvaggio.
+  pt: >-
+    Um pinhal quase virgem no sopé de granito desnudo, glaciares e uma cascata de 223 m, tudo num parque que
+    optou por permanecer selvagem.
+observaciones:
+  es: >-
+    La vuelta de Rago es exigente y pide buen calzado y ropa según el tiempo; el cortavientos y el pantalón
+    cortavientos son el mínimo. Las cabañas abiertas de Statskog, Storskogvasshytta y Ragohytta, tienen muy
+    pocas camas y pueden estar ocupadas, sobre todo de junio a octubre; lleva tienda. Las hogueras solo con
+    leña que hayas traído, porque los pinos muertos albergan hongos raros. Los perros van atados del 1 de
+    abril al 20 de agosto, y la basura se saca del parque.
+texto:
+  es:
+    intro: >-
+      Rago significa, en sami, «región de montaña difícil e intransitable», y el nombre da el tono. Con 171
+      km², Rago es un parque pequeño que se creó el 22 de enero de 1971 para representar un paisaje de montaña
+      virgen de Nordland, y que se pega a los parques suecos de Padjelanta, Sarek y Stora Sjöfallet. Entre los
+      cuatro suman 5.700 km², una de las mayores áreas protegidas continuas de Europa. Su plan de gestión lo
+      considera un parque silvestre, sin infraestructura adaptada para las visitas.
+    landscape: >-
+      El granito manda. El lecho de roca es en gran parte gneis granítico, una roca dura que se altera
+      despacio y deja poco suelo, y por eso el paisaje es de roca pulida, bloques sueltos de la edad de hielo
+      y canchales bajo las paredes. Los cañones fluviales nacieron del agua de deshielo que drenaba al
+      fundirse el hielo. Muchas cumbres pasan de los mil metros, y una de ellas, Rago, da nombre al parque.
+
+
+      Al sur, el macizo de Lappfjellet tiene varios glaciares pequeños, y el clima es de costa: mucha
+      precipitación, veranos frescos e inviernos suaves. El Litlverivatnet desagua directamente en la cascada
+      Litlverivassforsen, de 223 m.
+
+
+      Lo más valioso del bosque es el pinar. Rago es uno de los mejores bosques naturales de pino de Nordland,
+      y los pinos llegan casi hasta el límite del bosque, de modo que el abedul de montaña domina menos que en
+      el resto de Noruega. En el bosque viejo hay muchas especies de hongos de corteza y de poros en peligro;
+      en la zona de Storskogvatnet se han registrado 20 de la lista roja, sobre todo en pinos muertos.
+      Alrededor del glaciar Flatkjølen, en el sureste, el suelo calcáreo sostiene una vegetación rica, con
+      plantas de montaña exigentes junto a los neveros.
+    wildlife: >-
+      Rago es un parque de pastos de invierno para el reno, del distrito de Doukta. El
+      [alce](/especie/alces_alces/) es el único cérvido residente; el [glotón](/especie/gulo_gulo/) tiene aquí
+      su guarida y sus zonas de caza, mientras que el [lince](/especie/lynx_lynx/) solo pasa. En los parques
+      suecos vecinos hay mucho oso, pero en Rago no ha sido común desde 1900.
+
+
+      En los pinares viven el gallo lira y el [urogallo](/especie/tetrao_urogallus/), y en buenos años abundan
+      los lagópodos en los abedulares. El [colimbo chico](/especie/gavia_stellata/) es abundante. Entre las
+      rapaces pueden verse el [águila real](/especie/aquila_chrysaetos/) y el [halcón
+      gerifalte](/especie/falco_rusticolus/), más numerosos en los años de muchos roedores.
+    visit: >-
+      La vuelta de Rago es la excursión de referencia. Se puede hacer en cualquier sentido, desde Lakshola o
+      desde Litjsand. Desde Lakshola sigues un sendero marcado junto al agua clara del Storskogelva y cruzas
+      un puente colgante; la subida de Nordskaret es empinada y puede resbalar, pero las vistas desde arriba
+      compensan. A unos nueve kilómetros llegas a Storskogvatnet, buen lugar para pasar la noche en tienda o
+      en la cabaña abierta del extremo sur del lago. La ruta sigue hacia Sølvskarvatnan y el Litlverivatnet,
+      en un paisaje ya de montaña, y sobre la cascada de Litlverivassforsen cruzas un puente colgante. Tras
+      otros cinco kilómetros llegas a Litjsand, y son unos dos kilómetros hasta el coche en Lakshola.
+
+
+      La mejor vista de Rago es la de Grisryggen, a un par de cientos de metros del puente: se sube desde
+      Litjsand, los dos primeros kilómetros son empinados, con casi 400 m de desnivel y bancos para respirar,
+      y la ida y vuelta mide unos 11 km. Otra ruta preparada es Lakshola–Storskogvatnet, de unos 7 km. La
+      travesía hacia Suecia, por Ragohytta hasta la frontera y Padjelanta, es exigente y solo está marcada en
+      parte.
+
+
+      El Centro de Visitantes de Parques Nacionales de Nordland, en Storjord (Saltdal), abrió en 2005 y está
+      autorizado para cinco parques, entre ellos Rago.
+    history: >-
+      Los pastores sami usaron la zona para llevar los renos desde Suecia a los pastos de verano. Una antigua
+      ruta de mojones iba de Megården por Lappfjellet y Flatkjølen hasta Suecia: por ella los sami suecos
+      venían a cambiar carne y pieles por pescado, sal y otros productos de la costa, y durante la Segunda
+      Guerra Mundial la usaron refugiados para pasar a la Suecia neutral.
+
+
+      La mayor amenaza para los valores del parque es el desgaste del verano, y el cambio climático es la
+      mayor amenaza para las especies raras.
+    before: >-
+      La vuelta de Rago es exigente y pide buen calzado y ropa según el tiempo; el cortavientos y el pantalón
+      cortavientos son el mínimo. Las cabañas abiertas de Statskog, Storskogvasshytta y Ragohytta, tienen muy
+      pocas camas y pueden estar ocupadas, sobre todo de junio a octubre; lleva tienda. Las hogueras solo con
+      leña que hayas traído, porque los pinos muertos albergan hongos raros. Los perros van atados del 1 de
+      abril al 20 de agosto, y la basura se saca del parque.
+    around: >-
+      El [Parque Nacional de Padjelanta](/lugar/padjelanta-national-park/) está pegado, al otro lado de la
+      frontera, y el [Parque Nacional de Junkerdal](/lugar/junkerdal-national-park/) queda algo más lejos. Más
+      lejos, el [Parque Nacional de Jotunheimen](/lugar/jotunheimen-national-park/) y el [Parque Nacional de
+      Børgefjell](/lugar/borgefjell-national-park/) comparten el glotón, y Jotunheimen también el águila real,
+      con el hábitat de alta montaña.
+  en:
+    intro: >-
+      In Sami, Rago signifies a 'difficult and impassable mountain tract', and the name sets the tenor.
+      Covering 171 km², Rago is a compact park established on 22 January 1971 to safeguard an unblemished
+      mountain landscape of Nordland, directly adjoining Sweden's Padjelanta, Sarek, and Stora Sjöfallet
+      national parks. Together, the four encompass 5,700 km², creating one of Europe's largest contiguous
+      protected wilderness expanses. Its management plan deliberately treats it as a wilderness park, devoid
+      of tourist infrastructure.
+    landscape: >-
+      Granite reigns supreme. The bedrock consists predominantly of granite-gneiss, a durable rock that
+      weathers agonizingly slowly and generates minimal topsoil, yielding a scoured terrain of polished stone,
+      glacial erratics, and scree slopes hugging cliff bases. River gorges were gouged by glacial meltwaters
+      surging during the ice retreat. Multiple summits surpass a thousand metres, with one of them, Rago,
+      giving its name to the reserve.
+
+
+      To the south, the Lappfjellet massif harbors several small cirque glaciers, and the climate is maritime:
+      heavy rainfall, cool summers, and mild winters. Litlverivatnet empties directly over the
+      Litlverivassforsen waterfall, plunging 223 m.
+
+
+      The most prized woodland element is the pine stand. Rago protects one of the finest natural Scots pine
+      forests in Nordland, where pines ascend almost to the treeline, leaving mountain birch far less dominant
+      than elsewhere in Norway. The old-growth forest shelters numerous red-listed polypores and crust fungi;
+      around Storskogvatnet, 20 red-listed species have been catalogued, primarily on standing dead pine.
+      Around the Flatkjølen glacier in the southeast, calcareous outcrops foster diverse alpine communities,
+      with demanding plants prospering near late snowbeds.
+    wildlife: >-
+      Rago serves as winter grazing territory for reindeer belonging to the Doukta herding district. The
+      [moose](/especie/alces_alces/) is the sole resident cervid; the [wolverine](/especie/gulo_gulo/)
+      maintains dens and hunting circuits here, whereas the [Eurasian lynx](/especie/lynx_lynx/) is only an
+      itinerant visitor. In neighboring Swedish parks brown bears thrive, but in Rago they have remained
+      uncommon since 1900.
+
+
+      In the pine woods dwell black grouse and the [Western capercaillie](/especie/tetrao_urogallus/), and in
+      favorable seasons ptarmigan thrive through the birch zones. The [red-throated
+      diver](/especie/gavia_stellata/) is plentiful. Among raptors, hikers may spot the [golden
+      eagle](/especie/aquila_chrysaetos/) and the [gyrfalcon](/especie/falco_rusticolus/), which peak in
+      abundance during rodent population booms.
+    visit: >-
+      The Rago circuit is the defining trek. It can be walked in either direction, beginning from Lakshola or
+      Litjsand. From Lakshola you follow a marked path alongside the crystalline Storskogelva and cross a
+      suspension bridge; the ascent of Nordskaret is steep and slippery, but the summit panoramas reward the
+      effort. After about nine kilometres you reach Storskogvatnet, an ideal spot for wild camping or staying
+      at the unlocked hut at the lake's southern end. The route proceeds towards Sølvskarvatnan and
+      Litlverivatnet across raw alpine terrain, traversing another suspension bridge suspended above the
+      Litlverivassforsen cataract. Following another five kilometres you arrive at Litjsand, followed by a
+      final two kilometres back to your vehicle at Lakshola.
+
+
+      The finest overlook in Rago is Grisryggen, a couple of hundred metres from the bridge: accessed from
+      Litjsand, the first two kilometres climb steeply with nearly 400 m of elevation gain and rest benches,
+      forming a round trip of some 11 km. Another maintained path links Lakshola to Storskogvatnet, measuring
+      about 7 km. The wilderness crossing into Sweden, via Ragohytta to the frontier and Padjelanta, is
+      demanding and only partially signposted.
+
+
+      The Nordland National Park Centre in Storjord (Saltdal) opened in 2005 and serves five national parks,
+      including Rago.
+    history: >-
+      Sami pastoralists traversed this country to drive reindeer herds from Sweden to coastal summer pastures.
+      An ancient cairned route stretched from Megården via Lappfjellet and Flatkjølen into Sweden: along it
+      Swedish Sami came to barter meat and pelts for fish, salt, and coastal commodities, and during the
+      Second World War refugees used it to escape into neutral Sweden.
+
+
+      The foremost threat to the park's fragile values is summer recreational wear, while climate change poses
+      the gravest danger to cold-adapted rare species.
+    before: >-
+      The Rago circuit is rugged and requires sturdy footwear along with weather-appropriate layering; a
+      windproof jacket and waterproof trousers are essential. Statskog's open wilderness cabins,
+      Storskogvasshytta and Ragohytta, contain very few bunks and can quickly fill up, especially from June to
+      October; carry a tent. Light campfires solely with brought firewood, as dead standing pines provide
+      irreplaceable habitat for rare fungi. Dogs must be kept on a lead from 1 April to 20 August, and all
+      waste must be packed out.
+    around: >-
+      [Padjelanta National Park](/lugar/padjelanta-national-park/) abuts Rago directly across the border, with
+      [Junkerdal National Park](/lugar/junkerdal-national-park/) lying somewhat farther away. Farther still,
+      [Jotunheimen National Park](/lugar/jotunheimen-national-park/) and [Børgefjell National
+      Park](/lugar/borgefjell-national-park/) share the wolverine, and Jotunheimen also shares the golden
+      eagle with high-alpine habitats.
+  fr:
+    intro: >-
+      En sami, Rago signifie « région montagneuse difficile et infranchissable », et le toponyme donne le ton.
+      Avec 171 km², Rago est un parc compact créé le 22 janvier 1971 pour préserver un paysage montagnard
+      intact du Nordland, accolé aux parcs nationaux suédois de Padjelanta, Sarek et Stora Sjöfallet. À eux
+      quatre, ils totalisent 5 700 km², l'une des plus vastes étendues protégées d'un seul tenant en Europe.
+      Son plan de gestion le consacre délibérément comme parc sauvage, sans aménagements touristiques adaptés.
+    landscape: >-
+      Le granit fait la loi. Le socle rocheux est formé en grande partie de gneiss granitique, une roche très
+      résistante qui s'altère avec lenteur et ne laisse que peu de sol, donnant naissance à un paysage de
+      dalles polies, de blocs erratiques de l'ère glaciaire et d'éboulis au pied des parois. Les gorges ont
+      été incisées par les eaux de fonte torrentielles lors du retrait des glaces. De nombreux sommets
+      dépassent mille mètres, l'un d'eux, le mont Rago, prêtant son nom au parc.
+
+
+      Au sud, le massif de Lappfjellet abrite quelques petits glaciers, et le climat est maritime :
+      précipitations généreuses, étés frais et hivers modérés. Le lac Litlverivatnet se vide directement par
+      la cataracte Litlverivassforsen, haute de 223 m.
+
+
+      Le trésor végétal demeure la pinède. Rago abrite l'une des plus belles forêts naturelles de pin
+      sylvestre du Nordland, et les pins montent pratiquement jusqu'à la limite des arbres, si bien que le
+      bouleau pubescent domine bien moins qu'ailleurs en Norvège. Ce vieux boisement héberge quantité de
+      champignons corticoles et polypores menacés ; dans le secteur du Storskogvatnet, on a répertorié 20
+      espèces de la liste rouge, principalement inféodées au bois mort de pin. Autour du glacier Flatkjølen,
+      au sud-est, les roches calcaires nourrissent une flore alpestre exigeante auprès des combes à neige.
+    wildlife: >-
+      Rago sert de pâturage hivernal aux rennes du district sami de Doukta. L'[élan](/especie/alces_alces/)
+      est l'unique cervidé sédentaire ; le [glouton](/especie/gulo_gulo/) y a ses tanières et ses domaines de
+      chasse, tandis que le [lynx boréal](/especie/lynx_lynx/) n'est que de passage. Les parcs suédois voisins
+      abritent de nombreux ours, mais à Rago l'espèce est rare depuis 1900.
+
+
+      Dans les pinèdes vivent le tétras lyre et le [grand tétras](/especie/tetrao_urogallus/), et les bonnes
+      années le lagopède pullule dans les bétulaies. Le [plongeon catmarin](/especie/gavia_stellata/) est très
+      répandu. Parmi les rapaces s'observent l'[aigle royal](/especie/aquila_chrysaetos/) et le [faucon
+      gerfaut](/especie/falco_rusticolus/), particulièrement visibles lors des pullulations de rongeurs.
+    visit: >-
+      Le circuit de Rago constitue la randonnée reine. Il peut s'effectuer dans les deux sens, au départ de
+      Lakshola ou de Litjsand. Depuis Lakshola, vous suivez un sentier balisé longeant les eaux limpides de la
+      Storskogelva et franchissez une passerelle suspendue ; la montée de Nordskaret est raide et glissante,
+      mais la vue compense largement l'effort. Après environ neuf kilomètres, vous atteignez le
+      Storskogvatnet, étape parfaite pour bivouaquer ou dormir dans la cabane libre à l'extrémité sud du lac.
+      L'itinéraire gagne ensuite Sølvskarvatnan et Litlverivatnet dans un univers de haute montagne, et vous
+      traversez un pont suspendu surplombant la cataracte Litlverivassforsen. Après cinq autres kilomètres,
+      vous rejoignez Litjsand, puis deux derniers kilomètres mènent au parking de Lakshola.
+
+
+      Le plus beau belvédère de Rago se dresse à Grisryggen, à deux cents mètres du pont : il s'aborde depuis
+      Litjsand, les deux premiers kilomètres étant ardus avec près de 400 m de dénivelé et des bancs de repos,
+      pour un aller-retour d'environ 11 km. Un autre itinéraire tracé relie Lakshola à Storskogvatnet sur
+      environ 7 km. La grande traversée vers la Suède, via Ragohytta jusqu'à la frontière et Padjelanta, est
+      engagée et seulement balisée par endroits.
+
+
+      Le centre des parcs nationaux du Nordland, à Storjord (Saltdal), a ouvert en 2005 et assure l'accueil
+      pour cinq parcs, dont Rago.
+    history: >-
+      Les pasteurs samis ont longtemps sillonné la contrée pour mener leurs rennes de Suède vers les pâturages
+      d'été côtiers. Un vieil itinéraire jalonné de cairns reliait Megården à la Suède via Lappfjellet et
+      Flatkjølen : les Samis suédois venaient y troquer viande et peaux contre poisson, sel et denrées
+      littorales, et durant la Seconde Guerre mondiale des réfugiés l'empruntèrent pour gagner la Suède
+      neutre.
+
+
+      La menace prépondérante pour les valeurs du parc réside dans l'érosion estivale, tandis que le
+      réchauffement climatique constitue le risque majeur pour les espèces boréales rares.
+    before: >-
+      Le tour de Rago est exigeant et requiert de solides chaussures de marche ainsi que des vêtements adaptés
+      à la météo ; coupe-vent et pantalon déperlant sont le strict minimum. Les cabanes ouvertes de Statskog,
+      Storskogvasshytta et Ragohytta, comptent très peu de couchages et peuvent être complètes,
+      particulièrement de juin à octobre ; prévoyez une tente. Ne faites de feu qu'avec du bois apporté par
+      vos soins, les vieux pins morts hébergeant des champignons rares. Les chiens doivent être tenus en
+      laisse du 1er avril au 20 août, et tout déchet doit être redescendu.
+    around: >-
+      Le [Parc national de Padjelanta](/lugar/padjelanta-national-park/) jouxte directement le site de l'autre
+      côté de la frontière, tandis que le [Parc national de Junkerdal](/lugar/junkerdal-national-park/) se
+      situe un peu plus loin. À plus grande distance, le [Parc national de
+      Jotunheimen](/lugar/jotunheimen-national-park/) et le [Parc national de
+      Børgefjell](/lugar/borgefjell-national-park/) partagent avec lui le glouton, et Jotunheimen également
+      l'aigle royal dans ces étendues d'altitude.
+  de:
+    intro: >-
+      Auf Samisch bedeutet Rago «schwieriges, unwegsames Bergland», und der Name gibt die Richtung vor. Mit
+      171 km² ist Rago ein kleiner Park, der am 22. Januar 1971 gegründet wurde, um eine unberührte
+      Gebirgslandschaft des Nordlands zu bewahren, und unmittelbar an die schwedischen Nationalparks
+      Padjelanta, Sarek und Stora Sjöfallet anschließt. Zu viert umfassen sie 5.700 km² – eines der größten
+      zusammenhängenden Schutzgebiete Europas. Sein Managementplan stuft ihn ausdrücklich als Wildnispark ohne
+      erschlossene Besucherinfrastruktur ein.
+    landscape: >-
+      Der Granit bestimmt alles. Das Grundgebirge besteht größtenteils aus Granitgneis, einem harten Gestein,
+      das nur extrem langsam verwittert und kaum Bodenbildung zulässt; daher prägen glattgeschliffener Fels,
+      eiszeitliche Findlinge und Blockhalden am Fuß der Wände das Bild. Die Canyons schnitten sich durch
+      gewaltige Schmelzwasserströme beim Rückzug des Inlandeises ein. Viele Gipfel überragen die
+      Tausend-Meter-Marke, und einer von ihnen, der Rago, gab dem Nationalpark seinen Namen.
+
+
+      Im Süden trägt das Lappfjellet-Massiv mehrere kleine Kargletscher, und das Klima ist küstengeprägt:
+      reichlich Niederschlag, kühle Sommer und milde Winter. Der See Litlverivatnet stürzt über den 223 m
+      hohen Wasserfall Litlverivassforsen in die Tiefe.
+
+
+      Der größte Reichtum des Waldes ist der Kiefernbestand. Rago birgt einen der besten Natur-Kiefernwälder
+      von ganz Nordland; die Kiefern reichen fast bis an die Waldgrenze heran, sodass die Fjällbirke hier weit
+      weniger dominiert als im übrigen Norwegen. Im Altholz leben zahlreiche seltene Rinden- und
+      Porlingspilze; am Storskogvatnet wurden 20 Arten der Roten Liste nachgewiesen, vor allem auf totem
+      Kiefernholz. Um den Flatkjølen-Gletscher im Südosten begünstigen kalkhaltige Böden eine artenreiche
+      Vegetation mit anspruchsvollen Gebirgspflanzen an den Schneetälchen.
+    wildlife: >-
+      Rago dient den Rentieren des samischen Weidedistrikts Doukta als Winterweide. Der
+      [Elch](/especie/alces_alces/) ist die einzige sesshafte Hirschart; der [Vielfraß](/especie/gulo_gulo/)
+      besitzt hier feste Reviere und Baue, während der [Eurasischer Luchs](/especie/lynx_lynx/) das Gebiet nur
+      streift. In den schwedischen Nachbarparks gibt es viele Bären, doch in Rago ist Meister Petz seit 1900
+      eine Seltenheit.
+
+
+      In den Kiefernforsten leben Birkhuhn und [Auerhuhn](/especie/tetrao_urogallus/), und in guten
+      Mäusejahren gedeihen Schneehühner im Birkenkrummholz. Der [Sterntaucher](/especie/gavia_stellata/) ist
+      häufig anzutreffen. Bei den Greifvögeln lassen sich [Steinadler](/especie/aquila_chrysaetos/) und
+      [Gerfalke](/especie/falco_rusticolus/) beobachten, vor allem wenn die Nagerbestände ihren Höhepunkt
+      erreichen.
+    visit: >-
+      Die Rago-Runde ist die Parade-Tour des Gebiets. Sie lässt sich in beiden Richtungen begehen, ab Lakshola
+      oder Litjsand. Von Lakshola folgst du einem markierten Steig entlang der klaren Storskogelva und
+      überquerst eine Hängebrücke; der Aufstieg zum Nordskaret ist steil und bei Nässe rutschig, belohnt aber
+      mit eindrucksvollen Aussichten. Nach etwa neun Kilometern erreichst du den Storskogvatnet – ein idealer
+      Platz fürs Zelt oder für die offene Hütte am Südende des Sees. Der Weg zieht weiter zu den
+      Sølvskarvatnan und zum Litlverivatnet in hochalpine Kulisse, wo du die Schlucht oberhalb des
+      Litlverivassforsen auf einer Hängebrücke überquerst. Nach weiteren fünf Kilometern gelangst du nach
+      Litjsand, von wo noch zwei Kilometer zum Parkplatz in Lakshola verbleiben.
+
+
+      Den schönsten Blick auf Rago eröffnet der Grisryggen, wenige hundert Meter von der Brücke entfernt: Der
+      Aufstieg beginnt bei Litjsand; die ersten zwei Kilometer steigen steil mit fast 400 m Höhenunterschied
+      an, versehen mit Rastbänken, und die Gesamttour misst hin und zurück rund 11 km. Eine weitere Route
+      führt von Lakshola zum Storskogvatnet über rund 7 km. Die Weitwanderung hinüber nach Schweden über die
+      Ragohytta zur Landesgrenze und nach Padjelanta ist anspruchsvoll und nur streckenweise markiert.
+
+
+      Das Nordland-Nationalparkzentrum in Storjord (Saltdal) wurde 2005 eröffnet und betreut fünf
+      Nationalparks, darunter Rago.
+    history: >-
+      Samische Rentierhalter nutzten das Gebiet von jeher, um ihre Tiere von Schweden zu den Sommerweiden an
+      die Küste zu treiben. Ein uralter Steinmännchenpfad führte von Megården über das Lappfjellet und
+      Flatkjølen nach Schweden: Auf ihm tauschten schwedische Samen Fleisch und Felle gegen Fisch, Salz und
+      Küstenwaren, und im Zweiten Weltkrieg flohen auf ihm Verfolgte ins neutrale Schweden.
+
+
+      Die größte Gefährdung für den Park entsteht durch Trittschäden im Sommer, während der Klimawandel die
+      seltenen arktisch-alpinen Arten am stärksten bedroht.
+    before: >-
+      Die Rago-Runde ist anspruchsvoll und verlangt gutes Schuhwerk sowie wetterfeste Kleidung; Windjacke und
+      Regenhose sind Mindestausstattung. Die offenen Schutzhütten von Statskog, Storskogvasshytta und
+      Ragohytta, besitzen nur sehr wenige Schlafplätze und können voll sein, vor allem von Juni bis Oktober;
+      führe ein Zelt mit. Lagerfeuer dürfen nur mit mitgebrachtem Brennholz entfacht werden, da tote Kiefern
+      seltene Pilze beherbergen. Hunde sind vom 1. April bis 20. August an der Leine zu führen, und jeder
+      Abfall ist wieder mitzunehmen.
+    around: >-
+      Der [Padjelanta-Nationalpark](/lugar/padjelanta-national-park/) grenzt jenseits der Grenze unmittelbar
+      an, und der [Junkerdal-Nationalpark](/lugar/junkerdal-national-park/) liegt etwas weiter entfernt. In
+      größerer Entfernung teilen der [Jotunheimen-Nationalpark](/lugar/jotunheimen-national-park/) und der
+      [Børgefjell-Nationalpark](/lugar/borgefjell-national-park/) den Vielfraß, und Jotunheimen zusätzlich den
+      Steinadler im alpinen Hochgebirgsraum.
+  it:
+    intro: >-
+      In lingua sami Rago significa «regione montuosa aspra e intransitabile», e il nome ne delinea il
+      carattere. Con 171 km², Rago è un parco raccolto istituito il 22 gennaio 1971 per tutelare un paesaggio
+      montano intatto del Nordland, raccordato ai parchi svedesi di Padjelanta, Sarek e Stora Sjöfallet.
+      Complessivamente i quattro territori assommano a 5.700 km², costituendo una delle maggiori aree protette
+      contigue d'Europa. Il piano di gestione lo configura come parco selvaggio, privo di infrastrutture
+      turistiche adattate.
+    landscape: >-
+      Il granito domina sovrano. Il basamento è in gran parte composto da gneiss granitico, una roccia
+      resistente che si altera con estrema lentezza e lascia poco suolo fertile, plasmando un paesaggio di
+      placche levigate, massi erratici dell'era glaciale e pietraie sotto pareti vertiginose. Le forre
+      fluviali scaturirono dalle imponenti acque di fusione al ritirarsi dei ghiacci. Molte cime oltrepassano
+      i mille metri, e una di esse, il monte Rago, dona il nome al parco.
+
+
+      A sud il massiccio del Lappfjellet custodisce vari piccoli ghiacciai, e il clima è oceanico:
+      precipitazioni copiose, estati fresche e inverni temperati. Il lago Litlverivatnet precipita
+      direttamente nella cascata Litlverivassforsen, con un salto di 223 m.
+
+
+      L'elemento forestale più prezioso è la pineta. Rago tutela una delle migliori pinete naturali di pino
+      silvestre del Nordland, dove i pini salgono fin quasi al limite della vegetazione arborea, lasciando
+      alla betulla montana uno spazio minore rispetto al resto della Norvegia. Nelle foreste vetuste abbondano
+      funghi corticicoli e polipori minacciati; nell'area di Storskogvatnet sono state censite 20 specie della
+      lista rossa, soprattutto su tronchi morti di pino. Attorno al ghiacciaio Flatkjølen, a sud-est, suoli
+      calcarei nutrono una ricca flora d'alta quota accanto ai nevai persistenti.
+    wildlife: >-
+      Rago è terra di pascolo invernale per le renne del distretto sami di Doukta.
+      L'[alce](/especie/alces_alces/) è l'unico cervide stanziale; il [ghiottone](/especie/gulo_gulo/) vi
+      mantiene tane e territori di caccia, mentre la [lince europea](/especie/lynx_lynx/) è solo di transito.
+      Nei contigui parchi svedesi l'orso bruno è diffuso, ma a Rago non è più comune dal 1900.
+
+
+      Nelle pinete dimorano fagiano di monte e [urogallo](/especie/tetrao_urogallus/), e nelle annate
+      favorevoli le pernici bianche abbondano nei boschi di betulle. La [strolaga
+      minore](/especie/gavia_stellata/) è assai frequente. Tra i rapaci si librano l'[aquila
+      reale](/especie/aquila_chrysaetos/) e il [girfalco](/especie/falco_rusticolus/), più frequenti durante i
+      picchi dei piccoli roditori.
+    visit: >-
+      L'anello di Rago è l'escursione d'elezione. Può essere affrontato in entrambi i sensi, da Lakshola o da
+      Litjsand. Da Lakshola segui una traccia segnata accanto alle acque cristalline della Storskogelva e
+      varchi un ponte sospeso; l'ascesa di Nordskaret è ripida e può risultare sdrucciolevole, ma il colpo
+      d'occhio ripaga di ogni fatica. A circa nove chilometri giungi a Storskogvatnet, luogo ideale per
+      piantare la tenda o pernottare nel rifugio libero all'estremità meridionale del lago. Il percorso
+      procede verso i Sølvskarvatnan e il Litlverivatnet, ormai in paesaggio montano aperto, e sopra la
+      cascata Litlverivassforsen superi una passerella aerea. Dopo altri cinque chilometri approdi a Litjsand,
+      da cui mancano circa due chilometri per tornare all'auto a Lakshola.
+
+
+      Il panorama più celebre di Rago è quello di Grisryggen, a un paio di centinaia di metri dal ponte: si
+      sale da Litjsand, i primi due chilometri sono ripidi con quasi 400 m di dislivello e panche di sosta,
+      per un andata e ritorno di circa 11 km. Un altro tracciato attrezzato è Lakshola–Storskogvatnet, di
+      circa 7 km. La traversata verso la Svezia, attraverso la Ragohytta fino al confine e a Padjelanta, è
+      impegnativa e tracciata solo a tratti.
+
+
+      Il Centro Visitatori dei Parchi Nazionali del Nordland, a Storjord (Saltdal), è stato inaugurato nel
+      2005 e fa da riferimento per cinque parchi, tra cui Rago.
+    history: >-
+      I pastori sami percorsero a lungo questi valichi per condurre le renne dalla Svezia ai pascoli estivi
+      della costa. Un'antica via scandita da ometti di pietra andava da Megården alla Svezia valicando
+      Lappfjellet e Flatkjølen: i sami svedesi vi transitavano per barattare carne e pelli con pesce, sale e
+      merci costiere, e durante la seconda guerra mondiale fu utilizzata dai profughi per rifugiarsi nella
+      neutrale Svezia.
+
+
+      La minaccia principale per gli equilibri del parco è il calpestio estivo, mentre il cambiamento
+      climatico minaccia gravemente le specie relitte di alta quota.
+    before: >-
+      L'anello di Rago è impegnativo e richiede calzature robuste e abbigliamento idoneo alle variazioni
+      meteo; antivento e pantaloni impermeabili sono irrinunciabili. I bivacchi aperti di Statskog,
+      Storskogvasshytta e Ragohytta, offrono pochissimi posti letto e possono risultare affollati, specie da
+      giugno a ottobre; porta una tenda. Accendi fuochi solo con legna portata da te, poiché i pini morti
+      accolgono funghi rari. I cani vanno tenuti al guinzaglio dal 1º aprile al 20 agosto e ogni rifiuto va
+      riportato a valle.
+    around: >-
+      Il [Parco nazionale di Padjelanta](/lugar/padjelanta-national-park/) è contiguo oltreconfine, mentre il
+      [Parco nazionale di Junkerdal](/lugar/junkerdal-national-park/) sorge poco più distante. Più lontano, il
+      [Parco nazionale di Jotunheimen](/lugar/jotunheimen-national-park/) e il [Parco nazionale di
+      Børgefjell](/lugar/borgefjell-national-park/) condividono il ghiottone, e Jotunheimen anche l'aquila
+      reale negli ambienti d'alta quota.
+  pt:
+    intro: >-
+      Em sami, Rago significa «região montanhosa árdua e intransitável», e o nome define o tom. Com 171 km²,
+      Rago é um parque de dimensões modestas instituído a 22 de janeiro de 1971 para preservar uma paisagem
+      montanhosa virgem de Nordland, confinando com os parques suecos de Padjelanta, Sarek e Stora Sjöfallet.
+      Juntos somam 5.700 km², uma das maiores áreas protegidas contínuas da Europa. O plano de gestão define-o
+      expressamente como um parque silvestre, desprovido de infraestruturas turísticas adaptadas.
+    landscape: >-
+      O granito comanda a paisagem. O substrato rochoso é composto em grande parte por gnaisse granítico, uma
+      rocha rígida que se desgasta lentamente e gera escasso solo arável, resultando num cenário de lajes
+      polidas, blocos erráticos da idade do gelo e cascalheiras sob as escarpas. Os desfiladeiros foram
+      esculpidos pela água de degelo na retração dos glaciares. Muitos cumes ultrapassam os mil metros, e um
+      deles, o Rago, dá o nome ao parque.
+
+
+      A sul, o maciço de Lappfjellet alberga vários glaciares diminutos, sendo o clima marítimo: pluviosidade
+      elevada, verões frescos e invernos amenos. O lago Litlverivatnet desagua diretamente na cascata
+      Litlverivassforsen, que despenca 223 m.
+
+
+      O elemento florestal mais valioso reside no pinhal. Rago possui um dos melhores bosques naturais de
+      pinheiro-silvestre de Nordland, e as árvores sobem quase até ao limite da vegetação arbórea, pelo que a
+      bétula-das-montanhas domina menos do que no resto da Noruega. No bosque antigo ocorrem numerosos fungos
+      de casca e políporos ameaçados; na zona de Storskogvatnet foram registadas 20 espécies da lista
+      vermelha, essencialmente em madeira morta de pinheiro. Junto ao glaciar Flatkjølen, no sudeste, o solo
+      calcário sustenta uma flora alpina exigente na orla dos neves perpétuos.
+    wildlife: >-
+      Rago constitui pastagem de inverno para as renas do distrito de Doukta. O [alce](/especie/alces_alces/)
+      é o único cervídeo residente; o [glutão](/especie/gulo_gulo/) tem aqui tocas e territórios de caça,
+      enquanto o [lince-euroasiático](/especie/lynx_lynx/) apenas transita. Nos parques suecos vizinhos
+      abundam ursos, mas em Rago a espécie deixou de ser comum desde 1900.
+
+
+      Nos pinhais residem o galo-lira e o [tetraz-grande](/especie/tetrao_urogallus/), abundando os lagópodes
+      nos vidoais nos anos propícios. A [mobelha-pequena](/especie/gavia_stellata/) é abundante. Entre as
+      rapinas avistam-se a [águia-real](/especie/aquila_chrysaetos/) e o
+      [falcão-gerifalte](/especie/falco_rusticolus/), mais frequentes nos anos com abundância de roedores.
+    visit: >-
+      O circuito de Rago constitui a rota de referência. Pode ser percorrido em ambos os sentidos, a partir de
+      Lakshola ou de Litjsand. De Lakshola segues um carreiro marcado junto às águas límpidas do Storskogelva
+      e transpões uma ponte suspensa; a subida de Nordskaret é íngreme e escorregadia, mas a vista do alto
+      compensa o esforço. A cerca de nove quilómetros atinges Storskogvatnet, local perfeito para pernoitar em
+      tenda ou na cabana de livre acesso no extremo sul da lagoa. O trilho segue para Sølvskarvatnan e
+      Litlverivatnet, em cenário de alta montanha, e sobre a cascata de Litlverivassforsen atravessas uma
+      ponte suspensa. Após outros cinco quilómetros chegas a Litjsand, restando cerca de dois quilómetros até
+      ao veículo em Lakshola.
+
+
+      A melhor panorâmica de Rago contempla-se em Grisryggen, a escassas centenas de metros da ponte: sobe-se
+      desde Litjsand, sendo os dois primeiros quilómetros muito inclinados com quase 400 m de desnível e
+      bancos de descanso, medindo a ida e volta cerca de 11 km. Outro percurso delineado é
+      Lakshola–Storskogvatnet, com cerca de 7 km. A travessia rumo à Suécia, passando pela Ragohytta até à
+      fronteira e a Padjelanta, é exigente e dispõe de sinalização apenas parcial.
+
+
+      O Centro de Visitantes dos Parques Nacionais de Nordland, em Storjord (Saltdal), abriu em 2005 e abrange
+      cinco parques, incluindo Rago.
+    history: >-
+      Os pastores sami utilizaram a região para conduzir as renas desde a Suécia até às pastagens estivais da
+      costa. Uma antiga rota de marcos de pedra ligava Megården à Suécia através de Lappfjellet e Flatkjølen:
+      por ali os sami suecos vinham trocar carne e peles por peixe, sal e produtos do litoral, e durante a
+      Segunda Guerra Mundial foi usada por fugitivos para alcançar a Suécia neutral.
+
+
+      A maior ameaça para os ecossistemas do parque é o desgaste dos trilhos no verão, ao passo que as
+      alterações climáticas ameaçam a sobrevivência das espécies raras.
+    before: >-
+      O circuito de Rago é exigente e requer calçado robusto e vestuário adaptado às oscilações
+      meteorológicas; corta-vento e calças impermeáveis constituem o mínimo indispensável. As cabanas abertas
+      de Statskog, Storskogvasshytta e Ragohytta, possuem pouquíssimas camas e podem estar lotadas, sobretudo
+      de junho a outubro; leva tenda de campismo. Fogueiras apenas com lenha que tenhas transportado, já que
+      os pinheiros mortos albergam fungos raros. Os cães devem circular com trela de 1 de abril a 20 de
+      agosto, e todo o lixo tem de ser recolhido.
+    around: >-
+      O [Parque Nacional de Padjelanta](/lugar/padjelanta-national-park/) está colado do outro lado da
+      fronteira, ficando o [Parque Nacional de Junkerdal](/lugar/junkerdal-national-park/) um pouco mais
+      distante. Mais longe, o [Parque Nacional de Jotunheimen](/lugar/jotunheimen-national-park/) e o [Parque
+      Nacional de Børgefjell](/lugar/borgefjell-national-park/) partilham o glutão, e Jotunheimen também a
+      águia-real, com o habitat de alta montanha.
+fuentes:
+  - url: https://ragonasjonalpark.no/en/hiking-in-rago/
+    titulo: Hiking in Rago
+    fecha_consulta: '2026-10-04'
+  - url: https://www.nasjonalparkstyre.no/uploads/files_midtre_nordland/Forvaltningsplan-Rago-2013.pdf
+    titulo: Forvaltningsplan Rago
+    fecha_consulta: '2026-10-04'
+  - url: https://no.wikipedia.org/wiki/Rago_nasjonalpark
+    titulo: Rago nasjonalpark – Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://en.wikipedia.org/wiki/Rago_National_Park
+    titulo: Rago National Park - Wikipedia
+    fecha_consulta: '2026-10-04'
+  - url: https://www.nordlandsnaturen.no/besokssenter-nasjonalpark/
+    titulo: Besøkssenter nasjonalpark | Nordland Nasjonalparksenter
+    fecha_consulta: '2026-10-04'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Litlverivasforsen_flows_out_of_Litlverivatnet_and_down_to_Storskogdalen.jpg
+    autor: Frankemann
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

@@ -1,0 +1,648 @@
+id: parcul-national-retezat---masivul-muntos
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional Retezat
+  en: Retezat National Park
+  fr: Parc national de Retezat
+  de: Nationalpark Retezat
+  it: Parco Nazionale Retezat
+  pt: Parque Nacional de Retezat
+nombre_original: Parcul Național Retezat
+alias:
+  - Parcul Național Retezat - Masivul muntos
+  - Parcul Național Retezat - Centura forestieră
+  - Retezat Forest Belt
+  - Retezat Mountains (Parcul Național Retezat)
+paises:
+  - RO
+region:
+  es: Județul Hunedoara (Hațeg)
+  en: Hunedoara County (Hațeg)
+  fr: Județ de Hunedoara (Hațeg)
+  de: Kreis Hunedoara (Hațeg)
+  it: Distretto di Hunedoara (Hațeg)
+  pt: Distrito de Hunedoara (Hațeg)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.38
+  lon: 22.85
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 861
+  nombre_en_la_fuente: Parcul Național Retezat
+  categoria_uicn: II
+  capa: capas/cdda/parcul-national-retezat---masivul-muntos.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - mature_forest
+designaciones:
+  - national_park
+  - biosphere_reserve
+  - strict_reserve
+  - natura2000
+  - iucn_ii
+especies:
+  - ursus_arctos
+  - rupicapra_rupicapra
+  - lynx_lynx
+proyectos:
+  - rewilding_southern_carpathians
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: da giugno a ottobre
+  pt: junho a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en accesos a Bucura; muy baja en Retezat Mic
+  en: Moderate on trails to Bucura; very low in Retezat Mic
+  fr: Moyenne sur les accès à Bucura ; très faible dans le Retezat Mic
+  de: Mäßig an den Zugängen zum Bucura; sehr gering im Retezat Mic
+  it: Media lungo i sentieri per Bucura; molto bassa nel Retezat Mic
+  pt: Média nos acessos a Bucura; muito baixa no Retezat Mic
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 2
+enlaces_oficiales:
+  - titulo: Gestor — Parque Nacional Retezat
+    url: https://www.retezat.ro/
+  - titulo: Rutas — Senderos oficiales de Retezat
+    url: https://www.retezat.ro/trasee
+  - titulo: Accesos — Entradas al parque
+    url: https://www.retezat.ro/puncte-acces-in-parc
+  - titulo: Normas — Visita de Retezat
+    url: https://www.retezat.ro/reguli-de-vizitare
+  - titulo: Visita y tarifas — Billete del parque
+    url: https://www.retezat.ro/intrebari-frecvente/57/bilet-de-vizitare-parcul-national-retezat
+resumen:
+  es: >-
+    El reino del granítico y glaciar Retezat, con más de 80 lagos glaciares cristalinos y la reserva de
+    Gemenele.
+  en: >-
+    The realm of the granitic and glacial Retezat, with over 80 crystal tarns and the Gemenele scientific
+    reserve.
+  fr: >-
+    Le royaume granitique et glaciaire du Retezat, avec plus de 80 lacs glaciaires limpides et la réserve de
+    Gemenele.
+  de: >-
+    Das Reich des granitischen und eiszeitlichen Retezat mit über 80 kristallklaren Karseen und dem
+    Gemenele-Reservat.
+  it: >-
+    Il regno granitico e glaciale del Retezat, con oltre 80 laghi glaciali cristallini e la riserva di
+    Gemenele.
+  pt: >-
+    O reino granítico e glaciar do Retezat, com mais de 80 lagoas glaciares cristalinas e a reserva de
+    Gemenele.
+unico:
+  es: >-
+    En un solo macizo se juntan el mayor y el más profundo de los lagos glaciares del país, medio centenar de
+    cumbres de más de 2000 m y, a sus pies, bosques maduros que enlazan con los paisajes alpinos y glaciares.
+  en: >-
+    A single massif gathers the country's largest and deepest glacial tarns, fifty peaks above 2000 m, and
+    ancient foothill forests merging into alpine landscapes.
+  fr: >-
+    Un seul massif réunit le plus vaste et le plus profond des lacs glaciaires du pays, cinquante sommets de
+    plus de 2000 m et, à leurs pieds, des forêts anciennes unies aux reliefs alpins.
+  de: >-
+    In einem einzigen Gebirge vereinen sich die größten und tiefsten Karseen des Landes, fünfzig Gipfel über
+    2000 m und urige Bergwälder, die in hochalpine Szenerien übergehen.
+  it: >-
+    Un solo massiccio racchiude il più esteso e il più profondo dei bacini glaciali del paese, cinquanta cime
+    oltre i 2000 m e fitte foreste basali che si fondono con gli scenari d'alta quota.
+  pt: >-
+    Num único maciço reúnem-se a maior e a mais funda lagoa glaciar do país, meia centena de picos acima dos
+    2000 m e matas maduras no sopé que confluem em relevos alpinos.
+observaciones:
+  es: >-
+    Consulta el mapa, elige la ruta según su duración y dificultad, mira la previsión del tiempo y equípate
+    bien. La visita es por cuenta y riesgo del visitante, solo por senderos marcados. Acampa únicamente donde
+    esté permitido, no alimentes a los animales salvajes y deja en el parque solo tus huellas.
+texto:
+  es:
+    intro: >-
+      Una multitud de lagos glaciares repartidos por un solo macizo, tantos que el parque lleva el apodo de
+      «Tierra de los Ojos Azules». Retezat es el parque nacional más antiguo de Rumanía: lo fundó en 1935 el
+      profesor Alexandru Borza, y desde entonces ha pasado de unas 13.000 hectáreas a más de 38.000. Su techo
+      es el Peleaga, de 2509 m.
+    landscape: >-
+      Hay 50 cumbres por encima de los 2000 m. Tras el Peleaga viene el Păpușa, con 2508 m.
+
+
+      Pero lo que define este paisaje es el agua. Los lagos son lo que dejaron los antiguos glaciares alpinos,
+      y los alimenta la nieve que se funde en las crestas. Reúnen aproximadamente el 38 % de los lagos
+      glaciares de Rumanía. El Bucura, con 8,9 ha, es el más extenso del país; el Zănoaga, con 29 m, el más
+      profundo; y el Tăul Porții, a 2260 m, el más alto del macizo. El Bucura, además, tiene su propia
+      leyenda: dicen que es la palma de la mano de un gigante convertido en roca sin cabeza, el pico Retezat,
+      y que sus dedos son los lagos Slăvei, Lia, Ana, Viorica y Zănoaga.
+
+
+      El sur es otro mundo. El Retezatul Mic descansa sobre caliza, y la caliza trae el relieve kárstico:
+      gargantas, cuevas y simas. Entre sus hábitats hay turberas con orquídeas amantes de la humedad, como
+      Gymnadenia frivaldii y Dactylorhiza cordigera, y con una planta carnívora, Pinguicula vulgaris.
+
+
+      Los bosques ocupan unas 20.500 hectáreas, el 53 % del parque, y su población de pino cembro es
+      probablemente la más representativa de los Cárpatos. Por encima de ellos, el pino mugo forma matorrales
+      que estabilizan las pendientes y protegen el suelo de la erosión.
+    wildlife: >-
+      La administración registra 1190 especies autóctonas de plantas superiores, 53 de mamíferos, 98 de aves,
+      seis de peces y siete de reptiles y de anfibios. En un recuento posterior se contaron 108 especies de
+      aves. Entre los mamíferos están el [lobo](/especie/canis_lupus/), el [oso
+      pardo](/especie/ursus_arctos/), el [lince](/especie/lynx_lynx/), el
+      [rebeco](/especie/rupicapra_rupicapra/), el [ciervo](/especie/cervus_elaphus/) y el
+      [corzo](/especie/capreolus_capreolus/). La [marmota](/especie/marmota_marmota/) fue introducida en 1973
+      en la reserva científica de Gemenele y desde allí se extendió por la zona alpina central del macizo.
+
+
+      La flora tiene rarezas propias: la endémica Draba dorneri, la flor de nieve y el zapatito de dama, y
+      cuatro plantas son monumentos naturales de Rumanía: Gentiana lutea, Gymnadenia rhellicani, Leontopodium
+      alpinum y Cypripedium calceolus. Entre los insectos, Retezat tiene 1100 especies de mariposas, y Lunca
+      Berhina fue declarada Área de Importancia Lepidopterológica Europea.
+
+
+      Para las aves, el embalse de Gura Apelor, en el límite oeste, se ha convertido en un lugar importante
+      para las acuáticas, que lo usan para invernar, anidar y alimentarse. En verano las excursiones de
+      montaña pueden ser también de observación de aves y fotografía de fauna.
+    visit: >-
+      La administración recomienda varias rutas. Desde Cârnic, la que pasa por el lago Galeș y la Șaua
+      Zănoagelor, o la que sube por Cabana Pietrele y el lago Stânișoara hasta el pico Retezat. Desde Gura
+      Bucurii, la ruta que pasa por el lago Bucura, la Căldarea Berbecilor y el Peleaga, y el circuito de los
+      lagos del complejo glaciar de Bucura. Las rutas completas del macizo las detalla el servicio provincial
+      de salvamento Salvamont.
+
+
+      Uno de los accesos es Râușor, por la carretera DJ 686 desde Râu de Mori.
+
+
+      El refugio Bucura, a 2041 m a orillas del lago, queda a dos horas de camino desde Poiana Pelegii. Los
+      refugios de montaña solo pueden ocuparse en condiciones excepcionales y con el permiso de Salvamont, por
+      lo que quien quiera dormir arriba debe llevar tienda y acampar solo donde esté designado. En bicicleta
+      se puede ir por las pistas forestales; por los senderos del parque está prohibido. En invierno hay esquí
+      de travesía por los senderos del parque.
+    history: >-
+      Antes de crearse el parque, la zona era un coto de caza de rebecos de la Casa Real. Desde 1880 se
+      talaron rasas los abetos rojos con obreros italianos traídos por los propietarios del bosque. En 1935
+      llegó la protección, por iniciativa de Borza, y en 1955 se constituyó la reserva científica Gemenele. En
+      1979 el comité de la UNESCO «El Hombre y la Biosfera» lo designó reserva de la biosfera, y en 2008
+      recibió el Diploma Europeo de Áreas Protegidas.
+    before: >-
+      Consulta el mapa, elige la ruta según su duración y dificultad, mira la previsión del tiempo y equípate
+      bien. La visita es por cuenta y riesgo del visitante, solo por senderos marcados. Acampa únicamente
+      donde esté permitido, no alimentes a los animales salvajes y deja en el parque solo tus huellas.
+    around: >-
+      Pegado a Retezat, a 0 km, está el [Parque Nacional Domogled - Valle del
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A 11 km quedan las [Montañas de
+      Șureanu](/lugar/muntii-sureanu/), y a 19 km, la [Garganta de Sohodol](/lugar/cheile-sohodolului/) y las
+      [Montañas de Parâng](/lugar/muntii-parang/). Con el [Parque Nacional
+      Călimani](/lugar/parcul-national-calimani---sumski-masiv/) comparte víbora común, marta y urogallo, y
+      bosques maduros y alta montaña.
+  en:
+    intro: >-
+      A multitude of glacial tarns scattered across a single massif, so numerous that the park earned the
+      moniker "Land of Blue Eyes". Retezat is Romania's oldest national park: founded in 1935 by Professor
+      Alexandru Borza, it has grown from roughly 13,000 hectares to over 38,000. Its crown is Peleaga, rising
+      to 2509 m.
+    landscape: >-
+      There are 50 peaks rising above 2000 m. Closely following Peleaga stands Păpușa, at 2508 m.
+
+
+      Yet what defines this realm is water. The tarns are legacies of ancient alpine glaciers, fed by snow
+      melting off the high ridges. They encompass roughly 38 % of all glacial lakes in Romania. Lake Bucura,
+      spanning 8.9 ha, is the country's largest tarn; Lake Zănoaga, reaching 29 m, the deepest; and Tăul
+      Porții, at 2260 m, the highest in the massif. Bucura has its own folklore: legend calls it the palm of a
+      giant turned to headless stone—the Retezat peak—with its fingers forming lakes Slăvei, Lia, Ana,
+      Viorica, and Zănoaga.
+
+
+      The south is another world. Retezatul Mic rests on limestone, displaying classic karst features: gorges,
+      caves, and chasms. Habitats include peat bogs sheltering moisture-loving orchids like Gymnadenia
+      frivaldii and Dactylorhiza cordigera, beside the insectivorous common butterwort, Pinguicula vulgaris.
+
+
+      Woodlands cover roughly 20,500 hectares, or 53 % of the park, and their Swiss stone pine population is
+      likely the most representative in the Carpathians. Above them, mountain pine forms dense scrub that
+      stabilizes scree slopes and shields soil from erosion.
+    wildlife: >-
+      The administration documents 1190 native vascular plant species, 53 mammals, 98 birds, six fish, and
+      seven reptiles and amphibians. A subsequent census recorded 108 bird species. Mammals include the [grey
+      wolf](/especie/canis_lupus/), [brown bear](/especie/ursus_arctos/), [Eurasian
+      lynx](/especie/lynx_lynx/), [chamois](/especie/rupicapra_rupicapra/), [red
+      deer](/especie/cervus_elaphus/), and [roe deer](/especie/capreolus_capreolus/). The [alpine
+      marmot](/especie/marmota_marmota/) was introduced in 1973 into the Gemenele scientific reserve,
+      spreading through the massif's central alpine zone.
+
+
+      The flora features distinctive rarities: the endemic Draba dorneri, edelweiss, and lady's slipper, while
+      four plants are protected Natural Monuments of Romania: Gentiana lutea, Gymnadenia rhellicani,
+      Leontopodium alpinum, and Cypripedium calceolus. Insect life features 1100 butterfly species, and Lunca
+      Berhina was declared a Prime Butterfly Area of European importance.
+
+
+      For birds, the Gura Apelor reservoir on the western perimeter has become an important wetland for
+      waterfowl during wintering, breeding, and feeding. In summer, mountain hikes double as prime
+      birdwatching and wildlife photography outings.
+    visit: >-
+      The park recommends several classic routes. From Cârnic, the trail via Lake Galeș and Șaua Zănoagelor,
+      or the ascent via Cabana Pietrele and Lake Stânișoara to Retezat peak. From Gura Bucurii, the route
+      leading past Lake Bucura, Căldarea Berbecilor, and Peleaga, alongside the circuit of the Bucura glacial
+      tarns. Detailed trail overviews are maintained by the Salvamont mountain rescue service.
+
+
+      A primary access point is Râușor, reached via road DJ 686 from Râu de Mori.
+
+
+      Bucura mountain refuge, standing at 2041 m on the lakeshore, lies a two-hour hike from Poiana Pelegii.
+      High-altitude refuges may only be occupied under exceptional emergency conditions with Salvamont
+      clearance, so overnight visitors must carry tents and camp only in designated areas. Cycling is
+      permitted along forest roads but barred on hiking footpaths. Winter offers ski mountaineering along park
+      trails.
+    history: >-
+      Before park creation, the territory served as a royal chamois hunting reserve. From 1880, Norwegian
+      spruce stands were heavily clear-cut using Italian timber workers brought in by estate owners. Formal
+      conservation arrived in 1935 through Borza's advocacy, and in 1955 the Gemenele scientific reserve was
+      delineated. In 1979 UNESCO's Man and the Biosphere programme designated it a biosphere reserve, and in
+      2008 it received the European Diploma of Protected Areas.
+    before: >-
+      Study the map, select routes matching your endurance, monitor mountain weather, and equip yourself
+      properly. Hiking is at your own risk on marked paths only. Camp exclusively at designated campsites,
+      refrain from feeding wildlife, and leave only footprints behind.
+    around: >-
+      Directly bordering Retezat at 0 km is [Domogled - Cerna Valley National
+      Park](/lugar/parcul-national-domogled---valea-cernei/). At 11 km rise the [Șureanu
+      Mountains](/lugar/muntii-sureanu/), and at 19 km lie [Sohodol Gorge](/lugar/cheile-sohodolului/) and the
+      [Parâng Mountains](/lugar/muntii-parang/). With [Călimani National
+      Park](/lugar/parcul-national-calimani---sumski-masiv/) it shares the common viper, marten, and
+      capercaillie, as well as old-growth forests and high-alpine realms.
+  fr:
+    intro: >-
+      Une profusion de lacs glaciaires répartis sur un seul massif, si nombreux que le parc porte le surnom de
+      « Pays aux yeux bleus ». Retezat est le plus ancien parc national de Roumanie : créé en 1935 par le
+      professeur Alexandru Borza, il est passé d'environ 13 000 hectares à plus de 38 000. Son sommet
+      culminant est le Peleaga, à 2509 m.
+    landscape: >-
+      On y compte 50 sommets dépassant les 2000 m d'altitude. Immédiatement derrière le Peleaga s'élève le
+      Păpușa, à 2508 m.
+
+
+      Mais c'est l'eau qui caractérise ces lieux. Les lacs sont l'héritage des glaciers alpins quaternaires,
+      alimentés par la fonte des neiges sommitales. Ils rassemblent environ 38 % des lacs glaciaires de
+      Roumanie. Le lac Bucura, avec 8,9 ha, est le plus étendu du pays ; le lac Zănoaga, avec 29 m de
+      profondeur, est le plus profond ; et le Tăul Porții, perché à 2260 m, est le plus haut du massif. Bucura
+      a sa légende : on raconte qu'il est la paume d'un géant transformé en roche décapitée — le pic Retezat
+      —, dont les doigts forment les lacs Slăvei, Lia, Ana, Viorica et Zănoaga.
+
+
+      Le sud dévoile un autre univers. Le Retezatul Mic repose sur du calcaire et déploie un relief karstique
+      : gorges, grottes et gouffres. Ses habitats abritent des tourbières où s'épanouissent des orchidées
+      hygrophiles comme Gymnadenia frivaldii et Dactylorhiza cordigera, aux côtés d'une plante carnivore,
+      Pinguicula vulgaris.
+
+
+      Les forêts recouvrent environ 20 500 hectares, soit 53 % du parc, et leur population de pins cembros est
+      sans doute la plus représentative des Carpates. Au-dessus, le pin mugo forme des fourrés denses
+      stabilisant les éboulis face à l'érosion.
+    wildlife: >-
+      L'administration recense 1190 espèces indigènes de plantes vasculaires, 53 de mammifères, 98 d'oiseaux,
+      six de poissons et sept de reptiles et amphibiens. Un inventaire ultérieur a porté le total à 108
+      espèces d'oiseaux. Parmi les mammifères figurent le [loup](/especie/canis_lupus/), l'[ours
+      brun](/especie/ursus_arctos/), le [lynx boréal](/especie/lynx_lynx/), le
+      [chamois](/especie/rupicapra_rupicapra/), le [cerf élaphe](/especie/cervus_elaphus/) et le
+      [chevreuil](/especie/capreolus_capreolus/). La [marmotte des Alpes](/especie/marmota_marmota/) a été
+      introduite en 1973 dans la réserve scientifique de Gemenele avant de coloniser les pelouses sommitales
+      du massif.
+
+
+      La flore compte des raretés exclusives : l'endémique Draba dorneri, l'edelweiss et le sabot de Vénus,
+      tandis que quatre espèces sont déclarées monuments naturels de Roumanie : Gentiana lutea, Gymnadenia
+      rhellicani, Leontopodium alpinum et Cypripedium calceolus. Chez les insectes, le Retezat abrite 1100
+      espèces de papillons, et Lunca Berhina a été reconnue zone d'importance lépidoptérologique européenne.
+
+
+      Côté avifaune, la retenue de Gura Apelor, sur la bordure occidentale, constitue une escale hivernale et
+      un site de nidification prisé des oiseaux d'eau. En été, les randonnées offrent d'excellentes
+      opportunités d'ornithologie et de photographie animalière.
+    visit: >-
+      La direction préconise plusieurs itinéraires réputés. Depuis Cârnic, le sentier passant par le lac Galeș
+      et la Șaua Zănoagelor, ou la montée via Cabana Pietrele et le lac Stânișoara jusqu'au pic Retezat.
+      Depuis Gura Bucurii, l'itinéraire franchissant le lac Bucura, la Căldarea Berbecilor et le Peleaga,
+      ainsi que le tour des lacs glaciaires de Bucura. Le réseau complet des sentiers est suivi par le corps
+      de secours en montagne Salvamont.
+
+
+      Un accès carrossable mène à Râușor par la route DJ 686 depuis Râu de Mori.
+
+
+      Le refuge de Bucura, à 2041 m au bord du lac, se rejoint en deux heures de marche depuis Poiana Pelegii.
+      Les refuges d'altitude sont réservés aux cas de force majeure avec l'accord du Salvamont ; les
+      randonneurs doivent emporter une tente et bivouaquer uniquement sur les aires désignées. Le VTT est
+      toléré sur les pistes forestières mais interdit sur les sentiers piétons. En hiver se pratique le ski de
+      randonnée sur les chemins balisés.
+    history: >-
+      Avant l'institution du parc, le secteur servait de chasse royale au chamois. À partir de 1880, les
+      pessières furent exploitées à blanc par une main-d'œuvre italienne recrutée par les propriétaires
+      terriens. En 1935 survint la protection officielle sous l'impulsion d'Alexandru Borza, suivie en 1955
+      par la délimitation de la réserve scientifique de Gemenele. En 1979, l'UNESCO l'a classé réserve de
+      biosphère, et en 2008 il a reçu le diplôme européen des espaces protégés.
+    before: >-
+      Consultez la carte, choisissez un itinéraire adapté, suivez la météo alpine et partez bien équipé. La
+      visite s'effectue sous votre propre responsabilité sur les sentiers balisés. Bivouaquez exclusivement
+      sur les aires autorisées, ne nourrissez pas les bêtes et ne laissez aucun déchet.
+    around: >-
+      Contigu au Retezat à 0 km s'étend le [parc national de Domogled - Vallée de la
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). À 11 km s'élèvent les [monts
+      Șureanu](/lugar/muntii-sureanu/), et à 19 km les [gorges de Sohodol](/lugar/cheile-sohodolului/) et les
+      [monts Parâng](/lugar/muntii-parang/). Avec le [parc national de
+      Călimani](/lugar/parcul-national-calimani---sumski-masiv/), il partage la vipère péliade, la martre, le
+      grand tétras, les vieilles forêts et la haute montagne.
+  de:
+    intro: >-
+      Eine Fülle eiszeitlicher Karseen in einem einzigen Massiv – so zahlreich, dass der Park den Beinamen
+      „Land der blauen Augen“ trägt. Das Retezat ist der älteste Nationalpark Rumäniens: Er wurde 1935 von
+      Professor Alexandru Borza gegründet und wuchs seither von rund 13.000 Hektar auf über 38.000 Hektar an.
+      Sein höchster Gipfel ist die Peleaga mit 2509 m.
+    landscape: >-
+      Es gibt 50 Gipfel über 2000 m Meereshöhe. Direkt hinter der Peleaga folgt die Păpușa mit 2508 m.
+
+
+      Das prägende Element ist jedoch das Wasser. Die Seen sind das Erbe einstiger Alpengletscher, gespeist
+      von der Schneeschmelze auf den Hochkämmen. Sie versammeln rund 38 % aller Karseen Rumäniens. Der
+      Bucura-See ist mit 8,9 ha der größte See des Landes; der Zănoaga mit 29 m Tiefe der tiefste; und der
+      Tăul Porții auf 2260 m der höchstgelegene des Massivs. Um den Bucura ranken sich Legenden: Er sei die
+      Handfläche eines Riesen, der zu kopflosem Fels erstarrte – dem Retezat-Gipfel –, dessen Finger die Seen
+      Slăvei, Lia, Ana, Viorica und Zănoaga bilden.
+
+
+      Der Süden zeigt ein völlig anderes Gesicht. Das Retezatul Mic ruht auf Kalkstein und bringt Karstformen
+      hervor: Schluchten, Höhlen und Schlünde. Zu den Biotopen gehören Moore mit feuchtigkeitsliebenden
+      Orchideen wie Gymnadenia frivaldii und Dactylorhiza cordigera sowie dem fleischfressenden Gemeinen
+      Fettkraut, Pinguicula vulgaris.
+
+
+      Die Wälder bedecken rund 20.500 Hektar, also 53 % des Parks, und ihr Zirbelkiefernbestand gilt als der
+      bedeutendste der Karpaten. Darüber bilden Bergkiefern dichte Latschenfelder, die Schutthalden festigen
+      und den Boden vor Abtragung schützen.
+    wildlife: >-
+      Die Parkverwaltung verzeichnet 1190 einheimische Gefäßpflanzenarten, 53 Säugetiere, 98 Vögel, sechs
+      Fischarten und sieben Reptilien- und Amphibienarten. Eine spätere Erhebung wies 108 Vogelarten nach.
+      Unter den Säugetieren leben [Wolf](/especie/canis_lupus/), [Braunbär](/especie/ursus_arctos/),
+      [Eurasischer Luchs](/especie/lynx_lynx/), [Gämse](/especie/rupicapra_rupicapra/),
+      [Rothirsch](/especie/cervus_elaphus/) und [Reh](/especie/capreolus_capreolus/). Das
+      [Alpenmurmeltier](/especie/marmota_marmota/) wurde 1973 im wissenschaftlichen Reservat Gemenele
+      angesiedelt und breitete sich über die zentrale alpine Zone aus.
+
+
+      Die Flora birgt botanische Kostbarkeiten: die endemische Draba dorneri, Edelweiß und Frauenschuh; vier
+      Pflanzenarten sind Naturdenkmäler Rumäniens: Gentiana lutea, Gymnadenia rhellicani, Leontopodium alpinum
+      und Cypripedium calceolus. Bei den Insekten beherbergt das Retezat 1100 Schmetterlingsarten; Lunca
+      Berhina wurde zum europäischen Schmetterlingsschutzgebiet erklärt.
+
+
+      Für die Vogelwelt ist der Stausee Gura Apelor an der Westgrenze zu einem wichtigen Rast-, Brut- und
+      Überwinterungsgewässer für Wasservögel geworden. Im Sommer bieten Bergtouren beste Gelegenheiten zur
+      Vogelbeobachtung und Tierfotografie.
+    visit: >-
+      Die Parkverwaltung empfiehlt mehrere Wanderklassiker. Von Cârnic die Route über den Galeș-See und die
+      Șaua Zănoagelor oder den Anstieg über die Hütte Cabana Pietrele und den Stânișoara-See zum
+      Retezat-Gipfel. Von Gura Bucurii führt der Weg über den Bucura-See, die Căldarea Berbecilor und die
+      Peleaga sowie der Rundweg um die Karseen des Bucura-Beckens. Genaue Routenbeschreibungen stellt die
+      Bergrettung Salvamont bereit.
+
+
+      Ein wichtiger Straßenzugang führt nach Râușor über die DJ 686 ab Râu de Mori.
+
+
+      Die Schutzhütte Refugiul Bucura auf 2041 m am Seeufer liegt zwei Gehstunden von Poiana Pelegii entfernt.
+      Schutzhütten stehen nur im Notfall und mit Salvamont-Erlaubnis offen; wer oben übernachten möchte, muss
+      ein Zelt mitbringen und darf nur auf ausgewiesenen Plätzen zelten. Mountainbiken ist auf Forststraßen
+      gestattet, auf Wanderwegen untersagt. Im Winter ist Skitourengehen auf den markierten Wegen möglich.
+    history: >-
+      Vor Ausweisung des Parks diente das Areal als königliches Gämsenjagdrevier. Ab 1880 führten Waldbesitzer
+      Kahlschläge der Fichtenbestände durch italienische Gastarbeiter durch. 1935 griff der Schutz auf
+      Betreiben von Alexandru Borza, und 1955 entstand das Totalreservat Gemenele. 1979 ernannte das
+      UNESCO-Programm „Der Mensch und die Biosphäre“ das Gebiet zum Biosphärenreservat, und 2008 wurde es mit
+      dem Europäischen Diplom für geschützte Gebiete ausgezeichnet.
+    before: >-
+      Studiere die Karte, wähle eine Route nach Können und Ausdauer, verfolge den Wetterbericht und rüste dich
+      alpin aus. Das Begehen erfolgt auf eigene Gefahr ausschließlich auf den markierten Wegen. Zelte nur auf
+      erlaubten Plätzen, füttere keine Wildtiere und hinterlasse nichts außer deinen Fußspuren.
+    around: >-
+      Direkt an das Retezat grenzt bei 0 km der [Nationalpark Domogled -
+      Cerna-Tal](/lugar/parcul-national-domogled---valea-cernei/). In 11 km Entfernung liegen die
+      [Șureanu-Berge](/lugar/muntii-sureanu/), und in 19 km Entfernung die
+      [Sohodol-Schlucht](/lugar/cheile-sohodolului/) sowie das [Parâng-Gebirge](/lugar/muntii-parang/). Mit
+      dem [Nationalpark Călimani](/lugar/parcul-national-calimani---sumski-masiv/) teilt er Kreuzotter,
+      Marder, Auerhuhn sowie Urwälder und Hochgebirge.
+  it:
+    intro: >-
+      Un reticolo di laghi glaciali costellati su un unico massiccio, così numerosi da valere al parco
+      l'appellativo di «Terra dagli occhi blu». Il Retezat è il parco nazionale più antico della Romania: fu
+      istituito nel 1935 dal professor Alexandru Borza, crescendo da circa 13.000 ettari a oltre 38.000. Il
+      punto più elevato è il Peleaga, a 2509 m.
+    landscape: >-
+      Si contano 50 cime al di sopra dei 2000 m di altitudine. Subito dopo il Peleaga svetta il Păpușa, a 2508
+      m.
+
+
+      Ma è l'acqua a plasmare il paesaggio. I bacini lacustri sono l'eredità degli antichi ghiacciai alpini,
+      ricaricati dallo scioglimento delle nevi di cresta. Racchiudono circa il 38 % dei laghi glaciali della
+      Romania. Il lago Bucura, con i suoi 8,9 ha, è il più vasto del paese; il lago Zănoaga, con 29 m di
+      profondità, il più profondo; e il Tăul Porții, a 2260 m, il più elevato del massiccio. Bucura vanta una
+      sua leggenda: si narra sia il palmo della mano di un gigante tramutato in roccia decollata — il picco
+      Retezat —, le cui dita formano i laghi Slăvei, Lia, Ana, Viorica e Zănoaga.
+
+
+      Il settore meridionale svela un altro scenario. Il Retezatul Mic poggia sul calcare, dando vita a
+      formazioni carsiche: forre, grotte e inghiottitoi. Tra gli ambienti figurano torbiere con orchidee
+      igrofile quali Gymnadenia frivaldii e Dactylorhiza cordigera, accanto alla pianta carnivora Pinguicula
+      vulgaris.
+
+
+      Le selve occupano circa 20.500 ettari, pari al 53 % del parco, e la presenza del pino cembro è
+      considerata la più significativa dei Carpazi. Sopra il limite forestale, il pino mugo forma fitti
+      intrichi che ancorano i ghiaioni ostacolando l'erosione.
+    wildlife: >-
+      I censimenti ufficiali registrano 1190 piante vascolari indigene, 53 specie di mammiferi, 98 di uccelli,
+      sei di pesci e sette fra rettili e anfibi. Una ricognizione posteriore ha quantificato 108 specie
+      ornitiche. I mammiferi annoverano il [lupo grigio](/especie/canis_lupus/), l'[orso
+      bruno](/especie/ursus_arctos/), la [lince](/especie/lynx_lynx/), il [camoscio
+      alpino](/especie/rupicapra_rupicapra/), il [cervo](/especie/cervus_elaphus/) e il
+      [capriolo](/especie/capreolus_capreolus/). La [marmotta](/especie/marmota_marmota/) fu introdotta nel
+      1973 nella riserva scientifica di Gemenele, espandendosi poi sull'altopiano centrale.
+
+
+      La flora ospita rarità esclusive: l'endemismo Draba dorneri, la stella alpina e la pianella della
+      Madonna; quattro entità vegetali sono monumenti naturali della Romania: Gentiana lutea, Gymnadenia
+      rhellicani, Leontopodium alpinum e Cypripedium calceolus. Gli insetti comprendono 1100 specie di
+      farfalle, e Lunca Berhina è stata designata area di rilevanza europea per i lepidotteri.
+
+
+      Per gli uccelli, il bacino artificiale di Gura Apelor, al margine occidentale, funge da polo attrattivo
+      per svernamento, cova e alimentazione dell'avifauna acquatica. D'estate le escursioni si prestano
+      all'avvistamento ornitologico e alla fotografia naturalistica.
+    visit: >-
+      L'amministrazione suggerisce alcuni grandi itinerari. Da Cârnic, il sentiero che tocca il lago Galeș e
+      la Șaua Zănoagelor, oppure la salita per Cabana Pietrele e il lago Stânișoara verso il picco Retezat. Da
+      Gura Bucurii, il tracciato che costeggia il lago Bucura, la Căldarea Berbecilor e il Peleaga, oltre
+      all'anello dei laghi glaciali di Bucura. La mappa dettagliata dei percorsi è curata dal soccorso alpino
+      Salvamont.
+
+
+      Una delle principali vie d'accesso conduce a Râușor percorrendo la strada DJ 686 da Râu de Mori.
+
+
+      Il bivacco alpino Bucura, a 2041 m in riva al lago, dista due ore di cammino da Poiana Pelegii. I
+      bivacchi di quota sono accessibili solo in via eccezionale con il benestare del Salvamont; chi desidera
+      pernottare deve munirsi di tenda e campeggiare unicamente negli spazi assegnati. La bicicletta è ammessa
+      lungo le strade forestali ma vietata sui sentieri escursionistici. D'inverno si pratica lo scialpinismo
+      sui percorsi segnati.
+    history: >-
+      Prima dell'istituzione dell'area protetta, il territorio era una riserva venatoria reale per la caccia
+      al camoscio. A partire dal 1880, boscaioli italiani ingaggiati dai possidenti attuarono estesi tagli
+      rasi di abete rosso. Nel 1935 giunse il vincolo di tutela su proposta di Alexandru Borza, e nel 1955 fu
+      delimitata la riserva integrale di Gemenele. Nel 1979 il programma UNESCO «L'Uomo e la Biosfera» lo
+      elesse riserva della biosfera, e nel 2008 il parco ottenne il Diploma Europeo delle Aree Protette.
+    before: >-
+      Esamina la cartina, commisura la meta alle tue forze, controlla le previsioni meteo e preparati con
+      calzature e capi adatti all'alta quota. L'escursione è a proprio rischio sui soli sentieri segnati.
+      Campeggia solo dove consentito, non dare cibo agli animali e non lasciare rifiuti.
+    around: >-
+      Contiguo al Retezat a 0 km si trova il [Parco Nazionale Domogled - Valle del
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A 11 km sorgono i [Monti
+      Șureanu](/lugar/muntii-sureanu/), e a 19 km la [Gola di Sohodol](/lugar/cheile-sohodolului/) e i [Monti
+      di Parâng](/lugar/muntii-parang/). Con il [Parco Nazionale
+      Călimani](/lugar/parcul-national-calimani---sumski-masiv/) condivide il marasso, la martora, l'urogallo,
+      nonché foreste vetuste e ambiente d'alta quota.
+  pt:
+    intro: >-
+      Uma constelação de lagoas glaciares repartidas por um único maciço, tão abundantes que o parque granjeou
+      a alcunha de «Terra dos Olhos Azuis». Retezat é o mais antigo parque nacional da Roménia: foi instituído
+      em 1935 pelo professor Alexandru Borza, expandindo-se desde então de cerca de 13.000 hectares para mais
+      de 38.000. O ponto mais alcantilado é o Peleaga, com 2509 m.
+    landscape: >-
+      Contam-se 50 cumes acima dos 2000 m de altitude. Logo atrás de Peleaga eleva-se Păpușa, com 2508 m.
+
+
+      Porém, é a água que forja a identidade desta serra. As lagoas são a herança deixada pelos antigos
+      glaciares alpinos, alimentadas pelo degelo nas cristas cimeiras. Concentram sensivelmente 38 % de todas
+      as lagoas glaciares da Roménia. A lagoa Bucura, com 8,9 ha, é a mais extensa do país; a lagoa Zănoaga,
+      com 29 m de profundidade, a mais funda; e o Tăul Porții, a 2260 m, a mais alta do maciço. Bucura encerra
+      lendas: diz-se que é a palma da mão de um gigante transformado em rochedo decapitado — o pico Retezat —,
+      cujos dedos formam as lagoas Slăvei, Lia, Ana, Viorica e Zănoaga.
+
+
+      O sul revela outro panorama. O Retezatul Mic assenta em calcário, modelando paisagens cársticas:
+      desfiladeiros, grutas e algares. Entre os biótopos contam-se turfeiras com orquídeas higrófilas como
+      Gymnadenia frivaldii e Dactylorhiza cordigera, a par da planta carnívora Pinguicula vulgaris.
+
+
+      As matas cobrem perto de 20.500 hectares, correspondendo a 53 % do parque, e a sua população de
+      pinheiro-suíço é porventura a mais expressiva dos Cárpatos. Acima da floresta, o pinheiro-anão forma
+      matagais densos que consolidam as cascalheiras contra a erosão.
+    wildlife: >-
+      A administração inventaria 1190 espécies autóctones de plantas vasculares, 53 mamíferos, 98 aves, seis
+      peixes e sete anfíbios e répteis. Uma recontagem posterior elevou o número a 108 espécies de aves. Entre
+      os mamíferos contam-se o [lobo-cinzento](/especie/canis_lupus/), o [urso-pardo](/especie/ursus_arctos/),
+      o [lince-euroasiático](/especie/lynx_lynx/), a [camurça](/especie/rupicapra_rupicapra/), o
+      [veado-vermelho](/especie/cervus_elaphus/) e a [corça](/especie/capreolus_capreolus/). A
+      [marmota](/especie/marmota_marmota/) foi introduzida em 1973 na reserva científica de Gemenele,
+      dispersando-se a partir daí pelo setor alpino central do maciço.
+
+
+      A flora exibe raridades botânicas: a endémica Draba dorneri, a flor-dos-alpes e o sapatinho-de-vênus;
+      quatro espécies constituem Monumentos Naturais da Roménia: Gentiana lutea, Gymnadenia rhellicani,
+      Leontopodium alpinum e Cypripedium calceolus. Nos insetos, Retezat abriga 1100 espécies de borboletas,
+      tendo Lunca Berhina sido classificada Área Lepidopterológica de Importância Europeia.
+
+
+      Para a avifauna, a albufeira de Gura Apelor, no limite poente, tornou-se um refúgio relevante para aves
+      aquáticas que aí invernam, nidificam e se alimentam. No verão, as caminhadas de montanha combinam
+      observação de aves e fotografia de fauna selvagem.
+    visit: >-
+      A direção recomenda vários trilhos de referência. A partir de Cârnic, a rota pela lagoa Galeș e pela
+      Șaua Zănoagelor, ou a subida pela Cabana Pietrele e pela lagoa Stânișoara até ao pico Retezat. Desde
+      Gura Bucurii, o caminho que margeia a lagoa Bucura, a Căldarea Berbecilor e o Peleaga, bem como o
+      circuito das lagoas glaciares de Bucura. A sinalização integral dos percursos é supervisionada pelo
+      corpo de resgate Salvamont.
+
+
+      Um dos acessos rodoviários conduz a Râușor através da estrada DJ 686 a partir de Râu de Mori.
+
+
+      O abrigo de montanha de Bucura, a 2041 m junto à margem da lagoa, fica a duas horas de marcha desde
+      Poiana Pelegii. Os abrigos de altitude destinam-se a situações de emergência com autorização do
+      Salvamont; quem deseje pernoitar nas alturas deve transportar tenda e acampar apenas nas zonas
+      designadas. O uso de bicicleta é tolerado nas estradas florestais, mas interdito nas veredas pedestres.
+      No inverno pratica-se esqui de travessia pelos trilhos balizados.
+    history: >-
+      Antes da instituição do parque, o território eracoutada de caça à camurça da Casa Real. A partir de 1880
+      os povoamentos de abeto foram alvo de corte raso por trabalhadores italianos contratados pelos
+      proprietários florestais. Em 1935 foi decretada a proteção por proposta de Alexandru Borza, e em 1955
+      delimitou-se a reserva científica de Gemenele. Em 1979 o programa da UNESCO «O Homem e a Biosfera»
+      consagrou-o reserva da biosfera, e em 2008 recebeu o Diploma Europeu de Áreas Protegidas.
+    before: >-
+      Consulta o mapa, escolhe o itinerário consoante a tua resistência física, acompanha as previsões
+      meteorológicas e equipa-te devidamente. A caminhada corre por conta e risco do visitante em trilhos
+      marcados. Acampa estritamente onde autorizado, não alimentes animais selvagens e deixa apenas pegadas na
+      paisagem.
+    around: >-
+      Contíguo a Retezat a 0 km situa-se o [Parque Nacional de Domogled - Vale do
+      Cerna](/lugar/parcul-national-domogled---valea-cernei/). A 11 km erguem-se as [Montanhas de
+      Șureanu](/lugar/muntii-sureanu/), e a 19 km as [Gargantas de Sohodol](/lugar/cheile-sohodolului/) e as
+      [Montanhas de Parâng](/lugar/muntii-parang/). Com o [Parque Nacional de
+      Călimani](/lugar/parcul-national-calimani---sumski-masiv/) partilha a víbora-comum, a marta, o
+      tetraz-grande, matas maduras e alta montanha.
+fuentes:
+  - url: https://retezat.ro/despre-specii
+    titulo: Despre specii — Parcul Național Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://retezat.ro/intrebari-frecvente/119/tourist-information
+    titulo: Tourist information — Parcul Național Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://retezat.ro/trasee
+    titulo: Trasee — Parcul Național Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/istoric
+    titulo: Parcul Național Retezat - Scurt Istoric
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/atractii-si-activitati-turistice
+    titulo: Atracții și activități turistice — Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/despre-habitate
+    titulo: Despre habitate — Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://en.wikipedia.org/wiki/Retezat_National_Park
+    titulo: Retezat National Park — Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/trasee
+    titulo: Trasee turistice — Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/cabane-refugii-si-locuri-de-campare
+    titulo: Cabane, refugii și locuri de campare — Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/puncte-acces-in-parc
+    titulo: Puncte de acces în parc — Retezat
+    fecha_consulta: '2026-10-29'
+  - url: https://www.retezat.ro/reguli-de-vizitare
+    titulo: Reguli de vizitare — Retezat
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lake_Bucura_07.jpg
+    autor: Gugalcrom123
+    licencia: CC BY 4.0
+    url_licencia: https://creativecommons.org/licenses/by/4.0
+    fecha_descarga: '2026-10-17'

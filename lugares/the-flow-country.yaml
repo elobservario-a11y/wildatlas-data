@@ -1,0 +1,702 @@
+id: the-flow-country
+estado_editorial: valoracion-revisada
+nombre:
+  es: The Flow Country — turberas de Caithness y Sutherland
+  en: The Flow Country — Caithness and Sutherland Peatlands
+  fr: The Flow Country — tourbières de Caithness et Sutherland
+  de: The Flow Country — Moorlandschaften von Caithness und Sutherland
+  it: The Flow Country — torbiere di Caithness e Sutherland
+  pt: The Flow Country — turfeiras de Caithness e Sutherland
+nombre_original: The Flow Country
+alias:
+  - The Flow Country
+paises:
+  - GB
+region:
+  es: Escocia (Caithness y Sutherland — Forsinard)
+  en: Scotland (Caithness and Sutherland — Forsinard)
+  fr: Écosse (Caithness et Sutherland — Forsinard)
+  de: Schottland (Caithness und Sutherland — Forsinard)
+  it: Scozia (Caithness e Sutherland — Forsinard)
+  pt: Escócia (Caithness e Sutherland — Forsinard)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 58.36
+  lon: -3.9
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: Caithness and Sutherland Peatlands
+  capa: capas/natura2000/the-flow-country.geojson
+habitats:
+  - wetland
+  - lake
+designaciones:
+  - unesco_whs
+  - ramsar
+  - natura2000
+especies:
+  - gavia_stellata
+  - pluvialis_apricaria
+  - circus_cyaneus
+  - cygnus_cygnus
+  - lutra_lutra
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+temporada_nota:
+  es: cría de limícolas y colimbos; mosquitos y tábanos en pleno verano
+  en: breeding waders and divers; midges and horseflies in midsummer
+  fr: reproduction des limicoles et plongeons ; moucherons et taons au cœur de l'été
+  de: Brutzeit von Watvögeln und Seetauchern; Gnitzen und Bremsen im Hochsommer
+  it: nidificazione di limicoli e strolaghe; moscerini e tafani in piena estate
+  pt: reprodução de limícolas e mobelhas; mosquitos e mutucas no pino do verão
+masificacion: 0
+valoracion: 5
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: The Flow Country
+    url: https://www.theflowcountry.org.uk
+  - titulo: Visita y normas — Flow Country
+    url: https://theflowcountry.org.uk/visiting-us/
+  - titulo: Rutas — Senderos de las turberas
+    url: https://theflowcountry.org.uk/suggested-walks/
+  - titulo: Accesos — Recorrer Flow Country en tren
+    url: https://theflowcountry.org.uk/visiting-us/the-flows-by-train/
+  - titulo: Centros de visitantes — Museos y acogida
+    url: https://theflowcountry.org.uk/visiting-us/museums-galleries-visitorcentres/
+  - titulo: Visita y observatorios — RSPB Forsinard Flows
+    url: https://www.rspb.org.uk/days-out/reserves/forsinard-flows
+enlaces_referencia:
+  - titulo: UNESCO — Flow Country
+    url: https://whc.unesco.org/en/list/1722
+resumen:
+  es: >-
+    La mayor extensión de turbera de cobertor de Europa, Patrimonio Mundial desde 2024: un paisaje de pozas y
+    musgo que almacena carbono desde la última glaciación.
+  en: >-
+    Europe's largest blanket bog expanse, World Heritage site since 2024: an intricate expanse of pool
+    complexes and sphagnum moss locking up carbon since the last Ice Age.
+  fr: >-
+    La plus vaste tourbière de couverture d'Europe, inscrite au Patrimoine mondial en 2024 : un monde d'eau et
+    de sphaignes séquestrant le carbone depuis la dernière glaciation.
+  de: >-
+    Das größte Deckenmoor Europas, seit 2024 UNESCO-Welterbe: eine von Moortümpeln und Torfmoosen geprägte
+    Wildnis, die seit der Eiszeit Kohlenstoff bindet.
+  it: >-
+    La più grande distesa di torbiera di copertura d'Europa, Patrimonio Mondiale dal 2024: un mosaico di pozze
+    e sfagni che immagazzina carbonio dall'ultima glaciazione.
+  pt: >-
+    A maior extensão de turfeira de cobertura da Europa, Património Mundial desde 2024: um labirinto de lagoas
+    e musgão que retém carbono desde a última glaciação.
+unico:
+  es: >-
+    La mayor turbera de cobertor de Europa, un paisaje de pozas y musgo que guarda carbono durante miles de
+    años.
+  en: >-
+    The largest blanket bog in Europe, a landscape of pool systems and mosses storing vast carbon reserves
+    over millennia.
+  fr: >-
+    La plus grande tourbière ombrotrophe de couverture d'Europe, un paysage de mares et de mousses stockant le
+    carbone depuis des millénaires.
+  de: >-
+    Europas ausgedehntestes Deckenmoor, ein Mosaik aus Mooraugen und Torfmoosen, das seit Jahrtausenden
+    gigantische Kohlenstoffmengen speichert.
+  it: >-
+    La maggiore torbiera di copertura d'Europa, un paesaggio d'acque e muschi che custodisce carbonio da
+    migliaia di anni.
+  pt: >-
+    A maior turfeira ombrotrófica contínua da Europa, uma paisagem de lagoas e musgos que armazena carbono há
+    milhares de anos.
+observaciones:
+  es: >-
+    En Forsinard, los perros deben ir con correa corta o muy controlados, sobre todo durante la cría de aves
+    de abril a julio. La RSPB no permite barbacoas ni fuegos en la reserva en ningún momento. Los aseos del
+    centro se anuncian como accesibles, aunque pueden no servir para todas las necesidades. Mira los horarios
+    de cada centro en sus páginas antes de ir.
+texto:
+  es:
+    intro: >-
+      Aquí el protagonista es el suelo: turba profunda, empapada y salpicada de pozas. El Flow Country es la
+      mayor turbera de cobertor de Europa: unos 4.000 km² en Caithness y Sutherland, en el norte de Escocia.
+      En 2024 la UNESCO lo declaró Patrimonio Mundial por su turbera de cobertor sin igual. Es, además, un
+      hábitat muy importante para la fauna. Aquí la gran atracción no es una montaña ni una costa, sino lo que
+      ocurre en un suelo empapado desde hace milenios.
+    landscape: >-
+      Todo parte del agua. La lluvia persistente encharcó el suelo, y ese encharcamiento permitió que la turba
+      cubriera colinas, pendientes y hondonadas como una manta. La turba se acumula desde hace 9.000 años y en
+      algunos puntos supera los ocho metros de espesor. En Forsinard, además, va de menos de 50 cm a más de 6
+      m de profundidad sobre sienita y granito. El clima es fresco y oceánico.
+
+
+      Esa turba es memoria vegetal. Está hecha sobre todo de restos de plantas, que a su vez están hechas de
+      carbono, y por eso guarda durante miles de años grandes reservas que de otro modo irían a la atmósfera.
+      Una de las plantas más abundantes es el esfagno, un musgo capaz de almacenar mucha agua que acaba
+      formando turba. Junto a él crecen *Erica tetralix*, *Sphagnum papillosum*, *Trichophorum cespitosum* y
+      *Eriophorum vaginatum*. Y plantas carnívoras como la drosera de hoja redonda, la drosera grande y la
+      grasilla se alimentan de los muchos insectos que viven aquí.
+
+
+      Las pozas varían según el clima y la hidrología: del charco al pequeño lago, formando patrones y
+      complejos de formas distintas. Los lagos de agua dulce, de pobres a medios en nutrientes, son de alta
+      calidad.
+    wildlife: >-
+      La época buena es la primavera y el verano. En los senderos de Forsinard verás [chorlito
+      dorado](/especie/pluvialis_apricaria/), correlimos común, archibebe claro y [aguilucho
+      pálido](/especie/circus_cyaneus/), además de alondra y bisbita. Esas aves crían aquí, igual que el
+      esmerejón. Las más raras, el [colimbo chico](/especie/gavia_stellata/), el colimbo ártico y el negrón
+      común, viven en las pozas y lagos remotos del interior, así que es raro verlos.
+
+
+      Más cerca, la vida es menuda. Junto a la pasarela se ven lagartijas, y en las pozas abundan libélulas,
+      ranas e insectos acuáticos. Las golondrinas anidan con frecuencia en la torre Flows Lookout. En la red
+      de lagos y cabeceras fluviales hay una buena población de [nutrias](/especie/lutra_lutra/), y entre los
+      invertebrados acuáticos figura el raro escarabajo *Oreodytes alpinus*. Las aves se mantienen en los
+      campos de alimentación del sendero Forsinain: chorlitos dorados, correlimos y zarapitos.
+
+
+      Un aviso del calendario: en pleno verano hay mosquitos y tábanos.
+    visit: >-
+      Empieza en Forsinard. El centro de visitantes ocupa la antigua estación ferroviaria y se puede alcanzar
+      en tren, coche o bicicleta. Comparte aparcamiento con la estación y da acceso a la torre Flows Lookout y
+      al sendero Dubh-lochain. Dentro hay una exposición interactiva sobre el patrimonio natural y la cultura
+      del Flow Country y la restauración de la turbera.
+
+
+      La pasarela del Dubh-lochain da un acceso bastante fácil a la turbera para una gran variedad de
+      visitantes. Si quieres más, hay tres paseos. El circuito Forsinain mide 6,5 km y cruza tierras
+      agrícolas, monte abierto y antiguas plantaciones. Loch a’Mhuilinn son 1,6 km con dos ramales que llegan
+      al lago, y a lo largo del camino se ven zonas donde antes se extraía turba para combustible doméstico.
+      Strathy Pools suma 3,2 km con vistas panorámicas sobre North Sutherland.
+
+
+      El territorio se completa con museos. El Museo Strathnaver, en Bettyhill, cuenta la vida local, el Clan
+      Mackay, los desalojos de las Highlands, el crofting y el corte de turba. Timespan, en Helmsdale, reúne
+      arqueología, artesanía, historia natural y social. Dunbeath Heritage Centre ofrece exposiciones
+      cambiantes sobre patrimonio local, arqueología y crofting. El North Coast Visitor Centre, en Thurso,
+      narra la historia de Caithness desde el Devónico hasta hoy. Y Ferrycroft, en Lairg, tiene salas sobre
+      agua, tierra y personas, además de juegos de naturaleza. También hay miradores y puntos de información
+      en A’ Mhoine, Loch Rangag y Cnoc Craggie.
+    history: >-
+      En los últimos 200 años la turbera se ha visto afectada por el pastoreo de ovejas y las plantaciones
+      forestales. De ahí viene la restauración que se hace hoy en Forsinard, y la estrategia de las turberas
+      la plantea de forma que vaya de la mano de las necesidades de las comunidades locales.
+
+
+      La amenaza tiene dos caras. Por un lado, el drenaje, la quema y la erosión degradan la turba y liberan
+      carbono. Por otro, la UNESCO identifica las infraestructuras eólicas y su efecto sobre las aves como una
+      amenaza reciente.
+    before: >-
+      En Forsinard, los perros deben ir con correa corta o muy controlados, sobre todo durante la cría de aves
+      de abril a julio. La RSPB no permite barbacoas ni fuegos en la reserva en ningún momento. Los aseos del
+      centro se anuncian como accesibles, aunque pueden no servir para todas las necesidades. Mira los
+      horarios de cada centro en sus páginas antes de ir.
+    around: >-
+      No tiene vecinos cercanos en el atlas. La web del territorio propone combinar el Flow Country con el
+      Geoparque North West Highlands y la Reserva de la Biosfera Wester Ross.
+
+
+      Entre los lugares afines, el [Parque Nacional de Słowiński](/lugar/slowinski-park-narodowy/) comparte
+      colimbo chico y nutria, con humedal y lago; el [Parque Nacional de Wild Nephin
+      (Ballycroy)](/lugar/wild-nephin-national-park/), chorlito dorado, nutria y humedal; la [Reserva Natural
+      Estricta de Teiči](/lugar/teicu-dabas-rezervats/), chorlito dorado y humedal; y el [Parque Nacional del
+      Bosque de Tuchola](/lugar/park-narodowy-bory-tucholskie/), las plantas acuáticas *Lobelia dortmanna* y
+      *Myriophyllum alterniflorum* en lagos.
+  en:
+    intro: >-
+      Here the protagonist is the ground beneath your feet: deep, waterlogged peat studded with glittering
+      dubh-lochain pool systems. The Flow Country constitutes Europe's largest expanse of blanket bog,
+      spanning roughly 4,000 km² across Caithness and Sutherland in northern Scotland. In 2024 UNESCO
+      inscribed it as a World Heritage site in recognition of its peerless blanket mire ecosystem. It also
+      forms a vital breeding habitat for birdlife. Here the crowning wonder is neither a mountain crest nor an
+      ocean cliff, but what unfolds across soils continuously soaked for thousands of years.
+    landscape: >-
+      Everything stems from water. Relentless rainfall saturated the ground, and this persistent waterlogging
+      allowed peat mosses to cloak hills, slopes, and hollows like an unbroken mantle. Peat has accumulated
+      here for 9,000 years, in places exceeding eight metres in depth. Around Forsinard, depth varies from
+      under 50 cm to over 6 m resting atop syenite and granite bedrock. The climate is cool, windy, and
+      hyper-oceanic.
+
+
+      This blanket peat is botanical memory. It consists primarily of partially decomposed plant remains,
+      which are themselves rich in carbon, locking away immense reserves for millennia that would otherwise
+      escape into the atmosphere. Among the keystone plants are sphagnum mosses, capable of absorbing
+      prodigious amounts of water and gradually turning into peat. Alongside them grow *Erica tetralix*,
+      *Sphagnum papillosum*, *Trichophorum cespitosum*, and *Eriophorum vaginatum*. Carnivorous plants such as
+      round-leaved sundew, great sundew, and common butterwort thrive by trapping the abundant insect life.
+
+
+      The peat pools fluctuate with weather and hydrology: from shallow hollows to open lochans, creating
+      varied patterning complexes. The freshwater lochs, ranging from nutrient-poor to mesotrophic, exhibit
+      exceptional ecological purity.
+    wildlife: >-
+      The optimal window is spring and early summer. Along the trails at Forsinard you can encounter [European
+      golden plover](/especie/pluvialis_apricaria/), dunlin, common greenshank, and [hen
+      harrier](/especie/circus_cyaneus/), alongside skylark and meadow pipit. These birds nest across the open
+      mire, as does the merlin. Rarer species, such as the [red-throated diver](/especie/gavia_stellata/),
+      black-throated diver, and common scoter, breed on remote inland lochs and pool complexes where they are
+      seldom disturbed.
+
+
+      Closer to the path, life is miniature. Common lizards bask along the boardwalk edges, while dragonflies,
+      frogs, and aquatic beetles animate the peat pools. Barn swallows frequently nest inside the Flows
+      Lookout tower. Across the network of lochs and river headwaters, healthy populations of [Eurasian
+      otter](/especie/lutra_lutra/) thrive, alongside rare water beetles such as *Oreodytes alpinus*. Birds
+      congregate regularly across feeding grounds beside the Forsinain trail, including golden plovers,
+      dunlins, and curlews.
+
+
+      A seasonal note: midsummer brings abundant midges and horseflies across the open moor.
+    visit: >-
+      Begin your journey at Forsinard. The visitor centre occupies the historic railway station building and
+      can be reached by train, car, or bicycle. It shares parking with the station and provides direct access
+      to the Flows Lookout viewing tower and the Dubh-lochain boardwalk. Inside, an interactive exhibition
+      interprets the natural heritage, cultural history, and peatland restoration of the Flow Country.
+
+
+      The Dubh-lochain boardwalk offers easy, accessible entry onto the wet peatland for a wide range of
+      visitors. If you seek longer walks, three trails are available. The Forsinain loop spans 6.5 km across
+      farmland, open moor, and restored forestry blocks. Loch a’Mhuilinn covers 1.6 km with two spurs
+      extending to the loch shore, passing historic peat-cutting banks where fuel was once hand-dug for
+      domestic hearths. Strathy Pools adds 3.2 km with expansive panoramas over North Sutherland.
+
+
+      The regional story is complemented by local museums. Strathnaver Museum in Bettyhill recounts Highland
+      clearances, Clan Mackay, crofting, and traditional peat cutting. Timespan in Helmsdale combines
+      archaeology, craft, social history, and contemporary art. Dunbeath Heritage Centre features rotating
+      exhibitions on local archaeology and crofting heritage. The North Coast Visitor Centre in Thurso traces
+      Caithness history from the Devonian era to modern times. Ferrycroft in Lairg offers displays on water,
+      land, people, and children's nature trails. Panoramic viewpoints and interpretive boards also stand at
+      A’ Mhoine, Loch Rangag, and Cnoc Craggie.
+    history: >-
+      Over the past 200 years the blanket mire suffered degradation from extensive sheep grazing and
+      commercial forestry plantation. Today's restoration works around Forsinard reverse that damage, framed
+      within a national peatland strategy designed in close consultation with local communities.
+
+
+      Pressures are twofold. Historically, artificial drainage, muirburn, and peat erosion degraded mire
+      systems and released carbon. More recently, UNESCO highlighted prospective windfarm infrastructure and
+      its potential impacts on breeding birds as an emergent concern.
+    before: >-
+      At Forsinard, dogs must be kept on a short lead or under close control, especially during the avian
+      breeding season from April through July. The RSPB strictly prohibits barbecues and campfires across the
+      reserve at all times. Accessible toilets are provided at the visitor centre, though facility details
+      should be confirmed beforehand. Check seasonal opening hours online for each regional heritage centre
+      before visiting.
+    around: >-
+      There are no immediately adjacent sites in the atlas. Regional travel itineraries suggest pairing the
+      Flow Country with the North West Highlands Geopark and the Wester Ross Biosphere Reserve.
+
+
+      Among ecologically related landscapes, [Słowiński National Park](/lugar/slowinski-park-narodowy/) shares
+      red-throated diver and otter, with wetlands and coastal lakes; [Wild Nephin National
+      Park](/lugar/wild-nephin-national-park/) shares golden plover, otter, and Atlantic blanket bog; [Teiči
+      Strict Nature Reserve](/lugar/teicu-dabas-rezervats/) shares golden plover and peat mire habitats; and
+      [Tuchola Forest National Park](/lugar/park-narodowy-bory-tucholskie/) shares oligotrophic lake flora
+      such as *Lobelia dortmanna* and *Myriophyllum alterniflorum*.
+  fr:
+    intro: >-
+      Ici, l'élément maître est le sol : une tourbe profonde, gorgée d'eau et constellée d'un dédale de mares.
+      Le Flow Country représente la plus vaste tourbière de couverture d'Europe : environ 4 000 km² déployés
+      sur les comtés de Caithness et de Sutherland, dans le nord de l'Écosse. En 2024, l'UNESCO l'a inscrit
+      sur la liste du Patrimoine mondial pour son écosystème tourbeux sans équivalent. C'est également un
+      sanctuaire faunistique de premier ordre. Ici, l'émotion ne naît point d'une aiguille rocheuse ou d'une
+      falaise littorale, mais de ce sol inondé depuis des millénaires.
+    landscape: >-
+      Tout procède de l'eau. Les pluies océaniques incessantes ont saturé les sols, et cet engorgement
+      permanent a permis à la tourbe d'envelopper collines, versants et vallons à la manière d'une toison
+      continue. La tourbe s'y accumule depuis 9 000 ans et dépasse par endroits huit mètres d'épaisseur. À
+      Forsinard, la profondeur oscille entre moins de 50 cm et plus de 6 m au-dessus d'un socle de syénite et
+      de granite. Le climat est frais et hyper-océanique.
+
+
+      Cette tourbière est une mémoire végétale. Elle est essentiellement constituée de débris végétaux riches
+      en carbone, emmagasinant sur des millénaires des stocks gigantesques qui rejoindraient autrement
+      l'atmosphère. L'espèce clé de voûte est la sphaigne, une mousse capable d'absorber d'immenses volumes
+      d'eau avant de former la tourbe. À ses côtés croissent *Erica tetralix*, *Sphagnum papillosum*,
+      *Trichophorum cespitosum* et *Eriophorum vaginatum*. Des plantes carnivores comme le droséra à feuilles
+      rondes, le droséra à longues feuilles et la grassette commune complètent leur alimentation grâce aux
+      nombreux insectes du milieu.
+
+
+      Les mares varient selon la météo et la topographie : du trou d'eau au lochan étendu, dessinant des
+      réseaux alvéolaires complexes. Les lochs d'eau douce, de pauvres à moyens en nutriments, se distinguent
+      par leur grande pureté.
+    wildlife: >-
+      La période idéale coïncide avec le printemps et l'été. Sur les platelages de Forsinard, vous observerez
+      le [pluvier doré](/especie/pluvialis_apricaria/), le bécasseau variable, le chevalier aboyeur et le
+      [busard Saint-Martin](/especie/circus_cyaneus/), accompagnés de l'alouette des champs et du pipit
+      farlouse. Ces oiseaux nichent sur la tourbière, tout comme le faucon émerillon. Les espèces les plus
+      discrètes, à l'image du [plongeon catmarin](/especie/gavia_stellata/), du plongeon arctique et de la
+      macreuse noire, s'établissent sur les plans d'eau isolés de l'intérieur, rendant leur observation plus
+      rare.
+
+
+      Au ras du sol s'active une vie minuscule. Les lézards vivipares se chauffent le long du platelage en
+      bois, tandis que les libellules, grenouilles et coléoptères animent les mares. L'hirondelle rustique
+      niche fréquemment sous la tour d'observation Flows Lookout. Le réseau de lochs et de sources abrite une
+      solide population de [loutres d'Europe](/especie/lutra_lutra/), tandis que les invertébrés aquatiques
+      comptent le rare coléoptère *Oreodytes alpinus*. Les oiseaux se rassemblent sur les zones d'alimentation
+      du sentier de Forsinain, notamment les pluviers dorés, bécasseaux et courlis.
+
+
+      Avis saisonnier : le plein été voit proliférer les midges et les taons.
+    visit: >-
+      Commencez votre visite à Forsinard. La maison du site occupe l'ancienne gare ferroviaire et se rallie en
+      train, en voiture ou à vélo. Elle partage son stationnement avec la halte et ouvre l'accès à la tour
+      d'observation Flows Lookout ainsi qu'au sentier de Dubh-lochain. L'intérieur propose une scénographie
+      interactive consacrée aux milieux naturels, à la culture du Flow Country et aux chantiers de
+      restauration écologique.
+
+
+      Le platelage de Dubh-lochain offre un parcours aisé sur la tourbière pour tous les publics. Si vous
+      souhaitez marcher davantage, trois boucles sont aménagées. Le circuit de Forsinain s'étend sur 6,5 km à
+      travers pâturages, landes et anciennes parcelles enrésinées. Loch a’Mhuilinn compte 1,6 km avec deux
+      branches rejoignant la rive, longeant d'anciennes fosses où la tourbe était extraite pour le chauffage
+      domestique. Strathy Pools totalise 3,2 km avec de beaux panoramas sur le nord du Sutherland.
+
+
+      La région compte plusieurs musées d'interprétation. Le musée Strathnaver à Bettyhill aborde l'histoire
+      locale, le clan Mackay, les expulsions des Highlands, le crofting et la récolte de la tourbe. Timespan à
+      Helmsdale conjugue archéologie, artisanat et histoire sociale. Le Dunbeath Heritage Centre propose des
+      expositions sur le patrimoine et l'archéologie. Le North Coast Visitor Centre à Thurso raconte le
+      Caithness du Dévonien à nos jours. À Lairg, Ferrycroft explore l'eau, la terre et les activités rurales.
+      Des belvédères aménagés sont également situés à A’ Mhoine, Loch Rangag et Cnoc Craggie.
+    history: >-
+      Au cours des 200 dernières années, la tourbière a subi le surpâturage ovin et des plantations massives
+      de résineux. Ces altérations justifient les travaux de restauration conduits à Forsinard, adossés à une
+      stratégie nationale concertée avec les communautés locales.
+
+
+      Les menaces sont doubles. Le drainage historique, l'écobuage et l'érosion minent la tourbe et libèrent
+      du carbone. Par ailleurs, l'UNESCO signale le développement des parcs éoliens et leur impact sur
+      l'avifaune comme une préoccupation récente.
+    before: >-
+      À Forsinard, les chiens doivent être tenus en laisse courte ou sous contrôle strict, surtout durant la
+      nidification des oiseaux d'avril à juillet. La RSPB interdit en tout temps les barbecues et feux de camp
+      dans la réserve. Les sanitaires du centre sont accessibles, mais vérifiez les détails au préalable.
+      Consultez les horaires d'ouverture des centres d'accueil avant votre départ.
+    around: >-
+      Le site n'a pas de voisins immédiats dans l'atlas. Le territoire suggère d'associer le Flow Country au
+      géoparc des North West Highlands et à la réserve de biosphère de Wester Ross.
+
+
+      Parmi les espaces homologues, le [parc national de Słowiński](/lugar/slowinski-park-narodowy/) partage
+      le plongeon catmarin et la loutre, avec zones humides et lagunes ; le [parc national de Wild Nephin
+      (Ballycroy)](/lugar/wild-nephin-national-park/) partage le pluvier doré, la loutre et les tourbières
+      ombrotrophes ; la [réserve naturelle intégrale de Teiči](/lugar/teicu-dabas-rezervats/) le pluvier doré
+      et les marais ; et le [parc national de la forêt de Tuchola](/lugar/park-narodowy-bory-tucholskie/) les
+      plantes aquatiques *Lobelia dortmanna* et *Myriophyllum alterniflorum* dans ses plans d'eau.
+  de:
+    intro: >-
+      Hier ist der Boden die Hauptattraktion: tiefer, wassergesättigter Torf, übersät mit funkelnden
+      Moortümpeln. The Flow Country ist das größte Deckenmoor Europas und erstreckt sich über rund 4.000 km²
+      in Caithness und Sutherland im Norden Schottlands. Im Jahr 2024 erklärte die UNESCO das Gebiet wegen
+      seines beispiellosen Deckenmoorsystems zum Weltnaturerbe. Zugleich ist es ein unersetzliches Brutrevier
+      für bedrohte Vogelarten. Hier beeindruckt weder ein Berggipfel noch eine Steilküste, sondern ein seit
+      Jahrtausenden durchnässter Boden.
+    landscape: >-
+      Alles nimmt seinen Anfang beim Wasser. Anhaltende Niederschläge hielten den Boden dauerhaft nass, und
+      diese ständige Feuchte erlaubte es Torfmoosen, Hügel, Hänge und Mulden wie ein riesiges Vlies zu
+      überziehen. Der Torf wächst seit 9.000 Jahren und erreicht stellenweise Tiefen von mehr als acht Metern.
+      Bei Forsinard variiert die Torfmächtigkeit von unter 50 cm bis über 6 m auf Granit- und
+      Syenituntergrund. Das Klima ist kühl, windig und ozeanisch.
+
+
+      Dieser Torfkörper ist ein pflanzliches Gedächtnis. Er besteht überwiegend aus abgestorbenen
+      Pflanzenresten, die enorme Mengen Kohlenstoff binden, der andernfalls in die Atmosphäre entwichen wäre.
+      Zu den prägenden Pflanzen zählen Torfmoose, die gewaltige Wassermengen speichern und nach und nach Torf
+      bilden. Neben ihnen gedeihen *Erica tetralix*, *Sphagnum papillosum*, *Trichophorum cespitosum* und
+      *Eriophorum vaginatum*. Fleischfressende Pflanzen wie Rundblättriger Sonnentau, Mittlerer Sonnentau und
+      Gemeines Fettkraut nutzen den Insektenreichtum der Moorfläche.
+
+
+      Die Moortümpel variieren je nach Witterung und Relief: von flachen Pfützen bis zu offenen Wasserflächen
+      bilden sie weitverzweigte Muster. Die nährstoffarmen bis mesotrophen Süßwasserseen zeichnen sich durch
+      höchste Gewässergüte aus.
+    wildlife: >-
+      Die günstigste Zeit für Naturbeobachtungen sind Frühling und Sommer. Entlang der Bohlenwege bei
+      Forsinard triffst du auf [Goldregenpfeifer](/especie/pluvialis_apricaria/), Alpenstrandläufer,
+      Grünschenkel und [Kornweihe](/especie/circus_cyaneus/), begleitet von Feldlerchen und Wiesenpiepern.
+      Diese Vögel brüten im Moor, ebenso wie der Zwergfalke. Scheuere Arten wie
+      [Sterntaucher](/especie/gavia_stellata/), Prachttaucher und Trauerente nisten an entlegenen Mooraugen im
+      Moorinneren und sind nur selten aus der Nähe zu beobachten.
+
+
+      Auf Bohlenweghöhe pulsiert das Kleinleben. Waldeidechsen sonnen sich auf dem Holz, während Libellen,
+      Moorfrösche und Wasserkäfer die Tümpel beleben. Rauchschwalben nisten regelmäßig am Aussichtsturm Flows
+      Lookout. Das Gewässernetz bietet einem stabilen Bestand an [Fischottern](/especie/lutra_lutra/)
+      Lebensraum, ergänzt durch seltene Wasserkäfer wie *Oreodytes alpinus*. Vögel suchen die Nahrungsflächen
+      entlang des Forsinain-Pfades auf, darunter Goldregenpfeifer, Strandläufer und Brachvögel.
+
+
+      Ein jahreszeitlicher Hinweis: Im Hochsommer treten beißende Gnitzen und Bremsen in großer Zahl auf.
+    visit: >-
+      Beginne deinen Besuch in Forsinard. Das Besucherzentrum befindet sich im historischen Bahnhofsgebäude
+      und ist per Bahn, Auto oder Fahrrad erreichbar. Es teilt sich den Parkplatz mit der Bahnstation und
+      gewährt direkten Zugang zum Aussichtsturm Flows Lookout und zum Bohlenweg Dubh-lochain. Eine interaktive
+      Ausstellung vermittelt Natur- und Kulturgeschichte sowie die Methoden der Moorrenaturierung.
+
+
+      Der Dubh-lochain-Bohlenweg ermöglicht einen bequemen und barrierearmen Zugang ins Moor für Besucher
+      aller Generationen. Für längere Erkundungen stehen drei Wanderwege bereit. Der Forsinain-Rundweg misst
+      6,5 km und führt über Farmland, offenes Moor und rückgebaute Forstflächen. Loch a’Mhuilinn umfasst 1,6
+      km mit zwei Stichwegen zum Seeufer und passiert historische Torfstiche, an denen Brennmaterial für
+      Kamine gestochen wurde. Die Strathy Pools bieten 3,2 km Wegstrecke mit weiten Panoramablicken über North
+      Sutherland.
+
+
+      Regionale Museen vertiefen die Hintergründe. Das Strathnaver Museum in Bettyhill thematisiert die
+      Hochland-Clearances, den Clan Mackay, das Kleinpachtwesen und den Torfabbau. Timespan in Helmsdale
+      vereint Archäologie, Kunsthandwerk und Sozialgeschichte. Das Dunbeath Heritage Centre zeigt wechselnde
+      Ausstellungen zur Kulturgeschichte. Das North Coast Visitor Centre in Thurso beleuchtet Caithness vom
+      Devon bis zur Gegenwart. Ferrycroft in Lairg widmet sich Wasser, Land und Landschaftsgeschichte.
+      Aussichtspunkte finden sich zudem bei A’ Mhoine, Loch Rangag und Cnoc Craggie.
+    history: >-
+      In den vergangenen 200 Jahren litt das Deckenmoor unter Schafbeweidung und großflächigen
+      Nadelholzaufforstungen. Die aktuellen Renaturierungsprojekte bei Forsinard heben alte Entwässerungen auf
+      und binden die lokale Bevölkerung aktiv in die Moorschutzstrategie ein.
+
+
+      Die Gefährdungslage ist vielschichtig: Einerseits setzen historische Entwässerung, Heidebrände und
+      Erosion Kohlenstoff frei. Andererseits verweist die UNESCO auf geplante Windkraftanlagen und deren
+      Auswirkungen auf Brutvögel als aktuelle Herausforderung.
+    before: >-
+      In Forsinard müssen Hunde an der kurzen Leine geführt werden, insbesondere während der Brutzeit von
+      April bis Juli. Die Schutzorganisation RSPB verbietet offenes Feuer und Grillen im gesamten Reservat
+      ausnahmslos. Die Toiletten am Zentrum sind barrierefrei zugänglich. Informiere dich vorab online über
+      die Öffnungszeiten der verschiedenen regionalen Zentren.
+    around: >-
+      Im Atlas existieren keine direkten Nachbargebiete. Vor Ort wird empfohlen, das Flow Country mit dem
+      North West Highlands Geopark und dem Biosphärenreservat Wester Ross zu verbinden.
+
+
+      Unter verwandten Gebieten teilt der [Słowiński-Nationalpark](/lugar/slowinski-park-narodowy/)
+      Sterntaucher und Fischotter mit Seen und Feuchtgebieten; der [Wild-Nephin-Nationalpark
+      (Ballycroy)](/lugar/wild-nephin-national-park/) Goldregenpfeifer, Fischotter und atlantische
+      Deckenmoore; das [Strenge Naturreservat Teiči](/lugar/teicu-dabas-rezervats/) Goldregenpfeifer und
+      Moorlebensräume; und der [Nationalpark Tucheler Heide](/lugar/park-narodowy-bory-tucholskie/) die
+      Wasserpflanzen *Lobelia dortmanna* und *Myriophyllum alterniflorum*.
+  it:
+    intro: >-
+      Qui l'elemento sovrano è il terreno: torba fonda, imbevuta d'acqua e costellata di specchi lacustri. Il
+      Flow Country è la più vasta torbiera di copertura d'Europa: circa 4.000 km² estesi tra Caithness e
+      Sutherland, nell'estremo nord della Scozia. Nel 2024 l'UNESCO l'ha iscritto nel Patrimonio Mondiale per
+      il suo ecosistema palustre senza eguali. Costituisce inoltre un rifugio cardine per l'avifauna. Qui
+      l'attrattiva non è una vetta né una scogliera, ma ciò che fermenta in un terreno fradicio da millenni.
+    landscape: >-
+      Tutto comincia dall'acqua. Piogge continue hanno intriso il suolo, e questa saturazione idrica
+      permanente ha permesso alla torba di ammantare colline, pendii e conche come una coltre ininterrotta. La
+      torba si accumula da 9.000 anni e in certi punti supera gli otto metri di spessore. A Forsinard, la
+      profondità oscilla da meno di 50 cm a oltre 6 m poggiando su sienite e granito. Il clima è fresco,
+      ventoso e iper-oceanico.
+
+
+      Questa coltre di torba è memoria vegetale. È formata dai resti di piante ricche di carbonio, trattenendo
+      per millenni riserve enormi che altrimenti si riverserebbero nell'atmosfera. Tra i vegetali predominano
+      gli sfagni, muschi in grado di trattenere straordinarie quantità d'acqua originando la torba. Accanto ad
+      essi vegetano *Erica tetralix*, *Sphagnum papillosum*, *Trichophorum cespitosum* ed *Eriophorum
+      vaginatum*. Piante carnivore come la drosera comune, la drosera a foglie lunghe e la pinguicola comune
+      integrano il loro nutrimento catturando i molti insetti del biotopo.
+
+
+      Le pozze d'acqua variano con le piogge e l'orografia: da minuscole pozzanghere a lochan aperti,
+      componendo labirinti d'acqua. I laghi d'acqua dolce, oligotrofi o mesotrofi, possiedono acque purissime.
+    wildlife: >-
+      Il momento migliore corrisponde a primavera ed estate. Lungo i sentieri di Forsinard puoi osservare il
+      [piviere dorato](/especie/pluvialis_apricaria/), il piovanello pancianera, la pantana comune e
+      l'[albanella reale](/especie/circus_cyaneus/), oltre all'allodola e alla pispola. Questi uccelli
+      nidificano nella torbiera, assieme allo smeriglio. Le specie più elusive, quali la [strolaga
+      minore](/especie/gavia_stellata/), la strolaga mezzana e l'orco marino, vivono sui laghetti più isolati
+      dell'interno, dove è raro scorgerli.
+
+
+      Rasoterra, la vita si fa minuta. Le lucertole vivipare prendono il sole sul legno della passerella,
+      mentre libellule, rane e coleotteri acquatici popolano le pozze. Le rondini nidificano abitualmente
+      nella torre Flows Lookout. I bacini lacustri e le sorgenti ospitano una buona colonia di
+      [lontre](/especie/lutra_lutra/), e tra gli invertebrati d'acqua dolce figura il raro ditisco *Oreodytes
+      alpinus*. Gli uccelli si nutrono regolarmente lungo i campi del sentiero Forsinain: pivieri dorati,
+      piovanelli e chiurli.
+
+
+      Un avviso stagionale: in piena estate abbondano moscerini e tafani.
+    visit: >-
+      Inizia da Forsinard. Il centro visitatori è allestito nella storica stazione ferroviaria ed è
+      raggiungibile in treno, auto o bicicletta. Condivide il parcheggio con la ferrovia e apre l'accesso alla
+      torre d'osservazione Flows Lookout e al percorso Dubh-lochain. All'interno si trova un'esposizione
+      interattiva sul patrimonio naturale, le tradizioni del Flow Country e il ripristino delle torbiere.
+
+
+      La passerella del Dubh-lochain consente una camminata comoda e accessibile sul fondo torboso per ogni
+      tipologia di visitatore. Se cerchi percorsi più ampi, sono disponibili tre itinerari. L'anello di
+      Forsinain copre 6,5 km tra prati, brughiera e rimboschimenti in fase di recupero. Loch a’Mhuilinn misura
+      1,6 km con due diramazioni che toccano la sponda lacustre, incrociando storiche cave di torba per uso
+      domestico. Strathy Pools aggiunge 3,2 km con visuali panoramiche sul North Sutherland.
+
+
+      Il racconto territoriale si arricchisce nei musei della regione. Il Museo Strathnaver a Bettyhill
+      documenta la vita locale, il Clan Mackay, le Highland Clearances e l'estrazione tradizionale della
+      torba. Timespan a Helmsdale intreccia archeologia, artigianato e storia delle comunità. Il Dunbeath
+      Heritage Centre ospita mostre temporanee su archeologia e crofting. Il North Coast Visitor Centre a
+      Thurso ripercorre la storia del Caithness dal Devoniano ad oggi. Ferrycroft a Lairg offre sale tematiche
+      su acqua, terra e vita locale. Punti panoramici informativi si trovano inoltre ad A’ Mhoine, Loch Rangag
+      e Cnoc Craggie.
+    history: >-
+      Negli ultimi 200 anni la torbiera ha subito il dissodamento da pascolo ovino e gli impianti intensivi di
+      conifere. A questo degrado rispondono le odierne opere di bonifica a Forsinard, coordinate da una
+      strategia nazionale attenta alle esigenze delle comunità locali.
+
+
+      Le minacce presentano due volti. Da un lato il drenaggio storico, gli incendi e l'erosione decompongono
+      la torba liberando anidride carbonica. Dall'altro, l'UNESCO individua negli impianti eolici e nel loro
+      impatto sui volatili una minaccia recente.
+    before: >-
+      A Forsinard i cani vanno condotti al guinzaglio corto o sotto stretto controllo, specie nel periodo
+      riproduttivo dell'avifauna da aprile a luglio. L'ente RSPB vieta categoricamente fuochi e barbecue nella
+      riserva in qualsiasi momento. I servizi igienici del centro sono accessibili, pur con possibili
+      limitazioni soggettive. Consulta gli orari aggiornati sui siti web prima di metterti in viaggio.
+    around: >-
+      Non vi sono aree contigue nell'atlas. Gli itinerari locali consigliano di unire il Flow Country al
+      Geoparco North West Highlands e alla Riserva della Biosfera di Wester Ross.
+
+
+      Tra i siti affini, il [Parco nazionale Słowiński](/lugar/slowinski-park-narodowy/) condivide strolaga
+      minore e lontra, con lagune e zone umide; il [Parco nazionale Wild Nephin
+      (Ballycroy)](/lugar/wild-nephin-national-park/) condivide piviere dorato, lontra e torbiera
+      ombrotrofica; la [Riserva naturale integrale di Teiči](/lugar/teicu-dabas-rezervats/) il piviere dorato
+      e la palude; e il [Parco nazionale della foresta di Tuchola](/lugar/park-narodowy-bory-tucholskie/) le
+      piante acquatiche *Lobelia dortmanna* e *Myriophyllum alterniflorum* nei suoi bacini.
+  pt:
+    intro: >-
+      Aqui a atração maior reside sob os pés: uma turfa espessa, ensopada e pontilhada por lagoas cintilantes.
+      The Flow Country constitui a maior turfeira de cobertura da Europa, ocupando cerca de 4.000 km² entre
+      Caithness e Sutherland, no extremo setentrional da Escócia. Em 2024, a UNESCO inscreveu-a como
+      Património Mundial em virtude do seu ecossistema palustre sem paralelo. Funciona igualmente como
+      santuário vital para a avifauna. Aqui o encanto não brota de um pico escarpado nem de arribas oceânicas,
+      mas do que pulsa num solo inundado desde há milénios.
+    landscape: >-
+      Tudo decorre da água. As chuvas atlânticas persistentes saturaram o terreno, e essa humidade perene
+      permitiu que os musgos de turfeira vestissem outeiros, encostas e covas como um cobertor imenso. A turfa
+      desenvolve-se há 9.000 anos e em determinados pontos supera os oito metros de espessura. Em Forsinard, a
+      profundidade varia de menos de 50 cm a mais de 6 m assente em rochas de sienito e granito. O clima é
+      fresco, agreste e marcadamente oceânico.
+
+
+      Este manto de turfa funciona como arquivo botânico. É formado por restos vegetais ricos em carbono,
+      aprisionando ao longo de milénios gigantescas reservas que de outro modo subiriam à atmosfera. O vegetal
+      fulcral é o esfagno, um musgo capaz de reter vastos volumes de água antes de se converter em turfa. Ao
+      seu lado vicejam *Erica tetralix*, *Sphagnum papillosum*, *Trichophorum cespitosum* e *Eriophorum
+      vaginatum*. Plantas carnívoras como a drósera-de-folhas-redondas, a drósera-inglesa e a pinguícula
+      sustentam-se capturando os inúmeros insetos da turfeira.
+
+
+      As lagoas moldam-se conforme as chuvas e a drenagem: de pequenas covas com água a lochans abertos,
+      desenhando esteiros intrincados. Os lagos de água doce, pobres a médios em nutrientes, apresentam uma
+      excecional pureza aquática.
+    wildlife: >-
+      A época mais favorável decorre na primavera e no verão. Ao longo dos passadiços de Forsinard podes
+      avistar a [tarambola-dourada](/especie/pluvialis_apricaria/), o pilrito-comum, o tartaranhão-cinzento e
+      o [tarrão-cinzento](/especie/circus_cyaneus/), bem como a cotovia e o petinha-dos-prados. Estas aves
+      nidificam na turfeira, tal como o esmerilhão. As espécies mais discretas, caso da
+      [mobelha-pequena](/especie/gavia_stellata/), da mobelha-ártica e do negrola-comum, ocupam lagoas ermas
+      no interior profundo, sendo avistamentos raros.
+
+
+      Junto ao solo desdobra-se uma fauna discreta. As lagartixas-vivíparas aquecem-se sobre o ripado dos
+      passadiços, enquanto libélulas, rãs e escaravelhos povoam as lagoas. As andorinhas nidificam
+      frequentemente na torre de observação Flows Lookout. A bacia hidrográfica alberga uma expressiva
+      população de [lontras](/especie/lutra_lutra/), figurando entre os invertebrados aquáticos o raro
+      escaravelho *Oreodytes alpinus*. As aves alimentam-se nos terrenos do trilho de Forsinain, destacando-se
+      tarambolas-douradas, pilritos e maçaricos.
+
+
+      Aviso temporal: no pico do estio pululam mosquitos e mutucas.
+    visit: >-
+      Começa a tua visita em Forsinard. O centro de visitantes ocupa a antiga estação de comboios e pode ser
+      acedido por via férrea, automóvel ou bicicleta. Partilha o estacionamento com a estação e faculta acesso
+      direto à torre de observação Flows Lookout e ao passadiço de Dubh-lochain. No interior existe uma
+      exposição interativa dedicada ao património natural, à vivência rural de Flow Country e à regeneração
+      das turfeiras.
+
+
+      O passadiço de Dubh-lochain assegura uma caminhada fácil e acessível pela turfeira a todo o tipo de
+      público. Se pretenderes percursos mais longos, existem três opções pedestres. A rota circular de
+      Forsinain tem 6,5 km e atravessa pastagens, charneca aberta e antigas plantações florestais. Loch
+      a’Mhuilinn soma 1,6 km com dois ramais até à margem lacustre, avistando-se valas históricas onde outrora
+      se extraía turfa para lume doméstico. Strathy Pools adiciona 3,2 km com amplos horizontes sobre North
+      Sutherland.
+
+
+      A memória do território aprofunda-se nos museus comarcãos. O Museu Strathnaver em Bettyhill retracta a
+      vida local, o clã Mackay, as Highland Clearances e a apanha tradicional da turfa. O Timespan em
+      Helmsdale congrega arqueologia, artes e testemunhos sociais. O Dunbeath Heritage Centre apresenta
+      mostras sobre achados arqueológicos e crofting. O North Coast Visitor Centre em Thurso reconstitui o
+      passado de Caithness desde o Devónico. Em Lairg, o Ferrycroft expõe elementos sobre água, território e
+      cultura comunitária. Encontram-se ainda miradouros em A’ Mhoine, Loch Rangag e Cnoc Craggie.
+    history: >-
+      Nos últimos 200 anos a turfeira sofreu o impacto do pastoreio intensivo de ovinos e da plantação maciça
+      de coníferas. Os trabalhos de restauro ecológico em Forsinard procuram reverter esses danos, ancorados
+      numa estratégia nacional concertada com os anseios das comunidades locais.
+
+
+      As pressões apresentam duas vertentes. Por um lado, as valas de drenagem históricas, as queimadas e a
+      erosão libertam dióxido de carbono. Por outro, a UNESCO sinalizou os projetos eólicos e o seu impacto
+      potencial na avifauna nidificante como uma preocupação atual.
+    before: >-
+      Em Forsinard os cães têm de andar com trela curta ou sob controlo rigoroso, em particular na época de
+      nidificação entre abril e julho. A RSPB proíbe fogueiras e churrascos em qualquer ponto da reserva. As
+      instalações sanitárias do centro estão adaptadas, embora devam confirmar-se condições específicas.
+      Confirma antecipadamente os horários das estruturas nos respetivos sítios oficiais.
+    around: >-
+      Não existem sítios limítrofes imediatos no atlas. A documentação territorial sugere conjugar o Flow
+      Country com o Geoparque North West Highlands e a Reserva da Biosfera de Wester Ross.
+
+
+      Entre as áreas com afinidades ecológicas, o [Parque Nacional de
+      Słowiński](/lugar/slowinski-park-narodowy/) acolhe a mobelha-pequena e a lontra em habitats húmidos e
+      lacustres; o [Parque Nacional de Wild Nephin (Ballycroy)](/lugar/wild-nephin-national-park/) partilha a
+      tarambola-dourada, a lontra e as turfeiras ombrotróficas atlânticas; a [Reserva Natural Estrita de
+      Teiči](/lugar/teicu-dabas-rezervats/) apresenta a tarambola-dourada e as turfeiras; e o [Parque Nacional
+      da Floresta de Tuchola](/lugar/park-narodowy-bory-tucholskie/) as espécies botânicas *Lobelia dortmanna*
+      e *Myriophyllum alterniflorum* em lagoas.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Flow_Country
+    titulo: Flow Country - Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://www.rspb.org.uk/days-out/reserves/forsinard-flows
+    titulo: Forsinard Flows Nature Reserve, Highland, Scotland
+    fecha_consulta: '2026-10-22'
+  - url: https://whc.unesco.org/en/list/1722/
+    titulo: The Flow Country — UNESCO
+    fecha_consulta: '2026-10-22'
+  - url: https://theflowcountry.org.uk/visiting-us/
+    titulo: Visiting — The Flow Country
+    fecha_consulta: '2026-10-22'
+  - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12683703/
+    titulo: 'Restoration of formerly afforested blanket bog: Estimating time for vegetation recovery'
+    fecha_consulta: '2026-10-22'
+  - url: https://sac.jncc.gov.uk/site/UK0013602
+    titulo: Caithness and Sutherland Peatlands — JNCC
+    fecha_consulta: '2026-10-22'
+  - url: https://theflowcountry.org.uk/visiting-us/suggested-walks/
+    titulo: Walking the Flows
+    fecha_consulta: '2026-10-22'
+  - url: https://theflowcountry.org.uk/visiting-us/museums-galleries-visitorcentres/
+    titulo: Museums, Galleries and Visitor Centres
+    fecha_consulta: '2026-10-22'
+  - url: https://theflowcountry.org.uk/wp-content/uploads/2025/02/THE-PEATLANDS-OF-CAITHNESS-AND-SUTHERLAND-MANAGEMENT-STRATEGY-2021-2030.pdf
+    titulo: The Peatlands of Caithness and Sutherland — Management Strategy 2021–2030
+    fecha_consulta: '2026-10-22'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:The_flow_country_of_Caithness_-_geograph.org.uk_-_4485544.jpg
+    autor: Mick Crawley
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-17'

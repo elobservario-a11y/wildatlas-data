@@ -1,0 +1,580 @@
+id: kraska-planota-nanos
+estado_editorial: valoracion-revisada
+nombre:
+  es: Meseta Kárstica de Nanos
+  en: Nanos Karst Plateau
+  fr: Plateau karstique du Nanos
+  de: Nanos-Karstplateau
+  it: Altopiano carsico del Nanos
+  pt: Planalto Cársico de Nanos
+nombre_original: Kraška planota Nanos
+alias:
+  - Nanos Plateau (Nanos)
+paises:
+  - SI
+region:
+  es: Carniola Interior (Vipava / Razdrto)
+  en: Inner Carniola (Vipava / Razdrto)
+  fr: Carniole-Intérieure (Vipava / Razdrto)
+  de: Innerkrain (Vipava / Razdrto)
+  it: Carniola Interna (Vipacco / Razdrto)
+  pt: Carniola Interior (Vipava / Razdrto)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.77
+  lon: 14.05
+  radio_km: 12
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 395194
+  nombre_en_la_fuente: Trnovski gozd - Nanos
+  capa: capas/cdda/kraska-planota-nanos.geojson
+habitats:
+  - karst
+  - high_mountain
+  - mature_forest
+designaciones:
+  - landscape_reserve
+  - natura2000
+especies:
+  - ursus_arctos
+  - canis_lupus
+  - aquila_chrysaetos
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la cima del Pleša en fin de semana
+  en: Moderate on the Pleša summit on weekends
+  fr: Moyenne au sommet du Pleša en fin de semaine
+  de: Mäßig auf dem Gipfel des Pleša am Wochenende
+  it: Media sulla cima del Pleša nei fine settimana
+  pt: Média no cume do Pleša aos fins de semana
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Información institucional — Turismo de Vipava
+    url: https://www.vipavskadolina.si/
+  - titulo: Rutas y acceso — Ascensión circular a Nanos
+    url: https://www.vipavskadolina.si/si/aktivno/pohodnistvo/poti/nanos
+  - titulo: Mapa — Rutas de Nanos y Trnovski gozd
+    url: https://www.vipavskadolina.si/files/12071/vipavska_dolina-kolesarska_karta-slo_ang-www.pdf
+resumen:
+  es: >-
+    Meseta mesetaria kárstica emergida como barrera natural entre el valle del Vipava y la cuenca interior
+    eslovena.
+  en: >-
+    Upland karst plateau emerging as a natural rampart between the Vipava valley and the Slovenian interior
+    basin.
+  fr: >-
+    Plateau karstique d'altitude dressé en rempart naturel entre la vallée de la Vipava et le bassin intérieur
+    slovène.
+  de: >-
+    Karst-Hochplateau, das sich als gewaltige Naturmauer zwischen dem Vipava-Tal und dem slowenischen
+    Binnenland aufbaut.
+  it: >-
+    Altopiano carsico d'alta quota emergente come bastione naturale tra la valle del Vipacco e il bacino
+    interno sloveno.
+  pt: >-
+    Planalto cársico de altitude erguido em barreira natural entre o vale de Vipava e a bacia interior
+    eslovena.
+unico:
+  es: >-
+    Una meseta caliza que es a la vez muro, divisoria climática y mirador, con el Adriático a un lado y los
+    Alpes Julianos al otro.
+  en: >-
+    A limestone plateau that serves simultaneously as a bastion, climate divide, and panoramic balcony, facing
+    the Adriatic on one side and the Julian Alps on the other.
+  fr: >-
+    Un plateau calcaire qui forme à la fois un mur, une frontière climatique et un belvédère, tourné vers
+    l'Adriatique d'un côté et les Alpes juliennes de l'autre.
+  de: >-
+    Eine Kalk-Hochebene, die Schutzwall, Klimagrenze und Aussichtskanzel vereint, mit der Adria auf der einen
+    und den Julischen Alpen auf der anderen Seite.
+  it: >-
+    Un altopiano calcareo che è insieme fortezza, spartiacque climatico e balcone panoramico, affacciato
+    sull'Adriatico da un lato e sulle Alpi Giulie dall'altro.
+  pt: >-
+    Um planalto calcário que conjuga muralha defensiva, divisória climática e miradouro soberbo, virado ao
+    Adriático de um lado e aos Alpes Julianos do outro.
+observaciones:
+  es: >-
+    La ruta se hace en un día. Cuenta con la época de mayo a octubre; la cima puede recibir bastante gente en
+    fin de semana.
+texto:
+  es:
+    intro: >-
+      Un muro de roca de quinientos a setecientos metros, y encima, una meseta. Así se ve Nanos desde el valle
+      de Vipava: laderas empinadas, en el oeste cortadas a pico, que separan la meseta de las cuencas de
+      Vipava y Pivka. Es una meseta caliza kárstica en el suroeste de Eslovenia, de doce kilómetros de largo y
+      hasta seis de ancho, que tiene un borde escarpado llamado Pleša. Estrabón la consideró la última cima de
+      los Alpes, y desde arriba se ve el Adriático por un lado y los Alpes Julianos con el Triglav por el
+      otro.
+    landscape: >-
+      Nanos está hecha de caliza del Cretácico y del Jurásico, cabalgada como un pliegue tumbado sobre las
+      rocas de flysch del valle de Vipava. La superficie está corroída en depresiones alargadas, dolinas y
+      cumbres redondeadas, y la más alta es Suhi vrh, a mil trescientos trece metros, en el sureste. La roca
+      está llena de agujeros: hay numerosas dolinas y bocas de simas y cuevas, y la más profunda, Strmadna,
+      llega a trescientos setenta y nueve metros.
+
+
+      El agua explica lo demás. Pese a que cae mucha, unos mil ochocientos ochenta y un milímetros de
+      precipitación media al año, en la meseta no hay aguas superficiales: casi toda corre bajo tierra hacia
+      el valle de Vipava y las fuentes de Vipava. La mayor parte de la precipitación invernal cae como nieve,
+      y en las dolinas de las zonas altas dura hasta el verano. En las cuevas de hielo de Veliki trški
+      ledenik, Slapenski ledenik y Podraški ledenik se cortaba hielo en el pasado y se vendía en Trieste. La
+      bora, que supera a veces los cien kilómetros por hora, deforma las copas de los árboles del borde.
+
+
+      Casi toda la meseta está cubierta de hayedos y abetales-hayedos, y las laderas soleadas, de bosques
+      termófilos. Y ese bosque avanza: se abandonan los pastos a los que se llevaba el ganado desde el valle
+      de Vipava a pastar en verano, y los árboles ocupan su sitio.
+    wildlife: >-
+      En las laderas meridionales y occidentales conviven, en un área pequeña, plantas ilirias, alpinas y
+      endémicas, porque aquí se entrelazan las regiones de vegetación dinárica y mediterránea. *Arabis
+      scopoliana* crece en las grietas de las rocas y en los pastizales pedregosos; donde antes se talaba el
+      bosque para el pasto hay hoy amplios prados con la gran genciana (*Gentiana lutea*); en las zonas
+      escarpadas y abruptas, *Sesleria autumnalis* y el carpe negro (*Ostrya carpinifolia*).
+
+
+      La fauna es muy variada: hay mariposas raras y, en las cuevas, escarabajos cavernícolas. La temporada de
+      rutas va de mayo a octubre.
+    visit: >-
+      La ruta de Razdrto a Nanos es la más popular del valle de Vipava y ofrece varios niveles de dificultad.
+      Empieza en Razdrto, en un gran aparcamiento de grava poco antes del paso elevado sobre la autopista. En
+      una bifurcación se elige entre el camino más fácil y llano y el más empinado y difícil, equipado con
+      algunas clavijas y un cable de acero.
+
+
+      El empinado ofrece por el medio vistas al valle de Vipava, al Karst, a Vremščica y a Snežnik, y llega a
+      Pleša, a mil doscientos sesenta y dos metros y a pocas decenas de metros del refugio Vojko, en una hora
+      y media por un camino bien marcado. Luego se puede volver por el camino fácil hasta el punto de partida
+      y completar un circuito. El fácil sigue primero por el bosque y luego abre vistas al curso alto del
+      valle de Vipava; en algo más de una hora y media llega al borde de la meseta, un poco por encima de la
+      iglesia de San Jerónimo, desde donde se continúa a la derecha hacia el refugio.
+
+
+      La Ruta Montañera Eslovena y la Ruta Geológica Eslovena cruzan Nanos.
+    history: >-
+      Nanos tiene un lugar simbólico en la historia y la identidad de los eslovenos del Litoral. En septiembre
+      de 1927 se fundó aquí la organización insurgente antifascista TIGR, y el 18 de abril de 1942 se libró
+      una de las primeras batallas entre la insurgencia partisana del litoral esloveno y el ejército italiano.
+      En el siglo primero, el paso de Nanos canalizaba tráfico civil y militar entre Trieste, Liubliana y
+      Carnuntum; en la Antigüedad se la conocía como Ocra.
+
+
+      Las laderas meridionales y occidentales se declararon parque paisajístico en 1987, por su interés
+      botánico y su buen estado de conservación; el parque ocupa dos mil seiscientas treinta y dos hectáreas.
+    before: >-
+      La ruta se hace en un día. Cuenta con la época de mayo a octubre; la cima puede recibir bastante gente
+      en fin de semana.
+    around: >-
+      A nueve kilómetros están los [Bosques y Meseta Kárstica de
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/), a diez el [Lago Intermitente de
+      Cerknica](/lugar/cerknisko-jezero/) y el [Parque Paisajístico del Marjal de
+      Liubliana](/lugar/krajinski-park-ljubljansko-barje/), y a doce las [Cuevas de
+      Škocjan](/lugar/park-skocjanske-jame/). A dieciséis queda el [Parque Nacional de
+      Triglav](/lugar/triglav-southern-karst-plateau/) y a diecisiete, el [Macizo Forestal de
+      Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/).
+  en:
+    intro: >-
+      A colossal limestone battlement five to seven hundred metres high, topped by an extensive elevated
+      plateau. That is how Mount Nanos presents itself from the Vipava valley: sheer, precipitous western
+      escarpments that sever the upland tableland from the sunken basins of Vipava and Pivka. It forms a high
+      karst plateau in southwestern Slovenia, twelve kilometres long and up to six kilometres wide,
+      terminating at the sharp promontory of Pleša. The ancient geographer Strabo considered it the final
+      rampart of the Alps, and standing on its summit reveals the glittering Adriatic Sea on one flank and the
+      glaciated peaks of the Julian Alps crowned by Triglav on the other.
+    landscape: >-
+      Nanos is forged from Cretaceous and Jurassic limestones, thrust as an overturned geological nappe over
+      the softer flysch sediments of the Vipava valley. Its surface is deeply corroded into elongated dry
+      depressions, dolines, and smooth rounded summits, culminating at Suhi vrh at thirteen hundred and
+      thirteen metres in the southeast. The porous rock is riddles with cavities: dozens of sinkholes and cave
+      mouths perforate the terrain, with the deepest abyss, Strmadna, plunging three hundred and seventy-nine
+      metres.
+
+
+      Water governs everything else. Despite substantial precipitation averaging roughly eighteen hundred and
+      eighty-one millimetres annually, not a single permanent stream flows across the surface: nearly all
+      runoff vanishes instantly into the karst underworld, resurfacing at powerful springs along the Vipava
+      river. Winter precipitation falls primarily as snow, lingering well into summer within deep
+      high-altitude dolines. In historic ice caves such as Veliki trški ledenik, Slapenski ledenik, and
+      Podraški ledenik, locals cut blocks of ice to transport to the markets of Trieste. The ferocious bora
+      wind, occasionally exceeding one hundred kilometres per hour, violently shears the forest canopy along
+      the plateau rim.
+
+
+      Nearly the entire plateau is covered by beech and mixed fir-beech woods, transitioning on sunlit
+      south-facing slopes into thermophilous oak stands. This forest continues to expand as traditional summer
+      grazing lands from the Vipava valley are abandoned.
+    wildlife: >-
+      Across the southern and western slopes, Illyrian, alpine, and endemic floral elements intermingle within
+      a compact area, where Dinaric and Mediterranean biogeographical zones collide. *Arabis scopoliana*
+      clings to rock crevices and stony calcareous grasslands; clearings historically cleared for pastoral
+      grazing now host extensive meadows adorned with great yellow gentian (*Gentiana lutea*); along rugged
+      limestone cliffs, *Sesleria autumnalis* and European hop-hornbeam (*Ostrya carpinifolia*) take hold.
+
+
+      The invertebrate fauna is diverse, featuring rare butterfly species and specialized troglobitic cave
+      beetles. The optimal hiking season spans from May to October.
+    visit: >-
+      The ascent from Razdrto to Nanos is the most celebrated excursion in the Vipava region, offering
+      different routes according to ability. It begins at Razdrto from an expansive gravel car park just
+      before the motorway overpass. At a signed junction, you can choose between the gentle, winding path and
+      the steep, exposed trail equipped with safety pegs and steel cables.
+
+
+      The steep route reveals sweeping intermediate panoramas over the Vipava valley, the Classical Karst,
+      Mount Vremščica, and Snežnik, reaching Pleša at twelve hundred and sixty-two metres and the nearby Vojko
+      mountain lodge in about an hour and a half on a well-maintained path. You can return via the gentle
+      route to complete a scenic loop. The gentle path traverses quiet beechwoods before opening panoramas
+      over the upper Vipava valley, reaching the plateau edge in just over an hour and a half near the
+      historic church of Saint Jerome, from where you continue rightward to the hut.
+
+
+      Both the Slovenian Mountain Trail and the Slovenian Geological Trail traverse Nanos.
+    history: >-
+      Nanos holds deep symbolic resonance for the heritage of the Slovenian Littoral. In September 1927, the
+      pioneering anti-fascist insurgent movement TIGR was founded here, and on 18 April 1942, one of the
+      earliest pitched battles between littoral Partisans and the occupying Italian army unfolded on its
+      slopes. In the first century, the pass of Nanos channeled vital civilian and legionary traffic linking
+      Trieste, Ljubljana, and Carnuntum; in Classical Antiquity, the mountain was revered under the name Ocra.
+
+
+      The southern and western slopes were established as a designated landscape park in 1987 in recognition
+      of their exceptional botanical significance and pristine conservation, encompassing two thousand six
+      hundred and thirty-two hectares.
+    before: >-
+      The route is done in a single day. Plan for May to October; the summit can see quite a few people on
+      weekends.
+    around: >-
+      Roughly ten kilometres to the southwest lies the [Škocjan Caves Regional
+      Park](/lugar/park-skocjanske-jame/), while nineteen kilometres away sits [Lake
+      Cerknica](/lugar/cerknisko-jezero/). Twenty kilometres distant rises the [Snežnik Forest
+      Massif](/lugar/snezniski-gozdni-masiv-veliki-sneznik/), and twenty-five kilometres away extends the
+      [Javorniki Forest Plateau](/lugar/javorniski-gozdovi-karstna-planota-javorniki/). Thirty-five kilometres
+      to the northeast lies [Ljubljansko Barje Nature Park](/lugar/krajinski-park-ljubljansko-barje/), with
+      [Triglav National Park](/lugar/triglav-southern-karst-plateau/) dominating the northern horizon.
+  fr:
+    intro: >-
+      Une immense muraille de calcaire de cinq cents à sept cents mètres de hauteur, couronnée d'un vaste
+      plateau. C'est ainsi que le Nanos apparaît depuis la vallée de la Vipava : des versants abrupts, taillés
+      à pic à l'ouest, qui séparent l'altiplano des bassins de la Vipava et de la Pivka. C'est un plateau
+      karstique du sud-ouest de la Slovénie, long de douze kilomètres et large de six, bordé par le
+      promontoire escarpé du Pleša. Strabon le considérait comme l'ultime cime des Alpes, et son sommet
+      découvre d'un côté l'Adriatique et de l'autre les Alpes juliennes dominées par le Triglav.
+    landscape: >-
+      Le Nanos est constitué de calcaires crétacés et jurassiques, charriés sous forme de pli couché sur les
+      roches de flysch de la vallée de la Vipava. Sa surface est rongée par l'érosion en dépressions étirées,
+      dolines et croupes moutonnantes, culminant au Suhi vrh à mille trois cent treize mètres au sud-est. La
+      roche est criblée d'orifices : d'innombrables dolines et gouffres s'y ouvrent, le plus profond,
+      Strmadna, atteignant trois cent soixante-dix-neuf mètres.
+
+
+      L'eau explique le reste. Bien qu'il y tombe d'abondantes précipitations, environ mille huit cent
+      quatre-vingt-un millimètres annuels en moyenne, le plateau est dépourvu d'eaux superficielles : la
+      quasi-totalité s'infiltre pour jaillir aux sources de la Vipava. Les précipitations hivernales tombent
+      sous forme de neige, persistant jusqu'en été dans les dolines froides. Dans les glacières naturelles de
+      Veliki trški ledenik, Slapenski ledenik et Podraški ledenik, on extrayait autrefois de la glace vendue à
+      Trieste. La bora, qui dépasse parfois cent kilomètres à l'heure, sculpte la cime des arbres en lisière
+      du plateau.
+
+
+      Presque tout le massif est couvert de hêtraies et sapinières-hêtraies, relayées sur les versants
+      ensoleillés par des forêts thermophiles. Cette forêt s'étend à mesure que régressent les estives où
+      montaient autrefois les troupeaux de la vallée.
+    wildlife: >-
+      Sur les versants sud et ouest cohabitent, sur un espace restreint, des taxons illyriens, alpins et
+      endémiques, au carrefour des végétations dinarique et méditerranéenne. *Arabis scopoliana* colonise les
+      failles rocheuses et les pelouses rocailleuses ; les anciens alpages défrichés accueillent la grande
+      gentiane jaune (*Gentiana lutea*) ; sur les corniches escarpées s'enracinent la seslérie d'automne
+      (*Sesleria autumnalis*) et l'ostryer (*Ostrya carpinifolia*).
+
+
+      La faune est très riche : on y observe des papillons rares et des coléoptères cavernicoles dans les
+      gouffres. La saison de randonnée s'étend de mai à octobre.
+    visit: >-
+      L'ascension depuis Razdrto est la plus prisée de la vallée de la Vipava et offre plusieurs degrés de
+      difficulté. Elle part de Razdrto, d'un grand parking en gravier avant le pont au-dessus de l'autoroute.
+      À une bifurcation, vous avez le choix entre l'itinéraire facile et la voie directe escarpée équipée de
+      mains courantes et d'échelons.
+
+
+      Le tracé raide offre de superbes échappées sur la vallée de la Vipava, le Karst, le Vremščica et le
+      Snežnik, atteignant le Pleša à mille deux cent soixante-deux mètres et le refuge Vojko en une heure et
+      demie de marche soutenue. On peut redescendre par le sentier facile pour former une boucle. Ce dernier
+      traverse la forêt avant de s'ouvrir sur la haute vallée de la Vipava ; en un peu plus d'une heure et
+      demie, il rejoint le rebord du plateau près de l'église Saint-Jérôme, d'où l'on continue vers le refuge.
+
+
+      Le sentier alpin slovène et la route géologique slovène traversent le Nanos.
+    history: >-
+      Le Nanos occupe une place symbolique dans l'histoire du Littoral slovène. En septembre 1927 y fut fondée
+      l'organisation clandestine antifasciste TIGR, et le 18 avril 1942 s'y déroula l'un des premiers combats
+      entre maquisards et troupes italiennes. Au premier siècle, le col du Nanos canalisait le trafic civil et
+      militaire entre Trieste, Ljubljana et Carnuntum ; dans l'Antiquité, le relief était vénéré sous le nom
+      d'Ocra.
+
+
+      Les versants sud et ouest furent érigés en parc paysager en 1987 pour leur flore exceptionnelle,
+      couvrant deux mille six cent trente-deux hectares.
+    before: >-
+      L'excursion se fait en une journée. Prévoyez de mai à octobre ; le sommet peut accueillir du monde en
+      fin de semaine.
+    around: >-
+      À dix kilomètres se trouve le [parc régional des grottes de Škocjan](/lugar/park-skocjanske-jame/), et à
+      dix-neuf kilomètres le [lac de Cerknica](/lugar/cerknisko-jezero/). À vingt kilomètres se dresse le
+      [massif forestier de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/), et à vingt-cinq s'étend le
+      [plateau de Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/). À trente-cinq kilomètres
+      au nord-est s'ouvre le [parc naturel du marais de Ljubljana](/lugar/krajinski-park-ljubljansko-barje/),
+      tandis que le [parc national du Triglav](/lugar/triglav-southern-karst-plateau/) domine l'horizon.
+  de:
+    intro: >-
+      Eine wuchtige Kalksteinwand von fünfhundert bis siebenhundert Metern Höhe und darüber eine Hochebene: So
+      zeigt sich der Nanos vom Vipava-Tal aus mit steilen, im Westen senkrecht abfallenden Flanken, die das
+      Hochland von den Becken von Vipava und Pivka trennen. Es ist ein verkarstetes Plateau im Südwesten
+      Sloweniens, zwölf Kilometer lang und bis zu sechs Kilometer breit, das im markanten Felssporn des Pleša
+      gipfelt. Strabon hielt ihn für den letzten Vorposten der Alpen; von oben blickt man auf die Adria und
+      die Julier mit dem Triglav.
+    landscape: >-
+      Der Nanos besteht aus Kreide- und Jurakalken, die als überschobene Falte auf den Flyschschichten des
+      Vipava-Tals lagern. Seine Oberfläche ist von Karstwannen, Dolinen und Rundhöckern zerfurcht; höchster
+      Punkt ist der Suhi vrh mit dreizehnhundertdreizehn Metern im Südosten. Der Fels ist von Höhlen
+      durchsetzt: Zahlreiche Dolinen und Schachteingänge öffnen sich im Gelände, wobei die tiefste
+      Schachthöhle, Strmadna, dreihundertsiebenundsiebzig Meter in die Tiefe reicht.
+
+
+      Das Wasser bestimmt den Naturraum. Trotz hoher Jahresniederschläge von durchschnittlich rund
+      achtzehnhundertachtzig Millimetern gibt es auf dem Plateau keine Oberflächengewässer: Nahezu alles
+      versickert im Untergrund und speist die Karstquellen der Vipava. Im Winter fällt reichlich Schnee, der
+      sich in den Hochdolinen bis in den Sommer hält. In den Eishöhlen Veliki trški ledenik, Slapenski ledenik
+      und Podraški ledenik wurde früher Höhleneis für Triest gebrochen. Die Bora, die oft über hundert
+      Stundenkilometer erreicht, formt windschiefe Baumkronen an der Kante.
+
+
+      Fast die gesamte Hochebene ist von Buchen- und Tannen-Buchen-Wäldern bedeckt, die an sonnigen Hängen in
+      Flaumeichenmischwälder übergehen. Der Wald breitet sich aus, da ehemalige Sommerweiden der Talbauern
+      aufgelassen wurden.
+    wildlife: >-
+      An den Süd- und Westhängen gedeihen auf engstem Raum illyrische, alpine und endemische Florenelemente,
+      wo dinarische und mediterrane Vegetationszonen ineinandergreifen. *Arabis scopoliana* wurzelt in
+      Felsspalten und Steintriften; auf alten Weiderodungen wachsen Wiesen mit dem Gelben Enzian (*Gentiana
+      lutea*); an steilen Felshängen dominieren Herbst-Blaugras (*Sesleria autumnalis*) und Gemeine
+      Hopfenbuche (*Ostrya carpinifolia*).
+
+
+      Die Tierwelt ist artenreich: Seltene Falter fliegen über die Wiesen und in den Höhlen leben
+      spezialisierte Höhlenkäfer. Die beste Wanderzeit reicht von Mai bis Oktober.
+    visit: >-
+      Der Aufstieg von Razdrto auf den Nanos ist die bekannteste Tour im Vipava-Tal und bietet verschiedene
+      Schwierigkeitsgrade. Er beginnt in Razdrto an einem großen Schotterparkplatz vor der
+      Autobahnüberführung. An einer Weggabelung wählst du zwischen dem sanften Normalweg und dem steilen, mit
+      Stahlseilen und Stiften gesicherten Steig.
+
+
+      Die steile Route bietet Tiefblicke ins Vipava-Tal, auf den Karst, den Vremščica und den Snežnik und
+      erreicht den Pleša auf zwölfhundertzweiundsechzig Metern nahe der Vojko-Hütte in rund anderthalb
+      Gehstunden auf markiertem Pfad. Der Abstieg kann über den leichten Weg als Rundtour erfolgen. Dieser
+      führt durch Buchenwald zur Hochebene nahe der Kirche St. Hieronymus, von wo es rechts zur Hütte geht.
+
+
+      Der Slowenische Bergwanderweg und der Slowenische Geologische Weg queren den Nanos.
+    history: >-
+      Der Nanos besitzt hohe symbolische Bedeutung für die Menschen des slowenischen Küstenlands. Im September
+      1927 wurde hier die antifaschistische Widerstandsbewegung TIGR gegründet, und am 18. April 1942 fand
+      eines der ersten Gefechte zwischen Partisanen und der italienischen Armee statt. Im ersten Jahrhundert
+      leitete der Pass von Nanos den Verkehr zwischen Triest, Ljubljana und Carnuntum; in der Antike hieß der
+      Berg Ocra.
+
+
+      Die Süd- und Westhänge wurden 1987 wegen ihrer botanischen Vielfalt zum Landschaftspark erklärt, der
+      zweitausendsechshundertzweiunddreißig Hektar umfasst.
+    before: >-
+      Die Tour lässt sich an einem Tag machen. Plane für Mai bis Oktober; am Gipfel herrscht am Wochenende oft
+      Betrieb.
+    around: >-
+      Rund zehn Kilometer südwestlich liegt der [Höhlenpark Škocjan](/lugar/park-skocjanske-jame/), und
+      neunzehn Kilometer entfernt der [Zirknitzer See](/lugar/cerknisko-jezero/). Zwanzig Kilometer südöstlich
+      ragt das [Waldmassiv Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/) auf, und fünfundzwanzig
+      Kilometer weit erstreckt sich das [Karstplateau
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/). Fünfunddreißig Kilometer nordöstlich
+      liegt das [Laibacher Moor](/lugar/krajinski-park-ljubljansko-barje/), während im Norden der
+      [Nationalpark Triglav](/lugar/triglav-southern-karst-plateau/) grüßt.
+  it:
+    intro: >-
+      Una muraglia di roccia alta da cinquecento a settecento metri sormontata da un vasto altopiano. Così
+      appare il Nanos dalla valle del Vipacco: pendii scoscesi, a ovest tagliati a picco, che isolano
+      l'altopiano dai bacini del Vipacco e della Piuca. È un rilievo calcareo carsico della Slovenia
+      sud-occidentale, lungo dodici chilometri e largo fino a sei, delimitato dallo sperone del Pleša.
+      Strabone lo considerava l'ultimo bastione delle Alpi; dalla cima lo sguardo spazia sull'Adriatico e
+      sulle Giulie con il Triglav.
+    landscape: >-
+      Il Nanos è formato da calcari del Cretacico e del Giurassico, sovrascorsi come piega coricata sulle
+      formazioni di flysch della valle del Vipacco. La superficie è modellata da solchi carsici, doline e cime
+      tondeggianti; la massima elevazione è il Suhi vrh a milletrecentotredici metri a sud-est. La roccia è
+      perforata da cavità: s'incontrano doline e imbocchi di abissi, tra cui Strmadna che scende a
+      trecentosettantanove metri.
+
+
+      L'acqua ne spiega la natura. Nonostante precipitazioni annue elevate, intorno a milleottocentoottantuno
+      millimetri in media, sull'altopiano mancano corsi d'acqua superficiali: la pioggia scompare nel
+      sottosuolo alimentando le sorgenti del Vipacco. D'inverno cade abbondante neve, che nelle doline alte
+      permane fino all'estate. Nelle ghiacciaie di Veliki trški ledenik, Slapenski ledenik e Podraški ledenik
+      si estraeva un tempo ghiaccio per Trieste. La bora, che supera talora i cento chilometri all'ora,
+      modella le chiome degli alberi sul ciglio.
+
+
+      Quasi tutto l'altopiano è coperto da faggete e abetine, sostituite sui versanti solatii da boschi
+      termofili. La foresta avanza man mano che gli alpeggi estivi vengono abbandonati.
+    wildlife: >-
+      Sui versanti meridionali e occidentali convivono specie illiriche, alpine ed endemiche, all'incrocio tra
+      vegetazione dinarica e mediterranea. *Arabis scopoliana* fiorisce nelle fessure rocciose e sui macereti;
+      dove un tempo si disboscava per il pascolo vi sono ampie praterie con la genziana maggiore (*Gentiana
+      lutea*); sui dirupi allignano la sesleria autunnale (*Sesleria autumnalis*) e il carpino nero (*Ostrya
+      carpinifolia*).
+
+
+      La fauna annovera farfalle rare e coleotteri troglobi nelle grotte. La stagione escursionistica va da
+      maggio a ottobre.
+    visit: >-
+      La salita da Razdrto al Nanos è l'itinerario più classico della valle del Vipacco e offre diverse
+      difficoltà. Prende avvio a Razdrto da un ampio parcheggio sterrato prima del cavalcavia autostradale. A
+      un bivio si sceglie tra il sentiero facile e la via diretta più ripida attrezzata con pioli e cavo
+      metallico.
+
+
+      Il tracciato ripido regala scorci panoramici sulla valle del Vipacco, sul Carso, sul monte Vremščica e
+      sullo Snežnik, raggiungendo il Pleša a milleduecentosessantadue metri e il rifugio Vojko in un'ora e
+      mezza di cammino sostenuto. Per la discesa si può percorrere il sentiero facile compiendo un anello.
+      Questo scende nel bosco affacciandosi sulla valle del Vipacco, toccando il margine dell'altopiano sopra
+      la chiesetta di San Gerolamo prima di rientrare al punto di partenza.
+
+
+      La Traversata Montana Slovena e la Via Geologica Slovena valicano il Nanos.
+    history: >-
+      Il Nanos riveste un alto valore simbolico per gli sloveni del Litorale. Nel settembre 1927 vi nacque
+      l'organizzazione antifascista clandestina TIGR, e il 18 aprile 1942 vi si combatté una delle prime
+      battaglie tra partigiani ed esercito italiano. Nel primo secolo il valico del Nanos incanalava il
+      transito tra Trieste, Lubiana e Carnuntum; nell'Antichità era venerato come Ocra.
+
+
+      I versanti meridionali e occidentali sono stati istituiti a parco paesaggistico nel 1987 per
+      l'eccellenza botanica, su duemilaseicentotrentadue ettari.
+    before: >-
+      La salita si compie in giornata. Il periodo raccomandato va da maggio a ottobre; la vetta è frequentata
+      nei fine settimana. Con vento di bora occorre cautela sulle creste esposte.
+    around: >-
+      A dieci chilometri sorge il [Parco delle Grotte di San Canziano](/lugar/park-skocjanske-jame/), e a
+      diciannove il [Lago di Cerknica](/lugar/cerknisko-jezero/). A venti chilometri si erge il [Massiccio del
+      monte Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/), e a venticinque l'[Altopiano di
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/). A trentacinque chilometri a nord-est
+      si estende la [Palude di Lubiana](/lugar/krajinski-park-ljubljansko-barje/), mentre il [Parco nazionale
+      del Triglav](/lugar/triglav-southern-karst-plateau/) chiude l'orizzonte a nord.
+  pt:
+    intro: >-
+      Uma gigantesca muralha de rocha de quinhentos a setecentos metros e, no topo, um vasto planalto. É assim
+      que o Nanos surge a partir do vale de Vipava: vertentes alcantiladas, a oeste talhadas a pique, que
+      isolam o altiplano das bacias de Vipava e Pivka. É um planalto cársico do sudoeste da Eslovénia, com
+      doze quilómetros de extensão e até seis de largura, rematado pelo contraforte do Pleša. Estrabão
+      considerava-o a última sentinela dos Alpes, avistando-se do topo o mar Adriático e os picos dos Alpes
+      Julianos com o Triglav.
+    landscape: >-
+      O Nanos é constituído por calcários cretácicos e jurássicos cavalgados sobre os estratos de flysch do
+      vale de Vipava. A superfície encontra-se lavrada pela dissolução cársica em covas alongadas, dolinas e
+      relevos arredondados, culminando no Suhi vrh a mil trezentos e treze metros no sudeste. A rocha está
+      crivada de algares e fendas, descendo o abismo mais fundo, Strmadna, a trezentos e setenta e nove
+      metros.
+
+
+      A água dita as características do relevo. Apesar da precipitação média anual elevada, na ordem dos mil
+      oitocentos e oitenta e um milímetros, inexistem cursos de água à superfície: quase todo o caudal
+      infiltra-se para alimentar as ressurgências do rio Vipava. A neve invernal perdura até ao verão nas
+      dolinas mais altas. Nas cavernas glaciares de Veliki trški ledenik, Slapenski ledenik e Podraški ledenik
+      cortava-se outrora gelo vendido em Trieste. A bora, que ultrapassa por vezes os cem quilómetros por
+      hora, fustiga as árvores da borda do planalto.
+
+
+      Quase todo o relevo está coberto por faiais e matas mistas de faia e abeto, substituídos nas encostas
+      soalheiras por bosques termófilos. O bosque alastra à medida que cessam as pastagens estivais da serra.
+    wildlife: >-
+      Nas encostas meridionais e ocidentais coexistem elementos ilíricos, alpinos e endémicos, num cruzamento
+      de influências dináricas e mediterrânicas. *Arabis scopoliana* vinga nas fendas das rochas; onde outrora
+      se desbravou para pastoreio abrem-se prados com a genciana-amarela (*Gentiana lutea*); nas fragas
+      aprumadas fixam-se *Sesleria autumnalis* e o lódão-bastardo (*Ostrya carpinifolia*).
+
+
+      A fauna apresenta borboletas raras e coleópteros troglóbios nas grutas. A temporada de percursos
+      pedestres decorre de maio a outubro.
+    visit: >-
+      A rota a partir de Razdrto é a mais emblemática do vale de Vipava e faculta diferentes níveis de
+      dificuldade. Inicia-se em Razdrto, num amplo parque de terra batida antes do viaduto da autoestrada. Num
+      cruzamento opta-se entre a vereda fácil e o trilho direto escarpado, munido de cabos de aço e degraus
+      metálicos.
+
+
+      O trilho direto desfralda vistas vertiginosas sobre o vale de Vipava, o Carso, Vremščica e Snežnik,
+      atingindo o Pleša a mil duzentos e sessenta e dois metros e o refúgio Vojko em hora e meia de subida.
+      Para o regresso pode usar-se a vereda suave em circuito. Esta desce através da mata revelando o vale de
+      Vipava e atinge o rebordo do planalto perto da ermida de São Jerónimo, de onde se ruma ao abrigo.
+
+
+      O Trilho Alpino Esloveno e a Rota Geológica Eslovena atravessam o Nanos.
+    history: >-
+      O Nanos ostenta um profundo valor simbólico na identidade dos eslovenos do Litoral. Em setembro de 1927
+      nasceu aqui a organização antifascista TIGR, e a 18 de abril de 1942 travou-se um dos combates pioneiros
+      entre a resistência e as tropas italianas. No primeiro século, o desfiladeiro de Nanos escoava o
+      trânsito entre Trieste, Liubliana e Carnuntum; na Antiguidade era conhecido como Ocra.
+
+
+      As vertentes sul e oeste foram classificadas como parque paisagístico em 1987 mercê da sua botânica
+      notável, abrangendo duas mil seiscentas e trinta e duas hectares.
+    before: >-
+      A caminhada realiza-se num único dia. Planeia a ida entre maio e outubro; o cume atrai caminhantes aos
+      fins de semana. Sob rajadas de vento bora impõe-se cautela redobrada nas cristas.
+    around: >-
+      A dez quilómetros localiza-se o [Parque das Grutas de Škocjan](/lugar/park-skocjanske-jame/), e a
+      dezanove o [Lago de Cerknica](/lugar/cerknisko-jezero/). A vinte quilómetros ergue-se o [Maciço
+      Florestal de Snežnik](/lugar/snezniski-gozdni-masiv-veliki-sneznik/), e a vinte e cinco o [Planalto de
+      Javorniki](/lugar/javorniski-gozdovi-karstna-planota-javorniki/). A trinta e cinco quilómetros a
+      nordeste estende-se o [Pântano de Liubliana](/lugar/krajinski-park-ljubljansko-barje/), com o [Parque
+      Nacional do Triglav](/lugar/triglav-southern-karst-plateau/) a fechar o horizonte a norte.
+fuentes:
+  - url: https://en.wikipedia.org/wiki/Nanos_(plateau)
+    titulo: Nanos (plateau) - Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://www.vipavskadolina.si/aktivno/pohodnistvo/poti/nanos
+    titulo: Nanos | Vipavska dolina | Uradni turistični portal
+    fecha_consulta: '2026-10-31'
+  - url: https://www.vipavskadolina.si/si/aktivno/pohodnistvo/poti/nanos
+    titulo: Nanos — Turizem Vipavska dolina
+    fecha_consulta: '2026-10-31'
+  - url: https://sl.wikipedia.org/wiki/Nanos
+    titulo: Nanos — Wikipedija
+    fecha_consulta: '2026-10-31'
+  - url: https://sl.wikipedia.org/wiki/Krajinski_park_Južni_in_zahodni_obronki_Nanosa
+    titulo: Krajinski park Južni in zahodni obronki Nanosa — Wikipedija
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Nanos_01_(42273103281).jpg
+    autor: Andrea Skerlavaj from Trieste, Italia
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-17'

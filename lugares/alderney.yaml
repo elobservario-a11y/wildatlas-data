@@ -1,0 +1,601 @@
+id: alderney
+estado_editorial: valoracion-revisada
+nombre:
+  es: Isla de Alderney y Les Étacs
+  en: Alderney Island and Les Étacs
+  fr: Île d’Aurigny et Les Étacs
+  de: Insel Alderney und Les Étacs
+  it: Isola di Alderney e Les Étacs
+  pt: Ilha de Alderney e Les Étacs
+nombre_original: Alderney
+alias:
+  - Alderney & Les Étacs
+paises:
+  - GB
+region:
+  es: Islas del Canal (Bailía de Guernsey / Alderney)
+  en: Channel Islands (Bailiwick of Guernsey / Alderney)
+  fr: Îles Anglo-Normandes (bailliage de Guernesey / Aurigny)
+  de: Kanalinseln (Vogtei Guernsey / Alderney)
+  it: Isole del Canale (Baliato di Guernsey / Alderney)
+  pt: Ilhas do Canal (Bailiado de Guernsey / Alderney)
+ubicacion:
+  tipo: punto
+  lat: 49.71
+  lon: -2.2
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: osm
+  id_externo: relation/1973200
+  nombre_en_la_fuente: Alderney
+  capa: capas/osm/alderney.geojson
+habitats:
+  - coast
+  - marine
+designaciones:
+  - ramsar
+especies:
+  - morus_bassanus
+  - fratercula_arctica
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+temporada_nota:
+  es: mayo a septiembre
+  en: May to September
+  fr: mai à septembre
+  de: Mai bis September
+  it: da maggio a settembre
+  pt: maio a setembro
+masificacion: 1
+masificacion_nota:
+  es: Baja; accesible por ferry desde Guernsey o Francia (Diélette)
+  en: Low; accessible by ferry from Guernsey or France (Diélette)
+  fr: Faible ; accessible par ferry depuis Guernesey ou la France (Diélette)
+  de: Gering; erreichbar per Fähre von Guernsey oder Frankreich (Diélette)
+  it: Bassa; raggiungibile in traghetto da Guernsey o dalla Francia (Diélette)
+  pt: Baixa; acessível por ferry a partir de Guernsey ou de França (Diélette)
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Alderney Wildlife Trust Official
+    url: https://www.alderneywildlife.org/
+  - titulo: Rutas — Paseos de Alderney Wildlife Trust
+    url: https://www.alderneywildlife.org/visit/walks-tours
+  - titulo: Accesos y visita — Reservas de Alderney
+    url: https://www.alderneywildlife.org/nature-reserves
+  - titulo: Centro de visitantes — Alderney Biodiversity Centre
+    url: https://www.alderneywildlife.org/current-projects/alderney-biodiversity-centre
+resumen:
+  es: >-
+    La tercera más grande de las Islas del Canal, con las rocas de Les Étacs albergando casi 6.000 parejas de
+    alcatraz (el 1% de la población mundial).
+  en: >-
+    The third-largest of the Channel Islands, with the Les Étacs stacks sheltering nearly 6,000 pairs of
+    gannets (1% of the world population).
+  fr: >-
+    La troisième plus grande île anglo-normande, dont les îlots des Étacs abritent près de 6 000 couples de
+    fous de Bassan (1 % de la population mondiale).
+  de: >-
+    Die drittgrößte der Kanalinseln mit den Felsenklippen von Les Étacs, Heimat von fast 6.000
+    Basstölpelpaaren (1 % der Weltpopulation).
+  it: >-
+    La terza isola per grandezza delle Isole del Canale, con gli scogli di Les Étacs che ospitano quasi 6.000
+    coppie di sule (l’1% della popolazione mondiale).
+  pt: >-
+    A terceira maior das Ilhas do Canal, com os rochedos de Les Étacs a acolherem quase 6.000 casais de
+    ganso-patola (1% da população mundial).
+unico:
+  es: >-
+    Una isla de cinco kilómetros de largo cuyo oeste es sitio Ramsar y donde dos islotes albergan más del uno
+    por ciento de los alcatraces del mundo.
+  en: >-
+    A five-kilometre-long island whose western coast is a Ramsar wetland and where two offshore islets host
+    more than one percent of the world’s gannets.
+  fr: >-
+    Une île de cinq kilomètres de long dont la côte ouest est un site Ramsar et dont deux îlots rocheux
+    hébergent plus d’un pour cent des fous de Bassan du monde.
+  de: >-
+    Eine fünf Kilometer lange Insel, deren Westküste Ramsar-Gebiet ist und deren vorgelagerte Felsen über ein
+    Prozent aller Basstölpel weltweit beherbergen.
+  it: >-
+    Un’isola lunga cinque chilometri la cui costa occidentale è sito Ramsar e dove due isolotti accolgono
+    oltre l’uno per cento delle sule mondiali.
+  pt: >-
+    Uma ilha com cinco quilómetros de comprimento cujo litoral poente é sítio Ramsar e onde dois ilhéus
+    abrigam mais de um por cento dos gansos-patola mundiais.
+observaciones:
+  es: >-
+    Las actividades habituales de los visitantes en verano son la observación de aves, el senderismo y mirar
+    las pozas de marea. Si sales en barco hacia Burhou, respeta durante la cría la zona amiga del frailecillo.
+
+
+    Si quieres colaborar, el Alderney Bird Observatory y Alderney Wildlife Trust aceptan a observadores con
+    experiencia en anillamiento.
+texto:
+  es:
+    intro: >-
+      Alderney mide unas tres millas de largo por milla y media de ancho, y aun así caben en ella una colonia
+      de alcatraces que reúne más del uno por ciento de la población mundial, un islote donde cría el
+      frailecillo y una costa entera con la etiqueta de humedal de importancia internacional. Es la más
+      septentrional de las islas del Canal habitadas, la que queda más cerca de Francia y de Reino Unido,
+      separada del cabo de La Hague por el peligroso Alderney Race. Una isla pequeña, de caminos de
+      acantilado, brezales y dos hides, con la vida salvaje a un paso.
+    landscape: >-
+      Alderney se volvió isla en el Neolítico, cuando subieron las aguas del Canal de la Mancha. Hoy la rodean
+      rocas que han causado cientos de naufragios y fuertes corrientes de marea, como el Swinge, entre la isla
+      y Burhou.
+
+
+      Árboles hay pocos, porque muchos se talaron en el siglo XVII para alimentar los faros de Alderney y de
+      Casquets; entre los que quedan, los cabbage trees, a menudo llamados «palmeras» por error y que
+      prosperan gracias al clima suave. Pero la costa oeste es otra cosa: es una zona de mareas fuertes y
+      mucha energía, con ecosistemas variados, desde playas de arena con bancos de guijarros hasta orillas
+      rocosas con pozas de marea y acantilados. Las reservas de la isla añaden humedales intermareales,
+      pastizal costero rico en especies, humedales de agua dulce y matorral, en Longis, y en Vau du Saou, una
+      costa compacta que va de la orilla rocosa a un valle sobre el acantilado y a tierras de labor
+      históricas.
+    wildlife: >-
+      Los islotes rocosos de Ortac y Les Étacs albergan más del uno por ciento de la población mundial de
+      [alcatraces atlánticos](/especie/morus_bassanus/); desde el mirador de Giffoine se contempla la colonia
+      de Les Étacs. Los [frailecillos](/especie/fratercula_arctica/) crían en Burhou, y se les puede seguir en
+      directo con una cámara de marzo a julio, que es cuando están en la isla. Esos mismos islotes son además
+      lugar de descanso para las [focas grises](/especie/halichoerus_grypus/), con una colonia al norte de
+      Burhou, y refugio de bogavantes, lubinas y platijas.
+
+
+      Los frailecillos se asustan con facilidad cuando flotan en el agua, y al alzar el vuelo gastan reservas
+      de energía que necesitan para alimentarse y criar. Por eso, en 2018, tras observar un descenso de su
+      población en Burhou, se creó una Zona Amiga del Frailecillo: durante la temporada de cría, los barcos
+      deben pasar sin molestarlos.
+
+
+      En la isla, el [cernícalo](/especie/falco_tinnunculus/) y los busardos patrullan el cielo, y la curruca
+      rabilarga se mueve por los acantilados cubiertos de aliaga. En los hides de Longis y Mannez, con
+      prismáticos, se ven zampullines chicos, fochas y ánades reales; en migración, también cucharas y
+      agachadizas. Para las aves, lo mejor es madrugar. En el sitio Ramsar se cuentan, además, unas cien
+      especies de algas.
+    visit: >-
+      Empieza en la oficina de Alderney Wildlife Trust, en Victoria Street: allí se piden los avistamientos
+      recientes y se prestan prismáticos. Las rutas autoguiadas son gratuitas y se recogen en forma de folleto
+      en el centro de información al visitante.
+
+
+      La más corta, de unos tres cuartos de hora, bordea los acantilados del sur hasta el Wildlife Bunker,
+      centro de interpretación de la naturaleza y de la historia; tiene tramos empinados y resbaladizos. Otra
+      ruta pasa por los acantilados del sur y frente a los alcatraces de Les Étacs, dura unas dos horas y
+      tiene una subida empinada. Una tercera ofrece vistas de Burhou y, en la variante larga, de un molino de
+      agua: 5,3 kilómetros en casi dos horas. En la reserva de Longis, un sendero circular sale del
+      aparcamiento del fuerte romano y mide cuatro kilómetros, en una hora y media; es agradable todo el año,
+      con flores en primavera, aves que crían en verano y migrantes en otoño. Y quien quiera una jornada
+      completa tiene un sendero costero bien señalizado de diez millas alrededor de la isla, unas cinco horas
+      a buen paso.
+    history: >-
+      El sitio Ramsar se designó en 2005, el primero del Bailiazgo de Guernsey, y es uno de los ocho de las
+      islas del Canal. Alderney Wildlife Trust, una entidad de conservación que cuida los entornos marino, de
+      agua dulce y terrestre de la isla, lo administra a petición de los Estados de Alderney, con trabajo
+      voluntario de expertos, y desde 2005 se recogen datos de población y éxito de cría de diez especies de
+      aves marinas.
+
+
+      La isla guarda además restos de su pasado: un fuerte romano levantado a finales de los años 300 y un
+      yacimiento de la Edad del Hierro en Longis Common. En la década de 1850, a la vez que el rompeolas, se
+      levantaron trece fuertes para proteger el puerto de refugio.
+    before: >-
+      Las actividades habituales de los visitantes en verano son la observación de aves, el senderismo y mirar
+      las pozas de marea. Si sales en barco hacia Burhou, respeta durante la cría la zona amiga del
+      frailecillo.
+
+
+      Si quieres colaborar, el Alderney Bird Observatory y Alderney Wildlife Trust aceptan a observadores con
+      experiencia en anillamiento.
+    around: >-
+      Alderney no tiene vecinos cercanos en el atlas, pero sí parientes lejanos: [Mykines](/lugar/mykines/),
+      [Noss](/lugar/noss-national-nature-reserve/), la [Reserva Natural de las
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) y [Skellig Michael](/lugar/skellig-michael/)
+      comparten con ella el alcatraz atlántico y el frailecillo, además de costa y mar.
+  en:
+    intro: >-
+      Alderney measures roughly three miles in length by a mile and a half across, yet packs in a northern
+      gannet colony representing more than one percent of the global population, an islet teeming with nesting
+      puffins, and an entire coastline designated as a wetland of international importance. It is the
+      northernmost inhabited Channel Island, lying closest to France and the United Kingdom, separated from
+      Cap de la Hague by the ferocious currents of the Alderney Race. A compact island of cliff paths,
+      maritime heaths, and two bird hides, with wildlife thriving right at your feet.
+    landscape: >-
+      Alderney became an island during the Neolithic era as rising postglacial waters filled the English
+      Channel. Today it is ringed by submerged reefs that have claimed hundreds of historic shipwrecks, swept
+      by fierce tidal races like the Swinge churning between the main island and Burhou.
+
+
+      Trees are sparse, heavily cleared in the XVII century to fuel beacons on Alderney and the Casquets;
+      among survivors are New Zealand cabbage trees, often mistaken for palms, thriving in the mild maritime
+      microclimate. The west coast forms a dynamic, high-energy intertidal ecosystem, transitioning from sandy
+      bays and shingle storm ridges to rocky reefs and sheltered tidal pools. Coastal reserves preserve
+      intertidal muds, species-rich maritime turf, reedbeds, and freshwater scrub at Longis, alongside Vau du
+      Saou, where rocky shores ascend directly into hanging cliffside valleys and ancient arable fields.
+    wildlife: >-
+      The offshore sea stacks of Ortac and Les Étacs shelter over one percent of the world’s [northern
+      gannets](/especie/morus_bassanus/); the colony on Les Étacs is easily surveyed from the Giffoine
+      viewpoint. [Atlantic puffins](/especie/fratercula_arctica/) breed on Burhou, monitored via live webcam
+      during their residency from March to July. These same tidal waters harbor a breeding colony of [grey
+      seals](/especie/halichoerus_grypus/) north of Burhou, alongside European lobsters, sea bass, and
+      flatfish.
+
+
+      Puffins raft in open water and startle easily; unnecessary flights deplete vital energy needed for
+      foraging and chick-rearing. Consequently, in 2018, following population declines on Burhou, local
+      authorities instituted a Puffin Friendly Zone requiring visiting watercraft to steer clear and observe
+      speed limits during the breeding season.
+
+
+      Across the headlands, [common kestrels](/especie/falco_tinnunculus/) and common buzzards quarter the
+      skies, while Dartford warblers dart through coastal gorse. From the hides at Longis and Mannez, birders
+      can observe little grebes, Eurasian coots, and mallards, alongside migrating shovelers and common snipe.
+      Roughly one hundred species of marine algae inhabit the Ramsar zone.
+    visit: >-
+      Begin at the Alderney Wildlife Trust office on Victoria Street to review recent wildlife sightings and
+      borrow binoculars. Self-guided walking trail leaflets are available at the visitor information centre.
+
+
+      The shortest walk, taking about three-quarters of an hour, traces the south cliffs to the Wildlife
+      Bunker, an interpretive centre blending nature and military heritage, featuring steep and rocky steps.
+      Another route skirts the southern bluffs directly opposite the Les Étacs gannetry, lasting around two
+      hours with a steep headland ascent. A third path overlooks Burhou and an old watermill, covering 5.3
+      kilometres in nearly two hours. At Longis Reserve, an easy four-kilometre circular trail departs the
+      Roman fort car park, taking about an hour and a half amidst spring wildflowers and autumn migrants. For
+      an all-day excursion, a waymarked ten-mile coastal path circles the entire island in about five hours at
+      a brisk stride.
+    history: >-
+      The western coast was designated a Ramsar site in 2005, the first in the Bailiwick of Guernsey and one
+      of eight across the Channel Islands. The Alderney Wildlife Trust oversees terrestrial and marine
+      conservation on behalf of the States of Alderney; since 2005, volunteers have monitored breeding success
+      across ten seabird species.
+
+
+      Historical monuments abound: a Roman fortlet constructed in the late 300s and Iron Age burial sites on
+      Longis Common. During the 1850s, along with the massive Admiralty breakwater, thirteen Victorian
+      fortresses were erected to protect a planned naval harbour of refuge.
+    before: >-
+      Popular summer activities include birdwatching, cliff walking, and exploring tidal rockpools. If boating
+      near Burhou, respect the Puffin Friendly Zone during nesting months.
+
+
+      Experienced ringers can enquire about volunteering opportunities with the Alderney Bird Observatory and
+      Alderney Wildlife Trust.
+    around: >-
+      Alderney stands apart from neighboring landmasses in the atlas, yet shares seabird affinities with
+      distant outposts: [Mykines](/lugar/mykines/), [Noss](/lugar/noss-national-nature-reserve/), the
+      [Sept-Îles Nature Reserve](/lugar/reserve-naturelle-des-sept-iles/), and [Skellig
+      Michael](/lugar/skellig-michael/) all shelter teeming colonies of northern gannets and puffins.
+  fr:
+    intro: >-
+      Aurigny mesure environ trois milles de long sur un mille et demi de large, et pourtant elle concentre
+      une colonie de fous de Bassan rassemblant plus d’un pour cent de la population mondiale, un îlot où
+      niche le macareux et tout un littoral labellisé zone humide d’importance internationale. C’est la plus
+      septentrionale des îles Anglo-Normandes habitées, la plus proche des côtes françaises et britanniques,
+      séparée du cap de la Hague par les courants redoutables du raz Blanchard. Une petite île de sentiers
+      côtiers, de landes et de deux observatoires, avec la faune marine à portée de regard.
+    landscape: >-
+      Aurigny est devenue une île au Néolithique avec la montée des eaux de la Manche. Elle est ceinturée
+      d’écueils ayant causé des centaines de naufrages et balayée par des courants de marée puissants, tel le
+      Swinge entre l’île principale et Burhou.
+
+
+      Les arbres y sont rares, abattus au XVIIe siècle pour alimenter les feux des phares d’Aurigny et des
+      Casquets ; parmi ceux qui subsistent, les cordylines australes, souvent appelées à tort « palmiers »,
+      prospèrent sous la douceur océanique. La côte ouest offre un milieu intertidal battu par la houle,
+      alternant plages de sable, cordons de galets, platiers rocheux et falaises abruptes. Les réserves de
+      l’île protègent des estrans rocheux, des pelouses maritimes, des roselières d’eau douce à Longis, ainsi
+      que le vallon suspendu du Vau du Saou descendant vers la mer.
+    wildlife: >-
+      Les îlots rocheux d’Ortac et des Étacs accueillent plus d’un pour cent de la population mondiale de
+      [fous de Bassan](/especie/morus_bassanus/) ; la colonie des Étacs s’admire idéalement depuis le
+      belvédère de Giffoine. Les [macareux moines](/especie/fratercula_arctica/) nichent sur l’îlot de Burhou,
+      observables en direct par caméra de mars à juillet. Ces mêmes parages constituent un reposoir pour les
+      [phoques gris](/especie/halichoerus_grypus/), avec une colonie au nord de Burhou, ainsi qu’un biotope
+      poissonneux pour le homard, le bar et le flet.
+
+
+      Les macareux posés sur l’eau s’effarouchent facilement, gaspillant une énergie vitale pour la pêche et
+      l’élevage des poussins. En 2018, face au déclin des nicheurs sur Burhou, une zone de quiétude pour les
+      macareux a été créée, imposant aux bateaux de ralentir et de s’écarter des rassemblements.
+
+
+      Sur l’île, le [faucon crécerelle](/especie/falco_tinnunculus/) et la buse variable patrouillent dans le
+      ciel, tandis que la fauvette pitchou fréquente les ajoncs des landes. Dans les observatoires de Longis
+      et Mannez, on observe grèbes castagneux, foulques macroules et canards colverts. Le site Ramsar recense
+      en outre une centaine d’espèces d’algues marines.
+    visit: >-
+      Rendez-vous d’abord au bureau de l’Alderney Wildlife Trust, dans Victoria Street, pour consulter les
+      observations récentes et emprunter des jumelles. Des fiches d’itinéraires libres sont remises au centre
+      d’accueil des visiteurs.
+
+
+      La plus courte, réalisable en trois quarts d’heure, longe les falaises sud jusqu’au Wildlife Bunker,
+      espace muséographique mêlant histoire et nature, sur un tracé comportant quelques marches rocheuses. Une
+      autre boucle côtoie les falaises sud face à la colonie des Étacs, durant environ deux heures avec une
+      montée soutenue. Un troisième sentier offre des vues sur Burhou et un ancien moulin à eau, couvrant 5,3
+      kilomètres en près de deux heures. Dans la réserve de Longis, une boucle de quatre kilomètres démarre du
+      fort romain en une heure et demie, agréable en toute saison. Enfin, le sentier côtier de dix milles fait
+      le tour complet de l’île en cinq heures de marche tonique.
+    history: >-
+      Le littoral occidental a été classé site Ramsar en 2005, premier du bailliage de Guernesey et l’un des
+      huit des îles Anglo-Normandes. L’Alderney Wildlife Trust en assure la gestion scientifique pour le
+      compte des États d’Aurigny ; depuis 2005, des inventaires réguliers mesurent le succès reproducteur de
+      dix espèces d’oiseaux marins.
+
+
+      L’île abrite également un précieux patrimoine historique : un fortin romain bâti à la fin des années 300
+      et des nécropoles de l’âge du fer à Longis Common. Dans la décennie 1850, parallèlement à la grande
+      digue, treize forts victoriens furent érigés pour protéger le port militaire.
+    before: >-
+      Les activités estivales traditionnelles sont l’observation ornithologique, la randonnée côtière et
+      l’exploration des flaques de marée. Si vous naviguez en bateau vers Burhou, respectez scrupuleusement la
+      zone de quiétude des macareux pendant la nidification.
+
+
+      Si vous souhaitez collaborer, l’Alderney Bird Observatory et l’Alderney Wildlife Trust accueillent des
+      ornithologues ayant de l’expérience en baguage.
+    around: >-
+      Aurigny ne possède pas de voisin direct dans l’atlas, mais partage ses espèces marines avec de hauts
+      lieux insulaires : [Mykines](/lugar/mykines/), [Noss](/lugar/noss-national-nature-reserve/), la [réserve
+      naturelle des Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) et [Skellig
+      Michael](/lugar/skellig-michael/) accueillent également d’immenses colonies de fous de Bassan et de
+      macareux.
+  de:
+    intro: >-
+      Alderney misst rund drei Meilen in der Länge und anderthalb Meilen in der Breite, und doch beherbergt
+      die Insel eine Basstölpelkolonie mit mehr als einem Prozent des weltweiten Bestands, eine Felseninsel
+      voller Papageitaucher und eine gesamte Westküste von internationaler Feuchtgebietsbedeutung. Es ist die
+      nördlichste bewohnte Kanalinsel, dem französischen Festland am nächsten gelegen und durch die
+      gefürchtete Meerenge der Raz Blanchard von Cap de la Hague getrennt. Eine kompakte Insel mit
+      Klippenpfaden, Küstenheiden und zwei Beobachtungshütten, wo Naturerlebnisse direkt vor der Haustür
+      liegen.
+    landscape: >-
+      Alderney wurde im Neolithikum durch das ansteigende Meerwasser im Ärmelkanal zur Insel. Heute umgeben
+      sie tückische Felsenriffe, die Hunderte Schiffswracks forderten, und reißende Gezeitenströmungen wie der
+      Swinge zwischen Alderney und Burhou.
+
+
+      Bäume sind selten, da sie im XVII. Jahrhundert für Leuchtfeuer auf Alderney und den Casquets abgeholzt
+      wurden; unter den verbliebenen Arten gedeihen neuseeländische Keulenlilien im milden Golfstromklima. Die
+      Westküste bildet ein hochenergetisches Gezeitenökosystem mit Sandstränden, Geröllwällen, Felsriffen und
+      Gezeitentümpeln. Die Schutzgebiete bewahren Salzwiesen, artenreichen Küstenrasen, Süßwassermoore bei
+      Longis sowie das abgeschiedene Hängetal Vau du Saou, das von den Felsklippen zu historischen
+      Ackerterrassen aufsteigt.
+    wildlife: >-
+      Die Felsnadeln von Ortac und Les Étacs beherbergen über ein Prozent der weltweiten
+      [Basstölpel](/especie/morus_bassanus/); die Kolonie auf Les Étacs lässt sich hervorragend vom
+      Aussichtspunkt Giffoine beobachten. [Papageitaucher](/especie/fratercula_arctica/) brüten auf Burhou und
+      werden von März bis Juli per Webcam live übertragen. Dieselben Gewässer dienen
+      [Kegelrobben](/especie/halichoerus_grypus/) als Ruheplatz, mit einer Kolonie nördlich von Burhou,
+      ergänzt durch Europäische Hummer, Wolfsbarsche und Flundern.
+
+
+      Auf dem Wasser rastende Papageitaucher scheuen leicht auf, was lebenswichtige Energiereserven zehrt.
+      Deshalb wurde 2018 nach Bestandsrückgängen auf Burhou eine Schutzzone für Papageitaucher eingerichtet:
+      Schiffe müssen während der Brutzeit langsamer fahren und Abstand halten.
+
+
+      Über den Klippen patrouillieren [Turmfalke](/especie/falco_tinnunculus/) und Mäusebussard, während
+      Provencegrasmücken im Ginster der Heiden brüten. In den Beobachtungshütten von Longis und Mannez lassen
+      sich Zwergtaucher, Blässhühner und Stockenten sowie Zugvögel beobachten. Im Ramsar-Gebiet wurden zudem
+      rund einhundert Algenarten erfasst.
+    visit: >-
+      Erste Anlaufstelle ist das Büro des Alderney Wildlife Trust in der Victoria Street für aktuelle
+      Sichtungen und Fernglasverleih. Kostenlose Wanderfaltblätter gibt es im Besucherzentrum.
+
+
+      Die kürzeste Route führt in etwa einer Dreiviertelstunde entlang der Südklippen zum Wildlife Bunker,
+      einer Dokumentationsstätte für Natur und Festungsgeschichte. Ein weiterer Weg führt an den Südklippen
+      gegenüber den Basstölpelfelsen von Les Étacs entlang und dauert rund zwei Stunden mit steilen
+      Aufstiegen. Eine dritte Tour bietet Blicke auf Burhou und eine alte Wassermühle über 5,3 Kilometer in
+      fast zwei Stunden. Im Longis-Reservat beginnt ein vier Kilometer langer Rundweg am Parkplatz des
+      Römerlagers, der in anderthalb Stunden zu schaffen ist. Wer die ganze Insel umrunden will, folgt dem
+      markierten Küstenpfad über zehn Meilen in etwa fünf Stunden zügigen Gehens.
+    history: >-
+      Die Westküste wurde 2005 als Ramsar-Gebiet ausgewiesen, das erste in der Vogtei Guernsey und eines von
+      acht auf den Kanalinseln. Der Alderney Wildlife Trust betreut das Areal im Auftrag der Inselregierung;
+      seit 2005 erfassen Experten den Bruterfolg von zehn Seevogelarten.
+
+
+      Geschichtliche Zeugnisse prägen die Landschaft: ein römisches Kastell aus den späten 300er Jahren sowie
+      eisenzeitliche Gräber auf Longis Common. In den 1850er Jahren wurden zeitgleich mit dem gewaltigen
+      Wellenbrecher dreizehn viktorianische Forts errichtet, um den geplanten Kriegshafen zu schützen.
+    before: >-
+      Beliebte Sommeraktivitäten der Besucher sind Vogelbeobachtung, Klippenwanderungen und das Erkunden von
+      Gezeitentümpeln. Wenn du mit dem Boot nach Burhou fährst, halte während der Brutzeit Abstand in der
+      Puffin-Friendly-Zone.
+
+
+      Wenn du mithelfen möchtest, freuen sich das Alderney Bird Observatory und der Alderney Wildlife Trust
+      über erfahrene Vogelberinger.
+    around: >-
+      Alderney steht isoliert im Ärmelkanal, teilt seine Seevogelkolonien jedoch mit atlantischen Inseln:
+      [Mykines](/lugar/mykines/), [Noss](/lugar/noss-national-nature-reserve/), das [Naturreservat
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) und [Skellig Michael](/lugar/skellig-michael/)
+      beherbergen ebenfalls dichte Brutplätze von Basstölpeln und Papageitauchern.
+  it:
+    intro: >-
+      Alderney misura circa tre miglia di lunghezza per un miglio e mezzo di larghezza, eppure racchiude una
+      colonia di sule che concentra oltre l’uno per cento della popolazione mondiale, un isolotto dove
+      nidifica la pulcinella di mare e un intero litorale classificato come zona umida di rilevanza
+      internazionale. È la più settentrionale delle Isole del Canale abitate, la più vicina alla Francia e al
+      Regno Unito, separata da Cap de la Hague dalle temibili correnti dell’Alderney Race. Un’isola raccolta,
+      fatta di sentieri a picco sul mare, brughiere e due capanni d’avvistamento, con la natura a portata di
+      mano.
+    landscape: >-
+      Alderney divenne un’isola nel Neolitico in seguito alla risalita postglaciale delle acque della Manica.
+      Oggi è cinta da scogli responsabili di centinaia di naufragi storici e battuta da violente correnti di
+      marea, come lo Swinge tra l’isola madre e Burhou.
+
+
+      Gli alberi scarseggiano, tagliati nel XVII secolo per alimentare i fari di Alderney e dei Casquets; tra
+      le specie superstiti prosperano le cordiline australi, impropriamente chiamate «palme», favorite dal
+      microclima mite. La costa occidentale presenta un ambiente intertidale ad altissima energia, spaziando
+      da spiagge sabbiose e cordoni ciottolosi a piattaforme rocciose e pozze di marea. Le riserve locali
+      tutelano acquitrini costieri, prati salsi, paludi d’acqua dolce a Longis e la forra costiera di Vau du
+      Saou, che sale dalle scogliere verso antichi terrazzamenti agricoli.
+    wildlife: >-
+      I faraglioni di Ortac e Les Étacs accolgono oltre l’uno per cento della popolazione mondiale di
+      [sule](/especie/morus_bassanus/); la colonia di Les Étacs si osserva splendidamente dal belvedere di
+      Giffoine. Le [pulcinelle di mare](/especie/fratercula_arctica/) nidificano sull’isolotto di Burhou,
+      monitorate tramite webcam da marzo a luglio. Gli stessi fondali fungono da posatoio per le [foche
+      grigie](/especie/halichoerus_grypus/), con una colonia a nord di Burhou, e da rifugio per astici,
+      spigole e passere di mare.
+
+
+      Le pulcinelle che galleggiano sull’acqua si spaventano con facilità; involarsi disperde energie preziose
+      per l’allevamento dei pulcini. Per questa ragione, nel 2018, dopo aver registrato cali demografici a
+      Burhou, è stata istituita una Zona di Rispetto per le Pulcinelle: durante la riproduzione le
+      imbarcazioni devono ridurre la velocità e mantenersi a distanza.
+
+
+      Sull’isola il [gheppio](/especie/falco_tinnunculus/) e le poiane perlustrano le scogliere, mentre la
+      magnanina si muove tra i cespugli di ginestrone. Nei capanni di Longis e Mannez si avvistano tuffetti,
+      folaghe e germani reali, oltre a beccaccini in migrazione. Il sito Ramsar conta inoltre circa cento
+      specie di alghe marine.
+    visit: >-
+      Il punto di riferimento è la sede dell’Alderney Wildlife Trust in Victoria Street, per le segnalazioni
+      faunistiche e il prestito di binocoli. Le guide degli itinerari autoguidati sono disponibili presso il
+      centro visite.
+
+
+      Il percorso più breve, di circa tre quarti d’ora, costeggia le falesie meridionali fino al Wildlife
+      Bunker, centro espositivo su natura e manufatti bellici. Un altro sentiero tocca le scogliere
+      meridionali affacciate sulla colonia di Les Étacs, dura circa due ore e presenta salite ripide. Un terzo
+      tracciato offre vedute su Burhou e un vecchio mulino ad acqua, coprendo 5,3 chilometri in quasi due ore.
+      Nella riserva di Longis un anello di quattro chilometri prende avvio dal parcheggio del fortino romano,
+      richiedendo un’ora e mezza. Infine, il periplo costiero completo dell’isola copre dieci miglia in circa
+      cinque ore di cammino sostenuto.
+    history: >-
+      La costa occidentale è stata dichiarata sito Ramsar nel 2005, la prima designazione del Baliato di
+      Guernsey e una delle otto dell’arcipelago. L’Alderney Wildlife Trust ne cura la tutela per conto degli
+      Stati di Alderney; dal 2005 i naturalisti monitorano il successo riproduttivo di dieci specie di uccelli
+      marini.
+
+
+      L’isola conserva notevoli memorie del passato: un fortino romano eretto alla fine degli anni 300 e
+      reperti dell’età del ferro a Longis Common. Nel decennio 1850, contestualmente alla diga frangiflutti,
+      vennero innalzati tredici forti vittoriani a protezione del porto militare.
+    before: >-
+      Le consuete attività estive dei visitatori comprendono birdwatching, escursioni sulle scogliere ed
+      esplorazione delle pozze di marea. Se navighi in barca verso Burhou, rispetta rigorosamente la zona di
+      tutela delle pulcinelle durante la stagione riproduttiva.
+
+
+      Se desideri dare una mano, l’Alderney Bird Observatory e l’Alderney Wildlife Trust accolgono volontari
+      con esperienza nell’inanellamento.
+    around: >-
+      Alderney sorge isolata nella Manica, ma condivide la propria fauna marina con celebri arcipelaghi
+      atlantici: [Mykines](/lugar/mykines/), [Noss](/lugar/noss-national-nature-reserve/), la [Riserva
+      Naturale delle Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e [Skellig
+      Michael](/lugar/skellig-michael/) ospitano imponenti colonie di sule e pulcinelle di mare.
+  pt:
+    intro: >-
+      Alderney mede cerca de três milhas de comprimento por milha e meia de largura, e mesmo assim acolhe uma
+      colónia de gansos-patola que reúne mais de um por cento da população mundial, um ilhéu onde procria o
+      fradinho e toda uma linha costeira classificada como zona húmida de importância internacional. É a mais
+      setentrional das ilhas habitadas do Canal, a mais vizinha de França e do Reino Unido, separada do cabo
+      de La Hague pelas correntes agitadas do Alderney Race. Uma ilha pequena, de trilhos nas arribas,
+      charnecas marítimas e dois abrigos ornitológicos, com a vida bravia ao virar da esquina.
+    landscape: >-
+      Alderney tornou-se uma ilha no Neolítico devido à subida das águas no canal da Mancha. Hoje está cercada
+      por escolhos que causaram centenas de naufrágios históricos e por fortes correntes de maré como o
+      Swinge, entre a ilha e Burhou.
+
+
+      O arvoredo é escasso, tendo sido desmatado no século XVII para alimentar os faróis de Alderney e dos
+      Casquets; entre as espécies resistentes avultam as cordilines-austrais, confundidas com palmeiras,
+      favorecidas pelo clima temperado. A costa ocidental exibe um ecossistema entremarés de grande energia,
+      alternando praias arenosas, cordões de seixos, plataformas rochosas e arribas vivas. As reservas
+      naturais locais preservam lodaçais intertidais, prados costeiros, caniçais de água doce em Longis e o
+      vale suspenso de Vau du Saou, que sobe da orla marítima para campos agrícolas seculares.
+    wildlife: >-
+      Os ilhéus oceânicos de Ortac e Les Étacs albergam mais de um por cento da população mundial de
+      [gansos-patola](/especie/morus_bassanus/); a colónia de Les Étacs avista-se admiravelmente do miradouro
+      de Giffoine. Os [fradinhos](/especie/fratercula_arctica/) nidificam em Burhou, acompanhados por câmara
+      em direto entre março e julho. As mesmas enseadas servem de repouso a
+      [focas-cinzentas](/especie/halichoerus_grypus/), com colónia a norte de Burhou, e de viveiro a
+      lavagantes, robalos e solhas.
+
+
+      Os fradinhos assustam-se facilmente na água; levantar voo desnecessariamente consome energia preciosa
+      para a pesca e alimentação das crias. Por esse motivo, em 2018, após quebras populacionais em Burhou,
+      foi delimitada uma Zona de Proteção do Fradinho: na época de nidificação as embarcações devem moderar a
+      marcha e manter distância.
+
+
+      Na ilha, o [peneireiro-vulgar](/especie/falco_tinnunculus/) e a águia-d’asa-redonda vigiam as encostas,
+      enquanto a toutinegra-do-mato percorre os tojais. Nos abrigos de Longis e Mannez observam-se
+      mergulhões-pequenos, galeirões e patos-reais, a par de migradores. O sítio Ramsar contabiliza cerca de
+      cem espécies de algas marinhas.
+    visit: >-
+      Começa na delegação do Alderney Wildlife Trust, em Victoria Street, para recolher notas de avistamentos
+      e alugar binóculos. Os folhetos com percursos autoguiados levantam-se no centro de turismo.
+
+
+      O percurso mais curto, de cerca de três quartos de hora, percorre as arribas do sul até ao Wildlife
+      Bunker, centro interpretativo militar e ambiental, incluindo degraus íngremes. Outro trilho segue pelas
+      arribas do sul defronte da colónia de Les Étacs, demorando cerca de duas horas com subidas declivosas.
+      Uma terceira rota descortina vistas sobre Burhou e um moinho de água, somando 5,3 quilómetros em quase
+      duas horas. Na reserva de Longis, um trilho circular de quatro quilómetros parte do forte romano,
+      demorando hora e meia. Por fim, o percurso costeiro de dez milhas contorna toda a ilha em cerca de cinco
+      horas de marcha vigorosa.
+    history: >-
+      A orla ocidental foi classificada como sítio Ramsar em 2005, a primeira designação do Bailiado de
+      Guernsey e uma das oito nas Ilhas do Canal. O Alderney Wildlife Trust gere as reservas terrestres e
+      marinhas em articulação com as autoridades da ilha; desde 2005 os biólogos monitorizam o sucesso
+      reprodutor de dez espécies de aves marinhas.
+
+
+      A ilha preserva vestígios notáveis: um fortim romano erguido nos finais dos anos 300 e necrópoles da
+      Idade do Ferro em Longis Common. Na década de 1850, juntamente com o quebra-mar oceânico, foram
+      construídos treze fortes vitorianos para proteger o porto de abrigo.
+    before: >-
+      As atividades estivais mais comuns dos visitantes incluem observação de aves, caminhadas nas arribas e
+      exploração de poças de maré. Se viajares de barco para Burhou, respeita rigorosamente a zona amiga do
+      fradinho durante a época de nidificação.
+
+
+      Se quiseres colaborar, o Alderney Bird Observatory e o Alderney Wildlife Trust acolhem observadores com
+      experiência em anilhagem.
+    around: >-
+      Alderney ergue-se isolada no canal da Mancha, mas partilha a sua avifauna marinha com arquipélagos do
+      atlas: [Mykines](/lugar/mykines/), [Noss](/lugar/noss-national-nature-reserve/), a [Reserva Natural das
+      Sept-Îles](/lugar/reserve-naturelle-des-sept-iles/) e [Skellig Michael](/lugar/skellig-michael/) acolhem
+      colossais colónias de gansos-patola e fradinhos.
+fuentes:
+  - url: https://www.alderneywildlife.org/ramsar
+    titulo: Alderney's Internationally Important Wetland — Alderney Wildlife Trust
+    fecha_consulta: '2026-11-06'
+  - url: https://www.visitalderney.com/explore/activities/birdwatching/
+    titulo: Birdwatching — Visit Alderney
+    fecha_consulta: '2026-11-06'
+  - url: https://www.visitalderney.com/explore/walks-trails/
+    titulo: Walks & Trails — Visit Alderney
+    fecha_consulta: '2026-11-06'
+  - url: https://en.wikipedia.org/wiki/Alderney
+    titulo: Alderney - Wikipedia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.alderneywildlife.org/
+    titulo: Alderney Wildlife Trust
+    fecha_consulta: '2026-11-06'
+  - url: https://www.alderneywildlife.org/reserves
+    titulo: Nature Reserves and Sites - Alderney Wildlife Trust
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Alderney_-_nordwest_coast.jpg
+    autor: Andree Stephan
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-21'

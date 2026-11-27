@@ -1,0 +1,585 @@
+id: parque-natural-de-somiedo
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Somiedo
+  en: Somiedo Natural Park
+  fr: Parc naturel de Somiedo
+  de: Naturpark Somiedo
+  it: Parco naturale di Somiedo
+  pt: Parque Natural de Somiedo
+nombre_original: Parque Natural de Somiedo
+alias:
+  - Parque Natural de Somiedo
+paises:
+  - ES
+region:
+  es: Asturias (Pola de Somiedo / Valle de Lago / Saliencia)
+  en: Asturias (Pola de Somiedo / Valle de Lago / Saliencia)
+  fr: Asturies (Pola de Somiedo / Valle de Lago / Saliencia)
+  de: Asturien (Pola de Somiedo / Valle de Lago / Saliencia)
+  it: Asturie (Pola de Somiedo / Valle de Lago / Saliencia)
+  pt: Astúrias (Pola de Somiedo / Valle de Lago / Saliencia)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 43.08
+  lon: -6.25
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 151315
+  nombre_en_la_fuente: Somiedo
+  categoria_uicn: VI
+  capa: capas/cdda/parque-natural-de-somiedo.geojson
+habitats:
+  - high_mountain
+  - glacial
+  - mature_forest
+  - lake
+designaciones:
+  - natural_park
+  - biosphere_reserve
+  - natura2000
+  - iucn_v
+especies:
+  - ursus_arctos
+  - tetrao_urogallus
+  - canis_lupus
+  - rupicapra_pyrenaica
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre (observación de oso pardo en primavera y finales de verano)
+  en: May to October (brown bear viewing in spring and late summer)
+  fr: mai à octobre (observation de l'ours brun au printemps et en fin d'été)
+  de: Mai bis Oktober (Braunbärenbeobachtung im Frühjahr und Spätsommer)
+  it: da maggio a ottobre (avvistamento dell'orso bruno in primavera e a fine estate)
+  pt: maio a outubro (avistamento de urso-pardo na primavera e no fim do verão)
+masificacion: 2
+masificacion_nota:
+  es: Media en los Lagos de Saliencia y Valle de Lago en verano
+  en: Moderate at the Saliencia Lakes and Valle de Lago in summer
+  fr: Moyenne aux lacs de Saliencia et à Valle de Lago en été
+  de: Mäßig an den Saliencia-Seen und im Valle de Lago im Sommer
+  it: Media ai laghi di Saliencia e a Valle de Lago in estate
+  pt: Média nos lagos de Saliencia e em Valle de Lago no verão
+valoracion: 4
+dias_visita:
+  min: 2
+  max: 4
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Parque Natural de Somiedo Oficial
+    url: https://www.somiedo.es/
+  - titulo: Rutas y observatorios — Ayuntamiento de Somiedo
+    url: https://www.somiedo.es/que-hacer
+  - titulo: Centro de visitantes — Recepción e interpretación de Somiedo
+    url: https://www.turismoasturias.es/descubre/cultura/museos-y-espacios-culturales/otros-espacios/centro-de-recepcion-e-interpretacion-del-parque-natural-de-somiedo
+resumen:
+  es: >-
+    El santuario emblemático del oso pardo cantábrico, con valles glaciares profundos, los lagos de Saliencia
+    y las tradicionales cabañas de *teito*.
+  en: >-
+    The iconic sanctuary of the Cantabrian brown bear, with deep glacial troughs, the lakes of Saliencia, and
+    traditional thatched *teito* cabins.
+  fr: >-
+    Le sanctuaire emblématique de l'ours brun cantabrique, avec ses vallées glaciaires profondes, les lacs de
+    Saliencia et les cabanes traditionnelles à toit de chaume (*teitos*).
+  de: >-
+    Das legendäre Refugium des kantabrischen Braunbären mit tiefen Trogtälern, den Saliencia-Seen und
+    traditionellen strohgedeckten *Teito*-Almhütten.
+  it: >-
+    Il celebre santuario dell'orso bruno cantabrico, con profonde valli glaciali, i laghi di Saliencia e le
+    caratteristiche baite con tetto di paglia (*teitos*).
+  pt: >-
+    O santuário emblemático do urso-pardo cantábrico, com vales glaciares profundos, os lagos de Saliencia e
+    as tradicionais cabanas de colmo (*teitos*).
+unico:
+  es: >-
+    Una montaña con lagos de origen glaciar, hayedos casi intactos y brañas con teitos donde la vida pastoril
+    sigue en el paisaje.
+  en: >-
+    An alpine mountain realm of glacial tarns, intact old-growth beechwoods, and historic braña summer
+    pastures where traditional pastoral life endures across the landscape.
+  fr: >-
+    Une montagne parsemée de lacs d'origine glaciaire, de hêtraies quasi intactes et d'estives à teitos où le
+    pastoralisme séculaire modèle encore le paysage.
+  de: >-
+    Ein Bergland mit eiszeitlichen Seen, urtümlichen Buchenwäldern und historischen Hochalmen (brañas) mit
+    reetgedeckten Teitos, wo bäuerliche Hirtenkultur lebendig fortbesteht.
+  it: >-
+    Un territorio montano con laghi glaciali, faggete intatte e alpeggi con teitos dove la tradizione
+    pastorale modella tuttora il paesaggio.
+  pt: >-
+    Uma montanha com lagos de origem glaciar, faiais primitivos e brañas pontuadas por teitos onde a vida
+    pastoril tradicional modela a paisagem.
+observaciones:
+  es: >-
+    Si encuentras mastines guardando el ganado, no te acerques, no los acaricies ni les des de comer: están
+    trabajando. En el hayedo de La Enramada, camina en silencio.
+texto:
+  es:
+    intro: >-
+      En Somiedo, el municipio entero es parque. Así de simple y así de raro: el Parque Natural de Somiedo, en
+      la cordillera Cantábrica, en Asturias, ocupa 29 122 hectáreas y coincide con el municipio de Somiedo,
+      que queda completamente incluido en él. Es parque natural desde 1988 y la UNESCO lo declaró Reserva de
+      la Biosfera en el año 2000. Aquí la montaña marca el paso de lo silíceo del occidente a lo calizo del
+      oriente de la cordillera, y los valles principales —Somiedo, Valle de Lago, Saliencia y Pigüeña— los
+      recorren sus propios ríos.
+    landscape: >-
+      El hielo dejó su firma en las alturas. El modelado glaciar formó lagos, lagunas y turberas, y en ellas
+      viven plantas alpinas o boreales; en las turberas crecen el rocío de sol de hoja larga, la lentibularia
+      menor y la potentilla arbustiva. Los Lagos de Saliencia son el ejemplo más claro: cuatro lagos glaciares
+      en un paisaje de alta montaña, y el mayor, el Calabazosa o Lago Negro, alcanza 60 metros de profundidad.
+
+
+      Más abajo, los bosques ocupan casi la cuarta parte del parque. Abundan los hayedos, con zonas de gran
+      importancia en Saliencia y Valle, y entre ellos hay robles, fresnos, arces y tilos. El quejigo, especie
+      mediterránea, solo existe en Somiedo y en el Cares dentro de Asturias. Los hayedos combinan hayas en
+      laderas sombrías y robles en las soleadas. Entre las flores de los prados de montaña destaca el narciso
+      de trompeta, y entre las plantas, la centaura de Somiedo, un endemismo.
+    wildlife: >-
+      El parque es refugio de fauna. Hay [oso pardo](/especie/ursus_arctos/), [lobo](/especie/canis_lupus/),
+      jabalí, [rebeco](/especie/rupicapra_pyrenaica/), [corzo](/especie/capreolus_capreolus/), liebre de
+      piornal, [desmán ibérico](/especie/galemys_pyrenaicus/), [nutria](/especie/lutra_lutra/), marta,
+      [jineta](/especie/genetta_genetta/), [gato montés](/especie/felis_silvestris/), garduña y tejón. Entre
+      las aves, unas 120 especies, con el [urogallo cantábrico](/especie/tetrao_urogallus/), el [águila
+      real](/especie/aquila_chrysaetos/), el [alimoche](/especie/neophron_percnopterus/), el azor y el [halcón
+      peregrino](/especie/falco_peregrinus/); entre los pájaros carpinteros, el pito negro y el pico mediano.
+
+
+      La estación clave es el inicio del otoño, cuando se oye la berrea del venado. Y si bajas por el hayedo
+      de La Enramada, sobre todo de madrugada o al anochecer, pueden verse corzos y rebecos.
+    visit: >-
+      Empieza por la Pola de Somiedo. El Centro de Recepción e Interpretación tiene una exposición audiovisual
+      con elementos interactivos sobre relieve, geología, vegetación, fauna y patrimonio etnográfico, y allí
+      te informan de las rutas, la normativa y otras exposiciones, como el Museo Etnográfico y las Casas-Museo
+      de Veigas. El Ecomuseo tiene dos sedes: en la Pola, los oficios tradicionales; en Veigas, la casa
+      tradicional somedana. La Fundación Oso Pardo tiene también un centro de información en la Pola.
+
+
+      Hay doce rutas bien señalizadas por las brañas, los lagos y las montañas, a pie, en bici de montaña o a
+      caballo. Tres de ellas bastan para entender el parque. La de los Lagos de Saliencia es circular, de 7,6
+      km y dificultad moderada, y sale del Alto de la Farrapona, a 1.708 metros, el límite entre Somiedo y
+      Babia, para pasar por los lagos de la Cueva, Almagrera, Cerveriz y Calabazosa. La de la braña de Mumián
+      (PR-AS 11) mide 12,2 km, es de dificultad moderada y sube entre teitos hasta el hayedo de La Enramada,
+      uno de los mejor conservados del parque, de uso restringido. Y la del lago del Valle, de 14,6 km, sube
+      entre prados y teitos hasta el mayor lago glaciar de la región. Si quieres una vista fácil, el Mirador
+      del Príncipe, en La Peral, enseña el Cornón y la braña de Mumián.
+    history: >-
+      Los teitos son cabañas con cubierta vegetal para personas y ganado que se remontan a la época medieval.
+      En la braña de Mumián, la fuente el Caño conserva olleras, estructuras donde el agua corriente mantenía
+      fresca la leche. Los vaqueiros de alzada, nómadas y de sociedad cerrada, guardan una cultura mitológica
+      y folclórica especial.
+
+
+      El hayedo de La Enramada es zona de uso restringido, y los mastines que guardan el ganado forman parte
+      del paisaje.
+    before: >-
+      Si encuentras mastines guardando el ganado, no te acerques, no los acaricies ni les des de comer: están
+      trabajando. En el hayedo de La Enramada, camina en silencio.
+    around: >-
+      La reserva de [Fuentes del Narcea, Degaña e Ibias y
+      Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/) está a solo un kilómetro. Más lejos,
+      el [Parque Nacional de los Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) comparte
+      rebeco, lobo y oso pardo; el [Parco Nazionale della Majella](/lugar/parco-nazionale-della-majella/) y el
+      [Parco Nazionale d'Abruzzo, Lazio e Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) coinciden en
+      rebeco, lobo y oso pardo, y el [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) en el rebeco y el urogallo.
+  en:
+    intro: >-
+      In Somiedo, the entire municipality is parkland. It is as simple and as unusual as that: Somiedo Natural
+      Park, located in the Cantabrian Mountains of Asturias, covers 29,122 hectares and exactly coincides with
+      the municipality of Somiedo, which lies entirely within its boundaries. It has been a natural park since
+      1988, and UNESCO declared it a Biosphere Reserve in the year 2000. Here the mountains mark the
+      geological transition from western siliceous rocks to eastern limestones, with four primary
+      valleys—Somiedo, Valle de Lago, Saliencia, and Pigüeña—drained by their own rivers.
+    landscape: >-
+      Glacial ice left its indelible mark upon the heights. Glacial action sculpted lakes, tarns, and peat
+      bogs, sheltering arctic-alpine and boreal plants; within the bogs thrive English sundew, lesser
+      bladderwort, and shrubby cinquefoil. The Saliencia Lakes provide the clearest example: four glacial
+      tarns set in high alpine terrain, with the largest, Lake Calabazosa (Lago Negro), plunging to 60 metres
+      in depth.
+
+
+      Lower down, forests cover nearly a quarter of the park. Beechwoods flourish across vast tracts in
+      Saliencia and Valle de Lago, interspersed with oaks, ashes, maples, and lindens. The Portuguese oak, a
+      Mediterranean species, occurs within Asturias only in Somiedo and the Cares gorge. The woodlands balance
+      beech on shaded northern slopes with oaks across sunny exposures. Alpine meadows showcase the trumpet
+      narcissus, alongside the Somiedo knapweed, a rare endemic.
+    wildlife: >-
+      The park is a renowned wildlife haven. It shelters the [brown bear](/especie/ursus_arctos/), [grey
+      wolf](/especie/canis_lupus/), wild boar, Cantabrian [Pyrenean chamois](/especie/rupicapra_pyrenaica/),
+      [roe deer](/especie/capreolus_capreolus/), broom hare, [Pyrenean desman](/especie/galemys_pyrenaicus/),
+      [Eurasian otter](/especie/lutra_lutra/), pine marten, [common genet](/especie/genetta_genetta/),
+      [European wildcat](/especie/felis_silvestris/), stone marten, and badger. Birds number roughly 120
+      species, led by the Cantabrian [western capercaillie](/especie/tetrao_urogallus/), [golden
+      eagle](/especie/aquila_chrysaetos/), [Egyptian vulture](/especie/neophron_percnopterus/), northern
+      goshawk, and [peregrine falcon](/especie/falco_peregrinus/); woodpeckers include the black woodpecker
+      and middle spotted woodpecker.
+
+
+      Early autumn marks a key season, when the red deer rut echoes across the valleys. If you walk down
+      through the beechwood of La Enramada, particularly at dawn or dusk, roe deer and chamois are frequently
+      observed.
+    visit: >-
+      Begin in Pola de Somiedo. The Reception and Interpretation Centre offers an interactive audiovisual
+      exhibition covering geology, flora, fauna, and local ethnography, alongside details on walking
+      itineraries, park bylaws, and local museums like the Ethnographic Museum and traditional homesteads in
+      Veigas. The Somiedo Ecomuseum operates two branches: rural trades in Pola, and traditional thatch-roofed
+      dwellings in Veigas. The Brown Bear Foundation (Fundación Oso Pardo) also maintains an information desk
+      in Pola.
+
+
+      Twelve well-marked trails cross high summer pastures, lakes, and mountain crests on foot, horseback, or
+      mountain bike. Three routes capture the essence of the park. The Saliencia Lakes trail is a moderate 7.6
+      km loop departing from the Alto de la Farrapona pass at 1,708 metres—the boundary between Somiedo and
+      Babia—passing Lakes Cueva, Almagrera, Cerveriz, and Calabazosa. The Braña de Mumián trail (PR-AS 11)
+      measures 12.2 km of moderate walking, climbing among thatched cabins to the strictly protected La
+      Enramada beechwood. The Lago del Valle route spans 14.6 km among meadows and cabins to Asturias's
+      largest glacial lake. For an effortless panoramic view, the Mirador del Príncipe in La Peral overlooks
+      El Cornón peak and Mumián pasture.
+    history: >-
+      Teitos are traditional stone cabins roofed with broom thatch that sheltered herders and cattle, dating
+      back to medieval times. At Braña de Mumián, the Fuente el Caño fountain preserves historic olleras,
+      stone basins where flowing mountain water chilled fresh milk vessels. The vaqueiros de alzada, a
+      historic transhumant pastoral community, maintain distinct folklore and oral traditions.
+
+
+      The beechwood of La Enramada is a restricted-use reserve, and Spanish mastiffs guarding free-ranging
+      cattle form an integral part of the living landscape.
+    before: >-
+      If you encounter mastiffs guarding livestock, do not approach, pet, or feed them: they are actively
+      working guardian dogs. In the La Enramada beechwood, walk quietly.
+    around: >-
+      [Fuentes del Narcea, Degaña e Ibias y Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/)
+      lies just one kilometre away. Further afield, [Parque Nacional de los Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) shares the chamois, wolf, and brown bear; [Parco
+      Nazionale della Majella](/lugar/parco-nazionale-della-majella/) and [Parco Nazionale d'Abruzzo, Lazio e
+      Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) also harbor chamois, wolves, and brown bears, while
+      [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) shares the chamois and
+      capercaillie.
+  fr:
+    intro: >-
+      À Somiedo, la commune tout entière forme le parc naturel. Fait aussi remarquable que singulier : le parc
+      naturel de Somiedo, dans la cordillère Cantabrique en Asturies, couvre 29 122 hectares et coïncide
+      rigoureusement avec les limites du canton de Somiedo. Déclaré parc naturel en 1988, il a été distingué
+      comme réserve de biosphère par l'UNESCO en l'an 2000. Le massif marque la transition entre les schistes
+      siliceux de l'ouest et les calcaires de l'est cantabrique, drainé par quatre vallées maîtresses :
+      Somiedo, Valle de Lago, Saliencia et Pigüeña.
+    landscape: >-
+      Les glaces ont apposé leur empreinte sur les crêtes. Le modelé glaciaire a sculpté cirques, lagunes et
+      tourbières abritant une flore alpine et boréale ; dans les tourbières prospèrent le rossolis à feuilles
+      longues, la petite utriculaire et la potentille buissonnante. Les lacs de Saliencia en offrent la plus
+      belle illustration : quatre lacs glaciaires au sein d'un cirque d'altitude, dont le plus grand, le lac
+      Calabazosa (Lago Negro), plonge à 60 mètres de profondeur.
+
+
+      En contrebas, la forêt occupe près d'un quart du territoire. Les hêtraies dominent largement dans les
+      vallées de Saliencia et de Valle de Lago, associées aux chênes, frênes, érables et tilleuls. Le chêne
+      faginé, essence subméditerranéenne, n'existe en Asturies qu'à Somiedo et dans les gorges du Cares. Les
+      versants exposent des hêtraies d'ombre et des chênaies sur les adrets. Les prairies alpines s'égaient du
+      narcisse trompette et de la centaurée de Somiedo, plante endémique du parc.
+    wildlife: >-
+      Le parc est un sanctuaire faunistique d'exception. Il abrite l'[ours brun](/especie/ursus_arctos/), le
+      [loup](/especie/canis_lupus/), le sanglier, l'[isard](/especie/rupicapra_pyrenaica/) cantabrique, le
+      [chevreuil](/especie/capreolus_capreolus/), le lièvre ibérique, le [desman des
+      Pyrénées](/especie/galemys_pyrenaicus/), la [loutre d'Europe](/especie/lutra_lutra/), la martre, la
+      [genette commune](/especie/genetta_genetta/), le [chat sauvage](/especie/felis_silvestris/), la fouine
+      et le blaireau. Les oiseaux rassemblent environ 120 espèces, dont le [grand
+      tétras](/especie/tetrao_urogallus/) cantabrique, l'[aigle royal](/especie/aquila_chrysaetos/), le
+      [percnoptère](/especie/neophron_percnopterus/), l'autour des palombes et le [faucon
+      pèlerin](/especie/falco_peregrinus/) ; chez les pics, le pic noir et le pic mar.
+
+
+      Le début de l'automne constitue une période privilégiée avec le brame du cerf. Dans la hêtraie de La
+      Enramada, à l'aube ou au crépuscule, les observations de chevreuils et d'isards sont fréquentes.
+    visit: >-
+      Commencez à Pola de Somiedo. Le centre d'accueil et d'interprétation propose une exposition
+      audiovisuelle interactive sur la géologie, la faune, la flore et le patrimoine des brañas, informant sur
+      les sentiers et les écomusées. L'écomusée compte deux sites : les métiers ruraux à Pola et la maison
+      somedanaise traditionnelle à Veigas. La Fondation Ours Brun dispose également d'un bureau d'accueil à
+      Pola.
+
+
+      Douze itinéraires balisés parcourent les estives, les lacs et les crêtes, praticables à pied, à VTT ou à
+      cheval. Trois circuits permettent d'appréhender le parc. Le tour des lacs de Saliencia est une boucle de
+      7,6 km de difficulté moyenne partant du col de la Farrapona à 1 708 mètres, frontière avec la région de
+      Babia, longeant les lacs de la Cueva, Almagrera, Cerveriz et Calabazosa. Le sentier de la braña de
+      Mumián (PR-AS 11) mesure 12,2 km et grimpe parmi les teitos jusqu'à la hêtraie préservée de La Enramada.
+      La randonnée du Lago del Valle fait 14,6 km jusqu'au plus vaste lac glaciaire des Asturies. Le belvédère
+      du Príncipe à La Peral dévoile le pic du Cornón et les pâturages de Mumián.
+    history: >-
+      Les teitos sont des cabanes pastorales en pierre sèche couvertes de toits végétaux de genêt, remontant
+      au Moyen Âge. À la braña de Mumián, la fontaine el Caño conserve des olleras, structures où l'eau
+      fraîche des sources préservait les pots de lait. Les vaqueiros de alzada, pasteurs transhumants
+      traditionnels, possèdent une riche culture orale.
+
+
+      La hêtraie de La Enramada est classée en zone de protection intégrale, et les grands chiens de
+      protection (mastins) gardant les troupeaux font partie intégrante du paysage.
+    before: >-
+      Si vous rencontrez des chiens de protection près des troupeaux, ne les approchez pas, ne les caressez
+      pas et ne les nourrissez pas : ils travaillent à la garde du bétail. Dans la forêt de La Enramada,
+      cheminez silencieusement.
+    around: >-
+      La réserve de [Fuentes del Narcea, Degaña e Ibias y
+      Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/) n'est qu'à un kilomètre. Plus loin, le
+      [Parque Nacional de los Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) partage
+      l'isard, le loup et l'ours brun ; le [Parco Nazionale della
+      Majella](/lugar/parco-nazionale-della-majella/) et le [Parco Nazionale d'Abruzzo, Lazio e
+      Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) accueillent également l'isard, le loup et l'ours,
+      tandis que le [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) partage l'isard et le grand
+      tétras.
+  de:
+    intro: >-
+      In Somiedo ist die gesamte Gemeinde ein Naturpark. So einfach und so außergewöhnlich: Der Naturpark
+      Somiedo im Kantabrischen Gebirge in Asturien umfasst 29 122 Hektar und deckt sich exakt mit dem
+      Gemeindegebiet von Somiedo. Er wurde 1988 als Naturpark gegründet und im Jahr 2000 von der UNESCO zum
+      Biosphärenreservat erklärt. Die Bergwelt markiert den Übergang von den westlichen Silikatgesteinen zu
+      den östlichen Kalksteinmassiven, gegliedert durch vier Haupttäler: Somiedo, Valle de Lago, Saliencia und
+      Pigüeña.
+    landscape: >-
+      Das Eis prägte die Höhenzüge. Glaziale Erosion hinterließ Seen, Karseen und Hochmoore mit
+      arktisch-alpinen und borealen Pflanzengesellschaften; in den Mooren wachsen Langblättriger Sonnentau,
+      Kleiner Wasserschlauch und Fingerstrauch. Die Seen von Saliencia sind das Paradebeispiel: vier Karseen
+      in alpinem Hochland, unter denen der Lago Calabazosa (Lago Negro) eine Tiefe von 60 Metern erreicht.
+
+
+      Weiter unten nehmen Bergwälder fast ein Viertel der Parkfläche ein. Ausgedehnte Buchenwälder dominieren
+      in Saliencia und Valle de Lago, durchsetzt von Eichen, Eschen, Ahornen und Linden. Die Portugiesische
+      Eiche, eine wärmeliebende Baumart, kommt in Asturien nur in Somiedo und in der Cares-Schlucht vor. Die
+      Nordhänge tragen Schattenbuchenwälder, während sonnige Hänge von Eichen bestanden sind. Auf den Matten
+      blühen Trompetennarzissen und die endemische Somiedo-Flockenblume.
+    wildlife: >-
+      Der Park ist ein herausragendes Faunenschutzgebiet. Hier leben [Braunbär](/especie/ursus_arctos/),
+      [Wolf](/especie/canis_lupus/), Wildschwein, Kantabrische
+      [Pyrenäen-Gämse](/especie/rupicapra_pyrenaica/), [Reh](/especie/capreolus_capreolus/), Ginsterhase,
+      [Pyrenäen-Desman](/especie/galemys_pyrenaicus/), [Fischotter](/especie/lutra_lutra/), Baummarder,
+      [Kleinfleck-Ginsterkatze](/especie/genetta_genetta/), [Wildkatze](/especie/felis_silvestris/),
+      Steinmarder und Dachs. Unter den rund 120 Vogelarten ragen Kantabrisches
+      [Auerhuhn](/especie/tetrao_urogallus/), [Steinadler](/especie/aquila_chrysaetos/),
+      [Schmutzgeier](/especie/neophron_percnopterus/), Habicht und [Wanderfalke](/especie/falco_peregrinus/)
+      heraus; Spechte sind durch Schwarzspecht und Mittelspecht vertreten.
+
+
+      Der Frühherbst ist die eindrucksvollste Zeit, wenn das Röhren der Hirsche erschallt. Wer im Buchenwald
+      von La Enramada in der Morgen- oder Abenddämmerung wandert, begegnet häufig Rehen und Gämsen.
+    visit: >-
+      Beginne in Pola de Somiedo. Das Besucher- und Informationszentrum bietet eine interaktive Ausstellung zu
+      Geologie, Flora, Fauna und Kulturgeschichte und gibt Auskunft über Wanderwege und Schutzbestimmungen.
+      Das Ecomuseum besitzt zwei Standorte: traditionelle Handwerke in Pola und ein historisches Bauernhaus in
+      Veigas. Die Braunbären-Stiftung (Fundación Oso Pardo) unterhält ebenfalls eine Informationsstelle in
+      Pola.
+
+
+      Zwölf markierte Wanderwege erschließen Almen, Seen und Kämme zu Fuß, per Mountainbike oder zu Pferd.
+      Drei Routen vermitteln den Charakter des Parks: Der Rundweg um die Saliencia-Seen überwindet 7,6 km
+      mittlerer Schwierigkeit ab dem Farrapona-Pass auf 1.708 Metern und passiert Cueva, Almagrera, Cerveriz
+      und Calabazosa. Der Pfad zur Braña de Mumián (PR-AS 11) misst 12,2 km und führt zwischen Teitos zum
+      Buchenwald La Enramada. Die Route zum Lago del Valle führt über 14,6 km zum größten Gletschersee
+      Asturiens. Vom Aussichtspunkt Mirador del Príncipe in La Peral überblickt man den Cornón-Gipfel und die
+      Hochebene von Mumián.
+    history: >-
+      Die Teitos sind strohgedeckte Steinhütten für Hirten und Vieh, deren Bauweise bis ins Mittelalter
+      zurückreicht. An der Quelle El Caño in Mumián zeugen historische Steintrennbecken (olleras) davon, wie
+      fließendes Quellwasser einst Milchkannen kühlte. Die Vaqueiros de alzada, eine traditionsreiche Gruppe
+      von Wanderviehzüchtern, pflegen eigenes Brauchtum.
+
+
+      Der Buchenwald La Enramada ist als Schutzgebiet mit eingeschränkter Nutzung ausgewiesen, und die
+      Herdenschutz-Mastins gehören zum festen Erscheinungsbild der Bergweiden.
+    before: >-
+      Triffst du auf Herdenschutzhunde, nähere dich ihnen nicht, streichle sie nicht und füttere sie
+      keinesfalls: Sie versehen ihren Wachdienst. Im Waldgebiet La Enramada verhalte dich leise.
+    around: >-
+      Das Schutzgebiet [Fuentes del Narcea, Degaña e Ibias y
+      Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/) liegt nur einen Kilometer entfernt.
+      Weiter entfernt teilt der [Parque Nacional de los Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) Gämse, Wolf und Braunbär; der [Parco Nazionale
+      della Majella](/lugar/parco-nazionale-della-majella/) und der [Parco Nazionale d'Abruzzo, Lazio e
+      Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) beherbergen ebenfalls Gämse, Wolf und Bär, während
+      der [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) Gämse und Auerhuhn teilt.
+  it:
+    intro: >-
+      A Somiedo l'intero territorio comunale è parco naturale. Una realtà semplice e insolita: il Parco
+      Naturale di Somiedo, nella Cordigliera Cantabrica in terra d'Asturie, copre 29 122 ettari e ricalca
+      perfettamente i confini del comune di Somiedo. È parco naturale dal 1988 e l'UNESCO lo ha dichiarato
+      Riserva della Biosfera nell'anno 2000. Il massiccio segna il passaggio litologico tra i rilievi silicei
+      occidentali e i calcari orientali, solcato da quattro valli maestre: Somiedo, Valle de Lago, Saliencia e
+      Pigüeña.
+    landscape: >-
+      I ghiacci hanno inciso profondamente i rilievi. L'erosione glaciale ha modellato bacini, laghi e
+      torbiere d'alta quota che ospitano relitti floristici alpini e boreali; nelle torbiere vegetano drosera
+      a foglie lunghe, erba vescica minore e cinquefoglie cespugliosa. I laghi di Saliencia ne offrono
+      l'esempio più limpido: quattro bacini glaciali incastonati tra le creste, dei quali il più vasto, il
+      lago Calabazosa (Lago Negro), tocca i 60 metri di profondità.
+
+
+      Più a valle, i boschi ammantano quasi un quarto del territorio. Estese faggete dominano le valli di
+      Saliencia e Valle de Lago, frammiste a roveri, frassini, aceri e tigli. La quercia faginé, essenza
+      mediterranea, è presente in Asturie solo a Somiedo e nella gola del Cares. I boschi alternano faggete
+      ombrose sui versanti a nord e querceti sugli adrets soleggiati. Nei prati alpini spiccano il narciso a
+      tromba e il fiordaliso di Somiedo, endemismo esclusivo.
+    wildlife: >-
+      Il parco è un autentico santuario faunistico. Accoglie l'[orso bruno](/especie/ursus_arctos/), il [lupo
+      grigio](/especie/canis_lupus/), il cinghiale, il [camoscio dei Pirenei](/especie/rupicapra_pyrenaica/)
+      cantabrico, il [capriolo](/especie/capreolus_capreolus/), la lepre di brughiera, il [desman
+      pirenaico](/especie/galemys_pyrenaicus/), la [lontra europea](/especie/lutra_lutra/), la martora, la
+      [genetta](/especie/genetta_genetta/), il [gatto selvatico](/especie/felis_silvestris/), la faina e il
+      tasso. L'avifauna raccoglie circa 120 specie, guidate dal [gallo cedrone](/especie/tetrao_urogallus/)
+      cantabrico, dall'[aquila reale](/especie/aquila_chrysaetos/), dal
+      [capovaccaio](/especie/neophron_percnopterus/), dall'astore e dal [falco
+      pellegrino](/especie/falco_peregrinus/) ; tra i picchi, il picchio nero e il picchio rosso mezzano.
+
+
+      L'inizio dell'autunno regala il bramito dei cervi. Se percorri la faggeta di La Enramada all'alba o al
+      tramonto, gli avvistamenti di caprioli e camosci sono frequenti.
+    visit: >-
+      Inizia da Pola de Somiedo. Il Centro di Ricezione e Interpretazione offre una mostra multimediale su
+      geologia, flora, fauna e pastorizia tradizionale, orientando sui sentieri e sui poli museali locali come
+      il Museo Etnografico e le case tradizionali di Veigas. L'Ecomuseo ha due sedi: a Pola i mestieri
+      artigianali, a Veigas l'architettura contadina somedana. Anche la Fondazione Orso Bruno gestisce un
+      punto informativo a Pola.
+
+
+      Dodici percorsi guidati attraversano pascoli, laghetti e dorsali, a piedi, in mountain bike o a cavallo.
+      Tre itinerari permettono di cogliere il cuore del parco. Quello dei laghi di Saliencia è un anello di
+      7,6 km di livello medio con partenza dal valico della Farrapona a 1.708 metri, confine con la comarca di
+      Babia, toccando i laghi de la Cueva, Almagrera, Cerveriz e Calabazosa. Il sentiero della braña di Mumián
+      (PR-AS 11) misura 12,2 km e risale tra i teitos fino alla riserva della faggeta di La Enramada. La
+      camminata del lago del Valle misura 14,6 km fino al bacino glaciale più ampio delle Asturie. Il
+      belvedere del Príncipe a La Peral regala ampie visuali sul picco del Cornón e sui pascoli di Mumián.
+    history: >-
+      I teitos sono baite in muratura a secco con coperture in ginestra destinate a pastori e bestiame,
+      risalenti all'epoca medievale. Alla braña di Mumián la fonte el Caño conserva le olleras, vasche in
+      pietra dove l'acqua corrente refrigerava i secchi di latte. I vaqueiros de alzada, pastori transumanti
+      tradizionali, custodiscono una preziosa cultura folclorica.
+
+
+      La faggeta di La Enramada è zona a riserva parziale, e i cani mastini posti a guardia delle mandrie sono
+      parte integrante del paesaggio rurale.
+    before: >-
+      Se incontri cani da pastore a guardia del bestiame, non avvicinarti, non accarezzarli e non offrire loro
+      cibo: stanno sorvegliando le greggi. Nella faggeta di La Enramada procedi in silenzio.
+    around: >-
+      La riserva di [Fuentes del Narcea, Degaña e Ibias y
+      Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/) dista solo un chilometro. Più lontano,
+      il [Parque Nacional de los Picos de Europa](/lugar/parque-nacional-de-los-picos-de-europa/) condivide
+      camoscio, lupo e orso bruno; il [Parco Nazionale della Majella](/lugar/parco-nazionale-della-majella/) e
+      il [Parco Nazionale d'Abruzzo, Lazio e Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) ospitano
+      anch'essi camoscio, lupo e orso, mentre il [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) condivide camoscio e gallo
+      cedrone.
+  pt:
+    intro: >-
+      Em Somiedo, o município inteiro é parque natural. Algo tão evidente quanto invulgar: o Parque Natural de
+      Somiedo, na Cordilheira Cantábrica asturiana, abrange 29 122 hectares e coincide rigorosamente com os
+      limites do concelho de Somiedo. É parque natural desde 1988 e a UNESCO declarou-o Reserva da Biosfera no
+      ano 2000. O relevo marca a transição entre as rochas siliciosas ocidentais e os calcários orientais,
+      sulcado por quatro vales nucleares: Somiedo, Valle de Lago, Saliencia e Pigüeña.
+    landscape: >-
+      O gelo gravou a sua marca nos cumes. O modelado glaciar gerou lagoas, lagos e turfeiras com flora alpina
+      e boreale; nas turfeiras prosperam a drósera-de-folha-longa, a utriculária-menor e o
+      cinzento-das-rochas. Os lagos de Saliencia são o expoente máximo: quatro lagos glaciares em relevo
+      alpino, dos quais o maior, o lago Calabazosa (Lago Negro), atinge 60 metros de profundidade.
+
+
+      Mais abaixo, as matas cobrem quase um quarto da superfície do parque. Proliferam os faiais nas bacias de
+      Saliencia e Valle de Lago, acompanhados por carvalhos, freixos, bordos e tílias. O carvalho-cerquinho,
+      espécie de pendor mediterrânico, só medra nas Astúrias em Somiedo e no desfiladeiro do Cares. As
+      encostas combinam faiais nas vertentes umbrosas e carvalhais nos pendores ensolarados. Nas pastagens
+      floresce o narciso-trombeta e a centáurea de Somiedo, endemismo local.
+    wildlife: >-
+      O parque é um autêntico santuário de fauna cantábrica. Abriga o [urso-pardo](/especie/ursus_arctos/), o
+      [lobo-cinzento](/especie/canis_lupus/), o javali, a
+      [camurça-dos-pirinéus](/especie/rupicapra_pyrenaica/) cantábrica, a
+      [corça](/especie/capreolus_capreolus/), a lebre-ibérica, a
+      [toupeira-da-água](/especie/galemys_pyrenaicus/), a [lontra-europeia](/especie/lutra_lutra/), a marta, a
+      [gineta](/especie/genetta_genetta/), o [gato-bravo](/especie/felis_silvestris/), a fuinha e o texugo. As
+      aves somam cerca de 120 espécies, capitaneadas pelo [tetraz-grande](/especie/tetrao_urogallus/)
+      cantábrico, pela [águia-real](/especie/aquila_chrysaetos/), pelo
+      [abutre-do-egito](/especie/neophron_percnopterus/), pelo açor e pelo
+      [falcão-peregrino](/especie/falco_peregrinus/); entre os pica-paus contam-se o pica-pau-preto e o
+      pica-pau-médio.
+
+
+      O início do outono coincide com a brama dos veados. Ao desceres pelo faial de La Enramada, ao amanhecer
+      ou ao entardecer, avistam-se corças e camurças com regularidade.
+    visit: >-
+      Começa em Pola de Somiedo. O Centro de Acolhimento e Interpretação exibe recursos multimédia sobre
+      geologia, botânica, fauna e vida nas brañas, prestando orientações sobre trilhos, normas e museus
+      locais, como o Museu Etnográfico e as casas tradicionais de Veigas. O Ecomuseu possui dois núcleos:
+      ofícios em Pola e habitação tradicional em Veigas. A Fundação Urso Pardo conta também com uma delegação
+      informativa em Pola.
+
+
+      Doze percursos sinalizados cruzam prados de montanha, lagoas e cristas a pé, a cavalo ou de bicicleta.
+      Três rotas sintetizam o parque: a dos lagos de Saliencia é um anel de 7,6 km e nível moderado a partir
+      do porto da Farrapona a 1.708 metros, limite entre Somiedo e Babia, contornando os lagos da Cueva,
+      Almagrera, Cerveriz e Calabazosa. O trilho da braña de Mumián (PR-AS 11) tem 12,2 km e sobe entre teitos
+      até ao faial protegido de La Enramada. O percurso do Lago del Valle soma 14,6 km até ao maior lago
+      glaciar das Astúrias. O miradouro do Príncipe em La Peral descortina o Cornón e os pastos de Mumián.
+    history: >-
+      Os teitos são cabanas rurais com paredes de pedra e cobertura de giesta destinadas a pastores e gado,
+      cujas origens remontam à época medieval. Na braña de Mumián, a fonte el Caño conserva olleras,
+      estruturas de pedra onde a água corrente refrescava os recipientes de leite. Os vaqueiros de alzada,
+      criadores transumantes, mantêm tradições etnográficas singulares.
+
+
+      O faial de La Enramada está classificado como zona de proteção parcial, e os cães mastins que guardam o
+      gado fazem parte da vivência da montanha.
+    before: >-
+      Se encontrares cães de proteção de gado, não te aproximes, não os acaricies nem lhes dês comida: estão
+      em serviço de guarda. No faial de La Enramada caminha em silêncio.
+    around: >-
+      A reserva de [Fuentes del Narcea, Degaña e Ibias y
+      Muniellos](/lugar/fuentes-del-narcea-degana-e-ibias---muniellos/) fica a apenas um quilómetro de
+      distância. Mais longe, o [Parque Nacional de los Picos de
+      Europa](/lugar/parque-nacional-de-los-picos-de-europa/) partilha a camurça, o lobo e o urso-pardo; o
+      [Parco Nazionale della Majella](/lugar/parco-nazionale-della-majella/) e o [Parco Nazionale d'Abruzzo,
+      Lazio e Molise](/lugar/parco-nazionale-d-abruzzo-lazio-e/) congregam igualmente camurça, lobo e urso,
+      enquanto o [Parc Nacional d'Aigüestortes i Estany de Sant
+      Maurici](/lugar/parc-nacional-d-aiguestortes-i-estany-de-sant-maurici/) acolhe a camurça e o
+      tetraz-grande.
+fuentes:
+  - url: https://www.miteco.gob.es/ca/parques-nacionales-oapn/reservas-biosfera-mab/programa-mab-espana/nuestras-reservas-de-la-biosfera/somiedo.html
+    titulo: Somiedo — MITECO, Reservas de la Biosfera
+    fecha_consulta: '2026-10-23'
+  - url: https://medioambiente.asturias.es/documents/646140/0/Plano%2Bdivulgativo%2Bdel%2BParque%2BNatural%2Bde%2BSomiedo.pdf/eff28c07-678b-1ed9-4ea1-06a911e94119
+    titulo: Plano divulgativo del Parque Natural de Somiedo — Principado de Asturias
+    fecha_consulta: '2026-10-23'
+  - url: https://es.wikipedia.org/wiki/Parque_natural_de_Somiedo
+    titulo: Parque natural de Somiedo — Wikipedia
+    fecha_consulta: '2026-10-23'
+  - url: https://www.turismoasturias.es/en/senderismo/rutas/senderistas/lagos-de-saliencia
+    titulo: Turismo Asturias
+    fecha_consulta: '2026-10-23'
+  - url: https://www.turismoasturias.es/en/senderismo/rutas/senderistas/ruta-de-la-brana-de-mumian
+    titulo: Turismo Asturias
+    fecha_consulta: '2026-10-23'
+  - url: https://www.turismoasturias.es/en/senderismo/rutas/senderistas/valle-del-lago-lago-del-valle
+    titulo: Turismo Asturias
+    fecha_consulta: '2026-10-23'
+  - url: https://www.turismoasturias.es/descubre/cultura/museos-y-espacios-culturales/otros-espacios/centro-de-recepcion-e-interpretacion-del-parque-natural-de-somiedo
+    titulo: Centro de Recepción e Interpretación del Parque Natural de Somiedo — Turismo Asturias
+    fecha_consulta: '2026-10-23'
+  - url: https://www.somiedo.es/que-hacer
+    titulo: Qué hacer — Ayuntamiento de Somiedo
+    fecha_consulta: '2026-10-23'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Parque_de_Somiedo_(2052940203).jpg
+    autor: Ramón from Llanera, España
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-03'

@@ -1,0 +1,628 @@
+id: wild-ennerdale
+estado_editorial: valoracion-revisada
+nombre:
+  es: Asociación Wild Ennerdale - Valle de No Intervención
+  en: Wild Ennerdale Partnership - Non-Intervention Valley
+  fr: Partenariat Wild Ennerdale - Vallée de non-intervention
+  de: Wild Ennerdale Partnership - Prozessschutz-Tal
+  it: Wild Ennerdale Partnership - Valle a Evoluzione Naturale
+  pt: Parceria Wild Ennerdale - Vale de Não Intervenção
+nombre_original: Wild Ennerdale
+alias:
+  - Wild Ennerdale Partnership (Lake District Non-Intervention Valley)
+paises:
+  - GB
+region:
+  es: Inglaterra (Cumbria / Lake District / Ennerdale Water)
+  en: England (Cumbria / Lake District / Ennerdale Water)
+  fr: Angleterre (Cumbria / Lake District / Ennerdale Water)
+  de: England (Cumbria / Lake District / Ennerdale Water)
+  it: Inghilterra (Cumbria / Lake District / Ennerdale Water)
+  pt: Inglaterra (Cúmbria / Lake District / Ennerdale Water)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/20426192
+  nombre_en_la_fuente: Wild Ennerdale
+  capa: capas/osm/wild-ennerdale.geojson
+habitats:
+  - mature_forest
+  - river_corridor
+  - lake
+  - high_mountain
+designaciones:
+  - national_park
+especies:
+  - sciurus_vulgaris
+  - salmo_trutta
+  - bos_taurus
+proyectos:
+  - wild_ennerdale
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: da maggio a ottobre
+  pt: maio a outubro
+masificacion: 1
+masificacion_nota:
+  es: Mucho más baja que en el resto de Lake District por la ausencia de carretera asfaltada pública en el valle
+  en: Far lower than the rest of the Lake District due to the absence of a public paved road through the valley
+  fr: >-
+    Très inférieure au reste du Lake District en raison de l’absence de route goudronnée ouverte au public
+    dans la vallée
+  de: >-
+    Deutlich geringer als im übrigen Lake District, da keine öffentliche asphaltierte Straße durch das Tal
+    führt
+  it: >-
+    Molto inferiore rispetto al resto del Lake District per l’assenza di strade asfaltate pubbliche nella
+    valle
+  pt: Muito mais baixa do que no resto do Lake District devido à ausência de estrada asfaltada pública no vale
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Wild Ennerdale Official
+    url: https://www.wildennerdale.co.uk/
+  - titulo: Visita y normas — Wild Ennerdale
+    url: https://www.wildennerdale.co.uk/visit/
+  - titulo: Mapa y rutas — Guía de Wild Ennerdale
+    url: https://www.wildennerdale.co.uk/wp-content/uploads/2022/02/Wild-Ennerdale-guide-April-2022_01-combined.pdf
+resumen:
+  es: >-
+    El valle más salvaje de Lake District, donde la naturaleza evoluciona mediante procesos naturales sin
+    intervención forestal humana.
+  en: >-
+    The wildest valley in the Lake District, where nature evolves through natural processes without commercial
+    forestry intervention.
+  fr: >-
+    La vallée la plus sauvage du Lake District, où la nature évolue par processus naturels sans sylviculture
+    productive.
+  de: >-
+    Das wildeste Tal des Lake District, in dem sich die Natur durch freie Prozesse ohne forstliche Eingriffe
+    entfaltet.
+  it: >-
+    La valle più selvaggia del Lake District, dove la natura evolve secondo dinamiche naturali senza
+    selvicoltura commerciale.
+  pt: >-
+    O vale mais selvagem do Lake District, onde a natureza evolui através de processos naturais sem exploração
+    florestal humana.
+unico:
+  es: >-
+    El lago Ennerdale Water guarda la única población migratoria de trucha ártica de Inglaterra, un pez que
+    persiste en el valle desde la última glaciación.
+  en: >-
+    Ennerdale Water shelters England’s only migratory population of Arctic charr, a relict fish thriving here
+    since the last glaciation.
+  fr: >-
+    Le lac d’Ennerdale Water abrite l’unique population migratrice d’omble chevalier d’Angleterre, relique
+    présente depuis la dernière glaciation.
+  de: >-
+    Der See Ennerdale Water birgt Englands einzigen wandernden Seesaiblingsbestand, ein Eiszeitrelikt von
+    hohem ökologischem Wert.
+  it: >-
+    Il lago Ennerdale Water custodisce l’unica popolazione migratrice di salmerino alpino d’Inghilterra,
+    relitto glaciale sopravvissuto nella valle.
+  pt: >-
+    O lago Ennerdale Water alberga a única população migratória de salvelino-ártico de Inglaterra, relíquia
+    que persiste desde a última glaciação.
+observaciones:
+  es: >-
+    En los pastos cercanos hay ganado suelto todo el año: mantén a los perros bajo control. Tras la visita,
+    revísate en busca de garrapatas por el riesgo de enfermedad de Lyme. Comprueba los avisos del gestor antes
+    de salir.
+texto:
+  es:
+    intro: >-
+      En Ennerdale el valle decide. Allí donde la costa de Cumbria se alza en los montes, el valle se abre en
+      uno de los rincones más tranquilos del Lake District, en su esquina noroeste. Su visión es dejar
+      evolucionar Ennerdale como valle salvaje para beneficio de las personas, apoyándose más en los procesos
+      naturales para moldear paisaje y ecología. Wild Ennerdale es una de las mayores y más antiguas alianzas
+      de reasilvestramiento del Reino Unido y la mayor reserva natural nacional de Cumbria.
+    landscape: >-
+      El valle reúne ríos, lago, humedales, bosques y matorral, brezales de altura, pastizales y vegetación de
+      montaña. Su fondo alto combina turbera restaurada, pradera rica en especies y una plantación de
+      coníferas que se va diversificando. El río Liza conserva un cauce casi sin modificar, con meandros,
+      barras de grava, canales múltiples e islas dinámicas.
+
+
+      El bosque tiene dos caras. Está dominado por coníferas no nativas de la misma edad, sobre todo pícea de
+      Sitka, y la gestión busca reducirla con el tiempo para dar paso a especies nativas; en el fondo del
+      valle se planta pino silvestre, enebro, sauces, álamo temblón, abedul y serbal como semilla del bosque
+      futuro. Pero también incluye tres áreas de bosque lluvioso templado en Side Wood, Mart Knott y
+      Latterbarrow, un hábitat muy raro. Los robledales atlánticos de las laderas albergan briófitos y
+      líquenes. En el valle alto, la visión es un bosque abierto nativo que se extienda más al este y se
+      difumine en la montaña.
+    wildlife: >-
+      Ennerdale tiene más de cien especies de aves, además de ciervos, nutria, mariposas y ardillas rojas. En
+      el bosque de coníferas viven el lúgano, el reyezuelo y el carbonero garrapinos; en los robledales, el
+      papamoscas cerrojillo, el mosquitero silbador, el bisbita arbóreo y el pito verde; en las montañas, el
+      mirlo de collar, la collalba gris y el cuervo. Donde el ganado vacuno lleva más de una década pastando,
+      la riqueza de aves ha aumentado y su número se ha duplicado.
+
+
+      Las montañas y bosques son un baluarte de la [ardilla roja](/especie/sciurus_vulgaris/): viven entre 100
+      y 150, sobre todo en los bosques del oeste, y las piñas peladas delatan su presencia. Cada primavera y
+      otoño se las vigila, y se responde a cualquier ardilla gris con cámaras. Unos 90
+      [corzos](/especie/capreolus_capreolus/) viven en la reserva, con algún [ciervo
+      rojo](/especie/cervus_elaphus/) de paso; se ven todo el año, mejor al amanecer y al anochecer, y rara
+      vez en el tercio este del valle. La [marta](/especie/martes_martes/) todavía no está, pero se expande
+      desde Escocia y se ha visto con cámaras en Wasdale y Dodd Wood.
+
+
+      Las mariposas se ven de mayo a septiembre, y una población de Marsh Fritillary crece tras su
+      reintroducción. En el agua hay [salmón](/especie/salmo_salar/), [trucha](/especie/salmo_trutta/),
+      lamprea de arroyo, anguila y espinoso. La trucha ártica pasó de unos pocos ejemplares en los noventa a
+      cientos, y en 2020 se confirmó que se había salvado de la extinción. En otoño, los montículos de grava
+      delatan dónde han puesto los huevos el salmón o la trucha; los puentes son buenos puntos de observación.
+      El río Ehen es importante para los salmones y para el [mejillón
+      perlero](/especie/margaritifera_margaritifera/), que vive hasta cien años.
+    visit: >-
+      Hay más de 30 millas de caminos públicos, pistas forestales y senderos, y dos rutas circulares
+      balizadas: Smithy Beck y Ennerdale Views. Ennerdale Views es una ruta corta, pavimentada y accesible que
+      parte del aparcamiento de Bleach Green y bordea el lago. Bleach Green da acceso también al camino
+      alrededor del lago y a la ciclovía de la orilla hasta Bowness Knott; Bowness Knott, al sendero Smithy
+      Beck y a las pistas del valle. Más de diez millas de pistas forestales sirven también para recorrer
+      Ennerdale en bicicleta.
+
+
+      Más allá de Bowness Knott el acceso en coche está limitado a quienes viven o trabajan en el valle.
+
+
+      Tres rebaños de ganado Galloway, unas 60 reses, recorren unas 1800 hectáreas con un patrón estacional:
+      verano y otoño en la ladera sur entre Silvercove y Great Gable, invierno en el bosque, y parto en los
+      prados del fondo del valle en primavera. Si te cruzas con ellos, no les des de comer ni los toques,
+      avísales de que estás ahí y, si se asustan, no corras; no te pongas entre una vaca y su ternero.
+    history: >-
+      Ennerdale tiene una de las colecciones más importantes del Lake District de arqueología de la Edad del
+      Bronce y medieval no monástica en el fondo del valle, con más de 500 yacimientos registrados. En
+      septiembre de 1908 George Mallory abrió varias vías en la cara de Ennerdale de Great Gable y escaló
+      Pillar Rock.
+
+
+      El 15 de noviembre de 2022 el presidente de Natural England declaró la zona reserva natural nacional,
+      con 3030 hectáreas. La reserva no cubre todo el valle: quedan fuera edificios, infraestructuras y
+      algunos arrendamientos agrícolas antiguos. Forestry England, National Trust y United Utilities son los
+      gestores.
+
+
+      El primer ganado extensivo llegó en 2006. En 2025 se introdujeron 75 topillos de agua en los prados y el
+      humedal del fondo del valle. Wild Ennerdale está dentro del Patrimonio Mundial de la UNESCO del Lake
+      District.
+    before: >-
+      En los pastos cercanos hay ganado suelto todo el año: mantén a los perros bajo control. Tras la visita,
+      revísate en busca de garrapatas por el riesgo de enfermedad de Lyme. Comprueba los avisos del gestor
+      antes de salir.
+  en:
+    intro: >-
+      In Ennerdale, natural processes lead the way. Where the coastal plain of Cumbria rises into the high
+      fells, this remote valley opens out in the quiet north-western corner of the Lake District. Its core
+      vision is to let Ennerdale evolve as a wild valley for the benefit of people, relying on natural
+      dynamics to shape its ecology and landscape. Wild Ennerdale represents one of the oldest and largest
+      rewilding partnerships in the United Kingdom and forms Cumbria’s largest National Nature Reserve.
+    landscape: >-
+      The valley embraces rivers, open water, wetlands, woodlands, high-altitude heaths, and rugged alpine
+      crags. Its upper floor combines restored peatlands, species-rich wet grasslands, and a diversifying
+      conifer forest. The River Liza meanders naturally with unconstrained gravel shoals, braided channels,
+      and shifting islands.
+
+
+      The woodlands present two facets. Monoculture plantations dominated by non-native Sitka spruce are being
+      thinned to allow native regeneration; along the valley bottom, Scots pine, juniper, willows, aspen,
+      birch, and rowan are established as seed sources for the future forest. Crucially, the valley preserves
+      three ancient Atlantic oakwoods at Side Wood, Mart Knott, and Latterbarrow—rare temperate rainforest
+      habitats rich in oceanic bryophytes and lichens. In the upper basin, the long-term goal is an open,
+      native montane woodland feathering out into the surrounding crags.
+    wildlife: >-
+      Ennerdale supports over one hundred bird species alongside deer, otters, butterflies, and native red
+      squirrels. Conifer stands shelter siskins, goldcrests, and coal tits; oakwoods host pied flycatchers,
+      wood warblers, tree pipits, and green woodpeckers; while the high fells are home to ring ouzels,
+      northern wheatears, and ravens. Across areas grazed by extensive cattle for over a decade, bird
+      abundance and diversity have doubled.
+
+
+      The fells and woodlands remain a stronghold for the [red squirrel](/especie/sciurus_vulgaris/): between
+      100 and 150 individuals survive, mainly in western plantations. Targeted ranger monitoring and automated
+      trail cameras control invasive grey squirrels. Roughly 90 [roe deer](/especie/capreolus_capreolus/)
+      dwell across the reserve, alongside occasional wandering [red deer](/especie/cervus_elaphus/), most
+      visible at dawn and dusk. The [European pine marten](/especie/martes_martes/) has not yet established a
+      resident population, but individuals expanding from Scotland have been camera-trapped in neighboring
+      Wasdale and Dodd Wood.
+
+
+      Butterflies fly from May through September, with marsh fritillaries expanding following reintroduction.
+      In the river and lake swim [Atlantic salmon](/especie/salmo_salar/), [brown
+      trout](/especie/salmo_trutta/), brook lampreys, European eels, and minnows. Arctic charr numbers
+      rebounded from a critical low in the nineties to hundreds today, officially saved from extinction in
+      2020. In autumn, river gravel redds reveal spawning salmonids. Downstream, the River Ehen sustains vital
+      populations of salmon and the endangered [freshwater pearl
+      mussel](/especie/margaritifera_margaritifera/), which lives for up to one hundred years.
+    visit: >-
+      More than 30 miles of public footpaths, bridleways, and forestry tracks criss-cross the valley,
+      alongside two waymarked circular walks: Smithy Beck and Ennerdale Views. Ennerdale Views is a short,
+      paved accessible trail departing from Bleach Green car park along the lakeshore. Bleach Green also gives
+      access to the lakeside circuit and the shoreline cycle route to Bowness Knott; Bowness Knott serves as
+      the trailhead for Smithy Beck and the upper valley. More than ten miles of gravel forestry tracks cater
+      to gravel and mountain biking.
+
+
+      Beyond Bowness Knott, vehicular road access is strictly restricted to residents and forestry personnel.
+
+
+      Three free-roaming herds of hardy Galloway cattle, totalling roughly 60 beasts, range across some 1800
+      hectares following seasonal grazing habits: summer and autumn on the southern fells between Silvercove
+      and Great Gable, winter in sheltered woods, and spring calving in the low valley pastures. If you
+      encounter cattle, do not feed or touch them, keep your distance, avoid running if they startle, and
+      never walk between a cow and her calf.
+    history: >-
+      The valley bottom preserves one of the Lake District’s richest concentrations of Bronze Age and medieval
+      non-monastic archaeological sites, with over 500 recorded monuments. In September 1908 mountaineer
+      George Mallory pioneered classic rock routes on the Ennerdale face of Great Gable and ascended Pillar
+      Rock.
+
+
+      On 15 November 2022, Natural England formally declared the valley a National Nature Reserve spanning
+      3030 hectares, excluding occupied farmsteads and working infrastructures. The reserve is cooperatively
+      managed by Forestry England, the National Trust, and United Utilities.
+
+
+      Extensive grazing began in 2006. In 2025, a founding group of 75 water voles was reintroduced into the
+      wet meadows. Wild Ennerdale is situated within the English Lake District UNESCO World Heritage site.
+    before: >-
+      Free-ranging cattle graze the valley floor year-round: keep dogs under close control at all times. Check
+      for ticks after hiking due to local risk of Lyme disease. Review park safety notices and track
+      conditions prior to departure.
+  fr:
+    intro: >-
+      À Ennerdale, la vallée décide. Là où la côte de Cumbria s’élève en collines abruptes, cette combe isolée
+      s’ouvre dans l’angle nord-ouest le plus paisible du Lake District. Son ambition est de laisser évoluer
+      Ennerdale comme une vallée sauvage au profit des hommes, en s’appuyant sur les dynamiques naturelles
+      pour modeler les paysages et l’écosystème. Wild Ennerdale constitue l’un des plus vastes et anciens
+      partenariats de réensauvagement du Royaume-Uni et la plus grande réserve naturelle nationale de Cumbria.
+    landscape: >-
+      La vallée réunit rivières, lac, zones humides, forêts, landes de bruyère d’altitude et pelouses
+      montagnardes. Son fond de vallée associe tourbières restaurées, prairies alluviales et plantations
+      résineuses en cours de diversification. La rivière Liza conserve un lit vif non endigué, alternant
+      méandres, bancs de graviers, bras tressés et îles alluviales.
+
+
+      La forêt offre un double visage. Les peuplements résineux d’épicéa de Sitka font l’objet d’éclaircies
+      pour laisser la place aux essences locales ; sur les berges sont plantés pin sylvestre, genévrier,
+      saules, tremble, bouleau et sorbier des oiseleurs. Surtout, la vallée abrite trois massifs de forêt
+      pluviale tempérée à Side Wood, Mart Knott et Latterbarrow, un habitat atlantique exceptionnel riche en
+      bryophytes et lichens. En amont, l’objectif est une forêt ouverte indigène montant vers les crêtes.
+    wildlife: >-
+      Ennerdale compte plus de cent espèces d’oiseaux, aux côtés des cervidés, de la loutre et de l’écureuil
+      roux. Les résineux hébergent tarin des aulnes, roitelet et mésange noire ; les chênaies abritent
+      gobe-mouche noir, pouillot siffleur, pipit des arbres et pic vert ; les crêtes accueillent merle à
+      plastron, traquet motteux et grand corbeau. Dans les secteurs pâturés par les bovins depuis plus d’une
+      décennie, l’avifaune a doublé en effectifs.
+
+
+      Les bois et versants constituent un bastion de [l’écureuil roux](/especie/sciurus_vulgaris/) : on en
+      dénombre entre 100 et 150, principalement à l’ouest. Des pièges photographiques surveillent l’écureuil
+      gris invasif. Environ 90 [chevreuils](/especie/capreolus_capreolus/) vivent dans la réserve, avec
+      quelques [cerfs élaphes](/especie/cervus_elaphus/) de passage, visibles à l’aube et au crépuscule. La
+      [martre des pins](/especie/martes_martes/) n’est pas encore installée, mais des individus venus d’Écosse
+      ont été photographiés dans les vallées voisines de Wasdale et Dodd Wood.
+
+
+      Les papillons volent de mai à septembre, avec le damier de la succise réintroduit. Dans les eaux vivent
+      [saumon atlantique](/especie/salmo_salar/), [truite fario](/especie/salmo_trutta/), lamproie de Planer
+      et anguille. L’omble chevalier est passé de quelques individus dans les années quatre-vingt-dix à
+      plusieurs centaines, sauvé de l’extinction en 2020. En automne, les frayères signalent la ponte des
+      salmonidés. La rivière Ehen abrite des populations capitales de saumons et de [mulette
+      perlière](/especie/margaritifera_margaritifera/), qui vit jusqu’à cent ans.
+    visit: >-
+      Plus de 30 milles de chemins publics et pistes forestières parcourent la vallée, avec deux boucles
+      balisées : Smithy Beck et Ennerdale Views. Ennerdale Views est un sentier court et stabilisé partant du
+      parking de Bleach Green au bord du lac. Bleach Green donne accès au tour du lac et à la piste cyclable
+      vers Bowness Knott ; Bowness Knott ouvre vers Smithy Beck et le haut de la vallée. Plus de dix milles de
+      pistes permettent d’explorer Ennerdale à vélo.
+
+
+      Au-delà de Bowness Knott, l’accès automobile est strictement réservé aux riverains et exploitants.
+
+
+      Trois troupeaux de bovins rustiques Galloway, soit environ 60 têtes, parcourent 1800 hectares en
+      pâturage extensif saisonnier : été et automne sur les versants sud vers Great Gable, hiver en sous-bois
+      et mise bas au printemps dans les prés de fond de vallée. Si vous les croisez, ne les nourrissez pas,
+      gardez vos distances, ne courez pas et ne vous interposez jamais entre une vache et son veau.
+    history: >-
+      Le fond de vallée d’Ennerdale abrite l’une des plus remarquables concentrations de vestiges
+      archéologiques de l’âge du bronze et du Moyen Âge du Lake District, avec plus de 500 sites inventoriés.
+      En septembre 1908, George Mallory ouvrit plusieurs voies d’escalade sur la face nord de Great Gable et
+      gravit Pillar Rock.
+
+
+      Le 15 novembre 2022, le président de Natural England a classé le site en réserve naturelle nationale sur
+      3030 hectares, à l’exclusion des habitations et exploitations privées. La réserve est cogérée par
+      Forestry England, le National Trust et United Utilities.
+
+
+      Le pâturage extensif débuta en 2006. En 2025 ont été réintroduits 75 campagnols amphibies dans les zones
+      humides. Wild Ennerdale est inclus dans le périmètre du patrimoine mondial de l’UNESCO du Lake District.
+    before: >-
+      Des bovins en liberté pâturent la vallée toute l’année : gardez les chiens sous contrôle strict.
+      Inspectez-vous après la randonnée en raison des tiques et de la maladie de Lyme. Consultez les alertes
+      du gestionnaire avant de partir.
+  de:
+    intro: >-
+      In Ennerdale bestimmt die Natur den Takt. Wo sich die Küstenebene Cumbrias zu den Bergen aufwölbt,
+      öffnet sich eines der stillsten Täler im Nordwesten des Lake District. Das Leitbild lautet, Ennerdale
+      als wildes Tal für Mensch und Natur zu entwickeln und natürliche Prozesse die Landschaft formen zu
+      lassen. Wild Ennerdale ist eine der ältesten und größten Renaturierungs-Partnerschaften des Vereinigten
+      Königreichs und das größte Nationale Naturreservat in Cumbria.
+    landscape: >-
+      Das Tal vereint Flüsse, Seeufer, Feuchtgebiete, Wälder, Hochmoore und alpine Felsen. Der Talboden
+      verbindet renaturierte Torfmoore mit artenreichen Wiesen und sich verjüngenden Nadelholzforsten. Der
+      Fluss Liza fließt unbegradigt mit Kiesbänken, Verzweigungen und dynamischen Flussinseln.
+
+
+      Der Wald wandelt sich: Die alten Sitka-Fichtenmonokulturen werden sukzessive aufgelichtet, um heimischen
+      Gehölzen Platz zu machen; am Talboden werden Waldkiefer, Wacholder, Weiden, Zitterpappel, Birke und
+      Eberesche als Samenbäume gepflanzt. Zugleich birgt das Tal drei seltene atlantische Eichenregenwälder
+      bei Side Wood, Mart Knott und Latterbarrow, berühmt für ozeanische Moose und Flechten. Im Hochtal
+      entsteht ein lichter Bergmischwald, der sich bis in die Felsflanken ausdehnt.
+    wildlife: >-
+      Über einhundert Vogelarten leben in Ennerdale, dazu Rotwild, Fischotter, Tagfalter und Eichhörnchen. Im
+      Nadelwald brüten Erlenzeisig, Wintergoldhähnchen und Tannenmeise; in den Eichenwäldern Trauerschnäpper,
+      Waldlaubsänger, Baumpieper und Grünspecht; in den Hochlagen Ringdrossel, Steinschmätzer und Kolkrabe. Wo
+      Robustrinder seit über einem Jahrzehnt extensiv weiden, haben sich Vogelvielfalt und Brutpaardichten
+      verdoppelt.
+
+
+      Die Wälder sind ein Refugium des [Eichhörnchens](/especie/sciurus_vulgaris/): Zwischen 100 und 150 Tiere
+      leben vor allem im Westen; Fotofallen erfassen invasive Grauhörnchen sofort. Rund 90
+      [Rehe](/especie/capreolus_capreolus/) und durchziehende [Rothirsche](/especie/cervus_elaphus/) bewohnen
+      das Tal, am besten in der Dämmerung zu beobachten. Der [Baummarder](/especie/martes_martes/) breitet
+      sich aus Schottland aus und wurde bereits in Nachbartälern nachgewiesen.
+
+
+      Schmetterlinge fliegen von Mai bis September, darunter der Goldene Scheckenfalter. Im Gewässersystem
+      leben [Lachs](/especie/salmo_salar/), [Bachforelle](/especie/salmo_trutta/), Bachneunauge und Aal. Der
+      Seesaibling erholte sich von wenigen Tieren in den neunziger Jahren auf Hunderte Exemplare und galt 2020
+      als gerettet. Im Herbst verraten Kieslaichbetten die Fortpflanzung der Lachsfische. Der Fluss Ehen ist
+      Lebensraum für Lachse und die bis zu hundert Jahre alte
+      [Flussperlmuschel](/especie/margaritifera_margaritifera/).
+    visit: >-
+      Über 30 Meilen Wanderwege und Forststraßen durchziehen das Tal, darunter zwei markierte Rundwege: Smithy
+      Beck und Ennerdale Views. Ennerdale Views ist ein kurzer, barrierearmer Uferweg ab dem Parkplatz Bleach
+      Green. Bleach Green erschließt auch die Seerunde und den Uferradweg nach Bowness Knott; Bowness Knott
+      ist Einstieg für Smithy Beck und das obere Tal. Mehr als zehn Meilen Schotterwege eignen sich ideal zum
+      Radfahren.
+
+
+      Jenseits von Bowness Knott ist die Durchfahrt mit Kraftfahrzeugen Anwohnern und Forstdiensten
+      vorbehalten.
+
+
+      Drei Herden uriger Galloway-Rinder mit rund 60 Tieren streifen über 1800 Hektar: Sommer und Herbst an
+      den Südhängen unter dem Great Gable, Winter im Wald und Frühjahrskalbung auf den Talwiesen. Bei
+      Begegnungen gilt: Tiere nicht füttern, Abstand halten, nicht rennen und niemals zwischen Kuh und Kalb
+      treten.
+    history: >-
+      Der Talboden birgt mit über 500 erfassten Bodendenkmälern eine der bedeutendsten Fundlandschaften der
+      Bronzezeit und des Mittelalters im Lake District. Im September 1908 erschloss George Mallory
+      Kletterrouten an der Ennerdale-Wand des Great Gable und bestieg den Pillar Rock.
+
+
+      Am 15. November 2022 wies Natural England das Gebiet auf 3030 Hektar als Nationales Naturreservat aus.
+      Das Reservat wird von Forestry England, National Trust und United Utilities gemeinsam betreut.
+
+
+      Die Ganzjahresbeweidung begann 2006. Im Jahr 2025 wurden 75 Schermäuse in den Talfeuchtgebieten
+      ausgewildert. Wild Ennerdale gehört zum UNESCO-Welterbe Lake District.
+    before: >-
+      Ganzjährig weiden Rinder frei im Tal: Halte Hunde stets unter Kontrolle. Suche dich nach Touren wegen
+      der Borreliose-Gefahr nach Zecken ab. Prüfe aktuelle Weghinweise vor dem Start.
+  it:
+    intro: >-
+      A Ennerdale è la valle a decidere. Dove la piana costiera della Cumbria si innalza verso i monti, questa
+      conca remota si apre nell’angolo nord-occidentale più appartato del Lake District. L’obiettivo è
+      lasciare evolvere Ennerdale come valle selvaggia a beneficio della collettività, affidandosi ai processi
+      naturali per modellare ecologia e paesaggio. Wild Ennerdale è una delle alleanze di ripristino ecologico
+      più vaste e longeve del Regno Unito e la più grande riserva naturale nazionale della Cumbria.
+    landscape: >-
+      La valle racchiude corsi d’acqua, laghi, zone umide, boschi, brughiere d’alta quota e pascoli montani.
+      Il fondovalle unisce torbiere ripristinate, prati ricchi di specie e piantagioni di conifere in
+      progressiva diversificazione. Il fiume Liza preserva un alveo naturale non canalizzato, con anse
+      meandriformi, barre di ghiaia, canali intrecciati e isole alluvionali mobili.
+
+
+      La copertura forestale è in trasformazione: i vecchi rimboschimenti di abete di Sitka vengono diradati
+      per cedere il passo a specie autoctone; sul fondovalle si mettono a dimora pino silvestre, ginepro,
+      salici, pioppo tremulo, betulla e sorbo degli uccellatori. Lungo i versanti sopravvivono tre relitti di
+      foresta pluviale temperata atlantica a Side Wood, Mart Knott e Latterbarrow, ambienti rarissimi ricchi
+      di briofite e licheni. Verso l’alta valle la prospettiva è una foresta aperta indigena che si dissolve
+      verso le balze rocciose.
+    wildlife: >-
+      Ennerdale ospita oltre cento specie di uccelli, oltre a cervidi, lontre e scoiattoli rossi. I boschi di
+      conifere accolgono lucarino, fiorrancino e cincia mora; i querceti ospitano balia nera, luì verde,
+      prispolone e picchio verde; le vette montane vedono merlo dal collare, culbianco e corvo imperiale. Nei
+      settori pascolati dai bovini da oltre un decennio la biodiversità avifaunistica è raddoppiata.
+
+
+      I boschi costituiscono una roccaforte per lo [scoiattolo rosso](/especie/sciurus_vulgaris/): se ne
+      contano tra 100 e 150 esemplari monitorati con fototrappole per arginare lo scoiattolo grigio alloctono.
+      Circa 90 [caprioli](/especie/capreolus_capreolus/) popolano la riserva con qualche
+      [cervo](/especie/cervus_elaphus/) di passaggio, avvistabili all’alba e al crepuscolo. La
+      [martora](/especie/martes_martes/) è in espansione dalla Scozia ed è stata già fotografata nelle valli
+      adiacenti.
+
+
+      Le farfalle volano da maggio a settembre, con la damiera della succisa in ripresa. Nelle acque nuotano
+      [salmone atlantico](/especie/salmo_salar/), [trota fario](/especie/salmo_trutta/), lampreda di ruscello
+      e anguilla. Il salmerino alpino è risalito dai minimi storici degli anni novanta fino a centinaia di
+      individui, dichiarato salvo nel 2020. In autunno le buche di frega nella ghiaia svelano la riproduzione
+      dei salmonidi. Il fiume Ehen sostiene popolazioni vitali di salmoni e della rara [cozza d’acqua
+      dolce](/especie/margaritifera_margaritifera/), che vive fino a cento anni.
+    visit: >-
+      Oltre 30 miglia di sentieri pubblici e carrarecce forestali solcano la valle, con due anelli segnalati:
+      Smithy Beck ed Ennerdale Views. Ennerdale Views è un percorso breve e accessibile che prende avvio dal
+      parcheggio di Bleach Green costeggiando il lago. Bleach Green serve anche per il periplo lacustre e la
+      ciclabile verso Bowness Knott; Bowness Knott apre la via a Smithy Beck e alle piste interne. Più di
+      dieci miglia di piste forestali sterrate consentono la pratica della mountain bike.
+
+
+      Oltre Bowness Knott il transito automobilistico è interdetto ai non residenti.
+
+
+      Tre mandrie di bovini rustici Galloway, per circa 60 capi complessivi, pascolano su circa 1800 ettari
+      seguendo ritmi stagionali: estate e autunno sulle pendici meridionali verso Great Gable, inverno nei
+      boschi e parti primaverili sui prati del fondovalle. In caso di incontro, non dar loro cibo, mantieni le
+      distanze, evita di correre e non interporsi tra vacca e vitello.
+    history: >-
+      Il fondovalle conserva uno dei complessi archeologici dell’età del bronzo e medievali non monastici più
+      rilevanti del Lake District, con oltre 500 siti censiti. Nel settembre 1908 George Mallory aprì
+      itinerari alpinistici sulla parete nord di Great Gable salendo il Pillar Rock.
+
+
+      Il 15 novembre 2022 Natural England ha istituito la riserva naturale nazionale su 3030 ettari, gestita
+      congiuntamente da Forestry England, National Trust e United Utilities.
+
+
+      Il pascolo estensivo è iniziato nel 2006. Nel 2025 sono stati reintrodotti 75 arvicole acquatiche nelle
+      zone umide. Wild Ennerdale ricade nel patrimonio mondiale dell’UNESCO del Lake District.
+    before: >-
+      Mandrie al pascolo brado stazionano nella valle tutto l’anno: tieni i cani sotto stretto controllo.
+      Controllati contro le zecche dopo l’escursione per il rischio di malattia di Lyme. Consulta gli avvisi
+      dei gestori prima di metterti in cammino.
+  pt:
+    intro: >-
+      Em Ennerdale é a natureza que decide. Onde a planície costeira da Cúmbria se ergue em montanhas, este
+      vale desabitado abre-se no recanto noroeste mais tranquilo do Lake District. A sua visão orienta-se para
+      deixar evoluir Ennerdale como um vale selvagem em prol das pessoas, confiando nas forças naturais para
+      estruturar ecologia e paisagem. Wild Ennerdale constitui uma das maiores e mais antigas parcerias de
+      rewilding do Reino Unido e a maior reserva natural nacional da Cúmbria.
+    landscape: >-
+      O vale reúne cursos de água, lago, sapais, bosques, charnecas de altitude e pastagens montanas. O fundo
+      da bacia combina turfeiras reabilitadas, lameiros floridos e plantações florestais em fase de conversão.
+      O rio Liza mantém um leito virgem com meandros livres, bancos de cascalho, múltiplos canais e ilhotas
+      dinâmicas.
+
+
+      A floresta vive uma transição profunda: os maciços homogéneos de espruce-de-sitka são desbastados para
+      dar lugar à vegetação nativa; no fundo do vale plantam-se pinheiro-silvestre, zimbro, salgueiros,
+      choupo-tremedor, bétula e tramazeira. Além disso, o vale preserva três núcleos de floresta pluvial
+      temperada atlântica em Side Wood, Mart Knott e Latterbarrow, um habitat oceânico raríssimo rico em
+      briófitos e líquenes. Na cabeceira do vale, a visão aponta para uma mata aberta autóctone a fundir-se
+      com as escarpas.
+    wildlife: >-
+      Ennerdale sustenta mais de cem espécies de aves, além de veados, lontras e esquilos-vermelhos. Os
+      pinhais acolhem lugres, estrelinhas-de-poupa e chapins-pretos; os carvalhais abrigam papa-moscas-pretos,
+      felosas-assobiadeiras, petinhas-das-árvores e pica-paus-verdes; as encostas rochosas acolhem
+      melros-de-peito-branco, cartaxos-nortenhos e corvos. Nas parcelas sujeitas a pastoreio extensivo com
+      gado vacum há mais de uma década, a riqueza e abundância avifaunística duplicaram.
+
+
+      As serras e matas formam um baluarte para o [esquilo-vermelho](/especie/sciurus_vulgaris/): subsistem
+      entre 100 e 150 espécimes monitorizados com câmaras para conter o esquilo-cinzento. Cerca de 90
+      [corços](/especie/capreolus_capreolus/) habitam a reserva, com passagem pontual de
+      [veados-vermelhos](/especie/cervus_elaphus/), observáveis ao amanhecer e ao crepúsculo. A
+      [marta](/especie/martes_martes/) encontra-se em expansão a partir da Escócia e foi registada em vales
+      contíguos.
+
+
+      As borboletas voam de maio a setembro, com a fritilária-dos-pauis em expansão. Nas águas nadam o
+      [salmão-do-atlântico](/especie/salmo_salar/), a [truta-fario](/especie/salmo_trutta/), lampreias e
+      enguias. A salvelino-ártico recuperou dos escassos espécimes dos anos noventa para várias centenas,
+      confirmando-se salva da extinção em 2020. No outono, os leitos de gravilha revelam a postura dos
+      salmonídeos. A jusante, o rio Ehen sustenta salmões e o
+      [mexilhão-perlífero-de-água-doce](/especie/margaritifera_margaritifera/), que alcança cem anos de vida.
+    visit: >-
+      Mais de 30 milhas de caminhos vicinais e pistas florestais cruzam o vale, com dois trilhos circulares
+      marcados: Smithy Beck e Ennerdale Views. Ennerdale Views é um circuito curto e acessível a partir do
+      parque de Bleach Green junto ao lago. Bleach Green permite circundar o lago e aceder à ciclovia
+      ribeirinha até Bowness Knott; Bowness Knott dá acesso a Smithy Beck e às pistas interiores. Mais de dez
+      milhas de caminhos florestais destinam-se a passeios de bicicleta.
+
+
+      Para lá de Bowness Knott o acesso automóvel é estritamente condicionado a moradores e guardas
+      florestais.
+
+
+      Três manadas de bovinos rústicos Galloway, num total de 60 cabeças, vagueiam por 1800 hectares em
+      pastoreio livre sazonal: verão e outono nas encostas a sul em Great Gable, inverno no bosque e partos na
+      primavera nas pastagens baixas. Se os encontrares, não lhes dês alimento, mantém a distância, não corras
+      e nunca te coloques entre a vaca e o vitelo.
+    history: >-
+      O fundo do vale alberga uma das maiores concentrações de vestígios arqueológicos da Idade do Bronze e da
+      Idade Média do Lake District, com mais de 500 sítios catalogados. Em setembro de 1908 George Mallory
+      abriu rotas de escalada na face norte de Great Gable e escalou a Pillar Rock.
+
+
+      A 15 de novembro de 2022 a Natural England classificou a área como Reserva Natural Nacional abrangendo
+      3030 hectares, gerida cooperativamente pela Forestry England, National Trust e United Utilities.
+
+
+      O pastoreio extensivo arrancou em 2006. Em 2025 foram introduzidos 75 ratos-de-água nos charcos do vale.
+      Wild Ennerdale integra o Património Mundial da UNESCO do Lake District.
+    before: >-
+      O gado pasta livremente no vale durante todo o ano: mantém os cães sob rigoroso controlo. Verifica a
+      existência de carraças após o passeio pelo risco de doença de Lyme. Consulta as informações dos gestores
+      antes de iniciar a caminhada.
+fuentes:
+  - url: https://www.gov.uk/government/publications/cumbrias-national-nature-reserves/cumbrias-national-nature-reserves
+    titulo: Cumbria's National Nature Reserves
+    fecha_consulta: '2026-10-30'
+  - url: https://www.nationaltrust.org.uk/visit/lake-district/ennerdale/wildlife-to-see-in-ennerdale
+    titulo: Wildlife at Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.nationaltrust.org.uk/visit/lake-district/ennerdale
+    titulo: Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.forestryengland.uk/ennerdale
+    titulo: Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/
+    titulo: Welcome to Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/about/our-vision/
+    titulo: Our Vision - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/nnr/
+    titulo: National Nature Reserve - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/wildlife/
+    titulo: Wildlife - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/managing/free-roaming-herbivores/
+    titulo: Free Roaming Herbivores - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/managing/forest/
+    titulo: Forest - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/managing/valleyhead/
+    titulo: Valley Head - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/managing/archaeology/
+    titulo: Archaeology - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/activities/
+    titulo: Activities - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+  - url: https://www.wildennerdale.co.uk/visit/
+    titulo: Visit - Wild Ennerdale
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Shoreline_view_of_Ennerdale_Water_-_geograph.org.uk_-_3673641.jpg
+    autor: Peter S
+    licencia: CC BY-SA 2.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/2.0
+    fecha_descarga: '2026-10-03'

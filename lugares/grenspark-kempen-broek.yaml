@@ -1,0 +1,595 @@
+id: grenspark-kempen-broek
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque de la Frontera Kempen~Broek
+  en: Kempen~Broek Border Park
+  fr: Parc transfrontalier Kempen~Broek
+  de: Grenspark Kempen~Broek
+  it: Parco Transfrontaliero Kempen~Broek
+  pt: Parque Fronteiriço Kempen~Broek
+nombre_original: Grenspark Kempen~Broek
+alias:
+  - Kempen~Broek
+paises:
+  - NL
+  - BE
+region:
+  es: Limburgo (NL) / Amberes y Limburgo (BE)
+  en: Limburg (NL) / Antwerp and Limburg (BE)
+  fr: Limbourg (NL) / Anvers et Limbourg (BE)
+  de: Limburg (NL) / Antwerpen und Limburg (BE)
+  it: Limburgo (NL) / Anversa e Limburgo (BE)
+  pt: Limburgo (NL) / Antuérpia e Limburgo (BE)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/20208288
+  nombre_en_la_fuente: Kempen~Broek
+  capa: capas/osm/grenspark-kempen-broek.geojson
+habitats:
+  - wetland
+  - mature_forest
+designaciones:
+  - natural_park
+  - natura2000
+especies:
+  - bos_taurus
+  - castor_fiber
+proyectos:
+  - kempen_broek
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: aprile a ottobre
+  pt: abril a outubro
+masificacion: 2
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Gestor — Grenspark Kempen~Broek
+    url: https://www.kempenbroek.eu/
+  - titulo: Rutas — Senderismo en Kempen~Broek
+    url: https://kempenbroek.eu/nl/beleef-het-kempenbroek/wandelen/
+  - titulo: Visita y accesos — Preparar la visita
+    url: https://kempenbroek.eu/nl/plan-je-bezoek/
+  - titulo: Mapas — Atlas de Kempen~Broek
+    url: https://kempenbroek.eu/nl/meer-weten/kaartenatlas/
+  - titulo: Conservación — ARK Rewilding en Kempen~Broek
+    url: https://www.ark.eu/gebieden/kempenbroek
+resumen:
+  es: Mosaico transfronterizo de turberas, pantanos de ribera y brezales recuperados para la fauna acuática.
+  en: Cross-border mosaic of peatlands, floodplain marshes, and heaths restored for wetland wildlife.
+  fr: Mosaïque transfrontalière de tourbières, marais alluviaux et landes restaurés pour la faune aquatique.
+  de: Grenzüberschreitendes Mosaik aus Hochmooren, Auensümpfen und Heiden, renaturiert für Feuchtgebietsarten.
+  it: Mosaico transfrontaliero di torbiere, paludi ripariali e brughiere riqualificate per la fauna acquatica.
+  pt: Mosaico transfronteiriço de turfeiras, pauis aluviais e charnecas recuperados para a fauna aquática.
+unico:
+  es: >-
+    Una frontera que fue pantano, contrabando y defensa, y que hoy cruzan a pie ciervos, castores y libélulas
+    sin pasar por ninguna aduana.
+  en: >-
+    A border that was once swamp, smuggling terrain, and military defence, now crossed on foot by red deer,
+    beavers, and dragonflies without any border control.
+  fr: >-
+    Une frontière jadis marécageuse, lieu de contrebande et de défense, aujourd'hui franchie à pied par cerfs,
+    castors et libellules sans aucune formalité douanière.
+  de: >-
+    Eine Grenze, die einst Sumpf, Schmuggelrevier und Wehranlage war, heute von Hirschen, Bibern und Libellen
+    ganz ohne Zollkontrolle durchstreift.
+  it: >-
+    Una frontiera che fu palude, contrabbando e linea difensiva, oggi attraversata a piedi da cervi, castori e
+    libellule senza alcuna dogana.
+  pt: >-
+    Uma fronteira que foi paul, contrabando e fortificação defensiva, hoje cruzada a pé por veados, castores e
+    libélulas sem qualquer controlo alfandegário.
+observaciones:
+  es: >-
+    No hay horario general porque el paisaje es abierto, pero algunas zonas naturales solo son accesibles
+    entre la salida y la puesta del sol. Hay zonas de silencio, así que modera el ruido.
+texto:
+  es:
+    intro: >-
+      Antes de que lo desecaran, aquí no se podía pasar. Los arroyos que bajan de la meseta de Kempen hacia el
+      Mosa y el agua subterránea que aflora tenían la llanura de Bocholt encharcada, y durante siglos el
+      pantano fue frontera, refugio y trampa. Hoy KempenBroek es un mosaico de humedales, brezales, bosques y
+      campos a ambos lados de la frontera entre el Limburgo belga y el neerlandés y Brabante Septentrional, y
+      desde 2024 es reserva de la biosfera de UNESCO.
+    landscape: >-
+      KempenBroek ocupa la llanura de Bocholt, una zona baja y plana al pie de la meseta de Kempen. De ahí el
+      carácter del paisaje: pantanos encharcados alternan con brezales secos, y los bosques se reparten entre
+      campos y prados. Antes del drenaje del siglo diecinueve, la región era una cadena de grandes pantanos y
+      brezal húmedo, y la gente necesitaba lo que daba el «broek» para sobrevivir, aunque los niveles
+      traicioneros del agua y la falta de referencias hacían que el riesgo de perderse o ahogarse fuera
+      constante.
+
+
+      Dentro de ese mosaico cada rincón tiene su carácter. En Lozerheide domina el bosque caducifolio con
+      estanques, abrevaderos y prados. En el valle del Bosbeek, el paraje de Tösch es un pedazo de naturaleza
+      salvaje en miniatura, con bosque pantanoso, charcas y matorral. Y en el conjunto de estanques de St.
+      Maartensheide y De Luysen, el agua es la protagonista.
+    wildlife: >-
+      En los últimos treinta años se han registrado más de 5.000 especies de plantas y animales. El grupo que
+      más se nota son las libélulas: KempenBroek es una de las zonas del Benelux con más de ellas, se pueden
+      descubrir más de cincuenta especies, y el insecto figura en el logotipo. En el conjunto de estanques de
+      De Luysen y alrededores se pueden ver casi cincuenta.
+
+
+      También ha vuelto el [castor](/especie/castor_fiber/), que construye madrigueras y presas en los lugares
+      con agua, y con algo de suerte se puede ver al [ciervo rojo](/especie/cervus_elaphus/). Desde el
+      observatorio de aves de Zig y Goort se pueden buscar rascón, pechiazul, buscarla de los juncos, castor,
+      avetoro y avetorillo. En St. Maartensheide y Hemelrijk, el paisaje pequeño y abierto favorece al
+      alcaudón dorsirrojo, al escribano cerillo y a aves de pradera como el [zarapito
+      real](/especie/numenius_arquata/) y la [aguja colinegra](/especie/limosa_limosa/). En las Laurabossen,
+      el ganado de las tierras altas escocesas mantiene abierto el brezal y eso favorece al chotacabras, que
+      cría allí desde hace unos años. En otoño, en el área de Weerterbos, es época de celo de los ciervos y
+      buen momento para la berrea.
+
+
+      Los meses más recomendados para ir van de abril a octubre.
+    visit: >-
+      Hay rutas a pie para todos los tiempos. Zig y Goort tienen cuatro recorridos: las rutas azul y verde
+      recorren Goort y miden 3,8 y 2,8 kilómetros, y las roja y amarilla atraviesan Zig y miden 9,6 y 7,5
+      kilómetros; además, la caseta de observación ofrece una vista panorámica de los estanques. En Lozerheide
+      hay dos rutas: la roja, de 6,7 km, y la amarilla, de 3 km, accesible en silla de ruedas. En Smeetshof y
+      Wijffelterbroek hay siete rutas, de 2,4 a 10,5 km, que cruzan la frontera entre Bélgica y Países Bajos,
+      con un detalle: los grandes herbívoros pastan cada uno a su manera y crean un mosaico de pasto, brezal,
+      matorral y bosque. En De IJzeren Man, la ruta marrón de 1,4 km es didáctica, con paneles sobre la fauna
+      y la flora.
+
+
+      Si prefieres la bicicleta, la Broekroute es un itinerario de 30 kilómetros que enlaza zonas húmedas
+      bajas junto a ríos y arroyos, y la red de nudos permite componer la ruta a medida; los carteles son
+      verdes en Países Bajos y azules en Bélgica. El centro de naturaleza y medio ambiente De IJzeren Man
+      cuenta, isla a isla, la relación entre suelo, plantas, animales y ecosistemas. También se pueden
+      reservar guías locales, los «Verkenners», que llevan a los lugares más bonitos o enseñan cómo viven los
+      animales.
+    history: >-
+      La frontera marcó la historia. Las Bocholter Graven eran una defensa fronteriza medieval: un complejo de
+      fosos y terraplenes de 500 m de ancho que cerraba el único paso entre dos marismas. Estorbaron a los
+      ejércitos saqueadores del siglo catorce al dieciocho y su recorrido sigue enterrado. Era además un
+      territorio donde el contrabando se hizo arte profesional y donde era habitual mover de noche los mojones
+      fronterizos. En el arroyo Abeek llegó a haber veintiocho molinos de agua.
+
+
+      La conservación trabaja ahora en sentido contrario al drenaje. En Smeetshof se empezó a restaurar el
+      pantano en 2003: se crearon nuevos humedales, se recuperó brezal y se excavaron charcas para anfibios.
+      Natuurmonumenten y ARK Rewilding Nederland devolvieron la humedad a la Loozerheide. UNESCO reconoció
+      KempenBroek el 5 de julio de 2024 como reserva de la biosfera transfronteriza, la primera de Bélgica; el
+      reconocimiento no añade normas ni restricciones, solo pide proteger legalmente las zonas núcleo.
+    before: >-
+      No hay horario general porque el paisaje es abierto, pero algunas zonas naturales solo son accesibles
+      entre la salida y la puesta del sol. Hay zonas de silencio, así que modera el ruido.
+    around: >-
+      A 14 km está el [Reservas de Deurnsche Peel y Mariapeel](/lugar/deurnsche-peel---mariapeel/), otro
+      paisaje de turberas y brezal en la misma región. Más lejos, la [Reserva Natural Especial
+      Zasavica](/lugar/specijalni-rezervat-prirode-zasavica/) comparte con KempenBroek el castor y el ganado
+      en un mismo humedal.
+  en:
+    intro: >-
+      Before the land was drained, crossing here was nearly impossible. Streams flowing from the Kempen
+      plateau towards the Meuse and upwelling groundwater kept the Bocholt plain perpetually waterlogged; for
+      centuries the swamp was a border, a sanctuary, and a natural obstacle. Today KempenBroek forms a mosaic
+      of wetlands, heaths, forests, and fields straddling Belgian Limburg, Dutch Limburg, and North Brabant,
+      designated in 2024 as a UNESCO biosphere reserve.
+    landscape: >-
+      The heart of the park is an extensive depression on the western edge of the Roer Valley Graben, bordered
+      to the southwest by the Kempens Plateau. This geographic setting explains its unique character:
+      saturated marshes alternate with dry heathlands, interspersed with small woodlands, fields, and meadows.
+      Before nineteenth-century drainage schemes, the region comprised a continuous belt of vast fens and wet
+      heath; local villagers relied on what the 'broek' could yield to survive, although treacherous water
+      levels and featureless horizons brought constant perils of getting lost or drowning.
+
+
+      Within this landscape mosaic each sector possesses distinctive character. Lozerheide is dominated by
+      broadleaf woodland with ponds, watering holes, and meadows. In the Bosbeek valley, Tösch presents a
+      miniature wilderness of swamp woodland, pools, and scrub. In the St. Maartensheide and De Luysen lake
+      cluster, open water commands the scenery.
+    wildlife: >-
+      Over the last thirty years, more than 5,000 species of flora and fauna have been recorded. The most
+      prominent insects are dragonflies: KempenBroek ranks among the premier dragonfly hotspots in the
+      Benelux, boasting over fifty species, with the insect featured on the park emblem. Within the De Luysen
+      lake network alone, nearly fifty species have been identified.
+
+
+      The [Eurasian beaver](/especie/castor_fiber/) has also returned, constructing lodges and dams along
+      waterways, and with patience visitors can spot [red deer](/especie/cervus_elaphus/). From the Zig and
+      Goort bird hide, birders watch for water rails, bluethroats, sedge warblers, beavers, Eurasian bitterns,
+      and little bitterns. Across St. Maartensheide and Hemelrijk, the small-scale bocage landscape benefits
+      red-backed shrikes, yellowhammers, and wet-meadow waders like the [Eurasian
+      curlew](/especie/numenius_arquata/) and [black-tailed godwit](/especie/limosa_limosa/). In Laurabossen,
+      Highland cattle maintain open heathland, supporting European nightjars that have bred here for several
+      years. Autumn brings the red deer rut to Weerterbos.
+
+
+      The recommended visiting season extends from April to October.
+    visit: >-
+      Walking trails cater to every schedule. Zig and Goort offer four waymarked loops: the blue and green
+      routes explore Goort over 3.8 and 2.8 kilometres, while the red and yellow routes cross Zig measuring
+      9.6 and 7.5 kilometres; the observation hide provides commanding views over the water. Lozerheide
+      provides two trails: the red route (6.7 km) and the wheelchair-accessible yellow route (3 km). Smeetshof
+      and Wijffelterbroek feature seven routes ranging from 2.4 to 10.5 km that cross the Belgian-Dutch
+      border, where large grazing herbivores shape a fine-grained mosaic of grassland, heath, scrub, and
+      woods. At De IJzeren Man, the brown route (1.4 km) offers an educational walk with wildlife
+      interpretation panels.
+
+
+      For cycling, the Broekroute is a 30-kilometre itinerary linking low-lying wetlands along streams and
+      canals, easily customized through the cycle-node network; marker signs are green in the Netherlands and
+      blue in Belgium. The De IJzeren Man nature and visitor centre explains the ecological relationships
+      linking soil, plants, and fauna across themed landscape islands. Guided walks can be arranged with local
+      'Verkenners' guides.
+    history: >-
+      The frontier deeply influenced local history. The Bocholter Graven formed a medieval defensive barrier:
+      an earthen rampart and ditch system 500 m wide sealing the only passable route between two impassable
+      swamps. It thwarted marauding armies from the fourteenth to the eighteenth centuries, and its traces
+      remain buried under woodland. The area was renowned for professional smuggling, with boundary stones
+      frequently shifted by night. Along the Abeek stream, twenty-eight watermills once operated.
+
+
+      Modern ecological restoration reverses historic drainage. At Smeetshof wetland restoration began in
+      2003: creating open water, restoring wet heath, and digging amphibian breeding pools. Natuurmonumenten
+      and ARK Rewilding Nederland restored natural hydrology to Loozerheide. UNESCO designated KempenBroek on
+      5 July 2024 as a transboundary biosphere reserve, Belgium's first, requiring legal protection for core
+      conservation zones.
+    before: >-
+      No general opening hours exist for the open landscape, but certain nature reserves are accessible only
+      from sunrise to sunset. Quiet zones require visitors to minimize noise.
+    around: >-
+      Located 14 km away are the [Deurnsche Peel and Mariapeel Reserves](/lugar/deurnsche-peel---mariapeel/),
+      another raised bog and heathland complex in the region. Farther abroad, [Zasavica Special Nature
+      Reserve](/lugar/specijalni-rezervat-prirode-zasavica/) shares with KempenBroek the co-occurrence of
+      beavers and grazing livestock within a wetland setting.
+  fr:
+    intro: >-
+      Avant les grands travaux de drainage, franchir cette plaine était quasi impossible. Les ruisseaux
+      descendant du plateau de Campine vers la Meuse et les résurgences souterraines inondaient la plaine de
+      Bocholt ; des siècles durant, ce marais servit de frontière, de refuge et d'obstacle. Aujourd'hui,
+      KempenBroek forme une riche mosaïque d'eaux douces, landes, bois et prés entre Limbourg belge, Limbourg
+      néerlandais et Brabant-Septentrional, reconnue en 2024 réserve de biosphère par l'UNESCO.
+    landscape: >-
+      Le cœur du parc correspond à une vaste dépression sur la bordure occidentale du fossé de la Roer, bordée
+      au sud-ouest par le plateau campinois. Cette géomorphologie explique les contrastes du paysage : marais
+      tourbeux et landes sèches alternent avec des îlots boisés et des prés bocagers. Avant les assèchements
+      du dix-neuvième siècle, la zone formait une chaîne ininterrompue de marais et de bruyères humides ; les
+      riverains tiraient leur subsistance de ce « broek », bravant le risque constant de noyade au milieu de
+      repères incertains.
+
+
+      Chaque secteur présente son ambiance. À Lozerheide dominent les feuillus avec étangs, mares et prairies.
+      Dans la vallée du Bosbeek, le site de Tösch forme une nature sauvage miniature mêlant tourbières et
+      fourrés. Dans le complexe d'étangs de St. Maartensheide et De Luysen, l'eau dicte la vie sauvage.
+    wildlife: >-
+      Au cours des trente dernières années, plus de 5 000 espèces végétales et animales y ont été dénombrées.
+      Les libellules forment le groupe phare : KempenBroek est l'un des hauts lieux du Benelux avec plus de
+      cinquante espèces répertoriées, ce qui lui vaut de figurer sur le logo du parc. Le seul complexe
+      d'étangs de De Luysen en rassemble près de cinquante.
+
+
+      Le [castor d'Europe](/especie/castor_fiber/) est réapparu, construisant huttes et barrages, et avec un
+      peu de chance on observe le [cerf élaphe](/especie/cervus_elaphus/). Depuis l'observatoire de Zig et
+      Goort, on guette le râle d'eau, la gorgebleue à miroir, la locustelle luscinioïde, le butor étoilé et le
+      blongios nain. À St. Maartensheide et Hemelrijk, le paysage ouvert profite à la pie-grièche écorcheur,
+      au bruant jaune et aux limicoles comme le [courlis cendré](/especie/numenius_arquata/) et la [barge à
+      queue noire](/especie/limosa_limosa/). Dans les Laurabossen, les bovins des Highlands maintiennent les
+      landes ouvertes, attirant l'engoulevent d'Europe. L'automne est marqué par le brame du cerf dans le
+      Weerterbos.
+
+
+      Les mois les plus propices s'étendent d'avril à octobre.
+    visit: >-
+      Des sentiers pédestres s'adaptent à toutes les envies. Zig et Goort comptent quatre boucles : les
+      circuits bleu et vert parcourent Goort sur 3,8 et 2,8 kilomètres, tandis que les tracés rouge et jaune
+      traversent Zig sur 9,6 et 7,5 kilomètres ; un affût offre une vue dégagée sur les étangs. À Lozerheide
+      se trouvent deux parcours : le rouge de 6,7 km et le jaune de 3 km, accessible en fauteuil roulant. À
+      Smeetshof et Wijffelterbroek, sept itinéraires de 2,4 à 10,5 km franchissent la frontière
+      belgo-néerlandaise au milieu des grands herbivores en pâturage extensif. À De IJzeren Man, le sentier
+      brun de 1,4 km propose un parcours pédagogique jalonné de panneaux.
+
+
+      À vélo, la Broekroute déroule 30 kilomètres le long des zones humides et des cours d'eau, connectée au
+      réseau points-nœuds (panneaux verts aux Pays-Bas, bleus en Belgique). La maison de la nature De IJzeren
+      Man décrypte les interactions écologiques par îlots thématiques. Des visites guidées sont animées par
+      les « Verkenners » locaux.
+    history: >-
+      La frontière a façonné les mémoires. Les Bocholter Graven constituaient un retranchement défensif
+      médiéval : un système de fossés et de levées de terre de 500 m de large barrant l'unique passage entre
+      deux marécages infranchissables. Cet obstacle arrêta les troupes de pillards du quatorzième au
+      dix-huitième siècle. La région fut aussi une terre d'élection de la contrebande où l'on déplaçait de
+      nuit les bornes frontières. Sur l'Abeek tournèrent jadis vingt-huit moulins à eau.
+
+
+      La restauration écologique inverse désormais les drainages passés. À Smeetshof, les marais ont été
+      réhabilités dès 2003 avec recréation de mares et de landes humides. L'UNESCO a reconnu KempenBroek le 5
+      juillet 2024 comme réserve de biosphère transfrontalière, la première de Belgique.
+    before: >-
+      L'accès à l'espace rural est libre, mais certaines réserves ne sont ouvertes que du lever au coucher du
+      soleil. Respectez la tranquillité des zones de silence.
+    around: >-
+      À 14 km s'étendent les [réserves de Deurnsche Peel et Mariapeel](/lugar/deurnsche-peel---mariapeel/),
+      autre ensemble de tourbières et de landes. Plus au sud, la [réserve naturelle spéciale de
+      Zasavica](/lugar/specijalni-rezervat-prirode-zasavica/) partage avec KempenBroek l'alliance de castors
+      et de bétail en zone humide.
+  de:
+    intro: >-
+      Vor der systematischen Entwässerung war diese Landschaft nahezu unpassierbar. Bäche vom Kempener Plateau
+      zur Maas und austretendes Grundwasser hielten die Bocholt-Ebene dauerhaft unter Wasser; jahrhundertelang
+      war das Moor Grenze, Zuflucht und Falle zugleich. Heute bildet KempenBroek ein Mosaik aus
+      Feuchtgebieten, Heiden, Wäldern und Wiesen beiderseits der Grenze zwischen Belgisch-Limburg,
+      Niederländisch-Limburg und Nordbrabant, seit 2024 als UNESCO-Biosphärenreservat anerkannt.
+    landscape: >-
+      Das Kerngebiet ist eine weite Senke am Westrand des Rurtalgrabens, im Südwesten begrenzt vom Kempener
+      Plateau. Daraus resultiert das Landschaftsbild: Vernässte Bruchwälder wechseln mit trockenen Sandheiden,
+      Gehölzinseln und Weiden. Vor den Entwässerungen des neunzehnten Jahrhunderts erstreckte sich hier eine
+      Kette aus Mooren und Feuchtheiden; die Bevölkerung nutzte die karge Weide des 'Broek' zum Überleben,
+      stets bedroht von tückischen Wasserständen und Orientierungslosigkeit.
+
+
+      Jeder Teilbereich besitzt eigenes Gepräge. In der Lozerheide dominieren Laubwälder mit Teichen, Tränken
+      und Wiesen. Im Bosbeek-Tal bildet das Tösch eine Miniatur-Wildnis aus Bruchwald, Tümpeln und Röhricht.
+      In den Teichen von St. Maartensheide und De Luysen steht das Wasser ganz im Mittelpunkt.
+    wildlife: >-
+      In den letzten dreißig Jahren wurden über 5.000 Tier- und Pflanzenarten erfasst. Herausragend sind die
+      Libellen: KempenBroek zählt zu den artenreichsten Regionen der Benelux-Länder mit mehr als fünfzig
+      Arten, weshalb eine Libelle das Parklogo ziert. Allein im Teichgebiet De Luysen lassen sich nahezu
+      fünfzig Arten beobachten.
+
+
+      Auch der [Biber](/especie/castor_fiber/) ist zurückgekehrt, baut Burgen und Dämme, und mit Geduld lässt
+      sich der [Rothirsch](/especie/cervus_elaphus/) erblicken. Von der Beobachtungshütte Zig und Goort aus
+      sichtet man Wasserralle, Blaukehlchen, Rohrschwirl, Biber, Rohrdommel und Zwergdommel. In St.
+      Maartensheide und Hemelrijk begünstigt die kleinparzellierte Landschaft Neuntöter, Goldammer sowie
+      Wiesenbrüter wie [Großen Brachvogel](/especie/numenius_arquata/) und
+      [Uferschnepfe](/especie/limosa_limosa/). In den Laurabossen halten Highland-Rinder die Heide offen, was
+      dem Ziegenmelker zugutekommt. Im Herbst hallt im Weerterbos die Hirschbrunft wider.
+
+
+      Beste Besuchsmonate sind April bis Oktober.
+    visit: >-
+      Wanderwege bieten Routen für jeden Zeitrahmen. Zig und Goort bieten vier Runden: Die blaue und grüne
+      Route führen über 3,8 und 2,8 Kilometer durch Goort, während die rote und gelbe Route durch Zig über 9,6
+      und 7,5 Kilometer verlaufen; der Beobachtungsstand eröffnet weite Blicke auf die Wasserflächen. In der
+      Lozerheide gibt es zwei Wege: Rot (6,7 km) und die rollstuhlgerechte gelbe Route (3 km). In Smeetshof
+      und Wijffelterbroek queren sieben Wege zwischen 2,4 und 10,5 km die belgisch-niederländische Grenze
+      durch Weidegebiete robuster Rinder und Pferde. Bei De IJzeren Man informiert die braune 1,4-km-Route mit
+      Lehrtafeln über Tier- und Pflanzenwelt.
+
+
+      Für Radfahrer verbindet die Broekroute auf 30 Kilometern Feuchtgebiete entlang von Kanälen und Bächen,
+      angebunden an das Knotenpunktnetz (grüne Schilder in den Niederlanden, blaue in Belgien). Das
+      Naturzentrum De IJzeren Man veranschaulicht ökologische Zusammenhänge. Geführte Touren bieten die
+      lokalen 'Verkenners'-Guides.
+    history: >-
+      Die Grenze prägte die Geschichte nachhaltig. Die Bocholter Graven waren eine mittelalterliche Grenzwehr:
+      Ein 500 m breites System aus Gräben und Erdwällen riegelte den einzigen Durchgang zwischen zwei
+      unpassierbaren Sümpfen ab. Es hielt plündernde Heere vom vierzehnten bis ins achtzehnte Jahrhundert auf.
+      Zudem blühte hier das Schmuggelhandwerk, bei dem Grenzsteine nachts versetzt wurden. Am Bach Abeek
+      klapperten einst achtundzwanzig Wassermühlen.
+
+
+      Der Naturschutz macht heute alte Entwässerungen rückgängig. In Smeetshof begann 2003 die
+      Wiedervernässung mit Anlage neuer Flachwasserzonen und Feuchtheiden. Die UNESCO ernannte KempenBroek am
+      5. Juli 2024 zum grenzüberschreitenden Biosphärenreservat, dem ersten Belgiens.
+    before: >-
+      Feste Öffnungszeiten gibt es im offenen Gelände nicht, einzelne Kernzonen sind jedoch nur von
+      Sonnenaufgang bis Sonnenuntergang zugänglich. Bitte Ruhezonen achten.
+    around: >-
+      In 14 km Entfernung liegen die [Schutzgebiete Deurnsche Peel und
+      Mariapeel](/lugar/deurnsche-peel---mariapeel/), ein weiteres Hochmoor- und Heideland. Weiter entfernt
+      teilt das [Sondernaturreservat Zasavica](/lugar/specijalni-rezervat-prirode-zasavica/) mit KempenBroek
+      Biber und Weidevieh in Feuchtbiotopen.
+  it:
+    intro: >-
+      Prima delle bonifiche, attraversare questo territorio era quasi impossibile. I corsi d'acqua che
+      scendono dal plateau di Kempen verso la Mosa e le risorgenze sotterranee allagavano perennemente la
+      piana di Bocholt; per secoli la palude fu confine, rifugio e barriera naturale. Oggi KempenBroek
+      costituisce un variegato mosaico di zone umide, brughiere, boschi e prati a cavallo del confine tra
+      Limburgo belga, Limburgo olandese e Brabante Settentrionale, riconosciuto nel 2024 riserva della
+      biosfera UNESCO.
+    landscape: >-
+      Il fulcro del parco è una vasta depressione sul margine occidentale della fossa tettonica della Roer,
+      cinta a sud-ovest dal Kempens Plateau. Questo assetto determina il contrasto paesaggistico: paludi e
+      acquitrini alternano con brughiere asciutte, boschetti e praterie. Prima dei drenaggi del diciannovesimo
+      secolo, l'area era una sequenza continua di acquitrini e brughiere umide; i residenti traevano
+      sostentamento dalle risorse del «broek», affrontando il pericolo costante di perdersi o annegare nei
+      pantani.
+
+
+      Ogni comparto conserva caratteri propri. A Lozerheide prevale il bosco caducifoglio con specchi d'acqua
+      e prati. Nella valle del Bosbeek, Tösch è una riserva naturale in miniatura tra boschi acquitrinosi e
+      canneti. Nel bacino di stagni di St. Maartensheide e De Luysen, l'acqua è padrona assoluta.
+    wildlife: >-
+      Negli ultimi trent'anni sono state censite oltre 5.000 specie di piante e animali. Il gruppo più
+      rappresentativo è quello delle libellule: KempenBroek è una delle zone più ricche del Benelux con oltre
+      cinquanta specie, tanto che l'insetto compare nel logo del parco. Nel solo comprensorio di De Luysen se
+      ne osservano quasi cinquanta.
+
+
+      È tornato stabilmente il [castoro europeo](/especie/castor_fiber/), che costruisce tane e dighe, e con
+      pazienza si può scorgere il [cervo nobile](/especie/cervus_elaphus/). Dal capanno d'avvistamento di Zig
+      e Goort si osservano porciglione, pettazzurro, forapaglie macchiettato, tarabuso e tarabusino. A St.
+      Maartensheide e Hemelrijk il mosaico agricolo favorisce averla piccola, zigolo giallo e uccelli di
+      prateria come la [pittima reale](/especie/limosa_limosa/) e il [chiurlo
+      maggiore](/especie/numenius_arquata/). Nelle Laurabossen, i bovini delle Highlands mantengono aperte le
+      brughiere, richiamando il succiacapre. L'autunno accoglie il bramito del cervo a Weerterbos.
+
+
+      Il periodo migliore va da aprile a ottobre.
+    visit: >-
+      La rete pedonale soddisfa ogni esigenza. Zig e Goort offrono quattro anelli: i percorsi blu e verde
+      esplorano Goort su 3,8 e 2,8 chilometri, mentre il rosso e il giallo attraversano Zig su 9,6 e 7,5
+      chilometri; il capanno offre un panorama ampio sulle acque. A Lozerheide si snodano due percorsi: il
+      rosso di 6,7 km e il giallo di 3 km, accessibile in sedia a rotelle. A Smeetshof e Wijffelterbroek sette
+      tracciati da 2,4 a 10,5 km varcano il confine tra Belgio e Paesi Bassi tra grandi erbivori al pascolo. A
+      De IJzeren Man il sentiero marrone di 1,4 km è didattico con pannelli tematici.
+
+
+      In bicicletta, la Broekroute si snoda per 30 chilometri lungo canali e paludi, collegata alla rete
+      ciclabile a nodi (cartelli verdi nei Paesi Bassi, blu in Belgio). Il centro visite De IJzeren Man
+      illustra il funzionamento degli ecosistemi. Si possono prenotare guide locali «Verkenners».
+    history: >-
+      Il confine ha segnato la storia. Le Bocholter Graven erano una linea difensiva medievale: un complesso
+      di fossati e terrapieni largo 500 m che sbarrava l'unico varco tra due paludi impraticabili, respingendo
+      eserciti saccheggiatori dal quattordicesimo al diciottesimo secolo. La zona fu anche teatro di
+      contrabbando con cippi spostati nella notte. Lungo l'Abeek funzionavano ventotto mulini ad acqua.
+
+
+      La rinaturazione inverte oggi i vecchi prosciugamenti. A Smeetshof il ripristino è iniziato nel 2003 con
+      nuove zone umide e specchi d'acqua. L'UNESCO ha proclamato KempenBroek il 5 luglio 2024 riserva della
+      biosfera transfrontaliera, la prima del Belgio.
+    before: >-
+      Non vi sono orari d'accesso nel paesaggio aperto, ma alcune riserve sono accessibili solo dall'alba al
+      tramonto. Rispetta le zone di quiete.
+    around: >-
+      A 14 km sorgono le [Riserve di Deurnsche Peel e Mariapeel](/lugar/deurnsche-peel---mariapeel/), altro
+      complesso di torbiere e brughiere. Più a sud, la [Riserva Naturale Speciale di
+      Zasavica](/lugar/specijalni-rezervat-prirode-zasavica/) condivide con KempenBroek la presenza di castori
+      e pascolo in palude.
+  pt:
+    intro: >-
+      Antes das drenagens agrícolas, atravessar este terreno era quase impraticável. Os ribeiros que descem do
+      planalto de Kempen em direção ao Mosa e os lençóis freáticos à superfície mantinham a planície de
+      Bocholt alagada; durante séculos o pântano serviu de fronteira, refúgio e obstáculo natural. Hoje
+      KempenBroek forma um mosaico de zonas húmidas, charnecas, matas e prados entre o Limburgo belga, o
+      Limburgo neerlandês e Brabante do Norte, classificado em 2024 como reserva da biosfera pela UNESCO.
+    landscape: >-
+      O núcleo do parque assenta numa bacia rebaixada no bordo poente da fossa tectónica do Roer, delimitada a
+      sudoeste pelo planalto de Kempen. Daí o perfil singular da paisagem: pauis encharcados alternam com
+      charnecas arenosas, pequenos bosques e prados de feno. Antes da drenagem do século XIX, a região
+      constituía uma cadeia de grandes pântanos e urzais húmidos; a população sobrevivia dos recursos do
+      «broek», enfrentando o perigo de afogamento em lodaçais traiçoeiros.
+
+
+      Cada setor resguarda a sua identidade. Em Lozerheide sobressai a floresta caducifólia com lagoas e
+      prados. No vale do Bosbeek, o sítio de Tösch forma uma natureza bravia em miniatura, com bosques
+      palustres e charcos. No complexo lagunar de St. Maartensheide e De Luysen, a água comanda a paisagem.
+    wildlife: >-
+      Ao longo dos últimos trinta anos foram inventariadas mais de 5.000 espécies de animais e plantas. O
+      grupo mais expressivo é o das libélulas: KempenBroek destaca-se como um dos melhores refúgios do
+      Benelux, somando mais de cinquenta espécies, com a libélula inscrita no emblema do parque. Só na rede de
+      lagoas de De Luysen avistam-se quase cinquenta espécies.
+
+
+      O [castor-europeu](/especie/castor_fiber/) recolonizou o parque, erguendo tocas e represas, e com
+      discrição pode avistar-se o [veado-vermelho](/especie/cervus_elaphus/). Do posto de observação de Zig e
+      Goort avistam-se frango-d'água, pisco-de-peito-azul, felosa-unicolor, abetouro e garçote. Em St.
+      Maartensheide e Hemelrijk, o mosaico aberto acolhe o picanço-de-dorso-ruivo, a escrevedeira-amarela e
+      aves limícolas como o [maçarico-real](/especie/numenius_arquata/) e o
+      [milherango](/especie/limosa_limosa/). Em Laurabossen, o gado das Terras Altas preserva a charneca,
+      atraindo o noitibó-da-europa. No outono ecoa a brama do veado em Weerterbos.
+
+
+      A melhor época de visita vai de abril a outubro.
+    visit: >-
+      A rede de percursos pedestres ajusta-se a qualquer ritmo. Zig e Goort possuem quatro circuitos: as rotas
+      azul e verde percorrem Goort em 3,8 e 2,8 quilómetros, enquanto a vermelha e amarela cruzam Zig com 9,6
+      e 7,5 quilómetros; o abrigo proporciona uma vista ampla sobre as lagoas. Em Lozerheide existem duas
+      rotas: a vermelha (6,7 km) e a amarela (3 km), acessível a cadeiras de rodas. Em Smeetshof e
+      Wijffelterbroek há sete trajetos entre 2,4 e 10,5 km que cruzam a fronteira belgo-neerlandesa por
+      pastagens de grandes herbívoros. Em De IJzeren Man, o circuito castanho de 1,4 km é didático com painéis
+      informativos.
+
+
+      Para bicicletas, a Broekroute estende-se por 30 quilómetros junto a canais e pauis, articulada na rede
+      de nós cicláveis (sinalização verde nos Países Baixos e azul na Bélgica). O centro ambiental De IJzeren
+      Man explica a dinâmica dos habitats. Podem reservar-se visitas com os guias locais «Verkenners».
+    history: >-
+      A linha de fronteira forjou o passado regional. As Bocholter Graven constituíram um baluarte medieval:
+      uma cintura de fossos e taludes de 500 m de largura que trancava o único acesso entre dois pântanos
+      intransponíveis, travando pilhagens militares entre o século XIV e o século XVIII. Foi também paraíso de
+      contrabandistas com marcos de fronteira desviados durante a noite. Na ribeira de Abeek funcionaram vinte
+      e oito moinhos de água.
+
+
+      A conservação restaura agora o regime hídrico primitivo. Em Smeetshof iniciou-se a recuperação em 2003,
+      escavando charcos para anfíbios e regenerando charnecas húmidas. A UNESCO declarou KempenBroek a 5 de
+      julho de 2024 reserva da biosfera transfronteiriça, a primeira da Bélgica.
+    before: >-
+      Não há horário formal de entrada no território aberto, mas certas reservas naturais só podem ser
+      percorridas entre o nascer e o pôr do sol. Respeita as zonas de silêncio.
+    around: >-
+      A 14 km ficam as [Reservas de Deurnsche Peel e Mariapeel](/lugar/deurnsche-peel---mariapeel/), outro
+      complexo de turfeiras e charneca. Mais longe, a [Reserva Natural Especial de
+      Zasavica](/lugar/specijalni-rezervat-prirode-zasavica/) partilha com KempenBroek a presença de castores
+      e gado em áreas húmidas.
+fuentes:
+  - url: https://kempenbroek.eu/nl/zig-en-goort/
+    titulo: Wandelgebied Zig en Goort – KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/beleef-het-kempenbroek/wandelen/
+    titulo: Wandelen in het KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/broekroute/
+    titulo: Broekroute – KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/weerterbos-en-hugterheide/
+    titulo: Weerterbos en Hugterheide – KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/stramprooierbroek/
+    titulo: Wandelgebied Stramprooierbroek – KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/over-het-kempenbroek/mens-en-biosfeer/
+    titulo: Mens en Biosfeer — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/
+    titulo: KempenBroek — portada
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/over-het-kempenbroek/natuur-en-landschap/
+    titulo: Natuur en landschap — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/over-het-kempenbroek/geschiedenis-en-erfgoed/
+    titulo: Geschiedenis en erfgoed — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/lozerheide/
+    titulo: Lozerheide — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/swartbroek-de-pelen/
+    titulo: Swartbroek en De Pelen — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/vallei-van-de-bosbeek/
+    titulo: Vallei van de Bosbeek — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/smeetshof-wijffelterbroek/
+    titulo: Smeetshof y Wijffelterbroek — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/ijzeren-man-en-laurabossen/
+    titulo: IJzeren Man y Laurabossen — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/st-maartensheide-de-luysen/
+    titulo: St. Maartensheide y De Luysen — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/dorplein-en-boshoverheide/
+    titulo: Dorplein y Boshoverheide — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/plan-je-bezoek/
+    titulo: Planifica tu visita — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/beleef-het-kempenbroek/fietsen/
+    titulo: Ciclismo — KempenBroek
+    fecha_consulta: '2026-10-30'
+  - url: https://kempenbroek.eu/nl/beleef-het-kempenbroek/verkenners/
+    titulo: Verkenners — KempenBroek
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Kempen-Broek_-_panoramio_(1).jpg
+    autor: Geert Budenaerts
+    licencia: CC BY 3.0
+    url_licencia: https://creativecommons.org/licenses/by/3.0
+    fecha_descarga: '2026-10-17'

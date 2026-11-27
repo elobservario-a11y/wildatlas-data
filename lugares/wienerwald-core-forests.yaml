@@ -1,0 +1,542 @@
+id: wienerwald-core-forests
+estado_editorial: valoracion-revisada
+nombre:
+  es: Bosque de Viena - Macizos Núcleo
+  en: Vienna Woods - Core Forest Areas
+  fr: Forêt de Vienne - Massifs cœurs
+  de: Wienerwald - Kernzonenwälder
+  it: Bosco Viennese - Aree Forestali Nucleo
+  pt: Floresta de Viena - Zonas Nucleares
+nombre_original: Wienerwald Core Forests
+alias:
+  - Wienerwald Core Forests
+paises:
+  - AT
+region:
+  es: Baja Austria / Viena
+  en: Lower Austria / Vienna
+  fr: Basse-Autriche / Vienne
+  de: Niederösterreich / Wien
+  it: Bassa Austria / Vienna
+  pt: Baixa Áustria / Viena
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 48.15
+  lon: 16.1
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 9409
+  nombre_en_la_fuente: Wienerwald
+  categoria_uicn: V
+  capa: capas/cdda/wienerwald-core-forests.geojson
+habitats:
+  - mature_forest
+designaciones:
+  - biosphere_reserve
+  - natura2000
+especies:
+  - cervus_elaphus
+  - sus_scrofa
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: primavera a otoño
+  en: spring to autumn
+  fr: printemps à automne
+  de: frühling bis herbst
+  it: primavera ad autunno
+  pt: primavera a outono
+masificacion: 2
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Biosphärenpark Wienerwald
+    url: https://www.bpww.at/
+  - titulo: Visita — mapas y normas de las zonas núcleo
+    url: https://www.bpww.at/de/artikel/kernzonen
+  - titulo: Mapa — fichas de las zonas núcleo del Wienerwald
+    url: https://kernzonen.bpww.at/
+resumen:
+  es: Hayedos y robledales maduros protegidos en las colinas que flanquean la capital austriaca.
+  en: Protected mature beech and oak forests across the wooded hills flanking the Austrian capital.
+  fr: Hêtraies et chênaies anciennes protégées sur les collines boisées ceinturant la capitale autrichienne.
+  de: >-
+    Geschützte alte Buchen- und Eichenwälder in den waldreichen Höhenzügen am Rande der österreichischen
+    Bundeshauptstadt.
+  it: Faggete e querceti maturi tutelati sui rilievi boscosi che abbracciano la capitale austriaca.
+  pt: Faias e carvalhais maduros protegidos nas colinas florestadas que emolduram a capital austríaca.
+unico:
+  es: >-
+    En las zonas núcleo los árboles envejecen, caen y se pudren donde están, y así van creciendo los «bosques
+    primarios del mañana» a las puertas de Viena.
+  en: >-
+    In the core zones, veteran trees age, collapse, and decay where they fall, quietly fostering the "primeval
+    forests of tomorrow" on Vienna's doorstep.
+  fr: >-
+    Dans les zones cœurs, les arbres vieillissent, tombent et se décomposent sur place, faisant naître les «
+    forêts primaires de demain » aux portes de Vienne.
+  de: >-
+    In den Kernzonen dürfen Bäume altern, umstürzen und am Waldboden vermodern – so entstehen die «Urwälder
+    von morgen» vor den Toren Wiens.
+  it: >-
+    Nelle aree nucleo gli alberi invecchiano, cadono e si decompongono a terra, generando silenziosamente le
+    «foreste primarie del futuro» alle porte di Vienna.
+  pt: >-
+    Nas zonas nucleares as árvores envelhecem, tombam e apodrecem no local, gerando as «florestas virgens de
+    amanhã» às portas de Viena.
+observaciones:
+  es: >-
+    En las zonas núcleo no se sale de los caminos marcados. Las bicicletas y los caballos tienen que ir por
+    las rutas oficiales.
+texto:
+  es:
+    intro: >-
+      Junto a una capital hay un bosque donde se ha dejado de cortar. Se llama Wienerwald, el Bosque de Viena,
+      y es la única reserva de la biosfera de Europa que incluye parte de una gran ciudad. Dentro de ella, 37
+      manchas forestales suman más de 5.400 hectáreas de «zonas núcleo»: bosque que se dejó sin gestión
+      forestal para que evolucione solo. Son el 5 % de la superficie de la reserva, y están repartidas por
+      todo el Wienerwald para que cada tipo de bosque tenga su representante.
+    landscape: >-
+      El Wienerwald es una de las mayores extensiones continuas de hayedo de Europa central. Sobre el flysch,
+      que es arenisca en su mayor parte, el 77 % del bosque es de frondosas: sobre todo haya, roble y carpe.
+      En el sureste, calizo, aparecen en cambio las coníferas. Esa geología se lee en el bosque: en las zonas
+      núcleo el tipo más común es el hayedo de aspérula, que domina sobre el flysch, seguido del hayedo de
+      ciclamen, propio de la zona calcárea. En total se conocen 33 tipos de bosque, de los 213 que hay en
+      Austria.
+
+
+      Los bosques más ricos en plantas no son los hayedos sino los robledales cálidos, con hasta 62 especies
+      de plantas vasculares en 400 m². En el conjunto de los estudios se registraron 390 plantas vasculares
+      distintas. Las zonas núcleo son la parte más salvaje de un mosaico de bosques y prados de gran valor
+      natural. En total la reserva ocupa 1050 kilómetros cuadrados y sube de 160 a 893 metros; la cima más
+      alta es el Schöpfl, desde donde se ve a menudo hasta unos 100 km, hasta el Ötscher y el Schneeberg.
+    wildlife: >-
+      Aquí la madera muerta es una despensa. Las zonas núcleo dejan que los árboles vivan siglos, hasta que
+      los insectos, los hongos o el viento los tumban, y al pudrirse devuelven los nutrientes al bosque. De
+      eso viven los escarabajos de madera muerta, entre los que se hallaron 15 especies relictas de bosque
+      primario, y de eso se esconde la [salamandra común](/especie/salamandra_salamandra/), nocturna y la
+      especie característica del Wienerwald. En total se hallaron 10 especies de anfibios, la mitad de las de
+      Austria.
+
+
+      Las aves son el gran tesoro. El [pico dorsiblanco](/especie/dendrocopos_leucotos/), llamado «el pájaro
+      carpintero del bosque primario», anida con 15-18 parejas, una cifra sorprendentemente alta. Una gran
+      parte de la población austriaca del [papamoscas collarino](/especie/ficedula_albicollis/) y del
+      mosquitero silbador cría aquí: alrededor de un tercio y de la mitad. El [pico
+      mediano](/especie/picoides_medius/) y la paloma zurita tienen probablemente su mayor población de
+      Austria, con el 15-20 % del total nacional. La única ave que preocupa es el papamoscas papirrojo.
+
+
+      Los murciélagos suman 21 especies registradas, y algunas dependen mucho de bosques naturales como los
+      que se forman en las zonas núcleo. Y bajo la hojarasca vive un mundo menos vistoso: 49 especies de
+      caracoles terrestres, 14 de las cuales aparecieron solo en las zonas núcleo. Los hongos suman unas 800
+      especies, aproximadamente una décima parte de las conocidas en Austria.
+    visit: >-
+      Las zonas núcleo se visitan por los caminos oficiales, que sí existen: también dentro de ellas se
+      ofrecen caminos para caminar, ir en bici y a caballo. Pero la regla es clara: para proteger la
+      naturaleza, solo se puede entrar por los caminos oficialmente marcados.
+
+
+      Para prepararte, usa las fichas digitales de cada zona núcleo: traen datos, mapas, retratos de especies,
+      información sobre vegetación y madera muerta, y normas de conducta. Y si prefieres ir acompañado, la
+      gestión de la reserva ofrece excursiones y visitas guiadas a través de sus socios de educación
+      ambiental, por ejemplo experiencias de bosque para escolares.
+    history: >-
+      El Wienerwald fue coto de caza del príncipe y, entre 1870 y 1872, Josef Schöffel salvó gran parte del
+      bosque de la tala. En 2005 la UNESCO lo reconoció como reserva de la biosfera.
+
+
+      Las zonas núcleo son reservas naturales en Baja Austria y paisajes protegidos en Viena. Grandes partes
+      de la reserva son además espacio europeo protegido según las directivas de hábitats y de aves; dentro
+      hay cuatro parques naturales (Eichenhain, Sandsteinwienerwald, Sparbach y Föhrenberge), y en Viena el
+      Lainzer Tiergarten es reserva natural. Algunas cuevas están protegidas, entre otras cosas para proteger
+      a los murciélagos, y no se pueden visitar.
+    before: >-
+      En las zonas núcleo no se sale de los caminos marcados. Las bicicletas y los caballos tienen que ir por
+      las rutas oficiales.
+    around: >-
+      A unos 20 km queda el [Parque Nacional Donau-Auen](/lugar/nationalpark-donau-auen/), otro gran espacio
+      protegido del entorno.
+  en:
+    intro: >-
+      Right alongside a metropolis lies a vast forest where the axe has been laid down. It is called the
+      Wienerwald—the Vienna Woods—and it is the sole biosphere reserve in Europe to encompass part of a major
+      federal capital. Within its boundaries, 37 forest parcels total over 5,400 hectares of dedicated "core
+      zones": stands completely withdrawn from commercial forestry to evolve on their own terms. They
+      constitute 5 % of the biosphere reserve's total area, dispersed across the entire Wienerwald so that
+      every regional forest type possesses an unmanaged sanctuary.
+    landscape: >-
+      The Wienerwald represents one of the largest contiguous beech forest regions in Central Europe. Over the
+      flysch zone, predominantly composed of sandstone and marl, broadleaved deciduous trees account for 77 %
+      of the canopy: mainly European beech, sessile oak, and hornbeam. Toward the limestone southeast,
+      conifers take over. That geology is directly legible in the forest canopy: in the core zones, woodruff
+      beech forest dominates on the flysch, followed by cyclamen beech forest on limestone ground. In all, 33
+      forest community types have been catalogued out of the 213 recognized in Austria.
+
+
+      The most floristically diverse habitats are not the beechwoods, but the dry thermophilic oak woodlands,
+      supporting up to 62 vascular plant species in a 400 m² plot. Across ecological studies, 390 distinct
+      vascular plant species were documented. The core areas form the wildest jewels in an intricate mosaic of
+      woodlands and meadows. In total the biosphere reserve spans 1050 square kilometres, rising from 160 to
+      893 metres; the highest peak is the Schöpfl, whose observation tower commands panoramas extending up to
+      100 km to Mount Ötscher and the Schneeberg.
+    wildlife: >-
+      Here decaying deadwood is a vital pantry. The core zones allow veteran trees to stand for centuries
+      until fungi, wood-boring insects, or gales topple them, returning precious nutrients to the forest soil
+      as they rot. Saproxylic beetles thrive in this decaying wood, among which 15 primeval-forest relict
+      beetle species were identified, alongside the nocturnal [fire
+      salamander](/especie/salamandra_salamandra/), the flagship amphibian of the Wienerwald. In total, 10
+      amphibian species were recorded, representing half of Austria's native batrachofauna.
+
+
+      Birds constitute the supreme treasure. The [white-backed woodpecker](/especie/dendrocopos_leucotos/),
+      widely revered as "the woodpecker of ancient primeval forests", nests with 15–18 pairs—an
+      extraordinarily high density so near a metropolis. A substantial fraction of Austria's population of the
+      [collared flycatcher](/especie/ficedula_albicollis/) and wood warbler breeds here: roughly one third and
+      one half respectively. The [middle spotted woodpecker](/especie/picoides_medius/) and stock dove likely
+      sustain their largest Austrian populations in these woods, accounting for 15–20 % of the national total.
+      The only bird showing local decline is the red-breasted flycatcher.
+
+
+      Bats number 21 recorded species, with tree-roosting species closely reliant on natural cavities in the
+      core zones. Beneath the leaf litter thrives an unassuming world: 49 species of land snails, 14 of which
+      were found exclusively within the core zones. Fungi comprise some 800 documented species, roughly a
+      tenth of Austria's mycota.
+    visit: >-
+      Core zones can be explored via marked public trails: dedicated walking, cycling, and equestrian routes
+      wind through the woods. But the conservation rule is strict: to safeguard natural regeneration and
+      quiet, you must remain exclusively on officially designated paths.
+
+
+      To prepare your excursion, consult the digital profiles published for each core zone: featuring maps,
+      species accounts, details on stand structure and deadwood volume, and visitor etiquette. For guided
+      outings, the biosphere reserve administration and its environmental education partners offer seasonal
+      excursions, including forest discovery tours for schools.
+    history: >-
+      The Wienerwald served as imperial hunting grounds for centuries; between 1870 and 1872, civic leader
+      Josef Schöffel famously campaigned and saved large tracts of the woods from mass clear-cutting. In 2005,
+      UNESCO officially designated the area as a biosphere reserve.
+
+
+      The core zones enjoy formal legal protection as nature reserves in Lower Austria and protected landscape
+      areas in Vienna. Vast portions are additionally designated as European European protected sites under
+      the habitats and birds directives; four regional nature parks lie within its borders (Eichenhain,
+      Sandsteinwienerwald, Sparbach, and Föhrenberge), while in Vienna the Lainzer Tiergarten is a nature
+      reserve. Certain karst caves are strictly gated to protect bat roosts.
+    before: >-
+      In the core zones, you must never step off marked trails. Bicycles and horses are restricted strictly to
+      designated bridleways and cycle paths.
+    around: >-
+      About 20 km away lies the [Donau-Auen National Park](/lugar/nationalpark-donau-auen/), another major
+      protected wetland reserve in the regional landscape.
+  fr:
+    intro: >-
+      À la lisière immédiate d'une capitale s'étend une forêt où la hache s'est tue. C'est le Wienerwald, la
+      forêt de Vienne, l'unique réserve de biosphère en Europe à englober une partie d'une grande métropole.
+      En son sein, 37 massifs forestiers totalisent plus de 5 400 hectares de « zones cœurs » : des forêts
+      soustraites à l'exploitation sylvicole pour laisser libre cours à la dynamique naturelle. Elles
+      représentent 5 % de la superficie de la réserve, réparties sur l'ensemble du Wienerwald afin que chaque
+      grand type forestier soit représenté.
+    landscape: >-
+      Le Wienerwald constitue l'un des plus vastes ensembles continus de hêtraies d'Europe centrale. Sur le
+      flysch gréseux, 77 % des peuplements sont composés de feuillus : surtout le hêtre, le chêne rouvre et le
+      charme. Dans le sud-est calcaire apparaissent en revanche les conifères. Cette géologie se traduit
+      fidèlement dans la canopée : en zone cœur domine la hêtraie à aspérule sur le flysch, suivie de la
+      hêtraie à cyclamen sur calcaire. Au total, 33 types forestiers y ont été identifiés sur les 213 recensés
+      en Autriche.
+
+
+      Les peuplements les plus riches en plantes ne sont pas les hêtraies mais les chênaies thermophiles,
+      abritant jusqu'à 62 espèces vasculaires sur 400 m². L'ensemble des inventaires a dénombré 390 plantes
+      vasculaires distinctes. Les zones cœurs constituent le cœur sauvage d'un écrin d'alpages et de forêts.
+      La réserve couvre 1050 kilomètres carrés et s'élève de 160 à 893 mètres ; le sommet du Schöpfl offre par
+      temps clair des vues s'étendant jusqu'à 100 km, jusqu'à l'Ötscher et au Schneeberg.
+    wildlife: >-
+      Ici, le bois mort est un réservoir de vie. Les zones cœurs laissent les arbres vivre des siècles jusqu'à
+      ce que champignons, insectes ou tempêtes les abattent, leur décomposition restituant la fertilité au
+      sol. De ce bois pourri dépendent de rares coléoptères saproxyliques, parmi lesquels 15 espèces relictes
+      de forêts primaires, et s'y dissimule la [salamandre tachetée](/especie/salamandra_salamandra/),
+      nocturne et emblématique du massif. On compte au total 10 espèces d'amphibiens, soit la moitié de la
+      faune batrachienne autrichienne.
+
+
+      Les oiseaux forment un joyau inestimable. Le [pic à dos blanc](/especie/dendrocopos_leucotos/), surnommé
+      « le pic des forêts primaires », niche avec 15-18 couples, densité surprenante si près de Vienne. Une
+      part majeure de la population autrichienne de [gobemouche à collier](/especie/ficedula_albicollis/) et
+      de pouillot siffleur s'y reproduit : environ un tiers et la moitié du total national. Le [pic
+      mar](/especie/picoides_medius/) et le pigeon colombin y possèdent sans doute leurs plus fortes
+      populations du pays, représentant 15-20 % des effectifs d'Autriche. Seul le gobemouche nain suscite des
+      inquiétudes locales.
+
+
+      On dénombre 21 espèces de chauves-souris, très dépendantes des cavités d'arbres anciens. Sous la litière
+      grouille un peuple discret : 49 espèces d'escargots terrestres, dont 14 inféodées aux zones cœurs. Les
+      champignons comptent environ 800 espèces, soit un dixième de la fonge autrichienne.
+    visit: >-
+      Les zones cœurs se visitent en suivant les sentiers balisés : des parcours de marche, de cyclotourisme
+      et d'équitation y sont aménagés. Mais la règle est intangible : pour préserver la quiétude des lieux,
+      vous devez impérativement rester sur les chemins officiels.
+
+
+      Pour préparer votre venue, consultez les fiches descriptives de chaque zone cœur : cartes, listes
+      d'espèces, dynamique du bois mort et consignes. Si vous préférez être accompagnés, l'administration
+      propose des visites thématiques et des activités pédagogiques en forêt.
+    history: >-
+      Le Wienerwald fut longtemps un domaine de chasse impérial ; entre 1870 et 1872, Josef Schöffel mena une
+      bataille mémorable pour sauver les boisements d'une vente et d'un abattage massif. En 2005, l'UNESCO l'a
+      consacré réserve de biosphère.
+
+
+      Les zones cœurs sont protégées en réserves naturelles en Basse-Autriche et en paysages protégés à
+      Vienne. De vastes secteurs relèvent du espace protégé européen au titre des directives habitats et
+      oiseaux ; on y compte quatre parcs naturels régionaux (Eichenhain, Sandsteinwienerwald, Sparbach et
+      Föhrenberge), tandis qu'à Vienne le Lainzer Tiergarten forme une réserve naturelle. Certaines grottes à
+      chauves-souris sont rigoureusement fermées au public.
+    before: >-
+      En zone cœur, il est formellement interdit de quitter les sentiers balisés. Vélos et chevaux doivent
+      emprunter exclusivement les voies balisées prévues.
+    around: >-
+      À environ 20 km s'étend le [Parc national de Donau-Auen](/lugar/nationalpark-donau-auen/), autre grand
+      espace naturel protégé de la région viennoise.
+  de:
+    intro: >-
+      Direkt an eine Metropole grenzt ein Wald, in dem die Motorsägen schweigen. Es ist der Wienerwald, das
+      einzige Biosphärenpark-Gebiet Europas, das Teile einer Millionenstadt umschließt. Darin bilden 37
+      Waldkomplexe über 5.400 Hektar sogenannte «Kernzonen»: Wälder, die völlig aus der forstlichen Nutzung
+      genommen wurden, um sich eigendynamisch zu entwickeln. Sie stellen 5 % der Gesamtfläche des
+      Biosphärenparks dar, verteilt über den gesamten Wienerwald, damit jeder charakteristische Waldtyp
+      naturbelassen repräsentiert ist.
+    landscape: >-
+      Der Wienerwald ist eines der größten geschlossenen Buchenwaldgebiete Mitteleuropas. Über der
+      sandsteinreichen Flyschzone sind 77 % der Wälder Laubholzbestände: allen voran Rotbuche, Traubeneiche
+      und Hainbuche. Im kalkalpinen Südosten treten hingegen Kiefern und Fichten hinzu. Diese Geologie
+      spiegelt sich im Waldbild wider: In den Kernzonen dominiert der Waldmeister-Buchenwald auf Flysch,
+      gefolgt vom Alpenveilchen-Buchenwald auf Kalkböden. Insgesamt wurden 33 Waldgesellschaften erfasst – von
+      213 in Österreich vorkommenden Waldtypen.
+
+
+      Die artenreichsten Bestände sind nicht die Buchenwälder, sondern die wärmeliebenden Eichenwälder mit bis
+      zu 62 Gefäßpflanzenarten auf 400 m². In den wissenschaftlichen Erhebungen wurden 390 verschiedene
+      Gefäßpflanzenarten dokumentiert. Die Kernzonen bilden das urwüchsige Rückgrat einer artenreichen
+      Wald-Wiesen-Kulturlandschaft. Insgesamt umfasst das Schutzgebiet 1050 Quadratkilometer und erstreckt
+      sich von 160 bis 893 Metern Höhe; der höchste Gipfel ist der Schöpfl, dessen Aussichtsturm weite Blicke
+      über bis zu 100 km bis zu Ötscher und Schneeberg eröffnet.
+    wildlife: >-
+      Hier ist Totholz das Lebenselixier. Die Kernzonen lassen Bäume Jahrhunderte alt werden, bis Insekten,
+      Pilze oder Stürme sie fällen und ihr Vermodern Nährstoffe zurückführt. Davon leben seltene Totholzkäfer,
+      unter denen 15 Urwaldreliktarten nachgewiesen wurden; darunter verbirgt sich der nachtaktive
+      [Feuersalamander](/especie/salamandra_salamandra/), die Leitart des Wienerwaldes. Insgesamt leben hier
+      10 Amphibienarten, die Hälfte aller in Österreich vorkommenden Lurche.
+
+
+      Die Vogelwelt ist von europäischer Bedeutung. Der [Weißrückenspecht](/especie/dendrocopos_leucotos/),
+      der «Specht der Urwälder», brütet mit 15-18 Paaren in bemerkenswerter Dichte. Ein bedeutender Teil des
+      österreichischen Bestands von [Halsbandschnäpper](/especie/ficedula_albicollis/) und Waldlaubsänger
+      brütet hier: rund ein Drittel beziehungsweise die Hälfte des Bundesbestandes.
+      [Mittelspecht](/especie/picoides_medius/) und Hohltaube besitzen hier mit 15-20 % des nationalen
+      Bestands vermutlich ihre stärksten Vorkommen im Bundesgebiet. Allein der Zwergschnäpper bereitet
+      Naturschützern Sorge.
+
+
+      Die Fledermäuse sind mit 21 Arten vertreten, viele davon auf Baumhöhlen angewiesen. Am Waldboden leben
+      49 Landschneckenarten, von denen 14 ausschließlich in den Kernzonen festgestellt wurden. Rund 800
+      Pilzarten wurden inventarisiert, etwa ein Zehntel der gesamten Mykoflora Österreichs.
+    visit: >-
+      Die Kernzonen können auf markierten Routen begangen werden: Auch durch sie führen beschilderte Wander-,
+      Rad- und Reitwege. Doch die Schutzregel ist eindeutig: Zum Schutz von Ruhe und Waldverjüngung darfst du
+      dich ausschließlich auf den offiziell gekennzeichneten Wegen bewegen.
+
+
+      Zur Vorbereitung stehen digitale Infoblätter für jede Kernzone bereit: mit Karten, Artenporträts,
+      Details zu Totholzmengen und Verhaltensregeln. Wenn du geführte Touren schätzt, bietet das
+      Biosphärenpark-Management thematische Exkursionen und forstpädagogische Walderlebnisse an.
+    history: >-
+      Der Wienerwald war über Jahrhunderte kaiserliches Jagdrevier; zwischen 1870 und 1872 rettete der
+      Abgeordnete Josef Schöffel weite Teile des Waldes vor dem Kahlschlag. Im Jahr 2005 wurde das Gebiet von
+      der UNESCO als Biosphärenpark anerkannt.
+
+
+      Die Kernzonen sind in Niederösterreich als Naturschutzgebiete und in Wien als Landschaftsschutzgebiete
+      verordnet. Große Teile sind zudem als europäische Schutzgebiete gemäß FFH- und Vogelschutzrichtlinie
+      ausgewiesen; darin liegen vier Naturparke (Eichenhain, Sandsteinwienerwald, Sparbach und Föhrenberge),
+      während in Wien der Lainzer Tiergarten als Naturschutzgebiet fungiert. Mehrere Fledermaushöhlen sind zum
+      Schutz der Tiere verschlossen.
+    before: >-
+      In den Kernzonen gilt ein striktes Wegegebot. Fahrräder und Pferde sind ausnahmslos auf die dafür
+      ausgewiesenen Routen beschränkt.
+    around: >-
+      Rund 20 km entfernt liegt der [Nationalpark Donau-Auen](/lugar/nationalpark-donau-auen/), ein weiteres
+      hochrangiges Großschutzgebiet im Umfeld Wiens.
+  it:
+    intro: >-
+      A ridosso di una metropoli sorge un fitto polmone verde in cui le motoseghe si sono fermate. È il
+      Wienerwald, il Bosco Viennese, l'unica riserva della biosfera d'Europa che include parte di una capitale
+      federale. Al suo interno, 37 complessi forestali sommano oltre 5.400 ettari di «zone nucleo»: boschi
+      sottratti a qualsiasi gestione forestale per lasciarli evolvere in modo spontaneo. Costituiscono il 5 %
+      del comprensorio protetto, dislocati in tutto il Wienerwald affinché ogni variante forestale mantenga il
+      suo santuario intatto.
+    landscape: >-
+      Il Wienerwald rappresenta una delle maggiori faggete continue dell'Europa centrale. Sul flysch arenaceo
+      il 77 % dei soprassuoli è formato da latifoglie: su tutti faggio, rovere e carpino bianco. Nel settore
+      sud-orientale calcareo subentrano invece le conifere. Tale matrice si legge nel bosco: nelle aree nucleo
+      domina la faggeta ad asperula sul flysch, seguita dalla faggeta a ciclamino sui calcari. Nel complesso
+      sono state censite 33 comunità forestali, sulle 213 individuate nell'intera Austria.
+
+
+      I boschi floristicamente più vari non sono le faggete bensì i querceti termofili, che ospitano fino a 62
+      specie di piante vascolari in appena 400 m². Negli studi floristici generali sono state censite 390
+      piante vascolari differenti. Le zone nucleo sono il cuore selvaggio di un armonioso mosaico boschivo e
+      pastorale. In totale la riserva copre 1050 chilometri quadrati innalzandosi da 160 a 893 metri; il punto
+      più alto è lo Schöpfl, dalla cui sommità lo sguardo spazia sovente fino a circa 100 km, scorgendo
+      l'Ötscher e lo Schneeberg.
+    wildlife: >-
+      Qui il legno morto è una miniera biologica. Le aree nucleo consentono agli alberi di vivere secoli,
+      finché funghi, insetti o bufere li abbattono restituendo materia organica al suolo forestale. Ne
+      beneficiano rari coleotteri saproxilici, tra cui 15 specie relitte di foresta vergine, e vi trova
+      rifugio la [Salamandra pezzata](/especie/salamandra_salamandra/), animale notturno simbolo del
+      Wienerwald. In tutto sono state censite 10 specie di anfibi, la metà di quelle presenti in Austria.
+
+
+      L'avifauna rappresenta un tesoro di primaria importanza. Il [Picchio
+      dorsobianco](/especie/dendrocopos_leucotos/), celebrato come «il picchio delle foreste primigenie», vi
+      nidifica con 15-18 coppie, densità notevolissima per una cintura metropolitana. Una parte cospicua della
+      popolazione austriaca di [Balia dal collare](/especie/ficedula_albicollis/) e luì verde cova tra questi
+      rami: all'incirca un terzo e la metà del totale nazionale. Il [Picchio rosso
+      mezzano](/especie/picoides_medius/) e la colombella vi contano presumibilmente la loro popolazione più
+      rilevante in Austria, assommando al 15-20 % del patrimonio ornitico nazionale. L'unico volatile che
+      suscita preoccupazione è il pigliamosche pettirosso.
+
+
+      I pipistrelli contano 21 specie documentate, molte delle quali dipendenti dalle cavità del legname
+      marcescente. Sotto la lettiera vive un microcosmo nascosto: 49 specie di chiocciole terrestri, 14 delle
+      quali reperite unicamente nelle zone nucleo. I funghi sommano circa 800 specie, pari a circa un decimo
+      della micoflora austriaca.
+    visit: >-
+      Le aree nucleo si esplorano avvalendosi dei percorsi autorizzati: al loro interno si snodano itinerari
+      per camminatori, cicloturisti e cavalieri. Ma la regola è categorica: per difendere la rigenerazione
+      naturale, è consentito camminare unicamente sui tracciati ufficiali.
+
+
+      Per organizzare l'escursione puoi consultare i fascicoli digitali di ciascuna zona nucleo: recano mappe,
+      schede di specie, dettagli su necromassa e norme di comportamento. Se cerchi visite guidate, l'ente
+      gestore organizza uscite naturalistiche ed esperienze didattiche nel bosco.
+    history: >-
+      Il Wienerwald fu riserva di caccia imperiale; tra il 1870 e il 1872 il deputato Josef Schöffel guidò una
+      memorabile campagna civica salvando vaste porzioni della foresta dal taglio raso. Nel 2005 l'UNESCO lo
+      ha elevato a riserva della biosfera.
+
+
+      Le zone nucleo sono riserve naturali in Bassa Austria e aree a tutela paesaggistica a Vienna. Ampie
+      sezioni appartengono alla spazio europeo protetto ai sensi delle direttive habitat e uccelli; l'area
+      racchiude quattro parchi naturali (Eichenhain, Sandsteinwienerwald, Sparbach e Föhrenberge), mentre a
+      Vienna il Lainzer Tiergarten è riserva naturale. Diverse grotte carsiche sono recintate per
+      salvaguardare le colonie di pipistrelli.
+    before: >-
+      Nelle aree nucleo è severamente vietato allontanarsi dai sentieri tracciati. Biciclette e cavalli devono
+      circolare esclusivamente lungo gli itinerari ufficiali.
+    around: >-
+      A circa 20 km si trova il [Parco Nazionale Donau-Auen](/lugar/nationalpark-donau-auen/), altro eminente
+      complesso protetto della regione viennese.
+  pt:
+    intro: >-
+      Junto a uma metrópole estende-se uma floresta onde os machados se calaram. É o Wienerwald, o Bosque de
+      Viena, a única reserva da biosfera da Europa que abarca parte de uma capital de estado. No seu seio, 37
+      manchas florestais totalizam mais de 5.400 hectares de «zonas nucleares»: matas retiradas da exploração
+      silvícola para evoluírem por processos estritamente naturais. Representam 5 % da superfície da reserva,
+      dispersas por todo o Wienerwald para assegurar que cada ecossistema florestal mantém uma parcela
+      intocada.
+    landscape: >-
+      O Wienerwald forma uma das maiores extensões contínuas de faial da Europa Central. Sobre o flysch
+      arenoso, 77 % do arvoredo é constituído por folhosas: sobretudo faia, carvalho-roble e carpe. No setor
+      sudeste, calcário, destacam-se pelo contrário as coníferas. Esta geologia espelha-se no coberto vegetal:
+      nas zonas nucleares o tipo florestal dominante é o faial de aspérula sobre o flysch, seguido pelo faial
+      de ciclame em solo calcário. No cômputo geral identificam-se 33 associações florestais, de entre as 213
+      inventariadas na Áustria.
+
+
+      As formações de maior diversidade florística não são os faiais mas sim os carvalhais termófilos, que
+      acolhem até 62 espécies vasculares em parcelas de 400 m². Nos inventários científicos gerais
+      registaram-se 390 plantas vasculares distintas. As matas nucleares formam o núcleo virgem de um mosaico
+      agrossilvopastoril de elevado valor ecológico. A reserva cobre 1050 quilómetros quadrados e eleva-se dos
+      160 aos 893 metros; o ponto mais alto é o Schöpfl, de onde se alcançam horizontes visuais até cerca de
+      100 km, vislumbrando o Ötscher e o Schneeberg.
+    wildlife: >-
+      Aqui a madeira morta é um celeiro biológico. As zonas nucleares permitem que os povoamentos envelheçam
+      séculos até que fungos, insetos xilófagos ou vendavais os derrubem, devolvendo nutrientes ao solo à
+      medida que apodrecem. Deste substrato dependem escaravelhos saproxílicos raros, entre os quais se
+      identificaram 15 espécies relíquias de floresta virgem, e nele se resguarda a
+      [salamandra-de-fogo](/especie/salamandra_salamandra/), anfíbio noturno representativo do maciço. Ao todo
+      assinalam-se 10 espécies de anfíbios, metade do efetivo total da Áustria.
+
+
+      As aves formam um património de valor excecional. O
+      [pica-pau-de-dorso-branco](/especie/dendrocopos_leucotos/), aclamado como «o pica-pau das matas
+      virgens», nidifica com 15-18 casais, densidade extraordinária para uma orla metropolitana. Grande parte
+      do contingente reprodutor austríaco de [papa-moscas-de-colar](/especie/ficedula_albicollis/) e
+      felosa-assobiadeira procria aqui: cerca de um terço e metade do efetivo nacional, respetivamente. O
+      [pica-pau-médio](/especie/picoides_medius/) e o pombo-bravo sustentam aqui a sua mais expressiva
+      população na Áustria, concentrando 15-20 % do total do país. Apenas o papa-moscas-pequeno suscita
+      preocupação.
+
+
+      Os morcegos somam 21 espécies inventariadas, algumas das quais estreitamente dependentes de florestas
+      maduras como as preservadas nas zonas nucleares. Sob a folhada prospera um ecossistema discreto: 49
+      espécies de caracóis terrestres, das quais 14 só ocorrem nestas manchas nucleares. Os cogumelos
+      totalizam cerca de 800 espécies, correspondendo a quase uma décima parte das registadas na Áustria.
+    visit: >-
+      As zonas nucleares podem ser percorridas através da rede de caminhos sinalizados: no seu interior
+      existem veredas destinadas a pedestrianismo, cicloturismo e passeios a cavalo. Todavia, o regulamento é
+      restritivo: para preservar a regeneração da vegetação, é obrigatório circular exclusivamente nas vias
+      oficiais marcadas.
+
+
+      Para preparar a visita podes descarregar as fichas informativas de cada área nuclear: facultam
+      cartografia, inventários de espécies, métricas de madeira morta e normas de conduta. Se preferires
+      percursos acompanhados, o parque promove passeios de interpretação ambiental e atividades didáticas para
+      escolas.
+    history: >-
+      O Wienerwald constituiucoutada de caça imperial durante séculos; entre 1870 e 1872 o deputado Josef
+      Schöffel encabeçou uma histórica mobilização cívica salvando vastas manchas de arvoredo do corte raso.
+      Em 2005 a UNESCO integrou a área na rede de reservas da biosfera.
+
+
+      As zonas nucleares gozam de classificação como reservas naturais na Baixa Áustria e paisagens protegidas
+      em Viena. Extensas áreas integram a espaço europeu protegido ao abrigo das diretivas habitats e aves;
+      congregam quatro parques naturais regionais (Eichenhain, Sandsteinwienerwald, Sparbach e Föhrenberge),
+      funcionando o Lainzer Tiergarten em Viena como reserva natural. Grutas cársicas mantêm-se seladas para
+      proteção dos morcegos.
+    before: >-
+      Nas zonas nucleares vigora o dever estrito de não abandonar os trilhos marcados. Bicicletas e montadas
+      só podem circular nas vias expressamente vocacionadas.
+    around: >-
+      A cerca de 20 km situa-se o [Parque Nacional Donau-Auen](/lugar/nationalpark-donau-auen/), outro grande
+      espaço natural de conservação ripícola da região.
+fuentes:
+  - url: https://www.bpww.at/de/artikel/kernzonen
+    titulo: Kernzonen — Biosphärenpark Wienerwald
+    fecha_consulta: '2026-10-22'
+  - url: https://www.bpww.at/de/aktivitaeten/biodiversitaetsmonitoring-und-beweissicherung-in-den-kernzonen-des-biosphaerenpark
+    titulo: Biodiversitätsmonitoring und Beweissicherung — Biosphärenpark Wienerwald
+    fecha_consulta: '2026-10-22'
+  - url: https://www.bpww.at/de/faqs
+    titulo: FAQs – Biosphärenpark Wienerwald
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Biosph%C3%A4renpark_Wienerwald
+    titulo: Biosphärenpark Wienerwald – Wikipedia
+    fecha_consulta: '2026-10-22'
+  - url: https://de.wikipedia.org/wiki/Wienerwald
+    titulo: Wienerwald – Wikipedia
+    fecha_consulta: '2026-10-22'

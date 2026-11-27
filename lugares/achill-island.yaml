@@ -1,0 +1,704 @@
+id: achill-island
+estado_editorial: valoracion-revisada
+nombre:
+  es: Achill Island y Acantilados de Croaghaun
+  en: Achill Island and Croaghaun Cliffs
+  fr: Île d'Achill et falaises de Croaghaun
+  de: Achill Island und Croaghaun-Klippen
+  it: Isola di Achill e scogliere di Croaghaun
+  pt: Ilha de Achill e Falésias de Croaghaun
+nombre_original: Achill Island
+alias:
+  - Achill Island & Keem Bay
+paises:
+  - IE
+region:
+  es: Irlanda (Condado de Mayo / Keel / Keem)
+  en: Ireland (County Mayo / Keel / Keem)
+  fr: Irlande (Comté de Mayo / Keel / Keem)
+  de: Irland (County Mayo / Keel / Keem)
+  it: Irlanda (Contea di Mayo / Keel / Keem)
+  pt: Irlanda (Condado de Mayo / Keel / Keem)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/6045364
+  nombre_en_la_fuente: Achill Island - Acaill
+  capa: capas/osm/achill-island.geojson
+habitats:
+  - coast
+  - high_mountain
+  - marine
+designaciones:
+  - natura2000
+especies:
+  - pyrrhocorax_pyrrhocorax
+  - haliaeetus_albicilla
+temporada_ideal:
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: mayo a octubre
+  en: May to October
+  fr: mai à octobre
+  de: Mai bis Oktober
+  it: maggio a ottobre
+  pt: maio a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en la bahía de Keem en días soleados de verano
+  en: Moderate at Keem Bay on sunny summer days
+  fr: Moyenne dans la baie de Keem lors des journées ensoleillées d'été
+  de: Mäßig in der Bucht von Keem an sonnigen Sommertagen
+  it: Media nella baia di Keem nelle giornate estive soleggiate
+  pt: Média na baía de Keem em dias solarengos de verão
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Achill Tourism Official Portal
+    url: https://achilltourism.com/
+  - titulo: Ruta y accesos — Dooagh Loop, Fáilte Ireland
+    url: https://www.discoverireland.ie/mayo/achill-island-dooagh-loop
+resumen:
+  es: >-
+    La isla más grande de Irlanda (conectada por un puente), albergando la espectacular bahía de Keem y los
+    acantilados de Croaghaun (688 m, los terceros más altos de Europa).
+  en: >-
+    Ireland's largest island (connected by bridge), home to spectacular Keem Bay and Croaghaun Cliffs (688 m,
+    the third highest in Europe).
+  fr: >-
+    La plus grande île d'Irlande (reliée par un pont), abritant la baie spectaculaire de Keem et les falaises
+    de Croaghaun (688 m, troisièmes plus hautes d'Europe).
+  de: >-
+    Die größte Insel Irlands (mit Brückenanbindung), berühmt für die spektakuläre Bucht von Keem und die
+    Croaghaun-Klippen (688 m, die dritthöchsten Europas).
+  it: >-
+    La maggiore isola d'Irlanda (collegata da un ponte), custode della spettacolare baia di Keem e delle
+    scogliere di Croaghaun (688 m, le terze più alte d'Europa).
+  pt: >-
+    A maior ilha da Irlanda (ligada por ponte), abrigando a espetacular baía de Keem e as falésias de
+    Croaghaun (688 m, as terceiras mais altas da Europa).
+unico:
+  es: >-
+    Una isla de turbera, montaña y acantilado donde los muros prehistóricos asoman bajo la turba y el pueblo
+    abandonado de Slievemore fue refugio de pastores hasta la década de 1940.
+  en: >-
+    An island of blanket bog, mountain, and sea cliff where prehistoric stone walls emerge beneath the peat
+    and the abandoned village of Slievemore sheltered seasonal herders until the 1940s.
+  fr: >-
+    Une île de tourbière de couverture, de sommets et de falaises où d'antiques murets réapparaissent sous la
+    tourbe et où le village abandonné de Slievemore servit d'abri pastoral jusque dans les années 1940.
+  de: >-
+    Eine Insel aus Deckenmooren, Berggraten und Brandungsklippen, auf der uralte Steinmauern unter dem Torf
+    zutage treten und das verlassene Dorf Slievemore bis in die 1940er-Jahre als Hirtenquartier diente.
+  it: >-
+    Un'isola di torbiere a copertura, rilievi montuosi e falesie oceaniche dove antichi muretti riaffiorano
+    sotto la torba e il villaggio abbandonato di Slievemore fu rifugio pastorale fino agli anni 1940.
+  pt: >-
+    Uma ilha de turfeira de cobertura, cristas montanhosas e arribas oceânicas onde muros pré-históricos
+    despontam sob a turfa e a aldeia abandonada de Slievemore serviu de abrigo pastoril até à década de 1940.
+observaciones:
+  es: >-
+    La mejor época para ir es de mayo a octubre. La afluencia es media en la bahía de Keem los días soleados
+    de verano. Si quieres ver tiburones peregrinos, consulta antes el código de conducta de avistamiento.
+texto:
+  es:
+    intro: >-
+      Bajo la turba de Achill hay muros de piedra. Llevan allí miles de años, trepan por la ladera de
+      Slievemore y marcan los campos que alguien cultivó antes de que el clima empeorara y la turbera lo
+      cubriera todo. Esa es la isla en una imagen: un paisaje de agua, viento y turba que esconde, debajo y
+      alrededor, la huella de quienes lo habitaron. Achill es la mayor isla de Irlanda, unos 148 km² frente a
+      la costa de Mayo, unida a tierra firme por un puente desde 1887. Tiene montañas que bajan hasta el mar,
+      praderas costeras de arena, playas y acantilados, y en el extremo oeste los de Croaghaun, que son los
+      terceros acantilados marinos más altos de Europa.
+    landscape: >-
+      Achill es sobre todo turbera de cobertura. Se formó durante miles de años, solo donde llueve mucho, y
+      baja de las montañas hasta el mar; sobre ella dominan la molinia, el brezo común y el musgo esfagno. Las
+      rocas de base de la isla y de la vecina península de Curraun son las más antiguas de Irlanda, del
+      Precámbrico, de hace más de 600 millones de años. Las dos cumbres más altas, Slievemore y Croughan,
+      sobresalían como nunataks durante la última glaciación, que terminó hace 10.000 años, y Lough Acorrymore
+      es un buen ejemplo de circo glaciar con un valle colgado justo encima.
+
+
+      La cara nordeste de Croaghaun cae casi desde la cima hasta el nivel del mar. En su borde oeste,
+      Croaghaun domina el remoto valle de Keem Bay; al otro lado están los acantilados de Benmore y el
+      promontorio de Achill Head. Los acantilados de Croaghaun no tienen acceso por carretera.
+
+
+      En la costa, donde la arena se junta con la hierba, está el machair, una pradera costera que solo existe
+      en el noroeste de Irlanda y el noroeste de Escocia y que la Unión Europea trata como hábitat
+      prioritario. Los mejores están en Keel, Dugort y Valley. A principios o mediados de junio se cubren de
+      color: tomillo, margaritas, loto corniculado.
+    wildlife: >-
+      Mayo y junio son los meses del mar. Delfines y tiburones peregrinos suelen avistarse en las aguas de
+      Achill, y los tiburones se ven en las bahías de Dooagh y Keem. Son comedores de plancton y se consideran
+      gigantes amables, pero se asustan con quienes van por el agua y pueden agitar la cola con fuerza si se
+      alarman; por eso hay un código de conducta para el avistamiento. Hubo un tiempo en que la isla era
+      conocida por la pesca del tiburón peregrino, cazado por el aceite de su hígado.
+
+
+      En primavera florece el brezo irlandés, una rareza que solo vive en el noroeste de Mayo, España y
+      Portugal, en la península de Curraun y detrás de Croughan. En junio llega el color del machair. Entre
+      las aves, la [chova piquirroja](/especie/pyrrhocorax_pyrrhocorax/) cría en la zona de Croughan, y se ven
+      el chorlito dorado, el correlimos común, el esmerejón y el [halcón
+      peregrino](/especie/falco_peregrinus/); la barnacla cariblanca pasa en migración. En el machair es fácil
+      encontrar la agachadiza común, el [zarapito real](/especie/numenius_arquata/), el avefría y el ostrero,
+      y en turberas, ríos y lagos, la [garza real](/especie/ardea_cinerea/). El [águila
+      real](/especie/aquila_chrysaetos/) se extinguió en la zona en 1912. Un vecino de la isla ha registrado
+      no menos de 83 especies de aves.
+
+
+      Entre los mamíferos están la [nutria](/especie/lutra_lutra/), el armiño irlandés, el tejón y la musaraña
+      enana, y también se ven murciélagos. La liebre irlandesa y el zorro están por todas partes. La lagartija
+      común irlandesa vive en turberas y dunas. La rana común aparece en casi todos los hábitats, y la esfinge
+      elefante se reproduce en la isla.
+    visit: >-
+      Aquí se camina, y casi todo el campo es de uso común, así que está abierto al senderismo. La sencilla
+      ruta circular de Dooagh mide 4.40 km, sube 60 m y se hace en una hora; pasa por una playa que desaparece
+      tras las tormentas y cruza arroyos, arena y turbera. El Valley Walk recorre unos 8 km en The Valley, en
+      el nordeste.
+
+
+      Para ver más lejos, Minaun, de 466 metros, ofrece la vista tan fotografiada de la playa y el lago de
+      Keel, y una carretera de mantenimiento llega hasta cerca de la cima. En la península de Curraun, el
+      valle entre Polranny Hill y Curraun Hill tiene pequeños lagos, un gran bosque y varios senderos, y no se
+      espera mucha gente. La montaña pide prepararse, y la web local recomienda consultar una guía de
+      seguridad y seguir los siete principios de No Deje Rastro.
+
+
+      En bici, la isla tiene tres rutas circulares en el Achill Cycle Hub y es uno de los extremos de la Great
+      Western Greenway, una vía de 42 km sobre el antiguo ferrocarril entre Achill y Westport, creada en 2010
+      y 2011.
+    history: >-
+      En el Neolítico y la Edad del Bronce temprana el clima era más cálido y seco, un denso bosque cubría
+      gran parte del paisaje y las turberas actuales aún no se habían formado. Bajo la turba quedan, en la
+      ladera de Slievemore, muros de piedra prehistóricos que marcan tierras agrícolas cubiertas por la turba
+      cuando el clima empeoró en la Edad del Bronce final. Cerca de Dugort, a los pies de esa montaña, está el
+      Pueblo Abandonado: entre 80 y 100 casas de piedra sin argamasa y de una sola habitación. Los
+      descendientes de sus vecinos lo usaron como pueblo de pastoreo estacional hasta la década de 1940;
+      Achill fue el último lugar conocido de Irlanda o Gran Bretaña donde esa práctica sobrevivió.
+
+
+      En Moytoge Head queda un antiguo puesto de observación británico levantado en la Primera Guerra Mundial
+      para impedir que los alemanes desembarcaran armas. Aproximadamente la mitad de la isla está en la
+      Gaeltacht, la región tradicionalmente de habla irlandesa. El petalwort, una hepática rara del machair,
+      figura en los anexos II y IV de la directiva europea de hábitats.
+    before: >-
+      La mejor época para ir es de mayo a octubre. La afluencia es media en la bahía de Keem los días soleados
+      de verano. Si quieres ver tiburones peregrinos, consulta antes el código de conducta de avistamiento.
+    around: >-
+      A 10 km queda el [Parque Nacional Wild Nephin](/lugar/wild-nephin-national-park/),. Más lejos, comparten
+      especies con Achill el [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/)
+      (correlimos común, zarapito real y nutria), [Cap Fréhel](/lugar/cap-frehel/) (chova piquirroja y halcón
+      peregrino), el [Parque Natural Hoces del Alto Ebro y
+      Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/) (chova, halcón y nutria) y el [Parque
+      Natural do Alvão](/lugar/parque-natural-do-alvao/) (rocío de sol y nutria).
+  en:
+    intro: >-
+      Beneath the peat of Achill lie ancient stone walls. They have rested there for thousands of years,
+      climbing the flanks of Slievemore and tracing field boundaries cultivated before climatic deterioration
+      prompted the blanket bog to swallow the terrain. That is the island in a single vignette: an elemental
+      realm of wind, water, and bog concealing the indelible marks of past inhabitants. Achill is Ireland's
+      largest island, encompassing roughly 148 km² off the Mayo coast, linked to the mainland by bridge since
+      1887. Its mountains plunge directly into the Atlantic, flanked by sandy coastal grasslands, beaches, and
+      dramatic sea cliffs, culminating in the west at Croaghaun, the third highest sea cliffs in Europe.
+    landscape: >-
+      Achill is overwhelmingly cloaked in blanket bog. Formed over millennia under persistent Atlantic rains,
+      the peat mantle sweeps from mountain crests down to the shore, dominated by purple moor-grass, common
+      heather, and sphagnum moss. The bedrock underlying the island and the adjacent Curraun Peninsula ranks
+      among Ireland's oldest formations, dating back to the Precambrian over 600 million years ago. Its two
+      highest massifs, Slievemore and Croaghaun, stood proud as nunataks during the last glacial maximum which
+      ended 10,000 years ago; Lough Acorrymore provides a quintessential example of a glacial corrie with a
+      hanging valley perched overhead.
+
+
+      The sheer northeast face of Croaghaun drops almost directly from its summit into the sea. On its western
+      shoulder, Croaghaun commands the secluded cirque of Keem Bay, opposing the dramatic precipices of
+      Benmore and the promontory of Achill Head. Croaghaun's cliffs possess no vehicular access whatsoever.
+
+
+      Along the shore where windblown sand meets turf lies the machair, a specialised calcareous coastal
+      grassland found only in northwestern Ireland and northwestern Scotland, accorded priority habitat status
+      by the European Union. Prime examples thrive at Keel, Dugort, and Valley. Come early or mid-June, they
+      erupt with vibrant color: wild thyme, daisies, and bird's-foot trefoil.
+    wildlife: >-
+      May and June bring marine highlights. Dolphins and basking sharks regularly patrol the waters around
+      Achill, with sharks entering Dooagh and Keem bays. These plankton filter-feeders are regarded as gentle
+      giants, yet they can be startled by watercraft and thrash their powerful tails if alarmed; an official
+      wildlife watching code of conduct governs encounters. In former decades the island was renowned for
+      commercial basking shark fisheries, pursued for valuable liver oil.
+
+
+      Spring brings the flowering of Mediterranean heath (Irish heath), a botanical rarity confined to
+      northwest Mayo, Spain, and Portugal, growing on the Curraun Peninsula and behind Croaghaun. By June the
+      machair turns vivid with blooms. Avian life includes the [red-billed
+      chough](/especie/pyrrhocorax_pyrrhocorax/) nesting on the cliffs of Croaghaun, alongside European golden
+      plover, dunlin, merlin, and the [peregrine falcon](/especie/falco_peregrinus/); barnacle geese stop over
+      on migration. Across the machair one easily encounters common snipe, the [Eurasian
+      curlew](/especie/numenius_arquata/), northern lapwing, and Eurasian oystercatcher, while bogs, burns,
+      and lochs host the [grey heron](/especie/ardea_cinerea/). The [golden
+      eagle](/especie/aquila_chrysaetos/) was extirpated locally in 1912. An island naturalist has documented
+      no fewer than 83 bird species.
+
+
+      Mammals feature the [Eurasian otter](/especie/lutra_lutra/), Irish stoat, European badger, and pygmy
+      shrew, alongside foraging bats. Irish hare and red fox are ubiquitous. The viviparous lizard inhabits
+      heath and dunes, common frogs occur across almost every habitat, and elephant hawk-moths breed
+      throughout the island.
+    visit: >-
+      This is walking country, where commonage land arrangements keep wide areas accessible to hikers. The
+      straightforward Dooagh circular walk measures 4.40 km, climbs 60 m, and takes an hour; it skirts a
+      storm-shifting beach and traverses burns, sand, and open bog. The Valley Walk explores around 8 km
+      around The Valley in the northeast.
+
+
+      For sweeping panoramas, Minaun (466 meters) affords the celebrated vantage over Keel strand and Lough
+      Namucka, reachable via a service road close to the summit. Over on the Curraun Peninsula, the basin
+      between Polranny Hill and Curraun Hill hides quiet tarns, a substantial forest, and untamed footpaths
+      free of crowds. Mountain terrain demands proper preparation: check local safety advice and uphold the
+      seven Leave No Trace principles.
+
+
+      Cyclists benefit from three loops in the Achill Cycle Hub and the western terminus of the Great Western
+      Greenway, a 42 km trail following the disused railway between Achill and Westport, opened in 2010 and
+      2011.
+    history: >-
+      During the Neolithic and Early Bronze Age the climate was warmer and drier, dense pine and birch woods
+      cloaked the landscape, and modern blanket bogs had not yet accumulated. On the lower slopes of
+      Slievemore, prehistoric stone field enclosures predate the peat layers that engulfed them as Atlantic
+      conditions cooled in the Late Bronze Age. Near Dugort at the mountain's foot lies the Deserted Village:
+      between 80 and 100 drystone single-room cottages. Village descendants used them for seasonal booleying
+      (summer transhumance) into the 1940s; Achill was the last recognized redoubt in Ireland or Britain where
+      this ancient grazing custom endured.
+
+
+      At Moytoge Head stands a British naval observation post erected in the First World War to intercept
+      German arms shipments. Roughly half the island forms part of the Gaeltacht, where the Irish language is
+      living heritage. Petalwort, a rare machair liverwort, is protected under Annexes II and IV of the EU
+      Habitats Directive.
+    before: >-
+      The most rewarding period to visit runs from May to October. Crowds remain moderate around Keem Bay on
+      fine summer days. If you hope to watch basking sharks, review the marine wildlife code of conduct
+      beforehand.
+    around: >-
+      At 10 km lies [Wild Nephin National Park](/lugar/wild-nephin-national-park/). Farther afield, species
+      found on Achill are shared with [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/)
+      (dunlin, Eurasian curlew, and otter), [Cap Fréhel](/lugar/cap-frehel/) (chough and peregrine falcon),
+      [Parque Natural Hoces del Alto Ebro y Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/)
+      (chough, peregrine, and otter), and [Parque Natural do Alvão](/lugar/parque-natural-do-alvao/) (sundew
+      and otter).
+  fr:
+    intro: >-
+      Sous la tourbe d'Achill dorment d'anciens murs de pierre. Ils y demeurent depuis des millénaires,
+      gravissant les versants de Slievemore et délimitant des parcelles cultivées avant que le refroidissement
+      du climat ne favorise l'extension de la tourbière ombrotrophique. C'est l'île résumée en une vision :
+      une étendue sauvage d'eau, de bourrasques et de tourbe dissimulant les traces de ceux qui l'ont
+      façonnée. Achill est la plus vaste île d'Irlande, déroulant environ 148 km² face aux côtes du Mayo,
+      rattachée au continent par un pont depuis 1887. Ses reliefs plongent droit dans l'océan entre pelouses
+      littorales sableuses, anses et escarpements marins, dominés à l'ouest par les falaises de Croaghaun,
+      troisièmes falaises maritimes les plus hautes d'Europe.
+    landscape: >-
+      Achill est presque entièrement couverte d'une vaste tourbière de couverture. Bâtie au fil des
+      millénaires sous d'incessantes pluies atlantiques, cette nappe descend des crêtes jusqu'au rivage,
+      colonisée par la molinie, la callune et les sphaignes. Le socle géologique de l'île et de la presqu'île
+      voisine de Curraun compte parmi les plus anciens d'Irlande, remontant au Précambrien, il y a plus de 600
+      millions d'années. Ses deux plus hauts sommets, Slievemore et Croaghaun, émergeaient sous forme de
+      nunataks durant la dernière glaciation achevée il y a 10 000 ans ; le Lough Acorrymore illustre
+      remarquablement un cirque glaciaire surmonté d'une vallée suspendue.
+
+
+      La face nord-est de Croaghaun dégringole d'un seul jet depuis le sommet jusqu'aux déferlantes. Vers
+      l'ouest, le massif surplombe le cirque isolé de Keem Bay, face aux falaises vertigineuses de Benmore et
+      au cap d'Achill Head. Les falaises de Croaghaun ne disposent d'aucune voie carrossable.
+
+
+      Sur le littoral, au contact du sable dunaire et de l'herbe, s'étend le machair, une pelouse calcaire
+      côtière exclusive du nord-ouest irlandais et écossais, considérée comme un habitat prioritaire par
+      l'Union européenne. Les plus beaux spécimens s'étendent à Keel, Dugort et Valley. Début ou mi-juin, ils
+      se parent d'une floraison éclatante : serpolet, pâquerettes et lotier corniculé.
+    wildlife: >-
+      Mai et juin ouvrent la grande saison marine. Dauphins et requins pèlerins croisent régulièrement au
+      large d'Achill, les requins s'aventurant dans les baies abritées de Dooagh et Keem. Ces géants
+      inoffensifs filtreurs de plancton peuvent toutefois s'effrayer à l'approche des embarcations et donner
+      de violents coups de caudale s'ils sont acculés ; un code d'observation régit les sorties. L'île fut
+      jadis réputée pour sa pêche artisanale au requin pèlerin, traqué pour l'huile précieuse de son foie.
+
+
+      Au printemps s'épanouit la bruyère d'Irlande (*Erica mackayana*), rareté cantonnée au nord-ouest du
+      Mayo, à l'Espagne et au Portugal, présente sur Curraun et sur l'arrière de Croaghaun. En juin, le
+      machair resplendit. Côté oiseaux, le [crave à bec rouge](/especie/pyrrhocorax_pyrrhocorax/) niche sur
+      les escarpements de Croaghaun, aux côtés du pluvier doré, du bécasseau variable, du faucon émerillon et
+      du [faucon pèlerin](/especie/falco_peregrinus/) ; la bernache nonnette fait escale en migration. Sur le
+      machair s'observent aisément la bécassine des marais, le [courlis cendré](/especie/numenius_arquata/),
+      le vanneau huppé et l'huîtrier pie, tandis que tourbières, lochs et torrents accueillent le [héron
+      cendré](/especie/ardea_cinerea/). L'[aigle royal](/especie/aquila_chrysaetos/) s'est éteint dans l'île
+      en 1912. Un naturaliste local a recensé pas moins de 83 espèces aviennes.
+
+
+      Parmi les mammifères figurent la [loutre d'Europe](/especie/lutra_lutra/), l'hermine irlandaise, le
+      blaireau d'Eurasie et la musaraigne pygmée, ainsi que diverses chauves-souris. Le lièvre irlandais et le
+      renard roux abondent. Le lézard vivipare occupe les landes et les dunes, la grenouille rousse peuple
+      quasiment chaque mare et le grand sphinx de la vigne se reproduit sur l'île.
+    visit: >-
+      Ici la découverte se fait à pied, le régime des terres communales laissant la lande largement ouverte
+      aux marcheurs. La boucle facile de Dooagh totalise 4,40 km, grimpe de 60 m et se parcourt en une heure ;
+      elle longe une plage sculptée par les tempêtes entre ruisseaux, sable et tourbe. Le Valley Walk déploie
+      environ 8 km à travers le secteur de The Valley au nord-est.
+
+
+      Pour prendre de la hauteur, Minaun (466 mètres) dévoile un panorama emblématique sur l'estran et le lac
+      de Keel, avec une piste d'accès montant presque au sommet. Sur la péninsule de Curraun, la vallée
+      suspendue entre Polranny Hill et Curraun Hill abrite de petits étangs, un massif forestier et des
+      sentiers sauvages très peu fréquentés. La montagne exige d'être vigilant : consultez les recommandations
+      locales de sécurité et appliquez les principes de l'éthique Sans trace.
+
+
+      À vélo, l'île propose trois circuits balisés au départ de l'Achill Cycle Hub et forme l'aboutissement de
+      la Great Western Greenway, une voie verte de 42 km aménagée sur l'ancienne voie ferrée reliant Achill à
+      Westport, inaugurée en 2010 et 2011.
+    history: >-
+      Au Néolithique et au début de l'âge du bronze régnait un climat plus doux et sec, une forêt dense
+      recouvrait le relief et les tourbières actuelles n'avaient pas encore pris possession des sols. Sur les
+      flancs de Slievemore subsistent des murets préhistoriques engloutis sous la tourbe lorsque le climat
+      s'est dégradé à la fin de l'âge du bronze. Près de Dugort, au pied de la montagne, s'élève le Village
+      abandonné : entre 80 et 100 maisonnettes en pierres sèches d'une seule pièce. Les descendants des
+      anciens occupants les utilisèrent pour la transhumance estivale jusqu'aux années 1940 ; Achill fut
+      l'ultime terroir d'Irlande ou de Grande-Bretagne où cette tradition pastorale se maintint.
+
+
+      À Moytoge Head subsiste un poste d'observation britannique érigé durant la Première Guerre mondiale afin
+      de prévenir les débarquements d'armes allemandes. Environ la moitié de l'île appartient au Gaeltacht,
+      bastion de la langue gaélique. La pétalophylle de Ralfs, hépatique rare du machair, est protégée au
+      titre des annexes II et IV de la directive européenne habitats.
+    before: >-
+      La période idéale s'étend de mai à octobre. La fréquentation reste moyenne à Keem Bay lors des belles
+      journées estivales. Si vous souhaitez observer les requins pèlerins, prenez soin de consulter au
+      préalable la charte d'approche faunique.
+    around: >-
+      À 10 km se trouve le [Wild Nephin National Park](/lugar/wild-nephin-national-park/). Plus loin,
+      plusieurs réserves partagent des espèces avec Achill, comme le [Parque Natural da Ria
+      Formosa](/lugar/parque-natural-da-ria-formosa/) (bécasseau variable, courlis cendré et loutre), [Cap
+      Fréhel](/lugar/cap-frehel/) (crave à bec rouge et faucon pèlerin), le [Parque Natural Hoces del Alto
+      Ebro y Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/) (crave, faucon et loutre) et le
+      [Parque Natural do Alvão](/lugar/parque-natural-do-alvao/) (droséra et loutre).
+  de:
+    intro: >-
+      Unter dem Torf von Achill verbergen sich steinerne Begrenzungen. Seit Jahrtausenden ruhen sie an den
+      Hängen des Slievemore und umgrenzen Felder, die einst bestellt wurden, ehe feuchtkühles Klima das Moor
+      anwachsen ließ und die Kulturlandschaft überzog. Dies veranschaulicht den Charakter der Insel: eine
+      archaische Landschaft aus Wasser, Sturm und Torf, die die Spuren ihrer frühen Siedler bewahrt. Achill
+      ist mit rund 148 km² vor der Küste des County Mayo die größte Insel Irlands, seit 1887 durch eine
+      Drehbrücke mit dem Festland verbunden. Ihre Bergmassive stürzen steil ins Meer, gesäumt von sandigen
+      Dünenrasen, weiten Stränden und wilden Felsen, gekrönt im äußersten Westen von den Klippen des
+      Croaghaun, den dritthöchsten Meeresklippen Europas.
+    landscape: >-
+      Achill ist fast durchgehend von atlantischem Deckenmoor überzogen. In Jahrtausenden unter anhaltenden
+      ozeanischen Regenfällen herangewachsen, zieht sich der Torfteppich von den Kämmen bis ans Meeresufer,
+      dominiert von Pfeifengras, Besenheide und Torfmoosen. Das Grundgebirge der Insel und der benachbarten
+      Curraun-Halbinsel zählt zu den ältesten Gesteinsformationen Irlands und stammt aus dem Präkambrium vor
+      mehr als 600 Millionen Jahren. Die beiden höchsten Kuppen, Slievemore und Croaghaun, ragten während der
+      letzten Eiszeit vor 10.000 Jahren als Nunatakkr aus den Eismassen heraus; der Lough Acorrymore
+      veranschaulicht idealtypisch ein glaziales Kar mit überhängendem Hängetal.
+
+
+      Die Nordostflanke des Croaghaun bricht nahezu senkrecht vom Gipfel bis zur Brandung ab. Westlich
+      überwölbt der Gebirgsstock die abgelegene Bucht Keem Bay, vis-à-vis den Abstürzen des Benmore und dem
+      Sporn von Achill Head. Die Croaghaun-Klippen besitzen keinerlei Straßenanbindung.
+
+
+      Am Übergang von Dünensand zu Weideland breitet sich das Machair aus: ein kalkreicher Küstenrasen, der
+      weltweit nur im Nordwesten Irlands und Schottlands vorkommt und von der Europäischen Union als
+      prioritärer Lebensraum eingestuft wird. Hervorragende Bestände liegen bei Keel, Dugort und Valley.
+      Anfang bis Mitte Juni erblühen sie in leuchtenden Farben: Sand-Thymian, Gänseblümchen und Hornklee.
+    wildlife: >-
+      Im Mai und Juni zieht das marine Leben vor die Küste. Delfine und Riesenhaie passieren regelmäßig die
+      Gewässer rund um Achill; die Haie ziehen gern in die Buchten von Dooagh und Keem. Diese friedlichen
+      Planktonfiltrierer können durch Boote aufgeschreckt werden und mit ihren kräftigen Schwanzflossen
+      schlagen; ein Verhaltenskodex regelt daher die Beobachtung. Einst war Achill bekannt für den
+      industriellen Fang der Riesenhaie zur Leberölgewinnung.
+
+
+      Im Frühling blüht die seltene Irische Heide (*Erica mackayana*), die weltweit nur im Nordwesten von Mayo
+      sowie auf der Iberischen Halbinsel vorkommt, auf Curraun und hinter dem Croaghaun. Im Juni leuchtet das
+      Machair. Unter den Brutvögeln besiedelt die [Alpenkrähe](/especie/pyrrhocorax_pyrrhocorax/) die
+      Steilhänge des Croaghaun, vergesellschaftet mit Goldregenpfeifer, Alpenstrandläufer, Merlin und
+      [Wanderfalke](/especie/falco_peregrinus/); Weißwangengänse rasten auf dem Durchzug. Auf dem Machair
+      trifft man Bekassine, [Großer Brachvogel](/especie/numenius_arquata/), Kiebitz und Austernfischer an,
+      während Moore und Moorseen Lebensraum für den [Graureiher](/especie/ardea_cinerea/) bieten. Der
+      [Steinadler](/especie/aquila_chrysaetos/) starb hier 1912 aus. Ein lokaler Vogelbeobachter zählte nicht
+      weniger als 83 Vogelarten auf der Insel.
+
+
+      Die Säugetierfauna umfasst den [Eurasischen Fischotter](/especie/lutra_lutra/), das Irische Hermelin,
+      den Dachs und die Zwergspitzmaus sowie verschiedene Fledermäuse. Schneehase und Rotfuchs sind weit
+      verbreitet. Die Waldeidechse besiedelt Heide und Dünen, der Grasfrosch kommt in fast jedem Feuchtbiotop
+      vor und der Mittlere Weinschwärmer pflanzt sich auf der Insel fort.
+    visit: >-
+      Achill ist Wanderland: Da weite Flächen als Allmende (Commonage) verwaltet werden, steht das offene
+      Gelände Wanderern offen. Die leichte Rundtour bei Dooagh umfasst 4,40 km, überwindet 60 Höhenmeter und
+      beansprucht eine Stunde; sie berührt einen sturmdynamischen Sandstrand und führt über Bäche und
+      Moorböden. Der Valley Walk führt über rund 8 km durch das Gebiet The Valley im Nordosten.
+
+
+      Weite Ausblicke gewährt der 466 Meter hohe Minaun mit Panoramablick auf die Bucht und den See von Keel;
+      eine Versorgungsstraße führt fast bis zum Gipfelplateau. Auf der Curraun-Halbinsel birgt das Tal
+      zwischen Polranny Hill und Curraun Hill stille Karseen, ausgedehnte Forste und einsame Pfade fernab
+      jeglichen Trubels. Die Bergwelt verlangt Vorbereitung: Beachte lokale Sicherheitsanweisungen und folge
+      den Grundsätzen des spurlosen Wanderns.
+
+
+      Für Radfahrer bietet der Achill Cycle Hub drei Rundkurse; zudem markiert die Insel den Endpunkt des
+      Great Western Greenway, eines 42 km langen Bahnradwegs zwischen Achill und Westport, eingerichtet 2010
+      und 2011.
+    history: >-
+      Im Neolithikum und in der frühen Bronzezeit war das Klima wärmer und trockener; dichte Wälder bedeckten
+      die Insel, während sich Deckenmoore noch nicht gebildet hatten. An den Hängen des Slievemore zeugen
+      prähistorische Steinmauern von Ackerflächen, die nach der spätbronzezeitlichen Klimaverschlechterung
+      unter Torf versanken. Nahe Dugort liegt das verlassene Dorf (Deserted Village): zwischen 80 und 100
+      mörtellose Einraum-Steinhütten. Sie wurden von den Bewohnern bis in die 1940er-Jahre zur sommerlichen
+      Almweide (Booleying) genutzt; Achill war das letzte Rückzugsgebiet auf den Britischen Inseln, wo diese
+      archaische Weidewirtschaft fortbestand.
+
+
+      Auf Moytoge Head steht ein britischer Wachposten aus dem Ersten Weltkrieg, der errichtet wurde, um
+      deutsche Waffenanlandungen zu unterbinden. Rund die Hälfte der Insel gehört zum Gaeltacht, dem
+      traditionell irischsprachigen Gebiet. Das seltene Machair-Lebermoos *Petalophyllum ralfsii* ist in den
+      Anhängen II und IV der FFH-Richtlinie verzeichnet.
+    before: >-
+      Die beste Reisezeit liegt zwischen Mai und Oktober. Mäßiger Besucherandrang herrscht in der Keem Bay an
+      warmen Sommertagen. Informiere dich vor Wal- und Haibeobachtungen über die marinen Verhaltensregeln.
+    around: >-
+      In 10 km Entfernung liegt der [Wild Nephin National Park](/lugar/wild-nephin-national-park/). Weiter
+      entfernt teilen der [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/)
+      (Alpenstrandläufer, Großer Brachvogel und Fischotter), [Cap Fréhel](/lugar/cap-frehel/) (Alpenkrähe und
+      Wanderfalke), der [Parque Natural Hoces del Alto Ebro y
+      Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/) (Alpenkrähe, Falke und Fischotter) sowie
+      der [Parque Natural do Alvão](/lugar/parque-natural-do-alvao/) (Sonnentau und Fischotter) Arten mit
+      Achill.
+  it:
+    intro: >-
+      Sotto la coltre di torba di Achill affiorano muretti a secco preistorici. Vi riposano da millenni,
+      inerpicandosi sui declivi di Slievemore e tracciando i campi coltivati prima che il clima peggiorasse e
+      la torbiera ammantasse ogni rilievo. È il compendio visivo dell'isola: un regno selvaggio fatto di
+      acqua, raffiche e torba che custodisce i segni di chi lo abitò. Achill è la più estesa isola d'Irlanda,
+      circa 148 km² al largo della contea di Mayo, collegata alla terraferma da un ponte dal 1887. Le sue
+      dorsali montuose precipitano nell'oceano, orlate da praterie sabbiose, spiagge e vertiginosi dirupi
+      marini, che culminano a ovest nelle scogliere di Croaghaun, le terze più alte d'Europa.
+    landscape: >-
+      Achill è dominata da un'immensa torbiera di copertura (blanket bog). Sviluppatasi lungo millenni sotto
+      costanti piogge atlantiche, la coltre scende dalle creste fino al pelo dell'acqua, popolata da gramigna
+      di brughiera, brugo ed eriofori associati a sfagni. Le formazioni rocciose dell'isola e dell'adiacente
+      penisola di Curraun rientrano tra le più vetuste d'Irlanda, risalenti al Precambriano oltre 600 milioni
+      di anni fa. I due massicci principali, Slievemore e Croaghaun, svettavano come nunatak durante l'ultima
+      glaciazione ritiratasi 10.000 anni or sono; il Lough Acorrymore costituisce un classico circo glaciale
+      sovrastato da una valle sospesa.
+
+
+      La parete nord-orientale di Croaghaun precipita quasi a picco dalla cima fino al moto ondoso. A
+      occidente il massiccio racchiude la conca appartata di Keem Bay, fronteggiando le balze di Benmore e il
+      promontorio di Achill Head. Le falesie di Croaghaun sono prive di accessi carrabili.
+
+
+      Lungo il litorale, dove i granelli di sabbia incontrano il manto erboso, si sviluppa il machair: una
+      prateria costiera calcarea presente solo nel nord-ovest dell'Irlanda e della Scozia, classificata come
+      habitat prioritario dall'Unione Europea. Gli orizzonti più suggestivi si estendono a Keel, Dugort e
+      Valley. A inizio e metà giugno si accendono di colori vivaci: timo selvatico, margherite e ginestrino.
+    wildlife: >-
+      Maggio e giugno schiudono il calendario pelagico. Delfini e squali elefante solcano costantemente le
+      insenature di Achill, con gli squali che entrano nelle baie di Dooagh e Keem. Questi pacifici giganti
+      che filtrano il plancton possono intimorirsi se avvicinati incautamente da natanti e agitare
+      vigorosamente la coda; un codice etico disciplina l'avvistamento responsabile. Nel secolo scorso l'isola
+      fu rinomata per la caccia allo squalo elefante, insidiato per l'olio di fegato.
+
+
+      In primavera sboccia l'erica irlandese (*Erica mackayana*), rarità floristica confinata nel Mayo
+      nord-occidentale, in Spagna e Portogallo, reperibile sulla penisola di Curraun e alle spalle di
+      Croaghaun. In giugno fiorisce il machair. Sul fronte ornitologico, il [gracchio
+      corallino](/especie/pyrrhocorax_pyrrhocorax/) nidifica sulle balze di Croaghaun, affiancato da piviere
+      dorato, piovanello pancianera, smeriglio e [falco pellegrino](/especie/falco_peregrinus/); l'oca
+      facciabianca transita durante la migrazione. Sulle praterie machair si osservano beccaccini, il [chiurlo
+      maggiore](/especie/numenius_arquata/), pavoncelle e beccacce di mare, mentre specchi lacustri e
+      acquitrini ospitano l'[airone cenerino](/especie/ardea_cinerea/). L'[aquila
+      reale](/especie/aquila_chrysaetos/) si è estinta localmente nel 1912. Un naturalista isolano ha
+      documentato non meno di 83 specie ornitiche.
+
+
+      Tra i mammiferi compaiono la [lontra europea](/especie/lutra_lutra/), l'ermellino irlandese, il tasso e
+      il toporagno pigmeo, assieme a pipistrelli in caccia. Lepre irlandese e volpe popolano ogni lembo. La
+      lucertola vivipara occupa brughiere e cordoni dunosi, la rana temporaria popola ogni pozza e la sfinge
+      dell'epilobio si riproduce nell'isola.
+    visit: >-
+      Achill si esplora a piedi: la gestione civica delle terre comuni (commonage) rende ampi orizzonti
+      liberamente percorribili dagli escursionisti. Il facile circuito ad anello di Dooagh misura 4,40 km,
+      supera 60 m di dislivello e si completa in un'ora; tocca una spiaggia rimodellata dalle tempeste tra
+      rivoli, sabbie e torbiere. Il Valley Walk si estende per circa 8 km nel comprensorio di The Valley a
+      nord-est.
+
+
+      Per spaziare con lo sguardo, il Minaun (466 metri) regala un celebre colpo d'occhio sul litorale e sul
+      lago di Keel, servito da una sterrata che sale fin quasi alla vetta. Sulla penisola di Curraun, la valle
+      tra Polranny Hill e Curraun Hill protegge laghetti montani, una vasta pineta e sentieri solitari. La
+      montagna richiede cautela: consulta i bollettini di sicurezza e applica i principi Non Lasciare Traccia.
+
+
+      In sella alla bici l'isola conta tre percorsi nell'Achill Cycle Hub e costituisce il capolinea della
+      Great Western Greenway, pista ciclabile di 42 km ricavata sul sedime dell'antica ferrovia tra Achill e
+      Westport, aperta nel 2010 e 2011.
+    history: >-
+      Nel Neolitico e nell'antica età del bronzo il clima era più caldo e asciutto; boschi folti ammantavano
+      l'isola e le torbiere non si erano ancora espanse. Sulle pendici di Slievemore muretti a secco
+      testimoniano antichi appezzamenti agricoli inghiottiti dalla torba con il peggioramento climatico della
+      tarda età del bronzo. Presso Dugort sorge il Villaggio Abbandonato (Deserted Village): tra 80 e 100
+      casette monocamerali in pietra viva. I discendenti degli abitanti continuarono a utilizzarle per
+      l'alpeggio stagionale (booleying) fino agli anni 1940; Achill fu l'ultimo baluardo di Irlanda e Gran
+      Bretagna in cui sopravvisse questa forma di transumanza arcaica.
+
+
+      Su Moytoge Head sorge un posto di vedetta britannico allestito nella prima guerra mondiale per impedire
+      lo sbarco di armi tedesche. Circa metà dell'isola rientra nel Gaeltacht, cuore della lingua irlandese
+      viva. L'epatica rara *Petalophyllum ralfsii* è inclusa negli allegati II e IV della direttiva habitat.
+    before: >-
+      Il periodo migliore per visitarla va da maggio a ottobre. L'affluenza è media nella baia di Keem durante
+      le belle giornate di sole. Se desideri osservare gli squali elefante, informati in anticipo sul codice
+      di condotta marina.
+    around: >-
+      A 10 km si trova il [Wild Nephin National Park](/lugar/wild-nephin-national-park/). Più lontano,
+      condividono specie con Achill il [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/)
+      (piovanello pancianera, chiurlo maggiore e lontra), [Cap Fréhel](/lugar/cap-frehel/) (gracchio corallino
+      e falco pellegrino), il [Parque Natural Hoces del Alto Ebro y
+      Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/) (gracchio, falco e lontra) e il [Parque
+      Natural do Alvão](/lugar/parque-natural-do-alvao/) (drosera e lontra).
+  pt:
+    intro: >-
+      Sob a turfa de Achill repousam antigos muros de pedra. Permanecem sepultados há milénios, galgando as
+      encostas de Slievemore e delimitando campos outrora lavrados antes de a deterioração climática cobrir
+      tudo sob uma densa turfeira de cobertura. É a síntese da ilha: um ermo de ventanias, água e turfa que
+      guarda os vestígios dos seus primitivos povoadores. Achill é a maior ilha da Irlanda, estendendo-se por
+      cerca de 148 km² ao largo da costa de Mayo, unida ao continente por ponte desde 1887. O seu relevo
+      despenha-se no mar entre prados arenosos, praias e alcantis litorais, encimados a oeste pelas falésias
+      de Croaghaun, as terceiras mais altas da Europa.
+    landscape: >-
+      Achill encontra-se amplamente revestida por turfeiras de cobertura. Desenvolvido ao longo de milénios
+      sob chuvas atlânticas ininterruptas, o manto de turfa ondula desde as cumeadas até ao nível do mar,
+      dominado por gramíneas de cervum, urze e musgos esfagno. O soco geológico da ilha e da contígua
+      península de Curraun figura entre as formações mais antigas da Irlanda, remontando ao Pré-Câmbrico há
+      mais de 600 milhões de anos. Os seus dois maciços mais proeminentes, Slievemore e Croaghaun, sobressaíam
+      como nunataks durante o último máximo glaciar findo há 10.000 anos; o Lough Acorrymore espelha com
+      perfeição um circo glaciar encimado por vale suspenso.
+
+
+      A face nordeste de Croaghaun despenca em abismo quase direto desde o topo até às ondas. No flanco
+      ocidental o maciço ergue-se sobre o anfiteatro isolado de Keem Bay, defrontando as escarpas de Benmore e
+      o promontório de Achill Head. As falésias de Croaghaun não dispõem de qualquer acesso rodoviário.
+
+
+      Na faixa litorânea onde o areal se funde com a relva surge o machair: um prado costeiro calcário
+      exclusivo do noroeste irlandês e escocês, reconhecido como habitat prioritário pela União Europeia. Os
+      núcleos mais representativos localizam-se em Keel, Dugort e Valley. No início e meados de junho
+      cobrem-se de floração profusa: tomilho-silvestre, margaridas e cornichão.
+    wildlife: >-
+      Maio e junho marcam o apogeu da vida marinha. Golfinhos e tubarões-frade patrulham habitualmente as
+      águas de Achill, penetrando estes últimos nas baías de Dooagh e Keem. Sendo pacíficos animais
+      filtradores de plâncton, podem contudo assustar-se com embarcações e desferir fortes golpes de barbatana
+      caudal; por isso vigora um rigoroso código de conduta para a sua observação. Em tempos a ilha
+      notabilizou-se pela caça tradicional ao tubarão-frade para aproveitamento do óleo hepático.
+
+
+      Na primavera floresce a urze-da-irlanda (*Erica mackayana*), raridade restrita ao noroeste de Mayo, a
+      Espanha e Portugal, dispersa em Curraun e na encosta oculta de Croaghaun. Em junho desabrocham as cores
+      do machair. Na avifauna, a [gralha-de-bico-vermelho](/especie/pyrrhocorax_pyrrhocorax/) nidifica nas
+      arribas de Croaghaun, coexistindo com o tarambola-dourada, o pilrito-comum, o esmerilhão e o
+      [falcão-peregrino](/especie/falco_peregrinus/); gansos-de-faces-brancas ocorrem em migração. Pelo
+      machair avistam-se com facilidade narcejas-comuns, o [maçarico-real](/especie/numenius_arquata/), abibes
+      e ostraceiros, ao passo que turfeiras e lagos acolhem a [garça-real-europeia](/especie/ardea_cinerea/).
+      A [águia-real](/especie/aquila_chrysaetos/) extinguiu-se no território em 1912. Um ornitólogo local
+      registou nada menos que 83 espécies de aves.
+
+
+      Entre os mamíferos contam-se a [lontra-europeia](/especie/lutra_lutra/), o arminho-irlandês, o texugo e
+      o musaranho-anão, a par de morcegos em voo. A lebre-irlandesa e a raposa estão omnipresentes. A
+      lagartixa-vivípara habita charnecas e dunas, a rã-castanha ocorre em quase todos os charcos e a mariposa
+      esfinge-da-videira reproduz-se na ilha.
+    visit: >-
+      Achill é terra de caminhadas: a gestão comunitária dos terrenos baldios (commonage) permite aos
+      caminheiros circular livremente pelo campo aberto. O percurso circular fácil de Dooagh estende-se por
+      4,40 km, vence 60 m de desnível e cumpre-se numa hora; ladeia uma praia mutável sob as tempestades entre
+      ribeiros, areia e turfa. O Valley Walk desenvolve-se ao longo de 8 km no setor de The Valley, a
+      nordeste.
+
+
+      Para vislumbrar panoramas desafogados, o Minaun (466 metros) proporciona a célebre vista sobre a praia e
+      a lagoa de Keel, sendo servido por uma pista que culmina próxima do cume. Na península de Curraun, o
+      vale entre Polranny Hill e Curraun Hill oculta lagoas montanhosas, um extenso pinhal e trilhos remotos
+      sem vivalma. A montanha exige rigor: consulta as recomendações locais de segurança e pratica os
+      princípios de Não Deixar Rasto.
+
+
+      Para os ciclistas, a ilha disponibiliza três rotas no Achill Cycle Hub e acolhe o término da Great
+      Western Greenway, uma ecopista de 42 km implementada no antigo ramal ferroviário entre Achill e
+      Westport, inaugurada em 2010 e 2011.
+    history: >-
+      No Neolítico e nos primórdios da Idade do Bronze o clima era mais ameno e seco, uma floresta cerrada
+      revestia a ilha e as turfeiras contemporâneas não tinham ainda alastrado. Nas encostas de Slievemore
+      subsistem muros pré-históricos de pedra seca engolidos pela turfa aquando do arrefecimento na Idade do
+      Bronze Final. Próximo de Dugort localiza-se a Aldeia Abandonada (Deserted Village): entre 80 e 100
+      cabanas monocameral em pedra seca. Os descendentes continuaram a utilizá-las na transumância estival
+      (booleying) até à década de 1940; Achill foi o último rincão da Irlanda ou Grã-Bretanha onde esta
+      prática secular subsistiu.
+
+
+      Em Moytoge Head ergue-se um posto de vigia britânico erigido durante a Primeira Guerra Mundial para
+      vigiar eventuais desembarques de armas alemãs. Cerca de metade da ilha integra a Gaeltacht, onde a
+      língua irlandesa permanece viva. A hepática rara *Petalophyllum ralfsii* consta dos anexos II e IV da
+      diretiva habitats comunitária.
+    before: >-
+      A melhor época para a visita prolonga-se de maio a outubro. O afluxo turístico é médio na baía de Keem
+      nos dias soalheiros de verão. Se pretendes avistar tubarões-frade, consulta com antecedência o código de
+      boas práticas marinhas.
+    around: >-
+      A 10 km situa-se o [Wild Nephin National Park](/lugar/wild-nephin-national-park/). Mais longe, partilham
+      espécies com Achill o [Parque Natural da Ria Formosa](/lugar/parque-natural-da-ria-formosa/)
+      (pilrito-comum, maçarico-real e lontra), [Cap Fréhel](/lugar/cap-frehel/) (gralha-de-bico-vermelho e
+      falcão-peregrino), o [Parque Natural Hoces del Alto Ebro y
+      Rudrón](/lugar/parque-natural-hoces-del-alto-ebro-y-rudron/) (gralha, falcão e lontra) e o [Parque
+      Natural do Alvão](/lugar/parque-natural-do-alvao/) (drósera e lontra).
+fuentes:
+  - url: https://achilltourism.com/experience-achill/the-natural-world/
+    titulo: The Natural World
+    fecha_consulta: '2026-10-30'
+  - url: https://achilltourism.com/on-land/
+    titulo: On Land
+    fecha_consulta: '2026-10-30'
+  - url: https://achilltourism.com/dolphin-and-shark-watching/
+    titulo: Dolphin and Shark Watching
+    fecha_consulta: '2026-10-30'
+  - url: https://achilltourism.com/achill-island-tourism-cycling-in-achill-co-mayo-ireland/
+    titulo: Cycling on Achill — Achill Tourism
+    fecha_consulta: '2026-10-30'
+  - url: https://achilltourism.com/achill-island-tourism-hillwalking-on-achill-co-mayo-ireland/
+    titulo: Hillwalking on Achill — Achill Tourism
+    fecha_consulta: '2026-10-30'
+  - url: https://www.discoverireland.ie/mayo/achill-island-dooagh-loop
+    titulo: Achill Island Dooagh Loop — Discover Ireland
+    fecha_consulta: '2026-10-30'
+  - url: https://en.wikipedia.org/wiki/Achill_Island
+    titulo: Achill Island — Wikipedia
+    fecha_consulta: '2026-10-30'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Lough_Doo,_Achill_Island,_Co._Mayo.jpg
+    autor: MickReynolds
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-03'

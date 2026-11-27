@@ -1,0 +1,17 @@
+{
+  "name": "wildatlas-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Datos abiertos del Atlas de la Europa Salvaje",
+  "type": "module",
+  "scripts": {
+    "validar": "node scripts/validar.mjs",
+    "descargas": "node scripts/generar-descargas.mjs",
+    "enlaces": "node scripts/comprobar-enlaces.mjs",
+    "commons": "node scripts/comprobar-commons.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "js-yaml": "^4.1.0"
+  }
+}

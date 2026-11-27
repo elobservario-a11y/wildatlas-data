@@ -1,0 +1,504 @@
+id: parcul-natural-cindrel
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Natural de Cindrel
+  en: Cindrel Natural Park
+  fr: Parc naturel de Cindrel
+  de: Naturpark Cindrel
+  it: Parco naturale di Cindrel
+  pt: Parque Natural de Cindrel
+nombre_original: Parcul Natural Cindrel
+alias:
+  - Cindrel Mountains (Parcul Natural Cindrel)
+paises:
+  - RO
+region:
+  es: Județul Sibiu (Păltiniș)
+  en: Sibiu County (Păltiniș)
+  fr: Județ de Sibiu (Păltiniș)
+  de: Kreis Sibiu (Păltiniș)
+  it: Distretto di Sibiu (Păltiniș)
+  pt: Distrito de Sibiu (Păltiniș)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 45.55
+  lon: 23.83
+  radio_km: 20
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 184091
+  nombre_en_la_fuente: Cindrel
+  categoria_uicn: IV
+  capa: capas/cdda/parcul-natural-cindrel.geojson
+habitats:
+  - high_mountain
+  - mature_forest
+  - glacial
+designaciones:
+  - natural_park
+  - natura2000
+  - iucn_v
+especies:
+  - ursus_arctos
+  - lynx_lynx
+  - tetrao_urogallus
+temporada_ideal:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+temporada_nota:
+  es: junio a octubre
+  en: June to October
+  fr: juin à octobre
+  de: Juni bis Oktober
+  it: giugno a ottobre
+  pt: junho a outubro
+masificacion: 1
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 1
+enlaces_oficiales:
+  - titulo: Rutas y condiciones — Cindrel (Salvamont Sibiu)
+    url: https://www.salvamontsibiu.ro/?wildworld-tours=cindrel
+resumen:
+  es: >-
+    Mesetas alpinas suaves y circos glaciares habitados por la cultura pastoril tradicional de Mărginimea
+    Sibiului.
+  en: >-
+    Gentle alpine plateaus and glacial cirques shaped by the traditional pastoral culture of Mărginimea
+    Sibiului.
+  fr: >-
+    Hauts plateaux alpins vallonnés et cirques glaciaires façonnés par la culture pastorale séculaire de
+    Mărginimea Sibiului.
+  de: >-
+    Sanfte Almhochflächen und Gletscherkare, geprägt von der überlieferten Hirtenkultur von Mărginimea
+    Sibiului.
+  it: >-
+    Dolci altopiani alpini e circhi glaciali modellati dalla millenaria cultura pastorale di Mărginimea
+    Sibiului.
+  pt: >-
+    Suaves planaltos alpinos e circos glaciares habitados pela secular cultura pastoril de Mărginimea
+    Sibiului.
+unico:
+  es: >-
+    Dos valles glaciares con los lagos Iezerul Mic e Iezerul Mare, y a su alrededor, un macizo pastoril con
+    más de cien años de senderos marcados.
+  en: >-
+    Two glacial valleys cradling lakes Iezerul Mic and Iezerul Mare, surrounded by a pastoral massif with over
+    a century of marked trails.
+  fr: >-
+    Deux vallées glaciaires abritant les lacs Iezerul Mic et Iezerul Mare, au cœur d'un massif pastoral aux
+    sentiers balisés depuis plus d'un siècle.
+  de: >-
+    Zwei Gletschertäler mit den Karseen Iezerul Mic und Iezerul Mare, umgeben von einem Hirtenmassiv mit über
+    hundert Jahren markierten Wegen.
+  it: >-
+    Due vallate glaciali con i laghi Iezerul Mic e Iezerul Mare, circondati da un massiccio pastorale solcato
+    da oltre un secolo di sentieri segnati.
+  pt: >-
+    Dois vales glaciares com as lagoas Iezerul Mic e Iezerul Mare, rodeados por um maciço pastoril com mais de
+    cem anos de trilhos marcados.
+observaciones:
+  es: Las rutas son de dificultad media. Cuenta con uno o dos días, y la mejor época va de junio a octubre.
+texto:
+  es:
+    intro: >-
+      Desde el valle de Sibiu, las montañas de Cindrel no se alzan: se levantan de golpe. De una meseta de
+      entre doscientos y cuatrocientos metros se pasa, a través de una franja de valles hondos, a un macizo
+      que sigue subiendo hasta los dos mil doscientos cuarenta y cuatro metros de la cima que le da nombre. Es
+      un macizo con circos glaciares, dos lagos de origen glaciar, bosques de haya y abedul, majadas en las
+      cotas altas y osos, lobos y linces en las laderas.
+    landscape: >-
+      La roca que domina es esquisto cristalino duro, y el relieve, escarpado, está cruzado por valles de
+      laderas muy empinadas que forman entre Șugag y Tău Bistrei una espectacular garganta. Arriba, en la
+      vertiente norte, los manantiales nacen en circos glaciares colgados: de los doce que hay, tres son
+      Iezeru Mare, Iezeru Mic y Gropata. La reserva de Iezerele Cindrelului abarca los dos valles glaciares
+      con sus lagos, y la zona entre la cima, Frumoasa y los dos lagos se llama, no por casualidad, la Meseta
+      del Diablo. Según la tradición, nadie conoce la profundidad real del lago de Iezerul y en el fondo vive
+      un monstruo.
+
+
+      Más abajo cambia la escena. Hay grandes bosques de haya, abedul y varias coníferas; en las cotas altas,
+      matorral de enebro enano, aliso de montaña, arándanos y *Rhododendron kotschyi*. Entre los árboles del
+      parque figuran el pino cembro, el tejo, el pino silvestre y el pino mugo. En verano, las laderas se
+      cubren de alfombras de crocos, *Iris ruthenica*, primaveras, claveles, genciana amarilla y orquídeas
+      rojas.
+    wildlife: >-
+      La fauna de Cindrel es conocida por su variedad. El jabalí y el ciervo pueblan los hayedos, junto con
+      los carnívoros: el [lobo](/especie/canis_lupus/), el gato montés y el [lince](/especie/lynx_lynx/). Las
+      laderas son del [oso pardo](/especie/ursus_arctos/) y del [ciervo](/especie/cervus_elaphus/) de los
+      Cárpatos. También figuran el [rebeco](/especie/rupicapra_rupicapra/), el corzo y entre las aves
+      protegidas, el [urogallo](/especie/tetrao_urogallus/), el mochuelo boreal y el chotacabras europeo.
+
+
+      En los arroyos rápidos de las cotas altas viven truchas; aguas abajo, el tímalo, y más abajo aún, el
+      cacho europeo.
+
+
+      Cada estación tiene su plan. De junio a octubre es la temporada de rutas. En invierno, las sendas de
+      Păltiniș permiten hacer excursiones con raquetas y esquí de travesía, y en Poiana Găujoara se ofrece la
+      observación de estrellas.
+    visit: >-
+      La puerta de entrada es Păltiniș, a mil cuatrocientos cincuenta metros de altitud, a cuatro o cinco
+      horas a pie de la cima de Cindrel. De allí parten los senderos marcados hacia la cima principal, con la
+      marca de línea roja entre Cisnădie y el refugio Oașa, junto al lago del mismo nombre del valle de
+      Frumoasa. Las rutas de Cindrel suelen tener dificultad media, y muchas arrancan de Păltiniș o de los
+      pueblos de Mărginimea Sibiului.
+
+
+      La más recomendable para el verano es la ruta de Păltiniș a Rășinari: se hace en cinco o seis horas, es
+      en general de bajada, con un desnivel de ochocientos ochenta metros, y atraviesa Grădina Oncești, Poiana
+      Tomnatec, el pico Ghihan y Șaua Apa Cumpănită. En Păltiniș se ofrece también la observación de flora y
+      fauna y del cielo desde Poiana Găujoara. Para fotografía hay miradores en los claros de Godea y
+      Găujoara.
+
+
+      Un autobús, el número veintidós, conecta Sibiu, Rășinari y Păltiniș.
+    history: >-
+      El macizo es fácil de alcanzar, y por eso se formó a su alrededor la región etnográfica de Mărginimea
+      Sibiului, con el pastoreo de ovejas y la industria de la madera como oficios principales. Los cientos de
+      majadas estacionales de la gente de Mărginime, y los senderos con marcas de más de cien años, mantienen
+      vivo un modo de vida ancestral. Păltiniș se desarrolló en torno a un pequeño monasterio donde el
+      filósofo rumano Constantin Noica pasó la última parte de su vida. En la Primera Guerra Mundial, el monte
+      fue escenario de la batalla del monte Cindrel, en el marco de la batalla de Transilvania de 1916.
+    before: Las rutas son de dificultad media. Cuenta con uno o dos días, y la mejor época va de junio a octubre.
+    around: >-
+      Pegado a Cindrel están las [Montañas de Parâng](/lugar/muntii-parang/), y a once kilómetros, las
+      [Montañas de Șureanu](/lugar/muntii-sureanu/). A dieciséis queda la [Reserva forestal de
+      Latorița](/lugar/codrul-secular-latorita/), y a veintinueve, el [Desfiladero del Río
+      Olt](/lugar/defileul-oltului/).
+  en:
+    intro: >-
+      Seen from the Sibiu depression, the Cindrel Mountains do not merely rise: they surge abruptly. From a
+      foothill plateau between two hundred and four hundred metres, one transitions through a tier of deep
+      ravines into an alpine massif climbing all the way to the two thousand two hundred and forty-four metres
+      of the eponymous summit. It is an upland realm of glacial amphitheatres, two tarns, beech and birch
+      forests, seasonal shepherd katuns on high meadows, and bears, wolves and lynx roaming the slopes.
+    landscape: >-
+      Hard crystalline schist forms the geological foundation, carved into steep valleys that converge between
+      Șugag and Tău Bistrei into a spectacular defile. High on the northern flank, headwater streams emerge
+      from hanging glacial cirques: of the twelve cirques, three hold lakes—Iezeru Mare, Iezeru Mic and
+      Gropata. The Iezerele Cindrelului reserve encompasses both glacial valleys and their tarns, and the
+      plateau between the summit, Frumoasa and the two lakes is known locally as the Devil's Plateau. Folklore
+      holds that the bottom of Iezerul lake remains fathomless, home to an ancient water serpent.
+
+
+      Lower down, the scenery transforms. Vast beech, birch and mixed conifer forests cover the slopes; high
+      tiers feature dwarf juniper scrub, mountain alder, bilberry and *Rhododendron kotschyi*. Trees include
+      Swiss stone pine, yew, Scots pine and mountain pine. In summer, slopes become carpets of crocuses, *Iris
+      ruthenica*, primroses, carnations, yellow gentian and red orchids.
+    wildlife: >-
+      The fauna of Cindrel is celebrated for its richness. Wild boar and red deer inhabit the beechwoods
+      alongside apex predators: the [wolf](/especie/canis_lupus/), wildcat and [Eurasian
+      lynx](/especie/lynx_lynx/). The forested slopes belong to the [brown bear](/especie/ursus_arctos/) and
+      Carpathian [red deer](/especie/cervus_elaphus/). Alpine ridges shelter
+      [chamois](/especie/rupicapra_rupicapra/) and roe deer, while protected birds include the [western
+      capercaillie](/especie/tetrao_urogallus/), boreal owl and European nightjar.
+
+
+      Rushing mountain torrents harbour brown trout, while grayling and European chub inhabit downstream
+      stretches.
+
+
+      Each season offers distinct experiences. June to October is optimal for hiking. In winter, Păltiniș
+      trails cater to snowshoeing and ski touring, and Poiana Găujoara hosts stargazing sessions.
+    visit: >-
+      The main gateway is the resort of Păltiniș at one thousand four hundred and fifty metres elevation, four
+      to five hours on foot from the Cindrel summit. Marked trails depart from there toward the high crests,
+      marked with a red stripe between Cisnădie and Oașa refuge beside Lake Oașa in the Frumoasa valley.
+      Routes generally present moderate difficulty, starting from Păltiniș or Mărginimea Sibiului villages.
+
+
+      The most rewarding summer hike connects Păltiniș to Rășinari: it takes five to six hours, mostly
+      downhill with an eight hundred and eighty metre descent, crossing Grădina Oncești, Poiana Tomnatec,
+      Ghihan peak and Șaua Apa Cumpănită. Păltiniș also offers wildlife watching and dark-sky astronomy at
+      Poiana Găujoara. Photography lookouts grace the Godea and Găujoara clearings.
+
+
+      Bus number twenty-two connects Sibiu, Rășinari and Păltiniș.
+    history: >-
+      Easy accessibility fostered the pastoral culture of Mărginimea Sibiului, centered on transhumant sheep
+      farming and timber trades. Hundreds of seasonal summer folds and footpaths marked over a century ago
+      sustain this living heritage. Păltiniș grew around a monastic hermitage where Romanian philosopher
+      Constantin Noica spent his final years. During the First World War, the massif witnessed the Battle of
+      Mount Cindrel during the Transylvanian offensive of 1916.
+    before: Trails are of moderate difficulty. Allow one to two days, with prime conditions from June to October.
+    around: >-
+      Directly bordering Cindrel lie the [Parâng Mountains](/lugar/muntii-parang/), and eleven kilometres away
+      the [Șureanu Mountains](/lugar/muntii-sureanu/). Sixteen kilometres away sits the [Latorița Old-Growth
+      Forest](/lugar/codrul-secular-latorita/), and twenty-nine kilometres the [Olt River
+      Gorge](/lugar/defileul-oltului/).
+  fr:
+    intro: >-
+      Depuis la dépression de Sibiu, les monts Cindrel ne s'élèvent pas doucement : ils surgissent. D'un
+      plateau piémontais entre deux cents et quatre cents mètres d'altitude, on passe par de profondes vallées
+      à un massif culminant aux deux mille deux cent quarante-quatre mètres du sommet éponyme. C'est un massif
+      hérissé de cirques glaciaires, de deux lacs de montagne, de hêtraies et boulaies, de bergeries
+      d'altitude et de pentes où rôdent ours, loups et lynx.
+    landscape: >-
+      La roche dominante est un schiste cristallin résistant, entaillé de vallées abruptes qui forment entre
+      Șugag et Tău Bistrei une gorge spectaculaire. Sur le versant nord, les torrents jaillissent de cirques
+      suspendus : sur douze cirques recensés, trois abritent des lacs, Iezeru Mare, Iezeru Mic et Gropata. La
+      réserve d'Iezerele Cindrelului protège les deux vallées glaciaires et leurs lacs, et la zone d'altitude
+      entre le sommet, Frumoasa et les deux lacs est appelée le Plateau du Diable. La légende affirme que la
+      profondeur d'Iezerul demeure insondable et qu'un monstre hante ses abysses.
+
+
+      Plus bas s'étendent de vastes forêts de hêtres, bouleaux et conifères ; les crêtes portent des landes de
+      genévrier nain, d'aulne vert, de myrtilles et de *Rhododendron kotschyi*. Les arbres comptent pin
+      cembro, if, pin sylvestre et pin couché. En été, les pentes se couvrent de crocus, *Iris ruthenica*,
+      primevères, œillets, gentiane jaune et orchidées pourpres.
+    wildlife: >-
+      La faune du Cindrel brille par sa diversité. Sangliers et cerfs peuplent les hêtraies aux côtés des
+      prédateurs : le [loup](/especie/canis_lupus/), le chat sauvage et le [lynx](/especie/lynx_lynx/). Les
+      pentes boisées appartiennent à l'[ours brun](/especie/ursus_arctos/) et au [cerf
+      élaphe](/especie/cervus_elaphus/). On y trouve aussi le [chamois](/especie/rupicapra_rupicapra/), le
+      chevreuil et, parmi les oiseaux protégés, le [grand tétras](/especie/tetrao_urogallus/), la chouette de
+      Tengmalm et l'engoulevent d'Europe.
+
+
+      Les torrents vifs abritent la truite fario, l'ombre commun plus bas et le chevesne en plaine.
+
+
+      De juin à octobre s'étend la saison de randonnée. En hiver, les itinéraires de Păltiniș permettent
+      raquettes et ski de randonnée, et la clairière de Poiana Găujoara accueille l'observation des étoiles.
+    visit: >-
+      La station d'altitude de Păltiniș, à mille quatre cent cinquante mètres, est la porte d'entrée, située à
+      quatre ou cinq heures de marche du sommet du Cindrel. De là partent les chemins de crête balisés d'une
+      bande rouge reliant Cisnădie au refuge d'Oașa près du lac du même nom. Les itinéraires présentent une
+      difficulté moyenne au départ de Păltiniș ou des villages de Mărginimea Sibiului.
+
+
+      La randonnée estivale classique relie Păltiniș à Rășinari : cinq à six heures de marche, principalement
+      en descente sur un dénivelé de huit cent quatre-vingts mètres, via Grădina Oncești, Poiana Tomnatec et
+      Șaua Apa Cumpănită. Păltiniș organise l'observation faunistique et l'astronomie à Poiana Găujoara. Des
+      belvédères photographiques jalonnent les clairières de Godea et Găujoara.
+
+
+      La ligne de bus numéro vingt-deux dessert Sibiu, Rășinari et Păltiniș.
+    history: >-
+      L'accessibilité aisée du massif a favorisé l'essor de la région ethnographique de Mărginimea Sibiului,
+      fondée sur le pastoralisme ovin transhumant et le travail du bois. Des centaines de bergeries
+      traditionnelles et des sentiers balisés depuis plus d'un siècle maintiennent vivantes ces traditions.
+      Păltiniș s'est développé autour d'un ermitage monastique où le philosophe roumain Constantin Noica vécut
+      ses dernières années. Durant la Première Guerre mondiale, le massif fut le théâtre de la bataille du
+      mont Cindrel lors de la campagne de Transylvanie de 1916.
+    before: Les sentiers sont de difficulté modérée. Comptez un à deux jours, de juin à octobre.
+    around: >-
+      Attenants au Cindrel s'élèvent les [Monts Parâng](/lugar/muntii-parang/), et à onze kilomètres les
+      [Monts Șureanu](/lugar/muntii-sureanu/). À seize kilomètres se trouve la [Forêt ancienne de
+      Latorița](/lugar/codrul-secular-latorita/), et à vingt-neuf le [Défilé de
+      l'Olt](/lugar/defileul-oltului/).
+  de:
+    intro: >-
+      Vom Hermannstädter Becken aus gesehen steigen die Cindrel-Berge unvermittelt steil an. Von einer
+      Hochebene zwischen zweihundert und vierhundert Metern gelangt man über tiefe Schluchten in ein
+      Gebirgsmassiv, das bis auf zweitausendzweihundertvierundvierzig Meter des namensgebenden Gipfels
+      ansteigt. Es ist ein Gebirge mit Karen, zwei Karseen, Buchen- und Birkenwäldern, Almen in Hochlagen und
+      Bären, Wölfen und Luchsen an den Hängen.
+    landscape: >-
+      Das Grundgestein besteht aus hartem kristallinem Glimmerschiefer; tief eingeschnittene Täler bilden
+      zwischen Șugag und Tău Bistrei eine wilde Schlucht. An der Nordflanke entspringen Bergbäche in
+      Hängekaren: Von zwölf Karen beherbergen drei Seen – Iezeru Mare, Iezeru Mic und Gropata. Das Reservat
+      Iezerele Cindrelului umfasst beide Karseetäler; die Hochfläche zwischen Gipfel, Frumoasa und den Seen
+      wird im Volksmund Teufelsplateau genannt. Der Sage nach birgt der Iezerul-See ungemessene Tiefen und ein
+      Ungeheuer auf seinem Grund.
+
+
+      In tieferen Lagen dominieren Buchen-, Birken- und Nadelwälder; in Hochlagen wachsen Zwergwacholder,
+      Grünerle, Heidelbeere und *Rhododendron kotschyi*. An Nadelbäumen finden sich Zirbelkiefer, Eibe,
+      Waldkiefer und Bergkiefer. Im Sommer zieren Krokusse, *Iris ruthenica*, Primeln, Nelken, Gelber Enzian
+      und Rote Kohlröschen die Hänge.
+    wildlife: >-
+      Die Tierwelt des Cindrel ist für ihren Artenreichtum bekannt. Wildschwein und Rothirsch bevölkern die
+      Buchenwälder nebst Beutegreifern: [Wolf](/especie/canis_lupus/), Wildkatze und
+      [Luchs](/especie/lynx_lynx/). Die Berghänge gehören dem [Braunbären](/especie/ursus_arctos/) und dem
+      Karpaten-[Rothirsch](/especie/cervus_elaphus/). Zudem kommen [Gämse](/especie/rupicapra_rupicapra/), Reh
+      und unter den Vögeln [Auerhuhn](/especie/tetrao_urogallus/), Raufußkauz und Ziegenmelker vor.
+
+
+      In reißenden Bergbächen schwimmen Bachforellen, flussabwärts Äschen und Döbel.
+
+
+      Von Juni bis Oktober herrscht Wandersaison. Im Winter bieten die Wege um Păltiniș Schneeschuh- und
+      Skitourenmöglichkeiten, und in Poiana Găujoara werden Sternbeobachtungen angeboten.
+    visit: >-
+      Hauptzugang ist Păltiniș auf eintausendvierhundertfünfzig Metern Höhe, vier bis fünf Gehstunden vom
+      Cindrel-Gipfel entfernt. Von dort führen rot markierte Kammwege über die Höhenzüge Richtung Oașa-Hütte
+      am Oașa-Stausee im Frumoasa-Tal. Die Routen weisen mittlere Schwierigkeit auf und starten in Păltiniș
+      oder den Dörfern von Mărginimea Sibiului.
+
+
+      Empfehlenswert im Sommer ist die Tour von Păltiniș nach Rășinari: fünf bis sechs Stunden Gehzeit,
+      überwiegend bergab mit achthundertachtzig Höhenmetern Abstieg über Grădina Oncești, Poiana Tomnatec und
+      Șaua Apa Cumpănită. Păltiniș bietet zudem Wildbeobachtung und Himmelsbeobachtung auf Poiana Găujoara.
+      Fotopunkte finden sich auf den Lichtungen Godea und Găujoara.
+
+
+      Die Buslinie Nummer zweiundzwanzig verbindet Sibiu, Rășinari und Păltiniș.
+    history: >-
+      Die Zugänglichkeit des Gebirges förderte die Herausbildung der Kulturregion Mărginimea Sibiului, geprägt
+      von Wanderschafzucht und Holzwirtschaft. Hunderte traditionelle Sommersennereien und über hundert Jahre
+      alte Wegmarkierungen zeugen von lebendiger Hirtentradition. Păltiniș entstand um eine Klosterklause, in
+      der Philosoph Constantin Noica seinen Lebensabend verbrachte. Im Ersten Weltkrieg war der Berg
+      Schauplatz der Schlacht am Berg Cindrel während des Siebenbürgen-Feldzugs von 1916.
+    before: >-
+      Wanderwege sind von mittlerem Anspruch. Planen Sie ein bis zwei Tage ein; beste Zeit ist Juni bis
+      Oktober.
+    around: >-
+      Direkt an den Cindrel schließt das [Parâng-Gebirge](/lugar/muntii-parang/) an, und elf Kilometer
+      entfernt liegen die [Șureanu-Berge](/lugar/muntii-sureanu/). Sechzehn Kilometer entfernt liegt der
+      [Urwald von Latorița](/lugar/codrul-secular-latorita/) und neunundzwanzig die
+      [Aluta-Schlucht](/lugar/defileul-oltului/).
+  it:
+    intro: >-
+      Dalla conca di Sibiu i monti Cindrel si innalzano bruscamente. Da un altopiano basale tra duecento e
+      quattrocento metri di quota si passa, attraverso valli incassate, a un massiccio che sale fino ai
+      duemiladuecentoquarantaquattro metri della cima eponima. È un altopiano punteggiato da circhi glaciali,
+      due laghi d'alta quota, faggete e betulle, stazzi pastorali e versanti dove si aggirano orsi, lupi e
+      linci.
+    landscape: >-
+      Il substrato geologico è costituito da scisti cristallini duri, intagliati da valli a forte pendenza che
+      formano tra Șugag e Tău Bistrei una spettacolare forra. Sul versante settentrionale le sorgenti nascono
+      in circhi pensili: su dodici circhi censiti, tre racchiudono specchi d'acqua: Iezeru Mare, Iezeru Mic e
+      Gropata. La riserva di Iezerele Cindrelului tutela entrambe le valli glaciali; l'altopiano sommitale tra
+      vetta, Frumoasa e i due laghi è noto come Altopiano del Diavolo. Tradizioni popolari narrano che la
+      profondità del lago Iezerul sia insondabile e che un mostro abiti i suoi abissi.
+
+
+      Più in basso dominano foreste di faggio, betulla e conifere; le creste ospitano ginepro nano, ontano
+      verde, mirtilli e *Rhododendron kotschyi*. Tra le essenze arboree figurano pino cembro, tasso, pino
+      silvestre e pino mugo. In estate le praterie si ammantano di crochi, *Iris ruthenica*, primule,
+      garofanini, genziana gialla e orchidee rosse.
+    wildlife: >-
+      La fauna del Cindrel spicca per varietà. Cinghiali e cervi popolano i boschi assieme ai predatori: il
+      [lupo](/especie/canis_lupus/), il gatto selvatico e la [lince](/especie/lynx_lynx/). I versanti
+      appartengono all'[orso bruno](/especie/ursus_arctos/) e al [cervo nobile](/especie/cervus_elaphus/). Si
+      incontrano anche [camoscio](/especie/rupicapra_rupicapra/), capriolo e, tra i volatili protetti, il
+      [gallo cedrone](/especie/tetrao_urogallus/), la civetta capogrosso e il succiacapre.
+
+
+      Nei torrenti d'alta quota nuotano trote fario, seguite a valle dal temolo e dal cavedano europeo.
+
+
+      Da giugno a ottobre corre la stagione dei trekking. In inverno i percorsi attorno a Păltiniș consentono
+      uscite con le ciaspole e scialpinismo, mentre Poiana Găujoara offre osservazioni astronomiche.
+    visit: >-
+      La via d'accesso è la stazione di Păltiniș, a millequattrocentocinquanta metri di quota, distante
+      quattro o cinque ore di cammino dalla cima del Cindrel. Da lì partono i sentieri di cresta a striscia
+      rossa verso il rifugio Oașa e l'omonimo lago nella valle di Frumoasa. Le escursioni presentano
+      difficoltà media partendo da Păltiniș o dai borghi di Mărginimea Sibiului.
+
+
+      La traversata estiva più suggestiva unisce Păltiniș a Rășinari: richiede cinque o sei ore, quasi tutta
+      in discesa con ottocentoottanta metri di dislivello negativo attraverso Grădina Oncești, Poiana Tomnatec
+      e Șaua Apa Cumpănită. A Păltiniș si praticano avvistamenti faunistici e osservazioni del cielo da Poiana
+      Găujoara. Belvedere fotografici sorgono nelle radure di Godea e Găujoara.
+
+
+      L'autobus numero ventidue collega Sibiu, Rășinari e Păltiniș.
+    history: >-
+      La facile accessibilità ha plasmato la civiltà pastorale di Mărginimea Sibiului, imperniata sulla
+      transumanza ovina e l'artigianato del legno. Centinaia di malghe estive e sentieri tracciati da oltre un
+      secolo mantengono viva questa cultura montana. Păltiniș nacque attorno a un eremo dove il filosofo
+      Constantin Noica trascorse l'ultimo scorcio della sua esistenza. Durante la prima guerra mondiale il
+      massiccio fu teatro della battaglia del monte Cindrel nella campagna di Transilvania del 1916.
+    before: >-
+      I tracciati sono di media difficoltà. Prevedete uno o due giorni; il periodo ideale va da giugno a
+      ottobre.
+    around: >-
+      A ridosso del Cindrel sorgono i [Monti Parâng](/lugar/muntii-parang/), e a undici chilometri i [Monti
+      Șureanu](/lugar/muntii-sureanu/). A sedici chilometri si trova la [Foresta vetusta di
+      Latorița](/lugar/codrul-secular-latorita/) e a ventinove la [Gola del fiume
+      Olt](/lugar/defileul-oltului/).
+  pt:
+    intro: >-
+      Vistas da depressão de Sibiu, as montanhas de Cindrel não sobem suavemente: erguem-se de supetão. De um
+      planalto basal entre duzentos e quatrocentos metros de altitude passa-se, através de vales profundos, a
+      um maciço que atinge os dois mil duzentos e quarenta e quatro metros do cume homónimo. É um relevo
+      recortado por circos glaciares, duas lagoas alpinas, faiais e bétulas, malhadas pastoris e encostas onde
+      rondam ursos, lobos e linces.
+    landscape: >-
+      O substrato é formado por xisto cristalino rijo, sulcado por vales íngremes que formam entre Șugag e Tău
+      Bistrei uma garganta imponente. Na vertente norte, as nascentes brotam em circos suspensos: de doze
+      circos inventariados, três acolhem lagoas: Iezeru Mare, Iezeru Mic e Gropata. A reserva de Iezerele
+      Cindrelului protege os dois vales glaciares; o planalto entre o cume, Frumoasa e as lagoas é apelidado
+      de Planalto do Diabo. Reza a lenda que a profundidade de Iezerul é insondável e que um monstro habita o
+      seu leito.
+
+
+      Nas encostas inferiores vicejam matas de faia, bétula e coníferas; nos cumes crescem zimbro-anão,
+      amieiro-verde, mirtilos e *Rhododendron kotschyi*. As árvores incluem pinheiro-cembro, teixo,
+      pinheiro-silvestre e pinheiro-asteca. No verão as vertentes cobrem-se de açafrão-bravo, *Iris
+      ruthenica*, prímulas, cravos, genciana-amarela e orquídeas.
+    wildlife: >-
+      A fauna de Cindrel destaca-se pela diversidade. Javalis e veados habitam os faiais juntamente com os
+      predadores: o [lobo](/especie/canis_lupus/), o gato-bravo e o [lince](/especie/lynx_lynx/). As encostas
+      pertencem ao [urso-pardo](/especie/ursus_arctos/) e ao [veado-vermelho](/especie/cervus_elaphus/).
+      Ocorrem também a [camurça](/especie/rupicapra_rupicapra/), o corço e aves protegidas como o
+      [tetraz-grande](/especie/tetrao_urogallus/), o mocho-boreal e o noitibó-da-europa.
+
+
+      Nas correntes velozes nadam trutas-fario, seguidas a jusante pelo tímalo e pelo escalo.
+
+
+      De junho a outubro vigora a temporada pedestre. No inverno, os trilhos de Păltiniș acolhem raquetes e
+      esqui de montanha, e Poiana Găujoara oferece observação astronómica.
+    visit: >-
+      A estância de Păltiniș, a mil quatrocentos e cinquenta metros de altitude, é a porta de entrada, a
+      quatro ou cinco horas a pé do pico Cindrel. Daí partem as rotas de cumeada com marcação vermelha em
+      direção ao refúgio Oașa e lago homónimo no vale de Frumoasa. As caminhadas apresentam dificuldade média
+      a partir de Păltiniș ou das aldeias de Mărginimea Sibiului.
+
+
+      A rota estival mais apetecível liga Păltiniș a Rășinari: cinco a seis horas em descida com desnível
+      negativo de oitocentos e oitenta metros por Grădina Oncești, Poiana Tomnatec e Șaua Apa Cumpănită.
+      Păltiniș organiza observação de fauna e do céu estrelado em Poiana Găujoara. Existem miradouros
+      fotográficos nas clareiras de Godea e Găujoara.
+
+
+      O autocarro número vinte e dois liga Sibiu, Rășinari e Păltiniș.
+    history: >-
+      A acessibilidade facilitada moldou a cultura de Mărginimea Sibiului, assente no pastoreio transumante de
+      ovelhas e no trabalho da madeira. Centenas de malhadas tradicionais e trilhos marcados há mais de cem
+      anos perpetuam este legado. Păltiniș nasceu em torno de uma ermida onde o filósofo Constantin Noica
+      viveu os seus últimos anos. Na Primeira Guerra Mundial o maciço foi palco da batalha do monte Cindrel
+      durante a campanha da Transilvânia de 1916.
+    before: Os trilhos têm dificuldade moderada. Reserve um a dois dias; a melhor época vai de junho a outubro.
+    around: >-
+      Junto a Cindrel erguem-se os [Montes Parâng](/lugar/muntii-parang/), e a onze quilómetros os [Montes
+      Șureanu](/lugar/muntii-sureanu/). A dezasseis quilómetros situa-se a [Floresta virgem de
+      Latorița](/lugar/codrul-secular-latorita/) e a vinte e nove o [Desfiladeiro do rio
+      Olt](/lugar/defileul-oltului/).
+fuentes:
+  - url: https://www.sibiu-turism.ro/Ce-facem-Activitati--Trasee-de-drumetie-Trasee-in-muntii-Cindrel.aspx
+    titulo: Trasee în munţii Cindrel - Site-ul oficial al județului Sibiu
+    fecha_consulta: '2026-10-31'
+  - url: https://www.sibiu-turism.ro/Pe-carari-de-munte-spre-Rasinari.aspx
+    titulo: Pe cărări de munte, spre Răşinari - Site-ul oficial al județului Sibiu
+    fecha_consulta: '2026-10-31'
+  - url: https://www.sibiu-turism.ro/Nature-and-Heritage-The-Mountains-The-Cindrel-Mountains.aspx
+    titulo: The Cindrel Mountains - Site-ul oficial al județului Sibiu
+    fecha_consulta: '2026-10-31'
+  - url: https://www.sibiu-turism.ro/m/Ce-vizitam-Destinatii-Destinatii-montane-Paltinis.aspx
+    titulo: Păltiniş - Site-ul oficial al județului Sibiu
+    fecha_consulta: '2026-10-31'
+  - url: https://en.wikipedia.org/wiki/Cindrel_Mountains
+    titulo: Cindrel Mountains — Wikipedia
+    fecha_consulta: '2026-10-31'
+  - url: https://ro.wikipedia.org/wiki/Parcul_Natural_Cindrel
+    titulo: Parcul Natural Cindrel — Wikipedia
+    fecha_consulta: '2026-10-31'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Curcubeu_Cindrel.jpg
+    autor: RaresMateovich
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

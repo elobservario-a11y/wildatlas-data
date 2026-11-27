@@ -1,0 +1,720 @@
+id: wadden-sea-national-park-dinamarca
+estado_editorial: valoracion-revisada
+nombre:
+  es: Parque Nacional del Mar de Wadden (Dinamarca)
+  en: Wadden Sea National Park (Denmark)
+  fr: Parc national de la mer des Wadden (Danemark)
+  de: Nationalpark Wattenmeer (Dänemark)
+  it: Parco Nazionale del Mare di Wadden (Danimarca)
+  pt: Parque Nacional do Mar de Wadden (Dinamarca)
+nombre_original: Wadden Sea National Park (Dinamarca)
+alias:
+  - Wadden Sea National Park (Dinamarca) (Nationalpark Vadehavet)
+paises:
+  - DK
+region:
+  es: Jutlandia Meridional (Esbjerg / Fanø / Rømø / Ribe)
+  en: South Jutland (Esbjerg / Fanø / Rømø / Ribe)
+  fr: Jutland du Sud (Esbjerg / Fanø / Rømø / Ribe)
+  de: Südjütland (Esbjerg / Fanø / Rømø / Ribe)
+  it: Jutland Meridionale (Esbjerg / Fanø / Rømø / Ribe)
+  pt: Jutlândia Meridional (Esbjerg / Fanø / Rømø / Ribe)
+ubicacion:
+  tipo: circulo-orientativo
+  fuente: osm
+  precision: exacta
+  calidad: estimada
+  capa: capas/osm/puntos-osm.geojson
+contorno:
+  fuente: osm
+  id_externo: relation/14045506
+  nombre_en_la_fuente: Nationalpark Vadehavet
+  capa: capas/osm/wadden-sea-national-park-dinamarca.geojson
+habitats:
+  - coast
+  - wetland
+  - marine
+designaciones:
+  - national_park
+  - unesco_whs
+  - ramsar
+  - natura2000
+  - iucn_ii
+especies:
+  - halichoerus_grypus
+  - calidris_canutus
+  - somateria_mollissima
+temporada_ideal:
+  - 4
+  - 5
+  - 9
+  - 10
+temporada_nota:
+  es: primavera y otoño (espectáculo del 'Sol Negro' / *Sort Sol* de estorninos)
+  en: spring and autumn (the "Black Sun" / *Sort Sol* starling spectacle)
+  fr: printemps et automne (spectacle du « Soleil Noir » / *Sort Sol* des étourneaux)
+  de: frühling und herbst (spektakel der «Schwarzen Sonne» / *Sort Sol*)
+  it: primavera e autunno (spettacolo del "Sole Nero" / *Sort Sol* degli storni)
+  pt: primavera e outono (espetáculo do "Sol Negro" / *Sort Sol* dos estorninhos)
+masificacion: 2
+masificacion_nota:
+  es: Media en las carreteras de acceso a Rømø y Ribe
+  en: Moderate on access roads to Rømø and Ribe
+  fr: Moyenne sur les voies d'accès à Rømø et Ribe
+  de: Mäßig auf den Zufahrtsstraßen nach Rømø und Ribe
+  it: Media sulle arterie di collegamento verso Rømø e Ribe
+  pt: Média nas vias de acesso a Rømø e Ribe
+valoracion: 4
+dias_visita:
+  min: 1
+  max: 3
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Nationalpark Vadehavet Official Denmark
+    url: https://nationalparkvadehavet.dk/
+  - titulo: Seguridad — Mareas en el mar de Frisia
+    url: https://nationalparkvadehavet.dk/oplev-vadehavet/aktiv-og-sund-ved-vadehavet/oplev-tidevandet
+  - titulo: Rutas y normas — Caminar por el parque
+    url: https://nationalparkvadehavet.dk/hjaelp-vadehavet/vandring-i-nationalparken
+  - titulo: Normas — Evitar molestias a la fauna
+    url: https://nationalparkvadehavet.dk/hjaelp-vadehavet/dyrenes-tegn-paa-forstyrrelse
+  - titulo: Normas y accesos — Zonas de protección
+    url: https://nationalparkvadehavet.dk/om-os/beskyttelser-og-udpegninger
+enlaces_referencia:
+  - titulo: UNESCO — Mar de Frisia
+    url: https://whc.unesco.org/en/list/1314/
+resumen:
+  es: >-
+    El mayor sistema continuo de planicies intermareales de arena y barro del mundo (Patrimonio Mundial
+    UNESCO), célebre por las nubes masivas de estorninos (*Sort Sol*).
+  en: >-
+    The world's largest unbroken system of intertidal sand and mud flats (UNESCO World Heritage), renowned for
+    massive starling murmurations (*Sort Sol*).
+  fr: >-
+    Le plus grand système continu de vasières et de bancs de sable intertidaux au monde (Patrimoine mondial
+    UNESCO), célèbre pour les vols massifs d'étourneaux (*Sort Sol*).
+  de: >-
+    Das weltweit größte zusammenhängende System aus Sand- und Schlickwatten (UNESCO-Welterbe), berühmt für die
+    Schwarmflüge der Stare (*Sort Sol*).
+  it: >-
+    Il più grande sistema ininterrotto al mondo di piane di marea sabbiose e fangose (Patrimonio Mondiale
+    UNESCO), rinomato per i voli compatti di storni (*Sort Sol*).
+  pt: >-
+    O maior sistema contínuo de planícies de maré de areia e vasa do mundo (Património Mundial UNESCO),
+    célebre pelas nuvens massivas de estorninhos (*Sort Sol*).
+unico:
+  es: >-
+    Un paisaje que la marea transforma cada día, con las planicies intermareales para las aves y el cielo
+    oscuro de Mandø para observar las estrellas.
+  en: >-
+    A landscape transformed daily by the tide, with intertidal flats for migratory birds and the dark skies of
+    Mandø for stargazing.
+  fr: >-
+    Un paysage métamorphosé chaque jour par les marées, avec ses estrans ouverts aux oiseaux et le ciel étoilé
+    de Mandø pour l'observation nocturne.
+  de: >-
+    Eine Landschaft im täglichen Gezeitenwandel, mit Wattflächen für Millionen Zugvögel und dem dunklen
+    Nachthimmel von Mandø für Sternbeobachtungen.
+  it: >-
+    Un paesaggio plasmato ogni giorno dal ritmo della marea, con piane intertidali per gli uccelli migratori e
+    i cieli bui di Mandø per ammirare le stelle.
+  pt: >-
+    Uma paisagem transformada diariamente pela maré, com vastas planícies intertidais para aves e o céu escuro
+    de Mandø para contemplar as estrelas.
+observaciones:
+  es: >-
+    Los perros van siempre con correa; en invierno pueden ir sueltos en la mayoría de las playas, y se deben
+    mantener a 200 metros de las playas con Bandera Azul. Y mira el calendario de mareas antes de salir. Mejor
+    época: primavera y otoño.
+texto:
+  es:
+    intro: >-
+      El mar se retira y deja kilómetros de fondo marino al descubierto antes de volver a cubrirlos: el ciclo
+      se repite aproximadamente dos veces cada 25 horas. Ese pulso manda aquí sobre cualquier plan: decide
+      cuándo se puede cruzar a Mandø y dónde descansan las focas. El Parque Nacional del Mar de Wadden danés
+      ocupa 1.466 km², de los que 300 km² son tierra, y abarca la parte danesa del Wadden con las islas de
+      Fanø, Mandø y Rømø y la península de Skallingen. Forma parte del sistema intermareal que comparten
+      Dinamarca, Alemania y los Países Bajos, el mayor conjunto continuo de planicies de arena y barro del
+      mundo.
+    landscape: >-
+      Todo lo hacen las mareas. Durante milenios han ido alternando entre inundar la costa llana y retirarse,
+      y así han llevado arena y nutrientes a las aguas someras: de ahí las playas anchas y claras y la marisma
+      fértil. La diferencia entre marea alta y baja suele ser de metro y medio, aunque con temporal puede
+      llegar a 5 metros.
+
+
+      Las islas se explican por esa misma mecánica. Rømø toma el nombre de un *rime*, un banco de arena bajo
+      frente a la costa: el agua deja arena sobre él, el banco crece, el viento forma dunas y, detrás de
+      ellas, el agua se calma lo bastante para depositar barro y empezar la marisma. Skallingen, uno de los
+      paisajes más jóvenes de Dinamarca, creció después: tras la tormenta de 1634, que separó parte de la
+      península de Langli y la convirtió en isla, el mar trajo tanta arena que Skallingen creció del mar en
+      poco tiempo. Hoy es una mezcla de marismas, dunas y playas formada durante unos 350 años.
+
+
+      Las tormentas también cuentan: durante el huracán de 1999, el nivel del agua en Ribe llegó a 5,12
+      metros, y entonces se rompió el medidor.
+    wildlife: >-
+      El Wadden es una despensa para las aves que usan la ruta migratoria del Atlántico oriental, una de las
+      más importantes del mundo. El conjunto del bien Patrimonio Mundial recibe entre diez y doce millones de
+      aves de paso al año; las principales temporadas migratorias van de marzo a mayo y de agosto a octubre.
+      La cría va de marzo a junio, y la invernada, de noviembre a marzo.
+
+
+      El gran espectáculo es el sol negro. Los estorninos se reúnen en grandes bandadas para pasar la noche en
+      los carrizales de las marismas, y sus bandadas en vuelo forman el sol negro. Se ve de principios de
+      marzo a mediados de abril y de mediados de agosto a octubre, normalmente cada día, una hora antes del
+      ocaso. Cambian de dormidero varias veces por temporada, y a veces de un día para otro, así que se ve
+      mejor en las marismas de Tønder, en la parte norte de Ballum y en varios puntos alrededor de Ribe.
+
+
+      En los bancos de arena descansan y paren las focas. La gran mayoría son [focas
+      comunes](/especie/phoca_vitulina/), y la [foca gris](/especie/halichoerus_grypus/), más grande, es cada
+      vez más frecuente; en Fanø y Mandø tienes las mejores opciones. La foca común cría de junio a agosto.
+      Para observarlas, mantente a 300 metros de un grupo y limita la estancia a 30 minutos, como recomienda
+      el parque.
+
+
+      También hay aves que acompañan la marea. En el extremo sur de Fanø, llamado Hønen, se pueden ver focas
+      y, durante la migración, algunas de las mayores concentraciones de aves del Wadden. En Rømø, en
+      primavera y otoño se pueden ver más de 20 especies de aves limícolas en un día, sobre todo desde el
+      dique y los aparcamientos de la presa. En Mandø hay una de las mayores poblaciones de barnaclas
+      cariblancas de Dinamarca.
+    visit: >-
+      La visita es una cuestión de mareas. Consulta las tablas de mareas y la previsión del nivel del agua
+      antes de salir: el viento también influye y las horas de pleamar y bajamar cambian cada día. Para
+      caminar por el fondo del mar se sale solo con marea baja y de preferencia con el agua bajando, nunca
+      solo, y si hay dudas con un guía local.
+
+
+      Mandø es el mejor ejemplo. Su acceso por carretera es la Låningsvejen, que con marea baja queda medio
+      metro sobre el lecho marino y con marea alta se inunda por completo; también se llega en autobús
+      tractor. En Mandø puedes ver aves y focas, y también estrellas: en las noches despejadas se distinguen
+      miles de ellas y la Vía Láctea. Para observar el cielo oscuro, elige noches sin luna; el invierno
+      también es una época recomendada para esta actividad.
+
+
+      En Fanø hay miradores naturales en Kikkebjerg, Pælebjerg y Mosedal Bjerg. En Tøndermarsken, el sendero
+      de Tøndermarsk permite recorrer a pie 52 km de marisma. Cerca de Skærbæk, la torre Marsk Tower da una
+      vista de la marisma y, con tiempo claro, hasta Ribe, Rømø y la isla alemana de Sylt. En Margrethe Kog,
+      reserva de naturaleza, no se puede entrar en general, pero fuera de los periodos de cría y descanso de
+      las aves se mira desde el viejo dique o desde el tramo de 4 km tras el dique avanzado.
+
+
+      El Sealarium del Museo de Pesca y Marítimo ofrece otra forma de conocer las focas: sus ventanas permiten
+      observarlas nadar bajo el agua.
+    history: >-
+      El parque nacional se inauguró el 16 de octubre de 2010. La parte danesa del Wadden se declaró
+      Patrimonio Mundial de la UNESCO en 2014, cinco años después que las partes alemana y holandesa. En este
+      territorio se superponen figuras de protección, entre ellas Natura 2000 y Ramsar. El acceso público
+      tiene excepciones: algunas zonas cierran todo el año o parte de él para proteger la fauna más
+      vulnerable. Langli permanece cerrada al público salvo del 16 de julio al 15 de septiembre, para proteger
+      sus aves.
+    before: >-
+      Los perros van siempre con correa; en invierno pueden ir sueltos en la mayoría de las playas, y se deben
+      mantener a 200 metros de las playas con Bandera Azul. Y mira el calendario de mareas antes de salir.
+      Mejor época: primavera y otoño.
+    around: >-
+      El [Parque Nacional del Mar de Wadden de
+      Schleswig-Holstein](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) continúa el mismo sistema
+      intermareal al otro lado de la frontera alemana. Más lejos, el [Parque Nacional de Baja
+      Sajonia](/lugar/nationalpark-niedersachsisches-wattenmeer/) y las [Marismas Saladas del Mar de
+      Frisia](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) comparten con él los humedales, la foca
+      gris y el correlimos gordo; el [Parque Nacional de Słowiński](/lugar/slowinski-park-narodowy/) y el
+      [Parque Nacional de Vilsandi](/lugar/vilsandi-rahvuspark/) comparten la costa, el eider y la foca gris.
+  en:
+    intro: >-
+      The sea retreats, laying bare square kilometres of seabed before returning to flood them: this rhythmic
+      pulse repeats roughly twice every 25 hours. That tidal clock governs every plan here, dictating when you
+      can cross to Mandø and where resting seals haul out. The Danish Wadden Sea National Park spans 1,466
+      km², of which 300 km² are land, embracing the Danish sector of the Wadden Sea with the barrier islands
+      of Fanø, Mandø, and Rømø, and the Skallingen peninsula. It forms part of the trilateral intertidal
+      system shared by Denmark, Germany, and the Netherlands, the largest unbroken expanse of sand and mud
+      flats in the world.
+    landscape: >-
+      Tides orchestrate everything. Over millennia, continuous ebb and flood cycles across this low coastline
+      have transported sand and organic silt into shallow waters, building wide, pale sand beaches and fertile
+      salt marshes. The tidal range typically measures a metre and a half, though storm surges can elevate
+      water levels by 5 metres.
+
+
+      The islands originate from this dynamic. Rømø derives its name from a *rime*, a shallow offshore
+      sandbar: ocean currents drop sand upon it, the bar grows, wind heaps up dunes, and behind them the water
+      calms enough to deposit fine mud, initiating salt marsh formation. Skallingen, among the youngest
+      landforms in Denmark, formed even more recently: following the devastating flood of 1634, which severed
+      Langli from the mainland, storm currents deposited so much sand that Skallingen rose from the sea in
+      relatively few decades. Today it presents a mosaic of salt marsh, dunes, and barrier beaches formed over
+      roughly 350 years.
+
+
+      Tempests write their own history: during the hurricane of 1999, the storm surge at Ribe crested at 5.12
+      metres, snapping the tide gauge.
+    wildlife: >-
+      The Wadden Sea functions as an indispensable feeding larder along the East Atlantic Flyway, one of the
+      globe's primary migratory corridors. The combined World Heritage site accommodates between ten and
+      twelve million passage birds annually; peak migrations occur from March to May and August to October,
+      while breeding spans March to June and wintering November to March.
+
+
+      The signature spectacle is the "Black Sun" (*Sort Sol*). Common starlings mass into gargantuan flocks
+      before settling into coastal reedbeds for the night, their coordinated aerial ballets blacking out the
+      twilight. Displays occur from early March to mid-April and mid-August through October, typically an hour
+      before sunset. Flocks shift roosts frequently, showing best in the Tønder marshes, northern Ballum, and
+      around Ribe.
+
+
+      On exposed sandbanks, seals haul out to rest and give birth. The vast majority are [common
+      seal](/especie/phoca_vitulina/), with the larger [grey seal](/especie/halichoerus_grypus/) becoming
+      increasingly regular; Fanø and Mandø offer premier vantage points. Common seals pup from June to August.
+      When watching them, remain 300 metres away from resting colonies and limit your stay to 30 minutes, in
+      accordance with park guidelines.
+
+
+      Tide-following waders abound. At the southern tip of Fanø, known as Hønen, seals haul out while passing
+      migrants create vast bird concentrations. On Rømø, spring and autumn yield over 20 wader species in a
+      single day, observed from the causeway and parking pull-offs. Mandø supports one of Denmark's largest
+      breeding concentrations of barnacle geese.
+    visit: >-
+      Visiting is governed by tidal tables. Check tide charts and water level forecasts before setting out:
+      wind direction drastically alters water levels, and high and low tides shift daily. Walking out across
+      tidal flats should only be attempted at low tide on a falling water level, never alone, and preferably
+      with an experienced local guide.
+
+
+      Mandø is the classic example. Its road link is the unpaved Låningsvejen, which rests half a metre above
+      the sea bed at low tide but submerges completely at high water; tractor-buses also run to the island. On
+      Mandø you encounter seals, coastal birds, and pristine night skies: on clear nights thousands of stars
+      and the Milky Way shine brilliantly. For stargazing, choose moonless nights, with winter being an
+      especially rewarding season.
+
+
+      On Fanø, natural dunes offer viewpoints at Kikkebjerg, Pælebjerg, and Mosedal Bjerg. In Tøndermarsken,
+      the Tøndermarsk Path allows you to hike 52 km across historic polders. Near Skærbæk, the Marsk Tower
+      grants expansive panoramas across the salt marsh to Ribe, Rømø, and the German island of Sylt. While
+      Margrethe Kog nature reserve is generally off-limits to foot traffic, outside sensitive breeding and
+      moulting periods you can view its lagoons from the historic sea dike or along the 4 km trail behind the
+      outer dike.
+
+
+      The Sealarium at the Fisheries and Maritime Museum in Esbjerg provides underwater viewing windows to
+      watch seals swimming beneath the surface.
+    history: >-
+      The national park was officially inaugurated on 16 October 2010. The Danish sector of the Wadden Sea was
+      inscribed on the UNESCO World Heritage list in 2014, five years after the German and Dutch sections.
+      Multiple conservation designations overlap here, including Natura 2000 and Ramsar status. Public access
+      is regulated: key breeding sanctuaries remain closed year-round or seasonally. Langli is closed to
+      visitors except between 16 July and 15 September to shield nesting bird colonies.
+    before: >-
+      Dogs must always be kept on a leash; in winter they may run free on most beaches, though must remain 200
+      metres away from Blue Flag bathing zones. Always check tidal calendars before exploring tidal flats.
+      Best visiting seasons: spring and autumn.
+    around: >-
+      The [Schleswig-Holstein Wadden Sea National
+      Park](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) continues the unbroken intertidal
+      ecosystem immediately across the German frontier. Farther afield, [Lower Saxony Wadden Sea National
+      Park](/lugar/nationalpark-niedersachsisches-wattenmeer/) and [Waddenzee Salt
+      Marshes](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) share tidal wetlands, grey seals, and
+      red knots; [Słowiński National Park](/lugar/slowinski-park-narodowy/) and [Vilsandi National
+      Park](/lugar/vilsandi-rahvuspark/) share open Baltic shorelines, eiders, and grey seals.
+  fr:
+    intro: >-
+      La mer se retire et dévoile des kilomètres carrés de fond marin avant de revenir les submerger : ce
+      rythme s'accomplit deux fois toutes les 25 heures. Ce battement gouverne ici toute activité : il décide
+      de l'heure pour passer à Mandø et de l'endroit où se reposent les phoques. Le parc national danois de la
+      mer des Wadden s'étend sur 1 466 km², dont 300 km² de terres émergées, englobant la part danoise des
+      Wadden avec les îles de Fanø, Mandø et Rømø et la presqu'île de Skallingen. Il s'intègre au vaste
+      domaine intertidal partagé entre Danemark, Allemagne et Pays-Bas, le plus vaste ensemble continu de
+      bancs de sable et de vasières du globe.
+    landscape: >-
+      Tout est l'œuvre des marées. Depuis des millénaires, le va-et-vient entre immersion de la côte basse et
+      reflux a charrié sables et nutriments vers les petits fonds : d'où les immenses plages blondes et les
+      prés salés fertiles. Le marnage moyen tourne autour d'un mètre et demi, mais lors des tempêtes il peut
+      grimper de 5 mètres.
+
+
+      Les îles procèdent de la même dynamique. Rømø tire son nom d'un *rime*, un banc de sable côtier : le
+      flot y dépose des sables, le banc s'élève, le vent édifie des dunes et, en arrière, les eaux calmes
+      permettent à la vase de s'accumuler pour initier le pré salé. Skallingen, l'un des reliefs les plus
+      récents du Danemark, s'est développé plus tard : après l'ouragan de 1634, qui isola Langli en île, la
+      mer apporta un tel volume de sable que Skallingen émergea en peu de temps. C'est aujourd'hui une
+      mosaïque de schorres, de dunes et de grèves façonnée en quelque 350 ans.
+
+
+      Les tempêtes écrivent leur propre histoire : lors de l'ouragan de 1999, la marée de tempête atteignit
+      5,12 mètres à Ribe, brisant l'échelle limnimétrique.
+    wildlife: >-
+      La mer des Wadden est un garde-manger irremplaçable le long de la voie de migration est-atlantique,
+      l'une des plus fréquentées du globe. L'ensemble du bien UNESCO accueille entre dix et douze millions
+      d'oiseaux de passage par an ; les grandes vagues migratoires se succèdent de mars à mai et d'août à
+      octobre, la nidification allant de mars à juin et l'hivernage de novembre à mars.
+
+
+      Le grand prodige visuel est le « soleil noir » (*Sort Sol*). Les étourneaux sansonnets se rassemblent en
+      nuées colossales pour passer la nuit dans les roselières des polders, leurs évolutions coordonnées
+      occultant le couchant. On l'observe de début mars à mi-avril et de mi-août à octobre, généralement une
+      heure avant le crépuscule. Leurs dortoirs changent fréquemment, les meilleurs secteurs se situant dans
+      les marais de Tønder, au nord de Ballum et autour de Ribe.
+
+
+      Sur les bancs de sable se reposent et mettent bas les phoques. L'immense majorité appartient au [phoque
+      commun](/especie/phoca_vitulina/), tandis que le [phoque gris](/especie/halichoerus_grypus/), plus
+      corpulent, est de plus en plus fréquent ; Fanø et Mandø offrent les meilleures opportunités. Le phoque
+      commun met bas de juin à août. Pour les observer, tenez-vous à 300 mètres des groupes et limitez votre
+      présence à 30 minutes, suivant les recommandations du parc.
+
+
+      Les limicoles suivent le flot. À la pointe sud de Fanø, nommée Hønen, se rassemblent phoques et foules
+      de migrateurs. À Rømø, au printemps et à l'automne, on peut dénombrer plus de 20 espèces de limicoles en
+      une seule journée depuis la digue. Mandø héberge quant à elle l'une des plus importantes colonies de
+      bernaches nonnettes du Danemark.
+    visit: >-
+      La visite s'organise au rythme des marées. Consultez les horaires des marées et les prévisions de
+      surcote avant de partir : le vent modifie fortement les niveaux et les heures changent chaque jour. Ne
+      vous aventurez sur l'estran qu'à marée descendante, jamais seul, et en cas de doute faites appel à un
+      guide local.
+
+
+      Mandø en est l'exemple parfait. Son accès routier est la Låningsvejen, submersible, qui émerge d'un
+      demi-mètre à marée basse et s'inonde entièrement à marée haute ; des bus-tracteurs assurent également la
+      navette. À Mandø, vous profiterez des oiseaux, des phoques et d'un ciel étoilé d'une pureté rare,
+      révélant la Voie lactée lors des nuits sans lune ; l'hiver s'y prête particulièrement.
+
+
+      À Fanø, des belvédères naturels ponctuent Kikkebjerg, Pælebjerg et Mosedal Bjerg. Dans le Tøndermarsken,
+      un itinéraire pédestre permet d'arpenter 52 km de marais maritime. Près de Skærbæk, la tour Marsk Tower
+      ouvre une vue panoramique sur les polders jusqu'à Ribe, Rømø et l'île allemande de Sylt. Dans la réserve
+      naturelle de Margrethe Kog, l'accès est interdit en période sensible, mais vous pouvez observer les
+      lagunes depuis la vieille digue ou sur le parcours de 4 km longeant la digue extérieure.
+
+
+      Le Sealarium du Musée maritime d'Esbjerg propose un bassin vitré permettant d'observer les phoques nager
+      sous l'eau.
+    history: >-
+      Le parc national fut inauguré le 16 octobre 2010. La section danoise des Wadden a été inscrite au
+      Patrimoine mondial de l'UNESCO en 2014, cinq ans après les secteurs allemand et néerlandais. Plusieurs
+      régimes de protection s'y superposent, dont Natura 2000 et Ramsar. Certaines réserves sensibles restent
+      fermées toute l'année. L'îlot de Langli demeure interdit au public sauf du 16 juillet au 15 septembre
+      pour protéger les colonies d'oiseaux.
+    before: >-
+      Les chiens doivent impérativement être tenus en laisse ; en hiver ils peuvent courir sur la plupart des
+      plages, mais doivent rester à 200 mètres des zones de baignade Pavillon Bleu. Vérifiez l'annuaire des
+      marées avant toute sortie. Périodes idéales : printemps et automne.
+    around: >-
+      Le [Parc national de la mer des Wadden de
+      Schleswig-Holstein](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) prolonge immédiatement cet
+      écosystème intertidal outre-frontière. Plus loin, le [Parque Nacional de Baja
+      Sajonia](/lugar/nationalpark-niedersachsisches-wattenmeer/) et les [Marismas Saladas del Mar de
+      Frisia](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) partagent lagunes, phoque gris et
+      bécasseau maubèche ; le [Parque Nacional de Słowiński](/lugar/slowinski-park-narodowy/) et le [Parque
+      Nacional de Vilsandi](/lugar/vilsandi-rahvuspark/) partagent littoral, eider et phoque gris.
+  de:
+    intro: >-
+      Das Meer weicht zurück und gibt kilometerweit den Meeresboden frei, ehe es ihn wieder überflutet: Dieser
+      Takt vollzieht sich zweimal in 25 Stunden. Dieser Gezeitenpuls bestimmt hier jedes Vorhaben: Er
+      entscheidet, wann Mandø erreichbar ist und wo sich Seehunde sonnen. Der dänische Nationalpark Wattenmeer
+      umfasst 1.466 km², davon 300 km² Landfläche, und deckt den dänischen Wattbereich samt den Inseln Fanø,
+      Mandø und Rømø sowie der Halbinsel Skallingen ab. Er gehört zu dem von Dänemark, Deutschland und den
+      Niederlanden geteilten Wattenmeersystem – der größten zusammenhängenden Wattlandschaft der Erde.
+    landscape: >-
+      Alles unterliegt den Gezeiten. Seit Jahrtausenden transportiert das ständige Wechselspiel von
+      Überflutung und Ebbe Sand und Nährstoffe in die Flachwasserzonen: Daher stammen die breiten Sandstrände
+      und das fruchtbare Marschland. Der Tidenhub liegt gewöhnlich bei anderthalb Metern, kann bei Sturmfluten
+      jedoch um 5 Meter ansteigen.
+
+
+      Auch die Inseln verdanken sich diesem Prozess. Rømø geht auf ein *Rime* zurück, eine strandparallele
+      Sandbank: Strömungen lagern Sand ab, die Barre wächst empor, der Wind baut Dünen auf, und im
+      Strömungsschatten setzt sich Schlick ab, der die Salzwiesenbildung einleitet. Skallingen entstand noch
+      später: Nach der verheerenden Sturmflut von 1634, die Langli zur Insel machte, lagerte die See derart
+      viel Sediment an, dass Skallingen rasch aus den Fluten wuchs. Heute zeigt sich ein Mosaik aus
+      Salzwiesen, Dünen und Sandstränden, herangewachsen in rund 350 Jahren.
+
+
+      Sturmfluten setzen eigene Wegmarken: Beim Orkan von 1999 erreichte der Scheitel in Ribe 5,12 Meter, ehe
+      der Pegel barst.
+    wildlife: >-
+      Das Wattenmeer ist die unverzichtbare Raststation auf dem Ostatlantischen Zugweg, einer der wichtigsten
+      Flugrouten weltweit. Das gesamte Welterbegebiet verzeichnet jährlich zwischen zehn und zwölf Millionen
+      Durchzügler; Hauptzugzeiten sind März bis Mai und August bis Oktober, die Brutzeit reicht von März bis
+      Juni, die Überwinterung von November bis März.
+
+
+      Das eindrucksvollste Naturschauspiel ist die Schwarze Sonne (*Sort Sol*). Hunderttausende Stare sammeln
+      sich vor dem Einfall in die Schilffelder der Marschen; ihre synchronen Formationsflüge verdunkeln den
+      Abendhimmel. Zu beobachten von Anfang März bis Mitte April und Mitte August bis Oktober, meist eine
+      Stunde vor Sonnenuntergang. Die Schlafplätze wechseln häufig, beste Beobachtungsorte sind die
+      Tøndermarsch, Nord-Ballum und das Umland von Ribe.
+
+
+      Auf den Sandbänken rasten und gebären Robben. Die weitaus meisten sind
+      [Seehunde](/especie/phoca_vitulina/), während die größere [Kegelrobbe](/especie/halichoerus_grypus/)
+      zunimmt; Fanø und Mandø bieten beste Chancen. Seehunde werfen von Juni bis August. Halte 300 Meter
+      Abstand zu Liegeplätzen und beschränke die Beobachtung auf 30 Minuten, wie von der Parkverwaltung
+      empfohlen.
+
+
+      Auch Watvögel folgen der Tide. An der Südspitze von Fanø, genannt Hønen, rasten Robben und dichte
+      Vogelschwärme. Auf Rømø lassen sich im Frühjahr und Herbst über 20 Limikolenarten an einem Tag vom Damm
+      aus sichten. Mandø beherbergt eine der bedeutendsten Weißwangengans-Rastpopulationen Dänemarks.
+    visit: >-
+      Jeder Ausflug richtet sich nach den Gezeiten. Studiere Gezeitentabellen und Wasserstandsvorhersagen vor
+      dem Aufbruch: Windstärken verändern die Wasserstände und die Tidenzeiten verschieben sich täglich.
+      Wattwanderungen unternimmt man nur bei ablaufendem Wasser, keinesfalls allein und im Zweifel mit
+      Wattführern.
+
+
+      Mandø veranschaulicht dies eindrücklich. Die Zufahrt erfolgt über die Låningsvejen, die bei
+      Niedrigwasser einen halben Meter über dem Watt liegt und bei Flut überspült wird; alternativ verkehren
+      Traktorbusse. Auf Mandø erlebst du Vogelrast, Seehunde und sternenklare Nächte: Bei Neumond leuchtet die
+      Milchstraße intensiv; auch der Winter ist eine geschätzte Zeit für Himmelsbeobachtungen.
+
+
+      Auf Fanø bieten Kikkebjerg, Pælebjerg und Mosedal Bjerg Aussichten. In der Tøndermarsch erschließt ein
+      Wanderweg 52 km Marschenlandschaft. Bei Skærbæk eröffnet der Marsk Tower Weitblicke über das Schwemmland
+      bis Ribe, Rømø und Sylt. Im Naturschutzgebiet Margrethe Kog ist der Zutritt abseits der Brutzeiten von
+      Deichen oder auf einem 4 km langen Abschnitt hinter dem Außendeich möglich.
+
+
+      Das Sealarium des Fischerei- und Seefahrtsmuseums in Esbjerg erlaubt Unterwassereinblicke auf
+      schwimmende Robben.
+    history: >-
+      Der Nationalpark wurde am 16. Oktober 2010 feierlich eröffnet. Der dänische Teil des Wattenmeers wurde
+      2014 in die UNESCO-Welterbeliste aufgenommen, fünf Jahre nach den deutschen und niederländischen
+      Abschnitten. Schutzgebiete wie Natura 2000 und Ramsar überlagern sich. Sensible Zonen sind ganzjährig
+      gesperrt. Die unbewohnte Insel Langli ist zum Schutz der Brutvögel bis auf die Zeit vom 16. Juli bis zum
+      15. September für Besucher geschlossen.
+    before: >-
+      Hunde sind stets an der Leine zu führen; im Winter dürfen sie an vielen Stränden frei laufen, müssen
+      jedoch 200 Meter Abstand zu Stränden mit Blauer Flagge halten. Beachte stets den Gezeitenkalender. Beste
+      Reisezeit: Frühling und Herbst.
+    around: >-
+      Der [Nationalpark Schleswig-Holsteinisches
+      Wattenmeer](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) schließt jenseits der Grenze
+      unmittelbar an dieses Wattsystem an. Weiter entfernt teilen der [Nationalpark Niedersächsisches
+      Wattenmeer](/lugar/nationalpark-niedersachsisches-wattenmeer/) und das
+      [Waddenzee-Welterbegebiet](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) Watten, Kegelrobben
+      und Knutt; der [Slowinzische Nationalpark](/lugar/slowinski-park-narodowy/) und der [Nationalpark
+      Vilsandi](/lugar/vilsandi-rahvuspark/) teilen Ostseeküsten, Eiderenten und Kegelrobben.
+  it:
+    intro: >-
+      Il mare si ritrae svelando chilometri quadrati di fondale prima di tornare a sommergerli: questo ciclo
+      si ripete circa due volte ogni 25 ore. Tale respiro marino comanda ogni itinerario: stabilisce quando
+      transitare verso Mandø e dove sostano le foche. Il Parco Nazionale del Mare di Wadden danese ricopre
+      1.466 km², di cui 300 km² emersi, comprendendo la sezione danese con le isole di Fanø, Mandø e Rømø e la
+      penisola di Skallingen. È parte del vasto sistema intertidale condiviso tra Danimarca, Germania e Paesi
+      Bassi, la più estesa distesa continua di sabbia e fango del pianeta.
+    landscape: >-
+      Tutto è generato dal moto delle maree. Per millenni l'alternanza tra sommersione delle piane costiere e
+      riflusso ha trasportato sabbie e limo nelle acque basse: da qui le ampie spiagge dorate e le fertili
+      barene costiere. L'escursione di marea si attesta solitamente sul metro e mezzo, ma con mareggiate
+      violente può raggiungere i 5 metri.
+
+
+      Le isole derivano da questa identica matrice. Rømø deve il nome a un *rime*, una secca sabbiosa
+      litoranea: le correnti vi accumulano sabbia, il banco cresce, il vento edifica cordoni dunosi e, alle
+      spalle, le acque calme depositano fango dando avvio alla palude salmastra. Skallingen, uno dei rilievi
+      più recenti della Danimarca, è sorto in seguito: dopo la tempesta del 1634, che staccò Langli
+      trasformandola in isola, il mare riversò una tale massa di sabbia che Skallingen emerse in breve tempo.
+      Oggi costituisce un mosaico di barene, dune e spiagge consolidatosi in circa 350 anni.
+
+
+      Le burrasche lasciano il segno: durante l'uragano del 1999 la marea di tempesta a Ribe toccò quota 5,12
+      metri mandando in frantumi l'idrometro.
+    wildlife: >-
+      Il Wadden rappresenta una fonte trofica essenziale lungo la rotta migratoria dell'Atlantico orientale.
+      L'intero comprensorio UNESCO accoglie tra i dieci e i dodici milioni di uccelli di passo all'anno; i
+      flussi principali avvengono tra marzo e maggio e tra agosto e ottobre, con nidificazioni da marzo a
+      giugno e svernamento da novembre a marzo.
+
+
+      Il fenomeno più celebre è il "Sole Nero" (*Sort Sol*). Gli storni comuni si radunano in stormi immensi
+      prima di calare nei canneti delle paludi per trascorrervi la notte, oscurando il tramonto con
+      spettacolari evoluzioni aeree. È visibile da inizio marzo a metà aprile e da metà agosto a ottobre,
+      un'ora prima dell'imbrunire. I dormitori variano spesso, con le migliori osservazioni nelle paludi di
+      Tønder, nella parte settentrionale di Ballum e attorno a Ribe.
+
+
+      Sui banchi di sabbia si riposano e partoriscono i pinnipedi. La netta maggioranza è composta da [foca
+      comune](/especie/phoca_vitulina/), mentre la più imponente [Foca grigia](/especie/halichoerus_grypus/) è
+      sempre più presente; Fanø e Mandø offrono i punti migliori. La foca comune partorisce tra giugno e
+      agosto. Per non disturbarle, mantieniti a 300 metri dalle colonie e limita la sosta a 30 minuti, come
+      raccomanda l'ente parco.
+
+
+      I trampolieri accompagnano il moto marino. All'estremità sud di Fanø, denominata Hønen, si radunano
+      foche e folle di uccelli acquatici. A Rømø in primavera e autunno si possono identificare oltre 20
+      specie di limicoli in un solo giorno dai punti panoramici del terrapieno. Mandø sostiene una delle
+      colonie più rilevanti di oca facciabianca di Danimarca.
+    visit: >-
+      Ogni escursione dipende strettamente dalle maree. Esamina le tavole di marea e i bollettini dei livelli
+      marini prima della partenza: il vento condiziona fortemente il deflusso e gli orari cambiano
+      quotidianamente. Sul fondo marino si cammina solo con marea calante, mai da soli e preferibilmente
+      guidati da esperti locali.
+
+
+      Mandø ne è la dimostrazione palese. L'accesso carrabile avviene tramite la Låningsvejen, posta mezzo
+      metro sopra il fondale con bassa marea e del tutto sommersa con l'alta; sono disponibili anche autobus
+      speciali a traino di trattore. A Mandø trovi foche, avifauna e un cielo notturno purissimo: nelle notti
+      limpide risplendono migliaia di stelle e la Via Lattea. Per l'osservazione del cielo buio scegli notti
+      prive di luna; anche l'inverno è un periodo molto favorevole.
+
+
+      A Fanø si aprono punti panoramici a Kikkebjerg, Pælebjerg e Mosedal Bjerg. Nelle paludi di Tøndermarsken
+      un percorso pedestre consente di coprire 52 km tra i polder. Presso Skærbæk la Marsk Tower regala una
+      visuale circolare sulle barene fino a Ribe, Rømø e l'isola tedesca di Sylt. Nella riserva di Margrethe
+      Kog l'accesso interno è interdetto durante i periodi sensibili, ma l'avifauna si contempla dall'argine
+      storico o lungo il sentiero di 4 km a ridosso della diga esterna.
+
+
+      Il Sealarium presso il Museo della Pesca e della Marina di Esbjerg ospita grandi vetrate per ammirare le
+      foche sott'acqua.
+    history: >-
+      Il parco nazionale fu inaugurato il 16 ottobre 2010. Il settore danese del Wadden è stato inserito nel
+      Patrimonio Mondiale dell'UNESCO nel 2014, cinque anni dopo i tratti tedesco e olandese. Sul territorio
+      convergono regimi di tutela come Natura 2000 e Ramsar. Alcune aree rimangono precluse alle visite.
+      L'isolotto di Langli resta inaccessibile tranne dal 16 luglio al 15 settembre per salvaguardare le
+      colonie nidificanti.
+    before: >-
+      I cani devono essere tenuti sempre al guinzaglio; in inverno possono correre liberi su molte spiagge, ma
+      devono restare a 200 metri dalle spiagge con Bandiera Blu. Controlla il calendario delle maree prima di
+      ogni escursione. Periodi ideali: primavera e autunno.
+    around: >-
+      Il [Parco Nazionale del Mare di Wadden di
+      Schleswig-Holstein](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) prosegue il medesimo
+      ambiente di marea subito oltre la frontiera tedesca. Più lontani, il [Parque Nacional de Baja
+      Sajonia](/lugar/nationalpark-niedersachsisches-wattenmeer/) e le [Marismas Saladas del Mar de
+      Frisia](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) condividono piane di marea, foca grigia e
+      piovanello maggiore; il [Parque Nacional de Słowiński](/lugar/slowinski-park-narodowy/) e il [Parque
+      Nacional de Vilsandi](/lugar/vilsandi-rahvuspark/) condividono litorali, edredoni e foche grigie.
+  pt:
+    intro: >-
+      O mar recua desnudando quilómetros quadrados de leito marinho antes de regressar para os inundar: este
+      ciclo repete-se cerca de duas vezes a cada 25 horas. Esse pulsar dita todas as rotinas: determina quando
+      se pode transitar para Mandø e onde repousam as focas. O Parque Nacional do Mar de Wadden dinamarquês
+      abrange 1.466 km², dos quais 300 km² são terra firme, integrando o setor dinamarquês com as ilhas de
+      Fanø, Mandø e Rømø e a península de Skallingen. Faz parte do gigantesco sistema intertidal partilhado
+      por Dinamarca, Alemanha e Países Baixos, o maior conjunto contínuo de baixios de areia e vasa do
+      planeta.
+    landscape: >-
+      Tudo é obra das marés. Ao longo de milénios, a alternância entre a submersão da planície litoral e a
+      vazante carreou areia e nutrientes para as águas rasas: daí as praias imensas e o sapal fértil. A
+      amplitude de maré ronda habitualmente um metro e meio, mas em tempestades pode ascender a 5 metros.
+
+
+      As ilhas explicam-se por esse mesmo processo. Rømø deriva o nome de um *rime*, um banco de areia
+      costeiro: as correntes acumulam areia sobre ele, o banco eleva-se, o vento forma dunas e, a sotavento, a
+      água acalma o suficiente para depositar vasa e iniciar a marisma. Skallingen, uma das paisagens mais
+      jovens da Dinamarca, formou-se mais tarde: após a tempestade de 1634, que isolou Langli como ilha, o mar
+      arrastou tanta areia que Skallingen despontou das águas em poucas décadas. Hoje é uma composição de
+      sapais, dunas e praias forjada em cerca de 350 anos.
+
+
+      As tempestades vincam a história: durante o furacão de 1999 o nível das águas em Ribe alcançou 5,12
+      metros, quebrando o marégrafo.
+    wildlife: >-
+      O Wadden funciona como um celeiro vital na rota migratória do Atlântico Oriental. O conjunto do sítio
+      UNESCO acolhe entre dez e doze milhões de aves de passagem por ano; os fluxos migratórios máximos
+      decorrem de março a maio e de agosto a outubro, com a reprodução entre março e junho e o inverno de
+      novembro a março.
+
+
+      O grande prodígio visual é o "sol negro" (*Sort Sol*). Os estorninhos-comuns concentram-se em bandos
+      gigantescos para pernoitar nos caniçais dos sapais, desenhando coreografias sincronizadas que obscurecem
+      o poente. Ocorre do início de março a meados de abril e de meados de agosto a outubro, em regra uma hora
+      antes do crepúsculo. Mudam de dormitório com frequência, observando-se melhor nos sapais de Tønder, a
+      norte de Ballum e junto a Ribe.
+
+
+      Nos bancos de areia descansam e parem as focas. A grande maioria corresponde à
+      [foca-comum](/especie/phoca_vitulina/), sendo a [foca-cinzenta](/especie/halichoerus_grypus/), de maior
+      porte, cada vez mais assídua; Fanø e Mandø oferecem os melhores pontos. A foca-comum reproduz-se de
+      junho a agosto. Para as avistar, mantém-te a 300 metros dos grupos e limita a permanência a 30 minutos,
+      como preconiza o parque.
+
+
+      As aves limícolas acompanham o ritmo das águas. No extremo sul de Fanø, denominado Hønen, avistam-se
+      focas e elevadas concentrações de aves aquáticas. Em Rømø, na primavera e outono, podem observar-se mais
+      de 20 espécies de limícolas num único dia a partir do dique. Em Mandø concentra-se uma das maiores
+      populações reprodutoras de ganso-de-faces-brancas da Dinamarca.
+    visit: >-
+      A visita rege-se pelas marés. Consulta as tábuas de maré e as previsões de nível das águas antes de
+      sair: a intensidade do vento afeta as cotas e os horários mudam todos os dias. No leito marinho
+      caminha-se unicamente com maré vazante, nunca sozinho e de preferência com guia local.
+
+
+      Mandø é o exemplo evidente. A ligação rodoviária faz-se pela Låningsvejen, que fica meio metro acima do
+      fundo na maré baixa e submerge totalmente na preia-mar; operam também autocarros-trator. Em Mandø
+      observam-se aves, focas e céus noturnos de excecional limpidez, distinguindo-se a Via Láctea em noites
+      sem luar; o inverno é também uma época propícia para esta contemplação.
+
+
+      Em Fanø abrem-se miradouros em Kikkebjerg, Pælebjerg e Mosedal Bjerg. Em Tøndermarsken, o percurso
+      pedonal permite percorrer 52 km de sapais e pólderes. Junto a Skærbæk, a Marsk Tower faculta vistas
+      panorâmicas sobre a marisma até Ribe, Rømø e a ilha alemã de Sylt. Na reserva de Margrethe Kog a entrada
+      é restrita em períodos críticos, mas as aves observam-se a partir do dique histórico ou ao longo do
+      trilho de 4 km atrás do dique exterior.
+
+
+      O Sealarium do Museu das Pescas e Marítimo em Esbjerg disponibiliza janelas subaquáticas para ver as
+      focas a nadar.
+    history: >-
+      O parque nacional foi solenemente inaugurado a 16 de outubro de 2010. O setor dinamarquês do Wadden foi
+      classificado Património Mundial da UNESCO em 2014, cinco anos após as secções alemã e neerlandesa.
+      Sobrepõem-se estatutos de conservação como Natura 2000 e Ramsar. O acesso público conhece interdições
+      sazonais: o ilhéu de Langli encontra-se encerrado exceto entre 16 de julho e 15 de setembro, para
+      salvaguardar a nidificação das aves.
+    before: >-
+      Os cães devem circular sempre com trela; no inverno podem andar soltos na maioria das praias, mas devem
+      permanecer a 200 metros de zonas balneares com Bandeira Azul. Consulta sempre o calendário de marés.
+      Época ideal: primavera e outono.
+    around: >-
+      O [Parque Nacional do Mar de Wadden de
+      Schleswig-Holstein](/lugar/nationalpark-schleswig-holsteinisches-wattenmeer/) dá continuidade imediata
+      ao mesmo sistema intertidal além-fronteira. Mais longe, o [Parque Nacional da Baixa
+      Saxónia](/lugar/nationalpark-niedersachsisches-wattenmeer/) e o [Sítio do Mar de
+      Wadden](/lugar/waddenzee-kwelders-en-salzwiesen-unesco-world/) partilham planícies de maré,
+      foca-cinzenta e maçarico-de-papo-vermelho; o [Parque Nacional de
+      Słowiński](/lugar/slowinski-park-narodowy/) e o [Parque Nacional de
+      Vilsandi](/lugar/vilsandi-rahvuspark/) partilham a orla marítima, eiders e focas-cinzentas.
+fuentes:
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/animal-and-bird-life/seals-in-the-wadden-sea
+    titulo: Seals in the Wadden Sea
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/help-the-wadden-sea/animals-in-the-wadden-sea
+    titulo: Animals in the Wadden Sea
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/animal-and-bird-life/black-sun
+    titulo: Black Sun
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/wadden-sea-culture/the-use-of-the-marsh
+    titulo: The use of the marsh
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/unesco-world-heritage/world-heritage
+    titulo: World Heritage
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/animal-and-bird-life/migratory-birds-in-the-wadden-sea
+    titulo: Migratory birds
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/wadden-sea-culture/dark-sky-in-the-wadden-sea-world-heritage-site
+    titulo: Dark Sky in the Wadden Sea World Heritage Site
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/active-and-healthy-by-the-wadden-sea/experience-the-tides-along-the-wadden-sea
+    titulo: Experience the tides along the Wadden Sea
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/about-us/protections-and-designations
+    titulo: Protections and Designations
+    fecha_consulta: '2026-10-23'
+  - url: https://whc.unesco.org/en/list/1314/
+    titulo: Wadden Sea — UNESCO
+    fecha_consulta: '2026-10-23'
+  - url: https://da.wikipedia.org/wiki/Nationalpark_Vadehavet
+    titulo: Nationalpark Vadehavet
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/help-the-wadden-sea/tidal-water
+    titulo: Tidal Water
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/help-the-wadden-sea/dogs-in-the-wadden-sea
+    titulo: Dogs in the Wadden Sea
+    fecha_consulta: '2026-10-23'
+  - url: https://eng.nationalparkvadehavet.dk/about-us/history
+    titulo: History
+    fecha_consulta: '2026-10-23'

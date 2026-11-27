@@ -1,0 +1,529 @@
+id: dombes-wetlands
+estado_editorial: valoracion-revisada
+nombre:
+  es: Humedales de La Dombes
+  en: La Dombes Wetlands
+  fr: Zones humides de la Dombes
+  de: Feuchtgebiete von La Dombes
+  it: Zone Umide della Dombes
+  pt: Zonas Húmidas de La Dombes
+nombre_original: Dombes Wetlands
+alias:
+  - Dombes Wetlands
+paises:
+  - FR
+region:
+  es: Auvernia-Ródano-Alpes (Ain / Villars-les-Dombes)
+  en: Auvergne-Rhône-Alpes (Ain / Villars-les-Dombes)
+  fr: Auvergne-Rhône-Alpes (Ain / Villars-les-Dombes)
+  de: Auvergne-Rhône-Alpes (Ain / Villars-les-Dombes)
+  it: Alvernia-Rodano-Alpi (Ain / Villars-les-Dombes)
+  pt: Auvérnia-Ródano-Alpes (Ain / Villars-les-Dombes)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 46
+  lon: 5
+  radio_km: 25
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: natura2000
+  nombre_en_la_fuente: La Dombes
+  capa: capas/natura2000/dombes-wetlands.geojson
+habitats:
+  - wetland
+  - lake
+designaciones:
+  - ramsar
+especies:
+  - netta_rufina
+  - nycticorax_nycticorax
+temporada_ideal:
+  - 4
+  - 5
+  - 6
+  - 9
+  - 10
+temporada_nota:
+  es: abril a octubre
+  en: April to October
+  fr: avril à octobre
+  de: April bis Oktober
+  it: aprile a ottobre
+  pt: abril a outubro
+masificacion: 2
+masificacion_nota:
+  es: Media en el Parque de Aves de Villars-les-Dombes
+  en: Medium at the Bird Park of Villars-les-Dombes
+  fr: Moyenne au Parc des Oiseaux de Villars-les-Dombes
+  de: Mittel im Vogelpark von Villars-les-Dombes
+  it: Media presso il Parco degli Uccelli di Villars-les-Dombes
+  pt: Média no Parque das Aves de Villars-les-Dombes
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 2
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: Dombes Tourisme Official
+    url: https://www.dombes-tourisme.com/
+  - titulo: Observatorios — Dónde ver aves en la Dombes
+    url: https://www.dombes-tourisme.com/ou-voir-des-oiseaux-en-dombes/
+  - titulo: Mapas y rutas — Folletos de la Dombes
+    url: https://www.dombes-tourisme.com/brochures/
+resumen:
+  es: >-
+    Meseta con más de mil estanques piscícolas medievales interconectados que albergan miles de aves
+    acuáticas.
+  en: Plateau dotted with over a thousand interconnected medieval fishponds sheltering thousands of waterbirds.
+  fr: >-
+    Plateau constellé de plus de mille étangs piscicoles médiévaux interconnectés abritant des milliers
+    d'oiseaux d'eau.
+  de: >-
+    Hochfläche mit über tausend vernetzten mittelalterlichen Fischteichen, die Tausenden von Wasservögeln
+    Zuflucht bieten.
+  it: >-
+    Altopiano costellato di oltre mille stagni ittici medievali interconnessi che accolgono migliaia di
+    uccelli acquatici.
+  pt: >-
+    Planalto salpicado por mais de mil lagoas piscícolas medievais interligadas que acolhem milhares de aves
+    aquáticas.
+unico:
+  es: >-
+    Mil estanques hechos por el hombre, vaciados y llenados por turnos, que han acabado siendo el hogar de los
+    patos y las garzas.
+  en: >-
+    A thousand man-made ponds drained and refilled in alternating cycles, which have become a sanctuary for
+    wild ducks and herons.
+  fr: >-
+    Mille étangs créés par la main humaine, vidés et remis en eau par roulement, devenus le sanctuaire des
+    canards et des hérons.
+  de: >-
+    Tausend von Menschenhand geschaffene Teiche, die im Wechsel abgelassen und geflutet werden – heute ein
+    Paradies für Enten und Reiher.
+  it: >-
+    Mille stagni modellati dall'uomo, svuotati e riempiti a rotazione, divenuti regno indiscusso di anatre e
+    aironi.
+  pt: >-
+    Mil lagoas moldadas pelo homem, esvaziadas e enchidas por turnos, transformadas no reino de patos e
+    garças.
+observaciones:
+  es: >-
+    Los circuitos llevan a los observatorios: lleva prismáticos. La mejor época va de abril a junio y de
+    septiembre a octubre.
+texto:
+  es:
+    intro: >-
+      Hay una región donde el paisaje se vacía y se llena a propósito. En la Dombes, en el departamento del
+      Ain, más de mil estanques salpican una meseta llana, y cada cierto tiempo uno se vacía, se cultiva un
+      verano y vuelve a llenarse de agua y de peces. Ese ritmo, mantenido durante siglos, ha creado un
+      territorio donde conviven la piscicultura y las aves: la Dombes alberga 131 especies de aves
+      reproductoras.
+
+
+      No hay montañas ni grandes desniveles. Hay espejos de agua, cinturones de carrizo y juncos, robles
+      nudosos y, lejos, la silueta de los montes del Beaujolais.
+    landscape: >-
+      Todo empezó con el hielo. Durante las glaciaciones de Riss y Würm, los glaciares alpinos empujaron
+      lenguas hasta esta depresión y, con sus avances y retrocesos, acumularon decenas de metros de depósitos
+      morrénicos. Las colinas arboladas son esos depósitos que sobresalen; los estanques ocupan las
+      depresiones.
+
+
+      Pero los estanques no son naturales. Los monjes los excavaron sobre todo a partir del siglo XII,
+      aprovechando la arcilla de la morrena. Su fondo no es plano, sino con una pendiente muy suave, para que
+      el agua salga despacio por un desagüe llamado thou. Cada cuatro o cinco años el estanque se vacía en
+      primavera, se deja en seco un verano y se cultiva con avena o con maíz, y luego vuelve a llenarse. Esa
+      alternancia entre estanque lleno y estanque en seco asocia el cereal y los peces, y hace que el paisaje
+      cambie de un año a otro.
+
+
+      La arquitectura habla de lo mismo: se construyó con la arcilla del lugar. Hasta el siglo XIX, muchos
+      hornos fabricaban ladrillos huecos, los carrons, y las granjas son de tapial amarillo con esquinas de
+      ladrillo.
+    wildlife: >-
+      Las aves son la razón de venir. Entre las emblemáticas están el zampullín cuellinegro, el [pato
+      colorado](/especie/netta_rufina/) y el fumarel cariblanco. Desde la orilla de un gran estanque se ven
+      patos colorados entre los carrizos y somormujos lavancos en el agua. En el estanque Chapelier anidan o
+      hacen escala porrones, zampullines, fochas, garzas y garcetas; en el de Vernange paran en el paso aves
+      limícolas y garzas imperiales; y el observatorio de Villars-les-Dombes, de fácil acceso, deja ver
+      garzas, garcetas, patos y cisnes. En mayo el aire se llena de cantos de pájaros y del reclamo del cuco,
+      y en las charcas croan las ranas.
+
+
+      La Dombes es también un bastión de otras especies: la ranita de San Antón, la libélula Leucorrhinia
+      pectoralis y el helecho acuático Marsilea quadrifolia.
+    visit: >-
+      La mayoría de los mil estanques son privados, así que no siempre es fácil saber dónde ir. Por eso
+      existen cinco observatorios, en cinco estanques clasificados Espacio Natural Sensible, accesibles todos
+      los días a cualquier hora, entre ellos los de Prêle, Grand Birieux, Vernange y Chapelier. Se pide
+      discreción para respetar la fauna protegida, y no entrar con animales de compañía.
+
+
+      Hay circuitos que llevan a cada uno. El de Vernange mide 7,9 kilómetros, parte de la iglesia de
+      Monthieux y lleva al Espacio Natural Sensible y su observatorio. El del estanque Prêle, entre Chaneins y
+      Valeins, mide 14 km, con vistas panorámicas al Beaujolais; el de Grange Chazey, en Versailleux, 11 km.
+      Los tres se pueden recorrer en bicicleta de montaña. Una opción más suave es el paseo de Sainte-Olive: a
+      medio kilómetro del pueblo ya estás en plena naturaleza, y llega a un gran estanque con un thou, rodeado
+      de carrizos y juncos.
+    history: >-
+      En 1864 se creó la Compañía de la Dombes, que se comprometió a desecar en diez años al menos seis mil
+      hectáreas de estanques. El programa se frenó con una ley de 1901 que favoreció devolverles el agua. Hoy
+      la amenaza es otra: la intensificación agrícola ha convertido prados permanentes en cultivos de cereal,
+      lo que amenaza la existencia misma de los estanques.
+    before: >-
+      Los circuitos llevan a los observatorios: lleva prismáticos. La mejor época va de abril a junio y de
+      septiembre a octubre.
+    around: >-
+      La Dombes no tiene otros lugares del atlas cerca, pero sí comparten con ella el pato colorado y el
+      martinete otros humedales: el [Pequeño Balatón](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/),
+      el [Parque Nacional Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) y, con el martinete, el
+      [Parque Nacional del Lago Skadar](/lugar/nacionalni-park-skadarsko-jezero/).
+  en:
+    intro: >-
+      There is a region where the waters are drained and replenished by design. In La Dombes, in the Ain
+      department, over a thousand ponds speckle a low plateau, and periodically each pond is drained, farmed
+      for a single summer, and then refilled with water and fish. This rhythmic practice, sustained over
+      centuries, has created a landscape where freshwater aquaculture and birdlife thrive side by side: La
+      Dombes harbors 131 species of breeding birds.
+
+
+      There are no mountains or rugged slopes here. Instead, you find open mirrors of water, reedbeds and
+      rushy fringes, gnarled oaks, and on the horizon the distant outline of the Beaujolais hills.
+    landscape: >-
+      It all began with the ice. During the Riss and Würm glaciations, Alpine glaciers pushed tongues into
+      this basin and, with their advances and retreats, accumulated dozens of meters of morainic deposits. The
+      wooded knolls are these protruding glacial deposits; the ponds occupy the intervening hollows.
+
+
+      Yet the ponds are not natural. Monks excavated them primarily from the twelfth century onward,
+      capitalizing on the impervious morainic clay. Their bed is not level but slopes very gently, allowing
+      water to drain slowly through an outlet sluice known as a thou. Every four or five years a pond is
+      drained in spring, left dry for a summer, and cultivated with oats or corn, before being refilled with
+      water. This regular rotation between flooded pond and dry agricultural bed combines grain harvests with
+      fish farming, shifting the face of the landscape from one year to the next.
+
+
+      Local architecture echoes the same clay origin: buildings were fashioned from local earth. Until the
+      nineteenth century, numerous kilns fired hollow clay bricks called carrons, and traditional farmsteads
+      feature yellow rammed-earth pisé walls strengthened with brick quoins.
+    wildlife: >-
+      Birdlife makes La Dombes a world-class wetland. It hosts premier French breeding populations of the
+      [red-crested pochard](/especie/netta_rufina/) and the whiskered tern. From pond margins you can spot
+      red-crested pochards paddling through reeds and great crested grebes performing their courtship displays
+      on open water. At Chapelier pond, common pochards, little grebes, Eurasian coots, and varied herons nest
+      or stage; Vernange pond attracts migrating waders and purple herons; while the easily accessible hide at
+      Villars-les-Dombes provides close views of herons, egrets, ducks, and mute swans. In May, birdsong and
+      the call of the common cuckoo echo through the marsh, while frogs chorus from shallow fringes.
+
+
+      La Dombes also shelters other vulnerable wildlife: the European tree frog, the dragonfly *Leucorrhinia
+      pectoralis*, and the rare aquatic clover fern *Marsilea quadrifolia*.
+    visit: >-
+      Most of the thousand ponds are privately held, so knowing where to go is essential. Five dedicated
+      observation hides have been established at ponds designated as Sensitive Natural Areas, accessible
+      year-round at any hour, including Prêle, Grand Birieux, Vernange, and Chapelier. Discretion is requested
+      to protect nesting birds, and pets are strictly excluded.
+
+
+      Marked cycling and walking itineraries serve these hides. The Vernange circuit measures 7.9 kilometers,
+      starting from Monthieux church and leading to the Sensitive Natural Area hide. The Prêle pond route
+      between Chaneins and Valeins covers 14 km with open views of the Beaujolais hills; the Grange Chazey
+      trail in Versailleux spans 11 km. All three can be enjoyed on a mountain bike. For an easy family walk,
+      the Sainte-Olive trail reaches a grand pond with its traditional *thou* sluice encircled by reedbeds
+      just half a kilometer from the village.
+    history: >-
+      In 1864, the Dombes Company was formed with an undertaking to drain at least six thousand hectares of
+      ponds over a ten-year span. This drainage drive was halted by a 1901 law that encouraged reflooding and
+      preserving the water bodies. Today, a different pressure exists: agricultural intensification has
+      converted traditional damp pastures into intensive cereal crops, posing a threat to the historic pond
+      ecosystem.
+    before: >-
+      The walking and cycling trails lead to observation hides: bring binoculars. The finest months run from
+      April to June and from September to October.
+    around: >-
+      Sharing similar wetland and waterbird conservation values in the atlas are
+      [Kis-Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/), [Fertő-Hanság National
+      Park](/lugar/ferto-hansag-nemzeti-park---hansag/), and, for its black-crowned night herons, [Lake Skadar
+      National Park](/lugar/nacionalni-park-skadarsko-jezero/).
+  fr:
+    intro: >-
+      Il existe une région où les paysages se vident et se remplissent à dessein. Dans la Dombes, dans le
+      département de l'Ain, plus de mille étangs constellent un plateau plat ; périodiquement, chacun d'eux
+      est vidé, cultivé le temps d'un été, puis remis en eau et empoissonné. Ce rythme séculaire a façonné un
+      territoire où cohabitent pisciculture et avifaune : la Dombes héberge 131 espèces d'oiseaux nicheurs.
+
+
+      Point de monts ni de forts dénivelés ici. Rien que des miroirs d'eau, des ceintures de roseaux et de
+      joncs, des chênes noueux et, au loin, la ligne bleue des monts du Beaujolais.
+    landscape: >-
+      Tout a commencé par les glaces. Lors des glaciations de Riss et du Würm, les glaciers alpins poussèrent
+      leurs langues jusqu'à cette cuvette et, par leurs avancées et retraits successifs, accumulèrent des
+      dizaines de mètres de dépôts morainiques. Les poipes boisées correspondent à ces moraines saillantes ;
+      les étangs occupent les creux.
+
+
+      Mais ces étangs ne sont pas naturels. Les moines les creusèrent pour l'essentiel à partir du XIIe
+      siècle, tirant parti de l'argile imperméable des moraines. Leur fond n'est pas plat mais accuse une très
+      faible déclivité, permettant à l'eau de s'écouler lentement par un déversoir nommé thou. Tous les quatre
+      ou cinq ans, l'étang est vidé au printemps, laissé à sec durant un été et ensemencé d'avoine ou de maïs,
+      avant d'être remis en eau. Cette alternance entre assec et évolage marie la céréale au poisson et
+      modifie la physionomie des paysages d'une année à l'autre.
+
+
+      L'architecture traditionnelle reflète la même matière : elle s'est bâtie avec l'argile locale. Jusqu'au
+      XIXe siècle, quantité de fours cuisaient des briques creuses, les carrons, et les fermes associent pisé
+      jaune et chaînages d'angle en brique.
+    wildlife: >-
+      L'avifaune confère à la Dombes une renommée internationale. Elle accueille d'importantes populations
+      nicheuses de [nette rousse](/especie/netta_rufina/) et de guifette moustac. Depuis la rive d'un grand
+      étang, on observe les nettes rousses au milieu des phragmites et les grèbes huppés parader en eau libre.
+      À l'étang Chapelier nichent ou stationnent fuligules morillons, grèbes castagneux, foulques macroules et
+      hérons variés ; à Vernange font halte limicoles migrateurs et hérons pourprés ; tandis que
+      l'observatoire de Villars-les-Dombes dévoile aigrettes, canards et cygnes tuberculés. En mai, le ciel
+      résonne des chants printaniers et du coucou, sur fond de coassements de grenouilles.
+
+
+      La Dombes sert aussi de refuge à la rainette verte, à la leucorrhine à large queue et à la fougère d'eau
+      *Marsilea quadrifolia*.
+    visit: >-
+      La majorité des mille étangs étant privée, il est précieux de connaître les accès publics. Cinq
+      observatoires aménagés sur des étangs classés Espace Naturel Sensible sont en accès libre permanent,
+      notamment à Prêle, Grand Birieux, Vernange et Chapelier. La discrétion est requise et les animaux de
+      compagnie ne sont pas admis.
+
+
+      Des circuits balisés desservent ces sites. La boucle de Vernange fait 7,9 kilomètres au départ de
+      l'église de Monthieux jusqu'à l'Espace Naturel Sensible. Le circuit de l'étang Prêle, entre Chaneins et
+      Valeins, couvre 14 km avec vue sur le Beaujolais ; celui de la Grange Chazey à Versailleux s'étire sur
+      11 km. Tous trois se prêtent au VTT. Pour une balade facile, le sentier de Sainte-Olive gagne un grand
+      étang à thou ceinturé de roseaux à seulement cinq cents mètres du village.
+    history: >-
+      En 1864 fut fondée la Compagnie de la Dombes, qui s'engagea à assécher en dix ans au moins six mille
+      hectares d'étangs. Cette politique fut enrayée par une loi de 1901 qui encouragea la remise en eau.
+      Aujourd'hui, la menace réside dans l'intensification agricole, qui remplace les prairies humides
+      permanentes par des cultures céréalières au détriment des étangs.
+    before: >-
+      Les circuits mènent aux observatoires : munissez-vous de jumelles. La meilleure période s'étend d'avril
+      à juin et de septembre à octobre.
+    around: >-
+      Partagent des paysages d'étangs et d'oiseaux d'eau dans l'atlas le
+      [Kis-Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/), le [Parc national de
+      Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) et, pour ses bihoreaux gris, le [Parc national
+      du lac Skadar](/lugar/nacionalni-park-skadarsko-jezero/).
+  de:
+    intro: >-
+      Es gibt eine Landschaft, in der Gewässer ganz gezielt geleert und wieder gefüllt werden. In der Dombes
+      im Département Ain prägen über tausend Teiche eine weite Hochebene; regelmäßig wird ein Teich
+      abgelassen, einen Sommer lang ackerbaulich genutzt und anschließend erneut mit Wasser und Fischen
+      besetzt. Dieser jahrhundertealte Rhythmus schuf einen Lebensraum, in dem Teichwirtschaft und Vogelwelt
+      eng verwoben sind: Die Dombes beherbergt 131 Brutvogelarten.
+
+
+      Es gibt weder Berge noch steile Hänge. Stattdessen bestimmen weite Wasserflächen, Schilf- und
+      Binsengürtel, knorrige Eichen und in der Ferne die Silhouette der Beaujolais-Berge das Bild.
+    landscape: >-
+      Alles begann mit dem Eis. Während der Riss- und Würm-Kaltzeiten schoben Alpengletscher ihre Zungen in
+      diese Senke und häuften beim Vorrücken und Weichen Dutzende Meter mächtige Moränenablagerungen an. Die
+      bewaldeten Hügel sind jene aufragenden Moränenrücken; die Teiche füllen die Vertiefungen.
+
+
+      Doch die Teiche sind keine Naturgebilde. Mönche legten sie vor allem ab dem zwölften Jahrhundert an,
+      wobei sie den dichten Moränenton nutzten. Ihr Boden ist nicht eben, sondern leicht geneigt, damit das
+      Wasser langsam über ein Mönchsbauwerk, den thou, abfließen kann. Alle vier bis fünf Jahre wird ein Teich
+      im Frühjahr abgelassen, einen Sommer lang trockengelegt und mit Hafer oder Mais bestellt, ehe er wieder
+      geflutet wird. Dieser Wechsel zwischen Wasser und Trockenphase verbindet Getreideanbau mit Fischzucht
+      und verändert das Landschaftsbild von Jahr zu Jahr.
+
+
+      Die Architektur erzählt dieselbe Geschichte: Gebaut wurde mit dem Lehm der Region. Bis ins neunzehnte
+      Jahrhundert brannten zahlreiche Ziegelöfen hohle Tonziegel, die carrons, und die Bauernhäuser bestehen
+      aus gelbem Stampflehm mit ziegelgemauerten Gebäudeecken.
+    wildlife: >-
+      Die Vogelwelt macht die Dombes zu einem Feuchtgebiet von europäischem Rang. Sie beherbergt bedeutende
+      Brutkolonien der [Kolbenente](/especie/netta_rufina/) und der Weißbart-Seeschwalbe. Am Ufer großer
+      Teiche lassen sich Kolbenenten im Schilf und Haubentaucher auf freier Wasserfläche beobachten. Am
+      Chapelier-Teich nisten Moorente, Zwergtaucher, Blässhuhn und Reiherarten; am Vernange-Teich rasten
+      Watvögel und Purpurreiher; der barrierearme Beobachtungsturm von Villars-les-Dombes erlaubt Blicke auf
+      Reiher, Enten und Schwäne. Im Mai erklingen Kuckuck und Vogelchöre über den Teichen, untermalt von
+      Froschkonzerten.
+
+
+      Die Dombes schützt zudem Laubfrösche, die Zierliche Moosjungfer (*Leucorrhinia pectoralis*) und den
+      Kleefarn (*Marsilea quadrifolia*).
+    visit: >-
+      Da die meisten der tausend Teiche in Privatbesitz liegen, sind ausgewiesene Zugänge entscheidend. Fünf
+      Beobachtungshütten an sensiblen Naturteichen sind ganzjährig frei zugänglich, darunter an den Teichen
+      Prêle, Grand Birieux, Vernange und Chapelier. Rücksichtnahme ist geboten, Haustiere sind nicht erlaubt.
+
+
+      Markierte Wege führen zu den Stationen: Der Vernange-Rundweg misst 7,9 Kilometer ab der Kirche von
+      Monthieux. Die Route um den Prêle-Teich zwischen Chaneins und Valeins umfasst 14 km mit Fernsicht auf
+      das Beaujolais; der Weg Grange Chazey in Versailleux zählt 11 km. Alle drei eignen sich bestens fürs
+      Mountainbike. Für einen leichten Spaziergang bietet sich der Weg von Sainte-Olive an, der nach
+      fünfhundert Metern einen großen Schilfteich mit historischem Auslassbauwerk erreicht.
+    history: >-
+      Im Jahr 1864 verpflichtete sich die Compagnie de la Dombes, binnen zehn Jahren mindestens sechstausend
+      Hektar Teiche trockenmzulegen. Erst ein Gesetz von 1901 stoppte die Entwässerung und sicherte den
+      Teichen das Wasser. Heute droht Gefahr durch die intensive Landwirtschaft, die traditionelle
+      Feuchtwiesen in Getreideäcker verwandelt.
+    before: >-
+      Die Rundwege führen zu den Beobachtungshütten: Nimm ein Fernglas mit. Die beste Zeit reicht von April
+      bis Juni und von September bis Oktober.
+    around: >-
+      Ähnliche Feuchtlebensräume und Vogelgemeinschaften im Atlas bieten der
+      [Klein-Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/), der [Nationalpark
+      Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) und für Nachtreiher der [Nationalpark
+      Skutarisee](/lugar/nacionalni-park-skadarsko-jezero/).
+  it:
+    intro: >-
+      C'è una contrada dove i bacini lacustri vengono svuotati e colmati secondo un disegno preciso. Nella
+      Dombes, nel dipartimento dell'Ain, oltre mille stagni punteggiano un altopiano pianeggiante: a turno
+      ciascuno specchio d'acqua viene prosciugato, coltivato per una stagione estiva e nuovamente inondato per
+      l'allevamento ittico. Questo ritmo secolare ha originato un mosaico in cui acquacoltura e avifauna
+      convivono: la Dombes ospita 131 specie di uccelli nidificanti.
+
+
+      Qui non troverai vette né dislivelli. Solo specchi d'acqua, cinture di canneti e giunchi, querce
+      secolari e, all'orizzonte, la sagoma dei monti del Beaujolais.
+    landscape: >-
+      Tutto ebbe inizio con i ghiacci. Durante le glaciazioni di Riss e Würm, i ghiacciai alpini spinsero le
+      loro lingue fino a questa conca e, con avanzate e ritiri, accumularono decine di metri di depositi
+      morenici. Le alture boscose sono quei cordoni morenici emergenti; gli stagni occupano gli avvallamenti.
+
+
+      Eppure gli stagni non sono naturali. I monaci li scavarono soprattutto a partire dal XII secolo,
+      sfruttando l'argilla impermeabile delle morene. Il loro fondale non è piatto, ma presenta una pendenza
+      lievissima, affinché l'acqua defluisca lentamente tramite uno scarico chiamato thou. Ogni quattro o
+      cinque anni lo specchio d'acqua viene prosciugato in primavera, lasciato a secco per un'estate e
+      coltivato ad avena o mais, prima di essere nuovamente allagato. L'alternanza tra bacino colmo e secca
+      agraria combina raccolti di cereali e pesca, mutando l'aspetto della contrada d'anno in anno.
+
+
+      L'architettura rurale parla la medesima lingua: fu costruita con la terra del luogo. Fino al XIX secolo,
+      numerose fornaci producevano mattoni forati, i carrons, e le cascine sono edificate in pisè giallo con
+      cantonali in cotto.
+    wildlife: >-
+      Gli uccelli acquatici rendono la Dombes un'area umida di rilevanza continentale. Vi nidificano
+      importanti colonie di [fistione turco](/especie/netta_rufina/) e mignattino piombato. Dalle rive si
+      ammirano fistioni turchi tra i canneti e svassi maggiori nelle acque aperte. Allo stagno Chapelier
+      sostano morette, tuffetti, folaghe e aironi; a Vernange fanno tappa limicoli migratori e aironi rossi;
+      mentre il capanno di Villars-les-Dombes consente di osservare garzette, cigni reali e anatre. A maggio
+      l'aria vibra dei richiami del cuculo e dei canti d'uccelli, accompagnati dal gracidio delle rane.
+
+
+      La Dombes accoglie inoltre la raganella europea, la libellula *Leucorrhinia pectoralis* e la rara felce
+      acquatica *Marsilea quadrifolia*.
+    visit: >-
+      Essendo gran parte degli stagni proprietà privata, è fondamentale conoscere i punti d'accesso. Cinque
+      capanni d'osservazione allestiti su stagni dichiarati Spazio Naturale Sensibile sono fruibili
+      liberamente giorno e notte, tra cui Prêle, Grand Birieux, Vernange e Chapelier. Si raccomanda
+      discrezione e non sono ammessi animali domestici.
+
+
+      Vari itinerari conducono ai punti panoramici: l'anello di Vernange misura 7,9 chilometri dalla chiesa di
+      Monthieux allo Spazio Naturale Sensibile. La rotta dello stagno Prêle tra Chaneins e Valeins copre 14 km
+      con vista sul Beaujolais; il percorso di Grange Chazey a Versailleux si sviluppa per 11 km. Tutti e tre
+      sono ideali per la mountain bike. Per una camminata rilassante, il sentiero di Sainte-Olive raggiunge un
+      grande stagno bordato da canneti a soli cinquecento metri dall'abitato.
+    history: >-
+      Nel 1864 venne costituita la Compagnia della Dombes, con l'impegno di bonificare in dieci anni almeno
+      seimila ettari di specchi d'acqua. Il piano fu fermato da una legge del 1901 che favorì il ripristino
+      delle acque. Oggi la pressione deriva dall'agricoltura intensiva, che converte i prati stabili umidi in
+      monocolture cerealicole a discapito degli stagni.
+    before: >-
+      I circuiti conducono ai capanni d'osservazione: porta un binocolo. Il periodo migliore va da aprile a
+      giugno e da settembre a ottobre.
+    around: >-
+      Condividono habitat umidi e avifauna simile nell'atlante il
+      [Kis-Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/), il [Parco Nazionale
+      Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) e, per la presenza della nitticora, il [Parco
+      Nazionale del Lago di Scutari](/lugar/nacionalni-park-skadarsko-jezero/).
+  pt:
+    intro: >-
+      Existe uma região onde a água das lagoas é esvaziada e reposta deliberadamente. Em La Dombes, no
+      departamento de Ain, mais de mil lagoas salpicam um planalto plano: periodicamente cada lagoa é
+      esgotada, cultivada durante um verão e novamente abastecida de água e peixe. Esta alternância secular
+      gerou um mosaico onde coexistem a piscicultura e a ornitologia: La Dombes acolhe 131 espécies de aves
+      reprodutoras.
+
+
+      Não há montanhas nem desníveis pronunciados. Apenas espelhos de água, cortinas de caniços e juncos,
+      carvalhos vetustos e, ao longe, o contorno dos montes de Beaujolais.
+    landscape: >-
+      Tudo começou com o gelo. Durante as glaciações de Riss e Würm, os glaciares alpinos empurraram línguas
+      até esta depressão e, nos seus avanços e recuos, acumularam dezenas de metros de depósitos morénicos. As
+      colinas arborizadas são esses depósitos salientes; as lagoas ocupam as covas.
+
+
+      Contudo, as lagoas não são naturais. Foram os monges que as escavaram sobretudo a partir do século XII,
+      aproveitando o barro impermeável da moreia. O seu fundo não é plano, exibindo antes um declive muito
+      suave para que a água escoe devagar por um descarregador designado thou. De quatro em quatro ou cinco em
+      cinco anos a lagoa é esvaziada na primavera, deixada em seco durante um verão e semeada com aveia ou
+      milho, voltando depois a encher-se de água. Essa alternância entre lagoa cheia e terreno seco associa os
+      cereais ao peixe, transformando o cenário de ano para ano.
+
+
+      A arquitetura vernacular espelha essa mesma argila: ergueu-se com a terra local. Até ao século XIX,
+      inúmeros fornos coziam tijolos ocos, os carrons, e as quintas exibem taipais amarelos com esquinas
+      reforçadas a tijolo.
+    wildlife: >-
+      A avifauna confere a La Dombes notoriedade internacional. Alberga núcleos reprodutores vitais de
+      [pato-de-bico-vermelho](/especie/netta_rufina/) e de gaivina-dos-pauis. A partir das margens observam-se
+      patos-de-bico-vermelho entre o caniçal e mergulhões-de-crista em cortejo na água aberta. Na lagoa
+      Chapelier nidificam zarros-comuns, mergulhões-pequenos, galeirões e várias garças; na de Vernange fazem
+      escala limícolas e garças-vermelhas; ao passo que o observatório de Villars-les-Dombes permite ver
+      garças, patos e cisnes. Em maio, os céus enchem-se com os cantos das aves e do cuco, acompanhados pelo
+      coaxar das rãs.
+
+
+      La Dombes constitui ainda baluarte para a rela-comum, a libélula *Leucorrhinia pectoralis* e o
+      feto-de-água *Marsilea quadrifolia*.
+    visit: >-
+      Sendo a maioria das mil lagoas de propriedade privada, importa saber onde ir. Existem cinco
+      observatórios públicos em lagoas classificadas como Espaço Natural Sensível, acessíveis em permanência,
+      incluindo Prêle, Grand Birieux, Vernange e Chapelier. Pede-se silêncio aos visitantes e é proibida a
+      entrada com animais domésticos.
+
+
+      Há percursos sinalizados até cada observatório. O trilho de Vernange mede 7,9 quilómetros desde a igreja
+      de Monthieux até ao Espaço Natural Sensível. O percurso da lagoa Prêle entre Chaneins e Valeins
+      estende-se por 14 km com vistas para o Beaujolais; o de Grange Chazey em Versailleux soma 11 km. Os três
+      podem ser percorridos em bicicleta de montanha. Para um passeio ligeiro, o trilho de Sainte-Olive conduz
+      a uma grande lagoa com o seu *thou* tradicional a apenas quinhentos metros da aldeia.
+    history: >-
+      Em 1864 foi constituída a Companhia de La Dombes, com o compromisso de drenar pelo menos seis mil
+      hectares de lagoas em dez anos. O projeto foi travado por uma lei de 1901 que incentivou a reposição da
+      água. Hoje a ameaça reside na agricultura intensiva, que substitui pastagens húmidas por monoculturas de
+      cereais.
+    before: >-
+      Os circuitos conduzem aos observatórios: leva binóculos. A melhor época estende-se de abril a junho e de
+      setembro a outubro.
+    around: >-
+      Partilham zonas húmidas e comunidades de aves no atlas o
+      [Kis-Balaton](/lugar/kis-balaton---balaton-felvideki-nemzeti-park/), o [Parque Nacional
+      Fertő-Hanság](/lugar/ferto-hansag-nemzeti-park---hansag/) e, pelo goraz-comum, o [Parque Nacional do
+      Lago Escútare](/lugar/nacionalni-park-skadarsko-jezero/).
+fuentes:
+  - url: https://www.dombes-tourisme.com/decouvrir-lessentiel/la-dombes-terre-de-promenades/circuit-de-letang-vernange-a-monthieux/
+    titulo: Circuit de l’étang de Vernange à Monthieux – Dombes Tourisme
+    fecha_consulta: '2026-11-06'
+  - url: https://www.dombes-tourisme.com/decouvrir-lessentiel/la-dombes-terre-detangs/les-5-observatoires-en-dombes/
+    titulo: Les 5 observatoires en Dombes – Dombes Tourisme
+    fecha_consulta: '2026-11-06'
+  - url: https://www.dombes-tourisme.com/vivre-la-dombes/vivre-des-experiences-uniques/se-balader-au-bord-des-etangs/
+    titulo: Se balader au bord des étangs – Dombes Tourisme
+    fecha_consulta: '2026-11-06'
+  - url: https://fr.wikipedia.org/wiki/Dombes
+    titulo: Dombes — Wikipédia
+    fecha_consulta: '2026-11-06'
+  - url: https://www.dombes-tourisme.com/ou-voir-des-oiseaux-en-dombes/
+    titulo: Où voir des oiseaux en Dombes | Dombes Tourisme
+    fecha_consulta: '2026-11-06'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Dombes_2013_2.jpg
+    autor: PiRGoif
+    licencia: CC BY-SA 4.0
+    url_licencia: https://creativecommons.org/licenses/by-sa/4.0
+    fecha_descarga: '2026-10-17'

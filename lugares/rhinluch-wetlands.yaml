@@ -1,0 +1,595 @@
+id: rhinluch-wetlands
+estado_editorial: valoracion-revisada
+nombre:
+  es: Humedales de Rhinluch
+  en: Rhinluch Wetlands
+  fr: Zones humides du Rhinluch
+  de: Feuchtgebiete des Rhinluch
+  it: Zone umide del Rhinluch
+  pt: Zonas Húmidas de Rhinluch
+nombre_original: Rhinluch Wetlands
+alias:
+  - Rhinluch Wetlands
+paises:
+  - DE
+region:
+  es: Brandeburgo (Neuruppin / Linum)
+  en: Brandenburg (Neuruppin / Linum)
+  fr: Brandebourg (Neuruppin / Linum)
+  de: Brandenburg (Neuruppin / Linum)
+  it: Brandeburgo (Neuruppin / Linum)
+  pt: Brandeburgo (Neuruppin / Linum)
+ubicacion:
+  tipo: circulo-orientativo
+  lat: 52.8
+  lon: 12.75
+  radio_km: 15
+  fuente: estimated
+  precision: exacta
+  calidad: estimada
+contorno:
+  fuente: cdda
+  id_externo: 555560665
+  nombre_en_la_fuente: Oberes Rhinluch
+  categoria_uicn: IV
+  capa: capas/cdda/rhinluch-wetlands.geojson
+habitats:
+  - wetland
+designaciones:
+  - natura2000
+especies:
+  - grus_grus
+  - ciconia_ciconia
+temporada_ideal:
+  - 9
+  - 10
+  - 11
+temporada_nota:
+  es: otoño (octubre) para la migración de grullas
+  en: autumn (October) for the crane migration
+  fr: automne (octobre) pour la migration des grues
+  de: Herbst (Oktober) für den Kranichzug
+  it: autunno (ottobre) per la migrazione delle gru
+  pt: outono (outubro) para a migração dos grous
+masificacion: 2
+masificacion_nota:
+  es: Media en Linum durante las tardes de observación de grullas
+  en: Moderate in Linum during evening crane-watching periods
+  fr: Moyenne à Linum lors des soirées d’observation des grues
+  de: Mäßig in Linum während der abendlichen Kranichbeobachtungen
+  it: Media a Linum durante i pomeriggi di osservazione delle gru
+  pt: Média em Linum durante as tardes de observação de grous
+valoracion: 3
+dias_visita:
+  min: 1
+  max: 1
+dificultad_acceso: 0
+enlaces_oficiales:
+  - titulo: NABU Storchenschmiede Linum
+    url: https://www.storchenschmiede.de/
+  - titulo: Observación y normas — Grullas en Linum
+    url: https://storchenschmiede.de/natur-in-linum/kraniche/
+  - titulo: Centro de visitantes — Contacto de Storchenschmiede
+    url: https://storchenschmiede.de/kontakt/
+resumen:
+  es: Humedal llano de turbera en Brandeburgo famoso por la congregación otoñal de hasta 80.000 grullas.
+  en: >-
+    A vast fen peatland in Brandenburg celebrated for the autumn gathering of up to 80,000 staging common
+    cranes.
+  fr: >-
+    Vaste tourbière basse du Brandebourg réputée pour le rassemblement automnal de près de 80 000 grues
+    cendrées en halte migratoire.
+  de: Ausgedehntes Niedermoor in Brandenburg, berühmt für die herbstliche Rast von bis zu 80.000 Kranichen.
+  it: >-
+    Una vasta torbiera bassa nel Brandeburgo celebre per la sosta autunnale di un contingente fino a 80.000
+    gru cenerine.
+  pt: >-
+    Uma vasta turfeira baixa em Brandeburgo célebre pela concentração outonal de até 80.000 grous-comuns em
+    paragem migratória.
+unico:
+  es: >-
+    Aquí una turbera vaciada por la extracción de turba y por las zanjas se ha convertido, según la
+    Storchenschmiede, en la mayor zona de descanso otoñal de Alemania para las grullas.
+  en: >-
+    A peatland drained by historic peat extraction and ditches that has transformed, according to the
+    Storchenschmiede, into Germany’s premier autumn crane staging hub.
+  fr: >-
+    Une tourbière autrefois drainée par l’extraction de tourbe devenue, selon la Storchenschmiede, la plus
+    grande halte migratoire d’automne pour les grues en Allemagne.
+  de: >-
+    Ein durch Torfabbau und Gräben verändertes Moor, das sich laut Storchenschmiede zum bedeutendsten
+    Herbst-Rastplatz für Kraniche in Deutschland entwickelt hat.
+  it: >-
+    Una torbiera bonificata dall’estrazione di torba e canali trasformatasi, secondo la Storchenschmiede,
+    nella principale area di sosta autunnale per le gru in Germania.
+  pt: >-
+    Uma turfeira drenada pela extração histórica de turfa e valas que se transformou, segundo a
+    Storchenschmiede, no principal ponto de paragem de grous na Alemanha.
+observaciones:
+  es: >-
+    Las grullas se ven mejor desde lejos y sin molestarlas. No te detengas en la carretera: usa las zonas de
+    aparcamiento señalizadas. Lo mejor es quedarse en el coche o esconderse tras arbustos y árboles del borde
+    del camino, sin entrar en campos ni caminos agrícolas y respetando las vallas. Si las grullas levantan la
+    cabeza o se alejan con pasos rápidos, retírate. Los paseos guiados de grullas requieren inscripción previa
+    por teléfono o correo electrónico, así que comprueba antes de ir las fechas y cómo apuntarte.
+texto:
+  es:
+    intro: >-
+      Al caer la tarde, el cielo sobre un pueblo de Brandeburgo se llena de grullas. Vuelan por millares,
+      pasan sobre los tejados y sus gritos resuenan por las calles y los campos. Ese pueblo es Linum, y el
+      escenario es el Rhinluch, una turbera baja del norte de Brandeburgo que atraviesa el río Rhin, del que
+      toma el nombre. Solo el Rhinluch superior ocupa unas 23.000 hectáreas, y Linum, que está dentro de la
+      reserva Oberes Rhinluch, es la puerta de entrada.
+    landscape: >-
+      Para entender los humedales hay que mirar hacia atrás. Hace unos 16.000 años, el agua de deshielo de los
+      glaciares abrió el valle de Eberswalde, y de aquel valle, ya seco, nació el Rhinluch. Durante siglos fue
+      una turbera: una masa de agua en forma de esponja, porque una turbera intacta está compuesta por un 95
+      por ciento de agua y la absorbe y la suelta poco a poco. Funciona además como almacén de carbono.
+
+
+      Después llegó la gente. En el siglo XIX los vecinos de Linum se ganaban la vida extrayendo turba, y los
+      estanques de peces surgieron cuando la turbera quedó vaciada. Luego un sistema de zanjas drenó el agua
+      que quedaba para usar la tierra fértil como pasto y campo de cultivo. Fue la acción humana, con obras de
+      mejora del terreno, la que convirtió estas turberas en prados y pastos. Hoy el paisaje de Linum, con sus
+      estanques, sus praderas encharcadas y sus campos, es el resultado de esa historia.
+    wildlife: >-
+      El año aquí se cuenta con dos aves. En primavera vuelven las [cigüeñas
+      blancas](/especie/ciconia_ciconia/) al pueblo. Unas diez parejas crían con regularidad en Linum, uno de
+      los mayores pueblos de cigüeñas de Brandeburgo, y la cigüeña blanca, que se ha adaptado a las personas,
+      hace sus nidos en tejados, chimeneas y torres. Si el nido del tejado de la Storchenschmiede está ocupado
+      en verano, se puede mirar dentro en directo por una cámara web. En agosto las cigüeñas se van hacia
+      África, y los jóvenes parten dos semanas antes que los adultos.
+
+
+      Entonces llega el turno de las [grullas](/especie/grus_grus/). Entre mediados de septiembre y principios
+      de noviembre se las puede ver en Linum, sobre todo cuando salen de los dormideros por la mañana y
+      vuelven por la tarde. De día pasan el tiempo en los campos de maíz ya cosechados; al anochecer vuelan a
+      sus dormideros en los estanques y las praderas encharcadas del Rhinluch. Las que descansan en Linum
+      proceden sobre todo de zonas de cría de Finlandia, el Báltico, Polonia y Alemania. La grulla mide hasta
+      130 cm de pie y su envergadura supera los 220 cm; su llamada se oye a menudo a kilómetros de distancia.
+      No todas se van: en el Rhinluch superior hay algunas parejas que crían, y cada vez más grullas pasan
+      allí el invierno.
+
+
+      En los estanques hay otra vida más discreta. La Storchenschmiede organiza desde abril paseos ligeros
+      dedicados a los anfibios de Linumer Teiche.
+    visit: >-
+      Todo gira en torno a la Storchenschmiede, el centro de educación ambiental de Linum. El centro abre de
+      abril a comienzos de noviembre, y desde mediados de septiembre hasta comienzos de noviembre ofrece una
+      exposición sobre la grulla común, con datos sobre la zona de descanso de los estanques de Linum. Otra
+      exposición, «Moor muss nass», explica por qué las turberas deben estar húmedas, las causas de su drenaje
+      y qué se puede hacer con las turberas rehumedecidas.
+
+
+      Para ver aves hay varias opciones. En otoño, la Storchenschmiede organiza paseos guiados para ver la
+      entrada vespertina de las grullas a los estanques, desde mediados de septiembre hasta comienzos de
+      noviembre, y en octubre paseos matinales para verlas salir del humedal. Entre abril y agosto, las
+      visitas guiadas por Linum incluyen observación de las cigüeñas con telescopio. Hay además una caminata
+      sencilla de unas dos horas por la naturaleza y las aves de Linumer Teiche, que parte de la puerta del
+      jardín del centro. A quien no lleve prismáticos a las visitas guiadas se los prestan.
+
+
+      Desde Berlín se puede llegar en tren regional hasta Kremmen y seguir unos 12 km en bicicleta hasta
+      Linum, en su mayoría sin carril bici.
+    history: >-
+      Las cifras dan la medida de lo que se perdió: con la extracción de turba y el uso agrícola, las turberas
+      de Alemania se han destruido en un 95 % a lo largo de los siglos. Una turbera destruida deja de
+      almacenar carbono y libera grandes cantidades de gases de efecto invernadero. Por eso se investiga cómo
+      recuperarlas y volver a usarlas, y de eso trata la exposición «Moor muss nass».
+    before: >-
+      Las grullas se ven mejor desde lejos y sin molestarlas. No te detengas en la carretera: usa las zonas de
+      aparcamiento señalizadas. Lo mejor es quedarse en el coche o esconderse tras arbustos y árboles del
+      borde del camino, sin entrar en campos ni caminos agrícolas y respetando las vallas. Si las grullas
+      levantan la cabeza o se alejan con pasos rápidos, retírate. Los paseos guiados de grullas requieren
+      inscripción previa por teléfono o correo electrónico, así que comprueba antes de ir las fechas y cómo
+      apuntarte.
+    around: >-
+      Otros humedales del atlas comparten la grulla y el hábitat de humedal con el Rhinluch, aunque están
+      lejos: las [Reservas de Deurnsche Peel y Mariapeel](/lugar/deurnsche-peel---mariapeel/), los [Humedales
+      de Diepholz](/lugar/diepholzer-moorniederung/) y la [Reserva Natural de
+      Fochteloërveen](/lugar/fochteloorveen---natuurreservaat/).
+  en:
+    intro: >-
+      At dusk, the sky above a small Brandenburg village fills with cranes. They fly in by their thousands,
+      passing over tiled rooftops as their trumpeting calls echo through village streets and open fields. That
+      village is Linum, and the vast stage is the Rhinluch — an extensive fen peatland in northern Brandenburg
+      crossed by the Rhin river, from which it takes its name. The Upper Rhinluch alone covers some 23,000
+      hectares, and Linum, nestling inside the Oberes Rhinluch nature reserve, serves as its primary gateway.
+    landscape: >-
+      To understand these wetlands you must look back in geological time. Some 16,000 years ago, glacial
+      meltwater carved the broad Eberswalde ice-marginal valley, out of which the Rhinluch emerged as water
+      levels dropped. For centuries it developed as a fen: a giant ecological sponge, as an intact peatland
+      consists of 95 per cent water, soaking up moisture and releasing it gradually while storing immense
+      quantities of carbon.
+
+
+      Then human settlement arrived. In the nineteenth century, Linum residents earned their livelihood
+      extracting peat; when the peat diggings were exhausted, groundwater flooded them into fishponds. A
+      network of drainage ditches later drained the remaining mire to convert fertile soil into pasture and
+      arable cropland. Land improvement schemes systematically transformed these bogs into grasslands. Today,
+      Linum’s mosaic of fishponds, waterlogged meadows and cultivated fields reflects this complex cultural
+      history.
+    wildlife: >-
+      The biological calendar revolves around two flagship birds. In spring, [white
+      storks](/especie/ciconia_ciconia/) return to the village. Around ten pairs breed regularly in Linum, one
+      of Brandenburg’s premier stork villages, nesting on roofs, chimneys and dedicated cartwheel platforms.
+      When the nest on the roof of the Storchenschmiede centre is occupied in summer, you can view the chicks
+      live on a webcam. In August the storks depart for Africa, with juveniles leaving two weeks before the
+      adults.
+
+
+      Then comes the season of the [common cranes](/especie/grus_grus/). Between mid-September and early
+      November, vast flocks converge on Linum, staging remarkable morning departures and evening returns. By
+      day they glean waste grain in harvested maize fields; at twilight they glide into shallow communal
+      roosts across the ponds and flooded meadows of the Rhinluch. Cranes resting in Linum hail largely from
+      breeding grounds in Finland, the Baltic States, Poland and northern Germany. Standing up to 130 cm tall
+      with a wingspan exceeding 220 cm, their calls carry for kilometres. Not all leave: several pairs breed
+      in the Upper Rhinluch, and an increasing number now overwinter.
+
+
+      The ponds host other discreet wildlife: the Storchenschmiede organises gentle guided walks from April
+      exploring the rich amphibian fauna of the Linum ponds.
+    visit: >-
+      Everything centres on the Storchenschmiede, Linum’s environmental education centre. The centre opens
+      from April to early November; from mid-September through early November it presents an exhibition on the
+      common crane, detailing the Linum staging roosts. A permanent exhibit, “Moor muss nass”, explains why
+      peatlands must remain wet, the consequences of drainage, and sustainable uses for re-wetted fens.
+
+
+      Several guided options allow for rewarding birding. In autumn, the Storchenschmiede conducts guided
+      excursions to observe the evening flight of cranes into the ponds from mid-September to early November,
+      and early-morning outings in October to watch their dawn departure. Between April and August, village
+      tours include telescope viewing of storks. A circular nature trail of about two hours exploring the
+      birds of the Linum ponds starts directly at the garden gate. Binoculars are loaned free of charge to
+      tour participants.
+
+
+      From Berlin, take the regional train to Kremmen and continue about 12 km by bicycle to Linum, mostly
+      along quiet country roads.
+    history: >-
+      The statistics highlight what was lost: through commercial peat mining and agricultural reclamation,
+      Germany’s peatlands have been degraded by 95 % over recent centuries. A drained peatland ceases to
+      sequester carbon and releases vast volumes of greenhouse gases into the atmosphere. Scientific research
+      now focuses on fen restoration and paludiculture, themes explored in depth at the “Moor muss nass”
+      exhibition.
+    before: >-
+      Cranes are best observed from a respectful distance without causing disturbance. Do not stop along
+      roadsides: use designated car parks. Remain in your vehicle or take cover behind roadside hedges, never
+      entering agricultural fields or trespassing beyond fences. If cranes raise their heads or pace
+      nervously, step back immediately. Guided crane tours require advance booking by phone or email, so
+      verify available dates before travelling.
+    around: >-
+      Other atlas wetlands share common cranes and mire conservation landscapes with the Rhinluch, though
+      geographically distant: the [Deurnsche Peel and Mariapeel Reserves](/lugar/deurnsche-peel---mariapeel/),
+      the [Diepholz Bog Lowlands](/lugar/diepholzer-moorniederung/) and [Fochteloërveen Nature
+      Reserve](/lugar/fochteloorveen---natuurreservaat/).
+  fr:
+    intro: >-
+      À la tombée du jour, le ciel au-dessus d'un village du Brandebourg s'emplit de grues. Elles volent par
+      milliers, frôlant les toits des maisons tandis que leurs trompètements résonnent dans les ruelles et les
+      champs. Ce village s'appelle Linum, et le décor grandiose est le Rhinluch — une vaste tourbière basse du
+      nord du Brandebourg traversée par la rivière Rhin, dont elle tire son nom. Le Rhinluch supérieur couvre
+      à lui seul quelque 23 000 hectares, et Linum, situé au cœur de la réserve de l'Oberes Rhinluch, en
+      constitue la porte d'entrée.
+    landscape: >-
+      Pour comprendre ces zones humides, il faut remonter le temps géologique. Il y a environ 16 000 ans, les
+      eaux de fonte glaciaire ont creusé la vallée proglaciaire d'Eberswalde, d'où est né le Rhinluch après le
+      retrait des eaux. Durant des siècles, il s'est constitué en tourbière : une éponge aquatique vivante,
+      car une tourbière intacte est composée à 95 pour cent d'eau, retenant et restituant lentement l'humidité
+      tout en piégeant d'énormes réserves de carbone.
+
+
+      Puis vint l'Homme. Au XIXe siècle, les habitants de Linum vivaient de l'extraction de la tourbe ;
+      lorsque les tourbières furent épuisées, les dépressions devinrent des étangs de pisciculture. Un réseau
+      de fossés a ensuite drainé l'eau résiduelle pour convertir les terres fertiles en prairies et cultures.
+      Ces travaux d'aménagement agricole ont profondément remanié le milieu. Aujourd'hui, la mosaïque
+      d'étangs, prairies inondables et cultures de Linum résulte de cette histoire séculaire.
+    wildlife: >-
+      L'année se rythme ici autour de deux grands oiseaux. Au printemps reviennent les [cigognes
+      blanches](/especie/ciconia_ciconia/). Une dizaine de couples nichent régulièrement à Linum, l'un des
+      plus importants villages à cigognes du Brandebourg, s'installant sur les toits, cheminées et
+      plates-formes aménagées. En été, une webcam permet d'observer en direct les jeunes dans le nid de la
+      Storchenschmiede. En août, les cigognes partent vers l'Afrique, les juvéniles s'envolant deux semaines
+      avant les adultes.
+
+
+      C'est alors le tour des [grues cendrées](/especie/grus_grus/). De la mi-septembre à début novembre, vous
+      pouvez les contempler à Linum, particulièrement lorsqu'elles quittent leurs dortoirs au lever du jour et
+      y reviennent au crépuscule. Le jour, elles se nourrissent dans les champs de maïs moissonnés ; le soir,
+      elles regagnent les plans d'eau et prairies inondées du Rhinluch. Les grues qui font escale à Linum
+      proviennent de Finlande, des pays baltes, de Pologne et d'Allemagne. La grue mesure jusqu'à 130 cm
+      debout et son envergure dépasse 220 cm ; ses cris s'entendent à des kilomètres. Toutes ne partent pas :
+      quelques couples se reproduisent dans le Rhinluch supérieur et un nombre croissant y passe désormais
+      l'hiver.
+
+
+      Les étangs abritent une faune plus discrète : dès avril, la Storchenschmiede propose des sorties
+      naturalistes consacrées aux amphibiens des étangs de Linum.
+    visit: >-
+      Toute la vie locale s'organise autour de la Storchenschmiede, le centre d'éducation à l'environnement de
+      Linum. Ouvert d'avril à début novembre, il propose de mi-septembre à début novembre une exposition
+      consacrée à la grue cendrée et à la halte migratoire des étangs de Linum. Une autre exposition, « Moor
+      muss nass », explique pourquoi les tourbières doivent rester humides, les méfaits du drainage et
+      l'intérêt de la réhumidification.
+
+
+      Pour observer les oiseaux, plusieurs formules existent. En automne, la Storchenschmiede organise des
+      sorties accompagnées pour assister au retour vespéral des grues, et en octobre des sorties matinales
+      pour leur envol. D'avril à août, des visites guidées du village permettent d'observer les cigognes à la
+      longue-vue. Un circuit pédestre facile d'environ deux heures dédié à la nature et aux oiseaux des étangs
+      de Linum débute au portillon du centre. Des jumelles sont prêtées lors des visites guidées.
+
+
+      Depuis Berlin, le train régional mène à Kremmen, d'où vous pouvez parcourir environ 12 km à vélo jusqu'à
+      Linum, principalement sur routes secondaires.
+    history: >-
+      Les chiffres mesurent l'ampleur des pertes : avec l'extraction de tourbe et la mise en culture, les
+      tourbières d'Allemagne ont été détruites à 95 % au fil des siècles. Une tourbière asséchée cesse de
+      stocker le carbone et rejette de grandes quantités de gaz à effet de serre. La recherche étudie
+      activement leur restauration écologique, thème central de l'exposition « Moor muss nass ».
+    before: >-
+      Les grues s'observent à bonne distance sans les déranger. Ne stationnez pas sur la chaussée : utilisez
+      les parkings indiqués. Restez dans votre véhicule ou dissimulez-vous derrière les haies le long des
+      chemins, sans pénétrer dans les parcelles agricoles ni franchir les clôtures. Si les grues lèvent la
+      tête ou s'éloignent à pas vifs, reculez. Les sorties accompagnées nécessitent une réservation préalable
+      par téléphone ou courriel, vérifiez donc les disponibilités avant votre venue.
+    around: >-
+      D'autres zones humides de l'atlas partagent la grue cendrée et la protection des tourbières avec le
+      Rhinluch, bien qu'éloignées : les [réserves de Deurnsche Peel et
+      Mariapeel](/lugar/deurnsche-peel---mariapeel/), les [marais de
+      Diepholz](/lugar/diepholzer-moorniederung/) et la [réserve naturelle de
+      Fochteloërveen](/lugar/fochteloorveen---natuurreservaat/).
+  de:
+    intro: >-
+      In der Abenddämmerung füllt sich der Himmel über einem brandenburgischen Dorf mit Kranichen. Zu
+      Tausenden überfliegen sie die Ziegeldächer, während ihre Trompetenrufe durch die Straßen und über die
+      Felder hallen. Dieses Dorf ist Linum, und die Schauplatzkulisse ist das Rhinluch — ein weites Niedermoor
+      im nördlichen Brandenburg, das vom Fluss Rhin durchflossen wird, dem es seinen Namen verdankt. Allein
+      das Obere Rhinluch umfasst rund 23.000 Hektar, und das im Naturschutzgebiet Oberes Rhinluch gelegene
+      Storchendorf Linum ist das Tor zu dieser Landschaft.
+    landscape: >-
+      Um die Feuchtgebiete zu verstehen, muss man in die Erdgeschichte blicken. Vor rund 16.000 Jahren schufen
+      eiszeitliche Schmelzwässer das Eberswalder Urstromtal, aus dem nach dem Trockenfallen das Rhinluch
+      hervorging. Über Jahrhunderte wuchs es als Niedermoor heran: ein riesiger Wasserschwamm, denn ein
+      intaktes Moor besteht zu 95 Prozent aus Wasser, speichert Feuchtigkeit und gibt sie nur allmählich ab,
+      während es enorme Mengen Kohlenstoff bindet.
+
+
+      Später folgte die menschliche Nutzung. Im neunzehnten Jahrhundert bestritten die Linumer ihren
+      Lebensunterhalt mit Torfstich; aus den ausgebeuteten Torfstichen entstanden später Fischteiche. Ein Netz
+      aus Gräben leitete danach das Restwasser ab, um die Böden landwirtschaftlich als Weideland und Acker zu
+      nutzen. Meliorationsmaßnahmen wandelten die Moore in Grünland um. Das heutige Landschaftsbild Linums mit
+      seinen Teichen, Feuchtwiesen und Äckern ist das Resultat dieser Entwicklung.
+    wildlife: >-
+      Zwei Vogelarten prägen den Jahreslauf. Im Frühjahr kehren die [Weißstörche](/especie/ciconia_ciconia/)
+      ins Dorf zurück. Rund zehn Paare brüten regelmäßig in Linum, einem der storchenreichsten Dörfer
+      Brandenburgs, und nisten auf Dächern, Schornsteinen und Wagenrädern. Bei sommerlicher Besetzung des
+      Horsts auf dem Dach der Storchenschmiede lässt sich das Geschehen per Webcam live verfolgen. Im August
+      ziehen die Störche nach Afrika, wobei die Jungvögel zwei Wochen vor den Alttieren aufbrechen.
+
+
+      Dann schlägt die Stunde der [Kraniche](/especie/grus_grus/). Zwischen Mitte September und Anfang
+      November kannst du sie in Linum erleben, besonders beim morgendlichen Ausflug aus den Schlafplätzen und
+      beim abendlichen Einflug. Tagsüber suchen sie auf abgeernteten Maisfeldern nach Nahrung; in der
+      Dämmerung steuern sie die Teiche und überstauten Wiesen des Rhinluchs an. Die in Linum rastenden
+      Kraniche stammen überwiegend aus Finnland, dem Baltikum, Polen und Deutschland. Der Kranich misst
+      stehend bis zu 130 cm und seine Flügelspannweite übersteigt 220 cm; seine Rufe tragen kilometerweit.
+      Nicht alle ziehen weiter: Im Oberen Rhinluch brüten einzelne Paare, und immer mehr Kraniche überwintern
+      vor Ort.
+
+
+      An den Teichen lebt weitere verborgene Tierwelt: Die Storchenschmiede bietet ab April naturkundliche
+      Führungen zu den Amphibien der Linumer Teiche an.
+    visit: >-
+      Zentraler Anlaufpunkt ist die Storchenschmiede, das Umweltbildungszentrum in Linum. Die Einrichtung ist
+      von April bis Anfang November geöffnet; von Mitte September bis Anfang November zeigt sie eine
+      Ausstellung zum Graukranich mit Daten zum Rastgeschehen an den Linumer Teichen. Die Dauerausstellung
+      „Moor muss nass“ erläutert die Schutzbedeutung nasser Moore, Entwässerungsfolgen und Perspektiven der
+      Wiedervernässung.
+
+
+      Zur Vogelbeobachtung stehen mehrere Angebote bereit. Im Herbst veranstaltet die Storchenschmiede von
+      Mitte September bis Anfang November abendliche Führungen zum Einflug der Kraniche, im Oktober auch
+      morgendliche Exkursionen zum Abflug. Von April bis August finden Ortsführungen mit Spektiv-Beobachtung
+      der Störche statt. Eine einfache Rundwanderung von etwa zwei Stunden zu Natur und Vogelwelt der Linumer
+      Teiche startet an der Gartentür der Storchenschmiede. Bei Führungen werden Ferngläser kostenfrei
+      verliehen.
+
+
+      Von Berlin aus erreichst du Kremmen mit der Regionalbahn und radelst von dort etwa 12 km weiter nach
+      Linum, größtenteils auf verkehrsarmen Straßen.
+    history: >-
+      Die Zahlen verdeutlichen den historischen Verlust: Durch Torfabbau und Entwässerung wurden die Moore in
+      Deutschland im Lauf der Jahrhunderte zu 95 % zerstört. Ein degradiertes Moor verliert seine
+      Speicherfunktion und gibt erhebliche Treibhausgasmengen frei. Wie Moore regeneriert und nass
+      bewirtschaftet werden können, erforscht die Wissenschaft und zeigt die Ausstellung „Moor muss nass“.
+    before: >-
+      Kraniche lassen sich am besten aus gebührender Distanz beobachten, ohne sie aufzuschrecken. Halte nicht
+      am Straßenrand an, sondern nutze die ausgewiesenen Parkplätze. Verbleibe im Fahrzeug oder nutze Büsche
+      am Wegrand als Sichtblende, betrete keine Äcker und respektiere Zäune. Sichern die Kraniche aufmerksam
+      oder weichen sie aus, ziehe dich zurück. Geführte Kranichtouren erfordern eine rechtzeitige Anmeldung
+      per Telefon oder Mail.
+    around: >-
+      Andere Feuchtgebiete im Atlas teilen Kraniche und Moorlebensräume mit dem Rhinluch, wenngleich in weiter
+      Ferne: die [Schutzgebiete Deurnsche Peel und Mariapeel](/lugar/deurnsche-peel---mariapeel/), die
+      [Diepholzer Moorniederung](/lugar/diepholzer-moorniederung/) und das [Naturschutzgebiet
+      Fochteloërveen](/lugar/fochteloorveen---natuurreservaat/).
+  it:
+    intro: >-
+      Al calare della sera il cielo sopra un villaggio del Brandeburgo si riempie di gru. Volano a migliaia,
+      sorvolando i tetti delle case mentre i loro richiami squillanti echeggiano per le strade e le campagne.
+      Quel borgo è Linum, e il maestoso scenario è il Rhinluch — una vasta torbiera bassa nel nord del
+      Brandeburgo attraversata dal fiume Rhin, da cui prende il nome. Il solo Rhinluch superiore abbraccia
+      circa 23.000 ettari, e Linum, compreso nella riserva naturale Oberes Rhinluch, ne costituisce la porta
+      d'accesso.
+    landscape: >-
+      Per comprendere queste zone umide bisogna guardare indietro nel tempo geologico. Circa 16.000 anni fa le
+      acque di disgelo glaciale modellarono la valle primordiale di Eberswalde, dalla quale prese forma il
+      Rhinluch con il graduale prosciugamento. Per secoli crebbe come torbiera: una spugna vivente, poiché una
+      torbiera intatta è composta per il 95 per cento d'acqua, trattenendo e rilasciando lentamente l'umidità
+      e immagazzinando ingenti quantità di carbonio.
+
+
+      Poi giunsero le attività umane. Nel diciannovesimo secolo gli abitanti di Linum vivevano dell'estrazione
+      di torba; esauriti i banchi di torba, gli scavi allagati divennero stagni di piscicoltura. Un sistema di
+      canali drenò l'acqua residua per destinare il fertile terreno a pascolo e coltivazione agricola. Le
+      bonifiche agrarie trasformarono le torbiere in prati. Oggi il paesaggio di Linum con i suoi bacini, i
+      prati allagati e i campi coltivati è il frutto di questa vicenda storica.
+    wildlife: >-
+      L'anno ecologico ruota intorno a due specie alate. In primavera tornano al villaggio le [cicogne
+      bianche](/especie/ciconia_ciconia/). Circa dieci coppie nidificano regolarmente a Linum, uno dei
+      maggiori borghi di cicogne del Brandeburgo, costruendo il nido su tetti, comignoli e piattaforme. Quando
+      in estate il nido sul tetto della Storchenschmiede è occupato, si possono osservare i piccoli in diretta
+      tramite webcam. In agosto le cicogne ripartono per l'Africa, con i giovani che si involano due settimane
+      prima degli adulti.
+
+
+      Subentra quindi la stagione delle [gru cenerine](/especie/grus_grus/). Tra metà settembre e l'inizio di
+      novembre puoi ammirarle a Linum, in particolare all'alba quando lasciano i dormitori e al crepuscolo al
+      loro rientro. Di giorno cercano nutrimento nei campi di mais mietuti; al calar del sole volano verso gli
+      specchi d'acqua e i prati allagati del Rhinluch. Le gru in sosta a Linum provengono principalmente dai
+      siti riproduttivi di Finlandia, paesi baltici, Polonia e Germania. In posizione eretta la gru raggiunge
+      i 130 cm e la sua apertura alare supera i 220 cm; il suo verso si ode a chilometri di distanza. Non
+      tutte partono: alcune coppie nidificano nel Rhinluch superiore e un numero crescente vi trascorre
+      l'inverno.
+
+
+      Negli stagni ferve una vita più discreta: da aprile la Storchenschmiede organizza facili escursioni
+      dedicate agli anfibi dei bacini di Linum.
+    visit: >-
+      Tutto fa capo alla Storchenschmiede, il centro di educazione ambientale di Linum. La struttura è aperta
+      da aprile a inizio novembre; da metà settembre ai primi di novembre ospita una mostra dedicata alla gru
+      cenerina con dati sull'area di sosta degli stagni di Linum. La rassegna permanente «Moor muss nass»
+      spiega perché le torbiere debbano rimanere umide, le cause del drenaggio e le prospettive del ripristino
+      ecologico.
+
+
+      Per l'osservazione dell'avifauna sono disponibili varie opzioni. In autunno la Storchenschmiede
+      organizza uscite guidate per ammirare il rientro serale delle gru ai bacini, da metà settembre a inizio
+      novembre, e in ottobre passeggiate mattutine per vederle involarsi all'alba. Tra aprile e agosto le
+      visite guidate del borgo comprendono l'osservazione delle cicogne al cannocchiale. Un percorso
+      naturalistico pianeggiante di circa due ore attorno agli stagni parte direttamente dal cancello del
+      giardino. Ai partecipanti alle escursioni vengono prestati gratuitamente binocoli.
+
+
+      Da Berlino si raggiunge Kremmen in treno regionale, proseguendo per circa 12 km in bicicletta fino a
+      Linum su strade secondarie tranquille.
+    history: >-
+      I numeri restituiscono la misura di quanto perduto: con l'estrazione della torba e le bonifiche
+      agricole, le torbiere in Germania sono state distrutte per il 95 % nel corso dei secoli. Una torbiera
+      degradata cessa di accumulare carbonio e rilascia ingenti quantità di gas a effetto serra. La ricerca
+      indaga le tecniche di riumidificazione e uso sostenibile, argomenti illustrati nella mostra «Moor muss
+      nass».
+    before: >-
+      Le gru vanno osservate da debita distanza senza arrecare disturbo. Non sostare lungo le carreggiate:
+      utilizza le aree di parcheggio segnalate. Resta all'interno del veicolo o approfitta della vegetazione
+      ai margini dei percorsi come riparo visivo, senza entrare nei campi coltivati e rispettando le
+      recinzioni. Se le gru alzano il capo o si allontanano con passo svelto, arretra con cautela. Le
+      escursioni guidate richiedono la prenotazione telefonica o via email.
+    around: >-
+      Altre zone umide dell'atlante condividono la presenza delle gru e la tutela delle torbiere con il
+      Rhinluch, benché geograficamente distanti: le [riserve di Deurnsche Peel e
+      Mariapeel](/lugar/deurnsche-peel---mariapeel/), la [torbiera di
+      Diepholz](/lugar/diepholzer-moorniederung/) e la [riserva naturale di
+      Fochteloërveen](/lugar/fochteloorveen---natuurreservaat/).
+  pt:
+    intro: >-
+      Ao entardecer, o céu sobre uma aldeia de Brandeburgo enche-se de grous. Voam aos milhares, passando
+      rente aos telhados enquanto os seus chamamentos ressoam pelas ruas e campos abertos. Essa aldeia é
+      Linum, e o cenário grandioso é o Rhinluch — uma vasta turfeira baixa no norte de Brandeburgo atravessada
+      pelo rio Rhin, do qual herda o nome. Só o Rhinluch superior ocupa cerca de 23.000 hectares, e Linum,
+      situada no interior da reserva natural Oberes Rhinluch, é a sua principal porta de entrada.
+    landscape: >-
+      Para compreender estas zonas húmidas é preciso recuar no tempo geológico. Há cerca de 16.000 anos, as
+      águas de degelo glaciar abriram o vale proglaciar de Eberswalde, do qual nasceu o Rhinluch após o recuo
+      das águas. Durante séculos formou-se como turfeira: uma esponja natural viva, dado que uma turfeira
+      intacta é composta por 95 por cento de água, absorvendo e libertando humidade lentamente enquanto retém
+      enormes reservas de carbono.
+
+
+      Depois chegou a intervenção humana. No século XIX, as populações de Linum viviam da extração de turfa;
+      quando as jazidas se esgotaram, as depressões alagadas deram lugar a lagoas de piscicultura. Um sistema
+      de valas drenou depois a água remanescente para converter o solo fértil em pastagens e searas. Obras de
+      drenagem transformaram as turfeiras em prados. Hoje, o mosaico de lagoas, prados alagados e campos
+      agrícolas em Linum resulta dessa história secular.
+    wildlife: >-
+      O calendário natural organiza-se em torno de duas grandes aves. Na primavera regressam as
+      [cegonhas-brancas](/especie/ciconia_ciconia/) à aldeia. Cerca de dez casais nidificam com regularidade
+      em Linum, uma das principais aldeias de cegonhas de Brandeburgo, instalando os seus ninhos em telhados,
+      chaminés e plataformas. No verão, quando o ninho no telhado da Storchenschmiede está ocupado, é possível
+      acompanhar os juvenis em direto por webcam. Em agosto as cegonhas partem rumo a África, com os jovens a
+      iniciarem a viagem duas semanas antes dos adultos.
+
+
+      Chega então a época dos [grous-comuns](/especie/grus_grus/). Entre meados de setembro e o início de
+      novembro podes observá-los em Linum, em especial na partida matinal dos dormitórios e no regresso ao
+      crepúsculo. De dia alimentam-se nos milheirais ceifados; ao anoitecer voam para as lagoas e prados
+      alagados do Rhinluch. Os grous que descansam em Linum chegam sobretudo da Finlândia, dos países
+      bálticos, da Polónia e da Alemanha. De pé, o grou mede até 130 cm e a sua envergadura ultrapassa os 220
+      cm; o seu chamamento ouve-se a quilómetros de distância. Nem todos partem: alguns casais nidificam no
+      Rhinluch superior e um número crescente inverna na região.
+
+
+      Nas lagoas pulsa outra vida discreta: a Storchenschmiede organiza a partir de abril passeios dedicados
+      aos anfíbios das lagoas de Linum.
+    visit: >-
+      Tudo gira em torno da Storchenschmiede, o centro de educação ambiental de Linum. Aberto de abril ao
+      início de novembro, acolhe de meados de setembro ao início de novembro uma exposição dedicada ao
+      grou-comum e à sua paragem migratória em Linum. A mostra permanente «Moor muss nass» elucida sobre a
+      importância de manter as turfeiras húmidas, os impactos da drenagem e o potencial da renaturalização.
+
+
+      Existem várias opções para observar a avifauna. No outono, a Storchenschmiede dinamiza saídas guiadas
+      para acompanhar o regresso dos grous às lagoas, de meados de setembro ao início de novembro, e em
+      outubro passeios matinais para testemunhar a descolagem. De abril a agosto, os passeios pela aldeia
+      incluem observação de cegonhas com telescópio. Um percurso pedestre fácil de cerca de duas horas em
+      redor das lagoas parte diretamente do portão do centro. São emprestados binóculos durante as visitas
+      guiadas.
+
+
+      A partir de Berlim é possível viajar de comboio regional até Kremmen e pedalar cerca de 12 km até Linum
+      por estradas secundárias tranquilas.
+    history: >-
+      Os números ilustram a dimensão das perdas: com a extração de turfa e a agricultura intensiva, as
+      turfeiras da Alemanha foram destruídas em 95 % ao longo dos séculos. Uma turfeira degradada perde a
+      função de sumidouro e liberta volumes maciços de gases com efeito de estufa. A recuperação ecológica e a
+      paludicultura são temas explorados na exposição «Moor muss nass».
+    before: >-
+      Os grous devem ser contemplados a distância respeitosa e sem perturbação. Não pares na berma da estrada:
+      utiliza os parques de estacionamento assinalados. Permanece no automóvel ou abriga-te atrás da vegetação
+      dos caminhos, sem entrar nas parcelas agrícolas e respeitando as vedações. Se os grous levantarem a
+      cabeça ou se afastarem apressados, recua de imediato. Os passeios guiados requerem inscrição prévia por
+      telefone ou correio eletrónico.
+    around: >-
+      Outras zonas húmidas do atlas partilham o grou-comum e a conservação de turfeiras com o Rhinluch, embora
+      distantes: as [reservas de Deurnsche Peel e Mariapeel](/lugar/deurnsche-peel---mariapeel/), os [sapais
+      de Diepholz](/lugar/diepholzer-moorniederung/) e a [reserva natural de
+      Fochteloërveen](/lugar/fochteloorveen---natuurreservaat/).
+fuentes:
+  - url: https://storchenschmiede.de/?p=2070
+    titulo: Natur erleben in der Storchenschmiede Linum
+    fecha_consulta: '2026-10-29'
+  - url: https://storchenschmiede.de/termine/
+    titulo: 'Termine 2026: Führungen, Ausstellungen, Vorträge'
+    fecha_consulta: '2026-10-29'
+  - url: https://de.wikipedia.org/wiki/Rhinluch
+    titulo: Rhinluch – Wikipedia
+    fecha_consulta: '2026-10-29'
+  - url: https://storchenschmiede.de/natur-in-linum/moor/
+    titulo: Moor-Ausstellung
+    fecha_consulta: '2026-10-29'
+  - url: https://storchenschmiede.de/natur-in-linum/kraniche/
+    titulo: Kraniche in Linum in Brandenburg
+    fecha_consulta: '2026-10-29'
+  - url: https://storchenschmiede.de/natur-in-linum/weisstorch/
+    titulo: 'Weißstörche in Linum: Beobachtung und Infos'
+    fecha_consulta: '2026-10-29'
+  - url: https://storchenschmiede.de/natur-in-linum/
+    titulo: 'Entdecke die Natur in Linum: Störche, Kraniche & Froschteiche'
+    fecha_consulta: '2026-10-29'
+fotos:
+  - pagina_commons: https://commons.wikimedia.org/wiki/File:Alter_Rhin_Oberes_Rhinluch_2020-05-15_01.jpg
+    autor: Leonhard Lenz
+    licencia: CC0
+    url_licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    fecha_descarga: '2026-10-21'
